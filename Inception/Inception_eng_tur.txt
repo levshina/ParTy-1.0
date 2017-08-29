@@ -1,0 +1,2105 @@
+﻿1	Are you here to kill me ? 	Beni öldürmeye mi geldin ? 
+2	I know what this is . 	Bunun ne olduğunu biliyorum . 
+3	I 've seen one before . 	Uzun yıllar önce ... bunlardan bir tane görmüştüm . 
+4	Many , many years ago . 	Uzun yıllar önce ... bunlardan bir tane görmüştüm . 
+5	It belonged to a man I met in a half-remembered dream . 	Yarı hatırladığım bir rüyada tanıştığım bir adama aitti . 
+6	A man possessed of some radical notions . 	Bazı radikal fikirleri saplantı haline getirmiş bir adamdı . 
+7	What is the most resilient parasite ? 	En dirençli parazit hangisidir ? 
+8	A bacteria ? 	Bakteri mi ,
+9	A virus ? 	virüs mü ? 
+10	An intestinal worm ? 	- Bağırsak solucanı mı ? 
+11	Uh ... 	
+12	What Mr . Cobb is trying to say -- 	Bay Cobb'un söylemeye çalıştığı şey ...
+13	An idea . 	Fikir . 
+14	Resilient . 	Dirençlidir ve çok çabuk yayılır . 
+15	Highly contagious . 	ve çok çabuk yayılır .
+16	Once an idea has taken hold of the brain , it 's almost impossible to eradicate . 	Fikir beyine bir kez yerleşti mi yerinden sökmek neredeyse imkânsızdır . 
+17	An idea that is fully formed , fully understood , that sticks . 	İyice şekillenmiş ve kavranmış bir fikir ... 
+18	Right in there somewhere . 	burada bir yere saplanıp kalır . 
+19	For someone like you to steal ? 	Senin gibi biri çalsın diye mi ? 
+20	Yes . 	Evet , 
+21	In the dream state , your conscious defenses are lowered ... 	rüya halindeyken bilinciniz korunmasız kalır ... 
+22	and that makes your thoughts vulnerable to theft . 	bu da düşüncelerinizi tehditlere karşı savunmasız kılar . 
+23	It 's called extraction . 	Buna fikir çalma denir . 
+24	Mr . Saito , we can train your subconscious to defend itself ... 	Bay Saito , bilinçaltınızı en yetenekli hırsıza karşı bile ... 
+25	from even the most skilled extractor . 	kendini koruyacak şekilde eğitebiliriz . 
+26	How can you do that ? 	- Bu nasıl olabilir ki ? 
+27	Because I am the most skilled extractor . 	Çünkü en yetenekli hırsız benim.
+28	I know how to search your mind and find your secrets . 	Sırlarınızı bulmak için zihninizde nereyi araştırmam gerektiğini biliyorum . 
+29	I know the tricks . 	Hileleri biliyorum . 
+30	And I can teach them to you , so that even when you 're asleep ... 	Size uyuduğunuzda bile savunmanızın asla çökmemesini öğretebilirim . 
+31	your defense is never down . 	Size uyuduğunuzda bile savunmanızın asla çökmemesini öğretebilirim . 
+32	Look , if you want my help , you 're gonna have to be completely open with me . 	Ama yardımımı istiyorsanız bana karşı tamamen açık olmalısınız . 
+33	I need to know my way around your thoughts better than your wife ... 	Aklınızdan geçenleri eşinizden , terapistinizden ... 
+34	better than your therapist , better than anyone . 	herkesten iyi bilmeliyim . 
+35	If this is a dream , and you have a safe full of secrets ... 	Rüyada olsak ve sırlarla dolu bir kasanız olsa ,
+36	I need to know what 's in that safe . 	o kasada neler olduğunu bilmeliyim . 
+37	In order for this all to work , you need to completely let me in . 	İşlerin sorunsuz yürümesi için , zihninize tamamen girmeme izin vermelisiniz . 
+38	Enjoy your evening , gentlemen , as I consider your proposal . 	Ben teklifinizi düşünürken ... siz keyfinize bakın beyler . 
+39	He knows . 	Biliyor . 
+40	What 's going on up there ? 	Orada neler oluyor ? 
+41	Saito knows . 	Saito biliyor . 
+42	He 's playing with us . 	- Bizimle oynuyor . 
+43	Does n't matter . 	- Fark etmez . 
+44	I can get it here . 	Yapabilirim ,
+45	Trust me . 	güven bana . 
+46	The information is in the safe . 	Bilgi kasada duruyor . 
+47	He looked right at it when I mentioned secrets . 	Sırlardan bahsettiğimde direk oraya baktı . 
+48	What 's she doing here ? 	Onun burada ne işi var ? 
+49	Just head back to the room . 	Sen odaya dön , 
+50	All right ? 	
+51	I 'll take care of this . 	ben hallederim . 
+52	Okay , make sure you do . 	Tamam ama kesin hallet ,
+53	We 're here to work . 	 iş için buradayız . 
+54	If I jumped , would I survive ? 	Atlarsam sağ kalır mıyım ? 
+55	With a clean dive , perhaps . 	Düzgün atlarsan belki . 
+56	Mal , what are you doing here ? 	- Mal , burada ne arıyorsun ? 
+57	I thought you might be missing me . 	Beni özlemiş olabileceğini düşündüm.
+58	You know that I am . 	Özlediğimi biliyorsun 
+59	But I ca n't trust you anymore . 	ama artık sana güvenemem . 
+60	So what ? 	Ne olmuş ? 
+61	Looks like Arthur 's taste . 	Arthur 'un zevkine benziyor . 
+62	Actually , the subject is partial to postwar British painters . 	Öznemiz İngiliz ressamlara düşkün . 
+63	Please , have a seat . 	Otur lütfen . 
+64	Tell me ... 	Söylesene , 
+65	do the children miss me ? 	çocuklar beni özlüyor mu ? 
+66	You ca n't imagine . 	Hayal bile edemezsin . 
+67	What are you doing ? 	- Ne yapıyorsun ? 
+68	Just getting some fresh air . 	Biraz hava alacağım.
+69	Stay where you are , Mal . 	Olduğun yerde kal Mal . 
+70	Goddamn it . 	Kahretsin . 
+71	Turn around . 	Arkanı dön . 
+72	The gun , Dom . 	Silahını indir Dom . 
+73	Please . 	Lütfen . 
+74	Now the envelope , Mr . Cobb . 	Şimdi de zarfı verin Bay Cobb . 
+75	Did she tell you ? 	O mu söyledi ... 
+76	Or have you known all along ? 	yoksa başından beri biliyor muydun ? 
+77	That you 're here to steal from me , or that we are actually asleep ? 	Hırsızlığa geldiğini mi yoksa şu anda uykuda olduğumuzu mu ? 
+78	I want to know the name of your employer . 	İşvereninin adını bilmek istiyorum . 
+79	Ah , there 's no use threatening him in a dream , right , Mal ? 	Rüyada birini tehdit edemezsin değil mi Mal ? 
+80	That depends on what you 're threatening . 	Tehdidin ne olduğuna bağlı . 
+81	Killing him would just wake him up . 	Onu öldürürsek sadece uyanır . 
+82	But pain ... 	Ama acı ... 
+83	Pain is in the mind . 	acı zihnindedir . 
+84	And judging by the decor , we 're in your mind , are n't we , Arthur ? 	Dekora bakılırsa şu an senin zihnindeyiz değil mi Arthur ? 
+85	- What are you doing ? 	Ne yapıyorsun , 
+86	It 's too soon . 	daha çok erken ! 
+87	- But the dream 's collapsing . 	Biliyorum ama rüya çöküyor.
+88	I 'm gonna try to keep Saito under a little bit longer . 	Saito 'yu biraz daha uykuda tutmaya çalışacağım . 
+89	We 're almost there . 	Ulaşmak üzereyiz . 
+90	He was close . 	
+91	Very close . 	
+92	Stop him ! 	Durdurun onu ! 
+93	This is n't gonna work . 	İşe yarıyor galiba . 
+94	Wake him up . 	Uyandır onu . 
+95	He wo n't wake . 	Uyan ! 
+96	- Give him the kick . 	- Dürt onu . 
+97	- What ? 	- Ne ? 
+98	Dunk him . 	Suya it . 
+99	He 's out . 	Uyandı . 
+100	You came prepared , hmm ? 	Hazırlıklıydınız . 
+101	Not even my head of security knows this apartment . 	Güvenlik şefim bile bu evi bilmiyor . 
+102	How did you find it ? 	Siz nasıl buldunuz ? 
+103	It 's difficult for a man of your position to keep a love nest like this secret ... 	Sizin pozisyonunuzdaki bir adamın ... böyle bir aşk yuvasını gizli tutması kolay değil . 
+104	particularly where there 's a married woman involved . 	Özellikle de işin içinde evli bir kadın varsa . 
+105	- She would never ... 	- O asla söylemez . 
+106	- Yet here we are . 	- Neyse , işte buradayız . 
+107	- With a dilemma . 	- Sorunu çözmek için . 
+108	- They 're getting closer . 	- Yaklaşıyorlar . 
+109	- You got what you came for . 	İstediğinizi aldınız . Bu doğru değil . 
+110	- Well , that 's not true . 	
+111	You left out a key piece of information , did n't you ? 	Önemli bir bilgiyi atladınız değil mi ? 
+112	You held something back because you knew what we were up to . 	Sakladınız çünkü ne yapacağımızı biliyordunuz . 
+113	- Question is , why 'd you let us in at all ? 	Peki neden zihninize girmemize izin verdiniz ? 
+114	- An audition . 	Test için . 
+115	- An audition for what ? 	Ne testi ?
+116	- Does n't matter . 	 Önemi yok . 
+117	You failed . 	Başarısız oldunuz . 
+118	We extracted every bit of information you had in there . 	Zihninizdeki tüm bilgiyi ele geçirdik . 
+119	But your deception was obvious . 	Ama hileniz çok belli oluyordu . 
+120	- So leave me and go . 	Bu yüzden ... beni rahat bırakın . 
+121	- You do n't seem to understand , Mr . Saito . 	Anlamıyorsunuz Bay Saito . 
+122	That corporation that hired us , they wo n't accept failure . 	Bizi kiralayan şirket başarısızlığı kabul etmez . 
+123	We wo n't last two days . 	İki gün bile dayanamayız . 
+124	Cobb ? 	Cobb . 
+125	Looks like I 'm gonna have to do this a little more simply . 	Biraz daha basit anlatmalıyım galiba . 
+126	Tell us what you know ! 	Bildiklerini anlat ! Bildiklerini anlat hemen ! 
+127	Tell us what you know , now ! 	
+128	I 've always hated this carpet . 	Bu halıdan hep nefret etmişimdir . 
+129	It 's stained and frayed in such distinctive ways . 	Çok lekeli ve rengi solmuş . 
+130	But very definitely made of wool . 	Buradan , yün halı olduğunu anlayabilirsiniz . 
+131	Right now ... 	Şu andaysa polyester . 
+132	I m lying on polyester . 	Şu andaysa polyester . 
+133	Which means I m not lying on my carpet , in my apartment . 	Yani kendi evimdeki halının üzerinde yatmıyorum . 
+134	You have lived up to your reputation , Mr . Cobb . 	Şöhretinizin hakkını verdiniz Bay Cobb . 
+135	I 'm still dreaming . 	Hâlâ rüyadayım . 
+136	- How 'd it go ? 	- Nereye gitti . 
+137	- Not good . 	- Para alamıyoruz . 
+138	Dream within a dream , huh ? 	Rüya içinde rüya demek ? Çok etkilendim . 
+139	I 'm impressed . 	
+140	But in my dream , you play by my rules . 	Ama benim rüyamda benim kurallarım geçerlidir . 
+141	Ah , yes , but you see , Mr . Saito ... 	- Evet Bay Saito ama belli ki ... 
+142	We 're not in your dream . 	- Evet Bay Saito ama belli ki ... 
+143	We 're in mine . 	Benim rüyam . 
+144	Asshole . 	- Aptal , halıyı nasıl atlarsın ? 
+145	How do you mess up the carpet ? 	- Benim hatam değildi . 
+146	- It was n't my fault . 	- Mimar sensin . 
+147	- You 're the architect . 	- Mimar sensin . 
+148	I did n't know he was gonna rub his cheek on it ! 	- Mimar sensin . 
+149	That 's enough . 	Yeter . 
+150	You . 	- Neydi o öyle ? 
+151	What the hell was all that ? 	- Her şey kontrolüm altında . 
+152	- I have it under control . 	Kontrolden çıkmış hâlini görmek istemem . 
+153	- I 'd hate to see you out of control . 	Buna vaktimiz yok . 
+154	We do n't have time for this . 	Buna vaktimiz yok . 
+155	I 'm getting off at Kyoto . 	- Ben Kyoto 'da iniyorum . 
+156	He 's not gonna check every compartment . 	- Ben Kyoto 'da iniyorum . 
+157	Yeah , well , I do n't like trains . 	Trenleri sevmem . 
+158	Listen . 	Trenleri sevmem . 
+159	Every man for himself . 	Artık herkes kendi başına . 
+160	Yes , hello ? 	Alo ? 
+161	- Hi , Daddy . 	- Merhaba babacığım . 
+162	- Hi , Dad . 	- Merhaba baba . 
+163	Hey , guys . 	Merhaba çocuklar . Nasılsınız , nasıl gidiyor ? 
+164	Hey . 	- İyi . 
+165	How are you ? 	- İdare eder galiba . 
+166	How you doing , huh ? 	- İdare eder galiba . 
+167	- Good . 	- İdare eder galiba . 
+168	- Okay , I guess . 	İdare eder mi ? 
+169	Okay ? 	- Kim idare eder dedi , sen mi James ? 
+170	Who 's just okay ? 	- Evet . 
+171	Is that you , James ? 	
+172	Yeah . 	Ne zaman eve geleceksin baba ? 
+173	When are you coming home , Dad ? 	
+174	Well , I ca n't , sweetheart . 	Gelemem tatlım , gelemem . Bir süre gelemem demiştim unuttun mu ? 
+175	I ca n't . 	Neden ? 
+176	Not for a while , remember ? 	Neden ? 
+177	Why ? 	Neden ? 
+178	Look , I told you , I m away because I m working , right ? 	İş için gittiğimi söylemiştim sana . Değil mi ? 
+179	Grandma says you 're never coming back . 	Büyükannem hiç dönmeyeceğini söyledi . 
+180	Phillipa , is that you ? 	Phillipa , sen misin ? 
+181	Put Grandma on the phone for me , will you ? 	Telefonu büyükannene verir misin ? 
+182	She 's shaking her head . 	Başını sallıyor . 
+183	Well , just hope she 's wrong about that . 	Bu konuda yanıldığını umalım . 
+184	Daddy ? 	Babacığım ? 
+185	Yeah , James ? 	Evet James ? 
+186	Is Mommy with you ? 	Annem senin yanında mı ? 
+187	James , we talked about this . 	James , bunu konuşmuştuk . 
+188	Mommy 's not here anymore . 	Annen artık burada değil . 
+189	Where ? 	Nerede ? 
+190	That 's enough , kids . 	Yeter çocuklar , babanıza hoşça kal deyin . 
+191	Say bye-bye . 	Büyükbabanızla size birkaç hediye göndereceğim tamam mı ? 
+192	Listen , I m gonna send some presents with Grandpa , all right ? 	Büyükbabanızla size birkaç hediye göndereceğim tamam mı ? 
+193	And you be good , you be -- 	Uslu olun . 
+194	- Our ride 's on the roof . 	- Helikopter çatıda . 
+195	- Right . 	- Tamam . 
+196	Hey , are you okay ? 	İyi misin ? 
+197	Yeah . 	Evet iyiyim , neden ? 
+198	Yeah , I m fine . 	
+199	Why ? 	
+200	Well , down in the dream , Mal showing up . 	Rüyada takılıp kaldın , Mal ortaya çıktı . 
+201	Look , I m , uh , sorry about your leg . 	Bacağın için üzgünüm . 
+202	Wo n't happen again . 	Bir daha olmayacak . 
+203	- It 's getting worse , is n't it ? 	- Gittikçe kötüleşiyor değil mi ? 
+204	- One apology 's all you 're getting , all right ? 	- Özür diledim bitti , tamam mı Arthur ? 
+205	- Where 's Nash ? 	- Nash nerede ? 
+206	- He has n't shown . 	- Daha gelmedi . 
+207	You wanna wait ? 	Bekleyecek miyiz ? 
+208	We were supposed to deliver Saito 's expansion plans ... 	Hayır , Saito 'nun plânlarını iki saat önce Cobol Mühendislik 'e götürmeliydik . 
+209	to Cobol Engineering two hours ago . 	Hayır , Saito 'nun plânlarını iki saat önce Cobol Mühendislik 'e götürmeliydik . 
+210	By now , they know we failed . 	Başaramadığımızı anlamışlardır . Ortadan kaybolma vakti geldi . 
+211	It 's time we disappear . 	
+212	- Where you gonna go ? 	- Nereye gideceksin ? 
+213	- Buenos Aires . 	- Buenos Aires 'e . 
+214	I can lie low there , maybe sniff out a job when things quiet down . 	Orada dikkat çekmem . 
+215	You ? 	Ortalık durulunca da bir iş bakarım . 
+216	Stateside . 	- Sen ? 
+217	Send my regards . 	Selam söyle . 
+218	He sold you out . 	Sizi sattı . 
+219	Thought to come to me and bargain for his life . 	Bana gelip hayatı üzerine pazarlık yaptı . 
+220	So I offer you the satisfaction . 	Bu zevki sana bırakıyorum . 
+221	It 's not the way I deal with things . 	Ben işleri bu şekilde halletmem . 
+222	- What will you do with him ? 	Ona ne yapacaksın ? Hiçbir şey . 
+223	- Nothing . 	
+224	But I ca n't speak for Cobol Engineering . 	Ama Cobol Mühendislik adına konuşamam . 
+225	- What do you want from us ? 	Bizden ne istiyorsun ? Fikir aşılama . 
+226	- Inception . 	
+227	- Is it possible ? 	- Bu mümkün mü ? 
+228	- Of course not . 	- Tabii ki hayır . 
+229	If you can steal an idea from someone 's mind ... 	Zihinden fikir çalabiliyorsanız neden yerleştiremeyesiniz ki ? 
+230	why ca n't you plant one there instead ? 	Zihinden fikir çalabiliyorsanız neden yerleştiremeyesiniz ki ? 
+231	Okay , here 's me planting an idea in your head . 	Tamam , zihnine bir fikir yerleştireyim . 
+232	I say , Do n't think about elephants . 	Sana filler hakkında düşünme desem ... ne düşünürsün ? 
+233	What are you thinking about ? 	
+234	Elephants . 	Filleri . 
+235	Right . 	Evet
+236	But it 's not your idea , because you know I gave it to you . 	ama bu senin fikrin değil çünkü onu sana benim verdiğimi biliyorsun . 
+237	The subject 's mind can always trace the genesis of the idea . 	Kişinin zihni fikrin kaynağını daima bulabilir . 
+238	- True inspiration 's impossible to fake . 	Gerçek ilham taklit edilemez . Bu doğru değil . 
+239	- That 's not true . 	
+240	- Can you do it ? 	- Yapabilir misin ? 
+241	- Are you offering me a choice ? 	- Başka seçenek sunuyor musun ? 
+242	Because I can find my own way to square things with Cobol . 	Çünkü Cobol 'la meselemi çözmenin bir yolunu bulabilirim . 
+243	Then you do have a choice . 	O zaman seçeneğin var demektir . 
+244	Then I choose to leave , sir . 	Ayrılmayı seçiyorum efendim . 
+245	Tell the crew where you want to go . 	Mürettebata nereye gitmek istediğini söyle . 
+246	Hey , Mr . Cobb . 	Bay Cobb ! 
+247	How would you like to go home ? 	Eve gitmek ister miydin ? 
+248	To America . 	Amerika 'ya , çocuklarına . 
+249	To your children . 	
+250	You ca n't fix that . 	Bunu sağlayamazsın . Kimse yapamaz . 
+251	No one can . 	
+252	- Just like inception . 	Tıpkı fikir aşılama gibi . 
+253	- Cobb , come on . 	Cobb , haydi gel . 
+254	- How complex is the idea ? 	Fikir ne kadar karışık ? Oldukça basit . 
+255	- Simple enough . 	Başka birinin zihnine yerleştirmeniz gerektiğinde hiçbir fikir basit değildir . 
+256	No idea is simple when you need to plant it in somebody else 's mind . 	Başka birinin zihnine yerleştirmeniz gerektiğinde hiçbir fikir basit değildir . 
+257	My main competitor is an old man in poor health . 	En büyük rakibim çok hasta yaşlı bir adam . 
+258	His son will soon inherit control of the corporation . 	Yakında şirketin başına oğlu geçecek . 
+259	I need him to decide to break up his father 's empire . 	Babasının imparatorluğunu parçalamaya karar vermesini istiyorum . 
+260	- Cobb , we should walk away from this . 	- Cobb bu işten uzak durmalıyız . 
+261	- Hold on . 	- Bekle . 
+262	If I were to do this , if I even could do it ... 	Bunu yaparsam , yapabilirsem ... 
+263	I d need a guarantee . 	garanti isterim . 
+264	- How do I know you can deliver ? 	Söylediğini yapabileceğini nereden bileyim ? Bilemezsin . 
+265	- You do n't . 	
+266	But I can . 	Ama yapabilirim . 
+267	So do you want to take a leap of faith ... 	Peki ... kalbinin sesini mi dinleyeceksin ... 
+268	or become an old man , filled with regret ... 	yoksa kalbi pişmanlıkla dolu yaşlı bir adam olarak ... 
+269	waiting to die alone ? 	yalnız ölmeyi mi bekleyeceksin ? 
+270	Assemble your team , Mr . Cobb . 	Takımını topla Bay Cobb ... 
+271	And choose your people more wisely . 	ve takım arkadaşlarını daha iyi seç . 
+272	Look , I know how much you wanna go home . 	Eve gitmeyi ne kadar istediğini biliyorum . 
+273	This ca n't be done . 	Ama bu mümkün değil . 
+274	Yes , it can . 	Evet mümkün . 
+275	Just have to go deep enough . 	- Yeterince derine inmek gerekiyor . 
+276	You do n't know that . 	- Yeterince derine inmek gerekiyor . 
+277	I 've done it before . 	Daha önce yaptım . 
+278	Who 'd you do it to ? 	Kime yaptın ? 
+279	Why are we going to Paris ? 	Paris 'e mi gidiyoruz ? 
+280	We 're gonna need a new architect . 	Yeni bir mimara ihtiyacımız var . 
+281	You never did like your office , did you ? 	Ofisini hiçbir zaman sevemedin değil mi ? 
+282	No space to think in that broom cupboard . 	O odada düşünecek yer yok . 
+283	Is it safe for you to be here ? 	Burada olman güvenli mi ? 
+284	Extradition between France and the United States ... 	Biliyorsun , Fransa ve Amerika arasında suçlu iadesi tam bir bürokratik kâbus . 
+285	is a bureaucratic nightmare , you know that . 	Biliyorsun , Fransa ve Amerika arasında suçlu iadesi tam bir bürokratik kâbus . 
+286	I think they might find a way to make it work in your case . 	Senin davanda işi kolaylaştırmanın bir yolunu bulacaklarına eminim . 
+287	Look , I , uh , brought these for you to give to the kids when you have a chance . 	Fırsatını bulunca bunu çocuklara vermeni istiyorum . 
+288	It 'll take more than the occasional stuffed animal ... 	Çocukları hâlâ bir babaları olduğuna ikna etmek için ... 
+289	to convince those children they still have a father . 	oyuncak hayvanlardan daha fazlası gerekiyor . 
+290	I 'm just doing what I know . 	Sadece bildiğim , bana öğrettiğin işi yapıyorum . 
+291	I 'm doing what you taught me . 	
+292	I never taught you to be a thief . 	Sana hırsız olmayı öğretmedim . 
+293	No , you taught me to navigate people 's minds . 	İnsanların zihninde dolaşmayı öğrettin . 
+294	But after what happened ... 	İnsanların zihninde dolaşmayı öğrettin . 
+295	there were n't a whole lot of legitimate ways for me to use that skill . 	Sonra da bunlar oldu . Bu yeteneğimi yasal işlerde kullanma şansım yoktu . 
+296	What are you doing here , Dom ? 	Burada ne işin var Dom ? 
+297	I think I found a way home . 	Eve dönmenin bir yolunu buldum galiba . 
+298	It 's a job for some very , very powerful people . 	Çok güçlü insanlar adına bir iş yapacağım . 
+299	People who I believe can fix my charges permanently . 	Hakkımdaki suçlamaları tamamen düşürebileceğine inandığım insanlar . 
+300	But I need your help . 	Ama yardımına ihtiyacım var . 
+301	You 're here to corrupt one of my brightest and best . 	En iyi öğrencilerimden birinin aklını çelmeye geldin . 
+302	You know what I m offering . 	Teklifimi biliyorsun . 
+303	Let them decide for themselves . 	Kararı onlara bırakmalısın . 
+304	- Money . 	- Para . 
+305	- Not just money . 	- Para . 
+306	You remember . 	- Para . 
+307	It 's the chance to build cathedrals , entire cities ... 	Katedraller , tüm bir şehir , gerçek dünyada var olmayan ... 
+308	things that never existed ... 	Katedraller , tüm bir şehir , gerçek dünyada var olmayan ... 
+309	things that could n't exist in the real world . 	asla var olamayacak şeyleri inşa etme fırsatı . 
+310	So you want me to let someone else follow you into your fantasy ? 	Bir başkasının senin hayaline dahil olmasını sağlamamı istiyorsun . 
+311	They do n't actually come into the dream . 	Rüyaya girmeleri gerekmiyor . 
+312	They just design the levels and teach them to the dreamers . 	Sadece katmanları tasarlayıp rüyaya gireceklere öğretmeleri gerek , hepsi bu . 
+313	That 's all . 	
+314	Design it yourself . 	Kendin tasarla . 
+315	Mal wo n't let me . 	Mal izin vermez . 
+316	Come back to reality , Dom . 	Gerçekliğe dön Dom . 
+317	- Please . 	- Lütfen . 
+318	- Reality . 	- Gerçeklik mi ? 
+319	Those kids , your grandchildren ... 	O çocuklar , senin torunların ... 
+320	they 're waiting for their father to come back home . 	babalarının eve dönmesini bekliyorlar . 
+321	That 's their reality . 	Onların gerçekliği bu . 
+322	And this job , this last job , that 's how I get there . 	Bu iş , bu son iş sayesinde oraya dönebileceğim . 
+323	I would not be standing here if I knew any other way . 	Başka bir yolunu bilseydim şimdi burada olmazdım . 
+324	I need an architect who 's as good as I was . 	Bir zamanlar benim olduğum kadar iyi bir mimara ihtiyacım var . 
+325	I 've got somebody better . 	Daha iyi biri var . 
+326	Ariadne ? 	Ariadne ? 
+327	I 'd like you to meet Mr . Cobb . 	Bay Cobb ile tanışmanı istiyorum . 
+328	Pleased to meet you . 	Memnun oldum . 
+329	If you have a few moments , Mr . Cobb has a job offer he 'd like to discuss with you . 	Biraz vaktin varsa , Bay Cobb sana bir iş teklif etmek istiyor . 
+330	A work placement ? 	- Eleman mı arıyorsunuz ? 
+331	Not exactly . 	- Eleman mı arıyorsunuz ? 
+332	I have a test for you . 	Bir test çözmeni istiyorum . 
+333	You 're not gonna tell me anything first ? 	Önce işten bahsetmeyecek misin ? 
+334	Before I describe the job , I have to know you can do it . 	İşi anlatmadan önce yapabileceğinden emin olmalıyım . 
+335	- Why ? 	Neden ? Tam olarak yasal bir iş sayılmaz . 
+336	- It s not , strictly speaking , legal . 	
+337	You have two minutes to design a maze that it takes one minute to solve . 	Bir dakikada çözülebilecek bir labirent çizmek için iki dakikan var . 
+338	Stop . 	Dur . 
+339	Again . 	Tekrar . 
+340	Stop . 	Dur . 
+341	You 're gonna have to do better than that . 	Daha iyi olmalısın . 
+342	That 's more like it . 	Bu daha iyi . 
+343	They say we only use a fraction of our brain 's true potential . 	Beynimizin gerçek kapasitesinin çok az bir kısmını kullandığımız söylenir . 
+344	Now , that 's when we 're awake . 	Uyanıkken böyledir . 
+345	When we 're asleep , our mind can do almost anything . 	Uykudayken zihnimizin yapamayacağı bir şey yok gibidir . 
+346	Such as ? 	Ne gibi ? 
+347	Imagine you 're designing a building . 	Bir bina tasarladığını düşün . Her cephesini düşünerek oluşturursun ... 
+348	You consciously create each aspect . 	ama bazen sanki kendiliğinden oluşmuş gibi hissedersin . 
+349	But sometimes , it feels like it 's almost creating itself , if you know what I mean . 	ama bazen sanki kendiliğinden oluşmuş gibi hissedersin . 
+350	Yeah , like I 'm discovering it . 	- Sanki keşfediyormuşum gibi olur . 
+351	Genuine inspiration , right ? 	- Sanki keşfediyormuşum gibi olur . 
+352	Now , in a dream , our mind continuously does this . 	Rüyadayken zihnimiz sürekli bunu yapar . 
+353	We create and perceive our world simultaneously . 	Yarattığımız dünyayı eş zamanlı olarak algılarız . 
+354	And our mind does this so well that we do n't even know it 's happening . 	Zihnimiz bunu öyle iyi yapar ki farkına bile varmayız . 
+355	That allows us to get right in the middle of that process . 	Bu da o sürecin ortasına girmemize şans tanıyor . 
+356	- How ? 	- Nasıl ? 
+357	- By taking over the creating part . 	- Yaratıcılık kısmını devralarak . 
+358	Now , this is where I need you . 	İşte burada sana ihtiyacım var . 
+359	You create the world of the dream . 	Hayal dünyasını yaratacaksın . 
+360	We bring the subject into that dream , and they fill it with their subconscious . 	Özneyi o rüyaya sokacağız ... ve bilinçaltı o dünyayı kaplayacak . 
+361	How could I ever acquire enough detail to make them think that it 's reality ? 	Gerçek olduğunu düşünmelerini sağlayacak kadar detayı nasıl yaratacağım ? 
+362	Well , dreams , they feel real while we 're in them , right ? 	Rüyadayken gördüklerimiz bize gerçek gibi gelir değil mi ? 
+363	It 's only when we wake up that we realize something was actually strange . 	Ancak uyandığımızda bir tuhaflık olduğunu fark ederiz . 
+364	Let me ask you a question . 	Bir şey sorayım . 
+365	You never really remember the beginning of a dream , do you ? 	Bir şey sorayım . 
+366	You always wind up right in the middle of what 's going on . 	Olup bitenin ortasında bulursun kendini . 
+367	I guess , yeah . 	- Sanırım evet . 
+368	So how did we end up here ? 	- Sanırım evet . 
+369	Well , we just came from the , uh ... 	Şeyden geldik ... 
+370	Think about it , Ariadne . 	Düşün Ariadne , buraya nasıl geldin ? 
+371	How did you get here ? 	
+372	Where are you right now ? 	Şu an neredesin ? 
+373	We 're dreaming ? 	- Rüyada mıyız ? 
+374	You 're in the middle of the workshop , sleeping . 	- Rüyada mıyız ? 
+375	This is your first lesson in shared dreaming . 	Bu rüya paylaşımı konusunda ilk dersin . Haydi bakalım . 
+376	Stay calm . 	
+377	If it 's just a dream , then why are you -- ? 	Rüyadaysak niye yüzünü kapatıyorsun ? 
+378	Because it 's never just a dream , is it ? 	Çünkü sadece bir rüya değil . 
+379	And a face full of glass hurts like hell . 	Yüzüne cam yağarsa çok acır . 
+380	When you 're in it , it feels real . 	Gerçek gibi hissedersin . 
+381	That 's why the military developed dream sharing . 	Bu yüzden ordu eğitim programında rüya paylaşımını uyguluyor . 
+382	It was a training program for soldiers to shoot , stab and strangle each other ... 	Askerler birbirini vurup , bıçaklayıp , boğduktan sonra uyanıyor . 
+383	and then wake up . 	
+384	How did architects become involved ? 	Mimara neden ihtiyacınız var ? 
+385	Well , someone had to design the dreams , right ? 	Birinin rüyayı tasarlaması gerekiyor değil mi ? 
+386	Why do n't you give us another five minutes ? 	Beş dakika daha deneyelim . 
+387	Five minutes ? 	Beş dakika mı ? Ama en az bir saat konuştuk . 
+388	What -- ? 	
+389	We were talking for , like , at least an hour . 	
+390	In a dream , your mind functions more quickly ... 	Rüyada beyin fonksiyonlarımız daha hızlı çalışır , 
+391	therefore time seems to feel more slow . 	bu yüzden zaman daha yavaş akıyor gibi gelir . 
+392	Five minutes in the real world gives you an hour in the dream . 	Gerçek dünyada 5 dakika rüyada 1 saate denk gelir . 
+393	Why do n't you see what you can get up to in five minutes ? 	Bakalım 5 dakikada neler yapabileceksin . 
+394	You 've got the basic layout . 	Bunlar temel tasarım . 
+395	Bookstore , café . 	Bunlar temel tasarım . 
+396	Almost everything else is here too . 	Bunlar temel tasarım . 
+397	Who are the people ? 	İnsanlar kim ? 
+398	- Projections of my subconscious . 	Bilinçaltımın yansımaları . 
+399	- Yours ? 	Senin bilinçaltın mı ? 
+400	- Yes . 	Evet . 
+401	Remember , you are the dreamer . 	Evet . 
+402	You build this world . 	Rüyama girip bu dünyayı yarattın . 
+403	I am the subject . 	Özne benim , insanları benim zihnim yerleştiriyor . 
+404	My mind populates it . 	
+405	You can literally talk to my subconscious . 	Bilinçaltımla konuşabilirsin . 
+406	That 's one of the ways we extract information from the subject . 	Öznenin zihninden bilgi çekmenin bir yolu bu . 
+407	How else do you do it ? 	Başka nasıl yapıyorsunuz ? 
+408	By creating something secure , like a bank vault or a jail . 	Zihnin otomatikman , korumak istediği bilgiyi koyacağı ... 
+409	The mind automatically fills it with information it 's trying to protect . 	kasa ya da hapis gibi güvenli bir yer yaratıyoruz . 
+410	- You understand ? 	- Anladın mı ? 
+411	- Then you break in and steal it ? 	- Sonra kasayı kırıp bilgiyi çalıyorsunuz . 
+412	Well ... 	
+413	I guess I thought that the dream space would be all about the visual ... 	Rüyaların görsel olduğunu düşünürdüm ... ama aslında daha çok hissetmekle ilgili . 
+414	but it 's more about the feel of it . 	Fizik kurallarıyla oynarsak neler olur merak ediyorum . 
+415	My question is what happens when you start messing with the physics of it all ? 	Fizik kurallarıyla oynarsak neler olur merak ediyorum . 
+416	It 's something , is n't it ? 	- Esaslı oldu değil mi ? 
+417	Yes , it is . 	- Esaslı oldu değil mi ? 
+418	Why are they all looking at me ? 	Neden bana bakıyorlar ? 
+419	Because my subconscious feels that someone else is creating this world . 	Çünkü bilinçaltım bu dünyayı başkasının yarattığını hissediyor . 
+420	The more you change things , the quicker the projections start to converge on you . 	Sen çevreyi değiştirdikçe yansımalar üzerine gelmeye başlar . Üzerime gelmeye mi ? 
+421	Converge ? 	Rüya sahibinin doğasındaki farkı hissediyorlar . 
+422	They sense the foreign nature of the dreamer . 	Rüya sahibinin doğasındaki farkı hissediyorlar . 
+423	They attack , like white blood cells fighting an infection . 	Akyuvarların enfeksiyona saldırması gibi bir şey . 
+424	- What , they 're gonna attack us ? 	- Bize saldırırlar mı ? 
+425	- No , no . 	- Hayır . 
+426	Just you . 	Sadece sana . 
+427	This is great , but I m telling you , if you keep changing things like this ... 	Harika ama etrafı değiştirmeye devam edersen ne olacağını söyledim . 
+428	Jeez , mind telling your subconscious to take it easy ? 	Tanrım . 
+429	It 's my subconscious . 	Bilinçaltımı kontrol edemem unuttun mu ? 
+430	Remember ? 	
+431	I ca n't control it . 	
+432	Very impressive . 	Çok etkileyici . 
+433	I know this bridge . 	Bu köprüyü biliyorum . Burası gerçek bir yer değil mi ? 
+434	This place is real , is n't it ? 	
+435	Yeah , I cross it every day to get to the college . 	Evet her gün okula bu yoldan gidiyorum . 
+436	Never re-create places from your memory . 	Asla hafızanda olan yerleri yaratma . 
+437	Always imagine new places . 	Daima yeni şeyler hayal et ! 
+438	You draw from stuff you know , right ? 	Bildiğin yerleri tasarlaman gerekmez mi ? 
+439	Only use details . 	Sadece detayları kullan . Sokak lambalarını , telefon kulübelerini ama asla tüm çevreyi değil . 
+440	A streetlamp or a phone booth . 	Neden ? 
+441	Never entire areas . 	
+442	- Why not ? 	Çünkü anılarından oluşan bir rüya inşa etmek ... 
+443	- Building a dream from your memory ... 	
+444	is the easiest way to lose your grasp on what 's real and what is a dream . 	hayal ve gerçek arasındaki farkı ayırma yetini kaybettirir . 
+445	- Is that what happened to you ? 	Sana böyle mi oldu ? 
+446	- Listen to me . 	Dinle beni . 
+447	This has nothing to do with me , understand ? 	Dinle beni . 
+448	That why you need me to build your dreams ? 	Bu yüzden mi rüyalarını benim inşa etmemi istiyorsun ? 
+449	Hey , get off of her . 	Bırak onu . 
+450	Back up . 	Geri çekil . 
+451	Back up . 	Geri çekil ! 
+452	- Cobb ! 	Cobb , Cobb ! 
+453	Cobb ! 	
+454	- Get off of her ! 	
+455	- Let me go ! 	- Mal ! 
+456	Let me go ! 	- Bırakın beni ! 
+457	- Mal ! 	
+458	- Mal ! 	Cobb , uyandır beni ! 
+459	- Cobb ! 	- Uyandır beni ! 
+460	Wake me up ! 	- Mal ! 
+461	- Wake me up ! 	Mal yapma ! 
+462	Wake me up ! 	
+463	- No ! 	
+464	- Mal , no ! 	Uyandır beni ! 
+465	No ! 	
+466	- Wake me up ! 	
+467	Hey , hey , hey . 	Hey , hey , bak bana . 
+468	Look at me . 	Bir şeyin yok . 
+469	You 're okay . 	İyisin . 
+470	You 're okay . 	
+471	- Hey . 	Neden uyanamadım ? 
+472	- Why would n't I wake up ? 	
+473	There was still time on the clock . 	Çünkü daha zaman vardı ve rüyada ancak ölerek uyanabilirsin . 
+474	You ca n't wake up from within the dream unless you die . 	Çünkü daha zaman vardı ve rüyada ancak ölerek uyanabilirsin . 
+475	-- She 'll need a totem . 	- Toteme ihtiyacı var . 
+476	- What ? 	- Ne ? 
+477	A totem , it 's a small personal -- 	Totem küçük bir-- 
+478	That 's some subconscious you 've got on you , Cobb ! 	Şu bilinçaltındaki kadın çok cana yakınmış Cobb ! 
+479	- She 's a real charmer . 	Şu bilinçaltındaki kadın çok cana yakınmış Cobb ! 
+480	- Oh . 	
+481	- I see you met Mrs . Cobb . 	Bayan Cobb ile tanıştın demek . Karısı mı ? 
+482	- She 's his wife ? 	
+483	Yeah . 	Evet . 
+484	So a totem . 	Totem sürekli üzerinde taşıman ve senden başkasının ... 
+485	You need a small object , potentially heavy . 	
+486	Something you can have on you that no one else knows . 	- ... 
+487	- Like a coin ? 	bilmemesi gereken küçük bir objedir . 
+488	- No . 	- Bozuk para gibi mi ? 
+489	It needs to be more unique than that . 	Hayır , daha özgün bir şey olmalı . Bu bir hileli zar . 
+490	Like , this is a loaded die . 	
+491	No , I ca n't let you touch it . 	Ona dokunmana izin veremem , objektifliğini kaybeder . 
+492	That would defeat the purpose . 	
+493	See , only I know the balance and the weight of this particular loaded die . 	Bu zarın dengesini ve ağırlığını sadece ben biliyorum . 
+494	That way , when you look at your totem ... 	Bu sayede , kendi totemine baktığında ... 
+495	you know beyond a doubt that you 're not in someone else 's dream . 	başkasının rüyasında olmadığından emin olursun . 
+496	I do n't know if you ca n't see what 's going on , or if you just do n't want to ... 	Olup bitenin farkında mısın yoksa görmezden mi geliyorsun bilmiyorum ama ... 
+497	but Cobb has some serious problems that he 's tried to bury down there . 	Cobb 'un gizlemeye çalıştığı ciddi sorunları var . 
+498	And I m not about to just open my mind to someone like that . 	Öyle birine zihnimi açacak değilim . 
+499	She 'll be back . 	Dönecek . Bu kadar çabuk öğrenen birini hiç görmemiştim . 
+500	I 've never seen anyone pick it up that quickly before . 	
+501	Reality 's not gonna be enough for her now , and when she comes back ... 	Gerçeklik artık ona yetmeyecek . 
+502	When she comes back , you 're gonna have her building mazes . 	- Dönerse , labirentleri yaptırırsın . 
+503	- Where are you gonna be ? 	- Sen nereye gideceksin ? 
+504	- I gotta go visit Eames . 	- Eames 'i ziyaret edeceğim . 
+505	Eames ? 	- Eames 'i ziyaret edeceğim . 
+506	No , he 's in Mombasa . 	- Eames mi ? 
+507	It 's Cobol 's back yard . 	Ama o Mombasa 'da . 
+508	It 's a necessary risk . 	- Cobol 'a çok yakın . 
+509	- Well , there 's plenty of good thieves . 	- Bir sürü yetenekli hırsız var . 
+510	- We do n't just need a thief . 	- Sadece hırsız olması yetmez ... 
+511	We need a forger . 	bir kalpazana ihtiyacımız var . 
+512	Rub them together all you want , they 're not gonna breed . 	Ne kadar ovalarsan ovala üremezler . 
+513	You never know . 	Bilemezsin . 
+514	I 'm gonna get you a drink . 	Sana bir içki ısmarlayayım . 
+515	You 're buying . 	Olur . 
+516	- Your spelling has n't improved . 	- Hecelemen ilerlememiş . 
+517	- Piss off . 	- Sınav yap . 
+518	How 's your handwriting ? 	El yazın nasıl ? 
+519	- It s versatile . 	- Bir numara . 
+520	- Good . 	- Güzel . 
+521	Thank you very much . 	Çok teşekkürler . 
+522	Inception . 	Fikir aşılama . 
+523	Now , before you bother telling me it 's impossible , let me-- 	Mümkün değil demeden önce-- 
+524	No , it 's perfectly possible . 	Hayır , son derece mümkün ama acayip zor . 
+525	It 's just bloody difficult . 	Hayır , son derece mümkün ama acayip zor . 
+526	Interesting . 	İlginç . 
+527	Because Arthur keeps telling me it ca n't be done . 	Arthur bunu yapmak imkânsız deyip duruyor . 
+528	Hmm . 	
+529	Arthur . 	Arthur ! Hâlâ o geri kafalıyla mı çalışıyorsun ? 
+530	You still working with that stick in the mud ? 	
+531	He is good at what he does , right ? 	İşinde iyi değil mi ? 
+532	Oh , he 's the best , but he has no imagination . 	- En iyisidir ama hayal gücü yoktur . 
+533	Not like you . 	- En iyisidir ama hayal gücü yoktur . 
+534	Listen , if you 're gonna perform inception , you need imagination . 	Fikir aşılayacaksan hayal gücüne ihtiyacın olacak . 
+535	Let me ask you something . 	- Bir şey sorayım . 
+536	Have you done it before ? 	Daha önce hiç yaptın mı ? 
+537	We tried it . 	- Denedik . Fikri yerleştirdik ama zihin kabul etmedi . 
+538	Uh , we got the idea in place , but it did n't take . 	
+539	- You did n't plant it deep enough ? 	- Yeterince derine yerleştirmediniz mi ? 
+540	- No , it 's not just about depth . 	- Hayır , sadece derinlikle ilgisi yok . 
+541	You need the simplest version of the idea ... 	Kişinin zihninde gelişmesini istiyorsan ... 
+542	in order for it to grow naturally in your subject 's mind . 	fikrin en sade hâli gerekiyor . 
+543	It s a subtle art . 	Zihinle uğraşmak çok ince iştir . 
+544	So , what is this idea that you need to plant ? 	Yerleştirmen gereken fikir nedir ? 
+545	We need the heir of a major corporation to dissolve his father 's empire . 	Büyük bir şirketin mirasçısının ... babasının imparatorluğunu dağıtmasını sağlamalıyız . 
+546	Right there you have various political motivations ... 	Çeşitli politik dürtüler , anti-monopolist yaklaşımlar vesaire söz konusu . 
+547	and anti-monopolistic sentiments and so forth . 	Çeşitli politik dürtüler , anti-monopolist yaklaşımlar vesaire söz konusu . 
+548	But all of that stuff , it 's , um ... 	Bunlar kişinin temel ön yargılarına kalmış durumda . 
+549	It 's really at the mercy of your subject 's prejudice , you see ? 	Bunlar kişinin temel ön yargılarına kalmış durumda . 
+550	What you have to do is start at the absolute basic . 	En temel kısımdan başlamanız gerekiyor . 
+551	Which is what ? 	Neymiş o ? 
+552	The relationship with the father . 	Babasıyla ilişkisi . 
+553	- Do you have a chemist ? 	- Kimyageriniz var mı ? 
+554	- No , not yet . 	- Hayır , henüz yok . 
+555	Right . 	Pekâlâ , burada Yusuf diye bir adam var ... 
+556	Okay , well , there 's a man here , Yusuf . 	
+557	He , uh , formulates his own versions of the compounds . 	kendi bileşimlerini hazırlıyor . 
+558	Why do n't you take me there ? 	- Beni ona ne zaman götürürsün ? 
+559	Once you 've lost your tail . 	- Beni ona ne zaman götürürsün ? 
+560	The man at the bar . 	- Peşindekilerden kurtulduktan sonra . 
+561	Cobol Engineering . 	- Bardaki adam . 
+562	That price on my head , was that dead or alive ? 	- Cobol Mühendislik . Başıma ne için ödül kondu , ölü mü diri mi ? 
+563	Do n't remember . 	Hatırlamıyorum . 
+564	Let 's see if he starts shooting . 	Bak bakalım ateş etmeye başlayacak mı . 
+565	Run interference . 	Adamı oyala , yarım saat sonra aşağıda barda buluşuruz . 
+566	I 'll meet you downstairs in the bar in , say , uh , half an hour ? 	
+567	- Back here ? 	- Burada mı ? 
+568	- This is the last place they 'd suspect . 	- Buraya dönmemi beklemezler . 
+569	All right . 	Tamam . 
+570	Freddy . 	Freddy ! 
+571	Freddy Simmonds . 	Freddy Simmons ? 
+572	My God , it 's you , is n't it ? 	Tanrım , sensin değil mi ? 
+573	No , it is n't you . 	Değilmiş . 
+574	Not dreaming now , are you ? 	Şu an rüya görmüyorsun değil mi ? 
+575	Get him ! 	
+576	There ! 	
+577	One café . 	Kahve , bir kahve . 
+578	Shh . 	
+579	One café . 	Bir kahve . 
+580	One café . 	
+581	Care for a lift , Mr . Cobb ? 	Bırakayım mı Bay Cobb ? 
+582	- What are you doing in Mombasa ? 	- Mombasa 'da ne işin var ? 
+583	- I m here to protect my investment . 	- Yatırımımı korumam gerekiyor . 
+584	Ah . 	Peşindekilerden kurtulmaktan anladığın bu mu ? 
+585	So this is your idea of losing a tail , huh ? 	
+586	Different tail . 	Peşine başka birini takmak . 
+587	Cobb said you 'd be back . 	Cobb döneceğini söylemişti . 
+588	- I tried not to come , but ... 	- Dönmemeye çalıştım ama ... 
+589	- But there 's nothing quite like it . 	- Ama bunun gibisi yok . 
+590	It 's just ... 	Bu tamamen ... 
+591	pure creation . 	saf yaratıcılık . 
+592	Shall we take a look at some paradoxical architecture ? 	Paradoksal yapılara bir göz atalım mı ? 
+593	You 're gonna have to master a few tricks ... 	Üç rüya katmanı inşa edeceksen birkaç hileyi öğrenmen lâzım . 
+594	if you 're gonna build three complete dream levels . 	- Müsaadenizle . 
+595	Excuse me . 	- Müsaadenizle . 
+596	What kind of tricks ? 	- Müsaadenizle . 
+597	In a dream , you can cheat architecture into impossible shapes . 	Rüyada , olağan dışı şekillerde bina inşa edebilirsin . 
+598	That lets you create closed loops , like the Penrose Steps . 	Bu da kapalı döngü yaratmanı sağlar . 
+599	The infinite staircase . 	Penrose merdivenleri gibi , bitmemiş merdivenler . 
+600	See ? 	Gördün mü ? 
+601	Paradox . 	Paradoks . 
+602	So a closed loop like that ... 	Bunun gibi kapalı döngüler rüyanın sınırlarını belirlemeni sağlar . 
+603	will help you disguise the boundaries of the dream you create . 	Bunun gibi kapalı döngüler rüyanın sınırlarını belirlemeni sağlar . 
+604	But how big do these levels have to be ? 	Bu katmanlar ne kadar büyük olmak zorunda ? 
+605	It could be anything from the floor of a building to an entire city . 	Boş bir zeminden koca bir şehre kadar her şey olabilir . 
+606	They have to be complicated enough that we can hide from the projections . 	Yansımalardan saklanabileceğimiz kadar karmaşık olmalı . 
+607	- A maze ? 	- Labirent gibi . 
+608	- Right , a maze . 	- Evet labirent . 
+609	And the better the maze ... 	Labirent olsa iyi olur . 
+610	Then the longer we have before the projections catch us ? 	Yansımaların bizi yakalaması daha uzun sürsün diye mi ? 
+611	Exactly . 	Aynen öyle . 
+612	- My subconscious seems polite enough . 	Bilinçaltım son derece nazik görünüyor . Biraz beklersen kötüleşecektir . 
+613	- Ha , ha . 	
+614	You wait , they 'll turn ugly . 	
+615	No one likes to feel someone else messing around in their mind . 	Kimse zihninde bir başkasının dolaşmasını sevmez . 
+616	Cobb ca n't build anymore , can he ? 	Cobb artık inşa edemiyor değil mi ? 
+617	I do n't know if he ca n't , but he wo n't . 	Yapabiliyor mu bilmem ama yapmıyor . 
+618	He thinks it 's safer if he does n't know the layouts . 	O katmanları bilmezse daha güvenli olacağını düşünüyor . 
+619	Why ? 	- Neden ? 
+620	He wo n't tell me . 	- Söylemiyor . Ama bence Mal yüzünden . 
+621	But I think it 's Mal . 	
+622	- His ex-wife ? 	- Eski karısı mı ? 
+623	- No , not his ex . 	- Hayır eski değil . 
+624	- They 're still together ? 	- Hâlâ birlikteler mi ? 
+625	- No . 	- Hayır . 
+626	No , she 's dead . 	O öldü . 
+627	What you see in there is just his projection of her . 	Gördüğün ondaki yansımasıydı . 
+628	What was she like in real life ? 	- Hayattayken nasıl biriydi ? 
+629	She was lovely . 	- Hayattayken nasıl biriydi ? 
+630	- You are seeking a chemist ? 	- Kimyager mi arıyorsunuz ? 
+631	- Yes . 	- Evet . 
+632	To formulate compounds for a job ? 	Size işlerinizde karışımlar hazırlaması için . 
+633	And to go into the field with us . 	Bizimle sahaya da inecek . 
+634	No , I rarely go into the field , Mr . Cobb . 	Hayır , ben pek sahaya inmem Bay Cobb . 
+635	Well , we 'd need you there to tailor compounds specific to our needs . 	Orada olup karışımı ne kadar kullanmamız gerektiğini söylemelisiniz . 
+636	- Which are ? 	- Ne için ? 
+637	- Great depth . 	- En derin nokta . 
+638	A dream within a dream ? 	Rüya içinde rüya mı ? 
+639	Two levels ? 	İki katman . 
+640	Three . 	Üç . 
+641	Not possible . 	Mümkün değil . 
+642	That many dreams within dreams is too unstable . 	- Rüya içinde bu kadar rüya dengesiz olur . 
+643	It is possible . 	- Rüya içinde bu kadar rüya dengesiz olur . 
+644	You just have to add a sedative . 	- Mümkün . 
+645	A powerful sedative . 	- Sadece yatıştırıcıya ihtiyaç var . 
+646	- How many team members ? 	- Kaç takım üyesi var ? 
+647	- Five . 	- Beş . 
+648	Six . 	Altı . 
+649	The only way to know you 've done the job is if I go in with you . 	İşi başarıp başaramadığını görmenin en kolay yolu seninle gelmek . 
+650	There 's no room for tourists on a job like this , Mr . Saito . 	Böyle bir işte turistlere yer yok Bay Saito . 
+651	This time , it seems there is . 	Anlaşılan bu kez var . 
+652	This , I think , is a good place to start . 	Sanırım bu başlangıç için uygun . 
+653	I use it every day . 	Her gün kullanıyorum . 
+654	What for ? 	- Ne için ? 
+655	- Here , I 'll show you . 	- Göstereyim . 
+656	Perhaps you will not want to see . 	Belki görmek istemeyebilirsiniz . 
+657	After you . 	Önden buyur . 
+658	Ten . 	Vay anasını , 6 , 10 , 12 kişi bağlı durumda . 
+659	Twelve . 	
+660	All connected . 	
+661	Bloody hell . 	
+662	They come every day to share the dream . 	Her gün rüyayı paylaşmak için buraya geliyorlar . 
+663	You see ? 	Gördünüz mü ? 
+664	Very stable . 	Son derece istikrarlılar . 
+665	- How long do they dream for ? 	Ne kadar süreyle rüya görüyorlar ? Her gün üç dört saat . 
+666	- Three , four hours , each day . 	
+667	In dream time ? 	- Rüya zamanıyla ne kadar ? 
+668	With this compound ? 	- Bu karışımla mı ? Her gün yaklaşık 40 saat . 
+669	About 40 hours , each and every day . 	
+670	- Why do they do it ? 	- Bunu neden yapıyorlar ? 
+671	- Tell him , Mr . Cobb . 	- Siz söyleyin Bay Cobb . 
+672	After a while , it becomes the only way you can dream . 	Bir süre sonra ancak bu şekilde rüya görebiliyorsunuz . 
+673	Do you still dream , Mr . Cobb ? 	Siz hâlâ rüya görebiliyor musunuz Bay Cobb ? 
+674	- They come here every day to sleep ? 	Her gün uyumak için buraya mı geliyorlar ? Hayır . 
+675	- No . 	
+676	They come to be woken up . 	Uyanmak için geliyorlar . 
+677	The dream has become their reality . 	Rüyaları artık onların gerçekliği oldu . 
+678	Who are you to say otherwise , sir ? 	Tersini söyleyebilir misiniz ? 
+679	Let 's see what you can do . 	Neler yapabileceğini görelim . 
+680	You know how to find me . 	Beni nasıl bulacağını biliyorsun . 
+681	You know what you have to do . 	Ne yapman gerektiğini biliyorsun . 
+682	Sharp , no ? 	Yeterli mi ? 
+683	Are you all right , Mr . Cobb ? 	İyi misiniz Bay Cobb ? 
+684	Yeah , yeah . 	Evet . İyiyim . 
+685	Everything 's just fine . 	
+686	Robert Fischer , heir to the Fischer Morrow energy conglomerate . 	Robert Fischer , Fischer-Morrow enerji imparatorluğunun varisi . 
+687	What 's your problem with this Mr . Fischer ? 	Sizin Bay Fischer ile sorununuz nedir ? 
+688	That 's not your concern . 	Orası sizi ilgilendirmez . 
+689	Mr . Saito , this is n't your typical corporate espionage . 	Bay Saito , bu tipik bir firma casusluğu değil . 
+690	You asked me for inception . 	Benden fikir aşılamamı istiyorsanız bunun ciddiyetini anlamanızı umuyorum . 
+691	I do hope you understand the gravity of that request . 	Benden fikir aşılamamı istiyorsanız bunun ciddiyetini anlamanızı umuyorum . 
+692	Now , the seed that we plant in this man 's mind will grow into an idea . 	Bu adamın zihninde gelişecek bir fikir yerleştireceğiz . 
+693	This idea will define him . 	Bu fikir ona yön verecek . 
+694	It may come to change ... 	Bu onun her şeyini değiştirebilir . 
+695	Well , it may come to change everything about him . 	Bu onun her şeyini değiştirebilir . 
+696	We 're the last company standing between them and total energy dominance . 	Şu an enerji hükümdarı olmaları için engel teşkil eden son şirket biziz . 
+697	And we can no longer compete . 	Daha fazla mücadele edemeyiz . 
+698	Soon , they 'll control the energy supply of half the world . 	Yakında dünyanın enerji kaynaklarının yarısının kontrolünü ele geçirecekler . 
+699	In effect , they become a new superpower . 	Yeni bir süper güç haline gelecekler . 
+700	The world needs Robert Fischer to change his mind . 	Dünyanın Robert Fischer 'ın fikrini değiştirmesine ihtiyacı var . 
+701	That 's where we come in . 	Burada işe biz dahil oluyoruz . 
+702	How is Robert Fischer 's relationship with his father ? 	Burada işe biz dahil oluyoruz . 
+703	Rumor is the relationship is quite complicated . 	Söylentilere göre oldukça karışıkmış . 
+704	Well , we ca n't work based solely on rumor , can we ? 	Söylentilere göre hareket edemeyiz değil mi ? 
+705	Can you get me access to this man here ? 	Bu adama ulaşmamı sağlayabilir misiniz ? Browning . 
+706	Browning . 	
+707	Fischer Senior 's right-hand man . 	Baba Fischer 'ın sağ kolu , oğul Fischer 'ın vaftiz babası . 
+708	Fischer Junior 's godfather . 	Referansların düzgün olursa mümkün olabilir . 
+709	It should be possible , if you can get the right references . 	Referansların düzgün olursa mümkün olabilir . 
+710	References are something of a specialty for me , Mr . Saito . 	Referanslar benim uzmanlık alanımdır Bay Saito . 
+711	I 'm not smelling settlement here . 	Anlaşma ihtimali görmüyorum . 
+712	Take them down . 	Dava açın . 
+713	Mr . Browning ... 	Bay Browning . 
+714	Maurice Fischer 's policy is always one of avoiding litigation . 	Bay Browning . 
+715	Well , shall we voice your concerns with Maurice directly ? 	Bu endişelerinizi Maurice 'e bizzat söylemek ister misiniz ? 
+716	Not sure that 's necessary . 	- Bence bu şart değil . 
+717	No , no , no . 	- Bence bu şart değil . 
+718	I think we should . 	- Hayır bence yapmalıyız . 
+719	How is he ? 	Durumu nasıl ? 
+720	I do n't want to bother him unnecessarily , but -- 	Gerekli olmasa rahatsız etmezdim ama ... 
+721	Robert , I told you keep out the damn -- Wait . 	Robert , sana bu şehirden uzak dur demedim mi ? 
+722	So do it . 	Dediğimi yap . 
+723	Get -- 	Git buradan . 
+724	- Mr . Fischer . 	Konuşmaya çalışmayın Bay Fischer . Sözümü dinle ! 
+725	- Put it through . 	
+726	Never , never . 	Hiç ! 
+727	Never do the same as I asked . 	Hiç sözümü dinlemiyorsun . 
+728	Leave that . 	Şehirden git . 
+729	Here . 	Çok kötü . 
+730	Must be a cherished memory of his . 	Onun için değerli bir hatıra olmalı . 
+731	I put it beside his bed . 	Bunu yatağının yanına ben koydum . 
+732	He has n't even noticed . 	Farkına bile varmadı . 
+733	Robert ... 	Robert ... 
+734	we need to talk about a power of attorney . 	vekalet meselesini konuşmamız gerekiyor . 
+735	- I know this is hard , but it 's imperative-- - Not now , Uncle Peter . 	Zor olduğunu biliyorum ... - Şimdi olmaz Peter Amca . - ... 
+736	The vultures are circling . 	Akbabalar etrafta dolaşıyor . 
+737	And the sicker Maurice Fischer becomes , the more powerful Peter Browning becomes . 	Moris Fischer 'ın hastalığı ilerledikçe ... Peter Browning 'in gücü artıyor . 
+738	I 've had ample opportunity to observe Browning ... 	Browning 'i yeterince gözlemleme fırsatım oldu . 
+739	and adopt his physical presence , study his mannerisms , and so on and so forth . 	Hareketlerini ezberledim , tavırlarını inceledim falan filan . 
+740	So now in the first layer of the dream , I can impersonate Browning . 	Rüyanın ilk katmanında Browning 'i canlandırıp ... 
+741	And suggest concepts to Fischer 's conscious mind . 	Fischer 'ın bilincine fikri aşılayabilirim . 
+742	Then , when we take him a level deeper ... 	Daha derin bir katmana indirdiğimizde ... 
+743	his own projection of Browning should feed that right back to him . 	kendi bilinçaltının Browning yansıması fikri besler . 
+744	So he gives himself the idea . 	- Böylece fikri kendi kendine vermiş olur . 
+745	Precisely . 	- Kesinlikle . Bu fikri kabullenmesinin tek yolu bu . Kendisi düşünmüş gibi olmalı . 
+746	That 's the only way it will stick . 	
+747	It has to seem self-generated . 	
+748	Eames , I am impressed . 	Eames , çok etkilendim . 
+749	Your condescension , as always , is much appreciated , Arthur , thank you . 	Lütufkârlığına hayranım Arthur , teşekkürler . 
+750	Were you going under on your own ? 	Tek başına mı gidecektin ? 
+751	No , no , I was just , uh , running some experiments . 	Hayır sadece birkaç deneme yapıyordum . 
+752	I did n't realize anyone was here , so ... 	Burada başkasının olduğunu fark etmemiştim . 
+753	Yeah , I was just -- I was working on my totem , actually . 	Evet , aslında ben totemim üzerinde çalışıyordum . 
+754	Here , let me take a look . 	Ver bakayım . 
+755	So you 're learning , huh ? 	Demek öğreniyorsun . 
+756	An elegant solution for keeping track of reality . 	Gerçeklikle bağlantını kaybetmemek için mükemmel bir çözüm . 
+757	- Was it your idea ? 	Senin fikrin miydi ? 
+758	- No , it was , uh ... 	Hayır , aslında Mal 'ın fikriydi . 
+759	It was Mal 's , actually . 	Hayır , aslında Mal 'ın fikriydi . 
+760	This ... 	
+761	This one was hers . 	Bu onunkiydi . 
+762	She would spin it in the dream and it would never topple . 	Rüyada hiç devrilmeden sürekli dönüyor . 
+763	Just spin and spin . 	Dönüp duruyor . 
+764	Arthur told me she passed away . 	Arthur öldüğünü söyledi . 
+765	How are the mazes coming along ? 	Labirent nasıl gidiyor ? 
+766	Each level relates to the part of the subject 's subconscious ... 	Bütün katmanlar öznenin bilinçaltının ... 
+767	that we are trying to access . 	ulaşmaya çalıştığımız kısmına bağlı . 
+768	So I m making the bottom level a hospital , so Fischer will bring his father . 	Bu yüzden en alt katmanı hastane yapıyorum . Böylece Fischer babasını bulacak . 
+769	You know , I -- Actually , I have a question about this layout . 	Aslında bu plânla ilgili bir şey soracaktım . 
+770	No , no , no . 	Hayır hayır bana ayrıntıları gösterme . 
+771	Do n't show me specifics . 	Plânı sadece rüyayı gören kişi bilmeli . 
+772	Only the dreamer should know the layout . 	Bu neden bu kadar önemli ? 
+773	Why is that so important ? 	Bu neden bu kadar önemli ? 
+774	In case one of us brings in our projections . 	Birimizin yansımalarının çıkma ihtimaline karşı . 
+775	We do n't want them knowing the details of the maze . 	Labirentin detaylarını bilmelerini istemeyiz . 
+776	You mean in case you bring Mal in . 	Yani Mal 'ın ortaya çıkma ihtimaline karşı . 
+777	You ca n't keep her out , can you ? 	Onu uzak tutamıyorsun değil mi ? 
+778	- Right . 	- Evet . 
+779	- You ca n't build ... 	- Sen inşa edemiyorsun ... 
+780	because if you know the maze , then she knows it . 	çünkü labirenti bilirsen o da öğrenir . 
+781	Well , she 'd sabotage the whole operation . 	çünkü labirenti bilirsen o da öğrenir . 
+782	- Cobb , do the others know ? 	- Cobb , diğerleri biliyor mu ? 
+783	- No . 	- Hayır bilmiyorlar . 
+784	No , they do n't . 	Durumun kötüleşmesi ihtimaline karşı onları uyarmalısın . 
+785	You 've gotta warn them if this is getting worse . 	Durumun kötüleşmesi ihtimaline karşı onları uyarmalısın . 
+786	No one said it 's getting worse . 	Kimse kötüleştiğini söylemedi . 
+787	I need to get home . 	Eve gitmek istiyorum . 
+788	That 's all I care about right now . 	Şu anda başka bir şey umurumda değil . 
+789	Why ca n't you go home ? 	Neden eve gidemiyorsun ? 
+790	Because they think I killed her . 	Çünkü onu benim öldürdüğümü düşünüyorlar . 
+791	- Thank you . 	- Teşekkür ederim . 
+792	- For what ? 	- Ne için ? 
+793	For not asking whether I did . 	Yaptım mı diye sormadığın için . Babamın imparatorluğunu dağıtacağım . 
+794	I will split up my father 's empire . 	
+795		
+796	Now , this is obviously an idea that Robert himself would choose to reject ... 	Robert kendi başına olsa bu fikri kesinlikle reddederdi . 
+797	which is why we need to plant it deep in his subconscious . 	Bu yüzden fikri bilinçaltının derinlerine yerleştirmeliyiz . 
+798	The subconscious is motivated by emotion , right ? 	Bilinçaltı duygulara göre hareket eder değil mi ? 
+799	Not reason . 	Mantığa göre değil . 
+800	We need to find a way to translate this into an emotional concept . 	Bu yüzden bunu duygusal bir konsepte dönüştürmenin bir yolunu bulmalıyız . 
+801	How do you translate business strategy into emotion ? 	İş stratejisini nasıl duygulara dönüştüreceksin ? 
+802	That 's what we 're here to figure out . 	Bunu bulmak için buradayız değil mi ? Robert 'ın babasıyla ilişkisi son derece gergin . 
+803	Robert 's relationship with his father ... 	
+804	- ... 	Bunun üzerine gidebilir miyiz ? 
+805	is stressed , to say the least . 	
+806	- Can we run with that ? 	
+807	We suggest breaking up his father 's company as a screw you to the old man . 	Şirketi dağıtmayı babasına siktir demek şeklinde algılatabiliriz . 
+808	No , because I think positive emotion trumps negative emotion every time . 	Hayır çünkü bence pozitif duygular daima negatif duygulardan baskındır . 
+809	We all yearn for reconciliation , for catharsis . 	Hepimiz kötü duygulardan kurtulmak için uzlaşmaya can atarız . 
+810	We need Robert Fischer to have a positive emotional reaction to all this . 	Robert Fischer 'ın bütün bunlara karşı duygusal tepkileri pozitif olmalı . 
+811	All right , well , try this . 	Tamam , şunu deneyebiliriz . Babam onun izinden gitmeyip kendi yolumda yürümemi istiyor . 
+812	Um ... 	
+813	My father accepts that I want to create for myself , not follow in his footsteps . 	
+814		
+815	That might work . 	- Bu işe yarayabilir belki . 
+816	Might ? 	- Belki mi ? 
+817	We 're gonna need to do a little better than might . 	- Belki mi ? 
+818		- Belki mi ? 
+819	Thank you for your contribution , Arthur . 	- Belkiden fazlasına ihtiyacımız var . 
+820	Forgive me for wanting a little specificity , Eames . 	Daha belirgin bir şey istediğim için kusura bakma Eames . 
+821	Specificity ? 	Belirgin mi ? 
+822	Inception 's not about being specific . 	Bilgi aşılamanın belirginlikle ilgisi yoktur . 
+823	When we get inside his mind , we 're gonna have to work with what we find . 	Zihnine girdiğimizde ... karşımıza çıkanlara göre hareket etmeliyiz . 
+824	On the top level , we open up his relationship with his father ... 	İlk katmanda babasıyla ilişkisini ortaya atacağız . 
+825	and say , I will not follow in my father 's footsteps . 	Babamın izinden gitmeyeceğim . 
+826		dedirteceğiz . 
+827	Then the next level down , we feed him , I will create something for myself . 	dedirteceğiz . 
+828		dedirteceğiz . 
+829	Then , by the time we hit the bottom level , we bring out the big guns . 	Sonra en alt katmana indiğimizde en güçlü fikri ortaya atacağız . 
+830	- My father does n't want me to be him . 	- Babam onun gibi olmamı istemiyor . 
+831	- Exactly . 	- Aynen öyle . 
+832	Three layers down , the dreams are gonna collapse with the slightest disturbance . 	Üç katman derine indiğinizde rüya en ufak bir karışıklıkta çökebilir . 
+833	Sedation . 	Yatıştırıcılar . 
+834	For sleep stable enough to create three layers of dreaming ... 	Üç katmanlı rüya yaratabilecek kadar derin uyumayı sağlar . 
+835	we 'll have to combine it with an extremely powerful sedative . 	Çok güçlü yatıştırıcılar kullanmak gerekir . 
+836	Good night . 	İyi akşamlar . 
+837	The compound we 'll be using to share the dream ... 	Karışım sayesinde rüyadakiler arasındaki paylaşım çok net olacak . 
+838	creates a clear connection between dreamers ... 	Karışım sayesinde rüyadakiler arasındaki paylaşım çok net olacak . 
+839	- ... 	Bu sırada beyin fonksiyonları hızlanacak . Yani bize her katman için daha fazla vakit sağlayacak . 
+840	whilst accelerating brain function . 	
+841	- In other words , more time on each level . 	
+842	Brain function in the dream will be about 20 times normal . 	Rüya sırasında beyin fonksiyonları normalin yaklaşık 20 katıdır . 
+843	And when you enter a dream within that dream , the effect is compounded . 	Rüya içinde rüya yarattığınızda ... etkisi de artacaktır . Üç rüya on saatten ... 
+844	It 's three dreams , that 's 10 hours times 20 -- 	Affedersin , matematikten pek anlamam . 
+845	Math was never my strong subject . 	Toplam ne kadar zaman demek bu ? 
+846	How much time is that ? 	
+847	It 's a week , the first level down . 	İlk katmanda bir hafta . 
+848	Six months the second level down , and the third level -- 	İkinci katmanda altı ay . 
+849	That 's 10 years . 	- Üçüncü katmanda-- - On yıl . 
+850	Who 'd wanna be stuck in a dream for 10 years ? 	Kim on yıl bir rüyada kalmak ister ki ? 
+851	Depends on the dream . 	Rüyaya bağlı . 
+852	So once we 've made the plant , how do we get out ? 	Fikri yerleştirdikten sonra nasıl çıkacağız ? 
+853	I 'm hoping you have something more elegant than shooting me in the head . 	Umarım beni başımdan vurmaktan daha iyi bir fikrin vardır . 
+854	- A kick . 	Bir dürtü . 
+855	- What 's a kick ? 	- Dürtü nedir ? 
+856	This , Ariadne , would be a kick . 	- Dürtü nedir ? 
+857	It 's that feeling of falling you get that jolts you awake . 	Düşme hissi sizi sarsarak uyandırır . 
+858	- Snaps you out of the dream . 	Rüyadan çıkmanızı sağlar . Böyle bir yatıştırıcı almışken dürtmeyi hisseder miyiz ? 
+859	- We gonna feel a kick with this sedation ? 	
+860	That 's the clever part . 	Zekice olan kısmı da bu . 
+861	I customized the sedative to leave inner-ear function unimpaired . 	Yatıştırıcıyı iç kulağı etkilemeyecek şekilde ayarladım . 
+862	That way , however deep the sleep , the sleeper still feels falling . 	Bu şekilde , ne kadar derin uykuda olursak olalım ... yine de düşüşü ya da devrilmeyi hissedeceğiz . 
+863	Or tipping . 	
+864	The trick is to synchronize a kick that can penetrate all three levels . 	Önemli olan dürtmenin üç katmanda da eş zamanlı olmasını sağlamak . 
+865	We could use a musical countdown to synchronize the different kicks . 	Farklı dürtmeleri eş zamanlı ayarlamak için müzikle geri sayım yapabiliriz . 
+866	He has n't got any surgery scheduled , no dental , nothing . 	Plânlanmış ne bir ameliyat , ne dişçi randevusu , hiçbir şey yok . 
+867	Was n't he supposed to have a knee operation ? 	- Dizinden ameliyat olmayacak mıydı ? 
+868	Nothing . 	- Hiçbir şey yok . O kadar uzun sürecek bir şey yok . 
+869	Nothing that they 'll put him under for , anyway . 	En az 10 saate ihtiyacımız var . 
+870	And we need-- 	En az 10 saate ihtiyacımız var . 
+871	We need at least a good 10 hours . 	En az 10 saate ihtiyacımız var . 
+872	Sydney to Los Angeles . 	Sydney 'den Los Angeles 'a uçuş ... 
+873	One of the longest flights in the world . 	dünyanın en uzun uçuşlarından biridir . İki haftada bir yapıyor . 
+874	He makes it every two weeks . 	Özel uçağıyla uçuyordur . 
+875	He must be flying private , then . 	Özel uçağıyla uçuyordur . 
+876	Not if there were unexpected maintenance with his plane . 	Uçağında beklenmedik bir arıza olursa uçamaz . 
+877	It would have to be a 747 . 	- Uçak 747 olmalı . 
+878	- Why 's that ? 	- Neden ? 
+879	On a 747 , the pilot 's up top ... 	Çünkü 747 'lerde pilot üst katta ,
+880	the first-class cabin 's in the nose , so no one would walk through . 	 birinci sınıf yolcu kabini burundadır . 
+881	You 'd have to buy out the entire cabin and the first-class flight attendant . 	Gelip geçen kimse olmaz . Ama tüm kabini ve birinci sınıf koltukları almanız gerekir . 
+882	I bought the airline . 	Havayolunu satın aldım . 
+883	It seemed neater . 	Daha kolay olur gibi geldi . 
+884	Well , looks like we have our 10 hours . 	Anlaşılan 10 saatimiz hazır . 
+885	Ariadne ? 	Ariadne , harika bir iş çıkarmışsın . 
+886	Terrific work , by the way . 	
+887	You know how to find me . 	Beni nasıl bulacağını biliyorsun . 
+888	You know what you have to do . 	Ne yapman gerektiğini biliyorsun . 
+889	You remember when you asked me to marry you ? 	Bana evlenme teklif ettiğin zamanı hatırlıyor musun ? 
+890	Of course I do . 	Tabii hatırlıyorum . 
+891	You said you had a dream . 	Bir hayalin olduğunu söylemiştin . 
+892	That we 'd grow old together . 	Birlikte yaşlanacaktık . 
+893	And we can . 	Bunu hâlâ yapabiliriz . 
+894	You should n't be here . 	Buraya gelmemeliydin . 
+895	Just wanted to see what kind of tests you 're doing on your own every night . 	Geceleri nasıl bir test yaptığını görmek istedim . 
+896	- This has nothing to do with you . 	Bunun seninle bir ilgisi yok . 
+897	- This has everything to do with me . 	Seninle rüyayı paylaşacaksam tabii ki var . 
+898	- You 've asked me to share dreams with you . 	Bunları değil . 
+899	- Not these . 	Bunlar benim rüyalarım . 
+900	These are my dreams . 	
+901	Why do you do this to yourself ? 	Bunu kendine neden yapıyorsun ? 
+902	It 's the only way I can still dream . 	Ancak bu şekilde rüya görebiliyorum . 
+903	Why is it so important to dream ? 	Rüya görmek senin için neden bu kadar önemli ? 
+904	In my dreams , we 're still together . 	Rüyalarımda hâlâ birlikteyiz . 
+905	These are n't just dreams . 	Bunlar sadece rüya değil . 
+906	These are memories . 	Bunlar senin anıların . 
+907	And you said never to use memories . 	Asla anıları kullanma demiştin . 
+908	I know I did . 	Biliyorum . 
+909	You 're trying to keep her alive . 	Onu hayatta tutmaya çalışıyorsun . Gitmesine izin vermiyorsun . 
+910	You ca n't let her go . 	
+911	You do n't understand . 	Anlamıyorsun . 
+912	These are moments I regret . 	Bunlar pişman olduğum , değiştirmek zorunda olduğum anlar . 
+913	They 're memories that I have to change . 	Bunlar pişman olduğum , değiştirmek zorunda olduğum anlar . 
+914	Well , what 's down there that you regret ? 	Orada pişman olduğun ne var ? 
+915	Listen , there 's only one thing you need to understand about me . 	Hakkımda bilmen gereken bir şey var . 
+916	This is your house ? 	Burası senin evin mi ? 
+917	Mine and Mal 's , yes . 	Evet , Mal ve benim evim . 
+918	Where is she ? 	O nerede ? 
+919	She 's already gone . 	Çoktan öldü . 
+920	That 's my son , James . 	Bu oğlum James . 
+921	He 's digging for something , maybe a worm . 	Bu oğlum James . 
+922	That 's Phillipa . 	Bu da Phillipa . 
+923	I thought about calling out to them ... 	Bu da Phillipa . 
+924	so they 'd turn and smile and I could see ... 	böylece dönüp gülümseyeceklerdi ve ... 
+925	those beautiful faces of theirs , but it 's all too late . 	o güzel yüzlerini görebilecektim ama artık çok geç . 
+926	Right now or never , Cobb . 	Ya şimdi ya hiç Cobb . 
+927	Then I start to panic . 	Sonra paniğe kapılmaya başladım . 
+928	I realize I 'm gonna regret this moment ... 	Sonra paniğe kapılmaya başladım . 
+929	that I need to see their faces one last time . 	pişman olacağımı hissettim . 
+930	James ! 	James , Phillipa ! 
+931	Phillipa ! 	Haydi içeri . 
+932	Come on in ! 	
+933	But the moment 's past . 	Ama o an geçip gitmişti . 
+934	And whatever I do , I ca n't change this moment . 	Ne yaparsam yapayım bu anı değiştiremem . 
+935	As I m about to call out to them ... 	Onlara seslenecektim ... 
+936	they run away . 	ama koşup uzaklaştılar . 
+937	If I m ever gonna see their faces again , I 've gotta get back home . 	Eve dönemezsem gerçek hayatta bir daha asla ... 
+938	The real world . 	yüzlerini göremeyeceğim . 
+939	What are you doing here ? 	Senin ne işin var burada ? 
+940	My name is -- 	- Adım-- - Kim olduğunu biliyorum . 
+941	I know who you are . 	Burada ne işin var ? 
+942	What are you doing here ? 	
+943	I 'm just trying to understand . 	Sadece anlamaya çalışıyorum . 
+944	How could you understand ? 	Nasıl anlayabilirsin ki ? 
+945	Do you know what it is to be a lover ? 	Aşık olmanın ne demek olduğunu biliyor musun ? 
+946	To be half of a whole ? 	Bir bütünün yarısı olmayı ? 
+947	No . 	Hayır . 
+948	I 'll tell you a riddle . 	Sana bir bilmece sorayım . 
+949	You 're waiting for a train . 	Bir tren bekliyorsun . 
+950	A train that will take you far away . 	Seni uzaklara götürecek bir tren . 
+951	You know where you hope this train will take you ... 	Trenin seni nereye götürmesini umduğunu biliyorsun ... 
+952	but you do n't know for sure . 	ama emin değilsin . 
+953	But it does n't matter . 	Ama önemi yok . 
+954	How can it not matter to you where that train will take you ? 	Bir trenin seni nereye götüreceğini nasıl umursamazsın ? 
+955	Because you 'll be together . 	Çünkü birlikte olacaksınız . 
+956	How could you bring her here , Dom ? 	Onu buraya nasıl getirirsin Dom ? Burası neresi böyle ? 
+957	- What is this place ? 	
+958	This is a hotel suite where we used to spend our anniversary . 	Yıldönümümüzü kutlayacağımız otel odası . 
+959	What happened here ? 	Burada ne oldu ? 
+960	You promised ! 	Söz vermiştin ! 
+961	You promised we 'd be together ! 	Birlikte olacağımıza söz vermiştin ! 
+962	Please , I need you to stay here just for now ! 	Lütfen , şimdilik burada kalmalısın . 
+963	You said we 'd be together ! 	Birlikte olacağız , birlikte yaşlanacağız demiştin . 
+964	You said we 'd grow old together ! 	
+965	I 'll come back for you . 	Geri geleceğim . Söz veriyorum . 
+966	I promise . 	
+967	Do you think you can just build a prison of memories to lock her in ? 	Anılarından oluşan bir hapishane ile onu kapalı tutabileceğini mi sanıyorsun ? 
+968	Do you really think that that 's gonna contain her ? 	Sence bu onu zaptetmeye yarayacak mı ? 
+969	It 's time . 	Zaman geldi . 
+970	Maurice Fischer just died in Sydney . 	Zaman geldi . 
+971	- When 's the funeral ? 	- Cenaze ne zaman ? 
+972	- Thursday . 	- Perşembe günü . 
+973	In Los Angeles . 	Los Angeles 'da . 
+974	Robert should accompany the body no later than Tuesday . 	Robert , cenazeye eşlik etmek için en geç Salı günü uçacaktır . - Harekete geçmeliyiz . - Tamam . 
+975	We should move . 	
+976	All right . 	
+977	- Cobb , I m coming with you . 	- Cobb , ben de seninle geleceğim . 
+978	- I promised Miles . 	- Olmaz , Miles 'a söz verdim . 
+979	No . 	
+980	The team needs someone who understands what you 're struggling with . 	Takımın içinde , ne ile uğraştığını anlayan birine ihtiyacın olacak . 
+981	And it does n't have to be me ... 	Bu ben olmayacaksam , Arthur 'a ne gördüğümü anlatman gerekecek . 
+982	but then you have to show Arthur what I just saw . 	Bu ben olmayacaksam , Arthur 'a ne gördüğümü anlatman gerekecek . 
+983	Get us another seat on the plane . 	Uçakta bir yer daha ayarlayın . 
+984	lf I get on this plane and you do n't honor our agreement ... 	Bu uçağa binersem ve anlaşmaya uymazsan , uçaktan iner inmez ... 
+985	when we land , I go to jail for the rest of my life . 	hayatımın sonuna kadar hapsi boylarım . 
+986	Complete the job en route ... 	Görevi tamamlayın , uçaktan bir telefon açıp ... 
+987	I make one phone call from the plane ... 	göçmenlikle ilgili tüm sorunlarınızı ortadan kaldırırım . 
+988	you have no trouble getting through Immigration . 	göçmenlikle ilgili tüm sorunlarınızı ortadan kaldırırım . 
+989	- I m sorry . 	- Affedersiniz . - Evet , tabii . Teşekkür ederim . 
+990	- Oh , yeah , absolutely . 	
+991	Thank you . 	
+992	Excuse me , I think this is yours ? 	Affedersiniz , sanırım bu size ait . 
+993	You must have dropped it . 	Düşürdünüz herhalde . 
+994	Would you care for a drink ? 	İçecek bir şey alır mıydınız ? 
+995	Oh . 	- Su lütfen . 
+996	Water , please . 	- Bana da aynısından lütfen . 
+997	Oh , um , same , please . 	
+998	Um ... 	
+999	Thank you . 	Teşekkürler . 
+1000	You know , I could n't help but notice ... 	Kusura bakmayın ama dikkatimi çekti . 
+1001	but you would n't happen to be related to the Maurice Fischer , would you ? 	Şu ünlü Maurice Fischer ile bir akrabalığınız olabilir mi acaba ? 
+1002	Yes , he , um ... 	Evet ... 
+1003	He was my father . 	Evet ... 
+1004	Well , he was a very inspiring figure . 	Gerçekten de ilham verici bir insandı . 
+1005	I 'm sorry for your loss . 	Başınız sağ olsun . 
+1006	- Here you go . 	- Buyrun . 
+1007	- Thank you . 	- Teşekkür ederim . 
+1008	Hey . 	Babanıza . 
+1009	To your father . 	Babanıza . 
+1010	May he rest in peace , huh ? 	Huzur içinde yatsın . 
+1011	- Could n't have peed before you went under ? 	- Uyumadan önce işeyemedin mi ? 
+1012	- Sorry . 	- Affedersiniz . 
+1013	Bit too much free champagne before takeoff ? 	Bedava şampanyayı fazla mı kaçırdın Yusuf ? 
+1014	Ha , ha , bloody ha . 	Aman ne komik . 
+1015	We know he 's gonna be looking for a taxi in this weather . 	En azından bu havada , bir taksiye ihtiyacı olacak . 
+1016	- Asshole ! 	Göt herif ! - Ne yaptığını-- - Uzaklaş . 
+1017	Hey , man , why do n't you try -- ? 	
+1018	- Walk away . 	
+1019	Just have him ca -- I gotta go . 	Kapatmalıyım . 
+1020	All right . 	Taksi ! Teşekkür ederim . 
+1021	Taxi . 	
+1022	Thank you . 	
+1023	All right , Third and Market . 	Third _et_ Market caddesine çabuk . 
+1024	Snappy . 	
+1025	- What are you doing ? 	- Ne yapıyorsun ? 
+1026	- Sorry , I thought it was free . 	- Pardon , boş olduğunu sandım . 
+1027	- It s not . 	- Hayır değil ! 
+1028	- Maybe we could share . 	- Belki paylaşabiliriz . 
+1029	Maybe not . 	Hayır , olmaz . 
+1030	Can you pull over and get this -- ? 	Kenara çeker-- 
+1031	Great . 	Harika . 
+1032	Come on . 	Hadi atla . 
+1033	There 's 500 in there . 	İçinde 500 dolar var , cüzdan daha fazla eder . 
+1034	The wallet 's worth more than that . 	
+1035	You might at least drop me at my stop . 	En azından beni gideceğim yere bırakın . 
+1036	I 'm afraid that it does n't -- 	Korkarım bunu-- 
+1037	- Cover him ! 	- Onu koru . 
+1038	- Down ! 	- Eğil , eğil ! 
+1039	Down now ! 	Ne oluyor be ? 
+1040	What the hell is going on ? 	Ne oluyor be ? 
+1041	This was n't in the design . 	Tasarımda bu yoktu . 
+1042	Cobb ? 	Cobb , Cobb ? 
+1043	Cobb ? 	Cobb , Cobb ? 
+1044	Get him ! 	Vur onu ! 
+1045	Are you all right ? 	İyi misin ? 
+1046	Yeah , I m okay . 	Evet , ben iyiyim . 
+1047	I 'm okay . 	Evet , ben iyiyim . 
+1048	Fischer 's okay , unless he gets carsick . 	Evet , ben iyiyim . 
+1049	Saito ? 	Fischer da iyi . Araba tutmazsa tabii . Saito ? 
+1050	Get Fischer in the back room now . 	Fischer 'ı arka odaya götürün hemen . 
+1051	- Get him in the back room . 	- Arka odaya götürün . 
+1052	Move . 	- Ne oldu ? 
+1053	- What the hell happened ? 	
+1054	Has he been shot ? 	- Vuruldu mu ? 
+1055	Is he dying ? 	Ölüyor mu ? 
+1056	I do n't know . 	- Bilmiyorum . Tanrım ! 
+1057	- Jesus Christ . 	
+1058	What happened to you ? 	- Neredeydiniz , ne oldu sana böyle ? 
+1059	- Blocked by a freight train . 	- Önümüze bir yük treni çıktı . 
+1060	Why put a train in a downtown intersection ? 	- Şehrin ortasından niye tren geçirdin ? 
+1061	- I did n't . 	- Ben yapmadım ! - Nereden çıktı o zaman ? - Ben sana bir şey sorayım . 
+1062	- Where 'd it come from ? 	
+1063	Why the hell were we ambushed ? 	Neden pusuya düşürüldük ? 
+1064	Those were not normal projections . 	Bunlar normal yansıma değildi . 
+1065	They 'd been trained , for God 's sakes . 	Tanrı aşkına bunlar eğitimliydi ! - Haklısın . 
+1066	- How could he be trained ? 	- Nasıl eğitimli olabilirler ? 
+1067	- Fischer 's had an extractor ... 	Fischer bilinçaltına giren hırsızları engellemek için bir eğitim almış olmalı . 
+1068	teach his subconscious to defend itself , so his subconscious is militarized . 	Fischer bilinçaltına giren hırsızları engellemek için bir eğitim almış olmalı . Bilinçaltı korunuyordu . 
+1069	It should 've shown in the research . 	
+1070	Why the hell did n't it ? 	- Peki neden gözükmedi ? 
+1071	- Calm down . 	- Sakin ol . 
+1072	Do n't tell me to calm down ! 	Bana sakin ol falan deme . 
+1073	This was your job , goddamn it ! 	Bana sakin ol falan deme . 
+1074	This was your responsibility ! 	Bu senin görevindi , senin sorumluluğundu ! 
+1075	You were meant to check Fischer 's background ! 	Fischer 'ın geçmişini daha iyi araştırmalıydın ! 
+1076	- We are not prepared for this ! 	Böyle bir şeye hazırlıklı değildik ! Daha önce de bilinçaltı güvenliğiyle başa çıktığımız oldu . 
+1077	- We have dealt with sub-security before ! 	
+1078	We 'll be more careful and we 're gonna be fine ! 	Biraz daha dikkatli olursak sorun çıkmaz . 
+1079	This was not a part of the plan ! 	Bu plânın bir parçası değildi . 
+1080	He 's dying . 	Tanrı aşkına , adam ölüyor ! 
+1081	Put him out his misery . 	- Acısına son vereyim . 
+1082	- No , do n't do that ! 	- Ateş edeyim deme ! - Cobb , hey . - Yapma bunu ! 
+1083	Do n't do that . 	
+1084	- Cobb , hey , hey . 	
+1085	He 's in agony . 	Acı çekiyor , onu uyandıracağım . 
+1086	I m waking him up . 	- Hayır , bu onu uyandırmaz . 
+1087	No . 	- Hayır , bu onu uyandırmaz . 
+1088	It wo n't wake him up . 	- Uyandırmaz da ne demek ? 
+1089	What do you mean , it wo n't wake him up ? 	- Uyandırmaz . 
+1090	When we die in a dream , we wake up . 	- Rüyadayken ölürsek uyanırız . 
+1091	Not from this . 	Bu seferkinde olmaz . 
+1092	We 're too heavily sedated to wake up that way . 	Bu seferkinde olmaz . 
+1093	Right . 	Peki o zaman burada ölürsek ne olur ? 
+1094	So , what happens when we die ? 	
+1095	- We drop into limbo . 	Arafa düşeriz . 
+1096	- Are you serious ? 	- Ciddi misin sen ? 
+1097	- Limbo ? 	- Araf mı ? - Sınırları olmayan rüyalar âlemi . - Orada ne var peki ? 
+1098	- Unconstructed dream space . 	
+1099	What the hell is down there ? 	Saf , sınırsız bilinçaltı . 
+1100	- Just raw , infinite subconscious . 	Orada hiçbir şey yoktur ! 
+1101	Nothing is down there , except for what might have been left behind ... 	Daha önce rüyayı paylaşıp , arafa düşenlerin geride bıraktıkları hariç . 
+1102	by anyone sharing the dream who 's been trapped there before . 	Daha önce rüyayı paylaşıp , arafa düşenlerin geride bıraktıkları hariç . 
+1103	Which , in our case , is just you . 	Bizim vakamızda bu sen oluyorsun . 
+1104	- How long could we be stuck ? 	- Orada ne kadar süre sıkışıp kalabiliriz ? 
+1105	- Ca n't even think about ... 	- Orada ne kadar süre sıkışıp kalabiliriz ? 
+1106	- ... 	- Orada ne kadar süre sıkışıp kalabiliriz ? 
+1107	trying to escape until the sedation -- - How long ? 	- Yatıştırıcının etkisi geçene-- Ne kadar ? 
+1108	Decades . 	Onlarca yıl , belki de sonsuza dek . Bilmiyorum . O daha önce oradaydı , ona sorun . 
+1109	It could be infinite . 	Onu yukarı çıkaralım . 
+1110	Ask him , he 's the one who 's been there . 	Onu yukarı çıkaralım . 
+1111	Let 's get him upstairs . 	Onu yukarı çıkaralım . 
+1112	Great . 	Harika . 
+1113	Thank you . 	Harika . 
+1114	So now we 're trapped in Fischer 's mind , battling his own private army . 	Fischer 'ın zihninde , peşimizde korumalarından bir orduyla tıkılı kaldık ... 
+1115	And if we get killed ... 	ve bizi öldürürlerse , beynimiz buharlaşana kadar arafta kalacağız . 
+1116	we 'll be lost in limbo till our brains turn to scrambled egg , hmm ? 	ve bizi öldürürlerse , beynimiz buharlaşana kadar arafta kalacağız . 
+1117	Someone got first aid ? 	İlk yardım çantası var mı ? 
+1118	- You knew these risks and did n't tell us ? 	Yani böyle bir riskten haberin vardı ... - ... ama bize söylemedin öyle mi ? 
+1119	- There were n't meant to be risks . 	- Böyle risklerin olmaması gerekiyordu . 
+1120	- I did n't know we 'd be dealing with gunfire . 	Silahlı saldırıya uğrayacağımızdan haberim yoktu . 
+1121	- You had no right . 	- Bunu yapmaya hakkın yoktu . 
+1122	This was the only way to go three layers deep . 	- Bunu yapmaya hakkın yoktu . 
+1123	You knew about this and went along with it ? 	Ya sen , bunu bilmene rağmen devam mı ettin ? 
+1124	I trusted him . 	Ona güvendim . 
+1125	When ? 	Güvendin mi ? 
+1126	When he promised you half his share ? 	Ne yani , sana kendi payının yarısını mı vereceğini söyledi ? 
+1127	No . 	Hayır . 
+1128	His whole share . 	Tüm payını vereceğini söyledi . 
+1129	Besides , he said he 'd done it before . 	- Bunu daha önce yaptığını da söyledi . 
+1130	What , with Mal ? 	- Daha önce mi ? 
+1131	Because that worked so good ? 	- O çok iyi gitmişti sanki de . 
+1132	That has nothing to do with it . 	Onunla bir ilgisi yok . Çocuklarıma kavuşabilmek için yapmam gerekeni yaptım . 
+1133	I did what I had to to get to my children . 	
+1134	You led us into a war zone with no way out ? 	Çıkışı olmayan bir savaş alanına girmemize izin verdin . 
+1135	There is a way out . 	Bir çıkışı var . 
+1136	We continue on with the job , and we do it as fast as possible ... 	İşimizi yapmaya devam eder ve yapabildiğimiz kadar ... 
+1137	and we get out using the kick , just like before . 	hızlı yaparsak , tıpkı öncekiler gibi bir dürtme ile buradan çıkabiliriz . 
+1138	Forget it . 	Unut gitsin , derine indikçe risk artar . 
+1139	We go any deeper , we just raise the stakes . 	
+1140	I am sitting this one out on this level . 	Bu katmanda oturup bekleyeceğim . 
+1141	Fischer 's security is surrounding this place . 	Biz burada konuşurken , Fischer ın korumaları etrafımızı sarmıştır . 
+1142	Ten hours of flight time is a week at this level . 	Bu katmandayken 10 saatlik bir uçuş , rüyada 1 hafta anlamına gelir . 
+1143	That means each and every one of us will be killed . 	Bu şekilde hepimiz öldürülebiliriz . 
+1144	That I can guarantee you . 	Bunu garanti ederim . 
+1145	We have no other choice but to continue on and do it as fast as possible . 	Devam edip bu işi mümkün olduğu kadar kısa sürede bitirmekten başka çaremiz yok . 
+1146	Downwards is the only way forwards . 	İlerlemekten başka seçeneğimiz yok . 
+1147	Get ready . 	Hazırlanın . 
+1148	You , come on . 	Hadi , onu kendine getir . 
+1149	Let 's go shake him up . 	
+1150	I 'm insured against kidnapping for up to 10 million . 	Kaçırılmaya karşı 10 milyonluk sigortam var . 
+1151	- This should be very simple . 	Bu iş oldukça kolay hallolur . Kes sesini ! Kolay olmayacak . 
+1152	- Shut up ! 	
+1153	It wo n't be . 	
+1154	In your father 's office , below the bookshelves ... 	Babanın ofisinde , kitaplığın altında bir kasa var . 
+1155	is his personal safe . 	Babanın ofisinde , kitaplığın altında bir kasa var . 
+1156	We need the combination . 	Şifreyi bilmek istiyoruz . 
+1157	I do n't know any safe . 	- Kasadan falan haberim yok . 
+1158	That does n't mean you do n't know the combination . 	- Kasadan falan haberim yok . 
+1159	Tell us what it is . 	Bize şifreyi söyle . 
+1160	I do n't know . 	Bilmiyorum . 
+1161	We have it on good authority you do know . 	Yetkili kişi , bize bildiğini söyledi ama . 
+1162	Yeah ? 	Kimmiş bu yetkili kişi ? 
+1163	Whose authority ? 	
+1164	- Five hundred dollars , this cost . 	- Bu şey 500 dolar mı yani ? 
+1165	- What 's inside it ? 	- İçinde ne var ? 
+1166	Cash , cards , ID . 	Para , kredi kartları , kimlik . 
+1167	And this . 	Bir de bu . 
+1168	Useful ? 	Bir işe yarar mı ? 
+1169	Maybe . 	Belki . 
+1170	You 're on . 	Belki . 
+1171	You 've got an hour . 	Sıra sende . 
+1172	An hour ? 	Bir saat mi ? 
+1173	I was supposed to have all night to crack this . 	Bunu yapmak için bütün gece vaktim olacaktı . 
+1174	And Saito was n't supposed to be shot in the chest . 	Saito da göğsünden vurulmayacaktı . 
+1175	You 've got one hour , now get us something useful , please . 	Bir saatin var . 
+1176	- What 's that ? 	Bu da ne ? 
+1177	- Good authority . 	Yetkili kişi . 
+1178	Uncle Peter . 	- Peter Amca . 
+1179	Just make them stop . 	Durmasını söyle . 
+1180	- The combination . 	- Kasanın şifresi ? 
+1181	- I do n't know it . 	- Bilmiyorum . 
+1182	- Why does Browning say you do ? 	Browning neden bildiğini söylüyor ? 
+1183	- I do n't know . 	Bilmiyorum . 
+1184	Just let me talk to him and I ll find out . 	Bilmiyorum . 
+1185	You have one hour . 	Tam bir saatin var . Konuşmaya başla . 
+1186	Start talking . 	
+1187	You all right ? 	
+1188	You okay ? 	İyi misin ? 
+1189	Those bastards have had at me for two days . 	Bu pislikler iki gündür bana işkence ediyorlar . 
+1190	They have someone with access to your father 's office . 	Birileri babanın ofisine girmiş ve kasayı açmaya çalışıyor . 
+1191	- They 're trying to open his safe . 	Birileri babanın ofisine girmiş ve kasayı açmaya çalışıyor . 
+1192	- Yeah . 	Evet . 
+1193	They thought I 'd know the combination , but I do n't know it . 	Benim şifreyi bildiğimi sandılar ama bilmiyorum . 
+1194	- Yeah , well , neither do I , so ... 	Evet , ben de öyle . Ne ? 
+1195	- What ? 	
+1196	Maurice told me that when he passed , you were the only one able to open it . 	Maurice ölmeden önce bana , onu açabilecek tek kişinin sen olduğunu söylemişti . 
+1197	No , he never gave me any combination . 	Hayır , bana hiç şifre falan vermedi . 
+1198	Maybe he did . 	Belki de vermiştir . Belki de sen onun şifre olduğunun farkında değilsindir . 
+1199	I mean , maybe you just did n't know it was a combination . 	
+1200	Well , what , then ? 	- Ne yani ? 
+1201	I do n't know , some meaningful combination of numbers ... 	- Ne yani ? 
+1202	based on your experiences with Maurice . 	bazı ortak anılarla ilgili olabilir . 
+1203	We did n't have very many , uh , meaningful experiences together . 	Pek de fazla kayda değer anılarımız olmadı . 
+1204	Perhaps after your mother died . 	Belki de annen öldükten sonra olan bir şeydir . 
+1205	After my mother died , you know what he told me ? 	Annem öldükten sonra bana ne dedi , biliyor musun ? 
+1206	Robert , there 's really nothing to be said . 	Robert , gerçekten söylenecek hiçbir şey yok . 
+1207		
+1208	Oh , well , he was bad with emotion . 	- Morali bozuktu . 
+1209	I was 11 , Uncle Peter . 	- Morali bozuktu . 
+1210	- How 's he doing ? 	- Durumu nasıl ? 
+1211	- He 's in a lot of pain . 	- Çok ağrısı var . 
+1212	When we get down to the lower levels , the pain will be less intense . 	Alt katmanlara indiğimizde acısı hafifleyecek . 
+1213	And if he dies ? 	Peki ya ölürse ? 
+1214	Worst-case scenario ? 	En kötü ihtimalle , uyandığında zihninde hiçbir şey kalmamış olacak . 
+1215	When he wakes up , his mind is completely gone . 	En kötü ihtimalle , uyandığında zihninde hiçbir şey kalmamış olacak . 
+1216	Cobb , I 'll still honor the arrangement . 	Cobb , yine de anlaşmaya sadık kalacağım . 
+1217	I appreciate that , Saito . 	Buna minnettarım Saito ama uyandığında ... 
+1218	But when you wake up , you wo n't even remember that we had an arrangement . 	bir anlaşma yaptığımızı bile hatırlamayacaksın . 
+1219	Limbo is gonna become your reality . 	Araf , senin gerçekliğin olacak . 
+1220	You 're gonna be lost down there so long that you 're gonna become an old man . 	Orada o kadar uzun zaman kalacaksın ki , yaşlı bir adam olacaksın . 
+1221	Filled with regret ? 	Pişmanlıklarla dolu mu ? 
+1222	Waiting to die alone . 	Yalnız başına ölmeyi bekleyen . 
+1223	No . 	
+1224	I 'll come back . 	Hayır , geri döneceğim ve ikimiz de tekrar genç olacağız . 
+1225	And we 'll be young men together again . 	Hayır , geri döneceğim ve ikimiz de tekrar genç olacağız . 
+1226	Breathe . 	Nefes al . 
+1227	These people are gonna kill us if we do n't give them the combination . 	Şifreyi vermezsek , bu herifler bizi öldürecek . 
+1228	- They just wanna ransom us . 	- Sadece fidye istiyorlar . 
+1229	- I heard them . 	- Onları duydum . 
+1230	They 're gonna lock us in that van , and then drive it into the river . 	Bizi şu minibüse tıkıp , nehire atacaklar . 
+1231	All right . 	- Pekâlâ , kasada ne var ? 
+1232	What is in the safe ? 	- Pekâlâ , kasada ne var ? 
+1233	Something for you . 	- Pekâlâ , kasada ne var ? 
+1234	Maurice always said it was his most precious gift to you . 	Maurice her zaman , senin için çok değerli bir hediye olduğunu söylerdi . 
+1235	- A will . 	Vasiyet . - Maurice 'in vasiyeti açıklandı . - Bu alternatif bir vasiyet . 
+1236	- Maurice 's will is with Port and Dunn . 	
+1237	That 's an alternate . 	Bunu istersen diğeri iptal olacak . 
+1238	This would supersede the other if you want it to . 	Bunu istersen diğeri iptal olacak . 
+1239	It splits up the component businesses of Fischer Morrow . 	Bu vasiyetname ile Fischer-Morrow şirketleri resmen ayrılacak ... 
+1240	It 'd be the end of the entire empire as we know it . 	ve sonuçta tüm imparatorluk dağılmış olacak . 
+1241	Destroying my whole inheritance ? 	Kendi mirasımı yok mu edeceğim ? 
+1242	- Why would he suggest such a thing ? 	Neden böyle bir şey yapmamı istesin ki ? Bilmiyorum . 
+1243	- I just do n't know . 	
+1244	He loved you , Robert . 	Seni seviyordu Robert . 
+1245	In his own way . 	- Kendine has bir şekilde . 
+1246	In his own way . 	- Kendine has bir şekilde . 
+1247	At the end ... 	Ölürken , beni yanına çağırdı . 
+1248	he called me in to his deathbed . 	Ölürken , beni yanına çağırdı . 
+1249	He could barely speak . 	Zar zor konuşuyordu . 
+1250	But he took the trouble to tell me one last thing . 	Ama bana son bir şey söyleyebilmek için büyük bir çaba harcadı . 
+1251	He pulled me close . 	Beni yanına çekti ... 
+1252	And I could only make out ... 	söylediklerinden sadece bir kelimeyi anlayabildim . 
+1253	one word . 	söylediklerinden sadece bir kelimeyi anlayabildim . 
+1254	Disappointed . 	Hayal kırıklığı . 
+1255		
+1256	When were you in limbo ? 	Arafa ne zaman düştün ? 
+1257	You might have the rest of the team convinced to carry on with this job . 	Arafa ne zaman düştün ? 
+1258	- But they do n't know the truth . 	ikna edebilirsin ama onlar gerçeği bilmiyor . Gerçek mi ? Hangi gerçek ? 
+1259	- Truth ? 	
+1260	What truth ? 	
+1261	The truth that , at any minute , you might bring a freight train through the wall . 	Her an duvardan bir yük treni geçirebileceğin gerçeği . 
+1262	The truth that Mal is bursting through your subconscious . 	Mal 'ın bilinçaltın aracılığıyla şiddet saçtığı gerçeği . 
+1263	And the truth that , as we go deeper into Fischer ... 	Fischer 'ın zihninde derinlere indikçe seninkinde de iniyor olduğumuz gerçeği . 
+1264	we 're also going deeper into you . 	Fischer 'ın zihninde derinlere indikçe seninkinde de iniyor olduğumuz gerçeği . 
+1265	And I m not sure we 're gonna like what we find . 	Orada bulacağımız şeyin hoşumuza gideceğinden pek emin değilim . 
+1266	We were working together . 	Birlikte çalışıyorduk . 
+1267	We were exploring the concept of a dream within a dream . 	Rüya içinde rüyanın nasıl olacağı konusunda araştırmalar yapıyorduk . 
+1268	I kept pushing things . 	Sınırları zorlayıp sürekli daha derine inmeye çalışıyordum . 
+1269	I wanted to go deeper and deeper . 	Sınırları zorlayıp sürekli daha derine inmeye çalışıyordum . 
+1270	I wanted to go further . 	
+1271	I just did n't understand the concept that hours could turn into years down there ... 	Orada saatlerin , yıllara dönüşmesi olayını anlayamadım . 
+1272	that we could get trapped so deep ... 	Öyle derinde kapana kısıldık ki ... 
+1273	that when we wound up on the shore of our own subconscious ... 	bilinçaltlarımızın kıyılarında kaldık . 
+1274	we lost sight of what was real . 	Neyin gerçek olduğunu göremez olduk . 
+1275	We created . 	Kendimiz için bir dünya yarattık . 
+1276	We built the world for ourselves . 	
+1277	We did that for years . 	Yıllarımızı aldı ama kendi dünyamızı yarattık . 
+1278	We built our own world . 	
+1279	How long were you stuck there ? 	- Orada ne kadar süre kaldınız ? 
+1280	Something like 50 years . 	- Orada ne kadar süre kaldınız ? 
+1281	Jesus . 	Tanrım . 
+1282	How could you stand it ? 	Buna nasıl dayandın ? 
+1283	It was n't so bad at first , feeling like gods . 	Başlarda o kadar kötü değildi , Tanrı gibi hissediyorduk . 
+1284	The problem was knowing that none of it was real . 	Sorun , bunların gerçek olmadığını bilmemdi . 
+1285	Eventually , it just became impossible for me to live like that . 	Sonunda , benim için böyle yaşamak imkansız hâle geldi . 
+1286	And what about for her ? 	Peki ya onun için ? 
+1287	She had locked something away , something deep inside her . 	Derinlerde bir şey saklıyordu . 
+1288	A truth that she had once known , but chose to forget . 	Bildiği , ama unutmayı tercih ettiği bir gerçek . 
+1289	Limbo became her reality . 	Araf artık onun gerçekliği olmuştu . 
+1290	What happened when you woke up ? 	Uyandığınızda ne oldu peki ? 
+1291	Well , to wake up from that after years , after decades ... 	Yıllar sonra uyandığımızda ... 
+1292	to become old souls thrown back into youth like that ? 	genç bedenlerin içine tıkılmış yaşlı ruhlar gibiydik . 
+1293	I knew something was wrong with her . 	Onda bir sorun olduğunu biliyordum . 
+1294	She just would n't admit it . 	Ama o bunu kabul etmedi . 
+1295	Eventually , she told me the truth . 	Sonunda bana gerçeği söyledi . 
+1296	She was possessed by an idea . 	Sonunda bana gerçeği söyledi . 
+1297	This one very simple idea that changed everything . 	O ufacık fikir , her şeyi değiştirdi . 
+1298	That our world was n't real . 	Dünyamızın gerçek olmadığı ... 
+1299	That she needed to wake up to come back to reality ... 	ve gerçek hayata dönebilmek için uyanması gerektiği fikri . 
+1300	that in order to get back home ... 	Eve dönebilmek için de kendimizi öldürmeliydik . 
+1301	we had to kill ourselves . 	Eve dönebilmek için de kendimizi öldürmeliydik . 
+1302	- What about your children ? 	- Peki ya çocuklarınız ? 
+1303	- She thought they were projections ... 	- Onların birer yansıma olduğunu sanıyordu . 
+1304	that our real children were waiting for us up there somewhere . 	Gerçek çocuklarımızın bizi bir yerlerde beklediğini düşünüyordu . 
+1305	- I m their mother ! 	- Cobb , ben onların annesiyim . 
+1306	- Calm down . 	- Sakin ol ! 
+1307	I can tell the difference . 	Aradaki farkı anlayamaz mıyım sence ? 
+1308	If this is my dream , why ca n't I control this ? 	Bu benim rüyamsa neden kontrol edemiyorum ? 
+1309	You do n't know you 're dreaming ! 	Çünkü rüya gördüğünün farkında değilsin ! 
+1310	She was certain there was nothing I could do ... 	Öyle emindi ki ne kadar yalvarırsam yalvarayım ... 
+1311	no matter how much I begged , no matter how much I pleaded . 	yapabileceğim bir şey yoktu . 
+1312	She wanted to do it , but she could not do it alone . 	Bunu yapmak istiyordu ama beni o kadar çok seviyordu ki tek başına yapamıyordu . 
+1313	She loved me too much , so she came up with a plan on our anniversary . 	O yüzden yıldönümümüzde bir plân yaptı . 
+1314	- Sweetheart , what are you doing ? 	- Hayatım ne yapıyorsun ? 
+1315	- Join me . 	- Yanıma gel . 
+1316	Just -- Just step back inside . 	İçeri gir lütfen , olur mu ? 
+1317	All right ? 	Hadi , içeri gir . 
+1318	Just step back inside now , come on . 	
+1319	No . 	Hayır . Atlayacağım ve sen de benimle geleceksin . 
+1320	I 'm going to jump , and you 're coming with me . 	
+1321	No , I 'm not . 	Hayır atlamayacağım . 
+1322	Now , you listen to me . 	Hayır atlamayacağım . 
+1323	If you jump , you 're not gonna wake up , remember ? 	Atlarsan uyanmayacaksın , öleceksin . 
+1324	You 're gonna die . 	
+1325	Now , just step back inside . 	O yüzden lütfen içeri gir . 
+1326	Come on . 	
+1327	Step back inside so we can talk about this . 	- İçeri gir ve bu konuyu konuşalım . 
+1328	We 've talked enough . 	
+1329	- Mal . 	Mal . 
+1330	- Come out onto the ledge ... 	- Kenara gel , yoksa atlarım . 
+1331	- ... 	- Kenara gel , yoksa atlarım . 
+1332	or I ll jump right now . 	- Tamam . 
+1333	- Okay . 	
+1334	We 're gonna talk about this . 	Hadi bu konuyu konuşalım . 
+1335	All right ? 	Hadi bu konuyu konuşalım . 
+1336	- I m asking you to take a leap of faith . 	Kalbinin sesini dinlemeni istiyorum . Hayır tatlım . 
+1337	- No , honey . 	
+1338	No , I ca n't . 	Yapamam , yapamayacağımı biliyorsun . 
+1339	You know I ca n't do that . 	
+1340	Take a second , think about our children . 	Çocuklarımızı düşün . 
+1341	Think about James . 	James ve Phillipa 'yı düşün . 
+1342	Think about Phillipa , now . 	James ve Phillipa 'yı düşün . 
+1343	If I go without you , they 'll take them away anyway . 	Atlamazsan , çocukları yine de senden alacaklar . 
+1344	- What does that mean ? 	- Ne demek bu ? 
+1345	- I filed a letter with our attorney ... 	- Avukata bir mektup bıraktım . 
+1346	explaining how I 'm fearful for my safety . 	Güvenliğimden nasıl da endişe ettiğimi anlattım . 
+1347	How you 've threatened to kill me . 	Beni öldürmekle nasıl tehdit ettiğini . 
+1348	- Why did you do this ? 	- Bunu neden yaptın ? 
+1349	- I love you , Dom . 	- Seni seviyorum Dom . 
+1350	Why did -- ? 	Bunu bana neden yaptın ? 
+1351	Why would you do this to me ? 	Onları arkada bırakmaktan suçluluk duyma diye . 
+1352	I 've freed you from the guilt of choosing to leave them . 	Onları arkada bırakmaktan suçluluk duyma diye . 
+1353	We 're going home to our real children . 	Evimize , gerçek çocuklarımıza gideceğiz . 
+1354	Oh , no , no , no , Mal , you listen to me , all right ? 	Hayır , Mal . 
+1355	Mal , look at me , please ? 	Beni dinlemelisin . 
+1356	You 're waiting for a train . 	Bir tren bekliyorsun . 
+1357	- Mal , goddamn it , do n't do this ! 	- Kahretsin Mal , yapma bunu ! 
+1358	- A train that will take you far away . 	- Seni uzaklara götürecek bir tren . 
+1359	James and Phillipa are waiting for you ! 	James ve Phillipa seni bekliyorlar ! 
+1360	You know where you hope this train will take you , but you ca n't know for sure . 	Trenin seni nereye götürmesini umduğunu biliyorsun ... Bizi bekliyorlar ! 
+1361	- Mal , look at me ! 	- ... 
+1362	- But it does n't matter . 	ama emin olamıyorsun . - Mal , bana bak ! Ama önemi yok . 
+1363	- Mal , goddamn it ! 	- Mal , lanet olsun ! 
+1364	Mal , listen to me ! 	
+1365	- Because you 'll be together . 	- Çünkü birlikte olacaksınız . 
+1366	Sweetheart ! 	Hayatım bana bak ! Tanrım , Mal , olamaz ! 
+1367	Look at me ! 	
+1368	Mal , no ! 	
+1369	Jesus Christ ! 	
+1370	She had herself declared sane by three different psychiatrists . 	Üç farklı psikiyatristten , akıl sağlığı yerinde raporu almış . 
+1371	It made it impossible for me to try to explain the nature of her madness . 	Bu , Mal 'ın çılgınlığının sebebini açıklamamı imkansız hale getirdi . 
+1372	So I ran . 	Ben de kaçtım . 
+1373	Right now , or never , Cobb . 	Ya şimdi ya hiç Cobb . 
+1374	James ! 	
+1375	Phillipa ! 	
+1376	Come on in ! 	
+1377	Come on ! 	
+1378	All right , let 's go . 	Pekâlâ , gidelim . 
+1379	I left my children behind and I 've been trying to buy my way back ever since . 	Çocuklarımı terk ettim ve o zamandan beri onlara geri dönmeye çalışıyorum . 
+1380	Your guilt defines her . 	Onu yaratan , senin suçluluğun . 
+1381	It 's what powers her . 	Onu güçlü kılan şey bu . 
+1382	But you are not responsible for the idea that destroyed her . 	Ölmesine neden olan fikirden sen sorumlu değilsin . 
+1383	And if we are gonna succeed in this ... 	Bu işte başarılı olabilmemiz için ... 
+1384	you have to forgive yourself , and you 're gonna have to confront her . 	kendini affetmeli ve onunla yüzleşmelisin . 
+1385	But you do n't have to do that alone . 	- Bunu yalnız yapmak zorunda değilsin . 
+1386	- No , you 're not ... 	- Hayır . 
+1387	- I m doing it for the others . 	Bunu diğerleri için yapıyorum . 
+1388	Because they have no idea the risk they 've taken coming down here with you . 	Çünkü seninle derine inmenin ... ne kadar riskli bir şey olduğu konusunda hiçbir fikirleri yok . 
+1389	We have to move . 	- Buradan gitmeliyiz . 
+1390	Time 's up . 	- Buradan gitmeliyiz . 
+1391	All right . 	Bakın , ben şifre falan bilmiyorum . 
+1392	I do n't know any combination . 	Bilsem de farkında değilim . 
+1393	- Not consciously , anyway . 	Tahmin etmeye ne dersin ? 
+1394	- How about instinctively , huh ? 	
+1395	I got somebody in your father 's office right now ready to tap in the combination . 	Şu an birisi babanın ofisinde şifreyi girmek üzere bekliyor . 
+1396	Give me the first six numbers that come to your head right now . 	Aklına gelen ilk 6 sayıyı söyle hemen . 
+1397	- I have no idea . 	- Hiçbir fikrim yok . 
+1398	- Right now ! 	- Hemen ! 
+1399	I said , right now ! 	Hemen dedim , hemen ! 
+1400	Right now ! 	
+1401	Five , two , eight , four , nine , one . 	5 , 2 , 8 , 4 , 9 , 1 . 
+1402	You 'll have to do better than that . 	- Daha iyisini denemen gerekecek . 
+1403	All right . 	- Tamam , bağlayın . Biraz dolaşacağız . 
+1404	Bag them . 	
+1405	You 're going for a ride . 	
+1406	We 're worth more to you alive . 	Sağken daha çok para ederiz . 
+1407	You hear me ? 	Beni duydunuz mu ? 
+1408	What 'd you get ? 	Durum nedir ? 
+1409	Relationship with his father is worse than we imagined . 	Babasıyla ilişkisi sandığımızdan kötüymüş . 
+1410	This helps us how ? 	Bunun ne yardımı olacak ? 
+1411	The stronger the issues , the more powerful the catharsis . 	Sorunlar ne kadar büyükse duygularını o kadar çok açar . 
+1412	- How are we gonna reconcile them ? 	Araları böylesine kötüyken onları nasıl uzlaştıracağız ? 
+1413	- I m working on that . 	- Üzerinde çalışıyorum . 
+1414	Work faster . 	- Çabuk ol . Yansımalar hızla yaklaşıyor . 
+1415	The projections are closing in quick . 	
+1416	We gotta break out of here before we 're totally boxed in . 	Buradan çıkmalıyız yoksa kapana kısılacağız . 
+1417	Damn it . 	Daha büyük şeyler hayal etmekten korkmamalısın tatlım . 
+1418	You must n't be afraid to dream a little bigger , darling . 	Daha büyük şeyler hayal etmekten korkmamalısın tatlım . 
+1419	We need to shift his animosity from his father to his godfather . 	Babasına olan nefretini vaftiz babasına yönlendirmeliyiz . 
+1420	- Destroy his one positive relationship ? 	Tek iyi ilişkisini de yok mu edeceğiz ? Hayır , babasıyla ilişkisini düzelteceğiz ... 
+1421	- No , repair his relationship with his father ... 	ayrıca vaftiz babasının gerçek yüzünü görmüş olacak . 
+1422	whilst exposing his godfather 's true nature . 	ayrıca vaftiz babasının gerçek yüzünü görmüş olacak . 
+1423	We should charge Fischer a lot more than Saito for this job . 	Fischer 'ın bize bunun için Saito 'dan daha fazla ödemesi lazım . 
+1424	His security is gonna get worse as we go deeper . 	Güvenlik ne olacak ? 
+1425	- I think we run with Mr . Charles . 	Sanırım Bay Charles 'ı ortaya sürmeliyiz . Hayır . 
+1426	- No . 	
+1427	Who 's Mr . Charles ? 	- Bay Charles da kim ? 
+1428	- Bad idea . 	- Kötü fikir . 
+1429	The second we get into that hotel his security 's gonna be all over us . 	Otele girip Fischer 'a yaklaştığımız anda güvenliği tepemize biner . 
+1430	We run with Mr . Charles like on the Stein job . 	Stein işindeki gibi Bay Charles 'ı kullanacağız . 
+1431	- You 've done it before ? 	Daha önce yaptın yani . 
+1432	- Yeah , and it did n't work . 	Evet ama işe yaramadı . 
+1433	The subject realized he was dreaming and his subconscious tore us to pieces . 	Evet ama işe yaramadı . 
+1434	Excellent . 	Harika ! 
+1435	But you learned a lot , right ? 	Bundan bir şeyler öğrendin değil mi ? 
+1436	- I need some kind of distraction . 	- Dikkatini dağıtmamız gerek . 
+1437	- No problem . 	- Sorun değil . 
+1438	How about a lovely lady that I 've used before ? 	Daha önce de kullandığım güzel bayana ne dersin ? 
+1439	Listen to me . 	- Dinle , çok dikkatli sürmelisin tamam mı ? 
+1440	You drive carefully , all right ? 	- Tamam . 
+1441	Everything down there is gonna be unstable as hell . 	Alt katmana indiğimizde her şeyin dengesi bozulacak . 
+1442	Do n't jump too soon . 	Erken atlama . 
+1443	We only got one shot at that kick . 	Başarabilirsek sadece bir dürtme şansımız var . 
+1444	We gotta make it . 	Atlamadan önce müzik çalıp haber veririm , gerisi size kalmış . 
+1445	I 'll play the music to let you know it 's coming . 	Atlamadan önce müzik çalıp haber veririm , gerisi size kalmış . 
+1446	The rest is on you . 	- Hazır mısınız ? 
+1447	- You ready ? 	- Hazır mısınız ? 
+1448	- Ready ! 	- Şimdi ! 
+1449	Sweet dreams . 	Tatlı rüyalar . 
+1450	Am I boring you ? 	Seni sıkıyor muyum ? 
+1451	I was telling you my story . 	Hikâyemi anlatıyordum ama pek hoşuna gitmedi sanırım . 
+1452	I guess it was n't to your liking . 	
+1453	Um , I have a lot on my mind . 	Kafamda çok fazla şey var da . 
+1454	There goes Mr . Charles . 	İşte Bay Charles geliyor . 
+1455	Mr . Fischer , right ? 	Bay Fischer 'dı , değil mi ? 
+1456	Pleasure to see you again . 	Sizi tekrar gördüğüme sevindim . 
+1457	Rod Green from marketing . 	Ben pazarlamadan Rob Green . 
+1458	I -- 	
+1459	Hmm . 	
+1460	- And you must be ? 	- Siz de ? 
+1461	- Leaving . 	- Gidiyordum . 
+1462	In case you get bored . 	Belki sıkılırsın diye . 
+1463	Must 've blown you off . 	Yazdığı numara altı haneli değilse , size gerçek numarasını vermemiş demektir . 
+1464	That is , unless her phone number really is only six digits . 	Yazdığı numara altı haneli değilse , size gerçek numarasını vermemiş demektir . 
+1465	Funny way to make friends , someone stealing your wallet like that . 	Ayrıca birinin cüzdanını çalmak da , oldukça arkadaş canlısı bir hareket . 
+1466	Goddamn it . 	- Kahretsin , o cüzdan-- - 500 dolar değerindeydi değil mi ? 
+1467	The wallet alone is worth at least 500-- 	- Kahretsin , o cüzdan-- - 500 dolar değerindeydi değil mi ? 
+1468	About 500 , right ? 	- Kahretsin , o cüzdan-- - 500 dolar değerindeydi değil mi ? 
+1469	Do n't worry about it . 	Merak etmeyin . 
+1470	My people are already on it as we speak . 	Adamlarım çoktan peşine düştü bile . 
+1471	Who or what is Mr . Charles ? 	Bu Bay Charles tam olarak kimdir ? 
+1472	It 's a gambit designed to turn Fischer against his own subconscious . 	Fischer 'ı kendi bilinçaltına karşı çevirmek için tasarlanmış bir hile . 
+1473	And why do n't you approve ? 	Neden bunu onaylamıyorsun ? 
+1474	It involves telling the mark that he 's dreaming ... 	Çünkü ona rüyada olduğunu söylemek de gerekiyor . 
+1475	which involves attracting a lot of attention to us . 	Bu da üzerimize fazla dikkat çekmemize neden olur . 
+1476	- Did n't Cobb say never to do that ? 	Cobb bunu asla yapmayın dememiş miydi ? 
+1477	- Hmm . 	
+1478	So now you 've noticed how much time ... 	Cobb 'un asla yapmayın dediği şeyleri ne kadar çok yaptığını fark ettin demek . 
+1479	Cobb spends doing things he says never to do . 	Cobb 'un asla yapmayın dediği şeyleri ne kadar çok yaptığını fark ettin demek . 
+1480	Mr . Saito , can I have a moment ? 	- Bay Saito , bir saniyenizi alabilir miyim ? 
+1481	- I m sorry , but ... 	- Bay Saito , bir saniyenizi alabilir miyim ? 
+1482	- Hold on ! 	- Affedersiniz ama ... Durun bekleyin ! 
+1483	Wait ! 	
+1484	You look a bit perkier . 	- Daha canlı görünüyorsun . 
+1485	Very amusing , Mr . Eames . 	- Daha canlı görünüyorsun . 
+1486	Turbulence on the plane ? 	- Uçak türbülansa mı girdi ? 
+1487	No , it 's much closer . 	- Uçak türbülansa mı girdi ? 
+1488	That 's Yusuf 's driving . 	- Uçak türbülansa mı girdi ? 
+1489	Um , I 'm sorry . 	- Affedersiniz , adım ne demiştiniz ? 
+1490	Who did you say you were ? 	- Affedersiniz , adım ne demiştiniz ? 
+1491	Rod Green from marketing . 	- Affedersiniz , adım ne demiştiniz ? 
+1492	But that 's not true at all , is it ? 	Ama bu doğru değil , öyle değil mi ? 
+1493	My name is Mr . Charles . 	Adım , Bay Charles . 
+1494	You remember me , do n't you ? 	Beni hatırlıyorsunuz , değil mi ? 
+1495	I 'm the head of your security down here . 	Ben güvenlik şefinizim . 
+1496	Get out on a different floor , keep moving . 	Farklı katlarda inip , devam edelim . 
+1497	Dump the wallet . 	Farklı katlarda inip , devam edelim . 
+1498	Security will be looking for that . 	Cüzdandan kurtul . 
+1499	- Okay . 	Tamam . Cobb için zaman kazanmalıyız . 
+1500	- We need to buy Cobb a little more time . 	
+1501	Security , huh ? 	Güvenlik demek ? 
+1502	- You work for the hotel ? 	Güvenlik demek ? 
+1503	- No , no . 	Otelde mi çalışıyorsunuz ? 
+1504	I specialize in a very specific type of security . 	Hayır . 
+1505	Subconscious security . 	- Bilinçaltı güvenliği . 
+1506	You 're talking about dreams ? 	- Bilinçaltı güvenliği . 
+1507	Are you talking about , um , extraction ? 	Fikir hırsızlığından mı bahsediyorsunuz ? 
+1508	I am here to protect you . 	Sizi korumak için buradayım . 
+1509	Mr . Fischer , I m here to protect you in the event ... 	Bay Fischer , buraya sizi korumaya geldim ... 
+1510	that someone tries to access your mind through your dreams . 	çünkü birileri rüyalarınızda zihninize girmeye çalışıyor . 
+1511	You 're not safe here . 	Burada güvende değilsiniz . 
+1512	They 're coming for you . 	Sizin için geliyorlar . 
+1513	Strange weather , is n't it ? 	Tuhaf bir hava , değil mi ? 
+1514	You feel that ? 	Bunu hissedebiliyor musunuz ? 
+1515	What 's happening ? 	Neler oluyor ? 
+1516	Cobb 's drawing Fischer 's attention to the strangeness of the dream ... 	Cobb , Fischer 'ın dikkatini , rüyanın garipliğine çekmeye çalışıyor . 
+1517	which is making his subconscious look for the dreamer . 	Bu da bilinçaltını kimin rüyasında olduğunu aramaya yöneltiyor . 
+1518	For me . 	Yani beni . 
+1519	Quick , give me a kiss . 	Çabuk , öp beni . 
+1520	- They 're still looking at us . 	- Hâlâ bize bakıyorlar . 
+1521	- Yeah , it was worth a shot . 	- Denemeye değerdi . 
+1522	We should probably get out of here . 	Buradan gitmeliyiz . 
+1523	You feel that ? 	Hissettiniz mi ? 
+1524	You 've actually been trained for this , Mr . Fischer . 	Bunun için eğitilmiştiniz Bay Fischer . 
+1525	Pay attention to the strangeness of the weather , the shift in gravity . 	Havanın ve yer çekiminin tuhaflığına dikkat edin . 
+1526	None of this is real . 	Hiçbir şey gerçek değil . 
+1527	You 're in a dream . 	Bir rüyadasınız . 
+1528	Now , the easiest way for you to test yourself ... 	Kendinizi test etmenin en kolay yolu ... 
+1529	is to try and remember how you arrived at this hotel . 	otele nasıl geldiğinizi hatırlamaya çalışmaktır . 
+1530	Can you do that ? 	Bunu yapabilir misiniz ? 
+1531	Yeah , I ... 	- Evet , ben ... 
+1532	No , breathe , breathe . 	- Evet , ben ... 
+1533	Remember your training . 	- Nefes alın , eğitiminizi hatırlayın . 
+1534	Accept the fact that you 're in a dream , and I m here to protect you . 	Rüyada olduğunuzu ve benim sizi korumak için burada olduğumu hatırlayın . 
+1535	Go on . 	
+1536	Mm-hm . 	
+1537	- You 're not real ? 	- Sen gerçek değil misin ? 
+1538	- No . 	- Hayır , değilim . 
+1539	No . 	Bilinçaltınızın bir yansımasıyım . 
+1540	I 'm a projection of your subconscious . 	
+1541	I was sent here to protect you in the event ... 	Sizi rüyanızda zihninize girmeye çalışan ... 
+1542	that extractors tried to pull you into a dream . 	hırsızlara karşı korumak için görevlendirildim . 
+1543	And I believe that 's what 's going on right now , Mr . Fischer . 	Şu an bunun gerçekleştiğine inanıyorum Bay Fischer . 
+1544	Yeah . 	
+1545	Okay . 	Pekâlâ , tamam . 
+1546	Okay . 	Pekâlâ , tamam . 
+1547	Can you get me out of here ? 	- Beni buradan çıkarabilir misin ? 
+1548	Right away . 	- Beni buradan çıkarabilir misin ? 
+1549	Follow me . 	- Derhal . 
+1550	Hold on a second . 	
+1551	Jesus Christ ! 	Tanrım , ne yapıyorsun ? 
+1552	What are you doing ? 	Bu adamlar sizi kaçırmaları için gönderildi tamam mı ? 
+1553	These men were sent here to abduct you , all right ? 	Bu adamlar sizi kaçırmaları için gönderildi tamam mı ? 
+1554	If you want my help , you have to remain calm . 	Yardımımı istiyorsanız sakin olmalısınız . 
+1555	I need you to work with me , Mr . Fischer . 	Benimle işbirliği yapmalısınız Bay Fischer . 
+1556	If this is a dream , I should just kill myself to wake up , right ? 	Bu bir rüyaysa , uyanmak için kendimi öldürmeliyim , değil mi ? 
+1557	I would n't do that if I were you , Mr . Fischer . 	Yerinizde olsam bunu yapmazdım Bay Fischer . 
+1558	I believe they have you sedated , and if you pull that trigger ... 	Size yatıştırıcı verdiklerine eminim . 
+1559	you may not wake up . 	Size yatıştırıcı verdiklerine eminim . 
+1560	You may go into a further dream state . 	Daha derin bir rüya katmanına gidebilirsiniz . Ne demek istediğimi biliyorsunuz . 
+1561	Now , you know what I 'm talking about . 	
+1562	You remember the training . 	Eğitiminizi hatırlayın . 
+1563	Remember what I said to you . 	Eğitiminizi hatırlayın . 
+1564	Give me the gun . 	Eğitiminizi hatırlayın . 
+1565	- This room should be directly below 528 ? 	- Bu oda , tam 528 'in altındaki oda mı ? 
+1566	- Yeah . 	- Evet . 
+1567	Think , Mr . Fischer , think . 	Düşünün Bay Fischer . 
+1568	What do you remember from before this dream ? 	Düşünün Bay Fischer . 
+1569	There was , um , a lot of gunfire . 	Bir sürü silah sesi vardı . 
+1570	There was rain . 	Bir sürü silah sesi vardı . 
+1571	Uncle Peter . 	Peter Amca ! 
+1572	- Oh , my God , we 've been kidnapped . 	- Aman Tanrım , bizi kaçırmışlardı . 
+1573	- Where were they holding you ? 	- Sizi nerede tutuyorlardı ? 
+1574	- They had us in the back of a van . 	- Bizi bir minibüse bindirmişlerdi . 
+1575	- That explains the gravity shifts . 	- Bu , yer çekimindeki değişimi açıklar . 
+1576	You 're in the back of a van . 	Şu anda bir minibüsün içindesiniz . 
+1577	Keep going . 	Hatırlamaya devam edin . 
+1578	It had something to do with , um ... 	Bir şeyden bahsediyorlardı . 
+1579	Something to do with a safe . 	Bir kasadan . 
+1580	God , why is it so hard to remember ? 	Bir kasadan . 
+1581	It 's like trying to remember a dream after you 've woken up . 	Bu , uyandıktan sonra bir rüyayı hatırlamaya çalışmak gibidir . 
+1582	Listen , it takes years of practice . 	Bunun için yıllarca pratik yapmak gerekir . 
+1583	You and Browning have been pulled into this dream ... 	Browning ve sizi bu rüyaya çektiler ... 
+1584	because they 're trying to steal something from your mind . 	çünkü zihninizden bir şey çalmaya çalışıyorlar . 
+1585	I need you to focus and try and remember what that is . 	Konsantre olmanızı ve bunun ne olduğunu hatırlamanızı istiyorum . 
+1586	What is it , Mr . Fischer ? 	- Neydi o düşünün Bay Fischer ? 
+1587	Think ! 	- Bir şifre ! 
+1588	A combination . 	Aklıma ilk gelen numaraları söylememi istediler . 
+1589	They demanded the first numbers to pop into my head . 	
+1590	They 're trying to extract a number from your subconscious . 	Bilinçaltınızdan numaraları almaya çalışıyorlar . 
+1591	It can represent anything . 	Herhangi bir şeyi temsil ediyor olabilir . 
+1592	We 're in a hotel right now . 	Şu an bir oteldeyiz . 
+1593	We should try hotel rooms . 	Oda numaralarını denemeliyiz . 
+1594	What was the number , Mr . Fischer ? 	Numara neydi bay Fischer ? 
+1595	Try and remember for me . 	Hatırlamaya çalışın , bu çok önemli . 
+1596	This is very important . 	
+1597	Five . 	Beş , iki . 
+1598	Five , two-- It was something , it was a long number . 	Beş , iki . 
+1599	That 's good . 	- Çok uzun bir numaraydı . - Bu kadarı da başlangıç için yeterli . - Beşinci kat . 
+1600	We can start there . 	- Anlaşıldı . 
+1601	Fifth floor . 	- Anlaşıldı . 
+1602	Yep . 	- Anlaşıldı . 
+1603	- So do you use a timer ? 	- Zamanlayıcı mı kullanıyorsun ? 
+1604	- No , I have to judge it for myself . 	- Hayır , kendim karar veriyorum . 
+1605	While you 're all asleep in 528 , I wait for Yusuf 's kick . 	Siz 528 'de uyurken , ben Yusuf 'un dürtmesini bekleyeceğim . 
+1606	- Well , how will you know ? 	- Ne zaman olacağını nasıl bileceksin ? 
+1607	- His music warns me . 	- Müzik çalarak beni uyaracak . 
+1608	And then when the van hits the barrier of the bridge , that should be unmistakable . 	Minibüs köprünün bariyerine çarptığında hata olmamalı . 
+1609	So we get a nice synchronized kick . 	Böylece eşzamanlı bir dürtme gerçekleştirebiliriz . 
+1610	If it 's too soon , we wo n't get pulled out . 	Erken olursa uyanamayız . 
+1611	But if it 's too late , I wo n't be able to drop us . 	Erken olursa uyanamayız . 
+1612	- Well , why not ? 	- Neden ? 
+1613	- Because the van will be in freefall . 	- Çünkü minibüs serbest düşüşte olur . 
+1614	- Ca n't drop you without gravity . 	- Yerçekimi olmadan düşemeyiz . 
+1615	- Right . 	- Doğru . 
+1616	They 're with me . 	Benimle birlikteler . 
+1617	Go on . 	
+1618	Mr . Charles . 	- Bay Charles ! 
+1619	- Do you know what that is , Mr . Fischer ? 	- Bu nedir biliyor musunuz Bay Fischer ? Evet sanırım biliyorum . 
+1620	- Yeah , I think so . 	- Sizi uyutmaya çalışıyorlar . 
+1621	They were trying to put you under . 	- Sizi uyutmaya çalışıyorlar . 
+1622	- I m already under . 	- Zaten uykuda değil miyim ? 
+1623	- Under again . 	- Tekrar uyutmaya çalışıyorlar . 
+1624	What do you mean , a dream within a dream ? 	- Tekrar uyutmaya çalışıyorlar . 
+1625	Hey . 	- Değişmişsin . 
+1626	I see you 've changed . 	- Pardon . 
+1627	I 'm sorry ? 	
+1628	Oh , I m sorry . 	Affedersiniz , bir arkadaşımla karıştırdım . 
+1629	I mistook you for a friend . 	
+1630	Oh . 	Arkadaşınız yakışıklı biri olmalı . 
+1631	Good-looking fellow , I m sure . 	Arkadaşınız yakışıklı biri olmalı . 
+1632	No , no , no . 	Bu Fischer 'ın , Browning için yarattığı bir yansıma . 
+1633	That 's Fischer 's projection of Browning . 	
+1634	Let 's follow him and see how he behaves . 	Takip edip nasıl davranacağına bakalım . 
+1635	- Why ? 	Neden ? 
+1636	- Because how he acts will tell us ... 	Çünkü davranışına göre , Fischer istediğimiz gibi ... 
+1637	if Fischer is starting to suspect his motives the way we want him to . 	ondan şüphelenmeye başlamış mı anlayabiliriz . 
+1638	Shh . 	
+1639	- Uncle Peter . 	- Peter Amca ? 
+1640	- You said you were kidnapped together ? 	- Birlikte kaçırılmamış mıydınız ? 
+1641	Well , not exactly . 	Tam olarak öyle sayılmaz . 
+1642	They already had him . 	Onu daha önce kaçırmışlar . 
+1643	They were torturing him . 	- İşkence etmişler . 
+1644	And you saw them torture him ? 	- İşkence etmişler . 
+1645	The kidnappers are working for you ? 	- Kaçıranlar senin için mi çalışıyordu ? 
+1646	Robert . 	- Kaçıranlar senin için mi çalışıyordu ? 
+1647	You 're trying to get that safe open ? 	O kasayı açıp alternatif vasiyeti ele geçirmeye mi çalışıyordun ? 
+1648	To get the alternate will ? 	
+1649	Fischer Morrow has been my entire life . 	Fischer-Morrow imparatorluğuna ömrümü adadım . 
+1650	I ca n't let you destroy it . 	Onu yok etmene izin veremezdim . 
+1651	I 'm not gonna throw away my inheritance . 	Mirasımı dağıtacak değilim , neden yapayım ki ? 
+1652	I could n't let you rise to your father 's last taunt . 	Babanın son fikrini uygulamana izin veremezdim . 
+1653	- What taunt ? 	- Fikir mi ? 
+1654	- The will , Robert . 	- Vasiyet Robert ! 
+1655	That will ? 	O vasiyet ile seni son kez aşağılıyor . 
+1656	That 's his last insult . 	O vasiyet ile seni son kez aşağılıyor . 
+1657	A challenge for you to build something for yourself ... 	Kendi kendine bir şeyler başarmaya yönlendiriyor ... 
+1658	by telling you you 're not worthy of his accomplishments . 	ama aslında onun yerini doldurmaya layık olmadığını söylüyor . 
+1659	- What , but that he was , um , disappointed ? 	Onu hayal kırıklığına uğrattığımı . Üzgünüm . 
+1660	- I m sorry . 	
+1661	But he 's wrong . 	Ama yanılıyordu . 
+1662	You can build a better company than he ever did . 	Onunkinden çok daha iyi bir şirket kurabilirsin . 
+1663	Mr . Fischer ? 	Bay Fischer , yalan söylüyor . 
+1664	He 's lying . 	
+1665	- How do you know ? 	Nereden biliyorsun ? 
+1666	- Trust me , it 's what I do . 	Bana güvenin , benim işim bu . 
+1667	He 's hiding something , and we need to find out what that is . 	Bir şeyler gizliyor . Bunun ne olduğunu öğrenmeliyiz . 
+1668	I need you to do the same thing to him that he was going to do to you . 	Size yapacağı şeyin aynısını ona yapmanızı istiyorum . 
+1669	We 'll enter his subconscious and find out what he does n't want you to know . 	Bilinçaltına girip bilmenizi istemediği şeyin ne olduğunu öğrenin . 
+1670	All right . 	Tamam . 
+1671	He 's out . 	Uyudu . 
+1672	- Wait . 	Durun , şimdi tam olarak kimin bilinçaltına giriyoruz ? 
+1673	Whose subconscious are we going into exactly ? 	Durun , şimdi tam olarak kimin bilinçaltına giriyoruz ? 
+1674	We 're going into Fischer 's . 	Fisher 'ınkine giriyoruz 
+1675	I told him it was Browning 's so he 'd be a part of our team . 	ama ona Browning 'in olduğunu söyledim bu yüzden artık o da takımın bir üyesi . 
+1676	He 's gonna help us break into his own subconscious . 	Kendi bilinçaltına girmemize yardım edecek . 
+1677	That 's right . 	Evet . 
+1678	Security 's gonna run you down hard . 	Güvenlik seni kovalayacak . 
+1679	And I will lead them on a merry chase . 	Onlarla hoş bir kovalamaca oynayacağız . 
+1680	- Just be back before the kick . 	Dürtmeden önce dönmüş ol . İyi uykular Bay Eames . 
+1681	- Go to sleep , Mr . Eames . 	
+1682	You good ? 	Başlıyor muyuz ? 
+1683	Hey . 	Hey hazır mısın ? 
+1684	You ready ? 	
+1685	Yes , yes . 	Evet , evet iyiyim , hazırım . 
+1686	I m fine . 	
+1687	I m ready . 	
+1688	Cobb ? 	Cobb ? 
+1689	Cobb ? 	Cobb ? Aşağıda ne var ? 
+1690	What 's down there ? 	
+1691	Hopefully , the truth we want Fischer to learn . 	Fischer 'ın öğrenmesini istediğimiz gerçek . 
+1692	I mean , what 's down there for you ? 	Senin için ne var demek istedim ? 
+1693	Did you see that ? 	Bunu gördünüz mü ? 
+1694	Eames , this is your dream . 	Eames , bu senin rüyan . 
+1695	I need you to draw the security away from the complex , understand ? 	Güvenliği binadan uzaklaştırmanı istiyorum , anladın mı ? 
+1696	- Who guides Fischer in ? 	- Fischer 'ı içeri kim sokacak . 
+1697	- Not me . 	- Ben değil . 
+1698	If I know the route , everything could be compromised . 	- Güzergâhı öğrenirsem tehlikeli olabilir . 
+1699	- I designed the place . 	- Güzergâhı öğrenirsem tehlikeli olabilir . 
+1700	- No , you 're with me . 	- Burayı ben tasarladım . 
+1701	I could do it . 	- Hayır , sen benimlesin . 
+1702	All right . 	Tamam sen yoldan binaya gideceksin . 
+1703	Brief him on the route into the complex . 	Fischer , sen de onunla git . 
+1704	- Fischer , you 'll be going with him . 	Tamam . 
+1705	- All right . 	Sen ne yapacaksın ? 
+1706	What about you ? 	
+1707	You keep this live . 	Bu açık dursun , sürekli dinliyor olacağım . 
+1708	I 'll be listening in the whole time . 	
+1709	The windows on that upper floor are big enough for me to cover you from that tower . 	Üst kat pencereleri sizi güneydeki kuleden korumam için yeterince büyük , gördün mü ? 
+1710	You 're not coming in ? 	Sen gelmiyor musun ? 
+1711	In order to find out the truth about your father ... 	Hayır , babanla ilgili gerçeği öğrenmek için Browning 'in zihnine tek başına girmelisin . 
+1712	you 're gonna need to break into Browning 's mind on your own . 	Hayır , babanla ilgili gerçeği öğrenmek için Browning 'in zihnine tek başına girmelisin . 
+1713	Come on , Fischer ! 	Hadi Fischer . 
+1714	- Sound the alarm ! 	Alarmı çalın ! Haydi . 
+1715	Sound the alarm ! 	
+1716	- Go , go , go ! 	
+1717	Move ! 	
+1718	Go ! 	
+1719	Sod it . 	Ateş ediyorlar ! 
+1720	I hope you 're ready . 	Umarım hazırsınızdır . 
+1721	No , it 's too soon . 	Daha çok erken . 
+1722	Cobb , do you hear that ? 	Cobb , duyuyor musun ? 
+1723	I first noticed it about 20 minutes ago , I thought it was the wind up here . 	İlk kez 20 dakika önce duydum . 
+1724	Yeah , I hear it . 	- Rüzgârın sesi sanmıştım . 
+1725	It s music . 	- Duyuyorum , müzik bu . 
+1726	So , what do we do ? 	- Ne yapacağız ? 
+1727	We move fast . 	- Ne yapacağız ? 
+1728	Yusuf 's 10 seconds from the jump . 	Yusuf 10 saniye sonra atlayacak . 
+1729	Which gives Arthur three minutes . 	Bu da demek oluyor ki , Arthur 'un 3 dakikası var . 
+1730	- Hey ! 	
+1731	- That 's him ! 	
+1732	- Which gives us what ? 	- Bizim ne kadar zamanımız var ? 
+1733	- Sixty minutes . 	- 60 dakika . 
+1734	- Can they make that route in an hour ? 	Bir saatten kısa sürede o yolu gidebilirler mi ? Daha aşağı inip terasa ulaşmaları gerekiyor . 
+1735	- They have to climb to the terrace . 	O zaman daha düz yeni bir yola ihtiyaçları var . 
+1736	Then they need a new route , a more direct route . 	O zaman daha düz yeni bir yola ihtiyaçları var . 
+1737	It 's designed as a labyrinth . 	Bir labirent olarak tasarlandı . 
+1738	There must be access routes that cut through the maze . 	Labirenti kesen bir giriş olmalı değil mi ? 
+1739	Eames ? 	Eames . 
+1740	Did Eames add any features ? 	- Eames başka bir özellik ekledi mi ? 
+1741	I do n't think I should tell you . 	- Eames başka bir özellik ekledi mi ? 
+1742	We do n't have time for this . 	Buna vakit yok . 
+1743	Did he add anything ? 	Ekledi mi ? 
+1744	He added an air-duct system ... 	Labirenti kesecek bir havalandırma sistemi ekledi . 
+1745	- ... 	Labirenti kesecek bir havalandırma sistemi ekledi . 
+1746	that can cut through the maze . 	Güzel , bunu onlara anlat . 
+1747	- Good . 	
+1748	Explain it to them . 	
+1749	Paradox . 	Paradoks . 
+1750	What was that ? 	- Bu neydi ? 
+1751	- The kick . 	- Dürtme . 
+1752	Cobb ! 	- Cobb , kaçırdık mı ? 
+1753	Cobb , did we miss it ? 	- Evet , kaçırdık . 
+1754	Yeah , we missed it . 	
+1755	Man . 	Biriniz kahrolası bir kumsal hayal edemez miydi ? 
+1756	Could n't someone have dreamt up a goddamn beach ? 	Biriniz kahrolası bir kumsal hayal edemez miydi ? 
+1757	Huh ? 	
+1758	Uh-huh . 	
+1759	Well , what the hell do we do now ? 	Şimdi ne yapacağız ? 
+1760	We finish the job before the next kick . 	Bir sonraki dürtmeden önce işi bitireceğiz . 
+1761	- What next kick ? 	- Hangi dürtme ? 
+1762	- When the van hits the water . 	- Minibüs suya düşünce . 
+1763	If you d like to make a call , please hang up and try again . 	
+1764	If you need help , hang up ... 	
+1765	How do I drop you without gravity ? 	Yer çekimi olmadan sizi nasıl düşüreceğim ? 
+1766	Arthur has a couple minutes , and we have about 20 . 	Arthur 'un birkaç dakikası var , bizim de yaklaşık 20 dakikamız . 
+1767	You okay ? 	İyi misin ? 
+1768	Run ! 	Geri dön , merkeze gidiyoruz . 
+1769	Turn around ! 	
+1770	Move to base ! 	
+1771	Move to base ! 	
+1772	Go , go , go ! 	
+1773	There 's something wrong . 	Bir terslik var . 
+1774	They 're heading your way , like they know something . 	Size doğru geliyorlar . 
+1775	Just buy us more time , all right ? 	Bize biraz zaman kazandır tamam mı ? 
+1776	- Come on ! 	Bize biraz zaman kazandır tamam mı ? 
+1777	- On my way . 	Hadi . Gidiyorum . 
+1778	Come on ! 	Haydi çabuk ! 
+1779	Move ! 	
+1780	All right . 	
+1781	Okay . 	Orası kasa dairesinin girişi . 
+1782	That 's the antechamber outside the strong room . 	
+1783	- Does the strong room have windows ? 	- Bu kasa dairesinde pencere var mı hiç ? 
+1784	- It would n't be very strong if it did . 	- O zaman yeterince sağlam olmazdı . 
+1785	Let 's hope Fischer likes what he finds in there . 	Umarım orada bulduğu şey Fischer 'ın hoşuna gider . 
+1786	- Are those projections his subconscious ? 	Bütün bunlar bilinçaltının yansımaları mı ? Evet . 
+1787	- Yes . 	
+1788	- Are you destroying parts of his mind ? 	- Bu adamın zihnine zarar mı veriyorsun ? 
+1789	- No . 	- Hayır , bunlar sadece yansıma . 
+1790	They 're just projections . 	
+1791	- We 're here . 	- Girdik . 
+1792	- You 're clear , but hurry . 	- Girdik . 
+1793	There 's an entire army headed your way . 	- Girdik . 
+1794	I 'm in . 	İçerideyim . 
+1795	There he is . 	
+1796	- There 's someone in there . 	- Biri daha var . 
+1797	- Fischer , it 's a trap . 	- Fischer , çık oradan , bu bir tuzak ! 
+1798	Get out . 	
+1799	Come on . 	Haydi , biraz daha in . 
+1800	Come on , a little lower . 	
+1801	Cobb . 	Cobb ... 
+1802	No , she is not real . 	o gerçek değil . 
+1803	How do you know that ? 	- Bunu nereden biliyorsun ? 
+1804	She is just a projection . 	- O sadece bir yansıma ! Gerçek olan Fischer ! 
+1805	Fischer . 	
+1806	Fischer is real . 	
+1807	Hello . 	Merhaba . 
+1808	Eames ! 	Eames hemen buraya gel ! 
+1809	Eames , get to the antechamber now ! 	
+1810	What happened ? 	- Ne oldu ? 
+1811	- Mal killed Fischer . 	- Mal Fischer 'ı öldürdü . 
+1812	I could n't shoot her . 	Onu vuramadım . 
+1813	There 's no use in reviving him . 	Onu hayata döndürmenin hiçbir anlamı yok . 
+1814	His mind 's already trapped down there . 	Zihni çoktan orada kapana kısıldı . 
+1815	It 's all over . 	Her şey bitti . 
+1816	So that 's it , then ? 	- Bu mu yani , başarısız mı olduk ? 
+1817	We failed ? 	- Bu mu yani , başarısız mı olduk ? 
+1818	We 're done . 	- Bu mu yani , başarısız mı olduk ? 
+1819	I 'm sorry . 	- Bitti . Üzgünüm . 
+1820	It 's not me that does n't get back to my family , is it ? 	En azından ailesine geri dönemeyecek olan ben değilim , değil mi ? 
+1821	Shame . 	Kötü oldu , orada ne olduğunu gerçekten merak ediyordum . 
+1822	I wanted to know what was gonna happen in there . 	Neredeyse öğrenmiştik . 
+1823	I swear we had this . 	
+1824	Let 's set the charges . 	Patlayıcıları yerleştirelim . 
+1825	No , there 's still another way . 	Başka bir yol daha var . 
+1826	- We have to follow Fischer down there . 	Başka bir yol daha var . 
+1827	- Not enough time . 	Fischer 'ı orada bulmalıyız . Zamanımız yok . 
+1828	No , but there will be enough time down there . 	Hayır , orada yeterli zaman olur . 
+1829	And we will find him . 	Onu buluruz tamam mı ? 
+1830	Okay , as soon as Arthur 's music kicks in , just use the defibrillator to revive him . 	Onu buluruz tamam mı ? 
+1831	We can give him his own kick down below . 	sen pedleri kullanıp onu hayata döndür . Aşağıdayken ona bir dürtme yaratırız . 
+1832	Look , you get him in there . 	Bak , onu şuraya götür . 
+1833	As soon as the music ends , you blow up the hospital ... 	Bak , onu şuraya götür . 
+1834	and we all ride the kick back up the layers . 	Müzik bittiği anda hastaneyi havaya uçur ... ve hepimiz üst katmanlara çıkalım . 
+1835	It 's worth a shot , if Saito can hold the guards off while I set the charges . 	Denemeye değer . Ama ben patlayıcıları yerleştirirken ... Saito 'nun korumaları engelleyebileceğini sanmıyorum . 
+1836	Saito will never make it , will he ? 	- Saito kurtulamayacak değil mi ? 
+1837	- Cobb , come on . 	- Saito kurtulamayacak değil mi ? 
+1838	We 've gotta try this . 	- Cobb , hadi ama bunu denemeliyiz . 
+1839	- Go for it . 	
+1840	If you are not back before the kick , I am gone with or without you . 	Dürtme olmadan önce dönemezseniz siz olmadan giderim . 
+1841	She 's right . 	O haklı . 
+1842	She 's right . 	Haklı . 
+1843	Come on . 	Haydi gidelim . 
+1844	Let 's go . 	
+1845	Can I trust you to do what needs to happen here ? 	Aşağıda sana güvenebilecek miyim ? 
+1846	Mal 's gonna be down there . 	- Mal orada olacak . 
+1847	I know where to find her . 	- Onu nerede bulacağımı biliyorum . 
+1848	She 'll have Fischer . 	Fischer onun elinde .
+1849	- How do you know ? 	Nereden biliyorsun ?
+1850	- Because she wants me to come after him . 	Çünkü peşinden gitmemi istiyor . 
+1851	She wants me back down there with her . 	Aşağıda onunla olmamı istiyor . 
+1852	All right ? 	İyi misin ? 
+1853	- This is your world ? 	- Bu sizin dünyanız mı ? 
+1854	- It was . 	- Bizimdi . 
+1855	And this is where she 'll be . 	Burada olacaktır . 
+1856	Come on . 	Haydi gel . 
+1857	Saito . 	Saito ... 
+1858	Saito . 	
+1859	I need you to take care of Fischer while I go set some charges , okay ? 	ben patlayıcıları yerleştirirken Fischer ile ilgilenmeni istiyorum tamam mı ? 
+1860	No room for tourists on these jobs . 	Bu işte turistlere yer yok . 
+1861	Do n't be silly . 	Saçmalama . 
+1862	You built all this ? 	Bütün bunları siz mi yarattınız ? 
+1863	This is incredible . 	Bu inanılmaz . 
+1864	We built for years . 	Yaratmak için yıllarımız vardı . 
+1865	Then we started in on the memories . 	Anılarımıza dayanarak başladık . 
+1866	This way . 	Bu taraftan . 
+1867	This was our neighborhood . 	Burası yaşadığımız yer . 
+1868	Places from our past . 	Burası yaşadığımız yer . 
+1869	That was our first apartment . 	Yaşadığımız ilk apartman . 
+1870	Then we moved to that building right there . 	Sonra şu binaya taşındık . 
+1871	After Mal became pregnant , that became our home . 	Mal hamile kaldıktan sonra şu evde yaşadık . 
+1872	You reconstructed all of this from memory ? 	Tüm bu binaları , anılarını kullanarak mı yarattınız ? 
+1873	Like I told you , we had lots of time . 	Söylediğim gibi , çok fazla zamanımız vardı . 
+1874	What is that ? 	Bu nedir ? 
+1875	That 's the house Mal grew up in . 	Mal 'ın büyüdüğü ev . 
+1876	- Well , will she be in there ? 	- İçeride mi olacak ? 
+1877	- No . 	- İçeride mi olacak ? 
+1878	Come on . 	- İçeride mi olacak ? 
+1879	We both wanted to live in a house , but we loved this type of building . 	Müstakil evde yaşamayı seviyorduk ama bu tür binalardan da hoşlanıyorduk . 
+1880	In the real world , we 'd have to choose , but not here . 	Gerçek dünyada seçim yapmak gerekir ama burada değil . 
+1881	How are we gonna bring Fischer back ? 	- Fischer 'ı nasıl geri döndüreceğiz ? 
+1882	We 're gonna have to come up with some kind of a kick . 	- Fischer 'ı nasıl geri döndüreceğiz ? 
+1883	What ? 	Nasıl ? 
+1884	I 'm gonna improvise . 	Doğaçlama yapacağız . 
+1885	Listen , there 's something you should know about me . 	Dinle , benim hakkımda bilmen gereken bir şey var . 
+1886	About inception . 	Fikir aşılamayla ilgili . 
+1887	An idea is like a virus . 	Fikir bir virüs , bir parazit gibidir . 
+1888	Resilient . 	
+1889	Highly contagious . 	Çok bulaşıcıdır . 
+1890	And the smallest seed of an idea can grow . 	Çok bulaşıcıdır . 
+1891	It can grow to define ... 	Büyüyerek seni ifade edebilir ya da yok edebilir . 
+1892	or destroy you . 	Büyüyerek seni ifade edebilir ya da yok edebilir . 
+1893	The smallest idea , such as : 	En ufacık bir fikir , Dünyan gerçek değil gibi mesela ... 
+1894	Your world is not real . 	En ufacık bir fikir , Dünyan gerçek değil gibi mesela ... 
+1895		
+1896	Simple little thought that changes everything . 	her şeyi değiştirir . 
+1897	So certain of your world . 	Dünyandan , neyin gerçek olduğundan çok eminsin . 
+1898	Of what 's real . 	Sence o da öyle mi ? 
+1899	Do you think he is ? 	Sence o da öyle mi ? 
+1900	Or do you think he 's as lost as I was ? 	Yoksa o da benim gibi kayıp mı oldu ? 
+1901	I know what 's real , Mal . 	Neyin gerçek olduğunu biliyorum Mal . 
+1902	No creeping doubts ? 	En ufak bir şüphen yok mu ? 
+1903	Not feeling persecuted , Dom ? 	Acı çekmiyor musun Dom ? 
+1904	Chased around the globe ... 	Her yerde isimsiz şirketler ve polis kuvvetleri tarafından kovalanıyorsun . 
+1905	by anonymous corporations and police forces ... 	Her yerde isimsiz şirketler ve polis kuvvetleri tarafından kovalanıyorsun . 
+1906	the way the projections persecute the dreamer ? 	Tıpkı yansımaların rüya göreni sıkıştırması gibi . 
+1907	Admit it . 	Artık sadece bir gerçekliğe inanmadığını itiraf et . 
+1908	You do n't believe in one reality anymore . 	Artık sadece bir gerçekliğe inanmadığını itiraf et . 
+1909	So choose . 	O yüzden seç hadi . 
+1910	Choose to be here . 	Burada kalmayı seç . 
+1911	Choose me . 	Beni seç .
+1912	You know what I have to do . 	Çocuklarımıza dönmem gerektiğini biliyorsun . 
+1913	I have to get back to our children because you left them . 	Çünkü sen onları bıraktın .
+1914	Because you left us . 	- Çünkü sen bizi bıraktın . 
+1915	- You 're wrong . 	- Yanılıyorsun ! 
+1916	- I m not wrong . 	- Yanılmıyorum . 
+1917	You 're confused . 	Kafan karışmış .
+1918	Our children are here . 	Çocuklarımız burada . 
+1919	And you 'd like to see their faces again , would n't you ? 	Onların yüzünü tekrar görmek istersin değil mi ?
+1920	Yes , but I m gonna see them up above , Mal . 	Evet , ama onları yukarıda göreceğim Mal . 
+1921	Up above ? 	Yukarıda mı ? 
+1922	Listen to yourself . 	Söylediğini bir dinle . 
+1923	These are our children . 	Onlar bizim çocuklarımız . 
+1924	Watch . 	Bak . 
+1925	James ? 	James , 
+1926	Phillipa ? 	Phillipa ?
+1927	Do n't do this , Mal . 	- Yapma Mal , 
+1928	Please . 	
+1929	Those are n't my children . 	onlar benim çocuklarım değil . 
+1930	You keep telling yourself that , but you do n't believe it . 	Böyle söyleyip duruyorsun ama buna inanmıyorsun . 
+1931	- No , I know it . 	- Hayır , biliyorum ! 
+1932	- What if you 're wrong ? 	- Ya yanılıyorsan ? 
+1933	What if I 'm what 's real ? 	Ya gerçek olan bensem ? 
+1934	You keep telling yourself what you know . 	Sürekli kendine ne bildiğini söylüyorsun . 
+1935	But what do you believe ? 	Sürekli kendine ne bildiğini söylüyorsun . 
+1936	What do you feel ? 	Ne hissediyorsun ? 
+1937	Guilt . 	Suçluluk . 
+1938	I feel guilt , Mal . 	Suçluluk duyuyorum Mal . 
+1939	And no matter what I do , no matter how hopeless I am ... 	Ne yaparsam yapayım , ne kadar umutsuz olursam olayım ... 
+1940	no matter how confused , that guilt is always there ... 	kafam ne kadar karışık olursa olsun suçluluk duygusu hep var . 
+1941	reminding me of the truth . 	- Bana gerçeği hatırlatıyor . 
+1942	What truth ? 	- Bana gerçeği hatırlatıyor . 
+1943	That the idea that caused you to question your reality came from me . 	Gerçekliği sorgulamana sebep olan fikri , sana benim verdiğimi . 
+1944	You planted the idea in my mind ? 	Fikri zihnime sen mi yerleştirdin ? 
+1945	What is she talking about ? 	Neden bahsediyor öyle ? 
+1946	The reason I knew inception was possible was because I did it to her first . 	Fikir aşılamanın mümkün olduğunu biliyordum çünkü ilk ona aşıladım . 
+1947	- I did it to my own wife . 	- Kendi karıma yaptım . 
+1948	- Why ? 	- Neden ? 
+1949	We were lost in here . 	Burada kaybolmuş durumdaydık . 
+1950	I knew we needed to escape , but she would n't accept it . 	Burada kaybolmuş durumdaydık . 
+1951	She had locked something away , something deep inside . 	Derinlerde bir şey saklıyordu . 
+1952	A truth that she had once known , but chose to forget . 	Bildiği , ama unutmayı tercih ettiği bir gerçek . 
+1953	And she could n't break free . 	Bundan kaçamadı . 
+1954	So I decided to search for it . 	Ben de bunu aramaya karar verdim . 
+1955	I went deep into the recess of her mind and found that secret place . 	Zihninin derinlerine indim ve gizlediği o yeri buldum . 
+1956	And I broke in ... 	Oraya girdim ve fikri yerleştirdim . 
+1957	and I planted an idea . 	Oraya girdim ve fikri yerleştirdim . 
+1958	A simple little idea that would change everything . 	Her şeyi değiştireceğini bildiğim ufacık bir fikir . 
+1959	That her world was n't real . 	Dünyasının gerçek olmadığını söyleyen bir fikir . 
+1960	That death was the only escape . 	Ölüm , kaçabilmenin tek yoluydu . 
+1961	You 're waiting for a train . 	Bir tren bekliyorsun . 
+1962	A train that 'll take you far away . 	Seni uzaklara götürecek bir tren . 
+1963	You know where you hope this train will take you ... 	Trenin seni nereye götürmesini umduğunu biliyorsun ... 
+1964	but you ca n't know for sure . 	ama emin olamıyorsun . 
+1965	Yet it does n't matter . 	Ama önemi yok . 
+1966	- Now , tell me why ! 	Neden olduğunu söyle ? 
+1967	- Because you 'll be together ! 	Çünkü birlikte olacaksınız ! 
+1968	But I never knew that that idea would grow in her mind like a cancer ... 	Bu fikrin , uyandığı zaman da zihninde bir kanser gibi yayılacağını bilemezdim . 
+1969	that even after she woke ... 	Bu fikrin , uyandığı zaman da zihninde bir kanser gibi yayılacağını bilemezdim . 
+1970	That even after you came back to reality ... 	Gerçekliğe döndükten sonra bile ... 
+1971	that you 'd continue to believe your world was n't real . 	dünyamızın gerçek olmadığına inanmaya devam edeceğini . 
+1972	That death was the only escape . 	Ölüm , kurtulmanın tek yoluydu . 
+1973	Mal , no ! 	Mal , Tanrım hayır ! 
+1974	Jesus ! 	
+1975	- You infected my mind . 	- Zihnime aşılama mı yaptın ? 
+1976	- I was trying to save you . 	- Seni kurtarmaya çalışıyordum . 
+1977	You betrayed me . 	Bana ihanet mi ettin ? 
+1978	But you can make amends . 	Bunu düzeltebilirsin . 
+1979	You can still keep your promise . 	Bunu düzeltebilirsin . 
+1980	We can still be together , right here ... 	Bunu düzeltebilirsin . 
+1981	in the world we built together . 	Tam burada . 
+1982	Cobb , we need to get Fischer . 	Cobb , Fischer 'ı bulmamız gerekiyor . 
+1983	You ca n't have him . 	Onu alamazsınız . 
+1984	- lf I stay here , will you let him go ? 	Seninle kalırsam onların gitmesine izin verir misin ? Neden bahsediyorsun sen ? 
+1985	- What are you talking about ? 	
+1986	Fischer is on the porch . 	- Fischer Verandada . 
+1987	- Go check he 's alive , Ariadne . 	- Fischer Verandada . 
+1988	- Cobb , you ca n't do this . 	- Yaşıyor mu kontrol et Ariadne . 
+1989	Go check he 's alive right now . 	- Cobb , Bunu yapamazsın ! - Gidip yaşıyor mu diye bak hemen . Haydi . 
+1990	Do it . 	
+1991	He 's here ! 	Burada ! 
+1992	And it 's time , but you have to come now ! 	Zamanı geldi . 
+1993	You take Fischer with you , all right ? 	- Fischer 'ı yanında götür , olur mu ? 
+1994	- You ca n't stay here to be with her . 	- Burada onunla kalamazsın . 
+1995	I 'm not . 	Kalmayacağım . 
+1996	Saito 's dead by now . 	Saito şimdiye kadar ölmüştür yani buralarda bir yerdedir . 
+1997	That means he 's down here somewhere . 	Onu bulmalıyım . 
+1998	That means I have to find him . 	
+1999	I ca n't stay with her anymore , because she does n't exist . 	Burada onunla kalamam çünkü o gerçek değil . 
+2000	I 'm the only thing you do believe in anymore . 	Artık inandığın tek şey benim . 
+2001	No . 	
+2002	I wish . 	Bunu her şeyden çok isterdim ama ... 
+2003	I wish more than anything , but ... 	Bunu her şeyden çok isterdim ama ... 
+2004	I ca n't imagine you with all your complexity ... 	seni her şeyinle , tüm mükemmelliğinle kusursuz olarak hayal edemiyorum . 
+2005	all your perfection , all your imperfection . 	seni her şeyinle , tüm mükemmelliğinle kusursuz olarak hayal edemiyorum . 
+2006	- You all right ? 	- İyi misin ? 
+2007	- Yeah . 	- İyi misin ? 
+2008	Look at you . 	- İyi misin ? 
+2009	You 're just a shade . 	Sadece bir gölgesin . 
+2010	You 're just a shade of my real wife . 	Sen sadece karımın gölgesisin . 
+2011	And you were the best that I could do , but ... 	Elimden gelen en iyi hayalsin ama üzgünüm , yeterince iyi değilsin . 
+2012	I m sorry , you 're just not good enough . 	Elimden gelen en iyi hayalsin ama üzgünüm , yeterince iyi değilsin . 
+2013	Does this feel real ? 	Bu sana gerçek gibi geliyor mu ? 
+2014	- What are you doing ? 	- Ne yapıyorsun ? 
+2015	- Improvising . 	- Doğaçlama . 
+2016	No , no , no ! 	Hayır , hayır ! 
+2017	In there , now . 	Oraya git , hadi . 
+2018	Go , go , go . 	
+2019	I was dis -- 	
+2020	I was dis Disa -- 	- Hayal kırıklığına-- - Biliyorum baba . 
+2021	- I know , Dad . 	
+2022	- Dis -- 	
+2023	I know you were disappointed ... 	Senin gibi biri olamadığım için hayal kırıklığına uğradığını biliyorum . 
+2024	I could n't be you . 	Senin gibi biri olamadığım için hayal kırıklığına uğradığını biliyorum . 
+2025	No . 	
+2026	No , no , no . 	Hayır , öyle olmaya çalıştığın için ... 
+2027	I was disappointed ... 	Hayır , öyle olmaya çalıştığın için ... 
+2028	that you tried . 	hayal kırıklığına uğradım . 
+2029	What ? 	
+2030	Come on , come on . 	
+2031	Dad ? 	
+2032	That 's the kick , Ariadne ! 	Bu dürtme Ariadne , atlamalısın ! 
+2033	You have to go now ! 	
+2034	Do n't lose yourself ! 	Kaybolma sakın ! - Saito 'yu bulur bulmaz geri dön ! - Öyle yapacağım ! 
+2035	Find Saito and bring him back ! 	
+2036	I will ! 	
+2037	You remember when you asked me to marry you ? 	Bana evlenme teklif ettiğin zamanı hatırlıyor musun ? 
+2038	Yes . 	Evet . 
+2039	You said you dreamt that we 'd grow old together . 	Birlikte yaşlanacağımızı hayal ettiğini söylemiştin . 
+2040	But we did . 	Yaşlandık zaten . 
+2041	We did . 	Yaşlandık , hatırlamıyor musun ? 
+2042	You do n't remember ? 	
+2043	I miss you more than I can bear ... 	Seni dayanamayacağım kadar özlüyorum ... 
+2044	but we had our time together . 	ama birlikte olan zamanımızı doldurduk . 
+2045	And I have to let you go . 	Artık seni bırakma vaktim geldi . 
+2046	I have to let you go . 	Seni bırakmalıyım . 
+2047	I 'm sorry , Robert . 	Üzgünüm Robert . 
+2048	You know , the will means that Dad wanted me to be my own man ... 	Babam , kendi kararlarım doğrultusunda yaşamamı istemiş . 
+2049	not just to live for him . 	Onun isteklerine göre yaşamamı değil . 
+2050	That 's what I m gonna do , Uncle Peter . 	Ben de öyle yapacağım Peter Amca . 
+2051	What happened ? 	- Ne oldu ? 
+2052	- Cobb stayed . 	- Ne oldu ? 
+2053	- With Mal ? 	- Cobb orada kaldı . 
+2054	No , to find Saito . 	- Mal ile mi ? 
+2055	He 'll be lost . 	Kaybolacak . 
+2056	No , he 'll be all right . 	Hayır , iyi olacak . 
+2057	Have you come to kill me ? 	Buraya beni öldürmeye mi geldin ? 
+2058	I 'm waiting for someone . 	Birini bekliyorum . 
+2059	Someone from a half-remembered dream . 	Yarı hatırladığım bir rüyadaki bir kişiyi . 
+2060	Cobb ? 	Cobb ? 
+2061	Impossible . 	Bu imkansız . 
+2062	We were young men together . 	Bu imkansız . 
+2063	I 'm an old man . 	- Şimdi yaşlı biriyim . 
+2064	Filled with regret . 	- Şimdi yaşlı biriyim . 
+2065	Waiting to die alone . 	Yalnız başına ölmeyi bekleyen . 
+2066	I 've come back for you . 	Senin için geri geldim . 
+2067	To remind you of something . 	sana bir şeyi hatırlatmak için ... 
+2068	Something you once knew . 	Bir zamanlar bildiğin bir şeyi . 
+2069	That this world is not real . 	Bu dünya gerçek değil . 
+2070	To convince me to honor our arrangement ? 	Beni anlaşmamıza sadık kalmaya ikna etmek için . 
+2071	To take a leap of faith , yes . 	Evet , kalbinin sesini dinlemen için . 
+2072	Come back ... 	Geri dön . 
+2073	so we can be young men together again . 	Böylece tekrar birlikte genç olabiliriz . 
+2074	Come back with me . 	Benimle gel . 
+2075	Come back . 	Geri gel . 
+2076	Hot towel , sir ? 	Sıcak havlu alır mıydınız efendim ? 
+2077	We 'll be landing in Los Angeles in about 20 minutes . 	Los Angeles 'a inmemize 20 dakika kaldı . 
+2078	Do you need immigration forms ? 	Göçmenlik formu ister misiniz ? 
+2079	Thank you . 	Teşekkürler . 
+2080	Hot towel , sir ? 	- Sıcak havlu , efendim ? 
+2081	- No . 	Hayır . - Sağ olun . 
+2082	- Do you need immigration forms ? 	- Göçmenlik formu ister misiniz ? 
+2083	Welcome home , Mr . Cobb . 	Evinize hoş geldiniz Bay Cobb . 
+2084	Thank you , sir . 	
+2085	Welcome . 	Evine hoş geldin . 
+2086	This way . 	Bu taraftan . 
+2087	James ? 	James , 
+2088	Phillipa ? 	Philippa ? 
+2089	Look who 's here . 	Bakın burada kim var . 
+2090	Hey . 	
+2091	- Hey , guys ! 	- Çocuklar ! 
+2092	Hey ! 	
+2093	How are you ? 	
+2094	- Daddy ! 	- Baba ! 
+2095	Daddy ! 	- Baba ! 
+2096	- Daddy ! 	
+2097	- How are you ? 	- Nasılsınız ? 
+2098	Look what I ve been building ! 	Bak ne yaptım baba . 
+2099	- What are you building ? 	- Ne yaptın ? 
+2100	- We 're building a house on the cliff ! 	- Taşlardan ev yaptım . 
+2101	On the cliff ? 	- Taşlardan mı ? 
+2102	Come on , I want you to show me . 	- Gel , görmeni istiyorum . 
+2103	Can you show me ? 	Bana bir tane yapar mısın ? 
+2104	- Let 's go . 	Bana bir tane yapar mısın ? 
+2105	- Come on , Daddy ! 	Haydi baba ! 

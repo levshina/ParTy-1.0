@@ -1,0 +1,2105 @@
+1	Are you here to kill me ? 	Ты пришел убить меня ? 
+2	I know what this is . 	Я знаю , что это . 
+3	I 've seen one before . 	Я уже видел такую штуку . 
+4	Many , many years ago . 	Много , много лет назад . 
+5	It belonged to a man I met in a half-remembered dream . 	Она была у человека , которого я встретил в полузабытом сне . 
+6	A man possessed of some radical notions . 	Он обладал весьма радикальными способностями . 
+7	What is the most resilient parasite ? 	Какой самый живучий паразит ? 
+8	A bacteria ? 	Бактерия ? 
+9	A virus ? 	Вирус ? 
+10	An intestinal worm ? 	Кишечный глист ? 
+11	Uh ... 	Ух ... 
+12	What Mr . Cobb is trying to say -- 	Мистер Кобб хочет сказать - 
+13	An idea . 	Идея . 
+14	Resilient . 	Она живучая и крайне заразная . 
+15	Highly contagious . 	
+16	Once an idea has taken hold of the brain , it 's almost impossible to eradicate . 	Стоит идее завладеть мозгом , избавиться от нее практически невозможно . 
+17	An idea that is fully formed , fully understood , that sticks . 	Я имею ввиду сформировавшуюся идею , полностью осознанную . 
+18	Right in there somewhere . 	Поселившуюся в голове . 
+19	For someone like you to steal ? 	И кто-то может её украсть ? 
+20	Yes . 	Да . 
+21	In the dream state , your conscious defenses are lowered ... 	В состоянии сна защита подсознания снижена ... 
+22	and that makes your thoughts vulnerable to theft . 	и ваши мысли весьма уязвимы . 
+23	It 's called extraction . 	Это и есть извлечение . 
+24	Mr . Saito , we can train your subconscious to defend itself ... 	Мистер Саито , мы можем обучить ваше подсознание защищаться ... 
+25	from even the most skilled extractor . 	даже от самых искусных извлекателей . 
+26	How can you do that ? 	Как вы это сделаете ? 
+27	Because I am the most skilled extractor . 	Я и есть самый искусный извлекатель . 
+28	I know how to search your mind and find your secrets . 	Я знаю , как найти в вашей голове все секреты . 
+29	I know the tricks . 	У меня свои трюки . 
+30	And I can teach them to you , so that even when you 're asleep ... 	Я могу научить вас , чтобы , даже во сне ... 
+31	your defense is never down . 	ваша защита не ослабевала . 
+32	Look , if you want my help , you 're gonna have to be completely open with me . 	Если вам нужна моя помощь , вы должны быть предельно открыты со мной . 
+33	I need to know my way around your thoughts better than your wife ... 	Я должен знать ваши мысли лучше , чем ваша жена ... 
+34	better than your therapist , better than anyone . 	психоаналитик , лучше , чем кто-либо . 
+35	If this is a dream , and you have a safe full of secrets ... 	Если мы во сне , и у вас есть секретный сейф ... 
+36	I need to know what 's in that safe . 	я должен знать , что в этом сейфе . 
+37	In order for this all to work , you need to completely let me in . 	Чтобы у нас все получилось , вы должны полностью довериться мне . 
+38	Enjoy your evening , gentlemen , as I consider your proposal . 	Приятного вечера , господа , я обдумаю ваше предложение . 
+39	He knows . 	Он знает . 
+40	What 's going on up there ? 	Что там происходит ? 
+41	Saito knows . 	Сайто знает . 
+42	He 's playing with us . 	Он играет с нами . 
+43	Does n't matter . 	Это не важно . 
+44	I can get it here . 	Я достану всё , что нужно . 
+45	Trust me . 	
+46	The information is in the safe . 	Информация в сейфе . 
+47	He looked right at it when I mentioned secrets . 	Он посмотрел на него , когда я сказал про секреты . 
+48	What 's she doing here ? 	Что она здесь делает ? 
+49	Just head back to the room . 	Возвращайся в номер . 
+50	All right ? 	Я сам со всем разберусь . 
+51	I 'll take care of this . 	
+52	Okay , make sure you do . 	Ты уж постарайся . 
+53	We 're here to work . 	Нам нужно работать . 
+54	If I jumped , would I survive ? 	Если бы я прыгнула , Я бы выжила ? 
+55	With a clean dive , perhaps . 	Если нырнёшь , то да . 
+56	Mal , what are you doing here ? 	Мол , что ты здесь делаешь ? 
+57	I thought you might be missing me . 	Я думала , что ты по мне скучаешь . 
+58	You know that I am . 	Ты знаешь , что да . 
+59	But I ca n't trust you anymore . 	Но я тебе больше не верю . 
+60	So what ? 	Ну и что ? 
+61	Looks like Arthur 's taste . 	Как раз во вкусе Артура . 
+62	Actually , the subject is partial to postwar British painters . 	Наш объект питает слабость к послевоенным Британским художникам . 
+63	Please , have a seat . 	Присядь . 
+64	Tell me ... 	Скажи , 
+65	do the children miss me ? 	дети по мне скучают ? 
+66	You ca n't imagine . 	Не представляешь , как . 
+67	What are you doing ? 	Что ты делаешь ? 
+68	Just getting some fresh air . 	Просто дышу свежим воздухом . 
+69	Stay where you are , Mal . 	Оставайся на месте , Мол . 
+70	Goddamn it . 	Чёрт ! 
+71	Turn around . 	Повернитесь . 
+72	The gun , Dom . 	Пистолет . 
+73	Please . 	Пожалуйста . 
+74	Now the envelope , Mr . Cobb . 	А теперь конверт , мистер Кобб . 
+75	Did she tell you ? 	Это она вам сказала , или вы всё знали с самого начала ? 
+76	Or have you known all along ? 	
+77	That you 're here to steal from me , or that we are actually asleep ? 	Что вы пришли обокрасть меня , или что мы находимся во сне ? 
+78	I want to know the name of your employer . 	Я хочу знать , кто вас нанял . 
+79	Ah , there 's no use threatening him in a dream , right , Mal ? 	Но ведь нет смысла угрожать ему во сне . 
+80	That depends on what you 're threatening . 	Не так ли , Мол ? Зависит от того , чем вы угрожаете . 
+81	Killing him would just wake him up . 	Убийство лишь разбудит его . 
+82	But pain ... 	Но боль ... 
+83	Pain is in the mind . 	Боль ведь в голове . 
+84	And judging by the decor , we 're in your mind , are n't we , Arthur ? 	И судя по обстановке , мы в твоей голове , не так ли , Артур ? 
+85	- What are you doing ? 	- Что ты делаешь ? 
+86	It 's too soon . 	Слишком рано . 
+87	- But the dream 's collapsing . 	- Я знаю . 
+88	I 'm gonna try to keep Saito under a little bit longer . 	Но сон разрушается . Я попытаюсь продержать Сайто еще немного . Нам почти удалось . 
+89	We 're almost there . 	
+90	He was close . 	Он был близок . 
+91	Very close . 	Очень близок . 
+92	Stop him ! 	Остановите его ! 
+93	This is n't gonna work . 	Это не сработает . 
+94	Wake him up . 	Разбуди его . 
+95	He wo n't wake . 	Он не проснется . 
+96	- Give him the kick . 	Подтолкни его . 
+97	- What ? 	Как ? 
+98	Dunk him . 	Окуни его . 
+99	He 's out . 	Готов . 
+100	You came prepared , hmm ? 	Вы подготовились , хмм ? 
+101	Not even my head of security knows this apartment . 	Даже моя охрана не знает про эту квартиру . 
+102	How did you find it ? 	Как вы её нашли ? 
+103	It 's difficult for a man of your position to keep a love nest like this secret ... 	Человеку с вашим положением не просто держать в тайне такое любовное гнездышко ... 
+104	particularly where there 's a married woman involved . 	особенно , когда замешана замужняя дама . 
+105	- She would never ... 	- Она бы никогда ... 
+106	- Yet here we are . 	- Да , но мы же здесь . 
+107	- With a dilemma . 	- И у нас дилемма . 
+108	- They 're getting closer . 	- Они всё ближе . 
+109	- You got what you came for . 	- Вы получили , за чем пришли . 
+110	- Well , that 's not true . 	Это неправда . 
+111	You left out a key piece of information , did n't you ? 	Вы приберегли самую важную информацию , верно ? 
+112	You held something back because you knew what we were up to . 	Вы кое-что утаили , потому , что знали , что нам нужно . 
+113	- Question is , why 'd you let us in at all ? 	- Зачем вы вообще нас пустили ? 
+114	- An audition . 	- Кастинг . 
+115	- An audition for what ? 	- Кастинги чего ? 
+116	- Does n't matter . 	- Это не важно . 
+117	You failed . 	Вы не справились . 
+118	We extracted every bit of information you had in there . 	Мы вытащили всю информацию , которая там была . 
+119	But your deception was obvious . 	Но ваши действия были слишком очевидны . 
+120	- So leave me and go . 	- Можете уходить . 
+121	- You do n't seem to understand , Mr . Saito . 	- Кажется , вы не поняли , мистер Сайто . 
+122	That corporation that hired us , they wo n't accept failure . 	Корпорация , на которую мы работаем , не примет провала . 
+123	We wo n't last two days . 	Мы и двух дней не проживем . 
+124	Cobb ? 	Кобб ? 
+125	Looks like I 'm gonna have to do this a little more simply . 	Но , видимо , придётся это сделать по старинке . 
+126	Tell us what you know ! 	Говори все , что знаешь ! 
+127	Tell us what you know , now ! 	Выкладывай все сейчас же ! 
+128	I 've always hated this carpet . 	Я никогда не любил этот ковёр . 
+129	It 's stained and frayed in such distinctive ways . 	Вы только посмотрите на эти пятна и потертости . 
+130	But very definitely made of wool . 	Но главное , что он сделан из шерсти . 
+131	Right now ... 	А сейчас ... 
+132	I m lying on polyester . 	я лежу на синтетике . 
+133	Which means I m not lying on my carpet , in my apartment . 	И получается , я лежу не на своём ковре , не в своей квартире . 
+134	You have lived up to your reputation , Mr . Cobb . 	Вы соответствовали вашей репутации , мистер Кобб . 
+135	I 'm still dreaming . 	Я все еще сплю . 
+136	- How 'd it go ? 	- Как все прошло ? 
+137	- Not good . 	- Не очень . 
+138	Dream within a dream , huh ? 	Сон во сне , хах ? 
+139	I 'm impressed . 	Я впечатлен . 
+140	But in my dream , you play by my rules . 	Но в моем сне вы играете по моим правилам . 
+141	Ah , yes , but you see , Mr . Saito ... 	Ах , да , но видите ли , мистер Сайто ... 
+142	We 're not in your dream . 	Мы не в вашем сне . 
+143	We 're in mine . 	Мы в моем . 
+144	Asshole . 	Идиот . 
+145	How do you mess up the carpet ? 	Как ты облажался с ковром ? 
+146	- It was n't my fault . 	- Я не виноват . 
+147	- You 're the architect . 	- Ты же архитектор 
+148	I did n't know he was gonna rub his cheek on it ! 	Я не знал , что он будет тереться об него мордой . 
+149	That 's enough . 	Ну всё , хватит . 
+150	You . 	Ты . 
+151	What the hell was all that ? 	Что это было , черт возьми ? 
+152	- I have it under control . 	- У меня все было под контролем . 
+153	- I 'd hate to see you out of control . 	- Не хотел бы , чтобы ты потерял контроль . 
+154	We do n't have time for this . 	У нас нет на это времени . 
+155	I 'm getting off at Kyoto . 	Я сойду в Киото . 
+156	He 's not gonna check every compartment . 	Он не будет проверять каждое купе . 
+157	Yeah , well , I do n't like trains . 	Да , но я не люблю поезда . 
+158	Listen . 	Слушай . 
+159	Every man for himself . 	Каждый сам за себя . 
+160	Yes , hello ? 	Да , алло ? 
+161	- Hi , Daddy . 	Привет , папуль . 
+162	- Hi , Dad . 	Привет . 
+163	Hey , guys . 	Привет , мои хорошие . 
+164	Hey . 	Как дела ? 
+165	How are you ? 	Как вы ? 
+166	How you doing , huh ? 	
+167	- Good . 	Хорошо . 
+168	- Okay , I guess . 	Нормально . 
+169	Okay ? 	Нормально ? 
+170	Who 's just okay ? 	Кто это сказал ? 
+171	Is that you , James ? 	Это ты , Джеймс ? 
+172	Yeah . 	Да . 
+173	When are you coming home , Dad ? 	Когда ты вернёшься домой , папа ? 
+174	Well , I ca n't , sweetheart . 	Милый , я пока не могу вернуться . 
+175	I ca n't . 	Сейчас пока не получится . 
+176	Not for a while , remember ? 	
+177	Why ? 	Почему ? 
+178	Look , I told you , I m away because I m working , right ? 	Слушай , я же говорил , я уехал потому , что у меня много работы . 
+179	Grandma says you 're never coming back . 	Бабушка говорит , что ты никогда не вернёшься . 
+180	Phillipa , is that you ? 	Филлипа , это ты ? 
+181	Put Grandma on the phone for me , will you ? 	Передай трубку бабушке , пожалуйста . 
+182	She 's shaking her head . 	Она не хочет говорить с тобой . 
+183	Well , just hope she 's wrong about that . 	Будем надеяться , что она не права . 
+184	Daddy ? 	Папа ? 
+185	Yeah , James ? 	Да , Джеймс ? 
+186	Is Mommy with you ? 	А мама с тобой ? 
+187	James , we talked about this . 	Джеймс , мы уже говорили об этом . 
+188	Mommy 's not here anymore . 	Мамы здесь больше нет . 
+189	Where ? 	А где она ? 
+190	That 's enough , kids . 	Ну все дети , попрощайтесь с папой . 
+191	Say bye-bye . 	
+192	Listen , I m gonna send some presents with Grandpa , all right ? 	Слушайте , я передам вам небольшие подарки с дедушкой , ладно ? 
+193	And you be good , you be -- 	Ведите себя хорошо - 
+194	- Our ride 's on the roof . 	- Такси на крыше . 
+195	- Right . 	- Хорошо . 
+196	Hey , are you okay ? 	Ты в порядке ? 
+197	Yeah . 	Да . 
+198	Yeah , I m fine . 	Всё хорошо , а что ? 
+199	Why ? 	
+200	Well , down in the dream , Mal showing up . 	Просто в том сне появилась Мол . 
+201	Look , I m , uh , sorry about your leg . 	Да , приятель . 
+202	Wo n't happen again . 	Прости за ногу , больше не повторится . 
+203	- It 's getting worse , is n't it ? 	- Что-то она зачастила . 
+204	- One apology 's all you 're getting , all right ? 	- Одного извинения с тебя хватит , Артур . 
+205	- Where 's Nash ? 	- Где Нэш ? 
+206	- He has n't shown . 	- Так и не появился . 
+207	You wanna wait ? 	Подождём ? 
+208	We were supposed to deliver Saito 's expansion plans ... 	Нет , мы должны были доставить планы Сайто по расширению ... 
+209	to Cobol Engineering two hours ago . 	в Кобал Инженеринг 2 часа назад . 
+210	By now , they know we failed . 	Они знают о нашей неудаче . 
+211	It 's time we disappear . 	Пора исчезнуть . 
+212	- Where you gonna go ? 	Куда поедешь ? 
+213	- Buenos Aires . 	В Буэнос-Айрес . 
+214	I can lie low there , maybe sniff out a job when things quiet down . 	Там я смогу затаиться , а как всё уляжется , найду работу . 
+215	You ? 	А ты ? 
+216	Stateside . 	В Штаты . 
+217	Send my regards . 	Передавай им привет ! 
+218	He sold you out . 	Он продал вас . 
+219	Thought to come to me and bargain for his life . 	Пришёл ко мне торговаться за свою жизнь . 
+220	So I offer you the satisfaction . 	Так что можете сами с ним разобраться . 
+221	It 's not the way I deal with things . 	Я так дела не решаю . 
+222	- What will you do with him ? 	- Что вы с ним сделаете ? 
+223	- Nothing . 	- Ничего . 
+224	But I ca n't speak for Cobol Engineering . 	Но я не ручаюсь за Кобол Инженеринг . 
+225	- What do you want from us ? 	- Что вам нужно от нас ? 
+226	- Inception . 	- Внедрений . 
+227	- Is it possible ? 	- Это возможно ? 
+228	- Of course not . 	- Конечно нет . 
+229	If you can steal an idea from someone 's mind ... 	Если можно украсть идею из чьей-то головы ... 
+230	why ca n't you plant one there instead ? 	почему бы нельзя её поместить туда ? 
+231	Okay , here 's me planting an idea in your head . 	Ладно , сейчас я помещу идею в вашу голову . 
+232	I say , Do n't think about elephants . 	Я вам говорю , Не думайте о слонах . 
+233	What are you thinking about ? 	О чем вы думаете ? 
+234	Elephants . 	О слонах . 
+235	Right . 	Да , но это не ваша мысль , потому что вы знаете , что это я вам навязал . 
+236	But it 's not your idea , because you know I gave it to you . 	
+237	The subject 's mind can always trace the genesis of the idea . 	Разум объекта всегда может проследить за рождением идеи . 
+238	- True inspiration 's impossible to fake . 	- Истинное вдохновение невозможно подделать . 
+239	- That 's not true . 	- Неправда . 
+240	- Can you do it ? 	- Значит можете ? 
+241	- Are you offering me a choice ? 	- Вы предлагаете мне выбор ? 
+242	Because I can find my own way to square things with Cobol . 	Просто я сам могу уладить свои проблемы с Кобол . 
+243	Then you do have a choice . 	Тогда у вас есть выбор . 
+244	Then I choose to leave , sir . 	Я сваливаю , сэр . 
+245	Tell the crew where you want to go . 	Скажите пилоту , где вас высадить . 
+246	Hey , Mr . Cobb . 	Мистер Кобб . 
+247	How would you like to go home ? 	А вы хотели бы вернуться домой ? 
+248	To America . 	В Америку , к своим детям . 
+249	To your children . 	
+250	You ca n't fix that . 	Вам это не под силу . 
+251	No one can . 	Это невозможно ! 
+252	- Just like inception . 	- Так же как и внедрение . 
+253	- Cobb , come on . 	- Кобб , идём ! 
+254	- How complex is the idea ? 	- Насколько сложная идея ? 
+255	- Simple enough . 	- Очень простая ! 
+256	No idea is simple when you need to plant it in somebody else 's mind . 	Идея не бывает простой , когда её нужно поместить в чью-то голову . 
+257	My main competitor is an old man in poor health . 	Мой главный конкурент - один старик , который скоро умрёт . 
+258	His son will soon inherit control of the corporation . 	И тогда его сын унаследует управление корпорацией . 
+259	I need him to decide to break up his father 's empire . 	Я хочу , чтобы он решил развалить отцовскую империю . 
+260	- Cobb , we should walk away from this . 	- Кобб , лучше в это не влезать . 
+261	- Hold on . 	- Подожди . 
+262	If I were to do this , if I even could do it ... 	Если я возьмусь за это , если смогу это сделать ... 
+263	I d need a guarantee . 	Мне нужны гарантии . 
+264	- How do I know you can deliver ? 	- Откуда мне знать , что вы не врёте ? 
+265	- You do n't . 	- Ниоткуда . 
+266	But I can . 	Но я не вру . 
+267	So do you want to take a leap of faith ... 	Вы готовы поверить мне на слово ... 
+268	or become an old man , filled with regret ... 	или предпочтёте состариться преисполненным сожалений ... 
+269	waiting to die alone ? 	в полном одиночестве ? 
+270	Assemble your team , Mr . Cobb . 	Собирайте команду , мистер Кобб . 
+271	And choose your people more wisely . 	И берите людей понадёжнее . 
+272	Look , I know how much you wanna go home . 	Я знаю , как ты хочешь домой . 
+273	This ca n't be done . 	Но это невозможно . 
+274	Yes , it can . 	Я смогу . 
+275	Just have to go deep enough . 	Надо просто залезть поглубже . 
+276	You do n't know that . 	Откуда ты знаешь ? 
+277	I 've done it before . 	Я это уже делал . 
+278	Who 'd you do it to ? 	И с кем же ? 
+279	Why are we going to Paris ? 	Зачем мы летим в Париж ? 
+280	We 're gonna need a new architect . 	За новым архитектором . 
+281	You never did like your office , did you ? 	Ты никогда не любил свой кабинет , да ? 
+282	No space to think in that broom cupboard . 	Там слишком тесно чтобы думать . 
+283	Is it safe for you to be here ? 	Тебе не опасно находиться здесь ? 
+284	Extradition between France and the United States ... 	Экстрадиция между Францией и США ... 
+285	is a bureaucratic nightmare , you know that . 	это бюрократический кошмар , ты же знаешь . 
+286	I think they might find a way to make it work in your case . 	Думаю , в твоём случае они бы быстро решили эту проблему . 
+287	Look , I , uh , brought these for you to give to the kids when you have a chance . 	Будь добр , передай это детям , когда у тебя будет возможность . 
+288	It 'll take more than the occasional stuffed animal ... 	Одних мягких игрушек недостаточно , чтоб убедить ... 
+289	to convince those children they still have a father . 	твоих детей , что у них всё ещё есть отец . 
+290	I 'm just doing what I know . 	Я делаю то , что умею . 
+291	I 'm doing what you taught me . 	То , чему ты меня учил . 
+292	I never taught you to be a thief . 	Я никогда не учил тебя быть вором . 
+293	No , you taught me to navigate people 's minds . 	Нет . 
+294	But after what happened ... 	Ты учил меня управлять разумом людей . Но после того , что случилось ... 
+295	there were n't a whole lot of legitimate ways for me to use that skill . 	у меня не осталось законных способов использовать эти знания . 
+296	What are you doing here , Dom ? 	Что ты здесь делаешь ? 
+297	I think I found a way home . 	Я нашёл способ вернуться домой . 
+298	It 's a job for some very , very powerful people . 	Это работа на одного очень влиятельного человека , 
+299	People who I believe can fix my charges permanently . 	который поможет мне решить все проблемы с законом . 
+300	But I need your help . 	Но мне нужна твоя помощь ! 
+301	You 're here to corrupt one of my brightest and best . 	Ты хочешь подкупить одного из моих лучших учеников ? 
+302	You know what I m offering . 	Ты знаешь , что я предлагаю . 
+303	Let them decide for themselves . 	Позволь им самим решать . 
+304	- Money . 	- Деньги ? 
+305	- Not just money . 	- Не только деньги ! 
+306	You remember . 	Это возможность . 
+307	It 's the chance to build cathedrals , entire cities ... 	Строить соборы , целые города ... 
+308	things that never existed ... 	которые никогда не существовали ... 
+309	things that could n't exist in the real world . 	которые не могут существовать в реальном мире . 
+310	So you want me to let someone else follow you into your fantasy ? 	И ты хочешь , чтоб я позволил кому-то ещё следовать за твоими фантазиями ? 
+311	They do n't actually come into the dream . 	Им не нужно входить в зону . 
+312	They just design the levels and teach them to the dreamers . 	Они должны проектировать уровни и объяснять их участникам сна . 
+313	That 's all . 	
+314	Design it yourself . 	Создай их сам . 
+315	Mal wo n't let me . 	Мол не позволит мне . 
+316	Come back to reality , Dom . 	Возвращайся к реальности . 
+317	- Please . 	- Прошу . 
+318	- Reality . 	- Реальность . 
+319	Those kids , your grandchildren ... 	Мои дети , твои внуки ... 
+320	they 're waiting for their father to come back home . 	ждут , когда их отец вернётся домой . 
+321	That 's their reality . 	Вот их реальность . 
+322	And this job , this last job , that 's how I get there . 	И эта работа , мой последний заказ - поможет мне вернуться к ним . 
+323	I would not be standing here if I knew any other way . 	Меня бы здесь не было , если б я знал другой способ . 
+324	I need an architect who 's as good as I was . 	Мне нужен архитектор . 
+325	I 've got somebody better . 	У меня есть даже лучше . 
+326	Ariadne ? 	Ариадна ? 
+327	I 'd like you to meet Mr . Cobb . 	Познакомься , мистер Кобб . 
+328	Pleased to meet you . 	Очень приятно ! 
+329	If you have a few moments , Mr . Cobb has a job offer he 'd like to discuss with you . 	Если у тебя есть время , у мистера Кобба к тебе деловое предложение . 
+330	A work placement ? 	Наверное , стажировка ? 
+331	Not exactly . 	Не совсем ! 
+332	I have a test for you . 	Я хочу тебя проверить . 
+333	You 're not gonna tell me anything first ? 	Вы ничего не расскажете мне об этой работе ? 
+334	Before I describe the job , I have to know you can do it . 	Сначала я должен убедиться , что ты справишься с ней . 
+335	- Why ? 	- Почему ? 
+336	- It s not , strictly speaking , legal . 	- Она , скажем так , не совсем законна . 
+337	You have two minutes to design a maze that it takes one minute to solve . 	У тебя две минуты , чтобы создать лабиринт , на выход , из которого нужна минута . 
+338	Stop . 	Стоп . 
+339	Again . 	Ещё раз . 
+340	Stop . 	Стоп . 
+341	You 're gonna have to do better than that . 	Выдумай что-нибудь получше . 
+342	That 's more like it . 	Уже лучше . 
+343	They say we only use a fraction of our brain 's true potential . 	Говорят , мы используем лишь часть истинного потенциала нашего мозга . 
+344	Now , that 's when we 're awake . 	Но это когда мы бодрствуем . 
+345	When we 're asleep , our mind can do almost anything . 	Когда мы спим , наш мозг способен практически на всё . 
+346	Such as ? 	Например ? 
+347	Imagine you 're designing a building . 	Представь , что ты проектируешь здание . 
+348	You consciously create each aspect . 	
+349	But sometimes , it feels like it 's almost creating itself , if you know what I mean . 	Ты подсознательно создаёшь каждую деталь , но иногда кажется , 
+350	Yeah , like I 'm discovering it . 	что оно само себя создаёт . 
+351	Genuine inspiration , right ? 	Понимаешь , о чём я ? 
+352	Now , in a dream , our mind continuously does this . 	Да . 
+353	We create and perceive our world simultaneously . 	Как будто я открываю его , и во время сна наш мозг делает это постоянно . Мы создаём и ощущаем этот мир одновременно . 
+354	And our mind does this so well that we do n't even know it 's happening . 	Наш мозг так хорошо это делает , что мы не замечаем , что это происходит . 
+355	That allows us to get right in the middle of that process . 	Это позволяет нам проникать внутрь этого процесса . 
+356	- How ? 	- Как ? 
+357	- By taking over the creating part . 	- Взяв на себя роль создателя . 
+358	Now , this is where I need you . 	И вот здесь мне нужна ты . 
+359	You create the world of the dream . 	Ты создашь нам мир сна . 
+360	We bring the subject into that dream , and they fill it with their subconscious . 	Мы приведём человека в этот сон , и он наполнит его своим подсознанием . 
+361	How could I ever acquire enough detail to make them think that it 's reality ? 	А где я смогу взять достаточно деталей , чтоб он думал , что это - реальность ? 
+362	Well , dreams , they feel real while we 're in them , right ? 	Но ведь сны кажутся реальными , когда мы в них ? 
+363	It 's only when we wake up that we realize something was actually strange . 	Только проснувшись , мы понимаем , что что-то было не совсем обычно . 
+364	Let me ask you a question . 	Ответь мне на такой вопрос . 
+365	You never really remember the beginning of a dream , do you ? 	Мы никогда особо не помним начало сна , ведь так ? 
+366	You always wind up right in the middle of what 's going on . 	Мы всегда оказываемся прямо внутри того , что происходит . 
+367	I guess , yeah . 	Пожалуй , да . 
+368	So how did we end up here ? 	Как мы сюда попали ? 
+369	Well , we just came from the , uh ... 	Ну , мы просто пришли из ... 
+370	Think about it , Ariadne . 	Подумай хорошенько , Ариадна . 
+371	How did you get here ? 	Как ты здесь оказалась ? 
+372	Where are you right now ? 	Где ты находишься ? 
+373	We 're dreaming ? 	Мы во сне ? 
+374	You 're in the middle of the workshop , sleeping . 	Ты сейчас спишь посреди аудитории . 
+375	This is your first lesson in shared dreaming . 	Это твой первый урок обмена сном . 
+376	Stay calm . 	Не больше . 
+377	If it 's just a dream , then why are you -- ? 	Если это просто сон , зачем вы накрываете ? 
+378	Because it 's never just a dream , is it ? 	Потому что просто снов не бывает ? 
+379	And a face full of glass hurts like hell . 	Когда стёкла летят в лицо - боль адская . 
+380	When you 're in it , it feels real . 	Как в реальности . 
+381	That 's why the military developed dream sharing . 	Поэтому военные и придумали обмен сном . 
+382	It was a training program for soldiers to shoot , stab and strangle each other ... 	Обучающую программу , где солдаты могли бить , резать и душить друг друга ... 
+383	and then wake up . 	а потом просыпаться . 
+384	How did architects become involved ? 	А откуда взялись архитекторы ? 
+385	Well , someone had to design the dreams , right ? 	Ну , кто-то же должен был создавать сны , правда ? 
+386	Why do n't you give us another five minutes ? 	Дай нам ещё пять минут ? 
+387	Five minutes ? 	Пять минут ? Что ? Но мы ведь разговариваем уже не меньше часа . 
+388	What -- ? 	
+389	We were talking for , like , at least an hour . 	
+390	In a dream , your mind functions more quickly ... 	Во сне мозг работает намного быстрее , поэтому ... 
+391	therefore time seems to feel more slow . 	время воспринимается медленнее . 
+392	Five minutes in the real world gives you an hour in the dream . 	Пять минут в реальном мире равны часу во сне . 
+393	Why do n't you see what you can get up to in five minutes ? 	Посмотрим , на что ты способна за пять минут ? 
+394	You 've got the basic layout . 	Это стандартный макет . 
+395	Bookstore , café . 	Книжный магазин , кафе . 
+396	Almost everything else is here too . 	Здесь же и всё остальное . 
+397	Who are the people ? 	Кто эти люди ? 
+398	- Projections of my subconscious . 	- Проекция моего подсознания . 
+399	- Yours ? 	- Вашего ? 
+400	- Yes . 	- Да . 
+401	Remember , you are the dreamer . 	Ты - создатель сна . 
+402	You build this world . 	Ты создала этот мир . 
+403	I am the subject . 	Я - объект . 
+404	My mind populates it . 	Мой мозг заселяет его . 
+405	You can literally talk to my subconscious . 	Ты можешь общаться с моим подсознанием . 
+406	That 's one of the ways we extract information from the subject . 	Это один из способов доставать информацию из объекта . 
+407	How else do you do it ? 	Есть ещё способы ? 
+408	By creating something secure , like a bank vault or a jail . 	Создать что-нибудь безопасное , вроде банковского хранилища . 
+409	The mind automatically fills it with information it 's trying to protect . 	Мозг автоматически наполняет его информацией , которую хочет защитить . 
+410	- You understand ? 	Понимаешь ? 
+411	- Then you break in and steal it ? 	И вы крадёте её оттуда ? 
+412	Well ... 	Ну ... 
+413	I guess I thought that the dream space would be all about the visual ... 	Я раньше думала , что сон связан лишь с визуальным восприятием ... 
+414	but it 's more about the feel of it . 	но ощущения куда важнее . 
+415	My question is what happens when you start messing with the physics of it all ? 	Мне интересно , что происходит , когда меняешь физические свойства ? 
+416	It 's something , is n't it ? 	Впечатляет ? 
+417	Yes , it is . 	Да , ещё как ! 
+418	Why are they all looking at me ? 	Почему они смотрят на меня ? 
+419	Because my subconscious feels that someone else is creating this world . 	Потому что моё подсознание чувствует , что кто-то ещё создаёт этот мир . 
+420	The more you change things , the quicker the projections start to converge on you . 	Чем больше ты меняешь всё вокруг , тем быстрее проекции стремятся к тебе . 
+421	Converge ? 	Стремятся ? 
+422	They sense the foreign nature of the dreamer . 	Они чувствуют чужеродность участника сна . 
+423	They attack , like white blood cells fighting an infection . 	И нападают , как лейкоциты , борющиеся с инфекцией . 
+424	- What , they 're gonna attack us ? 	- Они что , нападут на нас ? 
+425	- No , no . 	- Нет , нет . 
+426	Just you . 	Только на тебя . 
+427	This is great , but I m telling you , if you keep changing things like this ... 	Отлично ! 
+428	Jeez , mind telling your subconscious to take it easy ? 	Боже ! 
+429	It 's my subconscious . 	Успокойте своё подсознание ? Это ведь подсознание . Помнишь ? 
+430	Remember ? 	Я не могу им управлять . 
+431	I ca n't control it . 	
+432	Very impressive . 	Впечатляет . 
+433	I know this bridge . 	Я знаю этот мост . 
+434	This place is real , is n't it ? 	Это ведь реальное место , не так ли ? 
+435	Yeah , I cross it every day to get to the college . 	Ага , я каждый день хожу по нему в колледж . 
+436	Never re-create places from your memory . 	Никогда не воссоздавай места , которые помнишь . 
+437	Always imagine new places . 	Всегда придумывай новые . 
+438	You draw from stuff you know , right ? 	Ты ведь рисовала со знакомых вещей , так ? 
+439	Only use details . 	Используй только части . 
+440	A streetlamp or a phone booth . 	Фонари или телефонные будки . 
+441	Never entire areas . 	Но никогда - целые места . 
+442	- Why not ? 	- Почему ? 
+443	- Building a dream from your memory ... 	- Создавая сон из своих воспоминаний ... 
+444	is the easiest way to lose your grasp on what 's real and what is a dream . 	проще всего запутаться между реальным и выдуманным . 
+445	- Is that what happened to you ? 	- Такое случилось с тобой ? 
+446	- Listen to me . 	- Послушай меня . 
+447	This has nothing to do with me , understand ? 	Ко мне это не имеет отношения , поняла ? 
+448	That why you need me to build your dreams ? 	Поэтому я нужна тебе для создания снов ? 
+449	Hey , get off of her . 	Эй , отстань от нее . 
+450	Back up . 	Назад . 
+451	Back up . 	Назад . 
+452	- Cobb ! 	- Кобб ! 
+453	Cobb ! 	Кобб ! 
+454	- Get off of her ! 	- Отстань от нее ! 
+455	- Let me go ! 	- Отпустите меня ! 
+456	Let me go ! 	Отпустите меня ! 
+457	- Mal ! 	- Мэл ! 
+458	- Mal ! 	- Мэл ! 
+459	- Cobb ! 	- Кобб ! 
+460	Wake me up ! 	Разбуди меня ! 
+461	- Wake me up ! 	- Разбуди меня ! 
+462	Wake me up ! 	Разбуди меня ! 
+463	- No ! 	- Нет ! 
+464	- Mal , no ! 	- Мэл , нет ! 
+465	No ! 	Нет ! 
+466	- Wake me up ! 	- Разбуди меня ! 
+467	Hey , hey , hey . 	Эй . 
+468	Look at me . 	Эй . 
+469	You 're okay . 	Эй . 
+470	You 're okay . 	Смотри на меня . 
+471	- Hey . 	Ты в порядке . Ты в порядке . - Эй . 
+472	- Why would n't I wake up ? 	- Почему я не просыпалась ? 
+473	There was still time on the clock . 	Все еще оставалось время . 
+474	You ca n't wake up from within the dream unless you die . 	Ты не можешь проснуться , пока не умрешь . 
+475	-- She 'll need a totem . 	Ей нужен тотем . 
+476	- What ? 	Что ? 
+477	A totem , it 's a small personal -- 	Тотем , это маленький личный - 
+478	That 's some subconscious you 've got on you , Cobb ! 	Ну у тебя и подсознание , Кобб ! 
+479	- She 's a real charmer . 	- Она просто очаровательна . 
+480	- Oh . 	- Ох . 
+481	- I see you met Mrs . Cobb . 	- Смотрю , ты познакомилась с миссис Кобб . 
+482	- She 's his wife ? 	- Она его жена ? 
+483	Yeah . 	Ага . 
+484	So a totem . 	Итак тотем . 
+485	You need a small object , potentially heavy . 	Тебе нужен маленький предмет . 
+486	Something you can have on you that no one else knows . 	Что нибудь , что может быть при тебе и о чем никто больше не знает . 
+487	- Like a coin ? 	Вроде монеты ? 
+488	- No . 	Нет . 
+489	It needs to be more unique than that . 	Нужно что-то более уникальное . 
+490	Like , this is a loaded die . 	Например , эта игральная кость . 
+491	No , I ca n't let you touch it . 	Нет , тебе нельзя ее трогать . 
+492	That would defeat the purpose . 	Это сделает ее бесполезной . 
+493	See , only I know the balance and the weight of this particular loaded die . 	Видишь ли , только я знаю баланс , и вес именно этой кости . 
+494	That way , when you look at your totem ... 	Так вот , когда ты смотришь на свой тотем ... 
+495	you know beyond a doubt that you 're not in someone else 's dream . 	то точно знаешь , что ты не в чьем-то сне . 
+496	I do n't know if you ca n't see what 's going on , or if you just do n't want to ... 	Я не знаю , если ты не можешь понять , что происходит или просто не хочешь ... 
+497	but Cobb has some serious problems that he 's tried to bury down there . 	но у Кобба есть серьезные проблемы , которые он пытался там похоронить . 
+498	And I m not about to just open my mind to someone like that . 	И я не собираюсь так просто открывать свой разум , кому то вроде него . 
+499	She 'll be back . 	Она вернется . 
+500	I 've never seen anyone pick it up that quickly before . 	Я никогда раньше не видел , чтобы все схватывали так быстро . 
+501	Reality 's not gonna be enough for her now , and when she comes back ... 	Реальности теперь для нее не достаточно и когда она вернется 
+502	When she comes back , you 're gonna have her building mazes . 	Когда она вернется , пусть строит лабиринты . 
+503	- Where are you gonna be ? 	- А ты где будешь ? 
+504	- I gotta go visit Eames . 	- Я должен навестить Имса 
+505	Eames ? 	Имса ? 
+506	No , he 's in Mombasa . 	Нет , он в Момбасе . 
+507	It 's Cobol 's back yard . 	Это задний двор Кобол . 
+508	It 's a necessary risk . 	Это необходимый риск . 
+509	- Well , there 's plenty of good thieves . 	- Ну , полно хороших воров . 
+510	- We do n't just need a thief . 	- Нам нужен не просто вор . 
+511	We need a forger . 	Нужен тот , кто сумеет внушить . 
+512	Rub them together all you want , they 're not gonna breed . 	От того , что ты их всё время трёшь , больше их не станет . 
+513	You never know . 	Никогда не знаешь . 
+514	I 'm gonna get you a drink . 	Налью тебе выпить . 
+515	You 're buying . 	Ты платишь . 
+516	- Your spelling has n't improved . 	- С орфографией у тебя лучше не стало . 
+517	- Piss off . 	- Отвали . 
+518	How 's your handwriting ? 	Как твой почерк ? 
+519	- It s versatile . 	- Изменчивый . 
+520	- Good . 	- Хорошо . 
+521	Thank you very much . 	Большое спасибо . 
+522	Inception . 	Внушение идеи . 
+523	Now , before you bother telling me it 's impossible , let me-- 	Пока ты не начал утомлять меня рассказами о невозможности подобного , позволь ... 
+524	No , it 's perfectly possible . 	Нет , абсолютно выполнимо . 
+525	It 's just bloody difficult . 	Просто чертовски трудно . 
+526	Interesting . 	Интересно . 
+527	Because Arthur keeps telling me it ca n't be done . 	Потому что Артур все время твердит мне , что так сделать нельзя . 
+528	Hmm . 	Хм . 
+529	Arthur . 	Артур . 
+530	You still working with that stick in the mud ? 	До сих пор работаешь с этим отсталым от жизни ? 
+531	He is good at what he does , right ? 	Он хорош в своем деле , верно ? 
+532	Oh , he 's the best , but he has no imagination . 	Он лучший . 
+533	Not like you . 	Но у него нет воображения . Не как у тебя . 
+534	Listen , if you 're gonna perform inception , you need imagination . 	Послушайте , если вы собрались внушать идею , понадобится воображение . 
+535	Let me ask you something . 	Позволь-ка спросить кое-что . 
+536	Have you done it before ? 	Ты делал такое раньше ? 
+537	We tried it . 	Пробовали . 
+538	Uh , we got the idea in place , but it did n't take . 	Посадили идею в нужном месте , но она не проросла . 
+539	- You did n't plant it deep enough ? 	- Посадил недостаточно глубоко ? 
+540	- No , it 's not just about depth . 	- Нет , дело не просто в глубине . 
+541	You need the simplest version of the idea ... 	Нужна простейшая версия идеи ... 
+542	in order for it to grow naturally in your subject 's mind . 	чтобы она естественно проросла в разуме нужного субъекта . 
+543	It s a subtle art . 	Очень тонкое искусство . 
+544	So , what is this idea that you need to plant ? 	Ну так , что за идея , которую вы хотите посадить ? 
+545	We need the heir of a major corporation to dissolve his father 's empire . 	Нам нужно , чтобы наследник крупной корпорации развалил империю своего отца . 
+546	Right there you have various political motivations ... 	Тут тебе и разные политические причины ... 
+547	and anti-monopolistic sentiments and so forth . 	и антимонопольные настроения и так далее . 
+548	But all of that stuff , it 's , um ... 	Но вся эта хрень , это , эм ... 
+549	It 's really at the mercy of your subject 's prejudice , you see ? 	Видишь ли , на самом деле все на милости предубеждений твоего объекта . 
+550	What you have to do is start at the absolute basic . 	Что тебе нужно сделать , так это начать с самого основного . 
+551	Which is what ? 	И что это ? 
+552	The relationship with the father . 	Отношения с отцом . 
+553	- Do you have a chemist ? 	- Уже нашел химика ? 
+554	- No , not yet . 	- Нет , еще нет . 
+555	Right . 	Ясно . 
+556	Okay , well , there 's a man here , Yusuf . 	Ну здесь есть один человек , Юсуф . 
+557	He , uh , formulates his own versions of the compounds . 	Он , эм , разрабатывает свои собственные версии смесей . 
+558	Why do n't you take me there ? 	Почему бы тебе не отвести меня туда ? 
+559	Once you 've lost your tail . 	После того как сбросишь хвост . 
+560	The man at the bar . 	Парень в баре . 
+561	Cobol Engineering . 	Кобол Инженеринг . 
+562	That price on my head , was that dead or alive ? 	А эта цена за мою голову - она за живого или мертвого ? 
+563	Do n't remember . 	Не помню . 
+564	Let 's see if he starts shooting . 	Давай проверим , начнет ли он стрелять . 
+565	Run interference . 	Отвлеки его . 
+566	I 'll meet you downstairs in the bar in , say , uh , half an hour ? 	Встретимся внизу в баре . 
+567	- Back here ? 	Скажем , через полчаса ? - Опять здесь ? - Здесь они точно не будут искать . 
+568	- This is the last place they 'd suspect . 	
+569	All right . 	Точно . 
+570	Freddy . 	Фредди . 
+571	Freddy Simmonds . 	Фредди Симмондс . 
+572	My God , it 's you , is n't it ? 	Обалдеть ! 
+573	No , it is n't you . 	Нет , это не ты . 
+574	Not dreaming now , are you ? 	Теперь-то не спишь , да ? 
+575	Get him ! 	Взять его ! 
+576	There ! 	Туда ! 
+577	One café . 	Один кофе . 
+578	Shh . 	Шш . 
+579	One café . 	Один кофе . 
+580	One café . 	Один кофе . 
+581	Care for a lift , Mr . Cobb ? 	Подвезти мистер Кобб ? 
+582	- What are you doing in Mombasa ? 	- Что вы делаете в Мамбосе ? 
+583	- I m here to protect my investment . 	- Приехал защитить свои инвестиции . 
+584	Ah . 	Аа . 
+585	So this is your idea of losing a tail , huh ? 	По твоему так стряхивают хвост ? 
+586	Different tail . 	Это другой хвост . 
+587	Cobb said you 'd be back . 	Кобб говорил , что ты вернешься . 
+588	- I tried not to come , but ... 	- Я не хотела приходить , но ... 
+589	- But there 's nothing quite like it . 	- Но с этим ничто не сравнится . 
+590	It 's just ... 	Это же ... 
+591	pure creation . 	чистое творчество . 
+592	Shall we take a look at some paradoxical architecture ? 	Не хочешь взглянуть на парадоксальную архитектуру ? 
+593	You 're gonna have to master a few tricks ... 	Тебе придется овладеть несколькими трюками ... 
+594	if you 're gonna build three complete dream levels . 	если собираешься строить три полных уровня сна . 
+595	Excuse me . 	Простите . 
+596	What kind of tricks ? 	Что за трюки ? 
+597	In a dream , you can cheat architecture into impossible shapes . 	Во сне ты можешь придавать архитектуре всевозможные формы . 
+598	That lets you create closed loops , like the Penrose Steps . 	Это позволит тебе создавать замкнутые круги , вроде Лестницы Пенроуза . 
+599	The infinite staircase . 	Бесконечная лестница . 
+600	See ? 	Видишь ? 
+601	Paradox . 	Парадокс . 
+602	So a closed loop like that ... 	И такой замкнутый круг ... 
+603	will help you disguise the boundaries of the dream you create . 	поможет маскировать границы созданного тобой сна . 
+604	But how big do these levels have to be ? 	Насколько большими должны быть эти уровни ? 
+605	It could be anything from the floor of a building to an entire city . 	Какими угодно , от маленького здания до целого города . 
+606	They have to be complicated enough that we can hide from the projections . 	Они должны быть достаточно сложными , чтобы мы могли спрятаться от проекций . 
+607	- A maze ? 	- Лабиринт ? 
+608	- Right , a maze . 	- Верно , лабиринт . 
+609	And the better the maze ... 	И чем лучше лабиринт ... 
+610	Then the longer we have before the projections catch us ? 	Тем больше времени до того , как проекции схватят нас ? 
+611	Exactly . 	Именно . 
+612	- My subconscious seems polite enough . 	- Мое подсознание , похоже , довольно вежливое . 
+613	- Ha , ha . 	- Ха-ха . 
+614	You wait , they 'll turn ugly . 	Погоди , сейчас станет скверным . 
+615	No one likes to feel someone else messing around in their mind . 	Никому не нравится , когда кто-то лазит в сознании . 
+616	Cobb ca n't build anymore , can he ? 	Кобб больше не может строить ? 
+617	I do n't know if he ca n't , but he wo n't . 	Не знаю на счет не может , но не будет точно . 
+618	He thinks it 's safer if he does n't know the layouts . 	Он считает , что безопаснее , когда он не знает план . 
+619	Why ? 	Почему ? 
+620	He wo n't tell me . 	Он мне не говорит . 
+621	But I think it 's Mal . 	Думаю , из-за Мол . 
+622	- His ex-wife ? 	- Его бывшая жена ? 
+623	- No , not his ex . 	- Нет , не бывшая . 
+624	- They 're still together ? 	Они еще вместе ? 
+625	- No . 	Нет . 
+626	No , she 's dead . 	Нет , она ... 
+627	What you see in there is just his projection of her . 	То , что ты там видела - это её проекция . 
+628	What was she like in real life ? 	Какой она была в реальной жизни ? 
+629	She was lovely . 	Она была прекрасна . 
+630	- You are seeking a chemist ? 	Вы ищете химика ? 
+631	- Yes . 	Да . 
+632	To formulate compounds for a job ? 	Изготовить усыпляющую смесь ? 
+633	And to go into the field with us . 	И пойти с нами в сон . 
+634	No , I rarely go into the field , Mr . Cobb . 	Нет , я редко хожу в сон , мистер Кобб . 
+635	Well , we 'd need you there to tailor compounds specific to our needs . 	Ну , вы понадобитесь там , чтобы создать необходимые нам смеси . 
+636	- Which are ? 	- Каких ? 
+637	- Great depth . 	- Большая глубина . 
+638	A dream within a dream ? 	Сон внутри сна ? 
+639	Two levels ? 	Два уровня ? 
+640	Three . 	Три . 
+641	Not possible . 	Невозможно . 
+642	That many dreams within dreams is too unstable . 	Сны внутри снов слишком нестабильны . 
+643	It is possible . 	Это возможно . 
+644	You just have to add a sedative . 	Просто понадобится больше снотворного . 
+645	A powerful sedative . 	Сильного снотворного . 
+646	- How many team members ? 	- Сколько человек в команде ? 
+647	- Five . 	- Пять . 
+648	Six . 	Шесть . 
+649	The only way to know you 've done the job is if I go in with you . 	Единственный способ узнать , что вы сделали работу , пойти с вами . 
+650	There 's no room for tourists on a job like this , Mr . Saito . 	В нашей работе нет места для туристов , мистер Сайто . 
+651	This time , it seems there is . 	На этот раз место найдётся . 
+652	This , I think , is a good place to start . 	Лучше всего начать с этого . 
+653	I use it every day . 	Я использую его каждый день . 
+654	What for ? 	Для чего ? 
+655	- Here , I 'll show you . 	- Я покажу вам . 
+656	Perhaps you will not want to see . 	Возможно вы не захотите это видеть . 
+657	After you . 	После вас . 
+658	Ten . 	Десять . 
+659	Twelve . 	Двенадцать . 
+660	All connected . 	И все связаны . 
+661	Bloody hell . 	Черт возьми . 
+662	They come every day to share the dream . 	Каждый день у них общий сон . 
+663	You see ? 	Видите ? 
+664	Very stable . 	Всё стабильно . 
+665	- How long do they dream for ? 	- Сколько они спят ? 
+666	- Three , four hours , each day . 	Три , четыре часа , каждый день . 
+667	In dream time ? 	А время во сне ? 
+668	With this compound ? 	С этой смесью ? 
+669	About 40 hours , each and every day . 	Около 40 часов , каждому и ежедневно . 
+670	- Why do they do it ? 	- Зачем они это делают ? 
+671	- Tell him , Mr . Cobb . 	Расскажите им , мистер Кобб . 
+672	After a while , it becomes the only way you can dream . 	Через некоторое время , это становится единственным способом видеть сны . 
+673	Do you still dream , Mr . Cobb ? 	Вы все еще спите , мистер Кобб ? 
+674	- They come here every day to sleep ? 	- Они приходят сюда каждый день поспать ? 
+675	- No . 	Нет . 
+676	They come to be woken up . 	Они приходят , чтобы их разбудили . 
+677	The dream has become their reality . 	Сон стал для них реальностью . 
+678	Who are you to say otherwise , sir ? 	Кто вы , чтобы утверждать обратное , сэр ? 
+679	Let 's see what you can do . 	Посмотрим , что вы сможете сделать . 
+680	You know how to find me . 	Ты знаешь , как найти меня . 
+681	You know what you have to do . 	Ты знаешь , что нужно сделать . 
+682	Sharp , no ? 	Круто , да ? 
+683	Are you all right , Mr . Cobb ? 	Вы в порядке , мистер Кобб ? 
+684	Yeah , yeah . 	Да , да . 
+685	Everything 's just fine . 	Все хорошо . 
+686	Robert Fischer , heir to the Fischer Morrow energy conglomerate . 	Роберт Фишер , наследник энергетического концерна Фишер Морроу . 
+687	What 's your problem with this Mr . Fischer ? 	Какие у вас проблемы с мистером Фишером ? 
+688	That 's not your concern . 	Это не ваша забота . 
+689	Mr . Saito , this is n't your typical corporate espionage . 	Мистер Сайто , это не обычный промышленный шпионаж . 
+690	You asked me for inception . 	Вы просите меня о внедрении . 
+691	I do hope you understand the gravity of that request . 	Я надеюсь , вы понимаете серьезность просьбы . 
+692	Now , the seed that we plant in this man 's mind will grow into an idea . 	То зерно , которое мы поместим ему в мозг , произрастет в идею . 
+693	This idea will define him . 	Эта идея поглотит его . 
+694	It may come to change ... 	Она может изменить ... 
+695	Well , it may come to change everything about him . 	Практически всю его жизнь . 
+696	We 're the last company standing between them and total energy dominance . 	Мы последняя компания между ним и полным энергетическим господством . 
+697	And we can no longer compete . 	И мы больше не можем им противостоять . 
+698	Soon , they 'll control the energy supply of half the world . 	Скоро , они будут контролировать энергоснабжение половины мира . 
+699	In effect , they become a new superpower . 	И в итоге , они получат супер-власть . 
+700	The world needs Robert Fischer to change his mind . 	Миру нужно , чтобы Роберт Фишер изменил свои планы . 
+701	That 's where we come in . 	И тут появляемся мы . 
+702	How is Robert Fischer 's relationship with his father ? 	Какие у Роберта Фишера отношения с отцом ? 
+703	Rumor is the relationship is quite complicated . 	По слухам , отношения довольно сложные . 
+704	Well , we ca n't work based solely on rumor , can we ? 	Ну , мы не можем работать , основываясь только на слухах , не так ли ? 
+705	Can you get me access to this man here ? 	Вы можете дать мне доступ к этому человеку ? 
+706	Browning . 	Браунинг . 
+707	Fischer Senior 's right-hand man . 	Правая рука Фишера Старшего . 
+708	Fischer Junior 's godfather . 	Крестный отец Фишера Младшего . 
+709	It should be possible , if you can get the right references . 	Это возможно , если найдете нужные основания . 
+710	References are something of a specialty for me , Mr . Saito . 	Основания это моя специализация , мистер Сайто . 
+711	I 'm not smelling settlement here . 	Я не вижу смысла в этой сделке . 
+712	Take them down . 	Судитесь . 
+713	Mr . Browning ... 	Мистер Браунинг ... 
+714	Maurice Fischer 's policy is always one of avoiding litigation . 	политика Мориса Фишера - избегать судебных разбирательств . 
+715	Well , shall we voice your concerns with Maurice directly ? 	Что ж , может , тогда обсудим ваши опасения лично с Морисом ? 
+716	Not sure that 's necessary . 	Ну , это не столь необходимо . 
+717	No , no , no . 	Нет , нет , нет . 
+718	I think we should . 	Давайте спросим его . 
+719	How is he ? 	Как он ? 
+720	I do n't want to bother him unnecessarily , but -- 	Не хочу беспокоить его по всяким пустякам , но ... 
+721	Robert , I told you keep out the damn -- Wait . 	Роберт , я говорил держать подальше эту чертову - Подожди . 
+722	So do it . 	Так делай . 
+723	Get -- 	Возьми - 
+724	- Mr . Fischer . 	Мистер Фишер . 
+725	- Put it through . 	Убери ! 
+726	Never , never . 	Никогда , никогда . 
+727	Never do the same as I asked . 	Никогда не делай , чего я не просил . 
+728	Leave that . 	Оставьте это . 
+729	Here . 	Оставь . 
+730	Must be a cherished memory of his . 	Наверно , она много для него значит . 
+731	I put it beside his bed . 	Я оставил её у кровати . 
+732	He has n't even noticed . 	Он даже не заметил . 
+733	Robert ... 	Роберт ... 
+734	we need to talk about a power of attorney . 	нам нужно обсудить вопрос о доверенности . 
+735	- I know this is hard , but it 's imperative-- - Not now , Uncle Peter . 	- Я знаю , тебе это нелегко ... 
+736	The vultures are circling . 	Стервятники кружат . 
+737	And the sicker Maurice Fischer becomes , the more powerful Peter Browning becomes . 	И чем слабее становится Морис Фишер , тем сильнее становится Питер Браунинг . 
+738	I 've had ample opportunity to observe Browning ... 	Я достаточно долго наблюдал за Браунингом ... 
+739	and adopt his physical presence , study his mannerisms , and so on and so forth . 	изучил его манеры поведения и тому подобное . 
+740	So now in the first layer of the dream , I can impersonate Browning . 	Так что в первом уровне сна я могу исполнить роль Браунинга . 
+741	And suggest concepts to Fischer 's conscious mind . 	И подкинуть кое-какие концепции сознанию Фишера . 
+742	Then , when we take him a level deeper ... 	И , когда он перейдёт на уровень глубже , его проекция ... 
+743	his own projection of Browning should feed that right back to him . 	Браунинга должна будет возобладать над ним . 
+744	So he gives himself the idea . 	Он сам себе подкинет идею . 
+745	Precisely . 	Вот именно . 
+746	That 's the only way it will stick . 	Она приживётся только , если мозг сам её выработает . 
+747	It has to seem self-generated . 	
+748	Eames , I am impressed . 	Имс , я впечатлён . 
+749	Your condescension , as always , is much appreciated , Arthur , thank you . 	Твоя снисходительность , как всегда мне очень льстит , Артур , спасибо . 
+750	Were you going under on your own ? 	Ты что , хотел сам войти в сон ? 
+751	No , no , I was just , uh , running some experiments . 	Нет , просто провожу кое-какие эксперименты . 
+752	I did n't realize anyone was here , so ... 	Я не знал , что здесь ещё кто-то есть ... 
+753	Yeah , I was just -- I was working on my totem , actually . 	Да , я тут работала над своим тотемом . 
+754	Here , let me take a look . 	Дай посмотрю . 
+755	So you 're learning , huh ? 	Ты быстро учишься ? 
+756	An elegant solution for keeping track of reality . 	Изящное решение - отслеживать реальность . 
+757	- Was it your idea ? 	- Ты сам это придумал ? 
+758	- No , it was , uh ... 	- Нет , это ... 
+759	It was Mal 's , actually . 	Мол придумала . 
+760	This ... 	
+761	This one was hers . 	Этот тотем принадлежал ей . 
+762	She would spin it in the dream and it would never topple . 	Она крутила его во сне , и он не падал . 
+763	Just spin and spin . 	Просто крутился , и всё . 
+764	Arthur told me she passed away . 	Артур сказал , что она умерла . 
+765	How are the mazes coming along ? 	Как успехи с лабиринтами ? 
+766	Each level relates to the part of the subject 's subconscious ... 	Каждый уровень относится к той части подсознания объектов ... 
+767	that we are trying to access . 	в которую мы хотим проникнуть . 
+768	So I m making the bottom level a hospital , so Fischer will bring his father . 	Так что нижний уровень у меня будет больницей , куда Фишер поместит своего отца . 
+769	You know , I -- Actually , I have a question about this layout . 	Да , у меня тут возник вопрос по макету . 
+770	No , no , no . 	Нет , нет , нет . 
+771	Do n't show me specifics . 	Не надо , не показывай мне ничего . 
+772	Only the dreamer should know the layout . 	Только создатель сна должен знать это . 
+773	Why is that so important ? 	Почему это так важно ? 
+774	In case one of us brings in our projections . 	Ну , вдруг кто-то из нас привнесёт свои проекции . 
+775	We do n't want them knowing the details of the maze . 	Нельзя чтобы они знали детали лабиринта . 
+776	You mean in case you bring Mal in . 	Например , если ты привнесёшь Мол . 
+777	You ca n't keep her out , can you ? 	Ты не можешь удержать её , да ? 
+778	- Right . 	- Да . 
+779	- You ca n't build ... 	- Ты не можешь строить ... 
+780	because if you know the maze , then she knows it . 	ведь если ты знаешь лабиринт , то и она его знает . 
+781	Well , she 'd sabotage the whole operation . 	Она бы сорвала всю операцию . 
+782	- Cobb , do the others know ? 	- Кобб , другие знают ? 
+783	- No . 	- Нет , не знают . 
+784	No , they do n't . 	
+785	You 've gotta warn them if this is getting worse . 	Ты должен сказать им , если становится хуже . 
+786	No one said it 's getting worse . 	Я не говорил , что становится хуже . 
+787	I need to get home . 	Я должен вернуться домой . 
+788	That 's all I care about right now . 	Это всё , что меня волнует . 
+789	Why ca n't you go home ? 	Почему ты не можешь вернуться ? 
+790	Because they think I killed her . 	Они думают , что я убил её . 
+791	- Thank you . 	- Спасибо . 
+792	- For what ? 	- За что ? 
+793	For not asking whether I did . 	Что не спрашиваешь , правда ли это . 
+794	I will split up my father 's empire . 	Что не спрашиваешь , правда ли это . 
+795		Что не спрашиваешь , правда ли это . 
+796	Now , this is obviously an idea that Robert himself would choose to reject ... 	Я разделю отцовскую империю . Теперь , очевидно , эту идею Роберт точно отвергнет ... 
+797	which is why we need to plant it deep in his subconscious . 	поэтому нам нужно посадить ее глубоко в его подсознании . 
+798	The subconscious is motivated by emotion , right ? 	Подсознание мотивируется эмоциями , так ? 
+799	Not reason . 	Не разумом . 
+800	We need to find a way to translate this into an emotional concept . 	Нужно найти способ перевести идею в эмоциональное представление . 
+801	How do you translate business strategy into emotion ? 	И как ты переведешь деловую стратегию в эмоции ? 
+802	That 's what we 're here to figure out . 	Как раз это мы и выясняем . 
+803	Robert 's relationship with his father ... 	Отношения Роберта с его отцом ... 
+804	- ... 	по меньшей мере , напряженные . 
+805	is stressed , to say the least . 	- Может с этого и начнем ? 
+806	- Can we run with that ? 	
+807	We suggest breaking up his father 's company as a screw you to the old man . 	Предложим разрушить отцовскую компанию в отместку старику . 
+808	No , because I think positive emotion trumps negative emotion every time . 	Нет , потому что я считаю , что положительные эмоции всегда имеют преимущество перед отрицательными . 
+809	We all yearn for reconciliation , for catharsis . 	Мы уже истосковались по согласию . 
+810	We need Robert Fischer to have a positive emotional reaction to all this . 	Нужна положительная эмоциональная реакция Фишера на происходящее . 
+811	All right , well , try this . 	Ладно , попробуем так . 
+812	Um ... 	Хмм ... 
+813	My father accepts that I want to create for myself , not follow in his footsteps . 	Хмм ... 
+814		Хмм ... 
+815	That might work . 	Может сработать . 
+816	Might ? 	Может ? 
+817	We 're gonna need to do a little better than might . 	Нужно сделать немножко лучше , чем может . 
+818		
+819	Thank you for your contribution , Arthur . 	Спасибо за ценный вклад , Артур . 
+820	Forgive me for wanting a little specificity , Eames . 	Уж прости за небольшое стремление к конкретике , Эймс . 
+821	Specificity ? 	Конкретике ? 
+822	Inception 's not about being specific . 	Внушение мысли не относится к конкретике . 
+823	When we get inside his mind , we 're gonna have to work with what we find . 	Когда заберемся в его сознание , будем работать с тем , что найдем . 
+824	On the top level , we open up his relationship with his father ... 	На верхнем уровне мы затронем его отношения с отцом ... 
+825	and say , I will not follow in my father 's footsteps . 	На верхнем уровне мы затронем его отношения с отцом ... 
+826		На верхнем уровне мы затронем его отношения с отцом ... 
+827	Then the next level down , we feed him , I will create something for myself . 	и говорим , Я не пойду по стопам отца . 
+828		и говорим , Я не пойду по стопам отца . 
+829	Then , by the time we hit the bottom level , we bring out the big guns . 	Затем на следующем уровне подчитаем его мыслью Я создам что-то для себя . Потом , попав на нижний уровень , подтягиваем тяжелую артиллерию . 
+830	- My father does n't want me to be him . 	- Мой отец не хочет , чтобы я был им . 
+831	- Exactly . 	Точно . 
+832	Three layers down , the dreams are gonna collapse with the slightest disturbance . 	Три уровня спустя , сны разрушатся с небольшими помехами . 
+833	Sedation . 	Успокоение . 
+834	For sleep stable enough to create three layers of dreaming ... 	Для стабильного сна достаточно создать три уровня сновидений ... 
+835	we 'll have to combine it with an extremely powerful sedative . 	мы соединим их с чрезвычайно сильным снотворным . 
+836	Good night . 	Спокойной ночи . 
+837	The compound we 'll be using to share the dream ... 	Используемый нами состав для общего сна ... 
+838	creates a clear connection between dreamers ... 	создаст четкую связь между спящими ... 
+839	- ... 	пока прогрессирует мозговая активность . 
+840	whilst accelerating brain function . 	- Другими словами , больше времени на каждом уровне . 
+841	- In other words , more time on each level . 	
+842	Brain function in the dream will be about 20 times normal . 	Активность мозга во сне будет примерно в 20 раз выше нормы . 
+843	And when you enter a dream within that dream , the effect is compounded . 	И когда ты войдешь в сон внутри этого сна , эффект сложится . 
+844	It 's three dreams , that 's 10 hours times 20 -- 	Три сна , это 10 часов умножаем на 20 ... 
+845	Math was never my strong subject . 	Никогда не был силен в математике . 
+846	How much time is that ? 	Сколько это по времени ? 
+847	It 's a week , the first level down . 	Неделя , первый уровень . 
+848	Six months the second level down , and the third level -- 	Полгода второй уровень и третий ... 
+849	That 's 10 years . 	Это 10 лет . 
+850	Who 'd wanna be stuck in a dream for 10 years ? 	И кто хотел бы застрять во сне на 10 лет ? 
+851	Depends on the dream . 	Зависит от того , что за сон . 
+852	So once we 've made the plant , how do we get out ? 	Как мы выйдем после посадки идеи ? 
+853	I 'm hoping you have something more elegant than shooting me in the head . 	Надеюсь у тебя есть что-то изысканней пули в лоб . 
+854	- A kick . 	- Удар . 
+855	- What 's a kick ? 	- Что за удар ? 
+856	This , Ariadne , would be a kick . 	Такой , Ариадна , будет удар . 
+857	It 's that feeling of falling you get that jolts you awake . 	Это чувство падения , которое выбросит тебя из сна . 
+858	- Snaps you out of the dream . 	- Выдернет тебя из сна . 
+859	- We gonna feel a kick with this sedation ? 	- Разве мы почувствуем удар под этим снотворным ? 
+860	That 's the clever part . 	Это хитрая часть . 
+861	I customized the sedative to leave inner-ear function unimpaired . 	Я модифицировал снотворное , чтобы оно не влияло на функции среднего уха . 
+862	That way , however deep the sleep , the sleeper still feels falling . 	Таким образом , каким бы глубоким ни был сон , спящий все равно почувствует падение . 
+863	Or tipping . 	Или наклон . 
+864	The trick is to synchronize a kick that can penetrate all three levels . 	Фокус в синхронизации удара , чтобы он мог проникнуть сквозь все три уровня . 
+865	We could use a musical countdown to synchronize the different kicks . 	Мы можем использовать музыкальный отсчет для синхронизации разных ударов . 
+866	He has n't got any surgery scheduled , no dental , nothing . 	У него нет запланированных операций , ни зубного , ничего . 
+867	Was n't he supposed to have a knee operation ? 	Разве он не собирается оперировать колено ? 
+868	Nothing . 	Ничего . 
+869	Nothing that they 'll put him under for , anyway . 	Ничего где бы его усыпляли . 
+870	And we need-- 	А нам нужно - 
+871	We need at least a good 10 hours . 	Нам нужно как минимум 10 часов . 
+872	Sydney to Los Angeles . 	Из Сиднея в Лос-Анджелес . 
+873	One of the longest flights in the world . 	Один из самых долгих перелетов в мире . 
+874	He makes it every two weeks . 	Он летает каждые две недели . 
+875	He must be flying private , then . 	Тогда он должен летать на частном самолете . 
+876	Not if there were unexpected maintenance with his plane . 	Нет , если у его самолета будет внеплановое техобслуживание . 
+877	It would have to be a 747 . 	Это должен быть Боинг 747 . 
+878	- Why 's that ? 	- Почему это ? 
+879	On a 747 , the pilot 's up top ... 	В 747-м , пилоты в верхней части ... 
+880	the first-class cabin 's in the nose , so no one would walk through . 	салон первого класса в носовой , так что никто не войдет . 
+881	You 'd have to buy out the entire cabin and the first-class flight attendant . 	Тебе придется выкупить весь салон первого класса и стюардессу . 
+882	I bought the airline . 	Я выкупил авиакомпанию . 
+883	It seemed neater . 	Ловко . 
+884	Well , looks like we have our 10 hours . 	Ну , похоже у нас есть 10 часов . 
+885	Ariadne ? 	Ариадна ? 
+886	Terrific work , by the way . 	Отличная работа , кстати . 
+887	You know how to find me . 	Ты знаешь , как меня найти . 
+888	You know what you have to do . 	Знаешь , что нужно делать . 
+889	You remember when you asked me to marry you ? 	Помнишь , когда ты просил выйти за тебя ? 
+890	Of course I do . 	Конечно помню . 
+891	You said you had a dream . 	Ты сказал , что тебе приснилось ... 
+892	That we 'd grow old together . 	как мы состарились вместе . 
+893	And we can . 	Мы все еще можем . 
+894	You should n't be here . 	Ты не должна быть здесь . 
+895	Just wanted to see what kind of tests you 're doing on your own every night . 	Хотела посмотреть , что за тесты ты проводишь каждую ночь . 
+896	- This has nothing to do with you . 	- Это не твое дело . 
+897	- This has everything to do with me . 	- Это все мое дело . 
+898	- You 've asked me to share dreams with you . 	- Ты просил меня разделить сны с тобой . 
+899	- Not these . 	- Не эти . 
+900	These are my dreams . 	Эти сны мои . 
+901	Why do you do this to yourself ? 	Зачем ты так поступаешь с собой ? 
+902	It 's the only way I can still dream . 	Для меня это единственный способ видеть сны . 
+903	Why is it so important to dream ? 	Почему так важно видеть сны ? 
+904	In my dreams , we 're still together . 	В моих снах мы все еще вместе . 
+905	These are n't just dreams . 	Это не просто сны . 
+906	These are memories . 	Это воспоминания . 
+907	And you said never to use memories . 	А ты говорил никогда не использовать воспоминания . 
+908	I know I did . 	Я знаю , что говорил . 
+909	You 're trying to keep her alive . 	Ты пытаешься видеть ее живой . 
+910	You ca n't let her go . 	Не можешь отпустить . 
+911	You do n't understand . 	Ты не понимаешь . 
+912	These are moments I regret . 	Об этих мгновениях я жалею . 
+913	They 're memories that I have to change . 	Эти воспоминания я должен изменить . 
+914	Well , what 's down there that you regret ? 	Ну так , и о чем ты жалеешь ? 
+915	Listen , there 's only one thing you need to understand about me . 	Послушай , есть только одно про меня , что тебе нужно понять . 
+916	This is your house ? 	Это твой дом ? 
+917	Mine and Mal 's , yes . 	Мой и Мэл , да . 
+918	Where is she ? 	Где она ? 
+919	She 's already gone . 	Уже ушла . 
+920	That 's my son , James . 	Это мой сын , Джеймс . 
+921	He 's digging for something , maybe a worm . 	Он выкапывает что-то , червяка может быть . 
+922	That 's Phillipa . 	Это Филиппа . 
+923	I thought about calling out to them ... 	Хотел позвать их ... 
+924	so they 'd turn and smile and I could see ... 	а они бы обернулись и улыбались , и я бы мог видеть ... 
+925	those beautiful faces of theirs , but it 's all too late . 	их прекрасные лица , но было слишком поздно . 
+926	Right now or never , Cobb . 	Сейчас или никогда , Кобб . 
+927	Then I start to panic . 	Потом я запаниковал . 
+928	I realize I 'm gonna regret this moment ... 	Осознал , что буду жалеть об этом мгновении ... 
+929	that I need to see their faces one last time . 	что нужно увидеть их лица в последний раз . 
+930	James ! 	Джеймс ! 
+931	Phillipa ! 	Филиппа ! 
+932	Come on in ! 	Домой ! 
+933	But the moment 's past . 	Но момент упущен . 
+934	And whatever I do , I ca n't change this moment . 	И что бы я не делал , я не могу изменить его . 
+935	As I m about to call out to them ... 	Я почти позвал их ... 
+936	they run away . 	но они убегают . 
+937	If I m ever gonna see their faces again , I 've gotta get back home . 	Я должен вернуться домой , чтобы когда-нибудь снова увидеть их лица . 
+938	The real world . 	Реальный мир . 
+939	What are you doing here ? 	Что ты здесь делаешь ? 
+940	My name is -- 	Меня зовут ... 
+941	I know who you are . 	Я знаю , кто ты . 
+942	What are you doing here ? 	Что ты здесь делаешь ? 
+943	I 'm just trying to understand . 	Просто пытаюсь понять . 
+944	How could you understand ? 	Как ты можешь понять ? 
+945	Do you know what it is to be a lover ? 	Ты знаешь что такое быть возлюбленной ? 
+946	To be half of a whole ? 	Быть половинкой целого ? 
+947	No . 	Нет . 
+948	I 'll tell you a riddle . 	Открою тебе тайну . 
+949	You 're waiting for a train . 	Ты ждешь поезд . 
+950	A train that will take you far away . 	Поезд , который увезет тебя очень далеко . 
+951	You know where you hope this train will take you ... 	Надеешься , что знаешь куда поезд увезет тебя ... 
+952	but you do n't know for sure . 	но ты не знаешь наверняка . 
+953	But it does n't matter . 	Но это неважно . 
+954	How can it not matter to you where that train will take you ? 	Как тебе может быть безразлично , куда повезет тебя поезд ? 
+955	Because you 'll be together . 	Потому что вы будете вместе . 
+956	How could you bring her here , Dom ? 	Как ты мог привести ее сюда , Дом ? 
+957	- What is this place ? 	- Что это за место ? 
+958	This is a hotel suite where we used to spend our anniversary . 	Номер отеля , в котором мы отмечали нашу годовщину . 
+959	What happened here ? 	Что здесь произошло ? 
+960	You promised ! 	Ты обещал ! 
+961	You promised we 'd be together ! 	Ты обещал что мы будем вместе ! 
+962	Please , I need you to stay here just for now ! 	Прошу тебя , останься здесь , только сейчас ! 
+963	You said we 'd be together ! 	Ты говорил , мы будем вместе ! 
+964	You said we 'd grow old together ! 	Говорил , что состаримся вместе ! 
+965	I 'll come back for you . 	Я вернусь за тобой . 
+966	I promise . 	Обещаю . 
+967	Do you think you can just build a prison of memories to lock her in ? 	Думаешь , ты можешь просто построить тюрьму для воспоминаний и закрыть ее там ? 
+968	Do you really think that that 's gonna contain her ? 	Ты действительно думаешь , что это ее удержит ? 
+969	It 's time . 	Пора . 
+970	Maurice Fischer just died in Sydney . 	Морис Фишер только что умер в Сиднее . 
+971	- When 's the funeral ? 	- Когда похороны ? 
+972	- Thursday . 	- Четверг . 
+973	In Los Angeles . 	В Лос-Анджелесе . 
+974	Robert should accompany the body no later than Tuesday . 	Роберт должен сопровождать тело не позднее вторника . 
+975	We should move . 	
+976	All right . 	Ясно . 
+977	- Cobb , I m coming with you . 	- Кобб , я лечу с вами . 
+978	- I promised Miles . 	- Не обещал тебе такого . 
+979	No . 	
+980	The team needs someone who understands what you 're struggling with . 	Должен быть хоть кто-нибудь , кто понимает , с чем ты борешься . 
+981	And it does n't have to be me ... 	Это не обязательно должна быть я ... 
+982	but then you have to show Arthur what I just saw . 	но прошу тебя , покажи Артуру то , что я видела . 
+983	Get us another seat on the plane . 	Закажите ещё один билет . 
+984	lf I get on this plane and you do n't honor our agreement ... 	Если я сяду в этот самолет и ты нарушишь наш договор ... 
+985	when we land , I go to jail for the rest of my life . 	когда мы приземлимся , меня отправят в тюрьму до конца жизни . 
+986	Complete the job en route ... 	Закончи работу к концу полета ... 
+987	I make one phone call from the plane ... 	я делаю один звонок с самолета ... 
+988	you have no trouble getting through Immigration . 	и у тебя нет проблем с таможней . 
+989	- I m sorry . 	- Извините . 
+990	- Oh , yeah , absolutely . 	- О , да , разумеется . 
+991	Thank you . 	Спасибо . 
+992	Excuse me , I think this is yours ? 	Извините , это ваше ? 
+993	You must have dropped it . 	Вы должно быть обронили . 
+994	Would you care for a drink ? 	Не желаете ли выпить ? 
+995	Oh . 	Воды , пожалуйста . 
+996	Water , please . 	
+997	Oh , um , same , please . 	И мне , пожалуйста . 
+998	Um ... 	Мм ... 
+999	Thank you . 	Спасибо . 
+1000	You know , I could n't help but notice ... 	Возможно , мне показалось ... 
+1001	but you would n't happen to be related to the Maurice Fischer , would you ? 	но вы случайно не родственник Мориса Фишера ? 
+1002	Yes , he , um ... 	Да , он ... 
+1003	He was my father . 	Он мой отец . 
+1004	Well , he was a very inspiring figure . 	Ну , он очень внушительная личность . 
+1005	I 'm sorry for your loss . 	Сочувствую вашей утрате . 
+1006	- Here you go . 	- Возьмите . 
+1007	- Thank you . 	- Спасибо . 
+1008	Hey . 	Эй . 
+1009	To your father . 	За вашего отца . 
+1010	May he rest in peace , huh ? 	Светлая ему память , да ? 
+1011	- Could n't have peed before you went under ? 	- Не мог пописать перед сном ? 
+1012	- Sorry . 	- Прости . 
+1013	Bit too much free champagne before takeoff ? 	Перебрал халявного шампанского до взлета ? 
+1014	Ha , ha , bloody ha . 	Ха , ха , как смешно . 
+1015	We know he 's gonna be looking for a taxi in this weather . 	Зато мы знаем , что без такси он не обойдётся . 
+1016	- Asshole ! 	- Козел ! 
+1017	Hey , man , why do n't you try -- ? 	Эй , парень , почему бы тебе не попробовать - ? 
+1018	- Walk away . 	- Отваливай . 
+1019	Just have him ca -- I gotta go . 	Пусть позвонит - Мне пора . 
+1020	All right . 	Хорошо . 
+1021	Taxi . 	Такси . 
+1022	Thank you . 	Спасибо . 
+1023	All right , Third and Market . 	Отлично , на угол Третьей и Маркет . 
+1024	Snappy . 	Поживее . 
+1025	- What are you doing ? 	- Что вы делаете ? 
+1026	- Sorry , I thought it was free . 	- Я думал , тут свободно . 
+1027	- It s not . 	- Как видите , нет . 
+1028	- Maybe we could share . 	- Давайте на двоих . 
+1029	Maybe not . 	Может и нет . 
+1030	Can you pull over and get this -- ? 	Вы не могли бы остановить здесь и ... 
+1031	Great . 	Отлично . 
+1032	Come on . 	Давай . 
+1033	There 's 500 in there . 	Тут где-то 500 долларов . 
+1034	The wallet 's worth more than that . 	И бумажник стоит ещё больше . 
+1035	You might at least drop me at my stop . 	Хотя бы довезите меня до моей остановки . 
+1036	I 'm afraid that it does n't -- 	Боюсь , это не совсем ... 
+1037	- Cover him ! 	- Прикрой его ! 
+1038	- Down ! 	Вниз ! 
+1039	Down now ! 	Вниз сейчас ! 
+1040	What the hell is going on ? 	Что , черт возьми , происходит ? 
+1041	This was n't in the design . 	Этого не было в плане . 
+1042	Cobb ? 	Кобб ? 
+1043	Cobb ? 	Кобб ? 
+1044	Get him ! 	Взять его ! 
+1045	Are you all right ? 	Ты в порядке ? 
+1046	Yeah , I m okay . 	Да , я в порядке . 
+1047	I 'm okay . 	Всё хорошо . 
+1048	Fischer 's okay , unless he gets carsick . 	Фишер цел . 
+1049	Saito ? 	Правда , его укачало . Сайто ? 
+1050	Get Fischer in the back room now . 	Спрячь Фишера где-нибудь . 
+1051	- Get him in the back room . 	- Уведи его в подсобку . 
+1052	Move . 	Бегом . 
+1053	- What the hell happened ? 	Какого черта здесь творится ? 
+1054	Has he been shot ? 	Его ранили ? 
+1055	Is he dying ? 	Он что , умирает ? 
+1056	I do n't know . 	Не знаю . 
+1057	- Jesus Christ . 	- Боже мой . 
+1058	What happened to you ? 	Что с вами случилось ? 
+1059	- Blocked by a freight train . 	- Нас отрезал товарняк . 
+1060	Why put a train in a downtown intersection ? 	Зачем ты пустила поезд в самом центре города ? 
+1061	- I did n't . 	- Это не я . 
+1062	- Where 'd it come from ? 	Тогда откуда он взялся ? 
+1063	Why the hell were we ambushed ? 	Какого черта мы попали в засаду ? 
+1064	Those were not normal projections . 	Это не обычные проекции . 
+1065	They 'd been trained , for God 's sakes . 	Это обученные головорезы . 
+1066	- How could he be trained ? 	- Что значит обученные ? 
+1067	- Fischer 's had an extractor ... 	- Фишер нанимал извлекателей ... 
+1068	teach his subconscious to defend itself , so his subconscious is militarized . 	обучивших его подсознание защищаться , так что оно вооружилось . 
+1069	It should 've shown in the research . 	Это должно было всплыть при разработке . 
+1070	Why the hell did n't it ? 	Какого черта не всплыло ? 
+1071	- Calm down . 	- Успокойся . 
+1072	Do n't tell me to calm down ! 	Не надо меня успокаивать ! 
+1073	This was your job , goddamn it ! 	Это была твоя работа , черт подери ! 
+1074	This was your responsibility ! 	Ты за это отвечал ! 
+1075	You were meant to check Fischer 's background ! 	Ты отвратно проработал Фишера ! 
+1076	- We are not prepared for this ! 	- Мы не были готовы ! 
+1077	- We have dealt with sub-security before ! 	- Раньше только с недоохраной сталкивались ! 
+1078	We 'll be more careful and we 're gonna be fine ! 	Надо поосторожнее и все будет нормально ! 
+1079	This was not a part of the plan ! 	Этого не было в плане ! 
+1080	He 's dying . 	Он умирает . 
+1081	Put him out his misery . 	Избавь его от мучений . 
+1082	- No , do n't do that ! 	- Нет , не надо ! 
+1083	Do n't do that . 	Не делай этого . 
+1084	- Cobb , hey , hey . 	- Кобб , эй , эй . 
+1085	He 's in agony . 	Он в агонии . 
+1086	I m waking him up . 	Все , я бужу его . 
+1087	No . 	Нет . 
+1088	It wo n't wake him up . 	Ты этим его уже не разбудишь . 
+1089	What do you mean , it wo n't wake him up ? 	В смысле , не разбужу ? 
+1090	When we die in a dream , we wake up . 	Умираешь во сне - просыпаешься . 
+1091	Not from this . 	Не в этот раз . 
+1092	We 're too heavily sedated to wake up that way . 	Мы под слишком сильным снотворным , чтобы так проснуться . 
+1093	Right . 	Точно . 
+1094	So , what happens when we die ? 	Ну так , что будет , если мы умрем ? 
+1095	- We drop into limbo . 	- Свалимся в лимб . 
+1096	- Are you serious ? 	- Ты пошутил что ли ? 
+1097	- Limbo ? 	- Лимбо ? 
+1098	- Unconstructed dream space . 	Недостроенное пространство сна . 
+1099	What the hell is down there ? 	И что там , черт возьми ? 
+1100	- Just raw , infinite subconscious . 	- Только чистое , бесконечное подсознание . 
+1101	Nothing is down there , except for what might have been left behind ... 	Там ничего , кроме того что могло остаться прежде ... 
+1102	by anyone sharing the dream who 's been trapped there before . 	от любого делящего сон и застрявшего там прежде . 
+1103	Which , in our case , is just you . 	В нашем случае , от тебя . 
+1104	- How long could we be stuck ? 	- И на сколько мы можем там застрять ? 
+1105	- Ca n't even think about ... 	Даже не думайте о том чтобы ... 
+1106	- ... 	пытаться выбраться оттуда , пока снотворное- - На сколько ? 
+1107	trying to escape until the sedation -- - How long ? 	
+1108	Decades . 	Десятилетия . 
+1109	It could be infinite . 	Может вечность . 
+1110	Ask him , he 's the one who 's been there . 	Спроси его , он был там . 
+1111	Let 's get him upstairs . 	Поднимем его наверх . 
+1112	Great . 	Прекрасно . 
+1113	Thank you . 	Спасибо . 
+1114	So now we 're trapped in Fischer 's mind , battling his own private army . 	Итак теперь мы застряли в разуме Фишера , сражаясь с его личной армией . 
+1115	And if we get killed ... 	И если нас убьют ... 
+1116	we 'll be lost in limbo till our brains turn to scrambled egg , hmm ? 	мы застрянем в лимбе , пока мозги в гоголь-моголь не превратятся ? 
+1117	Someone got first aid ? 	У кого-нибудь есть аптечка ? 
+1118	- You knew these risks and did n't tell us ? 	- Ты знал о риске и не сказал нам ? 
+1119	- There were n't meant to be risks . 	- Не должно было быть риска . 
+1120	- I did n't know we 'd be dealing with gunfire . 	- Я не знал что мы попадем под огонь . 
+1121	- You had no right . 	- Ты не имел права . 
+1122	This was the only way to go three layers deep . 	Это был единственный способ попасть на три уровня вглубь . 
+1123	You knew about this and went along with it ? 	Ты знал об этом и пошел с ним ? 
+1124	I trusted him . 	Я поверил ему . 
+1125	When ? 	Когда ? 
+1126	When he promised you half his share ? 	Когда он пообещал тебе половину своей доли ? 
+1127	No . 	Нет . 
+1128	His whole share . 	Всю его долю . 
+1129	Besides , he said he 'd done it before . 	Кроме того , он сказал , что делал это раньше . 
+1130	What , with Mal ? 	Что с Мал ? 
+1131	Because that worked so good ? 	Видимо все прошло отлично ? 
+1132	That has nothing to do with it . 	Это не имеет отношения к делу . 
+1133	I did what I had to to get to my children . 	Я сделал это , чтобы вернуться к моим детям . 
+1134	You led us into a war zone with no way out ? 	Ты привел нас в зону военных действий без пути назад ? 
+1135	There is a way out . 	Путь есть . 
+1136	We continue on with the job , and we do it as fast as possible ... 	Мы продолжим работу и мы сделаем ее настолько быстро на сколько это возможно ... 
+1137	and we get out using the kick , just like before . 	и мы выйдем , используй толчок , как и раньше . 
+1138	Forget it . 	Забудь об этом . 
+1139	We go any deeper , we just raise the stakes . 	Если мы пойдем еще глубже ставки возрастут . 
+1140	I am sitting this one out on this level . 	Я остаюсь на этом уровне . 
+1141	Fischer 's security is surrounding this place . 	Охрана Фишера окружает это место . 
+1142	Ten hours of flight time is a week at this level . 	Десять часов полета это неделя на этом уровне . 
+1143	That means each and every one of us will be killed . 	Это означает , что каждый из нас будет убит . 
+1144	That I can guarantee you . 	Это я могу гарантировать . 
+1145	We have no other choice but to continue on and do it as fast as possible . 	У нас нет другого выбора , только продолжить и сделать все так быстро , как это возможно . 
+1146	Downwards is the only way forwards . 	Вниз - единственный путь вперед . 
+1147	Get ready . 	Приготовьтесь . 
+1148	You , come on . 	Ты , давай иди , встряхни его . 
+1149	Let 's go shake him up . 	
+1150	I 'm insured against kidnapping for up to 10 million . 	Я застрахован от похищения на 10 миллионов . 
+1151	- This should be very simple . 	- Это должно быть очень просто . 
+1152	- Shut up ! 	Заткнись ! 
+1153	It wo n't be . 	Просто не будет . 
+1154	In your father 's office , below the bookshelves ... 	В офисе твоего отца , за книжными полками ... 
+1155	is his personal safe . 	его личный сейф . 
+1156	We need the combination . 	Нам нужна комбинация . 
+1157	I do n't know any safe . 	Не знаю ни про какой сейф . 
+1158	That does n't mean you do n't know the combination . 	Это не значит , что не знаешь комбинацию . 
+1159	Tell us what it is . 	Говори . 
+1160	I do n't know . 	Я не знаю . 
+1161	We have it on good authority you do know . 	Из достоверного источника известно , что ты знаешь . 
+1162	Yeah ? 	Да ? 
+1163	Whose authority ? 	Что за источник ? 
+1164	- Five hundred dollars , this cost . 	- Пять сотен долларов , за это ? 
+1165	- What 's inside it ? 	Что внутри ? 
+1166	Cash , cards , ID . 	Наличные , карты , права . 
+1167	And this . 	И это . 
+1168	Useful ? 	Пригодится ? 
+1169	Maybe . 	Может быть . 
+1170	You 're on . 	Твой выход . 
+1171	You 've got an hour . 	У тебя есть час . 
+1172	An hour ? 	Час ? 
+1173	I was supposed to have all night to crack this . 	Предполагалось , что у меня будет вся ночь , чтобы расколоть его . 
+1174	And Saito was n't supposed to be shot in the chest . 	А Сайто , не должен был быть ранен в грудь . 
+1175	You 've got one hour , now get us something useful , please . 	У тебя один час , принеси нам что-нибудь полезное , пожалуйста . 
+1176	- What 's that ? 	- Что это ? 
+1177	- Good authority . 	- Достоверный источник . 
+1178	Uncle Peter . 	Дядя Питер . 
+1179	Just make them stop . 	Остановите их . 
+1180	- The combination . 	- Комбинация . 
+1181	- I do n't know it . 	- Я не знаю ее . 
+1182	- Why does Browning say you do ? 	- Почему Браунинг говорит , что знаешь ? 
+1183	- I do n't know . 	- Я не знаю . 
+1184	Just let me talk to him and I ll find out . 	Просто дайте мне поговорить с ним и я выясню . 
+1185	You have one hour . 	У вас один час . 
+1186	Start talking . 	Говорите . 
+1187	You all right ? 	Вы в порядке ? 
+1188	You okay ? 	Все нормально ? 
+1189	Those bastards have had at me for two days . 	Эти ублюдки пытали меня два дня . 
+1190	They have someone with access to your father 's office . 	У них кто то с доступом к офису твоего отца . 
+1191	- They 're trying to open his safe . 	- Они пытаются открыть его сейф . 
+1192	- Yeah . 	- Да . 
+1193	They thought I 'd know the combination , but I do n't know it . 	Они думали я знаю комбинацию , но я не знаю ее . 
+1194	- Yeah , well , neither do I , so ... 	- Ага , ну я тоже не знаю , так что ... 
+1195	- What ? 	- Что ? 
+1196	Maurice told me that when he passed , you were the only one able to open it . 	Морис сказал мне , что когда он умрет , ты единственный сможешь открыть его . 
+1197	No , he never gave me any combination . 	Нет , он никогда не давал мне каких либо комбинаций . 
+1198	Maybe he did . 	А может , давал . 
+1199	I mean , maybe you just did n't know it was a combination . 	Я имею в виду , возможно ты просто не знаешь , что это комбинация . 
+1200	Well , what , then ? 	И что это могло быть ? 
+1201	I do n't know , some meaningful combination of numbers ... 	Я не знаю , какое-нибудь многозначительное сочетание цифр ... 
+1202	based on your experiences with Maurice . 	из твоих отношений с Морисом . 
+1203	We did n't have very many , uh , meaningful experiences together . 	У нас было очень мало отношений . 
+1204	Perhaps after your mother died . 	Возможно после смерти твоей матери . 
+1205	After my mother died , you know what he told me ? 	После смерти моей матери , ты знаешь что он мне сказал ? 
+1206	Robert , there 's really nothing to be said . 	Роберт , тут действительно не о чем говорить . 
+1207		
+1208	Oh , well , he was bad with emotion . 	Ох , ну , он был скуп на эмоции . 
+1209	I was 11 , Uncle Peter . 	Мне было 11 , Дядя Питер . 
+1210	- How 's he doing ? 	- Как его дела ? 
+1211	- He 's in a lot of pain . 	- У него сильная боль . 
+1212	When we get down to the lower levels , the pain will be less intense . 	Когда мы опустимся на уровень ниже , боль утихнет . 
+1213	And if he dies ? 	А если он умрет ? 
+1214	Worst-case scenario ? 	В худшем случае ? 
+1215	When he wakes up , his mind is completely gone . 	Когда он проснется , его разум полностью разрушится . 
+1216	Cobb , I 'll still honor the arrangement . 	Кобб , я все еще помню про договор . 
+1217	I appreciate that , Saito . 	Я ценю это , Сайто . 
+1218	But when you wake up , you wo n't even remember that we had an arrangement . 	Но когда вы проснетесь , вы даже не вспомните , что у нас был договор . 
+1219	Limbo is gonna become your reality . 	Лимб заменит вам реальность . 
+1220	You 're gonna be lost down there so long that you 're gonna become an old man . 	Вы пробудете там так долго , что станете стариком . 
+1221	Filled with regret ? 	Преисполненного сожалением ? 
+1222	Waiting to die alone . 	Ждущего смерти в одиночестве . 
+1223	No . 	Нет . 
+1224	I 'll come back . 	Я вернусь . 
+1225	And we 'll be young men together again . 	И мы снова будем молодыми . 
+1226	Breathe . 	Дышите . 
+1227	These people are gonna kill us if we do n't give them the combination . 	Эти люди убьют нас , если мы не скажем им комбинацию . 
+1228	- They just wanna ransom us . 	- Им нужен выкуп за нас . 
+1229	- I heard them . 	- Я слышал их . 
+1230	They 're gonna lock us in that van , and then drive it into the river . 	Они собираются запереть нас в этом фургоне , а потом сбросить в реку . 
+1231	All right . 	Хорошо . 
+1232	What is in the safe ? 	Что хранится в этом сейфе ? 
+1233	Something for you . 	Кое-что ценное . 
+1234	Maurice always said it was his most precious gift to you . 	Морис всегда говорил , что это его самый дорогой подарок для тебя . 
+1235	- A will . 	- Завещание . 
+1236	- Maurice 's will is with Port and Dunn . 	- Завещание Мориса в адвокатской конторе . 
+1237	That 's an alternate . 	Новое завещание . 
+1238	This would supersede the other if you want it to . 	Оно бы аннулировало прежнее , если бы ты захотел . 
+1239	It splits up the component businesses of Fischer Morrow . 	Оно разделяет компании , составляющие Фишер Мору . 
+1240	It 'd be the end of the entire empire as we know it . 	Это стало бы концом всей империи , какой мы её знаем . 
+1241	Destroying my whole inheritance ? 	Уничтожить моё наследство ? 
+1242	- Why would he suggest such a thing ? 	- Зачем ему это было нужно ? 
+1243	- I just do n't know . 	- К сожалению , я не знаю . 
+1244	He loved you , Robert . 	Он любил тебя , Роберт . 
+1245	In his own way . 	По-своему . 
+1246	In his own way . 	По-своему . 
+1247	At the end ... 	Перед смертью ... 
+1248	he called me in to his deathbed . 	он подозвал меня к себе . 
+1249	He could barely speak . 	Он едва говорил . 
+1250	But he took the trouble to tell me one last thing . 	Но он напрягся и сказал мне кое-что . 
+1251	He pulled me close . 	Он был очень близко . 
+1252	And I could only make out ... 	Но я смог разобрать всего ... 
+1253	one word . 	одно слово . 
+1254	Disappointed . 	Разочарован . 
+1255		
+1256	When were you in limbo ? 	Когда ты был в лимбе ? 
+1257	You might have the rest of the team convinced to carry on with this job . 	Может , ты и убедил всех продолжить работу . 
+1258	- But they do n't know the truth . 	- Но они не знают всей правды . 
+1259	- Truth ? 	- Правды ? 
+1260	What truth ? 	Какой правды ? 
+1261	The truth that , at any minute , you might bring a freight train through the wall . 	Той правды , что в любую минуту ты можешь пустить товарняк через стену . 
+1262	The truth that Mal is bursting through your subconscious . 	Той правды , что Мол вырывается из твоего подсознания . 
+1263	And the truth that , as we go deeper into Fischer ... 	И что чем глубже мы погружаемся в Фишера ... 
+1264	we 're also going deeper into you . 	тем глубже погружаемся в тебя . 
+1265	And I m not sure we 're gonna like what we find . 	И нам вряд ли понравится то , что нас ждёт . 
+1266	We were working together . 	Мы работали вместе . 
+1267	We were exploring the concept of a dream within a dream . 	Мы серьёзно занимались концепцией сна внутри сна . 
+1268	I kept pushing things . 	Я продвигаю дело вперед . 
+1269	I wanted to go deeper and deeper . 	Я хотел продвигаться всё глубже . 
+1270	I wanted to go further . 	И глубже , хотел идти дальше . 
+1271	I just did n't understand the concept that hours could turn into years down there ... 	Но я не понимал того , что во сне часы могут превращаться в годы ... 
+1272	that we could get trapped so deep ... 	что можно застрять так глубоко ... 
+1273	that when we wound up on the shore of our own subconscious ... 	что , оказавшись на берегу нашего подсознания ... 
+1274	we lost sight of what was real . 	мы не сможем различать реальность . 
+1275	We created . 	Мы с ней творили . 
+1276	We built the world for ourselves . 	Мы строили мир для себя . 
+1277	We did that for years . 	Мы делали это много лет . 
+1278	We built our own world . 	Мы создали свой мир . 
+1279	How long were you stuck there ? 	Сколько вы там пробыли ? 
+1280	Something like 50 years . 	Почти пятьдесят лет . 
+1281	Jesus . 	Боже . 
+1282	How could you stand it ? 	Как вы это выдержали ? 
+1283	It was n't so bad at first , feeling like gods . 	Поначалу неплохо , мы ощущали себя богами . 
+1284	The problem was knowing that none of it was real . 	Проблема в том , что мы знали , что всё это не реально . 
+1285	Eventually , it just became impossible for me to live like that . 	В конце концов мне стала просто невыносима такая жизнь . 
+1286	And what about for her ? 	А каково было ей ? 
+1287	She had locked something away , something deep inside her . 	Она кое-что скрыла , где-то в глубине себя . 
+1288	A truth that she had once known , but chose to forget . 	Правду , которую знала когда-то , но предпочла забыть . 
+1289	Limbo became her reality . 	Лимб стал её реальностью . 
+1290	What happened when you woke up ? 	Что случилось , когда вы проснулись ? 
+1291	Well , to wake up from that after years , after decades ... 	Ну , чтобы проснуться от этого после многих лет , после десятилетий ... 
+1292	to become old souls thrown back into youth like that ? 	превратиться в стариков , снова обретших молодость , как это ? 
+1293	I knew something was wrong with her . 	Я знал , что с ней что-то не так . 
+1294	She just would n't admit it . 	Она не признавалась . 
+1295	Eventually , she told me the truth . 	Под конец она сказала правду . 
+1296	She was possessed by an idea . 	Она была одержима одной идеей . 
+1297	This one very simple idea that changed everything . 	Одной безумно простой идеей , которая изменила всё . 
+1298	That our world was n't real . 	Что наш мир нереален . 
+1299	That she needed to wake up to come back to reality ... 	Что ей нужно проснуться , чтобы вернуться в реальность ... 
+1300	that in order to get back home ... 	чтобы вернуться домой ... 
+1301	we had to kill ourselves . 	мы должны убить себя . 
+1302	- What about your children ? 	- А как же ваши дети ? 
+1303	- She thought they were projections ... 	- Она думала , что это проекция ... 
+1304	that our real children were waiting for us up there somewhere . 	что наши настоящие дети ждут нас где-то там . 
+1305	- I m their mother ! 	Я их мать ! 
+1306	- Calm down . 	Успокойся . 
+1307	I can tell the difference . 	Думаешь , я не вижу разницы . 
+1308	If this is my dream , why ca n't I control this ? 	Если это мой сон , почему я не могу управлять им ? 
+1309	You do n't know you 're dreaming ! 	Потому что ты не знаешь , что спишь ! 
+1310	She was certain there was nothing I could do ... 	Она была уверена , что я ничего не могу сделать ... 
+1311	no matter how much I begged , no matter how much I pleaded . 	сколько бы я ни просил её , сколько бы я ни умолял . 
+1312	She wanted to do it , but she could not do it alone . 	Она хотела это сделать , но не могла это сделать в одиночку . 
+1313	She loved me too much , so she came up with a plan on our anniversary . 	Она слишком любила меня , поэтому она придумала план к нашей годовщине . 
+1314	- Sweetheart , what are you doing ? 	- Милая , что ты делаешь ? 
+1315	- Join me . 	- Давай со мной . 
+1316	Just -- Just step back inside . 	Пожалуйста , вернись в комнату . 
+1317	All right ? 	Хорошо ? 
+1318	Just step back inside now , come on . 	Прошу тебя , вернись в комнату , милая . 
+1319	No . 	Нет . 
+1320	I 'm going to jump , and you 're coming with me . 	Я собираюсь прыгнуть , и ты вместе со мной . 
+1321	No , I 'm not . 	Нет , я не буду . 
+1322	Now , you listen to me . 	Милая , послушай меня . 
+1323	If you jump , you 're not gonna wake up , remember ? 	Если ты прыгнешь , ты не проснёшься , понимаешь ? 
+1324	You 're gonna die . 	Ты умрёшь . 
+1325	Now , just step back inside . 	Так что вернись в комнату , прошу тебя . 
+1326	Come on . 	Давай . 
+1327	Step back inside so we can talk about this . 	Вернись в комнату , и мы поговорим об этом . 
+1328	We 've talked enough . 	Хватит разговоров . 
+1329	- Mal . 	- Мол . 
+1330	- Come out onto the ledge ... 	- Подойди ко мне ... 
+1331	- ... 	или я прыгну прямо сейчас . 
+1332	or I ll jump right now . 	- Ладно . 
+1333	- Okay . 	
+1334	We 're gonna talk about this . 	Давай обсудим это . 
+1335	All right ? 	Хорошо ? 
+1336	- I m asking you to take a leap of faith . 	- Я прошу тебя , доверься мне . 
+1337	- No , honey . 	- Нет , милая . 
+1338	No , I ca n't . 	Я не могу . 
+1339	You know I ca n't do that . 	Ты же знаешь , что я не могу . 
+1340	Take a second , think about our children . 	Пожалуйста , подумай о наших детях . 
+1341	Think about James . 	Подумай о Джеймсе . 
+1342	Think about Phillipa , now . 	Подумай о Филлипе . 
+1343	If I go without you , they 'll take them away anyway . 	Если я прыгну одна , их всё равно у тебя заберут . 
+1344	- What does that mean ? 	- В каком смысле ? 
+1345	- I filed a letter with our attorney ... 	- Я отправила прокурору письмо ... 
+1346	explaining how I 'm fearful for my safety . 	написала , что я боюсь за свою жизнь . 
+1347	How you 've threatened to kill me . 	Что ты угрожал убить меня . 
+1348	- Why did you do this ? 	- Зачем ты это сделала ? 
+1349	- I love you , Dom . 	- Я люблю тебя , Дум . 
+1350	Why did -- ? 	Зачем , милая ? 
+1351	Why would you do this to me ? 	Почему ты там со мной поступаешь ? 
+1352	I 've freed you from the guilt of choosing to leave them . 	Я избавила тебя от ощущения вины , что ты бросаешь их . 
+1353	We 're going home to our real children . 	Мы возвращаемся домой к нашим настоящим детям . 
+1354	Oh , no , no , no , Mal , you listen to me , all right ? 	Ох , нет , нет , нет , Мол , послушай меня , хорошо ? 
+1355	Mal , look at me , please ? 	Мол , посмотри на меня , пожалуйста ? 
+1356	You 're waiting for a train . 	Ты ждёшь поезда . 
+1357	- Mal , goddamn it , do n't do this ! 	- Мол , чёрт возьми , не делай этого . 
+1358	- A train that will take you far away . 	- Поезд отвезёт тебя очень далеко . 
+1359	James and Phillipa are waiting for you ! 	Джеймс и Филиппа , они ждут нас ! 
+1360	You know where you hope this train will take you , but you ca n't know for sure . 	Ты знаешь куда ты надеешься уехать , но не можешь знать куда отвезет поезд . 
+1361	- Mal , look at me ! 	- Мол , посмотри на меня ! 
+1362	- But it does n't matter . 	- Но это неважно . 
+1363	- Mal , goddamn it ! 	- Мол , черт подери ! 
+1364	Mal , listen to me ! 	Мол , слушайте меня ! 
+1365	- Because you 'll be together . 	- Потому что вы будете вместе . 
+1366	Sweetheart ! 	Милая ! 
+1367	Look at me ! 	Посмотри на меня ! 
+1368	Mal , no ! 	Мол , нет ! 
+1369	Jesus Christ ! 	Боже мой ! 
+1370	She had herself declared sane by three different psychiatrists . 	То , что она была в здравом уме , подтвердили три психиатра . 
+1371	It made it impossible for me to try to explain the nature of her madness . 	Это лишило меня возможности объяснить природу её безумия . 
+1372	So I ran . 	Так что я сбежал . 
+1373	Right now , or never , Cobb . 	Сейчас или никогда , Кобб . 
+1374	James ! 	Джеймс ! 
+1375	Phillipa ! 	Филлипа ! 
+1376	Come on in ! 	Заходи ! 
+1377	Come on ! 	Давай ! 
+1378	All right , let 's go . 	Ладно , пошли . 
+1379	I left my children behind and I 've been trying to buy my way back ever since . 	Я оставил своих детей , и с тех пор пытаюсь найти возможность вернуться . 
+1380	Your guilt defines her . 	Это твоё чувство вины . 
+1381	It 's what powers her . 	Даёт ей силы . 
+1382	But you are not responsible for the idea that destroyed her . 	Но ты не в ответе за ту идею , что уничтожила её . 
+1383	And if we are gonna succeed in this ... 	И если сейчас ты добьёшься успеха ... 
+1384	you have to forgive yourself , and you 're gonna have to confront her . 	тебе придётся простить себя , и ты должен будешь дать ей отпор . 
+1385	But you do n't have to do that alone . 	Но ты не обязан делать это в одиночку . 
+1386	- No , you 're not ... 	- Нет , вы не ... 
+1387	- I m doing it for the others . 	- Я делаю это ради остальных . 
+1388	Because they have no idea the risk they 've taken coming down here with you . 	Потому что они даже не знают , какому риску ты их всех подвергаешь . 
+1389	We have to move . 	Нам пора . 
+1390	Time 's up . 	Время вышло . 
+1391	All right . 	Хорошо . 
+1392	I do n't know any combination . 	Я не знаю никакой комбинации . 
+1393	- Not consciously , anyway . 	- По крайней мере , сознательно . 
+1394	- How about instinctively , huh ? 	А подсознательно , а ? 
+1395	I got somebody in your father 's office right now ready to tap in the combination . 	Мой человек сейчас в офисе твоего отца и он готов ввести комбинацию . 
+1396	Give me the first six numbers that come to your head right now . 	Назови первые шесть цифр , которые приходят тебе в голову . 
+1397	- I have no idea . 	- Понятия не имею . 
+1398	- Right now ! 	- Говори ! 
+1399	I said , right now ! 	Не задумываясь ! 
+1400	Right now ! 	Говори ! 
+1401	Five , two , eight , four , nine , one . 	Пять , два , восемь , четыре , девять , один . 
+1402	You 'll have to do better than that . 	Ты плохо стараешься . 
+1403	All right . 	Ладно . 
+1404	Bag them . 	Мешки . 
+1405	You 're going for a ride . 	Вы идите на улицу . 
+1406	We 're worth more to you alive . 	Живыми мы стоим больше . 
+1407	You hear me ? 	Вы меня слышите ? 
+1408	What 'd you get ? 	Что ты выяснил ? 
+1409	Relationship with his father is worse than we imagined . 	Его отношения с отцом даже хуже , чем мы думали . 
+1410	This helps us how ? 	И что с того ? 
+1411	The stronger the issues , the more powerful the catharsis . 	Чем больше проблемы , тем мощнее катарсис . 
+1412	- How are we gonna reconcile them ? 	- И как нам удастся поменять эти отношения ? 
+1413	- I m working on that . 	- Над этим я и работаю . 
+1414	Work faster . 	Поспешим . 
+1415	The projections are closing in quick . 	Проекции быстро приближаются . 
+1416	We gotta break out of here before we 're totally boxed in . 	Нужно выбраться отсюда , пока нас не окружили . 
+1417	Damn it . 	Твою мать . 
+1418	You must n't be afraid to dream a little bigger , darling . 	Не стоит бояться быть посмелее , пупсик . 
+1419	We need to shift his animosity from his father to his godfather . 	Нужно переключить его враждебность с отца на крёстного отца . 
+1420	- Destroy his one positive relationship ? 	- И уничтожить его единственное хорошее отношение ? 
+1421	- No , repair his relationship with his father ... 	- Нет , мы исправим его отношения с отцом ... 
+1422	whilst exposing his godfather 's true nature . 	показав истинную сущность его крёстного . 
+1423	We should charge Fischer a lot more than Saito for this job . 	Фишер бы больше заплатил чем Сайто за эту работу . 
+1424	His security is gonna get worse as we go deeper . 	Гроза , чем мы глубже , тем она свирепей . 
+1425	- I think we run with Mr . Charles . 	- Нам пригодится мистер Чарльз . 
+1426	- No . 	- Нет . 
+1427	Who 's Mr . Charles ? 	Что за мистер Чарльз ? 
+1428	- Bad idea . 	- Плохая идея . 
+1429	The second we get into that hotel his security 's gonna be all over us . 	Как только мы войдём в отель и приблизимся к Фишеру , его охрана будет охотиться на нас . 
+1430	We run with Mr . Charles like on the Stein job . 	Запустим мистера Чарльза , как в деле со Снайдом . 
+1431	- You 've done it before ? 	- Вы это уже делали ? 
+1432	- Yeah , and it did n't work . 	Да , и ничего не вышло . 
+1433	The subject realized he was dreaming and his subconscious tore us to pieces . 	Объект понял , что спит и его подсознание порвало нас на кусочки . 
+1434	Excellent . 	Отлично . 
+1435	But you learned a lot , right ? 	Но вас же это многому научило ? 
+1436	- I need some kind of distraction . 	- Мне нужно чтобы кто-нибудь отвлёк их . 
+1437	- No problem . 	Без проблем . 
+1438	How about a lovely lady that I 've used before ? 	Как насчёт той дамы , с которой я как-то тебя познакомил ? 
+1439	Listen to me . 	Слушай меня . 
+1440	You drive carefully , all right ? 	Веди аккуратно , хорошо ? 
+1441	Everything down there is gonna be unstable as hell . 	Там внизу все чертовски не стабильно . 
+1442	Do n't jump too soon . 	Не прыгай слишком рано . 
+1443	We only got one shot at that kick . 	У нас всего один шанс на выброс . 
+1444	We gotta make it . 	Нельзя его упустить . 
+1445	I 'll play the music to let you know it 's coming . 	Я включу музыку , чтобы вы знали , когда . 
+1446	The rest is on you . 	Остальное в ваших руках . 
+1447	- You ready ? 	- Готовы ? 
+1448	- Ready ! 	- Готовы ! 
+1449	Sweet dreams . 	Сладкого сна . 
+1450	Am I boring you ? 	Тебе скучно ? 
+1451	I was telling you my story . 	Я рассказывала о себе . 
+1452	I guess it was n't to your liking . 	Кажется , тебе неинтересно . 
+1453	Um , I have a lot on my mind . 	Извини , я просто задумался . 
+1454	There goes Mr . Charles . 	А вот и мистер Чарльз . 
+1455	Mr . Fischer , right ? 	Мистер Фишер , не так ли ? 
+1456	Pleasure to see you again . 	Рад снова видеть вас . 
+1457	Rod Green from marketing . 	Род Грин , отдел маркетинга . 
+1458	I -- 	
+1459	Hmm . 	Хмм . 
+1460	- And you must be ? 	- А вы , наверное ? 
+1461	- Leaving . 	- Я ухожу . 
+1462	In case you get bored . 	Если станет скучно . 
+1463	Must 've blown you off . 	Похоже , вас кинули . 
+1464	That is , unless her phone number really is only six digits . 	Хотя кто знает , если её номер и правда из шести цифр . 
+1465	Funny way to make friends , someone stealing your wallet like that . 	Забавный способ заводить друзей , так можно лишиться бумажника . 
+1466	Goddamn it . 	Чёрт возьми ! 
+1467	The wallet alone is worth at least 500-- 	Один бумажник стоит 500 долларов . 
+1468	About 500 , right ? 	Около 500 , не так ли ? 
+1469	Do n't worry about it . 	Не волнуйтесь . 
+1470	My people are already on it as we speak . 	Мои люди уже повсюду ищут её . 
+1471	Who or what is Mr . Charles ? 	Кто такой мистер Чарльз ? 
+1472	It 's a gambit designed to turn Fischer against his own subconscious . 	Это трюк , чтобы настроить Фишера против своего подсознания . 
+1473	And why do n't you approve ? 	А почему ты возражал ? 
+1474	It involves telling the mark that he 's dreaming ... 	Потому что придётся сказать объекту , что он спит ... 
+1475	which involves attracting a lot of attention to us . 	а это привлечёт к нам лишнее внимание . 
+1476	- Did n't Cobb say never to do that ? 	- Ведь Кобб запрещал это делать ? 
+1477	- Hmm . 	- Хмм . 
+1478	So now you 've noticed how much time ... 	Теперь ты понимаешь , как часто ... 
+1479	Cobb spends doing things he says never to do . 	Кобб делает вещи , которые запрещает делать другим . 
+1480	Mr . Saito , can I have a moment ? 	Мистер Сайто , можно вас на минутку ? 
+1481	- I m sorry , but ... 	- Мне очень жаль , но ... 
+1482	- Hold on ! 	Держись ! 
+1483	Wait ! 	Подожди ! 
+1484	You look a bit perkier . 	Выглядите бодрячком . 
+1485	Very amusing , Mr . Eames . 	Очень смешно , мистер Эймс . 
+1486	Turbulence on the plane ? 	Мы в зоне турбулентности ? 
+1487	No , it 's much closer . 	Нет , всё гораздо проще . 
+1488	That 's Yusuf 's driving . 	Юсуф за рулём . 
+1489	Um , I 'm sorry . 	Прошу прощения . 
+1490	Who did you say you were ? 	Кто вы такой , говорите ? 
+1491	Rod Green from marketing . 	Род Грин , отдел маркетинга . 
+1492	But that 's not true at all , is it ? 	Но это не правда , что ли ? 
+1493	My name is Mr . Charles . 	Меня зовут мистер Чарльз . 
+1494	You remember me , do n't you ? 	Вы меня помните , не так ли ? 
+1495	I 'm the head of your security down here . 	Я шеф вашей охраны здесь . 
+1496	Get out on a different floor , keep moving . 	Выйдите на другом этаже и уходите . 
+1497	Dump the wallet . 	Бросьте бумажник . 
+1498	Security will be looking for that . 	Охрана будет его искать . 
+1499	- Okay . 	- Ладно . 
+1500	- We need to buy Cobb a little more time . 	- Нужно выиграть время для Кобба . 
+1501	Security , huh ? 	Моя охрана , значит ? 
+1502	- You work for the hotel ? 	- Вы работаете в отеле ? 
+1503	- No , no . 	- Нет , нет . 
+1504	I specialize in a very specific type of security . 	Я занимаюсь весьма специфическим видом безопасности . 
+1505	Subconscious security . 	Безопасностью подсознания . 
+1506	You 're talking about dreams ? 	Вы говорите про сны ? 
+1507	Are you talking about , um , extraction ? 	Вы говорите про ... 
+1508	I am here to protect you . 	Я пришёл чтобы защитить вас . 
+1509	Mr . Fischer , I m here to protect you in the event ... 	Мистер Фишер , я пришёл защитить вас , поскольку ... 
+1510	that someone tries to access your mind through your dreams . 	кто-то пытается залезть в ваш разум через ваши сны . 
+1511	You 're not safe here . 	Здесь вам находиться небезопасно . 
+1512	They 're coming for you . 	Они придут за вами . 
+1513	Strange weather , is n't it ? 	Странная погодка , не так ли ? 
+1514	You feel that ? 	Чувствуете ? 
+1515	What 's happening ? 	Что происходит ? 
+1516	Cobb 's drawing Fischer 's attention to the strangeness of the dream ... 	Кобб обращает внимание Фишера на странность сна ... 
+1517	which is making his subconscious look for the dreamer . 	заставляет подсознание искать создателя сна . 
+1518	For me . 	Для меня . 
+1519	Quick , give me a kiss . 	Быстро , поцелуй меня . 
+1520	- They 're still looking at us . 	- Они все еще смотрят на нас . 
+1521	- Yeah , it was worth a shot . 	- Попытаться стоило . 
+1522	We should probably get out of here . 	Нам пора сваливать . 
+1523	You feel that ? 	Чувствуете ? 
+1524	You 've actually been trained for this , Mr . Fischer . 	Вас этому обучали , мистер Фишер . 
+1525	Pay attention to the strangeness of the weather , the shift in gravity . 	Обращать внимание на необычность погоды , на изменения в гравитации . 
+1526	None of this is real . 	Всё это не реально . 
+1527	You 're in a dream . 	Вы во сне . 
+1528	Now , the easiest way for you to test yourself ... 	Самый простой способ проверить себя , попытаться вспомнить ... 
+1529	is to try and remember how you arrived at this hotel . 	как вы приехали в этот отель . 
+1530	Can you do that ? 	Вы помните ? 
+1531	Yeah , I ... 	Да , я ... 
+1532	No , breathe , breathe . 	Нет , дышите , дышите . 
+1533	Remember your training . 	Вспомните , чему вас учили . 
+1534	Accept the fact that you 're in a dream , and I m here to protect you . 	Смиритесь с тем фактом , что вы во сне , и я смогу защитить вас . 
+1535	Go on . 	Продолжай . 
+1536	Mm-hm . 	Мм-хм . 
+1537	- You 're not real ? 	- Вы не реальны ? 
+1538	- No . 	- Нет . 
+1539	No . 	Нет . 
+1540	I 'm a projection of your subconscious . 	Я проекция вашего подсознания . 
+1541	I was sent here to protect you in the event ... 	Меня послали защитить вас , на случай ... 
+1542	that extractors tried to pull you into a dream . 	если извлекатели попытаются ввести вас в сон . 
+1543	And I believe that 's what 's going on right now , Mr . Fischer . 	И , по-моему , именно это сейчас и происходит , мистер Фишер . 
+1544	Yeah . 	Да . 
+1545	Okay . 	Хорошо . 
+1546	Okay . 	Хорошо . 
+1547	Can you get me out of here ? 	Можешь меня отсюда вытащить . 
+1548	Right away . 	Займемся сразу . 
+1549	Follow me . 	За мной . 
+1550	Hold on a second . 	Погоди . 
+1551	Jesus Christ ! 	Господи ! 
+1552	What are you doing ? 	Что ты делаешь ? 
+1553	These men were sent here to abduct you , all right ? 	Их послали чтобы похитить вас , ясно ? 
+1554	If you want my help , you have to remain calm . 	Если хочешь , чтобы я помог , успокойся . 
+1555	I need you to work with me , Mr . Fischer . 	Мне нужно , чтобы ты работал со мной мистер Фишер . 
+1556	If this is a dream , I should just kill myself to wake up , right ? 	Это всего лишь сон . 
+1557	I would n't do that if I were you , Mr . Fischer . 	Я должен убить себя , чтобы проснуться , правильно ? На вашем месте , я бы так не делал , мистер Фишер . 
+1558	I believe they have you sedated , and if you pull that trigger ... 	Я боюсь , вам подмешали снотворного и если спустить курок ... 
+1559	you may not wake up . 	можете не проснуться . 
+1560	You may go into a further dream state . 	Вы перейдете в более глубокий сон . 
+1561	Now , you know what I 'm talking about . 	Думаю , вы знаете , о чем я . 
+1562	You remember the training . 	Вспомни обучение . 
+1563	Remember what I said to you . 	Вспомни что я сказал тебе . 
+1564	Give me the gun . 	Дай мне пистолет . 
+1565	- This room should be directly below 528 ? 	Эта комната должна быть точно над комнатой 528 ? 
+1566	- Yeah . 	- Да . 
+1567	Think , Mr . Fischer , think . 	Подумайте , мистер Фишер , подумайте . 
+1568	What do you remember from before this dream ? 	Что вы помните до этого сна ? 
+1569	There was , um , a lot of gunfire . 	Там было , эм , много стрельбы . 
+1570	There was rain . 	Шел дождь . 
+1571	Uncle Peter . 	Дядя Питер . 
+1572	- Oh , my God , we 've been kidnapped . 	- О , боже , нас похитили . 
+1573	- Where were they holding you ? 	- Где вас держали ? 
+1574	- They had us in the back of a van . 	- Они посадили нас в кузов фургона . 
+1575	- That explains the gravity shifts . 	- Это объясняет изменение гравитации . 
+1576	You 're in the back of a van . 	Вы в кузове фургона . 
+1577	Keep going . 	Продолжайте . 
+1578	It had something to do with , um ... 	Это как то связано с , эм ... 
+1579	Something to do with a safe . 	Как то связано с сейфом . 
+1580	God , why is it so hard to remember ? 	Боже , почему так тяжело вспомнить ? 
+1581	It 's like trying to remember a dream after you 've woken up . 	Это как пытаться вспомнить сон после пробуждения . 
+1582	Listen , it takes years of practice . 	Послушайте , это занимает годы практики . 
+1583	You and Browning have been pulled into this dream ... 	Вы и Браунинг втянуты в этот сон ... 
+1584	because they 're trying to steal something from your mind . 	потому что они пытаются украсть что то из вашего разума . 
+1585	I need you to focus and try and remember what that is . 	Прошу вас , сосредоточьтесь и вспомните , что именно . 
+1586	What is it , Mr . Fischer ? 	Что это , мистер Фишер ? 
+1587	Think ! 	Думайте ! 
+1588	A combination . 	Комбинация . 
+1589	They demanded the first numbers to pop into my head . 	Они требовали первые цифры , которые приходят мне в голову . 
+1590	They 're trying to extract a number from your subconscious . 	Они пытаются извлечь цифры из вашего подсознания . 
+1591	It can represent anything . 	Они могут означать что угодно . 
+1592	We 're in a hotel right now . 	Мы сейчас в отеле . 
+1593	We should try hotel rooms . 	Мы должны попробовать комнаты отеля . 
+1594	What was the number , Mr . Fischer ? 	Какой номер , мистер Фишер ? 
+1595	Try and remember for me . 	Постарайся вспомнить для меня . 
+1596	This is very important . 	Это очень важно . 
+1597	Five . 	5 . 
+1598	Five , two-- It was something , it was a long number . 	5 .. 
+1599	That 's good . 	2 .. Это было длинный номер . Это хорошо . 
+1600	We can start there . 	Мы можем начать отсюда . 
+1601	Fifth floor . 	Пятый этаж . 
+1602	Yep . 	Да . 
+1603	- So do you use a timer ? 	- Ты используешь таймер ? 
+1604	- No , I have to judge it for myself . 	- Нет , я решаю сам . 
+1605	While you 're all asleep in 528 , I wait for Yusuf 's kick . 	Пока вы все спите в 528 , я жду толчка Юсуфа . 
+1606	- Well , how will you know ? 	- А как ты узнаешь ? 
+1607	- His music warns me . 	- Его музыка предупредит меня . 
+1608	And then when the van hits the barrier of the bridge , that should be unmistakable . 	И затем , когда фургон врежется в ограду моста это будет очевидно . 
+1609	So we get a nice synchronized kick . 	И мы получим синхронный толчок . 
+1610	If it 's too soon , we wo n't get pulled out . 	Если слишком рано - мы не проснёмся . 
+1611	But if it 's too late , I wo n't be able to drop us . 	А если поздно , я не смогу опустить нас . 
+1612	- Well , why not ? 	- Почему ? 
+1613	- Because the van will be in freefall . 	- Потому что фургон будет в свободном падении . 
+1614	- Ca n't drop you without gravity . 	- Без гравитации не перейти . 
+1615	- Right . 	- Ясно . 
+1616	They 're with me . 	Они со мной . 
+1617	Go on . 	Проходите . 
+1618	Mr . Charles . 	Мистер Чарльз 
+1619	- Do you know what that is , Mr . Fischer ? 	- Знаете , что это , мистер Фишер ? 
+1620	- Yeah , I think so . 	- Думаю да . 
+1621	They were trying to put you under . 	Они пытаются вас усыпить . 
+1622	- I m already under . 	- Я уже сплю - Усыпить снова . 
+1623	- Under again . 	
+1624	What do you mean , a dream within a dream ? 	Что вы имеете в виду , сон во сне ? 
+1625	Hey . 	Эй . 
+1626	I see you 've changed . 	Я вижу вы изменились . 
+1627	I 'm sorry ? 	Извините ? 
+1628	Oh , I m sorry . 	Ох , простите . 
+1629	I mistook you for a friend . 	Я перепутал вас с другом . 
+1630	Oh . 	Ох . 
+1631	Good-looking fellow , I m sure . 	Он также хорошо выглядит , я полагаю . 
+1632	No , no , no . 	Нет , нет , нет . 
+1633	That 's Fischer 's projection of Browning . 	Это проекция Браунинга в мозгу Фишера . 
+1634	Let 's follow him and see how he behaves . 	Давай проследуем за ним и посмотрим как он будет себя вести . 
+1635	- Why ? 	- Зачем ? 
+1636	- Because how he acts will tell us ... 	- Потому что своим поведением он скажет нам ... 
+1637	if Fischer is starting to suspect his motives the way we want him to . 	если Фишер начнет подозревать его мотивы , как нужно нам . 
+1638	Shh . 	Шш . 
+1639	- Uncle Peter . 	- Дядя Питер . 
+1640	- You said you were kidnapped together ? 	- Вы говорили , что вас похитили вместе ? 
+1641	Well , not exactly . 	Не совсем так . 
+1642	They already had him . 	Он уже был у них . 
+1643	They were torturing him . 	Они пытали его . 
+1644	And you saw them torture him ? 	И вы видели как его пытали ? 
+1645	The kidnappers are working for you ? 	Эти похитители работают на тебя ? 
+1646	Robert . 	Роберт . 
+1647	You 're trying to get that safe open ? 	Вы пытаетесь открыть этот сейф ? 
+1648	To get the alternate will ? 	И получить альтернативное завещание ? 
+1649	Fischer Morrow has been my entire life . 	Фишер Морроу это вся моя жизнь . 
+1650	I ca n't let you destroy it . 	Я не могу позволить тебе ее разрушить . 
+1651	I 'm not gonna throw away my inheritance . 	Я не собираюсь выбрасывать мое наследство . 
+1652	I could n't let you rise to your father 's last taunt . 	Я не мог позволить тебе поддаться последней насмешке твоего отца . 
+1653	- What taunt ? 	- Какой насмешке ? 
+1654	- The will , Robert . 	- Завещание , Роберт . 
+1655	That will ? 	Завещание ? 
+1656	That 's his last insult . 	Его последнее оскорбление . 
+1657	A challenge for you to build something for yourself ... 	Вызов тебе построить что то для себя ... 
+1658	by telling you you 're not worthy of his accomplishments . 	говоря , что ты не стоишь его достижений . 
+1659	- What , but that he was , um , disappointed ? 	- Так вот чем он был , эм , разочарован ? 
+1660	- I m sorry . 	- Мне жаль . 
+1661	But he 's wrong . 	Но он не прав . 
+1662	You can build a better company than he ever did . 	Ты можешь построить лучшую компанию , чем он . 
+1663	Mr . Fischer ? 	Мистер Фишер ? 
+1664	He 's lying . 	Он врет . 
+1665	- How do you know ? 	- Откуда ты знаешь ? 
+1666	- Trust me , it 's what I do . 	- Поверь , это то чем я занимаюсь . 
+1667	He 's hiding something , and we need to find out what that is . 	Он скрывает что то , и нам нужно выяснить что именно . 
+1668	I need you to do the same thing to him that he was going to do to you . 	Вы должны сделать с ним то , что он хотел сделать с вами . 
+1669	We 'll enter his subconscious and find out what he does n't want you to know . 	Мы войдем в его подсознание и выясним о чем он не хочет , чтобы вы знали . 
+1670	All right . 	Хорошо . 
+1671	He 's out . 	Он вышел . 
+1672	- Wait . 	- Подожди . 
+1673	Whose subconscious are we going into exactly ? 	В чьё именно подсознание мы направляемся ? 
+1674	We 're going into Fischer 's . 	Фишера . 
+1675	I told him it was Browning 's so he 'd be a part of our team . 	Я сказал ему , что Браунинга , так что он будет в нашей команде . 
+1676	He 's gonna help us break into his own subconscious . 	Он поможет нам проникнуть в своё собственное подсознание . 
+1677	That 's right . 	Точно . 
+1678	Security 's gonna run you down hard . 	Охрана будет гнаться за тобой . 
+1679	And I will lead them on a merry chase . 	И я устрою им веселую погоню . 
+1680	- Just be back before the kick . 	- Только вернись к выбросу . 
+1681	- Go to sleep , Mr . Eames . 	- Приятных снов , мистер Имс . 
+1682	You good ? 	Ты в порядке ? 
+1683	Hey . 	Эй , ты готов ? 
+1684	You ready ? 	
+1685	Yes , yes . 	Да , да . 
+1686	I m fine . 	Я в порядке . 
+1687	I m ready . 	Я готов . 
+1688	Cobb ? 	Кобб ? 
+1689	Cobb ? 	Кобб ? 
+1690	What 's down there ? 	Что там внизу ? 
+1691	Hopefully , the truth we want Fischer to learn . 	Надеюсь , правда которую Фишер должен выучить . 
+1692	I mean , what 's down there for you ? 	Я имею ввиду , что там для тебя ? 
+1693	Did you see that ? 	Ты это видел ? 
+1694	Eames , this is your dream . 	Имс , это твой сон . 
+1695	I need you to draw the security away from the complex , understand ? 	Мне нужно , чтобы ты отвлек охрану от комплекса , понял ? 
+1696	- Who guides Fischer in ? 	- Кто проведет Фишера ? 
+1697	- Not me . 	Не я . 
+1698	If I know the route , everything could be compromised . 	Если я узнаю маршрут , все может быть под угрозой . 
+1699	- I designed the place . 	- Я спроектировала это место . 
+1700	- No , you 're with me . 	Нет , ты со мной . 
+1701	I could do it . 	Я смог бы это сделать . 
+1702	All right . 	Хорошо . 
+1703	Brief him on the route into the complex . 	Объясни ему дорогу в комплекс . 
+1704	- Fischer , you 'll be going with him . 	- Фишер , ты пойдёшь с ним . 
+1705	- All right . 	- Хорошо . 
+1706	What about you ? 	А ты куда ? 
+1707	You keep this live . 	Не выключай , ладно . 
+1708	I 'll be listening in the whole time . 	Я буду слушать все переговоры . 
+1709	The windows on that upper floor are big enough for me to cover you from that tower . 	Окна там достаточно большие , чтобы я мог прикрыть вас с башни . 
+1710	You 're not coming in ? 	Вы не зайдете ? 
+1711	In order to find out the truth about your father ... 	Для того , что бы узнать правду о твоем отце ... 
+1712	you 're gonna need to break into Browning 's mind on your own . 	тебе нужно самому проникнуть в мозг Броунинга . 
+1713	Come on , Fischer ! 	Давай , Фишер ! 
+1714	- Sound the alarm ! 	- Врубай сирену ! 
+1715	Sound the alarm ! 	Врубай сирену ! 
+1716	- Go , go , go ! 	- Давай , давай , давай ! 
+1717	Move ! 	Двигайся ! 
+1718	Go ! 	Вперед ! 
+1719	Sod it . 	Твою мать . 
+1720	I hope you 're ready . 	Надеюсь вы готовы . 
+1721	No , it 's too soon . 	Нет , это слишком скоро . 
+1722	Cobb , do you hear that ? 	Кобб , ты слышишь это ? 
+1723	I first noticed it about 20 minutes ago , I thought it was the wind up here . 	Я заметил это минут двадцать назад , но решил что это ветер . 
+1724	Yeah , I hear it . 	Да , я слышу это . 
+1725	It s music . 	Это музыка 
+1726	So , what do we do ? 	Что будем делать ? 
+1727	We move fast . 	Двигаемся быстро . 
+1728	Yusuf 's 10 seconds from the jump . 	Юсуф в десяти секундах от прыжка . 
+1729	Which gives Arthur three minutes . 	Что дает Артуру 3 минуты . 
+1730	- Hey ! 	- Эй ! 
+1731	- That 's him ! 	- Это он ! 
+1732	- Which gives us what ? 	- Что это нам дает ? 
+1733	- Sixty minutes . 	- 60 минут . 
+1734	- Can they make that route in an hour ? 	- Они успеют пройти за час ? 
+1735	- They have to climb to the terrace . 	- Они даже на среднюю террасу не забрались . 
+1736	Then they need a new route , a more direct route . 	Нужен другой маршрут , более прямой . 
+1737	It 's designed as a labyrinth . 	Он создан как лабиринт . 
+1738	There must be access routes that cut through the maze . 	Но ведь должны быть маршруты , пересекающие лабиринт . 
+1739	Eames ? 	Имс ? 
+1740	Did Eames add any features ? 	Эймс добавил какие-то особенности ? 
+1741	I do n't think I should tell you . 	Не думаю , что я должен тебе говорить . 
+1742	We do n't have time for this . 	У нас нету времени для этого . 
+1743	Did he add anything ? 	Он что-то добавил ? 
+1744	He added an air-duct system ... 	Он добавил вентиляционную систему , которая может сократить путь через лабиринт . 
+1745	- ... 	Он добавил вентиляционную систему , которая может сократить путь через лабиринт . 
+1746	that can cut through the maze . 	
+1747	- Good . 	
+1748	Explain it to them . 	
+1749	Paradox . 	Парадокс . 
+1750	What was that ? 	Что это было ? 
+1751	- The kick . 	- Бросок . 
+1752	Cobb ! 	Кобб ! 
+1753	Cobb , did we miss it ? 	Кобб , мы пропустили это ? 
+1754	Yeah , we missed it . 	Да , пропустили . 
+1755	Man . 	Ёпт . 
+1756	Could n't someone have dreamt up a goddamn beach ? 	Мог бы , блин , кто-нибудь видел сны о пляже ? 
+1757	Huh ? 	А ? 
+1758	Uh-huh . 	Ага . 
+1759	Well , what the hell do we do now ? 	Ну и что будем делать теперь ? 
+1760	We finish the job before the next kick . 	Мы закончим до следующего броска . 
+1761	- What next kick ? 	- Когда следующий толчок ? 
+1762	- When the van hits the water . 	- Когда фургон ударится о воду . 
+1763	If you d like to make a call , please hang up and try again . 	Если вы хотите сделать звонок , пожалуйста , повесьте трубку и попробуйте снова . 
+1764	If you need help , hang up ... 	Если вам нужна помощь , повесьте трубку ... 
+1765	How do I drop you without gravity ? 	Как я смогу кинуть тебя без гравитации ? 
+1766	Arthur has a couple minutes , and we have about 20 . 	У Артура есть пара минут , у нас примерно 20 . 
+1767	You okay ? 	Ты в порядке ? 
+1768	Run ! 	Беги ! 
+1769	Turn around ! 	Разворачивайся ! 
+1770	Move to base ! 	Двигаемся к базе ! 
+1771	Move to base ! 	Двигаемся к базе ! 
+1772	Go , go , go ! 	Иди , иди , иди . 
+1773	There 's something wrong . 	Тут что-то не так . 
+1774	They 're heading your way , like they know something . 	Они бегут к вам , как будто , что то заметили . 
+1775	Just buy us more time , all right ? 	Организуй нам больше времени , хорошо ? 
+1776	- Come on ! 	- Иди , давай . 
+1777	- On my way . 	- Уже в пути . 
+1778	Come on ! 	Давай ! 
+1779	Move ! 	Двигайся ! 
+1780	All right . 	Хорошо . 
+1781	Okay . 	Это комната перед сейфовым помещением . 
+1782	That 's the antechamber outside the strong room . 	
+1783	- Does the strong room have windows ? 	- А в сейфовой комнате есть окна ? 
+1784	- It would n't be very strong if it did . 	- Даже если они там есть , они будут очень крепкими . 
+1785	Let 's hope Fischer likes what he finds in there . 	Будем надеяться , Фишеру понравится то , что он найдет там . 
+1786	- Are those projections his subconscious ? 	- Эти проекции - его подсознание ? 
+1787	- Yes . 	- Да . 
+1788	- Are you destroying parts of his mind ? 	- Ты уничтожаешь часть его сознания ? 
+1789	- No . 	- Нет . 
+1790	They 're just projections . 	Это всего лишь проекции . 
+1791	- We 're here . 	- Мы на месте . 
+1792	- You 're clear , but hurry . 	- Поспешите . 
+1793	There 's an entire army headed your way . 	К вам приближается целая армия . 
+1794	I 'm in . 	Мы внутри . 
+1795	There he is . 	Вот он . 
+1796	- There 's someone in there . 	- Там кто-то есть . 
+1797	- Fischer , it 's a trap . 	- Фишер , это ловушка . 
+1798	Get out . 	Выходи . 
+1799	Come on . 	Давай , давай , немного ниже . 
+1800	Come on , a little lower . 	
+1801	Cobb . 	Кобб . 
+1802	No , she is not real . 	Нет , она не реальна . 
+1803	How do you know that ? 	Откуда знаешь ? 
+1804	She is just a projection . 	Она всего лишь проекция . 
+1805	Fischer . 	Фишер . 
+1806	Fischer is real . 	Фишер реален . 
+1807	Hello . 	Привет . 
+1808	Eames ! 	Имс ! 
+1809	Eames , get to the antechamber now ! 	Имс , доберись до вестибюля сейчас же ! 
+1810	What happened ? 	Что случилось ? 
+1811	- Mal killed Fischer . 	- Мол убила Фишера . 
+1812	I could n't shoot her . 	Я не смог застрелить её . 
+1813	There 's no use in reviving him . 	Бесполезно его оживлять . 
+1814	His mind 's already trapped down there . 	Его сознание уже там в ловушке . 
+1815	It 's all over . 	Всё кончено . 
+1816	So that 's it , then ? 	Это что , конец ? 
+1817	We failed ? 	Мы провалились ? 
+1818	We 're done . 	Мы закончили . 
+1819	I 'm sorry . 	Прости 
+1820	It 's not me that does n't get back to my family , is it ? 	Это не я не смог вернуться назад к своей семье , не так ли ? 
+1821	Shame . 	Обидно . 
+1822	I wanted to know what was gonna happen in there . 	Я так и не смог узнать , что у нас всё получится . 
+1823	I swear we had this . 	
+1824	Let 's set the charges . 	Давай установим заряды . 
+1825	No , there 's still another way . 	Нет , всё ещё есть другой путь . 
+1826	- We have to follow Fischer down there . 	- Нам надо следовать вниз за Фишером . 
+1827	- Not enough time . 	- Нет времени . 
+1828	No , but there will be enough time down there . 	Но там будет времени достаточно . 
+1829	And we will find him . 	И мы найдем его . 
+1830	Okay , as soon as Arthur 's music kicks in , just use the defibrillator to revive him . 	Хорошо , как только заиграет музыка Артура , используйте дефрибиллятор , чтобы оживить его . 
+1831	We can give him his own kick down below . 	Мы сделаем ему отдельный выброс , там , внизу . 
+1832	Look , you get him in there . 	Отнеси его туда . 
+1833	As soon as the music ends , you blow up the hospital ... 	Как только музыка закончится , ты взорвешь больницу ... 
+1834	and we all ride the kick back up the layers . 	и нас всех выбросит наверх сквозь уровни . 
+1835	It 's worth a shot , if Saito can hold the guards off while I set the charges . 	Стоит попробовать , пусть Сайто задержит охрану , пока я ставлю заряды . 
+1836	Saito will never make it , will he ? 	Сайто не выберется , да ? 
+1837	- Cobb , come on . 	- Кобб , давай . 
+1838	We 've gotta try this . 	Мы должны попробовать . 
+1839	- Go for it . 	- Займитесь . 
+1840	If you are not back before the kick , I am gone with or without you . 	Не вернётесь до выброса , я ухожу с вами или без вас . 
+1841	She 's right . 	Она права ... 
+1842	She 's right . 	Она права ... 
+1843	Come on . 	Давай . 
+1844	Let 's go . 	Пойдем . 
+1845	Can I trust you to do what needs to happen here ? 	Надеюсь , ты нас не подведешь ? 
+1846	Mal 's gonna be down there . 	Мол будет там снизу . 
+1847	I know where to find her . 	Я знаю , где её искать . 
+1848	She 'll have Fischer . 	Фишер у неё . 
+1849	- How do you know ? 	Как ты узнал ? 
+1850	- Because she wants me to come after him . 	Потому что она хочет , что бы я пришёл за ним . 
+1851	She wants me back down there with her . 	Хочет , что бы я спустился к ней . 
+1852	All right ? 	Всё в порядке ? 
+1853	- This is your world ? 	Это твой мир ? 
+1854	- It was . 	Был . 
+1855	And this is where she 'll be . 	Она должна быть здесь . 
+1856	Come on . 	Идём . 
+1857	Saito . 	Сайто . 
+1858	Saito . 	Сайто . 
+1859	I need you to take care of Fischer while I go set some charges , okay ? 	Ты мне нужен , присмотри за Фишером , пока я поставлю заряды , хорошо ? 
+1860	No room for tourists on these jobs . 	В вашей работе туристам не место . 
+1861	Do n't be silly . 	Не глупи . 
+1862	You built all this ? 	Вы всё это построили ? 
+1863	This is incredible . 	Это невероятно . 
+1864	We built for years . 	Мы строили годами . 
+1865	Then we started in on the memories . 	А потом взялись за воспоминания . 
+1866	This way . 	Сюда . 
+1867	This was our neighborhood . 	Это наш портал . 
+1868	Places from our past . 	Места из нашего прошлого . 
+1869	That was our first apartment . 	Там наша первая квартира . 
+1870	Then we moved to that building right there . 	Потом мы переехали в то здание . 
+1871	After Mal became pregnant , that became our home . 	Когда Мол забеременела , мы купили тот дом . 
+1872	You reconstructed all of this from memory ? 	Вы воссоздали всё это из воспоминаний ? 
+1873	Like I told you , we had lots of time . 	Я же говорил , у нас было много времени . 
+1874	What is that ? 	Что это ? 
+1875	That 's the house Mal grew up in . 	Дом , где Мол выросла . 
+1876	- Well , will she be in there ? 	Она там ? 
+1877	- No . 	Нет . 
+1878	Come on . 	Идем . 
+1879	We both wanted to live in a house , but we loved this type of building . 	Мы хотели жить в доме , но нам всегда нравились такие здания . 
+1880	In the real world , we 'd have to choose , but not here . 	В реальном мире , пришлось бы выбирать , но не здесь . 
+1881	How are we gonna bring Fischer back ? 	Как мы вернём Фишера ? 
+1882	We 're gonna have to come up with some kind of a kick . 	Нам придётся устроить выброс . 
+1883	What ? 	Как ? 
+1884	I 'm gonna improvise . 	Я буду импровизировать . 
+1885	Listen , there 's something you should know about me . 	Послушай , ты должна кое-что знать обо мне . 
+1886	About inception . 	О внедрении . 
+1887	An idea is like a virus . 	Идея похожа на вирус . 
+1888	Resilient . 	Она живуча . 
+1889	Highly contagious . 	И очень заразна . 
+1890	And the smallest seed of an idea can grow . 	Мельчайшее зёрнышко идеи способно прорости . 
+1891	It can grow to define ... 	И либо стать частью тебя ... 
+1892	or destroy you . 	либо уничтожить тебя . 
+1893	The smallest idea , such as : 	Даже такая маленькая идея как : 
+1894	Your world is not real . 	Даже такая маленькая идея как : 
+1895		Даже такая маленькая идея как : 
+1896	Simple little thought that changes everything . 	Твой мир не реален . Столь не значительная мысль , что меняет всё . 
+1897	So certain of your world . 	Ну часть твоего мира . 
+1898	Of what 's real . 	Та что реальна . 
+1899	Do you think he is ? 	Думаешь он реален ? 
+1900	Or do you think he 's as lost as I was ? 	Или ты думаешь , что он так же потерян как и я был ? 
+1901	I know what 's real , Mal . 	Я знаю что реально , Мол . 
+1902	No creeping doubts ? 	И сомнения тебя не терзают ? 
+1903	Not feeling persecuted , Dom ? 	Нет никакого чувства преследования ? 
+1904	Chased around the globe ... 	Гоняющего тебя по всему миру ... 
+1905	by anonymous corporations and police forces ... 	от анонимных корпораций и полицейских ... 
+1906	the way the projections persecute the dreamer ? 	как от проекций , охотящихся на участников сна ? 
+1907	Admit it . 	Признайся . 
+1908	You do n't believe in one reality anymore . 	Ты уже не веришь в одну реальность . 
+1909	So choose . 	Ну выбирай . 
+1910	Choose to be here . 	Выбери чтобы остаться здесь . 
+1911	Choose me . 	
+1912	You know what I have to do . 	Ты знаешь что мне надо сделать . 
+1913	I have to get back to our children because you left them . 	Мне надо идти к нашим детям , потому что ты их оставил . 
+1914	Because you left us . 	Потому что ты нас оставил . 
+1915	- You 're wrong . 	- Ты не прав . 
+1916	- I m not wrong . 	Я не прав . 
+1917	You 're confused . 	Ты запутался . 
+1918	Our children are here . 	Наши дети там . 
+1919	And you 'd like to see their faces again , would n't you ? 	И тебе хочется снова увидеть их лица ? 
+1920	Yes , but I m gonna see them up above , Mal . 	Да , но я встречусь с ними на верху , Мол . 
+1921	Up above ? 	На верху ? 
+1922	Listen to yourself . 	Послушай себя . 
+1923	These are our children . 	Это твои дети . 
+1924	Watch . 	Смотри . 
+1925	James ? 	Джеймс ? 
+1926	Phillipa ? 	Филлип ? 
+1927	Do n't do this , Mal . 	Не делай этого Мол , это не мои дети . 
+1928	Please . 	
+1929	Those are n't my children . 	
+1930	You keep telling yourself that , but you do n't believe it . 	Ты повторяешь это себе , но ты в это не веришь . 
+1931	- No , I know it . 	- Нет , я знаю . 
+1932	- What if you 're wrong ? 	- Что если ты не прав ? 
+1933	What if I 'm what 's real ? 	Что если я , это то , что реально ? 
+1934	You keep telling yourself what you know . 	Ты постоянно говоришь себе , то что ты знаешь . 
+1935	But what do you believe ? 	Но во что ты веришь ? 
+1936	What do you feel ? 	Что ты чувствуешь ? 
+1937	Guilt . 	Вину . 
+1938	I feel guilt , Mal . 	Я чувствую вину , Мэл . 
+1939	And no matter what I do , no matter how hopeless I am ... 	И не зависимо , чем я занят , не зависимо на сколько я отчаян ... 
+1940	no matter how confused , that guilt is always there ... 	не зависимо на сколько я смущён , эта вина всегда рядом ... 
+1941	reminding me of the truth . 	напоминает мне правду . 
+1942	What truth ? 	Какую правду ? 
+1943	That the idea that caused you to question your reality came from me . 	Что идея , поставить под сомнения твою реальность , исходила от меня . 
+1944	You planted the idea in my mind ? 	Ты поместил эту идею в мой разум ? 
+1945	What is she talking about ? 	О чем она говорит ? 
+1946	The reason I knew inception was possible was because I did it to her first . 	Я знал , что внедрение невозможно , потому , что я это сделал это с ней . 
+1947	- I did it to my own wife . 	- Я сделал это с моей женой . 
+1948	- Why ? 	- Почему ? 
+1949	We were lost in here . 	Мы застряли там . 
+1950	I knew we needed to escape , but she would n't accept it . 	Я знал , что нужно выбираться , она отказывалась . 
+1951	She had locked something away , something deep inside . 	Она спрятала кое-что где-то в глубине себя . 
+1952	A truth that she had once known , but chose to forget . 	Правду , которую знала когда-то , но ... 
+1953	And she could n't break free . 	Она не могла освободиться . 
+1954	So I decided to search for it . 	И я решил найти эту правду . 
+1955	I went deep into the recess of her mind and found that secret place . 	Я проник в укромный уголок её разума и нашёл это секретное место . 
+1956	And I broke in ... 	Я влез в него ... 
+1957	and I planted an idea . 	и поместил там идею . 
+1958	A simple little idea that would change everything . 	Простую , незначительную мысль , которая могла бы изменить всё . 
+1959	That her world was n't real . 	Что её мир не реален . 
+1960	That death was the only escape . 	Смерть была единственным выходом . 
+1961	You 're waiting for a train . 	Ты ждёшь поезда . 
+1962	A train that 'll take you far away . 	Поезда , который отвезёт тебя очень далеко . 
+1963	You know where you hope this train will take you ... 	Ты знаешь , куда тебе хотелось бы уехать ... 
+1964	but you ca n't know for sure . 	но куда отвезёт поезд - не знаешь . 
+1965	Yet it does n't matter . 	Это и не важно . 
+1966	- Now , tell me why ! 	- Теперь расскажи мне почему ! 
+1967	- Because you 'll be together ! 	- Потому что вы будете вместе ! 
+1968	But I never knew that that idea would grow in her mind like a cancer ... 	Но я никогда не мог представить , что эта идея вырастет в её разуме как рак ... 
+1969	that even after she woke ... 	даже когда она проснулась ... 
+1970	That even after you came back to reality ... 	Даже когда ты вернулся в реальность ... 
+1971	that you 'd continue to believe your world was n't real . 	Ты продолжал бы верить , что твой мир не реален . 
+1972	That death was the only escape . 	Эта смерть была единственным выходом . 
+1973	Mal , no ! 	Мол , нет ! 
+1974	Jesus ! 	Господи ! 
+1975	- You infected my mind . 	- Ты заразила мой разум . 
+1976	- I was trying to save you . 	- Я пытался спасти тебя . 
+1977	You betrayed me . 	Ты предал меня . 
+1978	But you can make amends . 	Но ты можешь измениться . 
+1979	You can still keep your promise . 	Ты можешь сдержать свое обещание . 
+1980	We can still be together , right here ... 	Мы все еще можем быть вместе , здесь ... 
+1981	in the world we built together . 	в мире , который мы вместе построили . 
+1982	Cobb , we need to get Fischer . 	Кобб , нам нужен Фишер . 
+1983	You ca n't have him . 	Вы не можете его получить . 
+1984	- lf I stay here , will you let him go ? 	- Если я останусь , вы его отпустите ? 
+1985	- What are you talking about ? 	- О чем ты ? 
+1986	Fischer is on the porch . 	Фишер на балконе . 
+1987	- Go check he 's alive , Ariadne . 	- Иди , посмотри жив ли он . 
+1988	- Cobb , you ca n't do this . 	- Кобб , ты не можешь так сделать . 
+1989	Go check he 's alive right now . 	Иди , посмотри прямо сейчас . 
+1990	Do it . 	Сделай это . 
+1991	He 's here ! 	Он здесь ! 
+1992	And it 's time , but you have to come now ! 	Нам пора , выходи скорее ! 
+1993	You take Fischer with you , all right ? 	Забери Фишера с собой , хорошо ? 
+1994	- You ca n't stay here to be with her . 	- Ты не можешь остаться здесь с ней . 
+1995	I 'm not . 	Я нет . 
+1996	Saito 's dead by now . 	Саито уже мертв к этому времени . 
+1997	That means he 's down here somewhere . 	Это значит он где-то внизу . 
+1998	That means I have to find him . 	Это значит я должен найти его . 
+1999	I ca n't stay with her anymore , because she does n't exist . 	Я не могу с ней оставаться , потому что она не существует . 
+2000	I 'm the only thing you do believe in anymore . 	Я единственное , во что ты всё ещё веришь . 
+2001	No . 	Нет . 
+2002	I wish . 	Я желаю . 
+2003	I wish more than anything , but ... 	Я желаю больше всего , но ... 
+2004	I ca n't imagine you with all your complexity ... 	я не могу представить тебя полностью ... 
+2005	all your perfection , all your imperfection . 	все твои плюсы , все твои минусы . 
+2006	- You all right ? 	- Все в порядке ? 
+2007	- Yeah . 	- Да . 
+2008	Look at you . 	Посмотри на себя . 
+2009	You 're just a shade . 	Ты просто тень . 
+2010	You 're just a shade of my real wife . 	Ты просто тень моей настоящей жены . 
+2011	And you were the best that I could do , but ... 	Ты самое лучшее , что я создал , но ... 
+2012	I m sorry , you 're just not good enough . 	извини , ты не достаточно хороша . 
+2013	Does this feel real ? 	Это кажется реальным ? 
+2014	- What are you doing ? 	- Что ты делаешь ? 
+2015	- Improvising . 	- Импровизирую . 
+2016	No , no , no ! 	Нет ! 
+2017	In there , now . 	Иди туда . 
+2018	Go , go , go . 	Давай , бегом , бегом . 
+2019	I was dis -- 	Я был раз- 
+2020	I was dis Disa -- 	Я был разо- 
+2021	- I know , Dad . 	- Я знаю , Папа . 
+2022	- Dis -- 	- Раз- 
+2023	I know you were disappointed ... 	Я знаю ты разочарован ... 
+2024	I could n't be you . 	я не мог бы быть тобой . 
+2025	No . 	Нет . 
+2026	No , no , no . 	Нет , нет , нет . 
+2027	I was disappointed ... 	Я был разочарован . 
+2028	that you tried . 	что ты пытался . 
+2029	What ? 	Что ? 
+2030	Come on , come on . 	Давай , давай . 
+2031	Dad ? 	Папа ? 
+2032	That 's the kick , Ariadne ! 	Это выброс , Ариадна ! 
+2033	You have to go now ! 	Ты должна уходить ! 
+2034	Do n't lose yourself ! 	Не потеряйся ! 
+2035	Find Saito and bring him back ! 	Найди Саито и приведи его обратно . 
+2036	I will ! 	Я найду ! 
+2037	You remember when you asked me to marry you ? 	Ты помнишь когда ты просил моей руки ? 
+2038	Yes . 	Да . 
+2039	You said you dreamt that we 'd grow old together . 	Ты сказал что видел сон в котором мы состарились вместе . 
+2040	But we did . 	Но мы же состарились . 
+2041	We did . 	Да . 
+2042	You do n't remember ? 	Ты не помнишь ? 
+2043	I miss you more than I can bear ... 	Я скучаю по тебе невыносимо ... 
+2044	but we had our time together . 	наше время прошло . 
+2045	And I have to let you go . 	И мне придется отпустить тебя . 
+2046	I have to let you go . 	Мне придется отпустить тебя . 
+2047	I 'm sorry , Robert . 	Прости Роберт . 
+2048	You know , the will means that Dad wanted me to be my own man ... 	Мой отец хотел , чтобы я был самостоятельным ... 
+2049	not just to live for him . 	а не жил на всём готовом . 
+2050	That 's what I m gonna do , Uncle Peter . 	Так я и сделаю , дядя Питер . 
+2051	What happened ? 	Что случилось ? 
+2052	- Cobb stayed . 	- Кобб остался . 
+2053	- With Mal ? 	- С Мол ? 
+2054	No , to find Saito . 	Нет , найти Саито . 
+2055	He 'll be lost . 	Он потеряется . 
+2056	No , he 'll be all right . 	Нет , с ним все будет в порядке . 
+2057	Have you come to kill me ? 	Пришел убить меня ? 
+2058	I 'm waiting for someone . 	Я жду кое-кого . 
+2059	Someone from a half-remembered dream . 	Кто-то из сна , который я плохо помню . 
+2060	Cobb ? 	Кобб ? 
+2061	Impossible . 	Невероятно . 
+2062	We were young men together . 	Мы оба были молодыми . 
+2063	I 'm an old man . 	Я старик . 
+2064	Filled with regret . 	Полон сожаления . 
+2065	Waiting to die alone . 	Жду смерти в одиночестве . 
+2066	I 've come back for you . 	Я вернулся за тобой . 
+2067	To remind you of something . 	Чтобы напомнить тебе что-то . 
+2068	Something you once knew . 	То , что ты раньше знал . 
+2069	That this world is not real . 	Что этот мир не реален . 
+2070	To convince me to honor our arrangement ? 	И чтобы убедить меня исполнить наш договор , да ? 
+2071	To take a leap of faith , yes . 	Чтобы вы сдержали своё слово . 
+2072	Come back ... 	Пойдём ... 
+2073	so we can be young men together again . 	и мы снова станем молодыми . 
+2074	Come back with me . 	Пойдём со мной . 
+2075	Come back . 	Пойдём . 
+2076	Hot towel , sir ? 	Полотенце , сэр ? 
+2077	We 'll be landing in Los Angeles in about 20 minutes . 	Мы приземлимся в Лос-Анджелесе примерно через 20 минут . 
+2078	Do you need immigration forms ? 	Вам нужен иммиграционный листок ? 
+2079	Thank you . 	Спасибо . 
+2080	Hot towel , sir ? 	- Полотенце , сэр ? 
+2081	- No . 	- Нет . 
+2082	- Do you need immigration forms ? 	- Вам нужен иммиграционный листок ? 
+2083	Welcome home , Mr . Cobb . 	Добро пожаловать домой , мистер Кобб . 
+2084	Thank you , sir . 	Спасибо , сэр . 
+2085	Welcome . 	Добро пожаловать . 
+2086	This way . 	Сюда . 
+2087	James ? 	Джеймс ? 
+2088	Phillipa ? 	Филлип ? 
+2089	Look who 's here . 	Посмотрите кто пришел . 
+2090	Hey . 	Привет . 
+2091	- Hey , guys ! 	Привет ребята ! 
+2092	Hey ! 	Как ваши дела ? 
+2093	How are you ? 	Папа ! 
+2094	- Daddy ! 	Папа ! 
+2095	Daddy ! 	
+2096	- Daddy ! 	Папа ! 
+2097	- How are you ? 	Как ты ? 
+2098	Look what I ve been building ! 	Смотри что я строил ! 
+2099	- What are you building ? 	- Что вы строите ? 
+2100	- We 're building a house on the cliff ! 	Мы строим дом на скале ! 
+2101	On the cliff ? 	На скале ? 
+2102	Come on , I want you to show me . 	Ну давай , я хочу , чтобы ты мне показал . 
+2103	Can you show me ? 	Ты можешь мне показать ? 
+2104	- Let 's go . 	Пошли . 
+2105	- Come on , Daddy ! 	Ну давай , папа ! 

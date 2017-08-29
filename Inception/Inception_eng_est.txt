@@ -1,0 +1,2105 @@
+﻿1	Are you here to kill me ? 	Kas tulid mind tapma ? 
+2	I know what this is . 	Ma tean , mis see on . 
+3	I 've seen one before . 	Olen seda näinud . 
+4	Many , many years ago . 	Palju aastaid tagasi . 
+5	It belonged to a man I met in a half-remembered dream . 	See kuulus mehele , keda kohtasin unenäos , mida ähmaselt mäletan . 
+6	A man possessed of some radical notions . 	Mees , kel olid mõned väga äärmuslikud arusaamad . 
+7	What is the most resilient parasite ? 	Mis on kõige elujõulisem parasiit ? 
+8	A bacteria ? 	Mis on kõige elujõulisem parasiit ? 	Bakter ,  
+9	A virus ? 	viirus ? 
+10	An intestinal worm ? 	Ussnugilised ? 
+11	Uh ... 	 
+12	What Mr . Cobb is trying to say -- 	Mida hr . Cobb tahab öelda ... 
+13	An idea . 		Idee . 
+14	Resilient .  Elujõuline ,  
+15	Highly contagious . 	kergelt nakkav .
+16	Once an idea has taken hold of the brain , it 's almost impossible to eradicate . 	Kui idee on kord ajju jõudnud , on teda pea võimatu välja juurida . 
+17	An idea that is fully formed , fully understood , that sticks . 	Idee , mis on täielikult paigas ning arusaadav , jääb meelde . 
+18	Right in there somewhere . 	Kuskile siia . 
+19	For someone like you to steal ? 	Et keegi sinusugune selle pihta paneks ?
+20	Yes . 	 Jah . 
+21	In the dream state , your conscious defenses are lowered ... 	Magades on inimese teadvuse kaitsebarjäärid madalal tasemel , 	
+22	and that makes your thoughts vulnerable to theft . 	mis muudab mõtete varguse võimalikuks . 
+23	It 's called extraction . 	Seda nimetatakse eraldamiseks .
+24	Mr . Saito , we can train your subconscious to defend itself ... 	 Hr . Saito , me võime teie alateadvust treenida end ise kaitsma 
+25	from even the most skilled extractor . 	isegi kõige osavamate eraldajate vastu . 
+26	How can you do that ? 	Kuidas ma seda teen ?
+27	Because I am the most skilled extractor . 	Mina olengi kõige osavam eraldaja . 
+28	I know how to search your mind and find your secrets . 	Ma tean , kuidas teie mõistusest saladusi välja nuhkida . 
+29	I know the tricks . 	Ma tean võtteid ja võin teile seda õpetada . 
+30	And I can teach them to you , so that even when you 're asleep ... 	Ma tean võtteid ja võin teile seda õpetada . 
+31	your defense is never down . 	Isegi magades ei langeta te kaitsebarjääre hetkekski . 
+32	Look , if you want my help , you 're gonna have to be completely open with me . 	Kui soovite minu abi , peate olema täiesti avameelne . 
+33	I need to know my way around your thoughts better than your wife ... 	Pean teie mõtetes orienteeruma paremini kui teie abikaasa , terapeut , ükskõik kes . 
+34	better than your therapist , better than anyone . 	Pean teie mõtetes orienteeruma paremini kui teie abikaasa , terapeut , ükskõik kes . 
+35	If this is a dream , and you have a safe full of secrets ... 	Kui see on unenägu ja teil on seifitäis saladusi , tahan teada , mis seal sees on . 
+36	I need to know what 's in that safe . 	Kui see on unenägu ja teil on seifitäis saladusi , tahan teada , mis seal sees on . 
+37	In order for this all to work , you need to completely let me in . 	Kõige selle teostumiseks peate mind täielikult endasse laskma . 
+38	Enjoy your evening , gentlemen , as I consider your proposal . 	Kena õhtut teile , härrased . 
+39	He knows . 	Ta teab . 
+40	What 's going on up there ? 	Mis seal üleval toimub ? 
+41	Saito knows . 	Saito teab . 
+42	He 's playing with us . 	Ta mängib meiega . 
+43	Does n't matter . 	Pole oluline . 
+44	I can get it here . 	Ma saan selle kätte , usalda mind . 
+45	Trust me . 	Ma saan selle kätte , usalda mind . 
+46	The information is in the safe . 	Ma saan selle kätte , usalda mind . 
+47	He looked right at it when I mentioned secrets . 	Informatsioon asub seifis . 
+48	What 's she doing here ? 	Informatsioon asub seifis . 
+49	Just head back to the room . 	Mine ruumi tagasi , ma ajan selle korda . 
+50	All right ? 	
+51	I 'll take care of this . 	
+52	Okay , make sure you do . 	Täida oma lubadus , oleme tööpostil . 
+53	We 're here to work . 	
+54	If I jumped , would I survive ? 	Kui hüppan , kas jään siis ellu ? 
+55	With a clean dive , perhaps . 	Ehk siis , kui otse vette kukud . 
+56	Mal , what are you doing here ? 	Ehk siis , kui otse vette kukud . 
+57	I thought you might be missing me . 	Mal , mida sa siin teed ? Arvasin , et igatsed mu järele . 
+58	You know that I am . 	Igatsengi , kuid ei saa sind enam usaldada . 
+59	But I ca n't trust you anymore . 	Igatsengi , kuid ei saa sind enam usaldada . 
+60	So what ? 	Ja siis ? 
+61	Looks like Arthur 's taste . 	Tundub olevat Arthuri maitse järgi . 
+62	Actually , the subject is partial to postwar British painters . 	Tegelikult on antud isik kiindunud inglise maalikunsti . 
+63	Please , have a seat . 	Palun , võta istet . 
+64	Tell me ... 	Ütle , kas lapsed igatsesid mu järele ? 
+65	do the children miss me ? 	Ütle , kas lapsed igatsesid mu järele ? 
+66	You ca n't imagine . 	Sa ei kujuta ettegi , kuidas . 
+67	What are you doing ? 	Mida sa teed ? 
+68	Just getting some fresh air . 	Mida sa teed ? 
+69	Stay where you are , Mal . 	Mida sa teed ? 
+70	Goddamn it . 	Pagan võtaks . 
+71	Turn around . 	Pööra ümber ! 
+72	The gun , Dom . 	Pööra ümber ! 
+73	Please . 	Palun . 
+74	Now the envelope , Mr . Cobb . 	Nüüd ümbrik , hr . Cobb . 
+75	Did she tell you ? 	Kas ta rääkis teile või teadsite algusest peale ? 
+76	Or have you known all along ? 	
+77	That you 're here to steal from me , or that we are actually asleep ? 	Kas seda , et tulid minult varastama või et me tegelikult magame ? 
+78	I want to know the name of your employer . 	Tahan teada su tööandja nime . 
+79	Ah , there 's no use threatening him in a dream , right , Mal ? 	Ähvardustest pole kasu , kuna oleme unenäos , kas pole , Mal ? 
+80	That depends on what you 're threatening . 	Sõltub sellest , keda sa ähvardad . 
+81	Killing him would just wake him up . 	Sõltub sellest , keda sa ähvardad . 
+82	But pain ... 	Sõltub sellest , keda sa ähvardad . 
+83	Pain is in the mind . 	Valu eksisteerib meeltes 
+84	And judging by the decor , we 're in your mind , are n't we , Arthur ? 	ja sisekujunduse põhjal võib öelda , et asume sinu mõistuses , Arthur . 
+85	- What are you doing ? 	Mida sa teed ? 
+86	It 's too soon . 	Aeg pole veel käes ! 
+87	- But the dream 's collapsing . 	Ma tean , kuid unenägu variseb kokku . 
+88	I 'm gonna try to keep Saito under a little bit longer . 	Üritan Saitot veel unenäos hoida . 
+89	We 're almost there . 	Oleme peaaegu valmis . 
+90	He was close . 	Ta pääses lähedale . 
+91	Very close . 	Väga lähedale . 
+92	Stop him ! 	Peatage ta ! 
+93	This is n't gonna work . 	See ei lähe läbi . 
+94	Wake him up . 	Ärata ta üles . 
+95	He wo n't wake . 	Ta ei ärka ! 
+96	- Give him the kick . 	Lükka teda ! 
+97	- What ? 	Lükka teda ! 
+98	Dunk him . 	Lükka teda ! 
+99	He 's out . 	Ta on ärkvel . 
+100	You came prepared , hmm ? 	Olite ettevalmistunud . 
+101	Not even my head of security knows this apartment . 	Isegi mu turvaülem ei tea sellest korterist . 
+102	How did you find it ? 	Kuidas te selle leidsite ? 
+103	It 's difficult for a man of your position to keep a love nest like this secret ... 	Teiesuguse positsiooniga mehe puhul on seda armupesa raske saladuses hoida . 
+104	particularly where there 's a married woman involved . 	Eriti siis , kui asjaga on seotud abielunaine . 
+105	- She would never ... 	Seda ta ei teeks . 
+106	- Yet here we are . 	Aga siin me oleme . 
+107	- With a dilemma . 	Dilemma ees . 
+108	- They 're getting closer . 	Nad jõuavad lähemale . 
+109	- You got what you came for . 	Saite , mida tahtsite . 
+110	- Well , that 's not true . 	See pole tõsi . 
+111	You left out a key piece of information , did n't you ? 	Jätsite olulised detailid välja , kas pole nii ? 
+112	You held something back because you knew what we were up to . 	Varjasite midagi , kuna teadsite meie plaanist . 
+113	- Question is , why 'd you let us in at all ? 	Küsimus on selles , miks te meid üldse sisse lasite ? 
+114	- An audition . 	Proov . 
+115	- An audition for what ? 	Proov . 
+116	- Does n't matter . 	Mille proov ? Pole oluline , te ebaõnnestusite . 
+117	You failed . 	
+118	We extracted every bit of information you had in there . 	Eraldasime kogu info , mis teie peas leidus . 
+119	But your deception was obvious . 	Kuid teie pettus oli läbinähtav . 
+120	- So leave me and go . 	Niisiis , jätke mind rahule . Ma kardan , et te ei mõista , hr . Saito . 
+121	- You do n't seem to understand , Mr . Saito . 	
+122	That corporation that hired us , they wo n't accept failure . 	Meid palganud korporatsioon ei rahuldu eksimustega . 
+123	We wo n't last two days . 	Me ei peaks kaht päevagi vastu . 
+124	Cobb ? 	Cobb . 
+125	Looks like I 'm gonna have to do this a little more simply . 	Tundub , et pean seda teie jaoks lihtsustama . 
+126	Tell us what you know ! 	Rääkige , mida te teate ! 
+127	Tell us what you know , now ! 	Kohe ! 
+128	I 've always hated this carpet . 	Olen alati seda vaipa vihanud . 
+129	It 's stained and frayed in such distinctive ways . 	Sellel on iseloomulikud plekid ja narmad . 
+130	But very definitely made of wool . 	Kuid see on kahtlemata villast valmistatud . 
+131	Right now ... 	Kuid praegu on tegu sünteetilise kiuga . 
+132	I m lying on polyester . 	Kuid praegu on tegu sünteetilise kiuga . 
+133	Which means I m not lying on my carpet , in my apartment . 	Mis tähendab , et ma ei lama oma korteri vaibal . 
+134	You have lived up to your reputation , Mr . Cobb . 	Olete oma reputatsiooni vääriline , hr . Cobb . 
+135	I 'm still dreaming . 	Olete oma reputatsiooni vääriline , hr . Cobb . 
+136	- How 'd it go ? 	Kuidas läks ? 
+137	- Not good . 	Kehvasti . 
+138	Dream within a dream , huh ? 	Unenägu unenäos . 
+139	I 'm impressed . 	Muljetavaldav . 
+140	But in my dream , you play by my rules . 	Kuid minu unenäos mängite minu reeglite järgi . 
+141	Ah , yes , but you see , Mr . Saito ... 	Jah , kuid võtke teadmiseks , hr . Saito ... 
+142	We 're not in your dream . 	Jah , kuid võtke teadmiseks , hr . Saito ... 
+143	We 're in mine . 	Me ei asu teie unenäos . 
+144	Asshole . 	Tõbras , ajasid vaibad segamini . 
+145	How do you mess up the carpet ? 	Tõbras , ajasid vaibad segamini . 
+146	- It was n't my fault . 	Tõbras , ajasid vaibad segamini . 
+147	- You 're the architect . 	See polnud minu süü . Sina oled ju arhitekt . 
+148	I did n't know he was gonna rub his cheek on it ! 	Ma ei teadnud , et ta hakkab sellel oma pagana põske hõõruma . 
+149	That 's enough . 	Ma ei teadnud , et ta hakkab sellel oma pagana põske hõõruma . 
+150	You . 	Ja sina , mida see kõik tähendas ? 
+151	What the hell was all that ? 	Ja sina , mida see kõik tähendas ? 
+152	- I have it under control . 	Ja sina , mida see kõik tähendas ? 
+153	- I 'd hate to see you out of control . 	Mul on kõik kontrolli all . Nii see küll ei paistnud . 
+154	We do n't have time for this . 	Meil pole selleks aega . 
+155	I 'm getting off at Kyoto . 	Ma lähen Kyotos maha . 
+156	He 's not gonna check every compartment . 	Miks ? 
+157	Yeah , well , I do n't like trains . 	Ega ta ei hakka kogu rongi läbi otsima . 
+158	Listen . 	Rongid mulle ei meeldi . 
+159	Every man for himself . 	Igaüks on nüüd omapäi . 
+160	Yes , hello ? 	Hallo ? 
+161	- Hi , Daddy . 	Hallo ? 
+162	- Hi , Dad . 	Tere , isa . 
+163	Hey , guys . 	Tere , sõbrakesed . 
+164	Hey . 	Kuidas teil läheb ? 
+165	How are you ? 	
+166	How you doing , huh ? 	
+167	- Good . 	Usun , et hästi . 
+168	- Okay , I guess . 	
+169	Okay ? 	Hästi ? 
+170	Who 's just okay ? 	Kes seda ütles ? 
+171	Is that you , James ? 	Sina , James ? 
+172	Yeah . 	Jah . Millal sa koju tuled , issi ? 
+173	When are you coming home , Dad ? 	
+174	Well , I ca n't , sweetheart . 	Ma ei saa , kallis . 
+175	I ca n't . 	Mitte niipea , mäletad ? 
+176	Not for a while , remember ? 	Mitte niipea , mäletad ? 
+177	Why ? 	Mitte niipea , mäletad ? 
+178	Look , I told you , I m away because I m working , right ? 	Miks mitte ? Ütlesin , et olen ära , kuna pean tööd tegema . 
+179	Grandma says you 're never coming back . 	Vanaema ütleb , et sa ei tule kunagi tagasi . 
+180	Phillipa , is that you ? 	Phillipa , kas sina ? 
+181	Put Grandma on the phone for me , will you ? 	Phillipa , kas sina ? 
+182	She 's shaking her head . 	Anna toru vanaemale . Ta raputab pead . 
+183	Well , just hope she 's wrong about that . 	Loodame , et ta eksib selles . 
+184	Daddy ? 	Issi ? 
+185	Yeah , James ? 	Issi ? 
+186	Is Mommy with you ? 	Jah , James ? Kas emme on sinuga ? 
+187	James , we talked about this . 	James , me rääkisime sellest . 
+188	Mommy 's not here anymore . 	James , me rääkisime sellest . 
+189	Where ? 	Kus siis ? 
+190	That 's enough , kids . 	Aitab küll , laps . 
+191	Say bye-bye . 	Jäta hüvasti . 
+192	Listen , I m gonna send some presents with Grandpa , all right ? 	Ma saadan vanaisaga mõned kingitused ja teie olge tublid ... 
+193	And you be good , you be -- 	Ma saadan vanaisaga mõned kingitused ja teie olge tublid ... 
+194	- Our ride 's on the roof . 	Transport ootab katusel . 
+195	- Right . 	Olgu . 
+196	Hey , are you okay ? 	On kõik korras ? 
+197	Yeah . 	On kõik korras ? 
+198	Yeah , I m fine . 	Jah , kõik on korras . 
+199	Why ? 	Miks sa küsid ? 
+200	Well , down in the dream , Mal showing up . 	Mal ilmus unenäos välja ... 
+201	Look , I m , uh , sorry about your leg . 	Vabandust selle jala pärast . 
+202	Wo n't happen again . 	Enam seda ei juhtu . 
+203	- It 's getting worse , is n't it ? 	See läheb hullemaks , on nii ? 
+204	- One apology 's all you 're getting , all right ? 	Rohkem vabandusi sa ei kuule , Arthur . 
+205	- Where 's Nash ? 	Kus Nash on ? 
+206	- He has n't shown . 	Pole välja ilmunud . 
+207	You wanna wait ? 	Tahad oodata ? 
+208	We were supposed to deliver Saito 's expansion plans ... 	Pidime kahe tunni eest Saito Cobol Engineeringu laienemise plaani 
+209	to Cobol Engineering two hours ago . 	Pidime kahe tunni eest Saito Cobol Engineeringu laienemise plaani 
+210	By now , they know we failed . 	üle vaatama . 
+211	It 's time we disappear . 	Nüüdseks on neile teada , et ebaõnnestusime . 
+212	- Where you gonna go ? 	Kuhu sa lähed ? 
+213	- Buenos Aires . 	Buenos Airesesse . 
+214	I can lie low there , maybe sniff out a job when things quiet down . 	Hoian madalat profiili , teen mõne väikse tööotsa , kuni olukord rahuneb . 
+215	You ? 	
+216	Stateside . 	Sina ? 
+217	Send my regards . 	Ühendriikidesse . 
+218	He sold you out . 	Ta reetis teid . 
+219	Thought to come to me and bargain for his life . 	Tuli minu juurde oma elu eest paluma . 
+220	So I offer you the satisfaction . 	Pakun sulle seda rõõmu . 
+221	It 's not the way I deal with things . 	Mina nii asju ei aja . 
+222	- What will you do with him ? 	Mida te temaga teete ? 
+223	- Nothing . 	Ei midagi . 
+224	But I ca n't speak for Cobol Engineering . 	Kuid ma ei saa sama Cobol Engineeringu kohta öelda . 
+225	- What do you want from us ? 	Mida te meist tahate ? 
+226	- Inception . 	Sisendust . 
+227	- Is it possible ? 	Kas see on võimalik ? 
+228	- Of course not . 	Muidugi mitte . 
+229	If you can steal an idea from someone 's mind ... 	Kui on võimalik kellegi idee peast varastada , miks ei saa seda sinna panna ? 
+230	why ca n't you plant one there instead ? 	Kui on võimalik kellegi idee peast varastada , miks ei saa seda sinna panna ? 
+231	Okay , here 's me planting an idea in your head . 	Olgu , proovin teile ideed pähe panna . 
+232	I say , Do n't think about elephants . 	Ütlen teile , et ärge mõelge elevantidest . 
+233	What are you thinking about ? 	Millest te mõtlete ? 
+234	Elephants . 	Millest te mõtlete ? 
+235	Right . 	Elevantidest . Just . Kuid see pole teie idee , kuna teate , et mina andsin selle teile . 
+236	But it 's not your idea , because you know I gave it to you . 	
+237	The subject 's mind can always trace the genesis of the idea . 	Inimese meel suudab alati idee teket jälgida . 
+238	- True inspiration 's impossible to fake . 	Tõelist inspiratsiooni on võimatu võltsida . 
+239	- That 's not true . 	See pole tõsi . 
+240	- Can you do it ? 	Kas suudad seda teha ? 
+241	- Are you offering me a choice ? 	Kas pakute mulle valikut ? 
+242	Because I can find my own way to square things with Cobol . 	Sest ma suudan ise Coboliga asjad joonde ajada . 
+243	Then you do have a choice . 	Valik on sinu . 
+244	Then I choose to leave , sir . 	Valik on sinu . 
+245	Tell the crew where you want to go . 	Öelge meeskonnale , kuhu soovite minna . 
+246	Hey , Mr . Cobb . 	Hr . Cobb ! 
+247	How would you like to go home ? 	Kas sooviksid Ameerikasse oma laste juurde minna ? 
+248	To America . 	Kas sooviksid Ameerikasse oma laste juurde minna ? 
+249	To your children . 	
+250	You ca n't fix that . 	Te ei suuda seda korraldada . 
+251	No one can . 	Keegi ei suuda . 
+252	- Just like inception . 	Keegi ei suuda . 
+253	- Cobb , come on . 	Nagu sisendustki . 
+254	- How complex is the idea ? 	Kui keeruline see idee on ? 
+255	- Simple enough . 	Piisavalt lihtne . 
+256	No idea is simple when you need to plant it in somebody else 's mind . 	Ükski idee pole lihtne , kui pead selle kellegi teise mõistusesse viima . 
+257	My main competitor is an old man in poor health . 	Minu peamine konkurent on kehva tervisega vanamees . 
+258	His son will soon inherit control of the corporation . 	Tema poeg pärib peagi kontrolli korporatsiooni üle . 
+259	I need him to decide to break up his father 's empire . 	Tahan , et ta otsustaks hävitada oma isa impeeriumi . 
+260	- Cobb , we should walk away from this . 	Cobb , me peaksime sellest loobuma . 
+261	- Hold on . 	Pea kinni . 
+262	If I were to do this , if I even could do it ... 	Kui ma seda teen ... 
+263	I d need a guarantee . 	Kui ma seda teen ... 
+264	- How do I know you can deliver ? 	Kui ma üldse suudan seda teha , vajan garantiid . Kuidas ma tean , et oma lubaduse täidate ? Ei teagi , 
+265	- You do n't . 	
+266	But I can . 	kuid võin seda teha . 
+267	So do you want to take a leap of faith ... 	kuid võin seda teha . 
+268	or become an old man , filled with regret ... 	Või muutud kahetsust täis vanaätiks , kes üksi surma ootab . 
+269	waiting to die alone ? 	Või muutud kahetsust täis vanaätiks , kes üksi surma ootab . 
+270	Assemble your team , Mr . Cobb . 	Pane meeskond kokku , hr . Cobb , ja vali kaaslasi hoolikamalt . 
+271	And choose your people more wisely . 	
+272	Look , I know how much you wanna go home . 	Ma tean , kui väga sa tahad koju minna , 
+273	This ca n't be done . 	kuid seda pole võimalik teha . 
+274	Yes , it can . 	kuid seda pole võimalik teha . 
+275	Just have to go deep enough . 	On küll . 
+276	You do n't know that . 	Tuleb lihtsalt piisavalt sügavale minna . 
+277	I 've done it before . 	Olen seda varem teinud . 
+278	Who 'd you do it to ? 	Olen seda varem teinud . 
+279	Why are we going to Paris ? 	Miks me Pariisi lähme ? 
+280	We 're gonna need a new architect . 	Vajame uut arhitekti . 
+281	You never did like your office , did you ? 	Su kontor pole sulle kunagi meeldinud , kas pole ? 
+282	No space to think in that broom cupboard . 	Tolles kambrikeses pole mõtlemiseks piisavalt ruumi . 
+283	Is it safe for you to be here ? 	Kas sul on ohutu siin olla ? 
+284	Extradition between France and the United States ... 	Sa tead , et Prantsusmaa- ja USA-vaheline väljaandmine tähendab õudset bürokraatiat . 
+285	is a bureaucratic nightmare , you know that . 	Sa tead , et Prantsusmaa- ja USA-vaheline väljaandmine tähendab õudset bürokraatiat . 
+286	I think they might find a way to make it work in your case . 	Ma usun , et sinu puhul suudavad nad asja kiiremini lahendada . 
+287	Look , I , uh , brought these for you to give to the kids when you have a chance . 	Ma tõin selle , et saaksid võimaluse korral lastele viia . 
+288	It 'll take more than the occasional stuffed animal ... 	Juhuslikest kaisuloomadest on vaja enamat , 
+289	to convince those children they still have a father . 	et neid lapsi isa olemasolus veenda . 
+290	I 'm just doing what I know . 	Teen seda , mida oskan ja mida mulle õpetasid . 
+291	I 'm doing what you taught me . 	Ma ei õpetanud sulle varastamist . 
+292	I never taught you to be a thief . 	Ma ei õpetanud sulle varastamist . 
+293	No , you taught me to navigate people 's minds . 	Õpetasid mind inimeste peas ringi liikuma , kuid pärast juhtunut 
+294	But after what happened ... 	Õpetasid mind inimeste peas ringi liikuma , kuid pärast juhtunut 
+295	there were n't a whole lot of legitimate ways for me to use that skill . 	pole mul võimalik seda oskust kuidagi seaduslikult kasutada . 
+296	What are you doing here , Dom ? 	Mida sa siin teed , Dom ? 
+297	I think I found a way home . 	Arvan , et leidsin tee koju . 
+298	It 's a job for some very , very powerful people . 	Tegemist on tööotsaga väga mõjuvõimsate inimeste heaks . 
+299	People who I believe can fix my charges permanently . 	Inimesed , kes minu arvates võivad mu süüdistused jäädavalt ära kaotada . 
+300	But I need your help . 	Kuid ma vajan su abi . 
+301	You 're here to corrupt one of my brightest and best . 	Kuid ma vajan su abi . 
+302	You know what I m offering . 	Sa tead , mida ma pakun . 
+303	Let them decide for themselves . 	Pead laskma neil endal otsustada . 
+304	- Money . 	Raha ? 
+305	- Not just money . 	Raha ? 
+306	You remember . 	Raha ? 
+307	It 's the chance to build cathedrals , entire cities ... 	Mitte ainult raha . 
+308	things that never existed ... 	Võimalus ehitada katedraale , terveid linnu , asju , mida pole eksisteerinud . 
+309	things that could n't exist in the real world . 	Asju , mida pärismaailmas pole võimalik luua . 
+310	So you want me to let someone else follow you into your fantasy ? 	Tahad , et laseksin kellelgi teisel su fantaasiasse lennelda ? 
+311	They do n't actually come into the dream . 	Tegelikult nad ei tulegi unenägudesse . 
+312	They just design the levels and teach them to the dreamers . 	Tegelikult nad ei tulegi unenägudesse . 
+313	That 's all . 	Nad lihtsalt kujundavad tasemed 
+314	Design it yourself . 	ja õpetavad neid unenägude nägijaile . 
+315	Mal wo n't let me . 	ja õpetavad neid unenägude nägijaile . 
+316	Come back to reality , Dom . 	Palun tule reaalsusesse tagasi , Dom . 
+317	- Please . 	Palun tule reaalsusesse tagasi , Dom . 
+318	- Reality . 	
+319	Those kids , your grandchildren ... 	Sinu lapselapsed ootavad oma isa kojutulekut . 
+320	they 're waiting for their father to come back home . 	Sinu lapselapsed ootavad oma isa kojutulekut . 
+321	That 's their reality . 	See on nende reaalsus ja see viimane tööots viib mu sinna . 
+322	And this job , this last job , that 's how I get there . 	See on nende reaalsus ja see viimane tööots viib mu sinna . 
+323	I would not be standing here if I knew any other way . 	Ma ei seisaks siin , kui teaksin mõnd teist viisi . 
+324	I need an architect who 's as good as I was . 	Ma vajan arhitekti , kes oleks sama hea , kui mina olin . 
+325	I 've got somebody better . 	Mul on keegi parem . 
+326	Ariadne ? 	Mul on keegi parem . 
+327	I 'd like you to meet Mr . Cobb . 	Tahaksin sulle tutvustada hr . Cobbi . 
+328	Pleased to meet you . 	Kena teiega kohtuda . 
+329	If you have a few moments , Mr . Cobb has a job offer he 'd like to discuss with you . 	Kui sul on veidi vaba aega , tahaks hr . Cobb sinuga ühest tööpakkumisest rääkida . 
+330	A work placement ? 	Arhitektuurifirmas ? 
+331	Not exactly . 	Arhitektuurifirmas ? 
+332	I have a test for you . 	Mitte päris . 
+333	You 're not gonna tell me anything first ? 	Tahan sind testida . 
+334	Before I describe the job , I have to know you can do it . 	Te ei kavatse töö kohta esmalt midagi rääkida ? Enne töö kirjeldamist pean teadma , kas oled selleks võimeline . 
+335	- Why ? 	Miks ? 
+336	- It s not , strictly speaking , legal . 	Otse öelduna pole tegemist legaalse tööga . 
+337	You have two minutes to design a maze that it takes one minute to solve . 	Loo kahe minutiga labürint , mille lahendamine võtaks minuti . 
+338	Stop . 	Aeg . 
+339	Again . 	Uuesti . 
+340	Stop . 	Aeg . 
+341	You 're gonna have to do better than that . 	Pead rohkem pingutama . 
+342	That 's more like it . 	Juba parem . 
+343	They say we only use a fraction of our brain 's true potential . 	Räägitakse , et kasutame oma ajust kõigest murdosa . 
+344	Now , that 's when we 're awake . 	Räägitakse , et kasutame oma ajust kõigest murdosa . 
+345	When we 're asleep , our mind can do almost anything . 	Nii on see ärkvel olles . Magamise ajal võib mõistus teha praktiliselt kõike . 
+346	Such as ? 	Näiteks ? 
+347	Imagine you 're designing a building . 	Näiteks ? 
+348	You consciously create each aspect . 	Kujuta ette , et sa lood hoonet . Teadlikult visandad sa kõiki võimalikke aspekte . 
+349	But sometimes , it feels like it 's almost creating itself , if you know what I mean . 	Kuid mõnikord tundub , nagu tekiks kõik iseenesest , kui sa mind mõistad . 
+350	Yeah , like I 'm discovering it . 	Jah , nagu avastaksin . 
+351	Genuine inspiration , right ? 	Jah , nagu avastaksin . 
+352	Now , in a dream , our mind continuously does this . 	Puhas inspiratsioon , eks ? Unenäo ajal tegeleb meie mõistus sellega pidevalt . 
+353	We create and perceive our world simultaneously . 	Me loome ja tajume maailma samaaegselt . 
+354	And our mind does this so well that we do n't even know it 's happening . 	Meie mõistus teeb seda nii hästi , et me ei tea selle toimumisest midagi . 
+355	That allows us to get right in the middle of that process . 	See viib meid otse selle protsessi keskmesse . 
+356	- How ? 	Kuidas ? 
+357	- By taking over the creating part . 	Kuidas ? 
+358	Now , this is where I need you . 	Kuidas ? 
+359	You create the world of the dream . 	Siin vajangi ma sind . 
+360	We bring the subject into that dream , and they fill it with their subconscious . 	Sina kujundad unemaailma . Me viime inimese sellesse unenäkku ja nad täidavad selle oma alateadvusega . 
+361	How could I ever acquire enough detail to make them think that it 's reality ? 	Kuidas ma suudan saavutada sellist detailsust , et nad seda reaalsuseks peaksid ? 
+362	Well , dreams , they feel real while we 're in them , right ? 	Unenäod tunduvad reaalsetena , kui nendes viibime , kas pole ? 
+363	It 's only when we wake up that we realize something was actually strange . 	Ainult ärgates taipame , et midagi oli tegelikult valesti . 
+364	Let me ask you a question . 	Ainult ärgates taipame , et midagi oli tegelikult valesti . 
+365	You never really remember the beginning of a dream , do you ? 	Las ma küsin sult midagi . 
+366	You always wind up right in the middle of what 's going on . 	Oma unenäo algust sa ju kunagi ei mäleta , on nii ? Sa jääd alati toppama viimase tegevuse juurde . 
+367	I guess , yeah . 	Arvatavasti jah . 
+368	So how did we end up here ? 	Arvatavasti jah . 
+369	Well , we just came from the , uh ... 	Kuidas me siia jõudsime ? 
+370	Think about it , Ariadne . 	Me tulime just ... 
+371	How did you get here ? 	Mõtle sellele , Ariadne . 
+372	Where are you right now ? 	Kuidas sa siia jõudsid ? 
+373	We 're dreaming ? 	Me näeme und ? 
+374	You 're in the middle of the workshop , sleeping . 	Me näeme und ? 
+375	This is your first lesson in shared dreaming . 	Sa asud tegelikult magavana oma tööseminaril . Tegemist on su esimese õppetunniga jagatud unenägudest . Ole rahulik . 
+376	Stay calm . 	
+377	If it 's just a dream , then why are you -- ? 	Kui see on kõigest unenägu , miks sa oled ... 
+378	Because it 's never just a dream , is it ? 	See pole kunagi lihtsalt unenägu , on nii ? 
+379	And a face full of glass hurts like hell . 	Kui su nägu on klaasi täis , on see põrgulik . Kui asud selles , tundub kõik reaalsena . 
+380	When you 're in it , it feels real . 	
+381	That 's why the military developed dream sharing . 	Selle arendas välja sõjatööstus . 
+382	It was a training program for soldiers to shoot , stab and strangle each other ... 	Selle arendas välja sõjatööstus . 
+383	and then wake up . 	et üksteist tulistada , pussitada ja kägistada ning üles ärgata . 
+384	How did architects become involved ? 	Kuidas arhitektid asjasse seoti ? 
+385	Well , someone had to design the dreams , right ? 	Kuidas arhitektid asjasse seoti ? 
+386	Why do n't you give us another five minutes ? 	Äkki annad meile veel 5 minutit ? 
+387	Five minutes ? 	Viis minutit ? Me rääkisime vähemalt tunni . 
+388	What -- ? 	
+389	We were talking for , like , at least an hour . 	
+390	In a dream , your mind functions more quickly ... 	Unenäos toimib su mõistus kiiremini . 
+391	therefore time seems to feel more slow . 	Seega tundub aeg mööduvat aeglasemalt . 
+392	Five minutes in the real world gives you an hour in the dream . 	Viis minutit pärismaailmas võrdub tunniga unenäos . 
+393	Why do n't you see what you can get up to in five minutes ? 	Vaatame , mida sa 5 minutiga välja suudad mõelda . 
+394	You 've got the basic layout . 	Meil on olemas tüüpiline paigutus . 
+395	Bookstore , café . 	Raamatupood , kohvik , 
+396	Almost everything else is here too . 	peaaegu kõik muu samuti . 
+397	Who are the people ? 	Kes need inimesed on ? 
+398	- Projections of my subconscious . 	Kes need inimesed on ? 
+399	- Yours ? 	Kes need inimesed on ? 
+400	- Yes . 	Minu alateadvuse projektsioonid . 
+401	Remember , you are the dreamer . 	Sinu ? 
+402	You build this world . 	Jah . 
+403	I am the subject . 	Sina ehitasid selle maailma . 
+404	My mind populates it . 	Mina olen inimene , kelle mõistuses see toimub . 
+405	You can literally talk to my subconscious . 	Sa võid sõna otseses mõttes mu alateadvusega rääkida . 
+406	That 's one of the ways we extract information from the subject . 	See on üheks võimaluseks kuidas inimeselt infot saada . 
+407	How else do you do it ? 	Mismoodi veel võimalik on ? 
+408	By creating something secure , like a bank vault or a jail . 	Luues midagi turvalist , nagu pangaseif või vangla , 
+409	The mind automatically fills it with information it 's trying to protect . 	täidab mõistus selle automaatselt infoga , mida üritab kaitsta . 
+410	- You understand ? 	Mõistad ? 
+411	- Then you break in and steal it ? 	Sina murrad sisse ja varastad selle ? 
+412	Well ... 	Noh ... 
+413	I guess I thought that the dream space would be all about the visual ... 	Arvasin , et unemaailm on visuaalne , kuid tegelikult hoopis tunnetuslik . 
+414	but it 's more about the feel of it . 	Arvasin , et unemaailm on visuaalne , kuid tegelikult hoopis tunnetuslik . 
+415	My question is what happens when you start messing with the physics of it all ? 	Küsimus on selles , mis juhtub , kui hakata füüsikaseadusi muutma ? 
+416	It 's something , is n't it ? 	Muljetavaldav , kas pole ? 
+417	Yes , it is . 	Muljetavaldav , kas pole ? 
+418	Why are they all looking at me ? 	Miks nad kõik mind vaatavad ? 
+419	Because my subconscious feels that someone else is creating this world . 	Sest mu alateadvus tunneb , et keegi teine kujundab seda maailma . 
+420	The more you change things , the quicker the projections start to converge on you . 	Mida rohkem asju muudad , seda kiiremini hakkavad projektsioonid nendega lõikuma . 
+421	Converge ? 	Lõikuma ? 
+422	They sense the foreign nature of the dreamer . 	Lõikuma ? 
+423	They attack , like white blood cells fighting an infection . 	Nad ründavad nagu valged verelibled nakkuse korral . 
+424	- What , they 're gonna attack us ? 	Kas nad ründavad meid ? 
+425	- No , no . 	Kas nad ründavad meid ? 
+426	Just you . 	Kas nad ründavad meid ? 
+427	This is great , but I m telling you , if you keep changing things like this ... 	Väga tore , aga ma räägin sulle , et kui jätkad asjade muutmist ... 
+428	Jeez , mind telling your subconscious to take it easy ? 	Jumal küll . 
+429	It 's my subconscious . 	Kas ütleksid oma alateadvusele , et see võtaks rahulikult ? See on mu alateadvus . Mäletad , ma ei kontrolli seda . 
+430	Remember ? 	
+431	I ca n't control it . 	
+432	Very impressive . 	Väga muljetavaldav . 
+433	I know this bridge . 	Ma tean seda silda . 
+434	This place is real , is n't it ? 	See on tegelikult olemas , kas pole ? 
+435	Yeah , I cross it every day to get to the college . 	Jah , ületan seda ülikooli minnes iga päev . 
+436	Never re-create places from your memory . 	Ära kunagi loo kohti , mis asuvad sul mälus . 
+437	Always imagine new places . 	Alati kujuta uusi kohti ette . 
+438	You draw from stuff you know , right ? 	Loo seda , mida tunned , kas pole ? 
+439	Only use details . 	Kasuta ainult detaile . 
+440	A streetlamp or a phone booth . 	Tänavavalgusti või telefoniputka . 
+441	Never entire areas . 	Mitte kunagi terveid alasid . 
+442	- Why not ? 	Miks mitte ? 
+443	- Building a dream from your memory ... 	Sest mälu järgi unemaailma luues on väga lihtne 
+444	is the easiest way to lose your grasp on what 's real and what is a dream . 	kaotada taju reaalsuse ja unenäo vahel . 
+445	- Is that what happened to you ? 	Kas see juhtuski sinuga ? 
+446	- Listen to me . 	Kuula mind . 
+447	This has nothing to do with me , understand ? 	Kuula mind . 
+448	That why you need me to build your dreams ? 	Kas sellepärast vajadki mind omale unenägusid looma ? 
+449	Hey , get off of her . 	Jäta ta rahule ! 
+450	Back up . 	Minge eemale ! 
+451	Back up . 	Minge eemale ! 
+452	- Cobb ! 	Minge eemale ! 
+453	Cobb ! 	Cobb ! 
+454	- Get off of her ! 	
+455	- Let me go ! 	Laske mind lahti ! 
+456	Let me go ! 	Ära tee , Mal ! 
+457	- Mal ! 	Ära tee , Mal ! 
+458	- Mal ! 	Ära tee , Mal ! 
+459	- Cobb ! 	Cobb ! 
+460	Wake me up ! 	Mal ! 
+461	- Wake me up ! 	Mal ! 
+462	Wake me up ! 	Äratage mind üles ! 
+463	- No ! 	Ei , Mal ! 
+464	- Mal , no ! 	Ei , Mal ! 
+465	No ! 	Äratage mind üles ! 
+466	- Wake me up ! 	
+467	Hey , hey , hey . 	Vaata mulle otsa . 
+468	Look at me . 	Sinuga on kõik korras . 
+469	You 're okay . 	
+470	You 're okay . 	
+471	- Hey . 	Miks ma üles ei ärganud ? 
+472	- Why would n't I wake up ? 	Sest kella järgi oli veel aega ja unenäost ei saa üles ärgata , 
+473	There was still time on the clock . 	Sest kella järgi oli veel aega ja unenäost ei saa üles ärgata , 
+474	You ca n't wake up from within the dream unless you die . 	Sest kella järgi oli veel aega ja unenäost ei saa üles ärgata , 
+475	-- She 'll need a totem . 	kui sa just ei sure . Näita tootemit . Mida ? 
+476	- What ? 	
+477	A totem , it 's a small personal -- 	Tootem on selline väike ja isiklik ... 
+478	That 's some subconscious you 've got on you , Cobb ! 	Tootem on selline väike ja isiklik ... 
+479	- She 's a real charmer . 	Ta on tõeline võluja . 
+480	- Oh . 	Ta on tõeline võluja . 
+481	- I see you met Mrs . Cobb . 	Ta on tõeline võluja . 
+482	- She 's his wife ? 	Näen , et kohtusid proua Cobbiga . 
+483	Yeah . 	Ta on tema naine ? 
+484	So a totem . 	Jah . 
+485	You need a small object , potentially heavy . 	Tootem ... 
+486	Something you can have on you that no one else knows . 	Sa vajad väikest eset , mis oleks sul alati kaasas 
+487	- Like a coin ? 	ja millest keegi teine ei tea . 
+488	- No . 	Nagu münt ? 
+489	It needs to be more unique than that . 	Ei , see peab olema unikaalsem . See on raskusega täring . 
+490	Like , this is a loaded die . 	
+491	No , I ca n't let you touch it . 	Ma ei saa lasta sul seda katsuda . 
+492	That would defeat the purpose . 	See muudaks selle kasutuks . 
+493	See , only I know the balance and the weight of this particular loaded die . 	Ainult mina tean , kus selle täringu raskuskese asub . 
+494	That way , when you look at your totem ... 	Oma tootemit nähes , tead kahtluseta , et ei asu kellegi teise unenäos . 
+495	you know beyond a doubt that you 're not in someone else 's dream . 	Oma tootemit nähes , tead kahtluseta , et ei asu kellegi teise unenäos . 
+496	I do n't know if you ca n't see what 's going on , or if you just do n't want to ... 	Ma ei tea , kas sa ei näe või ei taha näha , mis toimub , 
+497	but Cobb has some serious problems that he 's tried to bury down there . 	kuid Cobbil on tõsised probleemid , mida ta üritab alateadvusesse matta . 
+498	And I m not about to just open my mind to someone like that . 	Mina ei kavatse oma mõistust kellegi taolise jaoks avada . 
+499	She 'll be back . 	Ta tuleb tagasi . 
+500	I 've never seen anyone pick it up that quickly before . 	Pole kedagi teist nii kiirelt õppimas näinud . 
+501	Reality 's not gonna be enough for her now , and when she comes back ... 	Reaalsusest jääb nüüd talle väheks ja kui ta tagasi tuleb ... 
+502	When she comes back , you 're gonna have her building mazes . 	Kui ta tagasi tuleb , pane ta labürinte looma . 
+503	- Where are you gonna be ? 	Kuhu sina lähed ? 
+504	- I gotta go visit Eames . 	Lähen Eamesi külastama . 
+505	Eames ? 	Eames ? 
+506	No , he 's in Mombasa . 	Ta asub ju Mombasas . 
+507	It 's Cobol 's back yard . 	See on Coboli tagahoov . 
+508	It 's a necessary risk . 	See on vajalik risk . 
+509	- Well , there 's plenty of good thieves . 	See on vajalik risk . 
+510	- We do n't just need a thief . 	Häid vargaid on piisavalt . 
+511	We need a forger . 	Me ei vaja lihtsalt varast , vaid võltsijat . 
+512	Rub them together all you want , they 're not gonna breed . 	Võid neid hõõruda palju tahad , kuid paljunema nad ei hakka . 
+513	You never know . 	Iial ei või teada . 
+514	I 'm gonna get you a drink . 	Iial ei või teada . 
+515	You 're buying . 	Sina maksad . 
+516	- Your spelling has n't improved . 	Su õigekiri pole eriti paranenud . 
+517	- Piss off . 	Tõmba uttu . 
+518	How 's your handwriting ? 	Kuidas käekirjaga lood on ? 
+519	- It s versatile . 	Mitmekülgne . 
+520	- Good . 	Väga hea . 
+521	Thank you very much . 	Tänan väga . 
+522	Inception . 	Sisendus . 
+523	Now , before you bother telling me it 's impossible , let me-- 	Enne , kui kavatsed mulle rääkida , et see on võimatu ... 
+524	No , it 's perfectly possible . 	Ei , see on täiesti võimalik . 
+525	It 's just bloody difficult . 	Kõigest pagana keeruline . 
+526	Interesting . 	Huvitav . 
+527	Because Arthur keeps telling me it ca n't be done . 	Arthur räägib endiselt , et seda pole võimalik teha . 
+528	Hmm . 	Arthur ... 
+529	Arthur . 	Töötad endiselt koos selle tüütu vennikesega ? 
+530	You still working with that stick in the mud ? 	
+531	He is good at what he does , right ? 	Ta tunneb oma tööd . 
+532	Oh , he 's the best , but he has no imagination . 	Ta tunneb oma tööd . 
+533	Not like you . 	Ta on parim , kuid tal puudub kujutlusvõime . Erinevalt sinust . 
+534	Listen , if you 're gonna perform inception , you need imagination . 	Kui tahad sisendust luua , peab sul olema kujutlusvõimet . 
+535	Let me ask you something . 	Las ma küsin sult midagi . 
+536	Have you done it before ? 	Kas oled seda varem teinud ? 
+537	We tried it . 	Me üritasime . 
+538	Uh , we got the idea in place , but it did n't take . 	Saime idee paika , kuid see ei toiminud . 
+539	- You did n't plant it deep enough ? 	Ei pannud piisavalt sügavale ? 
+540	- No , it 's not just about depth . 	Ei , asi pole pelgalt sügavuses . 
+541	You need the simplest version of the idea ... 	Vajalik on kõige algelisemat ideed , 
+542	in order for it to grow naturally in your subject 's mind . 	et see inimeses loomulikult areneks . 
+543	It s a subtle art . 	See on väga peen kunst . 
+544	So , what is this idea that you need to plant ? 	Mis ideed sa pähe panema pead ? 
+545	We need the heir of a major corporation to dissolve his father 's empire . 	Peame ühe suurkorporatsiooni järeltulijat veenma oma isa impeeriumit lõhkuma . 
+546	Right there you have various political motivations ... 	Tegemist on erinevate poliitiliste motivatsioonide 
+547	and anti-monopolistic sentiments and so forth . 	ja monopoliseerimisvastaste tunnetega . 
+548	But all of that stuff , it 's , um ... 	ja monopoliseerimisvastaste tunnetega . 
+549	It 's really at the mercy of your subject 's prejudice , you see ? 	ja monopoliseerimisvastaste tunnetega . 
+550	What you have to do is start at the absolute basic . 	Pead alustama kõige alumisest otsast . 
+551	Which is what ? 	Milleks on ? 
+552	The relationship with the father . 	Milleks on ? 
+553	- Do you have a chemist ? 	Kas teil keemik on ? 
+554	- No , not yet . 	Veel mitte . 
+555	Right . 	Olgu , siin on üks mees . 
+556	Okay , well , there 's a man here , Yusuf . 	Olgu , siin on üks mees . 
+557	He , uh , formulates his own versions of the compounds . 	Olgu , siin on üks mees . 
+558	Why do n't you take me there ? 	Millal sa mu sinna viid ? 
+559	Once you 've lost your tail . 	Millal sa mu sinna viid ? 
+560	The man at the bar . 	Siis , kui oled saba kaotanud . 
+561	Cobol Engineering . 	Mehed baaris . 
+562	That price on my head , was that dead or alive ? 	Kas tasu saab mu elusalt või surnult kinnipüüdmise eest ? 
+563	Do n't remember . 	Ma ei mäleta . 
+564	Let 's see if he starts shooting . 	Vaatame , kas nad hakkavad tulistama . 
+565	Run interference . 	Häiri nende tähelepanu . 
+566	I 'll meet you downstairs in the bar in , say , uh , half an hour ? 	Kohtume poole tunni pärast all baaris ? 
+567	- Back here ? 	Tuled siia tagasi ? 
+568	- This is the last place they 'd suspect . 	Viimane koht , kust nad otsivad . 
+569	All right . 	Hea küll . 
+570	Freddy . 	Freddy Simmons ! 
+571	Freddy Simmonds . 	Freddy Simmons ! 
+572	My God , it 's you , is n't it ? 	Freddy Simmons ! 
+573	No , it is n't you . 	Kes ? 
+574	Not dreaming now , are you ? 	Enam sa und ei näe , kas pole ? 
+575	Get him ! 	
+576	There ! 	Sinna ! 
+577	One café . 	Ei , üks kohv . 
+578	Shh . 	
+579	One café . 	
+580	One café . 	Kohv . 
+581	Care for a lift , Mr . Cobb ? 	Soovid küüti , hr . Cobb ? 
+582	- What are you doing in Mombasa ? 	Mida sa Mombasas teed ? 
+583	- I m here to protect my investment . 	Pean oma investeeringuid kaitsma . 
+584	Ah . 	See oli su plaan saba kaotamise kohta . 
+585	So this is your idea of losing a tail , huh ? 	
+586	Different tail . 	Teine saba . 
+587	Cobb said you 'd be back . 	Cobb ütles , et tuled tagasi . 
+588	- I tried not to come , but ... 	Üritasin mitte tulla ... 
+589	- But there 's nothing quite like it . 	Kuid teist sarnast ei leidu . 
+590	It 's just ... 	See on lihtsalt puhas looming . 
+591	pure creation . 	See on lihtsalt puhas looming . 
+592	Shall we take a look at some paradoxical architecture ? 	Kas vaatame veidi paradoksaalset arhitektuuri ? 
+593	You 're gonna have to master a few tricks ... 	Kas vaatame veidi paradoksaalset arhitektuuri ? 
+594	if you 're gonna build three complete dream levels . 	kui tahad luua kolme täielikku unemaailma taset . 
+595	Excuse me . 	Vabandust . 
+596	What kind of tricks ? 	Vabandust . 
+597	In a dream , you can cheat architecture into impossible shapes . 	Unenäos võid arhitektuuriga mängides luua võimatuid kujundeid . 
+598	That lets you create closed loops , like the Penrose Steps . 	See laseb sul luua suletud ringe nagu Penrose 'i trepp . 
+599	The infinite staircase . 	Lõputu trepp . 
+600	See ? 	Näed ? 
+601	Paradox . 	Paradoks . 
+602	So a closed loop like that ... 	Paradoks . 
+603	will help you disguise the boundaries of the dream you create . 	Paradoks . 
+604	But how big do these levels have to be ? 	Selline suletud ring aitab varjata unemaailma piire . Kui suured need tasemed olema peavad ? 
+605	It could be anything from the floor of a building to an entire city . 	See võib olla maja korrus või terve linn . 
+606	They have to be complicated enough that we can hide from the projections . 	Kuid need peavad olema piisavalt keerukad , et saaksime projektsioonide eest peituda . 
+607	- A maze ? 	Labürint ? 
+608	- Right , a maze . 	Just , labürint . 
+609	And the better the maze ... 	Mida parem labürint ... 
+610	Then the longer we have before the projections catch us ? 	Mida parem labürint ... 
+611	Exactly . 	enne kui projektsioonid meid kinni püüavad ? 
+612	- My subconscious seems polite enough . 	Mu alateadvus tundub olevat piisavalt vaikne . Oota vaid , kuni see koledaks muutub . 
+613	- Ha , ha . 	
+614	You wait , they 'll turn ugly . 	
+615	No one likes to feel someone else messing around in their mind . 	Kellelegi ei meeldi , et keegi tema mõistuses ringi sobrab . 
+616	Cobb ca n't build anymore , can he ? 	Cobb ei suuda enam luua , kas pole ? 
+617	I do n't know if he ca n't , but he wo n't . 	Ma ei tea , kas suudab , kuid ta ei tee seda . 
+618	He thinks it 's safer if he does n't know the layouts . 	Ta arvab , et on parem , kui ta paigutusi ei tea . 
+619	Why ? 	Miks ? 
+620	He wo n't tell me . 	Miks ? 
+621	But I think it 's Mal . 	Ta ei ütle mulle . Kuid arvan , et asi on Malis . 
+622	- His ex-wife ? 	Tema endises naises ? 
+623	- No , not his ex . 	Ei , mitte endises . 
+624	- They 're still together ? 	Nad on endiselt koos ? 
+625	- No . 	Nad on endiselt koos ? 
+626	No , she 's dead . 	Nad on endiselt koos ? 
+627	What you see in there is just his projection of her . 	See , mida seal näed , on kõigest tema projektsioon . 
+628	What was she like in real life ? 	Milline ta päriselus oli ? 
+629	She was lovely . 	Milline ta päriselus oli ? 
+630	- You are seeking a chemist ? 	Otsite keemikut ? 
+631	- Yes . 	Jah . 
+632	To formulate compounds for a job ? 	Kes looks ekstrakti töö jaoks ? 
+633	And to go into the field with us . 	Ja tuleks meiega kaasa . 
+634	No , I rarely go into the field , Mr . Cobb . 	Ja tuleks meiega kaasa . 
+635	Well , we 'd need you there to tailor compounds specific to our needs . 	Ei , ma ei käi väljas , hr . Cobb . Vajame sind , et määraksid ekstraktide kogused vastavalt meie vajadustele . 
+636	- Which are ? 	Milleks on ? 
+637	- Great depth . 	Suur sügavus . 
+638	A dream within a dream ? 	Unenägu unenäos ? 
+639	Two levels ? 	Kaks taset ? 
+640	Three . 	Kolm . 
+641	Not possible . 	Pole võimalik . 
+642	That many dreams within dreams is too unstable . 	Selline arv unenägude tasemeid on liiga ebastabiilne . 
+643	It is possible . 	See on võimalik , vaja on kõigest uinutit . 
+644	You just have to add a sedative . 	See on võimalik , vaja on kõigest uinutit . 
+645	A powerful sedative . 	See on võimalik , vaja on kõigest uinutit . 
+646	- How many team members ? 	Mitu meeskonnaliiget ? 
+647	- Five . 	Mitu meeskonnaliiget ? 
+648	Six . 	Mitu meeskonnaliiget ? 
+649	The only way to know you 've done the job is if I go in with you . 	Ainus võimalus teada , kas olete tööga hakkama saanud , on teiega kaasa minna . 
+650	There 's no room for tourists on a job like this , Mr . Saito . 	Sellise tööotsa juures pole turistide jaoks ruumi , hr . Saito . 
+651	This time , it seems there is . 	Tundub , et sel korral on . 
+652	This , I think , is a good place to start . 	Arvan , et see on algatuseks hea . 
+653	I use it every day . 	Kasutan seda iga päev . 
+654	What for ? 	Mille jaoks ? 
+655	- Here , I 'll show you . 	Jah , ma näitan teile . 
+656	Perhaps you will not want to see . 	Võib-olla te ei taha näha . 
+657	After you . 	Võib-olla te ei taha näha . 
+658	Ten . 	Kuus , kümme , kaksteist . 
+659	Twelve . 	Kõik ühendatud , pagan võtaks . 
+660	All connected . 	
+661	Bloody hell . 	
+662	They come every day to share the dream . 	Nad tulevad iga päev siia , et unenägu jagada . 
+663	You see ? 	Näete , väga stabiilne . 
+664	Very stable . 	
+665	- How long do they dream for ? 	Kui kaua nad und näevad ? 
+666	- Three , four hours , each day . 	Kolm-neli tundi , iga päev . 
+667	In dream time ? 	Unenäo ajaarvestuses ? 
+668	With this compound ? 	Unenäo ajaarvestuses ? 
+669	About 40 hours , each and every day . 	Selle ekstraktiga ? 
+670	- Why do they do it ? 	Umbes 40 tundi iga päev . Miks nad seda teevad ? Räägi talle , hr . Cobb . 
+671	- Tell him , Mr . Cobb . 	
+672	After a while , it becomes the only way you can dream . 	Mõne aja pärast on see ainsaks võimaluseks und näha . 
+673	Do you still dream , Mr . Cobb ? 	Kas te näete endiselt unenägusid , hr . Cobb ? 
+674	- They come here every day to sleep ? 	Nad tulevad iga päev siia magama ? 
+675	- No . 	Ei . 
+676	They come to be woken up . 	Nad tulevad , et üles ärgata . 
+677	The dream has become their reality . 	Nad tulevad , et üles ärgata . 
+678	Who are you to say otherwise , sir ? 	Kes olete teie , et vastupidist väita ? 
+679	Let 's see what you can do . 	Vaatame , mida sa teha suudad . 
+680	You know how to find me . 	Sa tead , kuidas mind leida . 
+681	You know what you have to do . 	Sa tead , mida pead tegema . 
+682	Sharp , no ? 	Piisavalt terav ? 
+683	Are you all right , Mr . Cobb ? 	On kõik korras , hr . Cobb ? 
+684	Yeah , yeah . 	Jah . 
+685	Everything 's just fine . 	Kõik on korras . 
+686	Robert Fischer , heir to the Fischer Morrow energy conglomerate . 	Robert Fischer , Fischer-Morrow Energy konglomeraadi pärija . 
+687	What 's your problem with this Mr . Fischer ? 	Mis probleem sul selle hr . Fischeriga on ? 
+688	That 's not your concern . 	Mis probleem sul selle hr . Fischeriga on ? 
+689	Mr . Saito , this is n't your typical corporate espionage . 	See pole sinu asi . Hr . Saito , tegemist pole mingi tüüpilise tööstusspionaažiga . 
+690	You asked me for inception . 	Soovisid minult sisendust . 
+691	I do hope you understand the gravity of that request . 	Soovisid minult sisendust . 
+692	Now , the seed that we plant in this man 's mind will grow into an idea . 	Loodan , et mõistad selle soovi ulatust . Seeme , mille kavatseme selle mehe mõistuses idanema panna , kasvab ideeks . 
+693	This idea will define him . 	See idee määrab tema käitumise . 
+694	It may come to change ... 	See idee määrab tema käitumise . 
+695	Well , it may come to change everything about him . 	See võib muuta temas kõik . 
+696	We 're the last company standing between them and total energy dominance . 	Oleme viimane firma , mis seisab nende täieliku domineerimise ees energeetikas . 
+697	And we can no longer compete . 	Me ei suuda enam võistelda . 
+698	Soon , they 'll control the energy supply of half the world . 	Me ei suuda enam võistelda . 
+699	In effect , they become a new superpower . 	energiaga varustamist . 
+700	The world needs Robert Fischer to change his mind . 	Maailmal on vaja , et Robert Fischer muudaks oma meelt . 
+701	That 's where we come in . 	Siin astume meie mängu . 
+702	How is Robert Fischer 's relationship with his father ? 	Siin astume meie mängu . 
+703	Rumor is the relationship is quite complicated . 	Millised on Robert Fischeri suhted isaga ? Räägitakse , et suhe on üsna komplitseeritud . 
+704	Well , we ca n't work based solely on rumor , can we ? 	Kuid me ei saa pelgalt kuulduste alusel tegutseda , on nii ? 
+705	Can you get me access to this man here ? 	Kas saad mind selle mehega kokku viia ? 
+706	Browning . 	Browning . 
+707	Fischer Senior 's right-hand man . 	Browning . 
+708	Fischer Junior 's godfather . 	Vana Fischeri parem käsi , noore Fischeri ristiisa . 
+709	It should be possible , if you can get the right references . 	Peaks olema tehtav , kui suudad head soovitused hankida . 
+710	References are something of a specialty for me , Mr . Saito . 	Soovituste leidmine on minu erioskus , hr . Saito . 
+711	I 'm not smelling settlement here . 	Ma ei näe kokkuleppe võimalust . 
+712	Take them down . 	Ma ei näe kokkuleppe võimalust . 
+713	Mr . Browning ... 	Ma ei näe kokkuleppe võimalust . 
+714	Maurice Fischer 's policy is always one of avoiding litigation . 	Hr . Browning , Maurice Fischeril on tavaks alati kohtuprotsesse vältida . 
+715	Well , shall we voice your concerns with Maurice directly ? 	Kas edastame su mured otse Maurice 'ile ? 
+716	Not sure that 's necessary . 	Ei tea , kas see on vajalik . 
+717	No , no , no . 	Ei tea , kas see on vajalik . 
+718	I think we should . 	Pole midagi . 
+719	How is he ? 	Kuidas tal on ? 
+720	I do n't want to bother him unnecessarily , but -- 	Kuidas tal on ? 
+721	Robert , I told you keep out the damn -- Wait . 	Ma ei taha teda põhjuseta tülitada , kuid ... Robert , kas ma ei öelnud sulle , hoia linnast eemale ... Tee seda ! 
+722	So do it . 	
+723	Get -- 	
+724	- Mr . Fischer . 	Ärge rääkige , hr . Fischer . 
+725	- Put it through . 	Järgi seda ! 
+726	Never , never . 	Sa ei tee kunagi seda , mida nõuan . 
+727	Never do the same as I asked . 	Sa ei tee kunagi seda , mida nõuan . 
+728	Leave that . 	Sa ei tee kunagi seda , mida nõuan . 
+729	Here . 	Siia ... 
+730	Must be a cherished memory of his . 	Tegemist on vist tema helge mälestusega . 
+731	I put it beside his bed . 	Panin pildi ta voodi kõrvale . 
+732	He has n't even noticed . 	Ta pole seda isegi märganud . 
+733	Robert ... 	Robert , peame volituste teemal rääkima . 
+734	we need to talk about a power of attorney . 	Robert , peame volituste teemal rääkima . 
+735	- I know this is hard , but it 's imperative-- - Not now , Uncle Peter . 	Ma tean , et praegu on raske hetk ... Mitte praegu , onu Peter . On tähtis , et hakkaksime ... 
+736	The vultures are circling . 	Raisakotkad tiirlevad õhus . 
+737	And the sicker Maurice Fischer becomes , the more powerful Peter Browning becomes . 	Mida haigemaks Maurice Fischer jääb , seda jõulisemaks Peter Browning muutub . 
+738	I 've had ample opportunity to observe Browning ... 	Mul oli võimalus põhjalikult Browningut jälgida , 
+739	and adopt his physical presence , study his mannerisms , and so on and so forth . 	tema füüsilise olekuga kohaneda , õppida maneere ja nii edasi . 
+740	So now in the first layer of the dream , I can impersonate Browning . 	Esimeses unenäo tasemes võin Browningut kehastada 
+741	And suggest concepts to Fischer 's conscious mind . 	ja soovitada Fischeri teadvusele ideid . 
+742	Then , when we take him a level deeper ... 	Seejärel viime ta sügavamale tasemele ja tema enda 
+743	his own projection of Browning should feed that right back to him . 	Browningu projektsioon peaks talle otse tagasisidet andma . 
+744	So he gives himself the idea . 	Seega annab ta endale ise idee . 
+745	Precisely . 	Täpselt . Ainus viis , kuidas seda talletada . Ta peab selle ise välja mõtlema . 
+746	That 's the only way it will stick . 	
+747	It has to seem self-generated . 	
+748	Eames , I am impressed . 	Eames , olen rabatud . 
+749	Your condescension , as always , is much appreciated , Arthur , thank you . 	Sinu arvamused on alati väga teretulnud , Arthur . 
+750	Were you going under on your own ? 	Kas käisid üksi seal ? 
+751	No , no , I was just , uh , running some experiments . 	Ei , ma lihtsalt tegin mõningaid eksperimente . 
+752	I did n't realize anyone was here , so ... 	Ma ei teadnud , et keegi siin oli . 
+753	Yeah , I was just -- I was working on my totem , actually . 	Jah , olin tegelikult oma tootemi kallal ametis . 
+754	Here , let me take a look . 	Jah , olin tegelikult oma tootemi kallal ametis . 
+755	So you 're learning , huh ? 	Seega sa arened ? 
+756	An elegant solution for keeping track of reality . 	Elegantne lahendus reaalsusega sideme hoidmiseks . 
+757	- Was it your idea ? 	Oli see sinu idee ? 
+758	- No , it was , uh ... 	Oli see sinu idee ? 
+759	It was Mal 's , actually . 	Oli see sinu idee ? 
+760	This ... 	Ei , tegelikult Mali oma . 
+761	This one was hers . 	See oli tema oma . 
+762	She would spin it in the dream and it would never topple . 	Unenäos see ei kukuks iial ümber . 
+763	Just spin and spin . 	Muudkui pöörleks ja pöörleks . 
+764	Arthur told me she passed away . 	Arthur ütles , et ta suri . 
+765	How are the mazes coming along ? 	Arthur ütles , et ta suri . 
+766	Each level relates to the part of the subject 's subconscious ... 	Iga tase on seotud inimese alateadvuse osaga , 
+767	that we are trying to access . 	millele üritame ligi pääseda . 
+768	So I m making the bottom level a hospital , so Fischer will bring his father . 	Viimaseks tasemeks on haiglad , kuhu Fischer oma isa viib . 
+769	You know , I -- Actually , I have a question about this layout . 	Tegelikult on mul selle paigutuse kohta üks küsimus ... 
+770	No , no , no . 	Ei , ära näita mulle detaile . 
+771	Do n't show me specifics . 	Ainult unenäo nägija peab paigutust teadma . 
+772	Only the dreamer should know the layout . 	
+773	Why is that so important ? 	Miks see nii oluline on ? 
+774	In case one of us brings in our projections . 	Miks see nii oluline on ? 
+775	We do n't want them knowing the details of the maze . 	Kui keegi meist oma projektsioonid kohale toob , ei taha me , et nad teaksid labürindi detaile . 
+776	You mean in case you bring Mal in . 	Pead silmas seda , kui sa Mali sinna tood . 
+777	You ca n't keep her out , can you ? 	Sa ei suuda teda eemal hoida , kas pole ? 
+778	- Right . 	Sa ei suuda teda eemal hoida , kas pole ? 
+779	- You ca n't build ... 	Just . 
+780	because if you know the maze , then she knows it . 	Sa ei saa kujundada , sest kui sina tead , teab ka tema seda . 
+781	Well , she 'd sabotage the whole operation . 	See võib kogu operatsiooni ohtu seada . 
+782	- Cobb , do the others know ? 	Cobb , kas teised teavad ? 
+783	- No . 	Ei tea . 
+784	No , they do n't . 	
+785	You 've gotta warn them if this is getting worse . 	Sa pead neid hoiatama , kui see hullemaks läheb . 
+786	No one said it 's getting worse . 	Keegi pole öelnud , et see hullemaks läheb . 
+787	I need to get home . 	Ma pean koju saama . 
+788	That 's all I care about right now . 	Ainult sellest ma praegu hoolingi . 
+789	Why ca n't you go home ? 	Miks sa ei saa koju minna ? 
+790	Because they think I killed her . 	Sest nad arvavad , et mina tapsin ta . 
+791	- Thank you . 	Tänan sind . 
+792	- For what ? 	Mille eest ? 
+793	For not asking whether I did . 	Mitte küsimise eest , kas ma seda tegin . 
+794	I will split up my father 's empire . 	Mitte küsimise eest , kas ma seda tegin . 
+795		Mitte küsimise eest , kas ma seda tegin . 
+796	Now , this is obviously an idea that Robert himself would choose to reject ... 	Ma löön oma isa impeeriumi laiali . See on ilmselt idee , mida Robert ise kergelt omaks ei võta . 
+797	which is why we need to plant it deep in his subconscious . 	Sellepärast peame selle idee sügavale alateadvusesse viima . 
+798	The subconscious is motivated by emotion , right ? 	Alateadvust saab motiveerida emotsioonidega , eks ? 
+799	Not reason . 	Mitte mõistusega . 
+800	We need to find a way to translate this into an emotional concept . 	Peame leidma viisi , kuidas see tõlkida emotsionaalseks ideeks . 
+801	How do you translate business strategy into emotion ? 	Kuidas tõlkida äristrateegiat emotsiooniks ? 
+802	That 's what we 're here to figure out . 	Selle peamegi välja mõtlema . 
+803	Robert 's relationship with his father ... 	Roberti suhe isaga on pehmelt öeldes stressirohke . 
+804	- ... 	Roberti suhe isaga on pehmelt öeldes stressirohke . 
+805	is stressed , to say the least . 	Kas sellega võime proovida ? 
+806	- Can we run with that ? 	
+807	We suggest breaking up his father 's company as a screw you to the old man . 	Soovitame tal firma lõhkuda , et sellega oma isale ära teha . 
+808	No , because I think positive emotion trumps negative emotion every time . 	Ei , sest ma arvan , et positiivne emotsioon võidab alati negatiivset . 
+809	We all yearn for reconciliation , for catharsis . 	Me kõik ihkame andestamist , katarsist . 
+810	We need Robert Fischer to have a positive emotional reaction to all this . 	Tahame , et Robert Fischeril tekiks kõigest sellest positiivne emotsioon . 
+811	All right , well , try this . 	Olgu , proovime seda . 
+812	Um ... 	
+813	My father accepts that I want to create for myself , not follow in his footsteps . 	Mu isa aktsepteerib , et tahan ise luua , mitte tema jälgedes astuda . 
+814		
+815	That might work . 	See võib toimida . 
+816	Might ? 	See võib toimida . 
+817	We 're gonna need to do a little better than might . 	Võib ? Meil on veidi enamat vaja . 
+818		
+819	Thank you for your contribution , Arthur . 	Tänan sind su panuse eest , Arthur . 
+820	Forgive me for wanting a little specificity , Eames . 	Vabanda , et soovisin veidi täpsustust , Eames . 
+821	Specificity ? 	Täpsustust ? 
+822	Inception 's not about being specific . 	Täpsustust ? 
+823	When we get inside his mind , we 're gonna have to work with what we find . 	Sisendus ei seisne täpsuses . Tema peas olles tuleb meil tegeleda sellega , mis ette antakse . 
+824	On the top level , we open up his relationship with his father ... 	Kõige ülemisel tasemel arendame tema suhet isaga . 
+825	and say , I will not follow in my father 's footsteps . 	Kõige ülemisel tasemel arendame tema suhet isaga . 
+826		Kõige ülemisel tasemel arendame tema suhet isaga . 
+827	Then the next level down , we feed him , I will create something for myself . 	Ma ei kavatse oma isa jälgedes astuda . 
+828		Ma ei kavatse oma isa jälgedes astuda . 
+829	Then , by the time we hit the bottom level , we bring out the big guns . 	Järgmisel tasemel anname ette järgmise - kavatsen ise midagi luua . Kui ta kõige alumisele tasemele jõuab , toome sisse põhiteema . 
+830	- My father does n't want me to be him . 	Mu isa ei taha , et oleksin temasugune . 
+831	- Exactly . 	Just nimelt . 
+832	Three layers down , the dreams are gonna collapse with the slightest disturbance . 	Kolme taseme juures võivad unenäod vähima häire korral kokku variseda . 
+833	Sedation . 	Uinutamine . 
+834	For sleep stable enough to create three layers of dreaming ... 	Uinutamine . 
+835	we 'll have to combine it with an extremely powerful sedative . 	Sügav uni , mis oleks kolme taseme jaoks piisavalt stabiilne , on võimalik saavutada eriti kange uinuti abiga . 
+836	Good night . 	Head ööd . 
+837	The compound we 'll be using to share the dream ... 	Ekstrakti , mida kasutame ühise unenäo jaoks , 
+838	creates a clear connection between dreamers ... 	loob nägijate vahel väga selge ühenduse . 
+839	- ... 	Lisaks kiirendab ka aju tööd . Teisisõnu , see annab meile igal tasemel rohkem aega . 
+840	whilst accelerating brain function . 	
+841	- In other words , more time on each level . 	
+842	Brain function in the dream will be about 20 times normal . 	Aju töökiirus on une puhul 20 korda tavalisest kiirem . 
+843	And when you enter a dream within that dream , the effect is compounded . 	Kui unenäos unenäkku siseneda , suureneb efekt mitmekordselt . 
+844	It 's three dreams , that 's 10 hours times 20 -- 	Kolm unenägu teeb 10 tundi ... 
+845	Math was never my strong subject . 	Kolm unenägu teeb 10 tundi ... 
+846	How much time is that ? 	Vabandust , ma pole matemaatikas tugev . 
+847	It 's a week , the first level down . 	Palju see kokku teeb ? 
+848	Six months the second level down , and the third level -- 	Teisel tasemel 6 kuud ja kolmandal ... 
+849	That 's 10 years . 	Teisel tasemel 6 kuud ja kolmandal ... 
+850	Who 'd wanna be stuck in a dream for 10 years ? 	Kes tahaks 10 aastat unenäos istuda ? 
+851	Depends on the dream . 	Sõltub unenäost . 
+852	So once we 've made the plant , how do we get out ? 	Kui oleme ideed idanema pannud , kuidas me välja pääseme ? 
+853	I 'm hoping you have something more elegant than shooting me in the head . 	Loodan , et sul on midagi elegantsemat mõttes , kui mulle pähe tulistamine . 
+854	- A kick . 	Löök ? 
+855	- What 's a kick ? 	Mis see löök on ? 
+856	This , Ariadne , would be a kick . 	See , Ariadne , oleks löök . 
+857	It 's that feeling of falling you get that jolts you awake . 	Tegu on kukkumisega , jõnksatust tundes ärkad üles . 
+858	- Snaps you out of the dream . 	See toob su hetkega unenäost välja . Kas sellise uinuti korral me üldse lööki tunneme ? 
+859	- We gonna feel a kick with this sedation ? 	
+860	That 's the clever part . 	Selle juures on väike trikk . 
+861	I customized the sedative to leave inner-ear function unimpaired . 	Ma muutsin seda veidi , et kõrva tasakaaluelund jääks puutumata . 
+862	That way , however deep the sleep , the sleeper still feels falling . 	Sellisel juhul tunneb magaja kukkumist ükskõik kui sügava une korral . 
+863	Or tipping . 	Või kallutamist . 
+864	The trick is to synchronize a kick that can penetrate all three levels . 	Tähtis on löögi ajastus , mis läbiks kõiki kolme taset . 
+865	We could use a musical countdown to synchronize the different kicks . 	Võiksime kasutada muusikat , et erinevaid lööke ajastada . 
+866	He has n't got any surgery scheduled , no dental , nothing . 	Tal pole plaanis ühtegi lõikust , hambaarsti ega kedagi teist külastada . 
+867	Was n't he supposed to have a knee operation ? 	Kas tal ei pidanud olema põlveoperatsioon ? 
+868	Nothing . 	Ei midagi , mis teda pikalt magama paneks . 
+869	Nothing that they 'll put him under for , anyway . 	Vajame vähemalt 10 tundi . 
+870	And we need-- 	Vajame vähemalt 10 tundi . 
+871	We need at least a good 10 hours . 	Vajame vähemalt 10 tundi . 
+872	Sydney to Los Angeles . 	Sidney 'st Los Angelesse . 
+873	One of the longest flights in the world . 	See on maailma üks pikemaid lende . 
+874	He makes it every two weeks . 	Ta kasutab seda iga kahe nädala tagant . 
+875	He must be flying private , then . 	Arvatavasti kasutab eralennukit . 
+876	Not if there were unexpected maintenance with his plane . 	Mitte siis , kui ta lennuk on ootamatult hoolduses . 
+877	It would have to be a 747 . 	Kuid see peab olema 747 . 
+878	- Why 's that ? 	Miks nii ? 
+879	On a 747 , the pilot 's up top ... 	Sest 747 's asub piloot üleval 
+880	the first-class cabin 's in the nose , so no one would walk through . 	ja äriklassi kabiinid asuvad ninas . 
+881	You 'd have to buy out the entire cabin and the first-class flight attendant . 	Keegi ei jaluta sealt läbi . Kuid selleks on vaja terve kabiin välja osta ja esimese klassi lend . 
+882	I bought the airline . 	Ma ostsin lennufirma ära . 
+883	It seemed neater . 	Ma ostsin lennufirma ära . 
+884	Well , looks like we have our 10 hours . 	Tundub , et meie 10 tundi on olemas . 
+885	Ariadne ? 	Ariadne , suurepärane töö . 
+886	Terrific work , by the way . 	
+887	You know how to find me . 	Sa tead , kuidas mind leida . 
+888	You know what you have to do . 	Sa tead , kuidas mind leida . 
+889	You remember when you asked me to marry you ? 	Kas mäletad , kui palusid mind endale naiseks ? 
+890	Of course I do . 	Muidugi mäletan . 
+891	You said you had a dream . 	Muidugi mäletan . 
+892	That we 'd grow old together . 	Me elame koos vanaks . 
+893	And we can . 	Seda me teemegi . 
+894	You should n't be here . 	Sa ei peaks siin olema . 
+895	Just wanted to see what kind of tests you 're doing on your own every night . 	Ma tahan näha , mis teste sa siin igal öösel üksi teed . 
+896	- This has nothing to do with you . 	Mida iganes , kuid see ei puutu sinusse . 
+897	- This has everything to do with me . 	See puutub täielikult minusse . 
+898	- You 've asked me to share dreams with you . 	Palusid mul endaga unenägusid jagada . 
+899	- Not these . 	Neid mitte . 
+900	These are my dreams . 	Need on minu unenäod . 
+901	Why do you do this to yourself ? 	Miks sa seda endale teed ? 
+902	It 's the only way I can still dream . 	Miks sa seda endale teed ? 
+903	Why is it so important to dream ? 	Miks unenägude nägemine nii oluline on ? 
+904	In my dreams , we 're still together . 	Miks unenägude nägemine nii oluline on ? 
+905	These are n't just dreams . 	Need pole pelgalt unenäod . 
+906	These are memories . 	Need on mälestused ja sa ütlesid , et neid ei tohi iial kasutada . 
+907	And you said never to use memories . 	
+908	I know I did . 	Tean , et ütlesin . 
+909	You 're trying to keep her alive . 	Üritad teda elus hoida . Sa ei saa tal minna lasta . Sa ei mõista . 
+910	You ca n't let her go . 	
+911	You do n't understand . 	Neid hetki ma kahetsen ning neid mälestusi üritan muuta . 
+912	These are moments I regret . 	Neid hetki ma kahetsen ning neid mälestusi üritan muuta . 
+913	They 're memories that I have to change . 	Neid hetki ma kahetsen ning neid mälestusi üritan muuta . 
+914	Well , what 's down there that you regret ? 	Mis seal all on , mida sa kahetsed ? 
+915	Listen , there 's only one thing you need to understand about me . 	On ainult üks asi , mida sa pead minu puhul mõistma . 
+916	This is your house ? 	On see sinu maja ? 
+917	Mine and Mal 's , yes . 	On see sinu maja ? 
+918	Where is she ? 	Kus ta on ? 
+919	She 's already gone . 	Kus ta on ? 
+920	That 's my son , James . 	See on mu poeg , James . 
+921	He 's digging for something , maybe a worm . 	See on mu poeg , James . 
+922	That 's Phillipa . 	See on Phillipa . 
+923	I thought about calling out to them ... 	Arvasin , et neid hüüdes pöörduvad nad ümber ja naeratavad 
+924	so they 'd turn and smile and I could see ... 	Arvasin , et neid hüüdes pöörduvad nad ümber ja naeratavad 
+925	those beautiful faces of theirs , but it 's all too late . 	ning näeksin nende kauneid nägusid . 
+926	Right now or never , Cobb . 	Nüüd või mitte iial , Cobb . 
+927	Then I start to panic . 	Siis sattusin paanikasse . 
+928	I realize I 'm gonna regret this moment ... 	Siis sattusin paanikasse . 
+929	that I need to see their faces one last time . 	Ma pean nende nägusid veel ühe korra nägema . 
+930	James ! 	James ! 
+931	Phillipa ! 	Phillipa ! 
+932	Come on in ! 	Tulge sisse ! 
+933	But the moment 's past . 	Kuid see hetk on möödas . 
+934	And whatever I do , I ca n't change this moment . 	Mida iganes ma ka ei tee , ei suuda ma seda hetke muuta . 
+935	As I m about to call out to them ... 	Tahan hakata neid hüüdma ja nendega koos põgeneda . 
+936	they run away . 	Tahan hakata neid hüüdma ja nendega koos põgeneda . 
+937	If I m ever gonna see their faces again , I 've gotta get back home . 	Kui tahan nende nägusid veel kunagi näha , pean tagasi koju minema . 
+938	The real world . 	Pärismaailma . 
+939	What are you doing here ? 	Mida sina siin teed ? 
+940	My name is -- 	Mida sina siin teed ? 
+941	I know who you are . 	Mu nimi on ... Ma tean , kes sa oled . Mida sa siin teed ? 
+942	What are you doing here ? 	
+943	I 'm just trying to understand . 	Ma üritan mõista . 
+944	How could you understand ? 	Ma üritan mõista . 
+945	Do you know what it is to be a lover ? 	Kas tead , mis tunne on kedagi armastada ? 
+946	To be half of a whole ? 	Olla tervikust pool ? 
+947	No . 	Olla tervikust pool ? 
+948	I 'll tell you a riddle . 	Ütlen sulle ühe mõistatuse . 
+949	You 're waiting for a train . 	Sa ootad rongi . 
+950	A train that will take you far away . 	Sa ootad rongi . 
+951	You know where you hope this train will take you ... 	Sa loodad teadvat , kuhu rong sind viima peaks . 
+952	but you do n't know for sure . 	Sa loodad teadvat , kuhu rong sind viima peaks . 
+953	But it does n't matter . 	Kuid see pole oluline . 
+954	How can it not matter to you where that train will take you ? 	Kuid see pole oluline . 
+955	Because you 'll be together . 	Kuidas see pole oluline sulle , kuhu rong sind viib ? Sest oleme alati koos . 
+956	How could you bring her here , Dom ? 	Kuidas sa võisid ta siia tuua , Dom ? 
+957	- What is this place ? 	Kus me oleme ? 
+958	This is a hotel suite where we used to spend our anniversary . 	See on hotelli sviit , kus me oma pulmapäeva tähistasime . 
+959	What happened here ? 	Mis siin juhtus ? 
+960	You promised ! 	Sa lubasid ! 
+961	You promised we 'd be together ! 	Lubasid , et oleme koos ! 
+962	Please , I need you to stay here just for now ! 	Palun sind . 
+963	You said we 'd be together ! 	Vajan , et oleksid praegu siin ! Ütlesid , et oleme koos ! Ütlesid , et elame koos vanaks ! 
+964	You said we 'd grow old together ! 	
+965	I 'll come back for you . 	Ma tulen su juurde tagasi . 
+966	I promise . 	Luban sulle . 
+967	Do you think you can just build a prison of memories to lock her in ? 	Kas arvad , et võid mälestuste jaoks vangla ehitada ja teda kinni hoida ? 
+968	Do you really think that that 's gonna contain her ? 	Arvad , et see peab teda tõesti kinni ? 
+969	It 's time . 	On aeg . 
+970	Maurice Fischer just died in Sydney . 	On aeg . 
+971	- When 's the funeral ? 	Millal matused on ? 
+972	- Thursday . 	Neljapäeval , Los Angeleses . 
+973	In Los Angeles . 	
+974	Robert should accompany the body no later than Tuesday . 	Robert peaks surnukeha hiljemalt teisipäeval ära saatma . 
+975	We should move . 	Peame liikuma . 
+976	All right . 	Olgu . 
+977	- Cobb , I m coming with you . 	Cobb , ma tulen teiega . 
+978	- I promised Miles . 	Lubasin Milesile , et ei tule . 
+979	No . 	
+980	The team needs someone who understands what you 're struggling with . 	Meeskond vajab kedagi , kes mõistab , mida sa läbi elad . 
+981	And it does n't have to be me ... 	See ei pea mina olema , 
+982	but then you have to show Arthur what I just saw . 	kuid siis pead näitama Arthurile , mida mina nägin . 
+983	Get us another seat on the plane . 	Hangi meile lennukis veel üks iste . 
+984	lf I get on this plane and you do n't honor our agreement ... 	Kui lähen sellele lennukile ja sa ei pea me kokkuleppest kinni , 
+985	when we land , I go to jail for the rest of my life . 	siis maandudes pannakse mind eluks ajaks vangi . 
+986	Complete the job en route ... 	Kui sa tööd ei lõpeta , olen hävinud . 
+987	I make one phone call from the plane ... 	Kui sa tööd ei lõpeta , olen hävinud . 
+988	you have no trouble getting through Immigration . 	Teen lennukist ühe kõne . Sul pole Immigratsiooniametist möödapääsemisel mingit probleemi . 
+989	- I m sorry . 	Vabandust . 
+990	- Oh , yeah , absolutely . 	Muidugi , minu viga . 
+991	Thank you . 	
+992	Excuse me , I think this is yours ? 	Vabandust , ma arvan , et see kuulub teile ? 
+993	You must have dropped it . 	Tundub , et pillasite maha . 
+994	Would you care for a drink ? 	Härrased , kas soovite midagi juua ? 
+995	Oh . 	Härrased , kas soovite midagi juua ? 
+996	Water , please . 	Vett , palun . 
+997	Oh , um , same , please . 	Mulle sama , palun . 
+998	Um ... 	
+999	Thank you . 	Tänan teid . 
+1000	You know , I could n't help but notice ... 	Ma ei suutnud märkamata jätta , kuid ega te pole juhtumisi Maurice Fischeriga seotud ? 
+1001	but you would n't happen to be related to the Maurice Fischer , would you ? 	Ma ei suutnud märkamata jätta , kuid ega te pole juhtumisi Maurice Fischeriga seotud ? 
+1002	Yes , he , um ... 	Jah , ta oli mu isa . 
+1003	He was my father . 	Jah , ta oli mu isa . 
+1004	Well , he was a very inspiring figure . 	Ta oli tõesti innustav tegelane . Mul on teie kaotuse pärast kahju . 
+1005	I 'm sorry for your loss . 	
+1006	- Here you go . 	Olge lahke . 
+1007	- Thank you . 	Tänan teid . 
+1008	Hey . 	Teie isa mälestuseks . 
+1009	To your father . 	Teie isa mälestuseks . 
+1010	May he rest in peace , huh ? 	Teie isa mälestuseks . 
+1011	- Could n't have peed before you went under ? 	Enne minekut kusel ei võinud ära käia ? Vabandust . 
+1012	- Sorry . 	
+1013	Bit too much free champagne before takeoff ? 	Kas libistasid enne lendu liialt šampust , Yusuf ? 
+1014	Ha , ha , bloody ha . 	Väga andekas . 
+1015	We know he 's gonna be looking for a taxi in this weather . 	Sellise ilmaga otsib ta kindlasti taksot . 
+1016	- Asshole ! 	Sitapea ! 
+1017	Hey , man , why do n't you try -- ? 	Miks sa ei võiks ... 
+1018	- Walk away . 	Kõnni eemale . 
+1019	Just have him ca -- I gotta go . 	Ma pean lõpetama . 
+1020	All right . 	Ma pean lõpetama . 
+1021	Taxi . 	Nägemiseni . 
+1022	Thank you . 	Takso ! 
+1023	All right , Third and Market . 	Hea küll , kolmanda ja Marketi nurgale . 
+1024	Snappy . 	Kiiresti . 
+1025	- What are you doing ? 	Mida sa teed ? Vabandust , arvasin , et see on vaba . See pole . 
+1026	- Sorry , I thought it was free . 	
+1027	- It s not . 	Võib-olla võiksime jagada . 
+1028	- Maybe we could share . 	Võib-olla mitte . 
+1029	Maybe not . 	Kas võiksite auto peatada ja selle ... 
+1030	Can you pull over and get this -- ? 	
+1031	Great . 	Tore . 
+1032	Come on . 	Tule ! 
+1033	There 's 500 in there . 	Siin on 500 ja rahakott ise on veel rohkem väärt . 
+1034	The wallet 's worth more than that . 	
+1035	You might at least drop me at my stop . 	Võiksite mu peatuses maha panna . 
+1036	I 'm afraid that it does n't -- 	Kardan , et see ... 
+1037	- Cover him ! 	Kata teda ! 
+1038	- Down ! 	Ei ! 
+1039	Down now ! 	Ei ! 
+1040	What the hell is going on ? 	Ei ! 
+1041	This was n't in the design . 	See pole minu loodud . 
+1042	Cobb ? 	Cobb ? 
+1043	Cobb ? 	Cobb ? 
+1044	Get him ! 	Anna talle ! 
+1045	Are you all right ? 	On kõik korras ? 
+1046	Yeah , I m okay . 	On kõik korras ? 
+1047	I 'm okay . 	Jah , minuga on kõik hästi . 
+1048	Fischer 's okay , unless he gets carsick . 	Fischeriga samuti , kui ta just autohaigeks ei jää . 
+1049	Saito ? 	Saito ? 
+1050	Get Fischer in the back room now . 	Vii Fischer kohe tagaruumi ! 
+1051	- Get him in the back room . 	Vii ta tagaruumi . 
+1052	Move . 	Mida kuradit ... 
+1053	- What the hell happened ? 	
+1054	Has he been shot ? 	Kas ta sai pihta ? 
+1055	Is he dying ? 	On ta suremas ? 
+1056	I do n't know . 	Ma ei tea . Jumal küll ! 
+1057	- Jesus Christ . 	
+1058	What happened to you ? 	Kus sina olid ? 
+1059	- Blocked by a freight train . 	Mis sinuga juhtus ? 
+1060	Why put a train in a downtown intersection ? 	Meile sõitis rong selga . Miks sa lasid rongi keset magistraali sõitma ? 
+1061	- I did n't . 	Ma ei lasknud . 
+1062	- Where 'd it come from ? 	Kust see siis tuli ? 
+1063	Why the hell were we ambushed ? 	Las ma küsin sinult . 
+1064	Those were not normal projections . 	Miks teid varitseti ? Need polnud tavalised projektsioonid . Need on treenitud , jumal küll ! 
+1065	They 'd been trained , for God 's sakes . 	
+1066	- How could he be trained ? 	Sul on õigus . 
+1067	- Fischer 's had an extractor ... 	Kuidas nad saavad olla treenitud ? 
+1068	teach his subconscious to defend itself , so his subconscious is militarized . 	Fischeril oli eraldaja , kes õpetas ta alateadvust end kaitsma . Tema alateadvus on nüüd militariseeritud . 
+1069	It should 've shown in the research . 	See oleks pidanud uurimisel välja tulema . 
+1070	Why the hell did n't it ? 	Vabandust . Miks see siis ei tulnud ? Rahune maha . 
+1071	- Calm down . 	
+1072	Do n't tell me to calm down ! 	Ära räägi mulle rahunemisest . 
+1073	This was your job , goddamn it ! 	Ära räägi mulle rahunemisest . 
+1074	This was your responsibility ! 	See oli sinu ülesanne , pagan võtaks ! 
+1075	You were meant to check Fischer 's background ! 	Sina vastutasid selle eest . 
+1076	- We are not prepared for this ! 	Pidid Fischeri tausta põhjalikult uurima ! Me pole sellise vägivalla jaoks valmistunud ! Oleme ennegi ennast kaitsva teadvusega tegelenud . 
+1077	- We have dealt with sub-security before ! 	
+1078	We 'll be more careful and we 're gonna be fine ! 	Oleme natuke ettevaatlikumad ja meiega ei juhtu midagi ! 
+1079	This was not a part of the plan ! 	See polnud meil plaanis ! 
+1080	He 's dying . 	See polnud meil plaanis ! 
+1081	Put him out his misery . 	See polnud meil plaanis ! 
+1082	- No , do n't do that ! 	Lõpetame ta kannatused . Ei ! Ära tee seda . 
+1083	Do n't do that . 	Mis lahti , Cobb ? 
+1084	- Cobb , hey , hey . 	Ära tee seda . 
+1085	He 's in agony . 	Ära tee seda . 
+1086	I m waking him up . 	Ta on agoonias . 
+1087	No . 	Ei , see ei ärata teda üles . 
+1088	It wo n't wake him up . 	Mida sa sellega öelda tahad ? 
+1089	What do you mean , it wo n't wake him up ? 	See ei ärata teda üles . 
+1090	When we die in a dream , we wake up . 	Kui sureme unenäos , ärkame üles . 
+1091	Not from this . 	Sellest mitte . 
+1092	We 're too heavily sedated to wake up that way . 	Sellest mitte . 
+1093	Right . 	Nii , mis juhtub , kui sureme ? 
+1094	So , what happens when we die ? 	Nii , mis juhtub , kui sureme ? 
+1095	- We drop into limbo . 	Nii , mis juhtub , kui sureme ? 
+1096	- Are you serious ? 	Me langeme vahetasemesse . 
+1097	- Limbo ? 	Tõsiselt räägid ? 
+1098	- Unconstructed dream space . 	Vahetasemesse ? 
+1099	What the hell is down there ? 	Ilma vormita unemaailm . 
+1100	- Just raw , infinite subconscious . 	Mis pagan seal veel asub ? 
+1101	Nothing is down there , except for what might have been left behind ... 	Lihtsalt tavaline lõputu alateadvus . Seal all pole mitte midagi . Välja arvatud see , mis on sinna jäetud ükskõik , kelle poolt , kes unenägu jagab 
+1102	by anyone sharing the dream who 's been trapped there before . 	ja kes on seal varem lõksus olnud , kelleks meie puhul oled ainult sina . 
+1103	Which , in our case , is just you . 	ja kes on seal varem lõksus olnud , kelleks meie puhul oled ainult sina . 
+1104	- How long could we be stuck ? 	Kui kauaks võime sinna jääda ? 
+1105	- Ca n't even think about ... 	Ma ei suuda leida viisi põgenemiseks , kuni uinuti toimib ... 
+1106	- ... 	Ma ei suuda leida viisi põgenemiseks , kuni uinuti toimib ... 
+1107	trying to escape until the sedation -- - How long ? 	Kui kaua , Yusuf ? 
+1108	Decades . 	Kui kaua , Yusuf ? 
+1109	It could be infinite . 	Kümneid aastaid . 
+1110	Ask him , he 's the one who 's been there . 	See võib olla lõputu . 
+1111	Let 's get him upstairs . 	Küsige tema käest , kes on seal olnud . 
+1112	Great . 	Suurepärane . 
+1113	Thank you . 	Suurepärane . 
+1114	So now we 're trapped in Fischer 's mind , battling his own private army . 	Nüüd oleme Fischeri mõistuses kinni ja võitleme tema eraarmeega 
+1115	And if we get killed ... 	ning surres oleme igaveseks vahetasemesse kadunud , 
+1116	we 'll be lost in limbo till our brains turn to scrambled egg , hmm ? 	kuni meie ajud munapudruks muutuvad ? 
+1117	Someone got first aid ? 	Kas leidsid esmaabikarbi ? 
+1118	- You knew these risks and did n't tell us ? 	Sa teadsid nendest riskidest ja meile ei rääkinud ? 
+1119	- There were n't meant to be risks . 	Mingeid riske ei pidanud olema , kuna ei teadnud , et satume tulevahetusse . 
+1120	- I did n't know we 'd be dealing with gunfire . 	Mingeid riske ei pidanud olema , kuna ei teadnud , et satume tulevahetusse . 
+1121	- You had no right . 	Sul polnud mingit õigust seda teha . 
+1122	This was the only way to go three layers deep . 	Sul polnud mingit õigust seda teha . 
+1123	You knew about this and went along with it ? 	Sina teadsid seda algusest peale ? 
+1124	I trusted him . 	Sina teadsid seda algusest peale ? 
+1125	When ? 	Ma usaldasin teda . Sa usaldasid teda ? Kas ta lubas sulle poole oma tulust ? 
+1126	When he promised you half his share ? 	
+1127	No . 	Ei , kogu tulu . 
+1128	His whole share . 	Pealegi ta ütles , et on seda varem teinud . 
+1129	Besides , he said he 'd done it before . 	
+1130	What , with Mal ? 	Sa oled seda Maliga teinud ? 
+1131	Because that worked so good ? 	Kas see läks nii kenasti ? 
+1132	That has nothing to do with it . 	Sel pole tollega mingid pistmist . 
+1133	I did what I had to to get to my children . 	Tegin seda , et oma laste juurde jõuda . 
+1134	You led us into a war zone with no way out ? 	Juhtisid meid sõjatsooni , millest puudub väljapääs . 
+1135	There is a way out . 	Väljapääs on olemas . 
+1136	We continue on with the job , and we do it as fast as possible ... 	Kui jätkame tööd ning teeme võimalikult kiiresti , 
+1137	and we get out using the kick , just like before . 	pääseme tõuke abil välja . 
+1138	Forget it . 	Täpselt , nagu varemgi . Unusta ära . Kui läheme sügavamale , on panused veelgi kõrgemad . 
+1139	We go any deeper , we just raise the stakes . 	
+1140	I am sitting this one out on this level . 	Mina jään sellest küll kõrvale , poisid . 
+1141	Fischer 's security is surrounding this place . 	Fischeri turvamehed piiravad praegu seda hoonet ümber . 
+1142	Ten hours of flight time is a week at this level . 	Kümme tundi lendamist tähendab sellel tasemel nädalat . 
+1143	That means each and every one of us will be killed . 	See tähendab , et igaüks meist saab surma . 
+1144	That I can guarantee you . 	Seda võin teile kinnitada . 
+1145	We have no other choice but to continue on and do it as fast as possible . 	Meil pole muud valikut , kui jätkata ja seda nii kiiresti kui võimalik . 
+1146	Downwards is the only way forwards . 	Alla minek on ainus tee edasi liikumiseks . 
+1147	Get ready . 	Seadke end valmis . 
+1148	You , come on . 	Seadke end valmis . 
+1149	Let 's go shake him up . 	Lähme hirmutame teda . 
+1150	I 'm insured against kidnapping for up to 10 million . 	Olen röövimiste vastu 10 miljoniga kindlustatud . 
+1151	- This should be very simple . 	See peaks olema väga lihtne . 
+1152	- Shut up ! 	Jää vait ! 
+1153	It wo n't be . 	Pole midagi lihtsat . 
+1154	In your father 's office , below the bookshelves ... 	Sinu isa kontoris asub raamaturiiuli all tema isiklik seif . 
+1155	is his personal safe . 	Sinu isa kontoris asub raamaturiiuli all tema isiklik seif . 
+1156	We need the combination . 	Me vajame kombinatsiooni . 
+1157	I do n't know any safe . 	Me vajame kombinatsiooni . 
+1158	That does n't mean you do n't know the combination . 	Ma ei tea mingist seifist . See ei tähenda , et sa kombinatsiooni ei teaks . 
+1159	Tell us what it is . 	Ütle meile , mis see on . 
+1160	I do n't know . 	Ütle meile , mis see on . 
+1161	We have it on good authority you do know . 	Me teame seda usaldusväärsest allikast . 
+1162	Yeah ? 	Jah ? 
+1163	Whose authority ? 	Kes see tunnistaja on ? 
+1164	- Five hundred dollars , this cost . 	See maksab 500 ? 
+1165	- What 's inside it ? 	Mis seal sees on ? 
+1166	Cash , cards , ID . 	Mis seal sees on ? 
+1167	And this . 	Sularaha , kaardid , isikutunnistus . 
+1168	Useful ? 	Kasulik ? 
+1169	Maybe . 	Kasulik ? 
+1170	You 're on . 	Võimalik . Sinu etteaste . Sul on üks tund aega . 
+1171	You 've got an hour . 	Üks tund ? 
+1172	An hour ? 	Üks tund ? 
+1173	I was supposed to have all night to crack this . 	Mul pidi olema terve öö aega harjutada . 
+1174	And Saito was n't supposed to be shot in the chest . 	Saito poleks pidanud kuuliga rindu saama . 
+1175	You 've got one hour , now get us something useful , please . 	Meil on üks tund . 
+1176	- What 's that ? 	Mis see on ? 
+1177	- Good authority . 	Tunnistaja . 
+1178	Uncle Peter . 	Onu Peter . 
+1179	Just make them stop . 	Palu neil see lõpetada . 
+1180	- The combination . 	Palu neil see lõpetada . 
+1181	- I do n't know it . 	Kombinatsioon . 
+1182	- Why does Browning say you do ? 	Ma ei tea seda . 
+1183	- I do n't know . 	Miks Browning ütleb , et tead ? 
+1184	Just let me talk to him and I ll find out . 	Ma ei tea . 
+1185	You have one hour . 	Sul on üks tund aega . 
+1186	Start talking . 	Hakake rääkima . 
+1187	You all right ? 	On sinuga kõik korras ? 
+1188	You okay ? 	On kõik korras ? 
+1189	Those bastards have had at me for two days . 	Need tõprad kiusasid mind 2 päeva . 
+1190	They have someone with access to your father 's office . 	Keegi neist pääseb su isa kontorile ligi ja nad üritavad tema seifi avada . 
+1191	- They 're trying to open his safe . 	Keegi neist pääseb su isa kontorile ligi ja nad üritavad tema seifi avada . 
+1192	- Yeah . 	Jah . 
+1193	They thought I 'd know the combination , but I do n't know it . 	Jah . 
+1194	- Yeah , well , neither do I , so ... 	Nad arvasid , et mina tean kombinatsiooni , kuid ei tea seda . Jah , mina samuti . Mida ? 
+1195	- What ? 	
+1196	Maurice told me that when he passed , you were the only one able to open it . 	Maurice ütles mulle , et pärast tema surma oled ainus , kes seda avada oskab . 
+1197	No , he never gave me any combination . 	Ta ei andnud mulle kunagi mingit kombinatsiooni . 
+1198	Maybe he did . 	Võib-olla andis . 
+1199	I mean , maybe you just did n't know it was a combination . 	Ehk sa lihtsalt ei teadnud , et see oli kombinatsioon . 
+1200	Well , what , then ? 	Mis siis ? 
+1201	I do n't know , some meaningful combination of numbers ... 	Ma ei tea . 
+1202	based on your experiences with Maurice . 	Mingi tähendusega numbrite kombinatsioon , mis on sinu kogemustega Maurice 'i osas seotud . 
+1203	We did n't have very many , uh , meaningful experiences together . 	Me pole kunagi midagi tähendusrikast koos teinud . 
+1204	Perhaps after your mother died . 	Võib-olla pärast su ema surma . 
+1205	After my mother died , you know what he told me ? 	Kas tead , mida ta pärast ema surma mulle ütles ? 
+1206	Robert , there 's really nothing to be said . 	Kas tead , mida ta pärast ema surma mulle ütles ? 
+1207		Kas tead , mida ta pärast ema surma mulle ütles ? 
+1208	Oh , well , he was bad with emotion . 	Ta polnud emotsioonide näitamises tugev . 
+1209	I was 11 , Uncle Peter . 	Ta polnud emotsioonide näitamises tugev . 
+1210	- How 's he doing ? 	Kuidas tal läheb ? 
+1211	- He 's in a lot of pain . 	Tal on tugevad valud . 
+1212	When we get down to the lower levels , the pain will be less intense . 	Kui madalamale tasemele lähme , muutub valu väiksemaks . 
+1213	And if he dies ? 	Kui ta sureb ? 
+1214	Worst-case scenario ? 	Kui ta sureb ? 
+1215	When he wakes up , his mind is completely gone . 	Kõige hullemal juhul on ärgates kogu ta mõistus kadunud . 
+1216	Cobb , I 'll still honor the arrangement . 	Cobb , pean endiselt kokkuleppest kinni . 
+1217	I appreciate that , Saito . 	Cobb , pean endiselt kokkuleppest kinni . 
+1218	But when you wake up , you wo n't even remember that we had an arrangement . 	Hindan seda , Saito . Aga kui sa ärkad , ei mäleta sa sellest kokkuleppest midagi . 
+1219	Limbo is gonna become your reality . 	Vahetase muutub sinu reaalsuseks . 
+1220	You 're gonna be lost down there so long that you 're gonna become an old man . 	Jääd sinna nii kauaks ekslema , kuni muutud vanaks meheks . 
+1221	Filled with regret ? 	Jääd sinna nii kauaks ekslema , kuni muutud vanaks meheks . 
+1222	Waiting to die alone . 	Täidetud kahetsusega ? 
+1223	No . 	Täidetud kahetsusega ? 
+1224	I 'll come back . 	Ei , ma tulen tagasi ja me oleme jälle koos elus . 
+1225	And we 'll be young men together again . 	Ei , ma tulen tagasi ja me oleme jälle koos elus . 
+1226	Breathe . 	Hinga . 
+1227	These people are gonna kill us if we do n't give them the combination . 	Need inimesed tapavad meid , kui ei anna neile kombinatsiooni . 
+1228	- They just wanna ransom us . 	Nad tahavad kõigest lunaraha . 
+1229	- I heard them . 	Ma kuulsin nende juttu . 
+1230	They 're gonna lock us in that van , and then drive it into the river . 	Nad topivad meid kaubikusse ja sõidavad selle jõkke . 
+1231	All right . 	Olgu , mis seal seifis asub ? 
+1232	What is in the safe ? 	Olgu , mis seal seifis asub ? 
+1233	Something for you . 	Olgu , mis seal seifis asub ? 
+1234	Maurice always said it was his most precious gift to you . 	Maurice rääkis alati , et sina oled ta parimaks kingituseks . 
+1235	- A will . 	Testament . Maurice testament on Port ja Dunni käes . 
+1236	- Maurice 's will is with Port and Dunn . 	
+1237	That 's an alternate . 	See on teine , mis asendab esimest , kui seda tahad . 
+1238	This would supersede the other if you want it to . 	See on teine , mis asendab esimest , kui seda tahad . 
+1239	It splits up the component businesses of Fischer Morrow . 	See jagab Fischer-Morrow tootmise kaheks 
+1240	It 'd be the end of the entire empire as we know it . 	ja teeb kogu impeeriumile lõpu peale . 
+1241	Destroying my whole inheritance ? 	Hävitab kogu mu päranduse . 
+1242	- Why would he suggest such a thing ? 	Hävitab kogu mu päranduse . 
+1243	- I just do n't know . 	Miks ta peaks midagi sellist soovima ? 
+1244	He loved you , Robert . 	Ma ei tea seda . 
+1245	In his own way . 	Omal viisil . 
+1246	In his own way . 	Omal viisil . 
+1247	At the end ... 	Lõpuks kutsus ta mind enda surivoodi juurde . 
+1248	he called me in to his deathbed . 	Lõpuks kutsus ta mind enda surivoodi juurde . 
+1249	He could barely speak . 	Ta suutis vaevu rääkida . 
+1250	But he took the trouble to tell me one last thing . 	Kuid ta võttis vaevaks mulle seda viimast asja öelda . 
+1251	He pulled me close . 	Ta tõmbas mind lähemale 
+1252	And I could only make out ... 	ja ma sain ainult ühest sõnast aru . 
+1253	one word . 	ja ma sain ainult ühest sõnast aru . 
+1254	Disappointed . 	Pettunud . 
+1255		
+1256	When were you in limbo ? 	Millal sa vahetasemes olid ? 
+1257	You might have the rest of the team convinced to carry on with this job . 	Sa võid küll olla ülejäänud tiimi veennud , et selle tööga jätkata , 
+1258	- But they do n't know the truth . 	kuid nad ei tea tõde . 
+1259	- Truth ? 	Millist tõde ? 
+1260	What truth ? 	
+1261	The truth that , at any minute , you might bring a freight train through the wall . 	Tõde , et iga hetk võid sa kaubarongi nähtavale tuua . 
+1262	The truth that Mal is bursting through your subconscious . 	Tõde , et Mal tungib läbi su alateadvuse . 
+1263	And the truth that , as we go deeper into Fischer ... 	Ja tõde , et sügavamale Fischerisse minnes 
+1264	we 're also going deeper into you . 	lähme ka sinus sügavamale . 
+1265	And I m not sure we 're gonna like what we find . 	Ja ma pole kindel , kas sealt leitav on meeldiv . 
+1266	We were working together . 	Töötasime koos ja uurisime unenäo võimalikkust teise unenäo sees . 
+1267	We were exploring the concept of a dream within a dream . 	Töötasime koos ja uurisime unenäo võimalikkust teise unenäo sees . 
+1268	I kept pushing things . 	Läksin asjadega muudkui sügavamale . 
+1269	I wanted to go deeper and deeper . 	Läksin asjadega muudkui sügavamale . 
+1270	I wanted to go further . 	Tahtsin aina kaugemale minna . 
+1271	I just did n't understand the concept that hours could turn into years down there ... 	Ma lihtsalt ei suutnud mõista ideed , et tundidest võivad saada seal aastad . 
+1272	that we could get trapped so deep ... 	Võime nii sügavale lõksu jääda , et kui me 
+1273	that when we wound up on the shore of our own subconscious ... 	oma alateadvuse piirile maabume , kaotame sideme sellega , mis oli reaalne . 
+1274	we lost sight of what was real . 	oma alateadvuse piirile maabume , kaotame sideme sellega , mis oli reaalne . 
+1275	We created . 	Me lõime endile maailma . 
+1276	We built the world for ourselves . 	
+1277	We did that for years . 	Tegime seda aastaid . 
+1278	We built our own world . 	Tegime seda aastaid . 
+1279	How long were you stuck there ? 	Kaua te seal lõksus olite ? 
+1280	Something like 50 years . 	Kaua te seal lõksus olite ? 
+1281	Jesus . 	Jumal küll . 
+1282	How could you stand it ? 	Jumal küll . 
+1283	It was n't so bad at first , feeling like gods . 	Kuidas te küll vastu pidasite ? Algul polnud sellel vigagi . Tundsime end kui jumalad . 
+1284	The problem was knowing that none of it was real . 	Probleem seisnes teadmises , et mitte midagi sellest pole päris . 
+1285	Eventually , it just became impossible for me to live like that . 	Lõpuks muutus selline elu minu jaoks võimatuks . 
+1286	And what about for her ? 	Aga tema jaoks ? 
+1287	She had locked something away , something deep inside her . 	Ta oli midagi sügavale endasse peitnud . 
+1288	A truth that she had once known , but chose to forget . 	See oli tõde , mida ta kord teadis , kuid otsustas unustada . 
+1289	Limbo became her reality . 	Vahetasemest sai tema reaalsus . 
+1290	What happened when you woke up ? 	Mis juhtus , kui üles ärkasite ? 
+1291	Well , to wake up from that after years , after decades ... 	Pärast aastakümnete möödumist üles ärgata 
+1292	to become old souls thrown back into youth like that ? 	ja asetades vanad hinged taas noortesse kehadesse ... 
+1293	I knew something was wrong with her . 	Ma teadsin , et tal oli midagi viga . 
+1294	She just would n't admit it . 	Ta lihtsalt ei tunnistanud seda . 
+1295	Eventually , she told me the truth . 	Lõpuks rääkis ta mulle tõtt . 
+1296	She was possessed by an idea . 	Lõpuks rääkis ta mulle tõtt . 
+1297	This one very simple idea that changed everything . 	Teda vaevas üks idee . Lihtne idee , mis muutis kõike . 
+1298	That our world was n't real . 	Meie maailm polnud päris . 
+1299	That she needed to wake up to come back to reality ... 	Ta pidi reaalsusesse naasmiseks üles ärkama . 
+1300	that in order to get back home ... 	Koju saamiseks tuli enesetapp sooritada . 
+1301	we had to kill ourselves . 	Koju saamiseks tuli enesetapp sooritada . 
+1302	- What about your children ? 	Aga teie lapsed ? 
+1303	- She thought they were projections ... 	Ta pidas neid projektsioonideks 
+1304	that our real children were waiting for us up there somewhere . 	ning meie päris lapsed ootavad meid kusagil . 
+1305	- I m their mother ! 	Cobb , ma olen nende ema ! 
+1306	- Calm down . 	Rahune maha ! 
+1307	I can tell the difference . 	Kas sa suudad sellel üldse vahet teha ? 
+1308	If this is my dream , why ca n't I control this ? 	Miks ma seda siis kontrollida ei saa , kui see minu unenägu on ? 
+1309	You do n't know you 're dreaming ! 	Sest sa ei tea , et und näed ! 
+1310	She was certain there was nothing I could do ... 	Ta oli kindel , et ma ei saa midagi ette võtta , 
+1311	no matter how much I begged , no matter how much I pleaded . 	kui palju ma ka ei palunud ega anunud . 
+1312	She wanted to do it , but she could not do it alone . 	Ta tahtis seda teha , kuid mitte üksi . 
+1313	She loved me too much , so she came up with a plan on our anniversary . 	Ta armastas mind väga ja tuli meie pulma-aastapäeval lagedale plaaniga . 
+1314	- Sweetheart , what are you doing ? 	Kallis , mida sa teed ? 
+1315	- Join me . 	Ühine minuga . 
+1316	Just -- Just step back inside . 	Astu tagasi tuppa nüüd . 
+1317	All right ? 	
+1318	Just step back inside now , come on . 	
+1319	No . 	Ei . 
+1320	I 'm going to jump , and you 're coming with me . 	Ei . 
+1321	No , I 'm not . 	Ei . 
+1322	Now , you listen to me . 	
+1323	If you jump , you 're not gonna wake up , remember ? 	Kui hüppad , ei ärka sa enam üles , mäletad ? 
+1324	You 're gonna die . 	Sa saaksid surma . 
+1325	Now , just step back inside . 	Sa saaksid surma . 
+1326	Come on . 	Sa saaksid surma . 
+1327	Step back inside so we can talk about this . 	Astu tagasi tuppa , et saaksime asja arutada . 
+1328	We 've talked enough . 	Oleme juba küllalt arutanud . 
+1329	- Mal . 	Mal . 
+1330	- Come out onto the ledge ... 	Mal . 
+1331	- ... 	Mal . 
+1332	or I ll jump right now . 	Tule välja või ma hüppan kohe alla . Olgu . 
+1333	- Okay . 	
+1334	We 're gonna talk about this . 	Me arutame asja , sobib ? 
+1335	All right ? 	Me arutame asja , sobib ? 
+1336	- I m asking you to take a leap of faith . 	Ma palun sul sellesse uskuda . 
+1337	- No , honey . 	Ei , kallis . 
+1338	No , I ca n't . 	Ma ei saa seda teha . 
+1339	You know I ca n't do that . 	
+1340	Take a second , think about our children . 	Mõtle hetkeks oma laste peale . 
+1341	Think about James . 	Mõtle Jamesi ja Phillipa peale . 
+1342	Think about Phillipa , now . 	Mõtle Jamesi ja Phillipa peale . 
+1343	If I go without you , they 'll take them away anyway . 	Kui hüppan ilma sinuta , võetakse nad sinult niikuinii ära . 
+1344	- What does that mean ? 	Mis mõttes ? Saatsin meie advokaadile kirja , 
+1345	- I filed a letter with our attorney ... 	
+1346	explaining how I 'm fearful for my safety . 	milles kirjeldasin hirmu enda ohutuse osas . 
+1347	How you 've threatened to kill me . 	Seda , kuidas ähvardasid mind tappa . 
+1348	- Why did you do this ? 	Miks sa seda tegid ? 
+1349	- I love you , Dom . 	Ma armastan sind , Dom . 
+1350	Why did -- ? 	Miks sa mulle seda tegid ? 
+1351	Why would you do this to me ? 	
+1352	I 've freed you from the guilt of choosing to leave them . 	Vabastasin sind nende maha jätmise süütundest . 
+1353	We 're going home to our real children . 	Me lähme koju oma päris laste juurde . 
+1354	Oh , no , no , no , Mal , you listen to me , all right ? 	Ei , Mal , kuula mind . 
+1355	Mal , look at me , please ? 	Mal , palun vaata mulle otsa ! 
+1356	You 're waiting for a train . 	Sa ootad rongi . 
+1357	- Mal , goddamn it , do n't do this ! 	Mal , kurat võtaks , ära tee seda ! 
+1358	- A train that will take you far away . 	Rongi , mis su ära viib . 
+1359	James and Phillipa are waiting for you ! 	James ja Phillipa ootavad sind ! 
+1360	You know where you hope this train will take you , but you ca n't know for sure . 	James ja Phillipa ootavad sind ! 
+1361	- Mal , look at me ! 	Nad ootavad meid ! Kuid sa pole päris kindel . Mal , vaata mulle otsa ! 
+1362	- But it does n't matter . 	Kuid see pole oluline . 
+1363	- Mal , goddamn it ! 	Mal , kurat võtaks ! 
+1364	Mal , listen to me ! 	Sest oleme alati koos . 
+1365	- Because you 'll be together . 	
+1366	Sweetheart ! 	Kallis , vaata mulle otsa ! 
+1367	Look at me ! 	Mal , ei ! 
+1368	Mal , no ! 	Mal , ei ! 
+1369	Jesus Christ ! 	Mal , ei ! 
+1370	She had herself declared sane by three different psychiatrists . 	Kolm erinevat psühhiaatrit kuulutasid ta terve mõistusega inimeseks . 
+1371	It made it impossible for me to try to explain the nature of her madness . 	See muutis võimatuks üritada mul selgitada tema hullust . 
+1372	So I ran . 	Seega ma põgenesin . 
+1373	Right now , or never , Cobb . 	Nüüd või mitte iial , Cobb . 
+1374	James ! 	Olgu , lähme . 
+1375	Phillipa ! 	
+1376	Come on in ! 	
+1377	Come on ! 	
+1378	All right , let 's go . 	
+1379	I left my children behind and I 've been trying to buy my way back ever since . 	Jätsin oma lapsed maha ja olen üritanud siiani tagasi pääseda . 
+1380	Your guilt defines her . 	Sinu süü määratleb ja teeb teda tugevamaks . 
+1381	It 's what powers her . 	
+1382	But you are not responsible for the idea that destroyed her . 	Kuid sa pole teda hukutanud idee pärast vastutav . 
+1383	And if we are gonna succeed in this ... 	Kui tahame selles edukad olla , 
+1384	you have to forgive yourself , and you 're gonna have to confront her . 	pead endale andestama ja talle vastu seisma . 
+1385	But you do n't have to do that alone . 	Sa ei pea seda üksi tegema . 
+1386	- No , you 're not ... 	Ei , ei ... 
+1387	- I m doing it for the others . 	Teen seda teiste heaks . 
+1388	Because they have no idea the risk they 've taken coming down here with you . 	Sest neil pole aimugi riskist , mille nad sinuga siia tulles võtsid . 
+1389	We have to move . 	Me peame liikuma . 
+1390	Time 's up . 	Aeg sai läbi . 
+1391	All right . 	Aeg sai läbi . 
+1392	I do n't know any combination . 	Olgu . 
+1393	- Not consciously , anyway . 	Vähemalt teadlikult mitte . 
+1394	- How about instinctively , huh ? 	Aga ehk siis vaistlikult ? 
+1395	I got somebody in your father 's office right now ready to tap in the combination . 	Mul on keegi praegu seismas sinu isa kontoris ja valmis kombinatsiooni sisestama . 
+1396	Give me the first six numbers that come to your head right now . 	Ütle esimesed kuus numbrit , mis sulle hetkel pähe tulevad . 
+1397	- I have no idea . 	Pole aimugi . 
+1398	- Right now ! 	Kohe praegu ! 
+1399	I said , right now ! 	Kohe praegu ! 
+1400	Right now ! 	Kohe praegu ! 
+1401	Five , two , eight , four , nine , one . 	Kohe praegu ! 
+1402	You 'll have to do better than that . 	Pead paremaks suuteline olema . 
+1403	All right . 	Olgu . 
+1404	Bag them . 	Pane neile kott pähe . 
+1405	You 're going for a ride . 	Me lähme sõitma . 
+1406	We 're worth more to you alive . 	Me oleme elusana rohkem väärt . 
+1407	You hear me ? 	Kas kuulete ? 
+1408	What 'd you get ? 	Mida sa teada said ? 
+1409	Relationship with his father is worse than we imagined . 	Selle poisi suhe isaga on arvatust veel hullem . 
+1410	This helps us how ? 	Kuidas see meid aitab ? 
+1411	The stronger the issues , the more powerful the catharsis . 	Mida tugevamad on probleemid , seda võimsam katarsis . 
+1412	- How are we gonna reconcile them ? 	Kuidas kavatsed lepitust otsida ja tema tugevustele rõhuda ? 
+1413	- I m working on that . 	Ma tegelen veel sellega , mõistad ? 
+1414	Work faster . 	Tegutse kiiremini . Projektsioonid lähenevad kiiresti . 
+1415	The projections are closing in quick . 	
+1416	We gotta break out of here before we 're totally boxed in . 	Peame siit enne välja saama , kuni täielikult lõksus oleme . 
+1417	Damn it . 	Neetud . 
+1418	You must n't be afraid to dream a little bigger , darling . 	Kallike , võiksid veidi rohkem oma fantaasial lennata lasta . 
+1419	We need to shift his animosity from his father to his godfather . 	Peame tema vaenulikkuse isalt ristiisale suunama . 
+1420	- Destroy his one positive relationship ? 	Hävitades ühe tema positiivsetest suhetest ? 
+1421	- No , repair his relationship with his father ... 	Ei , me parandame tema suhet oma isaga , paljastades ristiisa tõelise palge . 
+1422	whilst exposing his godfather 's true nature . 	Ei , me parandame tema suhet oma isaga , paljastades ristiisa tõelise palge . 
+1423	We should charge Fischer a lot more than Saito for this job . 	Peaksime Fischerilt suurema noosi võtma kui Saito käest . 
+1424	His security is gonna get worse as we go deeper . 	Aga tema turvamehed ? 
+1425	- I think we run with Mr . Charles . 	Sügavamale minnes läheb olukord hullemaks . Ei , me kasutame hr . Charlesi abi . Ei . 
+1426	- No . 	
+1427	Who 's Mr . Charles ? 	Kes tema veel on ? 
+1428	- Bad idea . 	Halb idee . 
+1429	The second we get into that hotel his security 's gonna be all over us . 	Kui hotelli jõuame ja Fischerile läheneme , 
+1430	We run with Mr . Charles like on the Stein job . 	on tema turvamehed meil kallal . 
+1431	- You 've done it before ? 	on tema turvamehed meil kallal . 
+1432	- Yeah , and it did n't work . 	Kasutame hr . Charlesi nii nagu Steini tööl . Olete seda varemgi teinud ? Jah , kuid see ei olnud tõhus . 
+1433	The subject realized he was dreaming and his subconscious tore us to pieces . 	Katsealune sai aru , et nägi und ja ta alateadvus rebis meid tükkideks . 
+1434	Excellent . 	Suurepärane . 
+1435	But you learned a lot , right ? 	Kuid te oled ju palju õppinud , eks ? 
+1436	- I need some kind of distraction . 	Vajan mingit tähelepanu kõrvalejuhtimist . 
+1437	- No problem . 	Vabalt . 
+1438	How about a lovely lady that I 've used before ? 	Vabalt . 
+1439	Listen to me . 	Kas armas daam sobib , keda varemgi kasutanud olen ? Sõida ettevaatlikult . Jah . 
+1440	You drive carefully , all right ? 	
+1441	Everything down there is gonna be unstable as hell . 	Sinna alla pääsemine on põrgulikult ebastabiilne . 
+1442	Do n't jump too soon . 	Ära liiga vara hüppa . 
+1443	We only got one shot at that kick . 	Meil on selle tõukega vaid üks võimalus . 
+1444	We gotta make it . 	
+1445	I 'll play the music to let you know it 's coming . 	Panen muusika mängima , et teaksite selle tulekust ning ülejäänud oleneb teist . 
+1446	The rest is on you . 	
+1447	- You ready ? 	Olete valmis ? 
+1448	- Ready ! 	Jah ! 
+1449	Sweet dreams . 	Magusaid unenägusid . 
+1450	Am I boring you ? 	Kas ma tüütan sind ? 
+1451	I was telling you my story . 	Rääkisin sulle oma loo . 
+1452	I guess it was n't to your liking . 	See polnud sulle vist meeltmööda . 
+1453	Um , I have a lot on my mind . 	Mul on palju mõttes . 
+1454	There goes Mr . Charles . 	Seal läheb hr . Charles . 
+1455	Mr . Fischer , right ? 	Hr . Fischer , on nii ? 
+1456	Pleasure to see you again . 	Rõõm teid jälle näha . 
+1457	Rod Green from marketing . 	Rod Green turundusest . 
+1458	I -- 	
+1459	Hmm . 	Ja teie olete ? 
+1460	- And you must be ? 	Ja teie olete ? 
+1461	- Leaving . 	Lahkumas . 
+1462	In case you get bored . 	Juhul , kui sul peaks igav hakkama . 
+1463	Must 've blown you off . 	Ta ei taha sinuga vist enam kohtuda . 
+1464	That is , unless her phone number really is only six digits . 	Kui need kuus numbrit tõepoolest telefoninumbrit ei tähenda . 
+1465	Funny way to make friends , someone stealing your wallet like that . 	Rahakoti varastamine on tõesti omapärane viis sõpru leida . 
+1466	Goddamn it . 	Pagan võtaks . 
+1467	The wallet alone is worth at least 500-- 	Rahakott üksi on juba väärt ... 
+1468	About 500 , right ? 	500 dollarit , eks ? 
+1469	Do n't worry about it . 	Ärge selle pärast muretse . 
+1470	My people are already on it as we speak . 	Mu töökaaslased juba tegelevad sellega . 
+1471	Who or what is Mr . Charles ? 	Kes või mis on hr . Charles ? 
+1472	It 's a gambit designed to turn Fischer against his own subconscious . 	Riskantne plaan , mis Fischeri tema enda alateadvuse vastu pööraks . 
+1473	And why do n't you approve ? 	Miks sina seda heaks ei kiida ? 
+1474	It involves telling the mark that he 's dreaming ... 	Sest see hõlmab talle rääkimist , et ta näeb und , 
+1475	which involves attracting a lot of attention to us . 	millega kaasneb suur tähelepanu meile . 
+1476	- Did n't Cobb say never to do that ? 	Nii et Cobbi arust ei suuda ta seda teha ? 
+1477	- Hmm . 	Nüüd sa siis märkasid , kui palju Cobb aega veedab , 
+1478	So now you 've noticed how much time ... 	Nüüd sa siis märkasid , kui palju Cobb aega veedab , 
+1479	Cobb spends doing things he says never to do . 	tehes asju , mida tema arust kunagi teha ei tohiks . 
+1480	Mr . Saito , can I have a moment ? 	Hr . Saito , kas saan teiega hetke rääkida ? 
+1481	- I m sorry , but ... 	Mul on kahju , aga ... 
+1482	- Hold on ! 	Oota ! 
+1483	Wait ! 	
+1484	You look a bit perkier . 	Näed hoopis kõbusam välja . 
+1485	Very amusing , Mr . Eames . 	Näed hoopis kõbusam välja . 
+1486	Turbulence on the plane ? 	Turbulents lennukis ? 
+1487	No , it 's much closer . 	Ei , see tuleb palju lähedamalt . 
+1488	That 's Yusuf 's driving . 	Ei , see tuleb palju lähedamalt . 
+1489	Um , I 'm sorry . 	Vabanda , kes te olitegi ? 
+1490	Who did you say you were ? 	Vabanda , kes te olitegi ? 
+1491	Rod Green from marketing . 	Vabanda , kes te olitegi ? 
+1492	But that 's not true at all , is it ? 	Kuid see pole üldsegi tõsi , ega ju ? 
+1493	My name is Mr . Charles . 	Mu nimi on hr . Charles . 
+1494	You remember me , do n't you ? 	Te mäletate mind , eks ju ? 
+1495	I 'm the head of your security down here . 	Ma olen teie siinne turvaülem . 
+1496	Get out on a different floor , keep moving . 	Välju liftist erineval korrusel ja liigu edasi . 
+1497	Dump the wallet . 	Viska rahakott maha . 
+1498	Security will be looking for that . 	Turvamehed hakkavad seda otsima . 
+1499	- Okay . 	Olgu . 
+1500	- We need to buy Cobb a little more time . 	Me peame Cobbile veidi rohkem aega võitma . 
+1501	Security , huh ? 	Turvaülem ? 
+1502	- You work for the hotel ? 	Töötad hotelli heaks ? 
+1503	- No , no . 	Ei . 
+1504	I specialize in a very specific type of security . 	Olen spetsialiseerinud millegi väga erilise turvamisele . 
+1505	Subconscious security . 	Olen spetsialiseerinud millegi väga erilise turvamisele . 
+1506	You 're talking about dreams ? 	Räägite unenägudest , eraldamisest ? 
+1507	Are you talking about , um , extraction ? 	Räägite unenägudest , eraldamisest ? 
+1508	I am here to protect you . 	Tulin teid kaitsma . 
+1509	Mr . Fischer , I m here to protect you in the event ... 	Hr . Fischer , tulin teid kaitsma juhuks , 
+1510	that someone tries to access your mind through your dreams . 	kui keegi üritab unenägude kaudu teie mõistusele ligi pääseda . 
+1511	You 're not safe here . 	Teil pole siin ohutu . 
+1512	They 're coming for you . 	Teil pole siin ohutu . 
+1513	Strange weather , is n't it ? 	Veider ilm , kas pole ? 
+1514	You feel that ? 	Kas tunnete seda ? 
+1515	What 's happening ? 	Kas tunnete seda ? 
+1516	Cobb 's drawing Fischer 's attention to the strangeness of the dream ... 	Mis toimub ? Cobb tõmbab Fischeri tähelepanu unenäo kummalisusele , 
+1517	which is making his subconscious look for the dreamer . 	mis suunab tema alateadvust une nägijale keskenduma . 
+1518	For me . 	Minule . 
+1519	Quick , give me a kiss . 	Kähku , anna musi . 
+1520	- They 're still looking at us . 	Nad vaatavad meid endiselt . 
+1521	- Yeah , it was worth a shot . 	Jah , kuid see oli katsetamist väärt . 
+1522	We should probably get out of here . 	Peaksime siit ilmselt lahkuma . 
+1523	You feel that ? 	Tunnete seda ? 
+1524	You 've actually been trained for this , Mr . Fischer . 	Teid on selleks tegelikult treenitud , hr . Fischer . 
+1525	Pay attention to the strangeness of the weather , the shift in gravity . 	Tähelepanu pöörama veidrale ilmale , muutlikule külgetõmbejõule . 
+1526	None of this is real . 	Mitte miski siinsest pole päris . 
+1527	You 're in a dream . 	Te olete unenäos . 
+1528	Now , the easiest way for you to test yourself ... 	Lihtsaim moodus teil praegu enda testimiseks 
+1529	is to try and remember how you arrived at this hotel . 	on üritada siia hotelli saabumist meenutada . 
+1530	Can you do that ? 	Suudate seda teha ? 
+1531	Yeah , I ... 	Ma ei ... 
+1532	No , breathe , breathe . 	Hingake . 
+1533	Remember your training . 	Tuletage oma treeningut meelde . 
+1534	Accept the fact that you 're in a dream , and I m here to protect you . 	Leppige sellega , et olete unenäos ja ma olen siin teid kaitsmas . Laske käia . 
+1535	Go on . 	
+1536	Mm-hm . 	
+1537	- You 're not real ? 	Sa pole päris ? 
+1538	- No . 	Ei . 
+1539	No . 	Olen teie alateadvuse projektsioon . 
+1540	I 'm a projection of your subconscious . 	
+1541	I was sent here to protect you in the event ... 	Mind saadeti siia teid kaitsma , kui eraldajad peaks teid uinutama . 
+1542	that extractors tried to pull you into a dream . 	Mind saadeti siia teid kaitsma , kui eraldajad peaks teid uinutama . 
+1543	And I believe that 's what 's going on right now , Mr . Fischer . 	Ma usun , et just seda nad praegu teevadki , hr . Fischer . 
+1544	Yeah . 	Hea küll . 
+1545	Okay . 	Hea küll . 
+1546	Okay . 	Hea küll . 
+1547	Can you get me out of here ? 	Kas saate mind siit ära toimetada ? 
+1548	Right away . 	Kas saate mind siit ära toimetada ? 
+1549	Follow me . 	Kohe , minu järel . 
+1550	Hold on a second . 	Püsi siin . 
+1551	Jesus Christ ! 	Issand jumal , mida sa teed ? 
+1552	What are you doing ? 	
+1553	These men were sent here to abduct you , all right ? 	Nad saadeti teid röövima . 
+1554	If you want my help , you have to remain calm . 	Peate rahu säilitama , kui mu abi soovite . 
+1555	I need you to work with me , Mr . Fischer . 	Peate minuga koostööd tegema , hr . Fischer . 
+1556	If this is a dream , I should just kill myself to wake up , right ? 	Kui see on unenägu , peaksin ma üles ärkamiseks end lihtsalt ära tapma , eks ? 
+1557	I would n't do that if I were you , Mr . Fischer . 	Mina seda teie asemel ei teeks , hr . Fischer . 
+1558	I believe they have you sedated , and if you pull that trigger ... 	Usun , et teid on uinutatud ja pärast tulistamist ei pruugi te enam ärgata . 
+1559	you may not wake up . 	Usun , et teid on uinutatud ja pärast tulistamist ei pruugi te enam ärgata . 
+1560	You may go into a further dream state . 	Võite langeda sügavamasse une- seisundisse . 
+1561	Now , you know what I 'm talking about . 	Te mõistate , millest jutt . 
+1562	You remember the training . 	Meenutage treeningut . 
+1563	Remember what I said to you . 	Meenutage treeningut . 
+1564	Give me the gun . 	Tuletage meelde , mida ma teile ütlesin . 
+1565	- This room should be directly below 528 ? 	See tuba peaks asuma täpselt toa nr 528 all ? 
+1566	- Yeah . 	Jah . 
+1567	Think , Mr . Fischer , think . 	Mõelge ometi , hr . Fischer , mida te mäletate ajast enne seda unenägu ? 
+1568	What do you remember from before this dream ? 	Mõelge ometi , hr . Fischer , mida te mäletate ajast enne seda unenägu ? 
+1569	There was , um , a lot of gunfire . 	Palju tulistamist oli ja vihma sadas . 
+1570	There was rain . 	Palju tulistamist oli ja vihma sadas . 
+1571	Uncle Peter . 	Onu Peter . 
+1572	- Oh , my God , we 've been kidnapped . 	Onu Peter . 
+1573	- Where were they holding you ? 	Issand , meid on röövitud . Kus nad teid hoidsid ? 
+1574	- They had us in the back of a van . 	Furgooni tagaosas . 
+1575	- That explains the gravity shifts . 	Sellepärast külgetõmbejõu muutused toimusidki . 
+1576	You 're in the back of a van . 	Te olete hetkel furgooni tagaosas . 
+1577	Keep going . 	Jätkake . 
+1578	It had something to do with , um ... 	Sel oli midagi pistmist ... 
+1579	Something to do with a safe . 	Sel oli midagi pistmist ... 
+1580	God , why is it so hard to remember ? 	Issand , miks seda nii raske meenutada on ? 
+1581	It 's like trying to remember a dream after you 've woken up . 	Sest see oleks nagu ärgates unenäo meenutamine , 
+1582	Listen , it takes years of practice . 	mis nõuab aastaid harjutamist . 
+1583	You and Browning have been pulled into this dream ... 	Teie olete koos Browninguga siia unenäkku tõmmatud , 
+1584	because they 're trying to steal something from your mind . 	kuna teie mõistusest üritatakse midagi varastada . 
+1585	I need you to focus and try and remember what that is . 	Peate keskenduma ja üritama meenutada , mida täpsemalt . 
+1586	What is it , Mr . Fischer ? 	Mis see on , hr . Fischer ? 
+1587	Think ! 	Mõelge ! 
+1588	A combination . 	Kombinatsioon . Nad käskisid mul öelda esimesed numbrid , mis pähe kargavad . 
+1589	They demanded the first numbers to pop into my head . 	
+1590	They 're trying to extract a number from your subconscious . 	Nad üritavad seda numbrit teie alateadvusest välja võtta . 
+1591	It can represent anything . 	See võib ükskõik , mida tähendada . 
+1592	We 're in a hotel right now . 	Me oleme hetkel hotellis . 
+1593	We should try hotel rooms . 	Peaksime hotellitube proovima . 
+1594	What was the number , Mr . Fischer ? 	Mis number see oli , hr . Fischer ? 
+1595	Try and remember for me . 	Proovige seda minu jaoks meelde tuletada . 
+1596	This is very important . 	See on väga oluline . 
+1597	Five . 	Viis . 
+1598	Five , two-- It was something , it was a long number . 	Viis , kaks ... 
+1599	That 's good . 	See oli pikk number . Algatuseks sellest piisab . 
+1600	We can start there . 	Viies korrus . 
+1601	Fifth floor . 	Viies korrus . 
+1602	Yep . 	Viies korrus . 
+1603	- So do you use a timer ? 	Selge . Kas sa kasutad taimerit ? Ei , pean ise otsustama . 
+1604	- No , I have to judge it for myself . 	
+1605	While you 're all asleep in 528 , I wait for Yusuf 's kick . 	Kui te kõik magate toas nr 528 , ootan mina Yusufi lööki . 
+1606	- Well , how will you know ? 	Kuidas sa sellest teada saad ? 
+1607	- His music warns me . 	Ta muusika on mulle hoiatuseks . 
+1608	And then when the van hits the barrier of the bridge , that should be unmistakable . 	Kui furgoon sillabarjääri tabab , on raske eksida . 
+1609	So we get a nice synchronized kick . 	Seega on tulemuseks kena sünkroonis tõuge . 
+1610	If it 's too soon , we wo n't get pulled out . 	Kui see juhtub liiga vara , ei pääse me välja . 
+1611	But if it 's too late , I wo n't be able to drop us . 	Kui liiga hilja , ei jõua ma teid alla lasta . 
+1612	- Well , why not ? 	Miks mitte ? 
+1613	- Because the van will be in freefall . 	Sest kaubik on siis vabalangemises . 
+1614	- Ca n't drop you without gravity . 	Sest kaubik on siis vabalangemises . 
+1615	- Right . 	Kaaluta olekus ei saa teid langetada . 
+1616	They 're with me . 	Nad on minuga . 
+1617	Go on . 	Lähme edasi . 
+1618	Mr . Charles . 	Hr . Charles . 
+1619	- Do you know what that is , Mr . Fischer ? 	Hr . Charles . 
+1620	- Yeah , I think so . 	Kas teate , mis see on , hr . Fischer ? 
+1621	They were trying to put you under . 	Vist küll , jah . 
+1622	- I m already under . 	Nad üritasid teid uinutada . Olengi juba uinutatud . Uuesti uinutada . 
+1623	- Under again . 	
+1624	What do you mean , a dream within a dream ? 	Mis mõttes ? 
+1625	Hey . 	Unenägu unenäos ? Näen , et olete muutunud . 
+1626	I see you 've changed . 	
+1627	I 'm sorry ? 	Kuidas palun ? 
+1628	Oh , I m sorry . 	Vabandust . 
+1629	I mistook you for a friend . 	Vabandust . 
+1630	Oh . 	Vabandust . 
+1631	Good-looking fellow , I m sure . 	Küllap on kena väljanägemisega sell . 
+1632	No , no , no . 	See on Fischeri projektsioon Browningust . 
+1633	That 's Fischer 's projection of Browning . 	See on Fischeri projektsioon Browningust . 
+1634	Let 's follow him and see how he behaves . 	See on Fischeri projektsioon Browningust . 
+1635	- Why ? 	Järgneme talle ja jälgime ta käitumist . Miks ? Sest tema käitumine näitaks meile , 
+1636	- Because how he acts will tell us ... 	
+1637	if Fischer is starting to suspect his motives the way we want him to . 	kas Fischer hakkab meie soovitud viisil tema motiivides kahtlema . 
+1638	Shh . 	kas Fischer hakkab meie soovitud viisil tema motiivides kahtlema . 
+1639	- Uncle Peter . 	Onu Peter . 
+1640	- You said you were kidnapped together ? 	Ütlesid , et teid rööviti koos ? 
+1641	Well , not exactly . 	Mitte päris . 
+1642	They already had him . 	Ta oli juba nende käes ja teda piinati . 
+1643	They were torturing him . 	
+1644	And you saw them torture him ? 	Kas nägite seda piinamist ? 
+1645	The kidnappers are working for you ? 	Röövijad töötavad sinu heaks ? 
+1646	Robert . 	Röövijad töötavad sinu heaks ? 
+1647	You 're trying to get that safe open ? 	Robert . Kas üritad seda seifi avada , et saaksid testamenti muuta ? 
+1648	To get the alternate will ? 	
+1649	Fischer Morrow has been my entire life . 	Fischer-Morrow on mu elutöö . 
+1650	I ca n't let you destroy it . 	Ma ei saa lasta sul seda hävitada . 
+1651	I 'm not gonna throw away my inheritance . 	Ma ei loobu oma pärandusest . 
+1652	I could n't let you rise to your father 's last taunt . 	Miks ma peaksin ? Ma ei saanud lasta sul sinu isa viimse mõnituse lõksu langeda . 
+1653	- What taunt ? 	Millise mõnituse ? 
+1654	- The will , Robert . 	Testament , Robert ! 
+1655	That will ? 	
+1656	That 's his last insult . 	Tema viimane solvang . 
+1657	A challenge for you to build something for yourself ... 	See on väljakutse midagi ise luua , 
+1658	by telling you you 're not worthy of his accomplishments . 	kuid ütleb samas , et sa pole tema vääriline järglane . 
+1659	- What , but that he was , um , disappointed ? 	Ta oli siis pettunud ? 
+1660	- I m sorry . 	Mul on kahju , kuid ta eksib . 
+1661	But he 's wrong . 	Mul on kahju , kuid ta eksib . 
+1662	You can build a better company than he ever did . 	Sa võid luua parema firma kui tema . 
+1663	Mr . Fischer ? 	Hr . Fischer , ta valetab . 
+1664	He 's lying . 	
+1665	- How do you know ? 	Kust te teate ? 
+1666	- Trust me , it 's what I do . 	Uskuge mind , see on mu eriala . 
+1667	He 's hiding something , and we need to find out what that is . 	Ta varjab midagi ja me peame teada saama , mis see on . 
+1668	I need you to do the same thing to him that he was going to do to you . 	Peate talle sama asja tegema , mida tema teile teha tahtis . 
+1669	We 'll enter his subconscious and find out what he does n't want you to know . 	Siseneme tema alateadvusesse ja uurime , mida ta teie eest varjab . 
+1670	All right . 	Olgu . 
+1671	He 's out . 	Ta magab . 
+1672	- Wait . 	
+1673	Whose subconscious are we going into exactly ? 	Kelle alateadvusesse me täpsemalt lähemegi ? 
+1674	We 're going into Fischer 's . 	Kelle alateadvusesse me täpsemalt lähemegi ? 
+1675	I told him it was Browning 's so he 'd be a part of our team . 	Fischeri omasse . Talle ütlesin , et siseneme Browningusse , et ta saaks olla osa meie tiimist . 
+1676	He 's gonna help us break into his own subconscious . 	Ta aitab meil enda alateadvusesse murda . 
+1677	That 's right . 	Just nii . 
+1678	Security 's gonna run you down hard . 	Turvamehed saavad sind kätte . 
+1679	And I will lead them on a merry chase . 	Turvamehed saavad sind kätte . 
+1680	- Just be back before the kick . 	Ma juhin nad valedele jälgedele . Ole löögi ajaks tagasi . Uneaeg , hr . Eames . 
+1681	- Go to sleep , Mr . Eames . 	
+1682	You good ? 	Oled kombes ? 
+1683	Hey . 	On kõik hästi ? 
+1684	You ready ? 	On kõik hästi ? 
+1685	Yes , yes . 	On kõik hästi ? 
+1686	I m fine . 	Jah , olen valmis . 
+1687	I m ready . 	
+1688	Cobb ? 	Cobb ? 
+1689	Cobb ? 	Cobb ? 
+1690	What 's down there ? 	Mis see seal on ? 
+1691	Hopefully , the truth we want Fischer to learn . 	Loodetavasti tõde , mida tahame , et Fischer õpiks . 
+1692	I mean , what 's down there for you ? 	Ma pean silmas , et mis seal sinu jaoks on ? 
+1693	Did you see that ? 	Kas seda nägite ? 
+1694	Eames , this is your dream . 	Eames , see on sinu unenägu . 
+1695	I need you to draw the security away from the complex , understand ? 	Tahan , et meelitaksid turvamehed kompleksist eemale , mõistad ? 
+1696	- Who guides Fischer in ? 	Kes Fischeri sisse juhatab ? 
+1697	- Not me . 	Mina küll mitte . 
+1698	If I know the route , everything could be compromised . 	Kui mina teaksin teed , seaks see kõik ohtu . 
+1699	- I designed the place . 	Mina kavandasin selle koha . 
+1700	- No , you 're with me . 	Sa tuled koos minuga . 
+1701	I could do it . 	Ma võin seda teha . 
+1702	All right . 	Olgu , anna talle teel kompleksi olukorrast ülevaade . 
+1703	Brief him on the route into the complex . 	
+1704	- Fischer , you 'll be going with him . 	Fischer , lähed koos temaga . 
+1705	- All right . 	Olgu . 
+1706	What about you ? 	Aga sina ise ? 
+1707	You keep this live . 	Aga sina ise ? 
+1708	I 'll be listening in the whole time . 	Hoia seda sees . 
+1709	The windows on that upper floor are big enough for me to cover you from that tower . 	Ma kuulan kogu aeg . Ülemise korruse aknad on piisavalt suured , et ma saaks teid sellest lõunatornist katta . 
+1710	You 're not coming in ? 	Kas näed seda ? 
+1711	In order to find out the truth about your father ... 	Jah . 
+1712	you 're gonna need to break into Browning 's mind on your own . 	pead omapäi Browningu mõistusesse tungima . 
+1713	Come on , Fischer ! 	Tule , Fischer ! 
+1714	- Sound the alarm ! 	Andke häire ! 
+1715	Sound the alarm ! 	
+1716	- Go , go , go ! 	
+1717	Move ! 	Eluga ! 
+1718	Go ! 	Sõida ! 
+1719	Sod it . 	Perse kõik ! 
+1720	I hope you 're ready . 	Loodetavasti on nad valmis . 
+1721	No , it 's too soon . 	Vara veel . 
+1722	Cobb , do you hear that ? 	Cobb , kas kuuled seda ? 
+1723	I first noticed it about 20 minutes ago , I thought it was the wind up here . 	Kuulsin seda esimest korda 20 minuti eest . 
+1724	Yeah , I hear it . 	Pidasin seda tuuleks . Jah , ma kuulen . See on muusika . 
+1725	It s music . 	
+1726	So , what do we do ? 	Mida me siis teeme ? 
+1727	We move fast . 	Mida me siis teeme ? 
+1728	Yusuf 's 10 seconds from the jump . 	Yusufu hüppab 10 sekundi pärast , 
+1729	Which gives Arthur three minutes . 	mis annab Arthurile 3 minutit . 
+1730	- Hey ! 	
+1731	- That 's him ! 	
+1732	- Which gives us what ? 	Kui palju aega meil on ? 
+1733	- Sixty minutes . 	60 minutit . 
+1734	- Can they make that route in an hour ? 	Kas nad suudavad selle raja alla tunniga läbida ? Nad peavad ikkagi alla keskväljale ronima . 
+1735	- They have to climb to the terrace . 	
+1736	Then they need a new route , a more direct route . 	Siis vajavad nad uut ja otsesemat marsruuti . 
+1737	It 's designed as a labyrinth . 	See on kavandatud labürindina . 
+1738	There must be access routes that cut through the maze . 	Peab olema koht , kust me saaks läbi labürindi minna , eks ? 
+1739	Eames ? 	Eames ? 
+1740	Did Eames add any features ? 	Kas Eames lisas mõne elemendi ? 
+1741	I do n't think I should tell you . 	Ma ei peaks sulle sellest vist rääkima . 
+1742	We do n't have time for this . 	Kui Mal teada saab ... Meil pole selleks aega . Kas ta lisas midagi ? 
+1743	Did he add anything ? 	
+1744	He added an air-duct system ... 	Ta lisas õhuventilatsioonisüsteemi , mille abil pääseb labürindist mööda . 
+1745	- ... 	Ta lisas õhuventilatsioonisüsteemi , mille abil pääseb labürindist mööda . 
+1746	that can cut through the maze . 	Tore . 
+1747	- Good . 	Selgita seda neile . 
+1748	Explain it to them . 	
+1749	Paradox . 	Paradoks . 
+1750	What was that ? 	Mis see oli ? 
+1751	- The kick . 	Mis see oli ? 
+1752	Cobb ! 	Mis see oli ? 
+1753	Cobb , did we miss it ? 	Tõuge . 
+1754	Yeah , we missed it . 	Cobb , kas magasime maha ? 
+1755	Man . 	Jah . 
+1756	Could n't someone have dreamt up a goddamn beach ? 	Kas keegi poleks võinud lihtsalt rannast und näha ? 
+1757	Huh ? 	
+1758	Uh-huh . 	
+1759	Well , what the hell do we do now ? 	Mida me nüüd siis teeme ? 
+1760	We finish the job before the next kick . 	Viime asja enne järgmist tõuget lõpuni . 
+1761	- What next kick ? 	Millist järgmist tõuget ? 
+1762	- When the van hits the water . 	Kui kaubik vette kukub . 
+1763	If you d like to make a call , please hang up and try again . 	Kui tahate helistada , pange toru hargile ja proovige uuesti . 
+1764	If you need help , hang up ... 	Kui te vajate abi ... 
+1765	How do I drop you without gravity ? 	Kuidas ma teid ilma gravitatsioonita kukutan ? 
+1766	Arthur has a couple minutes , and we have about 20 . 	Arthuril on paar minutit aega , meil on umbes 20 . 
+1767	You okay ? 	Oled kombes ? 
+1768	Run ! 	Liikuge baasi ! 
+1769	Turn around ! 	
+1770	Move to base ! 	
+1771	Move to base ! 	
+1772	Go , go , go ! 	
+1773	There 's something wrong . 	Midagi on mäda . 
+1774	They 're heading your way , like they know something . 	Midagi on mäda . 
+1775	Just buy us more time , all right ? 	Võida meile veel aega , eks ? 
+1776	- Come on ! 	Võida meile veel aega , eks ? 
+1777	- On my way . 	Tulge ! 
+1778	Come on ! 	Juba lähen . 
+1779	Move ! 	
+1780	All right . 	
+1781	Okay . 	See on eesruum seifikambri ees . 
+1782	That 's the antechamber outside the strong room . 	
+1783	- Does the strong room have windows ? 	Kas sellel seifikambril on ka aknaid ? Siis poleks see mingi seif . 
+1784	- It would n't be very strong if it did . 	
+1785	Let 's hope Fischer likes what he finds in there . 	Loodame , et Fischerile meeldib sealt leitav . 
+1786	- Are those projections his subconscious ? 	Kas need projektsioonid on osa tema alateadvusest ? Jah . 
+1787	- Yes . 	
+1788	- Are you destroying parts of his mind ? 	Kas sa hävitad need osad tema mõistusest ? Ei , need on kõigest projektsioonid . 
+1789	- No . 	
+1790	They 're just projections . 	
+1791	- We 're here . 	Jõudsime pärale . 
+1792	- You 're clear , but hurry . 	Õhk on puhas , kuid tehke kähku . 
+1793	There 's an entire army headed your way . 	Õhk on puhas , kuid tehke kähku . 
+1794	I 'm in . 	Oleme sees . 
+1795	There he is . 	
+1796	- There 's someone in there . 	Seal on veel keegi . 
+1797	- Fischer , it 's a trap . 	Fischer , see on lõks . 
+1798	Get out . 	Lahku sealt ! 
+1799	Come on . 	Natukene madalamale . 
+1800	Come on , a little lower . 	
+1801	Cobb . 	Cobb . 
+1802	No , she is not real . 	Cobb . 
+1803	How do you know that ? 	Cobb . 
+1804	She is just a projection . 	Naine on vaid projektsioon . 
+1805	Fischer . 	Fischer on päris ! 
+1806	Fischer is real . 	
+1807	Hello . 	Terekest . 
+1808	Eames ! 	Eames ! 
+1809	Eames , get to the antechamber now ! 	Sõida kohe eesruumi ! 
+1810	What happened ? 	Mis juhtus ? 
+1811	- Mal killed Fischer . 	Mal tappis Fischeri . 
+1812	I could n't shoot her . 	Ma ei suutnud teda tulistada . 
+1813	There 's no use in reviving him . 	Praegu pole enam teadvusele toomisest kasu . 
+1814	His mind 's already trapped down there . 	Ta mõistus on juba lõksu jäänud . 
+1815	It 's all over . 	Ta mõistus on juba lõksu jäänud . 
+1816	So that 's it , then ? 	Ongi kõik ? 
+1817	We failed ? 	Me ebaõnnestusime ? 
+1818	We 're done . 	Kõik . 
+1819	I 'm sorry . 	Mul on kahju . 
+1820	It 's not me that does n't get back to my family , is it ? 	Ega mina pole see , kes oma pere juurde tagasi ei pääse . 
+1821	Shame . 	Kahju , ma tahaks väga teada , mis seal juhtuma hakkab . 
+1822	I wanted to know what was gonna happen in there . 	Vannun , et oleksime hakkama saanud . 
+1823	I swear we had this . 	Vannun , et oleksime hakkama saanud . 
+1824	Let 's set the charges . 	Vannun , et oleksime hakkama saanud . 
+1825	No , there 's still another way . 	On veel ka teine võimalus . 
+1826	- We have to follow Fischer down there . 	Peame lihtsalt Fischerile sinna järgnema . Meil pole selleks aega . 
+1827	- Not enough time . 	
+1828	No , but there will be enough time down there . 	Kuid seal on piisavalt aega . 
+1829	And we will find him . 	Ja me leiame ta . 
+1830	Okay , as soon as Arthur 's music kicks in , just use the defibrillator to revive him . 	Kohe , kui muusika mängima hakkab , kasutage defibrillaatorit tema teadvusele toomiseks . 
+1831	We can give him his own kick down below . 	Unes võime talle oma tõuke anda . 
+1832	Look , you get him in there . 	Unes võime talle oma tõuke anda . 
+1833	As soon as the music ends , you blow up the hospital ... 	Viige ta sinna . Muusika lõppedes laske see haigla õhku 
+1834	and we all ride the kick back up the layers . 	ja me kõik pääseme tõuke järel kõikidest unenägudest . 
+1835	It 's worth a shot , if Saito can hold the guards off while I set the charges . 	Tasub proovida . Saito võib valvureid eemale hoida , kuniks ma lõhkekehasid paigaldan . 
+1836	Saito will never make it , will he ? 	Saito ei jää elama , ega ju ? 
+1837	- Cobb , come on . 	Cobb , ole nüüd ! 
+1838	We 've gotta try this . 	Peame seda proovima . 
+1839	- Go for it . 	Läki ! 
+1840	If you are not back before the kick , I am gone with or without you . 	Kui te enne tõuget tagasi pole , siis kaon ilma teieta . 
+1841	She 's right . 	Kui te enne tõuget tagasi pole , siis kaon ilma teieta . 
+1842	She 's right . 	Tal on õigus . 
+1843	Come on . 	
+1844	Let 's go . 	
+1845	Can I trust you to do what needs to happen here ? 	Kas ma saan sinu meelekindlust usaldada ? 
+1846	Mal 's gonna be down there . 	Kas ma saan sinu meelekindlust usaldada ? 
+1847	I know where to find her . 	Mal on ka seal . Ma tean , kust teda leida . Fischer on tema käes . 
+1848	She 'll have Fischer . 	
+1849	- How do you know ? 	Kust sa tead ? 
+1850	- Because she wants me to come after him . 	Ta tahab , et ma talle järgi läheks , ja seal temaga jälle koos oleks . 
+1851	She wants me back down there with her . 	Ta tahab , et ma talle järgi läheks , ja seal temaga jälle koos oleks . 
+1852	All right ? 	Oled kombes ? 
+1853	- This is your world ? 	See on sinu maailm ? 
+1854	- It was . 	Oli . 
+1855	And this is where she 'll be . 	Siin ta ongi . 
+1856	Come on . 	Tule . 
+1857	Saito . 	Saito ! 
+1858	Saito . 	
+1859	I need you to take care of Fischer while I go set some charges , okay ? 	Sa pead Fischeri eest hoolt kandma , kuni ma lõhkekehi paigaldan , eks ? 
+1860	No room for tourists on these jobs . 	Selliste tööotsade juures pole turistide jaoks ruumi . 
+1861	Do n't be silly . 	Ära räägi rumalusi . 
+1862	You built all this ? 	See kõik on teie ehitatud ? 
+1863	This is incredible . 	Uskumatu . 
+1864	We built for years . 	Ehitasime seda aastaid . 
+1865	Then we started in on the memories . 	Me alustasime mälestustega . 
+1866	This way . 	Siitkaudu . 
+1867	This was our neighborhood . 	See on meie naabruskond . 
+1868	Places from our past . 	See on meie naabruskond . 
+1869	That was our first apartment . 	See oli meie esimene korter ja siis kolisime sellesse hoonesse . 
+1870	Then we moved to that building right there . 	See oli meie esimene korter ja siis kolisime sellesse hoonesse . 
+1871	After Mal became pregnant , that became our home . 	Peale Mali rasestumist sai tollest meie kodu . 
+1872	You reconstructed all of this from memory ? 	Taastasite kõik selle mälestuste põhjal ? 
+1873	Like I told you , we had lots of time . 	Ma ütlesin , et meil oli palju aega . 
+1874	What is that ? 	Mis see on ? 
+1875	That 's the house Mal grew up in . 	Maja , kus Mal üles kasvas . 
+1876	- Well , will she be in there ? 	Kas ta on seal ? 
+1877	- No . 	Ei . 
+1878	Come on . 	Tule . 
+1879	We both wanted to live in a house , but we loved this type of building . 	Me mõlemad tahtsime majas elada , kuid meile meeldivad sellised hooned . 
+1880	In the real world , we 'd have to choose , but not here . 	Päris maailmas peaksime valima , kuid siin mitte . 
+1881	How are we gonna bring Fischer back ? 	Kuidas sa Fischeri tagasi tood ? 
+1882	We 're gonna have to come up with some kind of a kick . 	Pean mingisuguse tõukega lagedale tulema . 
+1883	What ? 	Millisega ? 
+1884	I 'm gonna improvise . 	Improviseerituga . 
+1885	Listen , there 's something you should know about me . 	Peaksid minu kohta midagi teadma . 
+1886	About inception . 	See puudutab sisendust . 
+1887	An idea is like a virus . 	Idee on nagu viirus . 
+1888	Resilient . 	Elujõuline . 
+1889	Highly contagious . 	Kergelt nakkav . 
+1890	And the smallest seed of an idea can grow . 	Idee väiksemgi seeme võib kasvada . 
+1891	It can grow to define ... 	See võib kasvada määravaks või sind hoopis hävitada . 
+1892	or destroy you . 	See võib kasvada määravaks või sind hoopis hävitada . 
+1893	The smallest idea , such as : 	Väiksemgi idee nagu : Sinu maailm pole päris . 
+1894	Your world is not real . 	Väiksemgi idee nagu : Sinu maailm pole päris . 
+1895		
+1896	Simple little thought that changes everything . 	Lihtne mõte , mis muudab kõike . 
+1897	So certain of your world . 	Nii kindel selles , et sinu maailm on reaalne . 
+1898	Of what 's real . 	
+1899	Do you think he is ? 	Kas ta on sinu arvates ? 
+1900	Or do you think he 's as lost as I was ? 	Või ta on sinu meelest sama segaduses , kui mina olin ? 
+1901	I know what 's real , Mal . 	Või ta on sinu meelest sama segaduses , kui mina olin ? 
+1902	No creeping doubts ? 	Häirivaid kahtlusi polegi ? 
+1903	Not feeling persecuted , Dom ? 	Sa ei tunnegi end tagakiusatuna , Dom ? 
+1904	Chased around the globe ... 	Üle maailma taga aetuna anonüümsete korporatsioonide ja politseijõudude poolt ? 
+1905	by anonymous corporations and police forces ... 	Üle maailma taga aetuna anonüümsete korporatsioonide ja politseijõudude poolt ? 
+1906	the way the projections persecute the dreamer ? 	Samamoodi nagu projektsioonid unenäo nägijat taga kiusavad ? 
+1907	Admit it . 	Tunnista seda . 
+1908	You do n't believe in one reality anymore . 	Sa ei usu enam ühte reaalsusesse . 
+1909	So choose . 	Nii et tee valik . 
+1910	Choose to be here . 	Nii et tee valik . 
+1911	Choose me . 	Vali siin olemise kasuks . 
+1912	You know what I have to do . 	Tead küll , mida tegema pean . 
+1913	I have to get back to our children because you left them . 	Tead küll , mida tegema pean . 
+1914	Because you left us . 	kuna sa jätsid nad maha . 
+1915	- You 're wrong . 	kuna sa jätsid nad maha . 
+1916	- I m not wrong . 	Jätsid meid maha . 
+1917	You 're confused . 	Üldsegi mitte . 
+1918	Our children are here . 	Meie lapsed on siin . 
+1919	And you 'd like to see their faces again , would n't you ? 	Sa tahaksid nende nägusid jälle näha , eks ? 
+1920	Yes , but I m gonna see them up above , Mal . 	Jah , kuid tahan seda üleval teha , Mal . 
+1921	Up above ? 	Üleval ? 
+1922	Listen to yourself . 	Kuula nüüd ennast . 
+1923	These are our children . 	Kuula nüüd ennast . 
+1924	Watch . 	Kuula nüüd ennast . 
+1925	James ? 	Need ongi meie lapsed . Vaata . James ? 
+1926	Phillipa ? 	Phillipa ? 
+1927	Do n't do this , Mal . 	Palun ära tee seda , Mal . 
+1928	Please . 	Nad pole minu lapsed . 
+1929	Those are n't my children . 	
+1930	You keep telling yourself that , but you do n't believe it . 	Sa aina kordad seda endale , kuid sa ei usu sellesse . 
+1931	- No , I know it . 	Ei , ma tean seda . 
+1932	- What if you 're wrong ? 	Aga kui sa eksid ? 
+1933	What if I 'm what 's real ? 	Äkki olen mina päris ? 
+1934	You keep telling yourself what you know . 	Sa kordad endale pidevalt seda , mida tead . 
+1935	But what do you believe ? 	Kuid mida sa usud ja tunned ? 
+1936	What do you feel ? 	
+1937	Guilt . 	Süütunnet . 
+1938	I feel guilt , Mal . 	Ma tunnen süüd , Mal . 
+1939	And no matter what I do , no matter how hopeless I am ... 	Mida iganes ma ka ei teeks , kui lootusetu ma ka poleks 
+1940	no matter how confused , that guilt is always there ... 	või kui segaduses , see süütunne on alati minus , 
+1941	reminding me of the truth . 	tuletades mulle tõde meelde . 
+1942	What truth ? 	tuletades mulle tõde meelde . 
+1943	That the idea that caused you to question your reality came from me . 	Idee , mis pani sind reaalsuses kahtlema , oli pärit minult . 
+1944	You planted the idea in my mind ? 	Sina panid mulle idee pähe ? 
+1945	What is she talking about ? 	Millest ta räägib ? 
+1946	The reason I knew inception was possible was because I did it to her first . 	Teadsin , et sisendus on võimalik , kuna katsetasin seda esimesena tema peal . 
+1947	- I did it to my own wife . 	Tegin seda oma naisele . 
+1948	- Why ? 	Miks ? 
+1949	We were lost in here . 	Olime siia eksinud . 
+1950	I knew we needed to escape , but she would n't accept it . 	Teadsin , et pidime põgenema ja ta poleks sellega nõus . 
+1951	She had locked something away , something deep inside . 	Ta oli midagi sügavale endasse peitnud . 
+1952	A truth that she had once known , but chose to forget . 	See oli tõde , mida ta kord teadis , kuid otsustas unustada . 
+1953	And she could n't break free . 	Ta ei suutnud end sellest lahti murda ... 
+1954	So I decided to search for it . 	Seega otsustasin seda otsida . 
+1955	I went deep into the recess of her mind and found that secret place . 	Läksin süvitsi tema mõistusesse ja leidsin selle salajase koha . 
+1956	And I broke in ... 	Murdsin sisse ja panin talle pähe idee . 
+1957	and I planted an idea . 	Murdsin sisse ja panin talle pähe idee . 
+1958	A simple little idea that would change everything . 	Lihtsa idee , mis muudaks kõike . 
+1959	That her world was n't real . 	Tema maailm polnud päris . 
+1960	That death was the only escape . 	Surm oli ainus pääsetee . 
+1961	You 're waiting for a train . 	Sa ootad rongi . 
+1962	A train that 'll take you far away . 	Rongi , mis su ära viib . 
+1963	You know where you hope this train will take you ... 	Sa loodad teadvat , kuhu rong sind viima peaks . 
+1964	but you ca n't know for sure . 	Kuid sa pole päris kindel ! 
+1965	Yet it does n't matter . 	Aga see pole oluline . 
+1966	- Now , tell me why ! 	Ütle , miks ? 
+1967	- Because you 'll be together ! 	Sest oleme alati koos . 
+1968	But I never knew that that idea would grow in her mind like a cancer ... 	Ma ei arvanud iial , et see idee kasvab temas kui kasvaja . 
+1969	that even after she woke ... 	Ma ei arvanud iial , et see idee kasvab temas kui kasvaja . 
+1970	That even after you came back to reality ... 	Isegi reaalsusesse tagasi tulles 
+1971	that you 'd continue to believe your world was n't real . 	jätkad sa uskumist , et su maailm polnud päris . 
+1972	That death was the only escape . 	Surm oli ainus pääsetee . 
+1973	Mal , no ! 	Mal , ei ! 
+1974	Jesus ! 	Jumal küll ! 
+1975	- You infected my mind . 	Sa nakatasid mu meelt . 
+1976	- I was trying to save you . 	Ma üritasin sind päästa . 
+1977	You betrayed me . 	Sa reetsid mu , kuid võid selle heastada . 
+1978	But you can make amends . 	Sa reetsid mu , kuid võid selle heastada . 
+1979	You can still keep your promise . 	Sa võid ikkagi oma lubadust pidada . 
+1980	We can still be together , right here ... 	Me võime alati siin koos olla . 
+1981	in the world we built together . 	Me võime alati siin koos olla . 
+1982	Cobb , we need to get Fischer . 	Cobb , me peame Fischeri kätte saama . 
+1983	You ca n't have him . 	Teda te ei saa . 
+1984	- lf I stay here , will you let him go ? 	Kas sa lased tal minna , kui mina siia jään ? 
+1985	- What are you talking about ? 	Millest sa räägid ? 
+1986	Fischer is on the porch . 	Fischer on välistrepil . 
+1987	- Go check he 's alive , Ariadne . 	Mine vaata , kas ta on elus , Ariadne . 
+1988	- Cobb , you ca n't do this . 	Cobb , sa ei tohi seda teha . 
+1989	Go check he 's alive right now . 	Mine ja vaata teda ! 
+1990	Do it . 	Kohe ! 
+1991	He 's here ! 	Ta on siin ja on aeg , kuid pead kohe siia tulema ! 
+1992	And it 's time , but you have to come now ! 	
+1993	You take Fischer with you , all right ? 	Võta Fischer endaga kaasa , eks ? 
+1994	- You ca n't stay here to be with her . 	Sa ei saa temaga siia jääda . 
+1995	I 'm not . 	Ma ei jäägi . 
+1996	Saito 's dead by now . 	Saito on praeguseks juba surnud . 
+1997	That means he 's down here somewhere . 	See tähendab , et ta on siin kusagil . Pean ta üles leidma . 
+1998	That means I have to find him . 	
+1999	I ca n't stay with her anymore , because she does n't exist . 	Ma ei saa tema juurde enam jääda , kuna teda pole olemas . 
+2000	I 'm the only thing you do believe in anymore . 	Olen ainus asi , millesse sa veel usud . 
+2001	No . 	Olen ainus asi , millesse sa veel usud . 
+2002	I wish . 	Ma soovin ... 
+2003	I wish more than anything , but ... 	Soovin seda enam , kui midagi muud ... 
+2004	I ca n't imagine you with all your complexity ... 	Kuid ma ei suuda sind kogu su keerukuses , täius- ja ebatäiuslikkuses ette kujutada . 
+2005	all your perfection , all your imperfection . 	Kuid ma ei suuda sind kogu su keerukuses , täius- ja ebatäiuslikkuses ette kujutada . 
+2006	- You all right ? 	On sinuga kõik korras ? 
+2007	- Yeah . 	
+2008	Look at you . 	Vaata ennast . 
+2009	You 're just a shade . 	Sa oled kõigest mu tegeliku naise vari . 
+2010	You 're just a shade of my real wife . 	
+2011	And you were the best that I could do , but ... 	Oled parim , milleks võimeline olen . 
+2012	I m sorry , you 're just not good enough . 	Anna andeks , kuid sa pole minu jaoks piisavalt hea . 
+2013	Does this feel real ? 	Kas see tundub sulle reaalne ? 
+2014	- What are you doing ? 	Mida sa teed ? 
+2015	- Improvising . 	Improviseerin . 
+2016	No , no , no ! 	Ei ! 
+2017	In there , now . 	Mine sinna ! 
+2018	Go , go , go . 	Kiiresti ! 
+2019	I was dis -- 	Pettunud . 
+2020	I was dis Disa -- 	Pettunud . 
+2021	- I know , Dad . 	Pettunud . Ma tean , isa . 
+2022	- Dis -- 	
+2023	I know you were disappointed ... 	Ma tean , et sa olid pettunud . 
+2024	I could n't be you . 	Ma tean , et sa olid pettunud . 
+2025	No . 	Ma ei suutnud olla sina . 
+2026	No , no , no . 	Ei ! 
+2027	I was disappointed ... 	Olin pettunud , et sa üritasid . 
+2028	that you tried . 	Olin pettunud , et sa üritasid . 
+2029	What ? 	
+2030	Come on , come on . 	Rutem . 
+2031	Dad ? 	Isa ? 
+2032	That 's the kick , Ariadne ! 	See ongi tõuge , Ariadne ! 
+2033	You have to go now ! 	Sa pead kohe minema ! 
+2034	Do n't lose yourself ! 	Ära pead kaota ! 
+2035	Find Saito and bring him back ! 	Otsi Saito üles ja too ta tagasi ! 
+2036	I will ! 	Ma teen seda ! 
+2037	You remember when you asked me to marry you ? 	Kas mäletad , kui palusid mind endale naiseks ? 
+2038	Yes . 	Kas mäletad , kui palusid mind endale naiseks ? 
+2039	You said you dreamt that we 'd grow old together . 	Jah . 
+2040	But we did . 	Me vananesimegi . 
+2041	We did . 	Nii läkski , kas sa ei mäleta ? 
+2042	You do n't remember ? 	
+2043	I miss you more than I can bear ... 	Ma igatsen sind üle kõige , 
+2044	but we had our time together . 	kuid meie aeg sai läbi . 
+2045	And I have to let you go . 	kuid meie aeg sai läbi . 
+2046	I have to let you go . 	Ma pean sul minna laskma . 
+2047	I 'm sorry , Robert . 	Mul on kahju , Robert . 
+2048	You know , the will means that Dad wanted me to be my own man ... 	Tead , isa tahtis testamendis , et ma oleks iseseisev mees , 
+2049	not just to live for him . 	mitte ei elaks tema jaoks . 
+2050	That 's what I m gonna do , Uncle Peter . 	Seda ma tegema hakkangi , onu Peter . 
+2051	What happened ? 	Mis juhtus ? 
+2052	- Cobb stayed . 	Cobb jäi sinna . 
+2053	- With Mal ? 	Koos Maliga ? 
+2054	No , to find Saito . 	Ei , et leida Saito . 
+2055	He 'll be lost . 	Ei , et leida Saito . 
+2056	No , he 'll be all right . 	Ei , temaga saab kõik korda . 
+2057	Have you come to kill me ? 	Kas tulid mind tapma ? 
+2058	I 'm waiting for someone . 	Ma ootan kedagi . 
+2059	Someone from a half-remembered dream . 	Kedagi pooleldi meenutatavast unenäost . 
+2060	Cobb ? 	Cobb ? 
+2061	Impossible . 	Cobb ? 
+2062	We were young men together . 	Võimatu . Me olime kunagi koos noored . 
+2063	I 'm an old man . 	Nüüd olen ma vana mees . 
+2064	Filled with regret . 	Täis kahetsust . 
+2065	Waiting to die alone . 	Ootan üksi suremist . 
+2066	I 've come back for you . 	Tulin sinu pärast tagasi , 
+2067	To remind you of something . 	et sulle midagi meenutada . 
+2068	Something you once knew . 	Midagi , mida sa kunagi teadsid . 
+2069	That this world is not real . 	See maailm pole päris . 
+2070	To convince me to honor our arrangement ? 	Tahad veenda mind meie kokkuleppest kinni pidama ? 
+2071	To take a leap of faith , yes . 	Jah , usaldada mind . 
+2072	Come back ... 	Tule tagasi , et saaksime koos jälle noored mehed olla . 
+2073	so we can be young men together again . 	Tule tagasi , et saaksime koos jälle noored mehed olla . 
+2074	Come back with me . 	Tule minuga tagasi . 
+2075	Come back . 	Tule minuga tagasi . 
+2076	Hot towel , sir ? 	Sooja käterätikut , söör ? 
+2077	We 'll be landing in Los Angeles in about 20 minutes . 	Me maandume Los Angeleses umbes 20 minuti pärast . 
+2078	Do you need immigration forms ? 	Kas vajate immigratsiooniblanketti ? 
+2079	Thank you . 	Aitäh . 
+2080	Hot towel , sir ? 	Sooja käterätikut , söör ? 
+2081	- No . 	Ei . Kas vajate immigratsiooniblanketti ? 
+2082	- Do you need immigration forms ? 	
+2083	Welcome home , Mr . Cobb . 	Tere tulemast koju , hr . Cobb . 
+2084	Thank you , sir . 	Tere tulemast koju , hr . Cobb . 
+2085	Welcome . 	Tere tulemast . 
+2086	This way . 	Tere tulemast . 
+2087	James ? 	James ? 
+2088	Phillipa ? 	Phillipa ? 
+2089	Look who 's here . 	Vaadake , kes tuli ! 
+2090	Hey . 	
+2091	- Hey , guys ! 	Tere , lapsed , kuidas teil läinud on ? 
+2092	Hey ! 	
+2093	How are you ? 	
+2094	- Daddy ! 	
+2095	Daddy ! 	
+2096	- Daddy ! 	Issi ! 
+2097	- How are you ? 	 
+2098	Look what I ve been building ! 	Vaata , mis ma ehitasin , issi ! 			
+2099	- What are you building ? 	Mida te seal ehitate ? 
+2100	- We 're building a house on the cliff ! 	Ehitame kaljule majakest ! 	
+2101	On the cliff ? 	Kaljule ? 
+2102	Come on , I want you to show me . 	Tahan , et näitaksite seda mulle . 
+2103	Can you show me ? 	Kas näitate ? 
+2104	- Let 's go . 	! 
+2105	- Come on , Daddy ! 	Tule , issi  	

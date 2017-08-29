@@ -1,0 +1,2105 @@
+1	Are you here to kill me ? 	คุณมานี่เพื่อฆ่าผมเหรอ 
+2	I know what this is . 	ผมรู้ว่านี่คืออะไร 
+3	I 've seen one before . 	ผมเคยเห็นมัน 
+4	Many , many years ago . 	เมื่อนานมากๆแล้ว 
+5	It belonged to a man I met in a half-remembered dream . 	มันเป็นของผู้ชายคนหนึ่งที่ผมพบ 
+6	A man possessed of some radical notions . 	ชายผู้เป็นเจ้าของความเชื่ออันสุดโต่ง 
+7	What is the most resilient parasite ? 	ปรสิตที่ตายยากที่สุดคืออะไร 
+8	A bacteria ? 	ปรสิตที่ตายยากที่สุดคืออะไร 
+9	A virus ? 	แบคทีเรีย 
+10	An intestinal worm ? 	หรือพยาธิในลำใส้? 
+11	Uh ... 	หรือพยาธิในลำใส้? 
+12	What Mr . Cobb is trying to say -- 	สิ่งที่คุณค็อบบ์พยายามพูดก็คือ... 
+13	An idea . 	สิ่งที่คุณค็อบบ์พยายามพูดก็คือ... 
+14	Resilient . 	ตายยากและแพร่ระบาดได้ง่าย 
+15	Highly contagious . 	
+16	Once an idea has taken hold of the brain , it 's almost impossible to eradicate . 	เมื่อความคิดเกาะอยู่ที่สมองไปแล้ว 
+17	An idea that is fully formed , fully understood , that sticks . 	ความคิดที่เติบโตเต็มที่ 
+18	Right in there somewhere . 	อยู่ในนี้ 
+19	For someone like you to steal ? 	อยู่ในนี้ 
+20	Yes . 	ซักที่หนึ่ง 
+21	In the dream state , your conscious defenses are lowered ... 	เพื่อให้คนอย่างคุณ เข้าไปขโมยหรือ? ใช่ 
+22	and that makes your thoughts vulnerable to theft . 	ในขณะฝัน 
+23	It 's called extraction . 	และทำให้ความคิดคุณง่ายที่จะถูกขโมย 
+24	Mr . Saito , we can train your subconscious to defend itself ... 	มันคือการโจรกรรมความคิด คุณไซโตะเราสามารถฝึก จิตใต้สำนึกให้ป้องกันตัวเองได้จาก 
+25	from even the most skilled extractor . 	ยอดนักโจรกรรมความคิด 
+26	How can you do that ? 	ยอดนักโจรกรรมความคิด 
+27	Because I am the most skilled extractor . 	คุณจะทำได้ยังไง? เพราะผมคือยอดนักโจรกรรมความคิด 
+28	I know how to search your mind and find your secrets . 	ผมรู้วิธีค้นจิตของคุณ 
+29	I know the tricks . 	และหาความลับของคุณ 
+30	And I can teach them to you , so that even when you 're asleep ... 	ผมรู้เทคนิด 
+31	your defense is never down . 	ผมสามารถสอนให้คุณได้ แม้แต่ตอนที่คุณหลับ กลไกป้องกันของคุณจะไม่หลับไปด้วย 
+32	Look , if you want my help , you 're gonna have to be completely open with me . 	แล้วถ้าคุณต้องการให้ผมช่วย 
+33	I need to know my way around your thoughts better than your wife ... 	ผมต้องการข้อมูลทั้งหมดเกี่ยวกับตัวคุณ ผมต้องรู้ทุกอย่างรอบตัวคุณ รู้มากกว่าเมียคุณ 
+34	better than your therapist , better than anyone . 	มากกว่านักบำบัดจิตของคุณ 
+35	If this is a dream , and you have a safe full of secrets ... 	และทุกๆคน ถ้านี่คือฝันของคุณ และคุณคงมีอะไรเป็นความลับ 
+36	I need to know what 's in that safe . 	ฉะนั้นผมต้องรู้ว่าอะไรอยู่ในนั้น 
+37	In order for this all to work , you need to completely let me in . 	และถ้าอยากให้งานนี้สำเร็จ 
+38	Enjoy your evening , gentlemen , as I consider your proposal . 	ทานมื้อค่ำให้อร่อยนะ 
+39	He knows . 	เขารู้ทันเรา 
+40	What 's going on up there ? 	ข้างบนเกิดอะไรขึ้น? 
+41	Saito knows . 	ไซโตะรู้ 
+42	He 's playing with us . 	เขาพยายามเล่นเกมกับเรา 
+43	Does n't matter . 	ก็ช่างซิ 
+44	I can get it here . 	ฉันเอามันมาได้แน่ 
+45	Trust me . 	เชื่อฉัน 
+46	The information is in the safe . 	ข้อมูลทั้งหมดอยู่ในเซฟนั้น 
+47	He looked right at it when I mentioned secrets . 	ข้อมูลทั้งหมดอยู่ในเซฟนั้น 
+48	What 's she doing here ? 	ข้อมูลทั้งหมดอยู่ในเซฟนั้น 
+49	Just head back to the room . 	นายกลับเข้าไปในงานแล้วกัน 
+50	All right ? 	เดี๋ยวทางนี้ฉันจัดการเอง 
+51	I 'll take care of this . 	
+52	Okay , make sure you do . 	โอเค 
+53	We 're here to work . 	จัดการให้เรียบร้อยซะ 
+54	If I jumped , would I survive ? 	ถ้าฉันโดด 
+55	With a clean dive , perhaps . 	ถ้ามีชูชีพคงรอด 
+56	Mal , what are you doing here ? 	ถ้ามีชูชีพคงรอด 
+57	I thought you might be missing me . 	มอล คุณมาทำอะไรที่นี่? ฉันคิดว่าบางทีคุณอาจคิดถึงฉันนะสิ 
+58	You know that I am . 	คุณรู้ดีว่าผมคิดถึงคุณ 
+59	But I ca n't trust you anymore . 	คุณรู้ดีว่าผมคิดถึงคุณ 
+60	So what ? 	แล้วไง? 
+61	Looks like Arthur 's taste . 	ดูเหมือนรสนิยมของอาเธอร์นะ 
+62	Actually , the subject is partial to postwar British painters . 	จริงๆแล้ว, 
+63	Please , have a seat . 	ช่วยนั่งลงก่อนสิ 
+64	Tell me ... 	บอกฉันสิ... 
+65	do the children miss me ? 	บอกฉันสิ... 
+66	You ca n't imagine . 	มากจนคุณคิดไม่ถึงเลยล่ะ 
+67	What are you doing ? 	คุณจะทำอะไรนะ 
+68	Just getting some fresh air . 	คุณจะทำอะไรนะ 
+69	Stay where you are , Mal . 	ออกไปสูดอากาศข้างนอก นั่งเฉยๆนะ มอล 
+70	Goddamn it . 	บ้าเอ้ย 
+71	Turn around . 	หันกลับมา 
+72	The gun , Dom . 	หันกลับมา 
+73	Please . 	วางซะ 
+74	Now the envelope , Mr . Cobb . 	แล้วส่งซองมาให้ผม 
+75	Did she tell you ? 	คุณค็อบบ์ เธอบอกคุณงั้นเหรอ? หรือคุณรู้มาตลอด 
+76	Or have you known all along ? 	
+77	That you 're here to steal from me , or that we are actually asleep ? 	รู้ว่าคุณมานี่เพื่อขโมยของจากผม 
+78	I want to know the name of your employer . 	ผมอยากรู้ว่า 
+79	Ah , there 's no use threatening him in a dream , right , Mal ? 	คุณรู้ใช่ไหมว่าการข่มขู่ในฝัน 
+80	That depends on what you 're threatening . 	มันไม่มีประโยชน์หรอกนะ 
+81	Killing him would just wake him up . 	มันขึ้นอยู่ว่าข่มขู่เรื่องอะไร 
+82	But pain ... 	มันขึ้นอยู่ว่าข่มขู่เรื่องอะไร 
+83	Pain is in the mind . 	ความเจ็บปวดมันอยู่ในจิต 
+84	And judging by the decor , we 're in your mind , are n't we , Arthur ? 	ความเจ็บปวดมันอยู่ในจิต 
+85	- What are you doing ? 	นายทำอะไร? 
+86	It 's too soon . 	มันเร็วไป 
+87	- But the dream 's collapsing . 	ฉันรู้ 
+88	I 'm gonna try to keep Saito under a little bit longer . 	แต่ความฝันกำลังถล่ม ฉันจะให้ไซโตะหลับนานอีกหน่อย เราเกือบได้แล้ว 
+89	We 're almost there . 	
+90	He was close . 	ที่นี่ 
+91	Very close . 	รูปภาพพวกนี้ 
+92	Stop him ! 	หยุดมันไว้! 
+93	This is n't gonna work . 	ให้เขาหลับต่อไม่ได้แล้ว 
+94	Wake him up . 	ปลุกเขาเลย! 
+95	He wo n't wake . 	เขาไม่ยอมตื่น 
+96	- Give him the kick . 	จัดการเขาสิ! 
+97	- What ? 	จัดการเขาสิ! 
+98	Dunk him . 	จัดการเขาสิ! 
+99	He 's out . 	เขากระโดด 
+100	You came prepared , hmm ? 	คุณเตรียมพร้อมมั้ย? 
+101	Not even my head of security knows this apartment . 	หัวหน้ารักษาความปลอดภัยของผม 
+102	How did you find it ? 	ยังหาที่นี่ไม่เจอ 
+103	It 's difficult for a man of your position to keep a love nest like this secret ... 	แล้วคุณเจอได้ยังไง? มันยากมากนะที่ผู้ชายอย่างคุณ จะซ่อนรังรักเป็นความลับได้ 
+104	particularly where there 's a married woman involved . 	โดยเฉพาะคนที่มาเกี่ยวข้องกับเมียของคนอื่น 
+105	- She would never ... 	เธอไม่บอกคุณหรอก... 
+106	- Yet here we are . 	แต่ทำไมเรามาได้ 
+107	- With a dilemma . 	อึ้งไปเลยละสิ 
+108	- They 're getting closer . 	พวกเขาใกล้เข้ามาแล้ว 
+109	- You got what you came for . 	พวกคุณได้ของที่ต้องการแล้ว 
+110	- Well , that 's not true . 	นั่นไม่จริงเลย 
+111	You left out a key piece of information , did n't you ? 	คุณเอาข้อมูลสำคัญออกไปแผ่นหนึ่งใช่มั้ย 
+112	You held something back because you knew what we were up to . 	คุณเก็บซ่อนเอาไว้เพราะคุณรู้ว่าเรามีแผน 
+113	- Question is , why 'd you let us in at all ? 	คำถามคือ 
+114	- An audition . 	ทำไมคุณให้เราเข้ามา 
+115	- An audition for what ? 	ผมอยากทดสอบ ทดสอบไปทำไม ไม่สำคัญแล้ว 
+116	- Does n't matter . 	เพราะคุณสอบตก 
+117	You failed . 	
+118	We extracted every bit of information you had in there . 	เราขโมยข้อมูลทุกอย่างที่คุณมีในสมอง 
+119	But your deception was obvious . 	แต่แผนคุณแตกมาตั้งนานแล้ว 
+120	- So leave me and go . 	เพราะงั้น... คุณควรปล่อยผมไปซะ 
+121	- You do n't seem to understand , Mr . Saito . 	คุณคงไม่เข้าใจนะ 
+122	That corporation that hired us , they wo n't accept failure . 	คุณคงไม่เข้าใจนะ 
+123	We wo n't last two days . 	พวกเขาไม่ยอมรับความผิดพลาด 
+124	Cobb ? 	ค็อบบ์ 
+125	Looks like I 'm gonna have to do this a little more simply . 	สงสัยคงต้องทำให้มันง่ายขึ้นอีกหน่อย 
+126	Tell us what you know ! 	บอกสิ่งที่คุณรู้มา! 
+127	Tell us what you know , now ! 	บอกสิ่งที่คุณรู้มาเดี๋ยวนี้! 
+128	I 've always hated this carpet . 	ผมล่ะเกลียดพรมห้องนี้มานานแล้ว 
+129	It 's stained and frayed in such distinctive ways . 	เพราะมันชอบเลอะรุ่ยออกมา 
+130	But very definitely made of wool . 	เพราะมันชอบเลอะรุ่ยออกมา 
+131	Right now ... 	เท่าที่ผมจำได้ มันทำมาจากขนสัตว์ แต่ตอนนี้... 
+132	I m lying on polyester . 	ผมนอนบนพรมเส้นใยสังเคราะห์ 
+133	Which means I m not lying on my carpet , in my apartment . 	นั่นแปลว่าผมไม่ได้อาศัย 
+134	You have lived up to your reputation , Mr . Cobb . 	คุณเก่งสมคำร่ำลือมาก, 
+135	I 'm still dreaming . 	คุณเก่งสมคำร่ำลือมาก, 
+136	- How 'd it go ? 	เป็นไงบ้าง? 
+137	- Not good . 	ไม่ค่อยดี 
+138	Dream within a dream , huh ? 	ความฝันในความฝันงั้นเหรอ 
+139	I 'm impressed . 	ผมประทับใจจัง 
+140	But in my dream , you play by my rules . 	แต่ในความฝันของผม 
+141	Ah , yes , but you see , Mr . Saito ... 	คุณต้องเล่นตามกฎของผม 
+142	We 're not in your dream . 	ใช่ 
+143	We 're in mine . 	แต่คุณไซโตะ... นี่ไม่ใช่ฝันคุณ เป็นของผม 
+144	Asshole . 	ปัญญาอ่อน 
+145	How do you mess up the carpet ? 	ทำพรมผิดได้ยังไง? 
+146	- It was n't my fault . 	อย่ามาโทษฉันนะ 
+147	- You 're the architect . 	ก็นายเป็นสถาปานิกนี่ 
+148	I did n't know he was gonna rub his cheek on it ! 	ฉันไม่รู้นี่หว่า 
+149	That 's enough . 	ฉันไม่รู้นี่หว่า 
+150	You . 	แล้วนายล่ะ, 
+151	What the hell was all that ? 	แล้วนายล่ะ, 
+152	- I have it under control . 	แล้วนายล่ะ, 
+153	- I 'd hate to see you out of control . 	ไปซ้อมเค้าทำบ้าอะไร? ฉันคุมอารมณ์อยู่น่า. ถ้าควบคุมไม่อยู่ 
+154	We do n't have time for this . 	จะขนาดไหน เราไม่มีเวลามาเถียงกันแล้วนะ ฉันจะลงที่เกียวโต 
+155	I 'm getting off at Kyoto . 	
+156	He 's not gonna check every compartment . 	ทำไม? 
+157	Yeah , well , I do n't like trains . 	เขาไม่เช็คทุกตู้โดยสารหรอก 
+158	Listen . 	ฉันไม่ชอบรถไฟ 
+159	Every man for himself . 	เอานี่ 
+160	Yes , hello ? 	ว่าไง 
+161	- Hi , Daddy . 	ว่าไง 
+162	- Hi , Dad . 	หวัดดีค่ะพ่อ หวัดดีฮะพ่อ.. 
+163	Hey , guys . 	ว่าไงลูก 
+164	Hey . 	เป็นยังไงบ้างสบายดีไหม 
+165	How are you ? 	หือ? 
+166	How you doing , huh ? 	
+167	- Good . 	ดีค่ะ 
+168	- Okay , I guess . 	โอเคมั้งฮะ 
+169	Okay ? 	โอเคงั้นเหรอ? 
+170	Who 's just okay ? 	นั่นใครพูดโอเค? 
+171	Is that you , James ? 	นั่นใครพูดโอเค? 
+172	Yeah . 	นั่นใครพูดโอเค? 
+173	When are you coming home , Dad ? 	ลูกใช่ไหม, 
+174	Well , I ca n't , sweetheart . 	ไม่ได้ลูก 
+175	I ca n't . 	ตอนนี้ไม่ได้ 
+176	Not for a while , remember ? 	ต้องอีกแป๊บนึง 
+177	Why ? 	ต้องอีกแป๊บนึง 
+178	Look , I told you , I m away because I m working , right ? 	ลืมแล้วเหรอ? ทำไมฮะ? พ่อบอกแล้วพ่อมาไกล 
+179	Grandma says you 're never coming back . 	คุณย่าบอกว่าพ่อจะไม่กลับมา 
+180	Phillipa , is that you ? 	ฟิลิปป้า 
+181	Put Grandma on the phone for me , will you ? 	ฟิลิปป้า 
+182	She 's shaking her head . 	คุณย่าส่ายหน้าค่ะ 
+183	Well , just hope she 's wrong about that . 	ก็หวังว่าคงจะไม่เป็นอย่างที่พูดนะจ๊ะ 
+184	Daddy ? 	พ่อฮะ? 
+185	Yeah , James ? 	พ่อฮะ? 
+186	Is Mommy with you ? 	ว่าไงเจมส์? แม่อยู่กับพ่อหรือเปล่าฮะ? 
+187	James , we talked about this . 	เจมส์ 
+188	Mommy 's not here anymore . 	เจมส์ 
+189	Where ? 	แม่อยู่ไหนฮะ? 
+190	That 's enough , kids . 	พอแล้วจ๊ะเด็กๆ 
+191	Say bye-bye . 	บอกลาคุณพ่อซะ.. 
+192	Listen , I m gonna send some presents with Grandpa , all right ? 	ฟังนะ 
+193	And you be good , you be -- 	ฟังนะ 
+194	- Our ride 's on the roof . 	ฮ. 
+195	- Right . 	มารอที่ดาดฟ้า 
+196	Hey , are you okay ? 	นายโอเคมั้ย? 
+197	Yeah . 	นายโอเคมั้ย? 
+198	Yeah , I m fine . 	ไม่เป็นไร 
+199	Why ? 	ฉันสบายดี 
+200	Well , down in the dream , Mal showing up . 	ทำไม? 
+201	Look , I m , uh , sorry about your leg . 	ตอนอยู่ในฝันฉันเห็นมอล ขอโทษด้วยนะที่ขานายต้องเจ็บ มันจะไม่เกิดขึ้นอีก 
+202	Wo n't happen again . 	
+203	- It 's getting worse , is n't it ? 	มันแย่ลงเรื่อยๆใช่มั้ย? นายจะได้แต่คำขอโทษแค่นั้นแหละ อาเธอร์ 
+204	- One apology 's all you 're getting , all right ? 	
+205	- Where 's Nash ? 	แนชอยู่ไหน 
+206	- He has n't shown . 	เขายังไม่มา 
+207	You wanna wait ? 	นายจะรอมั้ย 
+208	We were supposed to deliver Saito 's expansion plans ... 	ไม่ 
+209	to Cobol Engineering two hours ago . 	ไม่ 
+210	By now , they know we failed . 	2 
+211	It 's time we disappear . 	ชั่วโมงที่แล้ว 
+212	- Where you gonna go ? 	ว่าแต่นายจะไปไหน 
+213	- Buenos Aires . 	บัวโนส 
+214	I can lie low there , maybe sniff out a job when things quiet down . 	ไอเรส ฉันจะหลบไปที่นั่นสักพัก รอให้เรื่องเงียบ 
+215	You ? 	แล้วค่อยออกมารับงาน 
+216	Stateside . 	แล้วนาย? 
+217	Send my regards . 	อเมริกา 
+218	He sold you out . 	เขาหักหลังคุณ 
+219	Thought to come to me and bargain for his life . 	เขามาหาผม 
+220	So I offer you the satisfaction . 	ผมเลยจะให้คุณแก้แค้นเขาแทน 
+221	It 's not the way I deal with things . 	ผมไม่ชอบฆ่าคนเป็นผักปลา 
+222	- What will you do with him ? 	คุณจะทำยังไงกับเขา? 
+223	- Nothing . 	ไม่ทำ 
+224	But I ca n't speak for Cobol Engineering . 	แต่โคบอล 
+225	- What do you want from us ? 	คุณต้องการอะไรจากพวกเรากันแน่ 
+226	- Inception . 	อินเซ็ปชั่น 
+227	- Is it possible ? 	เป็นไปได้ไหม? 
+228	- Of course not . 	ไม่มีทาง 
+229	If you can steal an idea from someone 's mind ... 	ถ้าพวกคุณสามารถขโมยความคิดจากสมองได้ 
+230	why ca n't you plant one there instead ? 	ถ้าพวกคุณสามารถขโมยความคิดจากสมองได้ 
+231	Okay , here 's me planting an idea in your head . 	แล้วทำไมจะใส่ความคิดลงไปไม่ได้ โอเค ถ้าผมฝังความคิดใส่ในหัวคุณ 
+232	I say , Do n't think about elephants . 	แล้วบอกคุณว่า... อย่าคิดถึงช้าง 
+233	What are you thinking about ? 	คุณจะคิดถึงอะไร? 
+234	Elephants . 	คุณจะคิดถึงอะไร? 
+235	Right . 	ช้าง ใช่ แต่มันไม่ใช่ความคิดคุณ 
+236	But it 's not your idea , because you know I gave it to you . 	เพราะคุณรู้ว่ามันมาจากผม 
+237	The subject 's mind can always trace the genesis of the idea . 	จิตของเรารู้ต้นกำเนิดความคิดตลอดเวลา 
+238	- True inspiration 's impossible to fake . 	แรงบันดาลใจไม่มีทางที่จะปลอมได้ 
+239	- That 's not true . 	มันไม่จริงหรอก 
+240	- Can you do it ? 	คุณทำได้ใช่มั้ย? 
+241	- Are you offering me a choice ? 	คุณให้ทางเลือกผมใช่มั้ย? 
+242	Because I can find my own way to square things with Cobol . 	เพราะผมมีวิธีแก้ปัญหากับทางโคบอลได้ 
+243	Then you do have a choice . 	งั้นคุณก็มีทางเลือก 
+244	Then I choose to leave , sir . 	งั้นคุณก็มีทางเลือก 
+245	Tell the crew where you want to go . 	บอกนักบินสิว่าคุณจะไปลงที่ไหน 
+246	Hey , Mr . Cobb . 	เดี๋ยวก่อน 
+247	How would you like to go home ? 	คุณอยากกลับบ้านหรือเปล่า? 
+248	To America . 	คุณอยากกลับบ้านหรือเปล่า? 
+249	To your children . 	กลับอเมริกา? 
+250	You ca n't fix that . 	กลับไปหาลูกๆของคุณ? 
+251	No one can . 	คุณทำไม่ได้หรอก 
+252	- Just like inception . 	ไม่มีใครทำได้ 
+253	- Cobb , come on . 	เหมือน 
+254	- How complex is the idea ? 	ความคิดที่คุณต้องการซับซ้อนแค่ไหน? 
+255	- Simple enough . 	ความคิดง่ายๆ 
+256	No idea is simple when you need to plant it in somebody else 's mind . 	ไม่มีความคิดไหนง่ายๆหรอก... หากเราต้องการฝังมัน ลงในจิตของคนอื่น 
+257	My main competitor is an old man in poor health . 	คู่แข่งคนสำคัญของผม 
+258	His son will soon inherit control of the corporation . 	เป็นตาแก่อาการร่อแร่ใกล้ตาย ลูกชายของเขากำลังจะได้ สืบทอดกิจการของเขา 
+259	I need him to decide to break up his father 's empire . 	ผมต้องการให้เขาสลาย 
+260	- Cobb , we should walk away from this . 	ค็อบบ์ 
+261	- Hold on . 	เราไม่ควรรับงานนี้นะ 
+262	If I were to do this , if I even could do it ... 	ถ้าผมทำงานนี้.... 
+263	I d need a guarantee . 	ถ้าผมทำงานนี้.... 
+264	- How do I know you can deliver ? 	ถ้าผมสามารถทำได้ ผมต้องการความมั่นใจ ผมจะรู้ได้ยังไงว่าคุณจะทำได้? 
+265	- You do n't . 	คุณไม่รู้ 
+266	But I can . 	แต่ผมทำได้ 
+267	So do you want to take a leap of faith ... 	แต่ผมทำได้ 
+268	or become an old man , filled with regret ... 	หรือจะรอวันเป็นตาแก่ 
+269	waiting to die alone ? 	หรือจะรอวันเป็นตาแก่ 
+270	Assemble your team , Mr . Cobb . 	รีบหาทีมงานซะ, 
+271	And choose your people more wisely . 	คุณค็อบ 
+272	Look , I know how much you wanna go home . 	ฉันรู้ว่านายอยากกลับบ้านมากแค่ไหน 
+273	This ca n't be done . 	แต่นี่มันเป็นไปไม่ได้ 
+274	Yes , it can . 	แต่นี่มันเป็นไปไม่ได้ 
+275	Just have to go deep enough . 	มันทำได้สิ 
+276	You do n't know that . 	แต่ต้องทำให้ลึกพอ 
+277	I 've done it before . 	ฉันเคยทำมาก่อน 
+278	Who 'd you do it to ? 	นายเคยทำกับใคร? 
+279	Why are we going to Paris ? 	เรามาปารีสทำไม? 
+280	We 're gonna need a new architect . 	เราต้องหาสถาปนิกคนใหม่ 
+281	You never did like your office , did you ? 	ไม่เคยชอบออฟฟิศตัวเองเลยใช่มั้ย? 
+282	No space to think in that broom cupboard . 	ในห้องเก็บไม้กวาด 
+283	Is it safe for you to be here ? 	แกมาที่นี่ 
+284	Extradition between France and the United States ... 	สัญญาส่งผู้ร้ายข้ามแดนระหว่างฝรั่งเศสกับอเมริกา 
+285	is a bureaucratic nightmare , you know that . 	สัญญาส่งผู้ร้ายข้ามแดนระหว่างฝรั่งเศสกับอเมริกา 
+286	I think they might find a way to make it work in your case . 	พวกเขาอาจทำงานให้เร็วขึ้นก็ได้ 
+287	Look , I , uh , brought these for you to give to the kids when you have a chance . 	คือ, 
+288	It 'll take more than the occasional stuffed animal ... 	ผมซื้อนี่มา.. 
+289	to convince those children they still have a father . 	มันน่าจะเป็นมากกว่า ตุ๊กตาขนสัตว์นะ หากจะให้เด็กๆรู้สึกว่า 
+290	I 'm just doing what I know . 	พวกแกยังคงมีพ่ออยู่ ผมแค่ทำสิ่งที่ผมรู้ 
+291	I 'm doing what you taught me . 	ทำสิ่งที่พ่อสอนผม 
+292	I never taught you to be a thief . 	ทำสิ่งที่พ่อสอนผม 
+293	No , you taught me to navigate people 's minds . 	ฉันไม่เคยสอนให้แกเป็นขโมย 
+294	But after what happened ... 	ใช่ 
+295	there were n't a whole lot of legitimate ways for me to use that skill . 	พ่อสอนให้ผมชี้นำความคิดมนุษย์ไง แต่หลังจากที่เรียนรู้แล้ว มันไม่มีช่องทางถูกกฏหมาย 
+296	What are you doing here , Dom ? 	แกมาที่นี่ทำไม 
+297	I think I found a way home . 	ผมคิดว่า 
+298	It 's a job for some very , very powerful people . 	ผมเจอทางกลับบ้านแล้ว มันเป็นงานที่ผมทำให้ผู้มีอำนาจมากคนหนึ่ง 
+299	People who I believe can fix my charges permanently . 	และผมเชื่อว่าเขาสามารถ 
+300	But I need your help . 	แต่ผมต้องให้พ่อช่วยผม 
+301	You 're here to corrupt one of my brightest and best . 	แต่ผมต้องให้พ่อช่วยผม 
+302	You know what I m offering . 	พ่อก็รู้ว่าผมจะให้อะไร 
+303	Let them decide for themselves . 	พ่อต้องให้เค้าตัดสินใจด้วยตัวเองซิ 
+304	- Money . 	เงินสินะ 
+305	- Not just money . 	เงินสินะ 
+306	You remember . 	เงินสินะ 
+307	It 's the chance to build cathedrals , entire cities ... 	ไม่ใช่แค่เงิน 
+308	things that never existed ... 	โอกาสที่จะสร้างมหาโบถส์ 
+309	things that could n't exist in the real world . 	สร้างเมืองขึ้นทั้งเมือง สิ่งที่ไม่เคยมีอยู่ สิ่งที่ไม่สามารถสร้างขึ้นได้ 
+310	So you want me to let someone else follow you into your fantasy ? 	แล้วแกอยากให้ฉันหาคน 
+311	They do n't actually come into the dream . 	ไปช่วยแกตามล่าฝันล่ะซิ 
+312	They just design the levels and teach them to the dreamers . 	พวกเขาไม่จำเป็นต้องเข้าไปในความฝันก็ได้ เขาแค่ออกแบบความฝัน... แล้วสอนให้พวกเขาเป็นผู้สร้างฝัน 
+313	That 's all . 	แค่นั้นเอง 
+314	Design it yourself . 	แกก็ออกแบบเองซิ 
+315	Mal wo n't let me . 	แกก็ออกแบบเองซิ 
+316	Come back to reality , Dom . 	กลับสู่โลกแห่งความจริงเถอะดอม 
+317	- Please . 	กลับสู่โลกแห่งความจริงเถอะดอม 
+318	- Reality . 	ได้โปรด โลกแห่งความจริงเหรอ? 
+319	Those kids , your grandchildren ... 	เด็กๆพวกนั้น, 
+320	they 're waiting for their father to come back home . 	เด็กๆพวกนั้น, 
+321	That 's their reality . 	หลานของพ่อน่ะ- 
+322	And this job , this last job , that 's how I get there . 	นั่นแหละคือความเป็นจริงของพวกแก 
+323	I would not be standing here if I knew any other way . 	แล้วงานนี้, งานสุดท้ายนี้ที่จะพาผมกลับไป ผมจะไม่มาเหยียบที่นี่ 
+324	I need an architect who 's as good as I was . 	ผมต้องการสถาปนิกที่เก่ง 
+325	I 've got somebody better . 	แต่ฉันมีคนที่เก่งกว่าแก 
+326	Ariadne ? 	อาริแอ็ดเน่ 
+327	I 'd like you to meet Mr . Cobb . 	อาริแอ็ดเน่ 
+328	Pleased to meet you . 	ฉันอยากแนะนำให้เธอรู้จักคุณค็อบบ์หน่อย 
+329	If you have a few moments , Mr . Cobb has a job offer he 'd like to discuss with you . 	ยินดีที่ได้รู้จักค่ะ ถ้าเธอพอมีเวลาสักครู่... คุณค๊อปป์มีงานมาเสนอ 
+330	A work placement ? 	เค้าต้องการปรึกษากับเธอ 
+331	Not exactly . 	งานประจำเหรอคะ 
+332	I have a test for you . 	ก็ไม่ขนาดนั้นหรอก 
+333	You 're not gonna tell me anything first ? 	ฉันมีแบบทดสอบให้เธอ 
+334	Before I describe the job , I have to know you can do it . 	คุณจะไม่บอกอะไรฉันก่อนเลยเหรอ? ก่อนที่จะอธิบายเกี่ยวกับงาน ฉันอยากจะรู้ว่าคุณสามารถทำมันได้ 
+335	- Why ? 	ทำไม 
+336	- It s not , strictly speaking , legal . 	เพราะมันไม่ใช่งานที่ถูกกฏหมายซะทีเดียว 
+337	You have two minutes to design a maze that it takes one minute to solve . 	เธอมีเวลา 
+338	Stop . 	หยุด 
+339	Again . 	เอาใหม่ 
+340	Stop . 	หยุด 
+341	You 're gonna have to do better than that . 	เธอต้องทำให้แก้ยากกว่านั้น 
+342	That 's more like it . 	ค่อยเข้าท่าหน่อย 
+343	They say we only use a fraction of our brain 's true potential . 	ว่ากันว่า 
+344	Now , that 's when we 're awake . 	ว่ากันว่า 
+345	When we 're asleep , our mind can do almost anything . 	เราใช้ศักยภาพสมองเพียงเศษเสี้ยวเดียวเท่านั้น ในเวลาที่เราตื่น แต่เมื่อเราหลับ 
+346	Such as ? 	จิตสามารถทำได้ทุกอย่าง 
+347	Imagine you 're designing a building . 	เช่นอะไร? สมมุติเธอกำลังออกแบบอาคารอยู่ จิตสำนึกเธอออกแบบรายละเอียดของมัน 
+348	You consciously create each aspect . 	
+349	But sometimes , it feels like it 's almost creating itself , if you know what I mean . 	แต่บางครั้งมันก็เหมือนจะสร้างรายละเอียด 
+350	Yeah , like I 'm discovering it . 	เอ่อ 
+351	Genuine inspiration , right ? 	เอ่อ 
+352	Now , in a dream , our mind continuously does this . 	ใช่ 
+353	We create and perceive our world simultaneously . 	ในความฝัน 
+354	And our mind does this so well that we do n't even know it 's happening . 	สร้างมันและมองเห็นโลกของเราไปพร้อมกัน และเราสร้างมันจนมันราบรื่น ซะจนแทบไม่รู้ว่าอะไรเกิดขึ้น 
+355	That allows us to get right in the middle of that process . 	เพื่อทำให้เราสามารถเข้าไป 
+356	- How ? 	ในระหว่างกระบวนการได้ ยังไง? โดยการทำหน้าที่สร้าง 
+357	- By taking over the creating part . 	
+358	Now , this is where I need you . 	โดยฉันให้เธอมาทำตรงนี้ 
+359	You create the world of the dream . 	โดยฉันให้เธอมาทำตรงนี้ 
+360	We bring the subject into that dream , and they fill it with their subconscious . 	เธอสามารถสร้างโลกแห่งความฝัน เราเอาเป้าหมายเข้าไปในฝันนั้น และเขาจะใช้จิตใต้สำนึกเขาเป็นรายละเอียด 
+361	How could I ever acquire enough detail to make them think that it 's reality ? 	แล้วฉันจะเอารายละเอียดมาจากไหนมากพอ 
+362	Well , dreams , they feel real while we 're in them , right ? 	ที่จะทำให้เขาคิดว่ามันเป็นความจริงล่ะ คือ, ในขณะที่ฝัน 
+363	It 's only when we wake up that we realize something was actually strange . 	เราจะรู้สึกว่า 
+364	Let me ask you a question . 	ฉันขอถามเธอสักอย่างสิ 
+365	You never really remember the beginning of a dream , do you ? 	ฉันขอถามเธอสักอย่างสิ 
+366	You always wind up right in the middle of what 's going on . 	เธอไม่เคยจำy ตอนต้นของความฝันได้เลยใช่ไหม? เธอมักจะพบว่าตนเอง 
+367	I guess , yeah . 	อยู่ในระหว่างหตุการณ์ในฝัน 
+368	So how did we end up here ? 	ก็งั้นมั้ง 
+369	Well , we just came from the , uh ... 	ใช่ 
+370	Think about it , Ariadne . 	เราก็ต้องออกมาจาก 
+371	How did you get here ? 	ลองคิดดูให้ดี 
+372	Where are you right now ? 	เธอมาที่นี่ได้ยังไงกัน? 
+373	We 're dreaming ? 	เรากำลังฝันอยู่เหรอ? 
+374	You 're in the middle of the workshop , sleeping . 	เรากำลังฝันอยู่เหรอ? 
+375	This is your first lesson in shared dreaming . 	จริงๆ 
+376	Stay calm . 	ตอนนี้เธออยู่ในช่วงเวิร์คชอป, กำลังหลับอยู่ นี่เป็นครั้งแรกที่เธอกำลังแชร์ 
+377	If it 's just a dream , then why are you -- ? 	ถ้านี่เป็นความฝัน 
+378	Because it 's never just a dream , is it ? 	มันไม่ใช่แค่ความฝันใช่ไหมล่ะ? 
+379	And a face full of glass hurts like hell . 	ตอนที่ใบหน้าเธอเต็มไปด้วยเศษแก้วบาด ถึงได้รู้สึกเจ็บมาก ตอนที่เธออยู่ในความฝัน 
+380	When you 're in it , it feels real . 	จะรู้สึกเจ็บเหมือนจริง 
+381	That 's why the military developed dream sharing . 	กองทัพจะพัฒนาโครงการ 
+382	It was a training program for soldiers to shoot , stab and strangle each other ... 	แชร์ความฝัน, เพื่อใช้เป็นโปรแกรมฝึกฝน เพื่อให้พวกทหารฝึกยิง 
+383	and then wake up . 	ฝึกแทง 
+384	How did architects become involved ? 	แล้วสถาปนิกเข้ามาเกี่ยวได้ยังไง 
+385	Well , someone had to design the dreams , right ? 	ก็, 
+386	Why do n't you give us another five minutes ? 	ขอเวลาเราอีกซัก 
+387	Five minutes ? 	5 
+388	What -- ? 	นาทีนะ 
+389	We were talking for , like , at least an hour . 	5 นาที? เราคุยกันในนั้นเป็นชั่วโมงเลยนิ 
+390	In a dream , your mind functions more quickly ... 	ในความฝัน 
+391	therefore time seems to feel more slow . 	จิตของเรา สามารถทำงานได้เร็วขึ้น... เพราะฉะนั้น 
+392	Five minutes in the real world gives you an hour in the dream . 	เวลาเลยดูเหมือนช้าลง 5 นาทีในโลกแห่งความจริง 
+393	Why do n't you see what you can get up to in five minutes ? 	ทำไมเธอไม่ไปดูสิ่งที่เธอสร้างขึ้นใน 
+394	You 've got the basic layout . 	เธอสร้างแบบแปลนเบื้องต้น 
+395	Bookstore , café . 	ร้านหนังสือ 
+396	Almost everything else is here too . 	ร้านกาแฟ ที่นี่มีเกือบจะครบทุกอย่าง 
+397	Who are the people ? 	คนพวกนี้เป็นใครกัน? 
+398	- Projections of my subconscious . 	คนพวกนี้เป็นใครกัน? 
+399	- Yours ? 	คนพวกนี้เป็นใครกัน? 
+400	- Yes . 	ภาพสะท้อนจากจิตใต้สำนึกของฉัน 
+401	Remember , you are the dreamer . 	ของคุณ? 
+402	You build this world . 	ใช่ 
+403	I am the subject . 	เธอสร้างโลกนี้ 
+404	My mind populates it . 	ส่วนฉัน 
+405	You can literally talk to my subconscious . 	เป็นเป้าหมาย, จิตสำนึกจะเติมคน เธอสามารถคุยกับจิตสำนึกของฉันได้โดยตรง 
+406	That 's one of the ways we extract information from the subject . 	เป็นวิธีการหนึ่งที่เราขโมยความคิดพวกเขา 
+407	How else do you do it ? 	แล้ววิธีอื่นมีอะไร? 
+408	By creating something secure , like a bank vault or a jail . 	โดยการสร้างที่เก็บนิรภัยอย่างเช่น... ตู้เซฟ หรือ 
+409	The mind automatically fills it with information it 's trying to protect . 	ห้องขัง จิตจะเติมข้อมูลที่มัน พยายามปกป้องลงไปโดยอัตโนมัติ 
+410	- You understand ? 	เข้าใจมั้ย? 
+411	- Then you break in and steal it ? 	จากนั้นคุณก็ไปขโมยมัน 
+412	Well ... 	ก็... 
+413	I guess I thought that the dream space would be all about the visual ... 	ฉันเคยคิดนะว่าความฝันเป็นแค่การนึกภาพ 
+414	but it 's more about the feel of it . 	ฉันเคยคิดนะว่าความฝันเป็นแค่การนึกภาพ 
+415	My question is what happens when you start messing with the physics of it all ? 	คำถามก็คือ 
+416	It 's something , is n't it ? 	น่าทึ่งใช่ไหมล่ะ? 
+417	Yes , it is . 	น่าทึ่งใช่ไหมล่ะ? 
+418	Why are they all looking at me ? 	ทำไมทุกคนถึงมองฉันล่ะ 
+419	Because my subconscious feels that someone else is creating this world . 	เพราะจิตใต้สำนึกของฉันรู้สึกว่า 
+420	The more you change things , the quicker the projections start to converge on you . 	มีคนอื่นเข้ามาสร้างโลกใบนี้ เมื่อเธอเปลี่ยนแปลงมัน คนจากจิตฉันก็จะเริ่ม 
+421	Converge ? 	พุ่งเป้ามาที่เธอมากยิ่งขึ้น 
+422	They sense the foreign nature of the dreamer . 	พุ่งเป้า? 
+423	They attack , like white blood cells fighting an infection . 	จู่โจมเหมือนเซลเม็ดเลือดขาวที่จู่โจมเชื้อโรค 
+424	- What , they 're gonna attack us ? 	แล้วเขาจะจู่โจมเรามั้ย 
+425	- No , no . 	แล้วเขาจะจู่โจมเรามั้ย 
+426	Just you . 	แล้วเขาจะจู่โจมเรามั้ย 
+427	This is great , but I m telling you , if you keep changing things like this ... 	มันก็เจ๋งนะ 
+428	Jeez , mind telling your subconscious to take it easy ? 	บอกให้จิตใต้สำนึกคุณใจเย็นๆได้ไหม 
+429	It 's my subconscious . 	มันเป็นจิตใต้สำนึก 
+430	Remember ? 	เราควบคุมมันไม่ได้หรอก 
+431	I ca n't control it . 	
+432	Very impressive . 	น่าประทับใจมาก 
+433	I know this bridge . 	ฉันรู้จักสะพานนี้ 
+434	This place is real , is n't it ? 	มันมีอยู่จริงใช่มั้ย? 
+435	Yeah , I cross it every day to get to the college . 	ช่าย 
+436	Never re-create places from your memory . 	ฉันเดินข้ามสะพานนี้ไปวิทยาลัยทุกวัน อย่าสร้างมันมาจากความทรงจำ ต้องจินตนาการถึงที่ใหม่เสมอ 
+437	Always imagine new places . 	
+438	You draw from stuff you know , right ? 	คุณต้องสร้างมันขึ้นมาจาก 
+439	Only use details . 	สิ่งที่คุณรู้จริง ใช่มั้ย? เอาแค่รายละเอียด 
+440	A streetlamp or a phone booth . 	เสาไฟฟ้า 
+441	Never entire areas . 	ตู้โทรศัพท์ 
+442	- Why not ? 	ไม่ต้องเอามาทั้งพื้นที่ 
+443	- Building a dream from your memory ... 	ทำไมอ่ะ? 
+444	is the easiest way to lose your grasp on what 's real and what is a dream . 	เพราะการสร้างความฝันขึ้นมาจาก 
+445	- Is that what happened to you ? 	จนแยกไม่ออกว่า 
+446	- Listen to me . 	อะไรคือความฝัน อะไรคือความจริง คุณเคยหลุดมาก่อนหรอ? 
+447	This has nothing to do with me , understand ? 	ฟังฉันนะ 
+448	That why you need me to build your dreams ? 	เพราะงี้คุณถึงต้องให้ฉันเป็นคนสร้างไง 
+449	Hey , get off of her . 	อย่ายุ่งกับเธอ 
+450	Back up . 	ถอยไป 
+451	Back up . 	ถอยไป! 
+452	- Cobb ! 	ถอยไป! 
+453	Cobb ! 	ค็อบบ์! 
+454	- Get off of her ! 	
+455	- Let me go ! 	อย่ายุ่งกับฉัน! 
+456	Let me go ! 	ปล่อยฉันนะ! 
+457	- Mal ! 	อย่ามอล! 
+458	- Mal ! 	อย่ามอล! 
+459	- Cobb ! 	ค็อบบ์! มอล! ปลุกฉันที! 
+460	Wake me up ! 	
+461	- Wake me up ! 	มอล! 
+462	Wake me up ! 	ปลุกฉันที! 
+463	- No ! 	มอล, 
+464	- Mal , no ! 	มอล, 
+465	No ! 	อย่า! 
+466	- Wake me up ! 	อย่า! 
+467	Hey , hey , hey . 	เฮ้ๆ 
+468	Look at me . 	มองผมซิ 
+469	You 're okay . 	คุณไม่เป็นไร 
+470	You 're okay . 	คุณปลอดภัยแล้วN- 
+471	- Hey . 	คุณปลอดภัยแล้วN- 
+472	- Why would n't I wake up ? 	ทำไม... 
+473	There was still time on the clock . 	เพราะนาฬิกาของเธอยังมีเวลาเหลือ 
+474	You ca n't wake up from within the dream unless you die . 	เพราะนาฬิกาของเธอยังมีเวลาเหลือ 
+475	-- She 'll need a totem . 	นอกจากเธอจะตาย เธอต้องมีโทเท็ม อะไรนะ? 
+476	- What ? 	
+477	A totem , it 's a small personal -- 	โทเท็ม 
+478	That 's some subconscious you 've got on you , Cobb ! 	โทเท็ม 
+479	- She 's a real charmer . 	เสน่ห์เธอร้ายกาจ 
+480	- Oh . 	เสน่ห์เธอร้ายกาจ 
+481	- I see you met Mrs . Cobb . 	เสน่ห์เธอร้ายกาจ 
+482	- She 's his wife ? 	โอ้ 
+483	Yeah . 	เมียเขาหรอ? 
+484	So a totem . 	ใช่ 
+485	You need a small object , potentially heavy . 	แล้วก็ 
+486	Something you can have on you that no one else knows . 	เธอต้องมีวัตถุขนาดเล็ก 
+487	- Like a coin ? 	และก็ต้องไม่ให้คนอื่นรู้ 
+488	- No . 	แบบเหรียญเหรอ? 
+489	It needs to be more unique than that . 	ไม่ มันต้องเป็นอะไรที่เฉพาะตัวมากกว่านั้น เหมือนกับ 
+490	Like , this is a loaded die . 	เต๋าถ่วงน้ำหนักลูกนี้ 
+491	No , I ca n't let you touch it . 	ฉันให้เธอจับไม่ได้ 
+492	That would defeat the purpose . 	มันจะทำให้เสียจุดประสงค์ 
+493	See , only I know the balance and the weight of this particular loaded die . 	มีผมคนเดียวที่รู้สมดุลและ 
+494	That way , when you look at your totem ... 	น้ำหนักของเต๋าพิเศษลูกนี้ เพราะถ้าเธอเห็นโทเท็มของเธอ 
+495	you know beyond a doubt that you 're not in someone else 's dream . 	เธอจะแน่ใจได้เลยว่า 
+496	I do n't know if you ca n't see what 's going on , or if you just do n't want to ... 	ฉันไม่รู้ 
+497	but Cobb has some serious problems that he 's tried to bury down there . 	ว่าคุณไม่เห็นว่ามีอะไรเกิดขึ้นกับเค้า 
+498	And I m not about to just open my mind to someone like that . 	แต่ค็อบบ์มีปัญหาร้ายแรงบางอย่าง ที่เขาพยายามจะฝังมันเอาไว้ และฉันก็ไม่อยากเปิดจิตของฉัน 
+499	She 'll be back . 	เธอจะกลับมา 
+500	I 've never seen anyone pick it up that quickly before . 	ผมไม่เคยเห็นใครที่ 
+501	Reality 's not gonna be enough for her now , and when she comes back ... 	หัวไวอย่างเธอมาก่อนเลย ความเป็นจริงจะไม่เพียงพอสำหรับเธอ และเมื่อเธอกลับมา... 
+502	When she comes back , you 're gonna have her building mazes . 	ถ้าเธอกลับมา 
+503	- Where are you gonna be ? 	บอกให้เธอ สร้างเขาวงกตทับซ้อนเอาไว้นะ แล้วนายจะไปไหน? 
+504	- I gotta go visit Eames . 	ฉันจะไปหาอีมส์ซะหน่อย 
+505	Eames ? 	อีมส์เหรอ? 
+506	No , he 's in Mombasa . 	ไม่นะ, 
+507	It 's Cobol 's back yard . 	ตอนนี้เค้าอยู่มอมบาซ่า 
+508	It 's a necessary risk . 	มันแหล่งของพวกโคบอลเลยนะ 
+509	- Well , there 's plenty of good thieves . 	มันเป็นความเสี่ยงที่ต้องลอง 
+510	- We do n't just need a thief . 	ที่นั่นมีโจรเก่งๆเยอะ 
+511	We need a forger . 	เราไม่ต้องการโจร 
+512	Rub them together all you want , they 're not gonna breed . 	นายจะถูมันอีกกี่ที 
+513	You never know . 	มันก็ไม่แน่หรอก 
+514	I 'm gonna get you a drink . 	มันก็ไม่แน่หรอก 
+515	You 're buying . 	นายเลี้ยงนะ 
+516	- Your spelling has n't improved . 	นายสะกดคำไม่ผ่านนะ 
+517	- Piss off . 	น้อยๆ 
+518	How 's your handwriting ? 	หน่อย แล้วลายมือนายเป็นไง? 
+519	- It s versatile . 	ปลอมได้ก็แล้วกัน 
+520	- Good . 	ดี 
+521	Thank you very much . 	ขอบคุณมากครับ 
+522	Inception . 	อินเซ็บชั่น 
+523	Now , before you bother telling me it 's impossible , let me-- 	คืองี้นะ 
+524	No , it 's perfectly possible . 	ก่อนที่นายจะบอกว่า มันเป็นไปไม่ได้... ไม่ 
+525	It 's just bloody difficult . 	มันเป็นไปได้ 
+526	Interesting . 	แต่ยากเลือดตากระเด็นเลยล่ะ น่าสนใจ อาเธอร์ถึงพูดกรอกหูผมว่าทำไม่ได้ 
+527	Because Arthur keeps telling me it ca n't be done . 	
+528	Hmm . 	อาเธอร์... 
+529	Arthur . 	นายยังทำงานกะไอ้ทื่อนั่นอยู่อีกเหรอ 
+530	You still working with that stick in the mud ? 	
+531	He is good at what he does , right ? 	เขาเก่งในงานที่เขาทำ,จริงไม๊ 
+532	Oh , he 's the best , but he has no imagination . 	เขาเก่งในงานที่เขาทำ,จริงไม๊ 
+533	Not like you . 	โอ,เขาฝีมือดี แต่ขาดจินตนาการ ต่างจากนาย 
+534	Listen , if you 're gonna perform inception , you need imagination . 	ฟังฉันนะ, 
+535	Let me ask you something . 	ฉันถามอะไรอย่างสิ 
+536	Have you done it before ? 	นายเคยทำมาก่อนมั้ย 
+537	We tried it . 	เราเคยลองแล้ว 
+538	Uh , we got the idea in place , but it did n't take . 	เราฝังความคิดเอาไว้ 
+539	- You did n't plant it deep enough ? 	แต่ว่ามันไม่โต นายฝังไม่ลึกพออย่างงั้นเหรอ เปล่า,ไม่เกี่ยวกับลึกไม่ลึก 
+540	- No , it 's not just about depth . 	
+541	You need the simplest version of the idea ... 	คือเราต้องฝังความคิดที่ง่ายที่สุดเพื่อให้มัน... 
+542	in order for it to grow naturally in your subject 's mind . 	โตโดยธรรมชาติ 
+543	It s a subtle art . 	ในสมองของเป้าหมาย 
+544	So , what is this idea that you need to plant ? 	แล้วนายจะฝังความคิดกับใครยังไง 
+545	We need the heir of a major corporation to dissolve his father 's empire . 	บอกสิ เราต้องการให้ทายาทองค์กรยักษ์ สลายอาณาจักรธุรกิจของพ่อเค้า 
+546	Right there you have various political motivations ... 	ถ้างั้น 
+547	and anti-monopolistic sentiments and so forth . 	ถ้างั้น 
+548	But all of that stuff , it 's , um ... 	รวมกับอะไรอีกหลายๆอย่าง, 
+549	It 's really at the mercy of your subject 's prejudice , you see ? 	รวมกับอะไรอีกหลายๆอย่าง, 
+550	What you have to do is start at the absolute basic . 	และนายต้องเริ่มต้นวิธีที่พื้นฐานที่สุด 
+551	Which is what ? 	นั่นคืออะไร? 
+552	The relationship with the father . 	นั่นคืออะไร? 
+553	- Do you have a chemist ? 	นายมีนักเคมีไหม 
+554	- No , not yet . 	ไม่ 
+555	Right . 	ยังไม่มี 
+556	Okay , well , there 's a man here , Yusuf . 	เอางี้ 
+557	He , uh , formulates his own versions of the compounds . 	เอางี้ 
+558	Why do n't you take me there ? 	เอางี้ 
+559	Once you 've lost your tail . 	นายจะพาฉันไปหาเขาเมื่อไหร่? 
+560	The man at the bar . 	นายชิ่งคนที่ตามนายให้ได้ก่อนสิ 
+561	Cobol Engineering . 	ผู้ชายที่อยู่ที่บาร์ 
+562	That price on my head , was that dead or alive ? 	ค่าหัวฉัน 
+563	Do n't remember . 	จับเป็นหรือจับตายล่ะ? จำไม่ได้ว่ะ ดูแล้วกันว่ามันจะยิงมั้ย 
+564	Let 's see if he starts shooting . 	
+565	Run interference . 	นายล่อมันไว้ 
+566	I 'll meet you downstairs in the bar in , say , uh , half an hour ? 	แล้วฉันจะกลับมาพบนาย 
+567	- Back here ? 	ที่นี่หรอ? 
+568	- This is the last place they 'd suspect . 	ที่ที่อันตรายที่สุด 
+569	All right . 	ตามนั้น 
+570	Freddy . 	เฟร็ดดี้! 
+571	Freddy Simmonds . 	เฟร็ดดี้! 
+572	My God , it 's you , is n't it ? 	เฟร็ดดี้! 
+573	No , it is n't you . 	ใคร 
+574	Not dreaming now , are you ? 	ถ้าจะไม่ใช่ 
+575	Get him ! 	
+576	There ! 	ออกไป! 
+577	One café . 	ไม่, 
+578	Shh . 	
+579	One café . 	
+580	One café . 	กาแฟถ้วยหนึ่ง 
+581	Care for a lift , Mr . Cobb ? 	อยากขึ้นรถมั้ยล่ะ 
+582	- What are you doing in Mombasa ? 	คุณมาทำอะไรใน 
+583	- I m here to protect my investment . 	มอมบาซ่า? 
+584	Ah . 	อ่อ, 
+585	So this is your idea of losing a tail , huh ? 	หนีได้บรรเจิดดีนี่หว่า 
+586	Different tail . 	ไปชนปังตอเข้าน่ะ 
+587	Cobb said you 'd be back . 	ค็อบบ์บอกเธอจะกลับมา 
+588	- I tried not to come , but ... 	ฉันพยายามแล้วที่จะไม่มา 
+589	- But there 's nothing quite like it . 	แต่... 
+590	It 's just ... 	แต่ว่าไม่มีอะไรเหมือนกับงานนี้ 
+591	pure creation . 	มันเป็น... 
+592	Shall we take a look at some paradoxical architecture ? 	ไปดูสถาปัตยกรรมแบบซับซ้อนกันดีกว่าไหม? 
+593	You 're gonna have to master a few tricks ... 	เธอจะต้องเรียนรู้เทคนิค 
+594	if you 're gonna build three complete dream levels . 	หากคิดจะสร้างความฝันให้สมบูรณ์แบบ 
+595	Excuse me . 	ทั้ง 
+596	What kind of tricks ? 	ขอโทษนะ 
+597	In a dream , you can cheat architecture into impossible shapes . 	ในความฝัน 
+598	That lets you create closed loops , like the Penrose Steps . 	นั่นคือการสร้างจุดเชื่อม 
+599	The infinite staircase . 	อย่างเช่น 
+600	See ? 	เห็นมั้ย? 
+601	Paradox . 	พาราด็อกจุดเชื่อมจะช่วยให้เธอก้าวข้าม 
+602	So a closed loop like that ... 	พาราด็อกจุดเชื่อมจะช่วยให้เธอก้าวข้าม 
+603	will help you disguise the boundaries of the dream you create . 	พาราด็อกจุดเชื่อมจะช่วยให้เธอก้าวข้าม 
+604	But how big do these levels have to be ? 	ข้อจำกัดของความฝันที่เธอสร้างขึ้นมา แล้วแต่ละระดับจะต้องใหญ่แค่ไหน? 
+605	It could be anything from the floor of a building to an entire city . 	มันอาจเป็นได้แค่พื้นชั้นเดียว 
+606	They have to be complicated enough that we can hide from the projections . 	หรือไม่ก็เมืองทั้งเมือง มันต้องซับซ้อนมากพอที่เรา... จะหลบคนจากจิตใต้สำนึก 
+607	- A maze ? 	เขาวงกต 
+608	- Right , a maze . 	ใช่ 
+609	And the better the maze ... 	เขาวงกต 
+610	Then the longer we have before the projections catch us ? 	ยิ่งซับซ้อนมากเท่าไหร่ 
+611	Exactly . 	... 
+612	- My subconscious seems polite enough . 	จิตใต้สำนึกของฉันสุภาพนะ อีกหน่อยเดี๋ยวก็เอาเรื่องแล้ว 
+613	- Ha , ha . 	
+614	You wait , they 'll turn ugly . 	
+615	No one likes to feel someone else messing around in their mind . 	ไม่มีใครชอบให้คนอื่นวิ่งวุ่น 
+616	Cobb ca n't build anymore , can he ? 	ค็อบสร้างฝันไม่ได้แล้วใช่หรือเปล่า? 
+617	I do n't know if he ca n't , but he wo n't . 	ไม่รู้เขาทำได้ไหม 
+618	He thinks it 's safer if he does n't know the layouts . 	แต่เขาไม่ทำ เขาว่าเขาไม่รู้แบบแปลนจะปลอดภัยกว่า 
+619	Why ? 	ทำไมอ่ะ? 
+620	He wo n't tell me . 	ทำไมอ่ะ? 
+621	But I think it 's Mal . 	เขาไม่บอกฉันหรอก แต่ฉันว่าเป็นเพราะมอล 
+622	- His ex-wife ? 	เมียเก่าเขาหรอ? 
+623	- No , not his ex . 	เปล่า 
+624	- They 're still together ? 	เธอไม่ใช่เมียเก่า พวกเขายังอยู่ด้วยกันหรอ? เปล่า 
+625	- No . 	เธอ... 
+626	No , she 's dead . 	เธอตายแล้ว 
+627	What you see in there is just his projection of her . 	สิ่งที่เธอเห็นคือ 
+628	What was she like in real life ? 	แล้วเธอเคยเป็นคนยังไง 
+629	She was lovely . 	แล้วเธอเคยเป็นคนยังไง 
+630	- You are seeking a chemist ? 	คุณต้องการนักเคมีใช่ไหม? 
+631	- Yes . 	ใช่ 
+632	To formulate compounds for a job ? 	คุณจะเอาสูตรสารเคมีไปใช้งานเหรอ? 
+633	And to go into the field with us . 	และไปทำงานในพื้นที่กับเราด้วย 
+634	No , I rarely go into the field , Mr . Cobb . 	และไปทำงานในพื้นที่กับเราด้วย 
+635	Well , we 'd need you there to tailor compounds specific to our needs . 	โอ้ย 
+636	- Which are ? 	เราต้องการให้นายปรุงสารเคมี ให้เหมาะกับงานของเรา แบบไหน? 
+637	- Great depth . 	ภาวะจิตลึก 
+638	A dream within a dream ? 	ฝันซ้อนฝันใช่มะ? 
+639	Two levels ? 	สองระดับหรอ? 
+640	Three . 	สาม 
+641	Not possible . 	เป็นไปไม่ได้ 
+642	That many dreams within dreams is too unstable . 	ฝันซ้อนกันมากเกินไป 
+643	It is possible . 	ยาเอาไม่อยู่ มันเป็นไปได้ซิ นายแค่มียานอนหลับ 
+644	You just have to add a sedative . 	ต้องเป็นยานอนหลับที่แรงมากๆด้วย 
+645	A powerful sedative . 	ต้องเป็นยานอนหลับที่แรงมากๆด้วย 
+646	- How many team members ? 	คนในทีมมีกี่คน 
+647	- Five . 	ห้าคน 
+648	Six . 	หก 
+649	The only way to know you 've done the job is if I go in with you . 	ทางเดียวที่จะรู้ว่างานสำเร็จ 
+650	There 's no room for tourists on a job like this , Mr . Saito . 	คือผมจะต้องไปกับคุณด้วย งานนี้เขาไม่มีที่ว่างให้กับ นักท่องเที่ยวหรอกนะ 
+651	This time , it seems there is . 	คุณไซโตะ แต่ว่างานนี้ ดูเหมือนจะมีนะ 
+652	This , I think , is a good place to start . 	ผมว่าเราต้องเริ่มจากตัวนี้ 
+653	I use it every day . 	ผมใช้มันทุกวันเลย 
+654	What for ? 	ใช้ทำไร? 
+655	- Here , I 'll show you . 	มา 
+656	Perhaps you will not want to see . 	บางทีคุณอาจจะไม่อยากรู้ 
+657	After you . 	บางทีคุณอาจจะไม่อยากรู้ 
+658	Ten . 	หก 
+659	Twelve . 	สิบ 
+660	All connected . 	สิบสอง 
+661	Bloody hell . 	พวกเขาเชื่อมต่อกันเหลือเชื่อ 
+662	They come every day to share the dream . 	พวกเขามาทุกวันเพื่อร่วมแชร์ความฝัน 
+663	You see ? 	เห็นมะ? 
+664	Very stable . 	หลับนิ่งมากเลย 
+665	- How long do they dream for ? 	พวกเขาฝันนานแค่ไหน? 
+666	- Three , four hours , each day . 	สามถึงสี่ชั่วโมงต่อวัน 
+667	In dream time ? 	และเวลาในฝันละ 
+668	With this compound ? 	และเวลาในฝันละ 
+669	About 40 hours , each and every day . 	ถ้าด้วยยานี้ 
+670	- Why do they do it ? 	ก็ประมาณสี่สิบชั่วโมงในแต่ละวัน แล้วพวกเขามาทำยังงี้ทำไม? บอกเขาสิ 
+671	- Tell him , Mr . Cobb . 	คุณค็อบ 
+672	After a while , it becomes the only way you can dream . 	เมื่อชาชิน 
+673	Do you still dream , Mr . Cobb ? 	เมื่อชาชิน 
+674	- They come here every day to sleep ? 	คุณยังฝันอยู่หรือเปล่า คุณค็อบ? มากันทุกวันเพื่อนอนหรอเนี่ย? 
+675	- No . 	เปล่า 
+676	They come to be woken up . 	พวกเขามาเพื่อที่จะตื่นขึ้น 
+677	The dream has become their reality . 	พวกเขามาเพื่อที่จะตื่นขึ้น 
+678	Who are you to say otherwise , sir ? 	คุณเป็นใครถึงจะเถียงว่าไม่ใช่ 
+679	Let 's see what you can do . 	ดูสิ 
+680	You know how to find me . 	คุณรู้ว่าจะหาฉันได้ยังไง 
+681	You know what you have to do . 	คุณรู้ว่าต้องทำอะไร 
+682	Sharp , no ? 	แรงดีไหม? 
+683	Are you all right , Mr . Cobb ? 	คุณไม่เป็นไรใช่ไหม 
+684	Yeah , yeah . 	ใช่ 
+685	Everything 's just fine . 	ใช่ 
+686	Robert Fischer , heir to the Fischer Morrow energy conglomerate . 	โรเบิร์ต 
+687	What 's your problem with this Mr . Fischer ? 	ฟิชเชอร์ 
+688	That 's not your concern . 	แล้วคุณมีปัญหาอะไรกับคุณฟิชเชอร์? 
+689	Mr . Saito , this is n't your typical corporate espionage . 	นั่นไม่ใช่เรื่องของคุณ คุณไซโตะ คือนี่ไม่ใช่งานจารกรรม 
+690	You asked me for inception . 	องค์กรธรรมดานะ 
+691	I do hope you understand the gravity of that request . 	คุณขอให้ผมทำอินเซ็ปชั่น 
+692	Now , the seed that we plant in this man 's mind will grow into an idea . 	ผมก็หวังว่า คุณจะเข้าใจถึงความหนักหน่วงของงานชิ้นนี้ เมล็กพันธุ์ที่เราปลูกลงไปในจิตของเค้า 
+693	This idea will define him . 	จะเติบโตเป็นความคิด 
+694	It may come to change ... 	ความคิดนี้จะกำหนดความเป็นตัวเค้า 
+695	Well , it may come to change everything about him . 	อาจจะเปลี่ยนแปลง 
+696	We 're the last company standing between them and total energy dominance . 	ทุกอย่างที่เกี่ยวกับตัวเขา เราเป็นบริษัทสุดท้ายที่เป็นอุปสรรค ไม่ให้เค้าผูกขาดธุรกิจทางด้านพลังงาน 
+697	And we can no longer compete . 	เราสู้เขาไม่ได้ 
+698	Soon , they 'll control the energy supply of half the world . 	เราสู้เขาไม่ได้ 
+699	In effect , they become a new superpower . 	ครึ่งโลก 
+700	The world needs Robert Fischer to change his mind . 	เพื่อโลกใบนี้ 
+701	That 's where we come in . 	ต้องทำให้โรเบิร์ต 
+702	How is Robert Fischer 's relationship with his father ? 	และนั่นเราถึงได้เข้ามาเอี่ยว 
+703	Rumor is the relationship is quite complicated . 	แล้วความสัมพันธ์ระหว่างเขากับพ่อเป็นยังไง? ข่าวลือว่าเป็นความสัมพันธ์ ที่ซับซ้อนพอดูทีเดียว 
+704	Well , we ca n't work based solely on rumor , can we ? 	แต่เราจะทำงานโดยอาศัย 
+705	Can you get me access to this man here ? 	ข่าวลืออย่างเดียวไม่ได้จริงไหม? คุณจะให้ผมสืบเรื่องราวของผู้ชายคนนี้ได้ไหม? บราวนิ่ง, 
+706	Browning . 	มือขวาของฟิชเชอร์คนพ่อ 
+707	Fischer Senior 's right-hand man . 	มือขวาของฟิชเชอร์คนพ่อ 
+708	Fischer Junior 's godfather . 	พ่อบุญธรรมของฟิชเชอร์คนลูก 
+709	It should be possible , if you can get the right references . 	ก็พอทำได้ 
+710	References are something of a specialty for me , Mr . Saito . 	ถ้าคุณมีแหล่งอ้างอิงที่น่าเชื่อถือ แหล่งอ้างอิงเนี่ย เป็นอะไรที่ 
+711	I 'm not smelling settlement here . 	สงสัยเราจะตกลงกันไม่ได้แล้ว 
+712	Take them down . 	สงสัยเราจะตกลงกันไม่ได้แล้ว 
+713	Mr . Browning ... 	สงสัยเราจะตกลงกันไม่ได้แล้ว 
+714	Maurice Fischer 's policy is always one of avoiding litigation . 	คุณบราวนิ่งนโยบายของ 
+715	Well , shall we voice your concerns with Maurice directly ? 	อ๋อหรอ 
+716	Not sure that 's necessary . 	งั้นเอาข้อคิดเห็นของคุณ 
+717	No , no , no . 	คงจะไม่จำเป็นหรอกมั้งครับ 
+718	I think we should . 	ไม่ 
+719	How is he ? 	เขาเป็นไงบ้าง 
+720	I do n't want to bother him unnecessarily , but -- 	เขาเป็นไงบ้าง 
+721	Robert , I told you keep out the damn -- Wait . 	ฉันไม่อยากรบกวนเขา 
+722	So do it . 	ด้วยเรื่องไม่จำเป็น แต่ว่า... โรเบิร์ต 
+723	Get -- 	ฉันบอกให้แกออกไปยังไงล่ะ... 
+724	- Mr . Fischer . 	ไปซะ เดี๋ยวค่ะ อย่างเพิ่งพูดนะคะ 
+725	- Put it through . 	คุณฟิชเชอร์ ไม่เคย! 
+726	Never , never . 	ไม่เคย 
+727	Never do the same as I asked . 	ไม่เคย 
+728	Leave that . 	ไม่เคย 
+729	Here . 	แย่ที่สุด 
+730	Must be a cherished memory of his . 	ต้องชื่นชมความจำของเขานะ 
+731	I put it beside his bed . 	ผมวางไว้ข้างเตียงของเขา 
+732	He has n't even noticed . 	เขาไม่ทันสังเกตด้วยซ้ำ 
+733	Robert ... 	โรเบิร์ต... 
+734	we need to talk about a power of attorney . 	โรเบิร์ต... 
+735	- I know this is hard , but it 's imperative-- - Not now , Uncle Peter . 	เราต้องคุยกันเรื่องหนังสือมอบอำนาจนะ ฉันรู้ว่าเวลานี้ไม่สะดวก ไม่ใช่ตอนนี้ 
+736	The vultures are circling . 	อีแร้งกำลังบินวนไปมา 
+737	And the sicker Maurice Fischer becomes , the more powerful Peter Browning becomes . 	มอลเรช 
+738	I 've had ample opportunity to observe Browning ... 	เรามีโอกาสสังเกตุการณ์บราวนิ่งมากมาย... 
+739	and adopt his physical presence , study his mannerisms , and so on and so forth . 	เก็บรายละเอียดรูปลักษณ์ทางกาย 
+740	So now in the first layer of the dream , I can impersonate Browning . 	ศึกษากิริยา 
+741	And suggest concepts to Fischer 's conscious mind . 	และชี้นำความคิดไปยัง 
+742	Then , when we take him a level deeper ... 	จิตสำนึกของฟิชเชอร์ได้ จากนั้นเมื่อเราพาเขา ไปยังจิตขั้นที่ลึกขึ้น 
+743	his own projection of Browning should feed that right back to him . 	แผนการต่างๆของบราวนิ่งที่เราวางเอาไว้, 
+744	So he gives himself the idea . 	มันจะถูกส่งกลับมาที่ตัวบราวนิ่งเอง 
+745	Precisely . 	แล้วมันก็จะกลายเป็นไอเดียที่เขาคิดเอง ถูกต้องแล้ว ทางเดียวที่ความคิดนั้นจะยึดติดแน่น 
+746	That 's the only way it will stick . 	เค้าต้องนึกว่าเค้าคิดเอง 
+747	It has to seem self-generated . 	
+748	Eames , I am impressed . 	อีมส์ 
+749	Your condescension , as always , is much appreciated , Arthur , thank you . 	คำชมนายเหมือนเดิม 
+750	Were you going under on your own ? 	คุณจะออกไปที่นั่นคนเดียวเหรอ? 
+751	No , no , I was just , uh , running some experiments . 	เปล่า 
+752	I did n't realize anyone was here , so ... 	ฉันไม่รู้ว่ามีคนอยู่ที่นี่ 
+753	Yeah , I was just -- I was working on my totem , actually . 	ใช่ 
+754	Here , let me take a look . 	ใช่ 
+755	So you 're learning , huh ? 	เธอเรียนรู้แล้วสินะ? 
+756	An elegant solution for keeping track of reality . 	มันเป็นทางออกที่ดี 
+757	- Was it your idea ? 	เป็นไอเดียของคุณเหรอ? 
+758	- No , it was , uh ... 	เป็นไอเดียของคุณเหรอ? 
+759	It was Mal 's , actually . 	เป็นไอเดียของคุณเหรอ? 
+760	This ... 	เปล่า 
+761	This one was hers . 	นี่ 
+762	She would spin it in the dream and it would never topple . 	ของชิ้นนี้เป็นของเธอ 
+763	Just spin and spin . 	เมื่อเธอหมุนมันในความฝัน มันจะหมุนไม่หยุด มันจะ... 
+764	Arthur told me she passed away . 	อาร์เธอร์บอกฉันว่าเธอตายไปแล้ว 
+765	How are the mazes coming along ? 	อาร์เธอร์บอกฉันว่าเธอตายไปแล้ว 
+766	Each level relates to the part of the subject 's subconscious ... 	ระดับต่างๆเกี่ยวข้องกับ 
+767	that we are trying to access . 	แต่ละส่วนในจิตใต้สำนึกของเป้าหมาย... ที่เราพยายามเข้าไป 
+768	So I m making the bottom level a hospital , so Fischer will bring his father . 	ฉะนั้นมันต้องมีชั้นข้างล่างของโรงพยาบาล 
+769	You know , I -- Actually , I have a question about this layout . 	ที่จริงแล้ว 
+770	No , no , no . 	ฉันมีคำถาม เกี่ยวกับแบบแปลนนี้หน่อยนึง ไม่ๆๆ 
+771	Do n't show me specifics . 	อย่าให้ฉันรับรู้ด้วย 
+772	Only the dreamer should know the layout . 	แบบแปลนน่ะ 
+773	Why is that so important ? 	ทำไมต้องเป็นอย่างนั้นด้วยล่ะ? 
+774	In case one of us brings in our projections . 	ถ้าเผื่อมีใครที่เกี่ยวข้องกับพวกเราแทรกเข้ามาในแผนการ 
+775	We do n't want them knowing the details of the maze . 	เราไม่อยากให้เขารู้เส้นทางในเขาวงกต 
+776	You mean in case you bring Mal in . 	คุณหมายถึง 
+777	You ca n't keep her out , can you ? 	ถ้ามอลได้เข้ามา 
+778	- Right . 	คุณกันเธอออกไปไม่ได้ใช่ไหม? 
+779	- You ca n't build ... 	ใช่ 
+780	because if you know the maze , then she knows it . 	คุณสร้างแบบแปลนเองไม่ได้ 
+781	Well , she 'd sabotage the whole operation . 	เพราะถ้าคุณรู้ เธอก็จะรู้ด้วย แล้วเธอจะทำลายปฏิบัติการทั้งหมด 
+782	- Cobb , do the others know ? 	ค็อบ 
+783	- No . 	คนอื่นรู้เรื่องนี้หรือเปล่า? 
+784	No , they do n't . 	เปล่า 
+785	You 've gotta warn them if this is getting worse . 	เปล่า พวกเขาไม่รู้ คุณต้องเตือนพวกเขา 
+786	No one said it 's getting worse . 	ถ้าเกิดมันแย่ลง ไม่มีใครพูดว่ามันจะแย่ลง 
+787	I need to get home . 	ฉันอยากกลับบ้าน 
+788	That 's all I care about right now . 	นั่นคือสิ่งทั้งหมดที่ฉันแคร์ในตอนนี้ 
+789	Why ca n't you go home ? 	ทำไมคุณกลับบ้านไม่ได้? 
+790	Because they think I killed her . 	ทำไมคุณกลับบ้านไม่ได้? 
+791	- Thank you . 	ขอบคุณ 
+792	- For what ? 	สำหรับอะไร? 
+793	For not asking whether I did . 	ที่ไม่ถามว่าฉันทำจริงหรือเปล่า 
+794	I will split up my father 's empire . 	ที่ไม่ถามว่าฉันทำจริงหรือเปล่า 
+795		ที่ไม่ถามว่าฉันทำจริงหรือเปล่า 
+796	Now , this is obviously an idea that Robert himself would choose to reject ... 	ฉันจะทำลายอาณาจักรของพ่อ ณ ตอนนี้ 
+797	which is why we need to plant it deep in his subconscious . 	ชัดเจนเลยว่านี่เป็นความคิดที่ ตัวโรเบิร์ตเลือกที่จะปฏิเสธมัน ด้วยเหตุนี้เราถึงจำเป็นต้องฝัง 
+798	The subconscious is motivated by emotion , right ? 	มันให้ลึกลงในจิตใต้สำนึกของเค้า จิตใต้สำนึกเกิดขึ้นจากอารมณ์ ถูกไหม? 
+799	Not reason . 	ไม่ใช่จากเหตุผล 
+800	We need to find a way to translate this into an emotional concept . 	เราต้องหาทางแปลงสิ่งนี้ 
+801	How do you translate business strategy into emotion ? 	ให้เป็นคอนเซ็ปท์ทางอารมณ์ นายจะแปลงกลยุทธ์ทางธุรกิจ ให้เป็นอารมณ์ได้ยังไง? 
+802	That 's what we 're here to figure out . 	มอริสและโรเบิร์ต 
+803	Robert 's relationship with his father ... 	สองชั่วอายุตระกูลฟิชเชอร์ สองแนวทางการบริหาร นั่นคือสิ่งที่ต้องคิดใช่ไหม 
+804	- ... 	ความสัมพันธ์ระหว่างโรเบิร์ตกับพ่อของเขาเข้าขั้นตรึงเครียดว่างั้นเถอะ ถ้างั้นเรานำมาใช้ได้ 
+805	is stressed , to say the least . 	
+806	- Can we run with that ? 	
+807	We suggest breaking up his father 's company as a screw you to the old man . 	เราเสนอเขาว่าการทำลายบริษัทของพ่อก็เหมือนการตอกหน้าตาแก่นั่น 
+808	No , because I think positive emotion trumps negative emotion every time . 	ไม่ เพราะฉันคิดว่าอารมณ์ในแง่บวก ย่อมชนะอารมณ์ในแง่ลบทุกครั้ง 
+809	We all yearn for reconciliation , for catharsis . 	จิตของมนุษย์หวังการปรองดรอง 
+810	We need Robert Fischer to have a positive emotional reaction to all this . 	เราจำเป็นต้องให้โรเบิร์ต 
+811	All right , well , try this . 	ฟิชเชอร์มี ปฏิกิริยาทางอารมณ์เชิงบวกกับทั้งหมดนี้ ก็ได้ 
+812	Um ... 	อ่ะ 
+813	My father accepts that I want to create for myself , not follow in his footsteps . 	อ่ะ 
+814		อ่ะ 
+815	That might work . 	อันนั้นอาจจะใช้ได้ 
+816	Might ? 	อันนั้นอาจจะใช้ได้ 
+817	We 're gonna need to do a little better than might . 	อาจจะนะ แค่อาจจะน่ะไม่พอนะ เราต้อง 
+818		
+819	Thank you for your contribution , Arthur . 	หาวิธีที่ดีกว่านั้น ขอบคุณมากเลยนะที่ช่วย อาเธอร์ 
+820	Forgive me for wanting a little specificity , Eames . 	ขอโทดที่ฉันต้องการความเฉพาะเจาะจงกว่านี้อีก 
+821	Specificity ? 	เจาะจงให้แน่ชัด 
+822	Inception 's not about being specific . 	การฝังความคิดไม่สามารถเจาะจงลงไปให้แน่ชัด 
+823	When we get inside his mind , we 're gonna have to work with what we find . 	เมื่อเราเข้าไปในจิตใจของเขาแล้ว 
+824	On the top level , we open up his relationship with his father ... 	ในชั้นบนสุด 
+825	and say , I will not follow in my father 's footsteps . 	ในชั้นบนสุด 
+826		ในชั้นบนสุด 
+827	Then the next level down , we feed him , I will create something for myself . 	แล้วปลูกฝัง... 
+828		แล้วปลูกฝัง... 
+829	Then , by the time we hit the bottom level , we bring out the big guns . 	แล้วในชั้นถัดลงไป 
+830	- My father does n't want me to be him . 	พอเราไปถึงชั้นล่างสุด เราเอากระสุนนัดใหญ่ออกมา พ่อฉันไม่ต้องการให้ฉันเป็นอย่างเขา 
+831	- Exactly . 	ถูกเผง 
+832	Three layers down , the dreams are gonna collapse with the slightest disturbance . 	ถ้าเราไปลึกถึงสามชั้น 
+833	Sedation . 	หากมีการก่อกวน 
+834	For sleep stable enough to create three layers of dreaming ... 	เราต้องกดประสาท จะทำให้การหลับนิ่งลึก พอที่จะสร้างความฝันถึงสามชั้น 
+835	we 'll have to combine it with an extremely powerful sedative . 	เราต้องเอายากดประสาท 
+836	Good night . 	ฝันดี 
+837	The compound we 'll be using to share the dream ... 	สารเคมีที่ใช้ในการแชร์ฝัน 
+838	creates a clear connection between dreamers ... 	จะะสร้างการเชื่อมต่อที่ชัดเจน 
+839	- ... 	ในขณะที่เร่งการทำงานของสมอง ซึ่งหมายถึงว่ามันทำให้เรามีเวลา มากขึ้นในแต่ละชั้นความฝัน 
+840	whilst accelerating brain function . 	
+841	- In other words , more time on each level . 	
+842	Brain function in the dream will be about 20 times normal . 	การทำงานของสมองในความฝัน 
+843	And when you enter a dream within that dream , the effect is compounded . 	จะเร็วกว่าปกติถึง 
+844	It 's three dreams , that 's 10 hours times 20 -- 	เมื่อเราเข้าไปในฝันที่อยู่ในอีกฝันหนึ่ง 
+845	Math was never my strong subject . 	3 
+846	How much time is that ? 	ฝัน... 
+847	It 's a week , the first level down . 	ได้เวลาเท่าไหร่? 
+848	Six months the second level down , and the third level -- 	ระดับ 
+849	That 's 10 years . 	2 
+850	Who 'd wanna be stuck in a dream for 10 years ? 	ใครจะบ้าไปอยู่ในฝันตั้ง 
+851	Depends on the dream . 	ใครจะบ้าไปอยู่ในฝันตั้ง 
+852	So once we 've made the plant , how do we get out ? 	ขึ้นอยู่ว่าฝันยังไง พอฝังความคิดได้แล้ว แล้วเราจะออกมายังไง 
+853	I 'm hoping you have something more elegant than shooting me in the head . 	หวังว่าคุณจะมีอะไรสร้างสรรค์กว่ายิงหัวฉันนะ 
+854	- A kick . 	การปลุก 
+855	- What 's a kick ? 	การปลุกแบบไหน? 
+856	This , Ariadne , would be a kick . 	อย่างนี้ 
+857	It 's that feeling of falling you get that jolts you awake . 	มันจะรู้สึกเหมือนการตกจากที่สูง 
+858	- Snaps you out of the dream . 	เธอจะเหมือนถูกกระชาก เธอจะตื่น ดึงเธอออกมาจากความฝัน 
+859	- We gonna feel a kick with this sedation ? 	เราจะสะดุ้งตื่นหรอ? 
+860	That 's the clever part . 	อย่าแรงซะขนาดนั้น 
+861	I customized the sedative to leave inner-ear function unimpaired . 	นั่นแหละความเจ็บของมัน คือว่ายาของฉัน ไม่ไปกดการทำงานของหูชั้นใน 
+862	That way , however deep the sleep , the sleeper still feels falling . 	เพราะฉะนั้น 
+863	Or tipping . 	หรือถูกผลัก 
+864	The trick is to synchronize a kick that can penetrate all three levels . 	เทคนิคก็คือการเชื่อมการปลุก ที่ส่งถึงฝันสามระดับ 
+865	We could use a musical countdown to synchronize the different kicks . 	เราอาจใช้ดนตรีนับถอยหลัง 
+866	He has n't got any surgery scheduled , no dental , nothing . 	เขาไม่มีนัดกับศัลยแพทย์เลย 
+867	Was n't he supposed to have a knee operation ? 	ไม่มีนัดทำฟัน ไม่มีอะไรเลย เหมือนเขามีต้อง 
+868	Nothing . 	ไปผ่าตัดเข่าไม่ใช่เหรอ? ไม่มี ไม่มีอะไรเลยที่จะทำให้เขาหลับลึก 
+869	Nothing that they 'll put him under for , anyway . 	เราต้องการ... 
+870	And we need-- 	เราต้องการ... 
+871	We need at least a good 10 hours . 	เราต้องการ... 
+872	Sydney to Los Angeles . 	เราต้องการอย่างน้อยสิบชั่วโมงเต็มๆ จากซิดนี่ย์ไปลอสแองเจลิส 
+873	One of the longest flights in the world . 	หนึ่งในเส้นทางบินที่ยาวที่สุดในโลก 
+874	He makes it every two weeks . 	เขาบินเส้นนี้ทุกสองอาทิตย์ 
+875	He must be flying private , then . 	และเขาต้องบินด้วยเครื่องส่วนตัว 
+876	Not if there were unexpected maintenance with his plane . 	เว้นแต่ว่ามีสิ่งไม่คาดคิด 
+877	It would have to be a 747 . 	เครื่องบินจะต้องถูกเอาไปซ่อม แต่ควรจะเลือกเครื่อง 747 
+878	- Why 's that ? 	ทำไมเหรอ? 
+879	On a 747 , the pilot 's up top ... 	เพราะเครื่อง 
+880	the first-class cabin 's in the nose , so no one would walk through . 	747ห้องนักบินอยู่ข้างบน และห้องเฟิร์สคลาสอยู่ส่วนหัว ทำให้ไม่มีใครจะเดินผ่าน 
+881	You 'd have to buy out the entire cabin and the first-class flight attendant . 	แต่คุณจะต้องซื้อห้องโดยสารนี่ทั้งหมด 
+882	I bought the airline . 	และพนักงานเฟิร์สคลาสด้วย 
+883	It seemed neater . 	ผมจะซื้อเหมาสายการบิน 
+884	Well , looks like we have our 10 hours . 	เอาละ 
+885	Ariadne ? 	แอริแอดนี่? 
+886	Terrific work , by the way . 	ผลงานยอดเยี่ยมมาก 
+887	You know how to find me . 	คุณรู้ว่าจะหาฉันได้ยังไง 
+888	You know what you have to do . 	คุณรู้ว่าจะหาฉันได้ยังไง 
+889	You remember when you asked me to marry you ? 	คุณจำได้มั้ยตอนที่ 
+890	Of course I do . 	แน่นอนผมจำได้ 
+891	You said you had a dream . 	แน่นอนผมจำได้ 
+892	That we 'd grow old together . 	ที่จะแก่เฒ่าไปด้วยกัน 
+893	And we can . 	และเราทำได้ 
+894	You should n't be here . 	คุณไม่ควรมานี่ 
+895	Just wanted to see what kind of tests you 're doing on your own every night . 	ฉันแค่อยากดูว่าคุณทดลอง 
+896	- This has nothing to do with you . 	คุณกำลังทำอะไรที่นี่คนเดี่ยวทุกคืน อะไรก็ตามที่เกิดขึ้น มันไม่เกี่ยวอะไรกับคุณเลย 
+897	- This has everything to do with me . 	มันมีทุกอย่างที่เกี่ยวกับฉัน 
+898	- You 've asked me to share dreams with you . 	ฉันแชร์ความฝันร่วมกับคุณ 
+899	- Not these . 	ไม่ใช่แน่ 
+900	These are my dreams . 	นี่มันเป็นความฝันของผมเอง 
+901	Why do you do this to yourself ? 	ทำไมคุณทำตัวเองแบบนี่? 
+902	It 's the only way I can still dream . 	ทำไมคุณทำตัวเองแบบนี่? 
+903	Why is it so important to dream ? 	แล้วทำไมคุณถึงต้องฝัน 
+904	In my dreams , we 're still together . 	แล้วทำไมคุณถึงต้องฝัน 
+905	These are n't just dreams . 	นี่ไม่ใช่ความฝัน 
+906	These are memories . 	มันเป็นความทรงจำและคุณ 
+907	And you said never to use memories . 	บอกเองไม่ให้ใช้ความทรงจำ 
+908	I know I did . 	ผมรู้ว่าผมพูด 
+909	You 're trying to keep her alive . 	ผมรู้ว่าผมพูด 
+910	You ca n't let her go . 	คุณกำลังพยายามให้เธอมีชีวิตอยู่ คุณตัดเธอไม่ได้ คุณไม่เข้าใจผมหรอก 
+911	You do n't understand . 	มันเป็นช่วงเวลาที่ผมเสียใจ 
+912	These are moments I regret . 	มันเป็นช่วงเวลาที่ผมเสียใจ 
+913	They 're memories that I have to change . 	มันเป็นช่วงเวลาที่ผมเสียใจ 
+914	Well , what 's down there that you regret ? 	อ๋อ 
+915	Listen , there 's only one thing you need to understand about me . 	ที่ลงมานี่คุณเสียใจเหรอ? ฟังนะ มีอย่างหนึ่งที่คุณควร 
+916	This is your house ? 	นี่บ้านคุณเหรอ? 
+917	Mine and Mal 's , yes . 	นี่บ้านคุณเหรอ? 
+918	Where is she ? 	แล้วเธออยู่ไหน? 
+919	She 's already gone . 	แล้วเธออยู่ไหน? 
+920	That 's my son , James . 	นั้นลูกผม 
+921	He 's digging for something , maybe a worm . 	นั้นลูกผม 
+922	That 's Phillipa . 	นั้น 
+923	I thought about calling out to them ... 	ฟิลิบบ้า 
+924	so they 'd turn and smile and I could see ... 	คุณเห็นมั้ย 
+925	those beautiful faces of theirs , but it 's all too late . 	ใบหน้าที่น่ารักของ 
+926	Right now or never , Cobb . 	เดี่ยวนี่ 
+927	Then I start to panic . 	จากนั้นผมก็เริ่มวิตก 
+928	I realize I 'm gonna regret this moment ... 	จากนั้นผมก็เริ่มวิตก 
+929	that I need to see their faces one last time . 	ผมต้องการเห็นใบหน้าพวกเค้าเป็นครั้งสุดท้าย 
+930	James ! 	เจมส์! 
+931	Phillipa ! 	ฟิลิบบ้า! 
+932	Come on in ! 	เข้ามาข้างใน! 
+933	But the moment 's past . 	แล้วนาทีนั้นก็ผ่านไป 
+934	And whatever I do , I ca n't change this moment . 	แล้วไม่ว่าจะทำยังไง 
+935	As I m about to call out to them ... 	ก่อนผมจะตะโกนเรียกพวกเขา 
+936	they run away . 	ก่อนผมจะตะโกนเรียกพวกเขา 
+937	If I m ever gonna see their faces again , I 've gotta get back home . 	ถ้าผมต้องการเห็นหน้าพวกเค้าอีก 
+938	The real world . 	โลกแห่งความจริง 
+939	What are you doing here ? 	คุณมาทำอะไรที่นี่? 
+940	My name is -- 	คุณมาทำอะไรที่นี่? 
+941	I know who you are . 	ฉัน ชื่อ... ฉันรู้คุณเป็นใคร 
+942	What are you doing here ? 	คุณมาทำอะไรที่นี่? 
+943	I 'm just trying to understand . 	ฉันก็แค่อยากจะเข้าใจเท่านั้น 
+944	How could you understand ? 	ฉันก็แค่อยากจะเข้าใจเท่านั้น 
+945	Do you know what it is to be a lover ? 	คุณรู้หรือว่าการเป็นคนรักเป็นยังไง? 
+946	To be half of a whole ? 	การเป็นครึ่งของคนอีกคน? 
+947	No . 	การเป็นครึ่งของคนอีกคน? 
+948	I 'll tell you a riddle . 	ฉันจะเล่าปริศนาให้คุณฟัง 
+949	You 're waiting for a train . 	คุณกำลังเฝ้ารอรถไฟ 
+950	A train that will take you far away . 	คุณกำลังเฝ้ารอรถไฟ 
+951	You know where you hope this train will take you ... 	คุณจะมีความหวังว่ารถไฟจะพาคุณไป 
+952	but you do n't know for sure . 	คุณจะมีความหวังว่ารถไฟจะพาคุณไป 
+953	But it does n't matter . 	แต่มันก็ไม่สำคัญ 
+954	How can it not matter to you where that train will take you ? 	แต่มันก็ไม่สำคัญ 
+955	Because you 'll be together . 	มันจะสำคัญได้อย่างไร ในเมื่อรถไฟจะพาคุณไปที่ไหน เพราะว่าเราจะได้อยู่ด้วยกัน. 
+956	How could you bring her here , Dom ? 	คุณพาเธอมาที่ได้ยังไง 
+957	- What is this place ? 	ดอม? 
+958	This is a hotel suite where we used to spend our anniversary . 	ที่นี่คือที่ไหน? นี่คือห้องสูทในโรงแรม เราเลือกที่มาฉลองครบรอบวันแต่งงาน 
+959	What happened here ? 	แล้วเกิดอะไรขึ้น? 
+960	You promised ! 	คุณสัญญาไว้! 
+961	You promised we 'd be together ! 	คุณสัญญาว่าเราจะอยู่ด้วยกัน! 
+962	Please , I need you to stay here just for now ! 	ขอร้องล่ะ, 
+963	You said we 'd be together ! 	ผมต้องการให้คุณอยู่ที่นี่! เพียงแค่ตอนนี่! คุณบอกว่าเราจะอยู่ด้วยกัน! 
+964	You said we 'd grow old together ! 	คุณบอกว่าเราจะแก่เฒ่าด้วยกัน! 
+965	I 'll come back for you . 	ผมจะกลับมาหาคุณ. 
+966	I promise . 	ผมสัญญา 
+967	Do you think you can just build a prison of memories to lock her in ? 	นี่คุณคิดว่าคุณสร้างคุกในความทรงจำก็สามารถขังเธอได้ใช่มั้ย? 
+968	Do you really think that that 's gonna contain her ? 	คุณคิดจริงๆหรือว่า 
+969	It 's time . 	คุกนั้นจะขังเธอได้? 
+970	Maurice Fischer just died in Sydney . 	ถึงเวลาแล้ว. 
+971	- When 's the funeral ? 	งานศพจัดเมื่อไร? 
+972	- Thursday . 	วันพฤหัส,ในลอสเองเจลิส. 
+973	In Los Angeles . 	
+974	Robert should accompany the body no later than Tuesday . 	โรเบิร์ตคงจะมาเฝ้าศพ 
+975	We should move . 	ไม่เกินอังคารนี่. 
+976	All right . 	เราต้องเตรียมพร้อม. ได้เลย. 
+977	- Cobb , I m coming with you . 	ค๊อป,ฉันจะไปกับคุณด้วย. 
+978	- I promised Miles . 	ผมสํญญากับไมล์ไว้,ไม่ได้. 
+979	No . 	
+980	The team needs someone who understands what you 're struggling with . 	แต่ว่าทีมต้องการคน 
+981	And it does n't have to be me ... 	ซึ่งมันก็ไม่จำเป็นต้องเป็นฉัน. 
+982	but then you have to show Arthur what I just saw . 	แต่คุณต้องให้ 
+983	Get us another seat on the plane . 	หาที่นั่งบนเครื่องเพิ่มอีกที่. 
+984	lf I get on this plane and you do n't honor our agreement ... 	ถ้าผมขึ้นเครื่องบินและคุณ 
+985	when we land , I go to jail for the rest of my life . 	ไม่ทำตามข้อตกลง. เมื่อถึงพื้นดิน,ผมคงต้อง ไปติดคุกตลอดชีวิต. 
+986	Complete the job en route ... 	เสร็จจากงานบนเครื่อง. 
+987	I make one phone call from the plane ... 	เสร็จจากงานบนเครื่อง. 
+988	you have no trouble getting through Immigration . 	ผมแค่โทรกริ๊งเดียวจากเครื่องบิน. คุณก็จะไม่มีปัญหา ในการผ่านด่านตรวจคนเข้าเมือง. 
+989	- I m sorry . 	ขอโทษครับ. 
+990	- Oh , yeah , absolutely . 	ขอโทษครับ. 
+991	Thank you . 	ขอโทษครับ. 
+992	Excuse me , I think this is yours ? 	ขอโทษครับ,ผมคิดว่านี่คงเป็นของคุณ 
+993	You must have dropped it . 	คุณทำมันหล่น. 
+994	Would you care for a drink ? 	ขอโทษค่ะ,จะดื่มอะไรดีค่ะ? 
+995	Oh . 	ขอโทษค่ะ,จะดื่มอะไรดีค่ะ? 
+996	Water , please . 	โอ,ขอน้ำเปล่าครับ. 
+997	Oh , um , same , please . 	โอ,ขอเหมือนกันครับ. 
+998	Um ... 	
+999	Thank you . 	เออ,ขอบคุณครับ. 
+1000	You know , I could n't help but notice ... 	คุณรู้มั้ยผมไม่ได้ตั้งใจสอดรู้นะ 
+1001	but you would n't happen to be related to the Maurice Fischer , would you ? 	คุณรู้มั้ยผมไม่ได้ตั้งใจสอดรู้นะ 
+1002	Yes , he , um ... 	ใช่,ท่าน... 
+1003	He was my father . 	ใช่,ท่าน... 
+1004	Well , he was a very inspiring figure . 	ใช่,ท่าน... 
+1005	I 'm sorry for your loss . 	ท่านเป็นพ่อผมเอง. 
+1006	- Here you go . 	นี่คุณเอาไปก่อน. 
+1007	- Thank you . 	ขอบคุณครับ 
+1008	Hey . 	เฮ้,ดื่มให้พ่อคุณ. 
+1009	To your father . 	เฮ้,ดื่มให้พ่อคุณ. 
+1010	May he rest in peace , huh ? 	เฮ้,ดื่มให้พ่อคุณ. 
+1011	- Could n't have peed before you went under ? 	ก่อนนอนหัดไปฉี่ก่อนซะบ้างนะ 
+1012	- Sorry . 	อะไรนะ. 
+1013	Bit too much free champagne before takeoff ? 	ซดแชมเปญฟรีมากไปหน่อย 
+1014	Ha , ha , bloody ha . 	ก่อนเครื่องออก,ใช่มั้ย,ยูซุฟ? ฮาฮ่า. ฮากันมากมั้ย. 
+1015	We know he 's gonna be looking for a taxi in this weather . 	เอาล่ะตอนนี่,เค้าจะต้อง 
+1016	- Asshole ! 	ไอ้บ้าเอ๊ย! 
+1017	Hey , man , why do n't you try -- ? 	เฮ้ 
+1018	- Walk away . 	พวก,ทำไมทำแบบนี่ว่ะ... 
+1019	Just have him ca -- I gotta go . 	ดูเหมือน 
+1020	All right . 	ดูเหมือน 
+1021	Taxi . 	ผมต้องไปล่ะ. 
+1022	Thank you . 	ตกลง. 
+1023	All right , Third and Market . 	เอาล่ะ 
+1024	Snappy . 	ไปตลาดที่สาม 
+1025	- What are you doing ? 	คุณจะทำอะไร? 
+1026	- Sorry , I thought it was free . 	โอ้ 
+1027	- It s not . 	โอ้ 
+1028	- Maybe we could share . 	ขอโทษ,ผมคิดว่ามันว่าง. 
+1029	Maybe not . 	งั้นก็แชร์ค่ารถ ไม่เอาล่ะ โชเฟอร์จอดรถเลย 
+1030	Can you pull over and get this -- ? 	แล้ว... 
+1031	Great . 	เยี่ยมเลย 
+1032	Come on . 	ขึ้นมา 
+1033	There 's 500 in there . 	มีเงินอยู่ 
+1034	The wallet 's worth more than that . 	500 
+1035	You might at least drop me at my stop . 	ดอลล่าร์นะ แต่กระเป๋าราคาแพงกว่า แล้วช่วยส่งผมลงที่หมายด้วยแล้วกัน 
+1036	I 'm afraid that it does n't -- 	ผมเกรงว่ามันจะ... 
+1037	- Cover him ! 	คุ้มกันเขา 
+1038	- Down ! 	โว้ยๆๆ 
+1039	Down now ! 	โว้ยๆๆ 
+1040	What the hell is going on ? 	โว้ยๆๆ 
+1041	This was n't in the design . 	ฉันไม่ได้ออกแบบไว้อย่างนี้ 
+1042	Cobb ? 	คอบบ์ 
+1043	Cobb ? 	คอบบ์ 
+1044	Get him ! 	ยิงมัน 
+1045	Are you all right ? 	เป็นอะไรมั้ย 
+1046	Yeah , I m okay . 	เป็นอะไรมั้ย 
+1047	I 'm okay . 	ไม่เป็นไร 
+1048	Fischer 's okay , unless he gets carsick . 	ฉันโอเค ฟิสเชอร์ปลอดภัย อาจจะเมารถนิดหน่อย 
+1049	Saito ? 	ไซโตะ 
+1050	Get Fischer in the back room now . 	พาฟิสเชอร์เข้าไปข้างหลังเดี๋ยวนี้เลย 
+1051	- Get him in the back room . 	พาเขาไปข้างหลังเร็ว 
+1052	Move . 	เกิดอะไรขึ้น 
+1053	- What the hell happened ? 	
+1054	Has he been shot ? 	เขาโดนยิงเหรอ 
+1055	Is he dying ? 	แล้วจะตายมั้ย 
+1056	I do n't know . 	ไม่รู้ ให้ตายสิ 
+1057	- Jesus Christ . 	
+1058	What happened to you ? 	นี่นายไปไหน 
+1059	- Blocked by a freight train . 	เกิดอะไรขึ้น 
+1060	Why put a train in a downtown intersection ? 	เราถูกรถไฟกั้นทางเอาไว้ ทำไมถึงใส่รถไฟเข้ามาตรงสี่แยกกลางตัวเมือง 
+1061	- I did n't . 	นี่ฉันเปล่านะ 
+1062	- Where 'd it come from ? 	แล้วมันมาจากไหน 
+1063	Why the hell were we ambushed ? 	ถามนายดีกว่ามั้ย 
+1064	Those were not normal projections . 	ทำไมเราถึงถูกซุ่มโจมตี นี่ไม่ใช่ภาพจากจิตธรรมดา พวกนั้นถูกฝึกการรบมาอย่างดี 
+1065	They 'd been trained , for God 's sakes . 	
+1066	- How could he be trained ? 	ถูกแล้วล่ะ 
+1067	- Fischer 's had an extractor ... 	ถูกฝึกมางั้นเหรอ 
+1068	teach his subconscious to defend itself , so his subconscious is militarized . 	ฟิสเชอร์จ้างนักจารกรรมมาสอน ให้จิตใต้สำนักของเขาป้องกันตัวเอง ฉะนั้นจึงทำให้จิตใต้สำนึกมีกองกำลัง 
+1069	It should 've shown in the research . 	ฉันไม่ได้ลงรายงาน 
+1070	Why the hell did n't it ? 	ฉันขอโทษ แล้วทำไมถึงไม่ยอมลงรายงาน ใจเย็นๆ 
+1071	- Calm down . 	
+1072	Do n't tell me to calm down ! 	นายอย่ามาบอกให้ฉันใจเย็น 
+1073	This was your job , goddamn it ! 	นายอย่ามาบอกให้ฉันใจเย็น 
+1074	This was your responsibility ! 	นี่เป็นหน้าที่ของนาย 
+1075	You were meant to check Fischer 's background ! 	เป็นความรับผิดชอบของนาย 
+1076	- We are not prepared for this ! 	ที่จะต้องเช็คประวัติฟิสเชอร์ทุกเม็ด เราไม่ได้เตรียมตัวมารับความรุนแรงอย่างนี้ เราเคยรับมือกับหน่วยปกป้องจิตใต้สำนึกมาก่อน 
+1077	- We have dealt with sub-security before ! 	
+1078	We 'll be more careful and we 're gonna be fine ! 	แค่เพิ่มความระวังเราก็ผ่านไปได้ 
+1079	This was not a part of the plan ! 	นี่ไม่ใช่แผนที่เราเตรียมมา 
+1080	He 's dying . 	นี่ไม่ใช่แผนที่เราเตรียมมา 
+1081	Put him out his misery . 	นี่ไม่ใช่แผนที่เราเตรียมมา 
+1082	- No , do n't do that ! 	เอาล่ะ 
+1083	Do n't do that . 	มาช่วยให้เขาพ้นทุกข์ดีกว่า 
+1084	- Cobb , hey , hey . 	ไม่ ไม่ อย่าทำอย่างนั้น 
+1085	He 's in agony . 	อย่ายิงเค้า 
+1086	I m waking him up . 	เขากำลังทรมาน 
+1087	No . 	ไม่ 
+1088	It wo n't wake him up . 	ไม่ 
+1089	What do you mean , it wo n't wake him up ? 	ไม่ 
+1090	When we die in a dream , we wake up . 	มันจะไม่ปลุกเขา หมายความว่ายังไงไม่ปลุกเขา มันจะไม่ช่วยปลุกเขา 
+1091	Not from this . 	เมื่อตายในฝัน 
+1092	We 're too heavily sedated to wake up that way . 	ไม่ใช่ฝันนี้ 
+1093	Right . 	เหรอ 
+1094	So , what happens when we die ? 	เหรอ 
+1095	- We drop into limbo . 	เหรอ 
+1096	- Are you serious ? 	แล้วจะเกิดอะไรขึ้นถ้าเราตาย 
+1097	- Limbo ? 	นายพูดจริงเหรอ 
+1098	- Unconstructed dream space . 	นรกไหน 
+1099	What the hell is down there ? 	พื้นที่ร้างในความฝัน 
+1100	- Just raw , infinite subconscious . 	แล้วจะมีอะไรอยู่ใต้นั้น 
+1101	Nothing is down there , except for what might have been left behind ... 	จิตใต้สำนึกที่เวิ้งว้าง 
+1102	by anyone sharing the dream who 's been trapped there before . 	ยกเว้นสิ่งที่ถูกทิ้งไว้โดยผู้ที่ร่วมแชร์ความฝัน 
+1103	Which , in our case , is just you . 	ซึ่งเคยติดอยู่ในนั้นมาก่อน 
+1104	- How long could we be stuck ? 	ในกรณีนี้ก็คือนาย แล้วเราจะติดอยู่ที่นั่นนานแค่ไหน 
+1105	- Ca n't even think about ... 	ไม่ต้องคิดหนีเลย 
+1106	- ... 	ไม่ต้องคิดหนีเลย 
+1107	trying to escape until the sedation -- - How long ? 	ต้องรอจนยาจะหมดฤทธิ์นั่นแหละ 
+1108	Decades . 	แค่ไหน 
+1109	It could be infinite . 	ยูซุฟ 
+1110	Ask him , he 's the one who 's been there . 	เป็นสิบๆปีหรือนานกว่านั้น ฉันไม่รู้ ถามเขาดูสิ 
+1111	Let 's get him upstairs . 	เขาเคยติดอยู่ที่นั่นมาก่อน 
+1112	Great . 	เยี่ยม 
+1113	Thank you . 	เยี่ยม 
+1114	So now we 're trapped in Fischer 's mind , battling his own private army . 	ตอนนี้เราติดอยู่ในจิตของฟิสเชอร์ 
+1115	And if we get killed ... 	ต่อสู้กับกองกำลังของเขา 
+1116	we 'll be lost in limbo till our brains turn to scrambled egg , hmm ? 	และถ้าเราถูกฆ่า เราจะดิ่งลงห้วงนรก จนสมองเละเป็นไข่ตุ๋น 
+1117	Someone got first aid ? 	ต้องปฐมพยาบาล 
+1118	- You knew these risks and did n't tell us ? 	นายรู้ว่ามีความเสี่ยงแล้วไม่บอกเรา 
+1119	- There were n't meant to be risks . 	เราจะไม่เสี่ยงอะไรแบบนี้ 
+1120	- I did n't know we 'd be dealing with gunfire . 	เราจะไม่เสี่ยงอะไรแบบนี้ 
+1121	- You had no right . 	ถ้าเราไม่เจอกับกองกำลังติดอาวุธ 
+1122	This was the only way to go three layers deep . 	นายไม่มีสิทธิ 
+1123	You knew about this and went along with it ? 	ทางเดียวที่เราจะลงฝันสามระดับ ส่วนนาย นายรู้เรื่องนี้มาโดยตลอด 
+1124	I trusted him . 	ฉันไว้ใจเขา 
+1125	When ? 	ไว้ใจเขาเหรอ 
+1126	When he promised you half his share ? 	ไว้ใจอะไร 
+1127	No . 	เขาจะยกส่วนแบ่งให้ครึ่งหนึ่งละซิ เปล่า เขาให้หมด 
+1128	His whole share . 	เขาบอกว่า 
+1129	Besides , he said he 'd done it before . 	เขาเคยทำมาก่อน 
+1130	What , with Mal ? 	เคยทำมาก่อนงั้นเหรอ 
+1131	Because that worked so good ? 	ทำอะไร 
+1132	That has nothing to do with it . 	กับมอลล์งั้นเหรอ ได้ผลดีมากละซิท่า มันไม่เกี่ยวกันเลย 
+1133	I did what I had to to get to my children . 	ฉันทำในสิ่งที่ฉันต้องทำ 
+1134	You led us into a war zone with no way out ? 	เพื่อกลับไปหาลูกฉัน เลยลากมาสนามรบที่ไม่ทางออกเนี๊ย 
+1135	There is a way out . 	นี่คือทางออก 
+1136	We continue on with the job , and we do it as fast as possible ... 	เอาละ 
+1137	and we get out using the kick , just like before . 	และเมื่อออกไป 
+1138	Forget it . 	เราจะใช้การปลุก อย่างที่เคยทำมา ลืมมันได้เลย 
+1139	We go any deeper , we just raise the stakes . 	ยิ่งลงไปลึก 
+1140	I am sitting this one out on this level . 	ยิ่งเพิ่มความเสี่ยง ฉันจะตั้งแช่อยู่ในระดับนี้แหละ 
+1141	Fischer 's security is surrounding this place . 	กองกำลังของ 
+1142	Ten hours of flight time is a week at this level . 	ฟิชเชอร์ล้อมที่นี่ไว้หมดแล้ว สิบชั่วโมงในการบินคือหนึ่งอาทิตย์ในชั้นนี้ 
+1143	That means each and every one of us will be killed . 	แปลว่าเราทุกคนจะถูกฆ่าตาย 
+1144	That I can guarantee you . 	ฉันรับประกันได้เลย 
+1145	We have no other choice but to continue on and do it as fast as possible . 	พวกเราไม่มีทางเลือกนอกจาก 
+1146	Downwards is the only way forwards . 	ต้องลงคือทางเดียวที่จะขึ้นได้ 
+1147	Get ready . 	เตรียมพร้อมนะ 
+1148	You , come on . 	เตรียมพร้อมนะ 
+1149	Let 's go shake him up . 	นาย 
+1150	I 'm insured against kidnapping for up to 10 million . 	ฉันมีการประกันลักพาตัวเป็นเงินสิบล้านเหรียญนะ 
+1151	- This should be very simple . 	แลกกันไ้ด้ง่ายเลย 
+1152	- Shut up ! 	ฮุบปาก 
+1153	It wo n't be . 	มันไม่ง่ายอย่างนั้นหรอก 
+1154	In your father 's office , below the bookshelves ... 	ห้องทำงานพ่อนาย 
+1155	is his personal safe . 	ห้องทำงานพ่อนาย 
+1156	We need the combination . 	ที่ใต้ชั้นหนังสือ 
+1157	I do n't know any safe . 	เราต้องการรหัสเซปนั่น 
+1158	That does n't mean you do n't know the combination . 	ฉันไม่รู้เรื่องเซป มันก็ไม่ได้หมายความว่านายไม่รู้รหัสตู้เซปนั่น 
+1159	Tell us what it is . 	บอกรหัสฉันมา 
+1160	I do n't know . 	บอกรหัสฉันมา 
+1161	We have it on good authority you do know . 	แหล่งข่าวที่เชื่อถือได้ของเราบอกว่านายรู้ 
+1162	Yeah ? 	เหรอ 
+1163	Whose authority ? 	ใครเหรอเป็นแหล่งข่าวที่เชื่อถือได้ของนาย 
+1164	- Five hundred dollars , this cost . 	500 
+1165	- What 's inside it ? 	เหรียญ 
+1166	Cash , cards , ID . 	ข้างในมีอะไร 
+1167	And this . 	เงิน 
+1168	Useful ? 	ช่วยได้ไหม 
+1169	Maybe . 	ช่วยได้ไหม 
+1170	You 're on . 	อาจจะ 
+1171	You 've got an hour . 	นายจัดการ 
+1172	An hour ? 	นายจัดการ 
+1173	I was supposed to have all night to crack this . 	ฉันควรจะมีเวลาทั้งคืนเพื่อแฮ็คข้อมูล 
+1174	And Saito was n't supposed to be shot in the chest . 	เซโตะ 
+1175	You 've got one hour , now get us something useful , please . 	ไม่ควรโดนยิงที่หน้าอกใช่ไหม มีเวลาหนึ่งชั่วโมงดึงข้อมูลที่มีประโยชน์ออกมา 
+1176	- What 's that ? 	นั่นอะไร 
+1177	- Good authority . 	เสียงของแหล่งข่าว 
+1178	Uncle Peter . 	ลุงปีเตอร์ 
+1179	Just make them stop . 	เอาหละสั่งคนข้างในให้หยุด 
+1180	- The combination . 	เอาหละสั่งคนข้างในให้หยุด 
+1181	- I do n't know it . 	บอกรหัสเซปมา 
+1182	- Why does Browning say you do ? 	ฉันไม่รู้ 
+1183	- I do n't know . 	ทำไมบราวนี่บอกว่านายรู้ 
+1184	Just let me talk to him and I ll find out . 	ฉันไม่รู้ 
+1185	You have one hour . 	นายมีเวลาหนึ่งชั่วโมง 
+1186	Start talking . 	นายต้องบอกเรามา 
+1187	You all right ? 	ลุงเป็นไรไหม 
+1188	You okay ? 	โอเค 
+1189	Those bastards have had at me for two days . 	ได้สารเลวพวกนี้มันจับตัวลุงมาสองวันแล้ว 
+1190	They have someone with access to your father 's office . 	พวกมันไปค้นห้องทำงานของพ่อเธอ 
+1191	- They 're trying to open his safe . 	พวกมันไปค้นห้องทำงานของพ่อเธอ 
+1192	- Yeah . 	และพยายามจะเปิดตู้เซป 
+1193	They thought I 'd know the combination , but I do n't know it . 	ใช่ 
+1194	- Yeah , well , neither do I , so ... 	พวกมันคิดว่าลุงรู้รหัสเปิด แต่ลุงไม่รู้เลยจริงๆ ผมก็ไม่รู้เหมือนกัน 
+1195	- What ? 	อะไรนะ 
+1196	Maurice told me that when he passed , you were the only one able to open it . 	มอริช 
+1197	No , he never gave me any combination . 	บอกลุงว่าถ้าเขาตาย เธอคนเดียวเท่านั้นที่จะเปิดมันได้ ไม่ครับ 
+1198	Maybe he did . 	เขาอาจจะบอก 
+1199	I mean , maybe you just did n't know it was a combination . 	แต่บางทีเธออาจไม่รู้ 
+1200	Well , what , then ? 	ว่ามันเป็นรหัสตู้เซป มันเป็นยังไงเหรอครับ 
+1201	I do n't know , some meaningful combination of numbers ... 	ฉันไม่รู้ 
+1202	based on your experiences with Maurice . 	บางทีอาจจะเป็นพวกตัวเลข ประสบการณ์ที่ดีระหว่างเธอกับมอริช 
+1203	We did n't have very many , uh , meaningful experiences together . 	เราไม่ได้มีประสบการณ์ที่มีความหมายต่อกันมากนัก 
+1204	Perhaps after your mother died . 	แล้วหลังจากที่แม่เธอตายหละ 
+1205	After my mother died , you know what he told me ? 	หลังจากที่แม่ผมตาย 
+1206	Robert , there 's really nothing to be said . 	หลังจากที่แม่ผมตาย 
+1207		หลังจากที่แม่ผมตาย 
+1208	Oh , well , he was bad with emotion . 	โรเบิร์ต 
+1209	I was 11 , Uncle Peter . 	จริงๆ 
+1210	- How 's he doing ? 	เขาเป็นไงบ้าง 
+1211	- He 's in a lot of pain . 	เจ็บปวดทรมาน 
+1212	When we get down to the lower levels , the pain will be less intense . 	เมื่อเราลงลึกกว่านี้ 
+1213	And if he dies ? 	ความเจ็บปวดจะน้อยลง 
+1214	Worst-case scenario ? 	แล้วถ้าเขาตายหละ 
+1215	When he wakes up , his mind is completely gone . 	อย่างเลวร้ายที่สุดนะเหรอ เมื่อเขาตื่น สมองเขาจะไม่รับรู้อะไรอีก 
+1216	Cobb , I 'll still honor the arrangement . 	ค็อป 
+1217	I appreciate that , Saito . 	ค็อป 
+1218	But when you wake up , you wo n't even remember that we had an arrangement . 	ฉันยังอยากจะทำตามข้อตกลงของเรา 
+1219	Limbo is gonna become your reality . 	แต่ 
+1220	You 're gonna be lost down there so long that you 're gonna become an old man . 	พวกนรกจะกลายเป็นโลกของคุณ คุณจะหลงอยู่ในนั้นอย่างยาวนาน จนคุณกลายเป็นตาแก่ 
+1221	Filled with regret ? 	อยู่กับความเสียใจ 
+1222	Waiting to die alone . 	อยู่กับความเสียใจ 
+1223	No . 	อยู่กับความเสียใจ 
+1224	I 'll come back . 	ไม่ผมจะกลับไป 
+1225	And we 'll be young men together again . 	ไม่ผมจะกลับไป 
+1226	Breathe . 	สูดหายใจ 
+1227	These people are gonna kill us if we do n't give them the combination . 	คนพวกนี้จะฆ่าเรา 
+1228	- They just wanna ransom us . 	ถ้าเราไม่บอกรหัสเซปให้เขา พวกมันแค่จะเรียกค่าไถ่\ ฉันได้ยินพวกมันพูด 
+1229	- I heard them . 	
+1230	They 're gonna lock us in that van , and then drive it into the river . 	พวกมันจะจับเราใส่รถตู้ 
+1231	All right . 	พวกมันจะจับเราใส่รถตู้ 
+1232	What is in the safe ? 	จากนั้นก็ขับลงแม่น้ำ 
+1233	Something for you . 	งั้นเหรอ 
+1234	Maurice always said it was his most precious gift to you . 	มอริซพูดเสมอว่า 
+1235	- A will . 	พินัยกรรม ? นั่นมอริชควรจะเก็บไว้กับ 
+1236	- Maurice 's will is with Port and Dunn . 	พอร์ทและดันน์ 
+1237	That 's an alternate . 	พอร์ทและดันน์ 
+1238	This would supersede the other if you want it to . 	นั่นเป็นชุดสำรอง 
+1239	It splits up the component businesses of Fischer Morrow . 	นี่จะใช้แทนที่มันได้เลยถ้าเธอต้องการ มันจะแยกส่วนธุรกิจ ที่ 
+1240	It 'd be the end of the entire empire as we know it . 	ฟิชเชอร์ 
+1241	Destroying my whole inheritance ? 	ทำลายมรดกของผมอย่างงั้นเหรอ 
+1242	- Why would he suggest such a thing ? 	ทำลายมรดกของผมอย่างงั้นเหรอ 
+1243	- I just do n't know . 	เขาทำอย่างนั้นไปทำไม 
+1244	He loved you , Robert . 	ฉันก็ไม่รู้ 
+1245	In his own way . 	ในแบบของเขา 
+1246	In his own way . 	ในแบบของเขา 
+1247	At the end ... 	เฮีอกสุดท้าย 
+1248	he called me in to his deathbed . 	เฮีอกสุดท้าย 
+1249	He could barely speak . 	และผมแทบไม่ได้ยินเสียงพูด 
+1250	But he took the trouble to tell me one last thing . 	แต่เขายังพยายาม 
+1251	He pulled me close . 	เขาดึงผมไปใกล้ๆ 
+1252	And I could only make out ... 	เขาดึงผมไปใกล้ๆ 
+1253	one word . 	เขาดึงผมไปใกล้ๆ 
+1254	Disappointed . 	ผิดหวัง 
+1255		
+1256	When were you in limbo ? 	คุณเคยไปห้วงนรกเมื่อไหร่ 
+1257	You might have the rest of the team convinced to carry on with this job . 	คุณให้คนในทีมมีความเชื่อมั่น 
+1258	- But they do n't know the truth . 	ในการทำงานนี้ต่อไป แต่พวกเขาไม่รู้ความจริง ความจริง 
+1259	- Truth ? 	? 
+1260	What truth ? 	ความจริงเรื่องอะไร 
+1261	The truth that , at any minute , you might bring a freight train through the wall . 	? ความจริงที่ทุกๆนาที คุณอาจจะเอารถไฟวิ่งฝ่ากำแพงมา 
+1262	The truth that Mal is bursting through your subconscious . 	ความจริงที่ว่ามอลยังอยู่ในจิตใต้สำนึกของคุณ 
+1263	And the truth that , as we go deeper into Fischer ... 	และความจริงที่ลงลึกไปหา 
+1264	we 're also going deeper into you . 	ฟิชเชอร์ พวกเราก็ลงลึกไปหาคุณด้วย 
+1265	And I m not sure we 're gonna like what we find . 	และฉัน 
+1266	We were working together . 	ตอนที่เรากำลังทำงานร่วมกัน 
+1267	We were exploring the concept of a dream within a dream . 	ตอนที่เรากำลังทำงานร่วมกัน 
+1268	I kept pushing things . 	ตอนที่เรากำลังทำงานร่วมกัน 
+1269	I wanted to go deeper and deeper . 	ฉันทุ่มเทกับมัน 
+1270	I wanted to go further . 	ฉันต้องการจะไปให้ลึก 
+1271	I just did n't understand the concept that hours could turn into years down there ... 	ฉันก็ไม่รู้คอนเซ็ปที่ว่า 
+1272	that we could get trapped so deep ... 	หนึ่งชั่วโมงในนี้เท่ากับสามปีในความฝัน เราอาจจะติดกับลึกจนกระทั่ง 
+1273	that when we wound up on the shore of our own subconscious ... 	เมื่อเราขึ้นฝั่งของจิตใต้สำนึกเรา 
+1274	we lost sight of what was real . 	เราแยกไม่ออกเลยว่าฝันหรือว่าจริง 
+1275	We created . 	เราคิด 
+1276	We built the world for ourselves . 	เราสร้างโลกเพื่อเราสองคน 
+1277	We did that for years . 	เราใช้เวลาสร้างหลายปี 
+1278	We built our own world . 	เราใช้เวลาสร้างหลายปี 
+1279	How long were you stuck there ? 	คุณติดอยู่ในฝันนานแค่ไหน 
+1280	Something like 50 years . 	คุณติดอยู่ในฝันนานแค่ไหน 
+1281	Jesus . 	พระเจ้า 
+1282	How could you stand it ? 	พระเจ้า 
+1283	It was n't so bad at first , feeling like gods . 	คุณอยู่ได้ยังไง มันก็ไม่แย่นักหรอกในตอนแรก ก็รู้สึกดี 
+1284	The problem was knowing that none of it was real . 	ปัญหาคือเรารู้ว่าทุกสิ่งนั้นมันไม่เป็นจริง 
+1285	Eventually , it just became impossible for me to live like that . 	และท้ายที่สุด 
+1286	And what about for her ? 	มันเป็นไปไม่ได้ที่จะอยู่แบบนั้น 
+1287	She had locked something away , something deep inside her . 	เธอขังบางสิ่งบางอย่างเอาไว้ 
+1288	A truth that she had once known , but chose to forget . 	ความจริงที่เธอรู้ 
+1289	Limbo became her reality . 	ห้วงนรกกลายเป็นโลกจริงของเธอ 
+1290	What happened when you woke up ? 	แล้วอะไรเกิดขึ้นเมื่อคุณตื่นขึ้นมา 
+1291	Well , to wake up from that after years , after decades ... 	? การตื่นขึ้นหลังจากผ่านมาหลายปี หลายสิบปี 
+1292	to become old souls thrown back into youth like that ? 	กลายเป็นวิญญาณของคนแก่ 
+1293	I knew something was wrong with her . 	ผมได้รู้ว่ามีบางสิ่งผิดปกติกับเธอ 
+1294	She just would n't admit it . 	แต่เธอไม่ยอมรับมัน 
+1295	Eventually , she told me the truth . 	ในที่สุดเธอยอมบอกความจริงกับผม 
+1296	She was possessed by an idea . 	ในที่สุดเธอยอมบอกความจริงกับผม 
+1297	This one very simple idea that changed everything . 	เธอว่าเธอถูกความคิดหนึ่งครอบงำ เป็นความคิด ที่แสนจะเรียบง่าย 
+1298	That our world was n't real . 	นั่นเธอคิดว่าโลกเราไม่ใช่ความจริง 
+1299	That she needed to wake up to come back to reality ... 	นั่นเธออยากจะตื่นขึ้นมา 
+1300	that in order to get back home ... 	หากเราอยากจะกลับบ้่าน 
+1301	we had to kill ourselves . 	หากเราอยากจะกลับบ้่าน 
+1302	- What about your children ? 	แล้วลูกของคุณหละ 
+1303	- She thought they were projections ... 	เธอคิดว่าพวกเขาเป็นภาพสะท้อน 
+1304	that our real children were waiting for us up there somewhere . 	เธอคิดว่าลูกเราจริงๆ 
+1305	- I m their mother ! 	ฟังนะ 
+1306	- Calm down . 	ค็อบ 
+1307	I can tell the difference . 	ฉันเป็นแม่นะ 
+1308	If this is my dream , why ca n't I control this ? 	คุณแยะไม่ออกเลยงั้นเหรอ ถ้านี่คือความฝันของฉัน แล้วทำไมฉันควบคุมมันไม่ได้ 
+1309	You do n't know you 're dreaming ! 	? เพราะคุณไม่รู้ตัวว่าคุณกำลังฝันอยู่ไงล่ะ! 
+1310	She was certain there was nothing I could do ... 	เธอมั่นใจว่าผมทำอะไรไม่ได้ 
+1311	no matter how much I begged , no matter how much I pleaded . 	ไม่ว่าจะขอร้องซักเท่าไหร่ก็ตามแต่ จะอ้อนวอนยังไงก็ตาม 
+1312	She wanted to do it , but she could not do it alone . 	เธออยากทำมัน 
+1313	She loved me too much , so she came up with a plan on our anniversary . 	แต่เธอทำเพียงลำพังไม่ได้ เธอรักฉันมาก เธอวางแผนในวันครบรอบของเรา 
+1314	- Sweetheart , what are you doing ? 	ที่รัก 
+1315	- Join me . 	นั่นคุณกำลังจะทำอะไร 
+1316	Just -- Just step back inside . 	มากับฉัน เข้ามาข้างในได้ไหม แค่เข้ามาข้างใน 
+1317	All right ? 	นะที่รัก 
+1318	Just step back inside now , come on . 	
+1319	No . 	ไม่ 
+1320	I 'm going to jump , and you 're coming with me . 	ไม่ 
+1321	No , I 'm not . 	ไม่ 
+1322	Now , you listen to me . 	ฉันจะกระโดดลงไปและคุณต้องมากับฉันด้วย 
+1323	If you jump , you 're not gonna wake up , remember ? 	ไม่ 
+1324	You 're gonna die . 	ผมไม่ไป แต่ตอนนี้คุณต้องฟังผมก่อน ถ้าคุณกระโดดลงไป 
+1325	Now , just step back inside . 	ถ้าคุณกระโดดลงไป 
+1326	Come on . 	ถ้าคุณกระโดดลงไป 
+1327	Step back inside so we can talk about this . 	คุณจะตายนะ 
+1328	We 've talked enough . 	กลับเข้ามาในห้องเถอะ 
+1329	- Mal . 	มอล 
+1330	- Come out onto the ledge ... 	มอล 
+1331	- ... 	มอล 
+1332	or I ll jump right now . 	ออกมาที่ระเบียงหรือจะให้ฉันโดนตอนนี้ โอเค 
+1333	- Okay . 	
+1334	We 're gonna talk about this . 	เราจะมาคุยเรื่องนี้กัน 
+1335	All right ? 	เราจะมาคุยเรื่องนี้กัน 
+1336	- I m asking you to take a leap of faith . 	ตกลงมั้ย? ฉันกำลังขอให้คุณท้าทายโชคชะตา ไม่ 
+1337	- No , honey . 	ที่รัก 
+1338	No , I ca n't . 	ผมทำไม่ได้ 
+1339	You know I ca n't do that . 	คุณก็รู้ว่าผมทำไม่ได้ 
+1340	Take a second , think about our children . 	ให้คิดถึงลูกเราสักนิดนึงนะ 
+1341	Think about James . 	คิดถึงเจมส์ 
+1342	Think about Phillipa , now . 	คิดถึงเจมส์ 
+1343	If I go without you , they 'll take them away anyway . 	คิดถึงฟิลิปป้าบ้าง ตอนนี้ ถ้าฉันตายกับคุณ 
+1344	- What does that mean ? 	หมายความว่าอะไร ฉันได้ส่งจดหมายไปหาทนายของเรา 
+1345	- I filed a letter with our attorney ... 	
+1346	explaining how I 'm fearful for my safety . 	อธิบายว่าฉันหวาดกลัวความปลอดภัยฉันมากแค่ไหน 
+1347	How you 've threatened to kill me . 	บอกเขาว่าคุณขู่จะฆ่าฉันไง 
+1348	- Why did you do this ? 	ทำไมคุณทำัอย่างนั้น 
+1349	- I love you , Dom . 	ฉันรักคุณนะ 
+1350	Why did -- ? 	ดอม ทำไมคุณทำ ทำไม 
+1351	Why would you do this to me ? 	ทำไมคุณกับผมอย่างนี้ 
+1352	I 've freed you from the guilt of choosing to leave them . 	ฉันจะปลดปล่อย 
+1353	We 're going home to our real children . 	จากความรู้สึกที่ทิ้งลูกมา พวกเราจะกลับบ้าน ไปหาลูกจริงๆของเรา 
+1354	Oh , no , no , no , Mal , you listen to me , all right ? 	ไม่ 
+1355	Mal , look at me , please ? 	ไม่ 
+1356	You 're waiting for a train . 	ไม่ 
+1357	- Mal , goddamn it , do n't do this ! 	คุณกำลังรอรถไฟ มอล ให้ตายสิ 
+1358	- A train that will take you far away . 	อย่าทำแบบนี้ 
+1359	James and Phillipa are waiting for you ! 	รถไฟจะพาคุณไปไกลแสนไกล 
+1360	You know where you hope this train will take you , but you ca n't know for sure . 	เจมส์และฟิลิปป้ารอคุณอยู่นะ คุณหวังว่ารถไฟจะพาคุณไป ลูกกำลังรอเราทั้งคู่นะ! 
+1361	- Mal , look at me ! 	แต่คุณก็ยังไม่มั่นใจ มอล มองผมสิ! 
+1362	- But it does n't matter . 	แต่มันก็ไม่สำคัญ 
+1363	- Mal , goddamn it ! 	มอล 
+1364	Mal , listen to me ! 	ให้ตายสิ! 
+1365	- Because you 'll be together . 	เพราะคุณจะได้อยู่ด้วยกัน 
+1366	Sweetheart ! 	ที่รัก 
+1367	Look at me ! 	มองผมสิ! 
+1368	Mal , no ! 	มองผมสิ! 
+1369	Jesus Christ ! 	มองผมสิ! 
+1370	She had herself declared sane by three different psychiatrists . 	เธอให้จิตแพทย์สามคนยืนยันว่าสภาพจิตของเธอปกติ 
+1371	It made it impossible for me to try to explain the nature of her madness . 	นั่นทำให้ผมไม่สามารถอธิบายความผิดปกติทางจิตของเธอได้ 
+1372	So I ran . 	เพราะฉะนั้น 
+1373	Right now , or never , Cobb . 	ต้องเดี๋ยวนี้ 
+1374	James ! 	เอาหละ 
+1375	Phillipa ! 	ไปได้ 
+1376	Come on in ! 	
+1377	Come on ! 	
+1378	All right , let 's go . 	
+1379	I left my children behind and I 've been trying to buy my way back ever since . 	ผมทิ้งลูกๆ 
+1380	Your guilt defines her . 	ความรู้สึกผิดของคุณที่มีกับเธอ 
+1381	It 's what powers her . 	มันทำให้เธอมีอำนาจ 
+1382	But you are not responsible for the idea that destroyed her . 	แต่คุณก็ไม่รับผิดชอบ 
+1383	And if we are gonna succeed in this ... 	และถ้าเราจะทำงานนี้ให้ลำเร็จ 
+1384	you have to forgive yourself , and you 're gonna have to confront her . 	คุณต้องให้อภัยตัวคุณเอง 
+1385	But you do n't have to do that alone . 	คุณต้องกล้าเผชิญหน้ากับเธอ แต่คุณไม่สามารถทำงานนี้ได้เีพียงลำพัง 
+1386	- No , you 're not ... 	ไม่ 
+1387	- I m doing it for the others . 	ไม่ 
+1388	Because they have no idea the risk they 've taken coming down here with you . 	เพราะพวกเขาไม่คิดถึงความเสี่ยง 
+1389	We have to move . 	เราต้องไปเดี๋ยวนี้แล้วล่ะ 
+1390	Time 's up . 	หมดเวลา 
+1391	All right . 	หมดเวลา 
+1392	I do n't know any combination . 	เอาหละ 
+1393	- Not consciously , anyway . 	ฉันไม่รู้จริงๆ 
+1394	- How about instinctively , huh ? 	แล้วโดยสัญชาตญาณ 
+1395	I got somebody in your father 's office right now ready to tap in the combination . 	ฉันส่งคนไปที่ห้องทำงานของพ่อนายแล้วตอนนี้ พร้อมที่จะใส่รหัสเปิดเซป 
+1396	Give me the first six numbers that come to your head right now . 	ผมต้องการตัวเลขหกตัวที่คุณคิดออกตอนนี้ 
+1397	- I have no idea . 	ผมไม่รู้ 
+1398	- Right now ! 	ผมคิดไม่ออก 
+1399	I said , right now ! 	เดี๋ยวนี้! 
+1400	Right now ! 	ผมพูดว่าตอนนี้! 
+1401	Five , two , eight , four , nine , one . 	ผมพูดว่าตอนนี้! 
+1402	You 'll have to do better than that . 	นายน่าจะมีตัวเลขที่ดีกว่านั้น 
+1403	All right . 	เอาหละ 
+1404	Bag them . 	คลุมหัวเขา 
+1405	You 're going for a ride . 	เราจะไปนั่งรถกัน 
+1406	We 're worth more to you alive . 	คุณจะทำอะไร 
+1407	You hear me ? 	ฆ่าผมเหรอ 
+1408	What 'd you get ? 	ได้อะไรบ้าง 
+1409	Relationship with his father is worse than we imagined . 	ความสัมพันธ์กับพ่อของไอ้เด็กนั้น 
+1410	This helps us how ? 	ความสัมพันธ์กับพ่อของไอ้เด็กนั้น 
+1411	The stronger the issues , the more powerful the catharsis . 	นี่มันช่วยเราได้ยังไง ปัญหายังหนักหน่วง การระเบิดอารมณ์ยิ่งรุนแรง 
+1412	- How are we gonna reconcile them ? 	คุณจะทำงานได้อย่างไร 
+1413	- I m working on that . 	เมื่อเขาหลับอย่างนี้ 
+1414	Work faster . 	ผมก็กำลังทำอยู่นี่ไง ทำให้อย่างไว กองกำลังมันเคลื่อนเข้ามากอย่างเร็ว 
+1415	The projections are closing in quick . 	
+1416	We gotta break out of here before we 're totally boxed in . 	เราต้องไปจากที่นี่ 
+1417	Damn it . 	แม่งเอ๊ย 
+1418	You must n't be afraid to dream a little bigger , darling . 	คุณไม่ต้องกลัวกับฝันที่จะยิ่งใหญ่ 
+1419	We need to shift his animosity from his father to his godfather . 	ตอนนี้ 
+1420	- Destroy his one positive relationship ? 	เราต้องเปลี่ยนความเกลียดของเขาที่มีต่อพ่อ เป็นพ่อบุณธรรมเขาแทน เราจะไปทำลายความผูกพันธ์เดียวที่เขามีเหรอ 
+1421	- No , repair his relationship with his father ... 	ไม่ 
+1422	whilst exposing his godfather 's true nature . 	แล้วเปิดโปงธาตุแท้ของพ่อบุญธรรมเขา 
+1423	We should charge Fischer a lot more than Saito for this job . 	เราต้องคิดเงินฟิชเชอร์มากกว่าไซโตะแล้วมั้ง 
+1424	His security is gonna get worse as we go deeper . 	กองกำลังเขาจะเป็นยังไง 
+1425	- I think we run with Mr . Charles . 	มันจะเลวร้ายมั้ยหาเราลงลึก ไม่ ฉันคิดว่าเราจะไปหาคุณชาร์ล 
+1426	- No . 	ไม่นะ 
+1427	Who 's Mr . Charles ? 	ไม่นะ 
+1428	- Bad idea . 	ใครคือคุณชาร์ลส 
+1429	The second we get into that hotel his security 's gonna be all over us . 	นั่นเป็นความคิดที่แย่มากเลยนะ วินาทีที่เราถึงโรงแรมและเขาใกล้ฟิชเชอร์ 
+1430	We run with Mr . Charles like on the Stein job . 	กองกำลังของเขาจะเล่นงานเรา 
+1431	- You 've done it before ? 	เราจะใช้คุณชาร์ลเหมือนที่เราได้ทำงานที่ผ่านมานี้ คุณทำมาแล้วเหรอ ใช่ 
+1432	- Yeah , and it did n't work . 	และมันไม่ได้ผล 
+1433	The subject realized he was dreaming and his subconscious tore us to pieces . 	หากเป้าหมายรู้ว่าเขากำลังฝัน 
+1434	Excellent . 	และเขาฉีกพวกเราเป็นชิ้นๆแน่ เยี่ยม แต่นายต้องเรียนรู้อะไรอีกมา 
+1435	But you learned a lot , right ? 	จริงไหม 
+1436	- I need some kind of distraction . 	ฉันต้องการตัวหลอกล่อนะ 
+1437	- No problem . 	ไม่มีปัญหา 
+1438	How about a lovely lady that I 've used before ? 	ไม่มีปัญหา 
+1439	Listen to me . 	เอาสาวสวยที่ฉันเคยใช้มาก่อนเป็นไง? ฟังนะ คุณขับรถระวังให้มาก 
+1440	You drive carefully , all right ? 	ได้ไหม 
+1441	Everything down there is gonna be unstable as hell . 	ได้ เมื่อลงไปข้างล่างแล้ว เหมือนลงนรกเลย 
+1442	Do n't jump too soon . 	อย่าลงเร็วเกินไป 
+1443	We only got one shot at that kick . 	เราปลุกตัวเองได้ครั้งเดียวมันต้องสำเร็จ 
+1444	We gotta make it . 	
+1445	I 'll play the music to let you know it 's coming . 	ฉันจะเปิดเพลงให้นายรู้ 
+1446	The rest is on you . 	ที่เหลือขึ้นอยู่กับนายแล้วกัน 
+1447	- You ready ? 	พร้อมหรือยัง 
+1448	- Ready ! 	พร้อม 
+1449	Sweet dreams . 	ฝันดีนะ 
+1450	Am I boring you ? 	ฉันทำคุณเบื่องั้นเหรอ? 
+1451	I was telling you my story . 	ฉันอยากเล่าเรื่องของตัวเอง 
+1452	I guess it was n't to your liking . 	คุณคงไม่อยากฟังหรอก 
+1453	Um , I have a lot on my mind . 	ผมคิดอะไรหลายอย่าง 
+1454	There goes Mr . Charles . 	คุณชาร์ลมาโน่นแล้ว 
+1455	Mr . Fischer , right ? 	คุณคือฟิชเชอร์ 
+1456	Pleasure to see you again . 	ใช่มั้ย? ยินดีที่ได้พบกันอีก ผมร็อด 
+1457	Rod Green from marketing . 	กรีน 
+1458	I -- 	จากฝ่ายการตลาด 
+1459	Hmm . 	ส่วนคุณต้องเป็น 
+1460	- And you must be ? 	ส่วนคุณต้องเป็น 
+1461	- Leaving . 	ฉันจะไปแล้ว 
+1462	In case you get bored . 	กรณีถ้าคุณเบื่อนะ 
+1463	Must 've blown you off . 	เธอหาเรื่องชิ้งหนีนะ 
+1464	That is , unless her phone number really is only six digits . 	เว้นแต่ว่าเบอร์โทรศัพท์ของเธอ 
+1465	Funny way to make friends , someone stealing your wallet like that . 	528-491 เป็นเพื่อนที่แปลกดี แอบฉกกระเป๋าคุณไปอย่างนั้น 
+1466	Goddamn it . 	บ้าเอ๊ะ 
+1467	The wallet alone is worth at least 500-- 	แค่กระอย่างเดียวกับเงินแค่ 
+1468	About 500 , right ? 	500 
+1469	Do n't worry about it . 	เหรียญ ใช่ไหม? ฟังนะ 
+1470	My people are already on it as we speak . 	ไม่ต้องกังวลเรื่องนั้น 
+1471	Who or what is Mr . Charles ? 	คนของผมกำลังจัดการอยู่ตอนนี้ คุณชาร์ลสคือใคร คืออะไรกันแน่? 
+1472	It 's a gambit designed to turn Fischer against his own subconscious . 	เป็นเทคนิคที่หลอกให้ฟิชเชอร์ 
+1473	And why do n't you approve ? 	แล้วทำไมคุณต่อต้านหละ 
+1474	It involves telling the mark that he 's dreaming ... 	เพราะมันจะบอกให้เขาว่า 
+1475	which involves attracting a lot of attention to us . 	เขากำลังฝัน ซึ่งจะดึงความสนใจมาที่เรามากขึ้น 
+1476	- Did n't Cobb say never to do that ? 	ค็อบเคยบอกไม่ใช่เหรอ 
+1477	- Hmm . 	อย่าทำ 
+1478	So now you 've noticed how much time ... 	ตอนนี้เธอสังเกตแล้วซิว่า 
+1479	Cobb spends doing things he says never to do . 	ต้องใช้เวลาซักเท่าไหร่ ที่จะทำในสิ่งที่เขาบอกว่าอย่าทำ 
+1480	Mr . Saito , can I have a moment ? 	คุณไซโตะ 
+1481	- I m sorry , but ... 	ขอเวลาเดี๋ยวนะค่ะ ผมขอโทษ แต่ว่า 
+1482	- Hold on ! 	เดี๋ยวรอด้วย 
+1483	Wait ! 	
+1484	You look a bit perkier . 	คึกคักขึ้นมาเชียวหละ\ 
+1485	Very amusing , Mr . Eames . 	คึกคักขึ้นมาเชียวหละ\ 
+1486	Turbulence on the plane ? 	เครื่องบินมีปัญหาเหรอ? 
+1487	No , it 's much closer . 	ไม่ 
+1488	That 's Yusuf 's driving . 	ไม่ 
+1489	Um , I 'm sorry . 	ขอโทษครับ 
+1490	Who did you say you were ? 	ขอโทษครับ 
+1491	Rod Green from marketing . 	ขอโทษครับ 
+1492	But that 's not true at all , is it ? 	มันไม่จริงเลยใช่มั๊ย? 
+1493	My name is Mr . Charles . 	ผมชื่อชาร์ลส 
+1494	You remember me , do n't you ? 	คุณจำผมได้ใช่มั้ย? 
+1495	I 'm the head of your security down here . 	ผมเป็นหัวหนัารักษาความปลอดภัยที่นี่ 
+1496	Get out on a different floor , keep moving . 	ออกคนละชั้นแล้วเิดินไป 
+1497	Dump the wallet . 	ทิ้งกระเป๋า 
+1498	Security will be looking for that . 	พนักงานรักษาความปลอดภัยจะให้ความสนใจนั่น 
+1499	- Okay . 	โอเค 
+1500	- We need to buy Cobb a little more time . 	เราต้องยื้อเวลาให้ค็อบบ์มากกว่านี้ 
+1501	Security , huh ? 	รักษาความปลอดภัยเหรอ 
+1502	- You work for the hotel ? 	คุณทำงานให้กับโรงแรมนี้ 
+1503	- No , no . 	? 
+1504	I specialize in a very specific type of security . 	โอ 
+1505	Subconscious security . 	ผมเชี่ยวชาญรักษาความปลอดภัยที่เฉพาะเจาะจงมาก 
+1506	You 're talking about dreams ? 	ความปลอดภัยของจิตใต้สำนึก 
+1507	Are you talking about , um , extraction ? 	คุณกำลังพูดถึงความฝันเหรอ? 
+1508	I am here to protect you . 	ผมมาที่นี่เพื่อปกป้องคุณ 
+1509	Mr . Fischer , I m here to protect you in the event ... 	คุณฟิชเชอร์ 
+1510	that someone tries to access your mind through your dreams . 	อาจจะมีบางคนพยายามที่จะเข้าไปในจิตใจของคุณตอนที่คุณฝัน 
+1511	You 're not safe here . 	คุณไม่ปลอดภัยที่นี่แล้ว 
+1512	They 're coming for you . 	คุณไม่ปลอดภัยที่นี่แล้ว 
+1513	Strange weather , is n't it ? 	อากาศดูแปลกๆนะ 
+1514	You feel that ? 	คุณรู้สึกไหม 
+1515	What 's happening ? 	คุณรู้สึกไหม 
+1516	Cobb 's drawing Fischer 's attention to the strangeness of the dream ... 	เกิดอะไรขึ้น ? ค็อบดึงความสนใจฟิชเชอร์ 
+1517	which is making his subconscious look for the dreamer . 	ไปที่สิ่งแปลกๆในฝัน ที่ทำให้จิตใต้สำนึกเขามองมาและทราบฝัน 
+1518	For me . 	เพื่อฉัน 
+1519	Quick , give me a kiss . 	เร็ว 
+1520	- They 're still looking at us . 	พวกเขายังมองมาที่เรา 
+1521	- Yeah , it was worth a shot . 	ใช่ 
+1522	We should probably get out of here . 	เราควรรีบออกไปจากที่นี่ 
+1523	You feel that ? 	รู้สึกไหมคุณถูกฝึกมาเพื่อรับเรื่องนี้ 
+1524	You 've actually been trained for this , Mr . Fischer . 	คุณฟิชเชอร์ 
+1525	Pay attention to the strangeness of the weather , the shift in gravity . 	ตั้งใจดูการเปลี่ยนแปลง 
+1526	None of this is real . 	ของสภาพอากาศ แรงโน้มถ่วง นี่ไม่ใช่ความจริง 
+1527	You 're in a dream . 	นี่คือความฝัน 
+1528	Now , the easiest way for you to test yourself ... 	งั้นลองนี่นะ 
+1529	is to try and remember how you arrived at this hotel . 	ทดสอบง่ายๆ คุณจำได้ไหม ว่าคุณมาที่โรงแรมนี้ได้ยังไง 
+1530	Can you do that ? 	? 
+1531	Yeah , I ... 	ใช่ 
+1532	No , breathe , breathe . 	ผมไม่ ผม หายใจเข้าไว้ 
+1533	Remember your training . 	หายใจลึกๆ 
+1534	Accept the fact that you 're in a dream , and I m here to protect you . 	ยอมรับก่อนว่าคุณอยู่ในฝัน และผมมาที่นี่เพื่อนปกป้องคุณ คิดเข้าไว้ 
+1535	Go on . 	
+1536	Mm-hm . 	
+1537	- You 're not real ? 	คิดไม่ใช่ความจริง 
+1538	- No . 	ไม่ 
+1539	No . 	ไม่ ผมเป็นภาพสะท้อนจากจิตใต้สำนึกคุณ 
+1540	I 'm a projection of your subconscious . 	
+1541	I was sent here to protect you in the event ... 	ผมถูกส่งมาปกป้องคุณ 
+1542	that extractors tried to pull you into a dream . 	ผมถูกส่งมาปกป้องคุณ 
+1543	And I believe that 's what 's going on right now , Mr . Fischer . 	นั่นผมว่ามันกำลังจะเกิดขึ้นตอนนี้ 
+1544	Yeah . 	โอเค 
+1545	Okay . 	โอเค 
+1546	Okay . 	โอเค 
+1547	Can you get me out of here ? 	คุณพาผมออกไปจากที่นี่ได้ไหม 
+1548	Right away . 	คุณพาผมออกไปจากที่นี่ได้ไหม 
+1549	Follow me . 	? 
+1550	Hold on a second . 	อยู่นี่นะ 
+1551	Jesus Christ ! 	โอ 
+1552	What are you doing ? 	พระเจ้า! 
+1553	These men were sent here to abduct you , all right ? 	คุณพวกนี้ถูกส่งมาจากตัวคุณ 
+1554	If you want my help , you have to remain calm . 	ถ้าคุณต้องการให้ผมช่วย 
+1555	I need you to work with me , Mr . Fischer . 	ผมต้องการให้คุณร่วมมือกับผม 
+1556	If this is a dream , I should just kill myself to wake up , right ? 	ถ้านี่คือความฝัน 
+1557	I would n't do that if I were you , Mr . Fischer . 	ถ้าต้องการจะตื่นก็แค่ฆ่าตัวตาย ใช่มั้ย? ผมจะไม่ทำแบบนั้น 
+1558	I believe they have you sedated , and if you pull that trigger ... 	ถ้าผมเป็นคุณ คุณฟิชเชอร์ ผมเชื่อว่าพวกเขาวางยาคุณ 
+1559	you may not wake up . 	และถ้าคุณเหนี่ยวไก 
+1560	You may go into a further dream state . 	คุณอาจไม่ตื่นเลย คุณอาจจะลงไปฝันชั้นที่ลึกกว่านี้ คุณรู้นี่ว่าผมหมายถึงอะไร 
+1561	Now , you know what I 'm talking about . 	
+1562	You remember the training . 	คุณจำการฝึกอบรม 
+1563	Remember what I said to you . 	จำสิ่งที่ผมพูดกับคุณ 
+1564	Give me the gun . 	จำสิ่งที่ผมพูดกับคุณ 
+1565	- This room should be directly below 528 ? 	ห้องนี้น่าจะอยู่ใต้ห้อง528 
+1566	- Yeah . 	ใช่ 
+1567	Think , Mr . Fischer , think . 	คิดซิ 
+1568	What do you remember from before this dream ? 	คิดซิ 
+1569	There was , um , a lot of gunfire . 	เอ่อ.. 
+1570	There was rain . 	เอ่อ.. 
+1571	Uncle Peter . 	ลุงปีเตอร์ 
+1572	- Oh , my God , we 've been kidnapped . 	ลุงปีเตอร์ 
+1573	- Where were they holding you ? 	โอ 
+1574	- They had us in the back of a van . 	พวกมันจับเราไว้หลังรถตู้ 
+1575	- That explains the gravity shifts . 	นั่นไงมันถึงได้ีมีแรงโยก 
+1576	You 're in the back of a van . 	ตอนนี้คุณอยู่ในรถตู้ 
+1577	Keep going . 	เร็วเข้าซิ 
+1578	It had something to do with , um ... 	มันเป็นอะไรที่เกี่ยวกับ 
+1579	Something to do with a safe . 	มันเป็นอะไรที่เกี่ยวกับ 
+1580	God , why is it so hard to remember ? 	พระเจ้า 
+1581	It 's like trying to remember a dream after you 've woken up . 	ทำไมผมถึงจำไม่ได้นะ มันก็เหมือนกับการที่คุณพยายามจะนึกถึงความฝันของคุณ หลังจากคุณตื่นขึ้นมา 
+1582	Listen , it takes years of practice . 	ฟังนะมันก็เหมือนกับที่เราทำมาแล้ว 
+1583	You and Browning have been pulled into this dream ... 	คุณกับบราวนิ่งถูกดึงเข้าสู่ความฝัน 
+1584	because they 're trying to steal something from your mind . 	เพราะพวกเขาต้องการขโมย 
+1585	I need you to focus and try and remember what that is . 	จากจิตใต้สำนึกคุณ ผมอยากให้คุณตั้งสมาธิ และนึกให้ออกว่ามันคืออะไร 
+1586	What is it , Mr . Fischer ? 	มันคืออะไรคุณฟิชเชอร์ 
+1587	Think ! 	คิดเร็วเข้า 
+1588	A combination . 	ชุดตัวเลข มันต้องการตัวเลขแรกที่แว็ปอยู่ในหัวผม 
+1589	They demanded the first numbers to pop into my head . 	
+1590	They 're trying to extract a number from your subconscious . 	พวกเขากำลังพยายามขโมยตัวเลขจากจิตใต้สำนึกคุณ 
+1591	It can represent anything . 	มันอาจจะเป็นอะไรก็ได้ 
+1592	We 're in a hotel right now . 	เราอยู่ในโรงแรมตอนนี้ 
+1593	We should try hotel rooms . 	เราน่าจะลองเบอร์ห้องพักดูนะ 
+1594	What was the number , Mr . Fischer ? 	หมายเลยอะไร 
+1595	Try and remember for me . 	คุณฟิชเชอร์ พยายามและบอกผมมา มันสำคัญมากเลยนะ 
+1596	This is very important . 	
+1597	Five . 	ห้า 
+1598	Five , two-- It was something , it was a long number . 	ห้า 
+1599	That 's good . 	สอง 
+1600	We can start there . 	อะไรซักอย่าง.. เลขมันเยอะมาก ดีละ 
+1601	Fifth floor . 	เราจะเริ่มจะตรงนี้ 
+1602	Yep . 	ชั้นห้า 
+1603	- So do you use a timer ? 	ใช่ ใช้ตั้งเวลางั้นเหรอ ไม่ 
+1604	- No , I have to judge it for myself . 	ฉันจะใช้ต่อเวลาด้วยตัวเอง 
+1605	While you 're all asleep in 528 , I wait for Yusuf 's kick . 	ขณะที่ทุกคนหลับในห้อง 
+1606	- Well , how will you know ? 	528 ฉันจะรอจนกว่ายูซูปจะปลุกนะ แล้วคุณจะรู้ได้ไง 
+1607	- His music warns me . 	? 
+1608	And then when the van hits the barrier of the bridge , that should be unmistakable . 	เขาจะเปิดเพลงเพื่อเตือนผม และเมื่อรถตู้ชนราวสะพาน มันต้องไม่ผิดพลาด 
+1609	So we get a nice synchronized kick . 	แล้วเราก็จะปลอดภัย 
+1610	If it 's too soon , we wo n't get pulled out . 	นั่นเป็นการปลุกที่เชื่อมต่อ ถ้ามันเร็วเกินไป พวกเราจะไม่กลับออกมา 
+1611	But if it 's too late , I wo n't be able to drop us . 	ถ้ามันช้าไป 
+1612	- Well , why not ? 	ทำไมล่ะ? เพราะว่ารถตู้จะตกอย่างอิสระ ไม่สามารถทิ้งคุณโดยปราศจากแรงโน้มถ่วงได้ 
+1613	- Because the van will be in freefall . 	
+1614	- Ca n't drop you without gravity . 	ใช่ 
+1615	- Right . 	
+1616	They 're with me . 	คนของผมเอง 
+1617	Go on . 	ไปเถอะ 
+1618	Mr . Charles . 	คุณชาร์ล 
+1619	- Do you know what that is , Mr . Fischer ? 	คุณชาร์ล 
+1620	- Yeah , I think so . 	คุณรู้ไหมนี่คืออะไร 
+1621	They were trying to put you under . 	ใช่ 
+1622	- I m already under . 	ผมคิดนะ 
+1623	- Under again . 	ใช่ พวกเขาพยายามวางยาสลบคุณ ผมก็หลับอยู่แล้ว 
+1624	What do you mean , a dream within a dream ? 	หลับอีกครั้ง หมายความว่ายังไง ฝันซ้อนฝันงั้นเหรอ 
+1625	Hey . 	เฮ 
+1626	I see you 've changed . 	ผมเห็นคุณเปลี่ยนไป 
+1627	I 'm sorry ? 	ว่าไงนะ 
+1628	Oh , I m sorry . 	โอ้ 
+1629	I mistook you for a friend . 	ผมขอโทษ 
+1630	Oh . 	ผมนึกว่าคุณเป็นเพื่อนผม 
+1631	Good-looking fellow , I m sure . 	เขาดูดีแน่เลย 
+1632	No , no , no . 	ผมมั่นใจ นั่นบราวนิ่งจากจิตใต้สำนึกของฟิชเชอร์ เราติดตามดูพฤติกรรมเขา 
+1633	That 's Fischer 's projection of Browning . 	
+1634	Let 's follow him and see how he behaves . 	
+1635	- Why ? 	ทำไม 
+1636	- Because how he acts will tell us ... 	เพราะการกระทำของเขาจะบอกเรานะ 
+1637	if Fischer is starting to suspect his motives the way we want him to . 	ถ้าฟิชเชอร์เริ่มสงสัย 
+1638	Shh . 	เป็นหนทางเดียวที่เราต้องการ 
+1639	- Uncle Peter . 	ลุงปีเตอร์ 
+1640	- You said you were kidnapped together ? 	คุณบอกว่าถูกลักพาตัวด้วยกันเหรอ 
+1641	Well , not exactly . 	ก็ไม่เชิง 
+1642	They already had him . 	พวกมันจับเขา 
+1643	They were torturing him . 	พวกมันซ้อมเขา 
+1644	And you saw them torture him ? 	แล้วคุณเห็นพวกมันทรมานเขาเหรอ 
+1645	The kidnappers are working for you ? 	คนที่จับผมทำงานให้ลุงเหรอ 
+1646	Robert . 	คนที่จับผมทำงานให้ลุงเหรอ 
+1647	You 're trying to get that safe open ? 	โรเบิร์ต ลุงจะหาทางเปิดเซปนั่น เพื่อเอาพินัยกรรมชุดนั้น 
+1648	To get the alternate will ? 	
+1649	Fischer Morrow has been my entire life . 	ฟิชเชอร์ 
+1650	I ca n't let you destroy it . 	มอร์โรว 
+1651	I 'm not gonna throw away my inheritance . 	คือทั้งชีวิตของลุง ลุงไม่อยากให้เจ้าทำลายมัน ผมไม่ทิ้งมรดกตัวเองหรอก 
+1652	I could n't let you rise to your father 's last taunt . 	ผมจะทำอย่างนั้นทำไม ลงปล่อยให้เธอทำตามคำท้าสุดท้าย ของพ่อเธอไม่ได้ 
+1653	- What taunt ? 	ท้าอะไร 
+1654	- The will , Robert . 	พินัยกรรม 
+1655	That will ? 	โรเบิร์ต 
+1656	That 's his last insult . 	พินัยกรรมนั่น คำดูถูกของเขาคำสุดท้าย 
+1657	A challenge for you to build something for yourself ... 	เขาท้าให้เธอสร้างความสำเร็จด้วยตัวเอง 
+1658	by telling you you 're not worthy of his accomplishments . 	เขาเย้ยว่าเธอไม่คู่ควรกับความสำเร็จของเขา 
+1659	- What , but that he was , um , disappointed ? 	อะไรนะ นั่นทำให้เขาผิดหวังใช่ไหม ลุงเสียใจด้วย 
+1660	- I m sorry . 	
+1661	But he 's wrong . 	แต่ 
+1662	You can build a better company than he ever did . 	เธอสร้างบริษัทที่ยิ่งใหญ่กว่าเขาได้ 
+1663	Mr . Fischer ? 	คุณฟิชเชอร์ 
+1664	He 's lying . 	เขาโกหก 
+1665	- How do you know ? 	คุณรู้ได้ไง 
+1666	- Trust me , it 's what I do . 	เชื่อผม 
+1667	He 's hiding something , and we need to find out what that is . 	เขาซ่อนอะไรบางอย่าง 
+1668	I need you to do the same thing to him that he was going to do to you . 	ผมต้องการให้คุณทำกับเขาเหมือนที่เขาทำกับคุณ 
+1669	We 'll enter his subconscious and find out what he does n't want you to know . 	เราเข้าไปในจิตใต้สำนึกเขา 
+1670	All right . 	ได้ 
+1671	He 's out . 	เขาหลับแล้ว 
+1672	- Wait . 	เดี๋ยว 
+1673	Whose subconscious are we going into exactly ? 	เดี๋ยว 
+1674	We 're going into Fischer 's . 	ตกลงเราจะเข้าใจในจิตใต้สำนึกของคนไหน เราจะเข้าไปของฟิชเชอร์ 
+1675	I told him it was Browning 's so he 'd be a part of our team . 	แต่ฉันบอกว่าบราวนิ่ง 
+1676	He 's gonna help us break into his own subconscious . 	ให้เขานึกว่าอยู่ในทีมเรา เขาจะช่วยเรา เข้าไปในจิตใต้สำนึกของตัวเอง 
+1677	That 's right . 	ถูกต้อง 
+1678	Security 's gonna run you down hard . 	กองกำลังเล่นงานนายแน่ 
+1679	And I will lead them on a merry chase . 	อืม ฉันจะล่อให้มันวิ่งเหมือนม้าเลย 
+1680	- Just be back before the kick . 	แค่กลับมาให้ทันปลุกแล้วกัน 
+1681	- Go to sleep , Mr . Eames . 	นอนไปเถอะ 
+1682	You good ? 	ยังดีอยู่นะ? 
+1683	Hey . 	พร้อมหรือยัง? 
+1684	You ready ? 	พร้อมหรือยัง? 
+1685	Yes , yes . 	พร้อมหรือยัง? 
+1686	I m fine . 	ใช่ 
+1687	I m ready . 	ใช่ 
+1688	Cobb ? 	ค็อบ 
+1689	Cobb ? 	ค็อบ 
+1690	What 's down there ? 	ค็อบ 
+1691	Hopefully , the truth we want Fischer to learn . 	หวังเหลือเกินขอให้เป็นความจริงถ้าอยากให้ฟิชเชอร์เรียนรู้ 
+1692	I mean , what 's down there for you ? 	ฉันหมายถึงในจิตคุณมีอะไร 
+1693	Did you see that ? 	คุณเห็นนั่นมั้ย 
+1694	Eames , this is your dream . 	อีมส์ 
+1695	I need you to draw the security away from the complex , understand ? 	นี่เป็นความฝันนาย ฉันอยากให้นายดึงกองกำัลังออกไปห่างๆจากที่นี่ นายเข้าใจไหม? 
+1696	- Who guides Fischer in ? 	ใครจะทำทางฟิชเชอร์เข้าไป 
+1697	- Not me . 	ไม่ใช่ฉัน 
+1698	If I know the route , everything could be compromised . 	หาทางทั้งหมด 
+1699	- I designed the place . 	ฉันออกแบบที่นี่ 
+1700	- No , you 're with me . 	ไม่ 
+1701	I could do it . 	นายอยู่กับฉัน ฉันทำได้ 
+1702	All right . 	โอเค 
+1703	Brief him on the route into the complex . 	นายจะไปถึง 
+1704	- Fischer , you 'll be going with him . 	ฟิชเชอร์ 
+1705	- All right . 	คุณไปกับเขา 
+1706	What about you ? 	โอเค 
+1707	You keep this live . 	แล้วนายล่ะ? 
+1708	I 'll be listening in the whole time . 	เปิดทิ้งไว้นะ 
+1709	The windows on that upper floor are big enough for me to cover you from that tower . 	ฉันจะคอยฟังตลอด หน้าต่างชั้นบน ใหญ่พอที่ฉัน 
+1710	You 're not coming in ? 	ได้ 
+1711	In order to find out the truth about your father ... 	ได้ 
+1712	you 're gonna need to break into Browning 's mind on your own . 	เกี่ยวกับพ่อของคุณ 
+1713	Come on , Fischer ! 	ทางนี้ 
+1714	- Sound the alarm ! 	เปิดเสียงเตือน! 
+1715	Sound the alarm ! 	เปิดเสียงเตือน! 
+1716	- Go , go , go ! 	
+1717	Move ! 	ไป 
+1718	Go ! 	ไป 
+1719	Sod it . 	พวกมันกำลังยิงฉัน 
+1720	I hope you 're ready . 	ฉันหวังว่าเค้าคงพร้อมแล้ว 
+1721	No , it 's too soon . 	มันเร๊วเกินไป 
+1722	Cobb , do you hear that ? 	ค๊อบ 
+1723	I first noticed it about 20 minutes ago , I thought it was the wind up here . 	คุณได้ยินนั่นมั้ย ได้ยินครั้งแรกยี่สิบนาทีที่แล้ว ฉันนึกว่าเสียงลมซะอีก 
+1724	Yeah , I hear it . 	ใช่ฉันได้ยิน 
+1725	It s music . 	มันเป็นเสียงเพลง 
+1726	So , what do we do ? 	แล้วเราทำยังไงกันล่ะ? 
+1727	We move fast . 	แล้วเราทำยังไงกันล่ะ? 
+1728	Yusuf 's 10 seconds from the jump . 	สิบวินาทีที่ยูซุฟจะต้องกระโดด 
+1729	Which gives Arthur three minutes . 	ซึ่งหมายถึงสามนาทีสำหรับอาร์เธอร์ 
+1730	- Hey ! 	เฮ้ 
+1731	- That 's him ! 	
+1732	- Which gives us what ? 	ซึ่งสำหรับพวกราหมายถึงเท่าไหร่? 
+1733	- Sixty minutes . 	หกสิบนาที 
+1734	- Can they make that route in an hour ? 	พวกเขาจะไป ทางนั้นได้ทันภายในหนึ่งชั่วโมงไหม? พวกเขายังต้องปีน 
+1735	- They have to climb to the terrace . 	ลงไปที่ระเบียงตรงกลาง 
+1736	Then they need a new route , a more direct route . 	ถ้างั้นเขาต้องไปทางใหม่ 
+1737	It 's designed as a labyrinth . 	แบบของมันเป็นเขาวงกต 
+1738	There must be access routes that cut through the maze . 	มันต้องมีทางเข้า 
+1739	Eames ? 	เอเมส? 
+1740	Did Eames add any features ? 	เอเมสเพิ่มอะไรลงไปหรือเปล่า? 
+1741	I do n't think I should tell you . 	ฉันบอกนายไม่ได้หรอก 
+1742	We do n't have time for this . 	ถ้ามอลรู้เข้า... เราไม่มีเวลาสำหรับเรื่องนี้ เขาเพิ่มอะไรเข้าไป? 
+1743	Did he add anything ? 	
+1744	He added an air-duct system ... 	เขาเพิ่มระบบระบายอากาศ 
+1745	- ... 	เขาเพิ่มระบบระบายอากาศ 
+1746	that can cut through the maze . 	ที่ตัดผ่านเขาวงกต 
+1747	- Good . 	ดี 
+1748	Explain it to them . 	อธิบายให้พวกเขาฟังสิ 
+1749	Paradox . 	งงล่ะสิ 
+1750	What was that ? 	อะไรน่ะ? 
+1751	- The kick . 	การปลุก 
+1752	Cobb ! 	ค็อป 
+1753	Cobb , did we miss it ? 	ค็อป 
+1754	Yeah , we missed it . 	ค็อป 
+1755	Man . 	ทำไมนายจะฝันถึง 
+1756	Could n't someone have dreamt up a goddamn beach ? 	ทำไมนายจะฝันถึง 
+1757	Huh ? 	ชายทะเลไม่ได้หรือไง? 
+1758	Uh-huh . 	
+1759	Well , what the hell do we do now ? 	เราทำบ้าอะไรอยู่เนี่ย 
+1760	We finish the job before the next kick . 	เราต้องทำงานให้เสร็จก่อนการปลุกครั้งต่อไปจะมา 
+1761	- What next kick ? 	การปลุกครั้งต่อไปอะไรกัน? 
+1762	- When the van hits the water . 	เมื่อรถตู้ตกถึงผิวน้ำ 
+1763	If you d like to make a call , please hang up and try again . 	หากคุณต้องการต่อสาย 
+1764	If you need help , hang up ... 	ถ้าคุณต้องการผู้ช่วย 
+1765	How do I drop you without gravity ? 	ฉันจะทิ้งคุณโดยไม่มีแรงดึงดูดได้ยังไง? 
+1766	Arthur has a couple minutes , and we have about 20 . 	อาร์เธอร์ยังพอมีเวลาอีกสองสามนาที 
+1767	You okay ? 	คุณเป็นอะไรมั้ย 
+1768	Run ! 	ออกไป! 
+1769	Turn around ! 	ไปที่ฐาน! 
+1770	Move to base ! 	
+1771	Move to base ! 	
+1772	Go , go , go ! 	
+1773	There 's something wrong . 	บางอย่างไม่ถูกต้อง 
+1774	They 're heading your way , like they know something . 	บางอย่างไม่ถูกต้อง 
+1775	Just buy us more time , all right ? 	หาเวลาเพิ่มให้พวกเราด้วยโอเค๊? 
+1776	- Come on ! 	ให้ตายเถอะ 
+1777	- On my way . 	กำลังไป 
+1778	Come on ! 	กำลังไป 
+1779	Move ! 	
+1780	All right . 	
+1781	Okay . 	ห้องนั้นไง 
+1782	That 's the antechamber outside the strong room . 	มันดูแข็งแรงขึ้น 
+1783	- Does the strong room have windows ? 	มันจะแข็งแรงกว่านี้มั๊ยถ้ามันมีหน้าต่าง? ไม่ ฉันหมายความว่าถ้ามันมีหน้าต่าง 
+1784	- It would n't be very strong if it did . 	มันจะไม่แข็งแรงเท่าไหร่ 
+1785	Let 's hope Fischer likes what he finds in there . 	หวังว่าฟิชเชอร์ชอบ 
+1786	- Are those projections his subconscious ? 	ไอ้ที่ยื่นออกมานั่นเป็น ส่วนหนึ่งของจิตใต้สำนึกของเขาเหรอ? ใช่ 
+1787	- Yes . 	
+1788	- Are you destroying parts of his mind ? 	คุณจะทำลายส่วนหนึ่งสนจิตใต้สำนึกเขาเหรอ? ไม่หรอก พวกมันเป็นแค่ภาพสะท้อน 
+1789	- No . 	
+1790	They 're just projections . 	
+1791	- We 're here . 	เรามาถึงแล้ว 
+1792	- You 're clear , but hurry . 	ทางโล่งแต่รีบหน่อย 
+1793	There 's an entire army headed your way . 	ทางโล่งแต่รีบหน่อย 
+1794	I 'm in . 	เราเข้ามาแล้ว 
+1795	There he is . 	
+1796	- There 's someone in there . 	มีอะไรบางอย่างอยู่ในนั้น 
+1797	- Fischer , it 's a trap . 	ฟิชเชอร์ 
+1798	Get out . 	มันเป็นกับดัก 
+1799	Come on . 	เร็วสิ 
+1800	Come on , a little lower . 	ช้าขึ้นอีกหน่อย 
+1801	Cobb . 	ค็อบ 
+1802	No , she is not real . 	ค็อบ 
+1803	How do you know that ? 	ค็อบ 
+1804	She is just a projection . 	เธอเป็นแค่ภาพสะท้อน 
+1805	Fischer . 	ฟิชเชอร์ 
+1806	Fischer is real . 	ฟิชเชอร์คือความจริง 
+1807	Hello . 	หวัดดี 
+1808	Eames ! 	อีมส์ 
+1809	Eames , get to the antechamber now ! 	อีมส์ 
+1810	What happened ? 	เกิดอะไรขึ้น 
+1811	- Mal killed Fischer . 	มอล 
+1812	I could n't shoot her . 	ฉันยิงเธอไม่ได้ 
+1813	There 's no use in reviving him . 	ไม่มีประโยชน์ที่จะกู้ชีวิตเขา จิตของเขาพร้อมที่จะติดอยู่ใต้นั้นแล้ว ทุกอย่างจบแล้ว 
+1814	His mind 's already trapped down there . 	
+1815	It 's all over . 	
+1816	So that 's it , then ? 	แล้วมันเป็นแบบนั้น 
+1817	We failed ? 	งั้นพวกเราล้มเหลว 
+1818	We 're done . 	จบแล้ว 
+1819	I 'm sorry . 	ฉันขอโทษ 
+1820	It 's not me that does n't get back to my family , is it ? 	อืม 
+1821	Shame . 	เสียดาย 
+1822	I wanted to know what was gonna happen in there . 	ฉันอยากจะรู้ จะเกิดอะไรขึ้นในนั้น นึกว่าสำเร็วแล้วนะ 
+1823	I swear we had this . 	มาตั้งระเบิดเถอะ 
+1824	Let 's set the charges . 	มาตั้งระเบิดเถอะ 
+1825	No , there 's still another way . 	ไม่ 
+1826	- We have to follow Fischer down there . 	เราต้องตามฟิชเชอร์ลงไปอีกชั้นหนึ่ง เราไม่มีเวลาแล้ว 
+1827	- Not enough time . 	ไม่ 
+1828	No , but there will be enough time down there . 	ไม่ 
+1829	And we will find him . 	แล้วเราค่อยหาเขา 
+1830	Okay , as soon as Arthur 's music kicks in , just use the defibrillator to revive him . 	โอเค 
+1831	We can give him his own kick down below . 	แล้วก็ให้เขาปลุกตัวเองที่ใต้นั้นนะ 
+1832	Look , you get him in there . 	งั้นคุณพาเขาไปใต้นั้น 
+1833	As soon as the music ends , you blow up the hospital ... 	ทันทีที่เพลงจบลง 
+1834	and we all ride the kick back up the layers . 	และเราทุกคนก็จะตื่นขึ้นไปชั้นบน 
+1835	It 's worth a shot , if Saito can hold the guards off while I set the charges . 	มันก็น่าเสี่ยงนะ และไซโตะ รั้งกองกำลัง 
+1836	Saito will never make it , will he ? 	เซโต้ไม่มีทางทำได้หรอก 
+1837	- Cobb , come on . 	ค็อบ 
+1838	We 've gotta try this . 	เร็วเข้า เราต้องพยายามนะ ไปกันเถอะ 
+1839	- Go for it . 	
+1840	If you are not back before the kick , I am gone with or without you . 	ฟังนะ 
+1841	She 's right . 	เธอพูดถูก 
+1842	She 's right . 	เธอพูดถูก 
+1843	Come on . 	
+1844	Let 's go . 	
+1845	Can I trust you to do what needs to happen here ? 	ฉันไว้ใจให้คุณทำต่อไปได้ใช่ไหม 
+1846	Mal 's gonna be down there . 	ฉันหมายถึง 
+1847	I know where to find her . 	ฉันรู้ว่าฉันจะหาเธอได้ที่ไหน 
+1848	She 'll have Fischer . 	เธอมีฟิชเชอร์อยู่ 
+1849	- How do you know ? 	คุณรู้ได้ยังไง เธอต้องการให้ผมไปกับเธอ เธอต้องการให้ผมกลับไปข้างล่างนั้นกับเธอ 
+1850	- Because she wants me to come after him . 	
+1851	She wants me back down there with her . 	
+1852	All right ? 	คุณเป็นอะไรมั้ย 
+1853	- This is your world ? 	นี่โลกของคุณเหรอ 
+1854	- It was . 	เคยเป็นนะ 
+1855	And this is where she 'll be . 	เธอต้องอยู่ที่ไหนซักแห่ง 
+1856	Come on . 	มาเถอะ 
+1857	Saito . 	เซโต้ 
+1858	Saito . 	
+1859	I need you to take care of Fischer while I go set some charges , okay ? 	ผมต้องการคุณ 
+1860	No room for tourists on these jobs . 	ไม่มีห้องว่างสำหรับนักท่องเที่ยวเลยในงานนี้ 
+1861	Do n't be silly . 	อย่าโง่น่า 
+1862	You built all this ? 	คุณสร้างทั้งหมดนี่เลยหรอ 
+1863	This is incredible . 	ไม่น่าเชื่อเลย 
+1864	We built for years . 	พวกเราสร้างอยู่หลายปีน่ะ 
+1865	Then we started in on the memories . 	พวกเราเริ่มสร้างจากความทรงจำ 
+1866	This way . 	ทางนี้ 
+1867	This was our neighborhood . 	นี่คือเพื่อนบ้านเรา 
+1868	Places from our past . 	นี่คือเพื่อนบ้านเรา 
+1869	That was our first apartment . 	นี่คืออพาตเมนท์แรกของเราแล้วเราก็ย้ายมาที่ตึกนั้น 
+1870	Then we moved to that building right there . 	นี่คืออพาตเมนท์แรกของเราแล้วเราก็ย้ายมาที่ตึกนั้น 
+1871	After Mal became pregnant , that became our home . 	หลังจากที่มอลท้อง 
+1872	You reconstructed all of this from memory ? 	คุณสร้างมันทั้งหมดขึ้นใหม่จากความทรงจำหรอ? 
+1873	Like I told you , we had lots of time . 	อย่างที่ฉันบอกไง 
+1874	What is that ? 	อันนั้นอะไร? 
+1875	That 's the house Mal grew up in . 	มันคือบ้านที่มอลโตมาน่ะ 
+1876	- Well , will she be in there ? 	เธอจะอยู่ที่นี่ไหม 
+1877	- No . 	ไม่หรอก 
+1878	Come on . 	มานี่ 
+1879	We both wanted to live in a house , but we loved this type of building . 	พวกเราสองคนอยากจะอยู่ในบ้าน 
+1880	In the real world , we 'd have to choose , but not here . 	ในโลกความจริง 
+1881	How are we gonna bring Fischer back ? 	คุณจะพาคุณฟิชเชอร์กลับมายังไง? 
+1882	We 're gonna have to come up with some kind of a kick . 	เราจะต้องมีวิธีปลุกเขาซักวิธีนะ 
+1883	What ? 	อะไรนะ 
+1884	I 'm gonna improvise . 	เราต้องเล่นไปตามเกมส์ 
+1885	Listen , there 's something you should know about me . 	ฟังนะ 
+1886	About inception . 	มันมีบางอย่างที่เธอควรรู้เกี่ยวกับฉัน 
+1887	An idea is like a virus . 	ไอเดียก็เหมือนกับไวรัส 
+1888	Resilient . 	ยืดหยุ่นได้ 
+1889	Highly contagious . 	แพร่กระจายเร็วมาก 
+1890	And the smallest seed of an idea can grow . 	เมล็ดพันธุ์ความคิดเล็กๆ 
+1891	It can grow to define ... 	โตจนสามารถกำหนดหรือว่าทำลายเธอได้ 
+1892	or destroy you . 	โตจนสามารถกำหนดหรือว่าทำลายเธอได้ 
+1893	The smallest idea , such as : 	แล้วความคิดเล็กๆที่ว่า 
+1894	Your world is not real . 	แล้วความคิดเล็กๆที่ว่า 
+1895		โลกของเธอไม่ใช่ความเป็นจริง 
+1896	Simple little thought that changes everything . 	ง่ายๆ 
+1897	So certain of your world . 	คุณแน่ใจเหรอว่าโลกของคุณ 
+1898	Of what 's real . 	เป็นของจริงงั้นหรอ 
+1899	Do you think he is ? 	คุณคิดว่าเป็นเขาเหรอ 
+1900	Or do you think he 's as lost as I was ? 	ทำไมคุณถึงคิดว่า 
+1901	I know what 's real , Mal . 	ฉันรู้ว่านี่มันเป็นความจริง 
+1902	No creeping doubts ? 	ไม่สงสัยซักนิดเลยหรอ? 
+1903	Not feeling persecuted , Dom ? 	ไม่รู้สึกว่าถูกข่มเหงหรือ 
+1904	Chased around the globe ... 	ต้องถูกตามล่าไปทั่ว 
+1905	by anonymous corporations and police forces ... 	ต้องถูกตามล่าไปทั่ว 
+1906	the way the projections persecute the dreamer ? 	แบบที่คนในจิต 
+1907	Admit it . 	ยอมรับเถอะ 
+1908	You do n't believe in one reality anymore . 	คุณไม่ได้เชื่อว่าโลกความจริงไม่ได้มีอยู่ที่เดียวนะ 
+1909	So choose . 	งั้นเลือกสิ 
+1910	Choose to be here . 	งั้นเลือกสิ 
+1911	Choose me . 	เลือกที่จะอยู่ที่นี่ เลือกฉัน 
+1912	You know what I have to do . 	คุณก็รู้ว่าฉันต้องทำอะไร 
+1913	I have to get back to our children because you left them . 	ฉันต้องกลับไปหาลูกฉัน เพราะคุณทิ้งพวกเขา 
+1914	Because you left us . 	เพราะคุณทิ้งพวกเรา 
+1915	- You 're wrong . 	คุณนั่นแหละผิด 
+1916	- I m not wrong . 	ไม่เลย 
+1917	You 're confused . 	ไม่เลย 
+1918	Our children are here . 	ลูกของเราอยู่ที่นี่ 
+1919	And you 'd like to see their faces again , would n't you ? 	และคุณอยากที่จะเห็หน้าพวกเขาอีก 
+1920	Yes , but I m gonna see them up above , Mal . 	ใช่ 
+1921	Up above ? 	ข้างบน? 
+1922	Listen to yourself . 	ฟังเสียงตัวเองสิ 
+1923	These are our children . 	ฟังเสียงตัวเองสิ 
+1924	Watch . 	ฟังเสียงตัวเองสิ 
+1925	James ? 	เจมส์ 
+1926	Phillipa ? 	ฟิลลิปป้า? 
+1927	Do n't do this , Mal . 	อย่าทำแบบนี้มอล 
+1928	Please . 	ได้โปรด 
+1929	Those are n't my children . 	พวกเขาไม่ใช่ลูกของเรา 
+1930	You keep telling yourself that , but you do n't believe it . 	คุณก็เอาแต่บอกกับตัวเองแบบนั้น 
+1931	- No , I know it . 	ไม่ 
+1932	- What if you 're wrong ? 	ผมรู้ 
+1933	What if I 'm what 's real ? 	แล้วถ้าหากฉันพูดความจริงหละ 
+1934	You keep telling yourself what you know . 	คุณเอาแต่บอกตัวเองอย่างที่คุณรู้มา 
+1935	But what do you believe ? 	คุณเอาแต่บอกตัวเองอย่างที่คุณรู้มา 
+1936	What do you feel ? 	คุณเอาแต่บอกตัวเองอย่างที่คุณรู้มา 
+1937	Guilt . 	รู้สึกผิด 
+1938	I feel guilt , Mal . 	ผมรู้สึกผิด 
+1939	And no matter what I do , no matter how hopeless I am ... 	และไม่ว่าผมจะทำอะไร 
+1940	no matter how confused , that guilt is always there ... 	ไม่ว่าจะสับสนยังไง 
+1941	reminding me of the truth . 	คอยเตือนผมถึงความเป็นจริง 
+1942	What truth ? 	อะไรคือความเป็นจริง? 
+1943	That the idea that caused you to question your reality came from me . 	ว่าความคิดที่ทำให้คุณสงสัยเรื่องความจริงนั่นมาจากผม 
+1944	You planted the idea in my mind ? 	คุณปลูกความคิดในจิตใจฉัน 
+1945	What is she talking about ? 	เธอพูดถึงอะไรน่ะ? 
+1946	The reason I knew inception was possible was because I did it to her first . 	เหตุผลที่ฉันรู้ว่าอินเซปชันเป็นไปได้ก็เพราะว่าฉันทำกับเธอเป็นคนแรกยังไงล่ะ 
+1947	- I did it to my own wife . 	ฉันทำมันกับภรรยาของฉัน 
+1948	- Why ? 	ทำไมล่ะ? 
+1949	We were lost in here . 	พวกเราหลงอยู่ที่นี่ 
+1950	I knew we needed to escape , but she would n't accept it . 	ฉันรู้ว่าพวกเราจะต้องออกไป 
+1951	She had locked something away , something deep inside . 	เธอเก็บบางอย่างเอาไว้ 
+1952	A truth that she had once known , but chose to forget . 	ความจริงที่ครั้งหนึ่งเธอเคยรู้แต่เธอเลือกที่จะลืมมัน 
+1953	And she could n't break free . 	เธอไม่สามารถปลดปล่อยมันได้ 
+1954	So I decided to search for it . 	ดังนั้นฉันเลยหามัน 
+1955	I went deep into the recess of her mind and found that secret place . 	ลงไปในซอกส่วนลึกของหัวใจเธอ 
+1956	And I broke in ... 	ฉันเข้าไปแล้วก็ได้ปลูกความคิดเอาไว้ 
+1957	and I planted an idea . 	ฉันเข้าไปแล้วก็ได้ปลูกความคิดเอาไว้ 
+1958	A simple little idea that would change everything . 	ความคิดง่ายๆที่ฉันรุ้ว่ามันจะเปลี่ยนทุกๆอย่าง 
+1959	That her world was n't real . 	ว่าโลกของเธอไม่ใช่ความเป็นจริง 
+1960	That death was the only escape . 	ความตายเป็นหนทางออกทางเดียว 
+1961	You 're waiting for a train . 	คุณกำลังรอรถไฟอยู่.. 
+1962	A train that 'll take you far away . 	รถไฟจะพาคุณไปไกลมาก.. 
+1963	You know where you hope this train will take you ... 	คุณรู้ว่าอยากให้รถไฟพาไปที่ไหน 
+1964	but you ca n't know for sure . 	แต่คุณไม่รู้แน่นอน 
+1965	Yet it does n't matter . 	แต่ก็ไม่สำคัญหรอก 
+1966	- Now , tell me why ! 	เอาล่ะ 
+1967	- Because you 'll be together ! 	บอกฉันสิ 
+1968	But I never knew that that idea would grow in her mind like a cancer ... 	และฉันไม่รุ้เลยว่าความคิดนั้นจะเติบโตในจิตใจเธอเหมือนกับมะเร็ง 
+1969	that even after she woke ... 	หลังจากที่เธอตื่น 
+1970	That even after you came back to reality ... 	หลังจากที่กลับมาสู่คาวมเป็นจริง 
+1971	that you 'd continue to believe your world was n't real . 	เธอก็ยังคงคิดอยู่ว่าโลกของเธอไม่ใช่ความเป็นจริง 
+1972	That death was the only escape . 	ความตายเป็นหนทางออกทางเดียว 
+1973	Mal , no ! 	มอล 
+1974	Jesus ! 	ไม่นะ 
+1975	- You infected my mind . 	คุณแพร่เชื้อเข้าไปในจิตของฉัน 
+1976	- I was trying to save you . 	ผมพยายามที่จะช่วยคุณนะ 
+1977	You betrayed me . 	คุณหักหลังฉัน 
+1978	But you can make amends . 	แต่คุณทำให้มันดีขึ้นได้นะ คุณยังจะสามารถรักษาสัญญาของคุณไว้ได้ 
+1979	You can still keep your promise . 	พวกเราจะยังอยู่ที่นี่ด้วยกัน 
+1980	We can still be together , right here ... 	พวกเราจะยังอยู่ที่นี่ด้วยกัน 
+1981	in the world we built together . 	พวกเราจะยังอยู่ที่นี่ด้วยกัน 
+1982	Cobb , we need to get Fischer . 	ค็อบ 
+1983	You ca n't have him . 	คุณหาเขาไม่เจอหรอก 
+1984	- lf I stay here , will you let him go ? 	ถ้าผมอยู่ที่นี่ คุณจะปล่อยเขาไปไหม? คุณพูดถึงอะไรน่ะ? 
+1985	- What are you talking about ? 	
+1986	Fischer is on the porch . 	ฟิชเชอร์เขาอยู่ที่ระเบียง 
+1987	- Go check he 's alive , Ariadne . 	ไปดูหน่อยว่าเค้ายังมีชีวิตอยู่มั้ย 
+1988	- Cobb , you ca n't do this . 	เอเดรียน 
+1989	Go check he 's alive right now . 	ไปดูซิว่าเขายังมีชีวิตอยู่รึเปล่า 
+1990	Do it . 	เดี๋ยวนี้ 
+1991	He 's here ! 	เขาอยู่นี่ 
+1992	And it 's time , but you have to come now ! 	มันถึงเวลาแล้ว 
+1993	You take Fischer with you , all right ? 	เอาฟิชเชอร์ไปกับเธอ 
+1994	- You ca n't stay here to be with her . 	โอเคมั๊ย? 
+1995	I 'm not . 	ไม่หรอก 
+1996	Saito 's dead by now . 	ไซโตะตาย 
+1997	That means he 's down here somewhere . 	เขาอยู่ที่นี่ตรงไหนซักแห่ง 
+1998	That means I have to find him . 	นั่นแปลว่าเราต้องตามหาเขา 
+1999	I ca n't stay with her anymore , because she does n't exist . 	ฉันอยู่กับเธอไม่ได้อีกแล้ว 
+2000	I 'm the only thing you do believe in anymore . 	ฉันหวัง... 
+2001	No . 	
+2002	I wish . 	ฉัน 
+2003	I wish more than anything , but ... 	ฉันหวังมากกว่าทุกสิ่ง 
+2004	I ca n't imagine you with all your complexity ... 	ผมไม่สามารถอยู่กับจินตาการ 
+2005	all your perfection , all your imperfection . 	ความสมบูรณ์แบบของคุณ 
+2006	- You all right ? 	ดูคุณสิ 
+2007	- Yeah . 	ดูคุรสิ 
+2008	Look at you . 	ดูคุรสิ 
+2009	You 're just a shade . 	คุณก็แค่เงา 
+2010	You 're just a shade of my real wife . 	คุณก็แค่เงาของภรรยาผม 
+2011	And you were the best that I could do , but ... 	คุณคือสิ่งเดียวที่ดีที่สุดที่ผมทำได้ 
+2012	I m sorry , you 're just not good enough . 	ผมขอโทษ 
+2013	Does this feel real ? 	นี่แหละที่คุณจะรู้สึกถึงความจริง 
+2014	- What are you doing ? 	คุณจะทำอะไร 
+2015	- Improvising . 	ทำอะไรไม่ได้แล้ว 
+2016	No , no , no ! 	ไม่ 
+2017	In there , now . 	เข้าไปข้างในเดี๋ยวนี้ 
+2018	Go , go , go . 	ไป 
+2019	I was dis -- 	ผิดหวัง 
+2020	I was dis Disa -- 	ผิดหวัง 
+2021	- I know , Dad . 	ผมรู้, 
+2022	- Dis -- 	พ่อ 
+2023	I know you were disappointed ... 	ผมรู้ว่าพ่อผิดหวังที่ผมเป็น 
+2024	I could n't be you . 	ผมรู้ว่าพ่อผิดหวังที่ผมเป็น 
+2025	No . 	ไม่ 
+2026	No , no , no . 	ไม่ 
+2027	I was disappointed ... 	ฉันผิดหวังที่แกพยายามที่จะเป็นเหมืิอนฉัน 
+2028	that you tried . 	ฉันผิดหวังที่แกพยายามที่จะเป็นเหมืิอนฉัน 
+2029	What ? 	
+2030	Come on , come on . 	ไม่นะ 
+2031	Dad ? 	
+2032	That 's the kick , Ariadne ! 	นั่นคือการปลุก 
+2033	You have to go now ! 	คุณต้องไปเดี๋ยวนี้ 
+2034	Do n't lose yourself ! 	อย่าทิ้งตัวเอง 
+2035	Find Saito and bring him back ! 	หาไซโตะให้พบและพาเขากลับด้วยนะ 
+2036	I will ! 	ผมต้องทำได้ 
+2037	You remember when you asked me to marry you ? 	คุณจำได้มั้ย 
+2038	Yes . 	ใช่ 
+2039	You said you dreamt that we 'd grow old together . 	คุณบอกว่าเราจะแก่ไปด้วยกัน 
+2040	But we did . 	แต่เราทำไปแล้ว 
+2041	We did . 	เราทำไปแล้ว 
+2042	You do n't remember ? 	คุณจำมันไม่ได้เหรอ? 
+2043	I miss you more than I can bear ... 	ผมคิดถึงคุณเกินกว่าจะทนไหว 
+2044	but we had our time together . 	เราได้ใช้เวลาอยู่ร่วมกัน 
+2045	And I have to let you go . 	และผมต้องปล่อยคุณไป 
+2046	I have to let you go . 	ผมต้องปล่อยคุณไป 
+2047	I 'm sorry , Robert . 	ฉันเสียใจ, 
+2048	You know , the will means that Dad wanted me to be my own man ... 	รู้ไหม 
+2049	not just to live for him . 	ไม่ใช่เป็นตัวแทนพ่อ 
+2050	That 's what I m gonna do , Uncle Peter . 	นั่นแหละคือสิ่งที่ผมจะต้องทำ 
+2051	What happened ? 	เกิดอะไรขึ้น 
+2052	- Cobb stayed . 	ค็อบติดอยู่ที่นั่น 
+2053	- With Mal ? 	กับมอลเหรอ? 
+2054	No , to find Saito . 	ไม่ 
+2055	He 'll be lost . 	เขาจะต้องหลงแน่ 
+2056	No , he 'll be all right . 	ไม่ 
+2057	Have you come to kill me ? 	คุณกำลังจะฆ่าผมเหรอ 
+2058	I 'm waiting for someone . 	ผมกำลังรอใครคนนีง 
+2059	Someone from a half-remembered dream . 	คนที่อยู่ในความฝันอันเลือนลาง 
+2060	Cobb ? 	ค๊อบบ์ 
+2061	Impossible . 	ค๊อบบ์ 
+2062	We were young men together . 	เราเคยเป็นหนุ่มด้วยกัน 
+2063	I 'm an old man . 	ฉันแก่แล้ว 
+2064	Filled with regret . 	มีแต่ความโศกเศร้า 
+2065	Waiting to die alone . 	รอความตายอยู่คนเดียว 
+2066	I 've come back for you . 	ผมกลับมาหาคุณ 
+2067	To remind you of something . 	ผมกลับมาหาคุณ 
+2068	Something you once knew . 	บางอย่างที่คุณเคยรู้ 
+2069	That this world is not real . 	ว่าโลกนี้มันไม่ใช่ความจริง 
+2070	To convince me to honor our arrangement ? 	เพื่อให้ผมทำตามข้อตกลงของเราเหรอ? 
+2071	To take a leap of faith , yes . 	การก้าวข้ามแห่งความเชื่อ 
+2072	Come back ... 	กลับไปกับผม 
+2073	so we can be young men together again . 	กลับไปกับผม 
+2074	Come back with me . 	กลับไปกับผมเถอะ 
+2075	Come back . 	กลับไปกับผมเถอะ 
+2076	Hot towel , sir ? 	ผ้าเช็ดหน้าอุ่นๆหน่อยไหมคะ 
+2077	We 'll be landing in Los Angeles in about 20 minutes . 	เราจะลงจอดที่ 
+2078	Do you need immigration forms ? 	ต้องการแบบฟอร์มตรวจคนเข้าเมืองไหมคะ 
+2079	Thank you . 	ขอบคุณ 
+2080	Hot towel , sir ? 	ผ้าเช็ดหน้าอุ่นๆหน่อยไหมคะ 
+2081	- No . 	ต้องการแบบฟอร์มตรวจคนเข้าเมืองไหมคะ 
+2082	- Do you need immigration forms ? 	
+2083	Welcome home , Mr . Cobb . 	ยินดีต้อนรับกลับบ้าน 
+2084	Thank you , sir . 	ยินดีต้อนรับกลับบ้าน 
+2085	Welcome . 	ยินดีต้อนรับกลับบ้าน 
+2086	This way . 	ทางนี้ 
+2087	James ? 	เจมส์ 
+2088	Phillipa ? 	ฟิลิปป้า 
+2089	Look who 's here . 	ดูสิว่าใครมา 
+2090	Hey . 	
+2091	- Hey , guys ! 	ไงเด็กๆ 
+2092	Hey ! 	เป็นไงบ้าง 
+2093	How are you ? 	คุณพ่อ 
+2094	- Daddy ! 	สบายดีไหม 
+2095	Daddy ! 	สบายดีไหม 
+2096	- Daddy ! 	สบายดีไหม 
+2097	- How are you ? 	
+2098	Look what I ve been building ! 	ดูที่ผมสร้างสิ 
+2099	- What are you building ? 	ทำอะไรนั่น? 
+2100	- We 're building a house on the cliff ! 	ฉันสร้างบ้านด้วยหิน 
+2101	On the cliff ? 	ทำจากหิน? 
+2102	Come on , I want you to show me . 	มาดูสิ 
+2103	Can you show me ? 	ทำให้ฉันบ้างสิ 
+2104	- Let 's go . 	ทำให้ฉันบ้างสิ 
+2105	- Come on , Daddy ! 	ได้เลยพ่อ 

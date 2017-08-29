@@ -1,0 +1,2105 @@
+﻿1	Are you here to kill me ? 	Tulitteko tappamaan minut ? 
+2	I know what this is . 	Tiedän , mikä tämä on . 
+3	I 've seen one before . 	Olen nähnyt tällaisen monia vuosia sitten . 
+4	Many , many years ago . 	
+5	It belonged to a man I met in a half-remembered dream . 	Se kuului miehelle , jonka tapasin lähes unohtamassani unessa . 
+6	A man possessed of some radical notions . 	Miehelle , jonka mieltä painoivat eräät perusajatukset . 
+7	What is the most resilient parasite ? 	Mikä on loisista sitkein ? 
+8	A bacteria ? 	Bakteeri ? 
+9	A virus ? 	Virus ? 
+10	An intestinal worm ? 	Lapamato ? 
+11	Uh ... 	Lapamato ? 
+12	What Mr . Cobb is trying to say -- 	Lapamato ? 
+13	An idea . 	Idea . 
+14	Resilient . 	Sitkeä ja erittäin tarttuva . 
+15	Highly contagious . 	
+16	Once an idea has taken hold of the brain , it 's almost impossible to eradicate . 	Kun idea on juurtunut aivoihin , sitä on lähes mahdoton tuhota . 
+17	An idea that is fully formed , fully understood , that sticks . 	Täysin muotoutunut ja ymmärretty idea pysyy . 
+18	Right in there somewhere . 	Jossakin tuolla . 
+19	For someone like you to steal ? 	Jossakin tuolla . 
+20	Yes . 	Joita te varastatte . Unessa ihminen laskee suojaustaan ja ajatukset ovat alttiita varkaudelle . 
+21	In the dream state , your conscious defenses are lowered ... 	
+22	and that makes your thoughts vulnerable to theft . 	
+23	It 's called extraction . 	Sitä kutsutaan kaivamiseksi . 
+24	Mr . Saito , we can train your subconscious to defend itself ... 	Sitä kutsutaan kaivamiseksi . 
+25	from even the most skilled extractor . 	puolustautumaan taitavimpiakin kaivajia vastaan . 
+26	How can you do that ? 	Miten pystytte siihen ? 
+27	Because I am the most skilled extractor . 	Miten pystytte siihen ? 
+28	I know how to search your mind and find your secrets . 	Minä olen taitavin kaivaja . Osaan tutkia mielenne ja etsiä salaisuutenne . Tunnen keinot . 
+29	I know the tricks . 	
+30	And I can teach them to you , so that even when you 're asleep ... 	Voin opettaa ne teille . 
+31	your defense is never down . 	Voin opettaa ne teille . 
+32	Look , if you want my help , you 're gonna have to be completely open with me . 	Jos haluatte apuani , teidän on oltava avoin . 
+33	I need to know my way around your thoughts better than your wife ... 	Minun on tunnettava ajatuksenne paremmin kuin vaimonne , terapeuttinne tai kukaan . 
+34	better than your therapist , better than anyone . 	Minun on tunnettava ajatuksenne paremmin kuin vaimonne , terapeuttinne tai kukaan . 
+35	If this is a dream , and you have a safe full of secrets ... 	Jos tämä olisi uni ja tuo kassakaappi täynnä salaisuuksia , se olisi avattava minulle . 
+36	I need to know what 's in that safe . 	Jos tämä olisi uni ja tuo kassakaappi täynnä salaisuuksia , se olisi avattava minulle . 
+37	In order for this all to work , you need to completely let me in . 	Jotta koulutus onnistuisi , teidän on päästettävä minut täysin sisään . 
+38	Enjoy your evening , gentlemen , as I consider your proposal . 	Nauttikaa illasta , herrat . 
+39	He knows . 	Hän tietää . 
+40	What 's going on up there ? 	Mitä ylhäällä tapahtuu ? 
+41	Saito knows . 	Saito tietää . 
+42	He 's playing with us . 	Saito tietää . 
+43	Does n't matter . 	Saito tietää . 
+44	I can get it here . 	Hän leikkii kanssamme . 
+45	Trust me . 	Ei sillä ole väliä . 
+46	The information is in the safe . 	Voin saada tiedot täältä . 
+47	He looked right at it when I mentioned secrets . 	Ne ovat kassakaapissa . Hän katsoi sitä , kun mainitsin salaisuudet . 
+48	What 's she doing here ? 	Miksi hän on täällä ? 
+49	Just head back to the room . 	Palaa huoneeseen . 
+50	All right ? 	Hoidan tämän . 
+51	I 'll take care of this . 	Hoidan tämän . 
+52	Okay , make sure you do . 	Hoidan tämän . 
+53	We 're here to work . 	Parasta olisi . 
+54	If I jumped , would I survive ? 	Jos hyppäisin , selviäisinkö minä ? 
+55	With a clean dive , perhaps . 	Ehkä onnistuneella sukelluksella . 
+56	Mal , what are you doing here ? 	Mal , mitä teet täällä ? 
+57	I thought you might be missing me . 	Mal , mitä teet täällä ? 
+58	You know that I am . 	Ajattelin , että saattaisit kaivata minua . 
+59	But I ca n't trust you anymore . 	Kaipaan kyllä , - mutten voi luottaa sinuun enää . 
+60	So what ? 	Entä sitten ? 
+61	Looks like Arthur 's taste . 	Näyttää sopivan Arthurin makuun . 
+62	Actually , the subject is partial to postwar British painters . 	Kohde pitää sodanjälkeisistä brittimaalareista . 
+63	Please , have a seat . 	Ole hyvä ja istu . 
+64	Tell me ... 	Kaipasivatko lapset minua ? 
+65	do the children miss me ? 	Kaipasivatko lapset minua ? 
+66	You ca n't imagine . 	Et voi kuvitellakaan . 
+67	What are you doing ? 	Mitä teet ? 
+68	Just getting some fresh air . 	Mitä teet ? 
+69	Stay where you are , Mal . 	Haukkaan raikasta ilmaa . Pysy paikallasi , Mal . 
+70	Goddamn it . 	Hemmetti sentään . 
+71	Turn around . 	Kääntykää ympäri . 
+72	The gun , Dom . 	Kääntykää ympäri . 
+73	Please . 	Pyydän . 
+74	Now the envelope , Mr . Cobb . 	Nyt kirjekuori , herra Cobb . 
+75	Did she tell you ? 	Kertoiko hän , vai oletteko tienneet koko ajan ? 
+76	Or have you known all along ? 	
+77	That you 're here to steal from me , or that we are actually asleep ? 	Senkö , että olette varastamassa minulta vai että olemme unessa ? 
+78	I want to know the name of your employer . 	Haluan tietää työnantajanne nimen . 
+79	Ah , there 's no use threatening him in a dream , right , Mal ? 	Unessa uhkailu ei hyödytä . 
+80	That depends on what you 're threatening . 	Eikö totta , Mal ? Se riippuu siitä , miten uhkailee . 
+81	Killing him would just wake him up . 	Tappaminen vain herättäisi hänet . 
+82	But pain ... 	Kipu kuitenkin ... 
+83	Pain is in the mind . 	Kipu on mielessä . 
+84	And judging by the decor , we 're in your mind , are n't we , Arthur ? 	Sisustuksesta päätellen olemme sinun mielessäsi , Arthur . 
+85	- What are you doing ? 	Mitä teet ? 
+86	It 's too soon . 	On liian aikaista ! 
+87	- But the dream 's collapsing . 	Tiedän . 
+88	I 'm gonna try to keep Saito under a little bit longer . 	Uni romahtaa . Yritän pitää Saiton unessa hieman pidempään . 
+89	We 're almost there . 	Olemme melkein valmiita . 
+90	He was close . 	Se oli erittäin lähellä . 
+91	Very close . 	
+92	Stop him ! 	Pysäyttäkää hänet ! 
+93	This is n't gonna work . 	Tämä ei toimi . 
+94	Wake him up . 	Herätä hänet . 
+95	He wo n't wake . 	Dom ei herää ! 
+96	- Give him the kick . 	Anna hänelle potku . 
+97	- What ? 	Anna hänelle potku . 
+98	Dunk him . 	Anna hänelle potku . 
+99	He 's out . 	Hän on tainnoksissa . 
+100	You came prepared , hmm ? 	Olitte valmistautuneet . 
+101	Not even my head of security knows this apartment . 	Turvapäällikkönikään ei tiedä tästä asunnosta . 
+102	How did you find it ? 	Miten löysitte sen ? 
+103	It 's difficult for a man of your position to keep a love nest like this secret ... 	Asemassanne on vaikea piilotella tällaista rakkauden pesää . 
+104	particularly where there 's a married woman involved . 	Erityisesti , kun asiaan liittyy naimisissa oleva nainen . 
+105	- She would never ... 	Hän ei koskaan ... 
+106	- Yet here we are . 	Tässä me silti olemme . 
+107	- With a dilemma . 	Ja meillä on ongelma . 
+108	- They 're getting closer . 	He lähestyvät . 
+109	- You got what you came for . 	Saitte , mitä tulitte hakemaan . 
+110	- Well , that 's not true . 	Ei pidä paikkaansa . 
+111	You left out a key piece of information , did n't you ? 	Jätitte ratkaisevaa tietoa pois . 
+112	You held something back because you knew what we were up to . 	Pidättelitte jotakin , koska tiesitte mitä aioimme . 
+113	- Question is , why 'd you let us in at all ? 	Miksi päästitte meidät sisään ? 
+114	- An audition . 	Kokeilu . 
+115	- An audition for what ? 	Mitä varten ? 
+116	- Does n't matter . 	Ei sillä ole väliä . 
+117	You failed . 	Te epäonnistuitte . 
+118	We extracted every bit of information you had in there . 	Kaivoimme kaikki tietonne . 
+119	But your deception was obvious . 	Harhautuksenne oli ilmiselvä . 
+120	- So leave me and go . 	Jättäkää minut rauhaan . 
+121	- You do n't seem to understand , Mr . Saito . 	Ette ymmärrä , herra Saito . 
+122	That corporation that hired us , they wo n't accept failure . 	Ette ymmärrä , herra Saito . 
+123	We wo n't last two days . 	ei hyväksy epäonnistumista . 
+124	Cobb ? 	Vauhtia . 
+125	Looks like I 'm gonna have to do this a little more simply . 	Vauhtia . 
+126	Tell us what you know ! 	Kerro , mitä tiedät heti ! 
+127	Tell us what you know , now ! 	
+128	I 've always hated this carpet . 	Olen aina inhonnut tätä mattoa . 
+129	It 's stained and frayed in such distinctive ways . 	Se on likaantunut ja harsuuntunut ainutlaatuisesti . 
+130	But very definitely made of wool . 	Mutta se on varmasti tehty villasta . 
+131	Right now ... 	Tällä hetkellä taas - 
+132	I m lying on polyester . 	makaan polyesterin päällä . 
+133	Which means I m not lying on my carpet , in my apartment . 	Se tarkoittaa , etten ole nyt asunnossani . 
+134	You have lived up to your reputation , Mr . Cobb . 	Olette maineenne veroinen , herra Cobb . 
+135	I 'm still dreaming . 	Olette maineenne veroinen , herra Cobb . 
+136	- How 'd it go ? 	Miten se meni ? 
+137	- Not good . 	Huonosti . 
+138	Dream within a dream , huh ? 	Uni unen sisällä . Olen vaikuttunut . 
+139	I 'm impressed . 	
+140	But in my dream , you play by my rules . 	Mutta minun unessani pelaatte säännöilläni . 
+141	Ah , yes , but you see , Mr . Saito ... 	Kuulkaahan , herra Saito ... 
+142	We 're not in your dream . 	Kuulkaahan , herra Saito ... 
+143	We 're in mine . 	Olemme minun unessani . 
+144	Asshole . 	Typerys . 
+145	How do you mess up the carpet ? 	Typerys . 
+146	- It was n't my fault . 	Typerys . 
+147	- You 're the architect . 	Mokasit maton kanssa . 
+148	I did n't know he was gonna rub his cheek on it ! 	Olet arkkitehti . 
+149	That 's enough . 	Riittää jo . 
+150	You . 	Mitä helvettiä tuo oli ? 
+151	What the hell was all that ? 	Mitä helvettiä tuo oli ? 
+152	- I have it under control . 	Mitä helvettiä tuo oli ? 
+153	- I 'd hate to see you out of control . 	Kaikki on hallinnassa . 
+154	We do n't have time for this . 	En haluaisi nähdä , kun se ei ole . 
+155	I 'm getting off at Kyoto . 	Meillä ei ole aikaa tähän . 
+156	He 's not gonna check every compartment . 	Jään pois Kiotossa . 
+157	Yeah , well , I do n't like trains . 	Ei hän joka vaunuosastoa tarkista . 
+158	Listen . 	En pidä junista . 
+159	Every man for himself . 	Jokainen pitää huolen itsestään . 
+160	Yes , hello ? 	Haloo ? 
+161	- Hi , Daddy . 	Haloo ? 
+162	- Hi , Dad . 	Hei , isä . 
+163	Hey , guys . 	Hei , kaverit . 
+164	Hey . 	Kuinka voitte ? 
+165	How are you ? 	
+166	How you doing , huh ? 	
+167	- Good . 	Hyvin . 
+168	- Okay , I guess . 	Ihan okei . 
+169	Okay ? 	Ihan okei ? 
+170	Who 's just okay ? 	Kuka voi ihan okei , Jamesko ? 
+171	Is that you , James ? 	Niin . 
+172	Yeah . 	Milloin tulet kotiin , isä ? 
+173	When are you coming home , Dad ? 	
+174	Well , I ca n't , sweetheart . 	En voi tulla , pikkuinen . En hetkeen , muistatko ? Mikset ? 
+175	I ca n't . 	
+176	Not for a while , remember ? 	
+177	Why ? 	
+178	Look , I told you , I m away because I m working , right ? 	Sanoinhan , että olen työmatkalla . 
+179	Grandma says you 're never coming back . 	Isoäiti sanoi , ettet tule koskaan takaisin . 
+180	Phillipa , is that you ? 	Phillipa , sinäkö siinä ? 
+181	Put Grandma on the phone for me , will you ? 	Antaisitko puhelimen isoäidille ? 
+182	She 's shaking her head . 	Hän pudistaa päätään . 
+183	Well , just hope she 's wrong about that . 	Toivotaan , että hän on väärässä . 
+184	Daddy ? 	Isä ? 
+185	Yeah , James ? 	Isä ? 
+186	Is Mommy with you ? 	Onko äiti kanssasi ? 
+187	James , we talked about this . 	Puhuimme tästä jo . 
+188	Mommy 's not here anymore . 	Äiti ei ole enää täällä . 
+189	Where ? 	Missäs ? 
+190	That 's enough , kids . 	Riittää , lapset . 
+191	Say bye-bye . 	Sanokaa hei . 
+192	Listen , I m gonna send some presents with Grandpa , all right ? 	Lähetän lahjoja isoisän mukana . 
+193	And you be good , you be -- 	Lähetän lahjoja isoisän mukana . 
+194	- Our ride 's on the roof . 	Kyytimme on katolla . 
+195	- Right . 	
+196	Hey , are you okay ? 	Oletko kunnossa ? 
+197	Yeah . 	Oletko kunnossa ? 
+198	Yeah , I m fine . 	Olen , miten niin ? 
+199	Why ? 	
+200	Well , down in the dream , Mal showing up . 	Koska Mal ilmestyi uneen . 
+201	Look , I m , uh , sorry about your leg . 	Pahoittelut jalastasi . 
+202	Wo n't happen again . 	Se ei toistu . 
+203	- It 's getting worse , is n't it ? 	Asia vain pahenee . 
+204	- One apology 's all you 're getting , all right ? 	Et saa kuin yhden anteeksipyynnön . 
+205	- Where 's Nash ? 	Missä Nash on ? 
+206	- He has n't shown . 	Ei ole ilmestynyt . 
+207	You wanna wait ? 	Odotammeko ? 
+208	We were supposed to deliver Saito 's expansion plans ... 	Saiton suunnitelma piti luovuttaa Cobol-yhtiölle tunteja sitten . 
+209	to Cobol Engineering two hours ago . 	Saiton suunnitelma piti luovuttaa Cobol-yhtiölle tunteja sitten . 
+210	By now , they know we failed . 	He tietävät epäonnistumisesta . 
+211	It 's time we disappear . 	Aika kadota . 
+212	- Where you gonna go ? 	Minne menet ? 
+213	- Buenos Aires . 	Buenos Airesiin . 
+214	I can lie low there , maybe sniff out a job when things quiet down . 	Piileskelen ja ehkä vedän keikan asioiden rauhoituttua . 
+215	You ? 	Entä sinä ? 
+216	Stateside . 	Menen Yhdysvaltoihin . 
+217	Send my regards . 	Menen Yhdysvaltoihin . 
+218	He sold you out . 	Hän petti teidät . 
+219	Thought to come to me and bargain for his life . 	Tuli luokseni käymään kauppaa hengestään . 
+220	So I offer you the satisfaction . 	Tarjoankin teille tämän nautinnon . 
+221	It 's not the way I deal with things . 	En tee asioita tällä tavalla . 
+222	- What will you do with him ? 	Mitä teette hänelle ? 
+223	- Nothing . 	Emme mitään . 
+224	But I ca n't speak for Cobol Engineering . 	En voi puhua Cobol-yhtiön puolesta . 
+225	- What do you want from us ? 	Mitä haluat meiltä ? 
+226	- Inception . 	Istutuksen . 
+227	- Is it possible ? 	Onko se mahdollista ? 
+228	- Of course not . 	Ei tietenkään . 
+229	If you can steal an idea from someone 's mind ... 	Jos idean voi varastaa , miksei sitä voisi istuttaakin ? 
+230	why ca n't you plant one there instead ? 	Jos idean voi varastaa , miksei sitä voisi istuttaakin ? 
+231	Okay , here 's me planting an idea in your head . 	Istutan nyt ajatuksen mieleenne . 
+232	I say , Do n't think about elephants . 	Istutan nyt ajatuksen mieleenne . 
+233	What are you thinking about ? 	Sanon : Älä ajattele norsuja . Mitä ajattelette ? 
+234	Elephants . 	Norsuja . 
+235	Right . 	Mutta ajatus ei ole teidän , koska tiedätte minun antaneen sen teille . 
+236	But it 's not your idea , because you know I gave it to you . 	
+237	The subject 's mind can always trace the genesis of the idea . 	Mieli jäljittää aina ajatuksen alkuperän . 
+238	- True inspiration 's impossible to fake . 	Mieli jäljittää aina ajatuksen alkuperän . 
+239	- That 's not true . 	Inspiraatiota ei voi väärentää . Se ei ole totta . 
+240	- Can you do it ? 	Pystyttekö siihen ? 
+241	- Are you offering me a choice ? 	Onko minulla vaihtoehtoa ? 
+242	Because I can find my own way to square things with Cobol . 	Pystyn hoitamaan asiat Cobolin kanssa . 
+243	Then you do have a choice . 	Pystyn hoitamaan asiat Cobolin kanssa . 
+244	Then I choose to leave , sir . 	Sitten päätän passata . 
+245	Tell the crew where you want to go . 	Sanokaa lentäjälle , mihin tahdotte . 
+246	Hey , Mr . Cobb . 	Herra Cobb ! 
+247	How would you like to go home ? 	Haluaisitteko mennä kotiin ? 
+248	To America . 	Yhdysvaltoihin , lastenne luo . 
+249	To your children . 	
+250	You ca n't fix that . 	Siihen ette pystyisi . 
+251	No one can . 	Eikä kukaan muukaan . 
+252	- Just like inception . 	Samaa sanottiin istutuksesta . 
+253	- Cobb , come on . 	Mennään , Cobb . 
+254	- How complex is the idea ? 	Kuinka monimutkainen idea on ? 
+255	- Simple enough . 	Suhteellisen yksinkertainen . 
+256	No idea is simple when you need to plant it in somebody else 's mind . 	Idea ei ole yksinkertainen , jos se täytyy istuttaa jonkun toisen mieleen . 
+257	My main competitor is an old man in poor health . 	Suurin kilpailijani on mies , jonka terveydentila on huono . 
+258	His son will soon inherit control of the corporation . 	Pian hänen poikansa perii koko yhtiön . 
+259	I need him to decide to break up his father 's empire . 	Pojan täytyy hajottaa isänsä imperiumi . 
+260	- Cobb , we should walk away from this . 	Cobb , jätetään tämä väliin . 
+261	- Hold on . 	Odota . 
+262	If I were to do this , if I even could do it ... 	Jos tekisin sen ... 
+263	I d need a guarantee . 	Tarvitsisin takuut . 
+264	- How do I know you can deliver ? 	Mistä tiedän , että pidätte lupauksenne ? 
+265	- You do n't . 	Ette tiedäkään . 
+266	But I can . 	Mutta pystyn siihen . 
+267	So do you want to take a leap of faith ... 	Joten ... Uskallatteko ottaa uskonloikan - 
+268	or become an old man , filled with regret ... 	vai tahdotteko vanhentua täynnä katumusta - 
+269	waiting to die alone ? 	odottaen yksin kuolemista ? 
+270	Assemble your team , Mr . Cobb . 	Kootkaa tiiminne , ja valitkaa se tällä kertaa viisaammin . 
+271	And choose your people more wisely . 	
+272	Look , I know how much you wanna go home . 	Tiedän , kuinka kovasti tahdot palata kotiin . 
+273	This ca n't be done . 	Istutus ei ole mahdollinen . 
+274	Yes , it can . 	Istutus ei ole mahdollinen . 
+275	Just have to go deep enough . 	Kyllä on . 
+276	You do n't know that . 	On vain mentävä tarpeeksi syvälle . 
+277	I 've done it before . 	Olen tehnyt sen aiemmin . 
+278	Who 'd you do it to ? 	Kenelle ? 
+279	Why are we going to Paris ? 	Miksi menemme Pariisiin ? 
+280	We 're gonna need a new architect . 	Tarvitsemme uuden arkkitehdin . 
+281	You never did like your office , did you ? 	Et ikinä pitänyt toimistostasi . 
+282	No space to think in that broom cupboard . 	Siinä komerossa ei mahdu edes ajattelemaan . 
+283	Is it safe for you to be here ? 	Onko sinun turvallista olla täällä ? 
+284	Extradition between France and the United States ... 	Ranskan ja Yhdysvaltojen välinen luovutusbyrokratia on painajaismainen . 
+285	is a bureaucratic nightmare , you know that . 	Ranskan ja Yhdysvaltojen välinen luovutusbyrokratia on painajaismainen . 
+286	I think they might find a way to make it work in your case . 	Sinun tapauksessasi se voisi toimiakin . 
+287	Look , I , uh , brought these for you to give to the kids when you have a chance . 	Toin jotain lapsille , voit antaa nämä heille kun voit . 
+288	It 'll take more than the occasional stuffed animal ... 	Lapset tarvitsevat muutakin kuin pehmoleluja vakuuttuakseen siitä , että heillä on vielä isä . 
+289	to convince those children they still have a father . 	Lapset tarvitsevat muutakin kuin pehmoleluja vakuuttuakseen siitä , että heillä on vielä isä . 
+290	I 'm just doing what I know . 	Teen vain mitä osaan , mitä opetit minulle . 
+291	I 'm doing what you taught me . 	Teen vain mitä osaan , mitä opetit minulle . 
+292	I never taught you to be a thief . 	Teen vain mitä osaan , mitä opetit minulle . 
+293	No , you taught me to navigate people 's minds . 	Opetit minut toimimaan ihmismielissä , mutta sen jälkeen mitä tapahtui , - 
+294	But after what happened ... 	Opetit minut toimimaan ihmismielissä , mutta sen jälkeen mitä tapahtui , - 
+295	there were n't a whole lot of legitimate ways for me to use that skill . 	jäljellä ei ollut monta laillista keinoa käyttää kykyäni . 
+296	What are you doing here , Dom ? 	Mitä teet täällä , Dom ? 
+297	I think I found a way home . 	Taisin löytää keinon päästä kotiin . 
+298	It 's a job for some very , very powerful people . 	Kyseessä on työkeikka hyvin vaikutusvaltaisille ihmisille , - 
+299	People who I believe can fix my charges permanently . 	jotka pystyvät poistamaan syytteeni pysyvästi . 
+300	But I need your help . 	Mutta tarvitsen apuasi . 
+301	You 're here to corrupt one of my brightest and best . 	Mutta tarvitsen apuasi . 
+302	You know what I m offering . 	Tiedät , mitä tarjoan . 
+303	Let them decide for themselves . 	Heidän on päätettävä itse . 
+304	- Money . 	Rahaa . 
+305	- Not just money . 	Rahaa . 
+306	You remember . 	Rahaa . 
+307	It 's the chance to build cathedrals , entire cities ... 	Mahdollisuus rakentaa katedraaleja , kaupunkeja , asioita , joita eivät ole olemassa . 
+308	things that never existed ... 	Mahdollisuus rakentaa katedraaleja , kaupunkeja , asioita , joita eivät ole olemassa . 
+309	things that could n't exist in the real world . 	Asioita , joita ei voisi olla tässä maailmassa . 
+310	So you want me to let someone else follow you into your fantasy ? 	Minun siis pitäisi antaa jonkun seurata sinua fantasiamaailmaasi . 
+311	They do n't actually come into the dream . 	Henkilön ei itse tarvitse tulla uneen , ainoastaan suunnitella tasot - 
+312	They just design the levels and teach them to the dreamers . 	ja opettaa ne uneksijoille , siinä kaikki . 
+313	That 's all . 	ja opettaa ne uneksijoille , siinä kaikki . 
+314	Design it yourself . 	ja opettaa ne uneksijoille , siinä kaikki . 
+315	Mal wo n't let me . 	Mal ei anna minun tehdä niin . 
+316	Come back to reality , Dom . 	Tule takaisin todellisuuteen , Dom . 
+317	- Please . 	Ole kiltti . 
+318	- Reality . 	Todellisuus ... 
+319	Those kids , your grandchildren ... 	Lapset , sinun lapsenlapsesi , he odottavat isäänsä takaisin kotiin . 
+320	they 're waiting for their father to come back home . 	Lapset , sinun lapsenlapsesi , he odottavat isäänsä takaisin kotiin . 
+321	That 's their reality . 	Se on heidän todellisuutensa . 
+322	And this job , this last job , that 's how I get there . 	Se on heidän todellisuutensa . 
+323	I would not be standing here if I knew any other way . 	En olisi tässä , jos tietäisin toisen keinon . 
+324	I need an architect who 's as good as I was . 	Tarvitse arkkitehdin , joka on yhtä hyvä kuin minä olin . 
+325	I 've got somebody better . 	Minulla on eräs sinua parempi . 
+326	Ariadne ? 	Ariadne . 
+327	I 'd like you to meet Mr . Cobb . 	Tahtoisin esitellä herra Cobbin . 
+328	Pleased to meet you . 	Tahtoisin esitellä herra Cobbin . 
+329	If you have a few moments , Mr . Cobb has a job offer he 'd like to discuss with you . 	Herra Cobbilla olisi sinulle työtarjous , josta hän tahtoisi keskustella . 
+330	A work placement ? 	Työpaikkako ? 
+331	Not exactly . 	Työpaikkako ? 
+332	I have a test for you . 	Minulla on sinulle testi . 
+333	You 're not gonna tell me anything first ? 	Minulla on sinulle testi . 
+334	Before I describe the job , I have to know you can do it . 	Ennen kuin kerron siitä , minun on tiedettävä , että pystyt siihen . 
+335	- Why ? 	Miksi ? 
+336	- It s not , strictly speaking , legal . 	Koska se ei ole täysin laillista . 
+337	You have two minutes to design a maze that it takes one minute to solve . 	Suunnittele kahdessa minuutissa sokkelo , jonka läpäisemiseen menee minuutti . 
+338	Stop . 	Seis . 
+339	Again . 	Uudestaan . 
+340	Stop . 	Seis . 
+341	You 're gonna have to do better than that . 	Sinun on pystyttävä parempaan . 
+342	That 's more like it . 	Tämä näyttää jo paremmalta . 
+343	They say we only use a fraction of our brain 's true potential . 	Sanovat , että käytämme aivokapasiteetistamme vain murto-osan hereillä ollessamme . 
+344	Now , that 's when we 're awake . 	Sanovat , että käytämme aivokapasiteetistamme vain murto-osan hereillä ollessamme . 
+345	When we 're asleep , our mind can do almost anything . 	Unessa mielemme pystyy lähes mihin tahansa . 
+346	Such as ? 	Unessa mielemme pystyy lähes mihin tahansa . 
+347	Imagine you 're designing a building . 	Kuvittele suunnittelevasi rakennusta . 
+348	You consciously create each aspect . 	Luot kaikki yksityiskohdat . 
+349	But sometimes , it feels like it 's almost creating itself , if you know what I mean . 	Toisinaan kuitenkin tuntuu , kuin rakennus loisi itse itsensä . 
+350	Yeah , like I 'm discovering it . 	Kyllä , kuin vain paljastaisi sen . 
+351	Genuine inspiration , right ? 	Kyllä , kuin vain paljastaisi sen . 
+352	Now , in a dream , our mind continuously does this . 	Unessa mielemme tekee sitä jatkuvasti . 
+353	We create and perceive our world simultaneously . 	Luomme ja havaitsemme maailmamme saman- aikaisesti . 
+354	And our mind does this so well that we do n't even know it 's happening . 	Mielemme tekee sen niin hyvin , ettemme edes havaitse sitä . 
+355	That allows us to get right in the middle of that process . 	Niin pääsemme prosessin keskiöön . 
+356	- How ? 	Niin pääsemme prosessin keskiöön . Miten ? Valtaamalla luomispuolen . 
+357	- By taking over the creating part . 	Siinä kohtaa tarvitsen sinua . 
+358	Now , this is where I need you . 	Siinä kohtaa tarvitsen sinua . 
+359	You create the world of the dream . 	Sinä luot unen maailman . 
+360	We bring the subject into that dream , and they fill it with their subconscious . 	Tuomme kohteen luomaasi uneen - ja heidän alitajuntansa täyttää sen . 
+361	How could I ever acquire enough detail to make them think that it 's reality ? 	Miten voin tehdä unesta niin yksityiskohtaisen , että kohde luulee sen olevan todellista ? 
+362	Well , dreams , they feel real while we 're in them , right ? 	Unet tuntuvat todelta , kun uneksimme , eikö totta ? 
+363	It 's only when we wake up that we realize something was actually strange . 	Vasta herättyään tajuaa mikä unessa oli outoa . 
+364	Let me ask you a question . 	Muistatko koskaan , miten unet alkavat ? 
+365	You never really remember the beginning of a dream , do you ? 	Muistatko koskaan , miten unet alkavat ? 
+366	You always wind up right in the middle of what 's going on . 	Päädyt aina tapahtumien keskelle . 
+367	I guess , yeah . 	Niin kai . 
+368	So how did we end up here ? 	Niin kai . 
+369	Well , we just came from the , uh ... 	Mehän tulimme ... 
+370	Think about it , Ariadne . 	Mehän tulimme ... 
+371	How did you get here ? 	Mieti , miten tulit juuri tänne ? 
+372	Where are you right now ? 	Missä olet tällä hetkellä ? 
+373	We 're dreaming ? 	Olemmeko unessa ? 
+374	You 're in the middle of the workshop , sleeping . 	Olemmeko unessa ? 
+375	This is your first lesson in shared dreaming . 	Tämä on ensimmäinen oppituntisi jaetusta unesta . 
+376	Stay calm . 	Pysy rauhallisena . 
+377	If it 's just a dream , then why are you -- ? 	Jos tämä on pelkkää unta , miksi ... 
+378	Because it 's never just a dream , is it ? 	Se ei ole koskaan pelkkää unta . 
+379	And a face full of glass hurts like hell . 	Lasi naamaa vasten sattuu hitosti . Unessa se tuntuu aidolta . 
+380	When you 're in it , it feels real . 	
+381	That 's why the military developed dream sharing . 	Armeija kehitti unien jakamisen harjoitusohjelmaksi . 
+382	It was a training program for soldiers to shoot , stab and strangle each other ... 	Sotilaat pystyivät ampumaan , puukottamaan ja kuristamaan toisiaan ja heräämään sitten . 
+383	and then wake up . 	Sotilaat pystyivät ampumaan , puukottamaan ja kuristamaan toisiaan ja heräämään sitten . 
+384	How did architects become involved ? 	Miten arkkitehti tähän liittyy ? 
+385	Well , someone had to design the dreams , right ? 	Miten arkkitehti tähän liittyy ? 
+386	Why do n't you give us another five minutes ? 	Anna meille vielä toiset viisi minuuttia . 
+387	Five minutes ? 	Viisi minuuttiako ? Puhuimme ainakin tunnin . Unessa aivojen toiminta on nopeampaa . 
+388	What -- ? 	
+389	We were talking for , like , at least an hour . 	
+390	In a dream , your mind functions more quickly ... 	
+391	therefore time seems to feel more slow . 	Siksi aika kuluu hitaammin . 
+392	Five minutes in the real world gives you an hour in the dream . 	Viisi minuuttia oikeassa elämässä vastaa tuntia unessa . 
+393	Why do n't you see what you can get up to in five minutes ? 	Katsotaan , mitä saat aikaan viidessä minuutissa . 
+394	You 've got the basic layout . 	Sinulla on pohjapiirros valmiina . 
+395	Bookstore , café . 	Sinulla on pohjapiirros valmiina . 
+396	Almost everything else is here too . 	Sinulla on pohjapiirros valmiina . 
+397	Who are the people ? 	Kirjakauppa , kahvila ja kaikki muu . Keitä ihmiset ovat ? Alitajuntani heijastuksia . 
+398	- Projections of my subconscious . 	
+399	- Yours ? 	Sinunko ? 
+400	- Yes . 	Sinunko ? 
+401	Remember , you are the dreamer . 	Sinunko ? 
+402	You build this world . 	Niin . 
+403	I am the subject . 	Rakennat tämän maailman . 
+404	My mind populates it . 	Minä olen kohde . 
+405	You can literally talk to my subconscious . 	Alitajuntani kanssa voisi kirjaimellisesti puhua . 
+406	That 's one of the ways we extract information from the subject . 	Alitajuntani kanssa voisi kirjaimellisesti puhua . 
+407	How else do you do it ? 	Miten muuten sen voi tehdä ? 
+408	By creating something secure , like a bank vault or a jail . 	Miten muuten sen voi tehdä ? 
+409	The mind automatically fills it with information it 's trying to protect . 	kuten pankkiholvin tai vankilan . 
+410	- You understand ? 	Ymmärrätkö ? 
+411	- Then you break in and steal it ? 	Ymmärrätkö ? 
+412	Well ... 	Ymmärrätkö ? 
+413	I guess I thought that the dream space would be all about the visual ... 	Luulin unien perustuvan visuaalisuuteen , mutta kyse onkin lähinnä tunteesta . 
+414	but it 's more about the feel of it . 	Luulin unien perustuvan visuaalisuuteen , mutta kyse onkin lähinnä tunteesta . 
+415	My question is what happens when you start messing with the physics of it all ? 	Mitä tapahtuu , kun alkaa temppuilla unen fysiikan kanssa ? 
+416	It 's something , is n't it ? 	Aikamoista . 
+417	Yes , it is . 	Aikamoista . 
+418	Why are they all looking at me ? 	Miksi kaikki tuijottavat minua ? 
+419	Because my subconscious feels that someone else is creating this world . 	Alitajuntani tuntee , - että joku muu luo tätä maailmaa . Mitä enemmän muutat asioita , - 
+420	The more you change things , the quicker the projections start to converge on you . 	sitä nopeammin heijastukset alkavat lähentyä . 
+421	Converge ? 	Lähentyä ? 
+422	They sense the foreign nature of the dreamer . 	Lähentyä ? 
+423	They attack , like white blood cells fighting an infection . 	Ne hyökkäävät kuin valkosolut tartuntaa vastaan . 
+424	- What , they 're gonna attack us ? 	Hyökkäävätkö ne kimppuumme ? 
+425	- No , no . 	Eivät . 
+426	Just you . 	Vain sinun kimppuusi . 
+427	This is great , but I m telling you , if you keep changing things like this ... 	Hienoa , mutta jos jatkat asioiden muuttamista näin ... 
+428	Jeez , mind telling your subconscious to take it easy ? 	Sanoisitko alitajunnallesi , että ottaisi rauhallisesti ? 
+429	It 's my subconscious . 	Alitajuntaa ei voi hallita . 
+430	Remember ? 	
+431	I ca n't control it . 	
+432	Very impressive . 	Vaikuttavaa . 
+433	I know this bridge . 	Tiedän tämän sillan . 
+434	This place is real , is n't it ? 	Eikö tämä paikka olekin oikea ? 
+435	Yeah , I cross it every day to get to the college . 	Menen sitä pitkin joka päivä kouluun . 
+436	Never re-create places from your memory . 	Paikkoja ei saa luoda muistoista . 
+437	Always imagine new places . 	Täytyy aina kuvitella uusia paikkoja . 
+438	You draw from stuff you know , right ? 	Täytyyhän käyttää asioita , joita tietää . 
+439	Only use details . 	Yksityiskohtia voi käyttää . Katulamppua tai puhelinkoppia , mutta ei kokonaisia alueita . 
+440	A streetlamp or a phone booth . 	Miksei ? 
+441	Never entire areas . 	Miksei ? 
+442	- Why not ? 	Miksei ? 
+443	- Building a dream from your memory ... 	Kun rakentaa unen muistoista , - 
+444	is the easiest way to lose your grasp on what 's real and what is a dream . 	menettää helposti tajunnan oikean ja unen väliltä . 
+445	- Is that what happened to you ? 	Niinkö sinulle kävi ? 
+446	- Listen to me . 	Niinkö sinulle kävi ? 
+447	This has nothing to do with me , understand ? 	Niinkö sinulle kävi ? 
+448	That why you need me to build your dreams ? 	Siksikö tarvitset minua rakentamaan unesi ? 
+449	Hey , get off of her . 	Irti hänestä . 
+450	Back up . 	Perääntykää ! 
+451	Back up . 	
+452	- Cobb ! 	
+453	Cobb ! 	
+454	- Get off of her ! 	
+455	- Let me go ! 	Mal ! 
+456	Let me go ! 	
+457	- Mal ! 	
+458	- Mal ! 	Herätä minut ! 
+459	- Cobb ! 	Mal ! 
+460	Wake me up ! 	Mal ! 
+461	- Wake me up ! 	Mal ! 
+462	Wake me up ! 	Ei ! 
+463	- No ! 	Ei ! 
+464	- Mal , no ! 	Ei ! 
+465	No ! 	
+466	- Wake me up ! 	
+467	Hey , hey , hey . 	Katso minua . 
+468	Look at me . 	Olet kunnossa . 
+469	You 're okay . 	
+470	You 're okay . 	
+471	- Hey . 	Miksi en herännyt ? 
+472	- Why would n't I wake up ? 	
+473	There was still time on the clock . 	Jos aika ei ole kulunut loppuun , unesta herää vain kuollessaan . 
+474	You ca n't wake up from within the dream unless you die . 	Jos aika ei ole kulunut loppuun , unesta herää vain kuollessaan . 
+475	-- She 'll need a totem . 	Hän tarvitsee toteemin . 
+476	- What ? 	Mitä ? 
+477	A totem , it 's a small personal -- 	Toteemi on pieni ja henkilökohtainen ... 
+478	That 's some subconscious you 've got on you , Cobb ! 	Toteemi on pieni ja henkilökohtainen ... 
+479	- She 's a real charmer . 	Hän on todella hurmaava ! 
+480	- Oh . 	Hän on todella hurmaava ! 
+481	- I see you met Mrs . Cobb . 	Hän on todella hurmaava ! 
+482	- She 's his wife ? 	Tapasit siis rouva Cobbin . 
+483	Yeah . 	Oliko hän Cobbin vaimo ? 
+484	So a totem . 	Oli . 
+485	You need a small object , potentially heavy . 	Toteemiksi tarvitset pienen esineen , - 
+486	Something you can have on you that no one else knows . 	joka voi olla painava . 
+487	- Like a coin ? 	Esimerkiksi kolikko ? 
+488	- No . 	Ei . 
+489	It needs to be more unique than that . 	Sen täytyy ainutlaatuisempi . Tämä on painotettu noppa . 
+490	Like , this is a loaded die . 	
+491	No , I ca n't let you touch it . 	Et saa koskea siihen . 
+492	That would defeat the purpose . 	Et saa koskea siihen . 
+493	See , only I know the balance and the weight of this particular loaded die . 	Et saa koskea siihen . 
+494	That way , when you look at your totem ... 	Oman toteeminsa avulla tietää , ettei ole kenenkään muun unessa . 
+495	you know beyond a doubt that you 're not in someone else 's dream . 	Oman toteeminsa avulla tietää , ettei ole kenenkään muun unessa . 
+496	I do n't know if you ca n't see what 's going on , or if you just do n't want to ... 	Jos et huomaa tai halua huomata mitä on meneillään , - 
+497	but Cobb has some serious problems that he 's tried to bury down there . 	niin Cobbilla on vakavia ongelmia , joita hän yrittää haudata mieleensä , - 
+498	And I m not about to just open my mind to someone like that . 	enkä aio vain avata mieltäni jollekulle sellaiselle . 
+499	She 'll be back . 	Hän palaa vielä . 
+500	I 've never seen anyone pick it up that quickly before . 	En ole koskaan nähnyt kenenkään oppivan noin nopeasti . 
+501	Reality 's not gonna be enough for her now , and when she comes back ... 	Todellisuus ei riitä hänelle enää , ja kun hän palaa , - 
+502	When she comes back , you 're gonna have her building mazes . 	pane hänet rakentamaan sokkeloita . 
+503	- Where are you gonna be ? 	Mihin sinä menet ? 
+504	- I gotta go visit Eames . 	Minun täytyy mennä tapaamaan Eamesia . 
+505	Eames ? 	Minun täytyy mennä tapaamaan Eamesia . 
+506	No , he 's in Mombasa . 	Eames on Mombasassa . 
+507	It 's Cobol 's back yard . 	Se on kuin Cobolin takapiha . 
+508	It 's a necessary risk . 	Se on kuin Cobolin takapiha . 
+509	- Well , there 's plenty of good thieves . 	Hyviä varkaita riittää . 
+510	- We do n't just need a thief . 	Varas ei riitä . 
+511	We need a forger . 	Tarvitsemme väärentäjän . 
+512	Rub them together all you want , they 're not gonna breed . 	Vaikka niitä kuinka hinkkaisi yhteen , ne eivät lisäänny . 
+513	You never know . 	Ei sitä koskaan tiedä . 
+514	I 'm gonna get you a drink . 	Ei sitä koskaan tiedä . 
+515	You 're buying . 	Sinä tarjoat . 
+516	- Your spelling has n't improved . 	Oikeinkirjotuksesi ei ole parantunut . 
+517	- Piss off . 	Haista home . 
+518	How 's your handwriting ? 	Entä käsialasi ? 
+519	- It s versatile . 	Entä käsialasi ? 
+520	- Good . 	Ensiluokkaista . 
+521	Thank you very much . 	Hyvä . 
+522	Inception . 	Istutus . 
+523	Now , before you bother telling me it 's impossible , let me-- 	Istutus . 
+524	No , it 's perfectly possible . 	Se on ehkä mahdollista , mutta pirun hankalaa . 
+525	It 's just bloody difficult . 	
+526	Interesting . 	Mielenkiintoista . 
+527	Because Arthur keeps telling me it ca n't be done . 	Arthurin mukaan se ei onnistu . 
+528	Hmm . 	Vieläkö työskentelette yhdessä ? 
+529	Arthur . 	Hän on hyvä työssään . 
+530	You still working with that stick in the mud ? 	Hän on hyvä työssään . 
+531	He is good at what he does , right ? 	Hän on hyvä työssään . 
+532	Oh , he 's the best , but he has no imagination . 	Paras . 
+533	Not like you . 	Paras . 
+534	Listen , if you 're gonna perform inception , you need imagination . 	Istutukseen tarvitaan mielikuvitusta . 
+535	Let me ask you something . 	Oletko tehnyt sitä aiemmin ? 
+536	Have you done it before ? 	
+537	We tried it . 	Yritimme . 
+538	Uh , we got the idea in place , but it did n't take . 	Saimme idean istutettua , mutta se ei juurtunut . 
+539	- You did n't plant it deep enough ? 	Ettekö istuttaneet sitä tarpeeksi syvälle ? 
+540	- No , it 's not just about depth . 	Ei ole kysymys pelkästään syvyydestä . 
+541	You need the simplest version of the idea ... 	On käytettävä idean siementä , jonka sitten annetaan kasvaa kohteen mielessä . 
+542	in order for it to grow naturally in your subject 's mind . 	On käytettävä idean siementä , jonka sitten annetaan kasvaa kohteen mielessä . 
+543	It s a subtle art . 	Se on hienovaraista . 
+544	So , what is this idea that you need to plant ? 	Se on hienovaraista . 
+545	We need the heir of a major corporation to dissolve his father 's empire . 	Suuryhtiön perijälle idea isänsä liikeimperiumin hajottamisesta . 
+546	Right there you have various political motivations ... 	Asiaan vaikuttavat poliittiset tekijät ja antimonopolistiset mielipiteet . 
+547	and anti-monopolistic sentiments and so forth . 	Asiaan vaikuttavat poliittiset tekijät ja antimonopolistiset mielipiteet . 
+548	But all of that stuff , it 's , um ... 	Asiaan vaikuttavat poliittiset tekijät ja antimonopolistiset mielipiteet . 
+549	It 's really at the mercy of your subject 's prejudice , you see ? 	ovat kohteen ennakkoluulojen armoilla . 
+550	What you have to do is start at the absolute basic . 	ovat kohteen ennakkoluulojen armoilla . 
+551	Which is what ? 	Eli mistä ? 
+552	The relationship with the father . 	Eli mistä ? 
+553	- Do you have a chemist ? 	Onko teillä kemistiä ? 
+554	- No , not yet . 	Ei vielä . 
+555	Right . 	Tiedän erään Yusufin , joka sekoittaa yhdisteet itse . 
+556	Okay , well , there 's a man here , Yusuf . 	Tiedän erään Yusufin , joka sekoittaa yhdisteet itse . 
+557	He , uh , formulates his own versions of the compounds . 	Tiedän erään Yusufin , joka sekoittaa yhdisteet itse . 
+558	Why do n't you take me there ? 	Mennään tapaamaan häntä . 
+559	Once you 've lost your tail . 	Mennään tapaamaan häntä . 
+560	The man at the bar . 	Kun eksytät varjostajasi . 
+561	Cobol Engineering . 	Mies baarissa . 
+562	That price on my head , was that dead or alive ? 	Cobol-yhtiöstä . 
+563	Do n't remember . 	En ole varma . 
+564	Let 's see if he starts shooting . 	Kokeillaan , alkaako hän ammuskelemaan . 
+565	Run interference . 	Harhautetaan heidät ja tavataan alakerrassa puolen tunnin kuluttua . 
+566	I 'll meet you downstairs in the bar in , say , uh , half an hour ? 	
+567	- Back here ? 	Täälläkö ? 
+568	- This is the last place they 'd suspect . 	Sitä he eivät osaa odottaa . 
+569	All right . 	
+570	Freddy . 	Freddy Simmons ? 
+571	Freddy Simmonds . 	Freddy Simmons ? 
+572	My God , it 's you , is n't it ? 	Freddy Simmons ? 
+573	No , it is n't you . 	Ei ollutkaan . 
+574	Not dreaming now , are you ? 	Ei ollutkaan . 
+575	Get him ! 	
+576	There ! 	
+577	One café . 	Yksi kahvi . 
+578	Shh . 	
+579	One café . 	
+580	One café . 	
+581	Care for a lift , Mr . Cobb ? 	Haluatteko kyydin , herra Cobb ? 
+582	- What are you doing in Mombasa ? 	Mitä teette Mombasassa ? 
+583	- I m here to protect my investment . 	Suojelen sijoitustani . 
+584	Ah . 	Näinkö eksytät varjostajasi ? 
+585	So this is your idea of losing a tail , huh ? 	Näinkö eksytät varjostajasi ? 
+586	Different tail . 	Näinkö eksytät varjostajasi ? 
+587	Cobb said you 'd be back . 	Cobb sanoi , että palaisit . 
+588	- I tried not to come , but ... 	Yritin olla tulematta . 
+589	- But there 's nothing quite like it . 	Mutta se on niin ainutlaatuista . 
+590	It 's just ... 	Se on vain niin ... 
+591	pure creation . 	Aitoa luomista . 
+592	Shall we take a look at some paradoxical architecture ? 	Aitoa luomista . 
+593	You 're gonna have to master a few tricks ... 	Katsommeko paradoksaalista arkkitehtuuria ? 
+594	if you 're gonna build three complete dream levels . 	Kolmen unitason rakentaminen vaatii osaamista . Anteeksi . Millaista osaamista ? 
+595	Excuse me . 	
+596	What kind of tricks ? 	
+597	In a dream , you can cheat architecture into impossible shapes . 	Unessa voi luoda muuten mahdottomia rakennelmia . 
+598	That lets you create closed loops , like the Penrose Steps . 	Siten voi luoda suljettuja silmukoita , kuten loppumattomat portaat . 
+599	The infinite staircase . 	Siten voi luoda suljettuja silmukoita , kuten loppumattomat portaat . 
+600	See ? 	Huomaatko ? 
+601	Paradox . 	Paradoksi . 
+602	So a closed loop like that ... 	Paradoksi . 
+603	will help you disguise the boundaries of the dream you create . 	Paradoksi . 
+604	But how big do these levels have to be ? 	Kuinka suuria unitasojen pitäisi olla ? 
+605	It could be anything from the floor of a building to an entire city . 	Kuinka suuria unitasojen pitäisi olla ? 
+606	They have to be complicated enough that we can hide from the projections . 	Riittävän monimutkaisia , että voimme piiloutua heijastuksilta . 
+607	- A maze ? 	Kuin sokkelo ? 
+608	- Right , a maze . 	Kuin sokkelo ? 
+609	And the better the maze ... 	Kuin sokkelo ? 
+610	Then the longer we have before the projections catch us ? 	Sitä enemmän meillä on aikaa . 
+611	Exactly . 	Sitä enemmän meillä on aikaa . 
+612	- My subconscious seems polite enough . 	Alitajuntani vaikuttaa mukavalta . 
+613	- Ha , ha . 	Ainakin aluksi . 
+614	You wait , they 'll turn ugly . 	
+615	No one likes to feel someone else messing around in their mind . 	Kukaan ei halua mieleensä puututtavan . 
+616	Cobb ca n't build anymore , can he ? 	Kukaan ei halua mieleensä puututtavan . 
+617	I do n't know if he ca n't , but he wo n't . 	En tiedä pystyykö , mutta hän ei halua . 
+618	He thinks it 's safer if he does n't know the layouts . 	En tiedä pystyykö , mutta hän ei halua . 
+619	Why ? 	Miksi ? 
+620	He wo n't tell me . 	Miksi ? 
+621	But I think it 's Mal . 	Hän ei kerro . 
+622	- His ex-wife ? 	Luultavasti Malin takia . Hänen ex-vaimonsa ? Ei . 
+623	- No , not his ex . 	
+624	- They 're still together ? 	Ovatko he vielä yhdessä ? 
+625	- No . 	Eivät . 
+626	No , she 's dead . 	Mal on kuollut . 
+627	What you see in there is just his projection of her . 	Näit hänen heijastuksensa . 
+628	What was she like in real life ? 	Millainen hän oli oikeasti ? 
+629	She was lovely . 	Millainen hän oli oikeasti ? 
+630	- You are seeking a chemist ? 	Etsitte kemistiä , joka tekisi teille yhdisteet keikkaa varten . 
+631	- Yes . 	Etsitte kemistiä , joka tekisi teille yhdisteet keikkaa varten . 
+632	To formulate compounds for a job ? 	Etsitte kemistiä , joka tekisi teille yhdisteet keikkaa varten . 
+633	And to go into the field with us . 	Ja joka lähtisi mukaamme . 
+634	No , I rarely go into the field , Mr . Cobb . 	Ja joka lähtisi mukaamme . 
+635	Well , we 'd need you there to tailor compounds specific to our needs . 	Tarvitsemme teidät paikanpäälle tekemään tarpeitamme vastaavan yhdisteen . 
+636	- Which are ? 	Tarkoittaen ? 
+637	- Great depth . 	Syvälle . 
+638	A dream within a dream ? 	Uni unen sisällä . 
+639	Two levels ? 	Kaksi unitasoa . 
+640	Three . 	Kolme . 
+641	Not possible . 	Mahdotonta . Kolme unitasoa olisi liian epävakaa . Se on mahdollista . 
+642	That many dreams within dreams is too unstable . 	
+643	It is possible . 	Tarvitaan vain rauhoittavia . 
+644	You just have to add a sedative . 	Tarvitaan vain rauhoittavia . 
+645	A powerful sedative . 	Tarvitaan vain rauhoittavia . 
+646	- How many team members ? 	Montako jäsentä ? 
+647	- Five . 	Viisi . 
+648	Six . 	Kuusi . 
+649	The only way to know you 've done the job is if I go in with you . 	Tiedän , että työ on hoidettu vain , jos tulen mukaanne . 
+650	There 's no room for tourists on a job like this , Mr . Saito . 	Turisteille ei ole tilaa , herra Saito . 
+651	This time , it seems there is . 	Tällä kertaa taitaa olla . 
+652	This , I think , is a good place to start . 	Tällä voisi aloittaa . 
+653	I use it every day . 	Käytän sitä päivittäin . 
+654	What for ? 	Mihin ? 
+655	- Here , I 'll show you . 	Näytän teille . 
+656	Perhaps you will not want to see . 	Ette välttämättä halua nähdä tätä . 
+657	After you . 	Teidän jälkeenne . 
+658	Ten . 	Kymmenen ... 
+659	Twelve . 	12 samassa unessa . 
+660	All connected . 	He tulevat päivittäin jakaakseen unen . 
+661	Bloody hell . 	He tulevat päivittäin jakaakseen unen . 
+662	They come every day to share the dream . 	He tulevat päivittäin jakaakseen unen . 
+663	You see ? 	Huomaatteko ? 
+664	Very stable . 	Aine pitää vakaana . 
+665	- How long do they dream for ? 	Kauanko he uneksivat ? 
+666	- Three , four hours , each day . 	Nelisen tuntia päivässä . 
+667	In dream time ? 	Mikä on uniaika ? 
+668	With this compound ? 	Mikä on uniaika ? 
+669	About 40 hours , each and every day . 	Tällä yhdisteellä noin 40 tuntia . 
+670	- Why do they do it ? 	Miksi he tekevät niin ? 
+671	- Tell him , Mr . Cobb . 	Kertokaa hänelle , herra Cobb . 
+672	After a while , it becomes the only way you can dream . 	Hetken kuluttua voi nähdä unia vain niin . 
+673	Do you still dream , Mr . Cobb ? 	Hetken kuluttua voi nähdä unia vain niin . 
+674	- They come here every day to sleep ? 	Tulevatko he tänne päivittäin nukkumaan ? 
+675	- No . 	Eivät . 
+676	They come to be woken up . 	He tulevat herätettäviksi . 
+677	The dream has become their reality . 	Unesta on tullut heidän todellisuutensa . 
+678	Who are you to say otherwise , sir ? 	Voitteko väittää vastaan ? 
+679	Let 's see what you can do . 	Kokeillaan , mitä osaatte . 
+680	You know how to find me . 	Tiedät , miten löydät minut . 
+681	You know what you have to do . 	Tiedät , mitä sinun on tehtävä . 
+682	Sharp , no ? 	Aika tiukkaa tavaraa , eikö vain ? 
+683	Are you all right , Mr . Cobb ? 	Oletteko kunnossa , herra Cobb ? 
+684	Yeah , yeah . 	Olen aivan kunnossa . 
+685	Everything 's just fine . 	
+686	Robert Fischer , heir to the Fischer Morrow energy conglomerate . 	Robert Fischer . 
+687	What 's your problem with this Mr . Fischer ? 	Mikä herra Fischerissä on vikana ? 
+688	That 's not your concern . 	Mikä herra Fischerissä on vikana ? 
+689	Mr . Saito , this is n't your typical corporate espionage . 	Herra Saito , kyseessä ei ole tavallinen yritysvakoilu . 
+690	You asked me for inception . 	Pyysitte minulta istutusta . 
+691	I do hope you understand the gravity of that request . 	Pyysitte minulta istutusta . 
+692	Now , the seed that we plant in this man 's mind will grow into an idea . 	Toivon , että ymmärrätte sen painoarvon . Miehen mieleen istutettu siemen kasvaa ideaksi , joka määrittelee hänet . 
+693	This idea will define him . 	
+694	It may come to change ... 	Se saattaa muuttaa hänet täysin . 
+695	Well , it may come to change everything about him . 	Se saattaa muuttaa hänet täysin . 
+696	We 're the last company standing between them and total energy dominance . 	Olemme ainoana yrityksenä jäljellä heidän ja sähkömonopoliaseman välillä . 
+697	And we can no longer compete . 	Emmekä pysty kilpailemaan . 
+698	Soon , they 'll control the energy supply of half the world . 	Pian he kontrolloivat puolen maailman sähkövarastoja - 
+699	In effect , they become a new superpower . 	ja heistä tulee uusi suurvalta . 
+700	The world needs Robert Fischer to change his mind . 	Robert Fischerin on muutettava mieltään maailman vuoksi . 
+701	That 's where we come in . 	Siinä me tulemme kuvioihin . 
+702	How is Robert Fischer 's relationship with his father ? 	Siinä me tulemme kuvioihin . 
+703	Rumor is the relationship is quite complicated . 	Huhujen mukaan hyvin monimutkainen . 
+704	Well , we ca n't work based solely on rumor , can we ? 	Huhujen mukaan hyvin monimutkainen . 
+705	Can you get me access to this man here ? 	Voitteko saada minut yhteyteen Browningin kanssa ? 
+706	Browning . 	
+707	Fischer Senior 's right-hand man . 	Robertin isän oikea käsi ja Robertin kummisetä . 
+708	Fischer Junior 's godfather . 	
+709	It should be possible , if you can get the right references . 	Se on mahdollista , jos saatte oikeanlaiset suositukset . 
+710	References are something of a specialty for me , Mr . Saito . 	Ne ovatkin erikoisalaani , herra Saito . 
+711	I 'm not smelling settlement here . 	Emme taida päästä ratkaisuun . 
+712	Take them down . 	Mennään oikeuteen . 
+713	Mr . Browning ... 	Herra Browning , Maurice Fischerin toimintamalli on ollut käräjöinnin välttely . 
+714	Maurice Fischer 's policy is always one of avoiding litigation . 	Herra Browning , Maurice Fischerin toimintamalli on ollut käräjöinnin välttely . 
+715	Well , shall we voice your concerns with Maurice directly ? 	Ilmoitammeko huolistanne Mauricelle suoraan ? 
+716	Not sure that 's necessary . 	Se ei liene tarpeellista . 
+717	No , no , no . 	Se ei liene tarpeellista . 
+718	I think we should . 	Mielestäni on . 
+719	How is he ? 	Kuinka hän voi ? 
+720	I do n't want to bother him unnecessarily , but -- 	En halua vaivata häntä turhaan , mutta ... 
+721	Robert , I told you keep out the damn -- Wait . 	
+722	So do it . 	
+723	Get -- 	
+724	- Mr . Fischer . 	
+725	- Put it through . 	
+726	Never , never . 	
+727	Never do the same as I asked . 	
+728	Leave that . 	
+729	Here . 	
+730	Must be a cherished memory of his . 	Tämä lienee hänelle tärkeä muisto . 
+731	I put it beside his bed . 	Panin sen hänen sänkynsä viereen . 
+732	He has n't even noticed . 	Hän ei ole edes huomannut . 
+733	Robert ... 	
+734	we need to talk about a power of attorney . 	Meidän on puhuttava valtakirjoista . 
+735	- I know this is hard , but it 's imperative-- - Not now , Uncle Peter . 	Ei nyt . 
+736	The vultures are circling . 	Haaskalinnut ovat jo ilmassa . 
+737	And the sicker Maurice Fischer becomes , the more powerful Peter Browning becomes . 	Mitä sairaampi Maurice Fischeristä tulee , - sitä vahvempi Peter Browningista tulee . 
+738	I 've had ample opportunity to observe Browning ... 	Sain mahdollisuuden tarkkailla Browningia . 
+739	and adopt his physical presence , study his mannerisms , and so on and so forth . 	Hänen olemustaan , tapojaan ja niin edelleen . 
+740	So now in the first layer of the dream , I can impersonate Browning . 	Unen ensimmäisellä tasolla voin jäljitellä Browningia - 
+741	And suggest concepts to Fischer 's conscious mind . 	ja yritän syöttää vaikutelman Browningista Fischerin tietoiseen mieleen . 
+742	Then , when we take him a level deeper ... 	Seuraavalla tasolla Browningin heijastuksen pitäisi syöttää ne takaisin Fischerille . 
+743	his own projection of Browning should feed that right back to him . 	Seuraavalla tasolla Browningin heijastuksen pitäisi syöttää ne takaisin Fischerille . 
+744	So he gives himself the idea . 	Hän antaa siis idean itselleen ? 
+745	Precisely . 	Aivan . 
+746	That 's the only way it will stick . 	Se itää vain , jos ajatus tuntuu omalta . 
+747	It has to seem self-generated . 	Se itää vain , jos ajatus tuntuu omalta . 
+748	Eames , I am impressed . 	Se itää vain , jos ajatus tuntuu omalta . 
+749	Your condescension , as always , is much appreciated , Arthur , thank you . 	Siunauksesi on aina tervetullut , Arthur . 
+750	Were you going under on your own ? 	Olitko menossa yksinäsi ? 
+751	No , no , I was just , uh , running some experiments . 	Olitko menossa yksinäsi ? 
+752	I did n't realize anyone was here , so ... 	En tiennyt , että täällä oli ketään . 
+753	Yeah , I was just -- I was working on my totem , actually . 	En tiennyt , että täällä oli ketään . 
+754	Here , let me take a look . 	Annas , kun katson . 
+755	So you 're learning , huh ? 	Alat oppia . 
+756	An elegant solution for keeping track of reality . 	Alat oppia . 
+757	- Was it your idea ? 	Oliko toteemi sinun ideasi ? 
+758	- No , it was , uh ... 	Oliko toteemi sinun ideasi ? 
+759	It was Mal 's , actually . 	Oliko toteemi sinun ideasi ? 
+760	This ... 	Ei . 
+761	This one was hers . 	Tämä oli hänen . 
+762	She would spin it in the dream and it would never topple . 	Jos sitä pyöritti unessa , se ei kaatunut ollenkaan . 
+763	Just spin and spin . 	Se vain jatkoi pyörimistä . 
+764	Arthur told me she passed away . 	Arthur kertoi hänen menehtyneen . 
+765	How are the mazes coming along ? 	Arthur kertoi hänen menehtyneen . 
+766	Each level relates to the part of the subject 's subconscious ... 	Jokainen taso vastaa kohteen alitajunnan osaa , johon yritämme päästä käsiksi . 
+767	that we are trying to access . 	Jokainen taso vastaa kohteen alitajunnan osaa , johon yritämme päästä käsiksi . 
+768	So I m making the bottom level a hospital , so Fischer will bring his father . 	Teemme pohjatasosta sairaalan , että Fischer tuo sinne isänsä . 
+769	You know , I -- Actually , I have a question about this layout . 	Minulla on kysymys pohjapiirroksesta ... 
+770	No , no , no . 	Älä näytä minulle yksityiskohtia . 
+771	Do n't show me specifics . 	Vain uneksija saa tietää pohjapiirroksen . 
+772	Only the dreamer should know the layout . 	
+773	Why is that so important ? 	Miksi se on tärkeää ? 
+774	In case one of us brings in our projections . 	Miksi se on tärkeää ? 
+775	We do n't want them knowing the details of the maze . 	emme halua sen tietävän sokkelon yksityiskohtia . 
+776	You mean in case you bring Mal in . 	Siltä varaltako , jos tuot Malin ? 
+777	You ca n't keep her out , can you ? 	Siltä varaltako , jos tuot Malin ? 
+778	- Right . 	Juuri niin . 
+779	- You ca n't build ... 	Juuri niin . 
+780	because if you know the maze , then she knows it . 	Juuri niin . 
+781	Well , she 'd sabotage the whole operation . 	Hän pilaisi koko operaation . 
+782	- Cobb , do the others know ? 	Hän pilaisi koko operaation . 
+783	- No . 	Tietävätkö muut tästä ? 
+784	No , they do n't . 	Eivät . 
+785	You 've gotta warn them if this is getting worse . 	Varoita heitä , jos tilanne pahenee . 
+786	No one said it 's getting worse . 	Varoita heitä , jos tilanne pahenee . 
+787	I need to get home . 	Minun on vain päästävä kotiin . 
+788	That 's all I care about right now . 	Vain sillä on merkitystä . 
+789	Why ca n't you go home ? 	Miksi et voi mennä kotiin ? 
+790	Because they think I killed her . 	Minua syytetään Malin tappamisesta . 
+791	- Thank you . 	Kiitos . 
+792	- For what ? 	Mistä hyvästä ? 
+793	For not asking whether I did . 	Koska et kysynyt , teinkö sitä . 
+794	I will split up my father 's empire . 	Hajotan isäni imperiumin . 
+795		Hajotan isäni imperiumin . 
+796	Now , this is obviously an idea that Robert himself would choose to reject ... 	Hajotan isäni imperiumin . 
+797	which is why we need to plant it deep in his subconscious . 	Siksi se on istutettava syvälle hänen alitajuntaansa . 
+798	The subconscious is motivated by emotion , right ? 	Alitajunta ei toimi järkipohjalta , vaan tunnepohjalta . 
+799	Not reason . 	Alitajunta ei toimi järkipohjalta , vaan tunnepohjalta . 
+800	We need to find a way to translate this into an emotional concept . 	Alitajunta ei toimi järkipohjalta , vaan tunnepohjalta . 
+801	How do you translate business strategy into emotion ? 	hänelle tunneasia . 
+802	That 's what we 're here to figure out . 	Sitä tässä mietitään . 
+803	Robert 's relationship with his father ... 	Sitä tässä mietitään . 
+804	- ... 	Sitä tässä mietitään . 
+805	is stressed , to say the least . 	Robertin ja isän suhde on vähintäänkin kireä . 
+806	- Can we run with that ? 	Entä asian pukeminen haistatteluksi isälle ? 
+807	We suggest breaking up his father 's company as a screw you to the old man . 	Entä asian pukeminen haistatteluksi isälle ? 
+808	No , because I think positive emotion trumps negative emotion every time . 	Ei , koska mielestäni positiivisen ajatuksen vaikutus on vahvempi kuin negatiivisen . 
+809	We all yearn for reconciliation , for catharsis . 	Kaikki hakevat sovintoa tai katharsista . 
+810	We need Robert Fischer to have a positive emotional reaction to all this . 	Tarvitsemme Robert Fischeriltä positiivisen tunnereaktion ajatukselle . 
+811	All right , well , try this . 	Miten olisi : 
+812	Um ... 	
+813	My father accepts that I want to create for myself , not follow in his footsteps . 	Isäni hyväksyy sen , että halua luoda uraa itse , enkä seurata hänen jalanjälkiään . 
+814		
+815	That might work . 	Se saattaisi toimia . 
+816	Might ? 	Saattaisi ? 
+817	We 're gonna need to do a little better than might . 	Saattaisi ? 
+818		Saattaisi ? 
+819	Thank you for your contribution , Arthur . 	Se ei riitä . 
+820	Forgive me for wanting a little specificity , Eames . 	Anteeksi , että haluan jotain toimivampaa . 
+821	Specificity ? 	Toimivaa . 
+822	Inception 's not about being specific . 	Toimivaa . 
+823	When we get inside his mind , we 're gonna have to work with what we find . 	Hänen mielensä sisällä meidän on pärjättävä sillä , mitä sieltä löydämme . 
+824	On the top level , we open up his relationship with his father ... 	Korkeimmalla unitasolla otamme käsittelyyn hänen isäsuhteensa . 
+825	and say , I will not follow in my father 's footsteps . 	Korkeimmalla unitasolla otamme käsittelyyn hänen isäsuhteensa . 
+826		Korkeimmalla unitasolla otamme käsittelyyn hänen isäsuhteensa . 
+827	Then the next level down , we feed him , I will create something for myself . 	Kuten : En seuraa isäni jalanjälkiä . Seuraavalla tasolla ruokimme ajatusta . Halua luoda itse Kun saavutamme pohjatason , - 
+828		
+829	Then , by the time we hit the bottom level , we bring out the big guns . 	otamme isot aseet käyttöön . 
+830	- My father does n't want me to be him . 	otamme isot aseet käyttöön . 
+831	- Exactly . 	Isäni ei halua , että olen kuin hän . 
+832	Three layers down , the dreams are gonna collapse with the slightest disturbance . 	Aivan . Kolmannella unitasolla - unet romahtavat pienestäkin häiriöstä . 
+833	Sedation . 	Rauhoittavat auttavat siihen . 
+834	For sleep stable enough to create three layers of dreaming ... 	Kolmen unitason ylläpitämiseen tarvitaan erittäin voimakkaita rauhoittavia . 
+835	we 'll have to combine it with an extremely powerful sedative . 	Kolmen unitason ylläpitämiseen tarvitaan erittäin voimakkaita rauhoittavia . 
+836	Good night . 	Hyvää yötä . 
+837	The compound we 'll be using to share the dream ... 	Hyvää yötä . 
+838	creates a clear connection between dreamers ... 	Hyvää yötä . 
+839	- ... 	Yhdiste luo vahvan siteen uneksijoille , - ja kiihdyttää lisäksi aivotoimintaa . Saamme siis enemmän aikaa joka unitasolle . 
+840	whilst accelerating brain function . 	
+841	- In other words , more time on each level . 	
+842	Brain function in the dream will be about 20 times normal . 	Aivotoiminta on normaaliin verrattuna kaksikymmenkertainen . 
+843	And when you enter a dream within that dream , the effect is compounded . 	Kun näkee siinä unessa unta , vaikutukset kasvavat . 
+844	It 's three dreams , that 's 10 hours times 20 -- 	Kolme unta kestää 10 tuntia kertaa ... 
+845	Math was never my strong subject . 	Anteeksi , en ole hyvä matematiikassa . 
+846	How much time is that ? 	Kuinka pitkä aika on kyseessä ? 
+847	It 's a week , the first level down . 	Kuinka pitkä aika on kyseessä ? 
+848	Six months the second level down , and the third level -- 	Toinen taso puoli vuotta . 
+849	That 's 10 years . 	Kolmas unitaso ... 
+850	Who 'd wanna be stuck in a dream for 10 years ? 	Kuka haluaa olla unessa kymmenen vuotta ? 
+851	Depends on the dream . 	Riippuu unesta . 
+852	So once we 've made the plant , how do we get out ? 	Riippuu unesta . 
+853	I 'm hoping you have something more elegant than shooting me in the head . 	Miten pääsemme pois istutuksen jälkeen ? Onko jotakin sivistyneempää tapaa kuin ampua minua . 
+854	- A kick . 	Potku . 
+855	- What 's a kick ? 	Mikä se on ? 
+856	This , Ariadne , would be a kick . 	Tämä on potku . 
+857	It 's that feeling of falling you get that jolts you awake . 	Unesta herää putoamisen tunteesta . 
+858	- Snaps you out of the dream . 	Tunteeko potkun niin kovissa aineissa ? 
+859	- We gonna feel a kick with this sedation ? 	Tunteeko potkun niin kovissa aineissa ? 
+860	That 's the clever part . 	Tunteeko potkun niin kovissa aineissa ? 
+861	I customized the sedative to leave inner-ear function unimpaired . 	Muokkasin rauhoittavaa siten , ettei se vaikuta sisäkorvan toimintaan . 
+862	That way , however deep the sleep , the sleeper still feels falling . 	Täten tuntee putoamisen syvimmässäkin unessa . 
+863	Or tipping . 	Tai kaatumisen . 
+864	The trick is to synchronize a kick that can penetrate all three levels . 	Vaikeinta on yhdenaikaistaa potkut jokaisella unitasolla . 
+865	We could use a musical countdown to synchronize the different kicks . 	Siinä voisi käyttää apuna musiikkia . 
+866	He has n't got any surgery scheduled , no dental , nothing . 	Fischerillä ei ole sovittuja leikkauksia tai hammaslääkärikäyntiä . 
+867	Was n't he supposed to have a knee operation ? 	Eikö hän ollut menossa polvileikkaukseen ? 
+868	Nothing . 	Ei sitäkään . Ei mitään , missä hänet nukutettaisiin . Tarvitsemme vähintään kymmenen tuntia aikaa . 
+869	Nothing that they 'll put him under for , anyway . 	
+870	And we need-- 	
+871	We need at least a good 10 hours . 	Lento Sydneystä Los Angelesiin , yksi pisimmistä lennoista . 
+872	Sydney to Los Angeles . 	Lento Sydneystä Los Angelesiin , yksi pisimmistä lennoista . 
+873	One of the longest flights in the world . 	Hän lentää kahden viikon välein . 
+874	He makes it every two weeks . 	Varmasti yksityiskoneella . 
+875	He must be flying private , then . 	Varmasti yksityiskoneella . 
+876	Not if there were unexpected maintenance with his plane . 	Varmasti yksityiskoneella . 
+877	It would have to be a 747 . 	Koneen pitää olla 747 . 
+878	- Why 's that ? 	Miksi ? 
+879	On a 747 , the pilot 's up top ... 	Siinä ohjaamo on yläkerrassa ja ensimmäinen luokka nokassa . 
+880	the first-class cabin 's in the nose , so no one would walk through . 	Silloin osaston läpi ei kuljeta . 
+881	You 'd have to buy out the entire cabin and the first-class flight attendant . 	Silloin osaston läpi ei kuljeta . 
+882	I bought the airline . 	Minä ostin lentoyhtiön . 
+883	It seemed neater . 	Se vaikutti helpommalta . 
+884	Well , looks like we have our 10 hours . 	Taisimme saada kymmenen tuntiamme . 
+885	Ariadne ? 	Lisäksi , Ariadne , erinomaista työtä . 
+886	Terrific work , by the way . 	
+887	You know how to find me . 	Tiedät , miten löydät minut . 
+888	You know what you have to do . 	Tiedät , mitä sinun on tehtävä . 
+889	You remember when you asked me to marry you ? 	Muistatko , kun kosit minua ? 
+890	Of course I do . 	Tietenkin muistan . 
+891	You said you had a dream . 	Sanoit , että olit nähnyt unen . 
+892	That we 'd grow old together . 	Jossa vanhenimme yhdessä . 
+893	And we can . 	Yhä voimme . 
+894	You should n't be here . 	Sinun ei pitäisi olla täällä . 
+895	Just wanted to see what kind of tests you 're doing on your own every night . 	Halusin nähdä millaisia kokeita teet . 
+896	- This has nothing to do with you . 	Tällä ei ole mitään tekemistä kanssasi . 
+897	- This has everything to do with me . 	Totta kai on . 
+898	- You 've asked me to share dreams with you . 	Olemme menossa samaan uneen . Emme näihin , nämä ovat minun uniani . 
+899	- Not these . 	
+900	These are my dreams . 	
+901	Why do you do this to yourself ? 	Miksi teet tämän itsellesi ? 
+902	It 's the only way I can still dream . 	Vain näin näen unia . 
+903	Why is it so important to dream ? 	Miksi unen näkeminen on niin tärkeätä ? 
+904	In my dreams , we 're still together . 	Unissani olemme yhä yhdessä . 
+905	These are n't just dreams . 	Nämä eivät ole pelkkiä unia . 
+906	These are memories . 	Nämä ovat muistoja . 
+907	And you said never to use memories . 	Sanoit , ettei muistoja saa käyttää . 
+908	I know I did . 	Tiedän sen . 
+909	You 're trying to keep her alive . 	Tiedän sen . 
+910	You ca n't let her go . 	Yrität pitää hänet elossa . Et osaa päästää hänestä irti . 
+911	You do n't understand . 	Et ymmärrä . 
+912	These are moments I regret . 	Et ymmärrä . 
+913	They 're memories that I have to change . 	Et ymmärrä . 
+914	Well , what 's down there that you regret ? 	Mitä tuolla alhaalla on ? 
+915	Listen , there 's only one thing you need to understand about me . 	Sinun pitää ymmärtää minusta vain yksi asia . 
+916	This is your house ? 	Onko tämä kotisi ? 
+917	Mine and Mal 's , yes . 	Onko tämä kotisi ? 
+918	Where is she ? 	Missä hän on ? 
+919	She 's already gone . 	Missä hän on ? 
+920	That 's my son , James . 	Tuossa on poikani , James . 
+921	He 's digging for something , maybe a worm . 	Tuossa on poikani , James . 
+922	That 's Phillipa . 	Tuo on Phillipa . 
+923	I thought about calling out to them ... 	Tuo on Phillipa . 
+924	so they 'd turn and smile and I could see ... 	että he kääntyisivät ja hymyilisivät sekä nähdäkseni - 
+925	those beautiful faces of theirs , but it 's all too late . 	heidän kauniit kasvonsa . Mutta on jo liian myöhäistä . Nyt , tai ei koskaan , Cobb . 
+926	Right now or never , Cobb . 	
+927	Then I start to panic . 	Sitten alan hätäillä . 
+928	I realize I 'm gonna regret this moment ... 	Sitten alan hätäillä . 
+929	that I need to see their faces one last time . 	ja haluan nähdä heidän kasvonsa vielä kerran . 
+930	James ! 	Mutta hetki on mennyt . 
+931	Phillipa ! 	
+932	Come on in ! 	
+933	But the moment 's past . 	
+934	And whatever I do , I ca n't change this moment . 	En voi muuttaa tätä hetkeä mitenkään . 
+935	As I m about to call out to them ... 	Olen kutsumaisillani heitä . 
+936	they run away . 	Sitten pakenen . 
+937	If I m ever gonna see their faces again , I 've gotta get back home . 	Jos aion nähdä heidät vielä , minun täytyy palata kotiin . 
+938	The real world . 	Oikeaan maailmaan . 
+939	What are you doing here ? 	Mitä teet täällä ? 
+940	My name is -- 	Nimeni on ... 
+941	I know who you are . 	Nimeni on ... 
+942	What are you doing here ? 	Tiedän , kuka olet . 
+943	I 'm just trying to understand . 	Yritän vain ymmärtää ... 
+944	How could you understand ? 	Yritän vain ymmärtää ... 
+945	Do you know what it is to be a lover ? 	Tiedätkö , millaista on olla rakastunut ? 
+946	To be half of a whole ? 	Olla toinen puoli kokonaisuudesta ? 
+947	No . 	En . 
+948	I 'll tell you a riddle . 	Tässä sinulle arvoitus : 
+949	You 're waiting for a train . 	Odotat junaa . 
+950	A train that will take you far away . 	Junaa , joka vie sinut kauas pois . 
+951	You know where you hope this train will take you ... 	Tiedät , minne toivot junan vievän . 
+952	but you do n't know for sure . 	Et kuitenkaan voi olla varma määränpäästä . 
+953	But it does n't matter . 	Et kuitenkaan voi olla varma määränpäästä . 
+954	How can it not matter to you where that train will take you ? 	Kuinka junan päämäärällä ei ole sinulle väliä ? 
+955	Because you 'll be together . 	Koska olemme yhdessä . 
+956	How could you bring her here , Dom ? 	Kuinka saatoit tuoda hänet tänne , Dom ? 
+957	- What is this place ? 	Mikä tämä paikka on ? 
+958	This is a hotel suite where we used to spend our anniversary . 	Tämä on hotellihuone , jossa vietimme häittemme vuosipäivät . 
+959	What happened here ? 	Mitä täällä tapahtui ? 
+960	You promised ! 	Sinä lupasit ! 
+961	You promised we 'd be together ! 	
+962	Please , I need you to stay here just for now ! 	Sinun on pysyttävä täällä vielä hetki . 
+963	You said we 'd be together ! 	Sanoit , että olisimme yhdessä ! Sanoit , että vanhenisimme yhdessä ! Palaan takaisin . 
+964	You said we 'd grow old together ! 	
+965	I 'll come back for you . 	Lupaan sen . 
+966	I promise . 	
+967	Do you think you can just build a prison of memories to lock her in ? 	Luuletko , että voit rakentaa muistojen vankilan , jonne lukitset hänet ? 
+968	Do you really think that that 's gonna contain her ? 	Luuletko , että hän vain pysyy siellä ? 
+969	It 's time . 	Hetki koitti . 
+970	Maurice Fischer just died in Sydney . 	Hetki koitti . 
+971	- When 's the funeral ? 	Milloin hautajaiset ovat ? 
+972	- Thursday . 	Torstaina , Los Angelesissa . 
+973	In Los Angeles . 	
+974	Robert should accompany the body no later than Tuesday . 	Robert kuljettanee ruumiin viimeistään tiistaina . 
+975	We should move . 	Selvä . 
+976	All right . 	Selvä . 
+977	- Cobb , I m coming with you . 	Selvä . 
+978	- I promised Miles . 	Cobb , tulen mukaanne . 
+979	No . 	Lupasin jo Milesille , ettet tule . 
+980	The team needs someone who understands what you 're struggling with . 	Lupasin jo Milesille , ettet tule . 
+981	And it does n't have to be me ... 	Sen ei ole pakko olla minä , - 
+982	but then you have to show Arthur what I just saw . 	mutta sitten sinun on näytettävä Arthurille se , minkä juuri näin . 
+983	Get us another seat on the plane . 	Hankkikaa meille lisäpaikka koneeseen . 
+984	lf I get on this plane and you do n't honor our agreement ... 	Jos nousen koneeseen , ettekä noudata sopimustamme , - 
+985	when we land , I go to jail for the rest of my life . 	joudun laskeuduttuamme vankilaan loppuiäkseni . 
+986	Complete the job en route ... 	Hoida homma lennolla . 
+987	I make one phone call from the plane ... 	Hoida homma lennolla . 
+988	you have no trouble getting through Immigration . 	eikä maahantulotarkastus ei tuota ongelmia . 
+989	- I m sorry . 	Anteeksi . 
+990	- Oh , yeah , absolutely . 	Tottahan toki . 
+991	Thank you . 	
+992	Excuse me , I think this is yours ? 	Anteeksi , tämä taitaa olla teidän . 
+993	You must have dropped it . 	Taisitte pudottaa sen . 
+994	Would you care for a drink ? 	Tahtovatko herrat juotavaa ? 
+995	Oh . 	Tahtovatko herrat juotavaa ? 
+996	Water , please . 	Vesi , kiitos . 
+997	Oh , um , same , please . 	Samoin minulle , kiitos . 
+998	Um ... 	
+999	Thank you . 	Kiitos . 
+1000	You know , I could n't help but notice ... 	Kiitos . 
+1001	but you would n't happen to be related to the Maurice Fischer , would you ? 	Satutteko olemaan sukua itse Maurice Fischerille ? 
+1002	Yes , he , um ... 	Kyllä . 
+1003	He was my father . 	Kyllä . 
+1004	Well , he was a very inspiring figure . 	Hän oli innostava mies . 
+1005	I 'm sorry for your loss . 	Osanottoni . 
+1006	- Here you go . 	Olkaa hyvä . 
+1007	- Thank you . 	Kiitos . 
+1008	Hey . 	
+1009	To your father . 	Isällenne . 
+1010	May he rest in peace , huh ? 	Rauha hänen sielulleen . 
+1011	- Could n't have peed before you went under ? 	Etkö voinut käydä ensin kusella ? 
+1012	- Sorry . 	Anteeksi . 
+1013	Bit too much free champagne before takeoff ? 	Likaa ilmaista shampanjaa vai , Yusuf ? 
+1014	Ha , ha , bloody ha . 	Likaa ilmaista shampanjaa vai , Yusuf ? 
+1015	We know he 's gonna be looking for a taxi in this weather . 	Tässä sateessa Fischer etsii varmasti taksia . 
+1016	- Asshole ! 	Ääliö ! 
+1017	Hey , man , why do n't you try -- ? 	Mitä sinä oikein ... 
+1018	- Walk away . 	Kävele pois . 
+1019	Just have him ca -- I gotta go . 	Täytyy lopettaa . 
+1020	All right . 	Täytyy lopettaa . 
+1021	Taxi . 	Taksi ! 
+1022	Thank you . 	Kiitos . 
+1023	All right , Third and Market . 	Kolmannen ja Marketin risteykseen . 
+1024	Snappy . 	
+1025	- What are you doing ? 	Mitä te teette ? 
+1026	- Sorry , I thought it was free . 	Anteeksi . 
+1027	- It s not . 	Se ei ole . 
+1028	- Maybe we could share . 	Ehkä voimme jakaa kyydin ? 
+1029	Maybe not . 	Voisitteko pysähtyä ... 
+1030	Can you pull over and get this -- ? 	
+1031	Great . 	Hienoa . 
+1032	Come on . 	Tule ! 
+1033	There 's 500 in there . 	Siellä on 500 dollaria . 
+1034	The wallet 's worth more than that . 	Itse lompakko on arvokkaampi . 
+1035	You might at least drop me at my stop . 	Voitte siis päästää minut ulos . 
+1036	I 'm afraid that it does n't -- 	Voitte siis päästää minut ulos . 
+1037	- Cover him ! 	Suojaa minua ! 
+1038	- Down ! 	Mitä hittoa tapahtuu ? 
+1039	Down now ! 	Mitä hittoa tapahtuu ? 
+1040	What the hell is going on ? 	Mitä hittoa tapahtuu ? 
+1041	This was n't in the design . 	Tätä ei ollut suunnitelmissa . 
+1042	Cobb ? 	
+1043	Cobb ? 	
+1044	Get him ! 	
+1045	Are you all right ? 	Oletteko kunnossa ? 
+1046	Yeah , I m okay . 	Oletteko kunnossa ? 
+1047	I 'm okay . 	Olen . 
+1048	Fischer 's okay , unless he gets carsick . 	Fischer on kunnossa . 
+1049	Saito ? 	Saito ? 
+1050	Get Fischer in the back room now . 	Viekää Fischer takahuoneeseen ! 
+1051	- Get him in the back room . 	Viekää hänet takahuoneeseen . 
+1052	Move . 	Vauhtia ! 
+1053	- What the hell happened ? 	
+1054	Has he been shot ? 	Onko häntä ammuttu ? 
+1055	Is he dying ? 	Onko häntä ammuttu ? 
+1056	I do n't know . 	Onko häntä ammuttu ? 
+1057	- Jesus Christ . 	Kuoleeko hän ? 
+1058	What happened to you ? 	Missä te olitte ? 
+1059	- Blocked by a freight train . 	Juna törmäsi meihin . 
+1060	Why put a train in a downtown intersection ? 	Miksi edes panit junaradan keskustaan ? 
+1061	- I did n't . 	En tehnyt sitä . 
+1062	- Where 'd it come from ? 	Mistä se sitten tuli ? 
+1063	Why the hell were we ambushed ? 	Mistä se sitten tuli ? 
+1064	Those were not normal projections . 	Miksi kimppuumme hyökättiin ? Nuo eivät olleet tavallisia heijastuksia . Heidät oli koulutettu . 
+1065	They 'd been trained , for God 's sakes . 	
+1066	- How could he be trained ? 	Olet oikeassa . 
+1067	- Fischer 's had an extractor ... 	Kuinka se on mahdollista ? 
+1068	teach his subconscious to defend itself , so his subconscious is militarized . 	Fischerin alitajuntaa on koulutettu puolustautumaan . 
+1069	It should 've shown in the research . 	Hänen alitajuntansa on militarisoitunut . 
+1070	Why the hell did n't it ? 	Miksei se näkynyt ? 
+1071	- Calm down . 	Rauhoitu . 
+1072	Do n't tell me to calm down ! 	Älä käske rauhoittua ! 
+1073	This was your job , goddamn it ! 	Älä käske rauhoittua ! 
+1074	This was your responsibility ! 	Tämä oli sinun vastuullasi ! 
+1075	You were meant to check Fischer 's background ! 	Sinun piti tutkia Fischerin tausta kunnolla . 
+1076	- We are not prepared for this ! 	Emme ole valmistautuneita tällaiseen . Olemme ennenkin kohdanneet turvajoukkoja . 
+1077	- We have dealt with sub-security before ! 	
+1078	We 'll be more careful and we 're gonna be fine ! 	Pärjäämme hyvin , jos olemme varovaisia . 
+1079	This was not a part of the plan ! 	Pärjäämme hyvin , jos olemme varovaisia . 
+1080	He 's dying . 	Tämä ei kuulunut suunnitelmaan ! 
+1081	Put him out his misery . 	Hän tekee kuolemaa ! 
+1082	- No , do n't do that ! 	Päästetään hänet tuskistaan . 
+1083	Do n't do that . 	Älä tee sitä ! 
+1084	- Cobb , hey , hey . 	Älä tee sitä ! 
+1085	He 's in agony . 	Älä tee sitä ! 
+1086	I m waking him up . 	Hän on tuskissaan . 
+1087	No . 	Se ei herätä häntä . 
+1088	It wo n't wake him up . 	Mitä tarkoitat ? 
+1089	What do you mean , it wo n't wake him up ? 	Jos unessa kuolee , herää . 
+1090	When we die in a dream , we wake up . 	Jos unessa kuolee , herää . 
+1091	Not from this . 	Jos unessa kuolee , herää . 
+1092	We 're too heavily sedated to wake up that way . 	Rauhoittavan takia emme herää siten . 
+1093	Right . 	Mitä sitten tapahtuu kuoltuamme ? 
+1094	So , what happens when we die ? 	Putoamme limboon . 
+1095	- We drop into limbo . 	Oletko tosissasi ? 
+1096	- Are you serious ? 	Oletko tosissasi ? 
+1097	- Limbo ? 	Oletko tosissasi ? 
+1098	- Unconstructed dream space . 	Limbo on rakentamaton unitila . 
+1099	What the hell is down there ? 	Mitä siellä on ? 
+1100	- Just raw , infinite subconscious . 	Loputon alitajunta . 
+1101	Nothing is down there , except for what might have been left behind ... 	Siellä ei ole mitään . 
+1102	by anyone sharing the dream who 's been trapped there before . 	Paitsi se , mitä joku siellä ollut tätä unta jakava on sinne jättänyt . 
+1103	Which , in our case , is just you . 	Meidän tapauksessamme vain sinä . 
+1104	- How long could we be stuck ? 	Meidän tapauksessamme vain sinä . 
+1105	- Ca n't even think about ... 	Kuinka kauan siellä voi olla jumissa ? 
+1106	- ... 	En edes harkitsisi pakoa sieltä ennen ... 
+1107	trying to escape until the sedation -- - How long ? 	Kuinka kauan ? 
+1108	Decades . 	Vuosikymmeniä . 
+1109	It could be infinite . 	Ehkä loppuelämän , en tiedä . 
+1110	Ask him , he 's the one who 's been there . 	Kysy Cobbilta , hän on ollut siellä . 
+1111	Let 's get him upstairs . 	Viedään Saito yläkertaan . 
+1112	Great . 	Hienoa . 
+1113	Thank you . 	Hienoa . 
+1114	So now we 're trapped in Fischer 's mind , battling his own private army . 	Olemme nyt jumissa Fischerin mielessä , taistelemassa hänen armeijaansa vastaan . 
+1115	And if we get killed ... 	Jos kuolemme , juutumme limboon kunnes aivomme muuttuvat munakokkeliksi . 
+1116	we 'll be lost in limbo till our brains turn to scrambled egg , hmm ? 	Jos kuolemme , juutumme limboon kunnes aivomme muuttuvat munakokkeliksi . 
+1117	Someone got first aid ? 	Löytyykö ensiapupakkausta ? 
+1118	- You knew these risks and did n't tell us ? 	Tiesit riskeistä , etkä kertonut meille . 
+1119	- There were n't meant to be risks . 	Riskejä ei pitänyt olla , en tiennyt , - 
+1120	- I did n't know we 'd be dealing with gunfire . 	että vastassamme on armeija . 
+1121	- You had no right . 	Sinulla ei ollut oikeutta . 
+1122	This was the only way to go three layers deep . 	Kolme unikerrosta ei onnistu muuten . 
+1123	You knew about this and went along with it ? 	Sinäkin tiesit tästä koko ajan . 
+1124	I trusted him . 	Sinäkin tiesit tästä koko ajan . 
+1125	When ? 	Vai luotit ? 
+1126	When he promised you half his share ? 	Lupasiko hän sinulle puolet osuudestaan ? 
+1127	No . 	Ei . 
+1128	His whole share . 	Koko osuutensa . 
+1129	Besides , he said he 'd done it before . 	Sitä paitsi hän on kuulemma tehnyt sen ennenkin . 
+1130	What , with Mal ? 	Malilleko ? 
+1131	Because that worked so good ? 	Sehän toimi tosi hyvin . 
+1132	That has nothing to do with it . 	Sillä ei ole mitään merkitystä . Tein mitä täytyi päästäkseni lasteni luo . Johdit meidät sotaan , josta ei pääse pois . 
+1133	I did what I had to to get to my children . 	
+1134	You led us into a war zone with no way out ? 	Jos hoidamme keikan mahdollisimman nopeasti , - 
+1135	There is a way out . 	Jos hoidamme keikan mahdollisimman nopeasti , - 
+1136	We continue on with the job , and we do it as fast as possible ... 	
+1137	and we get out using the kick , just like before . 	pääsemme potkun avulla pois . 
+1138	Forget it . 	Antaa olla . 
+1139	We go any deeper , we just raise the stakes . 	Syvemmällä riskit kasvavat . 
+1140	I am sitting this one out on this level . 	Minä jään tälle tasolle . 
+1141	Fischer 's security is surrounding this place . 	Minä jään tälle tasolle . 
+1142	Ten hours of flight time is a week at this level . 	Kymmenen tunnin lento on viikko tällä tasolla . 
+1143	That means each and every one of us will be killed . 	Voin taata , että sinä aikana meidät kaikki tapetaan . 
+1144	That I can guarantee you . 	
+1145	We have no other choice but to continue on and do it as fast as possible . 	Ainoa mahdollisuutemme on jatkaa syvemmälle mahdollisimman nopeasti . 
+1146	Downwards is the only way forwards . 	Ainoa tie eteenpäin on alaspäin . 
+1147	Get ready . 	Valmistautukaa . 
+1148	You , come on . 	Valmistautukaa . 
+1149	Let 's go shake him up . 	Tule , käydään kovistelemassa Fischeriä . 
+1150	I 'm insured against kidnapping for up to 10 million . 	Minulla on vakuutus kidnappauksen varalta kymmeneen miljoonaan asti . 
+1151	- This should be very simple . 	Tämän pitäisi sujua helposti . 
+1152	- Shut up ! 	Turpa kiinni ! 
+1153	It wo n't be . 	Ei suju . 
+1154	In your father 's office , below the bookshelves ... 	Isäsi toimistossa on kirjahyllyn alla hänen kassakaappinsa . 
+1155	is his personal safe . 	Isäsi toimistossa on kirjahyllyn alla hänen kassakaappinsa . 
+1156	We need the combination . 	Haluamme yhdistelmän . 
+1157	I do n't know any safe . 	En tiedä mistään kassakaapista . 
+1158	That does n't mean you do n't know the combination . 	En tiedä mistään kassakaapista . 
+1159	Tell us what it is . 	Kerro se meille . 
+1160	I do n't know . 	En tiedä . 
+1161	We have it on good authority you do know . 	Luotettava henkilö kertoi meille , että tiedät . 
+1162	Yeah ? 	Luotettava henkilö kertoi meille , että tiedät . 
+1163	Whose authority ? 	Niinkö ? 
+1164	- Five hundred dollars , this cost . 	500 dollarin lompakko . 
+1165	- What 's inside it ? 	Mitä sisällä on ? 
+1166	Cash , cards , ID . 	Käteistä , kortteja ja henkkarit . 
+1167	And this . 	Sekä tämä . 
+1168	Useful ? 	Onko tämä hyödyllinen ? 
+1169	Maybe . 	Onko tämä hyödyllinen ? 
+1170	You 're on . 	Sinulla on tunti aikaa . 
+1171	You 've got an hour . 	Sinulla on tunti aikaa . 
+1172	An hour ? 	Sinulla on tunti aikaa . 
+1173	I was supposed to have all night to crack this . 	Minulla piti olla koko yö tähän . 
+1174	And Saito was n't supposed to be shot in the chest . 	Saitonkaan ei pitänyt ottaa luotia rintaan . 
+1175	You 've got one hour , now get us something useful , please . 	Sinulla on tunti aikaa . 
+1176	- What 's that ? 	Mitä tuo oli ? 
+1177	- Good authority . 	Luotettava henkilö . 
+1178	Uncle Peter . 	Peter-setä . 
+1179	Just make them stop . 	Käskekää heidän lopettaa . 
+1180	- The combination . 	Yhdistelmä . 
+1181	- I do n't know it . 	En tiedä sitä . 
+1182	- Why does Browning say you do ? 	Miksi Browning sanoo , että tiedät ? 
+1183	- I do n't know . 	En tiedä . 
+1184	Just let me talk to him and I ll find out . 	Antakaa minun puhua hänelle , - niin otan selvää . 
+1185	You have one hour . 	Teillä on tunti aikaa . 
+1186	Start talking . 	Alkakaa puhua . 
+1187	You all right ? 	Oletko kunnossa ? 
+1188	You okay ? 	Oletko kunnossa ? 
+1189	Those bastards have had at me for two days . 	Paskiaiset ovat kiduttaneet minua kaksi päivää . 
+1190	They have someone with access to your father 's office . 	Heillä on joku isäsi toimistolla , joka voi avata isäsi kassakaapin . 
+1191	- They 're trying to open his safe . 	Heillä on joku isäsi toimistolla , joka voi avata isäsi kassakaapin . 
+1192	- Yeah . 	
+1193	They thought I 'd know the combination , but I do n't know it . 	He luulivat , että tiedän yhdistelmän , mutta en tiedä sitä . 
+1194	- Yeah , well , neither do I , so ... 	En tiedä minäkään . 
+1195	- What ? 	Mitä ? 
+1196	Maurice told me that when he passed , you were the only one able to open it . 	Maurice kertoi , että kuolemansa jälkeen olet ainoa , joka saa sen auki . 
+1197	No , he never gave me any combination . 	Hän ei koskaan kertonut minulle mitään yhdistelmää . 
+1198	Maybe he did . 	Ehkä hän kertoi . 
+1199	I mean , maybe you just did n't know it was a combination . 	Ehkä et vain tiennyt sitä yhdistelmäksi . 
+1200	Well , what , then ? 	Mitä muka ? 
+1201	I do n't know , some meaningful combination of numbers ... 	Mitä muka ? 
+1202	based on your experiences with Maurice . 	joka liittyy yhteisiin kokemuksiinne . 
+1203	We did n't have very many , uh , meaningful experiences together . 	Meillä ei ollut paljon merkityksellisiä kokemuksia yhdessä . 
+1204	Perhaps after your mother died . 	Ehkäpä äitisi kuoleman jälkeen ? 
+1205	After my mother died , you know what he told me ? 	Tiedätkö , mitä hän sanoi minulle äidin kuoltua ? 
+1206	Robert , there 's really nothing to be said . 	Robert , mitään sanottavaa ei ole . 
+1207		
+1208	Oh , well , he was bad with emotion . 	Isäsi oli huono tunneasioissa . 
+1209	I was 11 , Uncle Peter . 	Isäsi oli huono tunneasioissa . 
+1210	- How 's he doing ? 	Miten Saito voi ? 
+1211	- He 's in a lot of pain . 	Hän on tuskissaan . 
+1212	When we get down to the lower levels , the pain will be less intense . 	Alemmilla tasoilla kipu hellittää . 
+1213	And if he dies ? 	Alemmilla tasoilla kipu hellittää . 
+1214	Worst-case scenario ? 	Pahimmassa tapauksessa hän herää vihanneksena . 
+1215	When he wakes up , his mind is completely gone . 	Pahimmassa tapauksessa hän herää vihanneksena . 
+1216	Cobb , I 'll still honor the arrangement . 	Cobb , noudatan silti sopimustamme . 
+1217	I appreciate that , Saito . 	Arvostan sitä , mutta herättyänne ette edes muistaisi sopimustamme . 
+1218	But when you wake up , you wo n't even remember that we had an arrangement . 	Arvostan sitä , mutta herättyänne ette edes muistaisi sopimustamme . 
+1219	Limbo is gonna become your reality . 	Limbosta tulee todellisuutenne . 
+1220	You 're gonna be lost down there so long that you 're gonna become an old man . 	Olette jumissa siellä niin kauan , että teistä tulee vanhus . 
+1221	Filled with regret ? 	Täynnä katumusta ? 
+1222	Waiting to die alone . 	Odottaen yksin kuolemista . 
+1223	No . 	Odottaen yksin kuolemista . 
+1224	I 'll come back . 	Odottaen yksin kuolemista . 
+1225	And we 'll be young men together again . 	Sitten olemme taas nuoria miehiä . 
+1226	Breathe . 	Hengitä . 
+1227	These people are gonna kill us if we do n't give them the combination . 	Hengitä . 
+1228	- They just wanna ransom us . 	He haluavat vain lunnasrahat . 
+1229	- I heard them . 	Kuulin heidän puheitaan . 
+1230	They 're gonna lock us in that van , and then drive it into the river . 	He aikovat lukita meidät pakettiautoon ja ajaa sen jokeen . 
+1231	All right . 	Hyvä on . 
+1232	What is in the safe ? 	Hyvä on . 
+1233	Something for you . 	Hyvä on . 
+1234	Maurice always said it was his most precious gift to you . 	Maurice sanoi aina , että se on hänen arvokkain lahjansa sinulle . 
+1235	- A will . 	Testamentti . 
+1236	- Maurice 's will is with Port and Dunn . 	Isän testamentti on asianajotoimistolla . 
+1237	That 's an alternate . 	Se on vaihtoehtoinen . 
+1238	This would supersede the other if you want it to . 	Se on vaihtoehtoinen . 
+1239	It splits up the component businesses of Fischer Morrow . 	Se irrottaisi Fischer-Morrowin alajaostot - 
+1240	It 'd be the end of the entire empire as we know it . 	ja olisi koko tuntemamme yritysimperiumin loppu . 
+1241	Destroying my whole inheritance ? 	Se tuhoaisi koko perintöni . 
+1242	- Why would he suggest such a thing ? 	Miksi hän ehdottaisi sellaista ? 
+1243	- I just do n't know . 	En tiedä . 
+1244	He loved you , Robert . 	Hän rakasti sinua , Robert . 
+1245	In his own way . 	Omalla tavallaan . 
+1246	In his own way . 	Omalla tavallaan . 
+1247	At the end ... 	Hän kutsui minut lopussa kuolinvuoteelleen . 
+1248	he called me in to his deathbed . 	Hän kutsui minut lopussa kuolinvuoteelleen . 
+1249	He could barely speak . 	Hän pystyi tuskin puhumaan . 
+1250	But he took the trouble to tell me one last thing . 	Hän kuitenkin sai kerrottua minulle viimeisen asiansa . 
+1251	He pulled me close . 	Hän veti minut lähelleen . 
+1252	And I could only make out ... 	Sain selvää vain yhdestä sanasta . 
+1253	one word . 	Sain selvää vain yhdestä sanasta . 
+1254	Disappointed . 	Pettynyt . 
+1255		
+1256	When were you in limbo ? 	Koska olit limbossa ? 
+1257	You might have the rest of the team convinced to carry on with this job . 	Olet voinut vakuuttaa loput tiimistäsi jatkamaan keikkaa , - 
+1258	- But they do n't know the truth . 	mutta he eivät tiedä totuutta . 
+1259	- Truth ? 	Mitä totuutta ? 
+1260	What truth ? 	Sitä , että saatat koska tahansa tuoda tavarajunan läpi seinästä . 
+1261	The truth that , at any minute , you might bring a freight train through the wall . 	Sitä , että saatat koska tahansa tuoda tavarajunan läpi seinästä . 
+1262	The truth that Mal is bursting through your subconscious . 	Sitä , että Mal tulee läpi alitajunnastasi . 
+1263	And the truth that , as we go deeper into Fischer ... 	Ja sitä , että mennessämme syvemmälle Fischeriin , - 
+1264	we 're also going deeper into you . 	menemme myös syvemmälle sinuun . 
+1265	And I m not sure we 're gonna like what we find . 	En ole varma , pidämmekö siitä , mitä löydämme . 
+1266	We were working together . 	Työskentelimme yhdessä . 
+1267	We were exploring the concept of a dream within a dream . 	Työskentelimme yhdessä . 
+1268	I kept pushing things . 	Halusin mennä aina vain syvemmälle ja pidemmälle . 
+1269	I wanted to go deeper and deeper . 	Halusin mennä aina vain syvemmälle ja pidemmälle . 
+1270	I wanted to go further . 	
+1271	I just did n't understand the concept that hours could turn into years down there ... 	En vain ymmärtänyt , että tunnit voivat muuttua siellä vuosiksi . 
+1272	that we could get trapped so deep ... 	Että voisimme juuttua niin syvälle , että kun ... 
+1273	that when we wound up on the shore of our own subconscious ... 	Kun päädymme alitajuntamme rannalle , - 
+1274	we lost sight of what was real . 	emme enää erota , mikä on totta . 
+1275	We created . 	Loimme ja rakensimme maailman itsellemme . 
+1276	We built the world for ourselves . 	
+1277	We did that for years . 	Jatkoimme sitä vuosien ajan . 
+1278	We built our own world . 	Rakensimme oman maailmamme . 
+1279	How long were you stuck there ? 	Kauanko olitte siellä ? 
+1280	Something like 50 years . 	Suunnilleen 50 vuotta . 
+1281	Jesus . 	Jessus . 
+1282	How could you stand it ? 	Kuinka kestitte sen ? 
+1283	It was n't so bad at first , feeling like gods . 	Kuinka kestitte sen ? 
+1284	The problem was knowing that none of it was real . 	Ongelma oli siinä , että tiesi , ettei mikään ollut totta . 
+1285	Eventually , it just became impossible for me to live like that . 	Lopuksi en enää pystynyt elämään niin . 
+1286	And what about for her ? 	Entä Mal ? 
+1287	She had locked something away , something deep inside her . 	Hän oli lukinnut jotain syvälle sisälleen . 
+1288	A truth that she had once known , but chose to forget . 	Aiemmin tietämänsä totuuden , - jonka hän päätti unohtaa . 
+1289	Limbo became her reality . 	Limbosta tuli hänen todellisuutensa . 
+1290	What happened when you woke up ? 	Mitä tapahtui , kun heräsitte ? 
+1291	Well , to wake up from that after years , after decades ... 	Kun herää vietettyään siellä vuosikymmeniä ... 
+1292	to become old souls thrown back into youth like that ? 	Vanhana sieluna joutuu takaisin nuoruuteen ... 
+1293	I knew something was wrong with her . 	Tiesin , että häntä vaivaa jokin . 
+1294	She just would n't admit it . 	Hän ei vain myöntänyt sitä . 
+1295	Eventually , she told me the truth . 	Lopulta hän kertoi totuuden . 
+1296	She was possessed by an idea . 	Ajatus oli alkanut riivata häntä . 
+1297	This one very simple idea that changed everything . 	Eräs hyvin yksinkertainen ajatus , joka muutti kaiken . 
+1298	That our world was n't real . 	Se , että maailmamme ei ollut todellinen . 
+1299	That she needed to wake up to come back to reality ... 	Että hänen pitäisi herätä päästäkseen takaisin todellisuuteen . 
+1300	that in order to get back home ... 	Päästäksemme takaisin kotiin - 
+1301	we had to kill ourselves . 	meidän pitäisi tappaa itsemme . 
+1302	- What about your children ? 	Entä lapsenne ? 
+1303	- She thought they were projections ... 	Hän piti heitä heijastuksina . 
+1304	that our real children were waiting for us up there somewhere . 	Että oikeat lapsemme odottaisivat meitä jossain . 
+1305	- I m their mother ! 	Olen heidän äitinsä ! 
+1306	- Calm down . 	Olen heidän äitinsä ! 
+1307	I can tell the difference . 	Olen heidän äitinsä ! 
+1308	If this is my dream , why ca n't I control this ? 	Jos tämä on uneni , miksen voi hallita sitä ? 
+1309	You do n't know you 're dreaming ! 	Jos tämä on uneni , miksen voi hallita sitä ? 
+1310	She was certain there was nothing I could do ... 	Hän oli varma siitä . 
+1311	no matter how much I begged , no matter how much I pleaded . 	Hän oli varma siitä . 
+1312	She wanted to do it , but she could not do it alone . 	Hän halusi tehdä sen , mutta ei voinut tehdä sitä yksin . 
+1313	She loved me too much , so she came up with a plan on our anniversary . 	Hän rakasti minua liikaa . Siispä hän keksi suunnitelman vuosipäiväksemme . 
+1314	- Sweetheart , what are you doing ? 	Kulta , mitä sinä teet ? 
+1315	- Join me . 	Liity seuraani . 
+1316	Just -- Just step back inside . 	Tule vain takaisin sisälle . 
+1317	All right ? 	En . 
+1318	Just step back inside now , come on . 	
+1319	No . 	Minä hyppään ja tulet mukaani . 
+1320	I 'm going to jump , and you 're coming with me . 	Minä hyppään ja tulet mukaani . 
+1321	No , I 'm not . 	Minä hyppään ja tulet mukaani . 
+1322	Now , you listen to me . 	Kuuntele minua . 
+1323	If you jump , you 're not gonna wake up , remember ? 	Jos hyppäät , et herää unesta . 
+1324	You 're gonna die . 	Sinä kuolet . 
+1325	Now , just step back inside . 	Sinä kuolet . 
+1326	Come on . 	Tule sisälle , niin voimme puhua tästä . 
+1327	Step back inside so we can talk about this . 	Tule sisälle , niin voimme puhua tästä . 
+1328	We 've talked enough . 	Tule sisälle , niin voimme puhua tästä . 
+1329	- Mal . 	Mal . 
+1330	- Come out onto the ledge ... 	Tule reunukselle , tai hyppään heti . 
+1331	- ... 	Hyvä on . 
+1332	or I ll jump right now . 	
+1333	- Okay . 	
+1334	We 're gonna talk about this . 	Puhutaan tästä . 
+1335	All right ? 	Pyydän sinua ottamaan uskonloikan . 
+1336	- I m asking you to take a leap of faith . 	Pyydän sinua ottamaan uskonloikan . 
+1337	- No , honey . 	Ei , kulta . 
+1338	No , I ca n't . 	En voi . 
+1339	You know I ca n't do that . 	Tiedät , etten voi tehdä sitä . 
+1340	Take a second , think about our children . 	Mieti hetki lapsiamme . 
+1341	Think about James . 	Mieti Jamesia . 
+1342	Think about Phillipa , now . 	Mieti Jamesia . 
+1343	If I go without you , they 'll take them away anyway . 	Jos lähden ilman sinua , heidät viedään kuitenkin pois . 
+1344	- What does that mean ? 	Mitä tuo tarkoittaa ? 
+1345	- I filed a letter with our attorney ... 	Lähetin kirjeen asianajajallemme . 
+1346	explaining how I 'm fearful for my safety . 	Kerroin pelkääväni turvallisuuteni puolesta . 
+1347	How you 've threatened to kill me . 	Kerroin , että uhkasit tappaa minut . 
+1348	- Why did you do this ? 	Miksi teit sen ? 
+1349	- I love you , Dom . 	Rakastan sinua , Dom . 
+1350	Why did -- ? 	Miksi teit sen minulle ? 
+1351	Why would you do this to me ? 	Miksi teit sen minulle ? 
+1352	I 've freed you from the guilt of choosing to leave them . 	Miksi teit sen minulle ? 
+1353	We 're going home to our real children . 	Menemme kotiin , oikeiden lastemme luo . 
+1354	Oh , no , no , no , Mal , you listen to me , all right ? 	Kuuntele minua . 
+1355	Mal , look at me , please ? 	Mal , katso minua ! 
+1356	You 're waiting for a train . 	Odotat junaa . 
+1357	- Mal , goddamn it , do n't do this ! 	Saamari soikoon ! Älä tee tätä . Junaa , joka vie sinut kauas pois . 
+1358	- A train that will take you far away . 	James ja Phillipa - 
+1359	James and Phillipa are waiting for you ! 	odottavat sinua ! 
+1360	You know where you hope this train will take you , but you ca n't know for sure . 	Tiedät , minne toivot junan vievän . He odottavat meitä ! Et kuitenkaan voi olla varma määränpäästä . 
+1361	- Mal , look at me ! 	Katso minua ! 
+1362	- But it does n't matter . 	Mutta se ei haittaa . 
+1363	- Mal , goddamn it ! 	Mal , jumalauta ! 
+1364	Mal , listen to me ! 	Koska olette yhdessä . 
+1365	- Because you 'll be together . 	Kulta , katso minua ! 
+1366	Sweetheart ! 	Mal , ei ! 
+1367	Look at me ! 	Herranjumala ! 
+1368	Mal , no ! 	Herranjumala ! 
+1369	Jesus Christ ! 	Herranjumala ! 
+1370	She had herself declared sane by three different psychiatrists . 	Kolme eri psykiatria olivat todenneet hänet terveeksi . 
+1371	It made it impossible for me to try to explain the nature of her madness . 	En siis voinut selittää hänen hulluutensa laatua . 
+1372	So I ran . 	Joten minä pakenin . 
+1373	Right now , or never , Cobb . 	Nyt tai ei koskaan , Cobb . 
+1374	James ! 	Lähdetään . 
+1375	Phillipa ! 	Jätin lapseni ja olen yrittänyt ostaa tietäni takaisin siitä alkaen . 
+1376	Come on in ! 	
+1377	Come on ! 	
+1378	All right , let 's go . 	
+1379	I left my children behind and I 've been trying to buy my way back ever since . 	Syyllisyytesi määrittelee hänet . 
+1380	Your guilt defines her . 	Syyllisyytesi määrittelee hänet . 
+1381	It 's what powers her . 	Se ruokkii häntä . 
+1382	But you are not responsible for the idea that destroyed her . 	Et kuitenkaan ole vastuussa ajatuksesta , joka tuhosi hänet . 
+1383	And if we are gonna succeed in this ... 	Jos aiomme onnistua tässä , sinun täytyy antaa itsellesi anteeksi . 
+1384	you have to forgive yourself , and you 're gonna have to confront her . 	Sinun on kohdattava hänet . 
+1385	But you do n't have to do that alone . 	Et ole kuitenkaan yksin . 
+1386	- No , you 're not ... 	Ei , ei ... Teen sen toisten puolesta , sillä heillä ei ole aavistustakaan , - 
+1387	- I m doing it for the others . 	
+1388	Because they have no idea the risk they 've taken coming down here with you . 	minkä riskin ottivat tullessaan tänne kanssasi . 
+1389	We have to move . 	Meidän täytyy lähteä . 
+1390	Time 's up . 	Aika loppui . 
+1391	All right . 	Aika loppui . 
+1392	I do n't know any combination . 	En tiedä mitään yhdistelmää . 
+1393	- Not consciously , anyway . 	En ainakaan tietoisesti . 
+1394	- How about instinctively , huh ? 	Entä vaistomaisesti ? 
+1395	I got somebody in your father 's office right now ready to tap in the combination . 	Isäsi toimistossa seisoo joku juuri nyt valmiina näppäilemään yhdistelmän . 
+1396	Give me the first six numbers that come to your head right now . 	Tarvitsen ensimmäiset kuusi mieleesi tulevaa numeroa . 
+1397	- I have no idea . 	Ei mitään hajua . 
+1398	- Right now ! 	Heti nyt ! 
+1399	I said , right now ! 	Heti tällä hetkellä ! 
+1400	Right now ! 	Viisi , kaksi , kahdeksan , - 
+1401	Five , two , eight , four , nine , one . 	neljä , yhdeksän , yksi . 
+1402	You 'll have to do better than that . 	Sinun täytyy pystyä parempaan . 
+1403	All right . 	Säkki päähän . 
+1404	Bag them . 	Lähdemme ajelulle . 
+1405	You 're going for a ride . 	
+1406	We 're worth more to you alive . 	Mitä vielä haluatte ? Tappaa minut ? 
+1407	You hear me ? 	
+1408	What 'd you get ? 	Mitä sait ? 
+1409	Relationship with his father is worse than we imagined . 	Fischerin suhde isäänsä - on luulemaamme huonompi . Miten se auttaa ? 
+1410	This helps us how ? 	Mitä pahemmat ongelmat , sitä voimakkaampi katharsis . 
+1411	The stronger the issues , the more powerful the catharsis . 	Mitä pahemmat ongelmat , sitä voimakkaampi katharsis . 
+1412	- How are we gonna reconcile them ? 	Kuinka saatat noin vieraantuneet yhteen ? 
+1413	- I m working on that . 	Hoidan asiaa . 
+1414	Work faster . 	Ole nopea . 
+1415	The projections are closing in quick . 	Heijastukset saavuttavat meidät pian . 
+1416	We gotta break out of here before we 're totally boxed in . 	Meidän on lähdettävä tai olemme ansassa . 
+1417	Damn it . 	Pitää uskaltaa uneksia suuremmassa mittakaavassa . 
+1418	You must n't be afraid to dream a little bigger , darling . 	Pitää uskaltaa uneksia suuremmassa mittakaavassa . 
+1419	We need to shift his animosity from his father to his godfather . 	Meidän on siirrettävä kaunan kohde isästä kummisetään . 
+1420	- Destroy his one positive relationship ? 	Tuhoatteko hänen ainoan terveen suhteen ? 
+1421	- No , repair his relationship with his father ... 	Korjaamme suhteen hänen isäänsä , - 
+1422	whilst exposing his godfather 's true nature . 	paljastamalla hänen kummisetänsä todellisen luonteen . 
+1423	We should charge Fischer a lot more than Saito for this job . 	Fischeriä pitäisi laskuttaa tästä keikasta enemmän kuin Saitoa . 
+1424	His security is gonna get worse as we go deeper . 	Entä puolustus ? 
+1425	- I think we run with Mr . Charles . 	Otetaan herra Charles avuksi . 
+1426	- No . 	Kuka hän on ? 
+1427	Who 's Mr . Charles ? 	Huono ajatus . 
+1428	- Bad idea . 	Heti , kun lähestymme Fischeriä , - 
+1429	The second we get into that hotel his security 's gonna be all over us . 	vartijat ovat kimpussamme . 
+1430	We run with Mr . Charles like on the Stein job . 	vartijat ovat kimpussamme . 
+1431	- You 've done it before ? 	Olette tehneet sen aiemminkin ? 
+1432	- Yeah , and it did n't work . 	Se ei toiminut . 
+1433	The subject realized he was dreaming and his subconscious tore us to pieces . 	Kohde tajusi uneksivansa ja hänen alitajuntansa teki meistä hakkelusta . 
+1434	Excellent . 	Erinomaista . 
+1435	But you learned a lot , right ? 	Kai otitte opiksenne ? 
+1436	- I need some kind of distraction . 	Hoituu . 
+1437	- No problem . 	Miten olisi ihana nainen -temppu ? 
+1438	How about a lovely lady that I 've used before ? 	Ajahan varovaisesti . 
+1439	Listen to me . 	Ajahan varovaisesti . 
+1440	You drive carefully , all right ? 	Alemmilla tasoilla on erittäin epävakaata . 
+1441	Everything down there is gonna be unstable as hell . 	Alemmilla tasoilla on erittäin epävakaata . 
+1442	Do n't jump too soon . 	Älä hyppää liian aikaisin . 
+1443	We only got one shot at that kick . 	Meillä on vain yksi tilaisuus potkuun . 
+1444	We gotta make it . 	Sen on onnistuttava . 
+1445	I 'll play the music to let you know it 's coming . 	Laitan musiikin soimaan , kun potku on tulossa . 
+1446	The rest is on you . 	Loppu on teistä kiinni . 
+1447	- You ready ? 	Oletteko valmiina ? 
+1448	- Ready ! 	Olemme ! 
+1449	Sweet dreams . 	Kauniita unia ! 
+1450	Am I boring you ? 	Kauniita unia ! 
+1451	I was telling you my story . 	Kerroin itsestäni . 
+1452	I guess it was n't to your liking . 	Et tainnut pitää siitä . 
+1453	Um , I have a lot on my mind . 	Moni asia askarruttaa mieltäni . 
+1454	There goes Mr . Charles . 	Siinä menee herra Charles . 
+1455	Mr . Fischer , right ? 	Herra Fischer . 
+1456	Pleasure to see you again . 	On ilo tavata uudelleen . 
+1457	Rod Green from marketing . 	Olen Rod Green markkinointiosastolta . 
+1458	I -- 	
+1459	Hmm . 	Kuka te olette ? 
+1460	- And you must be ? 	Kuka te olette ? 
+1461	- Leaving . 	Olen lähdössä . 
+1462	In case you get bored . 	Jos satut pitkästymään ... 
+1463	Must 've blown you off . 	Hän ei taida olla kiinnostunut , ellei hänen numeronsa ole kuusinumeroinen . 
+1464	That is , unless her phone number really is only six digits . 	Hän ei taida olla kiinnostunut , ellei hänen numeronsa ole kuusinumeroinen . 
+1465	Funny way to make friends , someone stealing your wallet like that . 	Lompakon varastaminen toiselta on jännä tapa tutustua . 
+1466	Goddamn it . 	Helvetti ! 
+1467	The wallet alone is worth at least 500-- 	Lompakko yksinään on ... 
+1468	About 500 , right ? 	500 dollarin arvoinen , eikö vain ? 
+1469	Do n't worry about it . 	Älä huoli . 
+1470	My people are already on it as we speak . 	Väkeni hoitaa jo asiaa . 
+1471	Who or what is Mr . Charles ? 	Kuka tai mikä on herra Charles ? 
+1472	It 's a gambit designed to turn Fischer against his own subconscious . 	Avaus , jolla saamme Fischerin kääntymään alitajuntaansa vastaan . 
+1473	And why do n't you approve ? 	Miksi et hyväksy sitä ? 
+1474	It involves telling the mark that he 's dreaming ... 	Koska kerromme kohteelle hänen uneksivan . 
+1475	which involves attracting a lot of attention to us . 	Se taas kiinnittää paljon huomiota meihin . 
+1476	- Did n't Cobb say never to do that ? 	Eikö Cobb ehdottomasti kieltänyt tekemästä niin ? 
+1477	- Hmm . 	Huomaatko , kuinka paljon hän sanoo toista ja tekee toista . 
+1478	So now you 've noticed how much time ... 	Huomaatko , kuinka paljon hän sanoo toista ja tekee toista . 
+1479	Cobb spends doing things he says never to do . 	Huomaatko , kuinka paljon hän sanoo toista ja tekee toista . 
+1480	Mr . Saito , can I have a moment ? 	Herra Saito , voinko vaivata teitä hetken ? 
+1481	- I m sorry , but ... 	Olen pahoillani , mutta ... 
+1482	- Hold on ! 	
+1483	Wait ! 	
+1484	You look a bit perkier . 	Pidättehän tekin minusta ? 
+1485	Very amusing , Mr . Eames . 	Pidättehän tekin minusta ? 
+1486	Turbulence on the plane ? 	Ilmakuoppiako ? 
+1487	No , it 's much closer . 	Ilmakuoppiako ? 
+1488	That 's Yusuf 's driving . 	Ilmakuoppiako ? 
+1489	Um , I 'm sorry . 	Olen pahoillani , mutta kuka olettekaan ? 
+1490	Who did you say you were ? 	Olen pahoillani , mutta kuka olettekaan ? 
+1491	Rod Green from marketing . 	Olen pahoillani , mutta kuka olettekaan ? 
+1492	But that 's not true at all , is it ? 	Se ei taida pitää alkuunkaan paikkaansa ? 
+1493	My name is Mr . Charles . 	Nimeni on herra Charles . 
+1494	You remember me , do n't you ? 	Muistattehan minut ? 
+1495	I 'm the head of your security down here . 	Olen turvallisuuspäällikkönne täällä . 
+1496	Get out on a different floor , keep moving . 	Poistu eri kerrokseen ja pysy liikkeellä . 
+1497	Dump the wallet . 	Hankkiudu eroon lompakosta . 
+1498	Security will be looking for that . 	Vartijat etsivät sitä . 
+1499	- Okay . 	Cobbille on hankittava lisää aikaa . 
+1500	- We need to buy Cobb a little more time . 	
+1501	Security , huh ? 	Turvallisuuspäällikkökö ? 
+1502	- You work for the hotel ? 	Työskentelettekö hotellille ? 
+1503	- No , no . 	En . 
+1504	I specialize in a very specific type of security . 	Osa-alueeni on hyvin erityinen . 
+1505	Subconscious security . 	Alitajuntavartiointia . 
+1506	You 're talking about dreams ? 	Alitajuntavartiointia . 
+1507	Are you talking about , um , extraction ? 	Tarkoitatteko kaivamista ? 
+1508	I am here to protect you . 	Tehtäväni on suojella teitä . 
+1509	Mr . Fischer , I m here to protect you in the event ... 	Suojelen teitä siltä varalta , että joku yrittää päästä käsiksi mieleenne - 
+1510	that someone tries to access your mind through your dreams . 	unen kautta . 
+1511	You 're not safe here . 	unen kautta . 
+1512	They 're coming for you . 	He ovat tulossa . 
+1513	Strange weather , is n't it ? 	Outo sää , eikö vain ? 
+1514	You feel that ? 	Tunnetteko tuon ? 
+1515	What 's happening ? 	Mitä tapahtuu ? 
+1516	Cobb 's drawing Fischer 's attention to the strangeness of the dream ... 	Mitä tapahtuu ? 
+1517	which is making his subconscious look for the dreamer . 	mikä saa alitajunnan etsimään uneksijaa . 
+1518	For me . 	Siis minua . 
+1519	Quick , give me a kiss . 	Suutele minua pikaisesti . 
+1520	- They 're still looking at us . 	Katsovat meitä yhä . Kannatti yrittää . Lähdetään . 
+1521	- Yeah , it was worth a shot . 	
+1522	We should probably get out of here . 	
+1523	You feel that ? 	Tunnetteko tuon ? 
+1524	You 've actually been trained for this , Mr . Fischer . 	Teidät on koulutettu tällaisia tilanteita varten . 
+1525	Pay attention to the strangeness of the weather , the shift in gravity . 	Kiinnittäkää huomiota sään outouteen ja painovoiman vaihteluihin . 
+1526	None of this is real . 	Tämä ei ole totta . 
+1527	You 're in a dream . 	Uneksitte . 
+1528	Now , the easiest way for you to test yourself ... 	Helpoin tapa testata se , on muistella , - 
+1529	is to try and remember how you arrived at this hotel . 	miten saavuitte hotelliin . 
+1530	Can you do that ? 	Pystyttekö siihen ? 
+1531	Yeah , I ... 	Pystyn ... 
+1532	No , breathe , breathe . 	Pystyn ... 
+1533	Remember your training . 	Vetäkää henkeä ja muistakaa koulutuksenne . 
+1534	Accept the fact that you 're in a dream , and I m here to protect you . 	Hyväksykää se tosiasia , että uneksitte , ja että suojelen teitä . 
+1535	Go on . 	
+1536	Mm-hm . 	
+1537	- You 're not real ? 	Ette ole totta . 
+1538	- No . 	En niin . 
+1539	No . 	Olen alitajuntanne heijastus ja suojelen teitä siltä varalta , - 
+1540	I 'm a projection of your subconscious . 	
+1541	I was sent here to protect you in the event ... 	että kaivajat yrittävät saada teidät uneksimaan , - 
+1542	that extractors tried to pull you into a dream . 	että kaivajat yrittävät saada teidät uneksimaan , - 
+1543	And I believe that 's what 's going on right now , Mr . Fischer . 	ja uskon , että juuri niin on käynyt , herra Fischer . 
+1544	Yeah . 	
+1545	Okay . 	
+1546	Okay . 	
+1547	Can you get me out of here ? 	Voitteko auttaa minut pois täältä ? 
+1548	Right away . 	Heti paikalla . 
+1549	Follow me . 	Seuratkaa minua . 
+1550	Hold on a second . 	
+1551	Jesus Christ ! 	Mitä helvettiä teette ? 
+1552	What are you doing ? 	He olivat tulossa kaappaamaan teitä . 
+1553	These men were sent here to abduct you , all right ? 	Jos haluatte apuani , teidän on pysyttävä rauhallisena . 
+1554	If you want my help , you have to remain calm . 	Jos haluatte apuani , teidän on pysyttävä rauhallisena . 
+1555	I need you to work with me , Mr . Fischer . 	Teidän on autettava minua , herra Fischer . 
+1556	If this is a dream , I should just kill myself to wake up , right ? 	Jos tämä on unta , minun pitäisi tappaa itseni herätäkseni . 
+1557	I would n't do that if I were you , Mr . Fischer . 	Teinä en tekisi sitä . 
+1558	I believe they have you sedated , and if you pull that trigger ... 	ja jos vedätte liipaisimesta , ette ehkä herää . 
+1559	you may not wake up . 	ja jos vedätte liipaisimesta , ette ehkä herää . 
+1560	You may go into a further dream state . 	Saatatte joutua syvempään uneen . Tiedätte , mitä tarkoitan . 
+1561	Now , you know what I 'm talking about . 	
+1562	You remember the training . 	Muistatte koulutuksenne . 
+1563	Remember what I said to you . 	Muistakaa , mitä sanoin teille . 
+1564	Give me the gun . 	Muistakaa , mitä sanoin teille . 
+1565	- This room should be directly below 528 ? 	Tämä huoneko on suoraan huoneen 528 alapuolella ? On . 
+1566	- Yeah . 	
+1567	Think , Mr . Fischer , think . 	Miettikää , herra Fischer . 
+1568	What do you remember from before this dream ? 	Miettikää , herra Fischer . 
+1569	There was , um , a lot of gunfire . 	Oli kiivas tulitaistelu ja satoi . 
+1570	There was rain . 	Oli kiivas tulitaistelu ja satoi . 
+1571	Uncle Peter . 	Peter-setä ! 
+1572	- Oh , my God , we 've been kidnapped . 	Meidät on kaapattu . 
+1573	- Where were they holding you ? 	Missä teitä pidettiin ? 
+1574	- They had us in the back of a van . 	Olimme pakettiautossa . Se selittää painovoiman vaihtelut . Olette parhaillaan pakettiautossa . 
+1575	- That explains the gravity shifts . 	Jatkakaa muistelemista . 
+1576	You 're in the back of a van . 	Se liittyi jotenkin ... 
+1577	Keep going . 	Se liittyi jotenkin ... 
+1578	It had something to do with , um ... 	Se liittyi jotenkin ... 
+1579	Something to do with a safe . 	Se liittyi jotenkin kassakaappiin . 
+1580	God , why is it so hard to remember ? 	Miten tämä muistelu on niin hankalaa ? 
+1581	It 's like trying to remember a dream after you 've woken up . 	Tämä on kuin unen muistelua herättyään . Sen harjoittelu vie vuosia . 
+1582	Listen , it takes years of practice . 	Olette Browningin kanssa unessa , koska mielestänne halutaan varastaa jotain . 
+1583	You and Browning have been pulled into this dream ... 	Olette Browningin kanssa unessa , koska mielestänne halutaan varastaa jotain . 
+1584	because they 're trying to steal something from your mind . 	Teidän on keskityttävä ja pohdittava , mitä se voisi olla . 
+1585	I need you to focus and try and remember what that is . 	Teidän on keskityttävä ja pohdittava , mitä se voisi olla . 
+1586	What is it , Mr . Fischer ? 	Mitä se voisi olla ? 
+1587	Think ! 	Miettikää ! 
+1588	A combination . 	Numeroyhdistelmä . He halusivat kuulla ensimmäiset numerot , jotka putkahtivat päähäni . 
+1589	They demanded the first numbers to pop into my head . 	He haluavat kaivaa numerot alitajunnastanne . 
+1590	They 're trying to extract a number from your subconscious . 	He haluavat kaivaa numerot alitajunnastanne . 
+1591	It can represent anything . 	Ne voivat tarkoittaa mitä vain . 
+1592	We 're in a hotel right now . 	Olemme nyt hotellissa . 
+1593	We should try hotel rooms . 	Yritetään eri hotellihuoneita . 
+1594	What was the number , Mr . Fischer ? 	Mikä se numerosarja oli , herra Fischer ? 
+1595	Try and remember for me . 	Tämä on tärkeää . 
+1596	This is very important . 	Viisi ... 
+1597	Five . 	Viisi , kaksi ... 
+1598	Five , two-- It was something , it was a long number . 	Viisi , kaksi ... 
+1599	That 's good . 	Siinä on hyvä alku . 
+1600	We can start there . 	Viides kerros . 
+1601	Fifth floor . 	Selvä . 
+1602	Yep . 	Käytätkö ajastinta ? 
+1603	- So do you use a timer ? 	Käytätkö ajastinta ? 
+1604	- No , I have to judge it for myself . 	Se täytyy räjäyttää käsin . 
+1605	While you 're all asleep in 528 , I wait for Yusuf 's kick . 	Te nukutte huoneessa 528 . 
+1606	- Well , how will you know ? 	Mistä tiedät oikein hetken ? 
+1607	- His music warns me . 	Musiikista . 
+1608	And then when the van hits the barrier of the bridge , that should be unmistakable . 	Auton osumista kaiteeseen - ei voi olla huomaamatta . Saamme hyvän , synkronoidun potkun . 
+1609	So we get a nice synchronized kick . 	Liian aikaisin emme pääse pois ja liian myöhään en voi pudottaa meitä . 
+1610	If it 's too soon , we wo n't get pulled out . 	Liian aikaisin emme pääse pois ja liian myöhään en voi pudottaa meitä . 
+1611	But if it 's too late , I wo n't be able to drop us . 	Liian aikaisin emme pääse pois ja liian myöhään en voi pudottaa meitä . 
+1612	- Well , why not ? 	Miksi et ? 
+1613	- Because the van will be in freefall . 	Koska auto on vapaapudotuksessa . 
+1614	- Ca n't drop you without gravity . 	En voi pudottaa teitä ilman painovoimaa . 
+1615	- Right . 	Aivan . 
+1616	They 're with me . 	He ovat väkeäni . 
+1617	Go on . 	
+1618	Mr . Charles . 	Herra Charles . 
+1619	- Do you know what that is , Mr . Fischer ? 	Tiedättekö , mikä se on , herra Fischer ? Uskoisin tietäväni . Teidät aiottiin nukuttaa . 
+1620	- Yeah , I think so . 	
+1621	They were trying to put you under . 	Olen jo unessa . 
+1622	- I m already under . 	Uudelleen uneen . 
+1623	- Under again . 	Tarkoitatteko , että uneen unessa ? 
+1624	What do you mean , a dream within a dream ? 	Tarkoitatteko , että uneen unessa ? 
+1625	Hey . 	Huomaan , että olette muuttuneet . 
+1626	I see you 've changed . 	Anteeksi ? 
+1627	I 'm sorry ? 	Anteeksi . 
+1628	Oh , I m sorry . 	Anteeksi . 
+1629	I mistook you for a friend . 	Sekoitin teidät erääseen toiseen . 
+1630	Oh . 	Hyvän näköinen kaveri varmastikin . 
+1631	Good-looking fellow , I m sure . 	Hyvän näköinen kaveri varmastikin . 
+1632	No , no , no . 	Tuo on Fischerin heijastus Browningista . 
+1633	That 's Fischer 's projection of Browning . 	Seurataan ja katsotaan , kuinka se käyttäytyy . 
+1634	Let 's follow him and see how he behaves . 	Miksi ? 
+1635	- Why ? 	Miksi ? 
+1636	- Because how he acts will tell us ... 	Browningin käytös kertoo meille - 
+1637	if Fischer is starting to suspect his motives the way we want him to . 	epäileekö Fischer hänen motiivejaan haluamallamme tavalla . 
+1638	Shh . 	
+1639	- Uncle Peter . 	Peter-setä ? 
+1640	- You said you were kidnapped together ? 	Teidät siis siepattiin yhdessä ? 
+1641	Well , not exactly . 	Ei oikeastaan . Peter oli jo sieppaajilla ja häntä kidutettiin . Näittekö , että häntä kidutetaan ? 
+1642	They already had him . 	
+1643	They were torturing him . 	
+1644	And you saw them torture him ? 	
+1645	The kidnappers are working for you ? 	Työskentelevätkö kidnappaajat sinulle ? 
+1646	Robert . 	Robert ... 
+1647	You 're trying to get that safe open ? 	Yritätkö saada sen kassakaapin auki , saadaksesi vaihtoehtoisen testamentin ? 
+1648	To get the alternate will ? 	Fischer-Morrow on ollut koko elämäni . 
+1649	Fischer Morrow has been my entire life . 	Fischer-Morrow on ollut koko elämäni . 
+1650	I ca n't let you destroy it . 	En voi antaa sinun tuhota sitä . En heitä pois perintöäni . Miksi heittäisin ? 
+1651	I 'm not gonna throw away my inheritance . 	En halunnut sinun tekevän typeryyksiä isäsi viimeisen herjan vuoksi . 
+1652	I could n't let you rise to your father 's last taunt . 	En halunnut sinun tekevän typeryyksiä isäsi viimeisen herjan vuoksi . 
+1653	- What taunt ? 	Minkä herjan ? Testamentti . Se on hänen viimeinen herjauksensa . 
+1654	- The will , Robert . 	
+1655	That will ? 	
+1656	That 's his last insult . 	Haaste , että loisit uraa itse . 
+1657	A challenge for you to build something for yourself ... 	Haaste , että loisit uraa itse . 
+1658	by telling you you 're not worthy of his accomplishments . 	Samalla myös viesti , ettet olisi hänen saavutuksiensa arvoinen . 
+1659	- What , but that he was , um , disappointed ? 	Eli hän oli pettynyt minuun . 
+1660	- I m sorry . 	Olen pahoillani . 
+1661	But he 's wrong . 	Hän on väärässä . 
+1662	You can build a better company than he ever did . 	Hän on väärässä . 
+1663	Mr . Fischer ? 	Herra Fischer , hän valehtelee . 
+1664	He 's lying . 	Mistä tiedätte ? 
+1665	- How do you know ? 	Luottakaa minuun . 
+1666	- Trust me , it 's what I do . 	Luottakaa minuun . 
+1667	He 's hiding something , and we need to find out what that is . 	Luottakaa minuun . 
+1668	I need you to do the same thing to him that he was going to do to you . 	Teidän on tehtävä sama Browningille mitä hän aikoi tehdä teille . 
+1669	We 'll enter his subconscious and find out what he does n't want you to know . 	Menemme hänen alitajuntaansa ja selvitämme mitä hän ei halua teidän tietävän . 
+1670	All right . 	Hyvä on . 
+1671	He 's out . 	Hän on tajuton . 
+1672	- Wait . 	Hän on tajuton . 
+1673	Whose subconscious are we going into exactly ? 	Hän on tajuton . 
+1674	We 're going into Fischer 's . 	Fischerin . 
+1675	I told him it was Browning 's so he 'd be a part of our team . 	Fischerin . 
+1676	He 's gonna help us break into his own subconscious . 	Hän auttaa meitä murtautumaan omaan alitajuntaansa . 
+1677	That 's right . 	Vartijat tulevat perääsi . 
+1678	Security 's gonna run you down hard . 	Vartijat tulevat perääsi . 
+1679	And I will lead them on a merry chase . 	Vartijat tulevat perääsi . 
+1680	- Just be back before the kick . 	Kunhan olet täällä potkua varten . 
+1681	- Go to sleep , Mr . Eames . 	Nukahtakaa , herra Eames . 
+1682	You good ? 	Kaikki kunnossa ? 
+1683	Hey . 	Oletko valmis ? 
+1684	You ready ? 	Oletko valmis ? 
+1685	Yes , yes . 	Oletko valmis ? 
+1686	I m fine . 	Olen kunnossa . 
+1687	I m ready . 	Olen valmis . 
+1688	Cobb ? 	Cobb ? 
+1689	Cobb ? 	Mitä siellä on ? 
+1690	What 's down there ? 	
+1691	Hopefully , the truth we want Fischer to learn . 	Toivottavasti se , mitä haluamme Fischerin saavan selville . 
+1692	I mean , what 's down there for you ? 	Tarkoitan , että mitä siellä on sinulle ? 
+1693	Did you see that ? 	Näittekö tuon ? 
+1694	Eames , this is your dream . 	Eames , tämä on sinun unesi . 
+1695	I need you to draw the security away from the complex , understand ? 	Eames , tämä on sinun unesi . 
+1696	- Who guides Fischer in ? 	Kuka vie Fischerin sisään ? En minä . Jos tiedän reitin , kaikki voi vaarantua . 
+1697	- Not me . 	
+1698	If I know the route , everything could be compromised . 	Paikka on minun suunnittelemani . 
+1699	- I designed the place . 	Paikka on minun suunnittelemani . 
+1700	- No , you 're with me . 	Sinä tulet mukaani . Voin tehdä sen . Hyvä on . 
+1701	I could do it . 	Kerro heille reitti . 
+1702	All right . 	Kerro heille reitti . 
+1703	Brief him on the route into the complex . 	Fischer , menet hänen mukaansa . 
+1704	- Fischer , you 'll be going with him . 	Selvä . 
+1705	- All right . 	Entä sinä ? 
+1706	What about you ? 	Pitäkää tämä päällä . 
+1707	You keep this live . 	Pitäkää tämä päällä . 
+1708	I 'll be listening in the whole time . 	Kuuntelen teitä koko ajan . 
+1709	The windows on that upper floor are big enough for me to cover you from that tower . 	Voin suojata teitä etelänpuoleisesta tornista . Näettekö sen ? Näen . 
+1710	You 're not coming in ? 	Ettekö tule mukaan ? 
+1711	In order to find out the truth about your father ... 	Selvittääksenne totuuden isästänne , teidän on murtauduttava Browningin mieleen omin avuin . 
+1712	you 're gonna need to break into Browning 's mind on your own . 	Tule , Fischer . 
+1713	Come on , Fischer ! 	Tule , Fischer . 
+1714	- Sound the alarm ! 	
+1715	Sound the alarm ! 	
+1716	- Go , go , go ! 	
+1717	Move ! 	
+1718	Go ! 	
+1719	Sod it . 	
+1720	I hope you 're ready . 	Toivottavasti olette valmiita . 
+1721	No , it 's too soon . 	Ei , on liian aikaista . 
+1722	Cobb , do you hear that ? 	Cobb , kuuletko tuon ? 
+1723	I first noticed it about 20 minutes ago , I thought it was the wind up here . 	Cobb , kuuletko tuon ? 
+1724	Yeah , I hear it . 	Kuulen , se on musiikkia . 
+1725	It s music . 	Mitä tehdään ? 
+1726	So , what do we do ? 	Mitä tehdään ? 
+1727	We move fast . 	Edetään nopeasti . 
+1728	Yusuf 's 10 seconds from the jump . 	Yusuf hyppää kymmenen sekunnin päästä . 
+1729	Which gives Arthur three minutes . 	Se antaa Arturille kolme minuuttia aikaa . 
+1730	- Hey ! 	Paljonko meillä on aikaa ? 
+1731	- That 's him ! 	Paljonko meillä on aikaa ? 
+1732	- Which gives us what ? 	Paljonko meillä on aikaa ? 
+1733	- Sixty minutes . 	Tunti . 
+1734	- Can they make that route in an hour ? 	Heidän on vielä laskeuduttava sairaalalle . 
+1735	- They have to climb to the terrace . 	He tarvitsevat uuden , nopeamman reitin . 
+1736	Then they need a new route , a more direct route . 	
+1737	It 's designed as a labyrinth . 	Paikka suunniteltu labyrintiksi . 
+1738	There must be access routes that cut through the maze . 	Onko sokkelon läpi oikopolkua ? Eames ? 
+1739	Eames ? 	
+1740	Did Eames add any features ? 	Lisäsikö Eames mitään suunnitelmaan ? 
+1741	I do n't think I should tell you . 	Meillä ei riitä aika . 
+1742	We do n't have time for this . 	Meillä ei riitä aika . 
+1743	Did he add anything ? 	Lisäsikö hän ? 
+1744	He added an air-duct system ... 	Hän lisäsi ilmastointikanavan , joka menee sokkelon läpi . 
+1745	- ... 	Kerro se heille . 
+1746	that can cut through the maze . 	
+1747	- Good . 	
+1748	Explain it to them . 	
+1749	Paradox . 	Paradoksi . 
+1750	What was that ? 	Mikä se oli ? 
+1751	- The kick . 	Potku . 
+1752	Cobb ! 	Cobb , myöhästyimmekö siitä ? 
+1753	Cobb , did we miss it ? 	Myöhästyimme . 
+1754	Yeah , we missed it . 	Miksei tätä uneksittu hiekkarannaksi ? 
+1755	Man . 	Miksei tätä uneksittu hiekkarannaksi ? 
+1756	Could n't someone have dreamt up a goddamn beach ? 	Miksei tätä uneksittu hiekkarannaksi ? 
+1757	Huh ? 	
+1758	Uh-huh . 	Mitä helvettiä teemme ? 
+1759	Well , what the hell do we do now ? 	Mitä helvettiä teemme ? 
+1760	We finish the job before the next kick . 	Hoidetaan homma ennen seuraavaa potkua . Milloin on seuraava potku ? Kun auto osuu veteen . 
+1761	- What next kick ? 	
+1762	- When the van hits the water . 	
+1763	If you d like to make a call , please hang up and try again . 	
+1764	If you need help , hang up ... 	Kuinka pudotan teidät ilman painovoimaa ? 
+1765	How do I drop you without gravity ? 	
+1766	Arthur has a couple minutes , and we have about 20 . 	Arthurilla on aikaa muutama minuutti , meillä on noin 20 minuuttia . 
+1767	You okay ? 	Oletko kunnossa ? 
+1768	Run ! 	
+1769	Turn around ! 	
+1770	Move to base ! 	
+1771	Move to base ! 	
+1772	Go , go , go ! 	
+1773	There 's something wrong . 	Jotain on vialla . 
+1774	They 're heading your way , like they know something . 	He tulevat sinne aivan kuin tietäisivät jotain . 
+1775	Just buy us more time , all right ? 	Yritä järjestää aikaa . 
+1776	- Come on ! 	Minä yritän . 
+1777	- On my way . 	
+1778	Come on ! 	
+1779	Move ! 	
+1780	All right . 	
+1781	Okay . 	Tuolla on huone , josta pääsee pankkiholville . 
+1782	That 's the antechamber outside the strong room . 	Onko holvissa ikkunoita ? 
+1783	- Does the strong room have windows ? 	Millaisissa pankkiholveissa on ikkunoita ? Toivottavasti Fischer pitää sieltä löytämästään . 
+1784	- It would n't be very strong if it did . 	
+1785	Let 's hope Fischer likes what he finds in there . 	
+1786	- Are those projections his subconscious ? 	Ovatko nuo heijastukset osa hänen alitajuntaansa ? 
+1787	- Yes . 	Ovat . 
+1788	- Are you destroying parts of his mind ? 	Tuhoatko osia hänen mielestään ? 
+1789	- No . 	Ne ovat pelkkiä heijastuksia . 
+1790	They 're just projections . 	
+1791	- We 're here . 	Pääsimme perille . 
+1792	- You 're clear , but hurry . 	Kiirehtikää . 
+1793	There 's an entire army headed your way . 	Sinne on tulossa armeija . 
+1794	I 'm in . 	Olen sisällä . 
+1795	There he is . 	
+1796	- There 's someone in there . 	Siellä on joku toinenkin . 
+1797	- Fischer , it 's a trap . 	Fischer , se on ansa . 
+1798	Get out . 	Tule ulos . 
+1799	Come on . 	Hieman alemmas . 
+1800	Come on , a little lower . 	
+1801	Cobb . 	Cobb , hän ei ole todellinen . 
+1802	No , she is not real . 	Cobb , hän ei ole todellinen . 
+1803	How do you know that ? 	Mistä tiedät ? 
+1804	She is just a projection . 	Fischer on todellinen ! 
+1805	Fischer . 	
+1806	Fischer is real . 	
+1807	Hello . 	Hei . 
+1808	Eames ! 	Eames , mene holville ! 
+1809	Eames , get to the antechamber now ! 	
+1810	What happened ? 	Mitä tapahtui ? 
+1811	- Mal killed Fischer . 	Mal tappoi Fischerin . 
+1812	I could n't shoot her . 	En pystynyt ampumaan häntä . 
+1813	There 's no use in reviving him . 	Elvyttäminen ei auta . Hänen mielensä on jo loukussa . Tämä on ohi . 
+1814	His mind 's already trapped down there . 	
+1815	It 's all over . 	Siinäkö se ? 
+1816	So that 's it , then ? 	Siinäkö se ? 
+1817	We failed ? 	Epäonnistuimmeko ? 
+1818	We 're done . 	Epäonnistuimmeko ? 
+1819	I 'm sorry . 	Tämä oli tässä . 
+1820	It 's not me that does n't get back to my family , is it ? 	En ole se , joka ei pääse perheensä luokse . 
+1821	Shame . 	Sääli . 
+1822	I wanted to know what was gonna happen in there . 	Olisin halunnut nähdä , mitä tuolla tapahtuisi . Olin jo varma onnistumisesta . Asetetaan räjähteet . 
+1823	I swear we had this . 	
+1824	Let 's set the charges . 	
+1825	No , there 's still another way . 	On toinenkin keino . 
+1826	- We have to follow Fischer down there . 	Meidän on seurattava Fischeriä sinne . Aika ei riitä . Alhaalla aikaa riittää . 
+1827	- Not enough time . 	
+1828	No , but there will be enough time down there . 	Me löydämme hänet . 
+1829	And we will find him . 	Me löydämme hänet . 
+1830	Okay , as soon as Arthur 's music kicks in , just use the defibrillator to revive him . 	Kun Arthurin musiikki soi , - elvytä hänet defibrillaattorilla . Annamme hänelle oman potkunsa alhaalla . 
+1831	We can give him his own kick down below . 	Vie hänet tuonne . 
+1832	Look , you get him in there . 	Vie hänet tuonne . 
+1833	As soon as the music ends , you blow up the hospital ... 	räjäytät sairaalan , ja kaikki menevät potkun avulla ylös . 
+1834	and we all ride the kick back up the layers . 	räjäytät sairaalan , ja kaikki menevät potkun avulla ylös . 
+1835	It 's worth a shot , if Saito can hold the guards off while I set the charges . 	Kannattaa yrittää , jos Saito voi pidätellä vartijoita , kun asetan räjähteet . Saito ei selviä . 
+1836	Saito will never make it , will he ? 	Cobb , meidän on yritettävä . 
+1837	- Cobb , come on . 	Jos ette ole palanneet ennen potkua , lähden ilman teitä . 
+1838	We 've gotta try this . 	
+1839	- Go for it . 	
+1840	If you are not back before the kick , I am gone with or without you . 	Hän on oikeassa . 
+1841	She 's right . 	
+1842	She 's right . 	
+1843	Come on . 	
+1844	Let 's go . 	
+1845	Can I trust you to do what needs to happen here ? 	Voinko luottaa , että teet , mitä täytyy ? 
+1846	Mal 's gonna be down there . 	Löydän Malin . 
+1847	I know where to find her . 	Fischer on hänellä . 
+1848	She 'll have Fischer . 	Mistä tiedät ? 
+1849	- How do you know ? 	Mal haluaa , että lähden hänen peräänsä . Hän haluaa minut sinne luokseen . 
+1850	- Because she wants me to come after him . 	
+1851	She wants me back down there with her . 	
+1852	All right ? 	Oletko kunnossa ? 
+1853	- This is your world ? 	Tämäkö on maailmanne ? 
+1854	- It was . 	Oli . 
+1855	And this is where she 'll be . 	Mal on täällä . Tule . 
+1856	Come on . 	
+1857	Saito . 	Saito . 
+1858	Saito . 	Saito . 
+1859	I need you to take care of Fischer while I go set some charges , okay ? 	Saito . 
+1860	No room for tourists on these jobs . 	Turisteille ei ole tilaa . 
+1861	Do n't be silly . 	
+1862	You built all this ? 	Rakensitteko tämän kaiken ? Uskomatonta . Rakensimme vuosien ajan . 
+1863	This is incredible . 	
+1864	We built for years . 	Aloitimme muistoista . 
+1865	Then we started in on the memories . 	
+1866	This way . 	Tännepäin . 
+1867	This was our neighborhood . 	Tämä oli naapurustoamme . 
+1868	Places from our past . 	Paikkoja menneisyydestämme . 
+1869	That was our first apartment . 	Tuo oli ensimmäinen asuntomme . 
+1870	Then we moved to that building right there . 	Sitten muutimme tuohon . Kun Mal tuli raskaaksi , muutimme tuohon . 
+1871	After Mal became pregnant , that became our home . 	Rakensitteko tämän kaiken muistista ? 
+1872	You reconstructed all of this from memory ? 	Kuten kerroin , aikaa oli paljon . 
+1873	Like I told you , we had lots of time . 	Mikä tuo on ? 
+1874	What is that ? 	Malin lapsuudenkoti . 
+1875	That 's the house Mal grew up in . 	Malin lapsuudenkoti . 
+1876	- Well , will she be in there ? 	Ei . 
+1877	- No . 	Tule . 
+1878	Come on . 	Halusimme asua omakotitalossa , mutta rakastamme tällaisia . 
+1879	We both wanted to live in a house , but we loved this type of building . 	Oikeassa maailmassa pitäisi valita toinen , muttei täällä . 
+1880	In the real world , we 'd have to choose , but not here . 	
+1881	How are we gonna bring Fischer back ? 	Kuinka tuomme Fischerin takaisin ? 
+1882	We 're gonna have to come up with some kind of a kick . 	Täytyy keksiä jonkinlainen potku . Mikä ? 
+1883	What ? 	Minä improvisoin . 
+1884	I 'm gonna improvise . 	Minä improvisoin . 
+1885	Listen , there 's something you should know about me . 	Sinun pitäisi tietää minusta jotakin - sekä istutuksesta . 
+1886	About inception . 	
+1887	An idea is like a virus . 	Idea on kuin virus . 
+1888	Resilient . 	Sitkeä . 
+1889	Highly contagious . 	Erittäin tarttuva . 
+1890	And the smallest seed of an idea can grow . 	Erittäin tarttuva . 
+1891	It can grow to define ... 	Ne voivat kasvaa määrittämään tai tuhoamaan ihmisen . 
+1892	or destroy you . 	
+1893	The smallest idea , such as : 	Kuten ajatus : maailmasi ei ole todellinen . 
+1894	Your world is not real . 	Kuten ajatus : maailmasi ei ole todellinen . 
+1895		Kuten ajatus : maailmasi ei ole todellinen . 
+1896	Simple little thought that changes everything . 	Yksinkertainen ajatus , joka muuttaa kaiken . 
+1897	So certain of your world . 	Olet varma maailmastasi ja siitä , mikä on todellista . Luuletko , että Cobb on varma siitä , mikä on todellista ? 
+1898	Of what 's real . 	
+1899	Do you think he is ? 	Vai onko hänkin kadottanut todellisuuden , kuten minä olin kadottanut omani ? 
+1900	Or do you think he 's as lost as I was ? 	Vai onko hänkin kadottanut todellisuuden , kuten minä olin kadottanut omani ? 
+1901	I know what 's real , Mal . 	Tiedän , mikä on todellista , Mal . 
+1902	No creeping doubts ? 	Eikö hiipiviä epäilyjä ? Eikö olosi ole vainottu - 
+1903	Not feeling persecuted , Dom ? 	nimettömien yhtiöiden ja poliisivoimien jahtaamana ? 
+1904	Chased around the globe ... 	nimettömien yhtiöiden ja poliisivoimien jahtaamana ? 
+1905	by anonymous corporations and police forces ... 	Aivan kuin heijastukset vainoavat uneksijaa . 
+1906	the way the projections persecute the dreamer ? 	Aivan kuin heijastukset vainoavat uneksijaa . 
+1907	Admit it . 	Myönnä se . 
+1908	You do n't believe in one reality anymore . 	Et usko enää yhteen todellisuuteen . 
+1909	So choose . 	Valitse olla täällä . 
+1910	Choose to be here . 	Valitse minut . 
+1911	Choose me . 	
+1912	You know what I have to do . 	Minun on palattava lastemme luo , koska jätit heidät . 
+1913	I have to get back to our children because you left them . 	Minun on palattava lastemme luo , koska jätit heidät . 
+1914	Because you left us . 	Jätit meidät . 
+1915	- You 're wrong . 	En ole . 
+1916	- I m not wrong . 	Olet hämmentynyt . 
+1917	You 're confused . 	Lapsemme ovat täällä . 
+1918	Our children are here . 	Haluaisit nähdä heidän kasvonsa taas . 
+1919	And you 'd like to see their faces again , would n't you ? 	Niin haluaisin , mutta näen ne ylhäällä . 
+1920	Yes , but I m gonna see them up above , Mal . 	Niin haluaisin , mutta näen ne ylhäällä . 
+1921	Up above ? 	Ylhäälläkö ? 
+1922	Listen to yourself . 	Kuuntele itseäsi . 
+1923	These are our children . 	Nämä ovat lapsemme . 
+1924	Watch . 	Katso . 
+1925	James ? 	Pyydän , Mal . 
+1926	Phillipa ? 	Lapseni eivät ole tuossa . 
+1927	Do n't do this , Mal . 	Hoet sitä itsellesi , muttet usko sitä . 
+1928	Please . 	Tiedän sen . 
+1929	Those are n't my children . 	Tiedän sen . 
+1930	You keep telling yourself that , but you do n't believe it . 	Tiedän sen . 
+1931	- No , I know it . 	Mitä jos olet väärässä ja minä olenkin se todellinen ? 
+1932	- What if you 're wrong ? 	
+1933	What if I 'm what 's real ? 	Hoet itsellesi , mitä tiedät , - 
+1934	You keep telling yourself what you know . 	Hoet itsellesi , mitä tiedät , - 
+1935	But what do you believe ? 	mutta mitä sinä uskot ? Mitä tunnet ? 
+1936	What do you feel ? 	Syyllisyyttä . 
+1937	Guilt . 	Syyllisyyttä . 
+1938	I feel guilt , Mal . 	Tunnen syyllisyyttä , Mal . 
+1939	And no matter what I do , no matter how hopeless I am ... 	Mitä ikinä teenkään , miten toivoton tai hämmentynyt olen , - 
+1940	no matter how confused , that guilt is always there ... 	se syyllisyys muistuttaa aina totuudesta . 
+1941	reminding me of the truth . 	Mistä totuudesta ? 
+1942	What truth ? 	
+1943	That the idea that caused you to question your reality came from me . 	Ajatus , joka sai sinut epäilemään maailmaasi , tuli minulta . 
+1944	You planted the idea in my mind ? 	Asetitko sen mieleeni ? Mistä hän puhuu ? 
+1945	What is she talking about ? 	Tiesin , että istutus oli mahdollinen , koska tein sen ensin hänelle . 
+1946	The reason I knew inception was possible was because I did it to her first . 	Tiesin , että istutus oli mahdollinen , koska tein sen ensin hänelle . 
+1947	- I did it to my own wife . 	Tein sen vaimolleni . 
+1948	- Why ? 	Miksi ? 
+1949	We were lost in here . 	Olimme unohtuneet tänne . 
+1950	I knew we needed to escape , but she would n't accept it . 	Meidän täytyi päästä pois . Mal ei hyväksynyt totuutta . 
+1951	She had locked something away , something deep inside . 	Hän oli lukinnut jotakin syvälle sisimpäänsä . 
+1952	A truth that she had once known , but chose to forget . 	Totuuden , jonka hän oli tiennyt ja päättänyt sittemmin unohtaa . Hän ei päässyt vapaaksi . 
+1953	And she could n't break free . 	
+1954	So I decided to search for it . 	Aloin etsiä sitä . 
+1955	I went deep into the recess of her mind and found that secret place . 	Kolusin hänen mielensä sopukat ja löysin sen salaisen paikan . 
+1956	And I broke in ... 	Murtauduin ja istutin sinne ajatuksen . 
+1957	and I planted an idea . 	Yksinkertainen ajatus , joka muuttaisi kaiken . 
+1958	A simple little idea that would change everything . 	Yksinkertainen ajatus , joka muuttaisi kaiken . 
+1959	That her world was n't real . 	Se , ettei hän elänyt todellisuudessa . 
+1960	That death was the only escape . 	Että kuolema oli ainut pakotie . 
+1961	You 're waiting for a train . 	Odotat junaa . 
+1962	A train that 'll take you far away . 	Junaa , joka vie sinut kauas pois . 
+1963	You know where you hope this train will take you ... 	Tiedät , minne toivot junan vievän . 
+1964	but you ca n't know for sure . 	Et kuitenkaan voi olla varma määränpäästä . 
+1965	Yet it does n't matter . 	Miksi ? 
+1966	- Now , tell me why ! 	Miksi ? 
+1967	- Because you 'll be together ! 	Koska olemme yhdessä ! 
+1968	But I never knew that that idea would grow in her mind like a cancer ... 	että heräämisen jälkeenkin ajatus kasvaisi hänessä kuin syöpä . 
+1969	that even after she woke ... 	
+1970	That even after you came back to reality ... 	Todellisuuteen palattuasi - 
+1971	that you 'd continue to believe your world was n't real . 	uskoit yhä , että maailmasi ei ollut todellinen . 
+1972	That death was the only escape . 	Että kuolema oli ainut pakotie . 
+1973	Mal , no ! 	Myrkytitkö mieleni ? 
+1974	Jesus ! 	Yritin pelastaa sinut . 
+1975	- You infected my mind . 	Sinä petit minut . 
+1976	- I was trying to save you . 	
+1977	You betrayed me . 	Voit silti hyvittää kaiken ja pitää lupauksesi . 
+1978	But you can make amends . 	Voit silti hyvittää kaiken ja pitää lupauksesi . 
+1979	You can still keep your promise . 	Voimme vielä olla yhdessä tässä rakentamassamme maailmassa . 
+1980	We can still be together , right here ... 	Voimme vielä olla yhdessä tässä rakentamassamme maailmassa . 
+1981	in the world we built together . 	
+1982	Cobb , we need to get Fischer . 	Cobb , meidän täytyy etsiä Fischer . 
+1983	You ca n't have him . 	Ette saa häntä . 
+1984	- lf I stay here , will you let him go ? 	Mitä sinä puhut ? 
+1985	- What are you talking about ? 	
+1986	Fischer is on the porch . 	Hän on parvella . Katso , elääkö hän . Et voi tehdä näin . 
+1987	- Go check he 's alive , Ariadne . 	Tarkista se nyt . 
+1988	- Cobb , you ca n't do this . 	
+1989	Go check he 's alive right now . 	
+1990	Do it . 	
+1991	He 's here ! 	Hän on täällä , mutta sinun täytyy lähteä myös ! 
+1992	And it 's time , but you have to come now ! 	Vie Fischer mukanasi pois . 
+1993	You take Fischer with you , all right ? 	Vie Fischer mukanasi pois . 
+1994	- You ca n't stay here to be with her . 	Et voi jäädä hänen luokseen . 
+1995	I 'm not . 	En jääkään . 
+1996	Saito 's dead by now . 	Saito on kuollut , joten hän on jossakin täällä . 
+1997	That means he 's down here somewhere . 	Minun on löydettävä hänet . 
+1998	That means I have to find him . 	En voi jäädä Malin luokse , koska häntä ei ole olemassa . 
+1999	I ca n't stay with her anymore , because she does n't exist . 	En voi jäädä Malin luokse , koska häntä ei ole olemassa . 
+2000	I 'm the only thing you do believe in anymore . 	Olen ainut asia , johon enää uskot . 
+2001	No . 	Toivon ... 
+2002	I wish . 	Toivon sitä yli kaiken . 
+2003	I wish more than anything , but ... 	Toivon sitä yli kaiken . 
+2004	I ca n't imagine you with all your complexity ... 	En osaa kuvitella sinua kaikessa moninaisuudessasi , - täydellisyyksiäsi ja epätäydellisyyksiäsi . 
+2005	all your perfection , all your imperfection . 	Oletko kunnossa ? 
+2006	- You all right ? 	Oletko kunnossa ? 
+2007	- Yeah . 	Katso nyt itseäsi . 
+2008	Look at you . 	Olet pelkkä varjo oikeasta vaimostani . 
+2009	You 're just a shade . 	Olet pelkkä varjo oikeasta vaimostani . 
+2010	You 're just a shade of my real wife . 	Tein sinusta niin aidon kuin mahdollista , - 
+2011	And you were the best that I could do , but ... 	Tein sinusta niin aidon kuin mahdollista , - 
+2012	I m sorry , you 're just not good enough . 	mutta valitettavasti se ei riitä . Tuntuuko tämä todelliselta ? 
+2013	Does this feel real ? 	
+2014	- What are you doing ? 	Mitä sinä teet ? 
+2015	- Improvising . 	Improvisoin . 
+2016	No , no , no ! 	Tuohon suuntaan . 
+2017	In there , now . 	
+2018	Go , go , go . 	
+2019	I was dis -- 	Olin pett ... 
+2020	I was dis Disa -- 	Olin pettynyt ... Tiedän , isä . 
+2021	- I know , Dad . 	
+2022	- Dis -- 	
+2023	I know you were disappointed ... 	Olit pettynyt , koska minusta ei tullut kaltaistasi . 
+2024	I could n't be you . 	
+2025	No . 	Ei , ei . 
+2026	No , no , no . 	Olin pettynyt , - 
+2027	I was disappointed ... 	koska yritit olla kaltaiseni . 
+2028	that you tried . 	koska yritit olla kaltaiseni . 
+2029	What ? 	
+2030	Come on , come on . 	
+2031	Dad ? 	
+2032	That 's the kick , Ariadne ! 	Siinä oli potku ! 
+2033	You have to go now ! 	Hyppää nyt ! 
+2034	Do n't lose yourself ! 	Älä hukkaa itseäsi ! Tuo Saito takaisin ! Tuon kyllä ! 
+2035	Find Saito and bring him back ! 	
+2036	I will ! 	
+2037	You remember when you asked me to marry you ? 	Muistatko , kun kosit minua ? 
+2038	Yes . 	Sanoit nähneesi unen , että vanhenisimme yhdessä . 
+2039	You said you dreamt that we 'd grow old together . 	Sanoit nähneesi unen , että vanhenisimme yhdessä . 
+2040	But we did . 	Ja niin vanhenimmekin . 
+2041	We did . 	
+2042	You do n't remember ? 	
+2043	I miss you more than I can bear ... 	Kaipaan sinua sietämättömästi . 
+2044	but we had our time together . 	Meillä kuitenkin oli yhteinen aikamme . 
+2045	And I have to let you go . 	Minun on päästettävä sinusta irti . 
+2046	I have to let you go . 	
+2047	I 'm sorry , Robert . 	
+2048	You know , the will means that Dad wanted me to be my own man ... 	Isä tarkoitti testamentilla , että minun pitäisi olla oma herrani , - enkä omistaisi elämääni hänelle . 
+2049	not just to live for him . 	Niin minä aion tehdä , Peter-setä . 
+2050	That 's what I m gonna do , Uncle Peter . 	
+2051	What happened ? 	Mitä tapahtui ? 
+2052	- Cobb stayed . 	Malin luokseko ? 
+2053	- With Mal ? 	Etsimään Saitoa . 
+2054	No , to find Saito . 	
+2055	He 'll be lost . 	Hän unohtuu sinne . 
+2056	No , he 'll be all right . 	
+2057	Have you come to kill me ? 	
+2058	I 'm waiting for someone . 	Odotan erästä henkilöä . 
+2059	Someone from a half-remembered dream . 	Henkilöä lähes unohdetusta unesta . 
+2060	Cobb ? 	Mahdotonta . 
+2061	Impossible . 	Mahdotonta . 
+2062	We were young men together . 	Olimme nuoria miehiä yhdessä . Olen nyt vanhus . 
+2063	I 'm an old man . 	Täynnä katumusta . 
+2064	Filled with regret . 	
+2065	Waiting to die alone . 	Odottaen yksin kuolemista . 
+2066	I 've come back for you . 	Tulin luoksenne - 
+2067	To remind you of something . 	muistuttamaan teitä jostain . 
+2068	Something you once knew . 	Asiasta , jonka joskus tiesitte . 
+2069	That this world is not real . 	Että tämä maailma ei ole todellinen . 
+2070	To convince me to honor our arrangement ? 	Tulitte vakuuttamaan minut , että noudattaisin sopimustamme . Ottamaan uskonloikan . 
+2071	To take a leap of faith , yes . 	
+2072	Come back ... 	jotta voimme olla taas nuoria miehiä . 
+2073	so we can be young men together again . 	jotta voimme olla taas nuoria miehiä . 
+2074	Come back with me . 	Palaa kanssani todellisuuteen . 
+2075	Come back . 	
+2076	Hot towel , sir ? 	Laskeudumme Los Angelesiin parinkymmenen minuutin päästä . 
+2077	We 'll be landing in Los Angeles in about 20 minutes . 	Tarvitsetteko maahantulolomakkeen ? 
+2078	Do you need immigration forms ? 	Kiitos . 
+2079	Thank you . 	Kiitos . 
+2080	Hot towel , sir ? 	Ei . 
+2081	- No . 	Tarvitsetteko maahantulolomakkeen ? 
+2082	- Do you need immigration forms ? 	
+2083	Welcome home , Mr . Cobb . 	Tervetuloa kotiin , herra Cobb . 
+2084	Thank you , sir . 	
+2085	Welcome . 	Tervetuloa . 
+2086	This way . 	
+2087	James ? 	James ! 
+2088	Phillipa ? 	Phillipa ! 
+2089	Look who 's here . 	
+2090	Hey . 	Hei , kaverit ! 
+2091	- Hey , guys ! 	Isä ! Miten teillä menee ? 
+2092	Hey ! 	
+2093	How are you ? 	
+2094	- Daddy ! 	
+2095	Daddy ! 	
+2096	- Daddy ! 	
+2097	- How are you ? 	
+2098	Look what I ve been building ! 	
+2099	- What are you building ? 	
+2100	- We 're building a house on the cliff ! 	
+2101	On the cliff ? 	
+2102	Come on , I want you to show me . 	
+2103	Can you show me ? 	
+2104	- Let 's go . 	
+2105	- Come on , Daddy ! 	

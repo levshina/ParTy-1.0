@@ -1,0 +1,2105 @@
+1	Are you here to kill me ? 	Jste zde , abyste mě zabil ? 
+2	I know what this is . 	Tohle znám . 
+3	I 've seen one before . 	Podobnou věc jsem viděl . 
+4	Many , many years ago . 	Před mnoha , mnoha lety . 
+5	It belonged to a man I met in a half-remembered dream . 	Patřila muži , kterého jsem potkal v téměř zapomenutém snu . 
+6	A man possessed of some radical notions . 	Muži posedlém radikálními myšlenkami . 
+7	What is the most resilient parasite ? 	Jaký parazit je nejodolnější ? 
+8	A bacteria ? 	Bakterie ? 
+9	A virus ? 	Virus ? 
+10	An intestinal worm ? 	Tasemnice ? 
+11	Uh ... 	Tasemnice ? 
+12	What Mr . Cobb is trying to say -- 	Pan Cobb se snaží říct , že ... 
+13	An idea . 	Pan Cobb se snaží říct , že ... 
+14	Resilient . 	Odolná a vysoce nakažlivá . 
+15	Highly contagious . 	
+16	Once an idea has taken hold of the brain , it 's almost impossible to eradicate . 	Jakmile se jednou usadí v mozku , je téměř nemožné ji zničit . 
+17	An idea that is fully formed , fully understood , that sticks . 	Plně formovaná a jasná myšlenka , to je to pravé . 
+18	Right in there somewhere . 	Přímo tady . 
+19	For someone like you to steal ? 	Mohl by jí někdo jako vy ukrást ? 
+20	Yes . 	Ano , ve snu je vaše obrana podvědomí zranitelnější . 
+21	In the dream state , your conscious defenses are lowered ... 	Ano , ve snu je vaše obrana podvědomí zranitelnější . 
+22	and that makes your thoughts vulnerable to theft . 	Ano , ve snu je vaše obrana podvědomí zranitelnější . 
+23	It 's called extraction . 	A zranitelnější vůči krádeži . 
+24	Mr . Saito , we can train your subconscious to defend itself ... 	Říká se tomu extrakce . Saito , můžeme trénovat vaše podvědomí tak , 
+25	from even the most skilled extractor . 	že se dokáže ochránit i proti nejlepším extraktorům . 
+26	How can you do that ? 	že se dokáže ochránit i proti nejlepším extraktorům . 
+27	Because I am the most skilled extractor . 	Jak to dokážete ? Já jsem ten nejlepší extraktor . 
+28	I know how to search your mind and find your secrets . 	Vím , jak se dostat do vašeho podvědomí a najít tajné věci . 
+29	I know the tricks . 	Znát ty triky a můžu je vás snadno naučit . 
+30	And I can teach them to you , so that even when you 're asleep ... 	Znát ty triky a můžu je vás snadno naučit . 
+31	your defense is never down . 	Takže i ve spánku bude vaše obrana dokonalá . 
+32	Look , if you want my help , you 're gonna have to be completely open with me . 	Pokud chcete moji pomoc , musíte ke mně být otevřený . 
+33	I need to know my way around your thoughts better than your wife ... 	Musím mít lepší přístup k vašim myšlenkám , než má vaše žena , 
+34	better than your therapist , better than anyone . 	váš terapeut , kdokoliv . 
+35	If this is a dream , and you have a safe full of secrets ... 	Jestli je tohle sen a vy máte sejf plný tajemství , musím je znát . 
+36	I need to know what 's in that safe . 	Jestli je tohle sen a vy máte sejf plný tajemství , musím je znát . 
+37	In order for this all to work , you need to completely let me in . 	A aby to fungovalo , musíte mě tam pustit . 
+38	Enjoy your evening , gentlemen , as I consider your proposal . 	Přeji hezký večer , pánové . 
+39	He knows . 	Ví to . 
+40	What 's going on up there ? 	Co se tam děje ? 
+41	Saito knows . 	Saito to ví , hraje si s námi . 
+42	He 's playing with us . 	
+43	Does n't matter . 	Na tom nesejde . 
+44	I can get it here . 	Zvládnu to , věř mi . 
+45	Trust me . 	
+46	The information is in the safe . 	Informace má v sejfu , podíval se tam ve chvíli , 
+47	He looked right at it when I mentioned secrets . 	Informace má v sejfu , podíval se tam ve chvíli , 
+48	What 's she doing here ? 	kdy jsem o nich promluvil . 
+49	Just head back to the room . 	Vrať se do pokoje , postarám se o to . 
+50	All right ? 	
+51	I 'll take care of this . 	
+52	Okay , make sure you do . 	To doufám , máme tu práci . 
+53	We 're here to work . 	
+54	If I jumped , would I survive ? 	Když skočím ... přežiju ? 
+55	With a clean dive , perhaps . 	Možná , když se čistě ponoříš a nenarazíš ? 
+56	Mal , what are you doing here ? 	Mal , co tu děláš ? 
+57	I thought you might be missing me . 	Myslela jsem si , že ti budu chybět . 
+58	You know that I am . 	Chybíš mi . 
+59	But I ca n't trust you anymore . 	Ale nemůžu ti už věřit . 
+60	So what ? 	No a ? 
+61	Looks like Arthur 's taste . 	Vypadá to na Arthurův vkus . 
+62	Actually , the subject is partial to postwar British painters . 	Vypadá to , že subjekt částečně obdivuje britské malíře . 
+63	Please , have a seat . 	Posaď se , prosím . 
+64	Tell me ... 	Pověz mi . 
+65	do the children miss me ? 	Chybím dětem ? 
+66	You ca n't imagine . 	Ani nevíš jak . 
+67	What are you doing ? 	Co to děláš ? 
+68	Just getting some fresh air . 	Co to děláš ? 
+69	Stay where you are , Mal . 	Zůstaň tady , Mal . 
+70	Goddamn it . 	Sakra ... 
+71	Turn around . 	Otočte se ! 
+72	The gun , Dom . 	Otočte se ! 
+73	Please . 	Prosím . 
+74	Now the envelope , Mr . Cobb . 	A ještě tu obálku , pane Cobbe . 
+75	Did she tell you ? 	To ona vám to řekla ? Nebo jste to věděl po celou dobu ? 
+76	Or have you known all along ? 	
+77	That you 're here to steal from me , or that we are actually asleep ? 	Věděl to , že jste mě přišel okrást , nebo to , že oba spíme ? 
+78	I want to know the name of your employer . 	Chci znát jméno vašeho zaměstnavatele . 
+79	Ah , there 's no use threatening him in a dream , right , Mal ? 	Víš , že vyhrožování ve snu nefunguje , Mal ? 
+80	That depends on what you 're threatening . 	Záleží , čím hrozíš . 
+81	Killing him would just wake him up . 	Zabitím se probudí . 
+82	But pain ... 	Ale bolest ? 
+83	Pain is in the mind . 	Ta zůstává v podvědomí . 
+84	And judging by the decor , we 're in your mind , are n't we , Arthur ? 	A podle výzdoby jsme ve tvé mysli , Arthure , že je to tak ? 
+85	- What are you doing ? 	Co to děláš ? 
+86	It 's too soon . 	Je brzy ! 
+87	- But the dream 's collapsing . 	Já vím . 
+88	I 'm gonna try to keep Saito under a little bit longer . 	Sen se hroutí . Snaž se udržet Saita ještě ve spánku . Už to skoro máme . 
+89	We 're almost there . 	
+90	He was close . 	Tohle místo . A ty obrazy . 
+91	Very close . 	
+92	Stop him ! 	Zastavte ho ! 
+93	This is n't gonna work . 	To nepůjde . 
+94	Wake him up . 	Probuď ho ! 
+95	He wo n't wake . 	Vstávej ! 
+96	- Give him the kick . 	Prober ho ! 
+97	- What ? 	Prober ho ! 
+98	Dunk him . 	Prober ho ! 
+99	He 's out . 	Máme ho vzhůru . 
+100	You came prepared , hmm ? 	Připravil jste se na to , co ? 
+101	Not even my head of security knows this apartment . 	Ani šéf mojí ochranky neví o tomhle bytě . 
+102	How did you find it ? 	Jak jste to našel vy ? 
+103	It 's difficult for a man of your position to keep a love nest like this secret ... 	Muž jako vy jen těžko utají takové hnízdečko lásky , 
+104	particularly where there 's a married woman involved . 	zvláště , když jde o vdanou ženu . 
+105	- She would never ... 	Ona by nikdy ... 
+106	- Yet here we are . 	A co tu tedy děláme ? 
+107	- With a dilemma . 	A co tu tedy děláme ? 
+108	- They 're getting closer . 	Blíží se . 
+109	- You got what you came for . 	Blíží se . 
+110	- Well , that 's not true . 	Máte , pro co jste přišel . To není pravda . 
+111	You left out a key piece of information , did n't you ? 	Vynechal jste klíčový střípek informace , že ? 
+112	You held something back because you knew what we were up to . 	Něco skrýváte , protože jste věděl , po čem jdeme . 
+113	- Question is , why 'd you let us in at all ? 	Otázkou je , proč jste nás nechal dojít tak daleko . 
+114	- An audition . 	Zkouška . 
+115	- An audition for what ? 	Zkouška čeho ? 
+116	- Does n't matter . 	Na tom nesejde . 
+117	You failed . 	Selhal jste . 
+118	We extracted every bit of information you had in there . 	Extrahovali jsme každičký střípek informací , které jste tam měl . 
+119	But your deception was obvious . 	Pouze to , co bylo očividné . 
+120	- So leave me and go . 	Takže mě nechte o samotě . 
+121	- You do n't seem to understand , Mr . Saito . 	Zřejmě to nechápete , pane Saito . 
+122	That corporation that hired us , they wo n't accept failure . 	Zřejmě to nechápete , pane Saito . 
+123	We wo n't last two days . 	netoleruje selhání . 
+124	Cobb ? 	Cobbe ! 
+125	Looks like I 'm gonna have to do this a little more simply . 	Cobbe ! 
+126	Tell us what you know ! 	Řekněte , co víte . 
+127	Tell us what you know , now ! 	Řekněte nám , co víte ! 
+128	I 've always hated this carpet . 	Vždycky jsem nenáviděl tento koberec . 
+129	It 's stained and frayed in such distinctive ways . 	Špiní se a bledne tak jako žádný jiný . 
+130	But very definitely made of wool . 	Protože je utkán z vlny . 
+131	Right now ... 	Nyní ale , 
+132	I m lying on polyester . 	ležím jen na polyesteru . 
+133	Which means I m not lying on my carpet , in my apartment . 	Což znamená , že neležím na mém koberci v mém bytě . 
+134	You have lived up to your reputation , Mr . Cobb . 	Dostál jste své reputaci , pane Cobbe . 
+135	I 'm still dreaming . 	Pořád sním . 
+136	- How 'd it go ? 	Jak to šlo ? 
+137	- Not good . 	Moc dobře ne . 
+138	Dream within a dream , huh ? 	Sen ve snu , co ? Jsem unešen . 
+139	I 'm impressed . 	
+140	But in my dream , you play by my rules . 	Ale v mých snech , 
+141	Ah , yes , but you see , Mr . Saito ... 	budete hrát podle mých pravidel . 
+142	We 're not in your dream . 	Víte , pane Saito , 
+143	We 're in mine . 	nejsme ve vašem snu . 
+144	Asshole . 	Blbče ! 
+145	How do you mess up the carpet ? 	Blbče ! 
+146	- It was n't my fault . 	Blbče ! 
+147	- You 're the architect . 	Posral jsi ten koberec ! 
+148	I did n't know he was gonna rub his cheek on it ! 	Jsi architekt ! 
+149	That 's enough . 	Nevěděl jsem , že do něj bude dávat hubu ! To stačí . 
+150	You . 	Hele , co to tam mělo znamenat ? 
+151	What the hell was all that ? 	
+152	- I have it under control . 	Měl jsem to pod kontrolou . 
+153	- I 'd hate to see you out of control . 	Nerad bych viděl opak . 
+154	We do n't have time for this . 	Na tohle nemáme čas . 
+155	I 'm getting off at Kyoto . 	Vystupuju v Kyotu . 
+156	He 's not gonna check every compartment . 	Vystupuju v Kyotu . 
+157	Yeah , well , I do n't like trains . 	Proč ? 
+158	Listen . 	Nesnáším vlaky . Poslyšte , odteď každý sám za sebe . 
+159	Every man for himself . 	
+160	Yes , hello ? 	Prosím ? 
+161	- Hi , Daddy . 	Ahoj táto . Ahoj táto . 
+162	- Hi , Dad . 	
+163	Hey , guys . 	Ahoj děti ... Jak se máte ? Jak to jde ? 
+164	Hey . 	
+165	How are you ? 	
+166	How you doing , huh ? 	
+167	- Good . 	Dobře . 
+168	- Okay , I guess . 	Ujde to , táto . 
+169	Okay ? 	Ujde to ? To je tedy nadšení , tos byl ty , Jamie ? Jo . 
+170	Who 's just okay ? 	
+171	Is that you , James ? 	
+172	Yeah . 	Kdy přijedeš , táto ? 
+173	When are you coming home , Dad ? 	
+174	Well , I ca n't , sweetheart . 	Teď to nejde zlatíčko , teď ne . Po nějakou dobu to nepůjde , vzpomínáš ? Proč ? 
+175	I ca n't . 	
+176	Not for a while , remember ? 	
+177	Why ? 	
+178	Look , I told you , I m away because I m working , right ? 	Říkal jsem ti , že jsem pryč pracovně . 
+179	Grandma says you 're never coming back . 	Babička říká , že se nikdy nevrátíš . 
+180	Phillipa , is that you ? 	Phillipo , jsi to ty ? 
+181	Put Grandma on the phone for me , will you ? 	Dej mi babičku na telefon , ano ? 
+182	She 's shaking her head . 	Kroutí hlavou , že ne . 
+183	Well , just hope she 's wrong about that . 	Tak musíme doufat , že se v tomhle mýlí . 
+184	Daddy ? 	Tati ? 
+185	Yeah , James ? 	Copak , Jamie ? 
+186	Is Mommy with you ? 	Copak , Jamie ? 
+187	James , we talked about this . 	Jamesi , o tomhle jsme mluvili . 
+188	Mommy 's not here anymore . 	Maminka už tu není . 
+189	Where ? 	A kde je ? 
+190	That 's enough , kids . 	To stačí děti , rozlučte se s tatínkem ... 
+191	Say bye-bye . 	
+192	Listen , I m gonna send some presents with Grandpa , all right ? 	Děti , pošlu nějaký dárek dědečkovi , buďte hodné , ano ? 
+193	And you be good , you be -- 	Děti , pošlu nějaký dárek dědečkovi , buďte hodné , ano ? 
+194	- Our ride 's on the roof . 	Na střeše máme odvoz . 
+195	- Right . 	Jo . 
+196	Hey , are you okay ? 	Jsi v pohodě ? 
+197	Yeah . 	Jsi v pohodě ? 
+198	Yeah , I m fine . 	Jo , jsem . 
+199	Why ? 	
+200	Well , down in the dream , Mal showing up . 	Myslel jsi na Mal , jak se objevila v tom snu ? 
+201	Look , I m , uh , sorry about your leg . 	Mrzí mě ta noha , už se to nestane . 
+202	Wo n't happen again . 	
+203	- It 's getting worse , is n't it ? 	Zhoršuje se to , co ? 
+204	- One apology 's all you 're getting , all right ? 	Jedna omluva ti nestačila ? 
+205	- Where 's Nash ? 	Kde je Nash ? 
+206	- He has n't shown . 	Ještě se neukázal . 
+207	You wanna wait ? 	Chceš čekat ? 
+208	We were supposed to deliver Saito 's expansion plans ... 	Ne . 
+209	to Cobol Engineering two hours ago . 	Ne . 
+210	By now , they know we failed . 	a to už před dvěma hodinami . Teď už ví , že jsme selhali . Mizíme . 
+211	It 's time we disappear . 	
+212	- Where you gonna go ? 	Kam chceš jet ? 
+213	- Buenos Aires . 	Do Buenos Aires . 
+214	I can lie low there , maybe sniff out a job when things quiet down . 	Do Buenos Aires . 
+215	You ? 	Tam se ztratím a možná najdu nějakej kšeft . 
+216	Stateside . 	Co ty ? 
+217	Send my regards . 	Státy . Že zdravím . 
+218	He sold you out . 	Zaprodal nás . 
+219	Thought to come to me and bargain for his life . 	Odešel od společnosti a teď škemrá o život . 
+220	So I offer you the satisfaction . 	Takže vám umožním to zadostiučení . 
+221	It 's not the way I deal with things . 	Takhle já věci neřeším . 
+222	- What will you do with him ? 	Co s ním uděláte ? 
+223	- Nothing . 	Nic . 
+224	But I ca n't speak for Cobol Engineering . 	Co s ním ale udělá Cobol Engineering , netuším . 
+225	- What do you want from us ? 	Co od nás chcete ? Vnuknutí . 
+226	- Inception . 	
+227	- Is it possible ? 	Je to možné ? 
+228	- Of course not . 	Samozřejmě , že ne . 
+229	If you can steal an idea from someone 's mind ... 	Umíte ukrást něčí myšlenku z jeho podvědomí . 
+230	why ca n't you plant one there instead ? 	Umíte ukrást něčí myšlenku z jeho podvědomí . 
+231	Okay , here 's me planting an idea in your head . 	Proč to nejde naopak ? 
+232	I say , Do n't think about elephants . 	Tak fajn . Něco vám vnuknu : Nemyslete na slony . 
+233	What are you thinking about ? 	Na co myslíte ? 
+234	Elephants . 	Na slony . 
+235	Right . 	Na slony . 
+236	But it 's not your idea , because you know I gave it to you . 	Jasně , ale není to váš nápad . Víte , že jsem vám to vnuknul . 
+237	The subject 's mind can always trace the genesis of the idea . 	Mysl subjektu dokáže vždycky vystopovat původce myšlenky . 
+238	- True inspiration 's impossible to fake . 	Ryzí inspirace se zfalšovat nedá . 
+239	- That 's not true . 	To není pravda . 
+240	- Can you do it ? 	Dokážete to ? 
+241	- Are you offering me a choice ? 	Dáváte mi na výběr ? 
+242	Because I can find my own way to square things with Cobol . 	Protože já najdu způsob , jak si to s Cobolem vyřídit . 
+243	Then you do have a choice . 	Pak máte na výběr . 
+244	Then I choose to leave , sir . 	A já si vybírám odchod , pane . 
+245	Tell the crew where you want to go . 	Řekněte pilotovi , kam chcete letět . 
+246	Hey , Mr . Cobb . 	Pane Cobbe ... 
+247	How would you like to go home ? 	Jak by se vám líbilo , vrátit se domů . 
+248	To America . 	Do Ameriky . K vašim dětem . 
+249	To your children . 	
+250	You ca n't fix that . 	S tím nic nezmůžete . 
+251	No one can . 	Nikdo s tím nic nezmůže . 
+252	- Just like inception . 	Jako s vnuknutím . 
+253	- Cobb , come on . 	Pojď , Cobbe . 
+254	- How complex is the idea ? 	Jak složitá je ta myšlenka ? 
+255	- Simple enough . 	Dost jednoduchá . 
+256	No idea is simple when you need to plant it in somebody else 's mind . 	Žádná myšlenka není jednoduchá . Musíme ji zasadit do mysli někoho druhého . 
+257	My main competitor is an old man in poor health . 	Můj hlavní konkurent je starý muž chabého zdraví . 
+258	His son will soon inherit control of the corporation . 	Má syna , který by měl převzít řízení korporace . 
+259	I need him to decide to break up his father 's empire . 	Potřebuji , aby se rozhodl otcovo impérium zničit . 
+260	- Cobb , we should walk away from this . 	Měli bychom to nechat být , Cobbe . 
+261	- Hold on . 	Počkej . 
+262	If I were to do this , if I even could do it ... 	Pokud to udělám . 
+263	I d need a guarantee . 	Pokud to vůbec půjde . Potřebuju záruku . 
+264	- How do I know you can deliver ? 	Jak mám vědět , že svůj slib splníte ? 
+265	- You do n't . 	Nevíte . 
+266	But I can . 	Ale splním ho . 
+267	So do you want to take a leap of faith ... 	Jste ochoten skočit do neznáma ? 
+268	or become an old man , filled with regret ... 	Nebo chcete , aby se z vás stal stařec 
+269	waiting to die alone ? 	plný výčitek a čekat o samotě na smrt ? 
+270	Assemble your team , Mr . Cobb . 	Dejte dohromady tým , pane Cobbe . 
+271	And choose your people more wisely . 	A vybírejte si lidi lépe . 
+272	Look , I know how much you wanna go home . 	Hele , já vím , jak moc se chceš vrátit domů . 
+273	This ca n't be done . 	Ale nejde to provést . 
+274	Yes , it can . 	Ale jde . Jen se musíme dostat dost hluboko . To nevíš . 
+275	Just have to go deep enough . 	
+276	You do n't know that . 	
+277	I 've done it before . 	Už jsem to provedl . 
+278	Who 'd you do it to ? 	Komu ? 
+279	Why are we going to Paris ? 	Proč letíme do Paříže ? 
+280	We 're gonna need a new architect . 	Potřebujeme nového architekta . 
+281	You never did like your office , did you ? 	Tvoje kancelář se ti nikdy nelíbila , že ? 
+282	No space to think in that broom cupboard . 	V té komoře nebylo dost místa na přemýšlení . 
+283	Is it safe for you to be here ? 	Je to tu pro tebe bezpečné ? 
+284	Extradition between France and the United States ... 	Francii se do Ameriky stíhané osoby moc vydávat nechce . 
+285	is a bureaucratic nightmare , you know that . 	Francii se do Ameriky stíhané osoby moc vydávat nechce . 
+286	I think they might find a way to make it work in your case . 	V tvém případě by to možná takový problém nebyl . 
+287	Look , I , uh , brought these for you to give to the kids when you have a chance . 	Chtěl bych , abys dal tohle dětem , jak budeš moct . 
+288	It 'll take more than the occasional stuffed animal ... 	Děti potřebují víc než jen hračky , aby věděly , že ještě mají otce . 
+289	to convince those children they still have a father . 	Děti potřebují víc než jen hračky , aby věděly , že ještě mají otce . 
+290	I 'm just doing what I know . 	Dělám jen to , co umím . 
+291	I 'm doing what you taught me . 	Co jsi mě ty naučil . 
+292	I never taught you to be a thief . 	Nikdy jsem tě neučil , abys byl zlodějem . 
+293	No , you taught me to navigate people 's minds . 	Ne , učil jsi mě , abych lidem ukazoval cestu . 
+294	But after what happened ... 	Ne , učil jsi mě , abych lidem ukazoval cestu . 
+295	there were n't a whole lot of legitimate ways for me to use that skill . 	Ale potom , co stalo , se objevily mnohem rozumnější možnosti , jak téhle dovednosti využít . 
+296	What are you doing here , Dom ? 	Co tady děláš , Dome ? 
+297	I think I found a way home . 	Myslím , že jsem našel cestu domů . 
+298	It 's a job for some very , very powerful people . 	Je to práce pro jedny velmi mocné lidi . 
+299	People who I believe can fix my charges permanently . 	Lidi , kteří by mi mohli nadobro vymazat rejstřík . 
+300	But I need your help . 	Potřebuju tvou pomoc . 
+301	You 're here to corrupt one of my brightest and best . 	Jsi tu , abys zkazil jednoho z mých nejtalentovanějších studentů . 
+302	You know what I m offering . 	Víš , co nabízím . 
+303	Let them decide for themselves . 	Musíš je nechat , aby se sami rozhodli . 
+304	- Money . 	Peníze . 
+305	- Not just money . 	Peníze . 
+306	You remember . 	Peníze . 
+307	It 's the chance to build cathedrals , entire cities ... 	Je to příležitost stavět katedrály , celá města . 
+308	things that never existed ... 	Věci které nikdy neexistovaly . 
+309	things that could n't exist in the real world . 	Věci , které by ve skutečném světě existovat nemohly . 
+310	So you want me to let someone else follow you into your fantasy ? 	Takže já mám nechat někoho jiného , aby tě následoval do tvého snu . 
+311	They do n't actually come into the dream . 	Oni do něho ani nevstoupí , 
+312	They just design the levels and teach them to the dreamers . 	jen navrhnou úrovně a představí je těm , co sní . 
+313	That 's all . 	
+314	Design it yourself . 	Navrhni si je sám . 
+315	Mal wo n't let me . 	Mal mi to nedovolí . 
+316	Come back to reality , Dom . 	Vrať se do skutečného světa , Dome . 
+317	- Please . 	Prosím . 
+318	- Reality . 	Skutečný svět ... 
+319	Those kids , your grandchildren ... 	Ty děti , tvá vnoučata , 
+320	they 're waiting for their father to come back home . 	čekají , až se jim domů vrátí táta . 
+321	That 's their reality . 	To je jejich svět . 
+322	And this job , this last job , that 's how I get there . 	A tahle práce . 
+323	I would not be standing here if I knew any other way . 	Tenhle poslední úkol mě k nim dostane . Nestál bych tu , kdybych věděl , že to jde jinak . 
+324	I need an architect who 's as good as I was . 	Potřebuju architekta , který je stejně dobrý , jako jsem byl kdysi já . 
+325	I 've got somebody better . 	Mám někoho lepšího . 
+326	Ariadne ? 	Ariadne ! 
+327	I 'd like you to meet Mr . Cobb . 	Chtěl bych vám představit pana Cobba . 
+328	Pleased to meet you . 	Chtěl bych vám představit pana Cobba . 
+329	If you have a few moments , Mr . Cobb has a job offer he 'd like to discuss with you . 	Těší mě . Pokud máte chvilku , pan Cobb by s vámi rád probral pracovní nabídku . 
+330	A work placement ? 	Nějaká rychlá nabídka ? 
+331	Not exactly . 	Nějaká rychlá nabídka ? 
+332	I have a test for you . 	Ne tak úplně . Mám pro vás test . 
+333	You 're not gonna tell me anything first ? 	Nic mi o té práci předem neřeknete ? 
+334	Before I describe the job , I have to know you can do it . 	Než vám tu práci vysvětlím , musím vědět , že na to máte . 
+335	- Why ? 	Proč ? Není tak úplně legální . 
+336	- It s not , strictly speaking , legal . 	
+337	You have two minutes to design a maze that it takes one minute to solve . 	Máte dvě minuty na to , abyste vymyslela bludiště , 
+338	Stop . 	Přestaňte . 
+339	Again . 	Znovu . 
+340	Stop . 	Přestaňte . 
+341	You 're gonna have to do better than that . 	Musíte se víc snažit . 
+342	That 's more like it . 	To už je lepší . 
+343	They say we only use a fraction of our brain 's true potential . 	Říká se , že využíváme jen zlomek potenciálu našeho mozku . 
+344	Now , that 's when we 're awake . 	Ale to platí , když jsme vzhůru . 
+345	When we 're asleep , our mind can do almost anything . 	Když spíme , naše mysl je schopna čehokoliv . 
+346	Such as ? 	Když spíme , naše mysl je schopna čehokoliv . 
+347	Imagine you 're designing a building . 	Třeba ? Představte si , že projektujete budovu kousek po kousku . 
+348	You consciously create each aspect . 	
+349	But sometimes , it feels like it 's almost creating itself , if you know what I mean . 	Ale občas máte pocit , že vzniká sama , jestli mě chápete ? 
+350	Yeah , like I 'm discovering it . 	Jo , jako bych ji objevovala . 
+351	Genuine inspiration , right ? 	Prostá inspirace . 
+352	Now , in a dream , our mind continuously does this . 	Ve snu tohle naše mysl dělá pořád . 
+353	We create and perceive our world simultaneously . 	Tvoříme a vnímáme náš svět současně . 
+354	And our mind does this so well that we do n't even know it 's happening . 	A naše mysl to dělá tak dobře , že o tom ani nevíme . 
+355	That allows us to get right in the middle of that process . 	To nám dovoluje , abychom se dostali přímo doprostřed toho dění . 
+356	- How ? 	Jak ? 
+357	- By taking over the creating part . 	Jak ? 
+358	Now , this is where I need you . 	Jak ? 
+359	You create the world of the dream . 	Tím , že se ujmeme kreativní části . A pro to vás potřebuju . Vytvoříte svět snu . 
+360	We bring the subject into that dream , and they fill it with their subconscious . 	Subjekt do toho snu vezmete a ten ho naplní svým podvědomím . 
+361	How could I ever acquire enough detail to make them think that it 's reality ? 	Jak si dokážu osvojit dostatek detailů , aby to pokládali za skutečnost ? 
+362	Well , dreams , they feel real while we 're in them , right ? 	Sny nám připadají skutečné , když jsme v nich , je to tak ? 
+363	It 's only when we wake up that we realize something was actually strange . 	Až po probuzení si uvědomíme , že na nich bylo něco zvláštního . 
+364	Let me ask you a question . 	Na něco se vás zeptám . 
+365	You never really remember the beginning of a dream , do you ? 	Nikdy si ve skutečnosti nepamatujete začátek snu , že ? 
+366	You always wind up right in the middle of what 's going on . 	Vždycky se objevíte uprostřed dění . 
+367	I guess , yeah . 	Asi ano . 
+368	So how did we end up here ? 	Asi ano . 
+369	Well , we just came from the , uh ... 	Tak , jak jsme se ocitli tady ? Právě jsme přišli z ... 
+370	Think about it , Ariadne . 	Přemýšlejte , Ariadne . 
+371	How did you get here ? 	Jak jste se sem dostala ? 
+372	Where are you right now ? 	Kde teď jste ? 
+373	We 're dreaming ? 	Sníme ? 
+374	You 're in the middle of the workshop , sleeping . 	Sníme ? 
+375	This is your first lesson in shared dreaming . 	Vlastně zrovna spíte v dílně . Tohle je vaše první lekce sdíleného snu . Buďte klidná . 
+376	Stay calm . 	
+377	If it 's just a dream , then why are you -- ? 	Jestli je to jenom sen , tak proč si kryjete ... 
+378	Because it 's never just a dream , is it ? 	Protože to nikdy není pouhý sen , že ano ? 
+379	And a face full of glass hurts like hell . 	Střepy v obličeji bolí jako čert . 
+380	When you 're in it , it feels real . 	Ve snu to berete jako realitu . 
+381	That 's why the military developed dream sharing . 	Proto armáda vyvinula tréninkový program na sdílení snů . 
+382	It was a training program for soldiers to shoot , stab and strangle each other ... 	Proto armáda vyvinula tréninkový program na sdílení snů . 
+383	and then wake up . 	Vojáci se střílí , bodají a škrtí ve snu , a pak se probudí . 
+384	How did architects become involved ? 	Jak do toho zapadají architekti ? 
+385	Well , someone had to design the dreams , right ? 	Někdo musel vymyslet design snů , že ? 
+386	Why do n't you give us another five minutes ? 	Zkusíme ještě 5 minut ? 
+387	Five minutes ? 	5 minut ? Povídali jsme si tam nejméně hodinu ! 
+388	What -- ? 	
+389	We were talking for , like , at least an hour . 	
+390	In a dream , your mind functions more quickly ... 	Ve snu vaše mysl pracuje o hodně rychleji , 
+391	therefore time seems to feel more slow . 	proto se čas zdá být pomalejší . 
+392	Five minutes in the real world gives you an hour in the dream . 	5 minut zde se vám ve snu zdá jako hodina . 
+393	Why do n't you see what you can get up to in five minutes ? 	Pojďte zkusit , co zvládnete za 5 minut . 
+394	You 've got the basic layout . 	Tohle je běžná scenérie . 
+395	Bookstore , café . 	Knihkupectví , kavárna , vše ostatní tu je taky . 
+396	Almost everything else is here too . 	Knihkupectví , kavárna , vše ostatní tu je taky . 
+397	Who are the people ? 	Kdo jsou ti lidé ? 
+398	- Projections of my subconscious . 	Projekce mého podvědomí . 
+399	- Yours ? 	Vašeho ? 
+400	- Yes . 	Ano . 
+401	Remember , you are the dreamer . 	Nezapomeňte , to vy sníte a vy stavíte tento svět . 
+402	You build this world . 	
+403	I am the subject . 	Já jsem subjekt a moje mysl jej zabydluje . 
+404	My mind populates it . 	
+405	You can literally talk to my subconscious . 	Můžete doslova mluvit s mým podvědomím , 
+406	That 's one of the ways we extract information from the subject . 	takto vždycky extrahujeme myšlenky ze subjektu . 
+407	How else do you do it ? 	Co ještě děláte ? 
+408	By creating something secure , like a bank vault or a jail . 	Vytváříme něco ukrytého , něco jako bankovní trezor ukrytý v podvědomí , 
+409	The mind automatically fills it with information it 's trying to protect . 	kam automaticky ukrýváme informace , co chceme ochránit . 
+410	- You understand ? 	kam automaticky ukrýváme informace , co chceme ochránit . 
+411	- Then you break in and steal it ? 	Pak se tam vloupáte a ukradnete je . 
+412	Well ... 	Pak se tam vloupáte a ukradnete je . 
+413	I guess I thought that the dream space would be all about the visual ... 	Myslela jsem si , že snová fáze bude spíše o vizuálnosti , 
+414	but it 's more about the feel of it . 	ale je to spíše o pocitech . 
+415	My question is what happens when you start messing with the physics of it all ? 	Zajímá mě , co se stane , když si začneme hrát s fyzikou ? 
+416	It 's something , is n't it ? 	To je tedy něco , že ? 
+417	Yes , it is . 	To je . 
+418	Why are they all looking at me ? 	Proč se na mě všichni dívají ? 
+419	Because my subconscious feels that someone else is creating this world . 	Protože moje podvědomí cítí , že někdo další tvoří tento svět . 
+420	The more you change things , the quicker the projections start to converge on you . 	Čím více věci měníte , tím rychleji se projekce sbíhají . 
+421	Converge ? 	Sbíhají ? 
+422	They sense the foreign nature of the dreamer . 	Sbíhají ? 
+423	They attack , like white blood cells fighting an infection . 	Cítí tu cizího architekta snu . Je to jako když se bílé krvinky brání nemoci . 
+424	- What , they 're gonna attack us ? 	Napadnou nás ? 
+425	- No , no . 	Nás ne . 
+426	Just you . 	Jen vás . 
+427	This is great , but I m telling you , if you keep changing things like this ... 	Působivé , ale pokud budete takto měnit věci ... 
+428	Jeez , mind telling your subconscious to take it easy ? 	Nechcete říct svému podvědomí , ať se uklidní ? 
+429	It 's my subconscious . 	Vždyť je to moje podvědomí , nemůžu ho ovládat . 
+430	Remember ? 	
+431	I ca n't control it . 	
+432	Very impressive . 	Velmi působivé . 
+433	I know this bridge . 	Tenhle most znám ! 
+434	This place is real , is n't it ? 	To místo je skutečné , že ? 
+435	Yeah , I cross it every day to get to the college . 	Jo , chodím tudy denně na vysokou . 
+436	Never re-create places from your memory . 	Nikdy netvořte věci podle vzpomínek . 
+437	Always imagine new places . 	Vždy tvořte nové ! 
+438	You draw from stuff you know , right ? 	Máme kreslit věci , co známe , ne ? 
+439	Only use details . 	Ale jen detaily , uliční lampy , telefonní budky , nikdy ne celky ! 
+440	A streetlamp or a phone booth . 	
+441	Never entire areas . 	
+442	- Why not ? 	Proč ne ? 
+443	- Building a dream from your memory ... 	Když stavíte sen podle vzpomínek , ztratíte pojem o tom , 
+444	is the easiest way to lose your grasp on what 's real and what is a dream . 	Když stavíte sen podle vzpomínek , ztratíte pojem o tom , 
+445	- Is that what happened to you ? 	To se stalo vám ? 
+446	- Listen to me . 	To se stalo vám ? 
+447	This has nothing to do with me , understand ? 	To se stalo vám ? 
+448	That why you need me to build your dreams ? 	To proto vám mám sny budovat já ? 
+449	Hey , get off of her . 	Dejte si odchod . 
+450	Back up . 	Nechte jí ! 
+451	Back up . 	Zpátky ! 
+452	- Cobb ! 	Zpátky ! 
+453	Cobb ! 	Ne ! 
+454	- Get off of her ! 	
+455	- Let me go ! 	Mal ! 
+456	Let me go ! 	
+457	- Mal ! 	
+458	- Mal ! 	Mal ! 
+459	- Cobb ! 	Probuďte mě ! 
+460	Wake me up ! 	Probuďte mě ! 
+461	- Wake me up ! 	Probuďte mě ! 
+462	Wake me up ! 	Mal , ne ! 
+463	- No ! 	Mal , ne ! 
+464	- Mal , no ! 	Mal , ne ! 
+465	No ! 	Probuďte mě ... 
+466	- Wake me up ! 	
+467	Hey , hey , hey . 	Hele , hele , podívejte se na mě . 
+468	Look at me . 	Už je to dobrý . 
+469	You 're okay . 	Dobrý . 
+470	You 're okay . 	
+471	- Hey . 	Proč ... 
+472	- Why would n't I wake up ? 	proč jsem se neprobudila ? 
+473	There was still time on the clock . 	Ještě zbýval čas . 
+474	You ca n't wake up from within the dream unless you die . 	Ještě zbýval čas . 
+475	-- She 'll need a totem . 	Ukažte mi totem . 
+476	- What ? 	Ukažte mi totem . 
+477	A totem , it 's a small personal -- 	Ukažte mi totem . 
+478	That 's some subconscious you 've got on you , Cobb ! 	Totem je malý osobní ... 
+479	- She 's a real charmer . 	Máte moc hezké podvědomí , Cobbe ! 
+480	- Oh . 	Ona je fakt okouzlující ! 
+481	- I see you met Mrs . Cobb . 	Aha , tak jste se setkala s paní Cobbovou . 
+482	- She 's his wife ? 	To je jeho žena ? 
+483	Yeah . 	Jo . Takže totem je malý předmět , co musíte mít pořád u sebe . 
+484	So a totem . 	
+485	You need a small object , potentially heavy . 	
+486	Something you can have on you that no one else knows . 	Nikdo jiný ho nebude znát . 
+487	- Like a coin ? 	Nikdo jiný ho nebude znát . 
+488	- No . 	Jako mince ? 
+489	It needs to be more unique than that . 	Ne , něco víc jedinečného . Tohle je moje cinknutá kostka . 
+490	Like , this is a loaded die . 	
+491	No , I ca n't let you touch it . 	Nemůžu vás nechat se toho dotknout . 
+492	That would defeat the purpose . 	
+493	See , only I know the balance and the weight of this particular loaded die . 	Jen já znám její váhu . 
+494	That way , when you look at your totem ... 	Když uvidíte svůj totem , poznáte , že určitě nejste v něčím snu . 
+495	you know beyond a doubt that you 're not in someone else 's dream . 	Když uvidíte svůj totem , poznáte , že určitě nejste v něčím snu . 
+496	I do n't know if you ca n't see what 's going on , or if you just do n't want to ... 	Nevím , jestli nevidíte , či nechcete vidět , co se děje ? 
+497	but Cobb has some serious problems that he 's tried to bury down there . 	Cobb má vážný problém , který se tam dole snaží utajit . 
+498	And I m not about to just open my mind to someone like that . 	A já někomu takovému jen tak neotevřu svou mysl . 
+499	She 'll be back . 	Vrátí se , nikdy jsem nikoho neviděl tak rychle to pochopit . 
+500	I 've never seen anyone pick it up that quickly before . 	
+501	Reality 's not gonna be enough for her now , and when she comes back ... 	Realita jí nebude brzy stačit , až se vrátí . 
+502	When she comes back , you 're gonna have her building mazes . 	Až se vrátí , navrhne nám bludiště . 
+503	- Where are you gonna be ? 	Co budeš dělat ? 
+504	- I gotta go visit Eames . 	Musíme zajet za Eamesem . 
+505	Eames ? 	Eamesem ? 
+506	No , he 's in Mombasa . 	Je v Mombase . 
+507	It 's Cobol 's back yard . 	To je útočiště Cobolu . 
+508	It 's a necessary risk . 	Je to nutný risk . 
+509	- Well , there 's plenty of good thieves . 	Je hodně dobrých zlodějů . 
+510	- We do n't just need a thief . 	Nepotřebujeme jen zloděje . 
+511	We need a forger . 	Potřebujeme padělatele . 
+512	Rub them together all you want , they 're not gonna breed . 	Ať je budeš hladit jakkoliv , nerozmnoží se ti . 
+513	You never know . 	Ať je budeš hladit jakkoliv , nerozmnoží se ti . 
+514	I 'm gonna get you a drink . 	To nikdy nevíš . Pojď na panáka . 
+515	You 're buying . 	Platíš . 
+516	- Your spelling has n't improved . 	Slabiky ti pořád moc nejdou . 
+517	- Piss off . 	Slabiky ti pořád moc nejdou . 
+518	How 's your handwriting ? 	Slabiky ti pořád moc nejdou . 
+519	- It s versatile . 	Nejlepší možné . 
+520	- Good . 	Nejlepší možné . 
+521	Thank you very much . 	Nejlepší možné . 
+522	Inception . 	Vnuknutí . 
+523	Now , before you bother telling me it 's impossible , let me-- 	A než mi začneš vysvětlovat , že je to nemožné ... 
+524	No , it 's perfectly possible . 	Ne , je to možné , ale je to hodně těžké . 
+525	It 's just bloody difficult . 	
+526	Interesting . 	Arthur mi pořád říká , že to nejde . 
+527	Because Arthur keeps telling me it ca n't be done . 	
+528	Hmm . 	Aha , Arthur . 
+529	Arthur . 	Pořád s ním děláš ? 
+530	You still working with that stick in the mud ? 	
+531	He is good at what he does , right ? 	V tom co dělá , je dobrý , ne ? 
+532	Oh , he 's the best , but he has no imagination . 	Je nejlepší . Nemá žádnou představivost . Na rozdíl od tebe . 
+533	Not like you . 	
+534	Listen , if you 're gonna perform inception , you need imagination . 	Poslyš , jestli chceš provést vnuknutí , potřebuješ představivost . 
+535	Let me ask you something . 	Na něco se tě zeptám . 
+536	Have you done it before ? 	Už jsi to udělal ? 
+537	We tried it . 	Zkusili jsme to , zasadili jsme myšlenku , 
+538	Uh , we got the idea in place , but it did n't take . 	ale neujala se . 
+539	- You did n't plant it deep enough ? 	Neusadili jste ji hluboko ? Nejde jen o hloubku , 
+540	- No , it 's not just about depth . 	
+541	You need the simplest version of the idea ... 	potřebuješ nejjednodušší verzi myšlenky , 
+542	in order for it to grow naturally in your subject 's mind . 	aby přirozeně rostla v podvědomí subjektu . 
+543	It s a subtle art . 	Mysl je křehká . 
+544	So , what is this idea that you need to plant ? 	Tak jakou myšlenku chceš zasít ? 
+545	We need the heir of a major corporation to dissolve his father 's empire . 	Dědic ohromné otcovy korporace ji musí rozpustit . 
+546	Right there you have various political motivations ... 	Musíš zasít spoustu politických motivací a zabránit myšlenkám na manipulaci . 
+547	and anti-monopolistic sentiments and so forth . 	Musíš zasít spoustu politických motivací a zabránit myšlenkám na manipulaci . 
+548	But all of that stuff , it 's , um ... 	Musíš zasít spoustu politických motivací a zabránit myšlenkám na manipulaci . 
+549	It 's really at the mercy of your subject 's prejudice , you see ? 	A subjekt může udělat cokoliv . 
+550	What you have to do is start at the absolute basic . 	Musíš se zaměřit na to nejjednodušší . 
+551	Which is what ? 	Musíš se zaměřit na to nejjednodušší . 
+552	The relationship with the father . 	Jeho vztah s otcem . 
+553	- Do you have a chemist ? 	Máš chemika ? 
+554	- No , not yet . 	Ještě ne . 
+555	Right . 	Nevadí . 
+556	Okay , well , there 's a man here , Yusuf . 	Je tu jeden chlápek , Yusuf . 
+557	He , uh , formulates his own versions of the compounds . 	Míchá si směsi sám . 
+558	Why do n't you take me there ? 	Míchá si směsi sám . 
+559	Once you 've lost your tail . 	Vezmeš mě tam ? 
+560	The man at the bar . 	Až se zbavíš toho stínu . 
+561	Cobol Engineering . 	Chlap na baru . 
+562	That price on my head , was that dead or alive ? 	Je z Cobol Engineering . Jaká je asi cena na moji hlavu ? Chtějí mě živého , nebo mrtvého ? 
+563	Do n't remember . 	Nevím . 
+564	Let 's see if he starts shooting . 	Uvidíme , jestli začne střílet . 
+565	Run interference . 	Odlákej ho . 
+566	I 'll meet you downstairs in the bar in , say , uh , half an hour ? 	Sejdeme se dole v baru za půl hodiny . 
+567	- Back here ? 	Zase tady ? 
+568	- This is the last place they 'd suspect . 	Pod svícnem je tma . 
+569	All right . 	Fajn . 
+570	Freddy . 	Freddy ? 
+571	Freddy Simmonds . 	Freddy Simmons ? 
+572	My God , it 's you , is n't it ? 	Propána , jsi to ty ? 
+573	No , it is n't you . 	Asi nejsi . 
+574	Not dreaming now , are you ? 	Teď snad nespíš , co ? 
+575	Get him ! 	
+576	There ! 	
+577	One café . 	Kafe ... 
+578	Shh . 	
+579	One café . 	
+580	One café . 	Kávu ! 
+581	Care for a lift , Mr . Cobb ? 	Nastoupíte , pane Cobbe ? 
+582	- What are you doing in Mombasa ? 	Co děláte v Mombase ? 
+583	- I m here to protect my investment . 	Musím chránit svou investici . 
+584	Ah . 	Takže takhle se zbavuješ stínu ? 
+585	So this is your idea of losing a tail , huh ? 	
+586	Different tail . 	Jiný stín . 
+587	Cobb said you 'd be back . 	Cobb říkal , že se vrátíte . 
+588	- I tried not to come , but ... 	Nechtěla jsem přijít , ale ... 
+589	- But there 's nothing quite like it . 	Nic se tomuhle nevyrovná , co ? 
+590	It 's just ... 	Nic se tomuhle nevyrovná , co ? 
+591	pure creation . 	ryzí tvoření . 
+592	Shall we take a look at some paradoxical architecture ? 	Zkusíme paradoxní architekturu ? 
+593	You 're gonna have to master a few tricks ... 	Musíte ovládat jisté triky , 
+594	if you 're gonna build three complete dream levels . 	když chcete vytvořit tři úrovně snů . 
+595	Excuse me . 	
+596	What kind of tricks ? 	Jaké triky ? 
+597	In a dream , you can cheat architecture into impossible shapes . 	Ve snu můžete fixlovat s architekturou a tvořit nemožné tvary . 
+598	That lets you create closed loops , like the Penrose Steps . 	Tvořit uzavřené smyčky . Jako schody Penrose . 
+599	The infinite staircase . 	
+600	See ? 	Vidíte ? 
+601	Paradox . 	Paradox . 
+602	So a closed loop like that ... 	Tyto uzavřené smyčky vám pomůžou překonat hranice tvůrce snů . 
+603	will help you disguise the boundaries of the dream you create . 	Tyto uzavřené smyčky vám pomůžou překonat hranice tvůrce snů . 
+604	But how big do these levels have to be ? 	Jak velké můžou být ty smyčky ? 
+605	It could be anything from the floor of a building to an entire city . 	Může to být patro domu stejně jako celé město . 
+606	They have to be complicated enough that we can hide from the projections . 	Musí ale být dostatečně složité , abychom se ukryli před projekcemi . 
+607	- A maze ? 	Bludiště ? 
+608	- Right , a maze . 	Bludiště ? 
+609	And the better the maze ... 	Bludiště ? 
+610	Then the longer we have before the projections catch us ? 	Abychom měli dost času , než nás dostihnou projekce ? 
+611	Exactly . 	Ano . 
+612	- My subconscious seems polite enough . 	Proč je vaše podvědomí tak slušné ? 
+613	- Ha , ha . 	Nebojte , zhorší se to . 
+614	You wait , they 'll turn ugly . 	
+615	No one likes to feel someone else messing around in their mind . 	Nikdo nemá rád , když se mu někdo hrabe v mysli . 
+616	Cobb ca n't build anymore , can he ? 	Cobb už nemůže tvořit , že ? 
+617	I do n't know if he ca n't , but he wo n't . 	Nevím jestli nemůže , ale nechce . 
+618	He thinks it 's safer if he does n't know the layouts . 	Myslí , že je bezpečnější , když nezná plány . 
+619	Why ? 	Myslí , že je bezpečnější , když nezná plány . 
+620	He wo n't tell me . 	Proč ? To mi neřekl . Asi jde o Mal . 
+621	But I think it 's Mal . 	Jeho exmanželku ? 
+622	- His ex-wife ? 	Jeho exmanželku ? 
+623	- No , not his ex . 	Není to exmanželka . 
+624	- They 're still together ? 	Není to exmanželka . 
+625	- No . 	Tak jsou pořád spolu ? 
+626	No , she 's dead . 	Ne . Je mrtvá . 
+627	What you see in there is just his projection of her . 	Vidí jen její projekci . 
+628	What was she like in real life ? 	Jaká byla živá ? 
+629	She was lovely . 	Jaká byla živá ? 
+630	- You are seeking a chemist ? 	Hledáte chemika ? 
+631	- Yes . 	Ano . 
+632	To formulate compounds for a job ? 	Chcete namíchat směs na úkol ? 
+633	And to go into the field with us . 	Chcete namíchat směs na úkol ? 
+634	No , I rarely go into the field , Mr . Cobb . 	Ano a navíc do toho půjdete s námi . Pane Cobbe , já do akcí nechodím . 
+635	Well , we 'd need you there to tailor compounds specific to our needs . 	Potřebujeme vás tam , abyste namíchal směs přesně dle potřeby . 
+636	- Which are ? 	A ty jsou jaké ? 
+637	- Great depth . 	A ty jsou jaké ? 
+638	A dream within a dream ? 	A ty jsou jaké ? 
+639	Two levels ? 	Velká hloubka . Sen ve snu ? Dvě úrovně ? 
+640	Three . 	Tři . 
+641	Not possible . 	Tři . 
+642	That many dreams within dreams is too unstable . 	To nejde . Tolik snů ve snu , to je moc nestabilní . 
+643	It is possible . 	Jde to . 
+644	You just have to add a sedative . 	Potřebujeme sedativum . 
+645	A powerful sedative . 	Potřebujeme sedativum . 
+646	- How many team members ? 	Kolik členů týmu ? 
+647	- Five . 	5 . 
+648	Six . 	6 . 
+649	The only way to know you 've done the job is if I go in with you . 	Jedině když půjdu taky , budu vědět , že jste splnil úkol . 
+650	There 's no room for tourists on a job like this , Mr . Saito . 	Při takovém úkolu není místo pro turisty , pane Saito . 
+651	This time , it seems there is . 	Při tomto tam zjevně místo je . 
+652	This , I think , is a good place to start . 	Tohle je dobrá směs pro začátek . 
+653	I use it every day . 	Používám ji každý den . 
+654	What for ? 	Používám ji každý den . 
+655	- Here , I 'll show you . 	Na co ? 
+656	Perhaps you will not want to see . 	Možná to ale nechcete vidět . 
+657	After you . 	Po vás . 
+658	Ten . 	Co se to tu provádí ? 
+659	Twelve . 	
+660	All connected . 	
+661	Bloody hell . 	
+662	They come every day to share the dream . 	Chodí sem každý den , aby sdíleli sny . 
+663	You see ? 	Vidíte ? 
+664	Very stable . 	Velmi stabilní . 
+665	- How long do they dream for ? 	Jak dlouho sní ? 
+666	- Three , four hours , each day . 	Každý den 3 , 4 hodiny . 
+667	In dream time ? 	A doba snu , s touto směsí ? 
+668	With this compound ? 	A doba snu , s touto směsí ? 
+669	About 40 hours , each and every day . 	40 hodin denně . 
+670	- Why do they do it ? 	Proč to dělají ? 
+671	- Tell him , Mr . Cobb . 	Povězte mu to , pane Cobbe . 
+672	After a while , it becomes the only way you can dream . 	Po určité době , je to jediný způsob , jak mít sny . 
+673	Do you still dream , Mr . Cobb ? 	Ještě sníte , pane Cobbe ? 
+674	- They come here every day to sleep ? 	Chodí sem každý den , aby mohli snít ? 
+675	- No . 	Ne . 
+676	They come to be woken up . 	Chodí sem , aby se mohli probudit . 
+677	The dream has become their reality . 	Sen se stal jejich realitou . 
+678	Who are you to say otherwise , sir ? 	Kdo jste vy , že tvrdíte opak ? 
+679	Let 's see what you can do . 	Zjistíme , co dokážete . 
+680	You know how to find me . 	Víš , jak mě najít . 
+681	You know what you have to do . 	Víš , co musíš udělat . 
+682	Sharp , no ? 	Takhle by to šlo ? 
+683	Are you all right , Mr . Cobb ? 	Není vám nic , pane Cobbe ? 
+684	Yeah , yeah . 	Ne , jsem v pořádku . 
+685	Everything 's just fine . 	
+686	Robert Fischer , heir to the Fischer Morrow energy conglomerate . 	Robert Fischer . 
+687	What 's your problem with this Mr . Fischer ? 	Dědic energetického impéria Fischer-Morrow . 
+688	That 's not your concern . 	Co máte s tímhle panem Fischerem za problém ? 
+689	Mr . Saito , this is n't your typical corporate espionage . 	To není vaše starost . Pane Saito , tady se nejedná o běžnou průmyslovou špionáž . 
+690	You asked me for inception . 	Žádáte mě o vnuknutí . 
+691	I do hope you understand the gravity of that request . 	Žádáte mě o vnuknutí . 
+692	Now , the seed that we plant in this man 's mind will grow into an idea . 	vážnosti takového požadavku . Semínko , které zasadíme do mysli tohoto muže , vyroste 
+693	This idea will define him . 	do názoru , který ho bude definovat . 
+694	It may come to change ... 	Mohl by změnit celou jeho osobnost . 
+695	Well , it may come to change everything about him . 	Mohl by změnit celou jeho osobnost . 
+696	We 're the last company standing between them and total energy dominance . 	Jsme poslední společností , která je dělí od světového monopolu . 
+697	And we can no longer compete . 	Už s nimi nemůžeme soupeřit . 
+698	Soon , they 'll control the energy supply of half the world . 	Takže budou kontrolovat energetické zásoby po celém světě . 
+699	In effect , they become a new superpower . 	A stanou se tak novou supervelmocí . 
+700	The world needs Robert Fischer to change his mind . 	Svět potřebuje , aby Robert Fischer změnil svůj názor . 
+701	That 's where we come in . 	A to bude na nás . 
+702	How is Robert Fischer 's relationship with his father ? 	Jaký má Robert Fischer vztah se svým otcem ? 
+703	Rumor is the relationship is quite complicated . 	Říká se , že mají hodně komplikovaný vztah . 
+704	Well , we ca n't work based solely on rumor , can we ? 	Co se říká , nám ale zrovna stačit nebude , že ano ? 
+705	Can you get me access to this man here ? 	Můžete mi zařídit přistup k tomuto muži ? 
+706	Browning . 	Browning . 
+707	Fischer Senior 's right-hand man . 	Browning . 
+708	Fischer Junior 's godfather . 	Pravá ruka Fischera staršího . 
+709	It should be possible , if you can get the right references . 	Robertův kmotr . Mělo by to jít zařídit . Pokud získáte správné reference . 
+710	References are something of a specialty for me , Mr . Saito . 	Reference jsou moje specialita , pane Saito . 
+711	I 'm not smelling settlement here . 	Nevidím tu vyrovnání . 
+712	Take them down . 	Nevidím tu vyrovnání . 
+713	Mr . Browning ... 	Nevidím tu vyrovnání . 
+714	Maurice Fischer 's policy is always one of avoiding litigation . 	Maurice Fischer se vždy snaží vyhnout soudní při . 
+715	Well , shall we voice your concerns with Maurice directly ? 	Máme o vašich obavách uvědomit přímo Maurice ? 
+716	Not sure that 's necessary . 	To nebude nutné . 
+717	No , no , no . 	To nebude nutné . 
+718	I think we should . 	Ne , myslím , že bychom měli . 
+719	How is he ? 	Jak je mu ? 
+720	I do n't want to bother him unnecessarily , but -- 	Nechci ho zbytečně rušit , ale ... 
+721	Robert , I told you keep out the damn -- Wait . 	Roberte , neříkal jsem ti , ať se držíš dál od města ? 
+722	So do it . 	
+723	Get -- 	
+724	- Mr . Fischer . 	
+725	- Put it through . 	
+726	Never , never . 	Nikdy , nikdy mě neposlechneš ... 
+727	Never do the same as I asked . 	
+728	Leave that . 	
+729	Here . 	
+730	Must be a cherished memory of his . 	Musí to být jeho oblíbená vzpomínka . 
+731	I put it beside his bed . 	Musí to být jeho oblíbená vzpomínka . 
+732	He has n't even noticed . 	Dal jsem mu tu k posteli já . Ani si toho nevšimnul . Roberte ... 
+733	Robert ... 	
+734	we need to talk about a power of attorney . 	Musíme si promluvit o možnosti zbavení ho svéprávnosti . 
+735	- I know this is hard , but it 's imperative-- - Not now , Uncle Peter . 	Vím , že na to není nejlepší doba . 
+736	The vultures are circling . 	Supi už krouží . 
+737	And the sicker Maurice Fischer becomes , the more powerful Peter Browning becomes . 	Čím je Fischer slabší , tím je Peter Browning mocnější . 
+738	I 've had ample opportunity to observe Browning ... 	Měl jsem příležitost Browninga pozorovat . 
+739	and adopt his physical presence , study his mannerisms , and so on and so forth . 	Adoptoval jsem jeho zjev , osvojil si jeho zvyky a chování . 
+740	So now in the first layer of the dream , I can impersonate Browning . 	V první úrovni snu se tak můžu za Browninga vydávat . 
+741	And suggest concepts to Fischer 's conscious mind . 	A nadhodím Fischerovi myšlenku . 
+742	Then , when we take him a level deeper ... 	Když ho potom vezmeme o úroveň níž , 
+743	his own projection of Browning should feed that right back to him . 	jeho vlastní projekce Browninga by v něm tu myšlenku měla vyvolat . 
+744	So he gives himself the idea . 	Takže si tu myšlenku vnukne sám . 
+745	Precisely . 	Přesně tak . Jedině tak v něm zůstane . Musí na to přijít sám . 
+746	That 's the only way it will stick . 	
+747	It has to seem self-generated . 	
+748	Eames , I am impressed . 	Eamesi , ohromuješ mě . 
+749	Your condescension , as always , is much appreciated , Arthur , thank you . 	Tvůj souhlas je vždy vítán , Arthure . 
+750	Were you going under on your own ? 	Jdeš do snu sám ? 
+751	No , no , I was just , uh , running some experiments . 	Ne , jen provádím nějaké experimenty . 
+752	I did n't realize anyone was here , so ... 	Nevěděl jsem , že tu někdo je . 
+753	Yeah , I was just -- I was working on my totem , actually . 	Jo , vyráběla jsem si totem . 
+754	Here , let me take a look . 	Ukaž , podívám se . 
+755	So you 're learning , huh ? 	Učíš se rychle . 
+756	An elegant solution for keeping track of reality . 	Elegantní řešení , jak neztratit kontakt s realitou . 
+757	- Was it your idea ? 	Byl to tvůj nápad ? 
+758	- No , it was , uh ... 	Ne ... 
+759	It was Mal 's , actually . 	Vlastně na to přišla Mal . 
+760	This ... 	
+761	This one was hers . 	Tenhle byl její . 
+762	She would spin it in the dream and it would never topple . 	Když ji roztočila ve snu , nespadla . 
+763	Just spin and spin . 	Točila se dál a dál . 
+764	Arthur told me she passed away . 	Arthur mi řekl , že zemřela . 
+765	How are the mazes coming along ? 	Jak to jde s bludištěm ? 
+766	Each level relates to the part of the subject 's subconscious ... 	Každé patro se vztahuje k části podvědomí subjektu , 
+767	that we are trying to access . 	do které se snažíme vstoupit . 
+768	So I m making the bottom level a hospital , so Fischer will bring his father . 	Takže spodní patro je nemocnice , aby si tam Fischer vybavil svého otce . 
+769	You know , I -- Actually , I have a question about this layout . 	Vlastně se chci na tuhle úroveň zeptat . 
+770	No , no , no . 	Ne . Neukazuj mi specifické znaky . Jen spáč by měl znát scenérii . 
+771	Do n't show me specifics . 	
+772	Only the dreamer should know the layout . 	
+773	Why is that so important ? 	Proč je to tak důležité ? 
+774	In case one of us brings in our projections . 	Pro případ , že by někdo z nás přivedl své projekce . 
+775	We do n't want them knowing the details of the maze . 	Nechceme , aby znaly detaily bludiště . 
+776	You mean in case you bring Mal in . 	Pro případ , že by sis přivedl Mal , je to tak ? 
+777	You ca n't keep her out , can you ? 	Nedokážeš ji nevnášet do snu , že ? 
+778	- Right . 	Ne . 
+779	- You ca n't build ... 	Ne . 
+780	because if you know the maze , then she knows it . 	Ne . 
+781	Well , she 'd sabotage the whole operation . 	Nemůžeš stavět , protože když znáš bludiště ty , zná ho i ona . Sabotovala by celou akci . 
+782	- Cobb , do the others know ? 	Cobbe , ví o tom ostatní ? 
+783	- No . 	Ne . 
+784	No , they do n't . 	
+785	You 've gotta warn them if this is getting worse . 	Musíš je varovat , jestli se to zhoršuje . 
+786	No one said it 's getting worse . 	Musíš je varovat , jestli se to zhoršuje . 
+787	I need to get home . 	Potřebuju se dostat domů . 
+788	That 's all I care about right now . 	Na ničem jiném mi teď nezáleží . 
+789	Why ca n't you go home ? 	Proč nemůžeš jet domů ? 
+790	Because they think I killed her . 	Protože si myslí , že jsem ji zabil . 
+791	- Thank you . 	Děkuju . 
+792	- For what ? 	Za co ? 
+793	For not asking whether I did . 	Že se neptáš , jestli jsem to udělal . 
+794	I will split up my father 's empire . 	Že se neptáš , jestli jsem to udělal . 
+795		Že se neptáš , jestli jsem to udělal . 
+796	Now , this is obviously an idea that Robert himself would choose to reject ... 	Rozdělím otcovo impérium . Tohle je zjevně myšlenka , kterou by se sám Robert rozhodl zavrhnout . 
+797	which is why we need to plant it deep in his subconscious . 	Takže ji musíme zasadit hluboko do jeho podvědomí . 
+798	The subconscious is motivated by emotion , right ? 	Podvědomí je stimulováno emocemi , že ? 
+799	Not reason . 	Ne rozumem . 
+800	We need to find a way to translate this into an emotional concept . 	Z tohoto důvodu musíme zjistit , 
+801	How do you translate business strategy into emotion ? 	jak tohle přeměnit v emoci . 
+802	That 's what we 're here to figure out . 	Jak přeměníš obchodní strategii v emoci ? Na to musíme přijít . 
+803	Robert 's relationship with his father ... 	Robertův vztah s jeho otcem je přinejmenším napjatý . 
+804	- ... 	Robertův vztah s jeho otcem je přinejmenším napjatý . 
+805	is stressed , to say the least . 	To můžeme využít . 
+806	- Can we run with that ? 	To můžeme využít . 
+807	We suggest breaking up his father 's company as a screw you to the old man . 	To můžeme využít . 
+808	No , because I think positive emotion trumps negative emotion every time . 	Pomstí se otci tím , že zničí jeho impérium . Ne , myslím , že pozitivní emoce vždycky trumfne tu negativní . 
+809	We all yearn for reconciliation , for catharsis . 	Všichni usilujeme o smír , očistu . 
+810	We need Robert Fischer to have a positive emotional reaction to all this . 	Potřebujeme , aby Robert Fischer na to celé reagoval pozitivně . 
+811	All right , well , try this . 	Zkusím tohle : 
+812	Um ... 	
+813	My father accepts that I want to create for myself , not follow in his footsteps . 	Můj otec akceptuje , že nechci jít v jeho stopách a chci vytvořit něco svého . 
+814		
+815	That might work . 	To by mohlo fungovat . 
+816	Might ? 	To by mohlo fungovat . 
+817	We 're gonna need to do a little better than might . 	Mohlo ? 
+818		Budeme potřebovat něco jistějšího . 
+819	Thank you for your contribution , Arthur . 	Budeme potřebovat něco jistějšího . 
+820	Forgive me for wanting a little specificity , Eames . 	Díky za tvé přispění , Arthure . 
+821	Specificity ? 	Přesnějšího ? 
+822	Inception 's not about being specific . 	Přesnějšího ? 
+823	When we get inside his mind , we 're gonna have to work with what we find . 	Vnuknutí není o přesnosti . Jakmile se mu dostaneme do mysli , budeme muset pracovat s tím , co tam najdeme . 
+824	On the top level , we open up his relationship with his father ... 	V první úrovni nahlodáme vztah s jeho otcem . 
+825	and say , I will not follow in my father 's footsteps . 	V první úrovni nahlodáme vztah s jeho otcem . 
+826		V první úrovni nahlodáme vztah s jeho otcem . 
+827	Then the next level down , we feed him , I will create something for myself . 	Například : Nepůjdu ve stopách svého otce . 
+828		Například : Nepůjdu ve stopách svého otce . 
+829	Then , by the time we hit the bottom level , we bring out the big guns . 	Vytvořím něco svého . Ve chvíli , kdy se dostaneme do spodní úrovně , vytasíme největší trumfy . 
+830	- My father does n't want me to be him . 	Otec nechce , abych se stal jeho kopií . 
+831	- Exactly . 	Přesně . 
+832	Three layers down , the dreams are gonna collapse with the slightest disturbance . 	Ve třetí úrovni se sen zhroutí 
+833	Sedation . 	při nejmenším narušení . 
+834	For sleep stable enough to create three layers of dreaming ... 	Spánek pod sedativy . Dostatečně stabilní , aby udržel sen o třech úrovních . 
+835	we 'll have to combine it with an extremely powerful sedative . 	Musí to být velice silné sedativum . 
+836	Good night . 	Dobrou noc . 
+837	The compound we 'll be using to share the dream ... 	Dobrou noc . 
+838	creates a clear connection between dreamers ... 	Dobrou noc . 
+839	- ... 	Tahle směs vytvoří silné pouto mezi spáči . a urychlí fungování mozku . Jinými slovy nám dává víc času v každé úrovni . 
+840	whilst accelerating brain function . 	
+841	- In other words , more time on each level . 	
+842	Brain function in the dream will be about 20 times normal . 	Fungování mozku během snění bude asi 20x rychlejší než normálně . 
+843	And when you enter a dream within that dream , the effect is compounded . 	A když vejdeme do snu ve snu , 
+844	It 's three dreams , that 's 10 hours times 20 -- 	musíme násobit . 
+845	Math was never my strong subject . 	Tři sny , to je deset hodin , což ... Promiň , ale matika nikdy nebyla moje silná stránka . Kolik to bylo času ? 
+846	How much time is that ? 	
+847	It 's a week , the first level down . 	Týden v první úrovni . 
+848	Six months the second level down , and the third level -- 	Týden v první úrovni . 
+849	That 's 10 years . 	A v třetí úrovni ... 
+850	Who 'd wanna be stuck in a dream for 10 years ? 	Kdo by chtěl ve snu uvíznout na deset let ? 
+851	Depends on the dream . 	Kdo by chtěl ve snu uvíznout na deset let ? 
+852	So once we 've made the plant , how do we get out ? 	Záleží na snu . 
+853	I 'm hoping you have something more elegant than shooting me in the head . 	Takže , až splníme náš plán , jak se dostaneme ven ? Doufám , že jsi vymyslel něco příjemnějšího , než mě střelit do hlavy . 
+854	- A kick . 	Nakopnutí . 
+855	- What 's a kick ? 	Co to je ? 
+856	This , Ariadne , would be a kick . 	Tohle . 
+857	It 's that feeling of falling you get that jolts you awake . 	Pocit , že padáš , tě probere ze snu . 
+858	- Snaps you out of the dream . 	Pocit , že padáš , tě probere ze snu . 
+859	- We gonna feel a kick with this sedation ? 	Ucítíme to pod takovými sedativy ? 
+860	That 's the clever part . 	Ucítíme to pod takovými sedativy ? 
+861	I customized the sedative to leave inner-ear function unimpaired . 	Nebojte . Sedativum jsem upravil tak , aby funkce vnitřního ucha zůstala neporušená . 
+862	That way , however deep the sleep , the sleeper still feels falling . 	Takhle i v nejhlubším spánku ucítíme padání . 
+863	Or tipping . 	Nebo naklánění . 
+864	The trick is to synchronize a kick that can penetrate all three levels . 	Trik je v synchronizování nakopnutí tak , aby prošel všemi třemi úrovněmi . 
+865	We could use a musical countdown to synchronize the different kicks . 	Můžeme použít odpočítávání hudbou a tak ho synchronizujeme . 
+866	He has n't got any surgery scheduled , no dental , nothing . 	Neplánuje žádné kontroly u doktora nebo zubaře , nic takového . 
+867	Was n't he supposed to have a knee operation ? 	Neměl jít na operaci kolena ? 
+868	Nothing . 	Nic takového . Nic ho nepřinutí na tak dlouho vypnout . Jestli ho máme uspat , 
+869	Nothing that they 'll put him under for , anyway . 	
+870	And we need-- 	
+871	We need at least a good 10 hours . 	potřebujeme aspoň deset hodin . 
+872	Sydney to Los Angeles . 	potřebujeme aspoň deset hodin . 
+873	One of the longest flights in the world . 	Jeden z nejdelších letů na světě . 
+874	He makes it every two weeks . 	Absolvuje ho každé dva týdny . 
+875	He must be flying private , then . 	Musí létat soukromým letadlem . 
+876	Not if there were unexpected maintenance with his plane . 	Kdyby nastaly neplánové opravy , tak ne . 
+877	It would have to be a 747 . 	Musí to být 747 . 
+878	- Why 's that ? 	Proč ? 
+879	On a 747 , the pilot 's up top ... 	Protože pilot má kajutu v prvním patře a první třída létá v přední části , 
+880	the first-class cabin 's in the nose , so no one would walk through . 	Protože pilot má kajutu v prvním patře a první třída létá v přední části , 
+881	You 'd have to buy out the entire cabin and the first-class flight attendant . 	takže jí nikdo neprochází . Musíme vykoupit celou kajutu a podplatit letušku v byznys třídě . 
+882	I bought the airline . 	Koupil jsem celé aerolinky . 
+883	It seemed neater . 	Zdálo se mi to jednodušší . 
+884	Well , looks like we have our 10 hours . 	Zdá se , že máme našich deset hodin . 
+885	Ariadne ? 	Ariadne , abych nezapomněl , skvělá práce . 
+886	Terrific work , by the way . 	
+887	You know how to find me . 	Víš , jak mě najít . 
+888	You know what you have to do . 	Víš , co musíš udělat . 
+889	You remember when you asked me to marry you ? 	Vzpomínáš si , jak jsi mě požádal o ruku ? 
+890	Of course I do . 	Jistě , že si vzpomínám . 
+891	You said you had a dream . 	Řekl jsi , že jsi měl sen . 
+892	That we 'd grow old together . 	Jak spolu zestárneme . 
+893	And we can . 	Však zestárneme . 
+894	You should n't be here . 	Neměla bys tu být . 
+895	Just wanted to see what kind of tests you 're doing on your own every night . 	Jen jsem chtěla vědět , jaký test o půlnoci provádíš . 
+896	- This has nothing to do with you . 	To s tebou nemá nic společného . 
+897	- This has everything to do with me . 	Má to se mnou společné všechno . 
+898	- You 've asked me to share dreams with you . 	Mám s tebou sdílet sny . Ale ne tyhle . To jsou mé sny . 
+899	- Not these . 	
+900	These are my dreams . 	
+901	Why do you do this to yourself ? 	Proč se tak trápíš ? 
+902	It 's the only way I can still dream . 	Jedině takhle můžu ještě snít . 
+903	Why is it so important to dream ? 	Proč je snění tak důležité ? 
+904	In my dreams , we 're still together . 	V mých snech jsme stále spolu . 
+905	These are n't just dreams . 	Tohle nejsou jen sny . 
+906	These are memories . 	To jsou vzpomínky . 
+907	And you said never to use memories . 	To jsou vzpomínky . 
+908	I know I did . 	To jsou vzpomínky . 
+909	You 're trying to keep her alive . 	Vím , že jsem to řekl . Snažíš se ji udržet naživu . Nemůžeš na ni zapomenout . 
+910	You ca n't let her go . 	Tomu nerozumíš . 
+911	You do n't understand . 	Tomu nerozumíš . 
+912	These are moments I regret . 	Tohle jsou chvíle , kterých lituju . 
+913	They 're memories that I have to change . 	Tohle jsou chvíle , kterých lituju . 
+914	Well , what 's down there that you regret ? 	A co je tam dole , čeho lituješ ? 
+915	Listen , there 's only one thing you need to understand about me . 	Poslouchej . 
+916	This is your house ? 	Tohle je tvůj dům ? 
+917	Mine and Mal 's , yes . 	Tohle je tvůj dům ? 
+918	Where is she ? 	Kde je ? 
+919	She 's already gone . 	Kde je ? 
+920	That 's my son , James . 	To je můj syn , James . 
+921	He 's digging for something , maybe a worm . 	To je můj syn , James . 
+922	That 's Phillipa . 	To je Phillipa . 
+923	I thought about calling out to them ... 	To je Phillipa . 
+924	so they 'd turn and smile and I could see ... 	Přemýšlel jsem , že na ně zavolám . Oni by se otočili a usmáli a já bych viděl ... 
+925	those beautiful faces of theirs , but it 's all too late . 	ty jejich krásné tvářičky . 
+926	Right now or never , Cobb . 	... 
+927	Then I start to panic . 	A já jsem začal panikařit . 
+928	I realize I 'm gonna regret this moment ... 	A já jsem začal panikařit . 
+929	that I need to see their faces one last time . 	Že musím naposledy vidět jejich tváře . 
+930	James ! 	Že musím naposledy vidět jejich tváře . 
+931	Phillipa ! 	
+932	Come on in ! 	
+933	But the moment 's past . 	Ale ten okamžik je pryč . 
+934	And whatever I do , I ca n't change this moment . 	Ať dělám , co dělám , tohle se mi nedaří změnit . 
+935	As I m about to call out to them ... 	Chystám se na ně zavolat a oni utečou . 
+936	they run away . 	Chystám se na ně zavolat a oni utečou . 
+937	If I m ever gonna see their faces again , I 've gotta get back home . 	Jestli mám ještě někdy vidět jejich tváře , musím se vrátit domů . 
+938	The real world . 	Do skutečného světa . 
+939	What are you doing here ? 	Co tady děláš ? 
+940	My name is -- 	Co tady děláš ? 
+941	I know who you are . 	Jmenuju se ... Vím , kdo jsi . Co tady děláš ? 
+942	What are you doing here ? 	
+943	I 'm just trying to understand . 	Jen se to snažím pochopit . 
+944	How could you understand ? 	Jen se to snažím pochopit . 
+945	Do you know what it is to be a lover ? 	Víš , jaké to je milovat ? 
+946	To be half of a whole ? 	Být polovinou celku ? 
+947	No . 	Ne . 
+948	I 'll tell you a riddle . 	Ne . 
+949	You 're waiting for a train . 	Čekáš na vlak . 
+950	A train that will take you far away . 	Na vlak , který tě odveze daleko . 
+951	You know where you hope this train will take you ... 	Doufáš , že tě zaveze na jisté místo , 
+952	but you do n't know for sure . 	ale nevíš to jistě . 
+953	But it does n't matter . 	ale nevíš to jistě . 
+954	How can it not matter to you where that train will take you ? 	Jak by ti nemělo záležet na tom , kam tě zaveze ? 
+955	Because you 'll be together . 	Protože budeme spolu . 
+956	How could you bring her here , Dom ? 	Jak jsi ji sem mohl přivést , Dome ? 
+957	- What is this place ? 	Kde to jsme ? 
+958	This is a hotel suite where we used to spend our anniversary . 	V tomhle hotelovém apartmá jsme slavili naše výročí . 
+959	What happened here ? 	Co se tu stalo ? 
+960	You promised ! 	Slíbil jsi to ! 
+961	You promised we 'd be together ! 	Slíbil jsi , že zůstaneme spolu . 
+962	Please , I need you to stay here just for now ! 	Počkej tady , alespoň na chvíli ! 
+963	You said we 'd be together ! 	Počkej tady , alespoň na chvíli ! 
+964	You said we 'd grow old together ! 	Řekl jsi , že budeme spolu ! 
+965	I 'll come back for you . 	Vrátím se . 
+966	I promise . 	Slibuju . 
+967	Do you think you can just build a prison of memories to lock her in ? 	To si myslíš , že můžeš tvořit vězení ze vzpomínek a zavřít jí tam ? 
+968	Do you really think that that 's gonna contain her ? 	Fakt si myslíš , že jí to zadrží ? 
+969	It 's time . 	Je čas . 
+970	Maurice Fischer just died in Sydney . 	Maurice Fischer zemřel v Sydney . 
+971	- When 's the funeral ? 	Kdy je pohřeb ? 
+972	- Thursday . 	Ve čtvrtek v Los Angeles . 
+973	In Los Angeles . 	
+974	Robert should accompany the body no later than Tuesday . 	Robert poletí s tělem v úterý . 
+975	We should move . 	
+976	All right . 	
+977	- Cobb , I m coming with you . 	Půjdu taky . 
+978	- I promised Miles . 	To nemůžu dovolit . 
+979	No . 	To nemůžu dovolit . 
+980	The team needs someone who understands what you 're struggling with . 	To nemůžu dovolit . 
+981	And it does n't have to be me ... 	Nemusím to být já , 
+982	but then you have to show Arthur what I just saw . 	pak ale musíš ukázat Arthurovi to , co jsem právě viděla . 
+983	Get us another seat on the plane . 	Zamluvte nám další sedadlo v letadle . 
+984	lf I get on this plane and you do n't honor our agreement ... 	Jestli nastoupím a vy nedodržíte naši dohodu , 
+985	when we land , I go to jail for the rest of my life . 	po přistání mě zavřou do vězení na doživotí . 
+986	Complete the job en route ... 	Splňte úkol během letu , 
+987	I make one phone call from the plane ... 	a pak z letadla zavolám , 
+988	you have no trouble getting through Immigration . 	a na příletu nebudete mít žádný problém na imigračním . 
+989	- I m sorry . 	Dovolíte ? 
+990	- Oh , yeah , absolutely . 	Jistě , promiňte . 
+991	Thank you . 	
+992	Excuse me , I think this is yours ? 	Promiňte , tohle asi patří vám . 
+993	You must have dropped it . 	Asi vám to vypadlo . 
+994	Would you care for a drink ? 	Co vám mohu nabídnout k pití ? 
+995	Oh . 	Co vám mohu nabídnout k pití ? 
+996	Water , please . 	Vodu , prosím . 
+997	Oh , um , same , please . 	To samé . 
+998	Um ... 	
+999	Thank you . 	Díky . 
+1000	You know , I could n't help but notice ... 	Díky . 
+1001	but you would n't happen to be related to the Maurice Fischer , would you ? 	Díky . 
+1002	Yes , he , um ... 	ale nejste náhodou příbuzný toho Maurice Fischera ? Ano , je to ... 
+1003	He was my father . 	Byl to můj otec . 
+1004	Well , he was a very inspiring figure . 	Velmi inspirující osobnost , to je mi moc líto . 
+1005	I 'm sorry for your loss . 	
+1006	- Here you go . 	Prosím . 
+1007	- Thank you . 	Prosím . 
+1008	Hey . 	Prosím . 
+1009	To your father . 	Na vašeho otce . 
+1010	May he rest in peace , huh ? 	Nechť odpočívá v pokoji . 
+1011	- Could n't have peed before you went under ? 	To sis nemohl dojít na záchod dřív ? 
+1012	- Sorry . 	Omlouvám se . 
+1013	Bit too much free champagne before takeoff ? 	Dal sis trochu víc šampaňského zdarma , co ? 
+1014	Ha , ha , bloody ha . 	Ha ha ha . 
+1015	We know he 's gonna be looking for a taxi in this weather . 	Ha ha ha . 
+1016	- Asshole ! 	Ty pitomče ! 
+1017	Hey , man , why do n't you try -- ? 	Co to sakra ... 
+1018	- Walk away . 	Dej si odchod . 
+1019	Just have him ca -- I gotta go . 	Musím jít . 
+1020	All right . 	Musím jít . 
+1021	Taxi . 	Taxi ! 
+1022	Thank you . 	
+1023	All right , Third and Market . 	Tohle je lepší než chůze . 
+1024	Snappy . 	
+1025	- What are you doing ? 	Co to děláte ? 
+1026	- Sorry , I thought it was free . 	Promiňte , myslel jsem , že je volný . 
+1027	- It s not . 	Není . 
+1028	- Maybe we could share . 	Není . 
+1029	Maybe not . 	Není . 
+1030	Can you pull over and get this -- ? 	Můžeme jet napůl . 
+1031	Great . 	Skvělý . 
+1032	Come on . 	Nastup . 
+1033	There 's 500 in there . 	Je tu 500 , peněženka stála víc . 
+1034	The wallet 's worth more than that . 	
+1035	You might at least drop me at my stop . 	Takže mi jen někde zastavte . 
+1036	I 'm afraid that it does n't -- 	Takže mi jen někde zastavte . 
+1037	- Cover him ! 	Skloňte se ! 
+1038	- Down ! 	Jeď , jeď ! 
+1039	Down now ! 	Jeď , jeď ! 
+1040	What the hell is going on ? 	Jeď , jeď ! 
+1041	This was n't in the design . 	Tohle nebylo v designu . 
+1042	Cobb ? 	Cobbe . 
+1043	Cobb ? 	Cobbe . 
+1044	Get him ! 	
+1045	Are you all right ? 	Jsi v pohodě ? 
+1046	Yeah , I m okay . 	Jsi v pohodě ? 
+1047	I 'm okay . 	Jo , jsem , dobrý . 
+1048	Fischer 's okay , unless he gets carsick . 	Fischer taky . 
+1049	Saito ? 	Možná mu jen je blbě . Saito ? 
+1050	Get Fischer in the back room now . 	Vyndejte Fischera dozadu ! 
+1051	- Get him in the back room . 	Dozadu s ním . 
+1052	Move . 	
+1053	- What the hell happened ? 	
+1054	Has he been shot ? 	Střelili ho ? 
+1055	Is he dying ? 	Umírá ? 
+1056	I do n't know . 	Nevím . 
+1057	- Jesus Christ . 	
+1058	What happened to you ? 	Kde jste byli ? 
+1059	- Blocked by a freight train . 	Co se vám stalo ? 
+1060	Why put a train in a downtown intersection ? 	Narazil do nás vlak . Jak jsi mohla umístit vlak na silnici ? To já nebyla ! 
+1061	- I did n't . 	Kde se tam vzal ? 
+1062	- Where 'd it come from ? 	Kde se tam vzal ? 
+1063	Why the hell were we ambushed ? 	Kde se tam vzal ? 
+1064	Those were not normal projections . 	Proč nás přepadli ? To nebyly normální projekce , byly trénované ! Máš pravdu . 
+1065	They 'd been trained , for God 's sakes . 	
+1066	- How could he be trained ? 	Jak mohly být trénované ? 
+1067	- Fischer 's had an extractor ... 	Fischer má extraktora , 
+1068	teach his subconscious to defend itself , so his subconscious is militarized . 	který trénuje jeho podvědomí . Takže jeho podvědomí má vojenský režim ochrany . 
+1069	It should 've shown in the research . 	Mělo se na to přijít během přípravy . 
+1070	Why the hell did n't it ? 	Proč se na to teda nepřišlo ? 
+1071	- Calm down . 	
+1072	Do n't tell me to calm down ! 	Uklidni se . 
+1073	This was your job , goddamn it ! 	Neříkej mi , abych se uklidnil ! Byl to tvůj úkol , tvoje zodpovědnost , sakra ! 
+1074	This was your responsibility ! 	
+1075	You were meant to check Fischer 's background ! 	Měl jsi Fischera proklepnout , na tohle násilí nejsme připraveni ! 
+1076	- We are not prepared for this ! 	Měl jsi Fischera proklepnout , na tohle násilí nejsme připraveni ! 
+1077	- We have dealt with sub-security before ! 	Podobné problémy už jsme v minulosti měli , 
+1078	We 'll be more careful and we 're gonna be fine ! 	prostě si dáme víc pozor a budeme v pohodě . 
+1079	This was not a part of the plan ! 	To nebylo v plánu ! 
+1080	He 's dying . 	To nebylo v plánu ! 
+1081	Put him out his misery . 	To nebylo v plánu ! 
+1082	- No , do n't do that ! 	No tak ho probudíme . 
+1083	Do n't do that . 	To nedělej ! 
+1084	- Cobb , hey , hey . 	To nedělej ! 
+1085	He 's in agony . 	To nedělej ! 
+1086	I m waking him up . 	Je v agónii , probudím ho . 
+1087	No . 	Ne . 
+1088	It wo n't wake him up . 	Neprobudí se . 
+1089	What do you mean , it wo n't wake him up ? 	Jak to myslíš ? Prostě se neprobudí . Když ve snu umřeme , vzbudíme se . 
+1090	When we die in a dream , we wake up . 	
+1091	Not from this . 	Z tohohle ne . 
+1092	We 're too heavily sedated to wake up that way . 	Ne když jsme pod sedativy . 
+1093	Right . 	Aha . 
+1094	So , what happens when we die ? 	Co se teda stane , když umřeme ? 
+1095	- We drop into limbo . 	Spadneme do pustiny . 
+1096	- Are you serious ? 	To myslíš vážně ? 
+1097	- Limbo ? 	Pustina ? 
+1098	- Unconstructed dream space . 	Nevytvořený snový prostor . 
+1099	What the hell is down there ? 	Nevytvořený snový prostor . 
+1100	- Just raw , infinite subconscious . 	A co v něm je ? 
+1101	Nothing is down there , except for what might have been left behind ... 	Syrové neurčité podvědomí . 
+1102	by anyone sharing the dream who 's been trapped there before . 	Kromě možných zbytků od těch , co sdíleli sny a byli v pustině . 
+1103	Which , in our case , is just you . 	Což v našem případě jsi ty . 
+1104	- How long could we be stuck ? 	Jak dlouho tam můžeme být ? 
+1105	- Ca n't even think about ... 	Jak dlouho tam můžeme být ? 
+1106	- ... 	Jak dlouho tam můžeme být ? 
+1107	trying to escape until the sedation -- - How long ? 	Dokud sedativum nepomine . Jak dlouho ? 
+1108	Decades . 	Dekády . 
+1109	It could be infinite . 	Nekončeno , nevím . 
+1110	Ask him , he 's the one who 's been there . 	Jeho se ptejte , on tam byl ! 
+1111	Let 's get him upstairs . 	Vezměte ho nahoru . 
+1112	Great . 	Skvělý . 
+1113	Thank you . 	Skvělý . 
+1114	So now we 're trapped in Fischer 's mind , battling his own private army . 	Takže jsme uvězněni v Fischerově mysli a bojujeme s jeho malou armádou 
+1115	And if we get killed ... 	a pokud nás zabijou , 
+1116	we 'll be lost in limbo till our brains turn to scrambled egg , hmm ? 	spadneme do pustiny , kde se nám mozky uvaří jako vajíčka . 
+1117	Someone got first aid ? 	Máte někdo lékárničku ? 
+1118	- You knew these risks and did n't tell us ? 	Tak tys to věděl a neřekl jsi nám to ? 
+1119	- There were n't meant to be risks . 	Nemělo nic hrozit , netušil jsem , že se bude střílet . 
+1120	- I did n't know we 'd be dealing with gunfire . 	Nemělo nic hrozit , netušil jsem , že se bude střílet . 
+1121	- You had no right . 	Neměl jsi právo . 
+1122	This was the only way to go three layers deep . 	Neměl jsi právo . 
+1123	You knew about this and went along with it ? 	A ty . 
+1124	I trusted him . 	A ty . 
+1125	When ? 	Věřil ? 
+1126	When he promised you half his share ? 	Slíbil ti snad půlku podílu ? 
+1127	No . 	Ne . Celý . A řekl , že už tím kdysi prošel . 
+1128	His whole share . 	
+1129	Besides , he said he 'd done it before . 	
+1130	What , with Mal ? 	Tys tím prošel ? 
+1131	Because that worked so good ? 	Kdy ? 
+1132	That has nothing to do with it . 	Bylo to prima ? To s tím nemá nic společného . Udělal jsem co jsem musel , abych se vrátil k dětem . 
+1133	I did what I had to to get to my children . 	
+1134	You led us into a war zone with no way out ? 	Takže jsi nás zavedl do válečné zóny bez východu . 
+1135	There is a way out . 	Existuje východ . 
+1136	We continue on with the job , and we do it as fast as possible ... 	Doděláme úkol co nejrychleji a zmizíme . 
+1137	and we get out using the kick , just like before . 	Za použití nakopnutí . 
+1138	Forget it . 	Stejně jako předtím . Zapomeň na to . Čím budeme hlouběji , tím víc riskujeme . 
+1139	We go any deeper , we just raise the stakes . 	
+1140	I am sitting this one out on this level . 	Já to přečkám na téhle úrovni , lidi . 
+1141	Fischer 's security is surrounding this place . 	Už teď to tu Fischerova ochranka obkličuje . 
+1142	Ten hours of flight time is a week at this level . 	Už teď to tu Fischerova ochranka obkličuje . 
+1143	That means each and every one of us will be killed . 	což je na téhle úrovni týden . Do té doby nás všechny zabijí , to vám můžu zaručit . 
+1144	That I can guarantee you . 	
+1145	We have no other choice but to continue on and do it as fast as possible . 	Nemáme jinou možnost , než to rychle dokončit . 
+1146	Downwards is the only way forwards . 	Dolů je jediná cesta dopředu . 
+1147	Get ready . 	Připravte se . 
+1148	You , come on . 	Připravte se . 
+1149	Let 's go shake him up . 	Ty taky , pojď . 
+1150	I 'm insured against kidnapping for up to 10 million . 	Jsem pojištěn proti únosu na 10 milionů . 
+1151	- This should be very simple . 	Mělo by to být snadné . 
+1152	- Shut up ! 	Zmlkni ! 
+1153	It wo n't be . 	Nebude . 
+1154	In your father 's office , below the bookshelves ... 	V pracovně tvého otce je pod knihovnou jeho osobní sejf . 
+1155	is his personal safe . 	V pracovně tvého otce je pod knihovnou jeho osobní sejf . 
+1156	We need the combination . 	Jaká je kombinace ? 
+1157	I do n't know any safe . 	Nevím o žádném sejfu . 
+1158	That does n't mean you do n't know the combination . 	Nevím o žádném sejfu . 
+1159	Tell us what it is . 	Pověz nám to . 
+1160	I do n't know . 	Pověz nám to . 
+1161	We have it on good authority you do know . 	Máme pádný důvod , abys nám to řekl . 
+1162	Yeah ? 	Jo ? 
+1163	Whose authority ? 	A jaký ? 
+1164	- Five hundred dollars , this cost . 	Tohle stojí 500 ? 
+1165	- What 's inside it ? 	Co je uvnitř ? 
+1166	Cash , cards , ID . 	Prachy , kreditky , průkazy ... 
+1167	And this . 	A tohle . 
+1168	Useful ? 	Hodí se to ? 
+1169	Maybe . 	Hodí se to ? 
+1170	You 're on . 	Je řada na tobě . 
+1171	You 've got an hour . 	Je řada na tobě . 
+1172	An hour ? 	Je řada na tobě . 
+1173	I was supposed to have all night to crack this . 	Měl jsem na to mít celou noc . 
+1174	And Saito was n't supposed to be shot in the chest . 	Saito neměl být postřelen . 
+1175	You 've got one hour , now get us something useful , please . 	Máš hodinu . 
+1176	- What 's that ? 	Co to je ? 
+1177	- Good authority . 	Pádný důvod . 
+1178	Uncle Peter . 	Strýček Peter ... 
+1179	Just make them stop . 	Ať toho nechají , prosím . 
+1180	- The combination . 	Tu kombinaci . 
+1181	- I do n't know it . 	Neznám ji . 
+1182	- Why does Browning say you do ? 	Proč Browning říká opak ? 
+1183	- I do n't know . 	To nevím . 
+1184	Just let me talk to him and I ll find out . 	Nechte mě s ním promluvit , zjistím to . 
+1185	You have one hour . 	Máš hodinu ! Začni mluvit . 
+1186	Start talking . 	
+1187	You all right ? 	Jsi v pořádku ? 
+1188	You okay ? 	Jsi v pořádku ? 
+1189	Those bastards have had at me for two days . 	Ti bastardi mě vyslýchají dva dny . 
+1190	They have someone with access to your father 's office . 	Někdo z nich má přístup do otcovy pracovny a chtějí otevřít jeho sejf . 
+1191	- They 're trying to open his safe . 	Někdo z nich má přístup do otcovy pracovny a chtějí otevřít jeho sejf . 
+1192	- Yeah . 	Jo . 
+1193	They thought I 'd know the combination , but I do n't know it . 	Myslí , že znám kombinaci , ale já ji neznám . 
+1194	- Yeah , well , neither do I , so ... 	Já taky ne . 
+1195	- What ? 	Co ? 
+1196	Maurice told me that when he passed , you were the only one able to open it . 	Maurice mi řekl , že po jeho smrti to otevřeš . 
+1197	No , he never gave me any combination . 	Ne , nikdy mi žádnou kombinaci nedal . 
+1198	Maybe he did . 	Možná dal . 
+1199	I mean , maybe you just did n't know it was a combination . 	A ani jsi nevěděl , že to je ono . 
+1200	Well , what , then ? 	A co tedy ? 
+1201	I do n't know , some meaningful combination of numbers ... 	A co tedy ? 
+1202	based on your experiences with Maurice . 	čísel , založená na tvých zážitcích s Mauricem . 
+1203	We did n't have very many , uh , meaningful experiences together . 	My jsme žádné hodnotné zážitky spolu neměli . 
+1204	Perhaps after your mother died . 	Možná po smrti tvé matky ? 
+1205	After my mother died , you know what he told me ? 	Víš co mi řekl po její smrti ? 
+1206	Robert , there 's really nothing to be said . 	Roberte , vážně ti nemám co říct . 
+1207		
+1208	Oh , well , he was bad with emotion . 	No , emoce mu nikdy moc nešly . 
+1209	I was 11 , Uncle Peter . 	No , emoce mu nikdy moc nešly . 
+1210	- How 's he doing ? 	Jak je mu ? 
+1211	- He 's in a lot of pain . 	Má bolesti . 
+1212	When we get down to the lower levels , the pain will be less intense . 	Na nižší úrovni bude bolest menší . 
+1213	And if he dies ? 	A když umře ? 
+1214	Worst-case scenario ? 	A když umře ? 
+1215	When he wakes up , his mind is completely gone . 	se po probuzení ukáže , že jeho mysl je totálně prázdná . 
+1216	Cobb , I 'll still honor the arrangement . 	Cobbe ... Pořád můžu zařídit vše potřebné . Oceňuji to , Saito . 
+1217	I appreciate that , Saito . 	
+1218	But when you wake up , you wo n't even remember that we had an arrangement . 	Až se ale probudíte , nebudete o žádné dohodě vědět . 
+1219	Limbo is gonna become your reality . 	Pustina se stane vaší realitou , 
+1220	You 're gonna be lost down there so long that you 're gonna become an old man . 	ztratíte se tam na tak dlouho , 
+1221	Filled with regret ? 	že se stanete starcem . 
+1222	Waiting to die alone . 	Čekajícím na smrt o samotě . 
+1223	No . 	Čekajícím na smrt o samotě . 
+1224	I 'll come back . 	Vrátím se . 
+1225	And we 'll be young men together again . 	Vrátím se . 
+1226	Breathe . 	Dýchejte . 
+1227	These people are gonna kill us if we do n't give them the combination . 	Tito lidé nás zabijí , když jim nedáme kombinaci . 
+1228	- They just wanna ransom us . 	Chtějí jen výkupné . 
+1229	- I heard them . 	Já je slyšel . 
+1230	They 're gonna lock us in that van , and then drive it into the river . 	Zavřou nás do dodávky a shodí nás do řeky . 
+1231	All right . 	Fajn . 
+1232	What is in the safe ? 	Fajn . 
+1233	Something for you . 	Fajn . 
+1234	Maurice always said it was his most precious gift to you . 	Maurice vždy říkal , že je to jeho nejcennější dar pro tebe . 
+1235	- A will . 	Závěť . Jeho závěť je u Port and Dunn . Tahle je alternativní . 
+1236	- Maurice 's will is with Port and Dunn . 	
+1237	That 's an alternate . 	
+1238	This would supersede the other if you want it to . 	Neboli je vyšší , než ta původní . 
+1239	It splits up the component businesses of Fischer Morrow . 	Rozděluje obchodní podíly Fischer-Morrow 
+1240	It 'd be the end of the entire empire as we know it . 	a to bude konec jeho impéria , jak ho dnes známe . 
+1241	Destroying my whole inheritance ? 	Zničit mé dědictví ? 
+1242	- Why would he suggest such a thing ? 	Proč by to chtěl ? 
+1243	- I just do n't know . 	To nevím . 
+1244	He loved you , Robert . 	Miloval tě , Roberte . 
+1245	In his own way . 	Miloval tě , Roberte . 
+1246	In his own way . 	Svým způsobem ? 
+1247	At the end ... 	Svým způsobem ? 
+1248	he called me in to his deathbed . 	si mě zavolal na smrtelné posteli , 
+1249	He could barely speak . 	sotva mohl mluvit . 
+1250	But he took the trouble to tell me one last thing . 	Ale přemohl se a řekl mi poslední věc . 
+1251	He pulled me close . 	Naklonil jsem se k němu , 
+1252	And I could only make out ... 	a rozuměl jsem jen jednomu slovu . 
+1253	one word . 	a rozuměl jsem jen jednomu slovu . 
+1254	Disappointed . 	Zklamaný ... 
+1255		
+1256	When were you in limbo ? 	Kdy jsi byl v pustině ? 
+1257	You might have the rest of the team convinced to carry on with this job . 	Ostatní jsi možná přesvědčil k pokračování , oni ale neznají pravdu . 
+1258	- But they do n't know the truth . 	Jakou pravdu ? 
+1259	- Truth ? 	
+1260	What truth ? 	
+1261	The truth that , at any minute , you might bring a freight train through the wall . 	Tu , že každou sekundu se může objevit vlak . 
+1262	The truth that Mal is bursting through your subconscious . 	Že Mal se ti dere do podvědomí . 
+1263	And the truth that , as we go deeper into Fischer ... 	A že čím hlouběji jdeme do Fischera , tím hlouběji jdeme do tebe . 
+1264	we 're also going deeper into you . 	A že čím hlouběji jdeme do Fischera , tím hlouběji jdeme do tebe . 
+1265	And I m not sure we 're gonna like what we find . 	A nejsem si jista , že se nám bude líbit , co najdeme . 
+1266	We were working together . 	Pracovali jsme spolu na výzkumu konceptu snu ve snu . 
+1267	We were exploring the concept of a dream within a dream . 	Pracovali jsme spolu na výzkumu konceptu snu ve snu . 
+1268	I kept pushing things . 	Tlačil jsem moc na pilu , chtěl jsem hloub a hloub . 
+1269	I wanted to go deeper and deeper . 	Tlačil jsem moc na pilu , chtěl jsem hloub a hloub . 
+1270	I wanted to go further . 	A dál . 
+1271	I just did n't understand the concept that hours could turn into years down there ... 	Nechápal jsem , že pár hodin na povrchu se změní na léta tam dole . 
+1272	that we could get trapped so deep ... 	A že když jseš tam dlouho , 
+1273	that when we wound up on the shore of our own subconscious ... 	že se pohybuješ na samé hranici podvědomí . 
+1274	we lost sight of what was real . 	Ztratili jsme pojem o tom , co je realita . 
+1275	We created . 	Vytvořili jsme si svět sami pro sebe . 
+1276	We built the world for ourselves . 	
+1277	We did that for years . 	Dělali jsme to léta . 
+1278	We built our own world . 	Postavili jsme si vlastní svět . 
+1279	How long were you stuck there ? 	Jak dlouho jste tam byli ? 
+1280	Something like 50 years . 	Asi 50 let . 
+1281	Jesus . 	Ježíši . 
+1282	How could you stand it ? 	Jak jste to mohli vydržet ? 
+1283	It was n't so bad at first , feeling like gods . 	Na začátku to bylo snadné , cítili jsme se jako bohové . 
+1284	The problem was knowing that none of it was real . 	Problém byl to , že jsme věděli , že nic z toho není reálné . 
+1285	Eventually , it just became impossible for me to live like that . 	Nakonec už jsem takhle dále nemohl žít . 
+1286	And what about for her ? 	A co ona ? 
+1287	She had locked something away , something deep inside her . 	Někde v sobě něco hluboko uzamkla . 
+1288	A truth that she had once known , but chose to forget . 	Pravdu , kterou dříve znala , ale rozhodla se na ni zapomenout . 
+1289	Limbo became her reality . 	Pustina se stala její realitou . 
+1290	What happened when you woke up ? 	Co se stalo , když jste se probudili ? 
+1291	Well , to wake up from that after years , after decades ... 	Vzbudit se po takové době . 
+1292	to become old souls thrown back into youth like that ? 	Staré duše , které se vrátí zpět do mladého těla . 
+1293	I knew something was wrong with her . 	Věděl jsem , že s ní něco je . 
+1294	She just would n't admit it . 	Ona si to ale nechtěla přiznat . 
+1295	Eventually , she told me the truth . 	Nakonec mi řekla pravdu . 
+1296	She was possessed by an idea . 	Byla posedlá jednou myšlenkou . 
+1297	This one very simple idea that changed everything . 	Prostou myšlenkou , která všechno změnila . 
+1298	That our world was n't real . 	Že náš svět není skutečný . 
+1299	That she needed to wake up to come back to reality ... 	Že se musí probudit , aby se vrátila do reality . 
+1300	that in order to get back home ... 	Abychom se mohli vrátit domů , musíme se zabít . 
+1301	we had to kill ourselves . 	Abychom se mohli vrátit domů , musíme se zabít . 
+1302	- What about your children ? 	Co vaše děti ? 
+1303	- She thought they were projections ... 	Myslela si , že jsou to projekce . 
+1304	that our real children were waiting for us up there somewhere . 	Že naše skutečné děti na nás tam někde čekají . 
+1305	- I m their mother ! 	Cobbe , jsem jejich matka ! 
+1306	- Calm down . 	Uklidni se . 
+1307	I can tell the difference . 	Myslíš si , že nepoznám ten rozdíl ? 
+1308	If this is my dream , why ca n't I control this ? 	Pokud jsme v mém snu , tak proč ho neovládám ? 
+1309	You do n't know you 're dreaming ! 	Protože nevíš , že sníš ! 
+1310	She was certain there was nothing I could do ... 	Byla si tak jistá , že jsem nemohl nic dělat . 
+1311	no matter how much I begged , no matter how much I pleaded . 	Mohl jsem ji prosit , jak jsem chtěl . 
+1312	She wanted to do it , but she could not do it alone . 	Chtěla se zabít , ale sama to udělat nemohla . 
+1313	She loved me too much , so she came up with a plan on our anniversary . 	Příliš mě milovala . Tak si na naše výročí připravila plán . 
+1314	- Sweetheart , what are you doing ? 	Co to děláš , zlato ? 
+1315	- Join me . 	Pojď za mnou . 
+1316	Just -- Just step back inside . 	Jen pojď zpátky dovnitř . Dobře ? Pojď dovnitř . 
+1317	All right ? 	Ne . 
+1318	Just step back inside now , come on . 	
+1319	No . 	Skočím a ty skočíš se mnou . 
+1320	I 'm going to jump , and you 're coming with me . 	Skočím a ty skočíš se mnou . 
+1321	No , I 'm not . 	Skočím a ty skočíš se mnou . 
+1322	Now , you listen to me . 	Poslouchej mě . 
+1323	If you jump , you 're not gonna wake up , remember ? 	Jestli skočíš , tak už se nevzbudíš , pamatuješ ? Umřeš . 
+1324	You 're gonna die . 	Tak ... 
+1325	Now , just step back inside . 	pojď zpátky dovnitř . 
+1326	Come on . 	pojď zpátky dovnitř . 
+1327	Step back inside so we can talk about this . 	Pojď zpátky a promluvíme si . 
+1328	We 've talked enough . 	Už jsme mluvili dost . 
+1329	- Mal . 	Mal ... 
+1330	- Come out onto the ledge ... 	Mal ... 
+1331	- ... 	Mal ... 
+1332	or I ll jump right now . 	Vylez na římsu nebo skočím hned . Tak dobře . 
+1333	- Okay . 	
+1334	We 're gonna talk about this . 	Promluvíme si o tom . 
+1335	All right ? 	Promluvíme si o tom . 
+1336	- I m asking you to take a leap of faith . 	Žádám tě , abys skočil do neznáma . 
+1337	- No , honey . 	Zlatíčko , ne . 
+1338	No , I ca n't . 	Nemůžu . 
+1339	You know I ca n't do that . 	Víš , že to nemůžu udělat . 
+1340	Take a second , think about our children . 	Pomysli na naše děti . 
+1341	Think about James . 	Pomysli na naše děti . 
+1342	Think about Phillipa , now . 	Mysli na Phillipu . 
+1343	If I go without you , they 'll take them away anyway . 	Mysli na Phillipu . 
+1344	- What does that mean ? 	Co tím myslíš ? 
+1345	- I filed a letter with our attorney ... 	Nechala jsem u našeho právníka dopis . 
+1346	explaining how I 'm fearful for my safety . 	Kde popisuju , jak se bojím o svou bezpečnost . 
+1347	How you 've threatened to kill me . 	Jak mi vyhrožuješ zabitím . 
+1348	- Why did you do this ? 	Proč jsi to udělala ? 
+1349	- I love you , Dom . 	Miluju tě , Dome . 
+1350	Why did -- ? 	Proč bys mi to dělala ? 
+1351	Why would you do this to me ? 	Aby ses neobviňoval , že jsi opustil děti . 
+1352	I 've freed you from the guilt of choosing to leave them . 	Aby ses neobviňoval , že jsi opustil děti . 
+1353	We 're going home to our real children . 	Jdeme domů . 
+1354	Oh , no , no , no , Mal , you listen to me , all right ? 	Ne . 
+1355	Mal , look at me , please ? 	Mal , poslouchej mě . 
+1356	You 're waiting for a train . 	Podívej se na mě , Mal ! 
+1357	- Mal , goddamn it , do n't do this ! 	Čekáš na vlak . 
+1358	- A train that will take you far away . 	Mal , nedělej to , sakra ! 
+1359	James and Phillipa are waiting for you ! 	Na vlak , který tě odveze daleko . 
+1360	You know where you hope this train will take you , but you ca n't know for sure . 	James a Phillipa na tebe čekají ! Doufáš , že tě odveze na jisté místo , ale nevíš to jistě . Čekají na tebe ! 
+1361	- Mal , look at me ! 	Podívej se na mě , Mal ! 
+1362	- But it does n't matter . 	Ale na tom nezáleží . 
+1363	- Mal , goddamn it ! 	Mal , zatraceně ! 
+1364	Mal , listen to me ! 	Protože budeme spolu . 
+1365	- Because you 'll be together . 	Protože budeme spolu . 
+1366	Sweetheart ! 	Protože budeme spolu . 
+1367	Look at me ! 	Miláčku , podívej se na mě ! 
+1368	Mal , no ! 	Mal , ne ! 
+1369	Jesus Christ ! 	Mal , ne ! 
+1370	She had herself declared sane by three different psychiatrists . 	Nechala si od tří psychiatrů vypracovat posudek , že je příčetná . 
+1371	It made it impossible for me to try to explain the nature of her madness . 	Nemohl jsem tak vysvětlit , v čem její šílenství spočívá . 
+1372	So I ran . 	Takže jsem utekl . 
+1373	Right now , or never , Cobb . 	Teď , anebo nikdy , Cobbe . 
+1374	James ! 	Phillipo , pojďte dovnitř ! 
+1375	Phillipa ! 	
+1376	Come on in ! 	
+1377	Come on ! 	
+1378	All right , let 's go . 	Fajn , jdeme . 
+1379	I left my children behind and I 've been trying to buy my way back ever since . 	Opustil jsem své děti a od té doby se k nim snažím najít cestu . 
+1380	Your guilt defines her . 	Tvá vina ji definuje . 
+1381	It 's what powers her . 	Pohání ji . 
+1382	But you are not responsible for the idea that destroyed her . 	Neneseš odpovědnost za myšlenku , která ji zničila . 
+1383	And if we are gonna succeed in this ... 	A pokud nám tahle akce vyjde , tak si budeš muset odpustit . 
+1384	you have to forgive yourself , and you 're gonna have to confront her . 	Budeš se jí muset postavit . 
+1385	But you do n't have to do that alone . 	Budeš se jí muset postavit . 
+1386	- No , you 're not ... 	Ne . 
+1387	- I m doing it for the others . 	Dělám to pro ostatní . 
+1388	Because they have no idea the risk they 've taken coming down here with you . 	Protože oni netuší , jak riskovali , když sem s tebou šli . 
+1389	We have to move . 	Musíme vypadnout . 
+1390	Time 's up . 	Čas vypršel . 
+1391	All right . 	Čas vypršel . 
+1392	I do n't know any combination . 	Žádnou kombinaci neznám . 
+1393	- Not consciously , anyway . 	Nebo o tom aspoň nevím . 
+1394	- How about instinctively , huh ? 	Tak zkus něco namátkou ! 
+1395	I got somebody in your father 's office right now ready to tap in the combination . 	V kanceláři tvého otce je teď člověk , který se chystá navolit kombinaci . 
+1396	Give me the first six numbers that come to your head right now . 	Řekni mi prvních šest čísel , které tě napadnou . 
+1397	- I have no idea . 	Nemám tušení . 
+1398	- Right now ! 	Nemám tušení . 
+1399	I said , right now ! 	Nemám tušení . 
+1400	Right now ! 	Hned . 
+1401	Five , two , eight , four , nine , one . 	Okamžitě ! 5 , 2 , 8 ... 491 . 
+1402	You 'll have to do better than that . 	Budeš se muset víc snažit . 
+1403	All right . 	Budeš se muset víc snažit . 
+1404	Bag them . 	Nasaď jim pytle . 
+1405	You 're going for a ride . 	Projedeme se . 
+1406	We 're worth more to you alive . 	Co ještě chcete ? Zabít mě ? 
+1407	You hear me ? 	
+1408	What 'd you get ? 	Jak to vypadá ? 
+1409	Relationship with his father is worse than we imagined . 	Vztah s jeho otcem je ještě horší , než jsme si mysleli . 
+1410	This helps us how ? 	To nám pomůže jak ? 
+1411	The stronger the issues , the more powerful the catharsis . 	Čím větší problémy , tím silnější katarze . 
+1412	- How are we gonna reconcile them ? 	Jak je smíříme , když se tak nesnáší ? 
+1413	- I m working on that . 	Pracuju na tom . 
+1414	Work faster . 	Tak si pohni . Projekce se rychle blíží . 
+1415	The projections are closing in quick . 	
+1416	We gotta break out of here before we 're totally boxed in . 	Musíme odsud vypadnout nebo nás tu obklíčí . 
+1417	Damn it . 	
+1418	You must n't be afraid to dream a little bigger , darling . 	Nesmíš se bát snít ve větším stylu . 
+1419	We need to shift his animosity from his father to his godfather . 	Musíme tu nesnášenlivost přenést z jeho otce na kmotra . 
+1420	- Destroy his one positive relationship ? 	Chceš zničit jeho jediný kladný vztah ? Ne , napravíme vztah s jeho otcem 
+1421	- No , repair his relationship with his father ... 	
+1422	whilst exposing his godfather 's true nature . 	a odhalíme pravou tvář jeho kmotra . 
+1423	We should charge Fischer a lot more than Saito for this job . 	Fischer by nám měl zaplatit ještě víc než Saito . 
+1424	His security is gonna get worse as we go deeper . 	A co jeho ochranka ? 
+1425	- I think we run with Mr . Charles . 	Čím hlouběji půjdeme , tím to bude horší . Myslím , že bychom měli použít pana Charlese . To ne . 
+1426	- No . 	
+1427	Who 's Mr . Charles ? 	Kdo je pan Charles ? 
+1428	- Bad idea . 	To není dobrý nápad . 
+1429	The second we get into that hotel his security 's gonna be all over us . 	Jakmile se dostaneme do hotelu k Fischerovi , 
+1430	We run with Mr . Charles like on the Stein job . 	ochranka nám bude v patách . 
+1431	- You 've done it before ? 	Použijeme pana Charlese jako u Steina . Takže už jste to provedli ? Jo a nefungovalo to . 
+1432	- Yeah , and it did n't work . 	
+1433	The subject realized he was dreaming and his subconscious tore us to pieces . 	Subjekt si uvědomil , že sní a jeho podvědomí z nás udělalo sekanou . 
+1434	Excellent . 	Skvělé , ale poučili jste se z toho , ne ? 
+1435	But you learned a lot , right ? 	Budeme ho potřebovat rozptýlit . 
+1436	- I need some kind of distraction . 	Budeme ho potřebovat rozptýlit . 
+1437	- No problem . 	Žádný problém . 
+1438	How about a lovely lady that I 've used before ? 	Co ta krásná dáma , kterou už jsem jednou použil ? 
+1439	Listen to me . 	Poslechni , jeď opatrně . 
+1440	You drive carefully , all right ? 	Poslechni , jeď opatrně . 
+1441	Everything down there is gonna be unstable as hell . 	Poslechni , jeď opatrně . 
+1442	Do n't jump too soon . 	Neskákej moc brzo . 
+1443	We only got one shot at that kick . 	Máme jen jednu šanci . 
+1444	We gotta make it . 	
+1445	I 'll play the music to let you know it 's coming . 	Pustím vám předtím hudbu , zbytek už je na vás . 
+1446	The rest is on you . 	
+1447	- You ready ? 	Připravení ? 
+1448	- Ready ! 	Připraveni ! 
+1449	Sweet dreams . 	Sladké sny . 
+1450	Am I boring you ? 	Sladké sny . 
+1451	I was telling you my story . 	Vyprávěla jsem vám příběh . 
+1452	I guess it was n't to your liking . 	Asi vás nezaujal . 
+1453	Um , I have a lot on my mind . 	Mám toho teď v hlavě moc . 
+1454	There goes Mr . Charles . 	Tady jde pan Charles . 
+1455	Mr . Fischer , right ? 	Pan Fischer , že ? 
+1456	Pleasure to see you again . 	Rád vás zase vidím . 
+1457	Rod Green from marketing . 	Rod Green z marketingu . 
+1458	I -- 	Rod Green z marketingu . 
+1459	Hmm . 	Rod Green z marketingu . 
+1460	- And you must be ? 	A vy jste ? 
+1461	- Leaving . 	Na odchodu . 
+1462	In case you get bored . 	Pro případ , že byste se nudil . 
+1463	Must 've blown you off . 	Musela se na vás vykašlat . 
+1464	That is , unless her phone number really is only six digits . 	Musela se na vás vykašlat . 
+1465	Funny way to make friends , someone stealing your wallet like that . 	Ukradla vám peněženku . 
+1466	Goddamn it . 	Zatraceně . 
+1467	The wallet alone is worth at least 500-- 	Zatraceně . 
+1468	About 500 , right ? 	Zatraceně . 
+1469	Do n't worry about it . 	Nelamte si s tím hlavu . 
+1470	My people are already on it as we speak . 	Mí lidé už jsou jí v patách . 
+1471	Who or what is Mr . Charles ? 	Kdo nebo co je pan Charles ? 
+1472	It 's a gambit designed to turn Fischer against his own subconscious . 	Fígl , který Fischera obrátí proti vlastnímu podvědomí . 
+1473	And why do n't you approve ? 	Proč se ti nelíbí ? 
+1474	It involves telling the mark that he 's dreaming ... 	Proč se ti nelíbí ? 
+1475	which involves attracting a lot of attention to us . 	A to přiláká hodně pozornosti . 
+1476	- Did n't Cobb say never to do that ? 	Neříkal Cobb , abychom to nikdy nedělali ? 
+1477	- Hmm . 	
+1478	So now you 've noticed how much time ... 	Takže už sis všimla , jak často Cobb dělá věci , které sám zakazuje . 
+1479	Cobb spends doing things he says never to do . 	Takže už sis všimla , jak často Cobb dělá věci , které sám zakazuje . 
+1480	Mr . Saito , can I have a moment ? 	Pane Saito , máte chvilku ? 
+1481	- I m sorry , but ... 	Pane Saito , máte chvilku ? 
+1482	- Hold on ! 	Je mi líto , ale ... 
+1483	Wait ! 	
+1484	You look a bit perkier . 	Zdá se , že je vám líp . 
+1485	Very amusing , Mr . Eames . 	Zdá se , že je vám líp . 
+1486	Turbulence on the plane ? 	Turbulence v letadle ? 
+1487	No , it 's much closer . 	Turbulence v letadle ? 
+1488	That 's Yusuf 's driving . 	Turbulence v letadle ? 
+1489	Um , I 'm sorry . 	Promiňte , ale kdo že to jste ? 
+1490	Who did you say you were ? 	Promiňte , ale kdo že to jste ? 
+1491	Rod Green from marketing . 	Promiňte , ale kdo že to jste ? 
+1492	But that 's not true at all , is it ? 	Ale to vůbec není pravda , že ? 
+1493	My name is Mr . Charles . 	Jsem pan Charles . 
+1494	You remember me , do n't you ? 	Pamatujete si mě , že je to tak ? 
+1495	I 'm the head of your security down here . 	Jsem tady dole šéfem vaší ochranky . 
+1496	Get out on a different floor , keep moving . 	Vystupte v jiném patře a nezastavujte se . 
+1497	Dump the wallet . 	Peněženku zahoďte , ochranka ji bude hledat . 
+1498	Security will be looking for that . 	
+1499	- Okay . 	Dobře . 
+1500	- We need to buy Cobb a little more time . 	Zkusím Cobbovi získat víc času . 
+1501	Security , huh ? 	Tak ochranka , jo ? 
+1502	- You work for the hotel ? 	Pracujete pro hotel ? 
+1503	- No , no . 	Ne . 
+1504	I specialize in a very specific type of security . 	Zaměřuji se na velmi specifický druh ochrany . 
+1505	Subconscious security . 	Podvědomou ochranu . 
+1506	You 're talking about dreams ? 	Podvědomou ochranu . 
+1507	Are you talking about , um , extraction ? 	Máte na mysli extrakci ? 
+1508	I am here to protect you . 	Jsem tu , abych vás ochránil . 
+1509	Mr . Fischer , I m here to protect you in the event ... 	Pane Fischere , jsem tu , abych vás ochránil před těmi , 
+1510	that someone tries to access your mind through your dreams . 	kteří se vám snaží vniknout do mysli 
+1511	You 're not safe here . 	skrz vaše sny . 
+1512	They 're coming for you . 	Jdou si pro vás . 
+1513	Strange weather , is n't it ? 	Zvláštní počasí , že ? 
+1514	You feel that ? 	Cítíte to ? 
+1515	What 's happening ? 	Co se děje ? 
+1516	Cobb 's drawing Fischer 's attention to the strangeness of the dream ... 	Co se děje ? 
+1517	which is making his subconscious look for the dreamer . 	A jeho podvědomí tak hledá spáče . 
+1518	For me . 	Pojď sem . 
+1519	Quick , give me a kiss . 	Rychle , dej mi pusu . 
+1520	- They 're still looking at us . 	Pořád na nás zírají . 
+1521	- Yeah , it was worth a shot . 	Jo , ale za pokus to stálo . 
+1522	We should probably get out of here . 	Asi bychom měli zmizet . 
+1523	You feel that ? 	Cítíte to ? 
+1524	You 've actually been trained for this , Mr . Fischer . 	Na tohle vás vycvičili . 
+1525	Pay attention to the strangeness of the weather , the shift in gravity . 	Všímejte si zvláštnosti počasí , změny gravitace . 
+1526	None of this is real . 	Nic z toho není skutečné . 
+1527	You 're in a dream . 	Sníte . 
+1528	Now , the easiest way for you to test yourself ... 	Vyzkoušíte se tak , že se pokusíte vzpomenout , 
+1529	is to try and remember how you arrived at this hotel . 	jak jste se do tohohle hotelu dostal . 
+1530	Can you do that ? 	Dokážete to ? 
+1531	Yeah , I ... 	Ano , já ... 
+1532	No , breathe , breathe . 	Ano , já ... 
+1533	Remember your training . 	Jen dýchejte a vzpomeňte si na výcvik . 
+1534	Accept the fact that you 're in a dream , and I m here to protect you . 	Rozdíl je jen v tom , že sníte a já jsem tady , abych vás ochránil . 
+1535	Go on . 	No tak . 
+1536	Mm-hm . 	
+1537	- You 're not real ? 	Nejste skutečný . 
+1538	- No . 	Ne . 
+1539	No . 	Jsem projekce vašeho podvědomí . 
+1540	I 'm a projection of your subconscious . 	
+1541	I was sent here to protect you in the event ... 	Byl jsem sem poslán , abych vás ochránil v případě , 
+1542	that extractors tried to pull you into a dream . 	že by vás extraktoři chtěli dostat do snu . 
+1543	And I believe that 's what 's going on right now , Mr . Fischer . 	A přesně to se podle mě právě děje , pane Fischere . 
+1544	Yeah . 	
+1545	Okay . 	Tak dobře . 
+1546	Okay . 	Tak dobře . 
+1547	Can you get me out of here ? 	Můžete mě odsud dostat ? 
+1548	Right away . 	Jistě . 
+1549	Follow me . 	Pojďte za mnou . 
+1550	Hold on a second . 	
+1551	Jesus Christ ! 	Ježíši , proč jste to udělal ? 
+1552	What are you doing ? 	Ježíši , proč jste to udělal ? 
+1553	These men were sent here to abduct you , all right ? 	Ježíši , proč jste to udělal ? 
+1554	If you want my help , you have to remain calm . 	Jestli chcete , abych vám pomohl , tak se musíte uklidnit . 
+1555	I need you to work with me , Mr . Fischer . 	Musíte se mnou spolupracovat , pane Fischere . 
+1556	If this is a dream , I should just kill myself to wake up , right ? 	Jestli je tohle sen a zabiju se , tak se probudím , ne ? 
+1557	I would n't do that if I were you , Mr . Fischer . 	To bych nedělal , být vámi . 
+1558	I believe they have you sedated , and if you pull that trigger ... 	Myslím , že vám dali sedativum a jestli se zastřelíte , 
+1559	you may not wake up . 	tak už se možná neprobudíte . 
+1560	You may go into a further dream state . 	tak už se možná neprobudíte . 
+1561	Now , you know what I 'm talking about . 	Mohl byste upadnout do hlubšího snu . Víte , o čem mluvím . 
+1562	You remember the training . 	Vzpomeňte si na výcvik . 
+1563	Remember what I said to you . 	Vzpomeňte si na to , co jsem vám říkal . 
+1564	Give me the gun . 	Vzpomeňte si na to , co jsem vám říkal . 
+1565	- This room should be directly below 528 ? 	Tenhle pokoj by měl být přímo pod č . 
+1566	- Yeah . 	528 ? 
+1567	Think , Mr . Fischer , think . 	Přemýšlejte , pane Fischere . 
+1568	What do you remember from before this dream ? 	Přemýšlejte , pane Fischere . 
+1569	There was , um , a lot of gunfire . 	Hodně se střílelo . 
+1570	There was rain . 	Hodně se střílelo . 
+1571	Uncle Peter . 	Strýček Peter . 
+1572	- Oh , my God , we 've been kidnapped . 	Pane bože , byli jsme uneseni . Kde vás drželi ? 
+1573	- Where were they holding you ? 	
+1574	- They had us in the back of a van . 	V dodávce . 
+1575	- That explains the gravity shifts . 	To vysvětluje ty změny gravitace . 
+1576	You 're in the back of a van . 	Jste teď v dodávce . 
+1577	Keep going . 	Jste teď v dodávce . 
+1578	It had something to do with , um ... 	Jste teď v dodávce . 
+1579	Something to do with a safe . 	Mělo to , co dělat se sejfem . 
+1580	God , why is it so hard to remember ? 	Mělo to , co dělat se sejfem . 
+1581	It 's like trying to remember a dream after you 've woken up . 	Bože , proč je tak těžké si vzpomenout ? Je to jako si vzpomenout na sen po probuzení . 
+1582	Listen , it takes years of practice . 	Chce to roky tréninku . 
+1583	You and Browning have been pulled into this dream ... 	Do tohoto snu vás s Browningem vzali , protože vám něco chtějí ukrást . 
+1584	because they 're trying to steal something from your mind . 	Do tohoto snu vás s Browningem vzali , protože vám něco chtějí ukrást . 
+1585	I need you to focus and try and remember what that is . 	Soustřeďte se a snažte si vzpomenout , co to je . 
+1586	What is it , Mr . Fischer ? 	Co je to , pane Fischere ? 
+1587	Think ! 	Přemýšlejte ! 
+1588	A combination . 	Kombinace čísel . Měl jsem si vzpomenout na prvních několik čísel , které mě napadnou . 
+1589	They demanded the first numbers to pop into my head . 	
+1590	They 're trying to extract a number from your subconscious . 	Snaží se z vašeho podvědomí získat čísla . 
+1591	It can represent anything . 	Můžou představovat cokoliv . Jsme v hotelu . 
+1592	We 're in a hotel right now . 	
+1593	We should try hotel rooms . 	Vyzkoušíme hotelové pokoje . 
+1594	What was the number , Mr . Fischer ? 	Co to bylo za číslo , pane Fischere ? 
+1595	Try and remember for me . 	Co to bylo za číslo , pane Fischere ? 
+1596	This is very important . 	Zkuste si vzpomenout . 
+1597	Five . 	5 . 
+1598	Five , two-- It was something , it was a long number . 	5 , 2 . 
+1599	That 's good . 	Bylo to dlouhé číslo . 
+1600	We can start there . 	To nám zatím bude stačit . 
+1601	Fifth floor . 	To nám zatím bude stačit . 
+1602	Yep . 	To nám zatím bude stačit . 
+1603	- So do you use a timer ? 	Takže použiješ časový spínač ? 
+1604	- No , I have to judge it for myself . 	Ne , musím dobu odhadnout sám . 
+1605	While you 're all asleep in 528 , I wait for Yusuf 's kick . 	Až budete všichni v č . 
+1606	- Well , how will you know ? 	528 spát , počkám na Yusufovo nakopnutí . Jak to poznáš ? Varuje mě hudba . 
+1607	- His music warns me . 	
+1608	And then when the van hits the barrier of the bridge , that should be unmistakable . 	Jasně ucítím , že dodávka vrazila do bariéry mostu 
+1609	So we get a nice synchronized kick . 	a tak vznikne dokonale synchronizované nakopnutí . 
+1610	If it 's too soon , we wo n't get pulled out . 	Jestli to bude moc brzo , tak se neprobudíme . 
+1611	But if it 's too late , I wo n't be able to drop us . 	Když moc pozdě , tak žádné nakopnutí nevznikne . 
+1612	- Well , why not ? 	Proč ne ? 
+1613	- Because the van will be in freefall . 	Protože dodávka bude padat volným pádem . 
+1614	- Ca n't drop you without gravity . 	Bez gravitace není nakopnutí možné . 
+1615	- Right . 	No , jasně . 
+1616	They 're with me . 	Jsou tu se mnou . 
+1617	Go on . 	
+1618	Mr . Charles . 	Pane Charlesi . 
+1619	- Do you know what that is , Mr . Fischer ? 	Pane Charlesi . 
+1620	- Yeah , I think so . 	Víte , co to je , pane Fischere ? 
+1621	They were trying to put you under . 	Jo , myslím , že jo . 
+1622	- I m already under . 	Vždyť už spím . 
+1623	- Under again . 	Znovu uspat . 
+1624	What do you mean , a dream within a dream ? 	Myslíte sen ve snu ? 
+1625	Hey . 	Hej , vidím , že jste se převlékl . 
+1626	I see you 've changed . 	Hej , vidím , že jste se převlékl . 
+1627	I 'm sorry ? 	Hej , vidím , že jste se převlékl . 
+1628	Oh , I m sorry . 	Promiňte . 
+1629	I mistook you for a friend . 	Spletl jsem si vás se svým přítelem . 
+1630	Oh . 	
+1631	Good-looking fellow , I m sure . 	Určitě je to pohledný chlapík . 
+1632	No , no , no . 	No tedy . 
+1633	That 's Fischer 's projection of Browning . 	No tedy . 
+1634	Let 's follow him and see how he behaves . 	No tedy . 
+1635	- Why ? 	Proč ? 
+1636	- Because how he acts will tell us ... 	Protože z jeho chování poznáme , jestli ho Fischer začal podezřívat . 
+1637	if Fischer is starting to suspect his motives the way we want him to . 	Protože z jeho chování poznáme , jestli ho Fischer začal podezřívat . 
+1638	Shh . 	
+1639	- Uncle Peter . 	Strýčku Petere . 
+1640	- You said you were kidnapped together ? 	Řekl jste , že vás unesli společně ? 
+1641	Well , not exactly . 	Ne tak úplně . 
+1642	They already had him . 	Unesli ho dřív a mučili ho . 
+1643	They were torturing him . 	Unesli ho dřív a mučili ho . 
+1644	And you saw them torture him ? 	Unesli ho dřív a mučili ho . 
+1645	The kidnappers are working for you ? 	Ti únosci pracují pro tebe ? 
+1646	Robert . 	Ti únosci pracují pro tebe ? 
+1647	You 're trying to get that safe open ? 	Snažíš se dostat do toho sejfu , 
+1648	To get the alternate will ? 	abys získal druhou závěť ? 
+1649	Fischer Morrow has been my entire life . 	abys získal druhou závěť ? 
+1650	I ca n't let you destroy it . 	Fischer-Morrow je celý můj život . 
+1651	I 'm not gonna throw away my inheritance . 	Nemůžu tě ji nechat zničit . 
+1652	I could n't let you rise to your father 's last taunt . 	Nemohl jsem dovolit , abys podlehl poslednímu výsměchu tvého otce . 
+1653	- What taunt ? 	Výsměchu ? 
+1654	- The will , Robert . 	Ta závěť , Roberte . 
+1655	That will ? 	Ta závěť 
+1656	That 's his last insult . 	je jeho poslední urážkou . 
+1657	A challenge for you to build something for yourself ... 	Vyzývá tě v ní , abys vytvořil něco svého . 
+1658	by telling you you 're not worthy of his accomplishments . 	Tím , že ti řekne , že nejsi hoden jeho úspěchů . 
+1659	- What , but that he was , um , disappointed ? 	Řekl , že byl zklamaný . Promiň . 
+1660	- I m sorry . 	
+1661	But he 's wrong . 	Ale mýlil se . 
+1662	You can build a better company than he ever did . 	Máš na to , stvořit lepší společnost , než stvořil on . 
+1663	Mr . Fischer ? 	Pane Fischere , on lže . 
+1664	He 's lying . 	Jak to víte ? 
+1665	- How do you know ? 	Věřte mi , znám to . 
+1666	- Trust me , it 's what I do . 	Věřte mi , znám to . 
+1667	He 's hiding something , and we need to find out what that is . 	Věřte mi , znám to . 
+1668	I need you to do the same thing to him that he was going to do to you . 	Musíte mu udělat to samé , co chtěl udělat on vám . 
+1669	We 'll enter his subconscious and find out what he does n't want you to know . 	Vejdete do jeho podvědomí a zjistíte , co nechce , abyste věděl . 
+1670	All right . 	Dobře . 
+1671	He 's out . 	Už spí . 
+1672	- Wait . 	Už spí . 
+1673	Whose subconscious are we going into exactly ? 	Už spí . 
+1674	We 're going into Fischer 's . 	Počkej . 
+1675	I told him it was Browning 's so he 'd be a part of our team . 	Fischerova . 
+1676	He 's gonna help us break into his own subconscious . 	Ale myslí si , že je v Browningově a že je v našem týmu . Pomůže nám se vloupat do jeho vlastního podvědomí . 
+1677	That 's right . 	Jasně . 
+1678	Security 's gonna run you down hard . 	Jasně . 
+1679	And I will lead them on a merry chase . 	Zahrajeme si s nimi na schovávanou . 
+1680	- Just be back before the kick . 	Hlavně se vrať před kopancem . 
+1681	- Go to sleep , Mr . Eames . 	Sladké sny , pane Eamesi . 
+1682	You good ? 	Jsi v pohodě ? 
+1683	Hey . 	Hej , jsi připraven ? 
+1684	You ready ? 	Jo , jo ... 
+1685	Yes , yes . 	jsem připraven . 
+1686	I m fine . 	
+1687	I m ready . 	
+1688	Cobb ? 	Cobbe . 
+1689	Cobb ? 	Cobbe . 
+1690	What 's down there ? 	Cobbe ! 
+1691	Hopefully , the truth we want Fischer to learn . 	Doufejme , že pravda , kterou má Fischer zjistit . 
+1692	I mean , what 's down there for you ? 	Doufejme , že pravda , kterou má Fischer zjistit . 
+1693	Did you see that ? 	Viděli jste to ? 
+1694	Eames , this is your dream . 	Eamesi , je to tvůj sen . 
+1695	I need you to draw the security away from the complex , understand ? 	Musíš odlákat ochranku od komplexu , rozumíš ? 
+1696	- Who guides Fischer in ? 	Kdo tam dostane Fischera ? 
+1697	- Not me . 	Já ne . 
+1698	If I know the route , everything could be compromised . 	Kdybych znal cestu , celou akci bych zkompromitoval . 
+1699	- I designed the place . 	Já jsem ten sen navrhla . 
+1700	- No , you 're with me . 	Já jsem ten sen navrhla . 
+1701	I could do it . 	Já jsem ten sen navrhla . 
+1702	All right . 	Dobře . 
+1703	Brief him on the route into the complex . 	Budeš jim podávat informace po cestě ke komplexu . 
+1704	- Fischer , you 'll be going with him . 	Fischere , vy půjdete s ním . 
+1705	- All right . 	Tak jo . 
+1706	What about you ? 	A co vy ? 
+1707	You keep this live . 	Jen ho udržte naživu . 
+1708	I 'll be listening in the whole time . 	Budu celou dobu na příjmu . 
+1709	The windows on that upper floor are big enough for me to cover you from that tower . 	Okna v tom horním patře jsou dost velká , abych vás mohl krýt z jižní věže . Vidíte ? Jo . 
+1710	You 're not coming in ? 	Vy nejdete ? 
+1711	In order to find out the truth about your father ... 	Vy nejdete ? 
+1712	you 're gonna need to break into Browning 's mind on your own . 	musíte se do Browningovy hlavy dostat sám . 
+1713	Come on , Fischer ! 	Jdeme , Fischere ! 
+1714	- Sound the alarm ! 	Poplach ! 
+1715	Sound the alarm ! 	
+1716	- Go , go , go ! 	
+1717	Move ! 	
+1718	Go ! 	
+1719	Sod it . 	
+1720	I hope you 're ready . 	Doufám , že jste připraveni . 
+1721	No , it 's too soon . 	Ne , je moc brzy . 
+1722	Cobb , do you hear that ? 	Slyšíš to , Cobbe ? 
+1723	I first noticed it about 20 minutes ago , I thought it was the wind up here . 	Slyšíš to , Cobbe ? 
+1724	Yeah , I hear it . 	Myslel jsem , že je to vítr . 
+1725	It s music . 	Jo , slyším to . 
+1726	So , what do we do ? 	Tak co budeme dělat ? 
+1727	We move fast . 	Tak co budeme dělat ? 
+1728	Yusuf 's 10 seconds from the jump . 	Yusufovi zbývá deset vteřin do skoku . 
+1729	Which gives Arthur three minutes . 	To dává Arthurovi tři minuty . 
+1730	- Hey ! 	
+1731	- That 's him ! 	
+1732	- Which gives us what ? 	A my máme kolik ? 
+1733	- Sixty minutes . 	60 minut . 
+1734	- Can they make that route in an hour ? 	Dají tu cestu pod hodinu ? 
+1735	- They have to climb to the terrace . 	Musí se dostat na prostřední terasu . 
+1736	Then they need a new route , a more direct route . 	Pak potřebují novou cestu . 
+1737	It 's designed as a labyrinth . 	Vždyť je to labyrint . 
+1738	There must be access routes that cut through the maze . 	Nějaká jiná cesta musí existovat , ne ? 
+1739	Eames ? 	Nějaká jiná cesta musí existovat , ne ? 
+1740	Did Eames add any features ? 	Přidal Eames nějaké další části ? 
+1741	I do n't think I should tell you . 	Přidal Eames nějaké další části ? 
+1742	We do n't have time for this . 	Jestli to Mal zjistí ... Na to nemáme čas . Přidal něco ? 
+1743	Did he add anything ? 	
+1744	He added an air-duct system ... 	Přidal větrací šachtu pod bludištěm . 
+1745	- ... 	Přidal větrací šachtu pod bludištěm . 
+1746	that can cut through the maze . 	Fajn . 
+1747	- Good . 	Vysvětli jim to . 
+1748	Explain it to them . 	Saito ? 
+1749	Paradox . 	Paradox . 
+1750	What was that ? 	Co to bylo ? 
+1751	- The kick . 	Nakopnutí . 
+1752	Cobb ! 	Cobbe , prošvihli jsme to ? 
+1753	Cobb , did we miss it ? 	Cobbe , prošvihli jsme to ? 
+1754	Yeah , we missed it . 	Cobbe , prošvihli jsme to ? 
+1755	Man . 	Nemůžeme mít někdy sen o zatracený pláži ? 
+1756	Could n't someone have dreamt up a goddamn beach ? 	Nemůžeme mít někdy sen o zatracený pláži ? 
+1757	Huh ? 	
+1758	Uh-huh . 	
+1759	Well , what the hell do we do now ? 	Co teď budeme dělat , sakra ? 
+1760	We finish the job before the next kick . 	Dokončíme to před dalším nakopnutím . 
+1761	- What next kick ? 	Dokončíme to před dalším nakopnutím . 
+1762	- When the van hits the water . 	Jakým dalším nakopnutím ? Až dodávka spadne do vody . 
+1763	If you d like to make a call , please hang up and try again . 	
+1764	If you need help , hang up ... 	
+1765	How do I drop you without gravity ? 	Jak vás nakopnu bez gravitace ? 
+1766	Arthur has a couple minutes , and we have about 20 . 	Arthur má pár minut . 
+1767	You okay ? 	Jste v pořádku ? 
+1768	Run ! 	
+1769	Turn around ! 	
+1770	Move to base ! 	
+1771	Move to base ! 	
+1772	Go , go , go ! 	
+1773	There 's something wrong . 	Něco se děje , jedou vaším směrem . 
+1774	They 're heading your way , like they know something . 	Něco se děje , jedou vaším směrem . 
+1775	Just buy us more time , all right ? 	Jen nám získej trochu času . 
+1776	- Come on ! 	Jdeme . 
+1777	- On my way . 	
+1778	Come on ! 	
+1779	Move ! 	
+1780	All right . 	
+1781	Okay . 	Před místností s trezorem je předpokoj . 
+1782	That 's the antechamber outside the strong room . 	
+1783	- Does the strong room have windows ? 	Má trezorový pokoj okna ? To by pak nebyl moc silný úkryt . 
+1784	- It would n't be very strong if it did . 	
+1785	Let 's hope Fischer likes what he finds in there . 	Doufejme , že se Fischerovi bude líbit , co tam najde . 
+1786	- Are those projections his subconscious ? 	Ty projekce jsou součástí jeho podvědomí ? 
+1787	- Yes . 	Jo . 
+1788	- Are you destroying parts of his mind ? 	Ničíš části jeho mysli ? 
+1789	- No . 	Ne , jsou to jen projekce . 
+1790	They 're just projections . 	
+1791	- We 're here . 	Teď vám nic nehrozí , ale pospěšte si . 
+1792	- You 're clear , but hurry . 	Teď vám nic nehrozí , ale pospěšte si . 
+1793	There 's an entire army headed your way . 	Teď vám nic nehrozí , ale pospěšte si . 
+1794	I 'm in . 	Jsem tu . 
+1795	There he is . 	
+1796	- There 's someone in there . 	Někdo tam je . 
+1797	- Fischer , it 's a trap . 	Fischere , je to past . 
+1798	Get out . 	Zmizte . 
+1799	Come on . 	No tak , ještě kousek . 
+1800	Come on , a little lower . 	
+1801	Cobb . 	Cobbe . 
+1802	No , she is not real . 	Ona není skutečná . 
+1803	How do you know that ? 	Jak to víš ? 
+1804	She is just a projection . 	Je to jenom projekce . Fischer je skutečný ! 
+1805	Fischer . 	
+1806	Fischer is real . 	
+1807	Hello . 	Zdravím . 
+1808	Eames ! 	Eamesi ! 
+1809	Eames , get to the antechamber now ! 	Hned běž do předpokoje ! 
+1810	What happened ? 	Co se stalo ? 
+1811	- Mal killed Fischer . 	Mal zabila Fischera . 
+1812	I could n't shoot her . 	Nedokázal jsem ji zastřelit . 
+1813	There 's no use in reviving him . 	Nemá cenu ho oživovat . 
+1814	His mind 's already trapped down there . 	Nemá cenu ho oživovat . 
+1815	It 's all over . 	Nemá cenu ho oživovat . 
+1816	So that 's it , then ? 	Takže je po všem . 
+1817	We failed ? 	Selhali jsme ? 
+1818	We 're done . 	Je konec . 
+1819	I 'm sorry . 	Je mi to líto . 
+1820	It 's not me that does n't get back to my family , is it ? 	Nejsem to já , kdo se nevrátí k rodině , že ? 
+1821	Shame . 	Škoda , fakt jsem chtěl vědět , co se tam stane . Myslel jsem , že to máme v kapse . 
+1822	I wanted to know what was gonna happen in there . 	
+1823	I swear we had this . 	
+1824	Let 's set the charges . 	Rozmístíme nálože . 
+1825	No , there 's still another way . 	Ne , ještě je jedna možnost . 
+1826	- We have to follow Fischer down there . 	Jen musíme za Fischerem do pustiny . 
+1827	- Not enough time . 	Nemáme dost času . 
+1828	No , but there will be enough time down there . 	Ale tam bude dost času . 
+1829	And we will find him . 	A najdeme ho . 
+1830	Okay , as soon as Arthur 's music kicks in , just use the defibrillator to revive him . 	A najdeme ho . 
+1831	We can give him his own kick down below . 	použij defibrilátor , abys ho oživil . 
+1832	Look , you get him in there . 	vlastní nakopnutí . 
+1833	As soon as the music ends , you blow up the hospital ... 	Až přestane hrát hudba , vyhodíš nemocnici do vzduchu 
+1834	and we all ride the kick back up the layers . 	a my se úrovněmi svezeme nahoru . 
+1835	It 's worth a shot , if Saito can hold the guards off while I set the charges . 	Za pokus to stojí . Saito pohlídá stráže , než rozmístím nálože . 
+1836	Saito will never make it , will he ? 	Saito to nepřežije , že ? 
+1837	- Cobb , come on . 	Cobbe , no tak . 
+1838	We 've gotta try this . 	Musíme to zkusit . 
+1839	- Go for it . 	Jděte do toho . 
+1840	If you are not back before the kick , I am gone with or without you . 	Jděte do toho . 
+1841	She 's right . 	Má pravdu . 
+1842	She 's right . 	Jdu na to . 
+1843	Come on . 	
+1844	Let 's go . 	
+1845	Can I trust you to do what needs to happen here ? 	Doufám , že víš , co děláš ? 
+1846	Mal 's gonna be down there . 	Doufám , že víš , co děláš ? 
+1847	I know where to find her . 	Vím , jak ji najít . 
+1848	She 'll have Fischer . 	Bude mít u sebe Fischera . 
+1849	- How do you know ? 	Jak to víš ? Protože chce , abych si pro něj přišel . 
+1850	- Because she wants me to come after him . 	
+1851	She wants me back down there with her . 	Chce mě mít u sebe . 
+1852	All right ? 	V pořádku ? 
+1853	- This is your world ? 	To je váš svět ? 
+1854	- It was . 	
+1855	And this is where she 'll be . 	Byl . 
+1856	Come on . 	
+1857	Saito . 	Saito . 
+1858	Saito . 	Saito . 
+1859	I need you to take care of Fischer while I go set some charges , okay ? 	Musíte se postarat o Fischera , než rozmístím nálože , dobře ? 
+1860	No room for tourists on these jobs . 	Na tomhle výletu není místo pro turisty , ne ? 
+1861	Do n't be silly . 	Nemluvte nesmysly . 
+1862	You built all this ? 	Tohle všechno jste postavili ? 
+1863	This is incredible . 	To je fantastické . 
+1864	We built for years . 	Stavěli jsme roky . 
+1865	Then we started in on the memories . 	Používali jsme naše vzpomínky . 
+1866	This way . 	Tudy . 
+1867	This was our neighborhood . 	Tohle je naše čtvrť . 
+1868	Places from our past . 	Místa z naší minulosti . 
+1869	That was our first apartment . 	Náš první byt . 
+1870	Then we moved to that building right there . 	Pak jsme se přestěhovali do té budovy vedle . 
+1871	After Mal became pregnant , that became our home . 	Tohle byl náš domov potom , co Mal poprvé otěhotněla . 
+1872	You reconstructed all of this from memory ? 	Tohle všechno jste postavili ze vzpomínek ? 
+1873	Like I told you , we had lots of time . 	Říkal jsem ti , že jsme měli spoustu času . 
+1874	What is that ? 	Říkal jsem ti , že jsme měli spoustu času . 
+1875	That 's the house Mal grew up in . 	V tom domě Mal vyrůstala . 
+1876	- Well , will she be in there ? 	V tom domě Mal vyrůstala . 
+1877	- No . 	Nebude tam ? Ne . Pojď . 
+1878	Come on . 	
+1879	We both wanted to live in a house , but we loved this type of building . 	Vždycky jsme chtěli bydlet v domě , ale milovali jsme mrakodrapy . 
+1880	In the real world , we 'd have to choose , but not here . 	Ve skutečném světě bychom si museli vybrat , ale tady ne . 
+1881	How are we gonna bring Fischer back ? 	Jak dostaneme Fischera zpátky ? 
+1882	We 're gonna have to come up with some kind of a kick . 	Musíme vymyslet nějaké nakopnutí . 
+1883	What ? 	Musíme vymyslet nějaké nakopnutí . 
+1884	I 'm gonna improvise . 	Budeme improvizovat . 
+1885	Listen , there 's something you should know about me . 	Budeme improvizovat . 
+1886	About inception . 	Podívej , měla bys o mně něco vědět . O vnuknutí . 
+1887	An idea is like a virus . 	Myšlenka je jako virus . 
+1888	Resilient . 	Odolná . 
+1889	Highly contagious . 	Velmi nakažlivá . 
+1890	And the smallest seed of an idea can grow . 	Nejmenší semínko myšlenky může vyrůst . 
+1891	It can grow to define ... 	Výsledná myšlenka tě může definovat 
+1892	or destroy you . 	nebo zničit . 
+1893	The smallest idea , such as : 	Nejjednodušší myšlenka jako ... 
+1894	Your world is not real . 	Tvůj svět není skutečný . 
+1895		
+1896	Simple little thought that changes everything . 	Prostá myšlenka , která všechno změní . 
+1897	So certain of your world . 	Jsi si tak jistý svým světem , pravou realitou . Myslíš , že má pravdu ? 
+1898	Of what 's real . 	
+1899	Do you think he is ? 	
+1900	Or do you think he 's as lost as I was ? 	Nebo je stejně ztracený , jako jsem byla já ? 
+1901	I know what 's real , Mal . 	Vím , co je realita , Mal . 
+1902	No creeping doubts ? 	Žádné plíživé pochybnosti ? 
+1903	Not feeling persecuted , Dom ? 	Nemáš pocit , že tě něco pronásleduje ? 
+1904	Chased around the globe ... 	Že tě po světě honí anonymní společnosti 
+1905	by anonymous corporations and police forces ... 	Že tě po světě honí anonymní společnosti 
+1906	the way the projections persecute the dreamer ? 	a policie ? 
+1907	Admit it . 	Přiznej si to . 
+1908	You do n't believe in one reality anymore . 	Už nevěříš v jedinou realitu . 
+1909	So choose . 	Tak si vyber . 
+1910	Choose to be here . 	Tak si vyber . 
+1911	Choose me . 	Vyber si tuhle realitu . Vyber si mě . 
+1912	You know what I have to do . 	Víš , co musím udělat . 
+1913	I have to get back to our children because you left them . 	Víš , co musím udělat . 
+1914	Because you left us . 	Protože jsi opustila nás . 
+1915	- You 're wrong . 	Protože jsi opustila nás . 
+1916	- I m not wrong . 	Mýlíš se . 
+1917	You 're confused . 	Ne . 
+1918	Our children are here . 	Naše děti jsou tady . 
+1919	And you 'd like to see their faces again , would n't you ? 	A ty bys chtěl zase vidět jejich tváře , že ano ? 
+1920	Yes , but I m gonna see them up above , Mal . 	Ano , ale uvidím je tam nahoře , Mal . 
+1921	Up above ? 	Tam nahoře ? 
+1922	Listen to yourself . 	Poslouchej se . 
+1923	These are our children . 	Tohle jsou naše děti . 
+1924	Watch . 	Dívej se . 
+1925	James ? 	Dívej se . 
+1926	Phillipa ? 	Jamesi ! 
+1927	Do n't do this , Mal . 	Prosím tě , ne . 
+1928	Please . 	Tohle nejsou moje děti . 
+1929	Those are n't my children . 	
+1930	You keep telling yourself that , but you do n't believe it . 	Neustále si to opakuješ , ale sám tomu nevěříš . 
+1931	- No , I know it . 	Vím to . 
+1932	- What if you 're wrong ? 	A co když se mýlíš ? 
+1933	What if I 'm what 's real ? 	A co když se mýlíš ? 
+1934	You keep telling yourself what you know . 	Pořád si opakuješ , co víš . 
+1935	But what do you believe ? 	Ale čemu věříš ? 
+1936	What do you feel ? 	Co cítíš ? 
+1937	Guilt . 	Vinu . 
+1938	I feel guilt , Mal . 	Cítím vinu , Mal . 
+1939	And no matter what I do , no matter how hopeless I am ... 	Ať dělám , co dělám . Ať jsem jakkoli zoufalý a zmatený . 
+1940	no matter how confused , that guilt is always there ... 	Ta vina tu pořád je , aby mi připomínala pravdu . 
+1941	reminding me of the truth . 	Ta vina tu pořád je , aby mi připomínala pravdu . 
+1942	What truth ? 	Jakou pravdu ? 
+1943	That the idea that caused you to question your reality came from me . 	Že tu myšlenku , kvůli které jsi odmítala svou realitu , jsem ti vnukl já . 
+1944	You planted the idea in my mind ? 	Ty jsi mi tu myšlenku zasadil do hlavy ? 
+1945	What is she talking about ? 	O čem to mluví ? 
+1946	The reason I knew inception was possible was because I did it to her first . 	Věděl jsem , že je vnuknutí možné , protože jsem ho nejdřív provedl jí . 
+1947	- I did it to my own wife . 	Provedl jsem ho vlastní ženě . 
+1948	- Why ? 	Proč ? 
+1949	We were lost in here . 	Proč ? 
+1950	I knew we needed to escape , but she would n't accept it . 	Věděl jsem , že musíme pryč , ale ona se s tím nechtěla smířit . 
+1951	She had locked something away , something deep inside . 	Někde v sobě něco uzamkla . Někam hluboko . 
+1952	A truth that she had once known , but chose to forget . 	Pravdu , kterou dříve znala , ale rozhodla se na ni zapomenout . 
+1953	And she could n't break free . 	Nemohla se osvobodit . 
+1954	So I decided to search for it . 	Takže jsem to začal hledat . 
+1955	I went deep into the recess of her mind and found that secret place . 	Někde v hlubinách její mysli jsem to tajné místo našel . 
+1956	And I broke in ... 	Vloupal jsem se tam a zasadil jsem myšlenku . 
+1957	and I planted an idea . 	Vloupal jsem se tam a zasadil jsem myšlenku . 
+1958	A simple little idea that would change everything . 	Prostou myšlenku , která všechno změnila . 
+1959	That her world was n't real . 	Že její svět není skutečný . 
+1960	That death was the only escape . 	Smrt je jediné východisko ... 
+1961	You 're waiting for a train . 	Čekáš na vlak . 
+1962	A train that 'll take you far away . 	Na vlak , který tě odveze daleko . 
+1963	You know where you hope this train will take you ... 	Doufáš , že tě zaveze na jisté místo , 
+1964	but you ca n't know for sure . 	ale nemáš jistotu . 
+1965	Yet it does n't matter . 	Ale na tom nezáleží . 
+1966	- Now , tell me why ! 	Řekni mi proč ! Protože budeme spolu ! 
+1967	- Because you 'll be together ! 	
+1968	But I never knew that that idea would grow in her mind like a cancer ... 	Netušil jsem , že ta myšlenka v její mysli nekontrolovatelně poroste . 
+1969	that even after she woke ... 	Že i poté , co se probudila . 
+1970	That even after you came back to reality ... 	Potom , co ses vrátila do reality , 
+1971	that you 'd continue to believe your world was n't real . 	budeš stále věřit , že tvůj svět není skutečný . 
+1972	That death was the only escape . 	Že smrt je jediné východisko . 
+1973	Mal , no ! 	Mal , ne ! 
+1974	Jesus ! 	Panebože ! 
+1975	- You infected my mind . 	Proniknul jsi do mé mysli . 
+1976	- I was trying to save you . 	Snažil jsem se tě zachránit . 
+1977	You betrayed me . 	Snažil jsem se tě zachránit . 
+1978	But you can make amends . 	Ale můžeš to napravit . 
+1979	You can still keep your promise . 	Ještě můžeš dodržet svůj slib . 
+1980	We can still be together , right here ... 	Můžeme být spolu . 
+1981	in the world we built together . 	ve světě , který jsme si postavili . 
+1982	Cobb , we need to get Fischer . 	Musíme najít Fischera . 
+1983	You ca n't have him . 	Musíme najít Fischera . 
+1984	- lf I stay here , will you let him go ? 	Když tu s tebou zůstanu , pustíš ho ? 
+1985	- What are you talking about ? 	O čem to mluvíš ? 
+1986	Fischer is on the porch . 	Je na verandě . 
+1987	- Go check he 's alive , Ariadne . 	Zkontroluj , jestli žije . 
+1988	- Cobb , you ca n't do this . 	Tohle nemůžeš . 
+1989	Go check he 's alive right now . 	Běž se podívat , hned ! 
+1990	Do it . 	
+1991	He 's here ! 	Je tady . 
+1992	And it 's time , but you have to come now ! 	Ale musíme okamžitě jít . 
+1993	You take Fischer with you , all right ? 	Vezmi Fischera sebou , dobře ? 
+1994	- You ca n't stay here to be with her . 	Nemůžeš tady s ní zůstat . 
+1995	I 'm not . 	Nezůstanu . 
+1996	Saito 's dead by now . 	Saito už je mrtvý , takže tady někde bude . 
+1997	That means he 's down here somewhere . 	Musím ho najít . 
+1998	That means I have to find him . 	
+1999	I ca n't stay with her anymore , because she does n't exist . 	Nemůžu s ní zůstat , protože už neexistuje . 
+2000	I 'm the only thing you do believe in anymore . 	Jsem ta poslední věc , v kterou ještě věříš . 
+2001	No . 	
+2002	I wish . 	Kéž by . 
+2003	I wish more than anything , but ... 	Kéž by to tak bylo . 
+2004	I ca n't imagine you with all your complexity ... 	Ale už si tě nedokážu představit ve vší tvé složitosti , 
+2005	all your perfection , all your imperfection . 	tvé dokonalosti a nedokonalosti . 
+2006	- You all right ? 	Jste v pořádku ? 
+2007	- Yeah . 	Jste v pořádku ? 
+2008	Look at you . 	Jste v pořádku ? 
+2009	You 're just a shade . 	Jsi jenom stín . 
+2010	You 're just a shade of my real wife . 	Stín mé skutečné manželky . 
+2011	And you were the best that I could do , but ... 	Snažil jsem se , 
+2012	I m sorry , you 're just not good enough . 	ale nejsi pro mě dost dobrá , promiň . 
+2013	Does this feel real ? 	Tohle je dost skutečné ? 
+2014	- What are you doing ? 	Co to děláš ? 
+2015	- Improvising . 	Improvizuju . 
+2016	No , no , no ! 	Ne , ne ! 
+2017	In there , now . 	Běžte tam , běžte . 
+2018	Go , go , go . 	Dělejte ! 
+2019	I was dis -- 	Byl jsem zkla ... 
+2020	I was dis Disa -- 	Byl jsem zkla ... 
+2021	- I know , Dad . 	Já vím , tati . 
+2022	- Dis -- 	Zkla ... 
+2023	I know you were disappointed ... 	Vím , že jsi byl zklamaný , 
+2024	I could n't be you . 	že jsem nebyl jako ty . 
+2025	No . 	že jsem nebyl jako ty . 
+2026	No , no , no . 	To ne . 
+2027	I was disappointed ... 	Byl jsem zklamaný , 
+2028	that you tried . 	že jsi chtěl být jako já . 
+2029	What ? 	
+2030	Come on , come on . 	
+2031	Dad ? 	
+2032	That 's the kick , Ariadne ! 	To je nakopnutí , Ariadne ! 
+2033	You have to go now ! 	Musíš hned jít ! 
+2034	Do n't lose yourself ! 	Neztrať sebe samého ! 
+2035	Find Saito and bring him back ! 	Najdi Saita a přiveď ho zpátky ! 
+2036	I will ! 	Najdu . 
+2037	You remember when you asked me to marry you ? 	Vzpomínáš si , jak jsi mě požádal o ruku ? 
+2038	Yes . 	Vzpomínám . 
+2039	You said you dreamt that we 'd grow old together . 	Vzpomínám . 
+2040	But we did . 	Vždyť jsme zestárli . 
+2041	We did . 	Zestárli jsme , nevzpomínáš si ? 
+2042	You do n't remember ? 	
+2043	I miss you more than I can bear ... 	Chybíš mi , až je to nesnesitelné . 
+2044	but we had our time together . 	Náš život jsme si už prožili . 
+2045	And I have to let you go . 	Musím na tebe zapomenout . 
+2046	I have to let you go . 	Musím tě nechat jít . 
+2047	I 'm sorry , Robert . 	Promiň , Roberte . 
+2048	You know , the will means that Dad wanted me to be my own man ... 	Ta závěť mi měla říct , že otec chtěl , abych byl sám sebou . 
+2049	not just to live for him . 	A nejen jenom jeho kopií . 
+2050	That 's what I m gonna do , Uncle Peter . 	Přesně to udělám , strýčku Petere . 
+2051	What happened ? 	Co se stalo ? 
+2052	- Cobb stayed . 	Cobb tam zůstal . 
+2053	- With Mal ? 	S Mal ? 
+2054	No , to find Saito . 	Ne . 
+2055	He 'll be lost . 	Ztratí se . 
+2056	No , he 'll be all right . 	Ne , poradí si . 
+2057	Have you come to kill me ? 	Jste zde , abyste mě zabil ? 
+2058	I 'm waiting for someone . 	Na někoho čekám . 
+2059	Someone from a half-remembered dream . 	Na někoho z téměř zapomenutého snu . 
+2060	Cobb ? 	Cobbe ? 
+2061	Impossible . 	To není možné . 
+2062	We were young men together . 	Spolu jsme byli mladí . 
+2063	I 'm an old man . 	Nyní jsem stařec . 
+2064	Filled with regret . 	Plný výčitek , 
+2065	Waiting to die alone . 	čekající o samotě na smrt . 
+2066	I 've come back for you . 	Vrátil jsem se pro vás . 
+2067	To remind you of something . 	Abych vám něco ... připomněl . 
+2068	Something you once knew . 	Něco , co jste dříve věděl . 
+2069	That this world is not real . 	Že tento svět není skutečný . 
+2070	To convince me to honor our arrangement ? 	Abyste se ujistil , že splním svůj slib . 
+2071	To take a leap of faith , yes . 	A skočil do neznáma , ano . 
+2072	Come back ... 	Vraťte se , 
+2073	so we can be young men together again . 	abychom spolu mohli být zase mladí . 
+2074	Come back with me . 	Vraťte se se mnou . 
+2075	Come back . 	Vraťte se . 
+2076	Hot towel , sir ? 	Horký ručník , pane ? 
+2077	We 'll be landing in Los Angeles in about 20 minutes . 	Za dvacet minut přistaneme v Los Angeles . 
+2078	Do you need immigration forms ? 	Potřebujete imigrační formulář ? 
+2079	Thank you . 	Děkuji . 
+2080	Hot towel , sir ? 	Horký ručník , pane ? 
+2081	- No . 	Ne . Potřebujete imigrační formulář ? 
+2082	- Do you need immigration forms ? 	
+2083	Welcome home , Mr . Cobb . 	Vítejte doma , pane Cobbe . 
+2084	Thank you , sir . 	Děkuji , pane . 
+2085	Welcome . 	Vítej . 
+2086	This way . 	Tudy . 
+2087	James ? 	
+2088	Phillipa ? 	
+2089	Look who 's here . 	Podívejte , kdo přišel . 
+2090	Hey . 	Ahoj , děcka . 
+2091	- Hey , guys ! 	Ahoj , děcka . 
+2092	Hey ! 	Tati ! 
+2093	How are you ? 	Jak se máte ? 
+2094	- Daddy ! 	
+2095	Daddy ! 	
+2096	- Daddy ! 	
+2097	- How are you ? 	
+2098	Look what I ve been building ! 	Podívej , co jsem postavil ! 
+2099	- What are you building ? 	Copak to tu děláš ? Postavil jsem hrad z kamenů ! 
+2100	- We 're building a house on the cliff ! 	
+2101	On the cliff ? 	
+2102	Come on , I want you to show me . 	
+2103	Can you show me ? 	
+2104	- Let 's go . 	
+2105	- Come on , Daddy ! 	

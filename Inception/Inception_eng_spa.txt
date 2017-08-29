@@ -1,0 +1,2105 @@
+﻿1	Are you here to kill me ? 	Vino a matarme ? 
+2	I know what this is . 	Yo sé lo que es esto . 
+3	I 've seen one before . 	Ya había visto uno , hace muchos años . 
+4	Many , many years ago . 	
+5	It belonged to a man I met in a half-remembered dream . 	Le pertenecía a un hombre que conocí en un sueño mal recordado . 
+6	A man possessed of some radical notions . 	Un hombre que tenía unas ideas radicales . 
+7	What is the most resilient parasite ? 	Cuál es el parásito más resistente ? 
+8	A bacteria ? 	Una bacteria ?  
+9	A virus ? 	Un virus ?
+10	An intestinal worm ? 	Un gusano intestinal ? 
+11	Uh ... 	
+12	What Mr . Cobb is trying to say -- 	Lo que dice el Sr . Cobb ... 
+13	An idea . Una idea . 	
+14	Resilient . 	Resistente , 
+15	Highly contagious . 	altamente contagiosa .  
+16	Once an idea has taken hold of the brain , it 's almost impossible to eradicate . 	Cuando se apodera del cerebro es casi imposible erradicarla . 
+17	An idea that is fully formed , fully understood , that sticks . 	Una idea completamente formada y entendida , eso se le pega . Ahí , en algún lado . 
+18	Right in there somewhere . 	Para que Ud . 
+19	For someone like you to steal ? 	se la robe ? 
+20	Yes . 	
+21	In the dream state , your conscious defenses are lowered ... 	En el estado de sueño , se bajan sus defensas ... 
+22	and that makes your thoughts vulnerable to theft . 	y sus pensamientos son susceptibles al robo . 
+23	It 's called extraction . 	Se le llama extracción . 
+24	Mr . Saito , we can train your subconscious to defend itself ... 	Sr . Saito , podemos entrenar a su subconsciente a defenderse ... 
+25	from even the most skilled extractor . 	hasta del extractor más hábil . 
+26	How can you do that ? 	Cómo puede hacer eso ? 
+27	Because I am the most skilled extractor . 	Yo soy el extractor más hábil . 
+28	I know how to search your mind and find your secrets . 	Sé cómo buscar los secretos en su mente , 
+29	I know the tricks . 	sé los trucos .  
+30	And I can teach them to you , so that even when you 're asleep ... 	Y se los puedo enseñar para que hasta dormido ... 
+31	your defense is never down . 	nunca baje sus defensas . 
+32	Look , if you want my help , you 're gonna have to be completely open with me . 	Si quiere mi ayuda , va a tener que abrirse conmigo . 
+33	I need to know my way around your thoughts better than your wife ... 	Necesito saber lo que piensa mejor que su esposa , mejor ... 
+34	better than your therapist , better than anyone . 	que su sicoanalista , mejor que nadie . 
+35	If this is a dream , and you have a safe full of secrets ... 	Si tiene una caja fuerte llena de secretos ... 
+36	I need to know what 's in that safe . 	necesito saber qué contiene . 
+37	In order for this all to work , you need to completely let me in . 	Para que funcione , necesita darme acceso total . 
+38	Enjoy your evening , gentlemen , as I consider your proposal . 	Disfruten de su velada mientras considero su propuesta . 
+39	He knows . 	Él sabe . 
+40	What 's going on up there ? 	Qué sucede allá arriba ? 
+41	Saito knows . 	Saito sabe . 
+42	He 's playing with us . 	Está jugando con nosotros . 
+43	Does n't matter . 	No importa . 
+44	I can get it here . 	Se lo puedo sacar . Créeme . Está en la caja fuerte . 
+45	Trust me . 	
+46	The information is in the safe . 	La miró cuando dije secretos . 
+47	He looked right at it when I mentioned secrets . 	La miró cuando dije secretos . 
+48	What 's she doing here ? 	Qué hace aquí ? 
+49	Just head back to the room . 	Regresa al cuarto . 
+50	All right ? 	Yo me encargo de esto . 
+51	I 'll take care of this . 	Hazlo . 
+52	Okay , make sure you do . 	Hazlo . 
+53	We 're here to work . 	Vinimos a trabajar . 
+54	If I jumped , would I survive ? 	Si saltara , sobreviviría ? 
+55	With a clean dive , perhaps . 	Con un buen clavado , quizá . Mal , qué haces aquí ? 
+56	Mal , what are you doing here ? 	Pensé que podías extrañarme . 
+57	I thought you might be missing me . 	Pensé que podías extrañarme . 
+58	You know that I am . 	Tú sabes que sí . 
+59	But I ca n't trust you anymore . 	Pero ya no puedo confiar en ti . 
+60	So what ? 	Y qué ? 
+61	Looks like Arthur 's taste . 	Parece algo que le gustaría a Arthur . 
+62	Actually , the subject is partial to postwar British painters . 	El sujeto prefiere los pintores británicos de la posguerra . 
+63	Please , have a seat . 	Por favor , siéntate . 
+64	Tell me ... 	Dime . Los niños me extrañan ? 
+65	do the children miss me ? 	
+66	You ca n't imagine . 	No te imaginas cuánto . 
+67	What are you doing ? 	Qué estás haciendo ? Saliendo a tomar el fresco . 
+68	Just getting some fresh air . 	Quédate donde estás , Mal . 
+69	Stay where you are , Mal . 	Quédate donde estás , Mal . 
+70	Goddamn it . 	Maldita sea ! 
+71	Turn around . 	Dése la vuelta . La pistola , Dom . 
+72	The gun , Dom . 	
+73	Please . 	Por favor . 
+74	Now the envelope , Mr . Cobb . 	Ahora el sobre , Sr . Cobb . 
+75	Did she tell you ? 	Ella le dijo ? 
+76	Or have you known all along ? 	O lo supo todo el tiempo ? 
+77	That you 're here to steal from me , or that we are actually asleep ? 	Qué vino a robarme o que en realidad estamos dormidos ? 
+78	I want to know the name of your employer . 	Quiero saber cómo se llama quien lo contrató . 
+79	Ah , there 's no use threatening him in a dream , right , Mal ? 	No sirve de nada amenazarlo en un sueño , verdad ? 
+80	That depends on what you 're threatening . 	Todo depende de con qué lo amenaces . 
+81	Killing him would just wake him up . 	Matarlo solamente lo despertaría . Pero el dolor ... 
+82	But pain ... 	
+83	Pain is in the mind . 	El dolor está en la mente . 
+84	And judging by the decor , we 're in your mind , are n't we , Arthur ? 	A juzgar por el decorado , estamos en tu mente , Arthur . 
+85	- What are you doing ? 	- Qué haces ? 
+86	It 's too soon . 	Es muy pronto ! 
+87	- But the dream 's collapsing . 	- El sueño se está colapsando . 
+88	I 'm gonna try to keep Saito under a little bit longer . 	Trataré de mantener sedado a Saito . 
+89	We 're almost there . 	Ya falta poco . 
+90	He was close . 	Le faltó poco . 
+91	Very close . 	Muy poco . 
+92	Stop him ! 	Deténganlo ! 
+93	This is n't gonna work . 	No va a funcionar . 
+94	Wake him up . 	Despiértalo . 
+95	He wo n't wake . 	No se despierta ! 
+96	- Give him the kick . 	- Dale la patada ! 
+97	- What ? 	- Qué ? 
+98	Dunk him . 	Échalo en la tina . 
+99	He 's out . 	Está inconsciente . 
+100	You came prepared , hmm ? 	Vino preparado , eh ? 
+101	Not even my head of security knows this apartment . 	Ni mi jefe de seguridad conoce este apartamento . 
+102	How did you find it ? 	Cómo lo encontró ? 
+103	It 's difficult for a man of your position to keep a love nest like this secret ... 	Es difícil para alguien como Ud . 
+104	particularly where there 's a married woman involved . 	sobre todo tratándose de una mujer casada . 
+105	- She would never ... 	- Ella nunca ... 
+106	- Yet here we are . 	- Pero aquí estamos . 
+107	- With a dilemma . 	- Con un dilema . 
+108	- They 're getting closer . 	- Se están acercando . 
+109	- You got what you came for . 	- Consiguió lo que buscaba . 
+110	- Well , that 's not true . 	- No es verdad . 
+111	You left out a key piece of information , did n't you ? 	Omitió una parte clave de la información , no ? 
+112	You held something back because you knew what we were up to . 	Se guardó algo porque sabía a lo que veníamos . 
+113	- Question is , why 'd you let us in at all ? 	- Por qué nos dejó entrar ? 
+114	- An audition . 	- Era una audición . 
+115	- An audition for what ? 	- Una audición para qué ? 
+116	- Does n't matter . 	- No importa . 
+117	You failed . 	Fracasó . 
+118	We extracted every bit of information you had in there . 	Extrajimos toda la información que tenía ahí . 
+119	But your deception was obvious . 	Pero su engaño era obvio . 
+120	- So leave me and go . 	- Así que déjeme y váyase . 
+121	- You do n't seem to understand , Mr . Saito . 	- Ud . 
+122	That corporation that hired us , they wo n't accept failure . 	La corporación que nos contrató no acepta un fracaso . 
+123	We wo n't last two days . 	No vamos a durar nidos días . 
+124	Cobb ? 	Cobb ? 
+125	Looks like I 'm gonna have to do this a little more simply . 	Tendré que hacerlo de una manera más sencilla . 
+126	Tell us what you know ! 	Díganos lo que sabe ! 
+127	Tell us what you know , now ! 	Díganos lo que sabe , ahora ! 
+128	I 've always hated this carpet . 	Siempre he odiado esta alfombra . 
+129	It 's stained and frayed in such distinctive ways . 	Está manchada y deshilada de maneras muy singulares . 
+130	But very definitely made of wool . 	Pero está hecha de lana . 
+131	Right now ... 	En este momento ... 
+132	I m lying on polyester . 	estoy acostado sobre poliéster . 
+133	Which means I m not lying on my carpet , in my apartment . 	Quiere decir que no estoy acostado en el tapete de mi apartamento . 
+134	You have lived up to your reputation , Mr . Cobb . 	Le ha hecho honor a su reputación , Sr . Cobb . 
+135	I 'm still dreaming . 	Sigo soñando . 
+136	- How 'd it go ? 	- Cómo les fue ? 
+137	- Not good . 	- No bien . 
+138	Dream within a dream , huh ? 	Un sueño dentro de un sueño ? 
+139	I 'm impressed . 	Me impresionó . 
+140	But in my dream , you play by my rules . 	Pero en mi sueño , Ud . 
+141	Ah , yes , but you see , Mr . Saito ... 	Sí , pero verá , Sr . Saito ... No estamos en su sueño . 
+142	We 're not in your dream . 	Estamos en el mío . 
+143	We 're in mine . 	
+144	Asshole . 	Imbécil . 
+145	How do you mess up the carpet ? 	Hiciste mal la alfombra . 
+146	- It was n't my fault . 	- No fue culpa mía . 
+147	- You 're the architect . 	- Tú eres el arquitecto . 
+148	I did n't know he was gonna rub his cheek on it ! 	No sabía que iba a poner la mejilla ! Basta . 
+149	That 's enough . 	
+150	You . 	Tú . 
+151	What the hell was all that ? 	Qué demonios fue eso ? 
+152	- I have it under control . 	- Está bajo control . 
+153	- I 'd hate to see you out of control . 	- Odiaría verte descontrolado . 
+154	We do n't have time for this . 	No tenemos tiempo para esto . 
+155	I 'm getting off at Kyoto . 	Me voy a bajar en Kyoto . 
+156	He 's not gonna check every compartment . 	No revisará cada compartimiento . No me gustan los trenes . 
+157	Yeah , well , I do n't like trains . 	Cada quien se va por su lado . 
+158	Listen . 	Cada quien se va por su lado . 
+159	Every man for himself . 	
+160	Yes , hello ? 	- Hola , papi . 
+161	- Hi , Daddy . 	- Hola , papi . 
+162	- Hi , Dad . 	- Hola , papá . 
+163	Hey , guys . 	Hola , niños . 
+164	Hey . 	Cómo están ? 
+165	How are you ? 	Cómo les va ? 
+166	How you doing , huh ? 	- Bien . 
+167	- Good . 	- Bien . 
+168	- Okay , I guess . 	- Más o menos , supongo . 
+169	Okay ? 	Más o menos ? 
+170	Who 's just okay ? 	Quién está más o menos ? 
+171	Is that you , James ? 	Tú , James ? 
+172	Yeah . 	Sí . 
+173	When are you coming home , Dad ? 	Cuándo vas a venir a casa , papá ? 
+174	Well , I ca n't , sweetheart . 	No puedo . 
+175	I ca n't . 	Hasta dentro de un tiempo . Te acuerdas ? Por qué ? 
+176	Not for a while , remember ? 	
+177	Why ? 	Te lo dije . 
+178	Look , I told you , I m away because I m working , right ? 	Te lo dije . 
+179	Grandma says you 're never coming back . 	La abuela dice que no vas a regresar nunca . 
+180	Phillipa , is that you ? 	Phippa , eres tú ? 
+181	Put Grandma on the phone for me , will you ? 	Pásame a la abuela , quieres ? 
+182	She 's shaking her head . 	Dice que no . 
+183	Well , just hope she 's wrong about that . 	Pues ojalá se equivoque . 
+184	Daddy ? 	Papi ? Sí , James ? 
+185	Yeah , James ? 	Mami está contigo ? 
+186	Is Mommy with you ? 	
+187	James , we talked about this . 	Ya hablamos de eso . 
+188	Mommy 's not here anymore . 	Mami ya no está aquí . 
+189	Where ? 	Dónde ? 
+190	That 's enough , kids . 	Ya fue suficiente , niños . 
+191	Say bye-bye . 	Despídanse . 
+192	Listen , I m gonna send some presents with Grandpa , all right ? 	Voy a mandar unos regalos con el abuelo . 
+193	And you be good , you be -- 	Y Uds . 
+194	- Our ride 's on the roof . 	- Ya está en el techo . 
+195	- Right . 	- Está bien . 
+196	Hey , are you okay ? 	Estás bien ? 
+197	Yeah . 	Sí . 
+198	Yeah , I m fine . 	Por qué ? 
+199	Why ? 	Mal se apareció en el sueño . 
+200	Well , down in the dream , Mal showing up . 	Mal se apareció en el sueño . 
+201	Look , I m , uh , sorry about your leg . 	Perdón por tu pierna . 
+202	Wo n't happen again . 	No volverá a suceder . 
+203	- It 's getting worse , is n't it ? 	- Está empeorando , no ? 
+204	- One apology 's all you 're getting , all right ? 	- Te voy a pedir perdón una vez y ya . 
+205	- Where 's Nash ? 	- Dónde está Nash ? 
+206	- He has n't shown . 	- No ha llegado . 
+207	You wanna wait ? 	Esperamos ? 
+208	We were supposed to deliver Saito 's expansion plans ... 	Había que entregar los planes de Saito a Ingeniería Cobol hace dos horas . 
+209	to Cobol Engineering two hours ago . 	Había que entregar los planes de Saito a Ingeniería Cobol hace dos horas . 
+210	By now , they know we failed . 	Ya deben de saber que fallamos . 
+211	It 's time we disappear . 	Es hora de desaparecer . 
+212	- Where you gonna go ? 	- Adónde vas a ir ? 
+213	- Buenos Aires . 	- A Buenos Aires . 
+214	I can lie low there , maybe sniff out a job when things quiet down . 	Ahí puedo esconderme , quizá encontrar un trabajo . Y tú ? A Estados Unidos . 
+215	You ? 	
+216	Stateside . 	Salúdamelos . 
+217	Send my regards . 	
+218	He sold you out . 	Él los traicionó . 
+219	Thought to come to me and bargain for his life . 	Vino conmigo a negociar por su vida . 
+220	So I offer you the satisfaction . 	Así que ofrezco la satisfacción . 
+221	It 's not the way I deal with things . 	Yo no arreglo así las cosas . 
+222	- What will you do with him ? 	- Qué va a hacer con él ? 
+223	- Nothing . 	- Nada . 
+224	But I ca n't speak for Cobol Engineering . 	Pero Ingeniería Cobol , no sé . 
+225	- What do you want from us ? 	- Qué quiere que hagamos ? 
+226	- Inception . 	- Una oxigenación . 
+227	- Is it possible ? 	- Es posible ? 
+228	- Of course not . 	- Claro que no . 
+229	If you can steal an idea from someone 's mind ... 	Si puede robar una idea de una mente ... 
+230	why ca n't you plant one there instead ? 	por qué no puede sembrar una ? 
+231	Okay , here 's me planting an idea in your head . 	Muy bien , le voy a sembrar una idea . 
+232	I say , Do n't think about elephants . 	Le digo : No piense en elefantes . En qué está pensando ? En elefantes . 
+233	What are you thinking about ? 	
+234	Elephants . 	Cierto . 
+235	Right . 	Cierto . 
+236	But it 's not your idea , because you know I gave it to you . 	Pero no es su idea , porque sabe que yo se la di . 
+237	The subject 's mind can always trace the genesis of the idea . 	El sujeto puede rastrear el origen de una idea . 
+238	- True inspiration 's impossible to fake . 	- La inspiración no se falsifica . 
+239	- That 's not true . 	- Eso no es cierto . 
+240	- Can you do it ? 	- Lo puede hacer ? 
+241	- Are you offering me a choice ? 	- Me está dando a elegir ? 
+242	Because I can find my own way to square things with Cobol . 	Porque yo puedo arreglar las cosas con Cobol . 
+243	Then you do have a choice . 	Entonces puede elegir . 
+244	Then I choose to leave , sir . 	Entonces deseo irme , señor . 
+245	Tell the crew where you want to go . 	Dígales a dónde quieren ir . 
+246	Hey , Mr . Cobb . 	Señor Cobb ! 
+247	How would you like to go home ? 	Le gustaría irse a su casa ? 
+248	To America . 	A Estados Unidos ? 
+249	To your children . 	Con sus hijos ? 
+250	You ca n't fix that . 	Ud . 
+251	No one can . 	no puede arreglar eso ! 
+252	- Just like inception . 	- Es como la oxigenación . 
+253	- Cobb , come on . 	- Cobb , vámonos . 
+254	- How complex is the idea ? 	- Qué tan compleja es la idea ? 
+255	- Simple enough . 	- Es bastante sencilla . 
+256	No idea is simple when you need to plant it in somebody else 's mind . 	Ninguna idea es sencilla cuando hay que plantarla en una mente . 
+257	My main competitor is an old man in poor health . 	Mi competidor principal es un viejo enfermo . 
+258	His son will soon inherit control of the corporation . 	Su hijo heredará el control de la corporación . 
+259	I need him to decide to break up his father 's empire . 	Necesito que deshaga el imperio de su padre . 
+260	- Cobb , we should walk away from this . 	- Mejor vámonos de aquí . 
+261	- Hold on . 	- Espera . 
+262	If I were to do this , if I even could do it ... 	Si lo hiciera , si pudiera hacerlo , necesitaría una garantía . 
+263	I d need a guarantee . 	Si lo hiciera , si pudiera hacerlo , necesitaría una garantía . 
+264	- How do I know you can deliver ? 	- Cómo sé que cumplirá su promesa ? 
+265	- You do n't . 	- No lo sabe . 
+266	But I can . 	Pero puedo . 
+267	So do you want to take a leap of faith ... 	Quiere dar un salto a ciegas ? 
+268	or become an old man , filled with regret ... 	O volverse un viejo , arrepentido ... 
+269	waiting to die alone ? 	y esperando a morir solo ? 
+270	Assemble your team , Mr . Cobb . 	Junte a su equipo , Sr . Cobb . 
+271	And choose your people more wisely . 	Y escoja más sabiamente a su gente . 
+272	Look , I know how much you wanna go home . 	Sé cuánto quieres regresar a casa . 
+273	This ca n't be done . 	Esto no se puede hacer . 
+274	Yes , it can . 	Sí se puede . Hay que profundizar lo suficiente . No puedes estar seguro . 
+275	Just have to go deep enough . 	
+276	You do n't know that . 	
+277	I 've done it before . 	Ya lo he hecho antes . 
+278	Who 'd you do it to ? 	A quién ? 
+279	Why are we going to Paris ? 	Por qué vamos a París ? 
+280	We 're gonna need a new architect . 	Necesitamos un nuevo arquitecto . 
+281	You never did like your office , did you ? 	Nunca te gustó tu oficina , verdad ? 
+282	No space to think in that broom cupboard . 	No hay lugar para pensar en ese clóset de escobas . 
+283	Is it safe for you to be here ? 	Estás a salvo aquí ? 
+284	Extradition between France and the United States ... 	La extradición entre Francia y EE . 
+285	is a bureaucratic nightmare , you know that . 	La extradición entre Francia y EE . 
+286	I think they might find a way to make it work in your case . 	En tu caso , creo que pueden ingeniárselas . 
+287	Look , I , uh , brought these for you to give to the kids when you have a chance . 	Traje esto para que se los des a los niños cuando puedas . 
+288	It 'll take more than the occasional stuffed animal ... 	Necesitarás más que animales de peluche ... 
+289	to convince those children they still have a father . 	para convencer a esos niños de que tienen un papá . 
+290	I 'm just doing what I know . 	Estoy haciendo lo que sé hacer , lo que me enseñaste . Yo no te enseñé a robar . 
+291	I 'm doing what you taught me . 	
+292	I never taught you to be a thief . 	Me enseñaste a navegar las mentes . 
+293	No , you taught me to navigate people 's minds . 	Me enseñaste a navegar las mentes . 
+294	But after what happened ... 	Luego de lo que pasó ... 
+295	there were n't a whole lot of legitimate ways for me to use that skill . 	no quedaron muchas maneras legales de usar esa habilidad . 
+296	What are you doing here , Dom ? 	Qué haces aquí , Dom ? 
+297	I think I found a way home . 	Encontré la manera de volver a casa . 
+298	It 's a job for some very , very powerful people . 	Es un trabajo para gente muy poderosa . 
+299	People who I believe can fix my charges permanently . 	Gente que puede arreglar los cargos en mi contra . 
+300	But I need your help . 	Pero necesito tu ayuda . 
+301	You 're here to corrupt one of my brightest and best . 	Vienes a corromper a uno de mis estudiantes brillantes . 
+302	You know what I m offering . 	Sabes lo que ofrezco . Deja que ellos decidan . - Dinero . 
+303	Let them decide for themselves . 	- No solamente eso . 
+304	- Money . 	Tú te acuerdas . 
+305	- Not just money . 	
+306	You remember . 	Es la oportunidad de crear catedrales y ciudades ... 
+307	It 's the chance to build cathedrals , entire cities ... 	Es la oportunidad de crear catedrales y ciudades ... 
+308	things that never existed ... 	cosas que nunca han existido . 
+309	things that could n't exist in the real world . 	Cosas que no pueden existir . 
+310	So you want me to let someone else follow you into your fantasy ? 	Quieres que le permita a alguien seguirte en tu fantasía ? 
+311	They do n't actually come into the dream . 	Ellos no entran en el sueño . 
+312	They just design the levels and teach them to the dreamers . 	Diseñan los niveles y se los enseñan a los soñadores . Es todo . Diséñalos tú . 
+313	That 's all . 	
+314	Design it yourself . 	
+315	Mal wo n't let me . 	Mal no me deja . 
+316	Come back to reality , Dom . 	Regresa a la realidad , Dom . 
+317	- Please . 	- Por favor . 
+318	- Reality . 	- La realidad . 
+319	Those kids , your grandchildren ... 	Esos niños , tus nietos ... 
+320	they 're waiting for their father to come back home . 	están esperando a que su papá regrese . 
+321	That 's their reality . 	Esa es su realidad . 
+322	And this job , this last job , that 's how I get there . 	Este trabajo , este último trabajo me llevará con ellos . 
+323	I would not be standing here if I knew any other way . 	No estaría aquí si supiera otra manera de regresar . 
+324	I need an architect who 's as good as I was . 	Necesito un arquitecto tan bueno como era yo . 
+325	I 've got somebody better . 	Tengo a alguien mejor . Arladne ? 
+326	Ariadne ? 	
+327	I 'd like you to meet Mr . Cobb . 	Quiero presentarte al Sr . Cobb . Mucho gusto . 
+328	Pleased to meet you . 	Si tienes un momento , el Sr . Cobb quiere ofrecerte un trabajo . 
+329	If you have a few moments , Mr . Cobb has a job offer he 'd like to discuss with you . 	Si tienes un momento , el Sr . Cobb quiere ofrecerte un trabajo . 
+330	A work placement ? 	Un internado ? No precisamente . 
+331	Not exactly . 	Tengo una prueba para ti . 
+332	I have a test for you . 	No va a decirme nada del trabajo ? 
+333	You 're not gonna tell me anything first ? 	No va a decirme nada del trabajo ? 
+334	Before I describe the job , I have to know you can do it . 	Antes , necesito saber que lo puedes hacer . 
+335	- Why ? 	- Por qué ? 
+336	- It s not , strictly speaking , legal . 	- No es estrictamente legal . 
+337	You have two minutes to design a maze that it takes one minute to solve . 	Tienes dos minutos para diseñar un laberinto que me tome un minuto . 
+338	Stop . 	Para . 
+339	Again . 	De nuevo . 
+340	Stop . 	Para . 
+341	You 're gonna have to do better than that . 	Tendrás que hacerlo mejor . 
+342	That 's more like it . 	Mucho mejor . 
+343	They say we only use a fraction of our brain 's true potential . 	Dicen que usamos solo una parte del potencial cerebral . 
+344	Now , that 's when we 're awake . 	Cuando estamos despiertos . 
+345	When we 're asleep , our mind can do almost anything . 	Dormidos , la mente puede hacer lo que sea . Cómo qué ? 
+346	Such as ? 	Imagina que estás diseñando un edificio . 
+347	Imagine you 're designing a building . 	Imagina que estás diseñando un edificio . 
+348	You consciously create each aspect . 	Creas cada aspecto . 
+349	But sometimes , it feels like it 's almost creating itself , if you know what I mean . 	A veces sientes que casi se está creando solo , si me entiendes . 
+350	Yeah , like I 'm discovering it . 	Sí , como que lo estoy descubriendo . 
+351	Genuine inspiration , right ? 	Es inspiración auténtica . 
+352	Now , in a dream , our mind continuously does this . 	En un sueño , la mente hace eso constantemente . 
+353	We create and perceive our world simultaneously . 	Creamos y percibimos nuestro mundo simultáneamente . 
+354	And our mind does this so well that we do n't even know it 's happening . 	Lo hace tan bien que ni nos damos cuenta . 
+355	That allows us to get right in the middle of that process . 	Eso nos permite meternos en ese proceso . 
+356	- How ? 	- Cómo ? 
+357	- By taking over the creating part . 	- Cómo ? 
+358	Now , this is where I need you . 	- Cómo ? 
+359	You create the world of the dream . 	Tú creas el mundo del sueño . 
+360	We bring the subject into that dream , and they fill it with their subconscious . 	Metemos al sujeto en ese sueño y lo llena con su subconsciente . 
+361	How could I ever acquire enough detail to make them think that it 's reality ? 	Cómo puedo detallarlo para que crea que es la realidad ? 
+362	Well , dreams , they feel real while we 're in them , right ? 	Los sueños se sienten reales mientras se está en ellos . 
+363	It 's only when we wake up that we realize something was actually strange . 	Cuando despiertas te das cuenta de que había algo raro . 
+364	Let me ask you a question . 	Te haré una pregunta . 
+365	You never really remember the beginning of a dream , do you ? 	Uno nunca recuerda el comienzo de un sueño , verdad ? 
+366	You always wind up right in the middle of what 's going on . 	Siempre acabas justo en medio de lo que está pasando . Supongo que sí . 
+367	I guess , yeah . 	Cómo acabamos aquí ? 
+368	So how did we end up here ? 	Pues , vinimos de ... 
+369	Well , we just came from the , uh ... 	Pues , vinimos de ... 
+370	Think about it , Ariadne . 	Piénsalo , Ariadne . 
+371	How did you get here ? 	Cómo llegaste aquí ? 
+372	Where are you right now ? 	Dónde estás ahora ? 
+373	We 're dreaming ? 	Estamos soñando ? 
+374	You 're in the middle of the workshop , sleeping . 	Estás en medio del taller , dormida . 
+375	This is your first lesson in shared dreaming . 	Esta es tu primera clase sobre sueños compartidos . 
+376	Stay calm . 	Tranquila . 
+377	If it 's just a dream , then why are you -- ? 	Si es un sueño , por qué te estás ...? 
+378	Because it 's never just a dream , is it ? 	Nunca es solamente un sueño , no ? 
+379	And a face full of glass hurts like hell . 	Una cara llena de vidrios duele . 
+380	When you 're in it , it feels real . 	Cuando estás en él , parece real . 
+381	That 's why the military developed dream sharing . 	El ejército inventó sueños compartidos . 
+382	It was a training program for soldiers to shoot , stab and strangle each other ... 	Un programa de entrenamiento para disparar , acuchillar ... y luego despertar . 
+383	and then wake up . 	Cómo metieron a arquitectos ? 
+384	How did architects become involved ? 	Cómo metieron a arquitectos ? 
+385	Well , someone had to design the dreams , right ? 	Alguien tenía que diseñar los sueños , verdad ? 
+386	Why do n't you give us another five minutes ? 	Danos otros cinco minutos . 
+387	Five minutes ? 	Llevamos hablando por lo menos una hora . 
+388	What -- ? 	En un sueño tu mente funciona más rápido . 
+389	We were talking for , like , at least an hour . 	En un sueño tu mente funciona más rápido . 
+390	In a dream , your mind functions more quickly ... 	En un sueño tu mente funciona más rápido . 
+391	therefore time seems to feel more slow . 	Por lo tanto el tiempo se siente más lento . 
+392	Five minutes in the real world gives you an hour in the dream . 	Cinco minutos reales te dan una hora en el sueño . 
+393	Why do n't you see what you can get up to in five minutes ? 	A ver qué puedes construir en cinco minutos . 
+394	You 've got the basic layout . 	Tienes el diseño básico : la librería , el café . 
+395	Bookstore , café . 	Casi todo también está aquí . 
+396	Almost everything else is here too . 	Casi todo también está aquí . 
+397	Who are the people ? 	- Quién es la gente ? - Proyecciones de mi subconsciente . - Tuyas ? 
+398	- Projections of my subconscious . 	- Sí . 
+399	- Yours ? 	Tú eres la soñadora , tú creaste este mundo . 
+400	- Yes . 	Tú eres la soñadora , tú creaste este mundo . 
+401	Remember , you are the dreamer . 	Tú eres la soñadora , tú creaste este mundo . 
+402	You build this world . 	Yo soy el sujeto . 
+403	I am the subject . 	Yo soy el sujeto . 
+404	My mind populates it . 	Mi mente lo puebla . 
+405	You can literally talk to my subconscious . 	Puedes hablar con mi subconsciente . 
+406	That 's one of the ways we extract information from the subject . 	Es una manera de extraer información . Qué otras maneras hay ? 
+407	How else do you do it ? 	Creando algo seguro , como una bóveda de banco o una cárcel . 
+408	By creating something secure , like a bank vault or a jail . 	Creando algo seguro , como una bóveda de banco o una cárcel . 
+409	The mind automatically fills it with information it 's trying to protect . 	La mente la llena con información que quiere proteger . 
+410	- You understand ? 	- Entiendes ? - Y entonces te metes y te la robas . Bueno ... 
+411	- Then you break in and steal it ? 	
+412	Well ... 	Yo pensaba que el espacio del sueño era visual ... 
+413	I guess I thought that the dream space would be all about the visual ... 	Yo pensaba que el espacio del sueño era visual ... 
+414	but it 's more about the feel of it . 	pero importa más la sensación . 
+415	My question is what happens when you start messing with the physics of it all ? 	Qué pasa cuando empiezas a alterar la física ? 
+416	It 's something , is n't it ? 	Es fantástico , no ? 
+417	Yes , it is . 	Sí , lo es . 
+418	Why are they all looking at me ? 	Por qué me miran ? 
+419	Because my subconscious feels that someone else is creating this world . 	Mi subconsciente siente que alguien más está creando este mundo . 
+420	The more you change things , the quicker the projections start to converge on you . 	Entre más lo cambias , más rápido convergen las proyecciones . Convergen ? 
+421	Converge ? 	Sienten que el soñador es extraño . 
+422	They sense the foreign nature of the dreamer . 	Sienten que el soñador es extraño . 
+423	They attack , like white blood cells fighting an infection . 	Atacan como los glóbulos blancos a una infección . 
+424	- What , they 're gonna attack us ? 	- Nos van a atacar ? 
+425	- No , no . 	- No , no . 
+426	Just you . 	Solo a ti . 
+427	This is great , but I m telling you , if you keep changing things like this ... 	Me encanta , pero si sigues cambiando las cosas ... 
+428	Jeez , mind telling your subconscious to take it easy ? 	Dile a tu subconsciente que se calme . 
+429	It 's my subconscious . 	Es mi subconsciente . 
+430	Remember ? 	No lo puedo controlar . 
+431	I ca n't control it . 	
+432	Very impressive . 	Muy impresionante . 
+433	I know this bridge . 	Yo conozco este puente . 
+434	This place is real , is n't it ? 	Este lugar es real , no ? 
+435	Yeah , I cross it every day to get to the college . 	Sí , lo uso a diario para ir a la universidad . 
+436	Never re-create places from your memory . 	Nunca uses tu memoria . 
+437	Always imagine new places . 	Siempre imagina lugares nuevos . 
+438	You draw from stuff you know , right ? 	Tienes que usar cosas que conoces . 
+439	Only use details . 	Solo detalles . 
+440	A streetlamp or a phone booth . 	Una lámpara o una cabina telefónica . 
+441	Never entire areas . 	Nunca áreas . 
+442	- Why not ? 	- Por qué ? 
+443	- Building a dream from your memory ... 	- Al usar tu memoria ... 
+444	is the easiest way to lose your grasp on what 's real and what is a dream . 	puedes dejar de distinguir entre la realidad y un sueño . 
+445	- Is that what happened to you ? 	- Eso es lo que te pasó a ti ? 
+446	- Listen to me . 	- óyeme . 
+447	This has nothing to do with me , understand ? 	Esto no tiene nada que ver conmigo . 
+448	That why you need me to build your dreams ? 	Por eso debo construir tus sueños ? 
+449	Hey , get off of her . 	Déjenla en paz . 
+450	Back up . 	Atrás . 
+451	Back up . 	Atrás ! 
+452	- Cobb ! 	- Cobb ! 
+453	Cobb ! 	Cobb ! 
+454	- Get off of her ! 	- Déjenla ! 
+455	- Let me go ! 	- Suéltenme ! 
+456	Let me go ! 	Suéltenme ! 
+457	- Mal ! 	- Mal ! 
+458	- Mal ! 	- Mal ! 
+459	- Cobb ! 	- Cobb ! 
+460	Wake me up ! 	Despiértame ! 
+461	- Wake me up ! 	- Despiértame ! 
+462	Wake me up ! 	Despiértame ! - No ! - Mal , no ! 
+463	- No ! 	- Despiértame ! 
+464	- Mal , no ! 	
+465	No ! 	
+466	- Wake me up ! 	
+467	Hey , hey , hey . 	Mírame . 
+468	Look at me . 	Estás bien . 
+469	You 're okay . 	Estás bien . 
+470	You 're okay . 	- Oye . 
+471	- Hey . 	- Oye . 
+472	- Why would n't I wake up ? 	- Por qué no me despertaba ? 
+473	There was still time on the clock . 	Porque todavía quedaba tiempo . 
+474	You ca n't wake up from within the dream unless you die . 	Y no puedes despertar excepto muriéndote . 
+475	-- She 'll need a totem . 	- Necesita un tótem . - Qué ? Un tótem es un pequeño ... 
+476	- What ? 	
+477	A totem , it 's a small personal -- 	Vaya subconsciente ! 
+478	That 's some subconscious you 've got on you , Cobb ! 	Vaya subconsciente ! 
+479	- She 's a real charmer . 	Es todo un encanto ! 
+480	- Oh . 	- Conociste a la Sra . Cobb . 
+481	- I see you met Mrs . Cobb . 	- Conociste a la Sra . Cobb . 
+482	- She 's his wife ? 	- Es su esposa ? 
+483	Yeah . 	Sí . 
+484	So a totem . 	Un tótem . 
+485	You need a small object , potentially heavy . 	Un objeto pequeño , potencialmente pesado . 
+486	Something you can have on you that no one else knows . 	Algo que lleves sin que nadie lo sepa . - Cómo una moneda ? - No . 
+487	- Like a coin ? 	No , más único que eso , como un dado cargado . 
+488	- No . 	No , más único que eso , como un dado cargado . 
+489	It needs to be more unique than that . 	No , más único que eso , como un dado cargado . 
+490	Like , this is a loaded die . 	
+491	No , I ca n't let you touch it . 	No puedo dejarte tocarlo . 
+492	That would defeat the purpose . 	Lo anularías . 
+493	See , only I know the balance and the weight of this particular loaded die . 	Sólo yo conozco el equilibrio y el peso de este dado . 
+494	That way , when you look at your totem ... 	Cuando ves tu tótem ... 
+495	you know beyond a doubt that you 're not in someone else 's dream . 	sabes que no estás en el sueño de otro . 
+496	I do n't know if you ca n't see what 's going on , or if you just do n't want to ... 	No sé sino ves lo que está pasando o si no quieres verlo . 
+497	but Cobb has some serious problems that he 's tried to bury down there . 	Cobb está tratando de enterrar unos problemas serios . 
+498	And I m not about to just open my mind to someone like that . 	No le voy a abrir mi mente a alguien así . 
+499	She 'll be back . 	Va a volver . 
+500	I 've never seen anyone pick it up that quickly before . 	No había visto a nadie entender tan rápido . 
+501	Reality 's not gonna be enough for her now , and when she comes back ... 	La realidad ya no le bastará y cuando vuelva ... 
+502	When she comes back , you 're gonna have her building mazes . 	Cuando vuelva , va a construir laberintos . 
+503	- Where are you gonna be ? 	- Dónde vas a estar ? 
+504	- I gotta go visit Eames . 	- Voy a visitar a Eames . 
+505	Eames ? 	Está en Mombasa . 
+506	No , he 's in Mombasa . 	Cobol está ahí cerca . 
+507	It 's Cobol 's back yard . 	Es un riesgo necesario . 
+508	It 's a necessary risk . 	Es un riesgo necesario . 
+509	- Well , there 's plenty of good thieves . 	- Hay muchos ladrones buenos . 
+510	- We do n't just need a thief . 	- No necesitamos un mero ladrón . 
+511	We need a forger . 	Sino a un falsificador . 
+512	Rub them together all you want , they 're not gonna breed . 	Por más que las frotes no se van a procrear . Uno nunca sabe . 
+513	You never know . 	
+514	I 'm gonna get you a drink . 	Déjame traerte una copa . 
+515	You 're buying . 	Tú invitas . 
+516	- Your spelling has n't improved . 	- Tu ortografía no ha mejorado . 
+517	- Piss off . 	- Lárgate . 
+518	How 's your handwriting ? 	Cómo está tu letra ? 
+519	- It s versatile . 	- Versátil . - Muy bien . Muchas gracias . 
+520	- Good . 	
+521	Thank you very much . 	La oxigenación . 
+522	Inception . 	La oxigenación . 
+523	Now , before you bother telling me it 's impossible , let me-- 	Antes de que me digas que es imposible ... 
+524	No , it 's perfectly possible . 	No , es perfectamente posible . 
+525	It 's just bloody difficult . 	Es muy difícil . 
+526	Interesting . 	Qué interesante , 
+527	Because Arthur keeps telling me it ca n't be done . 	porque Arthur dice que no se puede hacer . 
+528	Hmm . 	
+529	Arthur . 	 
+530	You still working with that stick in the mud ? 	Todavía trabajas con ese aburrido ? 
+531	He is good at what he does , right ? 	Es bueno para lo que hace , no ? 
+532	Oh , he 's the best , but he has no imagination . 	Es lo máximo , pero sin imaginación . 
+533	Not like you . 	A diferencia de ti . 
+534	Listen , if you 're gonna perform inception , you need imagination . 	Para hacer una oxigenación , necesitas imaginación . 
+535	Let me ask you something . 	Déjame preguntarte algo . 
+536	Have you done it before ? 	Ya lo has hecho ? 
+537	We tried it . 	Probamos . 
+538	Uh , we got the idea in place , but it did n't take . 	Introdujimos la idea pero no la aceptó . 
+539	- You did n't plant it deep enough ? 	- No la plantaste muy profundo ? 
+540	- No , it 's not just about depth . 	- No es solo la profundidad . 
+541	You need the simplest version of the idea ... 	Necesitas una idea muy sencilla ... 
+542	in order for it to grow naturally in your subject 's mind . 	para que crezca naturalmente . 
+543	It s a subtle art . 	Es un arte muy sutil . 
+544	So , what is this idea that you need to plant ? 	Cuál es la idea que necesitas sembrar ? 
+545	We need the heir of a major corporation to dissolve his father 's empire . 	Necesitamos que el heredero disuelva el imperio de su padre . 
+546	Right there you have various political motivations ... 	Tienes varios móviles políticos ... 
+547	and anti-monopolistic sentiments and so forth . 	e inclinaciones antimonopolio . 
+548	But all of that stuff , it 's , um ... 	e inclinaciones antimonopolio . 
+549	It 's really at the mercy of your subject 's prejudice , you see ? 	Están a merced de los prejuicios del sujeto . 
+550	What you have to do is start at the absolute basic . 	Tienes que empezar con lo más básico . Qué es qué ? 
+551	Which is what ? 	La relación con el padre . 
+552	The relationship with the father . 	La relación con el padre . 
+553	- Do you have a chemist ? 	- Tienes a un químico ? 
+554	- No , not yet . 	- Aún no . 
+555	Right . 	Hay un hombre aquí . 
+556	Okay , well , there 's a man here , Yusuf . 	Yusuf . 
+557	He , uh , formulates his own versions of the compounds . 	Él formula sus propias versiones de los compuestos . No me llevas con él ? 
+558	Why do n't you take me there ? 	Cuando te libres de tu perseguidor . 
+559	Once you 've lost your tail . 	Cuando te libres de tu perseguidor . 
+560	The man at the bar . 	Está en el bar . Ingeniería Cobol . 
+561	Cobol Engineering . 	Les pagan por llevarme vivo o muerto ? 
+562	That price on my head , was that dead or alive ? 	Les pagan por llevarme vivo o muerto ? 
+563	Do n't remember . 	No me acuerdo . 
+564	Let 's see if he starts shooting . 	A ver si empieza a disparar . 
+565	Run interference . 	Distráelo . 
+566	I 'll meet you downstairs in the bar in , say , uh , half an hour ? 	Nos vemos abajo , en el bar , en media hora . 
+567	- Back here ? 	- Acá mismo ? 
+568	- This is the last place they 'd suspect . 	- Nunca sospecharían de este lugar . 
+569	All right . 	Está bien . 
+570	Freddy . 	Freddy ! Freddy Simonds . Dios mío . 
+571	Freddy Simmonds . 	Eres tú , no ? 
+572	My God , it 's you , is n't it ? 	
+573	No , it is n't you . 	No , no eres tú . Ya no sueñas más , verdad ? 
+574	Not dreaming now , are you ? 	
+575	Get him ! 	Atrápenlo ! 
+576	There ! 	Allá ! 
+577	One café . 	Un café . 
+578	Shh . 	
+579	One café . 	Un café . 
+580	One café . 	Un café . 
+581	Care for a lift , Mr . Cobb ? 	Lo llevo , Sr . Cobb ? 
+582	- What are you doing in Mombasa ? 	- Qué hace en Mombasa ? 
+583	- I m here to protect my investment . 	- Necesito proteger mi inversión . 
+584	Ah . 	Te deshiciste de tu perseguidor ? Otro perseguidor . 
+585	So this is your idea of losing a tail , huh ? 	
+586	Different tail . 	
+587	Cobb said you 'd be back . 	Cobb dijo que volverías . 
+588	- I tried not to come , but ... 	- Traté de no venir , pero ... 
+589	- But there 's nothing quite like it . 	- Pero no hay nada parecido . 
+590	It 's just ... 	Es simplemente ... 
+591	pure creation . 	creación pura . 
+592	Shall we take a look at some paradoxical architecture ? 	Vemos un poco de arquitectura paradójica ? 
+593	You 're gonna have to master a few tricks ... 	Necesitarás dominar varios trucos ... 
+594	if you 're gonna build three complete dream levels . 	para crear tres niveles completos de sueños . Disculpe . Qué clase de trucos ? 
+595	Excuse me . 	
+596	What kind of tricks ? 	En sueños puedes crear formas imposibles en la arquitectura . 
+597	In a dream , you can cheat architecture into impossible shapes . 	En sueños puedes crear formas imposibles en la arquitectura . 
+598	That lets you create closed loops , like the Penrose Steps . 	Te permite crear circuitos cerrados , como la Escalera de Penrose . 
+599	The infinite staircase . 	Una escalera infinita . 
+600	See ? 	Ves ? 
+601	Paradox . 	Una paradoja . 
+602	So a closed loop like that ... 	Un circuito cerrado como este disfraza los límites del sueño . 
+603	will help you disguise the boundaries of the dream you create . 	Un circuito cerrado como este disfraza los límites del sueño . 
+604	But how big do these levels have to be ? 	Cuán grandes deben ser los niveles ? 
+605	It could be anything from the floor of a building to an entire city . 	Pueden ser desde el piso de un edificio a toda una ciudad . 
+606	They have to be complicated enough that we can hide from the projections . 	Pero deben ser complejos , para ocultarnos de proyecciones . - Un laberinto . - Así es . 
+607	- A maze ? 	Y entre mejor sea ... 
+608	- Right , a maze . 	
+609	And the better the maze ... 	Más tiempo tenemos antes de que nos agarren ? 
+610	Then the longer we have before the projections catch us ? 	Más tiempo tenemos antes de que nos agarren ? 
+611	Exactly . 	Exactamente . 
+612	- My subconscious seems polite enough . 	- Mi subconsciente parece muy cortés . 
+613	- Ha , ha . 	- Espera , se va a poner feo . 
+614	You wait , they 'll turn ugly . 	A nadie le gusta sentir que otro está en su mente . 
+615	No one likes to feel someone else messing around in their mind . 	A nadie le gusta sentir que otro está en su mente . 
+616	Cobb ca n't build anymore , can he ? 	Cobb ya no puede construir , verdad ? 
+617	I do n't know if he ca n't , but he wo n't . 	No sé si pueda , pero se niega . 
+618	He thinks it 's safer if he does n't know the layouts . 	Considera más seguro no conocer los planos . Por qué ? 
+619	Why ? 	No me quiere decir . 
+620	He wo n't tell me . 	No me quiere decir . 
+621	But I think it 's Mal . 	Creo que es por Mal . 
+622	- His ex-wife ? 	- Su ex esposa ? 
+623	- No , not his ex . 	- No , no es su ex . 
+624	- They 're still together ? 	- Siguen juntos ? 
+625	- No . 	- No . 
+626	No , she 's dead . 	Ella está muerta . 
+627	What you see in there is just his projection of her . 	Lo que ves es su proyección de ella . 
+628	What was she like in real life ? 	Cómo era en la vida real ? 
+629	She was lovely . 	Era hermosa . 
+630	- You are seeking a chemist ? 	- Busca un químico ? 
+631	- Yes . 	- Sí . 
+632	To formulate compounds for a job ? 	Qué formule compuestos para un trabajo ? 
+633	And to go into the field with us . 	E ir al trabajo con nosotros . 
+634	No , I rarely go into the field , Mr . Cobb . 	Yo rara vez voy al trabajo . 
+635	Well , we 'd need you there to tailor compounds specific to our needs . 	Tendrá que hacer compuestos para nuestras necesidades . 
+636	- Which are ? 	- Qué son ? 
+637	- Great depth . 	- Gran profundidad . 
+638	A dream within a dream ? 	Un sueño dentro de un sueño ? 
+639	Two levels ? 	Dos niveles ? 
+640	Three . 	Tres . 
+641	Not possible . 	No es posible . 
+642	That many dreams within dreams is too unstable . 	Tantos sueños sería demasiado inestable . 
+643	It is possible . 	Es posible . 
+644	You just have to add a sedative . 	Hay que agregar un sedante . 
+645	A powerful sedative . 	Un sedante poderoso . 
+646	- How many team members ? 	- Cuántos miembros en el equipo ? 
+647	- Five . 	- Cinco . 
+648	Six . 	Seis . 
+649	The only way to know you 've done the job is if I go in with you . 	La única forma de saber si hizo el trabajo es entrando con usted . 
+650	There 's no room for tourists on a job like this , Mr . Saito . 	No hay lugar para turistas en un trabajo como este . 
+651	This time , it seems there is . 	Esta vez , parece que sí . 
+652	This , I think , is a good place to start . 	Este es un buen lugar para empezar . 
+653	I use it every day . 	Lo uso todos los días . 
+654	What for ? 	- Para qué ? 
+655	- Here , I 'll show you . 	- Le mostraré . 
+656	Perhaps you will not want to see . 	Quizá no lo quiera ver . 
+657	After you . 	Después de usted . 
+658	Ten . 	Diez , doce . 
+659	Twelve . 	Todos conectados . 
+660	All connected . 	Maldita sea . 
+661	Bloody hell . 	Vienen todos los días a compartir el sueño . 
+662	They come every day to share the dream . 	Vienen todos los días a compartir el sueño . 
+663	You see ? 	Ve ? 
+664	Very stable . 	Muy estable . 
+665	- How long do they dream for ? 	- Durante cuánto tiempo sueñan ? - Tres , cuatro horas , a diario . En horas de sueño ? 
+666	- Three , four hours , each day . 	
+667	In dream time ? 	Con este compuesto ? 
+668	With this compound ? 	Con este compuesto ? 
+669	About 40 hours , each and every day . 	Unas 40 horas , todos los días . 
+670	- Why do they do it ? 	- Por qué lo hacen ? 
+671	- Tell him , Mr . Cobb . 	- Dígale , Sr . Cobb . 
+672	After a while , it becomes the only way you can dream . 	Luego de un tiempo , solamente así puedes soñar . 
+673	Do you still dream , Mr . Cobb ? 	Ud . 
+674	- They come here every day to sleep ? 	- vienen aquí a diario a dormir ? 
+675	- No . 	- No . 
+676	They come to be woken up . 	Vienen para despertar . 
+677	The dream has become their reality . 	El sueño se ha vuelto su realidad . 
+678	Who are you to say otherwise , sir ? 	Y quién puede decir que no es así ? 
+679	Let 's see what you can do . 	A ver qué puede hacer . 
+680	You know how to find me . 	Ya sabes cómo encontrarme . 
+681	You know what you have to do . 	Sabes qué tienes que hacer . 
+682	Sharp , no ? 	Muy claro , no ? 
+683	Are you all right , Mr . Cobb ? 	Se encuentra bien , Sr . Cobb ? 
+684	Yeah , yeah . 	Sí . 
+685	Everything 's just fine . 	Estoy perfectamente . 
+686	Robert Fischer , heir to the Fischer Morrow energy conglomerate . 	Robert Fischer , heredero del conglomerado de energía . 
+687	What 's your problem with this Mr . Fischer ? 	Cuál es su problema con él ? 
+688	That 's not your concern . 	Eso no es asunto suyo . 
+689	Mr . Saito , this is n't your typical corporate espionage . 	No es una operación típica de espionaje industrial . 
+690	You asked me for inception . 	Me pidió una oxigenación . 
+691	I do hope you understand the gravity of that request . 	Espero que comprenda la gravedad . 
+692	Now , the seed that we plant in this man 's mind will grow into an idea . 	La semilla que plantemos en su mente se convertirá en una idea . 
+693	This idea will define him . 	Esa idea lo definirá . 
+694	It may come to change ... 	Quizá cambie ... 
+695	Well , it may come to change everything about him . 	Quizá cambie toda su identidad . 
+696	We 're the last company standing between them and total energy dominance . 	Nuestra compañía es la última que impide su dominio completo . 
+697	And we can no longer compete . 	Ya no podemos competir . 
+698	Soon , they 'll control the energy supply of half the world . 	Controlarán el suministro de energía de la mitad del mundo . 
+699	In effect , they become a new superpower . 	De hecho , serán una nueva superpotencia . 
+700	The world needs Robert Fischer to change his mind . 	El mundo necesita que Robert Fischer cambie de parecer . 
+701	That 's where we come in . 	Esa es nuestra misión . 
+702	How is Robert Fischer 's relationship with his father ? 	Cómo es la relación de Robert Fischer con su padre ? 
+703	Rumor is the relationship is quite complicated . 	Hay rumores de que es muy complicada . 
+704	Well , we ca n't work based solely on rumor , can we ? 	No podemos basarnos solo en rumores . 
+705	Can you get me access to this man here ? 	Me puede dar acceso a este hombre ? 
+706	Browning . 	Browning . 
+707	Fischer Senior 's right-hand man . 	La mano derecha de Fischer , el padrino del hijo . 
+708	Fischer Junior 's godfather . 	Debe de ser posible , con buenas referencias . 
+709	It should be possible , if you can get the right references . 	Debe de ser posible , con buenas referencias . 
+710	References are something of a specialty for me , Mr . Saito . 	Las referencias son mi especialidad . 
+711	I 'm not smelling settlement here . 	No me huele a un trato . 
+712	Take them down . 	Acaba con ellos . 
+713	Mr . Browning ... 	Sr . Browning , Maurice Fischer siempre evita litigación . 
+714	Maurice Fischer 's policy is always one of avoiding litigation . 	Sr . Browning , Maurice Fischer siempre evita litigación . 
+715	Well , shall we voice your concerns with Maurice directly ? 	Le comunicamos sus reservas a Maurice ? No es necesario . 
+716	Not sure that 's necessary . 	Yo creo que deberíamos . 
+717	No , no , no . 	Yo creo que deberíamos . 
+718	I think we should . 	
+719	How is he ? 	Cómo está ? 
+720	I do n't want to bother him unnecessarily , but -- 	No quiero molestarlo innecesariamente . 
+721	Robert , I told you keep out the damn -- Wait . 	Robert , te dije que no dejaras ... 
+722	So do it . 	Espera , hazlo ! 
+723	Get -- 	- Sr . Fischer . 
+724	- Mr . Fischer . 	- Sr . Fischer . 
+725	- Put it through . 	- Pásamelos ! 
+726	Never , never . 	Nunca , nunca . 
+727	Never do the same as I asked . 	No has ...? 
+728	Leave that . 	Deja eso . 
+729	Here . 	Toma . 
+730	Must be a cherished memory of his . 	Debe de ser un recuerdo muy querido . 
+731	I put it beside his bed . 	La puse junto a su cama . 
+732	He has n't even noticed . 	Ni siquiera se ha fijado . 
+733	Robert ... 	Robert ... 
+734	we need to talk about a power of attorney . 	necesitamos discutir una carta poder . 
+735	- I know this is hard , but it 's imperative-- - Not now , Uncle Peter . 	- Yo sé que es difícil . 
+736	The vultures are circling . 	Los buitres están dando vueltas . 
+737	And the sicker Maurice Fischer becomes , the more powerful Peter Browning becomes . 	Entre más grave está Fischer , más poderoso se vuelve Browning . 
+738	I 've had ample opportunity to observe Browning ... 	He podido observar a Browning y ... 
+739	and adopt his physical presence , study his mannerisms , and so on and so forth . 	adoptar su presencia física y estudiar sus gestos . 
+740	So now in the first layer of the dream , I can impersonate Browning . 	En el primer nivel del sueño puedo hacerme pasar por Browning ... 
+741	And suggest concepts to Fischer 's conscious mind . 	y sugerirle conceptos a la mente de Fischer . 
+742	Then , when we take him a level deeper ... 	Al llevarlo a un nivel profundo ... 
+743	his own projection of Browning should feed that right back to him . 	su proyección de Browning le dirá las mismas cosas . 
+744	So he gives himself the idea . 	Él mismo se dará la idea . 
+745	Precisely . 	Exacto . 
+746	That 's the only way it will stick . 	Sólo así se va a arraigar . 
+747	It has to seem self-generated . 	Parecerá autogenerada . 
+748	Eames , I am impressed . 	Eames , me has impresionado . 
+749	Your condescension , as always , is much appreciated , Arthur , thank you . 	Como siempre , aprecio mucho tu condescendencia . 
+750	Were you going under on your own ? 	Te ibas a dormir tú solo o ...? 
+751	No , no , I was just , uh , running some experiments . 	No , solamente estaba haciendo unos experimentos . 
+752	I did n't realize anyone was here , so ... 	No sabía que había alguien aquí . 
+753	Yeah , I was just -- I was working on my totem , actually . 	Estaba trabajando en mi tótem . Déjame mirarlo . 
+754	Here , let me take a look . 	
+755	So you 're learning , huh ? 	Estás aprendiendo , eh ? 
+756	An elegant solution for keeping track of reality . 	Una solución elegante para conectarse con la realidad . 
+757	- Was it your idea ? 	- Fue idea tuya ? 
+758	- No , it was , uh ... 	- No , fue ... 
+759	It was Mal 's , actually . 	La verdad , fue de Mal . 
+760	This ... 	Este era de ella . 
+761	This one was hers . 	Este era de ella . 
+762	She would spin it in the dream and it would never topple . 	Lo hacía girar en el sueño y nunca se caía . 
+763	Just spin and spin . 	Giraba y giraba . 
+764	Arthur told me she passed away . 	Arthur me dijo que murió . 
+765	How are the mazes coming along ? 	Cómo van los laberintos ? 
+766	Each level relates to the part of the subject 's subconscious ... 	Cada uno se relaciona con la parte del subconsciente ... 
+767	that we are trying to access . 	a la que queremos acceso . 
+768	So I m making the bottom level a hospital , so Fischer will bring his father . 	El nivel del fondo es un hospital para que Fischer traiga a su padre . 
+769	You know , I -- Actually , I have a question about this layout . 	Tengo una pregunta sobre este diseño . 
+770	No , no , no . 	No me enseñes algo específico . Sólo el soñador debe conocer el diseño . Es así de importante ? 
+771	Do n't show me specifics . 	
+772	Only the dreamer should know the layout . 	
+773	Why is that so important ? 	Por si uno mete sus proyecciones . 
+774	In case one of us brings in our projections . 	Por si uno mete sus proyecciones . 
+775	We do n't want them knowing the details of the maze . 	Así nadie sabe los detalles del laberinto . 
+776	You mean in case you bring Mal in . 	En caso de que metas a Mal . 
+777	You ca n't keep her out , can you ? 	No la puedes bloquear , verdad ? 
+778	- Right . 	- Sí . 
+779	- You ca n't build ... 	- No puedes construir ... 
+780	because if you know the maze , then she knows it . 	porque si tú conoces el laberinto , ella también . 
+781	Well , she 'd sabotage the whole operation . 	Ella sabotearía toda la operación . 
+782	- Cobb , do the others know ? 	- Y los demás lo saben ? 
+783	- No . 	- No , no lo saben . 
+784	No , they do n't . 	Tienes que decirles si está empeorando . 
+785	You 've gotta warn them if this is getting worse . 	Tienes que decirles si está empeorando . 
+786	No one said it 's getting worse . 	Nadie dijo que estuviera empeorando . 
+787	I need to get home . 	Necesito llegar a casa , 
+788	That 's all I care about right now . 	es lo único que me importa . 
+789	Why ca n't you go home ? 	Por qué no puedes irte a casa ? 
+790	Because they think I killed her . 	Porque creen que yo la maté . 
+791	- Thank you . 	- Gracias . 
+792	- For what ? 	- Por qué ? 
+793	For not asking whether I did . 	Por no preguntarme si la maté . 
+794	I will split up my father 's empire . 	Dividiré el imperio de mi padre . 
+795		
+796	Now , this is obviously an idea that Robert himself would choose to reject ... 	Esa sería una idea que Robert decidiría rechazar . 
+797	which is why we need to plant it deep in his subconscious . 	Por eso necesitamos plantarla en su subconsciente . 
+798	The subconscious is motivated by emotion , right ? 	Al subconsciente lo motiva la emoción , no la razón . 
+799	Not reason . 	Necesitamos convertir esto en un concepto emocional . 
+800	We need to find a way to translate this into an emotional concept . 	Necesitamos convertir esto en un concepto emocional . 
+801	How do you translate business strategy into emotion ? 	Cómo conviertes una estrategia en una emoción ? 
+802	That 's what we 're here to figure out . 	Eso es lo que resolveremos . La relación de Robert con su papá es tensa . 
+803	Robert 's relationship with his father ... 	
+804	- ... 	Podemos usar eso ? 
+805	is stressed , to say the least . 	Podemos sugerirle que divida la compañía como desquite . 
+806	- Can we run with that ? 	Podemos sugerirle que divida la compañía como desquite . 
+807	We suggest breaking up his father 's company as a screw you to the old man . 	Podemos sugerirle que divida la compañía como desquite . 
+808	No , because I think positive emotion trumps negative emotion every time . 	No , la emoción positiva le gana a la negativa . 
+809	We all yearn for reconciliation , for catharsis . 	Todos ansiamos reconciliación , catarsis . 
+810	We need Robert Fischer to have a positive emotional reaction to all this . 	Necesitamos que Robert Fischer tenga una reacción positiva . 
+811	All right , well , try this . 	Prueba con esto : 
+812	Um ... 	Mi padre acepta que quiero crear algo mío , no seguir sus pasos . 
+813	My father accepts that I want to create for myself , not follow in his footsteps . 	Mi padre acepta que quiero crear algo mío , no seguir sus pasos . 
+814		
+815	That might work . 	Puede funcionar . 
+816	Might ? 	Puede ? 
+817	We 're gonna need to do a little better than might . 	Necesitamos algo mejor que puede . 
+818		
+819	Thank you for your contribution , Arthur . 	Gracias por tu contribución , Arthur . 
+820	Forgive me for wanting a little specificity , Eames . 	Perdóname por querer especificidad , Eames . Especificidad ? 
+821	Specificity ? 	La oxigenación no requiere eso . 
+822	Inception 's not about being specific . 	La oxigenación no requiere eso . 
+823	When we get inside his mind , we 're gonna have to work with what we find . 	Ya entrando en su mente , trabajaremos con lo que encontremos . 
+824	On the top level , we open up his relationship with his father ... 	En el nivel superior , abrimos su relación con su padre . 
+825	and say , I will not follow in my father 's footsteps . 	Con algo como : No seguiré los pasos de mi padre . 
+826		
+827	Then the next level down , we feed him , I will create something for myself . 	En el nivel siguiente , le metemos : voy a crear algo mío . 
+828		
+829	Then , by the time we hit the bottom level , we bring out the big guns . 	En el nivel del fondo , sacamos la artillería pesada . 
+830	- My father does n't want me to be him . 	- Mi padre no quiere que sea como él . 
+831	- Exactly . 	- Exacto . 
+832	Three layers down , the dreams are gonna collapse with the slightest disturbance . 	Con tres niveles , los sueños se colapsarán con el menor disturbio . Sedación . 
+833	Sedation . 	Para poder crear tres niveles de sueños ... 
+834	For sleep stable enough to create three layers of dreaming ... 	Para poder crear tres niveles de sueños ... 
+835	we 'll have to combine it with an extremely powerful sedative . 	tendremos que combinarlo con un sedante muy poderoso . 
+836	Good night . 	Buenas noches . 
+837	The compound we 'll be using to share the dream ... 	El compuesto para compartir el sueño ... 
+838	creates a clear connection between dreamers ... 	crea una conexión clara entre soñadores . 
+839	- ... 	- Y acelera el funcionamiento cerebral . 
+840	whilst accelerating brain function . 	- Nos da más tiempo en cada nivel . 
+841	- In other words , more time on each level . 	El funcionamiento en el sueño será 20 veces el normal . 
+842	Brain function in the dream will be about 20 times normal . 	El funcionamiento en el sueño será 20 veces el normal . 
+843	And when you enter a dream within that dream , the effect is compounded . 	En un sueño dentro de un sueño el efecto se multiplica . 
+844	It 's three dreams , that 's 10 hours times 20 -- 	En tres sueños son diez horas por 20 ... 
+845	Math was never my strong subject . 	Nunca fui bueno para la matemática . 
+846	How much time is that ? 	Cuánto es ? 
+847	It 's a week , the first level down . 	Es una semana en el primer nivel . 
+848	Six months the second level down , and the third level -- 	Seis meses en el segundo nivel y en el tercer nivel ... Son diez años . 
+849	That 's 10 years . 	
+850	Who 'd wanna be stuck in a dream for 10 years ? 	Quién quiere estar en un sueño diez años ? Depende del sueño . 
+851	Depends on the dream . 	Ya que plantemos la idea , cómo nos salimos ? 
+852	So once we 've made the plant , how do we get out ? 	Ya que plantemos la idea , cómo nos salimos ? 
+853	I 'm hoping you have something more elegant than shooting me in the head . 	Ojalá sea algo más elegante que dándome un tiro . 
+854	- A kick . 	- Con una patada . 
+855	- What 's a kick ? 	- Qué es una patada ? 
+856	This , Ariadne , would be a kick . 	Esto , Ariadne , sería una patada . 
+857	It 's that feeling of falling you get that jolts you awake . 	La sensación de caer que te hace despertar . 
+858	- Snaps you out of the dream . 	- Y te saca de tu sueño . - Vamos a sentirla con el sedante ? Es la parte ingeniosa . 
+859	- We gonna feel a kick with this sedation ? 	
+860	That 's the clever part . 	No afecta al oído interno . 
+861	I customized the sedative to leave inner-ear function unimpaired . 	No afecta al oído interno . 
+862	That way , however deep the sleep , the sleeper still feels falling . 	Por más profundamente que esté dormida , la persona siente la caída . 
+863	Or tipping . 	O el que la inclinen . 
+864	The trick is to synchronize a kick that can penetrate all three levels . 	Hay que sincronizar una patada que penetre los tres niveles . 
+865	We could use a musical countdown to synchronize the different kicks . 	Podemos sincronizarlas con un conteo musical . 
+866	He has n't got any surgery scheduled , no dental , nothing . 	No tiene una cirugía programada ni un dentista ni nada . 
+867	Was n't he supposed to have a knee operation ? 	Y la operación de la rodia ? 
+868	Nothing . 	No es nada . 
+869	Nothing that they 'll put him under for , anyway . 	No requiere anestesia general . 
+870	And we need-- 	Necesitamos unas buenas diez horas . 
+871	We need at least a good 10 hours . 	Necesitamos unas buenas diez horas . 
+872	Sydney to Los Angeles . 	De Sydney a Los Ángeles . 
+873	One of the longest flights in the world . 	Uno de los vuelos más largos del mundo . 
+874	He makes it every two weeks . 	Lo hace cada dos semanas . 
+875	He must be flying private , then . 	Debe de volar en avión privado . 
+876	Not if there were unexpected maintenance with his plane . 	No si su avión necesita mantenimiento inesperado . 
+877	It would have to be a 747 . 	- Necesitamos un 747 . 
+878	- Why 's that ? 	- Por qué ? 
+879	On a 747 , the pilot 's up top ... 	En un 747 el piloto está ... 
+880	the first-class cabin 's in the nose , so no one would walk through . 	arriba , primera clase en la nariz . 
+881	You 'd have to buy out the entire cabin and the first-class flight attendant . 	Tendrían que comprar toda la cabina y a la aeromoza . 
+882	I bought the airline . 	Compré la aerolínea . 
+883	It seemed neater . 	Me pareció más seguro . 
+884	Well , looks like we have our 10 hours . 	Tenemos nuestras diez horas . 
+885	Ariadne ? 	Ariadne ? 
+886	Terrific work , by the way . 	Excelente trabajo , a propósito . 
+887	You know how to find me . 	Ya sabes cómo encontrarme . 
+888	You know what you have to do . 	Sabes qué tienes que hacer . 
+889	You remember when you asked me to marry you ? 	Te acuerdas cuando me propusiste matrimonio ? 
+890	Of course I do . 	Claro que sí . 
+891	You said you had a dream . 	Dijiste que tuviste un sueño . 
+892	That we 'd grow old together . 	Que íbamos a envejecer juntos . 
+893	And we can . 	Y podemos . 
+894	You should n't be here . 	No deberías estar aquí . 
+895	Just wanted to see what kind of tests you 're doing on your own every night . 	Quería ver qué clase de pruebas hacías de noche . 
+896	- This has nothing to do with you . 	- No tiene nada que ver contigo . 
+897	- This has everything to do with me . 	- Tiene todo que ver . 
+898	- You 've asked me to share dreams with you . 	Quieres que comparta sueños contigo . Estos , no . Estos son mis sueños . 
+899	- Not these . 	
+900	These are my dreams . 	
+901	Why do you do this to yourself ? 	Por qué te haces esto ? 
+902	It 's the only way I can still dream . 	Es la única manera en que aún puedo soñar . 
+903	Why is it so important to dream ? 	Por qué es tan importante soñar ? 
+904	In my dreams , we 're still together . 	En mis sueños aún estamos juntos . 
+905	These are n't just dreams . 	Estos no son solo sueños . 
+906	These are memories . 	Son recuerdos . Y dijiste que nunca usara recuerdos . Ya lo sé . 
+907	And you said never to use memories . 	
+908	I know I did . 	La quieres mantener viva . 
+909	You 're trying to keep her alive . 	La quieres mantener viva . 
+910	You ca n't let her go . 	No puedes dejarla ir . 
+911	You do n't understand . 	No entiendes . 
+912	These are moments I regret . 	Son momentos de los que me arrepiento . 
+913	They 're memories that I have to change . 	Son memorias que necesito cambiar . 
+914	Well , what 's down there that you regret ? 	Qué hay abajo de lo que te arrepientes ? 
+915	Listen , there 's only one thing you need to understand about me . 	Solo hay una cosa que necesitas entender acerca de mí . 
+916	This is your house ? 	Esta es tu casa ? 
+917	Mine and Mal 's , yes . 	Sí , mía y de Mal . 
+918	Where is she ? 	Dónde está ella ? 
+919	She 's already gone . 	Ella ya murió . 
+920	That 's my son , James . 	Ese es mi hijo , James . 
+921	He 's digging for something , maybe a worm . 	Está escarbando , quizá un gusano . 
+922	That 's Phillipa . 	Ella es Philippa . 
+923	I thought about calling out to them ... 	Yo pensaba gritarles para que voltearan y sonrieran y yo viera ... 
+924	so they 'd turn and smile and I could see ... 	Yo pensaba gritarles para que voltearan y sonrieran y yo viera ... 
+925	those beautiful faces of theirs , but it 's all too late . 	esas caras hermosas , pero es demasiado tarde . 
+926	Right now or never , Cobb . 	Es ahora mismo o nunca , Cobb . 
+927	Then I start to panic . 	Y entonces me entra el pánico . 
+928	I realize I 'm gonna regret this moment ... 	Veo que me voy a arrepentir de este momento ... 
+929	that I need to see their faces one last time . 	y necesito ver sus caras una vez más . 
+930	James ! 	James ! 
+931	Phillipa ! 	Philippa ! 
+932	Come on in ! 	Entren ! 
+933	But the moment 's past . 	Pero pasa el momento . 
+934	And whatever I do , I ca n't change this moment . 	Y por más que trato , no puedo cambiar este momento . 
+935	As I m about to call out to them ... 	Me dispongo a llamarlos ... 
+936	they run away . 	y huyen corriendo . 
+937	If I m ever gonna see their faces again , I 've gotta get back home . 	Si quiero volver a ver sus caras , necesito regresar a casa . 
+938	The real world . 	Al mundo real . 
+939	What are you doing here ? 	Qué haces aquí ? 
+940	My name is -- 	Mi nombre es ... 
+941	I know who you are . 	Yo sé quién eres . 
+942	What are you doing here ? 	Qué haces aquí ? 
+943	I 'm just trying to understand . 	Estoy tratando de entender . 
+944	How could you understand ? 	Cómo vas a poder entender ? 
+945	Do you know what it is to be a lover ? 	Sabes lo que es ser una amante ? 
+946	To be half of a whole ? 	Ser la mitad de una entidad ? 
+947	No . 	No . 
+948	I 'll tell you a riddle . 	Te voy a contar un acertijo . 
+949	You 're waiting for a train . 	Estás esperando un tren . 
+950	A train that will take you far away . 	Un tren que te llevará muy lejos . 
+951	You know where you hope this train will take you ... 	Tú sabes a dónde esperas que te lleve ... 
+952	but you do n't know for sure . 	pero no estás segura de que va allá . 
+953	But it does n't matter . 	Pero no importa . 
+954	How can it not matter to you where that train will take you ? 	Cómo puede no importar adónde va el tren ? 
+955	Because you 'll be together . 	Porque vamos a estar juntos . 
+956	How could you bring her here , Dom ? 	- Cómo pudiste traerla , Dom ? 
+957	- What is this place ? 	- Qué es este lugar ? 
+958	This is a hotel suite where we used to spend our anniversary . 	Una suite de hotel donde pasábamos nuestro aniversario . 
+959	What happened here ? 	Qué pasó aquí ? 
+960	You promised ! 	Lo prometiste ! 
+961	You promised we 'd be together ! 	Prometiste que estaríamos juntos ! 
+962	Please , I need you to stay here just for now ! 	Necesito que te quedes aquí por ahora ! 
+963	You said we 'd be together ! 	Que estaríamos juntos y que envejeceríamos juntos ! 
+964	You said we 'd grow old together ! 	Regresaré por ti . 
+965	I 'll come back for you . 	Regresaré por ti . 
+966	I promise . 	Te lo prometo . 
+967	Do you think you can just build a prison of memories to lock her in ? 	Crees que puedes crear una cárcel de recuerdos para encerrarla ? 
+968	Do you really think that that 's gonna contain her ? 	Crees que eso la va a contener ? 
+969	It 's time . 	Es hora . 
+970	Maurice Fischer just died in Sydney . 	Maurice Fischer acaba de morir en Sydney . 
+971	- When 's the funeral ? 	- Cuándo es el funeral ? 
+972	- Thursday . 	- El jueves . 
+973	In Los Angeles . 	En Los Ángeles . 
+974	Robert should accompany the body no later than Tuesday . 	Robert acompañará el cuerpo el martes . 
+975	We should move . 	Hay que apurarnos . 
+976	All right . 	Muy bien . 
+977	- Cobb , I m coming with you . 	- Cobb , voy a ir contigo . 
+978	- I promised Miles . 	- Se lo prometí a Miles . 
+979	No . 	No . 
+980	The team needs someone who understands what you 're struggling with . 	El equipo necesita alguien que entienda tu conflicto . 
+981	And it does n't have to be me ... 	No tengo que ser yo ... 
+982	but then you have to show Arthur what I just saw . 	pero tienes que enseñarle a Arthur lo que vi . 
+983	Get us another seat on the plane . 	Consígannos otro asiento . 
+984	lf I get on this plane and you do n't honor our agreement ... 	Si me subo en este avión y Ud . 
+985	when we land , I go to jail for the rest of my life . 	cuando aterricemos me meten en la cárcel de por vida . 
+986	Complete the job en route ... 	Termine el trabajo en el aire . 
+987	I make one phone call from the plane ... 	Yo hago una llamada desde el avión ... 
+988	you have no trouble getting through Immigration . 	y pasa sin problemas por inmigración . 
+989	- I m sorry . 	- Disculpe . 
+990	- Oh , yeah , absolutely . 	- Sí , disculpe , mi error . 
+991	Thank you . 	Gracias . 
+992	Excuse me , I think this is yours ? 	Disculpe , creo que esto es suyo . 
+993	You must have dropped it . 	Debió caérsele . 
+994	Would you care for a drink ? 	Caballeros , desean una bebida ? 
+995	Oh . 	Agua , por favor . 
+996	Water , please . 	Lo mismo . 
+997	Oh , um , same , please . 	Lo mismo . 
+998	Um ... 	
+999	Thank you . 	Gracias . 
+1000	You know , I could n't help but notice ... 	Disculpe , no pude evitar notarlo . 
+1001	but you would n't happen to be related to the Maurice Fischer , would you ? 	Es Ud . 
+1002	Yes , he , um ... 	Sí , él ... 
+1003	He was my father . 	Él era mi padre . 
+1004	Well , he was a very inspiring figure . 	Era una gran inspiración . 
+1005	I 'm sorry for your loss . 	Mi más sentido pésame . 
+1006	- Here you go . 	- Aquí tiene . 
+1007	- Thank you . 	- Gracias . 
+1008	Hey . 	Por su padre . 
+1009	To your father . 	Por su padre . 
+1010	May he rest in peace , huh ? 	Que en paz descanse . 
+1011	- Could n't have peed before you went under ? 	- No orinaste antes de dormirte ? 
+1012	- Sorry . 	- Perdón . 
+1013	Bit too much free champagne before takeoff ? 	Demasiado champán antes de despegar . Ja , ja , maldito ja . 
+1014	Ha , ha , bloody ha . 	Va a buscar un taxi con este clima . 
+1015	We know he 's gonna be looking for a taxi in this weather . 	Va a buscar un taxi con este clima . 
+1016	- Asshole ! 	- Imbécil ! 
+1017	Hey , man , why do n't you try -- ? 	Por qué no tratas ...? 
+1018	- Walk away . 	- Lárgate . 
+1019	Just have him ca -- I gotta go . 	Que me llame . 
+1020	All right . 	Taxi ! 
+1021	Taxi . 	Gracias . 
+1022	Thank you . 	
+1023	All right , Third and Market . 	A la Tercera y Market . 
+1024	Snappy . 	Rápido . 
+1025	- What are you doing ? 	- Qué hace ? 
+1026	- Sorry , I thought it was free . 	- Pensé que estaba libre . 
+1027	- It s not . 	- No . 
+1028	- Maybe we could share . 	- Podemos compartir . 
+1029	Maybe not . 	O no . 
+1030	Can you pull over and get this -- ? 	Puede parar y dejar a este ...? 
+1031	Great . 	Magnífico . 
+1032	Come on . 	Súbete ! 
+1033	There 's 500 in there . 	Hay 500 dólares ahí dentro . 
+1034	The wallet 's worth more than that . 	La billetera vale más . 
+1035	You might at least drop me at my stop . 	Déjeme donde quería ir . 
+1036	I 'm afraid that it does n't -- 	Me temo que no funciona ... 
+1037	- Cover him ! 	- Cúbranlo ! 
+1038	- Down ! 	- Agáchese ! 
+1039	Down now ! 	Qué está pasando ? 
+1040	What the hell is going on ? 	Qué está pasando ? 
+1041	This was n't in the design . 	Esto no estaba en el diseño ! 
+1042	Cobb ? 	Cobb ? 
+1043	Cobb ? 	Cobb ? 
+1044	Get him ! 	Dispárale ! 
+1045	Are you all right ? 	Estás bien ? 
+1046	Yeah , I m okay . 	Sí , estoy bien . 
+1047	I 'm okay . 	Fischer está bien , sino se marea . 
+1048	Fischer 's okay , unless he gets carsick . 	Fischer está bien , sino se marea . 
+1049	Saito ? 	Saito ? 
+1050	Get Fischer in the back room now . 	Mete a Fischer en el cuarto de atrás ! 
+1051	- Get him in the back room . 	- Métanlo atrás ! 
+1052	Move . 	Rápido ! 
+1053	- What the hell happened ? 	- Qué demonios pasó ? 
+1054	Has he been shot ? 	Está herido o muriéndose ? 
+1055	Is he dying ? 	- No sé . 
+1056	I do n't know . 	- No sé . 
+1057	- Jesus Christ . 	- Dios mío . 
+1058	What happened to you ? 	- Dónde estabas ? 
+1059	- Blocked by a freight train . 	- Nos bloqueó un tren . 
+1060	Why put a train in a downtown intersection ? 	Por qué pusiste un tren en el centro ? 
+1061	- I did n't . 	- No fui yo . 
+1062	- Where 'd it come from ? 	- De dónde salió ? 
+1063	Why the hell were we ambushed ? 	Por qué nos emboscaron ? 
+1064	Those were not normal projections . 	No eran proyecciones normales ! 
+1065	They 'd been trained , for God 's sakes . 	Están entrenadas ! 
+1066	- How could he be trained ? 	- Pero cómo ? 
+1067	- Fischer 's had an extractor ... 	- Un extractor le enseñó ... 
+1068	teach his subconscious to defend itself , so his subconscious is militarized . 	al subconsciente de Fischer a defenderse . 
+1069	It should 've shown in the research . 	No aparece en la investigación . 
+1070	Why the hell did n't it ? 	- Por qué no ? 
+1071	- Calm down . 	- Cálmate . 
+1072	Do n't tell me to calm down ! 	No me digas que me calme ! 
+1073	This was your job , goddamn it ! 	Era tu trabajo , maldita sea , tu responsabilidad ! 
+1074	This was your responsibility ! 	Tenías que revisar sus antecedentes ! 
+1075	You were meant to check Fischer 's background ! 	Tenías que revisar sus antecedentes ! 
+1076	- We are not prepared for this ! 	No estamos listos para esta violencia ! Hemos lidiado con sub seguridad . 
+1077	- We have dealt with sub-security before ! 	Tendremos más cuidado y ya ! 
+1078	We 'll be more careful and we 're gonna be fine ! 	Tendremos más cuidado y ya ! 
+1079	This was not a part of the plan ! 	Esto no era parte del plan ! 
+1080	He 's dying . 	Se está muriendo ! 
+1081	Put him out his misery . 	- No , no hagas eso ! 
+1082	- No , do n't do that ! 	- No , no hagas eso ! 
+1083	Do n't do that . 	- Cobb , oye . 
+1084	- Cobb , hey , hey . 	Está sufriendo . 
+1085	He 's in agony . 	Está sufriendo . 
+1086	I m waking him up . 	Lo voy a despertar . 
+1087	No . 	No . 
+1088	It wo n't wake him up . 	Eso no lo va a despertar . 
+1089	What do you mean , it wo n't wake him up ? 	Cuando nos morimos en un sueño , nos despertamos . 
+1090	When we die in a dream , we wake up . 	No de este . 
+1091	Not from this . 	No de este . 
+1092	We 're too heavily sedated to wake up that way . 	Estamos demasiado sedados para despertar así . 
+1093	Right . 	Qué pasa cuando nos morimos ? 
+1094	So , what happens when we die ? 	- Caemos en el limbo . 
+1095	- We drop into limbo . 	- Caemos en el limbo . 
+1096	- Are you serious ? 	- En serio ? 
+1097	- Limbo ? 	- El Limbo ? 
+1098	- Unconstructed dream space . 	- Un espacio sin construir . 
+1099	What the hell is down there ? 	- Qué hay allá abajo ? 
+1100	- Just raw , infinite subconscious . 	- Subconsciente burdo , infinito . 
+1101	Nothing is down there , except for what might have been left behind ... 	Nada , excepto por lo que pudo haber dejado ... 
+1102	by anyone sharing the dream who 's been trapped there before . 	alguien que compartía el sueño y quedó atrapado . 
+1103	Which , in our case , is just you . 	En nuestro caso , solo eres tú . 
+1104	- How long could we be stuck ? 	- Cuánto tiempo podemos estar ahí ? 
+1105	- Ca n't even think about ... 	- Ni pienses en ... 
+1106	- ... 	- ... 
+1107	trying to escape until the sedation -- - How long ? 	escapar hasta estar menos ... 
+1108	Decades . 	Décadas . 
+1109	It could be infinite . 	O infinito . 
+1110	Ask him , he 's the one who 's been there . 	No sé . 
+1111	Let 's get him upstairs . 	Llevémoslo arriba . 
+1112	Great . 	Excelente . 
+1113	Thank you . 	Gracias . 
+1114	So now we 're trapped in Fischer 's mind , battling his own private army . 	Ahora estamos en la mente de Fischer , con su ejército . 
+1115	And if we get killed ... 	Y si nos matan ... 
+1116	we 'll be lost in limbo till our brains turn to scrambled egg , hmm ? 	estaremos en el Limbo hasta que nuestras mentes se pudran . 
+1117	Someone got first aid ? 	Tienen primeros auxilios ? 
+1118	- You knew these risks and did n't tell us ? 	Conocías los riesgos y no nos dijiste ? No iba a haber riesgos . 
+1119	- There were n't meant to be risks . 	- No sabía que iba a haber armas . 
+1120	- I did n't know we 'd be dealing with gunfire . 	- No sabía que iba a haber armas . 
+1121	- You had no right . 	- No tenías derecho . 
+1122	This was the only way to go three layers deep . 	Solamente así podíamos penetrar tres niveles . 
+1123	You knew about this and went along with it ? 	Tú sabías de esto y accediste ? confiaba en él ! 
+1124	I trusted him . 	Te prometió la mitad de su parte ? 
+1125	When ? 	Te prometió la mitad de su parte ? 
+1126	When he promised you half his share ? 	No . 
+1127	No . 	No . 
+1128	His whole share . 	Toda su parte . 
+1129	Besides , he said he 'd done it before . 	Y dijo que él ya lo había hecho . 
+1130	What , with Mal ? 	Qué , con Mal ? 
+1131	Because that worked so good ? 	Porque eso salió de maravilla . 
+1132	That has nothing to do with it . 	Hice lo necesario para volver con mis hijos . 
+1133	I did what I had to to get to my children . 	Nos metiste en una guerra sin salida . 
+1134	You led us into a war zone with no way out ? 	Nos metiste en una guerra sin salida . 
+1135	There is a way out . 	Sí hay una salida . Seguimos con el trabajo . Lo hacemos rápido ... 
+1136	We continue on with the job , and we do it as fast as possible ... 	y salimos usando la patada , como antes . 
+1137	and we get out using the kick , just like before . 	y salimos usando la patada , como antes . 
+1138	Forget it . 	Entre más adentro , más difícil es salir . 
+1139	We go any deeper , we just raise the stakes . 	Yo me quedo en este nivel . 
+1140	I am sitting this one out on this level . 	Yo me quedo en este nivel . 
+1141	Fischer 's security is surrounding this place . 	Las fuerzas de Fischer nos están rodeando . 
+1142	Ten hours of flight time is a week at this level . 	Diez horas de vuelo son una semana aquí . 
+1143	That means each and every one of us will be killed . 	O sea que nos van a matar a todos . 
+1144	That I can guarantee you . 	Se lo garantizo . 
+1145	We have no other choice but to continue on and do it as fast as possible . 	Tenemos que seguir lo más rápido posible . 
+1146	Downwards is the only way forwards . 	Bajar es la única manera de avanzar . 
+1147	Get ready . 	Prepárate . 
+1148	You , come on . 	Tú , ven . 
+1149	Let 's go shake him up . 	vamos a asustarlo . 
+1150	I 'm insured against kidnapping for up to 10 million . 	Tengo un seguro contra secuestro de diez millones . 
+1151	- This should be very simple . 	- Será muy sencillo . 
+1152	- Shut up ! 	- Cállate ! 
+1153	It wo n't be . 	No va a serlo . 
+1154	In your father 's office , below the bookshelves ... 	En la oficina de tu padre está su caja fuerte . 
+1155	is his personal safe . 	Necesitamos la combinación . 
+1156	We need the combination . 	
+1157	I do n't know any safe . 	No sé nada de una caja fuerte . 
+1158	That does n't mean you do n't know the combination . 	Igual puedes saber la combinación . 
+1159	Tell us what it is . 	Dinos cuál es . 
+1160	I do n't know . 	No sé . 
+1161	We have it on good authority you do know . 	Una fuente nos dijo que la sabías . 
+1162	Yeah ? 	Sí ? 
+1163	Whose authority ? 	Qué fuente ? 
+1164	- Five hundred dollars , this cost . 	- Esto costó 500 dólares ? 
+1165	- What 's inside it ? 	- Qué tiene dentro ? 
+1166	Cash , cards , ID . 	Efectivo , tarjetas , identificación y esto . 
+1167	And this . 	
+1168	Useful ? 	Es útil ? 
+1169	Maybe . 	Quizá . 
+1170	You 're on . 	Te toca . 
+1171	You 've got an hour . 	Tienes una hora . 
+1172	An hour ? 	Una hora ? 
+1173	I was supposed to have all night to crack this . 	Iba a tener toda la noche . 
+1174	And Saito was n't supposed to be shot in the chest . 	No iban a herir a Saito en el pecho . 
+1175	You 've got one hour , now get us something useful , please . 	Una hora . 
+1176	- What 's that ? 	- Qué es eso ? 
+1177	- Good authority . 	- Una fuente . 
+1178	Uncle Peter . 	Tío Peter ? 
+1179	Just make them stop . 	Haz que paren . 
+1180	- The combination . 	- La combinación . 
+1181	- I do n't know it . 	- No la sé . 
+1182	- Why does Browning say you do ? 	- Por qué dice Browning que sí ? 
+1183	- I do n't know . 	- No sé . 
+1184	Just let me talk to him and I ll find out . 	Déjame hablar con él para averiguarlo . 
+1185	You have one hour . 	Tienes una hora . 
+1186	Start talking . 	Empieza a hablar . 
+1187	You all right ? 	Estás bien ? 
+1188	You okay ? 	Estás bien ? 
+1189	Those bastards have had at me for two days . 	Esos desgraciados llevan dos días torturándome . 
+1190	They have someone with access to your father 's office . 	Tienen acceso a la oficina y quieren abrir la caja fuerte . 
+1191	- They 're trying to open his safe . 	Tienen acceso a la oficina y quieren abrir la caja fuerte . 
+1192	- Yeah . 	Pensaron que yo sabía la combinación , pero no . 
+1193	They thought I 'd know the combination , but I do n't know it . 	Pensaron que yo sabía la combinación , pero no . 
+1194	- Yeah , well , neither do I , so ... 	- Sí , bueno , yo tampoco . 
+1195	- What ? 	- Qué ? 
+1196	Maurice told me that when he passed , you were the only one able to open it . 	Maurice me dijo que sólo tú la ibas a poder abrir . 
+1197	No , he never gave me any combination . 	No me dio ninguna combinación . 
+1198	Maybe he did . 	Quizá te la dio sin que supieras lo que era . 
+1199	I mean , maybe you just did n't know it was a combination . 	Entonces , qué ? 
+1200	Well , what , then ? 	Entonces , qué ? 
+1201	I do n't know , some meaningful combination of numbers ... 	Una combinación significativa de números ... 
+1202	based on your experiences with Maurice . 	basada en tus experiencias con Maurice . 
+1203	We did n't have very many , uh , meaningful experiences together . 	No tuvimos muchas experiencias significativas juntos . 
+1204	Perhaps after your mother died . 	Quizá cuando murió tu madre . 
+1205	After my mother died , you know what he told me ? 	Cuando murió mi madre , sabes qué me dijo ? 
+1206	Robert , there 's really nothing to be said . 	Robert , realmente no hay nada que decir . 
+1207		
+1208	Oh , well , he was bad with emotion . 	Era malo con las emociones . 
+1209	I was 11 , Uncle Peter . 	Tío Peter , yo tenía 11 años . 
+1210	- How 's he doing ? 	- Cómo está ? 
+1211	- He 's in a lot of pain . 	- Tiene mucho dolor . 
+1212	When we get down to the lower levels , the pain will be less intense . 	Cuando lleguemos más abajo , el dolor disminuirá . 
+1213	And if he dies ? 	Y sise muere ? 
+1214	Worst-case scenario ? 	En el peor de los casos ... 
+1215	When he wakes up , his mind is completely gone . 	cuando despierte perderá la razón . 
+1216	Cobb , I 'll still honor the arrangement . 	Cobb , voy a cumplirte lo que te prometí . 
+1217	I appreciate that , Saito . 	Te lo agradezco , Saito . 
+1218	But when you wake up , you wo n't even remember that we had an arrangement . 	Pero cuando despiertes no te vas a acordar del arreglo . 
+1219	Limbo is gonna become your reality . 	El Limbo se volverá tu realidad . 
+1220	You 're gonna be lost down there so long that you 're gonna become an old man . 	Te vas a perder ahí tanto tiempo que te vas a poner viejo . 
+1221	Filled with regret ? 	Lleno de remordimientos ? 
+1222	Waiting to die alone . 	Esperando morir solo . 
+1223	No . 	No . 
+1224	I 'll come back . 	Voy a regresar y seremos jóvenes juntos de nuevo . 
+1225	And we 'll be young men together again . 	Voy a regresar y seremos jóvenes juntos de nuevo . 
+1226	Breathe . 	Respira . 
+1227	These people are gonna kill us if we do n't give them the combination . 	Nos van a matar sino les damos la combinación . 
+1228	- They just wanna ransom us . 	- Quieren un rescate . 
+1229	- I heard them . 	- Los oí . 
+1230	They 're gonna lock us in that van , and then drive it into the river . 	Nos van a encerrar en la camioneta y a echarla al río . 
+1231	All right . 	Qué hay en la caja fuerte ? 
+1232	What is in the safe ? 	
+1233	Something for you . 	Algo para ti . 
+1234	Maurice always said it was his most precious gift to you . 	Maurice decía que era el mejor regalo que te podía dar . 
+1235	- A will . 	- Un testamento . 
+1236	- Maurice 's will is with Port and Dunn . 	- Su testamento está en Port y Dunn . 
+1237	That 's an alternate . 	Ese es otro . 
+1238	This would supersede the other if you want it to . 	Ese es otro . 
+1239	It splits up the component businesses of Fischer Morrow . 	Separa todos los negocios de Fischer Morrow . 
+1240	It 'd be the end of the entire empire as we know it . 	Será el fin de todo el imperio , como lo conocemos . 
+1241	Destroying my whole inheritance ? 	Destruyendo toda mi herencia ? 
+1242	- Why would he suggest such a thing ? 	- Cómo pudo sugerir tal cosa ? 
+1243	- I just do n't know . 	- La verdad , no sé . 
+1244	He loved you , Robert . 	Él te quería , Robert . 
+1245	In his own way . 	A su manera . 
+1246	In his own way . 	A su manera ? 
+1247	At the end ... 	Al final ... 
+1248	he called me in to his deathbed . 	me llamó a su lecho de muerte . 
+1249	He could barely speak . 	Apenas podía hablar . 
+1250	But he took the trouble to tell me one last thing . 	Se tomó la molestia de decirme una última cosa . 
+1251	He pulled me close . 	Hizo que me acercara a él . 
+1252	And I could only make out ... 	Y solamente pude distinguir ... 
+1253	one word . 	una palabra . 
+1254	Disappointed . 	Decepcionado . 
+1255		
+1256	When were you in limbo ? 	Cuándo estuviste en el Limbo ? 
+1257	You might have the rest of the team convinced to carry on with this job . 	Quizá hayas convencido a los demás de continuar . 
+1258	- But they do n't know the truth . 	- Pero no saben la verdad . 
+1259	- Truth ? 	- Cuál verdad ? 
+1260	What truth ? 	Que en cualquier momento puedes introducir un tren . 
+1261	The truth that , at any minute , you might bring a freight train through the wall . 	Que en cualquier momento puedes introducir un tren . 
+1262	The truth that Mal is bursting through your subconscious . 	Que Mal está irrumpiendo a través de tu subconsciente . 
+1263	And the truth that , as we go deeper into Fischer ... 	Que al adentrarnos más en Fischer nos adentramos más en ti . 
+1264	we 're also going deeper into you . 	Que al adentrarnos más en Fischer nos adentramos más en ti . 
+1265	And I m not sure we 're gonna like what we find . 	No sé si nos va a gustar lo que encontremos . 
+1266	We were working together . 	Estábamos trabajando juntos . 
+1267	We were exploring the concept of a dream within a dream . 	Estábamos explorando el concepto de un sueño dentro de otro . 
+1268	I kept pushing things . 	Yo seguía presionando . 
+1269	I wanted to go deeper and deeper . 	Quería ir más profundo . 
+1270	I wanted to go further . 	Quería ir más lejos . 
+1271	I just did n't understand the concept that hours could turn into years down there ... 	Pero no entendía que horas se podían volver años allá abajo ... 
+1272	that we could get trapped so deep ... 	que podíamos quedar atrapados tan abajo que ... 
+1273	that when we wound up on the shore of our own subconscious ... 	cuando acabamos en la costa de nuestro subconsciente ... 
+1274	we lost sight of what was real . 	perderíamos la noción de lo que era real . 
+1275	We created . 	Creamos un mundo para nosotros . 
+1276	We built the world for ourselves . 	
+1277	We did that for years . 	Lo hicimos durante años . 
+1278	We built our own world . 	Construimos nuestro propio mundo . 
+1279	How long were you stuck there ? 	Cuánto tiempo estuviste ahí ? 
+1280	Something like 50 years . 	Unos 50 años . 
+1281	Jesus . 	Dios mío . 
+1282	How could you stand it ? 	Cómo aguantaste ? 
+1283	It was n't so bad at first , feeling like gods . 	No estuvo mal sentirse como dioses . 
+1284	The problem was knowing that none of it was real . 	El problema era saber que nada era real . 
+1285	Eventually , it just became impossible for me to live like that . 	Con el tiempo se me volvió imposible vivir así . 
+1286	And what about for her ? 	Qué tal para ella ? 
+1287	She had locked something away , something deep inside her . 	Había encerrado algo en lo profundo de su ser . 
+1288	A truth that she had once known , but chose to forget . 	Una verdad que había sabido pero que quiso olvidar . 
+1289	Limbo became her reality . 	El limbo se volvió su realidad . 
+1290	What happened when you woke up ? 	Qué pasó cuando despertaron ? 
+1291	Well , to wake up from that after years , after decades ... 	Despertar de eso después de años y décadas ? 
+1292	to become old souls thrown back into youth like that ? 	Volverse almas viejas lanzadas de nuevo a la juventud ? 
+1293	I knew something was wrong with her . 	Yo sabía que le pasaba algo . 
+1294	She just would n't admit it . 	Ella no lo admitía . 
+1295	Eventually , she told me the truth . 	Finalmente me dijo la verdad . 
+1296	She was possessed by an idea . 	Le obsesionaba una idea . 
+1297	This one very simple idea that changed everything . 	Una idea muy sencilla que cambió todo . 
+1298	That our world was n't real . 	Que nuestro mundo no era real . 
+1299	That she needed to wake up to come back to reality ... 	Que necesitaba despertar para volver a la realidad ... 
+1300	that in order to get back home ... 	que para volver a casa ... 
+1301	we had to kill ourselves . 	nos teníamos que matar . 
+1302	- What about your children ? 	- Y tus hijos ? 
+1303	- She thought they were projections ... 	- Ella pensaba que eran proyecciones ... 
+1304	that our real children were waiting for us up there somewhere . 	que los de verdad estaban arriba . 
+1305	- I m their mother ! 	- Soy su mamá ! 
+1306	- Calm down . 	- Cálmate . 
+1307	I can tell the difference . 	Los puedo distinguir . 
+1308	If this is my dream , why ca n't I control this ? 	Es mi sueño y no puedo controlarlo ? 
+1309	You do n't know you 're dreaming ! 	No sabes que estás soñando ! 
+1310	She was certain there was nothing I could do ... 	Estaba segura de que yo no podía hacer nada . 
+1311	no matter how much I begged , no matter how much I pleaded . 	Por más que le rogaba y le suplicaba . 
+1312	She wanted to do it , but she could not do it alone . 	Ella quería hacerlo , pero no podía hacerlo sola . 
+1313	She loved me too much , so she came up with a plan on our anniversary . 	Me quería demasiado , así que elaboró un plan en nuestro aniversario . 
+1314	- Sweetheart , what are you doing ? 	- Mi vida , qué haces ? 
+1315	- Join me . 	- Ven conmigo . 
+1316	Just -- Just step back inside . 	Ven acá . 
+1317	All right ? 	Está bien ? 
+1318	Just step back inside now , come on . 	Ven acá dentro , vamos . 
+1319	No . 	Voy a saltar y tú vas a venir conmigo . 
+1320	I 'm going to jump , and you 're coming with me . 	No voy a ir . 
+1321	No , I 'm not . 	No voy a ir . 
+1322	Now , you listen to me . 	Escúchame bien . 
+1323	If you jump , you 're not gonna wake up , remember ? 	Si saltas no te vas a despertar . 
+1324	You 're gonna die . 	Te vas a morir . 
+1325	Now , just step back inside . 	Métete acá dentro y ya . 
+1326	Come on . 	Entra para que hablemos de esto . 
+1327	Step back inside so we can talk about this . 	Ya hablamos suficiente . 
+1328	We 've talked enough . 	Ya hablamos suficiente . 
+1329	- Mal . 	- Mal . 
+1330	- Come out onto the ledge ... 	- Sal a la repisa ... 
+1331	- ... 	o saltaré ahora mismo . 
+1332	or I ll jump right now . 	- Está bien . 
+1333	- Okay . 	
+1334	We 're gonna talk about this . 	Vamos a hablar de esto . 
+1335	All right ? 	Está bien ? 
+1336	- I m asking you to take a leap of faith . 	- Te pido que des un salto a ciegas . 
+1337	- No , honey . 	- No , corazón . 
+1338	No , I ca n't . 	Tú sabes que no puedo hacer eso . 
+1339	You know I ca n't do that . 	Tómate un segundo , piensa en los niños . 
+1340	Take a second , think about our children . 	Tómate un segundo , piensa en los niños . 
+1341	Think about James . 	Piensa en James . 
+1342	Think about Phillipa , now . 	Piensa en Philippa ahora . 
+1343	If I go without you , they 'll take them away anyway . 	Si me voy sin ti , igual se los van a llevar . 
+1344	- What does that mean ? 	- Qué significa eso ? 
+1345	- I filed a letter with our attorney ... 	- Le di una carta a nuestro abogado ... 
+1346	explaining how I 'm fearful for my safety . 	explicando que temo que me puede pasar algo . 
+1347	How you 've threatened to kill me . 	que tú amenazaste con matarme . 
+1348	- Why did you do this ? 	- Por qué hiciste eso ? 
+1349	- I love you , Dom . 	- Te quiero , Dom . 
+1350	Why did -- ? 	Cómo pudiste hacerme eso ? 
+1351	Why would you do this to me ? 	Te liberé de la culpabilidad de dejarlos . 
+1352	I 've freed you from the guilt of choosing to leave them . 	Te liberé de la culpabilidad de dejarlos . 
+1353	We 're going home to our real children . 	Nos vamos a casa con nuestros hijos de verdad . 
+1354	Oh , no , no , no , Mal , you listen to me , all right ? 	No , Mal , escúchame , sí ? 
+1355	Mal , look at me , please ? 	Mal , mírame ! 
+1356	You 're waiting for a train . 	Estás esperando un tren . 
+1357	- Mal , goddamn it , do n't do this ! 	- Mal , no hagas esto ! 
+1358	- A train that will take you far away . 	- Un tren que te llevará muy lejos . 
+1359	James and Phillipa are waiting for you ! 	James y Philippa te están esperando ! 
+1360	You know where you hope this train will take you , but you ca n't know for sure . 	Tú sabes a dónde esperas que te lleve . 
+1361	- Mal , look at me ! 	- Mal , mírame ! 
+1362	- But it does n't matter . 	- Pero no importa . 
+1363	- Mal , goddamn it ! 	- Mal , maldita sea ! 
+1364	Mal , listen to me ! 	- Porque van a estar juntos . 
+1365	- Because you 'll be together . 	Escúchame ! 
+1366	Sweetheart ! 	Escúchame ! 
+1367	Look at me ! 	Mi vida ! 
+1368	Mal , no ! 	Mírame ! 
+1369	Jesus Christ ! 	Dios mío ! 
+1370	She had herself declared sane by three different psychiatrists . 	Hizo que tres siquiatras la declararan cuerda . 
+1371	It made it impossible for me to try to explain the nature of her madness . 	Me era imposible explicar la naturaleza de su locura . 
+1372	So I ran . 	Así que huí . 
+1373	Right now , or never , Cobb . 	Ahora mismo , o nunca , Cobb . 
+1374	James ! 	Bueno , vámonos . 
+1375	Phillipa ! 	
+1376	Come on in ! 	
+1377	Come on ! 	
+1378	All right , let 's go . 	
+1379	I left my children behind and I 've been trying to buy my way back ever since . 	Dejé a mis niños y he estado tratando de comprar mi regreso . 
+1380	Your guilt defines her . 	Tu culpabilidad la define . 
+1381	It 's what powers her . 	Eso le da su energía . 
+1382	But you are not responsible for the idea that destroyed her . 	No eres responsable de la idea que la destruyó . 
+1383	And if we are gonna succeed in this ... 	Si vamos a tener éxito ... 
+1384	you have to forgive yourself , and you 're gonna have to confront her . 	tienes que perdonarte y tienes que confrontarla . 
+1385	But you do n't have to do that alone . 	No necesitas hacerlo solo . 
+1386	- No , you 're not ... 	- No , tú no ... 
+1387	- I m doing it for the others . 	- Lo hago por los demás . 
+1388	Because they have no idea the risk they 've taken coming down here with you . 	No tienen idea del riesgo que corrieron bajando aquí contigo . 
+1389	We have to move . 	Nos tenemos que ir . 
+1390	Time 's up . 	Se acabó el tiempo . 
+1391	All right . 	Bueno . 
+1392	I do n't know any combination . 	No conozco ninguna combinación . 
+1393	- Not consciously , anyway . 	- Al menos conscientemente . 
+1394	- How about instinctively , huh ? 	- E instintivamente ? 
+1395	I got somebody in your father 's office right now ready to tap in the combination . 	Tengo a alguien en la oficina listo para probar la combinación . 
+1396	Give me the first six numbers that come to your head right now . 	Dime los primeros seis números que se te ocurren . 
+1397	- I have no idea . 	- No tengo idea . 
+1398	- Right now ! 	- Ahora mismo ! 
+1399	I said , right now ! 	Dije que ahora mismo ! 
+1400	Right now ! 	Ahora mismo ! 
+1401	Five , two , eight , four , nine , one . 	Cinco , dos , ocho , cuatro , nueve , uno . 
+1402	You 'll have to do better than that . 	Tienes que darme algo mejor . 
+1403	All right . 	Ponle una bolsa en la cabeza . 
+1404	Bag them . 	Vas a dar una vuelta . 
+1405	You 're going for a ride . 	
+1406	We 're worth more to you alive . 	Valemos más vivos . 
+1407	You hear me ? 	Me oyes ? 
+1408	What 'd you get ? 	Qué averiguaste ? 
+1409	Relationship with his father is worse than we imagined . 	La relación con su padre es espantosa . 
+1410	This helps us how ? 	Y eso nos ayuda ? 
+1411	The stronger the issues , the more powerful the catharsis . 	Problemas graves producen catarsis poderosas . 
+1412	- How are we gonna reconcile them ? 	- Cómo los vamos a reconciliar ? 
+1413	- I m working on that . 	- Estoy trabajando en eso . 
+1414	Work faster . 	Date prisa . 
+1415	The projections are closing in quick . 	Las proyecciones vienen rápido . 
+1416	We gotta break out of here before we 're totally boxed in . 	Tenemos que huir de aquí antes de quedar atrapados . 
+1417	Damn it . 	Maldita sea . 
+1418	You must n't be afraid to dream a little bigger , darling . 	No temas soñar más en grande . 
+1419	We need to shift his animosity from his father to his godfather . 	Hay que trasladar su rencor del papá al padrino . 
+1420	- Destroy his one positive relationship ? 	- vas a destruir su relación positiva ? 
+1421	- No , repair his relationship with his father ... 	- Lo reconciliamos con su padre ... 
+1422	whilst exposing his godfather 's true nature . 	y revelamos la naturaleza del padrino . 
+1423	We should charge Fischer a lot more than Saito for this job . 	Necesitamos cobrarle más a Fischer que a Saito . 
+1424	His security is gonna get worse as we go deeper . 	Y su seguridad ? 
+1425	- I think we run with Mr . Charles . 	- Hay que usar al Sr . Charles . 
+1426	- No . 	- No . 
+1427	Who 's Mr . Charles ? 	- Quién es el Sr . Charles ? 
+1428	- Bad idea . 	- Mala idea . 
+1429	The second we get into that hotel his security 's gonna be all over us . 	Cuando nos acerquemos a Fischer , su seguridad nos va a atacar . 
+1430	We run with Mr . Charles like on the Stein job . 	Usamos a Charles como con Stein . 
+1431	- You 've done it before ? 	- Ya lo has hecho ? 
+1432	- Yeah , and it did n't work . 	- Sí , y no funcionó . 
+1433	The subject realized he was dreaming and his subconscious tore us to pieces . 	Supo que era un sueño y su subconsciente nos desgarró . 
+1434	Excellent . 	Excelente , pero aprendieron mucho . 
+1435	But you learned a lot , right ? 	Necesito una distracción . 
+1436	- I need some kind of distraction . 	Necesito una distracción . 
+1437	- No problem . 	Qué tal una señorita que he usado antes ? 
+1438	How about a lovely lady that I 've used before ? 	Qué tal una señorita que he usado antes ? 
+1439	Listen to me . 	Escucha , maneja con cuidado . 
+1440	You drive carefully , all right ? 	Todo va a estar muy inestable . 
+1441	Everything down there is gonna be unstable as hell . 	Todo va a estar muy inestable . 
+1442	Do n't jump too soon . 	No saltes muy pronto . 
+1443	We only got one shot at that kick . 	Hay una sola oportunidad . 
+1444	We gotta make it . 	Les avisaré con música , pero depende de Uds . 
+1445	I 'll play the music to let you know it 's coming . 	Les avisaré con música , pero depende de Uds . 
+1446	The rest is on you . 	- Están listos ? 
+1447	- You ready ? 	- Están listos ? 
+1448	- Ready ! 	- Listos ! 
+1449	Sweet dreams . 	Dulces sueños . 
+1450	Am I boring you ? 	Te estoy aburriendo ? 
+1451	I was telling you my story . 	Te estaba contando mi historia . 
+1452	I guess it was n't to your liking . 	Parece que no te gustó . 
+1453	Um , I have a lot on my mind . 	Tengo muchas cosas en la cabeza . 
+1454	There goes Mr . Charles . 	Allá va el Sr . Charles . 
+1455	Mr . Fischer , right ? 	Ud . 
+1456	Pleasure to see you again . 	Qué placer verlo . 
+1457	Rod Green from marketing . 	Rod Green de mercadeo . 
+1458	I -- 	
+1459	Hmm . 	- Y tú ? 
+1460	- And you must be ? 	- Y tú ? 
+1461	- Leaving . 	- Ya me voy . 
+1462	In case you get bored . 	Por site aburres . 
+1463	Must 've blown you off . 	Te mandó a volar . 
+1464	That is , unless her phone number really is only six digits . 	A menos que su teléfono sólo tenga seis números . 
+1465	Funny way to make friends , someone stealing your wallet like that . 	Qué manera tan rara de hacer amigos , robándole así su cartera . 
+1466	Goddamn it . 	Maldita sea . 
+1467	The wallet alone is worth at least 500-- 	Esa cartera vale unos 500 ... 
+1468	About 500 , right ? 	Unos 500 dólares , no ? 
+1469	Do n't worry about it . 	No se preocupe . 
+1470	My people are already on it as we speak . 	Mi gente ya está en eso . 
+1471	Who or what is Mr . Charles ? 	Quién o qué es el Sr . Charles ? 
+1472	It 's a gambit designed to turn Fischer against his own subconscious . 	Es una táctica para volver a Fischer contra su subconsciente . 
+1473	And why do n't you approve ? 	Qué tiene de malo ? 
+1474	It involves telling the mark that he 's dreaming ... 	Le dice al blanco que está soñando ... 
+1475	which involves attracting a lot of attention to us . 	con lo cual atraemos mucha atención . 
+1476	- Did n't Cobb say never to do that ? 	No dijo Cobb que nunca hiciéramos eso ? 
+1477	- Hmm . 	Ya te fijaste que Cobb hace muchas cosas que nos prohíbe . 
+1478	So now you 've noticed how much time ... 	Ya te fijaste que Cobb hace muchas cosas que nos prohíbe . 
+1479	Cobb spends doing things he says never to do . 	Ya te fijaste que Cobb hace muchas cosas que nos prohíbe . 
+1480	Mr . Saito , can I have a moment ? 	Sr . Saito , me permite un momento ? 
+1481	- I m sorry , but ... 	- Disculpe , pero ... 
+1482	- Hold on ! 	- Momento ! 
+1483	Wait ! 	Espere ! 
+1484	You look a bit perkier . 	Se ve más animado . 
+1485	Very amusing , Mr . Eames . 	Qué chistoso , Sr . Eames . 
+1486	Turbulence on the plane ? 	Turbulencia en el avión ? 
+1487	No , it 's much closer . 	No , está más cerca . 
+1488	That 's Yusuf 's driving . 	Yusuf está manejando . 
+1489	Um , I 'm sorry . 	Perdón . 
+1490	Who did you say you were ? 	Quién dijiste que eras ? 
+1491	Rod Green from marketing . 	Rod Green de mercadeo . 
+1492	But that 's not true at all , is it ? 	Pero eso no es verdad , o sí ? 
+1493	My name is Mr . Charles . 	Yo soy el Sr . Charles . 
+1494	You remember me , do n't you ? 	Se acuerda de mí ? 
+1495	I 'm the head of your security down here . 	Soy su jefe de seguridad acá abajo . 
+1496	Get out on a different floor , keep moving . 	Sal en otro piso y sigue moviéndote . 
+1497	Dump the wallet . 	Tira la billetera . 
+1498	Security will be looking for that . 	La estarán buscando . 
+1499	- Okay . 	Necesitamos darle más tiempo a Cobb . 
+1500	- We need to buy Cobb a little more time . 	
+1501	Security , huh ? 	Seguridad , eh ? 
+1502	- You work for the hotel ? 	- Trabajas para el hotel ? 
+1503	- No , no . 	- No , no . 
+1504	I specialize in a very specific type of security . 	Me especializo en un tipo muy especial de seguridad . 
+1505	Subconscious security . 	Seguridad subconsciente . 
+1506	You 're talking about dreams ? 	Estás hablando de sueños ? 
+1507	Are you talking about , um , extraction ? 	Estás hablando de extracción ? 
+1508	I am here to protect you . 	Estoy aquí para protegerlo . 
+1509	Mr . Fischer , I m here to protect you in the event ... 	Estoy aquí para protegerlo en caso ... 
+1510	that someone tries to access your mind through your dreams . 	de que alguien busque acceso a su mente a través de sus sueños . 
+1511	You 're not safe here . 	No está a salvo aquí . 
+1512	They 're coming for you . 	Van a venir por usted . 
+1513	Strange weather , is n't it ? 	El clima está raro , no ? 
+1514	You feel that ? 	Siente eso ? 
+1515	What 's happening ? 	Qué pasa ? 
+1516	Cobb 's drawing Fischer 's attention to the strangeness of the dream ... 	Cobb está señalándole a Fischer lo extraño del sueño . 
+1517	which is making his subconscious look for the dreamer . 	Eso hace que su subconsciente busque al soñador . 
+1518	For me . 	A mí . 
+1519	Quick , give me a kiss . 	Pronto , dame un beso . 
+1520	- They 're still looking at us . 	- Siguen mirándonos . 
+1521	- Yeah , it was worth a shot . 	- Sí , pero había que tratar . 
+1522	We should probably get out of here . 	Probablemente deberíamos irnos . 
+1523	You feel that ? 	Siente eso ? 
+1524	You 've actually been trained for this , Mr . Fischer . 	Lo entrenaron para esto , Sr . Fischer . 
+1525	Pay attention to the strangeness of the weather , the shift in gravity . 	Fíjese en lo extraño del clima , el cambio de la gravedad . 
+1526	None of this is real . 	Nada de esto es real . 
+1527	You 're in a dream . 	Está en un sueño . 
+1528	Now , the easiest way for you to test yourself ... 	La manera más fácil de comprobarlo ... 
+1529	is to try and remember how you arrived at this hotel . 	es tratar de recordar cómo llegó a este hotel . 
+1530	Can you do that ? 	Se acuerda ? 
+1531	Yeah , I ... 	Sí , yo ... 
+1532	No , breathe , breathe . 	Respire . 
+1533	Remember your training . 	Recuerde su entrenamiento . 
+1534	Accept the fact that you 're in a dream , and I m here to protect you . 	Acepte que es un sueño y que estoy aquí para protegerlo . 
+1535	Go on . 	
+1536	Mm-hm . 	
+1537	- You 're not real ? 	- Tú no eres real ? 
+1538	- No . 	- No . 
+1539	No . 	Yo soy una proyección de su subconsciente . 
+1540	I 'm a projection of your subconscious . 	Lo protejo si extractores ... 
+1541	I was sent here to protect you in the event ... 	Lo protejo si extractores ... 
+1542	that extractors tried to pull you into a dream . 	intentan meterlo en un sueño . 
+1543	And I believe that 's what 's going on right now , Mr . Fischer . 	Creo que eso es lo que está pasando , Sr . Fischer . 
+1544	Yeah . 	
+1545	Okay . 	
+1546	Okay . 	
+1547	Can you get me out of here ? 	Me puedes sacar de aquí ? 
+1548	Right away . 	Enseguida . 
+1549	Follow me . 	Sígame . 
+1550	Hold on a second . 	Espere un segundo . 
+1551	Jesus Christ ! 	Dios mío ! 
+1552	What are you doing ? 	Qué hace ? 
+1553	These men were sent here to abduct you , all right ? 	Vinieron a secuestrarlo . 
+1554	If you want my help , you have to remain calm . 	Si quiere mi ayuda , mantenga la calma . 
+1555	I need you to work with me , Mr . Fischer . 	Necesito que colabore conmigo . 
+1556	If this is a dream , I should just kill myself to wake up , right ? 	Si este es un sueño , debería matarme para despertar , no ? 
+1557	I would n't do that if I were you , Mr . Fischer . 	Yo que Ud . 
+1558	I believe they have you sedated , and if you pull that trigger ... 	Creo que está sedado y si tira de ese gatillo ... 
+1559	you may not wake up . 	quizá no despierte . 
+1560	You may go into a further dream state . 	Puede pasar a un estado de sueño más profundo . 
+1561	Now , you know what I 'm talking about . 	Usted sabe . 
+1562	You remember the training . 	Recuerde el entrenamiento . 
+1563	Remember what I said to you . 	Recuerde lo que le dije . 
+1564	Give me the gun . 	Déme la pistola . 
+1565	- This room should be directly below 528 ? 	- Este cuarto está abajo del 528 . 
+1566	- Yeah . 	- Sí . 
+1567	Think , Mr . Fischer , think . 	Piense , Sr . Fischer , piense . 
+1568	What do you remember from before this dream ? 	Qué recuerda de antes del sueño ? 
+1569	There was , um , a lot of gunfire . 	Hubo ... 
+1570	There was rain . 	Hubo ... 
+1571	Uncle Peter . 	Tío Peter . 
+1572	- Oh , my God , we 've been kidnapped . 	- Dios mío , nos secuestraron . 
+1573	- Where were they holding you ? 	- Dónde los tenían ? 
+1574	- They had us in the back of a van . 	- En una camioneta . 
+1575	- That explains the gravity shifts . 	- Por eso los cambios de gravedad . 
+1576	You 're in the back of a van . 	Está en una camioneta . 
+1577	Keep going . 	Continúe . 
+1578	It had something to do with , um ... 	Tenía algo que ver con ... 
+1579	Something to do with a safe . 	Algo que ver con una caja fuerte . 
+1580	God , why is it so hard to remember ? 	Por qué es tan difícil recordar ? 
+1581	It 's like trying to remember a dream after you 've woken up . 	Es como recordar un sueño después de despertar . 
+1582	Listen , it takes years of practice . 	Requiere años de práctica . 
+1583	You and Browning have been pulled into this dream ... 	A Ud . 
+1584	because they 're trying to steal something from your mind . 	porque quieren robarse algo de su mente . 
+1585	I need you to focus and try and remember what that is . 	Necesito que se concentre y que trate de recordar qué es . 
+1586	What is it , Mr . Fischer ? 	Qué es ? 
+1587	Think ! 	Piense ! 
+1588	A combination . 	Una combinación . 
+1589	They demanded the first numbers to pop into my head . 	Querían que me acordara de unos números . 
+1590	They 're trying to extract a number from your subconscious . 	Quieren sacarle un número del subconsciente . 
+1591	It can represent anything . 	Puede representar lo que sea . 
+1592	We 're in a hotel right now . 	Estamos en un hotel ahora . 
+1593	We should try hotel rooms . 	Hay que probar cuartos . 
+1594	What was the number , Mr . Fischer ? 	Cuál era el número ? 
+1595	Try and remember for me . 	Trate de acordarse . 
+1596	This is very important . 	Esto es muy importante . 
+1597	Five . 	Cinco . 
+1598	Five , two-- It was something , it was a long number . 	Cinco , dos ... 
+1599	That 's good . 	Bien . 
+1600	We can start there . 	Empezaremos ahí . 
+1601	Fifth floor . 	El quinto piso . 
+1602	Yep . 	Sí . 
+1603	- So do you use a timer ? 	- Usas un cronómetro ? 
+1604	- No , I have to judge it for myself . 	- No , lo tengo que calcular yo . 
+1605	While you 're all asleep in 528 , I wait for Yusuf 's kick . 	Mientras todos duermen en el 528 , espero la patada de Yusuf . 
+1606	- Well , how will you know ? 	- Cómo vas a saber ? 
+1607	- His music warns me . 	- Por su música . 
+1608	And then when the van hits the barrier of the bridge , that should be unmistakable . 	La camioneta chocará contra la barrera del puente . 
+1609	So we get a nice synchronized kick . 	Eso nos dará una buena patada sincronizada . 
+1610	If it 's too soon , we wo n't get pulled out . 	Si es demasiado pronto , no salimos . 
+1611	But if it 's too late , I wo n't be able to drop us . 	Si es demasiado tarde , no podremos bajar . 
+1612	- Well , why not ? 	Por qué no ? Porque la camioneta estará en caída libre . 
+1613	- Because the van will be in freefall . 	
+1614	- Ca n't drop you without gravity . 	- Nadie puede bajar sin gravedad . 
+1615	- Right . 	- Entiendo . 
+1616	They 're with me . 	Están conmigo . 
+1617	Go on . 	Siga . 
+1618	Mr . Charles . 	Señor Charles . 
+1619	- Do you know what that is , Mr . Fischer ? 	- Sabe qué es eso , Sr . Fischer ? 
+1620	- Yeah , I think so . 	- Sí , creo que sí . 
+1621	They were trying to put you under . 	Estaban tratando de anestesiarlo . 
+1622	- I m already under . 	- Ya estoy dormido . 
+1623	- Under again . 	- Otra vez . 
+1624	What do you mean , a dream within a dream ? 	Qué quiere decir ? 
+1625	Hey . 	Veo que te cambiaste . 
+1626	I see you 've changed . 	Perdón ? 
+1627	I 'm sorry ? 	Perdón ? 
+1628	Oh , I m sorry . 	Disculpe . 
+1629	I mistook you for a friend . 	Lo confundí con un amigo . 
+1630	Oh . 	Un tipo guapo , estoy seguro . 
+1631	Good-looking fellow , I m sure . 	Un tipo guapo , estoy seguro . 
+1632	No , no , no . 	No . 
+1633	That 's Fischer 's projection of Browning . 	Esa es la proyección de Browning de Fischer . 
+1634	Let 's follow him and see how he behaves . 	Sigámoslo , a ver cómo se comporta . 
+1635	- Why ? 	- Por qué ? 
+1636	- Because how he acts will tell us ... 	- Su comportamiento ... 
+1637	if Fischer is starting to suspect his motives the way we want him to . 	nos dirá si Fischer sospecha de sus motivos , como queremos . 
+1638	Shh . 	
+1639	- Uncle Peter . 	- Tío Peter . 
+1640	- You said you were kidnapped together ? 	- Los secuestraron juntos ? 
+1641	Well , not exactly . 	No exactamente . 
+1642	They already had him . 	Ya lo tenían a él . 
+1643	They were torturing him . 	Lo estaban torturando . 
+1644	And you saw them torture him ? 	Usted los vio torturarlo ? 
+1645	The kidnappers are working for you ? 	Los secuestradores trabajan para ti ? 
+1646	Robert . 	Robert . 
+1647	You 're trying to get that safe open ? 	Quieres abrir la caja ? 
+1648	To get the alternate will ? 	Para sacar el testamento alterno ? 
+1649	Fischer Morrow has been my entire life . 	Fischer Morrow ha sido toda mi vida . 
+1650	I ca n't let you destroy it . 	No puedes destruirla . 
+1651	I 'm not gonna throw away my inheritance . 	Por qué habría de tirar mi herencia ? 
+1652	I could n't let you rise to your father 's last taunt . 	No quería exponerte a la última burla de tu padre . 
+1653	- What taunt ? 	- Cuál burla ? 
+1654	- The will , Robert . 	- El testamento , Robert ? 
+1655	That will ? 	Ese es su último insulto . 
+1656	That 's his last insult . 	Ese es su último insulto . 
+1657	A challenge for you to build something for yourself ... 	Un reto para que construyas algo por ti mismo ... 
+1658	by telling you you 're not worthy of his accomplishments . 	diciéndote que no eras digno de sus logros . 
+1659	- What , but that he was , um , disappointed ? 	- Qué ? 
+1660	- I m sorry . 	Qué estaba decepcionado ? 
+1661	But he 's wrong . 	Pero estaba equivocado . 
+1662	You can build a better company than he ever did . 	Tú puedes construir una compañía mejor que la suya . 
+1663	Mr . Fischer ? 	Sr . Fischer ? 
+1664	He 's lying . 	Está mintiendo . 
+1665	- How do you know ? 	- Cómo sabes ? 
+1666	- Trust me , it 's what I do . 	- A esto me dedico . 
+1667	He 's hiding something , and we need to find out what that is . 	Está ocultando algo y necesitamos averiguar qué es . 
+1668	I need you to do the same thing to him that he was going to do to you . 	Necesito que le haga lo que él quería hacerle a usted . 
+1669	We 'll enter his subconscious and find out what he does n't want you to know . 	Entrar en su subconsciente y ver qué le está ocultando . 
+1670	All right . 	Está bien . 
+1671	He 's out . 	- Ya lo sedó . 
+1672	- Wait . 	- Espere . 
+1673	Whose subconscious are we going into exactly ? 	A qué subconsciente vamos a entrar ? 
+1674	We 're going into Fischer 's . 	Al de Fischer . 
+1675	I told him it was Browning 's so he 'd be a part of our team . 	Le dije que al de Browning para tenerlo de aliado . 
+1676	He 's gonna help us break into his own subconscious . 	Nos va a ayudar a entrar en su subconsciente . 
+1677	That 's right . 	Así es . 
+1678	Security 's gonna run you down hard . 	Seguridad te va a perseguir . 
+1679	And I will lead them on a merry chase . 	Me aseguraré de que sea divertido . 
+1680	- Just be back before the kick . 	- Regresa antes de la patada . 
+1681	- Go to sleep , Mr . Eames . 	- Es hora de dormir . 
+1682	You good ? 	Estás bien ? 
+1683	Hey . 	Estás Listo ? 
+1684	You ready ? 	Sí . 
+1685	Yes , yes . 	Sí . 
+1686	I m fine . 	Estoy muy bien . 
+1687	I m ready . 	Estoy Listo . 
+1688	Cobb ? 	Cobb ? 
+1689	Cobb ? 	Cobb ? 
+1690	What 's down there ? 	Qué hay allá abajo ? 
+1691	Hopefully , the truth we want Fischer to learn . 	Ojalá haya la verdad para Fischer . 
+1692	I mean , what 's down there for you ? 	Qué hay allá abajo para ti ? 
+1693	Did you see that ? 	Viste eso ? 
+1694	Eames , this is your dream . 	Eames , este es tu sueño . 
+1695	I need you to draw the security away from the complex , understand ? 	Necesito que alejes a la seguridad del complejo . 
+1696	- Who guides Fischer in ? 	- Quién guiará a Fischer ? 
+1697	- Not me . 	- Yo no . 
+1698	If I know the route , everything could be compromised . 	Si conozco la ruta , correremos peligro . 
+1699	- I designed the place . 	- Yo diseñé el lugar . 
+1700	- No , you 're with me . 	- Tú te quedas conmigo . 
+1701	I could do it . 	Yo puedo hacerlo . 
+1702	All right . 	Explícale la ruta para entrar al complejo . 
+1703	Brief him on the route into the complex . 	- Fischer , ve con él . 
+1704	- Fischer , you 'll be going with him . 	- Fischer , ve con él . 
+1705	- All right . 	- De acuerdo . 
+1706	What about you ? 	Y tú ? 
+1707	You keep this live . 	Mantenlo prendido . 
+1708	I 'll be listening in the whole time . 	Te voy a escuchar todo el tiempo . 
+1709	The windows on that upper floor are big enough for me to cover you from that tower . 	Las ventanas dejan que te cubra desde la torre sur . 
+1710	You 're not coming in ? 	Tú no vas a entrar ? 
+1711	In order to find out the truth about your father ... 	Para descubrir la verdad sobre tu padre ... 
+1712	you 're gonna need to break into Browning 's mind on your own . 	tienes que entrar solo a la mente de Browning . 
+1713	Come on , Fischer ! 	Vamos , Fischer ! 
+1714	- Sound the alarm ! 	Den la alarma ! 
+1715	Sound the alarm ! 	Den la alarma ! 
+1716	- Go , go , go ! 	Rápido ! 
+1717	Move ! 	Apúrense ! 
+1718	Go ! 	Rápido ! 
+1719	Sod it . 	Demonios ! 
+1720	I hope you 're ready . 	Ojalá estés Listo . 
+1721	No , it 's too soon . 	No , es demasiado pronto . 
+1722	Cobb , do you hear that ? 	Cobb , oyes eso ? 
+1723	I first noticed it about 20 minutes ago , I thought it was the wind up here . 	Lo oí hace 20 minutos . 
+1724	Yeah , I hear it . 	Sí , lo oigo . 
+1725	It s music . 	Es música . 
+1726	So , what do we do ? 	Qué hacemos ? 
+1727	We move fast . 	Darnos prisa . 
+1728	Yusuf 's 10 seconds from the jump . 	Yusuf está a diez segundos del salto . 
+1729	Which gives Arthur three minutes . 	Lo cual le da a Arthur tres minutos . 
+1730	- Hey ! 	Es él ! 
+1731	- That 's him ! 	
+1732	- Which gives us what ? 	- Y a nosotros ? 
+1733	- Sixty minutes . 	-60 minutos . 
+1734	- Can they make that route in an hour ? 	- Pueden llegar en una hora ? 
+1735	- They have to climb to the terrace . 	- Tienen que bajar a la terraza . 
+1736	Then they need a new route , a more direct route . 	Necesitan una ruta más directa . 
+1737	It 's designed as a labyrinth . 	Es un laberinto . 
+1738	There must be access routes that cut through the maze . 	Habrán rutas de acceso que lo atraviesen . 
+1739	Eames ? 	Eames ? 
+1740	Did Eames add any features ? 	Eames agregó algo ? 
+1741	I do n't think I should tell you . 	Site digo y Mal se entera ... 
+1742	We do n't have time for this . 	No hay tiempo . 
+1743	Did he add anything ? 	Agregó algo ? 
+1744	He added an air-duct system ... 	Un sistema de ventilación que sirve de atajo . 
+1745	- ... 	Un sistema de ventilación que sirve de atajo . 
+1746	that can cut through the maze . 	Explícaselo . 
+1747	- Good . 	
+1748	Explain it to them . 	
+1749	Paradox . 	Una paradoja . 
+1750	What was that ? 	- Qué fue eso ? 
+1751	- The kick . 	- La patada . 
+1752	Cobb ! 	Cobb ! 
+1753	Cobb , did we miss it ? 	Se nos fue ? 
+1754	Yeah , we missed it . 	Sí , se nos fue . 
+1755	Man . 	No podía haber soñado alguien con una maldita playa ? 
+1756	Could n't someone have dreamt up a goddamn beach ? 	No podía haber soñado alguien con una maldita playa ? 
+1757	Huh ? 	
+1758	Uh-huh . 	
+1759	Well , what the hell do we do now ? 	Qué hacemos ahora ? 
+1760	We finish the job before the next kick . 	Acabar antes de la próxima patada . 
+1761	- What next kick ? 	- Cuál ? 
+1762	- When the van hits the water . 	- Cuando la camioneta toque el agua . 
+1763	If you d like to make a call , please hang up and try again . 	Sí desea hacer una llamada , cuelgue y vuelva a marcar . 
+1764	If you need help , hang up ... 	
+1765	How do I drop you without gravity ? 	Cómo te bajo sin gravedad ? 
+1766	Arthur has a couple minutes , and we have about 20 . 	Arthur tiene un par de minutos , nosotros , unos 20 . 
+1767	You okay ? 	Estás bien ? 
+1768	Run ! 	Corran ! 
+1769	Turn around ! 	Regresen ! 
+1770	Move to base ! 	Vayan a la base ! 
+1771	Move to base ! 	
+1772	Go , go , go ! 	Corran ! 
+1773	There 's something wrong . 	Algo anda mal . 
+1774	They 're heading your way , like they know something . 	Van hacia ti como si supieran algo . 
+1775	Just buy us more time , all right ? 	Gánanos un poco de tiempo . 
+1776	- Come on ! 	- Vamos ! 
+1777	- On my way . 	- Voy para allá . 
+1778	Come on ! 	
+1779	Move ! 	
+1780	All right . 	
+1781	Okay . 	Esa es la antesala de la bóveda de seguridad . 
+1782	That 's the antechamber outside the strong room . 	
+1783	- Does the strong room have windows ? 	Ese cuarto tiene ventanas ? No , no sería muy seguro . 
+1784	- It would n't be very strong if it did . 	
+1785	Let 's hope Fischer likes what he finds in there . 	Espero que a Fischer le guste lo que encuentre . 
+1786	- Are those projections his subconscious ? 	Son proyecciones de su subconsciente ? Sí . 
+1787	- Yes . 	
+1788	- Are you destroying parts of his mind ? 	- Estás destruyendo su mente ? 
+1789	- No . 	- No , solo son proyecciones . 
+1790	They 're just projections . 	
+1791	- We 're here . 	- Ya llegamos . 
+1792	- You 're clear , but hurry . 	- Puedes seguir , pero rápido . 
+1793	There 's an entire army headed your way . 	Se acerca todo un ejército . 
+1794	I 'm in . 	Estoy dentro . 
+1795	There he is . 	
+1796	- There 's someone in there . 	- Hay alguien más ahí dentro . 
+1797	- Fischer , it 's a trap . 	- Es una trampa . 
+1798	Get out . 	Sal . 
+1799	Come on . 	vamos . 
+1800	Come on , a little lower . 	Un poco más abajo . 
+1801	Cobb . 	Cobb . 
+1802	No , she is not real . 	No , ella ... 
+1803	How do you know that ? 	Cómo sabes ? 
+1804	She is just a projection . 	Ella solo es una proyección . 
+1805	Fischer . 	Fischer es real ! 
+1806	Fischer is real . 	
+1807	Hello . 	Hola . 
+1808	Eames ! 	Dios mío ! 
+1809	Eames , get to the antechamber now ! 	Eames ! 
+1810	What happened ? 	- Qué pasó ? 
+1811	- Mal killed Fischer . 	- Mal mató a Fischer . 
+1812	I could n't shoot her . 	No la pude matar . 
+1813	There 's no use in reviving him . 	No lo revivas . 
+1814	His mind 's already trapped down there . 	Su mente ya está atrapada ahí . 
+1815	It 's all over . 	Esto se acabó . 
+1816	So that 's it , then ? 	Entonces , ya ? 
+1817	We failed ? 	Fracasamos ? 
+1818	We 're done . 	Esto se acabó . 
+1819	I 'm sorry . 	Lo lamento . 
+1820	It 's not me that does n't get back to my family , is it ? 	No soy el que no va a volver con su familia . 
+1821	Shame . 	Quería ver qué pasaba . 
+1822	I wanted to know what was gonna happen in there . 	Parecía que iba a salir bien . 
+1823	I swear we had this . 	
+1824	Let 's set the charges . 	Hay que poner las cargas . 
+1825	No , there 's still another way . 	Todavía hay otra manera . 
+1826	- We have to follow Fischer down there . 	- Solo debemos que seguir a Fischer . 
+1827	- Not enough time . 	- No hay bastante tiempo . 
+1828	No , but there will be enough time down there . 	Habrá suficiente tiempo allá abajo . 
+1829	And we will find him . 	Lo vamos a encontrar . 
+1830	Okay , as soon as Arthur 's music kicks in , just use the defibrillator to revive him . 	Tan pronto oigas la música de Arthur , revívelo . 
+1831	We can give him his own kick down below . 	Le podemos dar su propia patada allá abajo . 
+1832	Look , you get him in there . 	Mételo ahí . 
+1833	As soon as the music ends , you blow up the hospital ... 	Cuando acabe la música , vuelas el hospital ... 
+1834	and we all ride the kick back up the layers . 	y con la patada todos subimos por las capas . 
+1835	It 's worth a shot , if Saito can hold the guards off while I set the charges . 	Podemos tratar , si Saito detiene a los guardias y yo pongo las cargas . 
+1836	Saito will never make it , will he ? 	Saito ya no va a salir . 
+1837	- Cobb , come on . 	- Cobb . 
+1838	We 've gotta try this . 	Tenemos que probar . 
+1839	- Go for it . 	- Inténtenlo . 
+1840	If you are not back before the kick , I am gone with or without you . 	Pero si no llegan a tiempo , yo me voy . 
+1841	She 's right . 	Ella tiene razón . 
+1842	She 's right . 	vamos a hacerlo . 
+1843	Come on . 	
+1844	Let 's go . 	
+1845	Can I trust you to do what needs to happen here ? 	Vas a poder hacerlo ? 
+1846	Mal 's gonna be down there . 	Vas a poder hacerlo ? 
+1847	I know where to find her . 	Sé dónde está . 
+1848	She 'll have Fischer . 	Ella va a tener a Fischer . 
+1849	- How do you know ? 	- Cómo sabes ? 
+1850	- Because she wants me to come after him . 	- Quiere que yo vaya tras de él . 
+1851	She wants me back down there with her . 	Quiere que esté ahí con ella . 
+1852	All right ? 	Estás bien ? 
+1853	- This is your world ? 	- Este es tu mundo ? 
+1854	- It was . 	- Lo era . 
+1855	And this is where she 'll be . 	Aquí es donde va a estar . 
+1856	Come on . 	Ven . 
+1857	Saito . 	Saito . 
+1858	Saito . 	Saito . 
+1859	I need you to take care of Fischer while I go set some charges , okay ? 	Necesito que cuides a Fischer mientras pongo unas cargas . 
+1860	No room for tourists on these jobs . 	En estos trabajos no hay lugar para turistas . 
+1861	Do n't be silly . 	No seas ridículo . 
+1862	You built all this ? 	Tú construiste todo esto ? 
+1863	This is incredible . 	Es increíble . 
+1864	We built for years . 	Lo construimos durante años . 
+1865	Then we started in on the memories . 	Luego añadimos los recuerdos . 
+1866	This way . 	Por acá . 
+1867	This was our neighborhood . 	Este era nuestro barrio . 
+1868	Places from our past . 	Lugares de nuestro pasado . 
+1869	That was our first apartment . 	Nuestro primer apartamento . 
+1870	Then we moved to that building right there . 	Luego nos mudamos a ese edificio . 
+1871	After Mal became pregnant , that became our home . 	Después de que Mal se embarazó , vivimos ahí . 
+1872	You reconstructed all of this from memory ? 	Reconstruiste todo esto de tu memoria ? 
+1873	Like I told you , we had lots of time . 	Como te dije , teníamos mucho tiempo . 
+1874	What is that ? 	Qué es eso ? 
+1875	That 's the house Mal grew up in . 	Es la casa donde creció Mal . 
+1876	- Well , will she be in there ? 	- Ella va a estar ahí ? 
+1877	- No . 	- No . 
+1878	Come on . 	Ven . 
+1879	We both wanted to live in a house , but we loved this type of building . 	Los dos queríamos una casa o un edificio como este . 
+1880	In the real world , we 'd have to choose , but not here . 	No tuvimos que escoger como en el mundo real . 
+1881	How are we gonna bring Fischer back ? 	Cómo vamos a traer a Fischer ? 
+1882	We 're gonna have to come up with some kind of a kick . 	Necesitamos una especie de patada . 
+1883	What ? 	Qué ? 
+1884	I 'm gonna improvise . 	Voy a improvisar . 
+1885	Listen , there 's something you should know about me . 	Necesitas saber algo de mí , sobre la originación . 
+1886	About inception . 	
+1887	An idea is like a virus . 	Una idea es como un virus . 
+1888	Resilient . 	Resistente . 
+1889	Highly contagious . 	Sumamente contagioso . 
+1890	And the smallest seed of an idea can grow . 	La idea más chica puede crecer . 
+1891	It can grow to define ... 	Puede crecer hasta definirte ... 
+1892	or destroy you . 	o destruirte . 
+1893	The smallest idea , such as : 	La idea más pequeña , como : 
+1894	Your world is not real . 	Tu mundo no es real . 
+1895		
+1896	Simple little thought that changes everything . 	Un pequeño pensamiento que lo cambia todo . 
+1897	So certain of your world . 	Tú estás muy seguro de tu mundo , de lo que es real . 
+1898	Of what 's real . 	
+1899	Do you think he is ? 	Tú crees que él lo está ? 
+1900	Or do you think he 's as lost as I was ? 	O crees que está tan perdido como estaba yo ? 
+1901	I know what 's real , Mal . 	Yo sé lo que es real . 
+1902	No creeping doubts ? 	No tienes dudas que van creciendo ? 
+1903	Not feeling persecuted , Dom ? 	No te sientes perseguido ? 
+1904	Chased around the globe ... 	No te persiguen corporaciones y policías por todo el mundo ? 
+1905	by anonymous corporations and police forces ... 	No te persiguen corporaciones y policías por todo el mundo ? 
+1906	the way the projections persecute the dreamer ? 	Así como las proyecciones persiguen al soñador ? 
+1907	Admit it . 	Admítelo . 
+1908	You do n't believe in one reality anymore . 	Ya no crees en una sola realidad . 
+1909	So choose . 	Así que escoge . 
+1910	Choose to be here . 	Decide estar aquí . Escógeme a mí . 
+1911	Choose me . 	
+1912	You know what I have to do . 	Tengo que volver con nuestros niños porque los dejaste . 
+1913	I have to get back to our children because you left them . 	Tengo que volver con nuestros niños porque los dejaste . 
+1914	Because you left us . 	Porque nos dejaste . 
+1915	- You 're wrong . 	- Estás equivocado . 
+1916	- I m not wrong . 	- No lo estoy . 
+1917	You 're confused . 	Estás confundido . 
+1918	Our children are here . 	Nuestros hijos están aquí . 
+1919	And you 'd like to see their faces again , would n't you ? 	Y tú quieres volver a ver sus caras , no ? 
+1920	Yes , but I m gonna see them up above , Mal . 	Sí , pero las voy a ver allá arriba . 
+1921	Up above ? 	Allá arriba ? 
+1922	Listen to yourself . 	Escucha lo que dices . 
+1923	These are our children . 	Estos son nuestros hijos . 
+1924	Watch . 	Mira . 
+1925	James ? 	James ? 
+1926	Phillipa ? 	Philippa ? 
+1927	Do n't do this , Mal . 	No lo hagas . 
+1928	Please . 	Esos no son mis hijos . 
+1929	Those are n't my children . 	
+1930	You keep telling yourself that , but you do n't believe it . 	Te repites eso , pero no lo crees . 
+1931	- No , I know it . 	- Yo lo sé . 
+1932	- What if you 're wrong ? 	- Y site equivocas ? 
+1933	What if I 'm what 's real ? 	Qué si yo soy la real ? 
+1934	You keep telling yourself what you know . 	Te sigues diciendo lo que sabes . 
+1935	But what do you believe ? 	Pero qué es lo que crees ? 
+1936	What do you feel ? 	Qué es lo que sientes ? 
+1937	Guilt . 	Culpabilidad . 
+1938	I feel guilt , Mal . 	Me siento culpable , Mal . 
+1939	And no matter what I do , no matter how hopeless I am ... 	Y por más que trate , por más desesperado que esté ... 
+1940	no matter how confused , that guilt is always there ... 	por más confundido , esa culpabilidad siempre está ahí ... 
+1941	reminding me of the truth . 	recordándome la verdad . 
+1942	What truth ? 	Cuál verdad ? 
+1943	That the idea that caused you to question your reality came from me . 	Lo que ocasionó que cuestionaras tu realidad provino de mí . 
+1944	You planted the idea in my mind ? 	Tú me plantaste esa idea en la mente ? 
+1945	What is she talking about ? 	De qué está hablando ? 
+1946	The reason I knew inception was possible was because I did it to her first . 	Yo sabía que la originación era posible porque se lo hice a ella . 
+1947	- I did it to my own wife . 	- Se lo hice a mi propia esposa . 
+1948	- Why ? 	- Por qué ? 
+1949	We were lost in here . 	Estábamos perdidos aquí . 
+1950	I knew we needed to escape , but she would n't accept it . 	Yo sabía que necesitábamos escapar , pero ella no lo aceptaba . 
+1951	She had locked something away , something deep inside . 	Había encerrado algo muy adentro de ella . 
+1952	A truth that she had once known , but chose to forget . 	Una verdad que había sabido pero que decidió olvidar . 
+1953	And she could n't break free . 	No se podía liberar . 
+1954	So I decided to search for it . 	Así que decidí buscarla . 
+1955	I went deep into the recess of her mind and found that secret place . 	Me metí en lo profundo de su mente y hallé el lugar secreto . 
+1956	And I broke in ... 	Me metí en él ... 
+1957	and I planted an idea . 	y sembré una idea . 
+1958	A simple little idea that would change everything . 	Una idea muy simple que habría de cambiar todo . 
+1959	That her world was n't real . 	Que su mundo no era real . 
+1960	That death was the only escape . 	Que la muerte era el único escape . 
+1961	You 're waiting for a train . 	Estás esperando un tren . 
+1962	A train that 'll take you far away . 	Un tren que te llevará muy lejos . 
+1963	You know where you hope this train will take you ... 	Tú sabes dónde esperas que te lleve el tren . 
+1964	but you ca n't know for sure . 	Pero no puedes estar segura ! 
+1965	Yet it does n't matter . 	Sin embargo , no importa ! 
+1966	- Now , tell me why ! 	- Dime por qué ! 
+1967	- Because you 'll be together ! 	- Por que vamos a estar juntos ! 
+1968	But I never knew that that idea would grow in her mind like a cancer ... 	No sabía que esa idea iba a crecer como un cáncer . 
+1969	that even after she woke ... 	Que aun después de que despertara ... 
+1970	That even after you came back to reality ... 	Aun después de que volvieras a la realidad ... 
+1971	that you 'd continue to believe your world was n't real . 	seguirías creyendo que tu mundo no era real . 
+1972	That death was the only escape . 	Que la muerte era el único escape . 
+1973	Mal , no ! 	Mal , no ! 
+1974	Jesus ! 	Dios mío ! 
+1975	- You infected my mind . 	- Tú infectaste mi mente . 
+1976	- I was trying to save you . 	- Intentaba salvarte . 
+1977	You betrayed me . 	Me traicionaste . 
+1978	But you can make amends . 	Puedes reparar el daño . 
+1979	You can still keep your promise . 	Puedes cumplir tu promesa . 
+1980	We can still be together , right here ... 	Podemos estar juntos aquí ... 
+1981	in the world we built together . 	en el mundo que creamos juntos . 
+1982	Cobb , we need to get Fischer . 	Cobb , necesitamos ir por Fischer . 
+1983	You ca n't have him . 	No se lo voy a dar . 
+1984	- lf I stay here , will you let him go ? 	- Si me quedo aquí , lo sueltas ? 
+1985	- What are you talking about ? 	- De qué hablas ? 
+1986	Fischer is on the porch . 	Fischer está en el porche . 
+1987	- Go check he 's alive , Ariadne . 	- Ve si está vivo . 
+1988	- Cobb , you ca n't do this . 	- No puedes hacer esto . 
+1989	Go check he 's alive right now . 	Ve a ver si está vivo . 
+1990	Do it . 	Hazlo . 
+1991	He 's here ! 	Está aquí ! 
+1992	And it 's time , but you have to come now ! 	Y es hora , pero tienes que venir ! 
+1993	You take Fischer with you , all right ? 	Llévate a Fischer contigo . No puedes quedarte y estar aquí con ella . 
+1994	- You ca n't stay here to be with her . 	
+1995	I 'm not . 	No me voy a quedar . 
+1996	Saito 's dead by now . 	Saito ya murió . 
+1997	That means he 's down here somewhere . 	Debe de estar por aquí . 
+1998	That means I have to find him . 	Lo tengo que encontrar . 
+1999	I ca n't stay with her anymore , because she does n't exist . 	No me puedo quedar con ella porque ya no existe . 
+2000	I 'm the only thing you do believe in anymore . 	Soy la única cosa en la que todavía crees . 
+2001	No . 	No . 
+2002	I wish . 	Ya quisiera . 
+2003	I wish more than anything , but ... 	Ya quisiera , más que nada en el mundo , pero ... 
+2004	I ca n't imagine you with all your complexity ... 	no puedo imaginarte con toda tu complejidad ... 
+2005	all your perfection , all your imperfection . 	toda tu perfección , toda tu imperfección . 
+2006	- You all right ? 	Estás bien ? 
+2007	- Yeah . 	
+2008	Look at you . 	Mírate . 
+2009	You 're just a shade . 	Solo eres una sombra . 
+2010	You 're just a shade of my real wife . 	Eres una sombra de mi verdadera esposa . 
+2011	And you were the best that I could do , but ... 	Eras lo mejor que podía crear , pero ... 
+2012	I m sorry , you 're just not good enough . 	lo siento , no estás a la altura . 
+2013	Does this feel real ? 	Esto te parece real ? 
+2014	- What are you doing ? 	- Qué estás haciendo ? 
+2015	- Improvising . 	- Improvisando . 
+2016	No , no , no ! 	No , no ! 
+2017	In there , now . 	Métete ahí , ahora mismo . 
+2018	Go , go , go . 	
+2019	I was dis -- 	Estaba decep ... 
+2020	I was dis Disa -- 	Estaba decep ... 
+2021	- I know , Dad . 	- Ya lo sé , papá . 
+2022	- Dis -- 	- De ... 
+2023	I know you were disappointed ... 	Sé que estabas decepcionado porque no podía ser como tú . 
+2024	I could n't be you . 	Sé que estabas decepcionado porque no podía ser como tú . 
+2025	No . 	No . 
+2026	No , no , no . 	No , no , no . 
+2027	I was disappointed ... 	Estaba decepcionado ... 
+2028	that you tried . 	porque trataste . 
+2029	What ? 	
+2030	Come on , come on . 	Vamos , vamos . 
+2031	Dad ? 	Papá ? 
+2032	That 's the kick , Ariadne ! 	Esa es la patada , Ariadne ! 
+2033	You have to go now ! 	Tienes que irte ahora mismo ! 
+2034	Do n't lose yourself ! 	No te pierdas ! 
+2035	Find Saito and bring him back ! 	Encuentra a Saito y tráelo de regreso ! 
+2036	I will ! 	Lo voy a traer ! 
+2037	You remember when you asked me to marry you ? 	Te acuerdas cuando me propusiste matrimonio ? 
+2038	Yes . 	Sí . 
+2039	You said you dreamt that we 'd grow old together . 	Dijiste que soñaste que íbamos a envejecer juntos . 
+2040	But we did . 	Pero eso hicimos . 
+2041	We did . 	Lo hicimos . 
+2042	You do n't remember ? 	No te acuerdas ? 
+2043	I miss you more than I can bear ... 	Te extraño muchísimo , pero ... 
+2044	but we had our time together . 	tuvimos nuestro tiempo juntos . 
+2045	And I have to let you go . 	Tengo que dejarte ir . 
+2046	I have to let you go . 	Tengo que dejarte ir . 
+2047	I 'm sorry , Robert . 	Lo siento , Robert . 
+2048	You know , the will means that Dad wanted me to be my own man ... 	El testamento significa que quería que fuera independiente . 
+2049	not just to live for him . 	Que no viviera para él . 
+2050	That 's what I m gonna do , Uncle Peter . 	Eso voy a hacer , tío Peter . 
+2051	What happened ? 	Qué pasó ? 
+2052	- Cobb stayed . 	- Cobb se quedó . 
+2053	- With Mal ? 	- Con Mal ? 
+2054	No , to find Saito . 	No , para buscar a Saito . 
+2055	He 'll be lost . 	Se va a perder . 
+2056	No , he 'll be all right . 	Todo va a salir bien . 
+2057	Have you come to kill me ? 	Viene a matarme ? 
+2058	I 'm waiting for someone . 	Estoy esperando a alguien . 
+2059	Someone from a half-remembered dream . 	Alguien de un sueño mal recordado . 
+2060	Cobb ? 	Cobb ? 
+2061	Impossible . 	Imposible . 
+2062	We were young men together . 	Fuimos jóvenes juntos . 
+2063	I 'm an old man . 	Yo ya soy viejo . 
+2064	Filled with regret . 	Lleno de remordimientos . 
+2065	Waiting to die alone . 	Esperando la muerte solo . 
+2066	I 've come back for you . 	He vuelto por ti . 
+2067	To remind you of something . 	Para recordarte algo . 
+2068	Something you once knew . 	Algo que antes sabías . 
+2069	That this world is not real . 	Que este mundo no es real . 
+2070	To convince me to honor our arrangement ? 	Para convencerme de que cumpla con nuestro trato ? 
+2071	To take a leap of faith , yes . 	Para que des un salto a ciegas , sí . 
+2072	Come back ... 	Regresa . 
+2073	so we can be young men together again . 	Para que podamos ser jóvenes juntos de nuevo . 
+2074	Come back with me . 	Regresa conmigo . 
+2075	Come back . 	Regresa . 
+2076	Hot towel , sir ? 	Una toalla caliente , señor ? 
+2077	We 'll be landing in Los Angeles in about 20 minutes . 	Aterrizaremos en Los Ángeles en unos 20 minutos . 
+2078	Do you need immigration forms ? 	Necesita formas inmigratorias ? 
+2079	Thank you . 	Gracias . 
+2080	Hot towel , sir ? 	Una toalla caliente ? 
+2081	- No . 	- No . 
+2082	- Do you need immigration forms ? 	- Necesita formas inmigratorias ? 
+2083	Welcome home , Mr . Cobb . 	Bienvenido a casa , Sr . Cobb . 
+2084	Thank you , sir . 	Gracias , señor . 
+2085	Welcome . 	Bienvenido . 
+2086	This way . 	Por aquí . 
+2087	James ? 	James ? 
+2088	Phillipa ? 	Philippa ? 
+2089	Look who 's here . 	Miren quién llegó . 
+2090	Hey . 	
+2091	- Hey , guys ! 	Hola , niños ! 
+2092	Hey ! 	Cómo están ? 
+2093	How are you ? 	
+2094	- Daddy ! 	
+2095	Daddy ! 	
+2096	- Daddy ! 	- Papi ! 
+2097	- How are you ? 	- Cómo están ? 
+2098	Look what I ve been building ! 	Mira lo que he construido ! 
+2099	- What are you building ? 	- Qué estás construyendo ? 
+2100	- We 're building a house on the cliff ! 	- Una casa en el arrecife ! 
+2101	On the cliff ? 	En el arrecife ? 
+2102	Come on , I want you to show me . 	Enséname . 
+2103	Can you show me ? 	Me puedes enseñar ? 
+2104	- Let 's go . 	- Vamos . 
+2105	- Come on , Daddy ! 	- Ven , papi ! 
