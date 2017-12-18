@@ -1,0 +1,1597 @@
+1	Are you paying attention ? 	Lyssnar ni noga ? 
+2	Good . 	Bra . 
+3	If you 're not listening carefully , you will miss things , important things . 	Lyssnar ni inte noga så kommer ni att missa vissa saker . Viktiga saker . 
+4	I will not pause . 	Jag tänker inte upprepa mig , och ni ska inte avbryta mig . 
+5	I will not repeat myself , and you will not interrupt me . 	Jag tänker inte upprepa mig , och ni ska inte avbryta mig . 
+6	You think that because you are sitting where you are and I am sitting where I am that you are in control of what is about to happen . 	Ni tror att er position gör att det är ni som styr det som kommer att ske . 
+7	You 're mistaken . 	Där tar ni fel . 
+8	I am in control . 	Jag styr . 
+9	Because I know things that you do not know . 	Jag känner nämligen till sådant ni inte känner till . 
+10	Manchester Police Department , please hold . 	
+11	Windows broken . 	Krossad ruta . 
+12	Home 's been ransacked . 	Allt är plundrat . 
+13	Send a detective down , will you ? 	Skicka en kriminalare . 
+14	What I will need from you now is a commitment . 	Jag vill att ni förbinder er till en sak . 
+15	You will listen closely , and you will not judge me until I am finished . 	Ni ska lyssna noga och inte döma mig förrän jag är färdig . 
+16	If you cannot commit to this , then please leave the room . 	Annars är det lika bra att ni går härifrån . 
+17	Come in . 	Men stannar ni , då är det ert eget val . 
+18	But if you choose to stay , remember you chose to be here . 	Men stannar ni , då är det ert eget val . 
+19	What happens from this moment forwards is not my responsibility . 	Jag ansvarar inte för vad som händer nu - det gör ni . 
+20	It 's yours . 	Jag ansvarar inte för vad som händer nu - det gör ni . 
+21	Pay attention . 	Lyssna noga nu . 
+22	- What 's all this , then ? 	- Vad är detta ? 
+23	- Turing , Alan . 	- Professor Alan Turing . 
+24	Professor at King 's . 	King 's College . 
+25	- Seems there 's been a burglary . 	Det har varit inbrott , men det märkliga är att inget saknas . 
+26	- Oh ? 	Det har varit inbrott , men det märkliga är att inget saknas . 
+27	What of ? 	Det har varit inbrott , men det märkliga är att inget saknas . 
+28	Well , that 's just it . 	
+29	Nothing missing , really . 	
+30	What 's he doing in Manchester ? 	- Vad gör han i Manchester ? 
+31	Something with machines . 	- Det var visst något med maskiner . 
+32	The project at the NPL . 	Något projekt för fysiklaboratoriet . 
+33	I checked , but he won 't say what it 's on . 	Han vill inte säga vad det handlar om . 
+34	Professor Turing ? 	Professor Turing ? 
+35	Detective Nock , Manchester Police . 	Nock , kriminalare vid Manchesterpolisen . 
+36	Sergeant Staehl here tells me you had a burglary last night . 	Det har visst varit inbrott . 
+37	Professor Turing ? 	- Professor Turing ? 
+38	Take a step back , and don 't breath heavily . 	- Ta inte ett djupt andetag nu . 
+39	- Breathe ? 	- Andetag ? 
+40	- Undiluted cyanide . 	- Outspädd cyanid . 
+41	It wouldn 't take more than a thimbleful to kill you . 	Livsfarligt . 
+42	- Disappointing . 	Vilken besvikelse . 
+43	- Pardon ? 	Vilken besvikelse . 
+44	I had hoped for a bit more . 	Jag hade hoppats på mer än så . 
+45	Sergeant Staehl , is it just me , or do you get the sense that we 're being insulted ? 	Förolämpar han oss , assistenten ? 
+46	Last night , you had a break- in . 	Ni har haft inbrott . 
+47	Your neighbor , Mr . 	Er granne ringde polisen . 
+48	Springborn , called to report the noise . 	Er granne ringde polisen . 
+49	He said there was quite a ruckus . 	Enligt honom lät det som ett bråk . 
+50	Only you say nothing was taken . 	Men ni saknar alltså inget ? 
+51	It 's odd . 	Men ni saknar alltså inget ? 
+52	So , how about you tell us what happened , and we 'll find the chap who did this . 	Berätta nu , så tar vi den skyldige . 
+53	Gentlemen , I don 't believe that you could find the chap that did this if he walked up to you and spat in your face . 	Mina herrar , ni kan nog inte ta den här mannen - - ens om han klev fram och spottade på er . 
+54	What I could us right now is not a bobby , but a really good cleaning lady . 	Det jag skulle behöva är en bra städerska . 
+55	So , unless one of you has an apron in your car , 	Har ni inget förkläde ute i bilen så föreslår jag att ni låter mig vara . 
+56	I suggest you file your reports and leave me alone . 	Har ni inget förkläde ute i bilen så föreslår jag att ni låter mig vara . 
+57	As you say , Professor Turing . 	Då så , professor Turing . 
+58	Best of luck with your cyanide . 	Lycka till med cyaniden . 
+59	I' ll give you a quid if you can name me a more insufferable sod . 	- Nämn någon värre människa än den där . 
+60	- Seemed a bit forced , though , didn 't it ? 	- Det hela verkade konstruerat . 
+61	- Don 't know what you mean . 	- Det hela verkade konstruerat . 
+62	Well , if you didn 't want a pair of bobbies digging around in your personal affairs , that 'd have been a stellar way to make sure they don 't . 	Vill man inte att polisen ska rota bland ens saker , då säger man så där . 
+63	Tell me you don 't think this is suspicious . 	Det är lite misstänkt med en professor som vägrar säga vad som blivit stulet . 
+64	I don 't think this is suspicious . 	Det är lite misstänkt med en professor som vägrar säga vad som blivit stulet . 
+65	A mysterious professor who won 't admit he 's had something stolen from his house ? 	Det är lite misstänkt med en professor som vägrar säga vad som blivit stulet . 
+66	I think Alan Turing 's hiding something . 	Jag tror att Alan Turing döljer något . 
+67	War declared ! 	Kriget är här ! 
+68	800, 000 children evacuated ! 	800 . 000 barn evakueras . 
+69	German bombs on their way ! 	Tyska bombplan är på väg . 
+70	Get your papers here ! 	Tyska bombplan är på väg . 
+71	Fresh off the press ! 	Köp tidningen här ! 
+72	War declared ! 	
+73	800, 000 children evacuated ! 	
+74	German bombs expected soon ! 	
+75	This morning , the British Ambassador in Berlin handed the German government a final note stating that unless we heard from them , by 11 : 00 , a state of war would exist between us . 	Den brittiske ambassadören i Berlin lämnade ett meddelande till tyskarna . Tyskarna skulle svara senast klockan 11 - - annars innebar det en krigsförklaring . 
+76	I have to tell you now that no such undertaking has been received . 	Tyskarna har inte svarat på meddelandet . 
+77	And that , consequently , this country is at war with Germany . 	Det innebär att vårt land nu ligger i krig med Tyskland . 
+78	For the second time in the lives of most of us , we are ... at war . 	För många av oss är det andra gången - 
+79	To find a peaceful way out ... 	- som vi befinner oss i krig . ... söka en fredlig lösning ... 
+80	Papers , please . 	Identitetshandlingar , tack . 
+81	What are you doing here ? 	- Vad gör ni här ? 
+82	- Oh , the lady told me to wait . 	- Damen bad mig vänta . 
+83	- In my office ? 	På mitt kontor ? 
+84	She tell you to help yourself to tea while you were here ? 	- Bad hon er att dricka te också ? 
+85	No , she didn 't . 	- Nej . 
+86	She obviously didn 't tell you what a joke was , then , either , I gather . 	Och inte förklarade hon begreppet " skämt " heller . 
+87	Was she supposed to ? 	Och inte förklarade hon begreppet " skämt " heller . 
+88	- Who are you ? 	- Vem är ni ? 
+89	- Alan Turing . 	- Alan Turing . 
+90	Turing . 	Turing , ja - matematikern . 
+91	The mathematician . 	Turing , ja - matematikern . 
+92	- Correct . 	Det var inte så svårt att lista ut . 
+93	- However could I have guessed ? 	Det var inte så svårt att lista ut . 
+94	Well , you didn 't . 	Ändå gjorde ni inte det . 
+95	You just read it on that piece of paper . 	Ändå gjorde ni inte det . 
+96	King 's College , Cambridge . 	King 's College i Cambridge . 
+97	Now , it says here you were a bit of a prodigy in the maths department . 	Något av ett matematiskt underbarn . 
+98	I 'm not sure I can evaluate that , Mr .... 	Det är nog inte min sak att bedöma . 
+99	- How old are you , Mr . 	- Ålder ? 
+100	Turing ? 	- 27 . 
+101	- 27 . 	- När fick ni er tjänst i Cambridge ? 
+102	And how old were you when you became a Fellow at Cambridge ? 	- När fick ni er tjänst i Cambridge ? 
+103	- 24 . 	- Vid 24 . 
+104	- And how old were you ... when you published this paper that has a title I can barely understand ? 	När publicerades studien med den omöjliga titeln ? 
+105	23 . 	- När jag var 23 . 
+106	And you don 't think that qualifies you as a certified prodigy ? 	- Men ni är alltså inget underbarn ? 
+107	Well , Newton discovered binomial theorem aged 22 . 	Newton var 22 när han lade fram binomialsatsen . 
+108	Einstein wrote four papers that changed the world by the age of 26 . 	Einstein hade förändrat världen vid 26 . 
+109	As far as I can tell , I' ve ... 	- Jag är nog knappt uppe på par . 
+110	I' ve barely made par . 	- Herregud , ni menar ju allvar . 
+111	- My God , you 're serious . 	- Herregud , ni menar ju allvar . 
+112	- Would you prefer I made a joke ? 	- Borde jag ha skämtat ? 
+113	Oh , I don 't think you know what those are . 	- Det behärskar ni inte . 
+114	Hardly seems fair that that 's a requirement for employment here , Mr ... 	- Behövs det för att kunna arbeta här ? 
+115	Commander Denniston , Royal Navy . 	- Jag är kommendörkapten Denniston . 
+116	All right , Mr . 	- Berätta . 
+117	Turing , I' ll bite . 	Varför vill ni arbeta här ? 
+118	Why do you wish to work for His Majesty 's government ? 	Varför vill ni arbeta här ? 
+119	Oh , I don 't , really . 	- Det vill jag egentligen inte . 
+120	Are you a bleeding pacifist ? 	- En jäkla pacifist ? 
+121	I 'm ... agnostic about violence . 	- Jag är agnostisk när det gäller våld . 
+122	Well , you do realize that 600 miles away from London there 's this nasty little chap called Hitler who wants to engulf Europe in tyranny ? 	100 mil från London finns det en tyrann vid namn Hitler som vill ta över . 
+123	Politics isn 't really my area of expertise . 	- Politik är jag ingen expert på . 
+124	Really ? 	- Inte ? 
+125	Well , I believe you 've just set the record for the shortest job interview in British military history . 	Ett rekord . Den kortaste anställnings - intervjun i militärhistorien . 
+126	Mother says I can be off- putting sometimes on account of being one of the best mathematicians in the world . 	Att vara en av världens främsta mate - matiker stiger mig ibland åt huvudet . 
+127	- In the world ? 	Att vara en av världens främsta mate - matiker stiger mig ibland åt huvudet . 
+128	- Oh , yes . 	Att vara en av världens främsta mate - matiker stiger mig ibland åt huvudet . 
+129	Do you know how many people I' ve rejected for this program ? 	- Vet ni hur många jag har ratat ? 
+130	No . 	- Nej . 
+131	Well , that 's right , because we 're a top- secret program . 	Nej , det är hemligstämplat . 
+132	But I' ll tell you , just because we 're friends , that only last week , I rejected one of our great nation 's top linguists . 	Men eftersom vi är så goda vänner : Förra veckan ratade jag en lingvist som kunde tyska bättre än Bertolt Brecht . 
+133	Knows German better than Bertolt Brecht . 	- Jag talar inte tyska . 
+134	- I don 't speak German . 	- Jag talar inte tyska . 
+135	- What ? 	- Jag talar inte tyska . 
+136	I don 't ... speak German . 	Jag talar inte tyska . 
+137	Well , how the hell were you supposed to decrypt German communications if you don 't ... 	Men hur ska ni då kunna dechiffrera tyska meddelanden , har ni tänkt ? 
+138	I don 't know , speak German ? 	Men hur ska ni då kunna dechiffrera tyska meddelanden , har ni tänkt ? 
+139	Well , I 'm really quite excellent at crossword puzzles . 	- Jag är en mästare på korsord . 
+140	Margaret ! 	- Margaret ! 
+141	The German codes are a puzzle . 	Tyskarnas koder är som pussel , det är som att spela ett spel . 
+142	A game , just like any other game . 	Tyskarnas koder är som pussel , det är som att spela ett spel . 
+143	- Margaret , where are you ? 	Jag är väldigt bra på spel ... pussel , och detta är världens svåraste . 
+144	- I 'm really very good at games . 	Jag är väldigt bra på spel ... pussel , och detta är världens svåraste . 
+145	Puzzles . 	Jag är väldigt bra på spel ... pussel , och detta är världens svåraste . 
+146	And this is the most difficult puzzle in the world . 	Margaret ! 
+147	Margaret ! 	Margaret ! 
+148	For the love of God . 	- Det här är visst något slags skämt . 
+149	This is a joke , obviously . 	- Det här är visst något slags skämt . 
+150	I 'm afraid I don 't know what those are , Commander Denniston . 	- Sådana behärskar jag ju inte . 
+151	Have a pleasant trip back to Cambridge , Professor . 	- Trevlig resa till Cambridge . 
+152	Enigma . 	- Enigma ! 
+153	You called for me ? 	Ville ni ha hjälp ? 
+154	That 's what you 're doing here . 	Det är väl vad det topphemliga programmet handlar om ? 
+155	The top- secret program at Bletchley . 	Det är väl vad det topphemliga programmet handlar om ? 
+156	You 're trying to break the German Enigma machine . 	Att knäcka tyskarnas Enigma- maskin . 
+157	What makes you think that ? 	Varför tror ni det ? 
+158	It 's the greatest encryption device in history , and the Germans use it for all major communications . 	Världens bästa krypteringsapparat . Tyskarna har den till allt viktigt . 
+159	If the Allies broke Enigma , well ... this would turn into a very short war , indeed . 	Knäcker de allierade Enigma , ja ... Då blir det här ett riktigt kort krig . 
+160	Of course that 's what you 're working on . 	Naturligtvis arbetar ni med detta . 
+161	But you also haven 't got anywhere with it . 	Ni kommer ingenvart , ni rekryterar ju helt nybakade krypterare . 
+162	If you had , you wouldn 't be hiring cryptographers out of university . 	Ni kommer ingenvart , ni rekryterar ju helt nybakade krypterare . 
+163	You need me a lot more than I need you . 	Ni behöver mig mer än jag behöver er . 
+164	I like solving problems , Commander . 	Jag tycker om problemlösning . 
+165	And Enigma is the most difficult problem in the world . 	- Enigma är världens svåraste problem . 
+166	No , Enigma isn 't difficult ; it 's impossible . 	- Inte det svåraste , det är omöjligt . 
+167	The Americans , the Russians , the French , the Germans , everyone thinks Enigma is unbreakable . 	Amerikanerna , ryssarna , fransmännen ... Ingen tror att den går att knäcka . 
+168	Good . 	Bra . 
+169	Let me try , and we 'll know for sure , won 't we ? 	Låt mig göra ett försök , så får vi se om det stämmer . 
+170	Welcome to Enigma . 	Välkomna till Enigma . 
+171	The details of every surprise attack , every secret convoy and every U- boat in the bloody Atlantic go into that thing . 	Detaljinformation om varenda överraskningsattack - - varenda hemlig konvoj - - och varenda ubåt i hela jäkla Atlanten hamnar i den där . 
+172	And out comes gibberish . 	Och ut kommer nonsens . 
+173	It 's beautiful . 	- Vilken skönhet . 
+174	It 's the crooked hand of death itself . 	- Den är som självaste döden . 
+175	Our Wrens intercept thousands of radio messages a day , and to the lovely young ladies of the Women 's Royal Navy , they 're nonsense . 	Tusentals meddelanden per dag snappas upp av våra flickor . Men tyvärr betyder de inte ett skvatt här . 
+176	It 's only when you feed them back into Enigma that they make any sense . 	- Bara Enigma kan göra dem förståeliga . 
+177	But we have an Enigma machine . 	- Men vi har ju en . 
+178	Yes , Polish Intelligence smuggled it out of Berlin . 	Ja , den kom via polackerna . 
+179	So , what 's the problem ? 	- Mata bara in meddelandena igen ... 
+180	Just put the intercepted messages 	- Mata bara in meddelandena igen ... 
+181	- back into the Enigma and you 'll ... 	- Så enkelt är det inte . 
+182	- Look , it 's not that simple , is it ? 	Inte sant ? 
+183	Just having an Enigma machine doesn 't help you to decode the messages . 	Att vi har en innebär inte att vi kan knäcka koden . 
+184	Very good , Mr . 	Ska man dechiffrera meddelanden måste man känna till maskinens inställningar . 
+185	Turing . 	Ska man dechiffrera meddelanden måste man känna till maskinens inställningar . 
+186	To decode a message , you need to know the machine 's settings . 	Ska man dechiffrera meddelanden måste man känna till maskinens inställningar . 
+187	Now , the Germans switch settings every day promptly at midnight . 	Tyskarna byter ut inställningarna varje dag vid midnatt . 
+188	We usually intercept our first message around 6 : 00 a . m . , which gives you exactly 18 hours every day to crack the code before it changes , and you start again . 	Vi snappar upp det första meddelandet vid 06- tiden . Då har ni 18 timmar på er att knäcka koden - - innan de byter , och allt börjar om . 
+189	Five rotors . 	- Fem rotorer och tio kopplingspaneler . 
+190	Ten plugboard cables . 	- Fem rotorer och tio kopplingspaneler . 
+191	That 's ... 	- Fem rotorer och tio kopplingspaneler . 
+192	- One million ... 	- Tusen miljoner . 
+193	- A thousand million ... 	- Tusen miljoner . 
+194	No , no , it 's , I' ve got it . 	Det är miljoner , det är helt klart ... 
+195	- It 's million , million . 	Det är miljoner , det är helt klart ... 
+196	- It 's in the millions , obviously . 	Det är miljoner , det är helt klart ... 
+197	It 's over 150 million million million possible settings . 	Drygt 150 miljoner miljoner miljoner inställningar . 
+198	Very good . 	- Just precis . 
+199	159 . 	- Just precis . 
+200	If you want to be exact about it . 	- 159 . Om man vill vara exakt . 
+201	1- 5- 9 with 18 zeroes behind it . 	159 och 18 nollor bakom det . 
+202	Possibilities . 	Så många möjligheter , varje dag . 
+203	Every single day . 	Så många möjligheter , varje dag . 
+204	Gentlemen , meet Hugh Alexander . 	Det här är Hugh Alexander . 
+205	I personally selected him to run this unit . 	Mr Alexander kommer att leda gruppen . 
+206	Didn 't you ... 	Mr Alexander kommer att leda gruppen . 
+207	Mr . 	Mr Alexander kommer att leda gruppen . 
+208	Alexander won Britain 's national chess championship . 	Han är brittisk schackmästare . 
+209	Twice . 	- Tvåfaldig . 
+210	You 're not the only one who 's good at games around here , Turing . 	- Det finns fler som är bra på spel . 
+211	Are we to work together , then ? 	Samarbete ? 
+212	I prefer to have my own office . 	Jag föredrar ett eget kontor . 
+213	You 're a team , and you will work as one . 	- Gruppen ska jobba tillsammans . 
+214	I don 't have time to explain myself as I go along , and ... 	- Jag har inte tid att förklara mig . 
+215	I 'm afraid these men would only slow me down . 	De här herrarna kommer att sinka mig . 
+216	If you can 't play together , then I 'm afraid we can 't let you play at all . 	- Samarbete eller ingenting . 
+217	This is Stewart Menzies , MI6 . 	- Stewart Menzies , MI- 6 . 
+218	There are only five divisions of military intelligence . 	Det finns bara fem underrättelse - tjänster . MI- 6 existerar inte . 
+219	There is no MI6 . 	Just så . 
+220	Exactly . 	Just så . 
+221	That 's the spirit . 	Rätt inställning . 
+222	Mr . 	Vet ni hur många brittiska soldater som dött på grund av Enigma ? 
+223	Turing , do you know how many British servicemen have died because of Enigma ? 	Vet ni hur många brittiska soldater som dött på grund av Enigma ? 
+224	- No , I don 't . 	- Nej . 
+225	- Three ... while we 've been having this conversation . 	- Tre . Under tiden som vi har pratat nu . 
+226	Oh , look , there 's another . 	Där dog en till . 
+227	I rather hope he didn 't have a family . 	Jag hoppas att han inte hade familj . 
+228	This war Commander Denniston 's been going on about , we 're not winning it . 	Vi är inte på väg att vinna det här kriget . 
+229	Break the code , at least we have a chance . 	Knäcker ni koden , kanske det går . 
+230	Shall we leave the children alone with their new toy ? 	Ska vi låta barnen få leka med den nya leksaken ? 
+231	All right , gentlemen ... 	Då så , mina herrar ... 
+232	Let 's play . 	Nu spelar vi spelet . 
+233	The game was quite a simple one . 	Spelreglerna var ganska lätta . 
+234	Every single German message , every surprise attack , every bombing run , every imminent U- boat assault ... 	Alla meddelanden , överraskningsattacker , bombningar - - och alla nära förestående ubåtsattacker ... 
+235	They were all floating through the air . 	Allt detta fanns ute i luften . 
+236	Radio signals that ... well , any schoolboy with an AM kit could intercept . 	Radiosignaler som vilken skolpojke som helst kunde snappa upp . 
+237	The trick was that they were encrypted . 	Men meddelandena var krypterade . 
+238	There were 159 million million million possible Enigma settings . 	159 miljoner miljoner miljoner möjliga inställningar på Enigma- maskinen . 
+239	All we had to do was try each one . 	Nu behövde vi bara pröva dem alla . 
+240	But if we had ten men checking one setting a minute for 24 hours every day and seven days every week , how many days do you think it would take to ... to check each of the settings ? 	Men om tio personer tar en inställning/ minut - - dygnet runt , veckans alla dagar ... Hur lång tid tror ni då att det tar att kontrollera alla inställningar ? 
+241	Well , it 's not days , it 's years . 	Vi pratar inte dagar , utan år . 
+242	- Good morning . 	20 miljoner år . 
+243	- It 's 20 million years . 	20 miljoner år . 
+244	- To stop a coming attack ... 	Vi skulle alltså kontrollera 20 miljoner års inställningar - 
+245	- Thank you . ... we would have to check 20 million years´ worth of settings in 20 minutes . 	Vi skulle alltså kontrollera 20 miljoner års inställningar - 
+246	I 'm famished . 	Jag är helt utsvulten . 
+247	Lunch ? 	Lunch ? 
+248	Good Lord . 	Vad är det med kvinnor med små hattar ? 
+249	What is it about women with little hats ? 	Vad är det med kvinnor med små hattar ? 
+250	The boys , we 're going to get some lunch . 	Grabbarna ... Vi ska äta lunch . 
+251	- Alan ? 	- Alan ? 
+252	- Yes ? 	- Ja ? 
+253	I said we 're going to get some lunch . 	Jo , jag sa att vi ska äta lunch . 
+254	- Alan ? 	- Alan , hör du mig ? 
+255	- Yes ? 	- Alan , hör du mig ? 
+256	- Can you hear me ? 	- Ja . 
+257	- Yes . 	Vi ska gå och äta lunch ... 
+258	I said we 're off to get some lu ... 	Vi ska gå och äta lunch ... 
+259	This is starting to get a little bit repetitive . 	Jag upprepar mig . 
+260	What is ? 	- Gör du ? 
+261	I had asked if you wanted to come to lunch with us . 	- Jag frågar ju om du vill äta lunch . 
+262	No , you didn 't . 	Det var inte vad du sa . 
+263	You said you were going to get some lunch . 	Det var inte vad du sa . 
+264	- Have I offended you in some way ? 	- Har jag förolämpat dig ? 
+265	- Why would you think that ? 	- Varför undrar du ? 
+266	- Would you like to come to lunch with us ? 	- Vill du luncha med oss ? 
+267	- What time 's lunchtime ? 	- När då ? 
+268	Christ , Alan , it 's a bleeding sandwich . 	- Det handlar ju bara om en smörgås . 
+269	- What is ? 	- Det handlar ju bara om en smörgås . 
+270	- Lunch . 	- Det handlar ju bara om en smörgås . 
+271	- Oh , I don 't like sandwiches . 	- Jag tycker inte om smörgås . 
+272	- Never mind . 	- Jag tycker inte om smörgås . 
+273	You know , to pull off this irascible genius routine , one actually has to be a genius , Alan . 	Ska du verka trovärdig som geni måste du vara ett också , Alan . 
+274	And yet we 're the ones making progress here , aren 't we ? 	Men det är bara oss det går framåt för . 
+275	Oh , you are ? 	Men det är bara oss det går framåt för . 
+276	Yes , we are . 	Vi har dechiffrerat flera stycken meddelanden från tyskarna . 
+277	We have decrypted a number of German messages by analyzing the frequency of letter distribution . 	Vi har dechiffrerat flera stycken meddelanden från tyskarna . 
+278	Oh , even a broken clock is right twice a day . 	Även en trasig klocka visar rätt tid då och då . 
+279	That 's not progress ; that 's just blind luck . 	Det där är bara tur . 
+280	I 'm designing a machine that will allow us to break every message every day instantly . 	Den maskin jag konstruerar kommer att knäcka alla meddelanden omedelbart . 
+281	Who 's hungry ? 	- Vilka är hungriga ? 
+282	Let 's go . 	Kom nu . 
+283	I 'm hungry . 	- Jag är hungrig . 
+284	What ? 	- Va ? 
+285	Peter asked who was hungry . 	- Peter frågade vilka som var hungriga . 
+286	Can I have some soup , please ? 	- Peter frågade vilka som var hungriga . 
+287	What do you mean , " classified " ? 	Vadå hemligstämplad ? 
+288	No , I 'm aware of the literal meaning of the word classified . 	Jo , jag förstår själva ordet . 
+289	What I 'm asking is why would a maths professor have his military records classified ? 	Men hur kan en matematikprofessors militära bakgrund vara hemligstämplad ? 
+290	Yeah , well , I will come down . 	Ja , jag kommer väl dit , då . 
+291	Sorry , can I get you to hold for a minute , please ? 	
+292	Pardon me , I 'd like to see some documents , if I may . 	Jag skulle vilja titta på det ni har från det militära på Alan Turing . 
+293	Service records of a Mr . 	Jag skulle vilja titta på det ni har från det militära på Alan Turing . 
+294	Turing . 	Jag skulle vilja titta på det ni har från det militära på Alan Turing . 
+295	Alan . 	
+296	Foreign Office sent me . 	Utrikesdepartementet har skickat mig . 
+297	This is unacceptable . 	Det här är oacceptabelt . 
+298	If you wish to discuss the complaint , I suggest you make a proper appointment . 	Vill du diskutera anmälan får du boka tid . 
+299	Alexan ... 	Vill du diskutera anmälan får du boka tid . 
+300	Complaint ? 	Anmälan ? Nej . 
+301	No , no , Hugh Alexander has denied my requisition for parts and equipment that I need to build the machine I' ve designed . 	Hugh Alexander vägrar låta mig få det material jag behöver . 
+302	Your fellow code- breakers are refusing to work with you , and they filed a formal complaint . 	- Kollegerna vägrar att arbeta med dig . 
+303	It 's is inspired by an old Polish code machine . 	- Den liknar en polsk maskin - 
+304	- Only this one is infinitely more advanced . 	- men den är mycket mer avancerad . 
+305	- If you don 't respond to the complaint , 	- men den är mycket mer avancerad . 
+306	I shall have to take it up with the Home Office . 	- Ignorerar du anmälan måste jag agera . 
+307	- Put those files by my desk . 	- Ignorerar du anmälan måste jag agera . 
+308	- Fine , my response is they 're all idiots . 	Ge dem sparken . 
+309	Fire them and use the savings to fund my machine . 	Deras löner kan gå till maskinen . 
+310	I only need about 100, 000 pounds . 	100 . 000 pund , det är allt . 
+311	100, 000 ... 	100 . 000 ? 
+312	Why are you building a machine ? 	Varför bygger du den här maskinen ? 
+313	It 's highly technical . 	- Ni förstår inte det tekniska . 
+314	You wouldn 't understand . 	- Ni förstår inte det tekniska . 
+315	I suggest you make the effort to try . 	- Jag föreslår att du försöker förklara . 
+316	Enigma is ... an extremely well- designed machine . 	Enigma är oerhört välkonstruerad . 
+317	Our problem is that we 're only using men to try to beat it . 	Men det är bara människor som försöker knäcka den . 
+318	No , what if only a machine can defeat another machine ? 	Det kanske krävs en annan maskin för att knäcka en maskin ? 
+319	Well , that 's not very technical . 	Det var väl inte så tekniskt ? 
+320	Hugh Alexander is in charge of your unit . 	Säger Hugh Alexander nej , så är det nej . 
+321	He said no , and that is that . 	Säger Hugh Alexander nej , så är det nej . 
+322	I simply don 't have time for this . 	Jag har inte tid med detta . 
+323	Have you ever won a war , Turing ? 	Har du någonsin vunnit ett krig ? 
+324	I have . 	Det har nämligen jag . 
+325	Do you know how it 's done ? 	Genom struktur , disciplin och befälsordning . 
+326	Order , discipline , chain of command . 	Genom struktur , disciplin och befälsordning . 
+327	You 're not at university any longer . 	Detta är inte universitetet . 
+328	You are a very small cog in a very large system . 	Du är en liten kugge i ett stort hjul . 
+329	And you will do as your commanding officer instructs . 	Du gör som din överordnade säger . 
+330	Yes . 	
+331	Who is your commanding officer ? 	Vem är ert befäl ? 
+332	Winston Churchill , Number 10 Downing Street , London , SW1 . 	Winston Churchill . Downing Street nummer 10 . 
+333	You have a problem with my decision , you can take it up with him . 	Klagomål på mig ställer du till honom . 
+334	Mr . 	Mr Menzies ! 
+335	Menzies ! 	Mr Menzies ! 
+336	Mr . 	Mr Menzies ! 
+337	Menzies ! 	Mr Menzies ! 
+338	Are you going to London ? 	- Ska ni till London ? 
+339	Possibly . 	- Kanske det . 
+340	Would you deliver a letter for me ? 	Kan ni lämna över det här ? 
+341	Look , I 'm sorry , but are you joking ? 	Skämtar ni ? 
+342	Churchill 's put Alan in charge ? 	- Churchill har utsett Alan till ledare . 
+343	- This is a terrible idea . 	- Churchill har utsett Alan till ledare . 
+344	- No , no , no , no , no . 	- Vilken usel idé . 
+345	So , I can give these men orders now ? 	- Kan jag ge dem order nu ? 
+346	I hate to say it , but yes . 	- Ja , tyvärr . 
+347	Excellent . 	Keith och Charles får sparken . 
+348	Keith and Charles , you 're both fired . 	Keith och Charles får sparken . 
+349	- Excuse me ? 	- Ursäkta ... ? 
+350	- What ? 	- Ursäkta ... ? 
+351	You 're mediocre linguists , and positively poor code- breakers . 	- Ni är riktigt dåliga kodknäckare . 
+352	Alan , you can 't just fire Keith and Charles . 	- Du kan inte bara ge dem sparken . 
+353	- Well , he just said I could . 	- Jo , enligt honom . - Nej . 
+354	- No , I did no such thing . 	- Det var Churchill som sa det . 
+355	But Churchill did . 	- Det var Churchill som sa det . 
+356	Go to hell . 	Åt helvete med dig . 
+357	Well , this is inhuman . 	Det här var ju omänskligt . Även med dina mått mätt . 
+358	Even for you . 	
+359	Popular at school , were you ? 	Populär i skolan , eller ? 
+360	The problem began , of course , with the carrots . 	Problemen började med morötter . 
+361	Carrots are orange . 	Morötter är ju orangea och ärtor är gröna . 
+362	And peas are green . 	Morötter är ju orangea och ärtor är gröna . 
+363	They mustn 't touch . 	De får inte blandas . 
+364	I got it . 	
+365	Do you know why people like violence ? 	Vet ni varför våld är så populärt ? 
+366	It is because it feels ... good . 	För att det känns bra , människor finner tillfredsställelse i det . 
+367	Humans find violence deeply satisfying . 	För att det känns bra , människor finner tillfredsställelse i det . 
+368	But remove the satisfaction , and ... the act becomes ... hollow . 	Men tar man bort tillfredsställelsen ... ... är själva handlingen bara tom . 
+369	Turing ? 	Kom igen , Turing . 
+370	Come on . 	Var inte en pissig jude nu . 
+371	Don 't be such a kike about it . 	Var inte en pissig jude nu . 
+372	Leave him to bloody rot . 	Låt honom ruttna där . 
+373	I didn 't learn this on my own , of course . 	Jag fick förstås hjälp att lära mig det här . 
+374	I had help . 	Jag fick förstås hjälp att lära mig det här . 
+375	Christopher helped . 	Christopher hjälpte mig . 
+376	Alan , are you all right ? 	Hur är det med dig , Alan ? 
+377	It 's not my fault . 	Det var inte mitt fel . 
+378	The carrots got in with the peas and ... 	Morötterna hamnade med ärtorna ... 
+379	- I 'm sorry . 	- Det ska inte hända igen . 
+380	I won 't let them do it again . 	- Det ska inte hända igen . 
+381	- They 're getting worse . 	- Är det värre nu ? 
+382	They only beat me up because I 'm smarter than they are . 	- De slår mig för att jag är smart . 
+383	No , they beat you up because you 're different . 	- Nej , för att du är annorlunda . 
+384	- Mother says I 'm just an odd duck . 	- Mamma säger att jag är lite egen . 
+385	- And she 's right . 	- Det har hon rätt i . 
+386	But you know , Alan , sometimes it 's the very people who no one imagines anything of who do the things no one can imagine . 	Men ibland är det de man aldrig tror något om - - som gör sådant ingen kunde tro var möjligt . 
+387	So , what do we do now ? 	- Jaha , vad gör vi nu ? 
+388	- We 're short on staff . 	- Vi har kort om folk . 
+389	- Well , we get more staff then . 	Vi får rekrytera . 
+390	And how do you propose to do that ? 	Hur ska det gå till ? 
+391	- Alan Turing to see Stewart Menzies . 	- Jag ska träffa Stewart Menzies . 
+392	- Very good , sir . 	- Varsågod , sir . 
+393	- So , who are they ? 	- Vilka är de ? 
+394	- Oh , all sorts , really . 	- Alla möjliga . 
+395	Teacher , an engineer , a handful of students . 	En lärare , en ingenjör , några studenter . 
+396	And you think they 're qualified for Bletchley ' cause they 're good at crossword puzzles ? 	- Ska korsord ta dem till Bletchley ? 
+397	Well , they say they 're good , and now we shall find out , won 't we ? 	- Vi får väl se om de klarar det här . 
+398	In order to aid your efforts , there is , to the right of you , a green scratch card book . 	Det finns papper bredvid er som ni kan anteckna på . 
+399	You are to make notes in that . 	Det finns papper bredvid er som ni kan anteckna på . 
+400	Gentlemen , you have six minutes in which to complete the puzzle , at which point , I will ... 	Mina herrar , ni har sex minuter på er . Sedan kommer jag ... 
+401	Pardon , ma 'am , this room 's restricted . 	- Fröken , här inne får ni inte vara . 
+402	Apologies for my tardiness . 	- Ursäkta , bussen fick punktering . 
+403	The bus caught a flat tire . 	- Ursäkta , bussen fick punktering . 
+404	May I continue , please ? 	- Kan jag fortsätta ? 
+405	Thank you . 	- Ni får inte vara här . 
+406	- You 're not allowed in here , ma 'am . 	- Ni får inte vara här . 
+407	- Oh , but I 'm only a few minutes late . 	- Jag är bara lite sen ... 
+408	The secretaries are to head upstairs . 	- Sekreterarna är en trappa upp . 
+409	This room 's for the candidates . 	- Det här är för kandidaterna . 
+410	May I get on with this now , please ? 	- Det här är för kandidaterna . 
+411	- I am a candidate . 	Jag är en av kandidaterna till vad det nu är för position . 
+412	- For what position ? 	Jag är en av kandidaterna till vad det nu är för position . 
+413	- The letter didn 't say precisely . 	Jag är en av kandidaterna till vad det nu är för position . 
+414	- Yeah , so secretaries are to head upstairs . 	Det var visst mycket hemligt . 
+415	- It did say that it was top secret . 	Det var visst mycket hemligt . 
+416	- What is going on ? 	- Vad är det som pågår här ? 
+417	I solved a crossword puzzle in the newspaper , and I got this letter saying that I was a candidate for some sort of mysterious job . 	- Jag löste ett korsord . Sedan fick jag ett brev om ett mystiskt arbete . 
+418	My name 's Joan Clarke . 	- Joan Clarke . 
+419	Miss , did you really solve this puzzle yourself ? 	- Löste ni verkligen korsordet själv ? 
+420	What makes you think I couldn 't solve the puzzle myself ? 	Tror ni inte att jag skulle klara det ? 
+421	- I 'm really very good at ... 	Tror ni inte att jag skulle klara det ? 
+422	- Ma 'am , I' ll have to ask you to ... 	- Jag måste fråga er ... 
+423	Miss Clarke , I find tardiness under any circumstance , unacceptable . 	- Jag tolererar absolut inget slarv . 
+424	Take a seat so that we may continue . 	Sätt er , vi måste få fortsätta nu . 
+425	Thank you . 	Tack så mycket . 
+426	Now , as I was saying , you have six minutes to complete the task in front of you . 	Jo , som jag sa så har ni sex minuter på er . 
+427	Gentlemen and lady , begin . 	Mina herrar ... och min dam : Varsågoda . 
+428	Six minutes . 	- Går det att lösa på sex minuter ? 
+429	- Is that even possible ? 	- Går det att lösa på sex minuter ? 
+430	- No , it takes me eight . 	- Nej , det tar mig åtta . 
+431	This isn 't about crossword puzzles . 	Det handlar inte om själva korsordet utan om hur de angriper problemet . 
+432	It 's about how one approaches solving an impossible problem . 	Det handlar inte om själva korsordet utan om hur de angriper problemet . 
+433	Do you tackle the whole thing at once or divide it into small ... 	Tar man allt direkt eller delar man upp ... 
+434	- You 've finished ? 	- Är ni klar ? 
+435	- Yes . 	- Ja . 
+436	- Five minutes and 34 seconds . 	- 5 minuter och 34 sekunder . 
+437	- You said to do it in under six . 	- Det skulle ju vara under 6 . 
+438	Congratulations . 	Gratulerar . 
+439	My warmest welcome to His Majesty 's service . 	Välkomna i Hans Majestäts tjänst . 
+440	If you speak a word of what I 'm about to show you , you will be executed for high treason . 	Pratar ni bredvid mun , blir ni avrättade för högförräderi . 
+441	You will lie to your friends , your family and everyone you meet about what it is you really do . 	Ni måste ljuga för vänner , familje - medlemmar och alla andra ni träffar . 
+442	And what is it that we 're really doing ? 	- Vad är det egentligen vi ska göra ? 
+443	We 're going to break an unbreakable Nazi code and win the war . 	- Knäcka en omöjlig nazistkod . 
+444	What 's that you 're reading ? 	- Vad läser du för någonting ? 
+445	- It 's about cryptography . 	- Om kryptografi . 
+446	- Like secret messages ? 	- Hemliga meddelanden ? 
+447	Not secret . 	- Det smarta är att de inte är hemliga . 
+448	That 's the brilliant part . 	- Det smarta är att de inte är hemliga . 
+449	Messages that anyone can see , but no one knows what they mean unless you have the key . 	Alla kan se dem , men bara de som har nyckeln vet vad de betyder . 
+450	How 's that different from talking ? 	Hur skiljer det sig ifrån prat ? 
+451	- Talking ? 	- Prat ? 
+452	- When people talk to each other , they never say what they mean . 	- Folk säger ju aldrig vad de menar . 
+453	They say something else , and you 're expected to just know what they mean . 	Men man förväntas ändå förstå . 
+454	Only I never do . 	Men det klarar aldrig jag . 
+455	So , how 's that different ? 	På vilket sätt skiljer det sig från det ? 
+456	Alan , I have a funny feeling you 're going to be very good at this . 	Alan , jag tror bestämt att det här är något för dig . 
+457	Good night , Alan . 	God natt , Alan . 
+458	Good night . 	God natt . 
+459	Hold on , Marion , I 'm coming ! ... lesser settings and then route back through ... 	
+460	Back to those ones ... 	
+461	Careful , will you ? 	Försiktigt ! Det där är ingen leksak . 
+462	It not a toy . 	Men den ser ut som en . 
+463	Funny . 	Men den ser ut som en . 
+464	Looks like a toy . 	Men den ser ut som en . 
+465	Bloody great 100, 000- pound one . 	En leksak för 100 . 000 pund . 
+466	Your new minion 's arrived . 	- Din nya hantlangare är här . 
+467	- Jack Good . 	- Din nya hantlangare är här . 
+468	We met ... 	- Men var är miss Clarke ? 
+469	- Well , where 's Miss Clarke ? 	- Men var är miss Clarke ? 
+470	Lovely , isn 't he ? 	Charmerande , inte sant ? 
+471	It 's not just a usual humdrum production mill factory . 	Det är inte en vanlig , monoton fabrikssysselsättning . 
+472	I mean , well , as I was saying , it 's a very important radio factory . 	Som jag sa så är det en mycket viktig radiofabrik . 
+473	It 's not , actually . 	Eller kanske inte riktigt . 
+474	Well , on the spectrum of radio factories , this one is particularly ... 	Jämfört med andra radiofabriker är den riktigt ... 
+475	Why are you not at Bletchley ? 	- Varför är ni inte på Bletchley ? 
+476	Thank you ... so much for your visit , Mr . 	- Tack snälla för att ni kom . 
+477	Turing . 	- Tack snälla för att ni kom . 
+478	Was your trip pleasant ? 	- Tack snälla för att ni kom . 
+479	Gather your things and let 's go . 	- Gå och packa nu . 
+480	I 'm sorry , but I 'm unable to accept your offer . 	- Tyvärr , det går inte . 
+481	We feel that such a position would hardly be appropriate . 	Vi anser inte att det är en lämplig anställning . 
+482	You earned a double first in mathematics . 	- Ni har dubbla examina . 
+483	But sadly wasn 't granted the opportunity to become a Fellow . 	- Men fick ingen tjänst . 
+484	You belong at Bletchley . 	- Ni hör hemma på Bletchley ! 
+485	I 'm sorry , but for someone in my position , to live to ... to work in a radio factory so far from home , with all your men ... it would be ... indecorous . 	- Tyvärr . En kvinna i min position kan inte bara bo och arbeta i en radiofabrik - - så långt hemifrån , bland en massa män . 
+486	What in the world does that even mean ? 	Vad i hela världen betyder det ? 
+487	We have a group of young ladies who tend to all of our clerical tasks : assistants , translators . 	Det finns en grupp unga damer som sköter administrationen . 
+488	They live together in town . 	Sekreterarna och översättarna bor tillsammans inne i staden . 
+489	Would that be a more suitable environment ? 	Skulle det vara en mer passande miljö ? 
+490	So , I would be working amongst these women ? 	Skulle jag alltså arbeta med de här kvinnorna ? 
+491	Yes . 	Ja . 
+492	Wonderful ladies . 	Damerna är fantastiska . 
+493	They even organize social events at St . 	De brukar arrangera kyrkoaktiviteter . 
+494	Martin 's Church down the road . 	De brukar arrangera kyrkoaktiviteter . 
+495	Really , the whole thing is quite ... decorous . 	Det hela är verkligen ... ... passande . 
+496	Now , you won 't have proper security clearance , of course , so , 	Vi får improvisera lite eftersom du inte får tillgång till allt material . 
+497	- we 'll have to improvise things a bit . 	Vi får improvisera lite eftersom du inte får tillgång till allt material . 
+498	- Why are you helping me ? 	- Varför hjälper ni mig ? 
+499	Because there is only one thing that matters in this entire world right now . 	- Därför att vi måste knäcka Enigma . 
+500	Do you understand ? 	- Därför att vi måste knäcka Enigma . 
+501	And that is breaking Enigma . 	- Därför att vi måste knäcka Enigma . 
+502	But , Mr . 	Men mr Turing ... 
+503	Turing ... why are you helping me ? 	Varför hjälper ni just mig ? 
+504	Sometimes it 's the very people who no one imagines anything of who do the things that no one can imagine . 	Ibland är det de man aldrig tror något om - - som gör sådant ingen kunde tro var möjligt . 
+505	Sir . 	- Sir ? 
+506	- What 's this ? 	- Vad är det här ? 
+507	- Alan Turing 's classified military file . 	Turings hemligstämplade militära bakgrund . 
+508	- It 's bloody empty . 	- Det är ju bara ett tomt kuvert . 
+509	- Exactly . 	- Det är ju bara ett tomt kuvert . 
+510	- It 's an empty manila envelope . 	- Det är ju bara ett tomt kuvert . 
+511	- Yeah . 	- Precis . 
+512	Well , you 've cracked the case wide open , then , haven 't you ? 	- Då har du ju sannerligen löst fallet . 
+513	Alan Turing 's war records aren 't just classified , they 're nonexistent . 	- Det finns inget på honom från kriget . 
+514	That means someone 's got rid of them . 	- Någon har sett till att allt är borta . 
+515	Erased them . 	- Någon har sett till att allt är borta . 
+516	Burned them . 	- Någon har sett till att allt är borta . 
+517	And that same person broke into his house and stole nothing ? 	- Den som bröt sig in utan att stjäla ? 
+518	Guy Burgess and Donald Maclean . 	- Guy Burgess och Donald Maclean . 
+519	- What , the spies from the papers ? 	- Spionerna de skriver om ? 
+520	- The Soviet spies . 	Ja , de ryska spionerna . 
+521	But first they were professors , weren 't they ? 	De var ju professorer . 
+522	Radicalized at Cambridge , then they joined the Communist Party , then Foreign Office , then leaked information to Stalin during the war . 	Cambridge , kommunistpartiet , utrikes - departementet . De läckte till Stalin . 
+523	Now , can you think of anyone else we know who was at Cambridge , then took up something murky and top secret when war broke out ? 	Låter det bekant med Cambridge och sedan hemlig verksamhet ? 
+524	You think this Alan Turing might be a Soviet agent ? 	Så du tror alltså att Alan Turing spionerar åt ryssarna ? 
+525	I think something very serious is happening right here under our noses . 	Något mycket allvarligt sker mitt framför ögonen på oss . 
+526	Wouldn 't you like to find out what it is ? 	Vill ni inte veta vad det är ? 
+527	Welcome , ladies . 	Välkomna , mina damer . 
+528	If you 'd like to follow me . 	Den här vägen . 
+529	Some people thought we were at war with the Germans ... 	Alla trodde att kriget utkämpades mot tyskarna . 
+530	Incorrect . 	Men det var mot klockan vi kämpade . 
+531	We were at war with the clock . 	Men det var mot klockan vi kämpade . 
+532	Britain was literally starving to death . 	Storbritannien svälte . 
+533	The Americans sent over 100, 000 tons of food every week , and every week the Germans would send our desperately needed bread to the bottom of the ocean . 	USA skickade 100 . 000 ton mat varje vecka - - och varje vecka sänkte tyskarna lasterna med maten vi behövde . 
+534	Our daily failure was announced at the chimes of midnight . 	Vårt dagliga nederlag kom när klockan slog midnatt . 
+535	And the sound would haunt our unwelcome dreams . 	Ljudet förföljde oss till och med i drömmarna . 
+536	Tick ... tock ... tick . 	Tick- tack . Tick ... 
+537	Damn it ! 	Fan ! 
+538	What just happened ? 	- Vad var det som hände ? 
+539	Midnight , all the work we 've done today is useless . 	- Nu är dagens arbete oanvändbart . 
+540	Oh , but don 't worry , we 've a few hours before tomorrow 's messages start flooding in ... and we start all over again . 	Om några timmar kommer det nya meddelanden . Då börjar vi om igen . 
+541	- From scratch . 	Från början . 
+542	- I 'm so sick of this . 	Från början . 
+543	Four hours rewiring his plugboard matrix . 	Nu har han hållit på i sammanlagt sju timmar med den där maskinen . 
+544	Three hours yesterday on his rotor positions ! 	Nu har han hållit på i sammanlagt sju timmar med den där maskinen . 
+545	- Don 't go over there . 	- Gå inte dit . 
+546	- Look , John , no . 	- Nej , John ! 
+547	If this job wasn 't already impossible before , it bloody well is now . 	Det här är omöjligt nu . 
+548	Hugh , don 't . 	Gå inte dit , Hugh . 
+549	Damn you and your useless machine . 	- Fan ta dig och din maskin . 
+550	My machine is how we are going to win . 	- Maskinen kommer att vinna kriget . 
+551	Really ? 	Jaså ? 
+552	This machine ? 	Den här maskinen ? 
+553	Are you talking about this bloody machine ? ! 	- Den här jävla maskinen ? 
+554	- Hugh ! 	- Den här jävla maskinen ? 
+555	Hugh ! 	- Den här jävla maskinen ? 
+556	Hugh , don 't ! 	- Sluta ! 
+557	- Hugh ! 	- Sluta ! 
+558	Hugh ! 	- Sluta ! 
+559	Stop ! 	
+560	You arrogant bastard . 	Din arrogante jävel . 
+561	You could help us . 	Du kunde ju hjälpa oss , men det vill du inte . 
+562	You could make this go faster , but you won 't . 	Du kunde ju hjälpa oss , men det vill du inte . 
+563	Get off . 	Släpp mig . 
+564	He 's right , Alan . 	Han har rätt , Alan . 
+565	There are actual soldiers out there trying to win an actual war . 	Det finns soldater där ute som försöker vinna kriget . 
+566	My brother protects food convoys in the Navy . 	Min bror skyddar matkonvojerna . 
+567	My cousins fly RAF patrols . 	Min kusin är i flygvapnet . 
+568	All my friends , they 're all making a difference , while we just while away our days producing nothing . 	De gör verkligen något . Medan vi bara sitter här hela dagarna utan att komma fram till någonting . 
+569	Because of you . 	Och det beror ju på dig . 
+570	My machine ... will work . 	Min maskin kommer att fungera . 
+571	Come on , Peter . 	Kom nu , Peter . 
+572	Okay . 	Varsågod . 
+573	Joan ? 	Joan ! 
+574	Will you ... 	
+575	Could you make a bit more noise ? 	Kan du inte väsnas lite mer ? 
+576	I 'm not quite sure my landlady woke up . 	Hyresvärdinnan vaknade nog inte . 
+577	- Oh , sorry . 	Hyresvärdinnan vaknade nog inte . 
+578	- Oh ... look . 	
+579	I think that 's the best I can do . 	Vi får inte ha manliga besökare på kvällen . 
+580	No male visitors after dark . 	Vi får inte ha manliga besökare på kvällen . 
+581	So ... what did you bring me ? 	Jaha , vad har du tagit med till mig ? 
+582	- There you go . 	Varsågod . 
+583	- Here . 	
+584	Some men try flowers , you know . 	En del män satsar på blommor . 
+585	These are actual decrypted Enigma messages direct from Nazi High Command . 	Jag kommer med Enigma- meddelanden från den tyska försvarsledningen . 
+586	" 0600 hours . 	" Kl . 06 . 00 . 
+587	" Weather today is clear . 	Klart väder , regn framåt kvällen . 
+588	Rain in the evening . 	Klart väder , regn framåt kvällen . 
+589	Heil Hitler . " 	Heil Hitler . " 
+590	Well , clearly , that vital piece of information is going to win us the war . 	Det vinner vi nog inte kriget på . 
+591	It 's the relationship between the encrypted and decrypted messages that interests me . 	Hur ser förhållandet ut mellan det kodade och det avkodade ? 
+592	Can we find a clue here that we can build into Christopher ? 	Jag behöver något att bygga in i Christopher . 
+593	- Who 's Christopher ? 	- Christopher ? 
+594	- Oh , he 's my machine . 	- Min maskin . 
+595	You named him ? 	- Har den ett namn ? 
+596	Is that a bad name ? 	- Ja , duger det inte ? 
+597	No . 	Visst gör det det . 
+598	No , never mind . 	Glöm det . 
+599	Are you trying to build your universal machine ? 	Försöker du bygga din universalmaskin ? 
+600	- I read your paper at university . 	Jag har läst din uppsats . 
+601	- Is it already being taught ? 	- Används den i undervisningen ? 
+602	No . 	- Används den i undervisningen ? 
+603	No . 	- Används den i undervisningen ? 
+604	No , I was precocious . 	- Nej . Jag var brådmogen och ville veta . 
+605	So ... you theorized a machine that could solve any problem . 	Det ska alltså vara en maskin som kan lösa alla problem ? 
+606	It didn 't just do one thing , it did everything . 	Man ska inte bara kunna programmera den utan även omprogrammera . 
+607	It wasn 't just programmable , it was reprogrammable . 	Man ska inte bara kunna programmera den utan även omprogrammera . 
+608	Is that your idea behind Christopher ? 	Är det tanken med Christopher ? 
+609	Well , human brains can compute large sums very quickly ... even Hugh can do that ... but I want Christopher to be smarter . 	Den mänskliga hjärnan kan snabbt beräkna stora summor . Christopher ska bli smartare än så - 
+610	To make a calculation and then ... to determine what to do next . 	- och kunna räkna ut en uppgift och sedan bestämma nästa steg . 
+611	Like a person does . 	Som människan kan göra . 
+612	Think of it . 	Som människan kan göra . 
+613	Electrical brain . 	En elektrisk hjärna . 
+614	- A digital computer . 	En digital datormaskin . 
+615	- Digital computer . 	En digital datormaskin . 
+616	What 's going on ? 	
+617	What 's happening ? 	Vad är det som pågår ? 
+618	- No . 	Vad är det som pågår ? 
+619	No , no . 	Vad är det som pågår ? 
+620	No , no , no ! 	Nej , nej ! 
+621	Don 't touch that ! 	Nej , nej ! 
+622	- Stay back . 	- Det där är ju mitt skrivbord ! 
+623	That 's my desk . 	- Det där är ju mitt skrivbord ! 
+624	Thank goodness . 	- Det där är ju mitt skrivbord ! 
+625	I 'd hate to think we were searching the wrong one . 	- Så bra , då är vi på rätt ställe . 
+626	What are you doing ? 	- Vad handlar det här om ? 
+627	What 's going on ? 	- Vad handlar det här om ? 
+628	There is a spy in Bletchley Park . 	- Det finns en spion på Bletchley . 
+629	The Navy thinks that one of us is a Soviet double agent , Alan . 	Flottan tror att någon av oss är rysk dubbelagent . 
+630	Why ? 	Flottan tror att någon av oss är rysk dubbelagent . 
+631	Our boys intercepted this on its way to Moscow . 	- Ett meddelande på väg till Moskva . 
+632	Look familiar ? 	Ser det bekant ut ? 
+633	It 's a Beale cipher . 	Ett Beale- chiffer . 
+634	Encrypted with a phrase from a book or a poem or ... 	Det är krypterat med en fras från till exempel en bok . 
+635	You don 't seriously think I did this , do you ? 	- Menar ni att jag skulle vara skyldig ? 
+636	Double agents are such bastards . 	- Dubbelagenter är överjävliga . 
+637	Isolated loners . 	Enslingar som varken står släkt eller vänner nära . 
+638	No attachments to friends or family . 	Enslingar som varken står släkt eller vänner nära . 
+639	Arrogant . 	Arroganta . 
+640	Know anybody like that ? 	Känner du någon som är sådan ? 
+641	I ... 	
+642	I know you don 't like me , but that does not make me a Soviet spy . 	Jag vet att ni inte tycker om mig , men det gör mig ju inte till spion . 
+643	Nothing out of the ordinary , sir . 	- Jag hittar inget avvikande . 
+644	Really . 	- Jag hittar inget avvikande . 
+645	All right . 	- Jaså ? Ja , då så . 
+646	The Home Office may be protecting you now , but sooner or later you will make a mistake . 	Inrikesministeriet skyddar dig nu . Ända tills du begår ett misstag . 
+647	And I needn 't bother firing you . 	Då behöver jag inte ge dig sparken , straffet för förräderi är hängning . 
+648	They will hang you for treason . 	Då behöver jag inte ge dig sparken , straffet för förräderi är hängning . 
+649	Hello . 	Hejsan . 
+650	I heard about what happened . 	Jag hörde vad som har hänt . 
+651	It 's all the girls in Hut 3 can talk about . 	Det är det enda flickorna pratar om . 
+652	I have an idea of what might cheer you up . 	Jag vet något som kan få dig på bättre humör . 
+653	So , because no letter can be encoded as itself , there 's already a handful of settings that can be rejected at the outset . 	En bokstav kodas aldrig som sig själv , så vissa inställningar går bort . 
+654	- Is that your team ? 	- Ska vi hälsa på din grupp ? 
+655	- Yes . 	- Ska vi hälsa på din grupp ? 
+656	- Shall we say hello ? 	- Ska vi hälsa på din grupp ? 
+657	- No . 	- Nej . 
+658	Hello . 	- Hejsan ! 
+659	I told you not to do that . 	- Nej , sa jag ju . 
+660	Alan . 	- Alan ... 
+661	- Hugh , hello . 	- Hejsan , Hugh . 
+662	- Didn 't know you drank . 	- Tänk att du dricker öl . 
+663	He doesn 't , really . 	- Tänk att du dricker öl . 
+664	He just sort of sips at the foam . 	- Han smuttar bara på skummet . 
+665	Well , I' ll let you into a little secret , Miss ... ? 	- Han smuttar bara på skummet . 
+666	- Clarke . 	- Miss ? 
+667	- Miss Clarke . 	- Clarke . 
+668	- Please . 	- Clarke . 
+669	- Foam 's my favorite part , too . 	Jag älskar också skummet . 
+670	- Is it really ? 	Jag älskar också skummet . 
+671	- Come and join us for a drink ? 	Kom och sitt med oss . 
+672	- We 'll be there in a moment . 	- Vi kommer strax . - Miss Clarke ... 
+673	- Miss Clarke . 	
+674	- Well , he likes you . 	Han tycker om dig . 
+675	- Yes . 	Han tycker om dig . 
+676	You ... got him to like you . 	- Du fick honom att tycka om dig . 
+677	- Yes . 	- Ja . 
+678	- Why ? 	Varför då ? 
+679	Because I 'm a woman in a man 's job , and I don 't have the luxury of being an ass . 	En kvinna på en manlig arbetsplats har inte råd att bete sig som en idiot . 
+680	Alan ... it doesn 't matter how smart you are , Enigma is always smarter . 	Alan , hur smart du än är så är Enigma ännu smartare . 
+681	If you really want to solve your puzzle , then you 're going to need all the help you can get , and they are not going to help you if they do not like you . 	Ska du lösa det här måste du ta emot all hjälp du kan få . De kommer inte att hjälpa dig om de inte tycker om dig . 
+682	- What are those ? 	- Vad är det där ? 
+683	- Apples . 	- Äpplen . 
+684	- No . 	- Aldrig . 
+685	- Oh , they really are . 	- Jo då . 
+686	I ... well , Miss Clarke , Joan actually ... said that it would be ... nice if I was to bring you all something . 	Jag ... eller snarare miss Clarke , alltså Joan ... ... sa att det skulle vara trevligt om jag hade med mig något till er . 
+687	So , here we are . 	Jag ... eller snarare miss Clarke , alltså Joan ... ... sa att det skulle vara trevligt om jag hade med mig något till er . 
+688	I ... 	Jag ... eller snarare miss Clarke , alltså Joan ... ... sa att det skulle vara trevligt om jag hade med mig något till er . 
+689	Thank you . 	- Tack . 
+690	I like apples . 	- Jag tycker om äpplen . 
+691	My best to Miss Clarke . 	Tacka miss Clarke . 
+692	There are two people in a wood , and they run into a bear . 	Två personer är i skogen . De träffar på en björn . 
+693	The first person gets down on his knees to pray . 	Den förste ber , den andre knyter sina kängor . 
+694	The second person starts lacing up his boots . 	Den förste ber , den andre knyter sina kängor . 
+695	The first person asks the second person , " My dear friend , what are you doing ? 	Den förste säger : " Vad gör du ? 
+696	You can 't outrun a bear . " 	Man springer inte ifrån en björn . " 
+697	To which the second person responds , 	Då svarar den andre : 
+698	" I don 't have to . 	" Den ende jag behöver springa ifrån är dig . " 
+699	I only have to outrun you . " 	" Den ende jag behöver springa ifrån är dig . " 
+700	I' ll be with Christopher , if anyone needs me . 	Jag går in till Christopher . 
+701	If we assume that the square root of two is a rational number , then we can say that the square root of two is A over B ... where A and B are whole numbers and B is not zero . 	Antar vi att kvadratroten ur två är ett rationellt tal - - då är kvadratroten ur två A genom B - - där både A och B är heltal och B inte är lika med noll . 
+702	- Mr . 	- Skickas det lappar här , mr Turing ? 
+703	Turing , passing notes , are we ? 	- Skickas det lappar här , mr Turing ? 
+704	- No , sir . 	- Nej , sir . 
+705	Only Turing would pass notes written in gibberish . 	Turing skickar förstås lappar på nonsensspråk . 
+706	All right , gentlemen , do not forget your algebra over the break . 	Glöm inte att öva på algebran under lovet . 
+707	Have a pleasant holiday , and we 'll resume your irrationals when you return . 	Ha en trevlig ledighet . Vi fortsätter med irrationella tal efter lovet . 
+708	But Euler 's Theorem gives you that immediately . 	Men det får man ju direkt via Eulers sats . 
+709	Here . 	Här . 
+710	Look at this . 	Ta en titt på det här . 
+711	If you run the wires across the plugboard matrix diagonally , it will eliminate rotor positions 500 times faster . 	Dras kopplingarna diagonalt kan uteslutningen ske 500 gånger fortare . 
+712	That 's ... actually not an entirely terrible idea . 	Faktum är att det inte är en rakt igenom urusel idé . 
+713	I think that was Alan for " thank you . " 	Jag tror att det betyder " tack " på Alans språk . 
+714	- That 's my sandwich . 	- Min smörgås ! 
+715	- You don 't like sandwiches . 	- Du tycker ju inte om smörgåsar . 
+716	You nervous ? 	Nervös ? 
+717	What happens now ? 	Vad händer nu ? 
+718	It should work out the day 's Enigma settings . 	Den bör ta fram dagens Enigma- inställning . 
+719	How long ? 	Hur lång tid tar det ? 
+720	Sieg Heil ! 	
+721	The German Army has fanned out across Europe , from Poland to Serbia , Lithuania to Denmark , Norway to France . 	Den tyska armén tar över i Europa . Polen , Serbien , Litauen , Danmark , Norge och Frankrike . 
+722	The Nazi flag now flies from more than two dozen national capitals . 	Nazistflaggan vajar högt i många länder . 
+723	Their campaign mounts in fury as a free Europe crumbles . 	Det fria Europa är på väg att falla . 
+724	Oh , it 's still going . 	Fortfarande , alltså . 
+725	- Good morning , sir . 	- God morgon . 
+726	- Morning , Margaret . 	- God morgon . 
+727	Gears keep spinning on and on . 	Växlar och rotorer bara fortsätter att mala på . 
+728	Rotors on and on . 	Växlar och rotorer bara fortsätter att mala på . 
+729	It 's endless . 	Växlar och rotorer bara fortsätter att mala på . 
+730	- With no result in sight ? 	- Men det ger inga resultat ? 
+731	- No . 	- Nej . 
+732	Turing . 	Turing ! 
+733	- Turing , open the bloody door . 	- Öppna dörren , för bövelen . 
+734	- No . 	- Öppna dörren , för bövelen . 
+735	No . 	- Nej . 
+736	Open the door or we 'll break it down . 	- Annars slår vi in den . 
+737	I can 't let you in ! 	- Jag kan inte släppa in er . 
+738	I cannot let you interfere . 	- Ni får inte störa arbetet . 
+739	Go on , then . 	- Varsågoda . 
+740	Turn that thing off . 	- Stäng av den där saken nu . 
+741	No . 	- Stäng av den där saken nu . 
+742	Don 't , please . 	- Nej , gör inte det . 
+743	Please . 	Snälla , snälla ! 
+744	Please ! 	Snälla , snälla ! 
+745	Please ! 	Nej , gör inte så ! 
+746	No ! 	Nej , gör inte så ! 
+747	No . 	Nej , gör inte så ! 
+748	No ! 	
+749	Well , then , it seems that your great big expensive machine doesn 't work . 	Din stora och dyra maskin verkar inte fungera . 
+750	- It does . 	- Jo då , det gör den . 
+751	- Wonderful . 	- Underbart ! 
+752	So , you 've broken Enigma , then ? 	Du har knäckt Enigma . 
+753	It was just ... still working . 	Den ... höll ju fortfarande på . 
+754	This is my associate from the Home Office . 	Min kollega från inrikesministeriet . 
+755	You see , a hundred thousand pounds is rather a lot of money , and he 's here to see what you have to show for it . 	100 . 000 pund är mycket pengar . - Visa vad du har kommit fram till . 
+756	You ... will never understand the importance of what I am creating here ! 	- Ni kan aldrig förstå - - vikten av det jag försöker konstruera här ! 
+757	Have you decrypted any German messages ? 	Har ni dechiffrerat tyska meddelanden ? 
+758	A single one ? 	Inte ett endaste ett ? 
+759	Can you point to anything at all that you 've achieved ? 	Finns det något alls ni kan visa oss ? 
+760	Your funding is up , and our patience is expired . 	Nu är det slut på pengarna , och på vårt tålamod likaså . 
+761	It 's with such great pleasure that I am finally able to say this . 	Det ger mig stor tillfredsställelse att få säga det här : 
+762	Alan Turing , you 're fired . 	Alan Turing , du får härmed sparken . 
+763	Please escort Mr . 	Eskortera ut honom ifrån området . 
+764	Turing from the premises . 	Eskortera ut honom ifrån området . 
+765	No . 	Nej ! 
+766	I beg your pardon ? 	Ursäkta ? 
+767	If you fire Alan ... well , then you 'll have to fire me , too . 	Får Alan sparken , då får ni sparka mig också . 
+768	What on earth are you saying ? 	- Vad menas med det ? 
+769	Trust me when I tell you there is no one who would rather say this less than I do , but ... he 's right . 	- Det bär mig emot att säga det här . Men han har rätt . 
+770	Alan is right . 	Alan har rätt . 
+771	His machine can work , and it 's probably the best chance that we 've got . 	Maskinen kan fungera . Den är vår bästa chans . 
+772	God , it 's beyond belief . 	- Detta är ju helt otroligt . 
+773	If you fire them ... you 'll have to fire me , too . 	- Får de sparken , får ni låta mig gå . 
+774	And me . 	- Detsamma gäller mig . 
+775	We 're the best cryptographic minds in Britain . 	- Vi är landets främsta kryptografer . 
+776	Are you going to fire us all ? 	Tänker ni ge oss sparken allihop ? 
+777	Commander , at least give us some more time . 	Ge oss lite mer tid . 
+778	Six months , and if the machine doesn 't produce any results that we need , then we 'll go back to doing things the old way . 	Sex månader . Fungerar inte maskinen då , gör vi på det traditionella sättet . 
+779	How about that ? 	
+780	One month . 	En månad . 
+781	And then , so help me God , you 're all gone . 	Sedan ska ni härifrån allihop . 
+782	Oh , leave him . 	Släpp honom . 
+783	- Thank you . 	- Tack . 
+784	- You 're welcome . 	- Varsågod . 
+785	Oh , and , Alan , your machine ... it better bloody work . 	Din maskin ... Se för fasen till att den fungerar nu . 
+786	Hugh . 	Hugh , jag svär ... 
+787	I swear ... 	Hugh , jag svär ... 
+788	I 'm not a spy . 	Jag är ingen spion . 
+789	Oh , for God 's sake , of course you 're not a bloody spy . 	Herregud , det är klart att du inte är . 
+790	What ? 	Denniston gav mig Beale- chiffret . 
+791	Denniston gave me the Beale cipher , and guess what ? 	Jag löste det . 
+792	I cracked it . 	Jag löste det . 
+793	" Ask , and it shall be given to you ; seek and ye shall find . " Matthew 7 : 7 . 	" Be , så skall ni få . Sök , så skall ni finna . " Matteus 7 : 7 var nyckeln . 
+794	That was the key . 	
+795	Far too simple for the likes of you . 	Alldeles för simpelt för dig . 
+796	Pity Denniston disagrees . 	Tyvärr håller Denniston inte med . 
+797	Come in . 	Kom in . 
+798	Sir , I think I' ve got Turing . 	Sir , jag har nog Turing nu . 
+799	I tailed him to a pub last night , where he met a bloke . 	Han gav en man ett kuvert på en pub i går . 
+800	They exchanged an envelope . 	Han gav en man ett kuvert på en pub i går . 
+801	So , I follow this other fella , pick him up , give him a good shake . 	Jag följde efter mannen med kuvertet och skakade fram ett svar . 
+802	- He 's a poofter . 	Han är fikus - han erkände det . 
+803	He confessed . 	Han är fikus - han erkände det . 
+804	- What ? 	Han är fikus - han erkände det . 
+805	The man admitted it . 	Han heter Arnold Murray och skaffar sig kunder på den där puben . 
+806	Arnold Murray . 	Han heter Arnold Murray och skaffar sig kunder på den där puben . 
+807	Hangs around that pub ; men pay him for a go . 	Han heter Arnold Murray och skaffar sig kunder på den där puben . 
+808	Turing 's one of the men that paid . 	Turing var en av dem . 
+809	Only Mr . 	Turing var en av dem . 
+810	Murray here then has the bright idea of robbing Turing 's house after , with a friend . 	Murray fick den ljusa idén att göra inbrott hos Turing . 
+811	That 's what Turing 's hiding . 	Det Turing vill dölja är att han är homo , inte spion . 
+812	Well , he 's a poof , not a spy . 	Det Turing vill dölja är att han är homo , inte spion . 
+813	- No . 	Det Turing vill dölja är att han är homo , inte spion . 
+814	- What 's the matter ? 	- Duger det inte med ett sådant åtal ? 
+815	We can charge a university professor with indecency . 	- Duger det inte med ett sådant åtal ? 
+816	No , this is ... it 's bloody rubbish . 	- Turing har något viktigt på gång . 
+817	Turing 's up to something important ... 	- Turing har något viktigt på gång . 
+818	He 's committed a crime and he 's broken the law . 	Han har brutit mot lagen - med en man . 
+819	And with a bloke . 	Han har brutit mot lagen - med en man . 
+820	Jesus Christ , it 's bloody disgusting . 	Det är ju vidrigt . 
+821	This isn 't the investigation I was conducting . 	Det här är inte vad jag utreder ! 
+822	- Bring him in . 	- Ta in honom . 
+823	- Wait . 	- Vänta . 
+824	Let me interrogate him . 	Jag vill förhöra honom . 
+825	Please . 	Snälla . 
+826	Give me half an hour alone , and then I swear , 	En halvtimme ensam med honom . 
+827	I' ll spend the next month running errands on as many rubbish cases as you like . 	Jag gör allt skitgöra ni vill sedan . 
+828	Fine . 	- Visst . 
+829	Now , will someone get me a warrant for the arrest of Alan Turing . 	- Jag behöver ett häktningsbeslut . 
+830	Alan ? 	Alan ? 
+831	Christopher 's simply not moving fast enough . 	- Christopher är inte snabb nog . 
+832	We should talk . 	- Vi borde prata . 
+833	And even with the diagonal board , he 's still not eliminating settings as quickly 	Inställningarna utesluts inte fort nog . 
+834	- as we need him to in order ... 	- Jag är på väg . 
+835	- I 'm leaving . 	- Jag är på väg . 
+836	But you 've just walked in . 	- Du kom ju just . 
+837	No . 	- Du kom ju just . 
+838	No . 	- Du kom ju just . 
+839	Bletchley . 	Jag är på väg ifrån Bletchley . 
+840	- What ? 	Jag är på väg ifrån Bletchley . 
+841	- It 's my parents . 	Det är mina föräldrar . 
+842	I 'm 25 , I 'm unmarried , I 'm living alone , and they want me home . 	Jag är 25 år , ogift och bor ensam . 
+843	- That 's ridiculous . 	- Löjligt . 
+844	- That 's my parents . 	- Sådana är mina föräldrar . 
+845	You ... you can 't leave . 	- Du ... får inte . 
+846	I won 't let you . 	Jag tillåter det inte . 
+847	" I' ll miss you . " That 's what a normal person might say in this situation . 	- Jag kommer att sakna dig . Det vore det normala att säga . 
+848	- I don 't care what is normal . 	- Det bryr jag mig inte om . 
+849	- What am I supposed to do , Alan ? 	- Vad ska jag göra , då ? 
+850	I will not ... give up my parents . 	Jag kan inte överge mina föräldrar . 
+851	You ... you have an opportunity here to make some actual use of your life . 	Nu har du chansen att verkligen bidra till något viktigt . 
+852	And end up like you ? 	Och bli som du ? 
+853	No , thanks . 	Nej tack . 
+854	I 'm sorry you 're lonely . 	Det är tråkigt att du är ensam , men Enigma kan inte rädda dig . 
+855	But Enigma will not save you . 	Det är tråkigt att du är ensam , men Enigma kan inte rädda dig . 
+856	Can you decipher that , you fragile narcissist ? 	Kan du dechiffrera det , din narcissist , eller ska vi be Christopher om hjälp ? 
+857	Or would you like me to go and fetch your precious Christopher to help ? 	Kan du dechiffrera det , din narcissist , eller ska vi be Christopher om hjälp ? 
+858	I 'm sorry . 	Förlåt mig . 
+859	I want you ... 	Stanna , jag tycker ju om dig , och jag tycker om att prata med dig . 
+860	I want you to stay because I like you . 	Stanna , jag tycker ju om dig , och jag tycker om att prata med dig . 
+861	I like ... talking to you . 	Stanna , jag tycker ju om dig , och jag tycker om att prata med dig . 
+862	I like talking to you , too , Alan . 	Och jag tycker om att prata med dig . 
+863	And what if you weren 't alone ? 	Hur vore det om du var gift ? 
+864	What if you had a husband ? 	Hur vore det om du var gift ? 
+865	Do you have one in mind ? 	- Tänker du på någon särskild ? 
+866	I do . 	- Tänker du på någon särskild ? 
+867	Hugh ? 	Hugh ? 
+868	Hugh 's terribly attractive , I' ll give you that , but ... 	Han är väldigt snygg , men han är nog inte beredd att gifta sig . 
+869	I don 't really think he 's the marrying kind . 	Han är väldigt snygg , men han är nog inte beredd att gifta sig . 
+870	- No , I wasn 't thinking of Hugh . 	- Nej , det var inte Hugh jag tänkte på . 
+871	- Or Peter . 	- Peter ? 
+872	Peter 's so quiet . 	Han är så tystlåten . 
+873	- Oh , my God . 	Herregud ! 
+874	- But this makes sense . 	Friade du just till mig ? 
+875	- Did you just propose to me ? 	Friade du just till mig ? 
+876	- Well , it is the logical thing to do . 	- Det är det enda logiska . 
+877	- This is ridiculous . 	- Absurt . 
+878	- This is your parents . 	- Det handlar om dina föräldrar . 
+879	I can 't ... believe that this is happening . 	- Jag kan inte tro att det är sant ... 
+880	Joan ... 	Joan ... 
+881	- Is your middle name Caroline or Catherine ? 	Heter du Caroline eller Catherine i mellannamn ? 
+882	- Elizabeth . 	Elizabeth . 
+883	Joan Elizabeth ... 	Joan Elizabeth Clarke . 
+884	Clarke ... 	Joan Elizabeth Clarke . 
+885	will you marry me ? 	Vill du gifta dig med mig ? 
+886	It 's beautiful . 	Så vacker . 
+887	Well , I know it isn 't ordinary , but ... whoever loved ordinary ? 	Den är inte som alla andras , men jag vill inte ha det som alla andra . 
+888	She had it in both hands ... and she looked up at me with her doe eyes and said , 	Hon höll den med båda händerna och tittade på mig med sina rådjursögon . 
+889	" Am I supposed to put that in my mouth ? " 	" Ska jag ta den i munnen ? " Jag sa : 
+890	And I said , " Yes . 	" Ska jag ta den i munnen ? " Jag sa : 
+891	You know , the French way . " 	" Ja , så som de gör i Frankrike . " 
+892	So , she pops it in , clamps her lips around it , and starts humming the bloody Marseillaise . 	Då tog hon den i munnen och började nynna Marseljäsen ! 
+893	Come have a dance . 	- Kom och dansa med mig . 
+894	No , no , no , you can dance with your fiance anytime you like . 	- Kom och dansa med mig . 
+895	Right now , this moment ... my turn . 	- Nej , den här dansen är min . 
+896	What 's the matter ? 	Vad är det ? 
+897	What if ... 	Tänk om ... 
+898	What if I don 't fancy being ... with Joan in that way ? 	Tänk om jag helst inte vill vara med Joan just på det sättet ... 
+899	Because you 're a homosexual ? 	Eftersom du är homosexuell ? 
+900	I suspected . 	Jag trodde nog det . 
+901	Well , should I tell her that I' ve had ... affairs with men ? 	Borde jag berätta för henne att jag varit tillsammans med män ? 
+902	You know , in my ... admittedly limited experience , women ... tend to be a bit touchy about accidentally marrying homosexuals . 	Nu är ju inte jag någon expert på det här området - - men en kvinna vill nog helst inte råka gifta sig med en homosexuell man . 
+903	Perhaps not spreading this information about might be in your best interest . 	Möjligen är det bättre för dig att inte säga någonting . 
+904	I care for her , I truly do . 	Jag bryr mig verkligen om henne ... 
+905	I ... 	Jag bryr mig verkligen om henne ... 
+906	I ... 	Jag vet bara inte om jag kan ... låtsas . 
+907	I just don 't know if I can ... 	Jag vet bara inte om jag kan ... låtsas . 
+908	- ... pretend . 	Jag vet bara inte om jag kan ... låtsas . 
+909	- You can 't tell anyone , Alan . 	Berätta inte för någon , Alan . 
+910	It 's illegal . 	Det är straffbart . 
+911	And Denniston is looking for any excuse he can to put you away . 	Denniston skulle älska att sätta dig i fängelse . 
+912	- I know . 	- Jag vet . 
+913	- This has to stay a secret . 	- Håll det hemligt . 
+914	Come on , it 's your turn . 	- Nu är det din tur . 
+915	Okay . 	- Jag kommer . 
+916	- Cup of tea ? 	- En kopp te ? 
+917	- No , thank you . 	- Nej tack . 
+918	Mr . 	Får jag berätta en hemlighet ? 
+919	Turing , can I tell you a secret ? 	Får jag berätta en hemlighet ? 
+920	- I 'm quite good with those . 	Får jag berätta en hemlighet ? 
+921	- I 'm here to help you . 	Jag vill hjälpa er . 
+922	Oh , clearly . 	Det märks tydligt . 
+923	Can machines think ? 	- Kan maskiner tänka ? 
+924	Oh , so , you 've read some of my published works ? 	- Har ni läst mina artiklar ? 
+925	What makes you say that ? 	Varför frågar ni det ? 
+926	Well , because I 'm sitting in a police station , accused of entreating a young man to touch my penis and you just asked me if machines can think . 	Jag är anklagad för att ha betalat en man för att röra vid min penis - - men ni frågar om maskiner kan tänka . 
+927	Well , can they ? 	Kan de det ? 
+928	Could machines ever think as human beings do ? 	Kan de tänka som människor tänker ? 
+929	Most people say not . 	- De flesta skulle svara nej . 
+930	You 're not most people . 	- Men ni är ju inte som de flesta . 
+931	Well , the problem is you 're ... asking a stupid question . 	- Problemet är att frågan är dum . 
+932	I am ? 	- Jaså ? 
+933	Of course machines can 't think as people do . 	Maskiner kan naturligtvis inte tänka som människor . 
+934	A machine is different ... from a person . 	En maskin är inte som en människa . 
+935	Hence , they think differently . 	Därför tänker de inte på samma sätt . 
+936	The interesting question is , just because something thinks differently from you , does that mean it 's not thinking ? 	Men bara för att något tänker annorlunda - - innebär det då att det inte tänker ? 
+937	Well , we allow for humans to have such divergences from one another . 	Vi tillåter ju människor att tänka på olika sätt . 
+938	You like strawberries , I hate ice- skating , you ... cry at sad films , 	Jordgubbar passar dig , medan jag avskyr skridskoåkning . 
+939	I ... am allergic to pollen . 	Jordgubbar passar dig , medan jag avskyr skridskoåkning . 
+940	What is the point of different tastes , different ... preferences if not to say that our brains work differently , that we think differently ? 	Vad är själva meningen med att ha olika smak ? Jo , det signalerar att vi människor fungerar på olika sätt . 
+941	If we can say that about one another , then why can 't we say the same thing for brains ... built of copper and wire , steel ? 	Så om det gäller för oss människor , kan det väl också gälla hjärnor - - som består av olika metalltrådar ? 
+942	And that 's ... this big paper you wrote ? 	Var det vad din artikel handlade om ? Vad var det den hette ? 
+943	What 's it called ? 	
+944	" The Imitation Game . " 	- " Spegelspelet " . 
+945	Right , that 's ... that 's what it 's about ? 	- Det är vad den handlar om , alltså ? 
+946	- Would you like to play ? 	Vill du spela ? 
+947	- Play ? 	Det är ju ett spel . 
+948	It 's a game . 	Det är ju ett spel . 
+949	A test of sorts . 	Ett test , kan man säga . 
+950	For determining whether something is a ... a machine or a human being . 	Man testar om något är en maskin eller en människa . 
+951	How do I play ? 	- Hur går det till ? 
+952	Well , there 's a judge and a subject , and ... the judge asks questions , and ... depending on the subject 's answers , determines who he is talking with ... what he is talking with , and ... 	- En är domare , en är undersåte . Domaren ställer frågor . Beroende på de svar han får bestämmer han vad det är han pratar med . 
+953	All you have to do is ask me a question . 	Så ... allt ni behöver göra är att ställa en fråga . 
+954	- What did you do during the war ? 	- Vad gjorde ni under kriget ? 
+955	- I worked in a radio factory . 	- Arbetade i en radiofabrik . 
+956	What did you really do during the war ? 	Vad gjorde ni egentligen ? 
+957	Are you paying attention ? 	Lyssnar ni noga ? 
+958	Damn it ! 	Fan också ! 
+959	We 're soon out of time . 	Snart har månaden vi fick gått . 
+960	A month . 	Snart har månaden vi fick gått . 
+961	So , that 's it , then , is it ? 	- Då är det slut , alltså ? 
+962	Oh , the trouble is , it doesn 't matter how much we improve it . 	- Hur vi än gör - 
+963	The machine 's never gonna be able to process 159 million million million possibilities in time . 	- så hinner ju maskinen aldrig med så många varianter . 
+964	It 's just bloody hopeless . 	Det är hopplöst ! 
+965	It 's searching . 	Den letar ... 
+966	It 's just ... 	Men den vet ju inte vad den letar efter . 
+967	It ... doesn 't know what it 's searching for . 	Men den vet ju inte vad den letar efter . 
+968	If we knew what the messages were going to say ... 	- Om vi bara visste vad det står ... 
+969	If we knew what the messages were going to say , we wouldn 't have to decrypt them at all . 	- Då skulle vi inte behöva hålla på . 
+970	Who 's Alan´s friend ? 	- Vem är Alans vän ? - Hugh ? 
+971	Hugh . 	Inte den mest pålitlige . 
+972	He 's a bit of a cad , actually . 	Inte den mest pålitlige . 
+973	So , my type , then ? 	Min typ , med andra ord ? 
+974	- Well , I' ll introduce you . 	- Jag kan presentera er . 
+975	- No . 	- Nej ! 
+976	He 'll come over . 	Han kommer hit . 
+977	- Are you sure ? 	- Är du säker ? 
+978	- Yes . 	- Jag log åt honom för en kvart sedan . 
+979	I smiled at him 15 minutes ago and haven 't looked back since . 	- Jag log åt honom för en kvart sedan . 
+980	Who 's that with Joan ? 	- Vem sitter Joan tillsammans med ? 
+981	Helen . 	- Vem sitter Joan tillsammans med ? 
+982	Works with her . 	- Helen , en arbetskollega . 
+983	- She 's really pretty . 	- Hon är så söt . 
+984	- She wants me to come over . 	- Hon vill att jag går dit . 
+985	What ? 	- Hon vill att jag går dit . 
+986	How on earth can you know that ? 	- Hur vet du det ? 
+987	She smiled at me a while back and she hasn 't looked again since . 	- Hon log åt mig för en stund sedan . 
+988	And got him . 	- Så där , ja . 
+989	Now , why is this , that when I was single I found it very boring , but now that I 'm engaged , I just find it dreadfully fun . 	- När jag var solo - - var sådant så trist , men inte nu längre . 
+990	Bingo . 	- Bingo ! 
+991	She 's in . 	Alan , du får presentera oss . 
+992	- Alan , introduce us . 	Alan , du får presentera oss . 
+993	- What ? 	Måste just jag göra det ? 
+994	Why me ? 	Måste just jag göra det ? 
+995	Because there 's nothing like a friend 's engagement to make a woman want to do something she 'll later regret with the fiance 's better looking chum . 	Er förlovning gör att hon kan gå längre än hon först tänkt sig . 
+996	Let 's go . 	Er förlovning gör att hon kan gå längre än hon först tänkt sig . 
+997	Half a crown says Alan bollixes this up entirely . 	- Alan kommer att paja allt . 
+998	No bet . 	- Jag sätter inte emot . 
+999	- Alan Turing has a theory . 	Det här är Alan Turings teori : 
+1000	- He has many . 	Det här är Alan Turings teori : 
+1001	He believes that the regulations against men and women working side by side are sound because such proximity will necessarily lead to romance . 	Det är inte bra att män och kvinnor jobbar tillsammans - - för då blir de bara förälskade . 
+1002	What ? 	
+1003	No , I don 't . 	- Nej . 
+1004	I ... 	- Men jag håller inte med honom . 
+1005	- However I disagree . 	- Men jag håller inte med honom . 
+1006	- You do ? 	- Men jag håller inte med honom . 
+1007	Yeah . 	- Jaså ? 
+1008	I think that if I were working beside a woman all day long , 	Jag skulle kunna jobba med en kvinna utan att gå till sängs med henne . 
+1009	I could appreciate her abilities and intellect without taking her to bed . 	Jag skulle kunna jobba med en kvinna utan att gå till sängs med henne . 
+1010	I 'm sorry , have we met ? 	- Har vi träffats förut ? 
+1011	I don 't recall . 	- Har vi träffats förut ? 
+1012	But let 's assume we haven 't . 	- Jag tror inte det . 
+1013	Helen Stewart . 	- Helen Stewart - Hugh Alexander . 
+1014	Hugh Alexander . 	- Helen Stewart - Hugh Alexander . 
+1015	So , who do you agree with , Alan or myself ? 	- Håller du med Alan eller mig ? 
+1016	Well , Alan , of course . 	- Alan , utan tvekan . 
+1017	I 'm very flattered , really , but I don 't think ... 	- Smickrande , men tror inte att jag ... 
+1018	Rubbish . 	- Smickrande , men tror inte att jag ... 
+1019	Well , I work beside a man every day , and I can 't help but have developed a bit of a crush on him . 	Jag jobbar med en man , och jag är nog lite förälskad . 
+1020	Well , who is this man ? 	Jag ska ge honom en omgång . 
+1021	So I can kick his arse . 	Jag ska ge honom en omgång . 
+1022	Well , there 's no need to worry , it 's been chaste . 	Det är helt oskyldigt , vi har aldrig träffats . 
+1023	We 've never even met . 	Det är helt oskyldigt , vi har aldrig träffats . 
+1024	He 's a German . 	Han är tysk . 
+1025	Now I really want to kill him . 	Han ska dö . 
+1026	How do you mean you work alongside a German ? 	- Jobbar du " med " en tysk ? 
+1027	Well , each of us intercepts messages from a specific German radio tower . 	- Vi har varsitt tyskt radiotorn . 
+1028	So , we have a counterpart on the other side who 's tip- tapping out the messages . 	Alla har en motsvarighet på deras sida . 
+1029	Everyone types a touch differently , so you get to know the rhythm of your counterpart . 	Man lär sig känna igen rytmen hos sin egen motpart . 
+1030	It 's strangely intimate . 	Det blir riktigt intimt . 
+1031	I feel as if I know him so well . 	Tyvärr har han flickvän . 
+1032	It 's a pity he has a girlfriend , but that 's why I disagree with you , Mr . 	Det är därför jag inte håller med er . 
+1033	Alexander . 	Det är därför jag inte håller med er . 
+1034	Because I 'm in love with a coworker of sorts , and we 've never even met . 	Jag är förälskad i en " kollega " jag aldrig träffat . 
+1035	Well , allow me to buy you another pint , and I' ll tell you why you 're wrong . 	Jag bjuder på en öl , så ska jag berätta varför ni har fel . 
+1036	Let 's . 	Jag bjuder på en öl , så ska jag berätta varför ni har fel . 
+1037	Excellent . 	
+1038	Thanks . 	Tackar . 
+1039	Pints . 	Två pints , och så slånbärslikör . 
+1040	Have you got any sloe gin ? 	Två pints , och så slånbärslikör . 
+1041	In case you were wondering , that 's what flirting looks like . 	Det där var en flirt . 
+1042	Helen ... 	- Helen ! 
+1043	Alan ? 	- Ja , Alan ? 
+1044	Yes , Alan ? 	- Ja , Alan ? 
+1045	Why do you think your German counterpart has a girlfriend ? 	Varför tror du att din tyske motpart har flickvän ? 
+1046	- It 's just a stupid joke , don 't worry . 	- Det är bara ett löjligt skämt ... 
+1047	- No , no , no , no . 	- Det är bara ett löjligt skämt ... 
+1048	Tell me . 	- Nej , berätta . 
+1049	Well , each of his messages begins with the same five letters : 	Alla hans meddelanden börjar med " CILLY " . 
+1050	C- I- L- L- Y . 	Alla hans meddelanden börjar med " CILLY " . 
+1051	So , I suspect that Cilly must be the name of his amore . 	- Det är nog namnet på kärestan . 
+1052	But that 's impossible . 	- Det är nog namnet på kärestan . 
+1053	The Germans are instructed to use five random letters 	- Tyskarna ska slumpa fram bokstäverna . 
+1054	- at the start of every message . 	- Tyskarna ska slumpa fram bokstäverna . 
+1055	- Well , this bloke doesn 't . 	- Inte han . 
+1056	Love will make a man do strange things , I suppose . 	- Kärleken påverkar människor . 
+1057	In this case , love just lost Germany the whole bloody war . 	I det här fallet har kärleken sett till att tyskarna inte vinner kriget ! 
+1058	Go , Peter . 	
+1059	Sorry . 	Ursäkta mig . 
+1060	Alan ! 	Alan ? 
+1061	Alan ! 	Alan ! 
+1062	Alan ! 	- Alan ! 
+1063	I just want ... 	- Nej , nej , nej ! 
+1064	Hugh Alexander . 	Hugh Alexander , John Cairncross och Peter Hilton . 
+1065	John Cairncross . 	Hugh Alexander , John Cairncross och Peter Hilton . 
+1066	Peter bloody Hilton . 	Hugh Alexander , John Cairncross och Peter Hilton . 
+1067	Alan ? 	Alan ? 
+1068	What ... ? 	Alan ? 
+1069	What ... 	Tänk om Christopher inte behöver leta igenom alla inställningar ? 
+1070	What if ... what if Christopher doesn 't have to search through all of the settings ? 	Tänk om Christopher inte behöver leta igenom alla inställningar ? 
+1071	What if he only has to search through ones that produce words we already know will be in the message ? 	Det kanske räcker med inställningarna som skapar de ord vi redan känner till ? 
+1072	- Repeated words , predictable words . 	- Upprepningar och förutsägbara ord . 
+1073	- Exactly . 	- Upprepningar och förutsägbara ord . 
+1074	Look , look , like this one . 	Här : " Klockan 06 . 00 . 
+1075	" 0600 hours . 	Klart väder . 
+1076	Weather today is clear . 	Klart väder . 
+1077	Rain in the evening . 	Regn framåt kvällen . 
+1078	Heil Hitler . " 	Heil Hitler . " 
+1079	Well , that 's it . 	Där har vi det . 
+1080	Exactly . 	Exakt . 
+1081	They send a weather report every day at 6 : 00 a . m . 	Väderleksrapporten varje dag 06 . 00 . 
+1082	So , that 's three words we know will be in every 6 : 00 a . m . message ... 	Där har vi tre ord vi vet kommer att dyka upp . 
+1083	" weather , " obviously , and ... 	- " Väder " , förstås . 
+1084	- Heil bloody Hitler . 	- Och Heil jävla Hitler . 
+1085	- Heil bloody Hitler . 	- Och Heil jävla Hitler . 
+1086	Here 's the 6 : 00 message from this morning . 	Här är dagens 06 . 00- meddelande . 
+1087	Hugh , the the right- hand letter wheel , set them to ... 	- Ställ in de högra bokstavshjulen ... 
+1088	I know , I know . 	- ... på " väder " och " Hitler " . 
+1089	" Weather " and " Hitler . " 	- ... på " väder " och " Hitler " . 
+1090	Peter , John , run voltages through those letters , through the back scramblers . 	Peter och John , aktivera just de bokstäverna . 
+1091	So , we 'll use the loops ? 	Peter och John , aktivera just de bokstäverna . 
+1092	Yes . 	- Hur löd bokstäverna ? 
+1093	Joan , what was the last 6 : 00 a . m . message ? 	- Hur löd bokstäverna ? 
+1094	- L . 	- Hur löd bokstäverna ? 
+1095	- L . 	- L . 
+1096	- H . 	- H . 
+1097	- H . 	- H . 
+1098	- W . 	W . - H . 
+1099	- W . 	W . 
+1100	- A . 	- A . 
+1101	- A . 	- A . 
+1102	- Q . 	- Q . 
+1103	- Q . 	- Q . 
+1104	Done . 	Så . 
+1105	Come on . 	
+1106	Come on . 	
+1107	Come on , Christopher . 	
+1108	Oh , my God . 	Herregud . 
+1109	What happened ? 	Vad hände ? 
+1110	- Did it work ? 	- Fungerade det ? 
+1111	- Alan ? 	- Fungerade det ? 
+1112	Alan ! 	- Fungerade det ? 
+1113	Alan ! 	- Alan ? 
+1114	I need a new message . 	Jag behöver det senaste meddelandet . 
+1115	The latest intercept . 	Jag behöver det senaste meddelandet . 
+1116	Thank you . 	
+1117	O ... 	O , T ... 
+1118	T . 	O , T ... 
+1119	- Ready ? 	Beredd ? 
+1120	- Yes . 	Beredd ? 
+1121	- M . 	Beredd ? 
+1122	- M . 	
+1123	- Y . 	M , Y , M . 
+1124	- Y . 	M , Y , M . 
+1125	- M . 	M , Y , M . 
+1126	S . 	
+1127	- M . 	S , A , I , C , T . 
+1128	S . 	S , A , I , C , T . 
+1129	- A . 	S , A , I , C , T . 
+1130	I . 	
+1131	- A . 	
+1132	I . 	
+1133	- C . 	
+1134	- C . 	
+1135	- T . 	
+1136	R . 	R , I , S , O . 
+1137	- T . 	R , I , S , O . 
+1138	R . 	R , I , S , O . 
+1139	- I . 	
+1140	S . 	
+1141	- I . 	
+1142	S . 	
+1143	- O . 	
+1144	A . 	A , Y , R , I . 
+1145	- O . 	A , Y , R , I . 
+1146	A . 	A , Y , R , I . 
+1147	- Y . 	
+1148	R . 	
+1149	- Y . 	
+1150	R . 	
+1151	- I . 	
+1152	- I . 	
+1153	" KMS Jaguar is aufpunkt is directed to 53 degrees 24 minutes north and aufpunkt one ... degree west . " 	" KMS Jaguar ska bege sig till position : 53 24 N " - - " och 1 W , räknat från aufpunkt . " 
+1154	Heil Hitler . 	- Heil Hitler . 
+1155	Turns out that 's the only German you need to know to break Enigma . 	Det är den enda tyska man behöver kunna för att knäcka Enigma . 
+1156	Yes ! 	Ja ! 
+1157	- M . 	
+1158	- M . 	
+1159	- A . 	A , Y , I , T , R - 
+1160	- A . 	A , Y , I , T , R - 
+1161	- Y . 	A , Y , I , T , R - 
+1162	- Y . 	
+1163	- I . 	
+1164	- I . 	
+1165	- T . 	
+1166	- T . 	
+1167	- R . 	
+1168	- R . 	
+1169	- O . 	- O , T , A , H . 
+1170	- O . 	- O , T , A , H . 
+1171	T . 	- O , T , A , H . 
+1172	- T . 	
+1173	A . 	
+1174	- A . 	
+1175	- H . 	
+1176	- H . 	
+1177	- Q . 	- Q . 
+1178	- Q . 	- Q . 
+1179	- U . 	- U . 
+1180	- U . 	- U . 
+1181	R . 	- U . 
+1182	R . 	- R . 
+1183	My God , you did it . 	Herregud . 
+1184	You just defeated Nazism with a crossword puzzle . 	Ni krossade just nazismen med hjälp av ett korsord . 
+1185	There are five people in the world who know the position of every ship in the Atlantic . 	Fem personer vet var alla fartyg i Atlanten befinner sig . 
+1186	- They 're all in this room . 	Fem personer vet var alla fartyg i Atlanten befinner sig . 
+1187	- Oh , good God . 	Vi fem . - Gode Gud . 
+1188	Oh , I don 't think even He has the power that we do right now . 	- Inte ens Han räknas just nu . 
+1189	No . 	- Inte ens Han räknas just nu . 
+1190	There 's going to be an attack on a British passenger convoy . 	De ska attackera en brittisk konvoj . 
+1191	Right there . 	- Precis där . 
+1192	God , you 're right . 	- Ubåtarna är bara en halvtimme bort . 
+1193	All those U- boats are only 20 , 30 minutes away . 	- Ubåtarna är bara en halvtimme bort . 
+1194	Civilians . 	- Vi kan rädda hundratals civila . 
+1195	Hundreds of them . 	- Vi kan rädda hundratals civila . 
+1196	We can save their lives . 	- Vi kan rädda hundratals civila . 
+1197	I' ll phone Denniston 's office so that he can alert the Admiralty . 	- Denniston får meddela Marinkommandot . 
+1198	Do you think there 's enough time to save them ? 	- Hinner vi ? 
+1199	There should be , if we can get a message ... 	- Det borde vi göra . 
+1200	Commander Denniston 's office , please . 	Kommendörkapten Denniston , tack . 
+1201	It 's urgent . 	Kommendörkapten Denniston , tack . 
+1202	No . 	- Vad i helvete gör du ? 
+1203	- What the hell are you doing ? 	- Vad i helvete gör du ? 
+1204	- You can 't call Denniston . 	- Du kan inte meddela Denniston . 
+1205	- You can 't tell him about the attack . 	- Du kan inte meddela Denniston . 
+1206	- What are you talking about ? 	- Va ? 
+1207	We can have air support over that convoy in ten minutes . 	- Flygunderstöd är där på 10 minuter . 
+1208	Let the U- boats sink the convoy . 	Låt dem sänka konvojen . 
+1209	It 's been a big day , maybe you 're suffering ... 	- Jag tror att du har blivit snurrig . 
+1210	- We don 't have time ... 	- Jag har inte tid ... 
+1211	- No ! 	
+1212	- Hugh ! 	- Nu räcker det , Hugh ! 
+1213	Hugh ! 	- Nu räcker det , Hugh ! 
+1214	That 's enough ! 	- Nu räcker det , Hugh ! 
+1215	That 's enough ! 	- Attacken sker om några minuter . 
+1216	- Stop , Hugh ! 	- Attacken sker om några minuter . 
+1217	John , the attack is in minutes . 	- Attacken sker om några minuter . 
+1218	Yes , no , I 'm fine , I 'm fine . 	Det är ingen fara . 
+1219	I 'm fine . 	
+1220	You know why people like violence , Hugh ? 	Vet du varför våld är så populärt , Hugh ? 
+1221	It 's because it feels good . 	För att det känns bra . 
+1222	Sometimes we can 't do what feels good . 	Ibland kan vi inte göra det som känns bra , utan måste välja det logiska . 
+1223	- We have to do what is logical . 	Ibland kan vi inte göra det som känns bra , utan måste välja det logiska . 
+1224	- What 's logical ? 	Ibland kan vi inte göra det som känns bra , utan måste välja det logiska . 
+1225	Hardest time to lie to somebody is when they 're expecting to be lied to . 	Att ljuga för någon som förväntar sig en lögn är svårt . 
+1226	- Oh , God . 	Att ljuga för någon som förväntar sig en lögn är svårt . 
+1227	- What ? 	- Vad är det ? 
+1228	If someone 's waiting for a lie , you can 't just give them one . 	- Vi kan inte bara servera lögnen . 
+1229	- Damn it , Alan 's right . 	- Fasen också , Alan har rätt . 
+1230	- What ? 	- Va ? 
+1231	What would the Germans think if we destroy their U- boats ? 	Vad tänker tyskarna om vi slår ut ubåtarna ? 
+1232	- Nothing . 	- Inget , de är ju döda . 
+1233	They 'll be dead . 	- Inget , de är ju döda . 
+1234	- No . 	- Nej ... 
+1235	No , you can 't be right . 	- Det kan inte stämma . 
+1236	So , our convoy suddenly veers off course ... a squadron of our air bombers miraculously descends on the coordinates of the U- boats ... what will the Germans think ? 	- Vår konvoj byter plötsligt kurs - - och våra bombflygplan dyker sedan upp som genom ett mirakel . Vad tänker tyskarna då ? 
+1237	The Germans will know that we have broken Enigma . 	Då vet de att vi har knäckt Enigma . 
+1238	They 'll stop all radio communications by midday , and they 'll have changed the design of Enigma by the weekend . 	De avbryter all radiokommunikation och ställer om Enigma inom ett par dagar . 
+1239	Yes . 	De avbryter all radiokommunikation och ställer om Enigma inom ett par dagar . 
+1240	Two years´ work . 	Två års arbete . 
+1241	Everything that we 've done here will all be for nothing . 	Allt kommer att vara förgäves . 
+1242	There are 500 civilians in that convoy . 	Det finns 500 civila i konvojen . 
+1243	Women , children . 	Kvinnor och barn . 
+1244	We 're about to let them die . 	Nu låter vi dem dö . 
+1245	Our job is not to save one passenger convoy , it is to win the war . 	Vårt uppdrag är inte att rädda en konvoj , utan att vinna kriget . 
+1246	- Our job was to crack Enigma . 	- Uppdraget var att knäcka Enigma . 
+1247	- We 've done that . 	- Färdigt . 
+1248	Now for the hard part . 	Nu kommer vi till det svåra . 
+1249	- Keeping it a secret . 	Att hålla det hemligt . 
+1250	- Carlisle . 	- Carlisle . 
+1251	What ? 	- Vad säger du ? 
+1252	The convoy you 're about to ... it 's ... 	HMS Carlisle är ett av fartygen i konvojen . 
+1253	The HMS Carlisle is one of the ships . 	HMS Carlisle är ett av fartygen i konvojen . 
+1254	We can 't act on every piece of intelligence . 	Vi kan inte agera varje gång , det förstår jag . 
+1255	So , fine , we won 't . 	Vi kan inte agera varje gång , det förstår jag . 
+1256	- Just this one . 	Men den här gången . 
+1257	- Peter , what 's the matter with you ? 	Vad är det , Peter ? 
+1258	My brother 's ... well , he 's on the Carlisle . 	Min bror befinner sig ombord på Carlisle . 
+1259	A gunnery ensign . 	Som fänrik . 
+1260	I 'm ... 	Jag ... är hemskt ledsen . 
+1261	I 'm so sorry . 	Jag ... är hemskt ledsen . 
+1262	Who the hell do you think you are ? 	Vem tror du att du är ? 
+1263	This ... this is my brother . 	Det är min bror vi pratar om . 
+1264	He 's my big brother , all right , and you have a few minutes to call off his murder . 	Vi kan se till att han inte blir mördad . 
+1265	We can 't . 	- Det går inte . 
+1266	He 's right . 	- Han har rätt . 
+1267	Alan . 	Alan ? 
+1268	Joan . 	Joan ? 
+1269	Hugh . 	Hugh eller John ... 
+1270	John . 	Hugh eller John ... 
+1271	Please , I ... 	Snälla , jag ... 
+1272	The Germans , they won 't get suspicious just because we stop one attack . 	Tyskarna misstänker inget om vi bara stoppar det en gång . 
+1273	No one will know . 	Ingen kommer att få veta något . 
+1274	I 'm asking you as your friend . 	Jag ber er - jag är ju er vän . 
+1275	Please . 	Snälla . 
+1276	I 'm so sorry . 	- Jag är hemskt ledsen . 
+1277	You 're not God , Alan , you don 't get to decide who lives and who dies . 	- Du bestämmer inte över liv och död . 
+1278	Yes , we do . 	Jo , just nu gör vi det . 
+1279	Why ? 	- Varför då ? 
+1280	Because no one else can . 	- Eftersom ingen annan kan göra det . 
+1281	Why are you telling me this ? 	Varför berättar ni det här för mig ? 
+1282	We need your help to keep this a secret from Admiralty , Army , RAF . 	Vi behöver hjälp med att hålla det hemligt för alla militära enheter . 
+1283	No one can know we broke Enigma . 	Ingen får veta att vi har knäckt Enigma . 
+1284	Not even Denniston . 	Inte ens Denniston . 
+1285	Who 's in the process of having you fired . 	- Han vill att ni får sparken . 
+1286	You can take care of that . 	- Det kan ju ni lösa . 
+1287	While we develop a system to help you determine how much intelligence to act on ... which attacks to stop , which to let through . 	Under tiden tar vi fram ett system för hur mycket ni kan avstyra - - alltså vilka attacker ni kan förhindra . 
+1288	Statistical analysis . 	Statistisk analys . 
+1289	The minimal number of actions it would take for us to win the war ... but the maximum number we can take before the Germans get suspicious . 	Lägst antal åtgärder som behövs för att vi ska vinna kriget - - och maximalt antal tyska attacker vi klarar innan de misstänker något . 
+1290	And you 're going to trust all this to statistics ? 	Och det litar ni på att statistiken ska hjälpa er med ? 
+1291	- To maths ? 	Och det litar ni på att statistiken ska hjälpa er med ? 
+1292	- Correct . 	Matematik ... 
+1293	And then MI6 can come up with the lies that we tell everybody else . 	MI- 6 får hitta på en lögn vi kan servera . 
+1294	You 'll need a believable alternative source for all the pieces of information you use . 	En trovärdig källa som den här informationen kan komma ifrån . 
+1295	A false story so that we can explain how we got our information that has nothing to do with Enigma . 	En som förklarar hur vi , utan att knäcka Enigma , fick den informationen . 
+1296	And then you can leak those stories to the Germans . 	- Ni läcker det till tyskarna . 
+1297	And then to our own military . 	- Och till vår militär . 
+1298	Maintain a conspiracy of lies at the highest levels of government . 	Avancerade lögner på allra högsta nivå . 
+1299	Sounds right up my alley . 	Ett perfekt jobb för mig . 
+1300	Alan , I so rarely have cause to say this , but you are exactly the man I always hoped you would be . 	Alan , jag måste få säga att du är just den man jag alltid hoppades att du var . 
+1301	They code- named it " Ultra . " 	Kodnamnet blev Ultra . 
+1302	It became the largest store of military intelligence in ... the history of the world . 	Operationen blev världens största lager av underrättelseinformation . 
+1303	It was like having a tap on Himmler 's intercom . 	Det var som om vi avlyssnade Himmlers snabbtelefon . 
+1304	I- E- O ... 	
+1305	Secrecy became the primary concern , and for some reason , they ... they trusted me . 	Det var viktigt att allt var hemligt . Konstigt nog litade de på mig . 
+1306	Peter , do you have the ... 630 decryp ... 	Peter , har du det dechiffrerade 06 . 30- meddelandet ... 
+1307	It 's a Beale cipher encrypted with a phrase from a book or ... 	- Ett Beale- chiffer med en fras ... 
+1308	" Ask , and it will be given to you ; seek and you will find . " 	- " Be , så skall ni få . " 
+1309	Matthew 7 : 7 . 	Matteus 7 : 7 var nyckeln . 
+1310	That was the key . 	Matteus 7 : 7 var nyckeln . 
+1311	Peter will come around eventually . 	Det löser sig med Peter , ska du se . 
+1312	Jack . 	Jack , är du snäll och ursäktar oss en stund ? 
+1313	Could you give Alan and me a moment , please ? 	Jack , är du snäll och ursäktar oss en stund ? 
+1314	The Soviets and us , we 're on the same side . 	Ryssarna är på samma sida som vi är . 
+1315	What I 'm doing will help Britain . 	- Jag försöker hjälpa Storbritannien . 
+1316	I have to tell Denniston . 	- Jag måste berätta för Denniston . 
+1317	No , you don 't . 	Nej , det måste du inte . 
+1318	Because if you tell him my secret ... 	Berättar du min hemlighet för dem , då berättar jag om din . 
+1319	I' ll tell him yours . 	Berättar du min hemlighet för dem , då berättar jag om din . 
+1320	Do you know what they do to homosexuals ? 	Vet du vad de gör med homosexuella ? 
+1321	You 'll never be able to work again , never be able to teach . 	Du kommer aldrig mer att jobba . 
+1322	Your precious machine ... 	Din högt älskade maskin får du aldrig mer se . 
+1323	I doubt you 'll ever see him again . 	Din högt älskade maskin får du aldrig mer se . 
+1324	Hello . 	- Stewart Menzies , tack . 
+1325	Can I ... can I speak to Stewart Menzies , please ? 	- Stewart Menzies , tack . 
+1326	It 's urgent . 	Det är viktigt . 
+1327	One moment , please . 	- Ett ögonblick . 
+1328	Hello . 	Ja , det är Menzies . 
+1329	Menzies . 	Ja , det är Menzies . 
+1330	Some advice about keeping secrets . 	Ett råd när det gäller att bevara hemligheter : 
+1331	It 's a lot easier if you don 't know them in the first place . 	Det är lättare om man inte känner till dem . 
+1332	Were they steaming my letters , tapping my telephone ? 	Läste de min post ? Avlyssnade de telefonen ? 
+1333	Trailing my nervous walks ? 	Följde de efter mig på mina promenader ? 
+1334	You know , I ... 	Följde de efter mig på mina promenader ? 
+1335	I never did find out . 	Det fick jag aldrig klarhet i . 
+1336	Joan ? 	Joan ? 
+1337	Joan ? 	Joan , vad är det som ... 
+1338	What 's ... 	Joan , vad är det som ... 
+1339	Where 's Joan ? 	- Var är Joan ? 
+1340	Military prison . 	- I militärfängelse . 
+1341	What have you done ? 	- Vad har ni gjort ? 
+1342	Decoded Enigma intercepts . 	- Enigma- meddelanden . 
+1343	I found a pile of them in the bedside table . 	- De låg i hennes nattduksbord . 
+1344	No , no . 	- De låg i hennes nattduksbord . 
+1345	I gave those to her over a year ago when I was trying to figure out 	- Jag gav dem till henne . - Jag försökte hitta en ... 
+1346	- a link between ... 	- Säkert . 
+1347	- I 'm sure you did . 	- Säkert . 
+1348	Denniston 's been looking for a Soviet spy . 	Men Denniston letar efter en rysk spion . 
+1349	He 's been looking inside Hut 8 . 	Men Denniston letar efter en rysk spion . 
+1350	I know who the spy is . 	Jag vet vem spionen är . 
+1351	It 's not Joan . 	Det är inte Joan , det är ... 
+1352	It 's ... it 's Cairncross . 	Det är Cairncross . 
+1353	I found the Beale cipher , the Bible . 	Jag hittade Beale- chiffret och Bibeln . 
+1354	God , I wish you 'd been a spy . 	Jag önskar att du var spionen . 
+1355	You 'd be so much better at this than he is . 	Du är bättre än han på sådant här . 
+1356	You knew it was him ? 	- Så ni visste att det var han ? 
+1357	Of course I bloody knew . 	- Naturligtvis . 
+1358	I knew before he came to Bletchley . 	Innan han ens kom till Bletchley . 
+1359	Why do you think I had him placed here ? 	Hur tror du han hamnade här ? 
+1360	But we have an Enigma machine . 	Har vi en Enigma ? 
+1361	Yeah , Polish Intelligence ... 	Då är det väl inget problem ? 
+1362	You placed a ... a Soviet agent at Bletchley Park ? 	Placerade ni en rysk agent på Bletchley Park ? 
+1363	It 's really quite useful to be able to leak whatever we want to Stalin . 	Vi behöver kunna läcka saker till Stalin . 
+1364	Churchill 's too damn paranoid . 	Churchill är helt paranoid . 
+1365	He won 't share a shred of intelligence with the Soviets . 	Han vägrar att ge ryssarna information . 
+1366	Not even information that will help them against the Germans . 	Inte ens för att motverka tyskarna . 
+1367	There 's ... so much secrecy . 	Allt är ... så hemligt . 
+1368	Cairncross has no idea we know , of course . 	Cairncross har ingen aning om att vi vet . 
+1369	He 's really not the brightest bulb . 	Han är inte den skarpaste kniven i lådan . 
+1370	Which is why I need your help . 	Därför behöver jag din hjälp . 
+1371	I want to know what to leak to John , what to feed to the Soviets , as well as the British . 	Vad ska jag läcka till John , så att han tar det vidare till ryssarna ? 
+1372	I 'm not a spy . 	Jag är ingen spion . 
+1373	I 'm ... 	Jag är bara matematiker . 
+1374	I 'm just a mathematician . 	Jag är bara matematiker . 
+1375	I know a lot of spies , Alan . 	Jag känner många spioner , och du har fler hemligheter än de bästa av dem . 
+1376	You 've got more secrets than the best of them . 	Jag känner många spioner , och du har fler hemligheter än de bästa av dem . 
+1377	You ... you have to promise me that you will release Joan . 	- Men då måste ni släppa Joan . 
+1378	Yes , Joan 's at the market . 	- Hon är och handlar , hon kommer snart . 
+1379	She 's gonna be back in an hour . 	Jag ljög . 
+1380	I lied . 	Jag behåller de här . 
+1381	I better hold on to these . 	Jag behåller de här . 
+1382	If anybody finds out about them , prison will be the least of her worries . 	Får någon reda på vad det står här är fängelse vårt minsta problem . 
+1383	Oh , Alan ... we 're gonna have such a wonderful war together . 	Alan , vi kommer att ha ett fantastiskt krig tillsammans . 
+1384	- I need you to leave Bletchley . 	Du måste lämna Bletchley . 
+1385	- What ? 	Du måste lämna Bletchley . 
+1386	It 's Menzies . 	Du måste lämna Bletchley . 
+1387	I don 't trust him . 	Jag litar inte på Menzies . 
+1388	It 's not safe here . 	Jag litar inte på Menzies . 
+1389	- Do you think it 's any safer anywhere else ? 	- Är det bättre någon annanstans ? 
+1390	- You need to get away . 	- Är det bättre någon annanstans ? 
+1391	- You need to get very far away from me . 	- Är det bättre någon annanstans ? 
+1392	- Alan , what 's happened ? 	- Du måste långt härifrån . 
+1393	We can 't be engaged anymore . 	Vi måste bryta förlovningen . 
+1394	You ... your parents need to take you back and find you a husband elsewhere . 	Vi får hitta en annan make till dig . 
+1395	What 's wrong with you ? 	- Vad är det för fel på dig ? 
+1396	I have something to tell you . 	- Jag har något att berätta . 
+1397	I 'm ... 	Jag är ... ... homosexuell . 
+1398	I 'm a homosexual . 	Jag är ... ... homosexuell . 
+1399	All right . 	- Jaha . 
+1400	No , no . 	- Män , Joan - inte kvinnor . 
+1401	Men , Joan ... 	- Män , Joan - inte kvinnor . 
+1402	- not women . 	- Män , Joan - inte kvinnor . 
+1403	- So what ? 	Än sedan ? 
+1404	- Well , I just told you . 	Än sedan , då ? 
+1405	- So what ? 	Än sedan , då ? 
+1406	I had my suspicions ; I always did . 	Det har jag misstänkt hela tiden . 
+1407	But we 're not like other people . 	Det har jag misstänkt hela tiden . 
+1408	We love each other in our own way , and we can have the life together that we want . 	Men vi är ju inte som andra . Vi kan ha det liv vi vill . 
+1409	You ... you won 't be the perfect husband . 	Du är nog inte den perfekte maken . 
+1410	Well , I can promise you , I have no intention of being the perfect wife . 	Men jag tänker inte heller bli den perfekta hustrun . 
+1411	I' ll not be ... fixing your lamb all day while you come home from the office . 	Jag tänker inte stå med maten klar när du kommer hem från jobbet . 
+1412	I' ll work . 	Jag ska ju arbeta . 
+1413	You 'll work . 	Och du med . 
+1414	And we 'll have each other 's company . 	Vi håller varandra sällskap . 
+1415	We 'll have each other 's minds . 	Vi tänker tillsammans . 
+1416	That sounds like a better marriage than most . 	Det blir ett bättre äktenskap än vad de flesta har . 
+1417	Because I care for you . 	Jag tycker ju om dig och du tycker om mig . 
+1418	And you care for me . 	Jag tycker ju om dig och du tycker om mig . 
+1419	And we understand one another more than ... more than anyone else ever has . 	Inga andra förstår oss så väl . 
+1420	I don 't . 	Det stämmer inte . 
+1421	- What ? 	Jag tycker inte om dig . 
+1422	- Care for you . 	Jag tycker inte om dig . 
+1423	I never did . 	Jag behövde bara din hjälp med Enigma . 
+1424	I just needed you to break Enigma . 	Jag behövde bara din hjälp med Enigma . 
+1425	I' ve done that now , so ... so you can go . 	Nu kan du åka härifrån . 
+1426	I 'm not going anywhere . 	Jag ska ingenstans . 
+1427	I' ve spent entirely too much of my life worried about what you think of me , or what my parents think of me , or the boys in Hut 8 or the girls in Hut 3 . 	Jag har tänkt alldeles för mycket på din åsikt - - och vad mina föräldrar och alla här omkring tycker . 
+1428	And do you know what ? 	Nu får det vara nog . 
+1429	I 'm done . 	Nu får det vara nog . 
+1430	This is the most important work I will ever do , and no one is going to stop me . 	Viktigare än så här blir inte ett uppdrag . 
+1431	Least of all , you . 	Du sätter inte stopp för det . 
+1432	You know what , they were right . 	De hade ju rätt . 
+1433	Peter , Hugh , John . 	Peter , Hugh och John . 
+1434	You really are a monster . 	Du är ett monster . 
+1435	The war dragged on for two more ... solitary years ... and every day we performed our blood- soaked calculus . 	Kriget bara fortsatte i ytterligare två ensamma år . Dag ut och dag in räknade vi på människoliv . 
+1436	Every day we decided who lived and who died . 	Somliga fick leva , andra fick vi offra . 
+1437	Every day we ... helped the Allies to victories , and nobody knew . 	Vi hjälpte de allierade att vinna , men ingen visste vad vi gjorde . 
+1438	Stalingrad . 	Stalingrad . 
+1439	The Ardenne . 	Ardennerna . 
+1440	The invasion of Normandy . 	Invasionen av Normandie . 
+1441	All victories that would not have been possible without the intelligence that we supplied . 	Inget av detta hade varit möjligt utan informationen från oss . 
+1442	And people ... talk about the war as this epic battle between ... civilizations ... freedom versus tyranny , democracy versus Nazism , armies of millions bleeding into the ground , fleets of ships weighing down the oceans , planes dropping bombs from the sky until they obliterated the sun itself ... the war wasn 't like that for us . 	Man talar om kriget som en storslagen drabbning mellan civilisationer . Frihet mot tyranni . Demokrati mot nazism . 
+1443	For us , it was just ... half a dozen crossword enthusiasts in a tiny village in the South of England . 	För oss handlade det om ett halvdussin korsordsentusiaster - - i en liten by i södra England . 
+1444	This is ... your victory . 	... er seger . 
+1445	Victory ... of the cause of freedom in every land . 	En seger för det ni har slagits för - och för friheten . 
+1446	This is a solemn but glorious hour . 	Detta är en allvarlig men fantastisk tidpunkt . 
+1447	I wish that Franklin D . 	Jag önskar så att Roosevelt hade fått uppleva den här dagen . 
+1448	Roosevelt had lived to see this day . 	Jag önskar så att Roosevelt hade fått uppleva den här dagen . 
+1449	Was I God ? 	Var jag Gud ? 
+1450	No . 	Nej . 
+1451	Because ... 	Det var inte Gud som vann kriget . 
+1452	God didn 't win the war . 	Det var inte Gud som vann kriget . 
+1453	We did . 	Det var det vi som gjorde . 
+1454	So , what happens now ? 	Hur blir det nu ? 
+1455	Is it ... back to university for us , I suppose ? 	- Tillbaka till universitetet för oss ? 
+1456	Yes , pretty much . 	- Så är det nog . 
+1457	But you 've one thing left to do before your service to your government in concluded . 	Men ni har en uppgift kvar att utföra här . 
+1458	- What 's that ? 	Men ni har en uppgift kvar att utföra här . 
+1459	- Burn everything . 	- Ni ska bränna allting . 
+1460	- Burn ? 	- Ni ska bränna allting . 
+1461	Why ? 	- Varför då ? 
+1462	- You were told when you started this was a top- secret program . 	Ni vet ju att detta är topphemligt . 
+1463	Did you think we were joking ? 	Det är inget skämt , det förstår ni väl ? 
+1464	- But the war is over . 	- Kriget är över . 
+1465	- This war is . 	- Kriget är över . 
+1466	But there 'll be others . 	- Det kommer fler . 
+1467	And we know how to break a code that everybody else believes is unbreakable . 	Vi vet hur man knäcker en kod alla andra tror är omöjlig att knäcka . 
+1468	Precisely . 	Exakt . 
+1469	Tear it down . 	Sätt eld på allt och städa bort resterna . 
+1470	Light it up . 	Sätt eld på allt och städa bort resterna . 
+1471	Sweep away the ashes . 	Sätt eld på allt och städa bort resterna . 
+1472	None of you have ever met before . 	Ni har aldrig träffats förut . 
+1473	None of you have ever even heard the word Enigma . 	Ni vet inget om Enigma . 
+1474	Have a safe trip home . 	Trevlig resa . 
+1475	Behave . 	Uppför er ordentligt , så slipper ni se både mig och varandra fler gånger . 
+1476	With a bit of luck , you 'll never have to see me or one another again for the rest of your lives . 	Uppför er ordentligt , så slipper ni se både mig och varandra fler gånger . 
+1477	That 's unbelievable . 	Helt otroligt . 
+1478	Now , Detective , you get to judge . 	Nu är det dags för er att sätta er till doms . 
+1479	So , tell me ... what am I ? 	Berätta för mig . Vad är jag för något ? 
+1480	Am I ... a machine ? 	Är jag maskin eller människa ? 
+1481	Am I a person ? 	Är jag maskin eller människa ? 
+1482	Am I a war hero ? 	Krigshjälte ? 
+1483	Am I a criminal ? 	Brottsling ? 
+1484	I can 't judge you . 	Jag kan inte döma er . 
+1485	Well , then ... 	Nehej . 
+1486	you 're no help to me at all . 	Då har jag ingen nytta av er . 
+1487	Come in . 	Kom in ! 
+1488	You wanted to see me , sir ? 	- Ville ni träffa mig , sir ? 
+1489	Turing . 	- Ville ni träffa mig , sir ? 
+1490	Sit down . 	- Sätt er , Turing . 
+1491	Something the matter ? 	Är det något problem ? 
+1492	You and Christopher Morcom are quite close . 	- Ni och Christopher Morcom är vänner . 
+1493	I wouldn 't say that . 	- Inte vänner precis . 
+1494	Well , your mathematics teacher says the two of you are positively inseparable . 	Enligt matematikläraren är ni oskiljaktiga . 
+1495	We 're the best students in the class . 	Vi är duktigast i klassen . 
+1496	He caught you passing notes the other day . 	- Ni skickade lappar till varandra . 
+1497	Cryptography , to pass the time . 	- Chiffer . 
+1498	The class is too simple . 	Lektionen var för lätt . 
+1499	You and your friend solve maths problems during maths class because the maths class is too dull ? 	Så ni löser egna problem eftersom de vanliga är för lätta för er ? 
+1500	He 's not my friend . 	- Han är inte min vän . 
+1501	- Well , I 'm told he 's your only friend . 	- Han lär vara er enda vän . 
+1502	- Who said that ? 	- Vem har sagt det ? 
+1503	Something 's come up concerning Morcom . 	- Det här handlar om honom . 
+1504	Why am I here ? 	Vad gör jag här ? 
+1505	Christopher is dead . 	Christopher är död . 
+1506	I don 't understand . 	- Jag förstår inte . 
+1507	His mother sent word this morning . 	- Vi fick inte veta det förrän i morse . 
+1508	The family were on holiday , you see . 	- Vi fick inte veta det förrän i morse . 
+1509	I don 't understand . 	- Jag förstår inte . 
+1510	Well , he had bovine tuberculosis , as I 'm sure he told you . 	- Han led av bovin tuberkulos . 
+1511	So , this won 't come as a shock , but ... still , all the same , 	Det har han säkert berättat , så det kommer ju inte som någon överraskning . 
+1512	I 'm sorry . 	- Jag är ledsen . 
+1513	You 're mistaken . 	- Ni har misstagit er . 
+1514	Did he not tell you ? 	Har han inte sagt något ? 
+1515	Well , he 's been sick for a long time . 	Han har ju varit sjuk länge . 
+1516	He knew this was coming soon . 	Han har ju varit sjuk länge . 
+1517	But he had a stiff upper lip about it . 	Men han bet förstås ihop . 
+1518	Good lad . 	Duktig pojke . 
+1519	- Are you all right , Turing ? 	- Klarar ni det här , Turing ? 
+1520	- Yes . 	- Klarar ni det här , Turing ? 
+1521	Of course . 	- Klarar ni det här , Turing ? 
+1522	Like I said , I didn 't know him very well . 	- Ja då , jag stod honom inte nära . 
+1523	I see . 	Jag förstår . 
+1524	Very well . 	Jag förstår . 
+1525	May I leave , Headmaster ? 	Får jag gå nu , rektorn ? 
+1526	Congratulations , sir . 	Gratulerar , sir . 
+1527	Sorry . 	Ursäkta . 
+1528	I would have come . 	Jag skulle ha kommit , och jag hade vittnat . 
+1529	I would have testified . 	Jag skulle ha kommit , och jag hade vittnat . 
+1530	And what would you have said , that I ... 	Skulle du sagt att jag inte var homosexuell ? 
+1531	I wasn 't a homosexual . 	Skulle du sagt att jag inte var homosexuell ? 
+1532	Alan ... this is serious . 	Alan , det här är på allvar . 
+1533	They could send you to jail . 	Alan , det här är på allvar . 
+1534	Damn it . 	Du kan hamna i fängelse . 
+1535	- Your hands . 	- Dina händer skakar ju . 
+1536	You 're twitching . 	- Dina händer skakar ju . 
+1537	- No , I 'm not . 	- Dina händer skakar ju . 
+1538	Alan . 	- Nej då . 
+1539	It 's the medication . 	- Det är medicinen . 
+1540	The medication ? 	- Vilken medicin ? 
+1541	Well , the judge gave me a choice ... either two years in prison or hormonal therapy . 	Domaren lät mig välja . - Fängelse eller hormonbehandling . 
+1542	Oh , my God . 	- Herregud . 
+1543	Oh , my God . 	- Herregud ! 
+1544	Yes , yes , that 's right . 	- Ja . 
+1545	Chemical castration . 	Kemisk kastrering . 
+1546	To ... to cure me of my homosexual predilections . 	Den ska ta bort min förkärlek för homosexuella . 
+1547	Well , of course I chose that . 	Valet var självklart . 
+1548	I mean , I ... couldn 't ... work in prison , and ... 	Jag hade ju inte kunnat arbeta i fängelset . 
+1549	All right . 	Jag hade ju inte kunnat arbeta i fängelset . 
+1550	Now , I 'm going to speak to your doctors . 	Jag ska tala med dina läkare och dina advokater . 
+1551	I 'm going to speak to your lawyers . 	Jag ska tala med dina läkare och dina advokater . 
+1552	I 'm fine . 	Jag ska tala med dina läkare och dina advokater . 
+1553	- Please let me help you . 	- Låt mig hjälpa dig . 
+1554	- No , I don 't need your help , thank you . 	- Tack , men det behövs inte . 
+1555	Alan , you do not have to do this alone . 	- Du behöver inte kämpa ensam . 
+1556	I 'm not alone . 	- Jag är inte ensam . 
+1557	Never have been . 	Det har jag aldrig varit . 
+1558	Christopher 's become so smart . 	Christopher har blivit så smart . 
+1559	If I don 't continue my treatment , then they 'll ... they 'll take him away from me . 	Fortsätter jag inte med behandlingen så ... ... tar de honom ifrån mig . 
+1560	You ... 	
+1561	You can 't let them do that . 	Det får de inte göra . 
+1562	You can 't . 	Det får de inte göra . 
+1563	You ... you can 't let them leave me alone . 	De får inte göra så att jag blir ensam . 
+1564	I don 't ... 	- Jag vill inte vara ensam . 
+1565	I don 't want to be alone . 	- Jag vill inte vara ensam . 
+1566	I don 't want to be alone . 	- Jag vill inte vara ensam . 
+1567	All ri ... all right , all right . 	- Så ja , så ja . 
+1568	All right . 	- Så ja , så ja . 
+1569	It 's all right . 	Kom och sätt dig . 
+1570	Come and sit down . 	Kom och sätt dig . 
+1571	It 's all right . 	Så ja . 
+1572	Come and sit down . 	Kom och sätt dig . 
+1573	It 's all right . 	Så ja . 
+1574	Oh , well , that 's a ... that 's a much nicer ring than the one I made you . 	Se där ... Den där ringen är mycket finare . 
+1575	Yes . 	Ja . 
+1576	His name 's Jock . 	Han heter Jock . 
+1577	He 's an Army man , if you can believe it . 	Tro det eller ej , men han är faktiskt militär . 
+1578	We work together . 	Vi jobbar ihop . 
+1579	Why don 't we do a crossword puzzle . 	Vi löser ett korsord . 
+1580	It 'll only take us five minutes . 	Det tar bara fem minuter . 
+1581	Or , in your case , six . 	Sex för dig . 
+1582	There . 	
+1583	Perhaps later . 	- Kanske lite senare . 
+1584	Yes , of course . 	- Kanske lite senare . 
+1585	You got what you wanted , didn 't you ? 	Visst fick du det du ville ha ? 
+1586	Work , a husband . 	Ett jobb och en make . 
+1587	Normal life . 	Ett normalt liv . 
+1588	No one normal could have done that . 	Ingen normal person hade klarat det där . 
+1589	Do you know , this morning ... 	I morse satt jag på ett tåg - 
+1590	I was on a train that went through a city that wouldn 't exist if it wasn 't for you . 	- som passerade en stad som inte hade funnits om det inte vore för dig . 
+1591	I bought a ticket from a man who would likely be dead if it wasn 't for you . 	Biljetten köpte jag av en man som hade varit död om det inte vore för dig . 
+1592	I read up on my work ... a whole field of scientific inquiry that only exists because of you . 	Jag har läst in mig på mitt arbete . Ett helt forskningsfält som enbart existerar tack vare dig . 
+1593	Now , if you wish you could have been normal ... 	Du kanske önskar att du hade varit normal . 
+1594	I can promise you I do not . 	Men det gör sannerligen inte jag . 
+1595	The world is an infinitely better place precisely because you weren 't . 	Världen är så oerhört mycket bättre i dag just för att du inte blev normal . 
+1596	Do you ... do you really think that ? 	Tror ... Tror du verkligen det ? 
+1597	I think ... that sometimes it is the people who no one imagines anything of who do the things that no one can imagine . 	Jag tror att ibland är det de man aldrig tror något om - - som gör sådant ingen kunde tro var möjligt . 

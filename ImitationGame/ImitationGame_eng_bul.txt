@@ -1,0 +1,1597 @@
+1	Are you paying attention ? 	Внимавате ли ? 
+2	Good . 	Добре . 
+3	If you 're not listening carefully , you will miss things , important things . 	Защото ако не слушате внимателно , ... ... ще пропуснете нещо , ... ... нещо важно . 
+4	I will not pause . 	Няма да правя паузи . 
+5	I will not repeat myself , and you will not interrupt me . 	Няма да повтарям , а вие няма да ме прекъсвате 
+6	You think that because you are sitting where you are and I am sitting where I am that you are in control of what is about to happen . 	Мислите си , че понеже вие седите там , ... ... а аз седя тук , ... ... имате контрол върху това , което ще се случи . 
+7	You 're mistaken . 	Грешите . 
+8	I am in control . 	Аз контролирам нещата . 
+9	Because I know things that you do not know . 	Защото знам неща , които вие ... ... не знаете . 
+10	Manchester Police Department , please hold . 	Полицейски участък Манчестър , моля изчакайте . 
+11	Windows broken . 	Посетете ZAMUNDA . SE 
+12	Home 's been ransacked . 	Домът е бил обран . 
+13	Send a detective down , will you ? 	Изпратете детектив . 
+14	What I will need from you now is a commitment . 	Това , което искам от вас ... ... е ангажимент . 
+15	You will listen closely , and you will not judge me until I am finished . 	Ще слушате внимателно и няма да ме съдите докато не приключа . 
+16	If you cannot commit to this , then please leave the room . 	Ако не можете да направите това , тогава ви моля да излезете от стаята . 
+17	Come in . 	Но ако решите да останете , помнете , че вие сте избрали това . 
+18	But if you choose to stay , remember you chose to be here . 	Но ако решите да останете , помнете , че вие сте избрали това . 
+19	What happens from this moment forwards is not my responsibility . 	Това , което ще се случи от тук нататък ... ... не е моя отговорност . 
+20	It 's yours . 	Ваша е . 
+21	Pay attention . 	Внимавайте . 
+22	- What 's all this , then ? 	Какво е всичко това ? Тюринг , Алан 
+23	- Turing , Alan . 	Професор в Кингс Колидж . 
+24	Professor at King 's . 	Професор в Кингс Колидж . 
+25	- Seems there 's been a burglary . 	Изглежда е имало обир . 
+26	- Oh ? 	На какво ? 
+27	What of ? 	На какво ? 
+28	Well , that 's just it . 	Ами , точно в това е въпроса . 
+29	Nothing missing , really . 	Ами , точно в това е въпроса . 
+30	What 's he doing in Manchester ? 	Той какво прави в Манчестър ? 
+31	Something with machines . 	Нещо с машини . 
+32	The project at the NPL . 	Проект на Националната лаборатория по физика . 
+33	I checked , but he won 't say what it 's on . 	Проверих , но той не казва за какво е . 
+34	Professor Turing ? 	Професор Тюринг ? 
+35	Detective Nock , Manchester Police . 	Детектив Нок , Полиция Манчестър . 
+36	Sergeant Staehl here tells me you had a burglary last night . 	Сержантът ми каза , че е имало обир тук снощи . 
+37	Professor Turing ? 	Професор Тюринг ? 
+38	Take a step back , and don 't breath heavily . 	Отстъпете назад , ... ... и не дишайте дълбоко . 
+39	- Breathe ? 	- Да дишаме ? 
+40	- Undiluted cyanide . 	- Неразреден цианид . 
+41	It wouldn 't take more than a thimbleful to kill you . 	Само един напръсник е достатъчен , за да ви убие . 
+42	- Disappointing . 	Разочароващо . 
+43	- Pardon ? 	Моля ? 
+44	I had hoped for a bit more . 	Очаквах нещо повече . 
+45	Sergeant Staehl , is it just me , or do you get the sense that we 're being insulted ? 	Сержант , само на мен ли ми се струва така или ни обиждат ? 
+46	Last night , you had a break- in . 	Снощи е имало влизане с взлом . 
+47	Your neighbor , Mr . 	Вашият съсед , г- н Спрингборн , се обади да докладва за шума . 
+48	Springborn , called to report the noise . 	Вашият съсед , г- н Спрингборн , се обади да докладва за шума . 
+49	He said there was quite a ruckus . 	Каза , че е имало голяма врява . 
+50	Only you say nothing was taken . 	Обаче вие казвате , че не липсва нищо . Странно . 
+51	It 's odd . 	
+52	So , how about you tell us what happened , and we 'll find the chap who did this . 	Така , че защо не ни кажете какво стана , а ние ще се опитаме да хванем извършителя . 
+53	Gentlemen , I don 't believe that you could find the chap that did this if he walked up to you and spat in your face . 	Господа , аз не вярвам , че вие можете да намерите човекът , извършил това , дори и ако дойде и ви се изплюе в лицето . 
+54	What I could us right now is not a bobby , but a really good cleaning lady . 	Ъъъ , това от което се нуждая не е полицай , а много добра чистачка . 
+55	So , unless one of you has an apron in your car , 	Така че , освен ако някой от вас няма престилка в колата предлагам да изпратите доклада си и да ме оставите на мира . 
+56	I suggest you file your reports and leave me alone . 	Така че , освен ако някой от вас няма престилка в колата предлагам да изпратите доклада си и да ме оставите на мира . 
+57	As you say , Professor Turing . 	Както желаете , професор Тюринг . 
+58	Best of luck with your cyanide . 	Успех с цианида ви . 
+59	I' ll give you a quid if you can name me a more insufferable sod . 	Ще ти дам тютюн , ако ми намериш по- непоносим мръсник от този . изглеждаше малко насила , не мислиш ли ? 
+60	- Seemed a bit forced , though , didn 't it ? 	Ще ти дам тютюн , ако ми намериш по- непоносим мръсник от този . изглеждаше малко насила , не мислиш ли ? 
+61	- Don 't know what you mean . 	Не знам какво имаш предвид . 
+62	Well , if you didn 't want a pair of bobbies digging around in your personal affairs , that 'd have been a stellar way to make sure they don 't . 	Ами , ако не искаш полицаи да се врат в личните ти занимания , това е много добър начин да се отървеш от тях . 
+63	Tell me you don 't think this is suspicious . 	Кажи ми , че не мислиш , че това е подозрително . 
+64	I don 't think this is suspicious . 	Не мисля , че е подозрително . 
+65	A mysterious professor who won 't admit he 's had something stolen from his house ? 	Мистериозен професор , който отрича , че има нещо откраднато от къщата му . 
+66	I think Alan Turing 's hiding something . 	Мисля , че Алан Тюринг крие нещо . 
+67	War declared ! 	Обявена е война ! 
+68	800, 000 children evacuated ! 	800, 000 деца са евакуирани ! 
+69	German bombs on their way ! 	Германските бомби идват ! 
+70	Get your papers here ! 	Вземете вестник от тук ! 
+71	Fresh off the press ! 	Топли от машината ! 
+72	War declared ! 	Обявена е война ! 
+73	800, 000 children evacuated ! 	800, 000 деца са евакуриани ! 
+74	German bombs expected soon ! 	Очакват се германски бомби ! 
+75	This morning , the British Ambassador in Berlin handed the German government a final note stating that unless we heard from them , by 11 : 00 , a state of war would exist between us . 	Тази сутрин , английският посланик в Берлин връчи на правителството последно предупреждение , че ако до 11 часа нямаме отговор , ще се намираме в състояние на война . 
+76	I have to tell you now that no such undertaking has been received . 	Трябва да ви кажа , че не сме получили отговор . 
+77	And that , consequently , this country is at war with Germany . 	И в следствие на това държавата ни е във война с Германия . 
+78	For the second time in the lives of most of us , we are ... at war . 	Да втори път в живота на повечето от нас ... ... сме във война ... 
+79	To find a peaceful way out ... 	
+80	Papers , please . 	Документите , моля . 
+81	What are you doing here ? 	Какво правите тук ? 
+82	- Oh , the lady told me to wait . 	О , жената ми каза да почакам . 
+83	- In my office ? 	В офиса ми ? 
+84	She tell you to help yourself to tea while you were here ? 	Каза ли ви също да си сипете чай ? 
+85	No , she didn 't . 	Не , не ми е . 
+86	She obviously didn 't tell you what a joke was , then , either , I gather . 	Очевидно не ви е и казала какво е шега . 
+87	Was she supposed to ? 	Трябваше ли ? 
+88	- Who are you ? 	Кой сте вие ? 
+89	- Alan Turing . 	Алън Тюринг . 
+90	Turing . 	О , Тюринг . 
+91	The mathematician . 	Математикът . 
+92	- Correct . 	Правилно . 
+93	- However could I have guessed ? 	Трябваше да се досетя . 
+94	Well , you didn 't . 	Но не се . 
+95	You just read it on that piece of paper . 	Прочетохте го от този лист хартия . 
+96	King 's College , Cambridge . 	Кингс Колидж , Кембридж . 
+97	Now , it says here you were a bit of a prodigy in the maths department . 	Тук пише , че сте нещо като феномен в областта на математиката . 
+98	I 'm not sure I can evaluate that , Mr .... 	Не съм сигурен , че мога да твърдя това , г- н ... 
+99	- How old are you , Mr . 	- На колко години сте , г- н Тюринг ? 
+100	Turing ? 	- На колко години сте , г- н Тюринг ? 
+101	- 27 . 	- 27 . 
+102	And how old were you when you became a Fellow at Cambridge ? 	А на колко бяхте , когато станахте възпитаник на Кембридж ? 
+103	- 24 . 	24 . 
+104	- And how old were you ... when you published this paper that has a title I can barely understand ? 	А кога публикувахте този труд със заглавие , което едва разбирам ? 
+105	23 . 	23 . 
+106	And you don 't think that qualifies you as a certified prodigy ? 	И не мислите , че това ви прави феномен ? 
+107	Well , Newton discovered binomial theorem aged 22 . 	Ами , Нютон е открил биномовата теорема когато е бил на 22 . 
+108	Einstein wrote four papers that changed the world by the age of 26 . 	Айнщайн е написал четири труда , променили света преди да е навършил 26 . 
+109	As far as I can tell , I' ve ... 	Доколкото мога да кажа , аз съм едва на същото ниво . 
+110	I' ve barely made par . 	Доколкото мога да кажа , аз съм едва на същото ниво . 
+111	- My God , you 're serious . 	Господи , вие сте сериозен . 
+112	- Would you prefer I made a joke ? 	Предпочитате да кажа някоя шега ли ? 
+113	Oh , I don 't think you know what those are . 	О , не мисля , че знаете какво е това . 
+114	Hardly seems fair that that 's a requirement for employment here , Mr ... 	Не мисля , че това е нужно , за да постъпя тук , г- н ... 
+115	Commander Denniston , Royal Navy . 	Командир Денистън , Британски военноморски флот . 
+116	All right , Mr . 	Добре , г- н Тюринг , ще захапя куката . 
+117	Turing , I' ll bite . 	Добре , г- н Тюринг , ще захапя куката . 
+118	Why do you wish to work for His Majesty 's government ? 	Защо искате да работите за правителството на Негово Величество . 
+119	Oh , I don 't , really . 	О , всъщност не искам . 
+120	Are you a bleeding pacifist ? 	Да не сте проклет пацифист ? 
+121	I 'm ... agnostic about violence . 	Аз съм агностик относно насилието . 
+122	Well , you do realize that 600 miles away from London there 's this nasty little chap called Hitler who wants to engulf Europe in tyranny ? 	Нали осъзнавате , че на около 900 километра от Лондон има един гаден мръсник наречен Хитлер , който иска да обгърне Европа в тирания ? 
+123	Politics isn 't really my area of expertise . 	Политиката не е една от силните ми страни . 
+124	Really ? 	Наистина ? 
+125	Well , I believe you 've just set the record for the shortest job interview in British military history . 	Мисля , че току що поставихте рекорд за най- краткото интервю във военната история на Британия . О ... 
+126	Mother says I can be off- putting sometimes on account of being one of the best mathematicians in the world . 	Майка ми каза , че понякога мога да бъда отблъскващ , имайки предвид , че съм един от най- добрите математици в света . 
+127	- In the world ? 	В света ? 
+128	- Oh , yes . 	О , да . 
+129	Do you know how many people I' ve rejected for this program ? 	Знаете ли колко хора съм отхвърлил за тази програма ? Не . 
+130	No . 	Е , това е защото е строго секретна програма . 
+131	Well , that 's right , because we 're a top- secret program . 	Е , това е защото е строго секретна програма . 
+132	But I' ll tell you , just because we 're friends , that only last week , I rejected one of our great nation 's top linguists . 	Но ще ви кажа , просто защото сме приятели , че миналата седмица отхвърлих един от най- добрите лингвисти в държавата . 
+133	Knows German better than Bertolt Brecht . 	Знае немски по- добре от Бертолт Брехт . 
+134	- I don 't speak German . 	Аз не говоря немски . 
+135	- What ? 	Какво ? 
+136	I don 't ... speak German . 	Аз не говоря немски ! 
+137	Well , how the hell were you supposed to decrypt German communications if you don 't ... 	Е , как за бога искате да дешифрирате германска комуникация , ако не говорите немски език ? 
+138	I don 't know , speak German ? 	Е , как за бога искате да дешифрирате германска комуникация , ако не говорите немски език ? 
+139	Well , I 'm really quite excellent at crossword puzzles . 	Ами , много съм добър в решаването на кръстословици . 
+140	Margaret ! 	- Маргарет ! 
+141	The German codes are a puzzle . 	- Немските кодове са като ребус . 
+142	A game , just like any other game . 	Игра , също като всяка друга . - Маргарет , къде си ? 
+143	- Margaret , where are you ? 	- Аз съм много добър в игрите . 
+144	- I 'm really very good at games . 	Ребусите . 
+145	Puzzles . 	Ребусите . 
+146	And this is the most difficult puzzle in the world . 	А това е най- трудният ребус в света . 
+147	Margaret ! 	Маргарет ! 
+148	For the love of God . 	За бога ! 
+149	This is a joke , obviously . 	Това очевидно е някаква шега ! 
+150	I 'm afraid I don 't know what those are , Commander Denniston . 	Опасявам се , че не знам какво е това , Командир Денистън . 
+151	Have a pleasant trip back to Cambridge , Professor . 	Приятно пътуване обратно до Кембридж , професоре . 
+152	Enigma . 	Енигма . 
+153	You called for me ? 	Викахте ме ? 
+154	That 's what you 're doing here . 	Това правите тук . 
+155	The top- secret program at Bletchley . 	Строго секретната програма в Блечли . 
+156	You 're trying to break the German Enigma machine . 	Опитвате се да разбиете немската машина Енигма . 
+157	What makes you think that ? 	Какво ви кара да мислите това ? 
+158	It 's the greatest encryption device in history , and the Germans use it for all major communications . 	Това е най- великото криптиращо устройство в историята , и германците го използват за всички техни комуникации . 
+159	If the Allies broke Enigma , well ... this would turn into a very short war , indeed . 	Ако Съюзниците разбият Енигма , е , това ще се превърне в много кратка война . 
+160	Of course that 's what you 're working on . 	Разбира се , че работите върху това . 
+161	But you also haven 't got anywhere with it . 	Но също така не сте стигнали доникъде . 
+162	If you had , you wouldn 't be hiring cryptographers out of university . 	Ако бяхте , нямаше да наемате криптографи от университета . 
+163	You need me a lot more than I need you . 	Имате нужда от мен повече , отколкото аз от вас . 
+164	I like solving problems , Commander . 	Обичам да решавам загадки , командире . 
+165	And Enigma is the most difficult problem in the world . 	А Енигма е най- голямата загадка в света . 
+166	No , Enigma isn 't difficult ; it 's impossible . 	Не , Енигма не е трудна , а невъзможна . 
+167	The Americans , the Russians , the French , the Germans , everyone thinks Enigma is unbreakable . 	Американците , руснаците , французите ... ... дори германците , всички смятат Енигма за неразбиваема . 
+168	Good . 	Чудесно . 
+169	Let me try , and we 'll know for sure , won 't we ? 	Позволете ми да опитам и ще знаем със сигурност , нали ? 
+170	Welcome to Enigma . 	Добре дошли при Енигма . 
+171	The details of every surprise attack , every secret convoy and every U- boat in the bloody Atlantic go into that thing . 	Детайлите за всяка изненадваща атака , всеки секретен конвой , и всяка подводница в проклетия Атлантик , ... всичко влиза тук . 
+172	And out comes gibberish . 	А излиза като безсмилици . 
+173	It 's beautiful . 	Красива е . 
+174	It 's the crooked hand of death itself . 	Това е ръката на смъртта в буквалния смисъл . 
+175	Our Wrens intercept thousands of radio messages a day , and to the lovely young ladies of the Women 's Royal Navy , they 're nonsense . 	Нашите новобранци прихващат хиляди съобщения на ден . За прекрасните млади дами от военноморските сили , всичко това са просто безсмилици . 
+176	It 's only when you feed them back into Enigma that they make any sense . 	Само когато ги прекараш отново през Енигма , ... тогава имат смисъл . 
+177	But we have an Enigma machine . 	Но ние имаме машината . 
+178	Yes , Polish Intelligence smuggled it out of Berlin . 	Да , полското разузнаване я измъкна от Берлин . 
+179	So , what 's the problem ? 	Тогава какъв е проблемът ? 
+180	Just put the intercepted messages 	Просто прекарайте съобщенията през Енигма и ще ... 
+181	- back into the Enigma and you 'll ... 	Просто прекарайте съобщенията през Енигма и ще ... 
+182	- Look , it 's not that simple , is it ? 	Не е толкова просто , нали ? 
+183	Just having an Enigma machine doesn 't help you to decode the messages . 	Просто да имаме машината ... ... това не помага за разшифроване на съобщенията . 
+184	Very good , Mr . 	Много добре , г- н Тюринг . 
+185	Turing . 	Много добре , г- н Тюринг . 
+186	To decode a message , you need to know the machine 's settings . 	За да разшифроваш съобщение трябва да знаеш настройките . 
+187	Now , the Germans switch settings every day promptly at midnight . 	Германците сменят настройките всеки ден точно в полунощ . 
+188	We usually intercept our first message around 6 : 00 a . m . , which gives you exactly 18 hours every day to crack the code before it changes , and you start again . 	Обикновено прихващаме първото съобщение в 6 сутринта , което ви дава 18 часа всеки ден , за да разбиете кода . ... преди да се промени и да трябва да започнете наново . 
+189	Five rotors . 	Пет ротора . 
+190	Ten plugboard cables . 	Десет кабела . Това са ... 
+191	That 's ... 	- Един милион . 
+192	- One million ... 	- Хиляда милиона . 
+193	- A thousand million ... 	Не , това е ... смятам го . 
+194	No , no , it 's , I' ve got it . 	Не , това е ... смятам го . 
+195	- It 's million , million . 	- Билион . 
+196	- It 's in the millions , obviously . 	- Очевидно е някъде из милионите . 
+197	It 's over 150 million million million possible settings . 	Повече от 150 трилиона възможни настройки . 
+198	Very good . 	Много добре . 
+199	159 . 	159 . 
+200	If you want to be exact about it . 	159 . 
+201	1- 5- 9 with 18 zeroes behind it . 	Ако искате да сте точни . 1- 5- 9 с 18 нули отзад . 
+202	Possibilities . 	Възможности . 
+203	Every single day . 	Всеки ден . 
+204	Gentlemen , meet Hugh Alexander . 	Господа , запознайте се с Хю Алекзандър . 
+205	I personally selected him to run this unit . 	Лично го избрах за водач на екипа . 
+206	Didn 't you ... 	Лично го избрах за водач на екипа . 
+207	Mr . 	Вие не ... 
+208	Alexander won Britain 's national chess championship . 	Г - н Алекзандър спечели националното първенство по шахмат . 
+209	Twice . 	Два пъти . 
+210	You 're not the only one who 's good at games around here , Turing . 	Не сте единственият , който е добър в игрите , Тюринг . 
+211	Are we to work together , then ? 	Тогава ще работим заедно ? 
+212	I prefer to have my own office . 	Предпочитам да имам собствен офис . 
+213	You 're a team , and you will work as one . 	Вие сте екип и ще работите като такъв . 
+214	I don 't have time to explain myself as I go along , and ... 	Нямам време да се обяснявам докато работя . 
+215	I 'm afraid these men would only slow me down . 	И предполагам , че тези мъже само ще ме забавят . 
+216	If you can 't play together , then I 'm afraid we can 't let you play at all . 	Ако не можете да играете заедно , боя се , че няма да играете изобщо . 
+217	This is Stewart Menzies , MI6 . 	Това е Стюарт Мингис , МИ6 . 
+218	There are only five divisions of military intelligence . 	Във военното разузнаване има само пет девизии , няма МИ6 . 
+219	There is no MI6 . 	Във военното разузнаване има само пет девизии , няма МИ6 . 
+220	Exactly . 	Именно . 
+221	That 's the spirit . 	Така ви искам . 
+222	Mr . 	Така ви искам . 
+223	Turing , do you know how many British servicemen have died because of Enigma ? 	Г - н Тюринг , знаете ли колко наши военни са загинали заради Енигма ? 
+224	- No , I don 't . 	Не , не знам . 
+225	- Three ... while we 've been having this conversation . 	Три ... ... докато водим този разговор . 
+226	Oh , look , there 's another . 	О , ето още един . 
+227	I rather hope he didn 't have a family . 	Надявам се да не е имал семейство . 
+228	This war Commander Denniston 's been going on about , we 're not winning it . 	Тази война , за която говори командир Денистън ... ... в нея не сме печелещите . 
+229	Break the code , at least we have a chance . 	Разбийте кода , и може би ще имаме шанс . 
+230	Shall we leave the children alone with their new toy ? 	Да оставим децата с новата им играчка . 
+231	All right , gentlemen ... 	Добре , господа ... ... нека поиграем . 
+232	Let 's play . 	Добре , господа ... ... нека поиграем . 
+233	The game was quite a simple one . 	Играта беше много проста . 
+234	Every single German message , every surprise attack , every bombing run , every imminent U- boat assault ... 	Всяко немско съобщение , всяка изненадваща атака ... ... всяка бомбандировка , всяко нападение с подводница ... 
+235	They were all floating through the air . 	Всички те летяха по въздуха . 
+236	Radio signals that ... well , any schoolboy with an AM kit could intercept . 	Имам предвид радиосигналите ... Всяко дете с радиопредавател можеше да ги прихване . 
+237	The trick was that they were encrypted . 	Въпросът е , че бяха криптирани . 
+238	There were 159 million million million possible Enigma settings . 	Имаше 159 трилиона възможни настройки . 
+239	All we had to do was try each one . 	Трябваше да пробваме всяка от тях . 
+240	But if we had ten men checking one setting a minute for 24 hours every day and seven days every week , how many days do you think it would take to ... to check each of the settings ? 	Но ако имахме 10 мъже , всеки проверяващ по една на минута ... ... за 24 часа на ден , седем дни в седмицата , ... ... колко дни мислите , че ще трябват , ... ... да проверим всяка от настройките ? 
+241	Well , it 's not days , it 's years . 	Не са дни , а години . 
+242	- Good morning . 	20 милиона години . 
+243	- It 's 20 million years . 	20 милиона години . 
+244	- To stop a coming attack ... 	За да спрем идваща атака , трябва да проверим настройки , отнемащи 20 милиона години ... ... за 20 минути . 
+245	- Thank you . ... we would have to check 20 million years´ worth of settings in 20 minutes . 	За да спрем идваща атака , трябва да проверим настройки , отнемащи 20 милиона години ... ... за 20 минути . 
+246	I 'm famished . 	Прегладнях . 
+247	Lunch ? 	Обяд ? 
+248	Good Lord . 	Господи . 
+249	What is it about women with little hats ? 	Какво намирам в жените с малки шапчици . 
+250	The boys , we 're going to get some lunch . 	С момчетата отиваме да хапнем нещо . 
+251	- Alan ? 	Алън ? 
+252	- Yes ? 	Да ? 
+253	I said we 're going to get some lunch . 	Казах , че отиваме на обяд . 
+254	- Alan ? 	Алън ? 
+255	- Yes ? 	Да ? 
+256	- Can you hear me ? 	- Чуваш ли ме ? - Да . 
+257	- Yes . 	Казах , че отиваме на ... 
+258	I said we 're off to get some lu ... 	Казах , че отиваме на ... 
+259	This is starting to get a little bit repetitive . 	Това започва да става малко повтарящо се ... 
+260	What is ? 	Кое ? 
+261	I had asked if you wanted to come to lunch with us . 	Попитах те дали искаш да обядваш с нас . 
+262	No , you didn 't . 	Не , не си . 
+263	You said you were going to get some lunch . 	Каза , че отивате на обяд . 
+264	- Have I offended you in some way ? 	Обидил ли съм те по някакъв начин ? 
+265	- Why would you think that ? 	Защо мислиш така ? 
+266	- Would you like to come to lunch with us ? 	Искаш ли да дойдеш на обяд с нас ? 
+267	- What time 's lunchtime ? 	Кога е времето за обяд ? 
+268	Christ , Alan , it 's a bleeding sandwich . 	За бога , Алън , това е просто сандвич . 
+269	- What is ? 	- Кое ? 
+270	- Lunch . 	- Обядът . 
+271	- Oh , I don 't like sandwiches . 	О , аз не харесвам сандвичи . 
+272	- Never mind . 	Няма значение . 
+273	You know , to pull off this irascible genius routine , one actually has to be a genius , Alan . 	Знаеш ли , за да се правиш на сприхав гений , трябва да си гений , Алън . 
+274	And yet we 're the ones making progress here , aren 't we ? 	А ние сме тези , които правим прогрес , нали ? 
+275	Oh , you are ? 	О , правите ли ? 
+276	Yes , we are . 	Да , правим . 
+277	We have decrypted a number of German messages by analyzing the frequency of letter distribution . 	Разшифровахме доста германски съобщения като като анализирахме честотата на буквеното разпределение . 
+278	Oh , even a broken clock is right twice a day . 	О , дори спрелия часовник е верен два пъти на ден . 
+279	That 's not progress ; that 's just blind luck . 	Това не е прогрес , това е просто късмет . 
+280	I 'm designing a machine that will allow us to break every message every day instantly . 	Аз проектирам машина , която ще ни даде възможност да разбием всяко съобщение всеки ден , веднага . 
+281	Who 's hungry ? 	Кой е гладен ? 
+282	Let 's go . 	Да вървим . 
+283	I 'm hungry . 	Аз съм гладен . 
+284	What ? 	Какво ? 
+285	Peter asked who was hungry . 	Питър попита кой е гладен . 
+286	Can I have some soup , please ? 	Ще ми донесе ли супа , моля ? 
+287	What do you mean , " classified " ? 	Как така " поверително " ? 
+288	No , I 'm aware of the literal meaning of the word classified . 	Не , знам какво означава думата " поверително " . 
+289	What I 'm asking is why would a maths professor have his military records classified ? 	Това , което е питам , е защо досието на един професор е поверително ? 
+290	Yeah , well , I will come down . 	Да , разбира се , че ще дойда . 
+291	Sorry , can I get you to hold for a minute , please ? 	
+292	Pardon me , I 'd like to see some documents , if I may . 	Извинете , бих искал да видя някои документи . 
+293	Service records of a Mr . 	Досието на Тюринг . 
+294	Turing . 	Досието на Тюринг . 
+295	Alan . 	Алън . 
+296	Foreign Office sent me . 	Офисът от Външно ме изпрати . 
+297	This is unacceptable . 	Това е надопустимо . 
+298	If you wish to discuss the complaint , I suggest you make a proper appointment . 	Ако искате да обсъдим оплакването , предлагам да си уредите час . 
+299	Alexan ... 	Алекзан ... 
+300	Complaint ? 	Оплакване ? 
+301	No , no , Hugh Alexander has denied my requisition for parts and equipment that I need to build the machine I' ve designed . 	Не , не , Хю Алекзандър , той отказа искането ми за части и оборудване , от които се нуждая за машината , която създадох . 
+302	Your fellow code- breakers are refusing to work with you , and they filed a formal complaint . 	Вашите колеги отказват да работят с вас и са написали оплакване . 
+303	It 's is inspired by an old Polish code machine . 	Вдъхновена е от стара полска машина . 
+304	- Only this one is infinitely more advanced . 	Само че тази е много по- добра . 
+305	- If you don 't respond to the complaint , 	Ако не отговорите на оплакването , ще се наложи да го отнеса до централния офис . 
+306	I shall have to take it up with the Home Office . 	Ако не отговорите на оплакването , ще се наложи да го отнеса до централния офис . 
+307	- Put those files by my desk . 	Оставете тези документи на бюрото ми . 
+308	- Fine , my response is they 're all idiots . 	Добре , отговорът ми е , че те са идиоти . 
+309	Fire them and use the savings to fund my machine . 	Уволнете ги и използвайте парите да финансирате машината ми . 
+310	I only need about 100, 000 pounds . 	Имам нужда само от 100, 000 лири . 
+311	100, 000 ... 	100, 000 ... 
+312	Why are you building a machine ? 	Защо правите машина ? 
+313	It 's highly technical . 	Въпроса е технически . 
+314	You wouldn 't understand . 	Не мисля , че ще разберете . 
+315	I suggest you make the effort to try . 	Предлагам да опитате . 
+316	Enigma is ... an extremely well- designed machine . 	Енигма е ... ... много добре конструирана машина . 
+317	Our problem is that we 're only using men to try to beat it . 	Проблема е , че използваме хора , опитвайки се да я разбием . 
+318	No , what if only a machine can defeat another machine ? 	Но , какво става ако само машина може да победи друга машина . 
+319	Well , that 's not very technical . 	Е , това не е много техническо . 
+320	Hugh Alexander is in charge of your unit . 	Хю Алекзандър е ръководител , а той каза не , това е всичко . 
+321	He said no , and that is that . 	Хю Алекзандър е ръководител , а той каза не , това е всичко . 
+322	I simply don 't have time for this . 	Просто нямам време за това . 
+323	Have you ever won a war , Turing ? 	Печелили ли сте война , Тюринг ? 
+324	I have . 	Аз съм . 
+325	Do you know how it 's done ? 	Знаете ли как се прави ? 
+326	Order , discipline , chain of command . 	Ред , дисциплина , поредица заповеди . 
+327	You 're not at university any longer . 	Вече не сте в университета . 
+328	You are a very small cog in a very large system . 	Вие сте една малка брънка от една голяма система . 
+329	And you will do as your commanding officer instructs . 	И ще правите това , което вашия ръководител каже . 
+330	Yes . 	
+331	Who is your commanding officer ? 	А кой е вашият ръководител ? 
+332	Winston Churchill , Number 10 Downing Street , London , SW1 . 	Уинстън Чърчил , Даунинг стрийт 10 , Лондон . 
+333	You have a problem with my decision , you can take it up with him . 	Ако имате проблем с моето решение , може да го отнесете до него . 
+334	Mr . 	Г - н Мингис . 
+335	Menzies ! 	Г - н Мингис . 
+336	Mr . 	Г - н Мингис ! 
+337	Menzies ! 	Г - н Мингис ! 
+338	Are you going to London ? 	В Лондон ли отивате ? 
+339	Possibly . 	Вероятно . 
+340	Would you deliver a letter for me ? 	Ще занесете ли едно писмо от мое име ? 
+341	Look , I 'm sorry , but are you joking ? 	Съжалявам , но сигурно се шегувате ? 
+342	Churchill 's put Alan in charge ? 	Чърчил е сложил Алън отговорен ? 
+343	- This is a terrible idea . 	- Това е ужасна идея . 
+344	- No , no , no , no , no . 	- Не , не , не . 
+345	So , I can give these men orders now ? 	Значи мога да им давам вече заповеди ? 
+346	I hate to say it , but yes . 	Не искам да го казвам , но да . 
+347	Excellent . 	Чудесно . 
+348	Keith and Charles , you 're both fired . 	Кийт и Чарлз , вие сте уволнени . 
+349	- Excuse me ? 	- Моля ? 
+350	- What ? 	- Какво ? 
+351	You 're mediocre linguists , and positively poor code- breakers . 	Вие сте посредствени лингвисти и със сигурност лоши криптографи . 
+352	Alan , you can 't just fire Keith and Charles . 	Алън , не може просто да уволниш Кийт и Чарлз . 
+353	- Well , he just said I could . 	Е , той току що каза , че мога . 
+354	- No , I did no such thing . 	Не , не съм казвал подобно нещо . 
+355	But Churchill did . 	Но Чърчил е казал . 
+356	Go to hell . 	Майната ти . 
+357	Well , this is inhuman . 	Е , това е нечовешко . Дори и за теб . 
+358	Even for you . 	
+359	Popular at school , were you ? 	Не сте били популярен в училище , нали ? 
+360	The problem began , of course , with the carrots . 	Проблемът започна с морковите . 
+361	Carrots are orange . 	Морковите са оранжеви . 
+362	And peas are green . 	А грахът е зелен . 
+363	They mustn 't touch . 	И не трябва да се докосват . 
+364	I got it . 	Аз ще се справя . 
+365	Do you know why people like violence ? 	Знаете ли защо хората харесват насилието ? 
+366	It is because it feels ... good . 	Защото им носи приятно усещане . 
+367	Humans find violence deeply satisfying . 	Хората считат насилието за дълбоко задоволяващо . 
+368	But remove the satisfaction , and ... the act becomes ... hollow . 	Но ако махнеш удоволствието ... ... и действията стават празни . 
+369	Turing ? 	Тюринг ? 
+370	Come on . 	Хайде ! 
+371	Don 't be such a kike about it . 	Не бъди такъв . 
+372	Leave him to bloody rot . 	Оставете го да гние . 
+373	I didn 't learn this on my own , of course . 	Разбира се , не научих това сам . 
+374	I had help . 	Имах помощ . 
+375	Christopher helped . 	Кристофър ми помогна . 
+376	Alan , are you all right ? 	Алън , добре ли си ? 
+377	It 's not my fault . 	Не бях виновен . 
+378	The carrots got in with the peas and ... 	Морковите се смесиха с грахта и ... 
+379	- I 'm sorry . 	Съжалявам . 
+380	I won 't let them do it again . 	Няма да им позволя да го направят пак . 
+381	- They 're getting worse . 	Става по- зле . 
+382	They only beat me up because I 'm smarter than they are . 	Бият ме , защото съм по- умен от тях . 
+383	No , they beat you up because you 're different . 	Не , бият те , защото си различен . 
+384	- Mother says I 'm just an odd duck . 	Майка ми казва , че съм странна птица . 
+385	- And she 's right . 	И е права . 
+386	But you know , Alan , sometimes it 's the very people who no one imagines anything of who do the things no one can imagine . 	Но знаеш ли , Алън ... понякога именно хората , които никой не си представя за нещо правят неща , които никой не си е представял . 
+387	So , what do we do now ? 	Е , какво знаем ? 
+388	- We 're short on staff . 	Не ни достига персонал . 
+389	- Well , we get more staff then . 	Ами ще наемем още . 
+390	And how do you propose to do that ? 	И как предлагаш да направим това ? 
+391	- Alan Turing to see Stewart Menzies . 	Алън Тюринг , при Стюарт Мингис . 
+392	- Very good , sir . 	Е , кои са те ? 
+393	- So , who are they ? 	Е , кои са те ? 
+394	- Oh , all sorts , really . 	О , всъщност са всякакви . 
+395	Teacher , an engineer , a handful of students . 	Учител , инжинер , няколко студенти . 
+396	And you think they 're qualified for Bletchley ' cause they 're good at crossword puzzles ? 	И са подходящи за Блечли , защото ги бива в кръстословиците ? 
+397	Well , they say they 're good , and now we shall find out , won 't we ? 	Казват , че са добри , а сега ще разберем дали е така . 
+398	In order to aid your efforts , there is , to the right of you , a green scratch card book . 	С цел да ви помогнем , вдясно от вас има зелен тефтер . 
+399	You are to make notes in that . 	Там може да си водите бележки . 
+400	Gentlemen , you have six minutes in which to complete the puzzle , at which point , I will ... 	Господа , имате шест минути , в които да решите задачата , след което аз ще ... 
+401	Pardon , ma 'am , this room 's restricted . 	Извинете , госпожице , тази стая е забранена . 
+402	Apologies for my tardiness . 	О , извинете за закъснението . 
+403	The bus caught a flat tire . 	Автобусът спука гума . 
+404	May I continue , please ? 	Може ли да продължа ? 
+405	Thank you . 	Благодаря ! 
+406	- You 're not allowed in here , ma 'am . 	Не е позволено да влизате , госпожице . 
+407	- Oh , but I 'm only a few minutes late . 	О , но аз закъснях само няколко минути . 
+408	The secretaries are to head upstairs . 	Секретарките са на горния етаж . 
+409	This room 's for the candidates . 	Тази стая е за кандидатите . 
+410	May I get on with this now , please ? 	Може ли да продължаваме , моля ! 
+411	- I am a candidate . 	Аз съм кандидат . 
+412	- For what position ? 	За коя позиция ? 
+413	- The letter didn 't say precisely . 	В писмото не беше упоменато . 
+414	- Yeah , so secretaries are to head upstairs . 	Добре , секретарките са на горния етаж . 
+415	- It did say that it was top secret . 	Пишеше , че е секретно . 
+416	- What is going on ? 	Какво става ? 
+417	I solved a crossword puzzle in the newspaper , and I got this letter saying that I was a candidate for some sort of mysterious job . 	Реших кръстословица във вестника , след което получих писмо , в което пишеше , че съм кандидат за някаква мистериозна работа . 
+418	My name 's Joan Clarke . 	Казвам се Джоун Кларк . 
+419	Miss , did you really solve this puzzle yourself ? 	Госпожице , наистина ли решихте кръстословицата сама ? 
+420	What makes you think I couldn 't solve the puzzle myself ? 	Какво ви кара да мислите , че не мога да го направя ? 
+421	- I 'm really very good at ... 	Наистина съм много добра в ... 
+422	- Ma 'am , I' ll have to ask you to ... 	Госпожице , трябва да ви помоля ... 
+423	Miss Clarke , I find tardiness under any circumstance , unacceptable . 	Госпожице Кларк , намирам закъснението за недопустимо при всякакви обстоятелства . 
+424	Take a seat so that we may continue . 	Седнете , за да можем да продължим . 
+425	Thank you . 	Благодаря . 
+426	Now , as I was saying , you have six minutes to complete the task in front of you . 	Сега , както казах , имате шест минути да решите задачата пред вас . 
+427	Gentlemen and lady , begin . 	Господа и госпожице , започвайте . 
+428	Six minutes . 	Шест минути . 
+429	- Is that even possible ? 	Това дори възможно ли е ? 
+430	- No , it takes me eight . 	Не , на мен ми отнема осем . 
+431	This isn 't about crossword puzzles . 	Въпроса не е в задачата . 
+432	It 's about how one approaches solving an impossible problem . 	Става дума за това как човек подхожда към неразрешим проблем . 
+433	Do you tackle the whole thing at once or divide it into small ... 	Дали работиш с целия проблем или го разделяш на малки ... 
+434	- You 've finished ? 	Приключихте ли ? 
+435	- Yes . 	Да . 
+436	- Five minutes and 34 seconds . 	Пет минути и 34 секунди . 
+437	- You said to do it in under six . 	Казахте да я решим под шест . 
+438	Congratulations . 	Поздравления . 
+439	My warmest welcome to His Majesty 's service . 	Добре дошли в служенето на Негово Величество . 
+440	If you speak a word of what I 'm about to show you , you will be executed for high treason . 	Ако кажете и дума за това , което ще ви покажа , ще бъдете екзекутирани за измяна . 
+441	You will lie to your friends , your family and everyone you meet about what it is you really do . 	Ще лъжете приятелите си , семейството си , както и всички останали , относно това , което вършите тук . 
+442	And what is it that we 're really doing ? 	А какво всъщност правим ? 
+443	We 're going to break an unbreakable Nazi code and win the war . 	Ще разбием неразбиваем нацистки код и ще спечелим войната . 
+444	What 's that you 're reading ? 	Какво четеш ? 
+445	- It 's about cryptography . 	За криптографията е . 
+446	- Like secret messages ? 	Като тайни съобщения ? 
+447	Not secret . 	Не тайни . 
+448	That 's the brilliant part . 	Това е блестящата част . 
+449	Messages that anyone can see , but no one knows what they mean unless you have the key . 	Съобщения , които всеки вижда , но никой не знае какво значат . Освен ако нямаш шифъра . 
+450	How 's that different from talking ? 	Това как се различава от говоренето ? 
+451	- Talking ? 	Говорене ? 
+452	- When people talk to each other , they never say what they mean . 	Когато хората говорят , не казват какво мислят , казват нещо различно . ... и се предполага , че трябва да знаеш какво значи . 
+453	They say something else , and you 're expected to just know what they mean . 	Когато хората говорят , не казват какво мислят , казват нещо различно . ... и се предполага , че трябва да знаеш какво значи . 
+454	Only I never do . 	Но аз никога не знам . 
+455	So , how 's that different ? 	Така че , това как е различно ? 
+456	Alan , I have a funny feeling you 're going to be very good at this . 	Алън , имам чувството , че ще сме много добри в това . 
+457	Good night , Alan . 	Лека нощ , Алън . 
+458	Good night . 	Лека нощ . 
+459	Hold on , Marion , I 'm coming ! ... lesser settings and then route back through ... 	Минаваме през второстепенните настройки ... 
+460	Back to those ones ... 	Обратно към тези ... 
+461	Careful , will you ? 	Внимавайте , моля ! Това не е играчка . 
+462	It not a toy . 	Смешно . 
+463	Funny . 	Смешно . 
+464	Looks like a toy . 	Изглежка като такава . 
+465	Bloody great 100, 000- pound one . 	При това за 100, 000 лири . 
+466	Your new minion 's arrived . 	Новите ти подчинени дойдоха . Джак Гууд . 
+467	- Jack Good . 	Срещнахме ... 
+468	We met ... 	Къде е госпожица Кларк ? 
+469	- Well , where 's Miss Clarke ? 	Къде е госпожица Кларк ? 
+470	Lovely , isn 't he ? 	Приятен човек , нали ? 
+471	It 's not just a usual humdrum production mill factory . 	Това не е обичайната скучна фабрика . 
+472	I mean , well , as I was saying , it 's a very important radio factory . 	Имам предвид , както казах , това е важен радиозавод . 
+473	It 's not , actually . 	Всъщност не е . 
+474	Well , on the spectrum of radio factories , this one is particularly ... 	Е ... на фона на радиозаводите ... в частност този е ... 
+475	Why are you not at Bletchley ? 	Защо не сте в Блечли ? 
+476	Thank you ... so much for your visit , Mr . 	Благодаря ви за посещението , г - н Тюринг . 
+477	Turing . 	Благодаря ви за посещението , г - н Тюринг . 
+478	Was your trip pleasant ? 	- Добре ли пътувахте ? 
+479	Gather your things and let 's go . 	- Съберете си нещата и да вървим . 
+480	I 'm sorry , but I 'm unable to accept your offer . 	Съжалявам , но не мога да приема предложението . 
+481	We feel that such a position would hardly be appropriate . 	Мислим , че такава позиция ще бъде неподходяща . 
+482	You earned a double first in mathematics . 	Но вие сте били първа по математика . 
+483	But sadly wasn 't granted the opportunity to become a Fellow . 	Но за съжаление не ми дадоха възможност да стана студент . 
+484	You belong at Bletchley . 	Мястото ви е в Блечли . 
+485	I 'm sorry , but for someone in my position , to live to ... to work in a radio factory so far from home , with all your men ... it would be ... indecorous . 	Съжалявам , но за някого в моята позиция , да живея и да работя в радиозавод , толкова далеч от дома , с всички тези мъже , ще бъде ... ... непристойно . 
+486	What in the world does that even mean ? 	Какво за бога дори значи това ? 
+487	We have a group of young ladies who tend to all of our clerical tasks : assistants , translators . 	Имаме група от млади жени , които вършат чиновническата работа - асистенти , преводачи . 
+488	They live together in town . 	Живеят заедно в града . 
+489	Would that be a more suitable environment ? 	Това по- подходяща среда ли ще е ? 
+490	So , I would be working amongst these women ? 	Значи ще работя сред тези жени ? 
+491	Yes . 	Да . 
+492	Wonderful ladies . 	Прекрасни дами . 
+493	They even organize social events at St . 	Дори организират социални мероприятия ... ... в църквата Св . 
+494	Martin 's Church down the road . 	Мартин . 
+495	Really , the whole thing is quite ... decorous . 	Наистина , цялото нещо е много ... ... пристойно . 
+496	Now , you won 't have proper security clearance , of course , so , 	Няма да имате достъп до секретна информация , затова ще трябва да импровизираме . 
+497	- we 'll have to improvise things a bit . 	Няма да имате достъп до секретна информация , затова ще трябва да импровизираме . 
+498	- Why are you helping me ? 	Защо ми помагате ? 
+499	Because there is only one thing that matters in this entire world right now . 	В целия свят има само едно важно нещо , разбирате ли ? 
+500	Do you understand ? 	В целия свят има само едно важно нещо , разбирате ли ? 
+501	And that is breaking Enigma . 	И това е да разбием Енигма . 
+502	But , Mr . 	Но , г- н Тюринг , защо помагате на мен ? 
+503	Turing ... why are you helping me ? 	Но , г- н Тюринг , защо помагате на мен ? 
+504	Sometimes it 's the very people who no one imagines anything of who do the things that no one can imagine . 	Понякога именно хората , които никой не си представя за нищо правят неща , които никой не си е представял . 
+505	Sir . 	Сър . 
+506	- What 's this ? 	- Какво е това ? 
+507	- Alan Turing 's classified military file . 	- Засекретеното военно досие на Тюринг . 
+508	- It 's bloody empty . 	- То е празно . - Именно . 
+509	- Exactly . 	- Но това е просто празен плик . 
+510	- It 's an empty manila envelope . 	- Но това е просто празен плик . 
+511	- Yeah . 	- Да . 
+512	Well , you 've cracked the case wide open , then , haven 't you ? 	Е , значи сте решили случая , така ли ? 
+513	Alan Turing 's war records aren 't just classified , they 're nonexistent . 	Военното досие на Алън Тюринг не е просто секретно , то не съществува . 
+514	That means someone 's got rid of them . 	Това означава , че някой се е отървал от него . 
+515	Erased them . 	Изтрил го е . 
+516	Burned them . 	Изгорил го е . 
+517	And that same person broke into his house and stole nothing ? 	И същият този човек е влязъл е дома му да открадне нищо ? 
+518	Guy Burgess and Donald Maclean . 	Гай Бърджес и Доналд Маклийн . 
+519	- What , the spies from the papers ? 	Какво , шпионите от вестниците ? Руските шпиони . 
+520	- The Soviet spies . 	Но първо са били професори , нали така ? 
+521	But first they were professors , weren 't they ? 	Но първо са били професори , нали така ? 
+522	Radicalized at Cambridge , then they joined the Communist Party , then Foreign Office , then leaked information to Stalin during the war . 	Тръгват от Кембридж , присъединяват се към Комунистическата партия , След това във Външно са предавали информация на Сталин през войната . 
+523	Now , can you think of anyone else we know who was at Cambridge , then took up something murky and top secret when war broke out ? 	Сега , помисли дали се сещаш за друг от Кембридж , който се е захванал с нещо съмнително по време на войната . 
+524	You think this Alan Turing might be a Soviet agent ? 	Мислиш , че Алън Тюринг е съветски шпионин ? 
+525	I think something very serious is happening right here under our noses . 	Мисля , че се случва нещо много сериозно , точно под носовете ни . 
+526	Wouldn 't you like to find out what it is ? 	Не би ли искал да знаеш какво е то ? 
+527	Welcome , ladies . 	Добре дошли , дами . 
+528	If you 'd like to follow me . 	Последвайте ме . 
+529	Some people thought we were at war with the Germans ... 	Някой хора мислеха , че сме във война с германците . 
+530	Incorrect . 	Грешно . 
+531	We were at war with the clock . 	Бяхме във война с времето . 
+532	Britain was literally starving to death . 	Англия буквално гладуваше до смърт . 
+533	The Americans sent over 100, 000 tons of food every week , and every week the Germans would send our desperately needed bread to the bottom of the ocean . 	Американците изпращаха 100, 000 тона храна всяка седмица и всяка седмица немците изпращаха така нужния ни хляб на дъното на океана . 
+534	Our daily failure was announced at the chimes of midnight . 	Всекидневния ни провал се огласяваше в полунощ . 
+535	And the sound would haunt our unwelcome dreams . 	И този звук огласяше дори и сънищата ни . 
+536	Tick ... tock ... tick . 	Тик ... Так ... Тик ... 
+537	Damn it ! 	Мамка му ! 
+538	What just happened ? 	Какво стана току що ? 
+539	Midnight , all the work we 've done today is useless . 	Полунощ . Всичко , което направихме днес е безполезно . 
+540	Oh , but don 't worry , we 've a few hours before tomorrow 's messages start flooding in ... and we start all over again . 	О , но не се безпокой , имаме няколко часа преди новите съобщения да пристигнат и да започнем всичко наново . 
+541	- From scratch . 	Отначало . 
+542	- I 'm so sick of this . 	Писна ми от това . 
+543	Four hours rewiring his plugboard matrix . 	Четири часа сменя кабелите на матрицата . 
+544	Three hours yesterday on his rotor positions ! 	Вчера пропиля три часа с роторите . 
+545	- Don 't go over there . 	- Не отивай там . 
+546	- Look , John , no . 	- Виж , Джон , не ! 
+547	If this job wasn 't already impossible before , it bloody well is now . 	Ако тази работа не беше невъзможна преди , сега вече е . 
+548	Hugh , don 't . 	Хю , недей . 
+549	Damn you and your useless machine . 	Проклет да си ти и безполезната ти машина . 
+550	My machine is how we are going to win . 	Машината е начина да спечелим . 
+551	Really ? 	Сериозно ? 
+552	This machine ? 	Тази машина ? 
+553	Are you talking about this bloody machine ? ! 	За тази проклета машина ли говориш ? ! 
+554	- Hugh ! 	- Хю ! 
+555	Hugh ! 	Хю , недей ! 
+556	Hugh , don 't ! 	Хю , недей ! 
+557	- Hugh ! 	- Спри ! 
+558	Hugh ! 	Арогантно копеле . 
+559	Stop ! 	Арогантно копеле . 
+560	You arrogant bastard . 	Арогантно копеле . 
+561	You could help us . 	Можеш да ни помогнеш . 
+562	You could make this go faster , but you won 't . 	Можеш да помогнеш да работим по- бързо , но не искаш . 
+563	Get off . 	Махай се . 
+564	He 's right , Alan . 	Той е прав , Алън . 
+565	There are actual soldiers out there trying to win an actual war . 	Там има ... ... реални войници , опитващи се да спечелят реална война . 
+566	My brother protects food convoys in the Navy . 	Брат ми пази конвоите с храна . 
+567	My cousins fly RAF patrols . 	Братовчедите ми летят и патрулират . 
+568	All my friends , they 're all making a difference , while we just while away our days producing nothing . 	Всичките ми приятели , те се опитват да променят нещо . Докато ние стоим и не правим нищо . 
+569	Because of you . 	Заради теб . 
+570	My machine ... will work . 	Моята машина ... ще проработи . 
+571	Come on , Peter . 	Хайде , Питър . 
+572	Okay . 	Добре . 
+573	Joan ? 	
+574	Will you ... 	Може ли ... 
+575	Could you make a bit more noise ? 	Можеш ли да си по- шумен ? 
+576	I 'm not quite sure my landlady woke up . 	Не съм сигурна дали събудихме хазяйката . 
+577	- Oh , sorry . 	Съжалявам . 
+578	- Oh ... look . 	О , виж . 
+579	I think that 's the best I can do . 	Това е най- доброто , което мога да направя . 
+580	No male visitors after dark . 	Без мъже след мръкване . 
+581	So ... what did you bring me ? 	Е ... какво ми носиш ? 
+582	- There you go . 	Заповядай . 
+583	- Here . 	Ето . 
+584	Some men try flowers , you know . 	Някои мъже опитват с цветя , да знаеш . 
+585	These are actual decrypted Enigma messages direct from Nazi High Command . 	Това са истински декриптирани Енигма съобщения от нацисткото командване . 
+586	" 0600 hours . 	" 0600 часа . Времето днес е ясно . 
+587	" Weather today is clear . 	Дъжд вечерта . 
+588	Rain in the evening . 	Хайл Хитлер . " 
+589	Heil Hitler . " 	Хайл Хитлер . " 
+590	Well , clearly , that vital piece of information is going to win us the war . 	Е , очевидно това важно съобщение ще ни спечели войната . 
+591	It 's the relationship between the encrypted and decrypted messages that interests me . 	Това , което ме интересува най- много е връзката между криптираните и декриптираните съобщения . 
+592	Can we find a clue here that we can build into Christopher ? 	Можем ли да намерим нещо , което да въведем в Кристофър ? 
+593	- Who 's Christopher ? 	Кой е Кристофър ? 
+594	- Oh , he 's my machine . 	О , той е моята машина . 
+595	You named him ? 	Дал си му име ? 
+596	Is that a bad name ? 	Името лошо ли е ? 
+597	No . 	Не . 
+598	No , never mind . 	Не , няма значение . 
+599	Are you trying to build your universal machine ? 	Опитваш се да създадеш онази уникална машина ? 
+600	- I read your paper at university . 	- Прочетох труда ти в университета . 
+601	- Is it already being taught ? 	- Вече преподават ли я ? 
+602	No . 	Не . 
+603	No . 	Не , просто бях предпазлива . 
+604	No , I was precocious . 	Не , просто бях предпазлива . 
+605	So ... you theorized a machine that could solve any problem . 	Описваше машина , която може да разреши всеки проблем . 
+606	It didn 't just do one thing , it did everything . 	Не прави просто едно нещо , прави всичко . 
+607	It wasn 't just programmable , it was reprogrammable . 	Не просто програмира , а също и препрограмира . 
+608	Is that your idea behind Christopher ? 	Това ли е идеята на Кристофър ? 
+609	Well , human brains can compute large sums very quickly ... even Hugh can do that ... but I want Christopher to be smarter . 	Ами , човешкият мозък може да смята големи суми бързо ... ... дори и Хю може , но аз искам Кристофър да е по- умен . 
+610	To make a calculation and then ... to determine what to do next . 	Да направи калкулация и тогава да определи какво да върши . 
+611	Like a person does . 	Както прави човек . 
+612	Think of it . 	Помисли си . 
+613	Electrical brain . 	Електрически мозък . 
+614	- A digital computer . 	Цифров компютър . 
+615	- Digital computer . 	Цифров компютър . 
+616	What 's going on ? 	Какво става ? 
+617	What 's happening ? 	Какво се случва ? 
+618	- No . 	Не , не ! 
+619	No , no . 	Не пипайте това ! 
+620	No , no , no ! 	Не пипайте това ! 
+621	Don 't touch that ! 	Не пипайте това ! 
+622	- Stay back . 	- Отдръпнете се . 
+623	That 's my desk . 	- Това е моето бюро . 
+624	Thank goodness . 	Слава богу . 
+625	I 'd hate to think we were searching the wrong one . 	Бих се разочаровал ако претърсвахме грешното . 
+626	What are you doing ? 	Какво правите ? 
+627	What 's going on ? 	Какво става ? 
+628	There is a spy in Bletchley Park . 	Има шпионин в Блечли . 
+629	The Navy thinks that one of us is a Soviet double agent , Alan . 	Военните мислят , че един от нас е руски агент , Алън . 
+630	Why ? 	Защо ? 
+631	Our boys intercepted this on its way to Moscow . 	Момчетата прихванаха това да пътува към Москва . 
+632	Look familiar ? 	Познато ли ти е ? 
+633	It 's a Beale cipher . 	Това е шифърът на Бийл . 
+634	Encrypted with a phrase from a book or a poem or ... 	Шифрова се с фраза от книга или от поема ... 
+635	You don 't seriously think I did this , do you ? 	Не мислите , че аз съм го направил , нали ? 
+636	Double agents are such bastards . 	Двойните агенти са такива копелета . 
+637	Isolated loners . 	Самотници . 
+638	No attachments to friends or family . 	Без връзки с приятели и семейство . 
+639	Arrogant . 	Арогантни . 
+640	Know anybody like that ? 	Познаваш ли някой такъв ? 
+641	I ... 	Аз ... 
+642	I know you don 't like me , but that does not make me a Soviet spy . 	Аз знам , че не ме харесвате , но това не ме прави руски шпионин . 
+643	Nothing out of the ordinary , sir . 	Нищо необичайно , сър . 
+644	Really . 	Сериозно ? 
+645	All right . 	Добре . 
+646	The Home Office may be protecting you now , but sooner or later you will make a mistake . 	Вътрешно може и да те пази сега , но рано или късно ще направиш грешка . 
+647	And I needn 't bother firing you . 	И аз няма дори да те уволня . 
+648	They will hang you for treason . 	Те ще те обесят за измяна . 
+649	Hello . 	Здравей . 
+650	I heard about what happened . 	Чух какво е станало . 
+651	It 's all the girls in Hut 3 can talk about . 	Всички момичета за това говорят . 
+652	I have an idea of what might cheer you up . 	Имам идея какво може да те развесели . 
+653	So , because no letter can be encoded as itself , there 's already a handful of settings that can be rejected at the outset . 	И тъй като никоя буква не може да се криптира със себе си , това значи , че някои настройки отпадат . 
+654	- Is that your team ? 	Това ли е екипът ти ? - Да . 
+655	- Yes . 	- Да ги поздравим ли ? 
+656	- Shall we say hello ? 	- Да ги поздравим ли ? 
+657	- No . 	- Не . 
+658	Hello . 	- Здравейте . 
+659	I told you not to do that . 	Казах ти да не го правиш . 
+660	Alan . 	- Алън . 
+661	- Hugh , hello . 	- Хю , здравей . 
+662	- Didn 't know you drank . 	Не знаех , че пиеш . 
+663	He doesn 't , really . 	Не пие . 
+664	He just sort of sips at the foam . 	Само сърба от пяната . 
+665	Well , I' ll let you into a little secret , Miss ... ? 	Ще ви кажа малка тайна , госпожице ... 
+666	- Clarke . 	Кларк . 
+667	- Miss Clarke . 	- Госпожице Кларк . 
+668	- Please . 	- Госпожице Кларк . 
+669	- Foam 's my favorite part , too . 	- Кажете ми . Пяната ми е любима и на мен . 
+670	- Is it really ? 	Наистина ли ? 
+671	- Come and join us for a drink ? 	Елате да пием по едно . 
+672	- We 'll be there in a moment . 	След малко идваме . 
+673	- Miss Clarke . 	Госпожице Кларк . 
+674	- Well , he likes you . 	Е , той те харесва . - Да . 
+675	- Yes . 	- Ти го накара да те хареса . 
+676	You ... got him to like you . 	- Ти го накара да те хареса . 
+677	- Yes . 	Да . Защо ? 
+678	- Why ? 	Защото аз съм жена в мъжко поприще и не мога да си позволя лукса да съм кучка . 
+679	Because I 'm a woman in a man 's job , and I don 't have the luxury of being an ass . 	Защото аз съм жена в мъжко поприще и не мога да си позволя лукса да съм кучка . 
+680	Alan ... it doesn 't matter how smart you are , Enigma is always smarter . 	Алън ... Няма значение колко си умен . Енигма винаги е по- умна . 
+681	If you really want to solve your puzzle , then you 're going to need all the help you can get , and they are not going to help you if they do not like you . 	Ако наистина искаш да разрешиш ребуса , трябва да имаш всичката възможна помощ ... ... а те няма да ти помогнат ако не те харесват . 
+682	- What are those ? 	- Какво е това ? 
+683	- Apples . 	- Ябълки . 
+684	- No . 	- Не . 
+685	- Oh , they really are . 	- О , наистина са . 
+686	I ... well , Miss Clarke , Joan actually ... said that it would be ... nice if I was to bring you all something . 	Аз , всъщност г- ца Кларк , Джоун всъщност каза , че би било добре ако ви донеса по нещо . 
+687	So , here we are . 	Така че ето . 
+688	I ... 	Така че ето . 
+689	Thank you . 	Благодаря ! 
+690	I like apples . 	Обичам ябълки . 
+691	My best to Miss Clarke . 	Поздрави на г- ца Кларк . 
+692	There are two people in a wood , and they run into a bear . 	Имало двама мъже в гората , които се натъкнали на мечка . 
+693	The first person gets down on his knees to pray . 	Първия коленичил , за да се моли . 
+694	The second person starts lacing up his boots . 	Вторият започнал да връзва обувките си . 
+695	The first person asks the second person , " My dear friend , what are you doing ? 	Първия го попитал : " Приятелю , какво правиш ? 
+696	You can 't outrun a bear . " 	Не можеш да надбягаш мечка " 
+697	To which the second person responds , 	При което втория отговорил , " Не трябва . " 
+698	" I don 't have to . 	При което втория отговорил , " Не трябва . " 
+699	I only have to outrun you . " 	" Трябва само да надбягам теб . " 
+700	I' ll be with Christopher , if anyone needs me . 	Ще бъда при Кристофър , ако някой ме търси . 
+701	If we assume that the square root of two is a rational number , then we can say that the square root of two is A over B ... where A and B are whole numbers and B is not zero . 	Ако приемем , че корен квадратен от две е рационално число , тогава можем да кажем , че корен квадратен от две е А върху Б където А и Б са цели числа и Б не е нула . 
+702	- Mr . 	Г - н Тюринг , бележки ли предаваме ? 
+703	Turing , passing notes , are we ? 	Г - н Тюринг , бележки ли предаваме ? 
+704	- No , sir . 	Не , господине . 
+705	Only Turing would pass notes written in gibberish . 	Само Тюринг може да предава бележки с безсмислици . 
+706	All right , gentlemen , do not forget your algebra over the break . 	Добре господа , не забравяйте алгебрата през ваканцията . 
+707	Have a pleasant holiday , and we 'll resume your irrationals when you return . 	Приятна почивка и след това ще се върнем на ирационалните числа . 
+708	But Euler 's Theorem gives you that immediately . 	Но теоремата на Юлър ти дава автоматично това . 
+709	Here . 	Ето . 
+710	Look at this . 	Погледни това . 
+711	If you run the wires across the plugboard matrix diagonally , it will eliminate rotor positions 500 times faster . 	Ако прекараме кабелите диагонално по матрицата ще елиминираме над 500 позиции на ротора . 
+712	That 's ... actually not an entirely terrible idea . 	Това е ... ... всъщност не е изцяло лоша идея . 
+713	I think that was Alan for " thank you . " 	Мисля , че това беше " благодаря " . 
+714	- That 's my sandwich . 	Това е моят сандвич . 
+715	- You don 't like sandwiches . 	Ти не харесваш сандвичи . 
+716	You nervous ? 	Нервен ли си ? 
+717	What happens now ? 	Какво сега ? 
+718	It should work out the day 's Enigma settings . 	Трябва да извади настройките на Енигма за деня . 
+719	How long ? 	За колко време ? 
+720	Sieg Heil ! 	
+721	The German Army has fanned out across Europe , from Poland to Serbia , Lithuania to Denmark , Norway to France . 	Немската армия е вече из цяла Европа ... ... от Полша до Сърбия , от Литва до Дания , ... ... Норвегия до Франция . 
+722	The Nazi flag now flies from more than two dozen national capitals . 	Нацисткото знаме вече се вее над 20 ... ... национални столици . 
+723	Their campaign mounts in fury as a free Europe crumbles . 	Тяхната кампания успява с ярост ... ... докато Европа се гърчи . 
+724	Oh , it 's still going . 	О , още работи . 
+725	- Good morning , sir . 	- Добро утро , сър . 
+726	- Morning , Margaret . 	- Добро утро , Маргарет . 
+727	Gears keep spinning on and on . 	Колелата все се въртят . 
+728	Rotors on and on . 	Роторите също . 
+729	It 's endless . 	Това е безкрайно . 
+730	- With no result in sight ? 	Без видими резултати ? 
+731	- No . 	Не . 
+732	Turing . 	Тюринг . 
+733	- Turing , open the bloody door . 	Тюринг , отвори проклетата врата . 
+734	- No . 	Не . 
+735	No . 	Не . 
+736	Open the door or we 'll break it down . 	Отвори вратата или ще я разбием . 
+737	I can 't let you in ! 	Не мога да ви пусна . 
+738	I cannot let you interfere . 	Не можете да се намесите . 
+739	Go on , then . 	Давайте тогава . 
+740	Turn that thing off . 	Спри това нещо . 
+741	No . 	Не . 
+742	Don 't , please . 	Недейте , моля ви . 
+743	Please . 	Моля ви . 
+744	Please ! 	Моля ви ! Моля ! 
+745	Please ! 	Не ! Не . 
+746	No ! 	Не ! 
+747	No . 	Недейте ! 
+748	No ! 	Недейте ! 
+749	Well , then , it seems that your great big expensive machine doesn 't work . 	Е , изглежда вашата голяма и скъпа машина не работи . 
+750	- It does . 	Работи . 
+751	- Wonderful . 	Чудесно . 
+752	So , you 've broken Enigma , then ? 	Тогава сте разбили Енигма ? 
+753	It was just ... still working . 	Просто все още ... ... работеше . 
+754	This is my associate from the Home Office . 	Това е моят сътрудник от Вътрешно . 
+755	You see , a hundred thousand pounds is rather a lot of money , and he 's here to see what you have to show for it . 	Вижте , сто хиляди лири са доста пари . И той е тук да види какво имате да му покажете . 
+756	You ... will never understand the importance of what I am creating here ! 	Вие никога няма да разберете значимостта на това , което аз създавам тук ! 
+757	Have you decrypted any German messages ? 	Разшифровахте ли някои немски съобщения ? 
+758	A single one ? 	Поне едно ? 
+759	Can you point to anything at all that you 've achieved ? 	Кажете свършихте ли нещо изобщо ? 
+760	Your funding is up , and our patience is expired . 	Финансирането ви свърши . Както и нашето търпение . 
+761	It 's with such great pleasure that I am finally able to say this . 	С такова голямо удоволствие казвам тези думи . 
+762	Alan Turing , you 're fired . 	Алън Тюринг , уволнен сте . 
+763	Please escort Mr . 	Моля изведете г- н Тюринг от тук . 
+764	Turing from the premises . 	Моля изведете г- н Тюринг от тук . 
+765	No . 	Не . 
+766	I beg your pardon ? 	Моля ? 
+767	If you fire Alan ... well , then you 'll have to fire me , too . 	Ако уволните Алън ... ... ще трябва да уволните и мен също . 
+768	What on earth are you saying ? 	Какво за бога говорите ? 
+769	Trust me when I tell you there is no one who would rather say this less than I do , but ... he 's right . 	Повярвайте ми , няма друг , който да го каже с повече неохота , но ... ... той е прав . 
+770	Alan is right . 	Алън е прав . 
+771	His machine can work , and it 's probably the best chance that we 've got . 	Неговата машина може да проработи и вероятно е най- добрият шанс , който имаме . 
+772	God , it 's beyond belief . 	Господи , не е за вярване . 
+773	If you fire them ... you 'll have to fire me , too . 	Ако уволните тях , ще трябва да уволните и мен . 
+774	And me . 	И мен . 
+775	We 're the best cryptographic minds in Britain . 	Ние сме най- добрите криптографи в Англия . 
+776	Are you going to fire us all ? 	Всички ни ли ще уволните ? 
+777	Commander , at least give us some more time . 	Командире , поне ни дайте още малко време . 
+778	Six months , and if the machine doesn 't produce any results that we need , then we 'll go back to doing things the old way . 	Шест месеца , и ако тогава машината не е постигнала резултати , ще се върнем към това , което правехме , става ли ? 
+779	How about that ? 	Шест месеца , и ако тогава машината не е постигнала резултати , ще се върнем към това , което правехме , става ли ? 
+780	One month . 	Един месец . 
+781	And then , so help me God , you 're all gone . 	И след това ще изхвърчите всички . 
+782	Oh , leave him . 	Оставете го . 
+783	- Thank you . 	Благодаря ! 
+784	- You 're welcome . 	Пак заповядай . 
+785	Oh , and , Alan , your machine ... it better bloody work . 	О , Алън , твоята машина ... ... гледай да проработи . 
+786	Hugh . 	Хю . 
+787	I swear ... 	Кълна се ... 
+788	I 'm not a spy . 	Не съм шпионин . 
+789	Oh , for God 's sake , of course you 're not a bloody spy . 	О , господи , разбира се , че не си шпионин . 
+790	What ? 	Какво ? 
+791	Denniston gave me the Beale cipher , and guess what ? 	Денистън ми даде шифъра на Бийл . Познай какво ? 
+792	I cracked it . 	Разшифровах го . 
+793	" Ask , and it shall be given to you ; seek and ye shall find . " Matthew 7 : 7 . 	" Поискай , и ще ти бъде дадено ... ... потърси и ще намериш . " Матей 7 : 7 . 
+794	That was the key . 	Това беше шифъра . 
+795	Far too simple for the likes of you . 	Прекалено просто за теб . 
+796	Pity Denniston disagrees . 	За съжаление Денистън не мисли така . 
+797	Come in . 	Влезте . 
+798	Sir , I think I' ve got Turing . 	Сър , мисля , че хванах Тюринг . 
+799	I tailed him to a pub last night , where he met a bloke . 	Проследих го до един пъб , където се срещна с някой . 
+800	They exchanged an envelope . 	Размениха си плик . 
+801	So , I follow this other fella , pick him up , give him a good shake . 	Проследих този човек , хванах го , поразтърсих го . 
+802	- He 's a poofter . 	Той е педал . 
+803	He confessed . 	Призна си . 
+804	- What ? 	Какво ? 
+805	The man admitted it . 	Човекът призна . 
+806	Arnold Murray . 	Арнолд Мъри . 
+807	Hangs around that pub ; men pay him for a go . 	Виси в онзи пъб , мъжете му плащат за забавление . 
+808	Turing 's one of the men that paid . 	Тюринг е един от тези мъже . 
+809	Only Mr . 	Само дето г- н Мъри е имал добрата идея да обере дома на Тюринг с един приятел . 
+810	Murray here then has the bright idea of robbing Turing 's house after , with a friend . 	Само дето г- н Мъри е имал добрата идея да обере дома на Тюринг с един приятел . 
+811	That 's what Turing 's hiding . 	Това крие Тюринг . 
+812	Well , he 's a poof , not a spy . 	Той е педал , не шпионин . 
+813	- No . 	- Не . 
+814	- What 's the matter ? 	- Какво има ? 
+815	We can charge a university professor with indecency . 	Може да го задържим за неприлично поведение . 
+816	No , this is ... it 's bloody rubbish . 	Не , това е ... 
+817	Turing 's up to something important ... 	Това са глупости . Тюринг прави нещо важно . 
+818	He 's committed a crime and he 's broken the law . 	Той е нарушил закона . 
+819	And with a bloke . 	Това е отвратително . 
+820	Jesus Christ , it 's bloody disgusting . 	Това е отвратително . 
+821	This isn 't the investigation I was conducting . 	Това не е разследването , което правех . 
+822	- Bring him in . 	Доведете го . 
+823	- Wait . 	Доведете го . 
+824	Let me interrogate him . 	Нека го разпитам . 
+825	Please . 	Моля . 
+826	Give me half an hour alone , and then I swear , 	Дайте ми само половин час . 
+827	I' ll spend the next month running errands on as many rubbish cases as you like . 	След това , кълна се , ще поема по най- гадните случаи , които имаме . 
+828	Fine . 	Сега някой да издаде заповед за ареста на Алън Тюринг . 
+829	Now , will someone get me a warrant for the arrest of Alan Turing . 	Сега някой да издаде заповед за ареста на Алън Тюринг . 
+830	Alan ? 	Алън ? 
+831	Christopher 's simply not moving fast enough . 	Кристофър не е достатъчно бърз . 
+832	We should talk . 	Трябва да говорим . 
+833	And even with the diagonal board , he 's still not eliminating settings as quickly 	И дори с диагоналите не елиминира достатъчно възможности . 
+834	- as we need him to in order ... 	Тръгвам си . 
+835	- I 'm leaving . 	Тръгвам си . 
+836	But you 've just walked in . 	- Току що дойде . 
+837	No . 	- Току що дойде . 
+838	No . 	- Току що дойде . 
+839	Bletchley . 	- Не . Не . Блечли . 
+840	- What ? 	Какво ? 
+841	- It 's my parents . 	Родителите ми . 
+842	I 'm 25 , I 'm unmarried , I 'm living alone , and they want me home . 	На 25 съм , не съм омъжена , живея сама , и те ме искат вкъщи . 
+843	- That 's ridiculous . 	Това е глупост . 
+844	- That 's my parents . 	Това са родителите ми . 
+845	You ... you can 't leave . 	Не . Не можеш . 
+846	I won 't let you . 	Няма да те пусна . 
+847	" I' ll miss you . " That 's what a normal person might say in this situation . 	" Ще ми липсваш " Това е нормално да кажеш . 
+848	- I don 't care what is normal . 	Не ме е грижа за нормалното . 
+849	- What am I supposed to do , Alan ? 	Какво да направя , Алън ? 
+850	I will not ... give up my parents . 	Аз няма ... да се откажа от родители си . 
+851	You ... you have an opportunity here to make some actual use of your life . 	Тук имаш възможност да направиш нещо с живота си . 
+852	And end up like you ? 	И да свърша като теб ? 
+853	No , thanks . 	Не , благодаря . 
+854	I 'm sorry you 're lonely . 	Съжалявам , че си самотен . 
+855	But Enigma will not save you . 	Но Енигма няма да те спаси . 
+856	Can you decipher that , you fragile narcissist ? 	Можеш ли да дешифрираш това , нарцисист такъв ? 
+857	Or would you like me to go and fetch your precious Christopher to help ? 	Или трябва да ида да донеса ценния ти Кристофър да го направи ? 
+858	I 'm sorry . 	Съжалявам . 
+859	I want you ... 	Искам ... 
+860	I want you to stay because I like you . 	Искам да останеш , защото те харесвам . 
+861	I like ... talking to you . 	Харесва ми да си говорим . 
+862	I like talking to you , too , Alan . 	И на мен ми харесва , Алън . 
+863	And what if you weren 't alone ? 	А какво ако не беше сама ? 
+864	What if you had a husband ? 	Ако имаше съпруг ? 
+865	Do you have one in mind ? 	Имаш някого предвид ли ? 
+866	I do . 	Да . 
+867	Hugh ? 	Хю ? 
+868	Hugh 's terribly attractive , I' ll give you that , but ... 	Хю е много привлекателен , признавам , но не мисля , че му е до женитба . 
+869	I don 't really think he 's the marrying kind . 	Хю е много привлекателен , признавам , но не мисля , че му е до женитба . 
+870	- No , I wasn 't thinking of Hugh . 	Не , не говорех за Хю . 
+871	- Or Peter . 	Или Питър . 
+872	Peter 's so quiet . 	Питър е много тих . 
+873	- Oh , my God . 	О , боже мой . 
+874	- But this makes sense . 	Това има смисъл . 
+875	- Did you just propose to me ? 	Да не би да ми предложи ? 
+876	- Well , it is the logical thing to do . 	Ами , това е логично . 
+877	- This is ridiculous . 	Това е нелепо . 
+878	- This is your parents . 	Родителите ти ... 
+879	I can 't ... believe that this is happening . 	Не вярвам , че това се случва . 
+880	Joan ... 	Джоун ... 
+881	- Is your middle name Caroline or Catherine ? 	Презимето ти Катерин ли е или Каролайн ? 
+882	- Elizabeth . 	- Елизабет . 
+883	Joan Elizabeth ... 	- Джоун Елизабет ... 
+884	Clarke ... 	Кларк ... ... ще се омъжиш ли за мен ? 
+885	will you marry me ? 	Кларк ... ... ще се омъжиш ли за мен ? 
+886	It 's beautiful . 	Красив е . 
+887	Well , I know it isn 't ordinary , but ... whoever loved ordinary ? 	Е , знам , че е необичаен но ... ... кой обича обичайното ? 
+888	She had it in both hands ... and she looked up at me with her doe eyes and said , 	Държеше го с две ръце . Погледна ме и каза : 
+889	" Am I supposed to put that in my mouth ? " 	" Трябва да го сложа в устата си ли ? " 
+890	And I said , " Yes . 	А аз , " Да . 
+891	You know , the French way . " 	Знаеш , по френския начин . " 
+892	So , she pops it in , clamps her lips around it , and starts humming the bloody Marseillaise . 	Тя го лапна , обви устни и започна да тананика тъпата Марсилеза . 
+893	Come have a dance . 	Нека танцуваме . 
+894	No , no , no , you can dance with your fiance anytime you like . 	Не , не , ще танцуваш с годеника си когато искаш . 
+895	Right now , this moment ... my turn . 	Сега , в този момент ... ... мой ред . 
+896	What 's the matter ? 	Какво има ? 
+897	What if ... 	Ами ако ... 
+898	What if I don 't fancy being ... with Joan in that way ? 	Ако не искам да бъда с Джоун по онзи начин ? 
+899	Because you 're a homosexual ? 	Защото си хомосексуален ? 
+900	I suspected . 	Подозирах . 
+901	Well , should I tell her that I' ve had ... affairs with men ? 	Е , да й кажа ли , че съм имал ... ... афери с мъже ? 
+902	You know , in my ... admittedly limited experience , women ... tend to be a bit touchy about accidentally marrying homosexuals . 	Знаеш ли , в моето ограничено познание жените доста лесно се засягат ако случайно се омъжат за хомосексуален . 
+903	Perhaps not spreading this information about might be in your best interest . 	Може би да не разпространяваш тази информация е в твой интерес . 
+904	I care for her , I truly do . 	Грижа ме е за нея . 
+905	I ... 	Наистина . 
+906	I ... 	Но не знам дали мога да се преструвам . 
+907	I just don 't know if I can ... 	Но не знам дали мога да се преструвам . 
+908	- ... pretend . 	Но не знам дали мога да се преструвам . 
+909	- You can 't tell anyone , Alan . 	Не можеш да кажеш , Алън . 
+910	It 's illegal . 	Незаконно е . 
+911	And Denniston is looking for any excuse he can to put you away . 	И Денистън си търси някакво оправдание , за да те махне . 
+912	- I know . 	И Денистън си търси някакво оправдание , за да те махне . 
+913	- This has to stay a secret . 	Знам . Това трябва да е тайна . 
+914	Come on , it 's your turn . 	Хайде , твой ред е . 
+915	Okay . 	Хайде , твой ред е . 
+916	- Cup of tea ? 	Чаша чай ? 
+917	- No , thank you . 	Не , благодаря . 
+918	Mr . 	Г - н Тюринг , мога ли да ви кажа тайна . 
+919	Turing , can I tell you a secret ? 	Г - н Тюринг , мога ли да ви кажа тайна . 
+920	- I 'm quite good with those . 	Много ме бива с тях . 
+921	- I 'm here to help you . 	Тук съм да ви помогна . 
+922	Oh , clearly . 	О , очевидно . 
+923	Can machines think ? 	Машините мислят ли ? 
+924	Oh , so , you 've read some of my published works ? 	О , значи сте чели труда ми . 
+925	What makes you say that ? 	Защо мислите така ? 
+926	Well , because I 'm sitting in a police station , accused of entreating a young man to touch my penis and you just asked me if machines can think . 	Защото седя в полицията , обвинен , че съм принудил млад човек да пипа пениса ми , а вие ме питате дали машините мислят . 
+927	Well , can they ? 	Ами , могат ли ? 
+928	Could machines ever think as human beings do ? 	Могат ли машините да мислят като хората ? 
+929	Most people say not . 	Повечето хора казват не . 
+930	You 're not most people . 	Вие не сте повечето . 
+931	Well , the problem is you 're ... asking a stupid question . 	Проблема е , че задавате глупав въпрос . 
+932	I am ? 	Така ли ? 
+933	Of course machines can 't think as people do . 	Разбира се , че машините ... ... не мислят като хората . 
+934	A machine is different ... from a person . 	Машината е различна от човека . 
+935	Hence , they think differently . 	Съответно , мислят различно . 
+936	The interesting question is , just because something thinks differently from you , does that mean it 's not thinking ? 	Интересния въпрос е , ако нещо мисли различно от вас , това значи ли , че не мисли . 
+937	Well , we allow for humans to have such divergences from one another . 	Позволяваме на хората да имат такива различия един от друг . 
+938	You like strawberries , I hate ice- skating , you ... cry at sad films , 	Вие обичате ягоди , аз мразя кънки на лед . 
+939	I ... am allergic to pollen . 	Вие плачете на филми , аз съм алергичен към полени . 
+940	What is the point of different tastes , different ... preferences if not to say that our brains work differently , that we think differently ? 	Каква е нуждата от различни вкусове различни предпочитания , ако не това , че мозъците ни работят различно , че ние мислим различно ? 
+941	If we can say that about one another , then why can 't we say the same thing for brains ... built of copper and wire , steel ? 	И ако това е вярно за нас двамата , защо не кажем същото за мозък , създаден от кабели , от мед или от стомана ? 
+942	And that 's ... this big paper you wrote ? 	И това е ... ... големия труд , който написахте ? Как се нарича ? 
+943	What 's it called ? 	" Игра на кодове . " 
+944	" The Imitation Game . " 	" Игра на кодове . " 
+945	Right , that 's ... that 's what it 's about ? 	Именно . За какво е ? 
+946	- Would you like to play ? 	Искате ли да играем ? 
+947	- Play ? 	Да играем ? 
+948	It 's a game . 	Това е игра . 
+949	A test of sorts . 	Нещо като тест . 
+950	For determining whether something is a ... a machine or a human being . 	За определяне на това дали нещо е ... ... машина или човек . 
+951	How do I play ? 	Как да играем ? 
+952	Well , there 's a judge and a subject , and ... the judge asks questions , and ... depending on the subject 's answers , determines who he is talking with ... what he is talking with , and ... 	Има съдия и ответник . Съдията задава въпрос , и в зависимост от отговора , решава с кого говори . ... с какво говори . 
+953	All you have to do is ask me a question . 	Трябва само да ми зададете въпрос . 
+954	- What did you do during the war ? 	Какво правихте през войната ? 
+955	- I worked in a radio factory . 	Работих в радиозавод . 
+956	What did you really do during the war ? 	Какво наистина правихте през войната ? 
+957	Are you paying attention ? 	Внимавате ли ? 
+958	Damn it ! 	По дяволите ! 
+959	We 're soon out of time . 	Скоро месецът ни изтича . 
+960	A month . 	Скоро месецът ни изтича . 
+961	So , that 's it , then , is it ? 	Значи това е , така ли ? 
+962	Oh , the trouble is , it doesn 't matter how much we improve it . 	Проблема е , че колкото и да я подобряваме . 
+963	The machine 's never gonna be able to process 159 million million million possibilities in time . 	Машината никога няма да успее с ... ... 159 трилиона настройки . 
+964	It 's just bloody hopeless . 	Просто е невъзможно . 
+965	It 's searching . 	Тя търси Просто ... 
+966	It 's just ... 	Тя търси Просто ... 
+967	It ... doesn 't know what it 's searching for . 	Не знае какво търси . 
+968	If we knew what the messages were going to say ... 	Ако знаехме какво казват съобщенията ... 
+969	If we knew what the messages were going to say , we wouldn 't have to decrypt them at all . 	Ако знаехме какво казват съобщенията нямаше изобщо да ги дешифрираме . 
+970	Who 's Alan´s friend ? 	Кой е приятеля на Алън ? 
+971	Hugh . 	Хю . 
+972	He 's a bit of a cad , actually . 	Малко е вулгарен . 
+973	So , my type , then ? 	Значи мой тип ? 
+974	- Well , I' ll introduce you . 	- Ще те запозная . - Не . 
+975	- No . 	Той ще дойде . 
+976	He 'll come over . 	Той ще дойде . 
+977	- Are you sure ? 	- Сигурна ли си ? 
+978	- Yes . 	- Сигурна ли си ? 
+979	I smiled at him 15 minutes ago and haven 't looked back since . 	- Да . Усмихнах му се преди 15 минути и повече не го погледнах . 
+980	Who 's that with Joan ? 	Коя е тази с Джоун ? 
+981	Helen . 	Хелън . 
+982	Works with her . 	Работи с нея . 
+983	- She 's really pretty . 	Красива е . 
+984	- She wants me to come over . 	Иска да ида там . 
+985	What ? 	Какво ? 
+986	How on earth can you know that ? 	Как разбра ? 
+987	She smiled at me a while back and she hasn 't looked again since . 	Преди малко ми се усмихна и повече не ме погледна . 
+988	And got him . 	Готов е . 
+989	Now , why is this , that when I was single I found it very boring , but now that I 'm engaged , I just find it dreadfully fun . 	Защо когато бях свободна намирах това за скучно , а като се сгодих ми стана много забавно ? 
+990	Bingo . 	Бинго . 
+991	She 's in . 	Готова е . 
+992	- Alan , introduce us . 	Алън , запознай ни . 
+993	- What ? 	Какво ? 
+994	Why me ? 	Защо аз ? 
+995	Because there 's nothing like a friend 's engagement to make a woman want to do something she 'll later regret with the fiance 's better looking chum . 	Защото годежът на приятел е мястото където можеш да накараш жена на направи неща , за които после да съжалява . 
+996	Let 's go . 	Хайде . 
+997	Half a crown says Alan bollixes this up entirely . 	Залагам , че Алън ще оплеска нещата . 
+998	No bet . 	Без залагания . 
+999	- Alan Turing has a theory . 	- Алън Тюринг има теория . 
+1000	- He has many . 	- Той има много . 
+1001	He believes that the regulations against men and women working side by side are sound because such proximity will necessarily lead to romance . 	Той вярва , че ограниченията , жени и мъже да работят заедно са негласни , защото това винаги води до влюбване . 
+1002	What ? 	Какво ? 
+1003	No , I don 't . 	Аз не ... 
+1004	I ... 	Аз не ... 
+1005	- However I disagree . 	Обаче ... ... аз не съм съгласен . 
+1006	- You do ? 	- Така ли ? 
+1007	Yeah . 	- Така ли ? 
+1008	I think that if I were working beside a woman all day long , 	- Да . 
+1009	I could appreciate her abilities and intellect without taking her to bed . 	Мисля , че ако всеки ден работя до жена , мога да оценя нейният интелект без да я вкарам в леглото . 
+1010	I 'm sorry , have we met ? 	Съжалявам , познаваме ли се ? 
+1011	I don 't recall . 	Не помня , да приемем , че не . 
+1012	But let 's assume we haven 't . 	Не помня , да приемем , че не . 
+1013	Helen Stewart . 	Хелън Стюарт . 
+1014	Hugh Alexander . 	Хю Алекзандър . 
+1015	So , who do you agree with , Alan or myself ? 	С кого сте съгласни , с Алън или с мен ? 
+1016	Well , Alan , of course . 	Разбира се , с Алън . 
+1017	I 'm very flattered , really , but I don 't think ... 	Полъскан съм , но аз ... 
+1018	Rubbish . 	- Глупости . 
+1019	Well , I work beside a man every day , and I can 't help but have developed a bit of a crush on him . 	- Ами , аз работя с един мъж всеки ден , и не мога да лъжа , че някак съм влюбена в него . 
+1020	Well , who is this man ? 	Кой е той ? 
+1021	So I can kick his arse . 	Ще го набия . 
+1022	Well , there 's no need to worry , it 's been chaste . 	Не се притеснявай , платонично е . 
+1023	We 've never even met . 	Не сме се виждали . 
+1024	He 's a German . 	Той е германец . 
+1025	Now I really want to kill him . 	Сега наистина искам да го убия . 
+1026	How do you mean you work alongside a German ? 	Как така работиш с германец ? 
+1027	Well , each of us intercepts messages from a specific German radio tower . 	Ами , всяка от нас прихваща съобщения от конкретна немска радиокула . 
+1028	So , we have a counterpart on the other side who 's tip- tapping out the messages . 	Така че има човек от другата страна , пращащ съобщението . 
+1029	Everyone types a touch differently , so you get to know the rhythm of your counterpart . 	Всеки пише различно , така че му хващаш темпото . 
+1030	It 's strangely intimate . 	Някак е интимно . 
+1031	I feel as if I know him so well . 	Чувствам сякаш го познавам . 
+1032	It 's a pity he has a girlfriend , but that 's why I disagree with you , Mr . 	За жалост има приятелка ... ... но това е моя отговор , г - н Алекзандър . 
+1033	Alexander . 	За жалост има приятелка ... ... но това е моя отговор , г - н Алекзандър . 
+1034	Because I 'm in love with a coworker of sorts , and we 've never even met . 	Защото съм влюбена в колега , а дори не сме се виждали . 
+1035	Well , allow me to buy you another pint , and I' ll tell you why you 're wrong . 	Нека ви купя едно питие и ще ви кажа защо грешите . 
+1036	Let 's . 	Хайде . 
+1037	Excellent . 	Чудесно . 
+1038	Thanks . 	Благодаря . 
+1039	Pints . 	
+1040	Have you got any sloe gin ? 	
+1041	In case you were wondering , that 's what flirting looks like . 	Ако се чудиш , ето това е флиртуване . 
+1042	Helen ... 	Хелън ! 
+1043	Alan ? 	Алън ... 
+1044	Yes , Alan ? 	Да , Алън . 
+1045	Why do you think your German counterpart has a girlfriend ? 	Защо мислиш , че той си има приятелка ? 
+1046	- It 's just a stupid joke , don 't worry . 	- Просто шега , няма значение . 
+1047	- No , no , no , no . 	- Не , не . 
+1048	Tell me . 	Кажи ми . 
+1049	Well , each of his messages begins with the same five letters : 	Всяка от съобщенията му започва с 5 еднакви букви : 
+1050	C- I- L- L- Y . 	С - И- Л- Л- И 
+1051	So , I suspect that Cilly must be the name of his amore . 	Мисля , че Силли е нейното име . 
+1052	But that 's impossible . 	Невъзможно е . 
+1053	The Germans are instructed to use five random letters 	Трябва да ползват 5 различни букви в началото на съобщението . 
+1054	- at the start of every message . 	Трябва да ползват 5 различни букви в началото на съобщението . 
+1055	- Well , this bloke doesn 't . 	Ами , той не го прави . 
+1056	Love will make a man do strange things , I suppose . 	Любовта кара мъжете да правят лудости . 
+1057	In this case , love just lost Germany the whole bloody war . 	В този случай , любовта коства на Германия войната ! 
+1058	Go , Peter . 	
+1059	Sorry . 	
+1060	Alan ! 	Алън ! 
+1061	Alan ! 	Алън ! 
+1062	Alan ! 	
+1063	I just want ... 	
+1064	Hugh Alexander . 	Хю Алекзандър . 
+1065	John Cairncross . 	Джон Кейнкрос . 
+1066	Peter bloody Hilton . 	Питър Хилтън . 
+1067	Alan ? 	Алън ? 
+1068	What ... ? 	Какво ? 
+1069	What ... 	Какво ? 
+1070	What if ... what if Christopher doesn 't have to search through all of the settings ? 	Ами ако ... Ами ако Кристофър ... ... не трябва да търси всички настройки . 
+1071	What if he only has to search through ones that produce words we already know will be in the message ? 	А търси между тези , за които вече знаем , че са в съобщението . 
+1072	- Repeated words , predictable words . 	Повтарящи се думи , предвидими думи . 
+1073	- Exactly . 	Повтарящи се думи , предвидими думи . 
+1074	Look , look , like this one . 	Вижте , като тези . 
+1075	" 0600 hours . 	" 0600 часа . 
+1076	Weather today is clear . 	Времето днес е ясно . 
+1077	Rain in the evening . 	Дъжд довечера . Хайл Хитлер . " 
+1078	Heil Hitler . " 	
+1079	Well , that 's it . 	Това е . 
+1080	Exactly . 	Именно . 
+1081	They send a weather report every day at 6 : 00 a . m . 	Пращат прогнозата всеки ден в 6 сутринта . 
+1082	So , that 's three words we know will be in every 6 : 00 a . m . message ... 	Значи 3 думи , които знаем , че са в съобщението в 6 часа : " времето , разбира се и ... 
+1083	" weather , " obviously , and ... 	Значи 3 думи , които знаем , че са в съобщението в 6 часа : " времето , разбира се и ... 
+1084	- Heil bloody Hitler . 	Хайл Хитлер , мамка му . 
+1085	- Heil bloody Hitler . 	Хайл Хитлер , мамка му . 
+1086	Here 's the 6 : 00 message from this morning . 	Ето днешното съобщение . 
+1087	Hugh , the the right- hand letter wheel , set them to ... 	Хю ... ... десните колела , нагласи ги на ... 
+1088	I know , I know . 	Знам , знам . " време " и " Хитлер " 
+1089	" Weather " and " Hitler . " 	Знам , знам . " време " и " Хитлер " 
+1090	Peter , John , run voltages through those letters , through the back scramblers . 	Питър , Джон , пуснете заряд по тези букви . 
+1091	So , we 'll use the loops ? 	Джоун , какво е днешното съобщение ? 
+1092	Yes . 	Джоун , какво е днешното съобщение ? 
+1093	Joan , what was the last 6 : 00 a . m . message ? 	Джоун , какво е днешното съобщение ? 
+1094	- L . 	- L . 
+1095	- L . 	- L . 
+1096	- H . 	H . 
+1097	- H . 	- H . 
+1098	- W . 	- W . 
+1099	- W . 	W . 
+1100	- A . 	- A . 
+1101	- A . 	- A . 
+1102	- Q . 	- Q . 
+1103	- Q . 	- Q . 
+1104	Done . 	Готово . 
+1105	Come on . 	
+1106	Come on . 	Хайде . 
+1107	Come on , Christopher . 	Хайде , Кристофър . 
+1108	Oh , my God . 	О , боже мой ! 
+1109	What happened ? 	Какво стана ? 
+1110	- Did it work ? 	- Проработи ли ? 
+1111	- Alan ? 	- Алън ? 
+1112	Alan ! 	
+1113	Alan ! 	
+1114	I need a new message . 	Искам ново съобщение . 
+1115	The latest intercept . 	Последното прието . 
+1116	Thank you . 	Благодаря . 
+1117	O ... 	O . 
+1118	T . 	T . 
+1119	- Ready ? 	- Готов ли си ? 
+1120	- Yes . 	- Да . 
+1121	- M . 	- M . 
+1122	- M . 	- M . 
+1123	- Y . 	- Y . 
+1124	- Y . 	- Y . 
+1125	- M . 	- M . 
+1126	S . 	S . 
+1127	- M . 	- M . 
+1128	S . 	- M . 
+1129	- A . 	S . - A . 
+1130	I . 	I . 
+1131	- A . 	- A . 
+1132	I . 	I . 
+1133	- C . 	- C . - C . 
+1134	- C . 	- T ... 
+1135	- T . 	- T ... 
+1136	R . 	- R . 
+1137	- T . 	- R . 
+1138	R . 	- I . 
+1139	- I . 	- I . 
+1140	S . 	- S . 
+1141	- I . 	- S . 
+1142	S . 	O . 
+1143	- O . 	- S . 
+1144	A . 	O . 
+1145	- O . 	- A . 
+1146	A . 	- A . 
+1147	- Y . 	- Y . 
+1148	R . 	R . 
+1149	- Y . 	I . 
+1150	R . 	- Y . 
+1151	- I . 	R . 
+1152	- I . 	I . 
+1153	" KMS Jaguar is aufpunkt is directed to 53 degrees 24 minutes north and aufpunkt one ... degree west . " 	" КМС Ягуар е на точка ... " намира се на 53´24 " север ... ... насочен към първа точка на запад . " 
+1154	Heil Hitler . 	Хайл Хитлер . 
+1155	Turns out that 's the only German you need to know to break Enigma . 	Очевидно толкова немски е нужен , за да разбиеш Енигма . 
+1156	Yes ! 	Да ! 
+1157	- M . 	- M . 
+1158	- M . 	- M . 
+1159	- A . 	- A . 
+1160	- A . 	- A . 
+1161	- Y . 	- Y . 
+1162	- Y . 	- Y . 
+1163	- I . 	- I . 
+1164	- I . 	- I . 
+1165	- T . 	- T . 
+1166	- T . 	- T . 
+1167	- R . 	- R . 
+1168	- R . 	- R . 
+1169	- O . 	- O . 
+1170	- O . 	- O . 
+1171	T . 	T . 
+1172	- T . 	- T . 
+1173	A . 	A . 
+1174	- A . 	- A . 
+1175	- H . 	- H . - H . 
+1176	- H . 	- Q . 
+1177	- Q . 	- Q . 
+1178	- Q . 	- Q . 
+1179	- U . 	- U . 
+1180	- U . 	- U . 
+1181	R . 	- R . 
+1182	R . 	- R . 
+1183	My God , you did it . 	Боже , ти го направи . 
+1184	You just defeated Nazism with a crossword puzzle . 	Победи нацистите с една кръстословица . 
+1185	There are five people in the world who know the position of every ship in the Atlantic . 	В света има само 5 души , които знаят позициите на всеки кораб в Атлантика . 
+1186	- They 're all in this room . 	И всички са в тази стая . 
+1187	- Oh , good God . 	О , боже . 
+1188	Oh , I don 't think even He has the power that we do right now . 	И господ няма толкова сила , колко ние . 
+1189	No . 	И господ няма толкова сила , колко ние . 
+1190	There 's going to be an attack on a British passenger convoy . 	Ще има атака над британски конвой . 
+1191	Right there . 	Точно тук . 
+1192	God , you 're right . 	Господи , права си . 
+1193	All those U- boats are only 20 , 30 minutes away . 	Те са на 20- 30 минути . 
+1194	Civilians . 	Цивилни . 
+1195	Hundreds of them . 	Стотици . 
+1196	We can save their lives . 	Можем да ги спасим . 
+1197	I' ll phone Denniston 's office so that he can alert the Admiralty . 	Ще се обадя на Денистън . 
+1198	Do you think there 's enough time to save them ? 	Мислите ли , че имаме време ? 
+1199	There should be , if we can get a message ... 	Би трябвало , ако ... 
+1200	Commander Denniston 's office , please . 	Командир Денистън . 
+1201	It 's urgent . 	Спешно е . 
+1202	No . 	Не . 
+1203	- What the hell are you doing ? 	Какво правиш за бога ? 
+1204	- You can 't call Denniston . 	Не можем да кажем на Денистън . 
+1205	- You can 't tell him about the attack . 	Не може да му кажем . 
+1206	- What are you talking about ? 	- За какво говориш ? 
+1207	We can have air support over that convoy in ten minutes . 	- Може да имаме подкрепа там за броени минути . 
+1208	Let the U- boats sink the convoy . 	Нека потопят корабите . 
+1209	It 's been a big day , maybe you 're suffering ... 	Виж , беше голям ден , но не мисля ... 
+1210	- We don 't have time ... 	- Нямаме време . 
+1211	- No ! 	- Не ! 
+1212	- Hugh ! 	Хю ! 
+1213	Hugh ! 	Достатъчно . 
+1214	That 's enough ! 	Достатъчно . 
+1215	That 's enough ! 	- Достатъчно . 
+1216	- Stop , Hugh ! 	- Спри , Хю ! 
+1217	John , the attack is in minutes . 	Джон , атаката е след минути . 
+1218	Yes , no , I 'm fine , I 'm fine . 	Добре съм , добре съм . 
+1219	I 'm fine . 	Добре съм . 
+1220	You know why people like violence , Hugh ? 	Знаеш ли защо хората харесват насилието ? 
+1221	It 's because it feels good . 	Защото усещането е хубаво . 
+1222	Sometimes we can 't do what feels good . 	Но не можем да правим това , което е хубаво . 
+1223	- We have to do what is logical . 	А това , което е логично . 
+1224	- What 's logical ? 	Какво е логично ? 
+1225	Hardest time to lie to somebody is when they 're expecting to be lied to . 	Най- трудно е да лъжеш някой , когато той очаква да го лъжат . 
+1226	- Oh , God . 	Господи . 
+1227	- What ? 	Какво ? 
+1228	If someone 's waiting for a lie , you can 't just give them one . 	Ако някой чака лъжа , не може просто да я дадеш . 
+1229	- Damn it , Alan 's right . 	По дяволите , той е прав . Какво ? 
+1230	- What ? 	Какво ще си помислят немците ако потопим подводниците ? 
+1231	What would the Germans think if we destroy their U- boats ? 	Какво ще си помислят немците ако потопим подводниците ? 
+1232	- Nothing . 	Нищо . Те ще са мъртви . 
+1233	They 'll be dead . 	Не . 
+1234	- No . 	Не . 
+1235	No , you can 't be right . 	Не , не може да си прав . 
+1236	So , our convoy suddenly veers off course ... a squadron of our air bombers miraculously descends on the coordinates of the U- boats ... what will the Germans think ? 	Конвоят ни изведнъж сменя курса си . Няколко бомбандировача изведнъж се спуска над подводниците . Какво ще си помислят немците ? 
+1237	The Germans will know that we have broken Enigma . 	Ще знаят , че сме разбили Енигма . 
+1238	They 'll stop all radio communications by midday , and they 'll have changed the design of Enigma by the weekend . 	Ще спрат комуникациите до обяд и ще променят дизайна на Енигма до събота . 
+1239	Yes . 	Да . 
+1240	Two years´ work . 	Две години работа . 
+1241	Everything that we 've done here will all be for nothing . 	Всичко , което сме направили ... ще бъде напразно . 
+1242	There are 500 civilians in that convoy . 	Там има 500 цивилни . 
+1243	Women , children . 	Жени ... ... деца . 
+1244	We 're about to let them die . 	Ще ги оставим да умрат . 
+1245	Our job is not to save one passenger convoy , it is to win the war . 	Нашата работа не е да спасим конвоя , а да спечелим войната . 
+1246	- Our job was to crack Enigma . 	Работата ни е да разбием Енигма . 
+1247	- We 've done that . 	Това го направихме . 
+1248	Now for the hard part . 	Сега идва трудната част . 
+1249	- Keeping it a secret . 	- Да го пазим тайна . - Карлайл . 
+1250	- Carlisle . 	Какво ? 
+1251	What ? 	Какво ? 
+1252	The convoy you 're about to ... it 's ... 	Конвоя , който ще нападнат . 
+1253	The HMS Carlisle is one of the ships . 	ХМС Карлайл е един от корабите в него . 
+1254	We can 't act on every piece of intelligence . 	Не може да спрем всички . 
+1255	So , fine , we won 't . 	Добре , не всички . 
+1256	- Just this one . 	Само този . 
+1257	- Peter , what 's the matter with you ? 	Питър , какво става ? 
+1258	My brother 's ... well , he 's on the Carlisle . 	Брат ми ... ... е , той е на Карлайл . 
+1259	A gunnery ensign . 	
+1260	I 'm ... 	Аз ... 
+1261	I 'm so sorry . 	Съжалявам . 
+1262	Who the hell do you think you are ? 	Кой си мислиш , че си ? 
+1263	This ... this is my brother . 	Това ... това е моя брат . 
+1264	He 's my big brother , all right , and you have a few minutes to call off his murder . 	Той ми е брат , а ти имаш минути да спреш убийството му . 
+1265	We can 't . 	Не можем . 
+1266	He 's right . 	Прав е . 
+1267	Alan . 	Алън . 
+1268	Joan . 	Джоун . 
+1269	Hugh . 	Хю . 
+1270	John . 	Джон . 
+1271	Please , I ... 	Моля ви ... аз ... 
+1272	The Germans , they won 't get suspicious just because we stop one attack . 	Германците няма да заподозрат само при спирането на една атака . 
+1273	No one will know . 	Никой няма да знае . 
+1274	I 'm asking you as your friend . 	Моля ви , като приятел . 
+1275	Please . 	Моля ви . 
+1276	I 'm so sorry . 	Много съжалявам . 
+1277	You 're not God , Alan , you don 't get to decide who lives and who dies . 	
+1278	Yes , we do . 	Ние решаваме . 
+1279	Why ? 	Защо ? 
+1280	Because no one else can . 	Защото никой друг не може . 
+1281	Why are you telling me this ? 	Защо ми казвате това ? 
+1282	We need your help to keep this a secret from Admiralty , Army , RAF . 	Искаме помощта ви , за да запазим това в тайна . 
+1283	No one can know we broke Enigma . 	Никой не трябва да знае , че сме разгадали Енигма . 
+1284	Not even Denniston . 	Дори Денистън . 
+1285	Who 's in the process of having you fired . 	Който се опитва да ви уволни . 
+1286	You can take care of that . 	Може да се погрижите за това . 
+1287	While we develop a system to help you determine how much intelligence to act on ... which attacks to stop , which to let through . 	А ние ще разработим система за работа - ... кои атаки да спираме , кои да пускаме . 
+1288	Statistical analysis . 	Статистически анализ . 
+1289	The minimal number of actions it would take for us to win the war ... but the maximum number we can take before the Germans get suspicious . 	Минималните действия , с които да спечелим войната , но максималните , за да не заподозрат немците . 
+1290	And you 're going to trust all this to statistics ? 	И ще доверите това на статистика ? 
+1291	- To maths ? 	- На математика ? 
+1292	- Correct . 	- Да . 
+1293	And then MI6 can come up with the lies that we tell everybody else . 	След това МИ6 ще измисли версия за пред всички . 
+1294	You 'll need a believable alternative source for all the pieces of information you use . 	Ще ви трябва правдоподобен източник за информацията , която да ползвате . 
+1295	A false story so that we can explain how we got our information that has nothing to do with Enigma . 	Лъжа , обясняваща как сме получили информацията , която няма общо с Енигма . 
+1296	And then you can leak those stories to the Germans . 	И след това ще пуснете тези истории на немците . 
+1297	And then to our own military . 	И на нашите военни . 
+1298	Maintain a conspiracy of lies at the highest levels of government . 	Да поддържам лъжи в най- високите нива на властта ? 
+1299	Sounds right up my alley . 	Точно като за мен . 
+1300	Alan , I so rarely have cause to say this , but you are exactly the man I always hoped you would be . 	Алън , рядко бих го казал , ... но ти си точно такъв , какъвто се надявах . 
+1301	They code- named it " Ultra . " 	Нарекоха я " Ултра . " 
+1302	It became the largest store of military intelligence in ... the history of the world . 	Стана най- голямата част от военното разузнаване в световната история . 
+1303	It was like having a tap on Himmler 's intercom . 	Все едно подслушвахме интеркома на Химлер . 
+1304	I- E- O ... 	I - E- O . 
+1305	Secrecy became the primary concern , and for some reason , they ... they trusted me . 	Тайната беше най- важна , и по някаква причина те ми вярваха . 
+1306	Peter , do you have the ... 630 decryp ... 	Питър , имаме ли съобщението ... 
+1307	It 's a Beale cipher encrypted with a phrase from a book or ... 	Шифърът на Бийл ... ... шифрира се с фраза ... 
+1308	" Ask , and it will be given to you ; seek and you will find . " 	" Поискай и ще ти бъде дадено ... ... потърси и ще намериш . " Матей 7 : 7 . 
+1309	Matthew 7 : 7 . 	" Поискай и ще ти бъде дадено ... ... потърси и ще намериш . " Матей 7 : 7 . 
+1310	That was the key . 	Това е шифъра . 
+1311	Peter will come around eventually . 	Питър ще ни прости . 
+1312	Jack . 	Джак . 
+1313	Could you give Alan and me a moment , please ? 	Ще ни оставиш ли насаме ? 
+1314	The Soviets and us , we 're on the same side . 	Руснаците и ние , на една страна сме . 
+1315	What I 'm doing will help Britain . 	Това помага на Англия . 
+1316	I have to tell Denniston . 	Трябва да кажа на Денистън . 
+1317	No , you don 't . 	Не , не трябва . 
+1318	Because if you tell him my secret ... 	Ако му кажеш моята тайна , аз ще кажа твоята . 
+1319	I' ll tell him yours . 	Ако му кажеш моята тайна , аз ще кажа твоята . 
+1320	Do you know what they do to homosexuals ? 	Знаеш ли какво правят с хомосексуалните ? 
+1321	You 'll never be able to work again , never be able to teach . 	Никога няма да работиш пак , няма да преподаваш . 
+1322	Your precious machine ... 	Скъпоценната ти машина , ... ... няма да я видиш отново . 
+1323	I doubt you 'll ever see him again . 	Скъпоценната ти машина , ... ... няма да я видиш отново . 
+1324	Hello . 	Здравейте . 
+1325	Can I ... can I speak to Stewart Menzies , please ? 	Може ли ... ... да говоря със Стюарт Мингис . 
+1326	It 's urgent . 	Спешно е . 
+1327	One moment , please . 	Един момент . 
+1328	Hello . 	
+1329	Menzies . 	
+1330	Some advice about keeping secrets . 	Съвет относно пазенето на тайни . 
+1331	It 's a lot easier if you don 't know them in the first place . 	Най- лесно е ако въобще не ги знаеш . 
+1332	Were they steaming my letters , tapping my telephone ? 	Дали следяха писмата ми ? Подслушваха ли ме ? 
+1333	Trailing my nervous walks ? 	Следяха разходките ми ? 
+1334	You know , I ... 	Знаете ли , аз ... 
+1335	I never did find out . 	Така и не разбрах . 
+1336	Joan ? 	Джоун ? 
+1337	Joan ? 	Какво ? 
+1338	What 's ... 	Какво ? 
+1339	Where 's Joan ? 	Къде е Джоун ? 
+1340	Military prison . 	Военен затвор . 
+1341	What have you done ? 	Какво сте направили ? 
+1342	Decoded Enigma intercepts . 	Разшифровани съобщения . 
+1343	I found a pile of them in the bedside table . 	Намерих ги тук , на нощното шкафче . 
+1344	No , no . 	Намерих ги тук , на нощното шкафче . 
+1345	I gave those to her over a year ago when I was trying to figure out 	Не , аз и дадох тези . ... даже преди година . 
+1346	- a link between ... 	Не , аз и дадох тези . ... даже преди година . 
+1347	- I 'm sure you did . 	Сигурен съм , че е така . 
+1348	Denniston 's been looking for a Soviet spy . 	Денистън търси шпионина . 
+1349	He 's been looking inside Hut 8 . 	Търсеше при жените . 
+1350	I know who the spy is . 	Знам кой е той . 
+1351	It 's not Joan . 	Не е Джоун . 
+1352	It 's ... it 's Cairncross . 	Той е ... Кейнкрос . 
+1353	I found the Beale cipher , the Bible . 	Намерих шифъра , Библията . 
+1354	God , I wish you 'd been a spy . 	Господи , де ти да беше шпионин . 
+1355	You 'd be so much better at this than he is . 	Щеше да си по- добър от него . 
+1356	You knew it was him ? 	Знаехте , че е той ? 
+1357	Of course I bloody knew . 	Разбира се . 
+1358	I knew before he came to Bletchley . 	Знаех преди да дойде в Блечли . 
+1359	Why do you think I had him placed here ? 	Защо мислиш го избрах . 
+1360	But we have an Enigma machine . 	Но ние имаме Енигма . 
+1361	Yeah , Polish Intelligence ... 	Да , полското разузнаване ... 
+1362	You placed a ... a Soviet agent at Bletchley Park ? 	Сложили сте руски агент в Блечли ? 
+1363	It 's really quite useful to be able to leak whatever we want to Stalin . 	Всъщност е полезно да можем да пускаме какво искаме към Сталин . 
+1364	Churchill 's too damn paranoid . 	Чърчил е много параноичен . 
+1365	He won 't share a shred of intelligence with the Soviets . 	Не иска да споделя с руснаците . 
+1366	Not even information that will help them against the Germans . 	Дори и информация , което ще помогне срещу Германия . 
+1367	There 's ... so much secrecy . 	Има прекалено много тайни . 
+1368	Cairncross has no idea we know , of course . 	Кейнкрос не знае , че знаем . 
+1369	He 's really not the brightest bulb . 	Не е толкова умен . 
+1370	Which is why I need your help . 	Ето защо се нуждая от теб . 
+1371	I want to know what to leak to John , what to feed to the Soviets , as well as the British . 	Искам да знам какво да даваме на Джон , какво да пускаме на руснаците , както и на англичаните . 
+1372	I 'm not a spy . 	Аз не съм шпионин . 
+1373	I 'm ... 	Просто съм математик . 
+1374	I 'm just a mathematician . 	Просто съм математик . 
+1375	I know a lot of spies , Alan . 	Знам много шпиони , Алън . 
+1376	You 've got more secrets than the best of them . 	Ти имаш повече тайни дори от тях . 
+1377	You ... you have to promise me that you will release Joan . 	Обещайте ми , че ще освободите Джоун . 
+1378	Yes , Joan 's at the market . 	Да , тя е на пазар . 
+1379	She 's gonna be back in an hour . 	Ще се върне до час . Излъгах . 
+1380	I lied . 	
+1381	I better hold on to these . 	По- добре да взема тези . 
+1382	If anybody finds out about them , prison will be the least of her worries . 	Ако някой ги намери , затвора ще е най- малкия проблем . 
+1383	Oh , Alan ... we 're gonna have such a wonderful war together . 	О , Алън ... ... ще имаме прекрасна война заедно . 
+1384	- I need you to leave Bletchley . 	Трябва да се махнеш от Блечли . 
+1385	- What ? 	- Какво ? 
+1386	It 's Menzies . 	- Мингис . 
+1387	I don 't trust him . 	Не му вярвам . 
+1388	It 's not safe here . 	Тук не е безопасно . 
+1389	- Do you think it 's any safer anywhere else ? 	Мислиш , че някъде е ? 
+1390	- You need to get away . 	Трябва да се махнеш . 
+1391	- You need to get very far away from me . 	Трябва да си далеч от мен . 
+1392	- Alan , what 's happened ? 	Алън , какво става ? 
+1393	We can 't be engaged anymore . 	Не може повече да сме сгодени . 
+1394	You ... your parents need to take you back and find you a husband elsewhere . 	Родителите ти трябва да те вземат ... ... и да ти намерят мъж . 
+1395	What 's wrong with you ? 	Какво ти има ? 
+1396	I have something to tell you . 	Трябва да ти кажа нещо . 
+1397	I 'm ... 	Аз ... 
+1398	I 'm a homosexual . 	Аз съм хомосексуален . 
+1399	All right . 	Добре . 
+1400	No , no . 	Не , не . 
+1401	Men , Joan ... 	Мъже , Джоун , не жени . 
+1402	- not women . 	Мъже , Джоун , не жени . 
+1403	- So what ? 	- И какво ? 
+1404	- Well , I just told you . 	- Току що ти казах ... 
+1405	- So what ? 	И какво ? 
+1406	I had my suspicions ; I always did . 	Винаги съм подозирала . 
+1407	But we 're not like other people . 	Но ние не сме като другите . 
+1408	We love each other in our own way , and we can have the life together that we want . 	Обичаме се по наш начин . И може да имаме наш живот . 
+1409	You ... you won 't be the perfect husband . 	Няма да си перфектният съпруг . 
+1410	Well , I can promise you , I have no intention of being the perfect wife . 	Но ти обещавам , че и аз няма да съм най- добрата съпруга . 
+1411	I' ll not be ... fixing your lamb all day while you come home from the office . 	Няма да готвя по цял ден докато те чакам да се прибереш . 
+1412	I' ll work . 	Ще работя . 
+1413	You 'll work . 	Ти ще работиш . 
+1414	And we 'll have each other 's company . 	И ще си правим компания . 
+1415	We 'll have each other 's minds . 	Ще споделяме мислите си . 
+1416	That sounds like a better marriage than most . 	Това е по- добър брак от другите . 
+1417	Because I care for you . 	Защото ме е грижа за теб . 
+1418	And you care for me . 	И теб за мен . 
+1419	And we understand one another more than ... more than anyone else ever has . 	И се разбираме повече отколкото , който и да е . 
+1420	I don 't . 	Аз не ... 
+1421	- What ? 	- Какво ? 
+1422	- Care for you . 	- Не ме е грижа за теб . 
+1423	I never did . 	Никога не ме е било . 
+1424	I just needed you to break Enigma . 	Нуждаех се от теб заради Енигма . 
+1425	I' ve done that now , so ... so you can go . 	Разбихме я , така че може да си вървиш . 
+1426	I 'm not going anywhere . 	Никъде няма да ходя . 
+1427	I' ve spent entirely too much of my life worried about what you think of me , or what my parents think of me , or the boys in Hut 8 or the girls in Hut 3 . 	Прекарах целия си живот , притеснявайки се какво мислиш ... какво мислят родителите ми или колегите . 
+1428	And do you know what ? 	И знаеш ли какво ? 
+1429	I 'm done . 	Писна ми . 
+1430	This is the most important work I will ever do , and no one is going to stop me . 	Това е най- важното нещо , което някога ще върша . И никой няма да ме спре . 
+1431	Least of all , you . 	Най- малко ти . 
+1432	You know what , they were right . 	Знаеш ли , бяха прави . 
+1433	Peter , Hugh , John . 	Питър , Хю , Джон . 
+1434	You really are a monster . 	Ти наистина си чудовище . 
+1435	The war dragged on for two more ... solitary years ... and every day we performed our blood- soaked calculus . 	Войната се проточи още две ... ... самотни години и всеки ден ние правехме калкулациите . 
+1436	Every day we decided who lived and who died . 	Решавахме кой ще живее и кой ще умре . 
+1437	Every day we ... helped the Allies to victories , and nobody knew . 	Всеки ден помагахме на Съюзниците , без никой да знае . 
+1438	Stalingrad . 	Сталинград . 
+1439	The Ardenne . 	Сталинград . 
+1440	The invasion of Normandy . 	Ардените . Нормандия . 
+1441	All victories that would not have been possible without the intelligence that we supplied . 	Тези победи нямаше да са възможни без информацията , която давахме . 
+1442	And people ... talk about the war as this epic battle between ... civilizations ... freedom versus tyranny , democracy versus Nazism , armies of millions bleeding into the ground , fleets of ships weighing down the oceans , planes dropping bombs from the sky until they obliterated the sun itself ... the war wasn 't like that for us . 	И хората казват , че войната е епична битка между цивилизациите Свобода срещу тирания , демокрация срещу нацизъм , милиони армии , кървящи по земите ... Цели флоти от кораби на дъното на океана . 
+1443	For us , it was just ... half a dozen crossword enthusiasts in a tiny village in the South of England . 	За нас беше просто ... ... няколко ентусиасти по кръстословици в едно малко селце в Англия . 
+1444	This is ... your victory . 	Това е вашата победа .. 
+1445	Victory ... of the cause of freedom in every land . 	Победа ... 
+1446	This is a solemn but glorious hour . 	Това е заветен час за нас . 
+1447	I wish that Franklin D . 	Иска ми се Рузвелт да беше жив , за да види това . 
+1448	Roosevelt had lived to see this day . 	Иска ми се Рузвелт да беше жив , за да види това . 
+1449	Was I God ? 	Дали бях бог ? 
+1450	No . 	Не ! 
+1451	Because ... 	Защото господ не спечели войната . 
+1452	God didn 't win the war . 	Защото господ не спечели войната . 
+1453	We did . 	Ние я спечелихме . 
+1454	So , what happens now ? 	Сега какво ? 
+1455	Is it ... back to university for us , I suppose ? 	Обратно в университета . 
+1456	Yes , pretty much . 	Да , нещо такова . 
+1457	But you 've one thing left to do before your service to your government in concluded . 	Има едно последно нещо преди да приключите работа . 
+1458	- What 's that ? 	Какво е то ? 
+1459	- Burn everything . 	Да изгорите всичко . 
+1460	- Burn ? 	- Изгорим ? 
+1461	Why ? 	- Изгорим ? 
+1462	- You were told when you started this was a top- secret program . 	- Казахме ви , че това е секретна програма . 
+1463	Did you think we were joking ? 	Мислите , че се шегуваме ли ? 
+1464	- But the war is over . 	- Но войната свърши . 
+1465	- This war is . 	- Тази война . 
+1466	But there 'll be others . 	Ще има и други . 
+1467	And we know how to break a code that everybody else believes is unbreakable . 	И ние знаем как да разбием код , който всички мислят за неразбиваем . 
+1468	Precisely . 	Именно . 
+1469	Tear it down . 	Разкъсайте всичко . 
+1470	Light it up . 	Изгорете го . 
+1471	Sweep away the ashes . 	Изметете пепелта . 
+1472	None of you have ever met before . 	Не сте се срещали преди . 
+1473	None of you have ever even heard the word Enigma . 	Не сте чували никога за Енигма . 
+1474	Have a safe trip home . 	Приятен път обратно . 
+1475	Behave . 	С малко късмет може би няма да се наложи да се виждате отново през живота си . 
+1476	With a bit of luck , you 'll never have to see me or one another again for the rest of your lives . 	С малко късмет може би няма да се наложи да се виждате отново през живота си . 
+1477	That 's unbelievable . 	Това е невероятно . 
+1478	Now , Detective , you get to judge . 	Сега , детективе , вие ще отсъдите . 
+1479	So , tell me ... what am I ? 	Кажете ми , какво съм ? 
+1480	Am I ... a machine ? 	Машина ли съм ? Или човек ? 
+1481	Am I a person ? 	
+1482	Am I a war hero ? 	Или герой от войната ? 
+1483	Am I a criminal ? 	Или съм престъпник ? 
+1484	I can 't judge you . 	Аз не мога да ви съдя . 
+1485	Well , then ... 	Добре ... ... значи сте ми безполезен . 
+1486	you 're no help to me at all . 	Добре ... ... значи сте ми безполезен . 
+1487	Come in . 	Влезте . 
+1488	You wanted to see me , sir ? 	Искали сте да ме видите ? 
+1489	Turing . 	Тюринг . 
+1490	Sit down . 	Седни . 
+1491	Something the matter ? 	Има ли проблем ? 
+1492	You and Christopher Morcom are quite close . 	Ти и Кристофър Моркъм сте доста близки . 
+1493	I wouldn 't say that . 	Не бих казал това . 
+1494	Well , your mathematics teacher says the two of you are positively inseparable . 	Учителят по математика казва , че сте неразделни . 
+1495	We 're the best students in the class . 	Ние сме най- добрите ученици в класа . 
+1496	He caught you passing notes the other day . 	Хванал ви е да си предавате бележки . 
+1497	Cryptography , to pass the time . 	Криптография , за да минава часа по- бързо . 
+1498	The class is too simple . 	Криптография , за да минава часа по- бързо . 
+1499	You and your friend solve maths problems during maths class because the maths class is too dull ? 	С приятеля ти изполвате криптография в часа по математика защото ви е скучно ? 
+1500	He 's not my friend . 	Той не ми е приятел . 
+1501	- Well , I 'm told he 's your only friend . 	Казаха ми , че ти е единствения приятел . 
+1502	- Who said that ? 	Кой го каза ? 
+1503	Something 's come up concerning Morcom . 	Изникна нещо ... 
+1504	Why am I here ? 	Защо съм тук . 
+1505	Christopher is dead . 	Кристофър е мъртъв . 
+1506	I don 't understand . 	Не разбирам . 
+1507	His mother sent word this morning . 	Майка му изпрати съобщение . 
+1508	The family were on holiday , you see . 	Били са на почивка . 
+1509	I don 't understand . 	Не разбирам . 
+1510	Well , he had bovine tuberculosis , as I 'm sure he told you . 	Той имаше туберкулоза , трябва да ти е казал . 
+1511	So , this won 't come as a shock , but ... still , all the same , 	Това не е изненада , но все пак съжалявам . 
+1512	I 'm sorry . 	Това не е изненада , но все пак съжалявам . 
+1513	You 're mistaken . 	Имате грешка . 
+1514	Did he not tell you ? 	Не ти ли е казал ? 
+1515	Well , he 's been sick for a long time . 	Беше болен дълго време . 
+1516	He knew this was coming soon . 	Знаеше , че краят идва . 
+1517	But he had a stiff upper lip about it . 	Но се държеше . 
+1518	Good lad . 	Добро момче . 
+1519	- Are you all right , Turing ? 	- Добре ли си , Тюринг ? - Да . 
+1520	- Yes . 	Разбира се . 
+1521	Of course . 	Разбира се . 
+1522	Like I said , I didn 't know him very well . 	Както казах , не го познавах добре . 
+1523	I see . 	О , разбирам . 
+1524	Very well . 	Добре . 
+1525	May I leave , Headmaster ? 	Може ли да изляза . 
+1526	Congratulations , sir . 	Поздравления ! 
+1527	Sorry . 	
+1528	I would have come . 	Щях да дойда . 
+1529	I would have testified . 	Щях да дам показания . 
+1530	And what would you have said , that I ... 	И какво щеше да кажеш ? 
+1531	I wasn 't a homosexual . 	Че не съм хомосексуален ? 
+1532	Alan ... this is serious . 	Алън , това е сериозно . 
+1533	They could send you to jail . 	Може да те пратят в затвора . 
+1534	Damn it . 	Проклятие . 
+1535	- Your hands . 	Треперят ... 
+1536	You 're twitching . 	Не . 
+1537	- No , I 'm not . 	Не . 
+1538	Alan . 	Алън . 
+1539	It 's the medication . 	От лекарствата е . 
+1540	The medication ? 	Лекарства ? 
+1541	Well , the judge gave me a choice ... either two years in prison or hormonal therapy . 	Съдията ми даде избор - две години затвор или хормонална терапия . 
+1542	Oh , my God . 	O , Боже . 
+1543	Oh , my God . 	Господи . 
+1544	Yes , yes , that 's right . 	Да , така е . 
+1545	Chemical castration . 	Химическа кастрация . 
+1546	To ... to cure me of my homosexual predilections . 	Да ме излекува от моята хомосексуална природа . 
+1547	Well , of course I chose that . 	Разбира се , избрах това . Имам предвид ... нямаше как ... ... да работя в затвора . 
+1548	I mean , I ... couldn 't ... work in prison , and ... 	
+1549	All right . 	Добре . 
+1550	Now , I 'm going to speak to your doctors . 	Ще говоря с аквокатите , с докторите . 
+1551	I 'm going to speak to your lawyers . 	Ще говоря с аквокатите , с докторите . 
+1552	I 'm fine . 	Добре съм . 
+1553	- Please let me help you . 	- Моля те нека да помогна . 
+1554	- No , I don 't need your help , thank you . 	- Не , нямам нужда от помощ . Благодаря . 
+1555	Alan , you do not have to do this alone . 	Алън , не трябва да правиш това сам . 
+1556	I 'm not alone . 	Не съм сам . 
+1557	Never have been . 	Никога не съм бил . 
+1558	Christopher 's become so smart . 	Кристофър е станал много умен . 
+1559	If I don 't continue my treatment , then they 'll ... they 'll take him away from me . 	Ако не продължа лечението ... ... те ще ... Те ще ми го отнемат . 
+1560	You ... 	
+1561	You can 't let them do that . 	Ти ... Не им позволявай . 
+1562	You can 't . 	
+1563	You ... you can 't let them leave me alone . 	Не им давай да ме оставят сам . 
+1564	I don 't ... 	Не искам ... 
+1565	I don 't want to be alone . 	Не искам да съм сам . 
+1566	I don 't want to be alone . 	- Не искам да съм сам . 
+1567	All ri ... all right , all right . 	- Добре , добре . 
+1568	All right . 	Добре . 
+1569	It 's all right . 	Всичко е наред . 
+1570	Come and sit down . 	Нека седнем . 
+1571	It 's all right . 	Всичко е наред . 
+1572	Come and sit down . 	Ела да седнеш . 
+1573	It 's all right . 	Всичко е наред . 
+1574	Oh , well , that 's a ... that 's a much nicer ring than the one I made you . 	Е , това е ... доста по- хубав пръстен от онзи , дето ти направих . 
+1575	Yes . 	Да . 
+1576	His name 's Jock . 	Казва се Джок . 
+1577	He 's an Army man , if you can believe it . 	Военен е . Вярваш ли го ? 
+1578	We work together . 	Работим заедно . 
+1579	Why don 't we do a crossword puzzle . 	Защо не решим една кръстословица . 
+1580	It 'll only take us five minutes . 	Ще ни отнеме 5 минути . 
+1581	Or , in your case , six . 	В твоя случай , шест . 
+1582	There . 	Ето . 
+1583	Perhaps later . 	Може би по- късно . 
+1584	Yes , of course . 	Да , разбира се . 
+1585	You got what you wanted , didn 't you ? 	Получи това , което искаше ? 
+1586	Work , a husband . 	Работа , съпруг . 
+1587	Normal life . 	Нормален живот . 
+1588	No one normal could have done that . 	Никой нормален не би могъл да направи това . 
+1589	Do you know , this morning ... 	Тази сутрин бях във влака минах през град , който нямаше да е там , ако не беше ти . 
+1590	I was on a train that went through a city that wouldn 't exist if it wasn 't for you . 	Тази сутрин бях във влака минах през град , който нямаше да е там , ако не беше ти . 
+1591	I bought a ticket from a man who would likely be dead if it wasn 't for you . 	Купих билет от човек , който щеше да е мъртъв , ако не беше ти . 
+1592	I read up on my work ... a whole field of scientific inquiry that only exists because of you . 	На работа четох цяло поле от научни изследвания , които съществуват , заради теб . 
+1593	Now , if you wish you could have been normal ... 	Ако искаш да си нормален , повярвай ми , аз не искам . 
+1594	I can promise you I do not . 	Ако искаш да си нормален , повярвай ми , аз не искам . 
+1595	The world is an infinitely better place precisely because you weren 't . 	Светът е едно по- добро място само защото ти си такъв . 
+1596	Do you ... do you really think that ? 	Наистина ли ... Наистина ли мислиш така ? 
+1597	I think ... that sometimes it is the people who no one imagines anything of who do the things that no one can imagine . 	Мисля ... че понякога именно хората , които никой не си представя в нищо , са тези , които правят неща които никой не си е представял . 

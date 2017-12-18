@@ -1,0 +1,1597 @@
+1	Are you paying attention ? 	Προσέχεις ; 
+2	Good . 	Ωραία . 
+3	If you 're not listening carefully , you will miss things , important things . 	Αν δεν ακούς προσεκτικά , θα χάσεις πράγματα , σημαντικά πράγματα . 
+4	I will not pause . 	Δεν θα κάνω παύση . 
+5	I will not repeat myself , and you will not interrupt me . 	Δεν θα τα ξαναπώ , και δεν θα με διακόψεις . 
+6	You think that because you are sitting where you are and I am sitting where I am that you are in control of what is about to happen . 	Νομίζεις , ότι επειδή κάθεσαι εκεί που κάθεσαι κι εγώ κάθομαι εδώ που κάθομαι εσύ ελέγχεις αυτό που πρόκειται να συμβεί . 
+7	You 're mistaken . 	Κάνεις λάθος . 
+8	I am in control . 	Εγώ έχω τον έλεγχο . 
+9	Because I know things that you do not know . 	Διότι γνωρίζω πράγματα που εσύ δεν γνωρίζεις . 
+10	Manchester Police Department , please hold . 	Αστυνομικό Τμήμα του Manchester , παρακαλώ περιμένετε . 
+11	Windows broken . 	Σπασμένα παράθυρα . 
+12	Home 's been ransacked . 	Το σπίτι έχει λεηλατηθεί . 
+13	Send a detective down , will you ? 	Στείλτε έναν ντετέκτιβ εκεί . 
+14	What I will need from you now is a commitment . 	Αυτό που θα χρειαστώ τώρα από σένα είναι μια δέσμευση . 
+15	You will listen closely , and you will not judge me until I am finished . 	Θα ακούσεις προσεκτικά , και δεν θα με κρίνεις μέχρι να τελειώσω . 
+16	If you cannot commit to this , then please leave the room . 	Αν δεν μπορείς να δεσμευτείς σε αυτό , τότε σε παρακαλώ να βγεις έξω . 
+17	Come in . 	Περάστε . 
+18	But if you choose to stay , remember you chose to be here . 	Αλλά αν επιλέξεις να μείνεις , να θυμάσαι ότι εσύ επέλεξες να βρίσκεσαι εδώ . 
+19	What happens from this moment forwards is not my responsibility . 	Το τι θα συμβεί από δω και πέρα , δεν είναι δική μου ευθύνη . 
+20	It 's yours . 	Είναι δική σου . 
+21	Pay attention . 	Δώσε προσοχή . 
+22	- What 's all this , then ? 	Τι είναι όλα αυτά ; 
+23	- Turing , Alan . 	Τούρινγκ , ʼλαν . 
+24	Professor at King 's . 	Καθηγητής στο King 's College . 
+25	- Seems there 's been a burglary . 	Φαίνεται ότι έγινε διάρρηξη . 
+26	- Oh ? 	Λοιπόν ; 
+27	What of ? 	Λοιπόν ; 
+28	Well , that 's just it . 	Αυτά είναι όλα . 
+29	Nothing missing , really . 	Δεν λείπει τίποτα . 
+30	What 's he doing in Manchester ? 	Τι κάνει στο Manchester ; 
+31	Something with machines . 	Κάτι με μηχανήματα . 
+32	The project at the NPL . 	Το πρότζεκ στο NPL ( Εθνικό Εργαστήριο Φυσικών Επιστημών ) . 
+33	I checked , but he won 't say what it 's on . 	Ρώτησα , αλλά δεν θέλει να πει περί τίνος πρόκειται . 
+34	Professor Turing ? 	Καθηγητά Τούρινγκ ; 
+35	Detective Nock , Manchester Police . 	Ντετέκτιβ Νοκ , Αστυνομία του Manchester . 
+36	Sergeant Staehl here tells me you had a burglary last night . 	Ο αστυνόμος Σταλ μου είπε ότι σας διέρρηξαν χθες τη νύχτα . 
+37	Professor Turing ? 	Καθηγητά Τούρινγκ ; 
+38	Take a step back , and don 't breath heavily . 	Κάντε ένα βήμα πίσω , και μην αναπνέετε βαθιά . 
+39	- Breathe ? 	- Να μην αναπνέουμε ; - Αδιάλυτο υδροκυάνιο . 
+40	- Undiluted cyanide . 	- Να μην αναπνέουμε ; - Αδιάλυτο υδροκυάνιο . 
+41	It wouldn 't take more than a thimbleful to kill you . 	Χρειάζεται μόνο μια σταγόνα για να σας σκοτώσει . 
+42	- Disappointing . 	Απογοητευτικό . 
+43	- Pardon ? 	Συγγνώμη ; 
+44	I had hoped for a bit more . 	Ήλπιζα για κάτι περισσότερο . 
+45	Sergeant Staehl , is it just me , or do you get the sense that we 're being insulted ? 	Αστυνόμε Σταλ , είναι ιδέα μου , ή αισθάνεσθε κι εσείς ότι μας προσβάλλουν ; 
+46	Last night , you had a break- in . 	Χθες το βράδυ , σας διέρρηξαν . 
+47	Your neighbor , Mr . 	Ο γείτονάς σας , κύριος Σπρίνγκμπορν , τηλεφώνησε για να αναφέρει το θόρυβο . 
+48	Springborn , called to report the noise . 	Ο γείτονάς σας , κύριος Σπρίνγκμπορν , τηλεφώνησε για να αναφέρει το θόρυβο . 
+49	He said there was quite a ruckus . 	Είπε ότι έγινε μεγάλος σαματάς . 
+50	Only you say nothing was taken . 	Μόνο που εσείς λέτε , ότι δεν πήραν τίποτα . 
+51	It 's odd . 	Είναι περίεργο . 
+52	So , how about you tell us what happened , and we 'll find the chap who did this . 	Οπότε , γιατί δεν μας λέτε τι συνέβη , για να βρούμε αυτόν που το έκανε ; 
+53	Gentlemen , I don 't believe that you could find the chap that did this if he walked up to you and spat in your face . 	Κύριοι , δεν πιστεύω ότι θα μπορέσετε να τον βρείτε ακόμα κι αν ερχόταν μπροστά σας , και σας έφτυνε στα μούτρα . 
+54	What I could us right now is not a bobby , but a really good cleaning lady . 	Αυτό που θα μου χρειαζόταν αυτή τη στιγμή δεν είναι η αστυνομία , αλλά μια καλή καθαρίστρια . 
+55	So , unless one of you has an apron in your car , 	Οπότε , εκτός αν κάποιος απτους δυο σας έχει μια ποδιά στο αυτοκίνητο , σας συστήνω να κάνετε την αναφορά σας και να με αφήσετε ήσυχο . 
+56	I suggest you file your reports and leave me alone . 	Οπότε , εκτός αν κάποιος απτους δυο σας έχει μια ποδιά στο αυτοκίνητο , σας συστήνω να κάνετε την αναφορά σας και να με αφήσετε ήσυχο . 
+57	As you say , Professor Turing . 	Όπως θέλετε , καθηγητά Τούρινγκ . 
+58	Best of luck with your cyanide . 	Καλή τύχη με το υδροκυάνιό σας . 
+59	I' ll give you a quid if you can name me a more insufferable sod . 	Θα σου δώσω μια λίρα αν μου πεις κάποιον περισσότερο ανυπόφορο . 
+60	- Seemed a bit forced , though , didn 't it ? 	Φάνηκε όμως λίγο βεβιασμένος , έτσι δεν είναι ; 
+61	- Don 't know what you mean . 	Δεν ξέρω τι εννοείς . 
+62	Well , if you didn 't want a pair of bobbies digging around in your personal affairs , that 'd have been a stellar way to make sure they don 't . 	Αν δεν θέλεις τους αστυνομικούς να χώνουν τη μύτη τους στα προσωπικά σου , αυτό θα ήταν ένας εξαιρετικός τρόπος για να μην το κάνουν . 
+63	Tell me you don 't think this is suspicious . 	Πες μου ότι δεν πιστεύεις ότι αυτό είναι ύποπτο . 
+64	I don 't think this is suspicious . 	Δεν πιστεύω ότι αυτό είναι ύποπτο . 
+65	A mysterious professor who won 't admit he 's had something stolen from his house ? 	Ένας μυστήριος καθηγητής που δεν θέλει να παραδεχθεί ότι του έκλκεψαν κάτι από το σπίτι του ; 
+66	I think Alan Turing 's hiding something . 	Νομίζω ότι ο ʼλαν Τούρινγκ κάτι κρύβει . 
+67	War declared ! 	Κηρύχθηκε πόλεμος ! 
+68	800, 000 children evacuated ! 	800 χιλιάδες παιδιά εγκατέλειψαν τη χώρα ! 
+69	German bombs on their way ! 	Oι γερμανικές βόμβες έρχονται ! 
+70	Get your papers here ! 	Πάρτε από δω τις εφημερίδες σας ! 
+71	Fresh off the press ! 	Κατευθείαν από το τυπογραφείο ! 
+72	War declared ! 	Κηρύχθηκε πόλεμος ! 
+73	800, 000 children evacuated ! 	800 χιλιάδες παιδιά εγκατέλειψαν τη χώρα ! 
+74	German bombs expected soon ! 	Αναμένονται γερμανικές βόμβες σύντομα ! 
+75	This morning , the British Ambassador in Berlin handed the German government a final note stating that unless we heard from them , by 11 : 00 , a state of war would exist between us . 	Σήμερα το πρωί , ο ʼγγλος Πρέσβης στο Βερολίνο παρέδωσε στη Γερμανική κυβέρνηση ένα τελικό σημείωμα που δήλωνε ότι εκτός και αν υπάρξει απάντηση , μέχρι τις 11 : 00 , θα υπάρξει μεταξύ μας εμπόλεμη κατάσταση . 
+76	I have to tell you now that no such undertaking has been received . 	Πρέπει να σας πω τώρα ότι δεν υπήρξε καμμία απάντηση . 
+77	And that , consequently , this country is at war with Germany . 	Και ότι , ως συνέπειαν αυτού , αυτή η χώρα είναι σε πόλεμο με τη Γερμανία . 
+78	For the second time in the lives of most of us , we are ... at war . 	Για δεύτερη φορά στις ζωές των περισσοτέρων από εμάς , είμαστε ... σε πόλεμο . ... να βρούμε μια ειρηνική λύση ... 
+79	To find a peaceful way out ... 	Για δεύτερη φορά στις ζωές των περισσοτέρων από εμάς , είμαστε ... σε πόλεμο . ... να βρούμε μια ειρηνική λύση ... 
+80	Papers , please . 	Χαρτιά , παρακαλώ . 
+81	What are you doing here ? 	Τι κάνετε εδώ ; 
+82	- Oh , the lady told me to wait . 	Η κυρία μου είπε να περιμένω . 
+83	- In my office ? 	Στο γραφείο μου ; 
+84	She tell you to help yourself to tea while you were here ? 	Σας είπε να βάλετε και τσάι ενώ θα περιμένετε ; 
+85	No , she didn 't . 	Όχι , δεν μου είπε . 
+86	She obviously didn 't tell you what a joke was , then , either , I gather . 	Φαίνεται ότι δεν σας είπε ότι αυτό ήταν αστείο . 
+87	Was she supposed to ? 	Θα έπρεπε να μου το πει ; 
+88	- Who are you ? 	Ποιος είστε ; ʼλαν Τούρινγκ . 
+89	- Alan Turing . 	Ποιος είστε ; ʼλαν Τούρινγκ . 
+90	Turing . 	Τούρινγκ . 
+91	The mathematician . 	Ο μαθηματικός . 
+92	- Correct . 	Σωστά . 
+93	- However could I have guessed ? 	Σωστά . 
+94	Well , you didn 't . 	- Δεν το μαντέψατε . 
+95	You just read it on that piece of paper . 	Το διαβάσατε μόλις σε εκείνο το χαρτί . 
+96	King 's College , Cambridge . 	King 's College , Cambridge . 
+97	Now , it says here you were a bit of a prodigy in the maths department . 	Εδώ λέει ότι ήσουν κάτι σαν ταλέντο στον τομέα των μαθηματικών . 
+98	I 'm not sure I can evaluate that , Mr .... 	Δεν είμαι σίγουρος ότι μπορώ να το εκτιμήσω εγώ αυτό , κύριε ... 
+99	- How old are you , Mr . 	- Πόσων ετών είστε , κύριε Τούρινγκ ; - 27 . 
+100	Turing ? 	- Πόσων ετών είστε , κύριε Τούρινγκ ; - 27 . 
+101	- 27 . 	- Πόσων ετών είστε , κύριε Τούρινγκ ; - 27 . 
+102	And how old were you when you became a Fellow at Cambridge ? 	Και πόσων ετών ήσαστε , όταν γίνατε μέλος στο Cambridge ; 
+103	- 24 . 	- 24 . 
+104	- And how old were you ... when you published this paper that has a title I can barely understand ? 	- Και πόσων ετών ήσαστε όταν εκδώσατε εκείνο το άρθρο που έχει ένα τίτλο που σχεδόν δεν καταλαβαίνω ; 
+105	23 . 	- 23 . 
+106	And you don 't think that qualifies you as a certified prodigy ? 	- Και δεν πιστεύετε ότι αυτά σας κάνουν πιστοποιημένο ταλέντο ; 
+107	Well , Newton discovered binomial theorem aged 22 . 	Ο Newton ανακάλυψε το διωνυμικό θεώρημα στην ηλικία των 22 ετών . 
+108	Einstein wrote four papers that changed the world by the age of 26 . 	Ο Einstein έγραψε τέσσερα άρθρα που άλλαξαν τον κόσμο μέχρι να γίνει 26 . 
+109	As far as I can tell , I' ve ... 	Εγώ μέχρι τώρα , δεν έχω πλησιάσει καν . 
+110	I' ve barely made par . 	Εγώ μέχρι τώρα , δεν έχω πλησιάσει καν . 
+111	- My God , you 're serious . 	Θεέ μου , σοβαρολογείτε . 
+112	- Would you prefer I made a joke ? 	Θα προτιμούσατε να αστειευόμουν ; 
+113	Oh , I don 't think you know what those are . 	Δεν νομίζω ότι ξέρετε τι είναι τα αστεία . 
+114	Hardly seems fair that that 's a requirement for employment here , Mr ... 	Δεν νομίζω ότι αυτό απαιτείται για να απασχοληθεί κάποιος εδώ , κύριε .. 
+115	Commander Denniston , Royal Navy . 	Διοικητής Ντένιστον , Πολεμικό Ναυτικό . 
+116	All right , Mr . 	Εντάξει , κύριε Τούρινγκ , θα ´τσιμπήσω ' . 
+117	Turing , I' ll bite . 	Εντάξει , κύριε Τούρινγκ , θα ´τσιμπήσω ' . 
+118	Why do you wish to work for His Majesty 's government ? 	Γιατί θέλετε να δουλέψετε για την κυβέρνηση ; 
+119	Oh , I don 't , really . 	Δεν θέλω , στην πραγματικότητα . 
+120	Are you a bleeding pacifist ? 	Είστε ένθερμος φιλειρηνιστής ; 
+121	I 'm ... agnostic about violence . 	Είμαι αβέβαιος για τη βία . 
+122	Well , you do realize that 600 miles away from London there 's this nasty little chap called Hitler who wants to engulf Europe in tyranny ? 	Συνειδητοποιείτε φαντάζομαι ότι 600 μίλια μακριά απ´ το Λονδίνο βρίσκεται ένας κακός ανθρωπάκος που ονομάζεται Χίτλερ ο οποίος θέλει να βυθίσει την Ευρώπη στην τυρανία . 
+123	Politics isn 't really my area of expertise . 	Τα πολιτικά δεν είναι η ειδικότης μου . 
+124	Really ? 	Αλήθεια ; 
+125	Well , I believe you 've just set the record for the shortest job interview in British military history . 	Νομίζω ότι μόλις σπάσατε το ρεκόρ την συντομότερης συνέντευξης για δουλειά στην αγγλική στρατιωτική ιστορία . 
+126	Mother says I can be off- putting sometimes on account of being one of the best mathematicians in the world . 	Η μητέρα λέει ότι μερικές φορές γίνομαι απόμακρος επειδή είμαι ένας από τους καλύτερους μαθηματικούς στον κόσμο . 
+127	- In the world ? 	Στον κόσμο ; 
+128	- Oh , yes . 	Ναι . 
+129	Do you know how many people I' ve rejected for this program ? 	Ξέρετε πόσους έχω απορρίψει γι αυτό το πρόγραμμα ; - Όχι . 
+130	No . 	
+131	Well , that 's right , because we 're a top- secret program . 	- Ακριβώς , γιατί το πρόγραμμα είναι top- secret . 
+132	But I' ll tell you , just because we 're friends , that only last week , I rejected one of our great nation 's top linguists . 	Aλλά θα σας πω , επειδή είμαστε φίλοι , ότι μόνο την προηγούμενη εβδομάδα , απέρριψα έναν από τους καλύτερους γλωσσολόγους της χώρας μας . 
+133	Knows German better than Bertolt Brecht . 	Ξέρει τα γερμανικά καλύτερα κι από τον Bertolt Brecht . 
+134	- I don 't speak German . 	Εγώ δεν μιλάω γερμανικά . 
+135	- What ? 	Ορίστε ; 
+136	I don 't ... speak German . 	Εγώ δεν ... μιλάω γερμανικά . 
+137	Well , how the hell were you supposed to decrypt German communications if you don 't ... 	Τότε πώς στο καλό θα αποκρυπτογραφούσατε τις γερμανικές επικοινωνίες , αν δεν ... ... δεν μιλάτε γερμανικά ; 
+138	I don 't know , speak German ? 	Τότε πώς στο καλό θα αποκρυπτογραφούσατε τις γερμανικές επικοινωνίες , αν δεν ... ... δεν μιλάτε γερμανικά ; 
+139	Well , I 'm really quite excellent at crossword puzzles . 	Είμαι πάρα πολύ καλός στα σταυρόλεξα . 
+140	Margaret ! 	- Μάργκαρετ ! 
+141	The German codes are a puzzle . 	- Οι γερμανικοί κώδικες είναι παζλ . 
+142	A game , just like any other game . 	Ένα παιχνίδι , όπως όλα τα άλλα παιχνίδια . 
+143	- Margaret , where are you ? 	- Μάργκαρετ , πού είσαι ; - Είμαι πολύ καλός στα παιχνίδια . 
+144	- I 'm really very good at games . 	Στα παζλ . 
+145	Puzzles . 	Στα παζλ . 
+146	And this is the most difficult puzzle in the world . 	Και αυτό είναι το πιο δύσκολο παζλ στον κόσμο . 
+147	Margaret ! 	Μάργκαρετ ! 
+148	For the love of God . 	Για όνομα του Θεού . 
+149	This is a joke , obviously . 	Αυτό είναι προφανώς αστείο . 
+150	I 'm afraid I don 't know what those are , Commander Denniston . 	Φοβάμαι ότι δεν ξέρω τι είναι αυτά , Διοικητά Ντένιστον . 
+151	Have a pleasant trip back to Cambridge , Professor . 	Καλό ταξίδι επιστροφής στο Cambridge , καθηγητά . 
+152	Enigma . 	" Enigma " ( Αίνιγμα ) . 
+153	You called for me ? 	Με φωνάξατε ; 
+154	That 's what you 're doing here . 	Αυτό κάνετε εδώ . 
+155	The top- secret program at Bletchley . 	Το πρόγραμμα άκρας μυστικότητας στο Bletchley . 
+156	You 're trying to break the German Enigma machine . 	Προσπαθείτε να σπάσετε την γερμανική μηχανή " Enigma " . 
+157	What makes you think that ? 	Tι σας κάνει να το πιστεύετε αυτό ; 
+158	It 's the greatest encryption device in history , and the Germans use it for all major communications . 	Είναι το σπουδαιότερο μηχάνημα κρυπτογράφησης στην ιστορία , και οι γερμανοί το χρησιμοποιούν για όλες τις σημαντικές επικοινωνίες . 
+159	If the Allies broke Enigma , well ... this would turn into a very short war , indeed . 	Αν οι Σύμμαχοι έσπαγαν το " Enigma " , αυτός ο πόλεμος θα ήταν πολύ σύντομος . 
+160	Of course that 's what you 're working on . 	Φυσικά επάνω σε αυτό δουλεύετε . 
+161	But you also haven 't got anywhere with it . 	Αλλά δεν έχετε φθάσει πουθενά ακόμα . 
+162	If you had , you wouldn 't be hiring cryptographers out of university . 	Αν είχατε πετύχει κάτι , δεν θα παίρνατε κρυπτογράφους από τα πανεπιστήμια . 
+163	You need me a lot more than I need you . 	Εσείς με χρειάζεστε πολύ περισσότερο απ´ όσο εγώ εσάς . 
+164	I like solving problems , Commander . 	Εμένα μου αρέσει να λύνω προβλήματα , Διοικητά . 
+165	And Enigma is the most difficult problem in the world . 	Και το Enigma είναι το πιο δύσκολο πρόβλημα του κόσμου . 
+166	No , Enigma isn 't difficult ; it 's impossible . 	Όχι , το Engima δεν είναι δύσκολο . Είναι αδύνατον . 
+167	The Americans , the Russians , the French , the Germans , everyone thinks Enigma is unbreakable . 	Οι αμερικάνοι , οι ρώσοι , οι γάλλοι , οι γερμανοί , όλοι πιστεύουν ότι το Enigma είναι απαραβίαστο . 
+168	Good . 	Ωραία . 
+169	Let me try , and we 'll know for sure , won 't we ? 	Αφήστε με να προσπαθήσω , και θα μπορέσουμε να βεβαιωθούμε , έτσι δεν είναι ; 
+170	Welcome to Enigma . 	Καλωσόρισες στο Enigma . 
+171	The details of every surprise attack , every secret convoy and every U- boat in the bloody Atlantic go into that thing . 	Οι λεπτομέρειες κάθε αιφνιδιαστικής επίθεσης , κάθε μυστικής φάλαγγας και κάθε υποβρυχίου στον Ατλαντικό πηγαίνουν σε αυτό το πράγμα . 
+172	And out comes gibberish . 	Και μετά βγαίνουν αλαμπουρνέζικα . 
+173	It 's beautiful . 	Είναι πανέμορφο . 
+174	It 's the crooked hand of death itself . 	Είναι το σάπιο χέρι του ίδιου του θανάτου . 
+175	Our Wrens intercept thousands of radio messages a day , and to the lovely young ladies of the Women 's Royal Navy , they 're nonsense . 	Οι Wrens ( γυναικείο τμήμα Ναυτικού ) ' πιάνουν´ χιλιάδες μηνύματα κάθε μέρα , και γι αυτές τις νεαρές κυρίες του Γυναικείου Βασιλικού Ναυτικού , όλα είναι ανοησίες . 
+176	It 's only when you feed them back into Enigma that they make any sense . 	Μόνο αν κάποιος τα βάλει πίσω στο Enigma βγάζουν νόημα . 
+177	But we have an Enigma machine . 	Μόνο αν κάποιος τα βάλει πίσω στο Enigma βγάζουν νόημα . 
+178	Yes , Polish Intelligence smuggled it out of Berlin . 	Μα έχουμε μηχανή Enigma . Ναι , οι Πολωνικές Μυστικές Υπηρεσίες το έβγαλαν παράνομα από το Βερολίνο . 
+179	So , what 's the problem ? 	Και ποιο είναι το πρόβλημα ; 
+180	Just put the intercepted messages 	Βάλτε τα κλεμένα μηνύματα πίσω στο Enigma και θα ... 
+181	- back into the Enigma and you 'll ... 	Βάλτε τα κλεμένα μηνύματα πίσω στο Enigma και θα ... 
+182	- Look , it 's not that simple , is it ? 	Κοιτάξτε , δεν είναι τόσο απλό . 
+183	Just having an Enigma machine doesn 't help you to decode the messages . 	Το να έχεις απλά μια μηχανή Εnigma δεν βοηθάει στην αποκωδικοποίηση των μηνυμάτων . 
+184	Very good , Mr . 	Πολύ καλά , κύριε Τούρινγκ . 
+185	Turing . 	Πολύ καλά , κύριε Τούρινγκ . 
+186	To decode a message , you need to know the machine 's settings . 	Για να αποκωδικοποιήσεις ένα μήνυμα , πρέπει να ξέρεις τις ρυθμίσεις της μηχανής . 
+187	Now , the Germans switch settings every day promptly at midnight . 	Οι Γερμανοί αλλάζουν ρυθμίσεις κάθε μέρα , ακριβώς τα μεσάνυχτα . 
+188	We usually intercept our first message around 6 : 00 a . m . , which gives you exactly 18 hours every day to crack the code before it changes , and you start again . 	Συνήθως κλέβουμε το πρώτο μήνυμα γύρω στις 6 : 00 π . μ . , πράγμα που σου δίνει ακριβώς 18 ώρες κάθε μέρα για να σπάσεις τον κώδικα πριν αλλάξει , και πρέπει να ξαναρχίσεις . 
+189	Five rotors . 	Πέντε ρότορες . 
+190	Ten plugboard cables . 	Δέκα καλώδια . 
+191	That 's ... 	Δέκα καλώδια . 
+192	- One million ... 	- Αυτό μας κάνει ένα εκατομμύριο ... 
+193	- A thousand million ... 	- 100 εκατομμύρια ... 
+194	No , no , it 's , I' ve got it . 	
+195	- It 's million , million . 	Είναι εκατομμύρια εκατομμύρια . 
+196	- It 's in the millions , obviously . 	Είναι εκατομμύρια εκατομμύρια . 
+197	It 's over 150 million million million possible settings . 	Είναι πάνω από 150 εκατομμύρια εκατομμυρίων δυνατές ρυθμίσεις . 
+198	Very good . 	Πολύ καλά . 
+199	159 . 	159 . 
+200	If you want to be exact about it . 	159 . 
+201	1- 5- 9 with 18 zeroes behind it . 	Αν θέλουμε να είμαστε ακριβείς . 1- 5- 9 με 18 μηδενικά . 
+202	Possibilities . 	Πιθανότητες . 
+203	Every single day . 	Κάθε μέρα . 
+204	Gentlemen , meet Hugh Alexander . 	Κύριοι , να σας συστήσω τον Χιού Αλεξάντερ . 
+205	I personally selected him to run this unit . 	Τον επέλεξα προσωπικά 
+206	Didn 't you ... 	- για επικεφαλής αυτού του τμήματος . 
+207	Mr . 	- Εσείς δεν ήσαστε ... 
+208	Alexander won Britain 's national chess championship . 	Ο κύριος Αλεξάντερ κέρδισε το Εθνικό Πρωτάθλημα Σκακιού . 
+209	Twice . 	Δύο φορές . 
+210	You 're not the only one who 's good at games around here , Turing . 	Δεν είσαι μόνο εσύ που είσαι καλός στα παιχνίδια , Τούρινγκ . 
+211	Are we to work together , then ? 	Θα δουλέψουμε μαζί , δηλαδή ; 
+212	I prefer to have my own office . 	Προτιμώ να έχω το δικό μου γραφείο . 
+213	You 're a team , and you will work as one . 	Είστε ομάδα , και θα δουλέψετε σαν ομάδα . 
+214	I don 't have time to explain myself as I go along , and ... 	Δεν έχω χρόνο να εξηγώ τι κάνω , καθώς θα προσπαθώ , και φοβάμαι ότι αυτοί οι άντρες 
+215	I 'm afraid these men would only slow me down . 	- θα με καθυστερούν . 
+216	If you can 't play together , then I 'm afraid we can 't let you play at all . 	- Αν δεν μπορείτε να ´παίξετε´ μαζί , τότε φοβάμαι ότι δεν θα μπορέσετε να ´παίξετε´ καθόλου . 
+217	This is Stewart Menzies , MI6 . 	Από δω ο Στιούαρτ Μίνγκες , MI6 . 
+218	There are only five divisions of military intelligence . 	Υπάρχον μόνο πέντε μονάδες στρατιωτικών υπηρεσιών πληροφοριών . Δεν υπάρχει MI6 . 
+219	There is no MI6 . 	
+220	Exactly . 	Ακριβώς . 
+221	That 's the spirit . 	Έτσι μπράβο . 
+222	Mr . 	Έτσι μπράβο . 
+223	Turing , do you know how many British servicemen have died because of Enigma ? 	Κύριε Τούρινγκ , ξέρετε πόσοι άγγλοι στρατιώτες έχουν πεθάνει , εξ αιτίας του Enigma ; 
+224	- No , I don 't . 	Όχι , δεν ξέρω . 
+225	- Three ... while we 've been having this conversation . 	Τρεις ... κατά τη διάρκεια αυτής της συζήτησης 
+226	Oh , look , there 's another . 	Να κι άλλος . 
+227	I rather hope he didn 't have a family . 	Ελπίζω να μην είχε οικογένεια . 
+228	This war Commander Denniston 's been going on about , we 're not winning it . 	Αυτόν τον πόλεμο , για τον οποίο συζητάει ο Διοικητής Ντένιστον , δεν τον κερδίζουμε . 
+229	Break the code , at least we have a chance . 	Αν σπάσουμε τον κώδικα , θα έχουμε μια ελπίδα . 
+230	Shall we leave the children alone with their new toy ? 	Να αφήσουμε τα παιδιά μόνα τους με το καινούργιο τους παιχνίδι ; 
+231	All right , gentlemen ... 	Λοιπόν , κύριοι ... ας παίξουμε . 
+232	Let 's play . 	Λοιπόν , κύριοι ... ας παίξουμε . 
+233	The game was quite a simple one . 	Το παιχνίδι ήταν πολύ απλό . 
+234	Every single German message , every surprise attack , every bombing run , every imminent U- boat assault ... 	Κάθε γερμανικό μήνυμα , κάθε αιφνιδιαστική επίθεση , κάθε βομβαρδισμός , κάθε επικείμενη επίθεση από U- boat ( γερμανικά υποβρύχια ) ... 
+235	They were all floating through the air . 	Όλα ´πετούσαν´ μέσω αέρος . 
+236	Radio signals that ... well , any schoolboy with an AM kit could intercept . 	Ραδιοσήματα που ... κάθε μαθητής με ένα δέκτη μεσαίων κυμάτων μπορούσε να κλέψει . 
+237	The trick was that they were encrypted . 	Το θέμα ήταν , ότι ήταν κρυπτογραφημένα . 
+238	There were 159 million million million possible Enigma settings . 	Υπήρχαν 159 εκατομμύρια εκατομμυρίων εκατομμυρίων πιθανές ρυθμίσεις του Enigma . 
+239	All we had to do was try each one . 	Το μόνο που είχαμε να κάνουμε , ήταν να δοκιμάσουμε την κάθε μία . 
+240	But if we had ten men checking one setting a minute for 24 hours every day and seven days every week , how many days do you think it would take to ... to check each of the settings ? 	Αλλά αν είχαμε 10 άντρες να τσεκάρουν μια ρύθμιση το λεπτό για 24 ώρες κάθε μέρα , και 7 ημέρες κάθε βδομάδα , πόσες μέρες πιστεύετε ότι θα χρειαζόταν για ... να τσεκαριστεί κάθε ρύθμιση ; 
+241	Well , it 's not days , it 's years . 	Δεν είναι μέρες , είναι χρόνια . 
+242	- Good morning . 	Καλημέρα . 
+243	- It 's 20 million years . 	Θα χρειάζονταν 20 εκατομμύρια χρόνια . 
+244	- To stop a coming attack ... 	Για να σταματήσουμε μια επερχόμενη επίθεση , θα έπρεπε να τσεκάρουμε ρυθμίσεις που θα ήθελαν 20 εκατομμύρια χρόνια σε 20 λεπτά . 
+245	- Thank you . ... we would have to check 20 million years´ worth of settings in 20 minutes . 	Για να σταματήσουμε μια επερχόμενη επίθεση , θα έπρεπε να τσεκάρουμε ρυθμίσεις που θα ήθελαν 20 εκατομμύρια χρόνια σε 20 λεπτά . 
+246	I 'm famished . 	Πεθαίνω της πείνας . 
+247	Lunch ? 	Μεσημεριανό ; 
+248	Good Lord . 	Θεέ μου . 
+249	What is it about women with little hats ? 	Τι γίνεται με τις γυναίκες με τα μικρά καπέλα ; 
+250	The boys , we 're going to get some lunch . 	Αγόρια , πάμε να πάρουμε φαγητό . 
+251	- Alan ? 	ʼλαν ; 
+252	- Yes ? 	Ναι ; 
+253	I said we 're going to get some lunch . 	Είπα ότι θα πάμε να πάρουμε φαγητό . 
+254	- Alan ? 	ʼλαν ; 
+255	- Yes ? 	Ναι ; 
+256	- Can you hear me ? 	- Με ακούς ; - Ναι . 
+257	- Yes . 	Είπα ότι θα πάμε να πάρουμε ... 
+258	I said we 're off to get some lu ... 	Είπα ότι θα πάμε να πάρουμε ... 
+259	This is starting to get a little bit repetitive . 	Αυτό αρχίζει να επαναλαμβάνεται . 
+260	What is ? 	- Ποιο ; - Ρώτησα αν θέλεις να έρθεις μαζί μας για φαγητό . 
+261	I had asked if you wanted to come to lunch with us . 	- Ποιο ; - Ρώτησα αν θέλεις να έρθεις μαζί μας για φαγητό . 
+262	No , you didn 't . 	Όχι , δεν ρώτησες . 
+263	You said you were going to get some lunch . 	Είπες ότι θα πηγαίνατε να πάρετε φαγητό . 
+264	- Have I offended you in some way ? 	Μήπως σε πρόσβαλα ; 
+265	- Why would you think that ? 	Γιατί το λες αυτό ; 
+266	- Would you like to come to lunch with us ? 	Θέλεις να έρθεις μαζί μας για μεσημεριανό ; 
+267	- What time 's lunchtime ? 	- Πότε είναι η ώρα του μεσημεριανού ; - Χριστέ μου , ʼλαν , είναι ένα σάντουιτς . 
+268	Christ , Alan , it 's a bleeding sandwich . 	- Πότε είναι η ώρα του μεσημεριανού ; - Χριστέ μου , ʼλαν , είναι ένα σάντουιτς . 
+269	- What is ? 	- Ποιο ; - Το μεσημεριανό . 
+270	- Lunch . 	- Ποιο ; - Το μεσημεριανό . 
+271	- Oh , I don 't like sandwiches . 	Δεν μου αρέσουν τα σάντουιτς . 
+272	- Never mind . 	Δεν πειράζει . 
+273	You know , to pull off this irascible genius routine , one actually has to be a genius , Alan . 	Ξέρεις , για να βγάλει κάποιος αυτή την σπαστική ρουτίνα ευφυίας , πρέπει να είναι διάνοια , ʼλαν . 
+274	And yet we 're the ones making progress here , aren 't we ? 	Κι όμως , εμείς είμαστε που κάναμε κάποια πρόοδο εδώ πέρα . 
+275	Oh , you are ? 	Αλήθεια ; 
+276	Yes , we are . 	Ναι . 
+277	We have decrypted a number of German messages by analyzing the frequency of letter distribution . 	Αποκρυπτογραφήσαμε έναν αριθμό γερμανικών μηνυμάτων αναλύοντας τη συχνότητα της κατανομής των γραμμάτων . 
+278	Oh , even a broken clock is right twice a day . 	Ακόμη κι ένα χαλασμένο ρολόι πάει σωστά δύο φορές τη μέρα . 
+279	That 's not progress ; that 's just blind luck . 	Αυτό δεν είναι πρόοδος , είναι απλά τυφλή τύχη . 
+280	I 'm designing a machine that will allow us to break every message every day instantly . 	Σχεδιάζω ένα μηχάνημα που θα μας επιτρέψει να σπάσουμε κάθε μήνυμα κάθε μέρα άμεσα . 
+281	Who 's hungry ? 	Ποιος πεινάει ; 
+282	Let 's go . 	Πάμε . 
+283	I 'm hungry . 	Εγώ πεινάω . 
+284	What ? 	Ορίστε ; 
+285	Peter asked who was hungry . 	Ο Πήτερ ρώτησε ποιος πεινάει . 
+286	Can I have some soup , please ? 	Μπορώ να έχω λίγη σούπα , παρακαλώ ; 
+287	What do you mean , " classified " ? 	Τι εννοείτε , " απόρρητα " ; 
+288	No , I 'm aware of the literal meaning of the word classified . 	Όχι , γνωρίζω την κυριολεκτική έννοια της λέξεως . 
+289	What I 'm asking is why would a maths professor have his military records classified ? 	Αυτό που ρωτάω , είναι γιατί ένας καθηγητής μαθηματικών να έχει απόρρητους τους στρατιωτικούς του φακέλους ; 
+290	Yeah , well , I will come down . 	Ναι , θα κατέβω . 
+291	Sorry , can I get you to hold for a minute , please ? 	
+292	Pardon me , I 'd like to see some documents , if I may . 	Με συγχωρείτε , θα ήθελα να δω κάποια έγγραφα , αν μπορώ . 
+293	Service records of a Mr . 	Τους στρατιωτικούς φακέλους του κυρίου Τούρινγκ . ʼλαν . 
+294	Turing . 	Τους στρατιωτικούς φακέλους του κυρίου Τούρινγκ . ʼλαν . 
+295	Alan . 	Τους στρατιωτικούς φακέλους του κυρίου Τούρινγκ . ʼλαν . 
+296	Foreign Office sent me . 	Με έστειλε το Υπουργείο Εξωτερικών . 
+297	This is unacceptable . 	Αυτό είναι απαράδεκτο . 
+298	If you wish to discuss the complaint , I suggest you make a proper appointment . 	Αν θέλετε να συζητήσετε την καταγγελία , σας συνιστώ να κλείσετε ένα κανονικό ραντεβού . 
+299	Alexan ... 	Αν θέλετε να συζητήσετε την καταγγελία , σας συνιστώ να κλείσετε ένα κανονικό ραντεβού . 
+300	Complaint ? 	Ο Αλεξάν ... Καταγγελία ; 
+301	No , no , Hugh Alexander has denied my requisition for parts and equipment that I need to build the machine I' ve designed . 	Όχι , όχι , ο Χιού Αλεξάντερ αρνήθηκε το αίτημά μου για κομμάτια και εξοπλισμό που χρειάζομαι για να φτιάξω το μηχάνημα που σχεδίασα . 
+302	Your fellow code- breakers are refusing to work with you , and they filed a formal complaint . 	Οι συνάδελφοί σας αρνούνται να δουλέψουν μαζί σας , και έκαναν επίσημη καταγγελία . 
+303	It 's is inspired by an old Polish code machine . 	Είναι εμπνευσμένο από ένα παλιό πολωνικό αποκωδικοποιητή . 
+304	- Only this one is infinitely more advanced . 	Μόνο που αυτό είναι πολύ πιο προηγμένο . 
+305	- If you don 't respond to the complaint , 	Μόνο που αυτό είναι πολύ πιο προηγμένο . 
+306	I shall have to take it up with the Home Office . 	Αν δεν απαντήσετε στην καταγγελία , θα αναγκαστώ να πάω στο ζήτημα στα Κεντρικά . 
+307	- Put those files by my desk . 	Βάλτε αυτούς τους φακέλους στο γραφείο μου . 
+308	- Fine , my response is they 're all idiots . 	Ωραία , η απάντησή μου είναι ότι είναι όλοι ηλίθιοι . 
+309	Fire them and use the savings to fund my machine . 	Απολύστε τους και χρησιμοποιείστε τα χρήματα για τη χρηματοδότηση της μηχανής μου . 
+310	I only need about 100, 000 pounds . 	Χρειάζομαι μόνο γύρω στις 100 χιλιάδες λίρες . 
+311	100, 000 ... 	100 χιλιάδες ... 
+312	Why are you building a machine ? 	Γιατί φτιάχνετε μηχάνημα ; 
+313	It 's highly technical . 	Είναι πολύ τεχνικό ζήτημα . 
+314	You wouldn 't understand . 	Δεν θα καταλαβαίνατε . 
+315	I suggest you make the effort to try . 	Θα πρότεινα να κάνετε προσπάθεια να δοκιμάσετε . 
+316	Enigma is ... an extremely well- designed machine . 	Το Enigma είναι ... ένα εξαιρετικά καλοσχεδιασμένο μηχάνημα . 
+317	Our problem is that we 're only using men to try to beat it . 	Το πρόβλημά μας είναι , ότι χρησιμοποιούμε μόνο ανθρώπους για να το ´νικήσουμε ' . 
+318	No , what if only a machine can defeat another machine ? 	Κι αν μόνο ένα μηχάνημα μπορεί να νικήσει ένα άλλο μηχάνημα ; 
+319	Well , that 's not very technical . 	Αυτό δεν είναι πολύ τεχνικό ζήτημα . 
+320	Hugh Alexander is in charge of your unit . 	Ο Χιου Αλεξάντερ είναι επικεφαλής του τμήματός σας . 
+321	He said no , and that is that . 	Αρνήθηκε , και τέλος . 
+322	I simply don 't have time for this . 	Δεν έχω χρόνο για αυτά . 
+323	Have you ever won a war , Turing ? 	Κέρδισες ποτέ πόλεμο , Τούρινγκ ; 
+324	I have . 	Εγώ έχω κερδίσει . 
+325	Do you know how it 's done ? 	Ξέρεις πώς γίνεται ; 
+326	Order , discipline , chain of command . 	Τάξη , πειθαρχία , γραμμή διοίκησης . 
+327	You 're not at university any longer . 	Δεν είσαι πια στο πανεπιστήμιο . 
+328	You are a very small cog in a very large system . 	Είσαι ένα πολύ μικρό γρανάζι σε ένα πολύ μεγάλο σύστημα . 
+329	And you will do as your commanding officer instructs . 	Και θα κάνεις αυτό που λέει ο ανώτερός σου . 
+330	Yes . 	Ναι . 
+331	Who is your commanding officer ? 	Ποιος είναι ο δικός σας ανώτερος ; 
+332	Winston Churchill , Number 10 Downing Street , London , SW1 . 	Ο Ουίνστον Τσώρτσιλ , αριθμός 10 της Downing Street , Λονδίνο , SW1 . 
+333	You have a problem with my decision , you can take it up with him . 	Αν έχεις πρόβλημα με την απόφασή μου , μπορείς να απευθυνθείς σε κείνον . 
+334	Mr . 	Κύριε Μίνγκες ! 
+335	Menzies ! 	Κύριε Μίνγκες ! 
+336	Mr . 	Κύριε Μίνγκες ! 
+337	Menzies ! 	
+338	Are you going to London ? 	Πηγαίνετε στο Λονδίνο ; 
+339	Possibly . 	Πιθανόν . 
+340	Would you deliver a letter for me ? 	Θα μπορούσατε να παραδώσετε ένα γράμμα για μένα ; 
+341	Look , I 'm sorry , but are you joking ? 	Λυπάμαι , αλλά μήπως αστειεύεστε ; 
+342	Churchill 's put Alan in charge ? 	Ο Τσώρτσιλ έβαλε επικεφαλής τον ʼλαν ; 
+343	- This is a terrible idea . 	- Αυτή είναι τρομερή ιδέα . 
+344	- No , no , no , no , no . 	- Όχι , όχι , όχι . 
+345	So , I can give these men orders now ? 	Λοιπόν , μπορώ να δίνω εντολές σε αυτούς τους άντρες τώρα ; 
+346	I hate to say it , but yes . 	Δεν μου αρέσει που το λέω , αλλά ναι . 
+347	Excellent . 	Εξαιρετικά . 
+348	Keith and Charles , you 're both fired . 	Κηθ και Τσαρλς , απολύεστε και οι δύο . 
+349	- Excuse me ? 	- Ορίστε ; - Τι ; 
+350	- What ? 	- Ορίστε ; - Τι ; 
+351	You 're mediocre linguists , and positively poor code- breakers . 	Είστε μέτριοι γλωσσολόγοι , και θετικά ανεπαρκείς για αποκωδικοποίηση . ʼλαν , δεν μπορείς να απολύσεις έτσι απλά τον Κηθ και τον Τσαρλς . 
+352	Alan , you can 't just fire Keith and Charles . 	Είστε μέτριοι γλωσσολόγοι , και θετικά ανεπαρκείς για αποκωδικοποίηση . ʼλαν , δεν μπορείς να απολύσεις έτσι απλά τον Κηθ και τον Τσαρλς . 
+353	- Well , he just said I could . 	Μόλις είπε ότι μπορώ . 
+354	- No , I did no such thing . 	Όχι , δεν έκανα κάτι τέτοιο . 
+355	But Churchill did . 	Όμως το έκανε ο Τσώρτσιλ . 
+356	Go to hell . 	Πήγαινε στο διάβολο . 
+357	Well , this is inhuman . 	Λοιπόν , αυτό είναι απάνθρωπο . Ακόμα και για σένα . 
+358	Even for you . 	
+359	Popular at school , were you ? 	Ήσουν δημοφιλής στο σχολείο ; 
+360	The problem began , of course , with the carrots . 	Το πρόβλημα ξεκίνησε , φυσικά , με τα καρότα . 
+361	Carrots are orange . 	Τα καρότα είναι πορτοκαλί . 
+362	And peas are green . 	Και τα φασόλια είναι πράσινα . 
+363	They mustn 't touch . 	Δεν πρέπει να ακουμπούν . 
+364	I got it . 	Το κάνω εγώ . 
+365	Do you know why people like violence ? 	Ξέρετε γιατί στους ανθρώπους αρέσει η βία ; 
+366	It is because it feels ... good . 	Γιατί νιώθουν ... καλά . 
+367	Humans find violence deeply satisfying . 	Οι άνθρωποι βρίσκουν τη βία πάρα πολύ ικανοποιητική . 
+368	But remove the satisfaction , and ... the act becomes ... hollow . 	Αλλά αν βγάλεις την ικανοποίηση , η πράξη γίνεται ... κενή . 
+369	Turing ? 	Τούρινγκ ; 
+370	Come on . 	Έλα . 
+371	Don 't be such a kike about it . 	Μην κάνεις σαν βρωμοεβραίος . 
+372	Leave him to bloody rot . 	ʼστον να σαπίσει . 
+373	I didn 't learn this on my own , of course . 	Δεν το έμαθα αυτό μόνος μου , φυσικά . 
+374	I had help . 	Είχα βοήθεια . 
+375	Christopher helped . 	Βοήθησε ο Κρίστοφερ . ʼλαν , είσαι καλά ; 
+376	Alan , are you all right ? 	Βοήθησε ο Κρίστοφερ . ʼλαν , είσαι καλά ; 
+377	It 's not my fault . 	Δεν φταίω εγώ . 
+378	The carrots got in with the peas and ... 	Τα καρότα αναμίχθηκαν με τα φασόλια και ... 
+379	- I 'm sorry . 	Λυπάμαι . 
+380	I won 't let them do it again . 	Δεν θα τους αφήσω να το ξανακάνουν . 
+381	- They 're getting worse . 	Χειροτερεύουν . 
+382	They only beat me up because I 'm smarter than they are . 	Με δέρνουν γιατί είμαι πιο έξυπνος απ´ αυτούς . 
+383	No , they beat you up because you 're different . 	Όχι , σε δέρνουν γιατί είσαι διαφορετικός . 
+384	- Mother says I 'm just an odd duck . 	Η μητέρα λέει ότι είμαι απλά ασυνήθιστος . 
+385	- And she 's right . 	Και έχει δίκιο . 
+386	But you know , Alan , sometimes it 's the very people who no one imagines anything of who do the things no one can imagine . 	Αλλά ξέρεις , ʼλαν , μερικές φορές , είναι εκείνοι για τους οποίους κανείς δεν φαντάζεται που κάνουν πράγματα που κανείς δεν μπορεί να φανταστεί . 
+387	So , what do we do now ? 	Λοιπόν , τι κάνουμε τώρα ; 
+388	- We 're short on staff . 	Μας λείπει προσωπικό . 
+389	- Well , we get more staff then . 	Να πάρουμε περισσότερο προσωπικό , τότε . 
+390	And how do you propose to do that ? 	Και πώς προτείνεις να το κάνουμε αυτό ; 
+391	- Alan Turing to see Stewart Menzies . 	ʼλαν Τούρινγκ για να δω τον Στιούαρτ Μίνγκες . 
+392	- Very good , sir . 	Πολύ καλά , κύριε . 
+393	- So , who are they ? 	Λοιπόν , ποιοι είναι ; 
+394	- Oh , all sorts , really . 	Διάφοροι . 
+395	Teacher , an engineer , a handful of students . 	Δάσκαλος , ένας μηχανικός , μερικοί μαθητές . 
+396	And you think they 're qualified for Bletchley ' cause they 're good at crossword puzzles ? 	Και νομίζετε ότι έχουν τα προσόντα για το Bletchley επειδή είναι καλοί στα σταυρόλεξα ; 
+397	Well , they say they 're good , and now we shall find out , won 't we ? 	Λένε ότι είναι καλοί , και τώρα θα το εξακριβώσουμε . 
+398	In order to aid your efforts , there is , to the right of you , a green scratch card book . 	Για να βοηθήσουμε τις προσπάθειές σας , υπάρχει δεξιά σας , ένα πράσινο βιβλίο καρτών . 
+399	You are to make notes in that . 	Μπορείτε να σημειώνετε εκεί . 
+400	Gentlemen , you have six minutes in which to complete the puzzle , at which point , I will ... 	Κύριοι , έχετε 6 λεπτά για να συμπληρώσετε το παζλ , και μετά , εγώ θα ... 
+401	Pardon , ma 'am , this room 's restricted . 	Συγγνώμη , κυρία , δεν επιτρέπεται η είσοδος . 
+402	Apologies for my tardiness . 	Συγγνώμη που άργησα . 
+403	The bus caught a flat tire . 	Το λεωφορείο είχε λάστιχο . 
+404	May I continue , please ? 	Μπορώ να συνεχίσω , παρακαλώ ; 
+405	Thank you . 	Δεν μπορείτε να μπείτε εδώ , κυρία . 
+406	- You 're not allowed in here , ma 'am . 	Δεν μπορείτε να μπείτε εδώ , κυρία . 
+407	- Oh , but I 'm only a few minutes late . 	Μα άργησα μόνο λίγα λεπτά . 
+408	The secretaries are to head upstairs . 	Οι γραμματείς πηγαίνουν στον επάνω όροφο .. 
+409	This room 's for the candidates . 	Αυτή η αίθουσα είναι για τους υποψηφίους . 
+410	May I get on with this now , please ? 	Μπορώ να συνεχίσω εγώ , παρακαλώ ; 
+411	- I am a candidate . 	Είμαι υποψήφια . 
+412	- For what position ? 	Για ποια θέση ; 
+413	- The letter didn 't say precisely . 	Το γράμμα δεν έλεγε ακριβώς . 
+414	- Yeah , so secretaries are to head upstairs . 	Ναι , λοιπόν , οι γραμματείς είναι στον επάνω όροφο . 
+415	- It did say that it was top secret . 	Έλεγε ότι είναι υψίστης μυστικότητας . 
+416	- What is going on ? 	Τι συμβαίνει ; 
+417	I solved a crossword puzzle in the newspaper , and I got this letter saying that I was a candidate for some sort of mysterious job . 	Έλυσα ένα σταυρόλεξο στην εφημερίδα , και έλαβα αυτό το γράμμα που έλεγε , ότι ήμουν υποψήφια για κάποια μυστηριώδη εργασία . 
+418	My name 's Joan Clarke . 	Ονομάζομαι Τζόαν Κλαρκ . 
+419	Miss , did you really solve this puzzle yourself ? 	Μις , λύσατε αλήθεια μόνη σας αυτό το σταυρόλεξο ; 
+420	What makes you think I couldn 't solve the puzzle myself ? 	Τι σας κάνει να πιστεύετε , ότι δεν θα μπορούσα να το λύσω μόνη μου ; 
+421	- I 'm really very good at ... 	- Είμαι πολύ καλή σε ... 
+422	- Ma 'am , I' ll have to ask you to ... 	- Κυρία , - πρέπει να σας ζητήσω να ... 
+423	Miss Clarke , I find tardiness under any circumstance , unacceptable . 	- Μις Κλαρκ , βρίσκω την αργοπορία υπό οποιεσδήποτε συνθήκες , απαράδεκτη . 
+424	Take a seat so that we may continue . 	Καθήστε , για να μπορέσουμε να συνεχίσουμε . 
+425	Thank you . 	Ευχαριστώ . 
+426	Now , as I was saying , you have six minutes to complete the task in front of you . 	Τώρα , όπως έλεγα , έχετε 6 λεπτά για να συμπληρώσετε το παζλ που βρίσκεται μπροστά σας . 
+427	Gentlemen and lady , begin . 	Κύριοι και κυρία , ξεκινήστε . 
+428	Six minutes . 	Έξι λεπτά . 
+429	- Is that even possible ? 	Είναι καν δυνατόν ; 
+430	- No , it takes me eight . 	Όχι , εγώ κάνω οκτώ . 
+431	This isn 't about crossword puzzles . 	Δεν έχει να κάνει με τα σταυρόλεξα . 
+432	It 's about how one approaches solving an impossible problem . 	Έχει να κάνει με το πώς κάποιος , προσεγγίζει τη λύση ενός αδύνατου προβλήματος . 
+433	Do you tackle the whole thing at once or divide it into small ... 	Το αντιμετωπίζετε ολόκληρο απευθείας , ή το διαιρείτε σε μικρά ... 
+434	- You 've finished ? 	Τελειώσατε ; 
+435	- Yes . 	Μάλιστα . 
+436	- Five minutes and 34 seconds . 	5 λεπτά και 34 δεύτερα . 
+437	- You said to do it in under six . 	Είπατε να το λύσουμε σε λιγότερο από 6 λεπτά . 
+438	Congratulations . 	Συγχαρητήρια . 
+439	My warmest welcome to His Majesty 's service . 	Σας καλωσορίζω θερμά στις υπηρεσίες της Αυτού Μεγαλειότητος . 
+440	If you speak a word of what I 'm about to show you , you will be executed for high treason . 	Αν πείτε έστω και μια λέξη , γι αυτά που πρόκειται να σας δείξω , θα εκτελεστείτε για εσχάτη προδοσία . 
+441	You will lie to your friends , your family and everyone you meet about what it is you really do . 	Θα πείτε ψέμματα στους φίλους σας , στην οικογένειά σας , και σε όλους όσους συναντάτε γι αυτό που κάνετε στην πραγματικότητα . 
+442	And what is it that we 're really doing ? 	Και τι είναι αυτό που κάνουμε στην πραγματικότητα ; 
+443	We 're going to break an unbreakable Nazi code and win the war . 	Θα σπάσουμε έναν κωδικό των Ναζί , που είναι αδύνατον να σπαστεί και θα κερδίσουμε τον πόλεμο . 
+444	What 's that you 're reading ? 	Τι είναι αυτό που διαβάζεις ; 
+445	- It 's about cryptography . 	Για την κρυπτογραφία . 
+446	- Like secret messages ? 	Όπως μυστικά μηνύματα ; 
+447	Not secret . 	Όχι μυστικά . 
+448	That 's the brilliant part . 	Αυτό είναι το ευφυές . 
+449	Messages that anyone can see , but no one knows what they mean unless you have the key . 	Μηνύματα που μπορούν όλοι να δουν , αλλά κανείς δεν ξέρει τι σημαίνουν αν δεν έχει το κλειδί . 
+450	How 's that different from talking ? 	Πώς είναι αυτό διαφορετικό από τη συζήτηση ; 
+451	- Talking ? 	- Τη συζήτηση ; - Όταν οι άνθρωποι συζητούν , δεν λένε ποτέ τι εννοούν . 
+452	- When people talk to each other , they never say what they mean . 	- Τη συζήτηση ; - Όταν οι άνθρωποι συζητούν , δεν λένε ποτέ τι εννοούν . 
+453	They say something else , and you 're expected to just know what they mean . 	Λένε κάτι άλλο , και περιμένουν από σένα να ξέρεις τι εννοούν . 
+454	Only I never do . 	Μόνο που εγώ δεν ξέρω ποτέ . 
+455	So , how 's that different ? 	Οπότε , πώς είναι αυτό διαφορετικό ; ʼλαν , έχω ένα περίεργο προαίσθημα ότι θα γίνεις πολύ καλός σε αυτό . 
+456	Alan , I have a funny feeling you 're going to be very good at this . 	Οπότε , πώς είναι αυτό διαφορετικό ; ʼλαν , έχω ένα περίεργο προαίσθημα ότι θα γίνεις πολύ καλός σε αυτό . 
+457	Good night , Alan . 	Καληνύχτα , ʼλαν . 
+458	Good night . 	Καληνύχτα . 
+459	Hold on , Marion , I 'm coming ! ... lesser settings and then route back through ... 	Δεχόμενοι τις μικρότερες ρυθμίσεις και μετά ξαναπηγαίνοντας μέσω ... 
+460	Back to those ones ... 	Πίσω σε κείνεες ... 
+461	Careful , will you ? 	Προσοχή . Δεν είναι παιχνίδι . 
+462	It not a toy . 	Είναι αστείο . 
+463	Funny . 	Είναι αστείο . 
+464	Looks like a toy . 	Μοιάζει με παιχνίδι .. 
+465	Bloody great 100, 000- pound one . 	Παιχνίδι των 100 χιλιάδων λιρών . 
+466	Your new minion 's arrived . 	Έφθασε ο καινούργιος υποτακτικός σου . 
+467	- Jack Good . 	Τζακ Γκουντ . Συναντηθήκαμε ... 
+468	We met ... 	Πού είναι η μις Κλαρκ ; 
+469	- Well , where 's Miss Clarke ? 	Πού είναι η μις Κλαρκ ; 
+470	Lovely , isn 't he ? 	Δεν είναι αξιαγάπητος ; 
+471	It 's not just a usual humdrum production mill factory . 	Δεν είναι ένα συνηθισμένο , ανιαρό εργοστάσιο . 
+472	I mean , well , as I was saying , it 's a very important radio factory . 	Εννοώ , όπως έλεγα , είναι ένα πολύ σημαντικό εργοστάσιο ασυρμάτων . 
+473	It 's not , actually . 	Βασικά , δεν είναι . 
+474	Well , on the spectrum of radio factories , this one is particularly ... 	Στο φάσμα των εργοστασίων ασυρμάτων , αυτό είναι ιδιαίτερα ... 
+475	Why are you not at Bletchley ? 	Γιατί δεν βρίσκεστε στο Bletchley ; 
+476	Thank you ... so much for your visit , Mr . 	Σας ευχαριστώ πάρα πολύ για την επίσκεψη , κύριε Τούρινγκ . 
+477	Turing . 	Σας ευχαριστώ πάρα πολύ για την επίσκεψη , κύριε Τούρινγκ . 
+478	Was your trip pleasant ? 	Σας ευχαριστώ πάρα πολύ για την επίσκεψη , κύριε Τούρινγκ . 
+479	Gather your things and let 's go . 	- Είχατε ευχάριστο ταξίδι ; - Μάζεψε τα πράγματά σου και πάμε . 
+480	I 'm sorry , but I 'm unable to accept your offer . 	Λυπάμαι , αλλά αδυνατώ να δεχθώ την πρότασή σας . 
+481	We feel that such a position would hardly be appropriate . 	Νιώθουμε ότι μια τέτοια θέση δεν θα ήταν κατάλληλη . 
+482	You earned a double first in mathematics . 	Πήρατε δύο φορές την πρωτιά στα μαθηματικά . 
+483	But sadly wasn 't granted the opportunity to become a Fellow . 	Αλλά δυστυχώς δεν μου δόθηκε η ευκαιρία να γίνω μέλος . 
+484	You belong at Bletchley . 	Ανήκετε στο Bletchley . 
+485	I 'm sorry , but for someone in my position , to live to ... to work in a radio factory so far from home , with all your men ... it would be ... indecorous . 	Λυπάμαι , αλλά κάποια στη θέση μου να ζει ... να δουλεύει σε ένα εργοστάσιο τόσο μακριά από το σπίτι , με όλους εσάς τους άντρες ... θα ήταν ... απρεπές . 
+486	What in the world does that even mean ? 	Τι σημαίνει αυτό ; 
+487	We have a group of young ladies who tend to all of our clerical tasks : assistants , translators . 	Έχουμε μια ομάδα από νέες κυρίες που έχουν τα διοικητικά καθήκοντα : βοηθοί , μεταφράστριες . 
+488	They live together in town . 	Μένουν μαζί στην πόλη . 
+489	Would that be a more suitable environment ? 	Αυτό δεν είναι πιο κατάλληλο περιβάλλον ; ʼρα θα εργάζομαι μεταξύ αυτών των γυναικών ; 
+490	So , I would be working amongst these women ? 	Αυτό δεν είναι πιο κατάλληλο περιβάλλον ; ʼρα θα εργάζομαι μεταξύ αυτών των γυναικών ; 
+491	Yes . 	Ναι . 
+492	Wonderful ladies . 	Υπέροχες γυναίκες . 
+493	They even organize social events at St . 	Οργανώνουν ακόμα και κοινωνικές εκδηλώσεις στη διπλανή εκκλησία του St . 
+494	Martin 's Church down the road . 	Martin . 
+495	Really , the whole thing is quite ... decorous . 	Ειλικρινά , το όλο θέμα είναι εντελώς ... ευπρεπές . 
+496	Now , you won 't have proper security clearance , of course , so , 	Δεν θα έχετε κανονική άδεια από την ασφάλεια , φυσικά , οπότε , θα πρέπει να αυτοσχεδιάσουμε λιγάκι . 
+497	- we 'll have to improvise things a bit . 	Δεν θα έχετε κανονική άδεια από την ασφάλεια , φυσικά , οπότε , θα πρέπει να αυτοσχεδιάσουμε λιγάκι . 
+498	- Why are you helping me ? 	Γιατί με βοηθάτε ; 
+499	Because there is only one thing that matters in this entire world right now . 	Γιατί μόνο ένα πράγμα έχει σημασία σε ολόκληρο τον κόσμο . 
+500	Do you understand ? 	Καταλάβατε ; 
+501	And that is breaking Enigma . 	Και αυτό είναι να σπάσουμε το Enigma . 
+502	But , Mr . 	Μα , κύριε Τούρινγκ ... γιατί βοηθάτε εμένα ; 
+503	Turing ... why are you helping me ? 	Μα , κύριε Τούρινγκ ... γιατί βοηθάτε εμένα ; 
+504	Sometimes it 's the very people who no one imagines anything of who do the things that no one can imagine . 	Μερικές φορές , είναι εκείνοι οι άνθρωποι από τους οποίους κανένας δεν περιμένει κάτι που κάνουν πράγματα που κανείς δεν φαντάζεται . 
+505	Sir . 	Κύριε . 
+506	- What 's this ? 	- Τι είναι αυτό ; - Ο απόρρητος φάκελος του Τούρινγκ . 
+507	- Alan Turing 's classified military file . 	- Τι είναι αυτό ; - Ο απόρρητος φάκελος του Τούρινγκ . 
+508	- It 's bloody empty . 	- Είναι άδειος . 
+509	- Exactly . 	- Ακριβώς . 
+510	- It 's an empty manila envelope . 	- Είναι ένας άδειος φάκελος . 
+511	- Yeah . 	- Ναι . 
+512	Well , you 've cracked the case wide open , then , haven 't you ? 	Έφερες στο φως την υπόθεση λοιπόν . 
+513	Alan Turing 's war records aren 't just classified , they 're nonexistent . 	Οι στρατιωτικοί φάκελοι του Τούρινγκ , δεν είναι απλά απόρρητοι , δεν υπάρχουν . 
+514	That means someone 's got rid of them . 	Αυτό σημαίνει ότι κάποιος τους ξεφορτώθηκε . 
+515	Erased them . 	Τους έσβησε . 
+516	Burned them . 	Τους έκαψε . 
+517	And that same person broke into his house and stole nothing ? 	Και αυτό το άτομο μπήκε σπίτι του και δεν πήρε τίποτε ; 
+518	Guy Burgess and Donald Maclean . 	Οι Γκάι Μπέρτζες και Ντόναλντ Μακλέιν . 
+519	- What , the spies from the papers ? 	Οι κατάσκοποι από τις εφημερίδες ; Οι ρώσοι κατάσκοποι . 
+520	- The Soviet spies . 	Αλλά πρώτα υπήρξαν καθηγητές , σωστά ; 
+521	But first they were professors , weren 't they ? 	Αλλά πρώτα υπήρξαν καθηγητές , σωστά ; 
+522	Radicalized at Cambridge , then they joined the Communist Party , then Foreign Office , then leaked information to Stalin during the war . 	Έγιναν ριζοσπάστες στο Cambridge , μετά μπήκαν στο Κομμουνιστικό Κόμμα , μετά στο Υπουργείο Εξωτερικών , μετά έδιναν πληροφορίες στον Στάλιν στη διάρκεια του πολέμου . 
+523	Now , can you think of anyone else we know who was at Cambridge , then took up something murky and top secret when war broke out ? 	Τώρα , μπορείτε να σκεφτείτε κάποιον άλλον που ξέρουμε ότι ήταν στο Cambridge , και μετά ανέλαβε κάτι θολό και μυστικό , όταν ξέσπασε ο πόλεμος ; 
+524	You think this Alan Turing might be a Soviet agent ? 	Πιστεύεις ότι ο ʼλαν Τούρινγκ μπορεί να είναι ρώσος πράκτορας ; 
+525	I think something very serious is happening right here under our noses . 	Νομίζω ... ότι κάτι πολύ σοβαρό συμβαίνει εδώ πέρα , κάτω από τις μύτες μας . 
+526	Wouldn 't you like to find out what it is ? 	Δεν θα θέλατε να βρούμε τι είναι αυτό ; 
+527	Welcome , ladies . 	Καλωσορίσατε , κυρίες . 
+528	If you 'd like to follow me . 	Θα θέλατε να με ακολουθήσετε ; 
+529	Some people thought we were at war with the Germans ... 	Μερικοί άνθρωποι πίστευαν ότι ήμαστε σε πόλεμο με τους Γερμανούς . 
+530	Incorrect . 	Λάθος . 
+531	We were at war with the clock . 	Ήμαστε σε πόλεμο με το ρολόι . 
+532	Britain was literally starving to death . 	Η Βρετανία πέθαινε κυριολεκτικά από την πείνα . 
+533	The Americans sent over 100, 000 tons of food every week , and every week the Germans would send our desperately needed bread to the bottom of the ocean . 	Οι Αμερικάνοι έστειλαν πάνω από 100 χιλιάδες τόνους τρόφιμα κάθε βδομάδα , και , κάθε βδομάδα οι Γερμανοί έστελναν το ψωμί που τόσο χρειαζόμαστε στο βάθος του ωκεανού . 
+534	Our daily failure was announced at the chimes of midnight . 	Η καθημερινή μας αποτυχία ανακοινωνόταν τα μεσάνυχτα . 
+535	And the sound would haunt our unwelcome dreams . 	Και ο ήχος στοίχειωνε τα ανεπιθύμητα όνειρά μας . 
+536	Tick ... tock ... tick . 	
+537	Damn it ! 	Να πάρει ! 
+538	What just happened ? 	- Τι συνέβη τώρα ; - Μεσάνυχτα - όλη η δουλειά που κάναμε σήμερα είναι άχρηστη . 
+539	Midnight , all the work we 've done today is useless . 	- Τι συνέβη τώρα ; - Μεσάνυχτα - όλη η δουλειά που κάναμε σήμερα είναι άχρηστη . 
+540	Oh , but don 't worry , we 've a few hours before tomorrow 's messages start flooding in ... and we start all over again . 	Αλλά μην ανησυχείτε , έχουμε μερικές ώρες μέχρι να αρχίσουν να καταφθάνουν τα αυριανά μηνύματα ... και να ξαναρχίσουμε πάλι από την αρχή . 
+541	- From scratch . 	Από το μηδέν . 
+542	- I 'm so sick of this . 	Έχω βαρεθεί τόσο πολύ από όλο αυτό . 
+543	Four hours rewiring his plugboard matrix . 	4 ώρες να ξανακαλωδιώνουμε τον πίνακά του . 
+544	Three hours yesterday on his rotor positions ! 	3 ώρες χθες επάνω στις θέσεις του ρότορά του ! 
+545	- Don 't go over there . 	- Μην πας εκεί . 
+546	- Look , John , no . 	- Κοίτα , Τζον , όχι . 
+547	If this job wasn 't already impossible before , it bloody well is now . 	Αν αυτή η δουλειά δεν ήταν ήδη αδύνατη , - είναι τώρα . 
+548	Hugh , don 't . 	- Χιου , μη . 
+549	Damn you and your useless machine . 	Να σε πάρει , εσένα και το άχρηστο μηχάνημά σου . 
+550	My machine is how we are going to win . 	Το μηχάνημά μου είναι αυτό που θα μας κάνει να νικήσουμε . 
+551	Really ? 	Αλήθεια ; 
+552	This machine ? 	Αυτό το μηχάνημα ; 
+553	Are you talking about this bloody machine ? ! 	Μιλάς γι αυτό το αναθεματισμένο το μηχάνημα ; 
+554	- Hugh ! 	- Χιου , Χιού , μη ! 
+555	Hugh ! 	- Χιου , Χιού , μη ! 
+556	Hugh , don 't ! 	- Χιού , σταμάτα ! 
+557	- Hugh ! 	- Χιού , σταμάτα ! 
+558	Hugh ! 	- Χιού , σταμάτα ! 
+559	Stop ! 	Υπερόπτη μπάσταρδε . 
+560	You arrogant bastard . 	Υπερόπτη μπάσταρδε . 
+561	You could help us . 	Θα μπορούσες να μας βοηθήσεις . 
+562	You could make this go faster , but you won 't . 	Θα μπορούσες να το κάνεις να πηγαίνει πιο γρήγορα , αλλά δεν θέλεις . 
+563	Get off . 	Αφήστε με . 
+564	He 's right , Alan . 	Έχει δίκιο , ʼλαν . 
+565	There are actual soldiers out there trying to win an actual war . 	Είναι ... πραγματικοί στρατιώτες εκεί έξω , που προσπαθούν να νικήσουν ένα πόλεμο . 
+566	My brother protects food convoys in the Navy . 	Ο αδελφός μου προστατεύει τα κονβόι με τα τρόφιμα στο Ναυτικό . 
+567	My cousins fly RAF patrols . 	Τα ξαδέλφια μου κάνουν περιπολίες με αεροπλάνα της RAF . 
+568	All my friends , they 're all making a difference , while we just while away our days producing nothing . 	Όλοι οι φίλοι μου , όλοι κάνουν κάτι σημαντικό , ενώ εμείς ... περνάμε τις μέρες μας χωρίς να παράγουμε τίποτα . 
+569	Because of you . 	Εξαιτίας σου . 
+570	My machine ... will work . 	Το μηχάνημά μου ... θα δουλέψει . 
+571	Come on , Peter . 	Έλα , Πήτερ . 
+572	Okay . 	Εντάξει . 
+573	Joan ? 	Τζόαν ; 
+574	Will you ... 	
+575	Could you make a bit more noise ? 	Δεν μπορούσες να κάνεις περισσότερο θόρυβο ; Δεν είμαι σίγουρη 
+576	I 'm not quite sure my landlady woke up . 	- ότι ξύπνησε η σπιτονοικοκυρά μου . 
+577	- Oh , sorry . 	- Συγγνώμη . 
+578	- Oh ... look . 	Κοίτα . 
+579	I think that 's the best I can do . 	Νομίζω ότι είναι το καλύτερο που μπορώ να κάνω . 
+580	No male visitors after dark . 	Απαγορεύονται οι άρρενες επισκέπτες τις νυχτερινές ώρες . 
+581	So ... what did you bring me ? 	Λοιπόν ... τι μου έφερες ; 
+582	- There you go . 	Ορίστε . 
+583	- Here . 	Εδώ . 
+584	Some men try flowers , you know . 	Μερικοί άντρες δοκιμάζουν με λουλούδια , ξέρεις . 
+585	These are actual decrypted Enigma messages direct from Nazi High Command . 	Αυτά είναι αποκρυπτογραφημένα μηνύματα του Enigma κατευθείαν από το Αρχηγείο των Ναζί . 
+586	" 0600 hours . 	" Ώρα 0600 . 
+587	" Weather today is clear . 	" Ο καιρός σήμερα είναι καλός . 
+588	Rain in the evening . 	" Βροχή το βράδυ . 
+589	Heil Hitler . " 	Χάιλ Χίτλερ . " 
+590	Well , clearly , that vital piece of information is going to win us the war . 	Προφανώς , αυτή η ζωτικής σημασίας πληροφορία θα μας βοηθήσει να κερδίσουμε τον πόλεμο . 
+591	It 's the relationship between the encrypted and decrypted messages that interests me . 	Είναι η σχέση μεταξύ των κωδικοποιημένων και αποκωδικοποιημένων μηνυμάτων που με ενδιαφέρει . 
+592	Can we find a clue here that we can build into Christopher ? 	Μπορούμε να βρούμε κάποιο στοιχείο που να το φορτώσουμε στον Κρίστοφερ ; 
+593	- Who 's Christopher ? 	Ποιος είναι ο Κρίστοφερ ; 
+594	- Oh , he 's my machine . 	Είναι το μηχάνημά μου . 
+595	You named him ? 	Του έδωσες όνομα ; 
+596	Is that a bad name ? 	Έίναι κακό όνομα ; 
+597	No . 	Όχι . 
+598	No , never mind . 	Όχι , άστο . 
+599	Are you trying to build your universal machine ? 	Προσπαθείς να κατασκευάσεις την παγκόσμια μηχανή σου ; 
+600	- I read your paper at university . 	Διάβασα το άρθρο σου - στο πανεπιστήμιο . 
+601	- Is it already being taught ? 	- Διδάσκεται κιόλας ; 
+602	No . 	Όχι , όχι , εγώ προχώρησα . 
+603	No . 	Όχι , όχι , εγώ προχώρησα . 
+604	No , I was precocious . 	Όχι , όχι , εγώ προχώρησα . 
+605	So ... you theorized a machine that could solve any problem . 	Λοιπόν ... σχεδίασες θεωρητικά μια μηχανή που θα μπορούσε να λύσει οποιοδήποτε πρόβλημα . 
+606	It didn 't just do one thing , it did everything . 	Δεν έκανε μόνο ένα πράγμα , τα έκανε όλα . 
+607	It wasn 't just programmable , it was reprogrammable . 	Δεν ήταν απλά προγραμματίσιμη , ήταν επαναπρογραμματίσιμη . 
+608	Is that your idea behind Christopher ? 	Αυτή είναι η ιδέα σου πίσω από τον Κρίστοφερ ; 
+609	Well , human brains can compute large sums very quickly ... even Hugh can do that ... but I want Christopher to be smarter . 	Το ανθρώπινο μυαλό μπορεί να υπολογίσει μεγάλα ποσά πολύ γρήγορα - ακόμα και ο Χιου μπορεί να το κάνει . Αλλά θέλω ο Κρίστοφερ να είναι πιο έξυπνος . 
+610	To make a calculation and then ... to determine what to do next . 	Να κάνει έναν υπολογισμό , και μετά ... να αποφασίζει τι θα κάνει μετά . 
+611	Like a person does . 	Όπως κάνει ένας άνθρωπος . 
+612	Think of it . 	Σκέψου το . 
+613	Electrical brain . 	Ηλεκτρικός εγκέφαλος . 
+614	- A digital computer . 	Ένας ψηφιακός υπολογιστής . 
+615	- Digital computer . 	Ψηφιακός υπολογιστής . 
+616	What 's going on ? 	Τι τρέχει ; 
+617	What 's happening ? 	Τι συμβαίνει ; 
+618	- No . 	Όχι , όχι , όχι ! 
+619	No , no . 	Μην το αγγίζετε αυτό ! 
+620	No , no , no ! 	Μην το αγγίζετε αυτό ! 
+621	Don 't touch that ! 	Μην το αγγίζετε αυτό ! 
+622	- Stay back . 	- Μείνε εκεί . 
+623	That 's my desk . 	- Αυτό είναι το γραφείο μου . 
+624	Thank goodness . 	Δόξα τω Θεώ . 
+625	I 'd hate to think we were searching the wrong one . 	Δεν θα ήθελα να σκέφτομαι ότι ψάχναμε - το λάθος γραφείο . 
+626	What are you doing ? 	- Τι κάνετε ; Τι συμβαίνει ; 
+627	What 's going on ? 	- Τι κάνετε ; Τι συμβαίνει ; 
+628	There is a spy in Bletchley Park . 	Υπάρχει κατάσκοπος στο Bletchley Park . 
+629	The Navy thinks that one of us is a Soviet double agent , Alan . 	Το Ναυτικό πιστεύει ότι ένας από μας είναι ρώσος διπλός πράκτορας , ʼλαν . 
+630	Why ? 	Γιατί ; 
+631	Our boys intercepted this on its way to Moscow . 	Τα αγόρια μας υπέκλεψαν αυτό στο δρόμο του προς Μόσχα . 
+632	Look familiar ? 	Το γνωρίζεις ; 
+633	It 's a Beale cipher . 	Είναι ένας κωδικός Beale . 
+634	Encrypted with a phrase from a book or a poem or ... 	Κρυπτογραφημένος με μια φράση από ένα βιβλίο ή ποίημα ή ... 
+635	You don 't seriously think I did this , do you ? 	Μη μου πείτε ότι πιστεύετε ότι εγώ το έκανα ; 
+636	Double agents are such bastards . 	Οι διπλοί πράκτορες είναι πολύ κόπανοι . 
+637	Isolated loners . 	Απομονωμένοι μοναχικοί άνθρωποι . 
+638	No attachments to friends or family . 	Χωρίς εξαρτήσεις από φίλους ή οικογένεια . 
+639	Arrogant . 	Αλαζόνες . 
+640	Know anybody like that ? 	Γνωρίζεις κανέναν που να είναι έτσι ; 
+641	I ... 	Εγώ ... 
+642	I know you don 't like me , but that does not make me a Soviet spy . 	Ξέρω ότι δεν με συμπαθείτε , αλλά αυτό δεν με κάνει ρώσο πράκτορα . 
+643	Nothing out of the ordinary , sir . 	Τίποτα ασυνήθιστο , κύριε . 
+644	Really . 	Αλήθεια . 
+645	All right . 	Εντάξει . 
+646	The Home Office may be protecting you now , but sooner or later you will make a mistake . 	Το Υπουργείο Εσωτερικών μπορεί να σε προστατεύει τώρα , όμως αργά ή γρήγορα θα κάνεις ένα λάθος . 
+647	And I needn 't bother firing you . 	Και δεν θα χρειαστεί να σε απολύσω . 
+648	They will hang you for treason . 	Θα σε κρεμάσουν για προδοσία . 
+649	Hello . 	Γεια σου . 
+650	I heard about what happened . 	Έμαθα τι συνέβη . 
+651	It 's all the girls in Hut 3 can talk about . 	Μόνο γι αυτό μιλάνε οι κοπέλες στο κατάλυμα 3 . 
+652	I have an idea of what might cheer you up . 	Έχω μια ιδέα για το τι μπορεί να σου φτιάξει τη διάθεση . 
+653	So , because no letter can be encoded as itself , there 's already a handful of settings that can be rejected at the outset . 	Λοιπόν , επειδή κανένα γράμμα δεν μπορεί να κωδικοποιηθεί ως το ίδιο , υπάρχουν ήδη αρκετές ρυθμίσεις που μπορούν να απορριφθούν από την αρχή . 
+654	- Is that your team ? 	Αυτή είναι η ομάδα σου ; - Ναι . 
+655	- Yes . 	- Να χαιρετήσουμε ; 
+656	- Shall we say hello ? 	- Να χαιρετήσουμε ; 
+657	- No . 	- Όχι . 
+658	Hello . 	- Χαίρετε . 
+659	I told you not to do that . 	Σου είπα να μην το κάνεις αυτό . 
+660	Alan . 	- ʼλαν . 
+661	- Hugh , hello . 	- Χιου , γεια σου . 
+662	- Didn 't know you drank . 	- Δεν ήξερα ότι έπινες . - Δεν πίνει , στην πραγματικότητα . 
+663	He doesn 't , really . 	Ρουφάει μόνο τον αφρό . 
+664	He just sort of sips at the foam . 	Ρουφάει μόνο τον αφρό . 
+665	Well , I' ll let you into a little secret , Miss ... ? 	Θα σας πω ένα μικρό μυστικό , μις ... ; 
+666	- Clarke . 	Κλαρκ . 
+667	- Miss Clarke . 	- Μις Κλαρκ . 
+668	- Please . 	- Μις Κλαρκ . 
+669	- Foam 's my favorite part , too . 	- Παρακαλώ . Ο αφρός είναι κι εμένα ο αγαπημένος μου . 
+670	- Is it really ? 	Σοβαρά ; 
+671	- Come and join us for a drink ? 	Ελάτε να μας κάνετε παρέα για ένα ποτό . 
+672	- We 'll be there in a moment . 	Θα έρθουμε σε ένα λεπτό . 
+673	- Miss Clarke . 	Μις Κλαρκ . 
+674	- Well , he likes you . 	Του αρέσεις . 
+675	- Yes . 	- Ναι . 
+676	You ... got him to like you . 	- Εσύ ... τον έκανες να σε συμπαθήσει . 
+677	- Yes . 	Ναι . 
+678	- Why ? 	Γιατί ; 
+679	Because I 'm a woman in a man 's job , and I don 't have the luxury of being an ass . 	Γιατί είμαι γυναίκα που κάνω δουλειά άντρα , και δεν έχω την πολυτέλεια να φέρομαι σαν γάιδαρος . ʼλαν ... δεν έχει σημασία πόσο έξυπνος είσαι , το Enigma είναι πάντα εξυπνότερο . 
+680	Alan ... it doesn 't matter how smart you are , Enigma is always smarter . 	Γιατί είμαι γυναίκα που κάνω δουλειά άντρα , και δεν έχω την πολυτέλεια να φέρομαι σαν γάιδαρος . ʼλαν ... δεν έχει σημασία πόσο έξυπνος είσαι , το Enigma είναι πάντα εξυπνότερο . 
+681	If you really want to solve your puzzle , then you 're going to need all the help you can get , and they are not going to help you if they do not like you . 	Αν θέλεις πραγματικά να λύσεις το παζλ σου , τότε θα χρειαστείς όλη τη βοήθεια που μπορείς , και δεν πρόκειται να σε βοηθήσουν , αν δεν σε συμπαθούν . 
+682	- What are those ? 	- Τι είναι αυτά ; - Μήλα . 
+683	- Apples . 	- Τι είναι αυτά ; - Μήλα . 
+684	- No . 	- Όχι . 
+685	- Oh , they really are . 	- Είναι όντως . 
+686	I ... well , Miss Clarke , Joan actually ... said that it would be ... nice if I was to bring you all something . 	Η μις Κλαρκ , η Τζόαν δηλαδή ... είπε ότι θα ήταν ... καλό , αν σας έφερνα κάτι . 
+687	So , here we are . 	Οπότε , νάμαστε . 
+688	I ... 	Εγώ ... 
+689	Thank you . 	Ευχαριστώ . 
+690	I like apples . 	Μου αρέσουν τα μήλα . 
+691	My best to Miss Clarke . 	Τα χαιρετίσματά μου στη μις Κλαρκ . 
+692	There are two people in a wood , and they run into a bear . 	Υπάρχουν δύο άνθρωποι σε ένα δάσος , και συναντούν μια αρκούδα . 
+693	The first person gets down on his knees to pray . 	Το πρώτο άτομο πέφτει στα γόνατα και προσεύχεται . 
+694	The second person starts lacing up his boots . 	To δεύτερο άτομο αρχίζει να δένει τις μπότες του . 
+695	The first person asks the second person , " My dear friend , what are you doing ? 	Το πρώτο άτομο ρωτάει το δεύτερο , " Καλέ μου φίλε , τι κάνεις ; " 
+696	You can 't outrun a bear . " 	Δεν μπορείς να παραβγείς με μια αρκούδα . " 
+697	To which the second person responds , 	Και το δεύτερο άτομο απαντάει , 
+698	" I don 't have to . 	" Δεν χρειάζεται . 
+699	I only have to outrun you . " 	Πρέπει μόνο να περάσω εσένα . " 
+700	I' ll be with Christopher , if anyone needs me . 	Θα είμαι με τον Κρίστοφερ , αν με χρειαστεί κανείς . 
+701	If we assume that the square root of two is a rational number , then we can say that the square root of two is A over B ... where A and B are whole numbers and B is not zero . 	Αν υποθέσουμε ότι η τετραγωνική ρίζα του δύο είναι λογικός αριθμός , τότε μπορούμε να πούμε ότι η τετραγωνική ρίζα του δύο είναι το A επί του B ... όπου A και B είναι ακέραιοι αριθμοί και το Β διαφέρει από το μηδέν . 
+702	- Mr . 	Κύριε Τούρινγκ , ανταλλάσουμε σημειώματα ; 
+703	Turing , passing notes , are we ? 	Κύριε Τούρινγκ , ανταλλάσουμε σημειώματα ; 
+704	- No , sir . 	Όχι , κύριε . 
+705	Only Turing would pass notes written in gibberish . 	Μόνο ο Τούρινγκ θα αντάλλαζε σημειώματα , γραμμένα στα αλαμπουρνέζικα . 
+706	All right , gentlemen , do not forget your algebra over the break . 	Εντάξει , κύριοι , μην ξεχάσετε την άλγεβρά σας στις διακοπές . 
+707	Have a pleasant holiday , and we 'll resume your irrationals when you return . 	Να περάσετε καλά , και θα συνεχίσουμε τις ασυναρτησίες σας όταν επιστρέψετε . 
+708	But Euler 's Theorem gives you that immediately . 	Μα το Θεώρημα του Euler στο δίνει αμέσως αυτό . 
+709	Here . 	Να , δες αυτό . 
+710	Look at this . 	Να , δες αυτό . 
+711	If you run the wires across the plugboard matrix diagonally , it will eliminate rotor positions 500 times faster . 	Αν βάλεις διαγώνια τα καλώδια στη μητρική πλακέτα , οι θέσεις του ρότορα θα μειωθούν 500 φορές πιο γρήγορα . 
+712	That 's ... actually not an entirely terrible idea . 	Αυτή ... δεν είναι εντελώς απαίσια ιδέα . 
+713	I think that was Alan for " thank you . " 	Νομίζω ότι ο ʼλαν ήθελε να πει " ευχαριστώ " . 
+714	- That 's my sandwich . 	Αυτό είναι το σάντουιτς μου . 
+715	- You don 't like sandwiches . 	Εσένα δεν σου αρέσουν τα σάντουιτς . 
+716	You nervous ? 	Έχεις άγχος ; 
+717	What happens now ? 	Τι θα γίνει τώρα ; 
+718	It should work out the day 's Enigma settings . 	Θα πρέπει να βρει τις σημερινές ρυθμίσεις του Enigma . 
+719	How long ? 	Σε πόση ώρα ; 
+720	Sieg Heil ! 	
+721	The German Army has fanned out across Europe , from Poland to Serbia , Lithuania to Denmark , Norway to France . 	Ο Γερμανικός στρατός εξαπλώθηκε στην Ευρώπη , από την Πολωνία μέχρι τη Σερβία , τη Λιθουανία μέχρι τη Δανία , από τη Νορβηγία μέχρι τη Γαλλία . 
+722	The Nazi flag now flies from more than two dozen national capitals . 	Η σημαία των Ναζί κυματίζει τώρα σε περισσότερες από είκοσι εθνικές πρωτεύουσες . 
+723	Their campaign mounts in fury as a free Europe crumbles . 	Η καμπάνια τους αυξάνεται σε οργή καθώς η ελεύθερη Ευρώπη καταρρέει . 
+724	Oh , it 's still going . 	Συνεχίζεται ακόμα . 
+725	- Good morning , sir . 	- Καλημέρα , κύριε . 
+726	- Morning , Margaret . 	- Καλημέρα , Μάργκαρετ . 
+727	Gears keep spinning on and on . 	Τα γρανάζια συνεχίζουν να γυρίζουν . 
+728	Rotors on and on . 	Οι ρότορες το ίδιο . 
+729	It 's endless . 	Δεν τελειώνει . 
+730	- With no result in sight ? 	Χωρίς να διαφαίνεται αποτέλεσμα ; 
+731	- No . 	Όχι . 
+732	Turing . 	Τούρινγκ . 
+733	- Turing , open the bloody door . 	Τούρινγκ , - άνοιξε την πόρτα . - Όχι . 
+734	- No . 	Όχι . 
+735	No . 	Όχι . 
+736	Open the door or we 'll break it down . 	ʼνοιξε την πόρτα , αλλιώς θα τη σπάσουμε . 
+737	I can 't let you in ! 	Δεν μπορώ να σας αφήσω να μπείτε . 
+738	I cannot let you interfere . 	Δεν μπορώ να σας αφήσω να παρέμβετε . 
+739	Go on , then . 	Προχωρήστε , τότε . 
+740	Turn that thing off . 	Κλείσε αυτό το πράγμα . 
+741	No . 	Όχι , μη . 
+742	Don 't , please . 	Σας παρακαλώ . 
+743	Please . 	Σας παρακαλώ . 
+744	Please ! 	Παρακαλώ ! Παρακαλώ ! 
+745	Please ! 	Όχι ! 
+746	No ! 	Όχι . Όχι ! 
+747	No . 	Μη ! 
+748	No ! 	Μη ! 
+749	Well , then , it seems that your great big expensive machine doesn 't work . 	Λοιπόν , φαίνεται ότι η μεγάλη , φοβερή ακριβή μηχανή σου δεν δουλεύει . 
+750	- It does . 	Δουλεύει . 
+751	- Wonderful . 	Δουλεύει . 
+752	So , you 've broken Enigma , then ? 	Θαυμάσια . Ώστε τελικά έσπασες τον Enigma ; 
+753	It was just ... still working . 	Ακόμη ... δούλευε . 
+754	This is my associate from the Home Office . 	Αυτός είναι ο συνεργάτης μου από το Υπουργείο Εσωτερικών . 
+755	You see , a hundred thousand pounds is rather a lot of money , and he 's here to see what you have to show for it . 	Βλέπεις , 100 χιλιάδες λίρες είναι μάλλον αρκετά λεφτά , και ήρθε να δει , τι έχεις να επιδείξεις . 
+756	You ... will never understand the importance of what I am creating here ! 	Δεν θα καταλάβετε ποτέ τη σημασία αυτού που δημιουργώ εδώ ! 
+757	Have you decrypted any German messages ? 	Έχεις αποκρυπτογραφήσει κανένα γερμανικό μήνυμα ; 
+758	A single one ? 	Έστω ένα ; 
+759	Can you point to anything at all that you 've achieved ? 	Μπορείς να δείξεις κάτι που να έχεις επιτύχει ; 
+760	Your funding is up , and our patience is expired . 	Τελείωσε η χρηματοδότησή σου , και η υπομονή μας . 
+761	It 's with such great pleasure that I am finally able to say this . 	Με μεγάλη ευχαρίστηση μπορώ επιτέλους να το πω : ʼλαν Τούρινγκ , απολύεσαι . 
+762	Alan Turing , you 're fired . 	Με μεγάλη ευχαρίστηση μπορώ επιτέλους να το πω : ʼλαν Τούρινγκ , απολύεσαι . 
+763	Please escort Mr . 	Συνοδέψτε παρακαλώ τον κύριο Τούρινγκ στην έξοδο . 
+764	Turing from the premises . 	Συνοδέψτε παρακαλώ τον κύριο Τούρινγκ στην έξοδο . 
+765	No . 	Όχι . 
+766	I beg your pardon ? 	Με συγχωρείτε ; 
+767	If you fire Alan ... well , then you 'll have to fire me , too . 	Αν απολύσετε τον ʼλαν ... τότε θα πρέπει να απολύσετε κι εμένα . 
+768	What on earth are you saying ? 	Τι στο καλό λες ; 
+769	Trust me when I tell you there is no one who would rather say this less than I do , but ... he 's right . 	Πιστέψτε με όταν λέω , ότι αυτό θα προτιμούσα να μην το έλεγα , αλλά ... έχει δίκιο . 
+770	Alan is right . 	Ο ʼλαν έχει δίκιο . 
+771	His machine can work , and it 's probably the best chance that we 've got . 	Η μηχανή του μπορεί να δουλέψει , και είναι ίσως η καλύτερη πιθανότητα που έχουμε . 
+772	God , it 's beyond belief . 	Θεέ μου , είναι απίστευτο . 
+773	If you fire them ... you 'll have to fire me , too . 	Αν τους απολύσετε ... θα πρέπει να απολύσετε κι εμένα . 
+774	And me . 	Κι εμένα . 
+775	We 're the best cryptographic minds in Britain . 	Είμαστε τα καλύτερα κρυπτογραφικά μυαλά της Βρετανίας . 
+776	Are you going to fire us all ? 	Θα μας απολύσετε όλους ; 
+777	Commander , at least give us some more time . 	Διοικητά , τουλάχιστον δώστε μας λίγο χρόνο ακόμα . 
+778	Six months , and if the machine doesn 't produce any results that we need , then we 'll go back to doing things the old way . 	Έξι μήνες , και αν η μηχανή δεν παράγει τα αποτελέσματα που χρειαζόμαστε , τότε θα επιστρέψουμε στις παλιές πρακτικές . 
+779	How about that ? 	Τι λέτε γι αυτό ; 
+780	One month . 	Ένα μήνα . 
+781	And then , so help me God , you 're all gone . 	Και μετά , το ορκίζομαι , έχετε φύγει όλοι . 
+782	Oh , leave him . 	Αφήστε τον . 
+783	- Thank you . 	Σας ευχαριστώ . 
+784	- You 're welcome . 	Παρακαλούμε . 
+785	Oh , and , Alan , your machine ... it better bloody work . 	Και , ʼλαν , το μηχάνημά σου ... ... καλό θα ήταν να δουλέψει . 
+786	Hugh . 	Χιου . 
+787	I swear ... 	Το ορκίζομαι ... 
+788	I 'm not a spy . 	Δεν είμαι κατάσκοπος . 
+789	Oh , for God 's sake , of course you 're not a bloody spy . 	Για όνομα του Θεού , φυσικά και δεν είσαι κατάσκοπος . 
+790	What ? 	Τι ; 
+791	Denniston gave me the Beale cipher , and guess what ? 	Ο Ντένιστον μου έδωσε το κρυπτογράφημα Beale , και , μάντεψε . 
+792	I cracked it . 	Το έσπασα . 
+793	" Ask , and it shall be given to you ; seek and ye shall find . " Matthew 7 : 7 . 	" Ρώτησε και θα σου δοθεί ψάξε και θα βρεις " Ματθαίος 7 : 7 . 
+794	That was the key . 	Αυτό ήταν το κλειδί . 
+795	Far too simple for the likes of you . 	Υπερβολικά απλό για σας . 
+796	Pity Denniston disagrees . 	Κρίμα που ο Ντένιστον διαφωνεί . 
+797	Come in . 	Περάστε . 
+798	Sir , I think I' ve got Turing . 	Κύριε , νομίζω ότι έπιασα τον Τούρινγκ . 
+799	I tailed him to a pub last night , where he met a bloke . 	Τον ακολούθησα σε μια παμπ χθες βράδυ , που συνάντησε ένα τύπο . 
+800	They exchanged an envelope . 	Τον ακολούθησα σε μια παμπ χθες βράδυ , που συνάντησε ένα τύπο . 
+801	So , I follow this other fella , pick him up , give him a good shake . 	Αντάλλαξαν ένα φάκελο . Ακολούθησα τον άλλον τύπο , τον έπιασα και τον ταρακούνησα για τα καλά . 
+802	- He 's a poofter . 	Είναι ντιγκιντάγκας . 
+803	He confessed . 	Ομολόγησε . 
+804	- What ? 	Τι ; 
+805	The man admitted it . 	Ο άνθρωπος το παραδέχτηκε . 
+806	Arnold Murray . 	Ο ʼρνολντ Μάρεϊ . 
+807	Hangs around that pub ; men pay him for a go . 	Συχνάζει σ´ αυτή τη παμπ . Οι άντρες τον πληρώνουν για ένα γύρο . 
+808	Turing 's one of the men that paid . 	Ο Τούρινγκ είναι ένας από κείνους που πλήρωσαν . 
+809	Only Mr . 	Μόνο που ο κύριος Μάρεϊ , από δω έχει τη φαϊνή ιδέα να ληστέψει μετά το σπίτι του Τούρινγκ , με ένα φίλο του . 
+810	Murray here then has the bright idea of robbing Turing 's house after , with a friend . 	Μόνο που ο κύριος Μάρεϊ , από δω έχει τη φαϊνή ιδέα να ληστέψει μετά το σπίτι του Τούρινγκ , με ένα φίλο του . 
+811	That 's what Turing 's hiding . 	Αυτό κρύβει ο Τούρινγκ . 
+812	Well , he 's a poof , not a spy . 	Είναι τοιούτος , όχι κατάσκοπος . 
+813	- No . 	Είναι τοιούτος , όχι κατάσκοπος . 
+814	- What 's the matter ? 	- Όχι . - Τι συμβαίνει ; 
+815	We can charge a university professor with indecency . 	Δεν μπορούμε να κατηγορήσουμε ένα καθηγητή πανεπιστημίου 
+816	No , this is ... it 's bloody rubbish . 	- για ανηθικότητα ; - Όχι , αυτό είναι ... είναι αηδίες . 
+817	Turing 's up to something important ... 	- για ανηθικότητα ; - Όχι , αυτό είναι ... είναι αηδίες . 
+818	He 's committed a crime and he 's broken the law . 	Ο Τούρινγκ σχεδιάζει κάτι σημαντικό ... Έχει κάνει έγκλημα και έχει καταπατήσει το νόμο . 
+819	And with a bloke . 	Και μάλιστα με άντρα . 
+820	Jesus Christ , it 's bloody disgusting . 	Χριστέ μου , - είναι αηδιαστικό . 
+821	This isn 't the investigation I was conducting . 	- Δεν είναι αυτή η έρευνα που διέταξα . 
+822	- Bring him in . 	Συλλάβετέ τον . 
+823	- Wait . 	Συλλάβετέ τον . 
+824	Let me interrogate him . 	Αφήστε με να τον ανακρίνω εγώ . 
+825	Please . 	Παρακαλώ . 
+826	Give me half an hour alone , and then I swear , 	Δώστε μου μισή ώρα και μετά ορκίζομαι ότι θα περάσω τον επόμενο μήνα κάνοντας θελήματα σε όσες περιπτώσεις θέλεις . 
+827	I' ll spend the next month running errands on as many rubbish cases as you like . 	Δώστε μου μισή ώρα και μετά ορκίζομαι ότι θα περάσω τον επόμενο μήνα κάνοντας θελήματα σε όσες περιπτώσεις θέλεις . 
+828	Fine . 	Τώρα , θα μου βγάλει κάποιος ένταλμα για τη σύλληψη του ʼλαν Τούρινγκ ; 
+829	Now , will someone get me a warrant for the arrest of Alan Turing . 	Τώρα , θα μου βγάλει κάποιος ένταλμα για τη σύλληψη του ʼλαν Τούρινγκ ; 
+830	Alan ? 	ʼλαν ; 
+831	Christopher 's simply not moving fast enough . 	Ο Κρίστοφερ απλά δεν κινείται αρκετά γρήγορα . 
+832	We should talk . 	- Πρέπει να μιλήσουμε . 
+833	And even with the diagonal board , he 's still not eliminating settings as quickly 	- Ακόμα και με τη διαγώνια πλάκα , δεν μειώνει τις ρυθμίσεις όσο γρήγορα 
+834	- as we need him to in order ... 	- θέλουμε , για να ... 
+835	- I 'm leaving . 	- θέλουμε , για να ... 
+836	But you 've just walked in . 	- Φεύγω . Μα μόλις ήρθες . 
+837	No . 	
+838	No . 	Όχι . 
+839	Bletchley . 	Όχι . Από το Bletchley . 
+840	- What ? 	Τι ; 
+841	- It 's my parents . 	Λόγω των γονέων μου . 
+842	I 'm 25 , I 'm unmarried , I 'm living alone , and they want me home . 	Είμαι 25 , ανύπαντρη , ζω μόνη μου , και με θέλουν σπίτι . 
+843	- That 's ridiculous . 	Αυτό είναι γελοίο . 
+844	- That 's my parents . 	Αυτοί είναι οι γονείς μου . 
+845	You ... you can 't leave . 	Δεν μπορείς να φύγεις . 
+846	I won 't let you . 	Δεν θα σε αφήσω . 
+847	" I' ll miss you . " That 's what a normal person might say in this situation . 	" Θα μου λείψεις . " Αυτό θα έλεγε ένα φυσιολογικό άτομο σε αυτή την περίπτωση . 
+848	- I don 't care what is normal . 	Δεν με νοιάζει τι είναι φυσιολογικό . 
+849	- What am I supposed to do , Alan ? 	Τι να κάνω , ʼλαν ; 
+850	I will not ... give up my parents . 	Δεν θα ... παρατήσω τους γονείς μου . 
+851	You ... you have an opportunity here to make some actual use of your life . 	Εδώ έχεις μια ευκαιρία να κάνεις τη ζωή σου χρήσιμη . 
+852	And end up like you ? 	Και να καταλήξω σαν εσένα ; Όχι , ευχαριστώ . 
+853	No , thanks . 	Και να καταλήξω σαν εσένα ; Όχι , ευχαριστώ . 
+854	I 'm sorry you 're lonely . 	Λυπάμαι που είσαι μόνος . 
+855	But Enigma will not save you . 	Αλλά το Enigma δεν θα σε σώσει . 
+856	Can you decipher that , you fragile narcissist ? 	Το καταλαβαίνεις αυτό , εύθραυστε ναρκισσιστή ; 
+857	Or would you like me to go and fetch your precious Christopher to help ? 	Ή πρέπει να πάω να φέρω τον πολύτιμο Κρίστοφερ σου , για να βοηθήσει ; 
+858	I 'm sorry . 	Συγγνώμη . 
+859	I want you ... 	Θέλω ... θέλω να μείνεις γιατί σε συμπαθώ . 
+860	I want you to stay because I like you . 	Θέλω ... θέλω να μείνεις γιατί σε συμπαθώ . 
+861	I like ... talking to you . 	Μου αρέσει ... να μιλάω μαζί σου . 
+862	I like talking to you , too , Alan . 	
+863	And what if you weren 't alone ? 	Και αν δεν ήσουν μόνη ; 
+864	What if you had a husband ? 	Αν είχες σύζυγο ; 
+865	Do you have one in mind ? 	Έχεις κάποιον στο μυαλό σου ; 
+866	I do . 	Έχεις κάποιον στο μυαλό σου ; 
+867	Hugh ? 	Έχω . Τον Χιου ; 
+868	Hugh 's terribly attractive , I' ll give you that , but ... 	Ο Χιου είναι πολύ ελκυστικός , το παραδέχομαι , αλλά δεν νομίζω ότι είναι του γάμου . 
+869	I don 't really think he 's the marrying kind . 	Ο Χιου είναι πολύ ελκυστικός , το παραδέχομαι , αλλά δεν νομίζω ότι είναι του γάμου . 
+870	- No , I wasn 't thinking of Hugh . 	Όχι , δεν σκεφτόμουν τον Χιου . 
+871	- Or Peter . 	Ή τον Πήτερ . 
+872	Peter 's so quiet . 	Ο Πήτερ είναι πολύ σιωπηλός . 
+873	- Oh , my God . 	Θεέ μου . 
+874	- But this makes sense . 	Μα αυτό βγάζει νόημα . 
+875	- Did you just propose to me ? 	Μόλις μου έκανες πρόταση γάμου ; 
+876	- Well , it is the logical thing to do . 	Είναι το λογικό πράγμα που πρέπει να κάνουμε . 
+877	- This is ridiculous . 	Αυτό είναι γελοίο . 
+878	- This is your parents . 	Έτσι είναι οι γονείς σου . 
+879	I can 't ... believe that this is happening . 	Δεν ... δεν μπορώ να πιστέψω ότι συμβαίνει αυτό . 
+880	Joan ... 	Τζόαν ... 
+881	- Is your middle name Caroline or Catherine ? 	Το μεσαίο σου όνομα είναι Καρολάιν ή Κάθριν ; 
+882	- Elizabeth . 	- Ελίζαμπεθ . 
+883	Joan Elizabeth ... 	- Τζόαν Ελίζαμπεθ ... 
+884	Clarke ... 	Κλαρκ ... ... θα με παντρευτείς ; 
+885	will you marry me ? 	Κλαρκ ... ... θα με παντρευτείς ; 
+886	It 's beautiful . 	Είναι υπέροχο . 
+887	Well , I know it isn 't ordinary , but ... whoever loved ordinary ? 	Ξέρω ότι δεν είναι συνηθισμένο , αλλά ... σε ποιον αρέσει το συνηθισμένο ; 
+888	She had it in both hands ... and she looked up at me with her doe eyes and said , 	Το κρατούσε και με τα δύο της χέρια ... και με κοίταξε με τα ελαφίσια μάτια της και είπε , 
+889	" Am I supposed to put that in my mouth ? " 	" Πρέπει να το βάλω αυτό στο στόμα μου ; " 
+890	And I said , " Yes . 	Και είπα , " Ναι . 
+891	You know , the French way . " 	Ξέρεις , αλά Γαλλικά . " 
+892	So , she pops it in , clamps her lips around it , and starts humming the bloody Marseillaise . 	Οπότε , το πιάνει , το αγγίζει με τα χείλη της , και αρχίζει να σιγοτραγουδάει τη Μασσαλιώτιδα . 
+893	Come have a dance . 	Έλα να χορέψουμε . 
+894	No , no , no , you can dance with your fiance anytime you like . 	Όχι , όχι , όχι , μπορείς να χορέψεις με τον αρραβωνιαστικό σου όποτε σου αρέσει . 
+895	Right now , this moment ... my turn . 	Τώρα , αυτή τη στιγμή ... είναι η σειρά μου . 
+896	What 's the matter ? 	Τι τρέχει ; 
+897	What if ... 	Κι αν ... 
+898	What if I don 't fancy being ... with Joan in that way ? 	Κι αν δεν μου αρέσει να είμαι ... με τη Τζόαν έτσι ; 
+899	Because you 're a homosexual ? 	Επειδή είσαι ομοφυλόφιλος ; 
+900	I suspected . 	Το υποψιάστηκα . 
+901	Well , should I tell her that I' ve had ... affairs with men ? 	Πρέπει να της πω ότι είχα ... σχέσεις με άντρες ; 
+902	You know , in my ... admittedly limited experience , women ... tend to be a bit touchy about accidentally marrying homosexuals . 	Ξέρεις , με την ... περιορισμένη μου πείρα , οι γυναίκες ... τείνουν να είναι λίγο ευαίσθητες αν παντρευτούν τυχαία ομοφυλόφιλους . 
+903	Perhaps not spreading this information about might be in your best interest . 	Ίσως το να μην κυκλοφορήσεις αυτή την πληροφορία να είναι προς το συμφέρον σου . 
+904	I care for her , I truly do . 	Νοιάζομαι για κείνην , ειλικρινά νοιάζομαι . 
+905	I ... 	Νοιάζομαι για κείνην , ειλικρινά νοιάζομαι . 
+906	I ... 	Απλώς δεν ξέρω αν μπορώ να υποκριθώ ... 
+907	I just don 't know if I can ... 	Απλώς δεν ξέρω αν μπορώ να υποκριθώ ... 
+908	- ... pretend . 	Απλώς δεν ξέρω αν μπορώ να υποκριθώ ... 
+909	- You can 't tell anyone , Alan . 	Δεν μπορείς να το πεις σε κανέναν , ʼλαν . 
+910	It 's illegal . 	Είναι παράνομο . 
+911	And Denniston is looking for any excuse he can to put you away . 	Και ο Ντένιστον ψάχνει δικαιολογία για να σε βάλει στο περιθώριο . 
+912	- I know . 	Και ο Ντένιστον ψάχνει δικαιολογία για να σε βάλει στο περιθώριο . 
+913	- This has to stay a secret . 	Το ξέρω . Αυτό πρέπει να μείνει μυστικό . 
+914	Come on , it 's your turn . 	Έλα , είναι η σειρά σου . 
+915	Okay . 	Έλα , είναι η σειρά σου . 
+916	- Cup of tea ? 	Τσάι ; 
+917	- No , thank you . 	Όχι , ευχαριστώ . 
+918	Mr . 	Κύριε Τούρινγκ , μπορώ να σας πω ένα μυστικό ; 
+919	Turing , can I tell you a secret ? 	Κύριε Τούρινγκ , μπορώ να σας πω ένα μυστικό ; 
+920	- I 'm quite good with those . 	Είμαι πολύ καλός στα μυστικά . 
+921	- I 'm here to help you . 	Είμαι εδώ για να σας βοηθήσω . 
+922	Oh , clearly . 	Προφανώς . 
+923	Can machines think ? 	Μπορούν να σκέφτονται τα μηχανήματα ; 
+924	Oh , so , you 've read some of my published works ? 	Επομένως έχετε διαβάσει μερικές από τις εργασίες μου . 
+925	What makes you say that ? 	Γιατί το λέτε αυτό ; 
+926	Well , because I 'm sitting in a police station , accused of entreating a young man to touch my penis and you just asked me if machines can think . 	Διότι βρίσκομαι σε ένα αστυνομικό τμήμα , κατηγορούμενος ότι παρακάλεσα ένα νεαρό να αγγίξει το πέος μου και μόλις με ρωτήσατε αν μπορούν να σκεφτούν οι μηχανές . 
+927	Well , can they ? 	Μπορούν ; 
+928	Could machines ever think as human beings do ? 	Θα μπορέσουν ποτέ οι μηχανές αν σκεφτούν σαν άνθρωποι ; 
+929	Most people say not . 	Η πλειοψηφία λέει πως όχι . 
+930	You 're not most people . 	Εσείς δεν είστε η πλειοψηφία . 
+931	Well , the problem is you 're ... asking a stupid question . 	Το πρόβλημα είναι , ότι ... κάνετε μια ανόητη ερώτηση . 
+932	I am ? 	Αλήθεια ; 
+933	Of course machines can 't think as people do . 	Φυσικά και οι μηχανές ... δεν μπορούν να σκέφτονται σαν τους ανθρώπους . 
+934	A machine is different ... from a person . 	Μια μηχανή είναι διαφορετική από έναν άνθρωπο . 
+935	Hence , they think differently . 	Συνεπώς σκέφτονται διαφορετικά . 
+936	The interesting question is , just because something thinks differently from you , does that mean it 's not thinking ? 	Μια ενδιαφέρουσα ερώτηση είναι , ότι μόνο και μόνο επειδή κάτι , σκέφτεται διαφορετικά από σένα , αυτό σημαίνει ότι δεν σκέφτεται ; 
+937	Well , we allow for humans to have such divergences from one another . 	Επιτρέπουμε στους ανθρώπους να έχουν τέτοιες αποκλίσεις ο ένας απ´ τον άλλον . 
+938	You like strawberries , I hate ice- skating , you ... cry at sad films , 	Εσάς σας αρέσουν οι φράουλες , εγώ μισώ το πατινάζ στον πάγο , εσείς ... κλαίτε στις στενόχωρες ταινίες , εγώ ... είμαι αλλεργικός στη γύρη . 
+939	I ... am allergic to pollen . 	Εσάς σας αρέσουν οι φράουλες , εγώ μισώ το πατινάζ στον πάγο , εσείς ... κλαίτε στις στενόχωρες ταινίες , εγώ ... είμαι αλλεργικός στη γύρη . 
+940	What is the point of different tastes , different ... preferences if not to say that our brains work differently , that we think differently ? 	Ποιο είναι το νόημα διαφορετικών γούστων , διαφορετικών ... προτιμήσεων αν όχι , για να πούμε ότι οι εγκέφαλοί μας λειτουργούν διαφορετικά , ότι σκεφτόμαστε διαφορετικά ; 
+941	If we can say that about one another , then why can 't we say the same thing for brains ... built of copper and wire , steel ? 	Και αν μπορούμε να το πούμε αυτό , ο ένας για τον άλλον , τότε , γιατί δεν μπορούμε να πούμε το ίδιο για εγκεφάλους ... κατασκευασμένους από χαλκό και καλώδια , από ατσάλι ; 
+942	And that 's ... this big paper you wrote ? 	Και αυτό ... είναι το σημαντικό άρθρο που γράψατε ; Πώς λέγεται ; 
+943	What 's it called ? 	
+944	" The Imitation Game . " 	" Το Παιχνίδι της Απομίμησης . " 
+945	Right , that 's ... that 's what it 's about ? 	Μάλιστα ... αυτά περιγράφει ; 
+946	- Would you like to play ? 	Θέλετε να παίξετε ; 
+947	- Play ? 	Να παίξω ; 
+948	It 's a game . 	Είναι ένα παιχνίδι . 
+949	A test of sorts . 	Ένα είδος τεστ . 
+950	For determining whether something is a ... a machine or a human being . 	Για να βρούμε αν κάτι ... είναι μηχάνημα ή ανθρώπινο ον . 
+951	How do I play ? 	Πώς παίζω ; 
+952	Well , there 's a judge and a subject , and ... the judge asks questions , and ... depending on the subject 's answers , determines who he is talking with ... what he is talking with , and ... 	Υπάρχει ένας κριτής και ένα υποκείμενο και ... ο κριτής κάνει ερωτήσεις , και , ανάλογα με τις απαντήσεις του υποκειμένου , αποφασίζει με ποιον μιλάει ... με τι μιλάει , και ... 
+953	All you have to do is ask me a question . 	Το μόνο που έχετε να κάνετε , είναι να μου κάνετε μια ερώτηση . 
+954	- What did you do during the war ? 	Τι κάνατε κατά τη διάρκεια του πολέμου ; 
+955	- I worked in a radio factory . 	Δούλευα σε εργοστάσιο ασυρμάτων . 
+956	What did you really do during the war ? 	Τι κάνατε στην πραγματικότητα κατά τη διάρκεια του πολέμου ; 
+957	Are you paying attention ? 	Με προσέχετε ; 
+958	Damn it ! 	Να πάρει ! 
+959	We 're soon out of time . 	Σε λίγο τελειώνει ο μήνας . ʼρα αυτό ήταν . 
+960	A month . 	Σε λίγο τελειώνει ο μήνας . ʼρα αυτό ήταν . 
+961	So , that 's it , then , is it ? 	Σε λίγο τελειώνει ο μήνας . ʼρα αυτό ήταν . 
+962	Oh , the trouble is , it doesn 't matter how much we improve it . 	Το πρόβλημα είναι , ότι δεν έχει σημασία πόσο το βελτιώνουμε . 
+963	The machine 's never gonna be able to process 159 million million million possibilities in time . 	Το μηχάνημα δεν θα μπορέσει ποτέ να επεξεργαστεί 159 εκατομύρια εκατομυρίων εκατομυρίων πιθανότητες εγκαίρως . 
+964	It 's just bloody hopeless . 	Είναι απλά χαμένη υπόθεση . 
+965	It 's searching . 	Ψάχνει . 
+966	It 's just ... 	Απλώς ... 
+967	It ... doesn 't know what it 's searching for . 	Δεν ξέρει τι ψάχνει . 
+968	If we knew what the messages were going to say ... 	Αν ξέραμε τι θα έλεγαν τα μηνύματα ... δεν θα χρειαζόταν να τα αποκρυπτογραφήσουμε . 
+969	If we knew what the messages were going to say , we wouldn 't have to decrypt them at all . 	Αν ξέραμε τι θα έλεγαν τα μηνύματα ... δεν θα χρειαζόταν να τα αποκρυπτογραφήσουμε . 
+970	Who 's Alan´s friend ? 	Ποιος είναι ο φίλος του ʼλαν ; 
+971	Hugh . 	Ο Χιου . 
+972	He 's a bit of a cad , actually . 	Δεν είναι και πολύ καλός χαρακτήρας , βασικά . ʼρα ο τύπος μου . 
+973	So , my type , then ? 	Δεν είναι και πολύ καλός χαρακτήρας , βασικά . ʼρα ο τύπος μου . 
+974	- Well , I' ll introduce you . 	- Θα σας συστήσω . - Όχι . 
+975	- No . 	Θα έρθει εκείνος από δω . 
+976	He 'll come over . 	Θα έρθει εκείνος από δω . 
+977	- Are you sure ? 	- Είσαι σίγουρη ; - Ναι . 
+978	- Yes . 	- Είσαι σίγουρη ; - Ναι . 
+979	I smiled at him 15 minutes ago and haven 't looked back since . 	Του χαμογέλασα πριν 15 λεπτά και δεν ξανακοίταξα από τότε . 
+980	Who 's that with Joan ? 	Ποια είναι αυτή με την Τζόαν ; 
+981	Helen . 	Η Έλεν . 
+982	Works with her . 	Δουλεύουν μαζί . 
+983	- She 's really pretty . 	Είναι πολύ όμορφη . 
+984	- She wants me to come over . 	Θέλει να πάω από κει . 
+985	What ? 	Τι ; Πώς στο καλό το ξέρεις αυτό ; 
+986	How on earth can you know that ? 	Τι ; Πώς στο καλό το ξέρεις αυτό ; 
+987	She smiled at me a while back and she hasn 't looked again since . 	Μου χαμογέλασε πριν λίγη ώρα και δεν ξανακοίταξε από τότε . 
+988	And got him . 	Και τον έπιασα . 
+989	Now , why is this , that when I was single I found it very boring , but now that I 'm engaged , I just find it dreadfully fun . 	Πώς γίνεται , όταν ήμουν ελεύθερη να το βρίσκω πολύ βαρετό , αλλά τώρα που είμαι δεσμευμένη , να το βρίσκω φοβερά διασκεδαστικό ; 
+990	Bingo . 	Μπίνγκο . 
+991	She 's in . 	Είναι μέσα . ʼλαν , σύστησέ μας . 
+992	- Alan , introduce us . 	Είναι μέσα . ʼλαν , σύστησέ μας . 
+993	- What ? 	Τι ; Γιατί εγώ ; 
+994	Why me ? 	Τι ; Γιατί εγώ ; 
+995	Because there 's nothing like a friend 's engagement to make a woman want to do something she 'll later regret with the fiance 's better looking chum . 	Γιατί δεν υπάρχει τίποτα καλύτερο από τη δέσμευση ενός φίλου για να κάνει μια γυναίκα να θέλει να κάνει κάτι που αργότερα θα μετανιώσει με τον ομορφότερο φίλο του αρραβωνιαστικού . 
+996	Let 's go . 	Πάμε . 
+997	Half a crown says Alan bollixes this up entirely . 	Στοίχημα μισή κορώνα ότι ο ʼλαν θα τα μπουρδουκλώσει τελείως . 
+998	No bet . 	Δεν το πάω . 
+999	- Alan Turing has a theory . 	- Ο ʼλαν Τούρινγκ έχει μια θεωρία . 
+1000	- He has many . 	- Έχει πολλές . 
+1001	He believes that the regulations against men and women working side by side are sound because such proximity will necessarily lead to romance . 	Πιστεύει ότι οι κανονισμοί κατά των ανδρών και γυναικών που δουλεύουν δίπλα - δίπλα είναι καλοί γιατί τέτοια εγγύτητα οδηγεί απαραίτητα σε αίσθημα . 
+1002	What ? 	Τι ; Όχι , δεν το πιστεύω . 
+1003	No , I don 't . 	Τι ; Όχι , δεν το πιστεύω . 
+1004	I ... 	Εγώ ... 
+1005	- However I disagree . 	Παρόλα αυτά εγώ ... διαφωνώ . 
+1006	- You do ? 	- Σοβαρά ; - Ναι . 
+1007	Yeah . 	- Σοβαρά ; - Ναι . 
+1008	I think that if I were working beside a woman all day long , 	Νομίζω ότι αν δούλευα δίπλα σε μια γυναίκα όλη τη μέρα , θα μπορούσα να εκτιμήσω τις ικανότητες και το πνεύμα της χωρίς να τη ρίξω στο κρεββάτι . 
+1009	I could appreciate her abilities and intellect without taking her to bed . 	Νομίζω ότι αν δούλευα δίπλα σε μια γυναίκα όλη τη μέρα , θα μπορούσα να εκτιμήσω τις ικανότητες και το πνεύμα της χωρίς να τη ρίξω στο κρεββάτι . 
+1010	I 'm sorry , have we met ? 	Συγγνώμη , έχουμε γνωριστεί ; 
+1011	I don 't recall . 	Δεν θυμάμαι . 
+1012	But let 's assume we haven 't . 	Αλλά ας υποθέσουμε ότι όχι . 
+1013	Helen Stewart . 	Η Έλεν Στιούαρτ . 
+1014	Hugh Alexander . 	Ο Χιου Αλεξάντερ . 
+1015	So , who do you agree with , Alan or myself ? 	Λοιπόν , με ποιον συμφωνείτε , 
+1016	Well , Alan , of course . 	- με τον ʼλαν ή με μένα ; - Με τον ʼλαν , φυσικά . 
+1017	I 'm very flattered , really , but I don 't think ... 	Είμαι πολύ κολακευμένος , ειλικρινά , αλλά δεν πιστεύω ... 
+1018	Rubbish . 	- Βλακείες . 
+1019	Well , I work beside a man every day , and I can 't help but have developed a bit of a crush on him . 	- Δουλεύω δίπλα σε έναν άντρα κάθε μέρα , και δεν μπόρεσα να αντισταθώ στο να ´τσιμπηθώ´ μαζί του . 
+1020	Well , who is this man ? 	Ποιος είναι ; Για να τον δείρω . 
+1021	So I can kick his arse . 	Ποιος είναι ; Για να τον δείρω . 
+1022	Well , there 's no need to worry , it 's been chaste . 	Μην ανησυχείτε - ήταν πλατωνικό . 
+1023	We 've never even met . 	Δεν έχουμε καν γνωριστεί . 
+1024	He 's a German . 	Είναι Γερμανός . 
+1025	Now I really want to kill him . 	Τώρα θέλω στ´ αλήθεια να τον σκοτώσω . 
+1026	How do you mean you work alongside a German ? 	Τι εννοείτε ότι δουλεύετε δίπλα δίπλα με ένα Γερμανό ; 
+1027	Well , each of us intercepts messages from a specific German radio tower . 	Ο καθένας μας υποκλέπτει μηνύματα από ένα συγκεκριμένο γερμανικό ραδιοπομπό . 
+1028	So , we have a counterpart on the other side who 's tip- tapping out the messages . 	Οπότε έχουμε έναν ομόλογο από την άλλη πλευρά που πληκτρολογεί τα μηνύματα . 
+1029	Everyone types a touch differently , so you get to know the rhythm of your counterpart . 	Ο κάθε άνθρωπος τυπώνει λιγάκι διαφορετικά , οπότε μαθαίνεις σιγά σιγά το ρυθμό του ομολόγου σου . 
+1030	It 's strangely intimate . 	Είναι παράξενα οικείο . 
+1031	I feel as if I know him so well . 	Νιώθω σαν να τον γνωρίζω πολύ καλά . 
+1032	It 's a pity he has a girlfriend , but that 's why I disagree with you , Mr . 	Κρίμα που έχει φιλενάδα , αλλά αυτός είναι ο λόγος που διαφωνώ μαζί σας , κύριε Αλεξάντερ . 
+1033	Alexander . 	Κρίμα που έχει φιλενάδα , αλλά αυτός είναι ο λόγος που διαφωνώ μαζί σας , κύριε Αλεξάντερ . 
+1034	Because I 'm in love with a coworker of sorts , and we 've never even met . 	Επειδή εγώ είμαι ερωτευμένη με έναν κάπως συνάδελφο , και δεν έχουμε καν γνωριστεί . 
+1035	Well , allow me to buy you another pint , and I' ll tell you why you 're wrong . 	Επιτρέψτε μου να σας κεράσω άλλη μια μπύρα , και θα σας πω πού κάνετε λάθος . 
+1036	Let 's . 	Καλά . 
+1037	Excellent . 	Έξοχα . 
+1038	Thanks . 	Ευχαριστώ . 
+1039	Pints . 	
+1040	Have you got any sloe gin ? 	
+1041	In case you were wondering , that 's what flirting looks like . 	Σε περίπτωση που αναρωτιέσαι , αυτό λέγεται φλερτ . 
+1042	Helen ... 	Έλεν ... 
+1043	Alan ? 	Αλήθεια , δεν έχετε τσιγάρα ; ʼλαν ... 
+1044	Yes , Alan ? 	Ναι , ʼλαν ; 
+1045	Why do you think your German counterpart has a girlfriend ? 	Γιατί πιστεύετε ότι ο Γερμανός ομόλογός σας έχει φιλενάδα ; Είναι 
+1046	- It 's just a stupid joke , don 't worry . 	- ένα αστειάκι , μην ανησυχείτε . 
+1047	- No , no , no , no . 	- Όχι , όχι , πείτε μου . 
+1048	Tell me . 	- Όχι , όχι , πείτε μου . 
+1049	Well , each of his messages begins with the same five letters : 	Καθένα από τα μηνύματά του αρχίζει με τα ίδια πέντε γράμματα : 
+1050	C- I- L- L- Y . 	C - I- L- L- Y . 
+1051	So , I suspect that Cilly must be the name of his amore . 	Γι αυτό υποψιάζομαι ότι το Cilly πρέπει να είναι το όνομα 
+1052	But that 's impossible . 	- της αγαπημένης του . - Μα αυτό είναι αδύνατον . 
+1053	The Germans are instructed to use five random letters 	Έχει δοθεί οδηγία στους Γερμανούς , να χρησιμοποιούν 5 τυχαία γράμματα στην αρχή κάθε μηνύματος . 
+1054	- at the start of every message . 	Έχει δοθεί οδηγία στους Γερμανούς , να χρησιμοποιούν 5 τυχαία γράμματα στην αρχή κάθε μηνύματος . 
+1055	- Well , this bloke doesn 't . 	Αυτός ο τύπος δεν το κάνει αυτό . 
+1056	Love will make a man do strange things , I suppose . 	Η αγάπη κάνει τον άντρα να κάνει περίεργα πράγματα , υποθέτω . 
+1057	In this case , love just lost Germany the whole bloody war . 	Σε αυτή την περίπτωση , η αγάπη μόλις κόστισε τον πόλεμο στην Γερμανία . 
+1058	Go , Peter . 	Πάμε , Πήτερ . 
+1059	Sorry . 	Συγγνώμη . 
+1060	Alan ! 	ʼλαν ! ʼλαν ! 
+1061	Alan ! 	ʼλαν ! ʼλαν ! 
+1062	Alan ! 	
+1063	I just want ... 	Θέλω μόνο ... 
+1064	Hugh Alexander . 	Χιου Αλεξάντερ . 
+1065	John Cairncross . 	Τζον Κέρνκρος . 
+1066	Peter bloody Hilton . 	Πήτερ Χίλτον . ʼλαν ; Τι .. ; 
+1067	Alan ? 	Πήτερ Χίλτον . ʼλαν ; Τι .. ; 
+1068	What ... ? 	Πήτερ Χίλτον . ʼλαν ; Τι .. ; 
+1069	What ... 	Κι αν ... κι αν ο Κρίστοφερ δεν χρειάζεται να ψάχνει όλες τις ρυθμίσεις ; 
+1070	What if ... what if Christopher doesn 't have to search through all of the settings ? 	Κι αν ... κι αν ο Κρίστοφερ δεν χρειάζεται να ψάχνει όλες τις ρυθμίσεις ; 
+1071	What if he only has to search through ones that produce words we already know will be in the message ? 	Κι αν πρέπει να ψάχνει μόνο εκείνες που παράγουν λέξεις που ήδη ξέρουμε ότι θα είναι στο μήνυμα ; 
+1072	- Repeated words , predictable words . 	Επαναλαμβανόμενες , προβλέψιμες λέξεις . 
+1073	- Exactly . 	Ακριβώς . 
+1074	Look , look , like this one . 	Κοιτάξτε , κοιτάξτε αυτό . 
+1075	" 0600 hours . 	" Ώρα 0600 . 
+1076	Weather today is clear . 	Καιρός σήμερα είναι καθαρός . 
+1077	Rain in the evening . 	Βροχή το βράδυ . 
+1078	Heil Hitler . " 	Χάιλ Χίτλερ . " 
+1079	Well , that 's it . 	Λοιπόν , αυτό είναι . 
+1080	Exactly . 	Ακριβώς . 
+1081	They send a weather report every day at 6 : 00 a . m . 	Στέλνουν δελτίο καιρού κάθε μέρα στις 6 : 00 π . μ . ʼρα να οι τρεις λέξεις που ξέρουμε ότι θα είναι σε κάθε μήνυμα των 6 : 00 . 
+1082	So , that 's three words we know will be in every 6 : 00 a . m . message ... 	Στέλνουν δελτίο καιρού κάθε μέρα στις 6 : 00 π . μ . ʼρα να οι τρεις λέξεις που ξέρουμε ότι θα είναι σε κάθε μήνυμα των 6 : 00 . 
+1083	" weather , " obviously , and ... 	Προφανώς το " καιρός " , - και ... 
+1084	- Heil bloody Hitler . 	- Χάιλ Χίτλερ . 
+1085	- Heil bloody Hitler . 	Χάιλ Χίτλερ . 
+1086	Here 's the 6 : 00 message from this morning . 	Εδώ είναι το μήνυμα των 6 : 00 από σήμερα το πρωί . 
+1087	Hugh , the the right- hand letter wheel , set them to ... 	Χιού , τον δεξί τροχό των γραμμάτων ρύθμισέ το στο ... 
+1088	I know , I know . 	Ξέρω , ξέρω . 
+1089	" Weather " and " Hitler . " 	Στο " Καιρός " και " Χίτλερ . " 
+1090	Peter , John , run voltages through those letters , through the back scramblers . 	Πήτερ , Τζον , βάλτε βολτ σε αυτά τα γράμματα , - μέσω των πίσω κωδικογράφων . 
+1091	So , we 'll use the loops ? 	- Θα χρησιμοποιήσουμε τους βρόχους ; 
+1092	Yes . 	Ναι . 
+1093	Joan , what was the last 6 : 00 a . m . message ? 	Τζόαν , ποιο ήταν το τελευταίο μήνυμα των 6 : 00 π . μ . ; 
+1094	- L . 	Τζόαν , ποιο ήταν το τελευταίο μήνυμα των 6 : 00 π . μ . ; 
+1095	- L . 	- L ... 
+1096	- H . 	Η ... 
+1097	- H . 	- Χ ... 
+1098	- W . 	- W ... 
+1099	- W . 	W ... 
+1100	- A . 	- A ... 
+1101	- A . 	- A ... 
+1102	- Q . 	- Q . 
+1103	- Q . 	- Q . 
+1104	Done . 	Έτοιμο . 
+1105	Come on . 	Έλα . 
+1106	Come on . 	Έλα . 
+1107	Come on , Christopher . 	Έλα . Πάμε , Κρίστοφερ . 
+1108	Oh , my God . 	Θεέ μου . 
+1109	What happened ? 	Τι ... τι έγινε ; 
+1110	- Did it work ? 	- Δούλεψε ; - ʼλαν ; ʼλαν ! ʼλαν ! 
+1111	- Alan ? 	- Δούλεψε ; - ʼλαν ; ʼλαν ! ʼλαν ! 
+1112	Alan ! 	- Δούλεψε ; - ʼλαν ; ʼλαν ! ʼλαν ! 
+1113	Alan ! 	
+1114	I need a new message . 	Χρειάζομαι ένα καινούργιο μήνυμα . 
+1115	The latest intercept . 	Το τελευταίο που υποκλέψαμε . 
+1116	Thank you . 	Ευχαριστώ . 
+1117	O ... 	O ... 
+1118	T . 	T ... 
+1119	- Ready ? 	- Έτοιμος ; - Ναι . 
+1120	- Yes . 	- Έτοιμος ; - Ναι . 
+1121	- M . 	- M ... 
+1122	- M . 	- M ... 
+1123	- Y . 	- Y ... 
+1124	- Y . 	- Y ... 
+1125	- M . 	- M ... 
+1126	S . 	S ... 
+1127	- M . 	- M ... 
+1128	S . 	- M ... 
+1129	- A . 	S ... 
+1130	I . 	- A ... 
+1131	- A . 	I ... - A ... 
+1132	I . 	I ... 
+1133	- C . 	- C ... 
+1134	- C . 	- C ... - T ... 
+1135	- T . 	- T ... 
+1136	R . 	- R ... 
+1137	- T . 	- R ... 
+1138	R . 	- I ... 
+1139	- I . 	- I ... 
+1140	S . 	- S ... 
+1141	- I . 	- S ... 
+1142	S . 	O ... 
+1143	- O . 	- S ... 
+1144	A . 	O ... 
+1145	- O . 	- A ... 
+1146	A . 	- A ... 
+1147	- Y . 	- Y ... 
+1148	R . 	R ... 
+1149	- Y . 	I ... 
+1150	R . 	- Y ... 
+1151	- I . 	R ... 
+1152	- I . 	I . 
+1153	" KMS Jaguar is aufpunkt is directed to 53 degrees 24 minutes north and aufpunkt one ... degree west . " 	" Το KMS Jaguar ... " κατευθύνεται στις 53 μοίρες 24 λεπτά βόρεια και μια ... μοίρα δυτικά . " 
+1154	Heil Hitler . 	Χάιλ Χίτλερ . 
+1155	Turns out that 's the only German you need to know to break Enigma . 	Αποδεικνύεται ότι αυτά είναι τα μόνα Γερμανικά που χρειάζεται να ξέρουμε για να σπάσουμε τον Enigma . 
+1156	Yes ! 	Ναι ! 
+1157	- M . 	- M ... 
+1158	- M . 	- M ... 
+1159	- A . 	- A ... 
+1160	- A . 	- A ... 
+1161	- Y . 	- Y ... 
+1162	- Y . 	- Y ... 
+1163	- I . 	- I ... 
+1164	- I . 	- I ... 
+1165	- T . 	- T ... 
+1166	- T . 	- T ... 
+1167	- R . 	- R ... 
+1168	- R . 	- R ... 
+1169	- O . 	- O ... 
+1170	- O . 	- O ... 
+1171	T . 	T ... 
+1172	- T . 	- T ... 
+1173	A . 	A ... 
+1174	- A . 	- A ... 
+1175	- H . 	- H ... - H ... 
+1176	- H . 	- Q ... 
+1177	- Q . 	- Q ... 
+1178	- Q . 	- Q ... 
+1179	- U . 	- U ... 
+1180	- U . 	- U ... 
+1181	R . 	- R . 
+1182	R . 	- R . 
+1183	My God , you did it . 	Θεέ μου , τα κατάφερες . 
+1184	You just defeated Nazism with a crossword puzzle . 	Μόλις νίκησες τον Ναζισμό με ένα σταυρόλεξο . 
+1185	There are five people in the world who know the position of every ship in the Atlantic . 	Υπάρχουν πέντε άνθρωποι στο κόσμο που γνωρίζουν τη θέση κάθε πλοίου στον Ατλαντικό Ωκεανό . 
+1186	- They 're all in this room . 	Βρίσκονται όλοι - σ´ αυτό το δωμάτιο . 
+1187	- Oh , good God . 	- Θεέ μου . 
+1188	Oh , I don 't think even He has the power that we do right now . 	Ούτε Εκείνος δεν έχει τη δύναμη - που έχουμε εμείς αυτή τη στιγμή . 
+1189	No . 	
+1190	There 's going to be an attack on a British passenger convoy . 	- Όχι . Πρόκειται να γίνει επίθεση σε ένα βρετανικό κονβόι από επιβατηγά πλοία . 
+1191	Right there . 	Ακριβώς εδώ . 
+1192	God , you 're right . 	Θεέ μου , έχεις δίκιο . 
+1193	All those U- boats are only 20 , 30 minutes away . 	Όλα αυτά τα υποβρύχια απέχουν μόνο - 20 , 30 λεπτά από το σημείο . 
+1194	Civilians . 	- Πολίτες . 
+1195	Hundreds of them . 	Εκατοντάδες πολίτες . 
+1196	We can save their lives . 	Μπορούμε να σώσουμε τη ζωή τους . 
+1197	I' ll phone Denniston 's office so that he can alert the Admiralty . 	Θα τηλεφωνήσω στο γραφείο του Ντένιστον για να - ενημερώσει τον Ναύαρχο . 
+1198	Do you think there 's enough time to save them ? 	- Πιστεύεις ότι υπάρχει αρκετός χρόνος για να σωθούν ; 
+1199	There should be , if we can get a message ... 	Πρέπει , αν μπορέσουμε να βρούμε ... 
+1200	Commander Denniston 's office , please . 	Το γραφείο του Διοικητή Ντένιστον , παρακαλώ . 
+1201	It 's urgent . 	Είναι επείγον . 
+1202	No . 	Όχι . 
+1203	- What the hell are you doing ? 	Τι στο καλό κάνεις ; 
+1204	- You can 't call Denniston . 	Δεν μπορείς να τηλεφωνήσεις στον Ντένιστον . 
+1205	- You can 't tell him about the attack . 	Δεν μπορείς να του πεις για την επίθεση . 
+1206	- What are you talking about ? 	- Τι λες τώρα ; - Μπορούμε να φέρουμε δυνάμεις από αέρος επάνω από το κονβόι σε 10 λεπτά . ʼφησε τα γερμανικά υποβρύχια ... 
+1207	We can have air support over that convoy in ten minutes . 	- Τι λες τώρα ; - Μπορούμε να φέρουμε δυνάμεις από αέρος επάνω από το κονβόι σε 10 λεπτά . ʼφησε τα γερμανικά υποβρύχια ... 
+1208	Let the U- boats sink the convoy . 	- Τι λες τώρα ; - Μπορούμε να φέρουμε δυνάμεις από αέρος επάνω από το κονβόι σε 10 λεπτά . ʼφησε τα γερμανικά υποβρύχια ... 
+1209	It 's been a big day , maybe you 're suffering ... 	- Κοίτα , ήταν μεγάλη μέρα . Ίσως είσαι ... 
+1210	- We don 't have time ... 	- Δεν έχουμε χρόνο ... 
+1211	- No ! 	- Δεν έχουμε χρόνο ... 
+1212	- Hugh ! 	Χιου ! Χιου ! 
+1213	Hugh ! 	Αρκετά ! 
+1214	That 's enough ! 	Αρκετά ! 
+1215	That 's enough ! 	- Αρκετά ! 
+1216	- Stop , Hugh ! 	- Σταμάτα , Χιου ! 
+1217	John , the attack is in minutes . 	Τζον , η επίθεση θα γίνει σε μερικά λεπτά . 
+1218	Yes , no , I 'm fine , I 'm fine . 	Ναι , όχι , είμαι καλά . 
+1219	I 'm fine . 	Είμαι καλά . 
+1220	You know why people like violence , Hugh ? 	Ξέρεις γιατί ο κόσμος αρέσκεται στη βία , Χιου ; 
+1221	It 's because it feels good . 	Γιατί τον κάνει να αισθάνεται καλά . 
+1222	Sometimes we can 't do what feels good . 	Μερικές φορές δεν μπορούμε να κάνουμε αυτό που μας κάνει να αισθανόμαστε καλά . 
+1223	- We have to do what is logical . 	Πρέπει να κάνουμε αυτό που είναι λογικό . 
+1224	- What 's logical ? 	Ποιο είναι το λογικό ; 
+1225	Hardest time to lie to somebody is when they 're expecting to be lied to . 	Η δυσκολότερη στιγμή για να πεις ψέμματα σε κάποιον είναι όταν το περιμένει . 
+1226	- Oh , God . 	Θεέ μου . 
+1227	- What ? 	Τι ; 
+1228	If someone 's waiting for a lie , you can 't just give them one . 	Αν κάποιος περιμένει ένα ψέμμα , δεν πρέπει να του το δώσεις . 
+1229	- Damn it , Alan 's right . 	Να πάρει , ο ʼλαν έχει δίκιο . Τι ; 
+1230	- What ? 	Τι θα σκεφτούν οι Γερμανοί , αν καταστρέψουμε τα υποβρύχιά τους ; 
+1231	What would the Germans think if we destroy their U- boats ? 	Τι θα σκεφτούν οι Γερμανοί , αν καταστρέψουμε τα υποβρύχιά τους ; 
+1232	- Nothing . 	Τίποτε . 
+1233	They 'll be dead . 	Θα είναι νεκροί . Όχι . 
+1234	- No . 	Όχι , δεν μπορείς να έχεις δίκιο . 
+1235	No , you can 't be right . 	Όχι , δεν μπορείς να έχεις δίκιο . 
+1236	So , our convoy suddenly veers off course ... a squadron of our air bombers miraculously descends on the coordinates of the U- boats ... what will the Germans think ? 	Δηλαδή το κονβόι μας ξαφνικά παρεκκλίνει της πορείας του ... μαι ομάδα βομβαρδιστών από αέρος κατεβαίνει ως εκ θαύματος στις συντεταγμένες των υποβρυχίων ... τι θα σκεφτούν οι γερμανοί ; 
+1237	The Germans will know that we have broken Enigma . 	Οι Γερμανοί θα καταλάβουν ότι έχουμε σπάσει το Enigma . 
+1238	They 'll stop all radio communications by midday , and they 'll have changed the design of Enigma by the weekend . 	Θα σταματήσουν όλες τις ραδιο - επικοινωνίες μέχρι το μεσημέρι , και θα έχουν αλλάξει το σχέδιο του Enigma 
+1239	Yes . 	- έως το Σαββατοκύριακο . 
+1240	Two years´ work . 	Δουλειά δύο ετών . 
+1241	Everything that we 've done here will all be for nothing . 	Όλα όσα έχουμε κάνει εδώ θα είναι για το τίποτα . 
+1242	There are 500 civilians in that convoy . 	Υπάρχουν 500 πολίτες σε αυτό το κονβόι . 
+1243	Women , children . 	Γυναίκες ... παιδιά . 
+1244	We 're about to let them die . 	Θα τους αφήσουμε να πεθάνουν . 
+1245	Our job is not to save one passenger convoy , it is to win the war . 	Η δουλειά μας δεν είναι να σώσουμε ένα επιβατηγό κονβόι , είναι να νικήσουμε τον πόλεμο . 
+1246	- Our job was to crack Enigma . 	Η δουλειά μας ήταν να σπάσουμε τον Enigma . 
+1247	- We 've done that . 	Αυτό το κάναμε . 
+1248	Now for the hard part . 	Τώρα , στο δύσκολο κομμάτι . 
+1249	- Keeping it a secret . 	- Να το κρατήσουμε μυστικό . - Το Carlisle . 
+1250	- Carlisle . 	Ορίστε ; 
+1251	What ? 	Ορίστε ; 
+1252	The convoy you 're about to ... it 's ... 	Το κονβόι που πρόκειται να ... 
+1253	The HMS Carlisle is one of the ships . 	Το HMS Carlisle είναι ένα από τα πλοία . 
+1254	We can 't act on every piece of intelligence . 	Δεν μπορούμε να δρούμε σε κάθε πληροφορία . 
+1255	So , fine , we won 't . 	Καλά , δεν θα το κάνουμε . 
+1256	- Just this one . 	Μόνο σε αυτή . 
+1257	- Peter , what 's the matter with you ? 	Πήτερ , τι έπαθες εσύ ; 
+1258	My brother 's ... well , he 's on the Carlisle . 	Ο αδελφός μου είναι ... είναι στο Carlisle . 
+1259	A gunnery ensign . 	Στο πυροβολικό . 
+1260	I 'm ... 	
+1261	I 'm so sorry . 	Λυπάμαι πολύ . 
+1262	Who the hell do you think you are ? 	Ποιος στο καλό νομίζεις ότι είσαι ; 
+1263	This ... this is my brother . 	Πρόκειται για τον αδελφό μου . 
+1264	He 's my big brother , all right , and you have a few minutes to call off his murder . 	Είναι ο μεγάλος μου αδελφός , και έχετε λίγα λεπτά για να αποτρέψετε τη δολοφονία του . 
+1265	We can 't . 	Δεν μπορούμε . 
+1266	He 's right . 	Έχει δίκιο . ʼλαν . 
+1267	Alan . 	Έχει δίκιο . ʼλαν . 
+1268	Joan . 	Τζόαν . 
+1269	Hugh . 	Χιου . 
+1270	John . 	Τζον . 
+1271	Please , I ... 	Σας παρακαλώ , εγώ ... 
+1272	The Germans , they won 't get suspicious just because we stop one attack . 	Οι Γερμανοί δεν θα υποψιαστούν αν σταματήσουμε μόνο μια επίθεση . 
+1273	No one will know . 	Κανείς δεν θα το μάθει . 
+1274	I 'm asking you as your friend . 	Σας το ζητάω ... σαν φίλος . 
+1275	Please . 	Σας παρακαλώ . 
+1276	I 'm so sorry . 	Λυπάμαι πάρα πολύ . ʼλαν , δεν είσαστε Θεοί . 
+1277	You 're not God , Alan , you don 't get to decide who lives and who dies . 	Λυπάμαι πάρα πολύ . ʼλαν , δεν είσαστε Θεοί . 
+1278	Yes , we do . 	Είμαστε . 
+1279	Why ? 	Γιατί ; 
+1280	Because no one else can . 	Γιατί κανένας άλλος δεν μπορεί . 
+1281	Why are you telling me this ? 	Γιατί μου το λέτε αυτό ; 
+1282	We need your help to keep this a secret from Admiralty , Army , RAF . 	Χρειαζόμαστε τη βοήθειά σας για να το κρατήσουμε μυστικό από ... το Ναυαρχείο , το Στρατό , την RAF ( αεροπορία ) . 
+1283	No one can know we broke Enigma . 	Κανείς δεν πρέπει να μάθει ότι σπάσαμε τον Enigma . 
+1284	Not even Denniston . 	Oύτε καν ο Ντένιστον . 
+1285	Who 's in the process of having you fired . 	Ο οποίος είναι έτοιμος να σε απολύσει . 
+1286	You can take care of that . 	Μπορείτε να το φροντίσετε αυτό . 
+1287	While we develop a system to help you determine how much intelligence to act on ... which attacks to stop , which to let through . 	Ενώ εμείς θα αναπτύσσουμε ένα σύστημα για να σας βοηθήσουμε να αποφασίσετε σε πόσες πληροφορίες θα δράτε , ποιες επιθέσεις θα σταματάτε , και ποιες θα αφήνετε να εξελιχθούν . 
+1288	Statistical analysis . 	Στατιστική ανάλυση . 
+1289	The minimal number of actions it would take for us to win the war ... but the maximum number we can take before the Germans get suspicious . 	Τον ελάχιστο αριθμό πράξεων που θα χρειαστούμε για να κερδίσουμε τον πόλεμο ... αλλά και τον μέγιστο αριθμό που μπορούμε να δράσουμε χωρίς οι Γερμανοί να αρχίσουν να υποψιάζονται . 
+1290	And you 're going to trust all this to statistics ? 	Και θα τα εμπιστευτείτε όλα αυτά σε στατιστικές ; 
+1291	- To maths ? 	- Στα μαθηματικά ; - Σωστά . 
+1292	- Correct . 	- Στα μαθηματικά ; - Σωστά . 
+1293	And then MI6 can come up with the lies that we tell everybody else . 	Και μετά η MI6 μπορεί να πει τα ψέμματα που λέμε σε όλους τους άλλους . 
+1294	You 'll need a believable alternative source for all the pieces of information you use . 	Θα χρειαστείτε μια εναλλακτική πηγή για όλες τις πληροφορίες που χρησιμοποιείτε . 
+1295	A false story so that we can explain how we got our information that has nothing to do with Enigma . 	Μια λανθασμένη ιστορία ώστε να μπορέσουμε να εξηγήσουμε πώς πήραμε τις πληροφορίες μας που δεν θα έχει καμμία σχέση με τον Enigma . 
+1296	And then you can leak those stories to the Germans . 	Και μετά , μπορείτε να διαρρεύσετε αυτές τις ιστορίες στους Γερμανούς . 
+1297	And then to our own military . 	Και μετά στον δικό μας στρατό . 
+1298	Maintain a conspiracy of lies at the highest levels of government . 	Να διατηρήσουμε μια συνομωσία ψεμμάτων στα υψηλότερα επίπεδα της κυβερνήσεως . 
+1299	Sounds right up my alley . 	Είναι το στοιχείο μου . 
+1300	Alan , I so rarely have cause to say this , but you are exactly the man I always hoped you would be . 	ʼλαν , σπάνια έχω λόγο να το πω αυτό , αλλά είσαι ακριβώς ο άντρας που πάντα πίστευα ότι θα είσαι . 
+1301	They code- named it " Ultra . " 	Του έδωσαν το κωδικό όνομα " Ultra . " 
+1302	It became the largest store of military intelligence in ... the history of the world . 	Έγινε η μεγαλύτερη αποθήκη στρατιωτικής κατασκοπίας στην ιστορία του κόσμου . 
+1303	It was like having a tap on Himmler 's intercom . 	Ήταν σαν να έχεις κοριό στο τηλέφωνο του Χίμλερ . 
+1304	I- E- O ... 	I - E- O ... 
+1305	Secrecy became the primary concern , and for some reason , they ... they trusted me . 	Η μυστικότητα έγινε πρωταρχικός σκοπός , και για κάποιο λόγο , με εμπιστεύονταν . 
+1306	Peter , do you have the ... 630 decryp ... 	Πήτερ ... έχεις το ... το 630 αποκρυπτ ... 
+1307	It 's a Beale cipher encrypted with a phrase from a book or ... 	... είναι ένα κρυπτογράφημα Beale κρυπτογραφημένο με μια φράση από ένα βιβλίο ή ... 
+1308	" Ask , and it will be given to you ; seek and you will find . " 	" Ζήτησε , και θα σου δοθεί ψάξε , και θα βρεις " Mατθαίος 7 : 7 . 
+1309	Matthew 7 : 7 . 	" Ζήτησε , και θα σου δοθεί ψάξε , και θα βρεις " Mατθαίος 7 : 7 . 
+1310	That was the key . 	Αυτό ήταν το κλειδί . 
+1311	Peter will come around eventually . 	Ο Πήτερ θα συνέλθει στο τέλος . 
+1312	Jack . 	Τζακ . 
+1313	Could you give Alan and me a moment , please ? 	Μπορείς να μας αφήσεις μόνους ένα λεπτό , σε παρακαλώ ; 
+1314	The Soviets and us , we 're on the same side . 	Οι Σοβιετικοί κι εμείς , είμαστε στην ίδια πλευρά . 
+1315	What I 'm doing will help Britain . 	Αυτό που κάνω θα βοηθήσει τη Βρετανία . 
+1316	I have to tell Denniston . 	Πρέπει να το πω στον Ντένιστον . 
+1317	No , you don 't . 	Όχι , δεν πρέπει . 
+1318	Because if you tell him my secret ... 	Διότι αν του πεις το μυστικό μου ... εγώ θα του πω το δικό σου . 
+1319	I' ll tell him yours . 	Διότι αν του πεις το μυστικό μου ... εγώ θα του πω το δικό σου . 
+1320	Do you know what they do to homosexuals ? 	Ξέρεις τι κάνουν στους ομοφυλόφιλους ; 
+1321	You 'll never be able to work again , never be able to teach . 	Δεν θα μπορέσεις να ξαναδουλέψεις , δεν θα μπορέσεις να ξαναδιδάξεις ποτέ . 
+1322	Your precious machine ... 	Την πολύτιμη μηχανή σου ... αμφιβάλλω αν θα την ξαναδείς . 
+1323	I doubt you 'll ever see him again . 	Την πολύτιμη μηχανή σου ... αμφιβάλλω αν θα την ξαναδείς . 
+1324	Hello . 	Χαίρετε , μπορώ να ... μιλήσω στον Στιούαρτ Μίνγκες , παρακαλώ ; Είναι επείγον . 
+1325	Can I ... can I speak to Stewart Menzies , please ? 	Χαίρετε , μπορώ να ... μιλήσω στον Στιούαρτ Μίνγκες , παρακαλώ ; Είναι επείγον . 
+1326	It 's urgent . 	Χαίρετε , μπορώ να ... μιλήσω στον Στιούαρτ Μίνγκες , παρακαλώ ; Είναι επείγον . 
+1327	One moment , please . 	Ένα λεπτό , παρακαλώ . 
+1328	Hello . 	Λέγετε . 
+1329	Menzies . 	Μίνγκες . 
+1330	Some advice about keeping secrets . 	Μια συμβουλή γι αυτούς που κρατούν μυστικά . 
+1331	It 's a lot easier if you don 't know them in the first place . 	Είναι πολύ πιο εύκολο , αν δεν τα ξέρεις . 
+1332	Were they steaming my letters , tapping my telephone ? 	Μου άνοιγαν τα γράμματα , παρακολουθούσαν το τηλέφωνο ; 
+1333	Trailing my nervous walks ? 	Ακολουθούσαν τις νευρικές μου βόλτες ; 
+1334	You know , I ... 	Ξέρετε ... δεν έμαθα ποτέ . 
+1335	I never did find out . 	Ξέρετε ... δεν έμαθα ποτέ . 
+1336	Joan ? 	Τζόαν ; 
+1337	Joan ? 	Τζόαν ; 
+1338	What 's ... 	Τι ... 
+1339	Where 's Joan ? 	Πού είναι η Τζόαν ; 
+1340	Military prison . 	Στη στρατιωτική φυλακή . 
+1341	What have you done ? 	Τι κάνατε ; 
+1342	Decoded Enigma intercepts . 	Αποκωδικοποιημένα μηνύματα Enigma . 
+1343	I found a pile of them in the bedside table . 	Βρήκα ένα σωρό απ´ αυτά - στο κομοδίνο . 
+1344	No , no . 	
+1345	I gave those to her over a year ago when I was trying to figure out 	- Όχι , τα έδωσα σε κείνη πριν από ένα χρόνο , όταν προσπαθούσα να βρω 
+1346	- a link between ... 	- ένα σύνδεσμο μεταξύ ... 
+1347	- I 'm sure you did . 	- Είμαι σίγουρος . 
+1348	Denniston 's been looking for a Soviet spy . 	Ο Ντένιστον ψάχνει για ένα Ρώσο κατάσκοπο . 
+1349	He 's been looking inside Hut 8 . 	Ψάχνει μέσα στο κατάλυμα 8 . 
+1350	I know who the spy is . 	Ξέρω ποιος είναι ο κατάσκοπος . 
+1351	It 's not Joan . 	Δεν είναι η Τζόαν . 
+1352	It 's ... it 's Cairncross . 	Είναι ... είναι ο Κέρνκρος . 
+1353	I found the Beale cipher , the Bible . 	Βρήκα το κρυπτογράφημα Beale , τη Βίβλο . 
+1354	God , I wish you 'd been a spy . 	Θεέ μου , μακάρι να ήσουν εσύ ο κατάσκοπος .. 
+1355	You 'd be so much better at this than he is . 	Θα ήσουν πολύ καλύτερος σε αυτό από κείνον . 
+1356	You knew it was him ? 	Ξέρατε ότι ήταν αυτός ; 
+1357	Of course I bloody knew . 	Και βέβαια ήξερα . 
+1358	I knew before he came to Bletchley . 	Το ήξερα πριν έρθει στο Bletchley . 
+1359	Why do you think I had him placed here ? 	Γιατί νομίζεις ότι τον τοποθέτησα εδώ ; 
+1360	But we have an Enigma machine . 	Μα έχουμε μια μηχανή Enigma . 
+1361	Yeah , Polish Intelligence ... 	Nαι , η πολωνική υπηρεσία πληροφοριών ... 
+1362	You placed a ... a Soviet agent at Bletchley Park ? 	Τοποθετήσατε ένα ρώσο πράκτορα στο Bletchley Park ; 
+1363	It 's really quite useful to be able to leak whatever we want to Stalin . 	Είναι πολύ χρήσιμο να μπορούμε να διαρρέουμε ό , τι πληροφορία θέλουμε στον Στάλιν . 
+1364	Churchill 's too damn paranoid . 	Ο Τσώρτσιλ είναι πολύ παρανοϊκός . 
+1365	He won 't share a shred of intelligence with the Soviets . 	Δεν θέλει να μοιραστεί ούτε ίχνος πληροφορίας με τους σοβιετικούς . 
+1366	Not even information that will help them against the Germans . 	Ούτε καν πληροφορίες που θα τους βοηθήσουν με τους Γερμανούς . 
+1367	There 's ... so much secrecy . 	Υπάρχει ... τόσο πολλή μυστικότητα . 
+1368	Cairncross has no idea we know , of course . 	Ο Κέρνκρος δεν έχει ιδέα ότι γνωρίζουμε , φυσικά . 
+1369	He 's really not the brightest bulb . 	Δεν είναι και ο εξυπνότερος . 
+1370	Which is why I need your help . 	Γι αυτό χρειάζομαι τη βοήθειά σου . 
+1371	I want to know what to leak to John , what to feed to the Soviets , as well as the British . 	Θέλω να ξέρω τι να διαρρέω στον Τζον , τι να δίνω στους Σοβιετικούς , καθώς και στους Βρετανούς . 
+1372	I 'm not a spy . 	Δεν είμαι κατάσκοπος . 
+1373	I 'm ... 	Είμαι μαθηματικός . 
+1374	I 'm just a mathematician . 	Είμαι μαθηματικός . 
+1375	I know a lot of spies , Alan . 	Ξέρω αρκετούς κατασκόπους , ʼλαν . 
+1376	You 've got more secrets than the best of them . 	Έχεις περισσότερα μυστικά από τους καλύτερους εξ αυτών . 
+1377	You ... you have to promise me that you will release Joan . 	Πρέπει να μου υποσχεθείτε ότι θα αφήσετε τη Τζόαν . 
+1378	Yes , Joan 's at the market . 	Ναι , η Τζόαν είναι στην αγορά . 
+1379	She 's gonna be back in an hour . 	Θα γυρίσει σε μια ώρα . Είπα ψέμματα . 
+1380	I lied . 	
+1381	I better hold on to these . 	Καλύτερα να τα πάρω αυτά . 
+1382	If anybody finds out about them , prison will be the least of her worries . 	Αν τα ανακαλύψει κάποιος , η φυλακή θα είναι το μικρότερο από τα προβλήματά της . 
+1383	Oh , Alan ... we 're gonna have such a wonderful war together . 	ʼλαν ... θα έχουμε θαυμάσιο πόλεμο μαζί . 
+1384	- I need you to leave Bletchley . 	Θέλω να φύγεις από το Bletchley . 
+1385	- What ? 	- Τι ; - Δεν εμπιστεύομαι τον Μίνγκες . 
+1386	It 's Menzies . 	- Τι ; - Δεν εμπιστεύομαι τον Μίνγκες . 
+1387	I don 't trust him . 	- Τι ; - Δεν εμπιστεύομαι τον Μίνγκες . 
+1388	It 's not safe here . 	- Δεν είναι ασφαλές μέρος εδώ . 
+1389	- Do you think it 's any safer anywhere else ? 	- Πιστεύεις ότι είναι 
+1390	- You need to get away . 	- πουθενά αλλού ; - Πρέπει να φύγεις μακριά . 
+1391	- You need to get very far away from me . 	Πρέπει να φύγεις πολύ μακριά από μένα . ʼλαν , τι συνέβη ; 
+1392	- Alan , what 's happened ? 	Πρέπει να φύγεις πολύ μακριά από μένα . ʼλαν , τι συνέβη ; 
+1393	We can 't be engaged anymore . 	Δεν μπορούμε πια να είμαστε αρραβωνιασμένοι . 
+1394	You ... your parents need to take you back and find you a husband elsewhere . 	Οι γονείς σου πρέπει να σε πάρουν πίσω και να σου βρουν άλλο σύζυγο . 
+1395	What 's wrong with you ? 	Τι έχεις πάθει ; 
+1396	I have something to tell you . 	Θέλω να σου πω κάτι . 
+1397	I 'm ... 	Είμαι ... είμαι ομοφυλόφιλος . 
+1398	I 'm a homosexual . 	Είμαι ... είμαι ομοφυλόφιλος . 
+1399	All right . 	Καλά . 
+1400	No , no . 	Όχι , όχι . ʼντρες , Τζόαν ... όχι γυναίκες . 
+1401	Men , Joan ... 	Όχι , όχι . ʼντρες , Τζόαν ... όχι γυναίκες . 
+1402	- not women . 	Όχι , όχι . ʼντρες , Τζόαν ... όχι γυναίκες . 
+1403	- So what ? 	Και λοιπόν ; 
+1404	- Well , I just told you . 	Μόλις σου είπα . 
+1405	- So what ? 	Και λοιπόν ; 
+1406	I had my suspicions ; I always did . 	Είχα τις υποψίες μου . Πάντα το υποψιαζόμουν . 
+1407	But we 're not like other people . 	Αλλά δεν είμαστε σαν τους άλλους ανθρώπους . 
+1408	We love each other in our own way , and we can have the life together that we want . 	Αγαπάμε ο ένας τον άλλον με το δικό μας τρόπο , και μπορούμε να έχουμε μαζί τη ζωή που θέλουμε . 
+1409	You ... you won 't be the perfect husband . 	Εσύ δεν θα είσαι ο τέλειος σύζυγος . 
+1410	Well , I can promise you , I have no intention of being the perfect wife . 	Και μπορώ να σου υποσχεθώ , ότι δεν έχω πρόθεση να είμαι η τέλεια σύζυγος . 
+1411	I' ll not be ... fixing your lamb all day while you come home from the office . 	Δεν θα σου μαγειρεύω όλη μέρα ενώ εσύ θα γυρίζεις από το γραφείο . 
+1412	I' ll work . 	Θα δουλεύω . 
+1413	You 'll work . 	Θα δουλεύεις . 
+1414	And we 'll have each other 's company . 	Θα έχουμε ο ένας τη συντροφιά του άλλου . 
+1415	We 'll have each other 's minds . 	Θα έχουμε ο ένας το μυαλό του άλλου . 
+1416	That sounds like a better marriage than most . 	Ακούγεται καλύτερος γάμος από τους περισσότερους . 
+1417	Because I care for you . 	Επειδή νοιάζομαι για σένα . 
+1418	And you care for me . 	Κι εσύ για μένα . 
+1419	And we understand one another more than ... more than anyone else ever has . 	Και καταλαβαινόμαστε περισσότερο από ... από οποιονδήποτε άλλον .. 
+1420	I don 't . 	Εγώ όχι . 
+1421	- What ? 	- Τι ; - Δεν νοιάζομαι για σένα . 
+1422	- Care for you . 	- Τι ; - Δεν νοιάζομαι για σένα . 
+1423	I never did . 	Δεν νοιαζόμουν ποτέ . 
+1424	I just needed you to break Enigma . 	Σε χρειαζόμουν μόνο για να σπάσουμε τον Enigma . 
+1425	I' ve done that now , so ... so you can go . 	Τώρα το έκανα αυτό , οπότε ... μπορείς να φύγεις . 
+1426	I 'm not going anywhere . 	Δεν θα πάω πουθενά . 
+1427	I' ve spent entirely too much of my life worried about what you think of me , or what my parents think of me , or the boys in Hut 8 or the girls in Hut 3 . 	Ξόδεψα πολύ μεγάλο μέρος της ζωής μου ανησυχώντας για το τι πιστεύεις εσύ για μένα , ή για το τι πιστεύουν οι γονείς μου για μένα , ή τα παιδιά στο κατάλυμα 8 ή τα κορίτσια στο κατάλυμα 3 . 
+1428	And do you know what ? 	Και ξέρεις κάτι ; Τελείωσα . 
+1429	I 'm done . 	Και ξέρεις κάτι ; Τελείωσα . 
+1430	This is the most important work I will ever do , and no one is going to stop me . 	Αυτή είναι η πιο σημαντική δουλειά που θα κάνω ποτέ , και κανείς δεν θα με σταματήσει . 
+1431	Least of all , you . 	Πόσο μάλλον εσύ . 
+1432	You know what , they were right . 	Ξέρεις κάτι , έχουν δίκιο . 
+1433	Peter , Hugh , John . 	Ο Πήτερ , ο Χιου , ο Τζον . 
+1434	You really are a monster . 	Είσαι πράγματι ένα τέρας . 
+1435	The war dragged on for two more ... solitary years ... and every day we performed our blood- soaked calculus . 	Ο πόλεμος τράβηξε γι ακόμα δύο ... μοναχικά χρόνια ... και κάθε μέρα εκτελούσαμε τα αιματοβαμμένα μαθηματικά μας . 
+1436	Every day we decided who lived and who died . 	Κάθε μέρα αποφασίζαμε ποιος θα ζούσε και ποιος θα πέθαινε . 
+1437	Every day we ... helped the Allies to victories , and nobody knew . 	Κάθε μέρα ... βοηθούσαμε τους Συμμάχους σε νίκες , και κανείς δεν γνώριζε . 
+1438	Stalingrad . 	Στάλινγκραντ . 
+1439	The Ardenne . 	Στάλινγκραντ . 
+1440	The invasion of Normandy . 	Αρδέννες . Η απόβαση στη Νορμανδία . 
+1441	All victories that would not have been possible without the intelligence that we supplied . 	Όλες νίκες που δεν θα ήταν δυνατές χωρίς τις πληροφορίες που παρέχαμε εμείς . 
+1442	And people ... talk about the war as this epic battle between ... civilizations ... freedom versus tyranny , democracy versus Nazism , armies of millions bleeding into the ground , fleets of ships weighing down the oceans , planes dropping bombs from the sky until they obliterated the sun itself ... the war wasn 't like that for us . 	Και ο κόσμος ... μιλάει για τον πόλεμο , σαν μια επική μάχη μεταξύ ... πολιτισμών ... της ελευθερίας ενάντια στην τυραννία , της δημοκρατίας εναντίον του Ναζισμού , ενώ στρατοί εκατομμυρίων αιμορραγούν στο έδαφος , ενώ στόλοι πλοίων κατακλύζουν τους ωκεανούς , αεροπλάνα ρίχνουν βόμβες από τον ουρανό μέχρι να καταστρέψουν και τον ίδιο τον ήλιο ... Ο πόλεμος δεν ήταν έτσι για μας . 
+1443	For us , it was just ... half a dozen crossword enthusiasts in a tiny village in the South of England . 	Για μας ήταν απλά ... ... μισή ντουζίνα παθιασμένων με τα σταυρόλεξα σε ένα μικρό χωριουδάκι στη Νότια Αγγλία . 
+1444	This is ... your victory . 	Αυτή είναι ... η δική σας νίκη . 
+1445	Victory ... of the cause of freedom in every land . 	Η νίκη ... για την ελευθερία σε κάθε χώρα . 
+1446	This is a solemn but glorious hour . 	Είναι μια ιερή , αλλά δοξασμένη ώρα . 
+1447	I wish that Franklin D . 	Μακάρι ο Φράνκλιν Ρούζβελτ να ζούσε για να δει αυτή τη μέρα . 
+1448	Roosevelt had lived to see this day . 	Μακάρι ο Φράνκλιν Ρούζβελτ να ζούσε για να δει αυτή τη μέρα . 
+1449	Was I God ? 	Ήμουν ο Θεός ; Όχι . 
+1450	No . 	Επειδή ... 
+1451	Because ... 	Επειδή ... 
+1452	God didn 't win the war . 	Ο Θεός δεν κέρδισε τον πόλεμο . 
+1453	We did . 	Εμείς τον κερδίσαμε . 
+1454	So , what happens now ? 	Και τώρα τι θα γίνει ; 
+1455	Is it ... back to university for us , I suppose ? 	Πίσω στο Πανεπιστήμιο για μας , υποθέτω . 
+1456	Yes , pretty much . 	Ναι , μάλλον . 
+1457	But you 've one thing left to do before your service to your government in concluded . 	Όμως σας έχει μείνει να κάνετε ένα πράγμα πριν ολοκληρωθεί - η υπηρεσία σας στην κυβέρνηση . 
+1458	- What 's that ? 	- Ποιο είναι αυτό ; 
+1459	- Burn everything . 	Να κάψετε τα πάντα . 
+1460	- Burn ? 	- Να κάψουμε ; Γιατί ; - Σας είπαν όταν ξεκινήσατε ότι αυτό το πρόγραμμα ήταν μυστικό . 
+1461	Why ? 	- Να κάψουμε ; Γιατί ; - Σας είπαν όταν ξεκινήσατε ότι αυτό το πρόγραμμα ήταν μυστικό . 
+1462	- You were told when you started this was a top- secret program . 	- Να κάψουμε ; Γιατί ; - Σας είπαν όταν ξεκινήσατε ότι αυτό το πρόγραμμα ήταν μυστικό . 
+1463	Did you think we were joking ? 	Νομίζατε ότι αστειευόμαστε ; 
+1464	- But the war is over . 	- Μα ο πόλεμος τελείωσε . 
+1465	- This war is . 	- Αυτός ο πόλεμος . 
+1466	But there 'll be others . 	Αλλά θα υπάρξουν κι άλλοι . 
+1467	And we know how to break a code that everybody else believes is unbreakable . 	Κι εμείς ξέρουμε πώς να σπάμε έναν κώδικα που όλοι οι άλλοι πιστεύουν ότι δεν σπάει . 
+1468	Precisely . 	Ακριβώς . 
+1469	Tear it down . 	Γκρεμίστε το . 
+1470	Light it up . 	Βάλτε του φωτιά . 
+1471	Sweep away the ashes . 	Και σκορπίστε τις στάχτες . 
+1472	None of you have ever met before . 	Κανένας από σας δεν έχει ξανασυναντηθεί . 
+1473	None of you have ever even heard the word Enigma . 	Κανένας από σας δεν έχει ξανακούσει ποτέ τη λέξη Enigma . 
+1474	Have a safe trip home . 	Καλή επάνοδο στα σπίτια σας . 
+1475	Behave . 	Προσέχετε . 
+1476	With a bit of luck , you 'll never have to see me or one another again for the rest of your lives . 	Με λίγη τύχη , δεν θα χρειαστεί να ξαναδείτε εμένα , ή ο ένας τον άλλον για την υπόλοιπη ζωή σας . 
+1477	That 's unbelievable . 	Αυτό είναι απίστευτο . 
+1478	Now , Detective , you get to judge . 	Τώρα , ντετέκτιβ , εσείς θα κρίνετε . 
+1479	So , tell me ... what am I ? 	Λοιπόν , πείτε μου ... τι είμαι ; 
+1480	Am I ... a machine ? 	Είμαι ... μια μηχανή ; Είμαι άνθρωπος ; 
+1481	Am I a person ? 	
+1482	Am I a war hero ? 	Είμαι ήρωας πολέμου ; 
+1483	Am I a criminal ? 	Είμαι εγκληματίας ; 
+1484	I can 't judge you . 	Δεν μπορώ να σας κρίνω . 
+1485	Well , then ... 	Τότε ... ... δεν είστε καμμία βοήθεια για μένα . 
+1486	you 're no help to me at all . 	Τότε ... ... δεν είστε καμμία βοήθεια για μένα . 
+1487	Come in . 	Περάστε . 
+1488	You wanted to see me , sir ? 	Θέλατε να με δείτε , κύριε ; 
+1489	Turing . 	Τούρινγκ . 
+1490	Sit down . 	Κάθησε . 
+1491	Something the matter ? 	Συμβαίνει κάτι ; 
+1492	You and Christopher Morcom are quite close . 	Εσύ και ο Κρίστοφερ Μόρκομ είστε πολύ στενοί φίλοι . 
+1493	I wouldn 't say that . 	Δεν θα το έλεγα αυτό . 
+1494	Well , your mathematics teacher says the two of you are positively inseparable . 	Ο δάσκαλος των μαθηματικών σας λέει ότι εσείς οι δύο είστε αχώριστοι . 
+1495	We 're the best students in the class . 	Είμαστε οι καλύτεροι μαθητές στην τάξη . 
+1496	He caught you passing notes the other day . 	Σας έπιασε να ανταλλάσετε σημειώματα τις προάλλες . 
+1497	Cryptography , to pass the time . 	Κρυπτογραφία , για να περνάει η ώρα . 
+1498	The class is too simple . 	Το μάθημα είναι πολύ εύκολο . 
+1499	You and your friend solve maths problems during maths class because the maths class is too dull ? 	Εσύ κι ο φίλος σου λύνετε μαθηματικά προβλήματα στο μάθημα της άλγεβρας επειδή το μάθημα είναι πολύ βαρετό ; 
+1500	He 's not my friend . 	Δεν είναι φίλος μου . 
+1501	- Well , I 'm told he 's your only friend . 	Μου είπαν ότι είναι ο μοναδικός σου φίλος . 
+1502	- Who said that ? 	Ποιος το είπε αυτό ; 
+1503	Something 's come up concerning Morcom . 	Κάτι προέκυψε , αναφορικά με τον Μόρκομ . 
+1504	Why am I here ? 	Γιατί βρίσκομαι εδώ ; 
+1505	Christopher is dead . 	Ο Κρίστοφερ είναι νεκρός . 
+1506	I don 't understand . 	Δεν καταλαβαίνω . 
+1507	His mother sent word this morning . 	Ειδοποίησε η μητέρα του σήμερα το πρωί . 
+1508	The family were on holiday , you see . 	Η οικογένεια είχε πάει διακοπές , βλέπεις . 
+1509	I don 't understand . 	Δεν καταλαβαίνω . 
+1510	Well , he had bovine tuberculosis , as I 'm sure he told you . 	Είχε φυματίωση , όπως θα σου είχε πει . 
+1511	So , this won 't come as a shock , but ... still , all the same , 	Οπότε , αυτό δεν θα σε ξαφνιάσει , αλλά ... όπως και νάχει , λυπάμαι . 
+1512	I 'm sorry . 	Οπότε , αυτό δεν θα σε ξαφνιάσει , αλλά ... όπως και νάχει , λυπάμαι . 
+1513	You 're mistaken . 	Έχετε κάνει λάθος . 
+1514	Did he not tell you ? 	Δεν σου το είχε πει ; 
+1515	Well , he 's been sick for a long time . 	Ήταν άρρωστος εδώ και πολύ καιρό . 
+1516	He knew this was coming soon . 	Ήξερε ότι αυτό θα γινόταν . 
+1517	But he had a stiff upper lip about it . 	Αλλά δεν μιλούσε γι αυτό . 
+1518	Good lad . 	Καλό παιδί . 
+1519	- Are you all right , Turing ? 	- Είσαι καλά , Τούρινγκ ; - Ναι . 
+1520	- Yes . 	- Είσαι καλά , Τούρινγκ ; - Ναι . 
+1521	Of course . 	Φυσικά . 
+1522	Like I said , I didn 't know him very well . 	Όπως είπα , δεν τον ήξερα πολύ καλά . 
+1523	I see . 	Κατάλαβα . 
+1524	Very well . 	Πολύ καλά . 
+1525	May I leave , Headmaster ? 	Μπορώ να φύγω , κύριε διευθυντά ; 
+1526	Congratulations , sir . 	Συγχαρητήρια , κύριε . 
+1527	Sorry . 	Συγγνώμη . 
+1528	I would have come . 	Θα είχα έρθει . 
+1529	I would have testified . 	Θα είχα καταθέσει . 
+1530	And what would you have said , that I ... 	Και τι θα έλεγες , ότι εγώ ... δεν είμαι ομοφυλόφιλος ; ʼλαν , είναι σοβαρό . 
+1531	I wasn 't a homosexual . 	Και τι θα έλεγες , ότι εγώ ... δεν είμαι ομοφυλόφιλος ; ʼλαν , είναι σοβαρό . 
+1532	Alan ... this is serious . 	Και τι θα έλεγες , ότι εγώ ... δεν είμαι ομοφυλόφιλος ; ʼλαν , είναι σοβαρό . 
+1533	They could send you to jail . 	Μπορούν να σε βάλουν φυλακή . 
+1534	Damn it . 	Να πάρει . 
+1535	- Your hands . 	Έχεις σπασμούς . 
+1536	You 're twitching . 	Όχι , όχι , δεν έχω . ʼλαν . 
+1537	- No , I 'm not . 	Όχι , όχι , δεν έχω . ʼλαν . 
+1538	Alan . 	Όχι , όχι , δεν έχω . ʼλαν . 
+1539	It 's the medication . 	Είναι το φάρμακο . 
+1540	The medication ? 	Το φάρμακο ; 
+1541	Well , the judge gave me a choice ... either two years in prison or hormonal therapy . 	Ο δικαστής μου έδωσε μια εναλλακτική . Ή δύο χρόνια στη φυλακή ή ... ορμονική θεραπεία . 
+1542	Oh , my God . 	Θεέ μου . 
+1543	Oh , my God . 	Θεέ μου . 
+1544	Yes , yes , that 's right . 	Ναι , ναι , ακριβώς . 
+1545	Chemical castration . 	Χημικός ευνουχισμός . 
+1546	To ... to cure me of my homosexual predilections . 	Για να θεραπευθώ από ... τις ομοφυλοφιλικές μου προτιμήσεις . 
+1547	Well , of course I chose that . 	Και φυσικά επέλεξα αυτό . 
+1548	I mean , I ... couldn 't ... work in prison , and ... 	Εννοώ , δεν θα μπορούσα ... να εργαστώ στη φυλακή , και ... 
+1549	All right . 	Εντάξει . 
+1550	Now , I 'm going to speak to your doctors . 	Τώρα , θα πάω να μιλήσω στους γιατρούς σου . 
+1551	I 'm going to speak to your lawyers . 	- Θα μιλήσω στους δικηγόρους σου . 
+1552	I 'm fine . 	- Είμαι καλά . ʼσε με να σε βοηθήσω . 
+1553	- Please let me help you . 	- Είμαι καλά . ʼσε με να σε βοηθήσω . 
+1554	- No , I don 't need your help , thank you . 	Όχι , δεν χρειάζομαι τη βοήθειά σου , σ´ ευχαριστώ . ʼλαν , δεν χρειάζεται να το κάνεις αυτό μόνος σου . 
+1555	Alan , you do not have to do this alone . 	Όχι , δεν χρειάζομαι τη βοήθειά σου , σ´ ευχαριστώ . ʼλαν , δεν χρειάζεται να το κάνεις αυτό μόνος σου . 
+1556	I 'm not alone . 	Δεν είμαι μόνος μου . 
+1557	Never have been . 	Ποτέ δεν ήμουν . 
+1558	Christopher 's become so smart . 	Ο Κρίστοφερ έχει γίνει τόσο έξυπνος . 
+1559	If I don 't continue my treatment , then they 'll ... they 'll take him away from me . 	Αν δεν συνεχίσω τη θεραπεία μου , τότε θα ... ... θα τον πάρουν μακριά μου . 
+1560	You ... 	Εσύ ... 
+1561	You can 't let them do that . 	Δεν μπορείς να τους αφήσεις να το κάνουν αυτό . 
+1562	You can 't . 	Δεν μπορείς . 
+1563	You ... you can 't let them leave me alone . 	Δεν μπορείς να τους αφήσεις , να με αφήσουν μόνο μου . 
+1564	I don 't ... 	Δεν θέλω ... δεν θέλω να είμαι μόνος μου . 
+1565	I don 't want to be alone . 	Δεν θέλω ... δεν θέλω να είμαι μόνος μου . 
+1566	I don 't want to be alone . 	- Δεν θέλω να είμαι μόνος μου . 
+1567	All ri ... all right , all right . 	- Καλά , καλά . 
+1568	All right . 	Εντάξει . 
+1569	It 's all right . 	Εντάξει . 
+1570	Come and sit down . 	Έλα να καθήσεις . 
+1571	It 's all right . 	Είναι εντάξει . 
+1572	Come and sit down . 	Έλα και κάθησε . 
+1573	It 's all right . 	Είναι εντάξει . 
+1574	Oh , well , that 's a ... that 's a much nicer ring than the one I made you . 	Αυτό είναι ... πολύ πιο όμορφο δαχτυλίδι από εκείνο που σου έφτιαξα εγώ . 
+1575	Yes . 	Ναι . 
+1576	His name 's Jock . 	Τον λένε Τζοκ . 
+1577	He 's an Army man , if you can believe it . 	Είναι στρατιωτικός , αν μπορείς να το πιστέψεις . 
+1578	We work together . 	Δουλεύουμε μαζί . 
+1579	Why don 't we do a crossword puzzle . 	Γιατί δεν λύνουμε ένα σταυρόλεξο ; 
+1580	It 'll only take us five minutes . 	Θα μας έπαιρνε μόνο 5 λεπτά . 
+1581	Or , in your case , six . 	Ή , στην περίπτωσή σου , έξι . 
+1582	There . 	Ορίστε . 
+1583	Perhaps later . 	Ίσως αργότερα . 
+1584	Yes , of course . 	Ναι , φυσικά . 
+1585	You got what you wanted , didn 't you ? 	Έχεις αυτό που ήθελες , έτσι δεν είναι ; 
+1586	Work , a husband . 	Δουλειά , σύζυγο . 
+1587	Normal life . 	Φυσιολογική ζωή . 
+1588	No one normal could have done that . 	Κανείς φυσιολογικός δεν θα μπορούσε να το κάνει αυτό . 
+1589	Do you know , this morning ... 	Ξέρεις , ότι σήμερα το πρωί ... βρισκόμουν σε ένα τραίνο που πέρασε από μια πόλη , που δεν θα υπήρχε αν δεν υπήρχες εσύ . 
+1590	I was on a train that went through a city that wouldn 't exist if it wasn 't for you . 	Ξέρεις , ότι σήμερα το πρωί ... βρισκόμουν σε ένα τραίνο που πέρασε από μια πόλη , που δεν θα υπήρχε αν δεν υπήρχες εσύ . 
+1591	I bought a ticket from a man who would likely be dead if it wasn 't for you . 	Αγόρασα ένα εισιτήριο από έναν άντρα που πιθανότατα θα ήταν νεκρός , αν δεν υπήρχες εσύ . 
+1592	I read up on my work ... a whole field of scientific inquiry that only exists because of you . 	Διάβασα στη δουλειά μου .. Ένα ολόκληρο πεδίο επιστημονικής έρευνας που υπάρχει μόνο , επειδή υπάρχεις εσύ . 
+1593	Now , if you wish you could have been normal ... 	Τώρα , αν εύχεσαι να ήσουν φυσιολογικός ... σε βεβαιώνω ότι εγώ δεν το εύχομαι . 
+1594	I can promise you I do not . 	Τώρα , αν εύχεσαι να ήσουν φυσιολογικός ... σε βεβαιώνω ότι εγώ δεν το εύχομαι . 
+1595	The world is an infinitely better place precisely because you weren 't . 	Ο κόσμος είναι απείρως καλύτερος ακριβώς επειδή εσύ δεν ήσουν φυσιολογικός . 
+1596	Do you ... do you really think that ? 	Αλήθεια ... αλήθεια το πιστεύεις αυτό ; 
+1597	I think ... that sometimes it is the people who no one imagines anything of who do the things that no one can imagine . 	Νομίζω ... ότι μερικές φορές είναι εκείνοι για τους οποίους κανείς δεν φαντάζεται που κάνουν πράγματα που κανείς δεν μπορεί να φανταστεί . 

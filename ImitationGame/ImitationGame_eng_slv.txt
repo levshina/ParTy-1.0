@@ -1,0 +1,1597 @@
+1	Are you paying attention ? 	Ali me pozorno poslušate ? 
+2	Good . 	Dobro . Če ne boste pazljivo poslušali , boste zgrešili zelo pomembne stvari . 
+3	If you 're not listening carefully , you will miss things , important things . 	Dobro . Če ne boste pazljivo poslušali , boste zgrešili zelo pomembne stvari . 
+4	I will not pause . 	Ne bom se ustavljal , ne bom se ponavljal in ne boste me prekinjali . 
+5	I will not repeat myself , and you will not interrupt me . 	Ne bom se ustavljal , ne bom se ponavljal in ne boste me prekinjali . 
+6	You think that because you are sitting where you are and I am sitting where I am that you are in control of what is about to happen . 	Če mislite , da imate nadzor nad tem , kar se bo zgodilo ker sedite tam in jaz tu , se motite . 
+7	You 're mistaken . 	Če mislite , da imate nadzor nad tem , kar se bo zgodilo ker sedite tam in jaz tu , se motite . 
+8	I am in control . 	Jaz imam nadzor . 
+9	Because I know things that you do not know . 	Ker vem stvari , ki jih vi ne veste . 
+10	Manchester Police Department , please hold . 	Manchestrski policijski oddelek , prosim počakajte . 
+11	Windows broken . 	Razbita okna . 
+12	Home 's been ransacked . 	Stanovanje je bilo prebrskano . 
+13	Send a detective down , will you ? 	Boste poslali detektiva sem ? 
+14	What I will need from you now is a commitment . 	Od vas želim predanost . 
+15	You will listen closely , and you will not judge me until I am finished . 	Skrbno me boste poslušali , in ne boste me obsojali , dokler ne končam . Če tega ne morete storiti , potem , prosim , zapustite sobo . 
+16	If you cannot commit to this , then please leave the room . 	Skrbno me boste poslušali , in ne boste me obsojali , dokler ne končam . Če tega ne morete storiti , potem , prosim , zapustite sobo . 
+17	Come in . 	Vstopite . 
+18	But if you choose to stay , remember you chose to be here . 	Toda , če se odločite ostati , ne pozabite , da ste to sami izbrali . 
+19	What happens from this moment forwards is not my responsibility . 	Kar se zgodi od tega trenutka naprej , ni moja odgovornost . 
+20	It 's yours . 	Vaša je . 
+21	Pay attention . 	Bodite pozorni . 
+22	- What 's all this , then ? 	Za kaj gre ? 
+23	- Turing , Alan . 	Turing , Alan . 
+24	Professor at King 's . 	Profesor na fakulteti King . 
+25	- Seems there 's been a burglary . 	Videti je , da je prišlo do vloma . 
+26	- Oh ? 	Kaj manjka ? 
+27	What of ? 	Kaj manjka ? 
+28	Well , that 's just it . 	Ni videti , da bi kaj manjkalo . 
+29	Nothing missing , really . 	Ni videti , da bi kaj manjkalo . 
+30	What 's he doing in Manchester ? 	Kaj dela v Manchestru ? 
+31	Something with machines . 	Nekaj s stroji . 
+32	The project at the NPL . 	Projekt na NPL . 
+33	I checked , but he won 't say what it 's on . 	Preveril sem , a noče povedati za kaj gre . 
+34	Professor Turing ? 	Profesor Turing ? 
+35	Detective Nock , Manchester Police . 	Detektiv Nock , Manchestrska policija . 
+36	Sergeant Staehl here tells me you had a burglary last night . 	Narednik Staehl pravi , da so sinoči vlomili k vam . 
+37	Professor Turing ? 	Profesor Turing ? 
+38	Take a step back , and don 't breath heavily . 	Stopite nazaj in ne dihajte globoko . 
+39	- Breathe ? 	Diham ? 
+40	- Undiluted cyanide . 	–Nerazredčen cianid . 
+41	It wouldn 't take more than a thimbleful to kill you . 	Ubije vas že majhna količina . 
+42	- Disappointing . 	Kakšno razočaranje . 
+43	- Pardon ? 	Oprostite ? 
+44	I had hoped for a bit more . 	Upal sem na kaj več . 
+45	Sergeant Staehl , is it just me , or do you get the sense that we 're being insulted ? 	Narednik Staehl , imate tudi vi občutek , da naju žali ? 
+46	Last night , you had a break- in . 	Sinoči so vlomili k vam . Vaš sosed , g . 
+47	Your neighbor , Mr . 	Springborn , je klical in prijavil hrup . 
+48	Springborn , called to report the noise . 	Springborn , je klical in prijavil hrup . 
+49	He said there was quite a ruckus . 	Bil naj bi precejšen kraval . 
+50	Only you say nothing was taken . 	Toda vi pravite , da ni bilo nič ukradeno . 
+51	It 's odd . 	Toda vi pravite , da ni bilo nič ukradeno . 
+52	So , how about you tell us what happened , and we 'll find the chap who did this . 	To je čudno . Raje nama povejte , kaj se je zgodilo in našli bomo storilca . 
+53	Gentlemen , I don 't believe that you could find the chap that did this if he walked up to you and spat in your face . 	Gospoda , ne verjamem , da lahko najdete storilca , tudi če stopi pred vas in vam pljune v obraz . 
+54	What I could us right now is not a bobby , but a really good cleaning lady . 	Trenutno bi bolj potreboval dobro čistilko . Če nihče od vaju nima predpasnika v avtu , predlagam , da napišeta svoje poročilo in me pustita pri miru . 
+55	So , unless one of you has an apron in your car , 	Trenutno bi bolj potreboval dobro čistilko . Če nihče od vaju nima predpasnika v avtu , predlagam , da napišeta svoje poročilo in me pustita pri miru . 
+56	I suggest you file your reports and leave me alone . 	Trenutno bi bolj potreboval dobro čistilko . Če nihče od vaju nima predpasnika v avtu , predlagam , da napišeta svoje poročilo in me pustita pri miru . 
+57	As you say , Professor Turing . 	Kot želite , profesor Turing . 
+58	Best of luck with your cyanide . 	Vso srečo z vašim cianidom . 
+59	I' ll give you a quid if you can name me a more insufferable sod . 	Dam vam funt , če obstaja še bolj neznosen mož . Čeprav se zdi malo prisiljen , kajne ? 
+60	- Seemed a bit forced , though , didn 't it ? 	Dam vam funt , če obstaja še bolj neznosen mož . Čeprav se zdi malo prisiljen , kajne ? 
+61	- Don 't know what you mean . 	Ne vem , kaj mislite . Če ne želiš , da dva policaja brskata po tvojih osebnih zadevah , ju pošlješ daleč proč , da tega gotovo ne bosta delala . 
+62	Well , if you didn 't want a pair of bobbies digging around in your personal affairs , that 'd have been a stellar way to make sure they don 't . 	Ne vem , kaj mislite . Če ne želiš , da dva policaja brskata po tvojih osebnih zadevah , ju pošlješ daleč proč , da tega gotovo ne bosta delala . 
+63	Tell me you don 't think this is suspicious . 	Povejte mi , da se vam to ne zdi sumljivo . 
+64	I don 't think this is suspicious . 	Ne zdi se mi , da je to sumljivo . 
+65	A mysterious professor who won 't admit he 's had something stolen from his house ? 	Skrivnostni profesor , ki noče priznati , da je bilo nekaj ukradeno iz njegove hiše . 
+66	I think Alan Turing 's hiding something . 	Mislim , da Alan Turing nekaj skriva . 
+67	War declared ! 	Vojna je napovedana ! 
+68	800, 000 children evacuated ! 	800 . 000 otrok evakuiranih ! 
+69	German bombs on their way ! 	Kmalu lahko pričakujemo nemške bombnike ! 
+70	Get your papers here ! 	Kmalu lahko pričakujemo nemške bombnike ! 
+71	Fresh off the press ! 	Dobite si svoj izvod ! 
+72	War declared ! 	Sveže iz tiska ! 
+73	800, 000 children evacuated ! 	
+74	German bombs expected soon ! 	
+75	This morning , the British Ambassador in Berlin handed the German government a final note stating that unless we heard from them , by 11 : 00 , a state of war would exist between us . 	Ko je naš ambasador v Berlinu postavil ultimat naj bi bili z Nemčijo , če se ne odzovejo do 11 : 00 , v vojni . 
+76	I have to tell you now that no such undertaking has been received . 	Žal je tako , da nismo prejeli nikakršnega odgovora . 
+77	And that , consequently , this country is at war with Germany . 	Za to je ta država od zdaj naprej v vojni z Nemčijo . 
+78	For the second time in the lives of most of us , we are ... at war . 	Večina nas je prvič v vojni . 
+79	To find a peaceful way out ... 	
+80	Papers , please . 	Dokumente , prosim . 
+81	What are you doing here ? 	Kaj delate tukaj ? 
+82	- Oh , the lady told me to wait . 	Gospa mi je rekla , da naj počakam . 
+83	- In my office ? 	V moji pisarni ? 
+84	She tell you to help yourself to tea while you were here ? 	Vam je rekla , da si postrezite s čajem medtem , ko ste tu ? 
+85	No , she didn 't . 	Ne , ni . 
+86	She obviously didn 't tell you what a joke was , then , either , I gather . 	Očitno vam ni povedala kaj je šala , sklepam . 
+87	Was she supposed to ? 	Bi mi morala ? 
+88	- Who are you ? 	Kdo ste ? 
+89	- Alan Turing . 	Alan Turing . 
+90	Turing . 	Ja , Turing . 
+91	The mathematician . 	Matematik . 
+92	- Correct . 	Tako je . 
+93	- However could I have guessed ? 	Tako je . 
+94	Well , you didn 't . 	–Niste . 
+95	You just read it on that piece of paper . 	Pravkar ste prebrali na tem papirju . 
+96	King 's College , Cambridge . 	Fakulteta King , Cambridge . 
+97	Now , it says here you were a bit of a prodigy in the maths department . 	Piše , da ste bili nekakšen čudež na oddelku za matematiko . 
+98	I 'm not sure I can evaluate that , Mr .... 	Nisem prepričan , da bi to lahko vrednotil , gospod … 
+99	- How old are you , Mr . 	Koliko ste stari , g . 
+100	Turing ? 	Turing ? 
+101	- 27 . 	–27 . 
+102	And how old were you when you became a Fellow at Cambridge ? 	Pri koliko letih ste postali profesor na Cambridgeu ? 
+103	- 24 . 	24 . 
+104	- And how old were you ... when you published this paper that has a title I can barely understand ? 	–In pri koliko letih ste objavili delo , katerega naslov komaj razumem ? 
+105	23 . 	23 . 
+106	And you don 't think that qualifies you as a certified prodigy ? 	–In ne mislite , da to potrjuje vašo genialnost ? 
+107	Well , Newton discovered binomial theorem aged 22 . 	Newton je odkril binom izrek pri starosti 22 let . 
+108	Einstein wrote four papers that changed the world by the age of 26 . 	Einstein je napisal 4 dela , ki so spremenila svet do 26 . leta . 
+109	As far as I can tell , I' ve ... 	Lahko rečem , da sem jaz zgolj povprečen . 
+110	I' ve barely made par . 	Lahko rečem , da sem jaz zgolj povprečen . 
+111	- My God , you 're serious . 	Mojbog , resno mislite . 
+112	- Would you prefer I made a joke ? 	–Bi raje videli , da se šalim ? 
+113	Oh , I don 't think you know what those are . 	Mislim , da ne veste kaj so šale . 
+114	Hardly seems fair that that 's a requirement for employment here , Mr ... 	Težko , da je to tukaj pogoj za zaposlitev , gospod … 
+115	Commander Denniston , Royal Navy . 	Kapitan bojne ladje , Denniston , Kraljeva mornarica . 
+116	All right , Mr . 	Kapitan bojne ladje , Denniston , Kraljeva mornarica . 
+117	Turing , I' ll bite . 	V redu , g . 
+118	Why do you wish to work for His Majesty 's government ? 	Turing . Šel se bom vašo igro . Zakaj želite delati za njegovo veličanstvo ? 
+119	Oh , I don 't , really . 	Pravzaprav ne želim . 
+120	Are you a bleeding pacifist ? 	Ste prekleti pacifist ? 
+121	I 'm ... agnostic about violence . 	Sem agnostik glede nasilja . 
+122	Well , you do realize that 600 miles away from London there 's this nasty little chap called Hitler who wants to engulf Europe in tyranny ? 	Se zavedate , da 1 . 000 km od Londona nek zoprnež po imenu Hitler želi zavzeti vso Evropo ? 
+123	Politics isn 't really my area of expertise . 	Politika ni področje mojega znanja . 
+124	Really ? 	Resno ? 
+125	Well , I believe you 've just set the record for the shortest job interview in British military history . 	Zdi se mi , da ste ravnokar postavili rekord najkrajšega razgovora za službo v britanski vojaški zgodovini . 
+126	Mother says I can be off- putting sometimes on account of being one of the best mathematicians in the world . 	Mama pravi , da odbijam ljudi , ker sem eden najboljših matematikov na svetu . 
+127	- In the world ? 	Na svetu ? 
+128	- Oh , yes . 	Ja . 
+129	Do you know how many people I' ve rejected for this program ? 	Veste , koliko ljudi sem zavrnil za ta program ? Ne . 
+130	No . 	–Seveda , ker je to strogo zaupen program . 
+131	Well , that 's right , because we 're a top- secret program . 	–Seveda , ker je to strogo zaupen program . 
+132	But I' ll tell you , just because we 're friends , that only last week , I rejected one of our great nation 's top linguists . 	Toda povedal vam bom , ker sva ravno prijatelja , da sem prejšnji teden zavrnil enega naših najboljših lingvistov . 
+133	Knows German better than Bertolt Brecht . 	Nemško zna bolje kot Bertolt Brecht . 
+134	- I don 't speak German . 	Ne govorim nemško . 
+135	- What ? 	Kaj ? 
+136	I don 't ... speak German . 	Ne govorim nemško . 
+137	Well , how the hell were you supposed to decrypt German communications if you don 't ... 	Kako za vraga naj bi dešifrirali nemška sporočila , če ne … govorite nemško ? 
+138	I don 't know , speak German ? 	Kako za vraga naj bi dešifrirali nemška sporočila , če ne … govorite nemško ? 
+139	Well , I 'm really quite excellent at crossword puzzles . 	Resnično sem zelo dober v reševanju križank . 
+140	Margaret ! 	Margaret ! 
+141	The German codes are a puzzle . 	–Nemške kode so uganka . 
+142	A game , just like any other game . 	Igra , kot vsaka druga igra . 
+143	- Margaret , where are you ? 	Margaret , kje ste ? 
+144	- I 'm really very good at games . 	–Res sem zelo dober v igrah . 
+145	Puzzles . 	Ugankah . 
+146	And this is the most difficult puzzle in the world . 	In to je najtežja uganka na svetu . 
+147	Margaret ! 	Margaret ! 
+148	For the love of God . 	Za božjo voljo . 
+149	This is a joke , obviously . 	To je očitno šala . 
+150	I 'm afraid I don 't know what those are , Commander Denniston . 	Bojim se , da ne vem kaj so šale , kapitan Denniston . 
+151	Have a pleasant trip back to Cambridge , Professor . 	Prijetno pot nazaj na Cambridge , profesor . 
+152	Enigma . 	Enigma . 
+153	You called for me ? 	Ste me klicali ? 
+154	That 's what you 're doing here . 	To je tisto , kar počnete tu . 
+155	The top- secret program at Bletchley . 	Strogo zaupni program na Bletchleyu . 
+156	You 're trying to break the German Enigma machine . 	Poskušate dešifrirati nemški stroj Enigmo . 
+157	What makes you think that ? 	Zakaj tako mislite ? 
+158	It 's the greatest encryption device in history , and the Germans use it for all major communications . 	To je najboljša šifrirna naprava v zgodovini in Nemci jo uporabljajo za vsa važnejša sporočila . Če zavezniki dešifrirajo Enigmo , bo to zelo kratka vojna . 
+159	If the Allies broke Enigma , well ... this would turn into a very short war , indeed . 	To je najboljša šifrirna naprava v zgodovini in Nemci jo uporabljajo za vsa važnejša sporočila . Če zavezniki dešifrirajo Enigmo , bo to zelo kratka vojna . 
+160	Of course that 's what you 're working on . 	Seveda je to tisto , na čemer delate . 
+161	But you also haven 't got anywhere with it . 	Toda do sedaj niste nikamor prišli . Če bi , ne bi najemali kriptografov z univerze . 
+162	If you had , you wouldn 't be hiring cryptographers out of university . 	Toda do sedaj niste nikamor prišli . Če bi , ne bi najemali kriptografov z univerze . 
+163	You need me a lot more than I need you . 	Veliko bolj vi potrebujete mene , kot jaz vas . 
+164	I like solving problems , Commander . 	Rad rešujem probleme , kapitan . 
+165	And Enigma is the most difficult problem in the world . 	In Enigma je najtežji problem na svetu . 
+166	No , Enigma isn 't difficult ; it 's impossible . 	Ne , Enigma ni težka , je nemogoča . 
+167	The Americans , the Russians , the French , the Germans , everyone thinks Enigma is unbreakable . 	Američani , Rusi , Francozi , Nemci , vsi mislijo , da se Enigme ne da dešifrirati . 
+168	Good . 	Dobro . 
+169	Let me try , and we 'll know for sure , won 't we ? 	Dovolite mi poskusiti , pa bomo zagotovo vedeli , ni tako ? 
+170	Welcome to Enigma . 	Dobrodošli v Enigmo . 
+171	The details of every surprise attack , every secret convoy and every U- boat in the bloody Atlantic go into that thing . 	Podrobnosti o vsakem nepričakovanem napadu , vsakem tajnem konvoju in vsaki podmornici v Atlantiku , gredo v to stvar . 
+172	And out comes gibberish . 	In iz nje pride nerazumljivo žlobudranje . Čudovita je . 
+173	It 's beautiful . 	In iz nje pride nerazumljivo žlobudranje . Čudovita je . 
+174	It 's the crooked hand of death itself . 	Je izkrivljena roka same smrti . 
+175	Our Wrens intercept thousands of radio messages a day , and to the lovely young ladies of the Women 's Royal Navy , they 're nonsense . 	Naše vezistke prestrezajo tisoče radijskih sporočil dnevno , in mladim damam iz Ženske kraljeve mornarice so nesmiselna . 
+176	It 's only when you feed them back into Enigma that they make any sense . 	Samo če jih spustite nazaj skozi Enigmo , dobijo smisel . 
+177	But we have an Enigma machine . 	Toda mi imamo Enigmo . 
+178	Yes , Polish Intelligence smuggled it out of Berlin . 	Ja , poljski obveščevalci so jo pretihotapili iz Berlina . 
+179	So , what 's the problem ? 	V čem je torej problem ? 
+180	Just put the intercepted messages 	V čem je torej problem ? 
+181	- back into the Enigma and you 'll ... 	Samo vstavite prestrežena sporočila nazaj v Enigmo in boste … 
+182	- Look , it 's not that simple , is it ? 	Ni tako enostavno , kajne ? 
+183	Just having an Enigma machine doesn 't help you to decode the messages . 	Samo imeti Enigmo še ne pomaga pri dešifriranju sporočil . 
+184	Very good , Mr . 	Zelo dobro , g . 
+185	Turing . 	Turing . 
+186	To decode a message , you need to know the machine 's settings . 	Za dešifriranje sporočil , je treba poznati njene nastavitve . 
+187	Now , the Germans switch settings every day promptly at midnight . 	Nemci spreminjajo nastavitve vsak dan , točno ob polnoči . 
+188	We usually intercept our first message around 6 : 00 a . m . , which gives you exactly 18 hours every day to crack the code before it changes , and you start again . 	Običajno prestrežemo naše prvo sporočilo okrog šestih zjutraj , torej imate 18 ur vsak dan , da dešifrirate kodo . Pet rotorjev . 
+189	Five rotors . 	Deset kablov na kontrolni plošči . 
+190	Ten plugboard cables . 	Deset kablov na kontrolni plošči . 
+191	That 's ... 	Deset kablov na kontrolni plošči . 
+192	- One million ... 	To je … –Milijon … –Tisoč milijonov … To je milijon , milijon . 
+193	- A thousand million ... 	To je … –Milijon … –Tisoč milijonov … To je milijon , milijon . 
+194	No , no , it 's , I' ve got it . 	To je … –Milijon … –Tisoč milijonov … To je milijon , milijon . 
+195	- It 's million , million . 	
+196	- It 's in the millions , obviously . 	
+197	It 's over 150 million million million possible settings . 	To je več kot 150 milijonov milijonov milijonov možnih nastavitev . 
+198	Very good . 	Zelo dobro . 
+199	159 . 	159 , če želite vedeti bolj natančno . 
+200	If you want to be exact about it . 	159 , če želite vedeti bolj natančno . 
+201	1- 5- 9 with 18 zeroes behind it . 	1–5–9 z 18 ničlami na koncu . 
+202	Possibilities . 	Možnih kombinacij . 
+203	Every single day . 	Prav vsak dan . 
+204	Gentlemen , meet Hugh Alexander . 	Gospodje , spoznajte Hugha Alexandra . 
+205	I personally selected him to run this unit . 	Osebno sem ga izbral za vodjo te enote . 
+206	Didn 't you ... 	Osebno sem ga izbral za vodjo te enote . 
+207	Mr . 	–Ali niste … 
+208	Alexander won Britain 's national chess championship . 	G . Alexander je zmagal na britanskem šahovskem prvenstvu . 
+209	Twice . 	Dvakrat . 
+210	You 're not the only one who 's good at games around here , Turing . 	Niste edini tu , ki je dober v igrah , Turing . 
+211	Are we to work together , then ? 	Torej bomo delali skupaj ? 
+212	I prefer to have my own office . 	Raje bi imel svojo pisarno . 
+213	You 're a team , and you will work as one . 	Ekipa ste in delali boste kot eden . 
+214	I don 't have time to explain myself as I go along , and ... 	Nimam časa , da bi razlagal , kaj delam in bojim se , da bi me te ljudje samo upočasnjevali . 
+215	I 'm afraid these men would only slow me down . 	Nimam časa , da bi razlagal , kaj delam in bojim se , da bi me te ljudje samo upočasnjevali . 
+216	If you can 't play together , then I 'm afraid we can 't let you play at all . 	–Če se ne morete igrati skupaj , potem vam ne moremo dovoliti , da bi se sploh igrali . 
+217	This is Stewart Menzies , MI6 . 	To je Stewart Menzies iz MI6 . 
+218	There are only five divisions of military intelligence . 	Obstaja samo pet oddelkov vojaške obveščevalne službe . MI6 ne obstaja . 
+219	There is no MI6 . 	Točno . 
+220	Exactly . 	Točno . 
+221	That 's the spirit . 	To je duh . 
+222	Mr . 	To je duh . 
+223	Turing , do you know how many British servicemen have died because of Enigma ? 	G . Turing , ali veste , koliko naših vojakov je umrlo zaradi Enigme ? 
+224	- No , I don 't . 	–Ne . Trije . 
+225	- Three ... while we 've been having this conversation . 	Med tem , ko imamo ta razgovor . 
+226	Oh , look , there 's another . 	Še eden je šel . 
+227	I rather hope he didn 't have a family . 	Upam , da ni imel družine . 
+228	This war Commander Denniston 's been going on about , we 're not winning it . 	Te vojne , ki jo vodi kapitan Denniston , ne dobivamo . Če razrešite to kodo , imamo vsaj nekaj možnosti . 
+229	Break the code , at least we have a chance . 	Te vojne , ki jo vodi kapitan Denniston , ne dobivamo . Če razrešite to kodo , imamo vsaj nekaj možnosti . 
+230	Shall we leave the children alone with their new toy ? 	Bova pustila otroke same z njihovo novo igračo ? 
+231	All right , gentlemen ... 	V redu , gospodje . 
+232	Let 's play . 	Igrajmo se . 
+233	The game was quite a simple one . 	Igra je bila precej enostavna . 
+234	Every single German message , every surprise attack , every bombing run , every imminent U- boat assault ... 	Vsako nemško sporočilo , vsak nepričakovan napad , vsako bombardiranje , vsak neizbežen podmorniški napad . 
+235	They were all floating through the air . 	Vse to je plavalo po zraku . 
+236	Radio signals that ... well , any schoolboy with an AM kit could intercept . 	Radijski signali , ki jih je vsak šolar z radijsko opremo lahko prestregel . 
+237	The trick was that they were encrypted . 	Zvijača je bila , da so bila šifrirana . 
+238	There were 159 million million million possible Enigma settings . 	Bilo je 159 milijonov milijonov milijonov možnih nastavitev Enigme . 
+239	All we had to do was try each one . 	Morali smo le preizkusiti vsako od njih . 
+240	But if we had ten men checking one setting a minute for 24 hours every day and seven days every week , how many days do you think it would take to ... to check each of the settings ? 	Če bi imeli 10 ljudi , ki bi preverjali eno nastavitev v minuti za 24 ur vsak dan in sedem dni v tednu , koliko dni , mislite , da bi potrebovali , da bi preverili vsako od nastavitev ? 
+241	Well , it 's not days , it 's years . 	To niso dnevi . To so leta . 
+242	- Good morning . 	To je 20 milijonov let . 
+243	- It 's 20 million years . 	To je 20 milijonov let . 
+244	- To stop a coming attack ... 	Da bi zaustavili prihajajoč napad , bi morali preveriti 20 milijonov let nastavitev v 20 minutah . 
+245	- Thank you . ... we would have to check 20 million years´ worth of settings in 20 minutes . 	Da bi zaustavili prihajajoč napad , bi morali preveriti 20 milijonov let nastavitev v 20 minutah . 
+246	I 'm famished . 	Umiram od lakote . 
+247	Lunch ? 	Kosilo ? 
+248	Good Lord . 	Ljubi bog . 
+249	What is it about women with little hats ? 	Zakaj so ženske s klobučki tako privlačne ? 
+250	The boys , we 're going to get some lunch . 	Fantje gremo nekaj pojest . 
+251	- Alan ? 	Alan ? 
+252	- Yes ? 	Ja ? 
+253	I said we 're going to get some lunch . 	Rekel sem , da gremo nekaj pojest . 
+254	- Alan ? 	Alan ? 
+255	- Yes ? 	Ja ? 
+256	- Can you hear me ? 	Me slišiš ? –Ja . 
+257	- Yes . 	Rekel sem , da gremo … 
+258	I said we 're off to get some lu ... 	Rekel sem , da gremo … 
+259	This is starting to get a little bit repetitive . 	Zdaj se pa že ponavljam . 
+260	What is ? 	Kaj pa ? 
+261	I had asked if you wanted to come to lunch with us . 	–Vprašal sem , če bi šel z nami na kosilo . 
+262	No , you didn 't . 	Ne , nisi . 
+263	You said you were going to get some lunch . 	Rekel si , da greste nekaj pojest . 
+264	- Have I offended you in some way ? 	Sem te slučajno užalil ? 
+265	- Why would you think that ? 	Zakaj tako misliš ? 
+266	- Would you like to come to lunch with us ? 	Bi želel iti z nami na kosilo ? 
+267	- What time 's lunchtime ? 	Kdaj je odmor za kosilo ? 
+268	Christ , Alan , it 's a bleeding sandwich . 	–Kristus , Alan , gre za preklet sendvič . 
+269	- What is ? 	Kaj ? 
+270	- Lunch . 	–Kosilo . 
+271	- Oh , I don 't like sandwiches . 	Ne maram sendvičev . 
+272	- Never mind . 	Pozabi . Če hočeš biti razdražljiv genij , moraš biti dejansko genij , Alan . 
+273	You know , to pull off this irascible genius routine , one actually has to be a genius , Alan . 	Pozabi . Če hočeš biti razdražljiv genij , moraš biti dejansko genij , Alan . 
+274	And yet we 're the ones making progress here , aren 't we ? 	Vendarle smo mi tisti , ki tukaj napredujemo , kajne ? 
+275	Oh , you are ? 	Ste ? 
+276	Yes , we are . 	Ja , smo . 
+277	We have decrypted a number of German messages by analyzing the frequency of letter distribution . 	Dešifrirali smo veliko nemških sporočila z analiziranjem pogostosti njihove porazdelitve . 
+278	Oh , even a broken clock is right twice a day . 	Celo razbita ura kaže pravi čas dvakrat na dan . 
+279	That 's not progress ; that 's just blind luck . 	To ni napredek , je zgolj sreča . 
+280	I 'm designing a machine that will allow us to break every message every day instantly . 	Načrtujem stroj , s katerim bomo lahko v trenutku dešifrirali kodo . 
+281	Who 's hungry ? 	Kdo je lačen ? 
+282	Let 's go . 	Pojdimo . 
+283	I 'm hungry . 	Jaz sem lačen . 
+284	What ? 	Kaj ? 
+285	Peter asked who was hungry . 	Peter je vprašal , kdo je lačen . 
+286	Can I have some soup , please ? 	Lahko dobim juho , prosim ? 
+287	What do you mean , " classified " ? 	Kaj mislite s tem , " zaupno " ? 
+288	No , I 'm aware of the literal meaning of the word classified . 	Vem , kaj pomeni beseda zaupno . 
+289	What I 'm asking is why would a maths professor have his military records classified ? 	Sprašujem vas , zakaj ima profesor matematike zaupni vojaški dosje . 
+290	Yeah , well , I will come down . 	Ja , pridem tja . 
+291	Sorry , can I get you to hold for a minute , please ? 	
+292	Pardon me , I 'd like to see some documents , if I may . 	Oprostite , želel bi videti neke dokumente , če lahko . 
+293	Service records of a Mr . 	Dosje o službi g . 
+294	Turing . 	Turinga . 
+295	Alan . 	Alan . 
+296	Foreign Office sent me . 	Ministrstvo za zunanje zadeve me je poslalo . 
+297	This is unacceptable . 	To je nesprejemljivo . Če se želite pritožiti , vam priporočam , da se najavite . 
+298	If you wish to discuss the complaint , I suggest you make a proper appointment . 	To je nesprejemljivo . Če se želite pritožiti , vam priporočam , da se najavite . 
+299	Alexan ... 	To je nesprejemljivo . Če se želite pritožiti , vam priporočam , da se najavite . 
+300	Complaint ? 	Alexan … Pritožba ? 
+301	No , no , Hugh Alexander has denied my requisition for parts and equipment that I need to build the machine I' ve designed . 	Ne , ne , Hugh Alexander je zavrnil mojo zahtevo za dele in opremo , ki jo potrebujem za stroj , ki ga sestavljam . 
+302	Your fellow code- breakers are refusing to work with you , and they filed a formal complaint . 	Vaši sodelavci zavračajo delo z vami in so vložili uradno pritožbo . 
+303	It 's is inspired by an old Polish code machine . 	Navdihnila me je stara poljska dešifrirna naprava . 
+304	- Only this one is infinitely more advanced . 	Navdihnila me je stara poljska dešifrirna naprava . 
+305	- If you don 't respond to the complaint , 	Samo da je moja veliko bolj napredna . Če ne boste odgovorili na pritožbo , jo bom moral posredovati Domovinskemu uradu . 
+306	I shall have to take it up with the Home Office . 	Samo da je moja veliko bolj napredna . Če ne boste odgovorili na pritožbo , jo bom moral posredovati Domovinskemu uradu . 
+307	- Put those files by my desk . 	Samo da je moja veliko bolj napredna . Če ne boste odgovorili na pritožbo , jo bom moral posredovati Domovinskemu uradu . 
+308	- Fine , my response is they 're all idiots . 	Pustite te papirje na moji mizi . 
+309	Fire them and use the savings to fund my machine . 	- Prav , moj odgovor je , da so vsi idioti . 
+310	I only need about 100, 000 pounds . 	Odpustite jih in uporabite sredstva za moj stroj . 
+311	100, 000 ... 	Potrebujem le okrog 100 . 000 funtov . 
+312	Why are you building a machine ? 	Zakaj izdelujete stroj ? 
+313	It 's highly technical . 	To je zelo tehnično . 
+314	You wouldn 't understand . 	Ne bi razumeli . 
+315	I suggest you make the effort to try . 	Potrudite se in mi razložite . 
+316	Enigma is ... an extremely well- designed machine . 	Enigma je izredno dobro načrtovan stroj . 
+317	Our problem is that we 're only using men to try to beat it . 	Naša težava je , da uporabljamo samo ljudi , da bi jo premagali . 
+318	No , what if only a machine can defeat another machine ? 	Kaj če samo stroj lahko premaga drug stroj ? 
+319	Well , that 's not very technical . 	No , to ni tako tehnično . 
+320	Hugh Alexander is in charge of your unit . 	Hugh Alexander je zadolžen za vašo enoto . 
+321	He said no , and that is that . 	Ne strinja se , in to je to . 
+322	I simply don 't have time for this . 	Enostavno nimam časa za to . 
+323	Have you ever won a war , Turing ? 	Ste kdajkoli zmagali v vojni , Turing ? 
+324	I have . 	Jaz sem . 
+325	Do you know how it 's done ? 	Veste , kako ? 
+326	Order , discipline , chain of command . 	Z redom , disciplino , vrsto povezanih ukazov . 
+327	You 're not at university any longer . 	Niste več na univerzi . 
+328	You are a very small cog in a very large system . 	Ste le majhen zobnik v zelo velikem sistemu . 
+329	And you will do as your commanding officer instructs . 	In delali boste po navodilih vašega nadrejenega . 
+330	Yes . 	
+331	Who is your commanding officer ? 	Kdo je vaš nadrejeni ? 
+332	Winston Churchill , Number 10 Downing Street , London , SW1 . 	Winston Churchill , 
+333	You have a problem with my decision , you can take it up with him . 	Downing Street , številka 10 , London , SW1 . Če vam ni všeč moja odločitev , se lahko pomenite z njim . 
+334	Mr . 	Gospod Menzies ! 
+335	Menzies ! 	Gospod Menzies ! 
+336	Mr . 	Gospod Menzies ! 
+337	Menzies ! 	
+338	Are you going to London ? 	Greste v London ? 
+339	Possibly . 	Možno . 
+340	Would you deliver a letter for me ? 	Bi lahko oddali pismo zame ? 
+341	Look , I 'm sorry , but are you joking ? 	Oprostite , toda ali se šalite ? 
+342	Churchill 's put Alan in charge ? 	Churchill je postavil Alana za vodjo ? 
+343	- This is a terrible idea . 	To je grozna ideja . 
+344	- No , no , no , no , no . 	–Ne , ne , ne . 
+345	So , I can give these men orders now ? 	In zdaj lahko ukazujem tem ljudem ? 
+346	I hate to say it , but yes . 	Tega ne maram reči , toda ja . 
+347	Excellent . 	Odlično . 
+348	Keith and Charles , you 're both fired . 	Keith in Charles , oba sta odpuščena . 
+349	- Excuse me ? 	Prosim ? 
+350	- What ? 	–Kaj ? 
+351	You 're mediocre linguists , and positively poor code- breakers . 	Sta povprečna lingvista in precej slaba dešifranta . 
+352	Alan , you can 't just fire Keith and Charles . 	Alan , ne moreš kar odpustiti Keitha in Charlesa . 
+353	- Well , he just said I could . 	Alan , ne moreš kar odpustiti Keitha in Charlesa . 
+354	- No , I did no such thing . 	No , ravnokar je rekel , da lahko . 
+355	But Churchill did . 	Ne , nič takega nisem rekel . 
+356	Go to hell . 	Pojdi k vragu . 
+357	Well , this is inhuman . 	No , to je kruto . Celo zate . 
+358	Even for you . 	
+359	Popular at school , were you ? 	Ste bili priljubljeni v šoli ? 
+360	The problem began , of course , with the carrots . 	Jasno se je težava začela s korenjem . 
+361	Carrots are orange . 	Korenje je oranžno . 
+362	And peas are green . 	In grah je zelen . 
+363	They mustn 't touch . 	Ne smeta se dotikati . 
+364	I got it . 	Imamo ga . 
+365	Do you know why people like violence ? 	Veste zakaj imajo ljudje radi nasilje ? 
+366	It is because it feels ... good . 	Ker je občutek tako dober . 
+367	Humans find violence deeply satisfying . 	Ljudje v nasilju najdejo globoko zadovoljstvo . 
+368	But remove the satisfaction , and ... the act becomes ... hollow . 	Toda odvzemite zadovoljstvo in dejanje postane votlo . 
+369	Turing ? 	Turing ? 
+370	Come on . 	Daj . 
+371	Don 't be such a kike about it . 	Ne bodi tak žid . 
+372	Leave him to bloody rot . 	Pustimo ga , naj zgnije . 
+373	I didn 't learn this on my own , of course . 	Tega se seveda nisem sam naučil . 
+374	I had help . 	Imel sem pomoč . 
+375	Christopher helped . 	Christopher je pomagal . 
+376	Alan , are you all right ? 	Alan , si v redu ? 
+377	It 's not my fault . 	Ni moja krivda . 
+378	The carrots got in with the peas and ... 	Korenje se je pomešalo z grahom in … Žal mi je . 
+379	- I 'm sorry . 	Korenje se je pomešalo z grahom in … Žal mi je . 
+380	I won 't let them do it again . 	Tega jim ne bom več dovolil . 
+381	- They 're getting worse . 	Vedno hujši postajajo . 
+382	They only beat me up because I 'm smarter than they are . 	Pretepli so me le zato , ker sem pametnejši od njih . 
+383	No , they beat you up because you 're different . 	Ne , pretepli so te , ker si drugačen . 
+384	- Mother says I 'm just an odd duck . 	Mama pravi , da sem neobičajen . 
+385	- And she 's right . 	In prav ima . 
+386	But you know , Alan , sometimes it 's the very people who no one imagines anything of who do the things no one can imagine . 	Toda veš , Alan , včasih ravno tisti ljudje , za katere si ne bi predstavljali , naredijo stvari , ki so nepredstavljive . 
+387	So , what do we do now ? 	Kaj bomo sedaj ? 
+388	- We 're short on staff . 	Premalo ljudi imamo . 
+389	- Well , we get more staff then . 	Torej bomo dobili več ljudi . 
+390	And how do you propose to do that ? 	In kako nameravaš to narediti ? 
+391	- Alan Turing to see Stewart Menzies . 	Alan Turing , grem do Stewarta Menziesa . 
+392	- Very good , sir . 	Alan Turing , grem do Stewarta Menziesa . 
+393	- So , who are they ? 	In kdo so ? 
+394	- Oh , all sorts , really . 	–Pravzaprav vseh vrst . 
+395	Teacher , an engineer , a handful of students . 	Učitelj , inženir , nekaj študentov . 
+396	And you think they 're qualified for Bletchley ' cause they 're good at crossword puzzles ? 	Mislite , da so primerni za Bletchley , ker so dobri v reševanju križank ? 
+397	Well , they say they 're good , and now we shall find out , won 't we ? 	Pravijo da so dobri in zdaj bomo to preverili , mar ne ? 
+398	In order to aid your efforts , there is , to the right of you , a green scratch card book . 	Za dodatno pomoč je na vaši levi zelena beležka . 
+399	You are to make notes in that . 	Vanjo lahko pišete svoje opombe . 
+400	Gentlemen , you have six minutes in which to complete the puzzle , at which point , I will ... 	Gospodje , v šestih minutah morate končati , in zdajle bom … 
+401	Pardon , ma 'am , this room 's restricted . 	Oprostite , v to sobo vstop ni dovoljen . 
+402	Apologies for my tardiness . 	–Se opravičujem za svojo zamudo . 
+403	The bus caught a flat tire . 	Avtobus je imel prazno gumo . 
+404	May I continue , please ? 	–Lahko nadaljujem , prosim ? 
+405	Thank you . 	Hvala . 
+406	- You 're not allowed in here , ma 'am . 	–Nimate vstopa sem , gospa . 
+407	- Oh , but I 'm only a few minutes late . 	Toda zamudila sem le nekaj minut . 
+408	The secretaries are to head upstairs . 	Tajnice so zgoraj . 
+409	This room 's for the candidates . 	Ta soba je za kandidate . 
+410	May I get on with this now , please ? 	Lahko zdaj nadaljujem , prosim ? 
+411	- I am a candidate . 	Jaz sem kandidatka . 
+412	- For what position ? 	–Za kakšno mesto ? 
+413	- The letter didn 't say precisely . 	V pismu ni izrecno navedeno . 
+414	- Yeah , so secretaries are to head upstairs . 	–Ja , tajnice so zgoraj . 
+415	- It did say that it was top secret . 	Pisalo je , da je strogo zaupno . 
+416	- What is going on ? 	Kaj se dogaja ? 
+417	I solved a crossword puzzle in the newspaper , and I got this letter saying that I was a candidate for some sort of mysterious job . 	Rešila sem križanko v časopisu in dobila to pismo , v katerem piše , da sem kandidatka za neke vrste skrivno delo . 
+418	My name 's Joan Clarke . 	Ime mi je Joan Clarke . 
+419	Miss , did you really solve this puzzle yourself ? 	Gospodična , ste res sami rešili to križanko ? 
+420	What makes you think I couldn 't solve the puzzle myself ? 	Zakaj mislite , da je ne bi mogla sama rešiti ? 
+421	- I 'm really very good at ... 	Res sem zelo dobra v … –Moram vas … –Gospodična Clarke , mislim , da je zamujanje v kakršnihkoli okoliščinah nesprejemljivo . 
+422	- Ma 'am , I' ll have to ask you to ... 	Res sem zelo dobra v … –Moram vas … –Gospodična Clarke , mislim , da je zamujanje v kakršnihkoli okoliščinah nesprejemljivo . 
+423	Miss Clarke , I find tardiness under any circumstance , unacceptable . 	Res sem zelo dobra v … –Moram vas … –Gospodična Clarke , mislim , da je zamujanje v kakršnihkoli okoliščinah nesprejemljivo . 
+424	Take a seat so that we may continue . 	Sedite , da bomo lahko nadaljevali . 
+425	Thank you . 	Hvala . 
+426	Now , as I was saying , you have six minutes to complete the task in front of you . 	Kot sem rekel , imate šest minut , da končate nalogo pred seboj . 
+427	Gentlemen and lady , begin . 	Gospodje in dama , začnite . 
+428	Six minutes . 	Šest minut . 
+429	- Is that even possible ? 	Je to sploh mogoče ? 
+430	- No , it takes me eight . 	–Ne , jaz sem jih rabil osem . 
+431	This isn 't about crossword puzzles . 	Ne gre za križanko . 
+432	It 's about how one approaches solving an impossible problem . 	Gre za to , kako nekdo pristopi k reševanju nemogočega problema . 
+433	Do you tackle the whole thing at once or divide it into small ... 	Ali se lotiti zadeve kot celote ali jo razdeliti v majhne … 
+434	- You 've finished ? 	Ste končali ? 
+435	- Yes . 	Ja . 
+436	- Five minutes and 34 seconds . 	5 minut in 34 sekund . 
+437	- You said to do it in under six . 	–Rekli ste , manj kot šest . Čestitam . 
+438	Congratulations . 	Iskreno dobrodošli v službi njegovega veličanstva . Če spregovorite o tem , kar vam bom pokazal , boste usmrčeni zaradi izdaje . 
+439	My warmest welcome to His Majesty 's service . 	Iskreno dobrodošli v službi njegovega veličanstva . Če spregovorite o tem , kar vam bom pokazal , boste usmrčeni zaradi izdaje . 
+440	If you speak a word of what I 'm about to show you , you will be executed for high treason . 	Iskreno dobrodošli v službi njegovega veličanstva . Če spregovorite o tem , kar vam bom pokazal , boste usmrčeni zaradi izdaje . 
+441	You will lie to your friends , your family and everyone you meet about what it is you really do . 	O svojem delu boste lagali prijateljem , svoji družini in vsem ostalim . 
+442	And what is it that we 're really doing ? 	In kaj je to , kar v resnici delamo ? 
+443	We 're going to break an unbreakable Nazi code and win the war . 	Dešifrirali bomo nemogočo nacistično kodo in dobili vojno . 
+444	What 's that you 're reading ? 	O čem bereš ? 
+445	- It 's about cryptography . 	–O kriptografiji . 
+446	- Like secret messages ? 	Kot tajna sporočila ? 
+447	Not secret . 	Ne tajna . 
+448	That 's the brilliant part . 	To je odlični del . 
+449	Messages that anyone can see , but no one knows what they mean unless you have the key . 	Sporočila , ki jih lahko vsak vidi , toda brez ključa nihče ne ve njihovega pomena . 
+450	How 's that different from talking ? 	V čem je to drugače od govorjenja ? 
+451	- Talking ? 	Govorjenja ? 
+452	- When people talk to each other , they never say what they mean . 	–Ko se ljudje pogovarjajo , nikdar ne povedo tistega , kar mislijo . 
+453	They say something else , and you 're expected to just know what they mean . 	Rečejo nekaj drugega in pričakujejo , da boš kar vedel , kaj mislijo . 
+454	Only I never do . 	Samo jaz nikoli ne vem . 
+455	So , how 's that different ? 	Torej , v čem je razlika ? 
+456	Alan , I have a funny feeling you 're going to be very good at this . 	Alan , imam čuden občutek , da boš v tem zelo dober . 
+457	Good night , Alan . 	Lahko noč , Alan . 
+458	Good night . 	Lahko noč . 
+459	Hold on , Marion , I 'm coming ! ... lesser settings and then route back through ... 	Gre okrog nižjih nastavitev in se potem vrača nazaj skozi te … 
+460	Back to those ones ... 	Gre okrog nižjih nastavitev in se potem vrača nazaj skozi te … 
+461	Careful , will you ? 	Previdno s tem . To ni igrača . 
+462	It not a toy . 	Smešno . 
+463	Funny . 	Videti je kot igrača . 
+464	Looks like a toy . 	Videti je kot igrača . 
+465	Bloody great 100, 000- pound one . 	Vredna prekletih 100 . 000 funtov . 
+466	Your new minion 's arrived . 	Tvoj novi ljubljenec je prispel . 
+467	- Jack Good . 	Jack Good . 
+468	We met ... 	Srečala … –Kje je gospodična Clarke ? 
+469	- Well , where 's Miss Clarke ? 	Srečala … –Kje je gospodična Clarke ? 
+470	Lovely , isn 't he ? 	Očarljiv , kajne ? 
+471	It 's not just a usual humdrum production mill factory . 	To ni samo običajna dolgočasna tovarna mlinov . 
+472	I mean , well , as I was saying , it 's a very important radio factory . 	Mislim … kot sem rekel , je zelo pomembna tovarna radiov . 
+473	It 's not , actually . 	Pravzaprav ni … 
+474	Well , on the spectrum of radio factories , this one is particularly ... 	Glede na ostale tovarne radiov je ta posebno … 
+475	Why are you not at Bletchley ? 	Zakaj nisi v Bletchleyu ? 
+476	Thank you ... so much for your visit , Mr . 	Najlepša hvala za vaš obisk , gospod Turing . 
+477	Turing . 	Najlepša hvala za vaš obisk , gospod Turing . 
+478	Was your trip pleasant ? 	Ste imeli prijetno pot ? 
+479	Gather your things and let 's go . 	–Vzemi svoje stvari in greva . Žal mi je , toda ne morem sprejeti vaše ponudbe . 
+480	I 'm sorry , but I 'm unable to accept your offer . 	–Vzemi svoje stvari in greva . Žal mi je , toda ne morem sprejeti vaše ponudbe . 
+481	We feel that such a position would hardly be appropriate . 	Mislimo , da bi bilo tako mesto težko sprejemljivo . 
+482	You earned a double first in mathematics . 	Dvakrat si bila najboljša v matematiki . 
+483	But sadly wasn 't granted the opportunity to become a Fellow . 	Toda na žalost nisem dobila priložnosti postati profesorica . 
+484	You belong at Bletchley . 	Spadate na Bletchley . Žal mi je , toda za nekoga v mojem položaju živeti in delati v tovarni radiov tako daleč od doma , z vsemi vami moškimi , bi bilo nedostojno . 
+485	I 'm sorry , but for someone in my position , to live to ... to work in a radio factory so far from home , with all your men ... it would be ... indecorous . 	Spadate na Bletchley . Žal mi je , toda za nekoga v mojem položaju živeti in delati v tovarni radiov tako daleč od doma , z vsemi vami moškimi , bi bilo nedostojno . 
+486	What in the world does that even mean ? 	Kaj naj bi vse to pomenilo ? 
+487	We have a group of young ladies who tend to all of our clerical tasks : assistants , translators . 	Imamo skupino mladih dam , ki skrbijo za vse naše pisarniške naloge , kot asistentke , prevajalke . 
+488	They live together in town . 	Skupaj živijo v mestu . 
+489	Would that be a more suitable environment ? 	Bi bilo to bolj primerno okolje ? 
+490	So , I would be working amongst these women ? 	Torej bi delala med temi ženskami ? 
+491	Yes . 	Torej bi delala med temi ženskami ? 
+492	Wonderful ladies . 	Čudovite dame . 
+493	They even organize social events at St . 	Organizirajo celo dogodke v cerkvi svetega Martina nižje ob cesti . 
+494	Martin 's Church down the road . 	Organizirajo celo dogodke v cerkvi svetega Martina nižje ob cesti . 
+495	Really , the whole thing is quite ... decorous . 	Resnično je vsa zadeva docela … spodobna . 
+496	Now , you won 't have proper security clearance , of course , so , 	Ne boš imela pravega varnostnega potrdila , zato bomo morali malo improvizirati . 
+497	- we 'll have to improvise things a bit . 	Ne boš imela pravega varnostnega potrdila , zato bomo morali malo improvizirati . 
+498	- Why are you helping me ? 	Zakaj mi pomagate ? 
+499	Because there is only one thing that matters in this entire world right now . 	Ker je v tem trenutku samo ena pomembna stvar na celem svetu , razumeš ? 
+500	Do you understand ? 	Ker je v tem trenutku samo ena pomembna stvar na celem svetu , razumeš ? 
+501	And that is breaking Enigma . 	In to je , da zlomimo Enigmo . 
+502	But , Mr . 	Toda , gospod Turing , zakaj pomagate meni ? 
+503	Turing ... why are you helping me ? 	Toda , gospod Turing , zakaj pomagate meni ? 
+504	Sometimes it 's the very people who no one imagines anything of who do the things that no one can imagine . 	Včasih ravno ljudje , za katere si ne bi nihče predstavljal , delajo stvari , ki so nepredstavljive . 
+505	Sir . 	Gospod . 
+506	- What 's this ? 	Kaj je to ? 
+507	- Alan Turing 's classified military file . 	–Zaupni vojaški dosje Alana Turinga . 
+508	- It 's bloody empty . 	Prazen je . –Tako je . 
+509	- Exactly . 	To je prazna kuverta . 
+510	- It 's an empty manila envelope . 	To je prazna kuverta . 
+511	- Yeah . 	–Ja . 
+512	Well , you 've cracked the case wide open , then , haven 't you ? 	Torej ste rešili primer , kajne ? 
+513	Alan Turing 's war records aren 't just classified , they 're nonexistent . 	Vojni podatki Alana Turinga niso samo zaupni , so neobstoječi . 
+514	That means someone 's got rid of them . 	To pomeni , da se jih je nekdo znebil . 
+515	Erased them . 	Jih zbrisal . 
+516	Burned them . 	Jih zažgal . 
+517	And that same person broke into his house and stole nothing ? 	In da je ista oseba vlomila v njegovo hišo in ni nič ukradla ? 
+518	Guy Burgess and Donald Maclean . 	Guy Burgess in Donald Maclean . 
+519	- What , the spies from the papers ? 	Vohuna iz časopisov ? –Sovjetska vohuna . 
+520	- The Soviet spies . 	Toda najprej sta bila profesorja , kajne ? 
+521	But first they were professors , weren 't they ? 	Toda najprej sta bila profesorja , kajne ? 
+522	Radicalized at Cambridge , then they joined the Communist Party , then Foreign Office , then leaked information to Stalin during the war . 	Bila sta radikalna na Cambridgeu , potem sta se pridružila komunistični partiji , potem sta šla v zunanje ministrstvo , zatem razkrivala informacije Stalinu med vojno . 
+523	Now , can you think of anyone else we know who was at Cambridge , then took up something murky and top secret when war broke out ? 	Se lahko spomnite še koga s Cambridgea , ki je prevzel nekaj strogo zaupnega , ko se je začela vojna ? 
+524	You think this Alan Turing might be a Soviet agent ? 	Mislite , da bi bil lahko Alan Turing sovjetski agent ? 
+525	I think something very serious is happening right here under our noses . 	Mislim , da se dogaja nekaj zelo resnega ravno pred našim nosom . 
+526	Wouldn 't you like to find out what it is ? 	Ne bi želeli izvedeti , za kaj se gre ? 
+527	Welcome , ladies . 	Dobrodošle , dame . 
+528	If you 'd like to follow me . 	Bi mi , prosim , sledile . 
+529	Some people thought we were at war with the Germans ... 	Nekateri ljudje so mislili , da smo bili v vojni z Nemci . 
+530	Incorrect . 	Motili so se . 
+531	We were at war with the clock . 	Bili smo v vojni s časom . 
+532	Britain was literally starving to death . 	Britanci so dobesedno umirali od gladu . 
+533	The Americans sent over 100, 000 tons of food every week , and every week the Germans would send our desperately needed bread to the bottom of the ocean . 	Američani so pošiljali 100 . 000 ton hrane na teden , in vsak teden so Nemci naš brezupno potrebni kruh poslali na dno ocena . 
+534	Our daily failure was announced at the chimes of midnight . 	Naš dnevni neuspeh je bil naznanjen s polnočnimi zvonovi . 
+535	And the sound would haunt our unwelcome dreams . 	In ta zvok nas je preganjal v naših nočnih morah . 
+536	Tick ... tock ... tick . 	Tik … tak … 
+537	Damn it ! 	Prekleto ! 
+538	What just happened ? 	Kaj se je zgodilo –Polnoč . 
+539	Midnight , all the work we 've done today is useless . 	Vse naše današnje delo je nekoristno . 
+540	Oh , but don 't worry , we 've a few hours before tomorrow 's messages start flooding in ... and we start all over again . 	Ne skrbi , imamo še nekaj ur preden začnejo pritekati jutrišnja sporočila in začnemo spet od začetka . 
+541	- From scratch . 	Iz nule . 
+542	- I 'm so sick of this . 	Tako sem naveličan tega . Štiri ure prestavlja žice na svoji kontrolni plošči . 
+543	Four hours rewiring his plugboard matrix . 	Tako sem naveličan tega . Štiri ure prestavlja žice na svoji kontrolni plošči . 
+544	Three hours yesterday on his rotor positions ! 	Tri ure včeraj na njegovih rotorskih legah ! 
+545	- Don 't go over there . 	Ne hodi tja . 
+546	- Look , John , no . 	–John , ne . Če to delo ni bilo že prej nemogoče , je zdaj prekleto jasno . 
+547	If this job wasn 't already impossible before , it bloody well is now . 	–John , ne . Če to delo ni bilo že prej nemogoče , je zdaj prekleto jasno . 
+548	Hugh , don 't . 	–Hugh , nikar . 
+549	Damn you and your useless machine . 	Preklet ti in tvoj nekoristni stroj . 
+550	My machine is how we are going to win . 	Moj stroj je tisto , s čimer bomo zmagali . 
+551	Really ? 	Resnično ? 
+552	This machine ? 	Ta stroj ? 
+553	Are you talking about this bloody machine ? ! 	Govoriš o tem prekletem stroju ? 
+554	- Hugh ! 	Hugh ! 
+555	Hugh ! 	Hugh , nikar ! 
+556	Hugh , don 't ! 	Hugh , nikar ! 
+557	- Hugh ! 	–Hugh ! 
+558	Hugh ! 	Nehaj ! 
+559	Stop ! 	Ti ošabni prasec . 
+560	You arrogant bastard . 	Ti ošabni prasec . 
+561	You could help us . 	Lahko bi nam pomagal . 
+562	You could make this go faster , but you won 't . 	Lahko bi to pospešil , toda ne . 
+563	Get off . 	Pusti me . 
+564	He 's right , Alan . 	Prav ima , Alan . 
+565	There are actual soldiers out there trying to win an actual war . 	Tam zunaj so resnični vojaki , ki skušajo dobiti resnično vojno . 
+566	My brother protects food convoys in the Navy . 	Moj brat v mornarici ščiti konvoje s hrano . 
+567	My cousins fly RAF patrols . 	Moji bratranci letijo v izvidnicah RAF- a . 
+568	All my friends , they 're all making a difference , while we just while away our days producing nothing . 	Vsi moji prijatelji so koristni , medtem , ko mi samo brez uspeha zapravljamo čas . Zaradi tebe . 
+569	Because of you . 	
+570	My machine ... will work . 	Moj stroj bo delal . 
+571	Come on , Peter . 	Pridi , Peter . 
+572	Okay . 	V redu . 
+573	Joan ? 	
+574	Will you ... 	
+575	Could you make a bit more noise ? 	Si lahko še bolj glasen ? 
+576	I 'm not quite sure my landlady woke up . 	Nisem prepričana , da se je gospodarica zbudila . 
+577	- Oh , sorry . 	Nisem prepričana , da se je gospodarica zbudila . 
+578	- Oh ... look . 	–Oprosti . 
+579	I think that 's the best I can do . 	To je največ , kar lahko naredim . 
+580	No male visitors after dark . 	Nobenih moških obiskov po mraku . 
+581	So ... what did you bring me ? 	Kaj si mi prinesel ? 
+582	- There you go . 	Izvoli . 
+583	- Here . 	Izvoli . 
+584	Some men try flowers , you know . 	Veš , nekateri moški poskusijo z rožami . 
+585	These are actual decrypted Enigma messages direct from Nazi High Command . 	To so dejansko dešifrirana Enigmina sporočila neposredno iz nacističnega vrhovnega poveljstva . 
+586	" 0600 hours . 	" 06 : 00 . Vreme bo jasno . 
+587	" Weather today is clear . 	Zvečer bo deževalo . 
+588	Rain in the evening . 	Zvečer bo deževalo . 
+589	Heil Hitler . " 	Heil Hitler . " 
+590	Well , clearly , that vital piece of information is going to win us the war . 	Očitno bo ta ključni del informacije pomagal , da dobimo vojno . 
+591	It 's the relationship between the encrypted and decrypted messages that interests me . 	Zveza med šifriranim in dešifriranim sporočilom je tisto , kar me zanima . 
+592	Can we find a clue here that we can build into Christopher ? 	Ali lahko tukaj najdeva ključ , ki ga lahko vstavimo v Christopherja ? 
+593	- Who 's Christopher ? 	Kdo je Christopher ? 
+594	- Oh , he 's my machine . 	–Moj stroj . 
+595	You named him ? 	Poimenoval si ga ? 
+596	Is that a bad name ? 	Je to slabo ime ? 
+597	No . 	Ne . 
+598	No , never mind . 	Ne , ni važno . 
+599	Are you trying to build your universal machine ? 	Skušaš narediti svoj univerzalni stroj ? 
+600	- I read your paper at university . 	Prebrala sem tvoje delo na univerzi . 
+601	- Is it already being taught ? 	–Se to že uči ? 
+602	No . 	Ne . 
+603	No . 	Ne . 
+604	No , I was precocious . 	Prezgodaj sem odrasla . 
+605	So ... you theorized a machine that could solve any problem . 	Postavil si teorijo , da stroj lahko reši vsak problem . 
+606	It didn 't just do one thing , it did everything . 	Da ne naredi le ene stvari , pač pa vse . 
+607	It wasn 't just programmable , it was reprogrammable . 	Da se ga da tudi preprogramirati . 
+608	Is that your idea behind Christopher ? 	Je to tvoja ideja Christopherja ? Človeški možgani lahko zelo hitro izračunajo velike vsote . 
+609	Well , human brains can compute large sums very quickly ... even Hugh can do that ... but I want Christopher to be smarter . 	Je to tvoja ideja Christopherja ? Človeški možgani lahko zelo hitro izračunajo velike vsote . 
+610	To make a calculation and then ... to determine what to do next . 	Da naredi izračun in potem določi , kaj narediti naprej . 
+611	Like a person does . 	Kot to dela človek . 
+612	Think of it . 	Zamisli si . 
+613	Electrical brain . 	Električni možgani . 
+614	- A digital computer . 	Digitalni računalnik . 
+615	- Digital computer . 	Digitalni računalnik . 
+616	What 's going on ? 	
+617	What 's happening ? 	Kaj se dogaja ? 
+618	- No . 	Ne dotikajte se ! 
+619	No , no . 	Ne dotikajte se ! 
+620	No , no , no ! 	Ne dotikajte se ! 
+621	Don 't touch that ! 	–Ne približujte se . 
+622	- Stay back . 	–Ne približujte se . 
+623	That 's my desk . 	–To je moja miza . Hvala bogu . 
+624	Thank goodness . 	Ne bi želel , da bi preiskovali napačno . 
+625	I 'd hate to think we were searching the wrong one . 	Ne bi želel , da bi preiskovali napačno . 
+626	What are you doing ? 	Kaj delate ? 
+627	What 's going on ? 	Kaj se dogaja ? 
+628	There is a spy in Bletchley Park . 	V Bletchley Parku imamo vohuna . 
+629	The Navy thinks that one of us is a Soviet double agent , Alan . 	Mornarica misli , da je eden od nas dvojni sovjetski agent , Alan . 
+630	Why ? 	Zakaj ? 
+631	Our boys intercepted this on its way to Moscow . 	Naši fantje so tole prestregli na poti v Moskvo . 
+632	Look familiar ? 	Se vam zdi znano ? 
+633	It 's a Beale cipher . 	To je Bealova šifra . Šifrirano s frazo iz knjige ali pesmi ali … 
+634	Encrypted with a phrase from a book or a poem or ... 	To je Bealova šifra . Šifrirano s frazo iz knjige ali pesmi ali … 
+635	You don 't seriously think I did this , do you ? 	Saj ne mislite , da sem bil jaz ? 
+636	Double agents are such bastards . 	Dvojni agentje so pravi prasci . 
+637	Isolated loners . 	Izolirani samotarji . 
+638	No attachments to friends or family . 	Brez povezanosti s prijatelji ali družino . 
+639	Arrogant . 	Vase zagledani . 
+640	Know anybody like that ? 	Poznate koga takega ? 
+641	I ... 	Vem , da me ne marate , toda zaradi tega še nisem sovjetski vohun . 
+642	I know you don 't like me , but that does not make me a Soviet spy . 	Vem , da me ne marate , toda zaradi tega še nisem sovjetski vohun . 
+643	Nothing out of the ordinary , sir . 	Nič nenavadnega , gospod . 
+644	Really . 	Res ? 
+645	All right . 	V redu . 
+646	The Home Office may be protecting you now , but sooner or later you will make a mistake . 	Domovinski urad vas sedaj morda ščiti , toda enkrat boste naredili napako . 
+647	And I needn 't bother firing you . 	In takrat vas ne bom odpustil . 
+648	They will hang you for treason . 	Obesili vas bodo zaradi izdaje . 
+649	Hello . 	Živjo . 
+650	I heard about what happened . 	Slišala sem , kaj se je zgodilo . 
+651	It 's all the girls in Hut 3 can talk about . 	Vsa dekleta lahko govorijo samo o tem . 
+652	I have an idea of what might cheer you up . 	Vem , kaj bi te utegnilo razveseliti . 
+653	So , because no letter can be encoded as itself , there 's already a handful of settings that can be rejected at the outset . 	Ker nobena črka ne more biti kodirana kot taka , je že nekaj nastavitev , ki jih lahko izločimo na samem začetku . 
+654	- Is that your team ? 	Je to tvoja ekipa ? Ja . 
+655	- Yes . 	–Naj jih pozdraviva ? 
+656	- Shall we say hello ? 	–Naj jih pozdraviva ? 
+657	- No . 	–Pozdravljeni . 
+658	Hello . 	–Pozdravljeni . 
+659	I told you not to do that . 	Rekel sem ti , da ne delaj tega . 
+660	Alan . 	Alan . 
+661	- Hugh , hello . 	–Hugh , živjo . 
+662	- Didn 't know you drank . 	Nisem vedel , da piješ . 
+663	He doesn 't , really . 	–V resnici ne pije . 
+664	He just sort of sips at the foam . 	Samo nekako srka peno . 
+665	Well , I' ll let you into a little secret , Miss ... ? 	Naj vam razkrijem malo skrivnost , gospodična … ? 
+666	- Clarke . 	Naj vam razkrijem malo skrivnost , gospodična … ? 
+667	- Miss Clarke . 	Clarke . 
+668	- Please . 	Gospodična Clarke . 
+669	- Foam 's my favorite part , too . 	–Prosim . 
+670	- Is it really ? 	Pena je tudi moj najboljši del . 
+671	- Come and join us for a drink ? 	–Kaj res ? Pridite in se nam pridružite . 
+672	- We 'll be there in a moment . 	–Takoj prideva . 
+673	- Miss Clarke . 	Gospodična Clarke . 
+674	- Well , he likes you . 	Všeč si mu . 
+675	- Yes . 	Všeč si mu . 
+676	You ... got him to like you . 	–Ja Pripravila si ga do tega , da si mu všeč . 
+677	- Yes . 	–Zakaj ? 
+678	- Why ? 	–Zakaj ? 
+679	Because I 'm a woman in a man 's job , and I don 't have the luxury of being an ass . 	Ker sem ženska v moškem poslu in si ne morem privoščiti , da bi bila tepka . 
+680	Alan ... it doesn 't matter how smart you are , Enigma is always smarter . 	Alan , ni pomembno , kako pameten si . 
+681	If you really want to solve your puzzle , then you 're going to need all the help you can get , and they are not going to help you if they do not like you . 	Enigma je vedno pametnejša . Če si res želiš rešiti tvojo uganko , potem boš potreboval vso pomoč , ki jo lahko dobiš in oni ti ne bodo pomagali , če te ne marajo . 
+682	- What are those ? 	Kaj so to ? 
+683	- Apples . 	–Jabolka . 
+684	- No . 	Ne . 
+685	- Oh , they really are . 	–Resnično so . 
+686	I ... well , Miss Clarke , Joan actually ... said that it would be ... nice if I was to bring you all something . 	Gospodična Clarke , pravzaprav Joan … je rekla , da bi bilo lepo , če vam kaj prinesem . 
+687	So , here we are . 	
+688	I ... 	Hvala . 
+689	Thank you . 	Hvala . 
+690	I like apples . 	Rad imam jabolka . 
+691	My best to Miss Clarke . 	Vse najboljše gospodični Clarke . 
+692	There are two people in a wood , and they run into a bear . 	Dva moža gresta po gozdu in naletita na medveda . 
+693	The first person gets down on his knees to pray . 	Prvi poklekne , da bo molil . 
+694	The second person starts lacing up his boots . 	Drugi si začne zavezovati škornje . 
+695	The first person asks the second person , " My dear friend , what are you doing ? 	Prvega zanima : " Kaj počneš ? 
+696	You can 't outrun a bear . " 	Medvedu ne moreš pobegniti . " 
+697	To which the second person responds , 	Na to mu drugi odgovori : 
+698	" I don 't have to . 	" Ni mi treba . 
+699	I only have to outrun you . " 	Samo tebe moram prehiteti . " 
+700	I' ll be with Christopher , if anyone needs me . 	S Christopherjem bom , če me kdo potrebuje . Če domnevamo , da je kvadratni koren od 2 racionalno število , potem lahko rečemo , da je kvadratni koren od 2 A na B , kjer sta A in B celi števili in B ni ničla … 
+701	If we assume that the square root of two is a rational number , then we can say that the square root of two is A over B ... where A and B are whole numbers and B is not zero . 	S Christopherjem bom , če me kdo potrebuje . Če domnevamo , da je kvadratni koren od 2 racionalno število , potem lahko rečemo , da je kvadratni koren od 2 A na B , kjer sta A in B celi števili in B ni ničla … 
+702	- Mr . 	Gospodič Turing , predajate sporočilca ? 
+703	Turing , passing notes , are we ? 	Gospodič Turing , predajate sporočilca ? 
+704	- No , sir . 	Ne , gospod . 
+705	Only Turing would pass notes written in gibberish . 	Samo Turing bi predajal nerazumljiva sporočila . 
+706	All right , gentlemen , do not forget your algebra over the break . 	V redu , ne pozabite svojih algeber med odmorom . 
+707	Have a pleasant holiday , and we 'll resume your irrationals when you return . 	Prijetne počitnice vam želim . Nadaljevali bomo z iracionalnimi števili , ko se vrnete . 
+708	But Euler 's Theorem gives you that immediately . 	Toda to takoj dobiš z Eulerjevo teorijo . 
+709	Here . 	Na . 
+710	Look at this . 	Poglej si tole . 
+711	If you run the wires across the plugboard matrix diagonally , it will eliminate rotor positions 500 times faster . 	Če potegneš žice čez kontrolno ploščo diagonalno , bo to izločilo rotorjev položaj 500 krat hitreje . 
+712	That 's ... actually not an entirely terrible idea . 	To pravzaprav sploh ni slaba ideja . 
+713	I think that was Alan for " thank you . " 	Mislim , da je bilo to Alanov " hvala . " 
+714	- That 's my sandwich . 	To je moj sendvič . 
+715	- You don 't like sandwiches . 	Ti ne maraš sendvičev . 
+716	You nervous ? 	Si nervozen ? 
+717	What happens now ? 	Kaj se dogaja ? 
+718	It should work out the day 's Enigma settings . 	To bi moralo obdelati dnevno nastavitev Enigme . 
+719	How long ? 	Kako dolgo ? 
+720	Sieg Heil ! 	Sieg Heil ! 
+721	The German Army has fanned out across Europe , from Poland to Serbia , Lithuania to Denmark , Norway to France . 	Nemška vojska se je razširila čez Evropo , na Poljsko , v Srbijo , Litvo , Dansko , Norveško in Francijo . 
+722	The Nazi flag now flies from more than two dozen national capitals . 	Nacistična zastava zdaj plapola v več kot dva ducata državnih prestolnicah . 
+723	Their campaign mounts in fury as a free Europe crumbles . 	Njihov bojni pohod se nadaljuje , med tem ko se svobodna Evropa drobi . 
+724	Oh , it 's still going . 	Še vedno dela . 
+725	- Good morning , sir . 	Dobro jutro , gospod . 
+726	- Morning , Margaret . 	–Dobro jutro , Margaret . 
+727	Gears keep spinning on and on . 	Zobniki se vrtijo in vrtijo . 
+728	Rotors on and on . 	Rotorji se obračajo in obračajo . 
+729	It 's endless . 	Neprestano . 
+730	- With no result in sight ? 	Rezultata ni na vidiku ? 
+731	- No . 	–Ne . 
+732	Turing . 	Turing . 
+733	- Turing , open the bloody door . 	Turing , odprite vrata . –Ne . 
+734	- No . 	
+735	No . 	
+736	Open the door or we 'll break it down . 	Odprite vrata ali pa bomo vdrli . 
+737	I can 't let you in ! 	Ne morem vas spustiti noter . 
+738	I cannot let you interfere . 	Ne morem dovoliti , da se vmešate . 
+739	Go on , then . 	Dajte . 
+740	Turn that thing off . 	Izklopite to reč . 
+741	No . 	Ne . 
+742	Don 't , please . 	Nikar , prosim . 
+743	Please . 	Prosim . 
+744	Please ! 	Prosim ! Prosim ! 
+745	Please ! 	Ne ! 
+746	No ! 	Ne ! 
+747	No . 	Nikar ! 
+748	No ! 	Nikar ! 
+749	Well , then , it seems that your great big expensive machine doesn 't work . 	Očitno vaš sijajen , orjaški , drag stroj ne dela . 
+750	- It does . 	Dela . Čudovito . 
+751	- Wonderful . 	Dela . Čudovito . 
+752	So , you 've broken Enigma , then ? 	Dela . Čudovito . 
+753	It was just ... still working . 	Torej ste razrešili Enigmo ? Še vedno je delal . 
+754	This is my associate from the Home Office . 	To je moj pomočnik iz Domovinskega urada . 
+755	You see , a hundred thousand pounds is rather a lot of money , and he 's here to see what you have to show for it . 	Veste , 100 . 000 funtov je precejšnja vsota denarja in za ta denar želi videti rezultate . 
+756	You ... will never understand the importance of what I am creating here ! 	Nikoli ne boste dojeli pomembnosti tega , kar tukaj ustvarjam ! 
+757	Have you decrypted any German messages ? 	Ste dešifrirali kakšno nemško sporočilo ? 
+758	A single one ? 	Ste dešifrirali kakšno nemško sporočilo ? 
+759	Can you point to anything at all that you 've achieved ? 	Lahko pokažete karkoli ? 
+760	Your funding is up , and our patience is expired . 	Stroški naraščajo in naše potrpljenje je poteklo . 
+761	It 's with such great pleasure that I am finally able to say this . 	Tako veliko zadovoljstvo je , da vam končno lahko rečem : 
+762	Alan Turing , you 're fired . 	Alan Turing , odpuščeni ste . 
+763	Please escort Mr . 	Prosim , pospremite g . 
+764	Turing from the premises . 	Turinga iz prostorov . 
+765	No . 	Ne . 
+766	I beg your pardon ? 	Prosim ? 
+767	If you fire Alan ... well , then you 'll have to fire me , too . 	Če odpustite Alana , potem boste morali odpustiti tudi mene . 
+768	What on earth are you saying ? 	Kaj za vraga govorite ? 
+769	Trust me when I tell you there is no one who would rather say this less than I do , but ... he 's right . 	Verjemite , da to resnično težko rečem , toda prav ima . 
+770	Alan is right . 	Alan ima prav . 
+771	His machine can work , and it 's probably the best chance that we 've got . 	Njegov stroj lahko dela in je verjetno najboljša možnost , ki jo imamo . 
+772	God , it 's beyond belief . 	Bog , to je neverjetno . Če odpustite njiju , boste morali odpustiti tudi mene . 
+773	If you fire them ... you 'll have to fire me , too . 	Bog , to je neverjetno . Če odpustite njiju , boste morali odpustiti tudi mene . 
+774	And me . 	Bog , to je neverjetno . Če odpustite njiju , boste morali odpustiti tudi mene . 
+775	We 're the best cryptographic minds in Britain . 	–In mene . Smo najboljši kriptografi v Britaniji . 
+776	Are you going to fire us all ? 	Nas boste vse odpustili ? 
+777	Commander , at least give us some more time . 	Kapitan , dajte nam vsaj še malo časa . Šest mesecev , in če stroj ne bo ničesar naredil , se bomo vrnili k delu na star način . 
+778	Six months , and if the machine doesn 't produce any results that we need , then we 'll go back to doing things the old way . 	Kapitan , dajte nam vsaj še malo časa . Šest mesecev , in če stroj ne bo ničesar naredil , se bomo vrnili k delu na star način . 
+779	How about that ? 	Kapitan , dajte nam vsaj še malo časa . Šest mesecev , in če stroj ne bo ničesar naredil , se bomo vrnili k delu na star način . 
+780	One month . 	En mesec . 
+781	And then , so help me God , you 're all gone . 	In potem , bog mi je priča , boste vsi odšli . 
+782	Oh , leave him . 	Pustite ga . 
+783	- Thank you . 	Hvala . 
+784	- You 're welcome . 	–Ni za kaj . 
+785	Oh , and , Alan , your machine ... it better bloody work . 	In Alan , tvoj stroj naj raje dela . 
+786	Hugh . 	Hugh . 
+787	I swear ... 	Prisežem , nisem vohun . 
+788	I 'm not a spy . 	Prisežem , nisem vohun . 
+789	Oh , for God 's sake , of course you 're not a bloody spy . 	Za božjo voljo , seveda nisi preklet vohun . 
+790	What ? 	Kaj ? 
+791	Denniston gave me the Beale cipher , and guess what ? 	Denniston mi je dal Bealovo šifro in ugani kaj ? 
+792	I cracked it . 	Rešil sem jo . 
+793	" Ask , and it shall be given to you ; seek and ye shall find . " Matthew 7 : 7 . 	" Vprašaj , in dano ti bo ; išči , in našel boš . " Matej 7 : 7 . 
+794	That was the key . 	To je bil ključ . 
+795	Far too simple for the likes of you . 	Preveč enostavno za take kot si ti . 
+796	Pity Denniston disagrees . 	Na žalost se Denniston ne strinja . 
+797	Come in . 	Vstopite . 
+798	Sir , I think I' ve got Turing . 	Gospod , mislim , da imam Turinga . 
+799	I tailed him to a pub last night , where he met a bloke . 	Sledil sem mu mu v pivnico sinoči , kjer se je sestal s tipom . 
+800	They exchanged an envelope . 	Izmenjala sta si kuverti . 
+801	So , I follow this other fella , pick him up , give him a good shake . 	Tako sem sledil temu drugemu možaku , ga prijel in dobro prestrašil . 
+802	- He 's a poofter . 	Gej je . 
+803	He confessed . 	Priznal je . 
+804	- What ? 	Kaj ? 
+805	The man admitted it . 	Možak je priznal . 
+806	Arnold Murray . 	Arnold Murray . 
+807	Hangs around that pub ; men pay him for a go . 	Visi okrog pivnice in moški mu plačujejo . 
+808	Turing 's one of the men that paid . 	Turing je eden od naročenih . 
+809	Only Mr . 	Samo , da je g . 
+810	Murray here then has the bright idea of robbing Turing 's house after , with a friend . 	Murray potem imel sijajno idejo , da s prijateljem potem oropa Turingovo hišo . 
+811	That 's what Turing 's hiding . 	To je tisto , kar Turing skriva . 
+812	Well , he 's a poof , not a spy . 	Gej je , ne vohun . 
+813	- No . 	Ne . 
+814	- What 's the matter ? 	–Kaj je narobe ? 
+815	We can charge a university professor with indecency . 	Lahko obtožimo univerzitetnega profesorja zaradi nespodobnosti . 
+816	No , this is ... it 's bloody rubbish . 	Lahko obtožimo univerzitetnega profesorja zaradi nespodobnosti . 
+817	Turing 's up to something important ... 	Ne , to je prekleta neumnost . 
+818	He 's committed a crime and he 's broken the law . 	Turing je nekako pomembnem … Zakrivil je zločin in prekršil zakon . 
+819	And with a bloke . 	In to z drugim moškim . 
+820	Jesus Christ , it 's bloody disgusting . 	Jezus Kristus , to je tako prekleto nagnusno . 
+821	This isn 't the investigation I was conducting . 	To ni preiskava , ki sem jo vodil . 
+822	- Bring him in . 	Pripeljite ga noter . 
+823	- Wait . 	Pripeljite ga noter . 
+824	Let me interrogate him . 	Počakajte . Naj ga jaz zaslišim . 
+825	Please . 	Dajte mi pol ure na samem z njim . 
+826	Give me half an hour alone , and then I swear , 	Dajte mi pol ure na samem z njim . 
+827	I' ll spend the next month running errands on as many rubbish cases as you like . 	Prisežem , da bom naslednje pol leta delal na vseh vaših bednih primerih . 
+828	Fine . 	Mi bo zdaj kdo dal nalog za aretacijo Alana Turinga . 
+829	Now , will someone get me a warrant for the arrest of Alan Turing . 	Mi bo zdaj kdo dal nalog za aretacijo Alana Turinga . 
+830	Alan ? 	Alan ? 
+831	Christopher 's simply not moving fast enough . 	Christopher enostavno ne dela dovolj hitro . 
+832	We should talk . 	Morava se pogovoriti . 
+833	And even with the diagonal board , he 's still not eliminating settings as quickly 	–Celo z diagonalno kontrolno ploščo še vedno ne izloči nastavitev tako hitro kot želimo … –Odhajam . 
+834	- as we need him to in order ... 	–Celo z diagonalno kontrolno ploščo še vedno ne izloči nastavitev tako hitro kot želimo … –Odhajam . 
+835	- I 'm leaving . 	–Celo z diagonalno kontrolno ploščo še vedno ne izloči nastavitev tako hitro kot želimo … –Odhajam . 
+836	But you 've just walked in . 	Toda saj si pravkar prišla . 
+837	No . 	Toda saj si pravkar prišla . 
+838	No . 	Ne . 
+839	Bletchley . 	Z Bletchleya . 
+840	- What ? 	Z Bletchleya . 
+841	- It 's my parents . 	–Kaj ? Zaradi mojih staršev . 
+842	I 'm 25 , I 'm unmarried , I 'm living alone , and they want me home . 	Imam 25 let , sem neporočena , živim sama in želita , da se vrnem domov . 
+843	- That 's ridiculous . 	To je nesmiselno . 
+844	- That 's my parents . 	To so moji starši . 
+845	You ... you can 't leave . 	Ne moreš oditi . 
+846	I won 't let you . 	Ne bom ti pustil . 
+847	" I' ll miss you . " That 's what a normal person might say in this situation . 	" Pogrešal te bom , " bi bilo nekaj , kar bi normalen človek rekel v taki situaciji . 
+848	- I don 't care what is normal . 	Ne briga me , kaj je normalno . 
+849	- What am I supposed to do , Alan ? 	Kaj naj naredim , Alan ? 
+850	I will not ... give up my parents . 	Ne bom se odpovedala svojim staršem . 
+851	You ... you have an opportunity here to make some actual use of your life . 	Tukaj imaš priložnost , da nekaj narediš v svojem življenju . 
+852	And end up like you ? 	In naj končam kot ti ? 
+853	No , thanks . 	Ne , hvala . Žal mi je , da si osamljen . 
+854	I 'm sorry you 're lonely . 	Ne , hvala . Žal mi je , da si osamljen . 
+855	But Enigma will not save you . 	Toda Enigma te ne bo rešila . 
+856	Can you decipher that , you fragile narcissist ? 	Lahko to dešifriraš , ti krhek narcis ? 
+857	Or would you like me to go and fetch your precious Christopher to help ? 	Ali naj grem in pripeljem tvojega dragocenega Christopherja na pomoč ? 
+858	I 'm sorry . 	Oprosti . 
+859	I want you ... 	Želim , da ostaneš , ker te imam rad . 
+860	I want you to stay because I like you . 	Želim , da ostaneš , ker te imam rad . 
+861	I like ... talking to you . 	Rad se pogovarjam s tabo . 
+862	I like talking to you , too , Alan . 	Tudi jaz se rada pogovarjam s tabo , Alan . 
+863	And what if you weren 't alone ? 	In kaj , če ne bi bila sama ? 
+864	What if you had a husband ? 	Kaj , če bi imela moža ? 
+865	Do you have one in mind ? 	Imaš koga v mislih ? 
+866	I do . 	Imaš koga v mislih ? 
+867	Hugh ? 	Imam . Hugh ? 
+868	Hugh 's terribly attractive , I' ll give you that , but ... 	Hugh je strašansko privlačen , priznam . 
+869	I don 't really think he 's the marrying kind . 	Toda mislim , da ni ravno človek za zakon . 
+870	- No , I wasn 't thinking of Hugh . 	Ne , nisem mislil na Hugha . 
+871	- Or Peter . 	Ali Peter . 
+872	Peter 's so quiet . 	Peter je tako tih . 
+873	- Oh , my God . 	Mojbog . 
+874	- But this makes sense . 	Toda to je smiselno . 
+875	- Did you just propose to me ? 	Si me pravkar zasnubil ? 
+876	- Well , it is the logical thing to do . 	–No , saj je logična stvar . 
+877	- This is ridiculous . 	To je smešno . 
+878	- This is your parents . 	–To so tvoji starši . 
+879	I can 't ... believe that this is happening . 	Ne morem verjeti , da se to dogaja . 
+880	Joan ... 	Joan … je tvoje srednje ime Caroline ali Catherine ? 
+881	- Is your middle name Caroline or Catherine ? 	Joan … je tvoje srednje ime Caroline ali Catherine ? 
+882	- Elizabeth . 	Elizabeth . 
+883	Joan Elizabeth ... 	–Joan Elizabeth Clarke , bi se poročila z mano ? 
+884	Clarke ... 	–Joan Elizabeth Clarke , bi se poročila z mano ? 
+885	will you marry me ? 	–Joan Elizabeth Clarke , bi se poročila z mano ? 
+886	It 's beautiful . 	Čudovit je . 
+887	Well , I know it isn 't ordinary , but ... whoever loved ordinary ? 	Vem , da ni običajen , toda kdo še mara običajno ? 
+888	She had it in both hands ... and she looked up at me with her doe eyes and said , 	Držala ga je z obema rokama , me pogledala gor s tistimi njenimi košutnimi očmi in rekla : 
+889	" Am I supposed to put that in my mouth ? " 	" Bi ga morala dati v usta ? " 
+890	And I said , " Yes . 	In jaz sem rekel : " Ja . 
+891	You know , the French way . " 	Saj veš , na francoski način . " 
+892	So , she pops it in , clamps her lips around it , and starts humming the bloody Marseillaise . 	Torej ga je dala noter , ga objela s svojimi ustnicami in začela brundati prekleto marsejezo . 
+893	Come have a dance . 	Pridi , greva plesat . 
+894	No , no , no , you can dance with your fiance anytime you like . 	Ne , ne , lahko plešeš s svojim zaročencem , kadarkoli hočeš . 
+895	Right now , this moment ... my turn . 	Prav zdaj , ta trenutek sem jaz na vrsti . 
+896	What 's the matter ? 	Kaj je narobe ? 
+897	What if ... 	Kaj , če … 
+898	What if I don 't fancy being ... with Joan in that way ? 	Kaj , če ne želim biti z Joan na tak način ? 
+899	Because you 're a homosexual ? 	Ker si homoseksualec ? 
+900	I suspected . 	Sumil sem . 
+901	Well , should I tell her that I' ve had ... affairs with men ? 	Bi ji moral povedati , da sem imel razmerja z moškimi ? 
+902	You know , in my ... admittedly limited experience , women ... tend to be a bit touchy about accidentally marrying homosexuals . 	Veš , po moji priznano omejeni izkušnji so ženske občutljive glede naključne poroke s homoseksualcem . 
+903	Perhaps not spreading this information about might be in your best interest . 	Morda širjenje te informacije ni ravno najboljše zate . 
+904	I care for her , I truly do . 	Mar mi je zanjo . Resnično mar . 
+905	I ... 	
+906	I ... 	Samo ne vem , če se lahko pretvarjam . 
+907	I just don 't know if I can ... 	Samo ne vem , če se lahko pretvarjam . 
+908	- ... pretend . 	Samo ne vem , če se lahko pretvarjam . 
+909	- You can 't tell anyone , Alan . 	Tega ne smeš nikomur povedati , Alan . 
+910	It 's illegal . 	To je nezakonito . 
+911	And Denniston is looking for any excuse he can to put you away . 	In Denniston išče kakršenkoli razlog , da se te znebi . 
+912	- I know . 	In Denniston išče kakršenkoli razlog , da se te znebi . 
+913	- This has to stay a secret . 	Vem . –To mora ostati skrivnost . 
+914	Come on , it 's your turn . 	Pridi , ti si na vrsti . 
+915	Okay . 	Pridi , ti si na vrsti . 
+916	- Cup of tea ? 	Bi skodelico čaja ? 
+917	- No , thank you . 	–Ne , hvala . 
+918	Mr . 	Turing , vam lahko zaupam skrivnost ? 
+919	Turing , can I tell you a secret ? 	Turing , vam lahko zaupam skrivnost ? 
+920	- I 'm quite good with those . 	–Kar dober sem z njimi . 
+921	- I 'm here to help you . 	Tukaj sem , da bi vam pomagal . 
+922	Oh , clearly . 	Tukaj sem , da bi vam pomagal . 
+923	Can machines think ? 	Lahko stroji mislijo ? 
+924	Oh , so , you 've read some of my published works ? 	Ste prebrali nekatera moja objavljena dela ? 
+925	What makes you say that ? 	Zakaj tako mislite ? 
+926	Well , because I 'm sitting in a police station , accused of entreating a young man to touch my penis and you just asked me if machines can think . 	Ker sedim na policijski postaji , obtožen nagovarjanja mladeniča , da otipava moj penis in pravkar ste me vprašali , če stroji lahko mislijo . 
+927	Well , can they ? 	Pa lahko mislijo ? 
+928	Could machines ever think as human beings do ? 	Bi stroji lahko kdajkoli mislili tako kot človeška bitja ? 
+929	Most people say not . 	Večina ljudi pravi , da ne . 
+930	You 're not most people . 	–Vi niste kot večina ljudi . 
+931	Well , the problem is you 're ... asking a stupid question . 	Problem je , da ste zastavili neumno vprašanje . 
+932	I am ? 	Res ? 
+933	Of course machines can 't think as people do . 	Seveda stroji ne morejo misliti tako kot ljudje . 
+934	A machine is different ... from a person . 	Stroj je drugačen od človeka . 
+935	Hence , they think differently . 	Zato tudi mislijo drugače . 
+936	The interesting question is , just because something thinks differently from you , does that mean it 's not thinking ? 	Zanimivo vprašanje je , če nekaj misli drugače kot vi , ali potem razmišlja ? 
+937	Well , we allow for humans to have such divergences from one another . 	Ljudem dopuščamo , da imajo različna mnenja drug od drugega . 
+938	You like strawberries , I hate ice- skating , you ... cry at sad films , 	Vi imate radi jagode , jaz sovražim drsanje , vi jokate ob žalostnih filmih , jaz sem alergičen na cvetni prah . 
+939	I ... am allergic to pollen . 	Vi imate radi jagode , jaz sovražim drsanje , vi jokate ob žalostnih filmih , jaz sem alergičen na cvetni prah . 
+940	What is the point of different tastes , different ... preferences if not to say that our brains work differently , that we think differently ? 	V čem je smisel različnih okusov , različnih prednosti , če ne zato , da rečemo , da naši možgani delujejo različno , da razmišljamo različno ? 
+941	If we can say that about one another , then why can 't we say the same thing for brains ... built of copper and wire , steel ? 	In če to lahko rečemo drug o drugem , zakaj ne bi mogli istega reči za možgane narejene iz bakra , žic in jekla ? 
+942	And that 's ... this big paper you wrote ? 	In to je to veliko delo , ki ste ga napisali ? Kako se imenuje ? 
+943	What 's it called ? 	
+944	" The Imitation Game . " 	Igra imitacije . 
+945	Right , that 's ... that 's what it 's about ? 	Točno , torej gre za to ? 
+946	- Would you like to play ? 	Se želite igrati ? 
+947	- Play ? 	–Igrati ? 
+948	It 's a game . 	Igra je . 
+949	A test of sorts . 	Nekakšen test . 
+950	For determining whether something is a ... a machine or a human being . 	Za določanje , ali je nekaj stroj ali človeško bitje . 
+951	How do I play ? 	Kako naj igram ? 
+952	Well , there 's a judge and a subject , and ... the judge asks questions , and ... depending on the subject 's answers , determines who he is talking with ... what he is talking with , and ... 	Torej , obstajata sodnik in osebek . Sodnik zastavlja vprašanja . In na podlagi odgovorov osebka določa , s kom ali s čim se pogovarja … 
+953	All you have to do is ask me a question . 	Vse kar morate narediti je , da mi zastavite vprašanje . 
+954	- What did you do during the war ? 	Kaj ste delali med vojno ? 
+955	- I worked in a radio factory . 	–Delal sem v tovarni radiev . 
+956	What did you really do during the war ? 	Kaj ste resnično delali med vojno ? 
+957	Are you paying attention ? 	Ste pozorni ? 
+958	Damn it ! 	Prekleto ! 
+959	We 're soon out of time . 	Kmalu nam bo zmanjkalo časa . 
+960	A month . 	Mesec dni . 
+961	So , that 's it , then , is it ? 	–To je torej to , kajne ? 
+962	Oh , the trouble is , it doesn 't matter how much we improve it . 	Težava je , da ni pomembno , kako ga izboljšamo . 
+963	The machine 's never gonna be able to process 159 million million million possibilities in time . 	Stroj ne bo nikoli sposoben obdelati 159 milijonov milijonov milijonov možnosti pravočasno . 
+964	It 's just bloody hopeless . 	To je prekleto brezupno . 
+965	It 's searching . 	Išče . 
+966	It 's just ... 	
+967	It ... doesn 't know what it 's searching for . 	Samo ne ve , kaj išče . Če bi vedeli kaj sporočila povejo … Če bi vedeli kaj sporočila povejo , jih sploh ne bi bilo potrebno dešifrirati . 
+968	If we knew what the messages were going to say ... 	Samo ne ve , kaj išče . Če bi vedeli kaj sporočila povejo … Če bi vedeli kaj sporočila povejo , jih sploh ne bi bilo potrebno dešifrirati . 
+969	If we knew what the messages were going to say , we wouldn 't have to decrypt them at all . 	Samo ne ve , kaj išče . Če bi vedeli kaj sporočila povejo … Če bi vedeli kaj sporočila povejo , jih sploh ne bi bilo potrebno dešifrirati . 
+970	Who 's Alan´s friend ? 	Kdo je Alanov prijatelj ? 
+971	Hugh . 	Hugh . 
+972	He 's a bit of a cad , actually . 	Pravzaprav je malo neolikan . 
+973	So , my type , then ? 	Moj tip , torej ? 
+974	- Well , I' ll introduce you . 	Predstavila vaju bom . –Ne . 
+975	- No . 	Prišel bo sem . 
+976	He 'll come over . 	Prišel bo sem . 
+977	- Are you sure ? 	Si prepričana ? 
+978	- Yes . 	Si prepričana ? 
+979	I smiled at him 15 minutes ago and haven 't looked back since . 	–Ja . Pred 15 minutami sem se mu nasmehnila in od takrat ga nisem več pogledala . 
+980	Who 's that with Joan ? 	Kdo je z Joan ? 
+981	Helen . 	Helen . 
+982	Works with her . 	Delata skupaj . 
+983	- She 's really pretty . 	Res je čedna . Želi , da pridem tja . 
+984	- She wants me to come over . 	Res je čedna . Želi , da pridem tja . 
+985	What ? 	Res je čedna . Želi , da pridem tja . 
+986	How on earth can you know that ? 	–Kaj ? Kako to lahko veš ? 
+987	She smiled at me a while back and she hasn 't looked again since . 	Malo prej se mi je nasmehnila in od takrat me ni več pogledala . 
+988	And got him . 	Imam ga . 
+989	Now , why is this , that when I was single I found it very boring , but now that I 'm engaged , I just find it dreadfully fun . 	Ko sem bila samska , sem mislila , da je to zelo dolgočasno , toda zdaj , ko sem zaročena , se mi zdi strašno zabavno . 
+990	Bingo . 	Zadetek . 
+991	She 's in . 	Alan , predstavi naju . 
+992	- Alan , introduce us . 	Alan , predstavi naju . 
+993	- What ? 	Kaj ? 
+994	Why me ? 	Zakaj jaz ? 
+995	Because there 's nothing like a friend 's engagement to make a woman want to do something she 'll later regret with the fiance 's better looking chum . 	Ker je prijateljičina zaroka vzrok , da ženska naredi nekaj z zaročenčevim kolegom , kar kasneje obžaluje . 
+996	Let 's go . 	Pojdiva . 
+997	Half a crown says Alan bollixes this up entirely . 	Pol krone stavim , da bo Alan zamočil . 
+998	No bet . 	–Ne stavim . 
+999	- Alan Turing has a theory . 	Alan Turing ima teorijo . 
+1000	- He has many . 	–Ima jih veliko . 
+1001	He believes that the regulations against men and women working side by side are sound because such proximity will necessarily lead to romance . 	Verjame , da so predpisi proti delu moških in žensk skupaj upravičeni , ker takšna bližina neizogibno vodi v romanco . 
+1002	What ? 	Kaj ? 
+1003	No , I don 't . 	Ne … 
+1004	I ... 	Ne … 
+1005	- However I disagree . 	Kakorkoli . Ne strinjam se . 
+1006	- You do ? 	Res ? 
+1007	Yeah . 	–Ja . 
+1008	I think that if I were working beside a woman all day long , 	Mislim , da bi , če bi delal ob ženski cel dan , cenil njene sposobnosti in intelekt , ne da bi jo spravil v posteljo . 
+1009	I could appreciate her abilities and intellect without taking her to bed . 	Mislim , da bi , če bi delal ob ženski cel dan , cenil njene sposobnosti in intelekt , ne da bi jo spravil v posteljo . 
+1010	I 'm sorry , have we met ? 	Oprostite , sva se že srečala ? 
+1011	I don 't recall . 	Ne spomnim se . 
+1012	But let 's assume we haven 't . 	Verjetno ne . 
+1013	Helen Stewart . 	Helen Stewart . 
+1014	Hugh Alexander . 	Hugh Alexander . 
+1015	So , who do you agree with , Alan or myself ? 	Torej , s kom se strinjate , z Alanom ali z mano ? 
+1016	Well , Alan , of course . 	Z Alanom , seveda . 
+1017	I 'm very flattered , really , but I don 't think ... 	Res sem zelo polaskan , toda ne mislim … –Neumnost . 
+1018	Rubbish . 	Res sem zelo polaskan , toda ne mislim … –Neumnost . 
+1019	Well , I work beside a man every day , and I can 't help but have developed a bit of a crush on him . 	Z moškim delam cel dan in nehote sem se malo zaljubila vanj . 
+1020	Well , who is this man ? 	Kdo je ta moški , da ga premlatim . 
+1021	So I can kick his arse . 	Kdo je ta moški , da ga premlatim . 
+1022	Well , there 's no need to worry , it 's been chaste . 	Brez skrbi . 
+1023	We 've never even met . 	Nikdar se nisva srečala . 
+1024	He 's a German . 	Nemec je . 
+1025	Now I really want to kill him . 	Zdaj si ga res želim ubiti . 
+1026	How do you mean you work alongside a German ? 	Kako to misliš , da delaš ob Nemcu ? 
+1027	Well , each of us intercepts messages from a specific German radio tower . 	Vsaka od nas prestreza sporočila z določenega nemškega radijskega stolpa . 
+1028	So , we have a counterpart on the other side who 's tip- tapping out the messages . 	Tako imamo nasprotnika na drugi strani , ki tipka sporočila . 
+1029	Everyone types a touch differently , so you get to know the rhythm of your counterpart . 	Vsak tipka nekoliko drugače , tako da lahko spoznaš ritem svojega nasprotnika . 
+1030	It 's strangely intimate . 	Vsak tipka nekoliko drugače , tako da lahko spoznaš ritem svojega nasprotnika . 
+1031	I feel as if I know him so well . 	To je nenavadna intimnost . 
+1032	It 's a pity he has a girlfriend , but that 's why I disagree with you , Mr . 	Občutim , kot da ga dobro poznam . Škoda je , da ima dekle in zato se ne strinjam z vami , gospod Alexander . 
+1033	Alexander . 	Občutim , kot da ga dobro poznam . Škoda je , da ima dekle in zato se ne strinjam z vami , gospod Alexander . 
+1034	Because I 'm in love with a coworker of sorts , and we 've never even met . 	Ker sem zaljubljena v neke vrste sodelavca čeprav se nisva niti spoznala . 
+1035	Well , allow me to buy you another pint , and I' ll tell you why you 're wrong . 	Dovolite , da vas povabim na še eno pivo in povedal vam bom , zakaj se motite . 
+1036	Let 's . 	Pojdiva . 
+1037	Excellent . 	Odlično . 
+1038	Thanks . 	Hvala . 
+1039	Pints . 	Pivo . 
+1040	Have you got any sloe gin ? 	Imate kakšen liker ? 
+1041	In case you were wondering , that 's what flirting looks like . 	V primeru , da si začuden , tako izgleda flirtanje . 
+1042	Helen ... 	Helen ! 
+1043	Alan ? 	Alan . 
+1044	Yes , Alan ? 	Ja , Alan ? 
+1045	Why do you think your German counterpart has a girlfriend ? 	Zakaj misliš , da ima tvoj nemški nasprotnik dekle ? 
+1046	- It 's just a stupid joke , don 't worry . 	To je samo neumna šala . Ne skrbi . 
+1047	- No , no , no , no . 	–Ne , ne , ne . 
+1048	Tell me . 	Povej mi . 
+1049	Well , each of his messages begins with the same five letters : 	Vsako od njegovih sporočil se začne z istimi petimi črkami C–I–L–L–Y . 
+1050	C- I- L- L- Y . 	Vsako od njegovih sporočil se začne z istimi petimi črkami C–I–L–L–Y . 
+1051	So , I suspect that Cilly must be the name of his amore . 	Torej sumim , da mora biti Cilly ime njegove ljubezni . 
+1052	But that 's impossible . 	–Toda to je nemogoče . 
+1053	The Germans are instructed to use five random letters 	Nemcem je naročeno , da uporabijo pet naključnih črk na začetku vsakega sporočila . 
+1054	- at the start of every message . 	Nemcem je naročeno , da uporabijo pet naključnih črk na začetku vsakega sporočila . 
+1055	- Well , this bloke doesn 't . 	Nemcem je naročeno , da uporabijo pet naključnih črk na začetku vsakega sporočila . 
+1056	Love will make a man do strange things , I suppose . 	No , ta tip jih ne . Domnevam , da ljubezen pripravi človeka do čudnih stvari . 
+1057	In this case , love just lost Germany the whole bloody war . 	V tem primeru bo Nemčija zaradi ljubezni izgubila prekleto vojno . 
+1058	Go , Peter . 	Pridi , Peter . 
+1059	Sorry . 	Oprosti . 
+1060	Alan ! 	Alan ! 
+1061	Alan ! 	Alan ! 
+1062	Alan ! 	
+1063	I just want ... 	Hočem samo … 
+1064	Hugh Alexander . 	Hugh Alexander . 
+1065	John Cairncross . 	John Cairncross . 
+1066	Peter bloody Hilton . 	Peter prekleti Hilton . 
+1067	Alan ? 	Alan ? 
+1068	What ... ? 	Alan ? 
+1069	What ... 	Kaj , če Christopherju ni treba iskati skozi vse nastavitve ? 
+1070	What if ... what if Christopher doesn 't have to search through all of the settings ? 	Kaj , če Christopherju ni treba iskati skozi vse nastavitve ? 
+1071	What if he only has to search through ones that produce words we already know will be in the message ? 	Kaj , če mora iskati le skozi tiste , ki ustvarjajo že znane besede v sporočilu ? 
+1072	- Repeated words , predictable words . 	Ponavljajoče besede , predvidljive besede . 
+1073	- Exactly . 	–Točno . 
+1074	Look , look , like this one . 	Poglej primer . 
+1075	" 0600 hours . 	" 06 : 00 . 
+1076	Weather today is clear . 	Vreme bo danes jasno . 
+1077	Rain in the evening . 	Zvečer bo deževalo . Heil Hitler . " 
+1078	Heil Hitler . " 	
+1079	Well , that 's it . 	To je to . 
+1080	Exactly . 	Točno . 
+1081	They send a weather report every day at 6 : 00 a . m . 	Vsako jutro ob 06 . 00 pošljejo vremensko poročilo . 
+1082	So , that 's three words we know will be in every 6 : 00 a . m . message ... 	To so torej tri besede , za katere vemo , da bodo v vsakem sporočilu ob 06 . 00 … očitno " vreme " in … –Heil prekleti Hitler . 
+1083	" weather , " obviously , and ... 	To so torej tri besede , za katere vemo , da bodo v vsakem sporočilu ob 06 . 00 … očitno " vreme " in … –Heil prekleti Hitler . 
+1084	- Heil bloody Hitler . 	To so torej tri besede , za katere vemo , da bodo v vsakem sporočilu ob 06 . 00 … očitno " vreme " in … –Heil prekleti Hitler . 
+1085	- Heil bloody Hitler . 	Heil prekleti Hitler . 
+1086	Here 's the 6 : 00 message from this morning . 	Tukaj je jutranje sporočilo ob 06 : 00 . 
+1087	Hugh , the the right- hand letter wheel , set them to ... 	Hugh , desno kolo s črkami nastavi … 
+1088	I know , I know . 	Vem , vem . 
+1089	" Weather " and " Hitler . " 	" Vreme " in " Hitler . " 
+1090	Peter , John , run voltages through those letters , through the back scramblers . 	Peter , John , spustita tok skozi te črke skozi zadnji drobilec . 
+1091	So , we 'll use the loops ? 	Bomo uporabili zanke ? 
+1092	Yes . 	–Ja . 
+1093	Joan , what was the last 6 : 00 a . m . message ? 	Joan , kaj je bilo zadnje sporočilo ob 06 : 00 ? 
+1094	- L . 	L –L 
+1095	- L . 	L –L 
+1096	- H . 	H 
+1097	- H . 	H –W 
+1098	- W . 	H –W 
+1099	- W . 	W 
+1100	- A . 	A –A 
+1101	- A . 	A –A 
+1102	- Q . 	Q . 
+1103	- Q . 	–Q . 
+1104	Done . 	Narejeno . 
+1105	Come on . 	
+1106	Come on . 	Daj . 
+1107	Come on , Christopher . 	Daj , Christopher . 
+1108	Oh , my God . 	Mojbog . 
+1109	What happened ? 	Kaj se je zgodilo ? 
+1110	- Did it work ? 	Je delovalo ? 
+1111	- Alan ? 	–Alan ? 
+1112	Alan ! 	Alan ! 
+1113	Alan ! 	Alan ! 
+1114	I need a new message . 	Potrebujem novo sporočilo . 
+1115	The latest intercept . 	Nazadnje prestreženo . 
+1116	Thank you . 	Hvala . 
+1117	O ... 	O , T 
+1118	T . 	O , T 
+1119	- Ready ? 	Pripravljen ? 
+1120	- Yes . 	–Ja . 
+1121	- M . 	M –M 
+1122	- M . 	M –M 
+1123	- Y . 	Y –Y 
+1124	- Y . 	Y –Y 
+1125	- M . 	M , S –M , S 
+1126	S . 	M , S –M , S 
+1127	- M . 	M , S –M , S 
+1128	S . 	
+1129	- A . 	
+1130	I . 	
+1131	- A . 	
+1132	I . 	
+1133	- C . 	
+1134	- C . 	
+1135	- T . 	
+1136	R . 	
+1137	- T . 	
+1138	R . 	
+1139	- I . 	
+1140	S . 	
+1141	- I . 	
+1142	S . 	
+1143	- O . 	
+1144	A . 	
+1145	- O . 	
+1146	A . 	
+1147	- Y . 	
+1148	R . 	
+1149	- Y . 	
+1150	R . 	
+1151	- I . 	
+1152	- I . 	
+1153	" KMS Jaguar is aufpunkt is directed to 53 degrees 24 minutes north and aufpunkt one ... degree west . " 	" Podmornica Jaguar je na mestu , usmerjena na 53 stopinj 24 minut severno in na eno stopinjo zahodno . " 
+1154	Heil Hitler . 	Heil Hitler . 
+1155	Turns out that 's the only German you need to know to break Enigma . 	Izkazalo se je , da je to edina nemščina , ki jo moraš znati , da dešifriraš Enigmo . 
+1156	Yes ! 	Ja ! 
+1157	- M . 	M –M 
+1158	- M . 	M –M 
+1159	- A . 	A –A 
+1160	- A . 	A –A 
+1161	- Y . 	Y –Y 
+1162	- Y . 	Y –Y 
+1163	- I . 	I –I 
+1164	- I . 	I –I 
+1165	- T . 	
+1166	- T . 	
+1167	- R . 	
+1168	- R . 	
+1169	- O . 	
+1170	- O . 	
+1171	T . 	
+1172	- T . 	
+1173	A . 	
+1174	- A . 	
+1175	- H . 	
+1176	- H . 	
+1177	- Q . 	
+1178	- Q . 	
+1179	- U . 	
+1180	- U . 	
+1181	R . 	
+1182	R . 	
+1183	My God , you did it . 	Mojbog , uspelo ti je . 
+1184	You just defeated Nazism with a crossword puzzle . 	Pravkar si porazil nacizem s križanko . 
+1185	There are five people in the world who know the position of every ship in the Atlantic . 	Obstaja pet ljudi na svetu , ki vedo za položaj vsake ladje v Atlantiku . 
+1186	- They 're all in this room . 	Vsi so v tej sobi . 
+1187	- Oh , good God . 	–Ljubi bog . 
+1188	Oh , I don 't think even He has the power that we do right now . 	Mislim , da tudi on nima take moči , kot jo imamo mi v tem trenutku . 
+1189	No . 	Mislim , da tudi on nima take moči , kot jo imamo mi v tem trenutku . 
+1190	There 's going to be an attack on a British passenger convoy . 	Ne . Pripravlja se napad na britanski potniški konvoj . 
+1191	Right there . 	Prav tule . 
+1192	God , you 're right . 	Prav imaš . 
+1193	All those U- boats are only 20 , 30 minutes away . 	Vse te podmornice so samo 20 , 30 minut oddaljene . 
+1194	Civilians . 	Civilisti . 
+1195	Hundreds of them . 	Na stotine . 
+1196	We can save their lives . 	Lahko rešimo njihova življenja . 
+1197	I' ll phone Denniston 's office so that he can alert the Admiralty . 	Poklical bom Dennistona , da bo lahko opozoril vrhovno poveljstvo mornarice . 
+1198	Do you think there 's enough time to save them ? 	Poklical bom Dennistona , da bo lahko opozoril vrhovno poveljstvo mornarice . 
+1199	There should be , if we can get a message ... 	Misliš , da jih lahko pravočasno rešimo ? 
+1200	Commander Denniston 's office , please . 	–Mislim , da , če lahko dobimo … 
+1201	It 's urgent . 	–Mislim , da , če lahko dobimo … 
+1202	No . 	Pisarna kapitana Dennistona , prosim . 
+1203	- What the hell are you doing ? 	Nujno je . –Ne . 
+1204	- You can 't call Denniston . 	Kaj za vraga delaš ? 
+1205	- You can 't tell him about the attack . 	–Ne smeš poklicati Dennistona . Ne smeš mu povedati za ta napad . 
+1206	- What are you talking about ? 	O čem govoriš ? 
+1207	We can have air support over that convoy in ten minutes . 	–V desetih minutah bi imeli zračno podporo nad konvojem . 
+1208	Let the U- boats sink the convoy . 	Pustite podmornice , da potopijo konvoj . 
+1209	It 's been a big day , maybe you 're suffering ... 	Pustite podmornice , da potopijo konvoj . 
+1210	- We don 't have time ... 	–Poglej , bil je velik dan , mogoče si … –Ne ! 
+1211	- No ! 	
+1212	- Hugh ! 	Hugh ! 
+1213	Hugh ! 	Dovolj je ! 
+1214	That 's enough ! 	Dovolj je ! 
+1215	That 's enough ! 	Dovolj je ! 
+1216	- Stop , Hugh ! 	Nehaj , Hugh ! 
+1217	John , the attack is in minutes . 	John , napad se bo zgodil v nekaj minutah . 
+1218	Yes , no , I 'm fine , I 'm fine . 	V redu sem , v redu sem . 
+1219	I 'm fine . 	
+1220	You know why people like violence , Hugh ? 	Veš zakaj imajo ljudje radi nasilje , Hugh ? 
+1221	It 's because it feels good . 	Zato , ker je občutek tako dober . 
+1222	Sometimes we can 't do what feels good . 	Včasih ne smemo delati po občutku . 
+1223	- We have to do what is logical . 	Moramo narediti , kar je logično . 
+1224	- What 's logical ? 	Kaj je logično ? 
+1225	Hardest time to lie to somebody is when they 're expecting to be lied to . 	Najtežje je nekomu lagati takrat , ko pričakuje , da mu bodo lagali . 
+1226	- Oh , God . 	O , bog . 
+1227	- What ? 	–Kaj ? Če nekdo čaka na laž , mu je ne moreš kar dati . 
+1228	If someone 's waiting for a lie , you can 't just give them one . 	–Kaj ? Če nekdo čaka na laž , mu je ne moreš kar dati . 
+1229	- Damn it , Alan 's right . 	Prekleto , Alan ima prav . 
+1230	- What ? 	–Kaj ? 
+1231	What would the Germans think if we destroy their U- boats ? 	Kaj bi Nemci mislili , če bi jim uničili njihove podmornice ? 
+1232	- Nothing . 	Nič . 
+1233	They 'll be dead . 	Bili bi mrtvi . –Ne . 
+1234	- No . 	Ne , ne moreš imeti prav . Če naš konvoj nenadoma zavije iz smeri in eskadron naših bombnikov čudežno napada koordinate podmornic . 
+1235	No , you can 't be right . 	Ne , ne moreš imeti prav . Če naš konvoj nenadoma zavije iz smeri in eskadron naših bombnikov čudežno napada koordinate podmornic . 
+1236	So , our convoy suddenly veers off course ... a squadron of our air bombers miraculously descends on the coordinates of the U- boats ... what will the Germans think ? 	Ne , ne moreš imeti prav . Če naš konvoj nenadoma zavije iz smeri in eskadron naših bombnikov čudežno napada koordinate podmornic . 
+1237	The Germans will know that we have broken Enigma . 	Nemci bodo vedeli , da smo dešifrirali Enigmo . 
+1238	They 'll stop all radio communications by midday , and they 'll have changed the design of Enigma by the weekend . 	Do poldneva bodo prenehali z radijskimi komunikacijami , do konca tedna bodo spremenili vzorec Enigme . 
+1239	Yes . 	Do poldneva bodo prenehali z radijskimi komunikacijami , do konca tedna bodo spremenili vzorec Enigme . 
+1240	Two years´ work . 	Dve leti dela . 
+1241	Everything that we 've done here will all be for nothing . 	Vse kar smo tu naredili , vse bi bilo zaman . 
+1242	There are 500 civilians in that convoy . 	V tistem konvoju je 500 civilistov . Ženske , otroci . 
+1243	Women , children . 	In mi jih želimo pustiti umreti . 
+1244	We 're about to let them die . 	In mi jih želimo pustiti umreti . 
+1245	Our job is not to save one passenger convoy , it is to win the war . 	Naše delo ni rešiti en potniški konvoj , ampak dobiti vojno . 
+1246	- Our job was to crack Enigma . 	Naše delo je bilo dešifrirati Enigmo . 
+1247	- We 've done that . 	To smo naredili . 
+1248	Now for the hard part . 	In zdaj najtežji del . 
+1249	- Keeping it a secret . 	Da to ohranimo skrivnost . –Carlisle . 
+1250	- Carlisle . 	Kaj ? 
+1251	What ? 	Kaj ? 
+1252	The convoy you 're about to ... it 's ... 	Konvoj , ki ga boste … to je … Carlisle je ena od ladij . 
+1253	The HMS Carlisle is one of the ships . 	Konvoj , ki ga boste … to je … Carlisle je ena od ladij . 
+1254	We can 't act on every piece of intelligence . 	Ne moremo se odzvati na vsak podatek obveščevalne službe . 
+1255	So , fine , we won 't . 	Lepo , torej se ne bomo . 
+1256	- Just this one . 	Samo tokrat . 
+1257	- Peter , what 's the matter with you ? 	Peter , kaj je narobe s tabo ? 
+1258	My brother 's ... well , he 's on the Carlisle . 	Moj brat je na Carlisle . 
+1259	A gunnery ensign . 	Podporočnik topništva . 
+1260	I 'm ... 	
+1261	I 'm so sorry . 	Zelo mi je žal . 
+1262	Who the hell do you think you are ? 	Kdo , za vraga , misliš da si ? 
+1263	This ... this is my brother . 	To je moj brat . 
+1264	He 's my big brother , all right , and you have a few minutes to call off his murder . 	Moj starejši brat , in imate nekaj minut , da preprečite njegovo smrt . 
+1265	We can 't . 	Ne moremo . 
+1266	He 's right . 	Prav ima . 
+1267	Alan . 	Alan . 
+1268	Joan . 	Joan . 
+1269	Hugh . 	Hugh . 
+1270	John . 	John . 
+1271	Please , I ... 	Prosim . 
+1272	The Germans , they won 't get suspicious just because we stop one attack . 	Nemci ne bodo postali sumničavi samo zato , ker bomo ustavili en napad . 
+1273	No one will know . 	Nihče ne bo vedel . 
+1274	I 'm asking you as your friend . 	Prosim vas , kot vaš prijatelj . 
+1275	Please . 	Prosim . 
+1276	I 'm so sorry . 	Tako zelo mi je žal . 
+1277	You 're not God , Alan , you don 't get to decide who lives and who dies . 	Nisi bog , Alan . Ne odločaš ti , kdo bo živel in kdo umrl . 
+1278	Yes , we do . 	Ja , mi odločamo . 
+1279	Why ? 	Zakaj ? 
+1280	Because no one else can . 	Ker nihče drug ne more . 
+1281	Why are you telling me this ? 	Zakaj mi to pripovedujete ? 
+1282	We need your help to keep this a secret from Admiralty , Army , RAF . 	Potrebujemo vašo pomoč , da ohranimo to skrivnost pred ministrstvom , vojsko , RAF . 
+1283	No one can know we broke Enigma . 	Nihče ne sme vedeti , da smo dešifrirali Enigmo . 
+1284	Not even Denniston . 	Celo Denniston ne . 
+1285	Who 's in the process of having you fired . 	Ki je v procesu , da vas odpusti . 
+1286	You can take care of that . 	Vi lahko poskrbite za to . 
+1287	While we develop a system to help you determine how much intelligence to act on ... which attacks to stop , which to let through . 	Dokler razvijamo sistem , ki vam bo pomagal določiti na koliko obveščevalnih podatkov se odzvati , katere napade preprečiti , katere dovoliti . 
+1288	Statistical analysis . 	Statistične analize . 
+1289	The minimal number of actions it would take for us to win the war ... but the maximum number we can take before the Germans get suspicious . 	Minimalno število operacij , ki jih potrebujemo , da dobimo vojno , toda maksimalno število , preden Nemci posumijo . 
+1290	And you 're going to trust all this to statistics ? 	Vse to boste zaupali statistiki ? Matematiki ? 
+1291	- To maths ? 	–Tako je . 
+1292	- Correct . 	
+1293	And then MI6 can come up with the lies that we tell everybody else . 	Potem se MI6 pojavi z lažmi , ki jih bomo povedali vsem drugim . 
+1294	You 'll need a believable alternative source for all the pieces of information you use . 	Potrebovali boste zanesljiv alternativni vir za vse koščke informacij , ki jih boste uporabili . 
+1295	A false story so that we can explain how we got our information that has nothing to do with Enigma . 	Lažna zgodba , da lahko razložimo , kako smo dobili informacije , ki nimajo nič opraviti z Enigmo . 
+1296	And then you can leak those stories to the Germans . 	Potem lahko posredujete te zgodbe Nemcem . 
+1297	And then to our own military . 	In potem tudi naši lastni vojski . 
+1298	Maintain a conspiracy of lies at the highest levels of government . 	Ohraniti zaroto laži na najvišji vladni ravni . 
+1299	Sounds right up my alley . 	Zveni kot delo zame . 
+1300	Alan , I so rarely have cause to say this , but you are exactly the man I always hoped you would be . 	Alan , tako redko imam razlog , da to rečem , toda ste natančno tak človek , kot sem vedno upal , da boste . 
+1301	They code- named it " Ultra . " 	Imenovali so jo " Ultra . " 
+1302	It became the largest store of military intelligence in ... the history of the world . 	Postala je največje skladišče vojaške obveščevalne službe v zgodovini sveta . 
+1303	It was like having a tap on Himmler 's intercom . 	Bilo je , kot bi imeli prisluškovalno napravo na Himmlerjevem interkomu . 
+1304	I- E- O ... 	I–E–O 
+1305	Secrecy became the primary concern , and for some reason , they ... they trusted me . 	Tajnost je postala glavna skrb in iz nekega razloga so mi zaupali . 
+1306	Peter , do you have the ... 630 decryp ... 	Peter , imaš 630 dešifrir … 
+1307	It 's a Beale cipher encrypted with a phrase from a book or ... 	… to je Bealova šifra kodirana s frazo … 
+1308	" Ask , and it will be given to you ; seek and you will find . " 	" Vprašaj , in dano ti bo ; išči , in našel boš . " Matej 7 : 7 . 
+1309	Matthew 7 : 7 . 	To je bil ključ . 
+1310	That was the key . 	
+1311	Peter will come around eventually . 	Peter bo že prebolel . 
+1312	Jack . 	Jack . 
+1313	Could you give Alan and me a moment , please ? 	Naju lahko z Alanom pustiš za trenutek sama , prosim ? 
+1314	The Soviets and us , we 're on the same side . 	S Sovjeti smo na isti strani . 
+1315	What I 'm doing will help Britain . 	Kar delam , bo pomagalo Britaniji . 
+1316	I have to tell Denniston . 	Moram povedati Dennistonu . 
+1317	No , you don 't . 	Ne . 
+1318	Because if you tell him my secret ... 	Ker če mu poveš mojo skrivnost , mu bom jaz povedal tvojo . 
+1319	I' ll tell him yours . 	Ker če mu poveš mojo skrivnost , mu bom jaz povedal tvojo . 
+1320	Do you know what they do to homosexuals ? 	Veš kaj naredijo s homoseksualci ? 
+1321	You 'll never be able to work again , never be able to teach . 	Nikdar več ne boš mogel delati , nikdar več ne boš mogel predavati . 
+1322	Your precious machine ... 	Tvoj dragoceni stroj … 
+1323	I doubt you 'll ever see him again . 	Dvomim , da ga boš še kdaj videl . 
+1324	Hello . 	Lahko govorim s Stewartom Menziesom , prosim ? 
+1325	Can I ... can I speak to Stewart Menzies , please ? 	Lahko govorim s Stewartom Menziesom , prosim ? 
+1326	It 's urgent . 	Nujno je . 
+1327	One moment , please . 	Trenutek , prosim . 
+1328	Hello . 	Halo . 
+1329	Menzies . 	Menzies . 
+1330	Some advice about keeping secrets . 	Nekaj nasvetov , kako ohraniti skrivnosti . 
+1331	It 's a lot easier if you don 't know them in the first place . 	Precej lažje je , če jih sploh ne poznate . 
+1332	Were they steaming my letters , tapping my telephone ? 	So odpirali moja pisma , prisluškovali mojemu telefonu ? 
+1333	Trailing my nervous walks ? 	Sledili mojim nervoznim sprehodom ? 
+1334	You know , I ... 	Veste , nikdar nisem zvedel . 
+1335	I never did find out . 	Veste , nikdar nisem zvedel . 
+1336	Joan ? 	Joan ? 
+1337	Joan ? 	Joan ? 
+1338	What 's ... 	Kaj … 
+1339	Where 's Joan ? 	Kje je Joan ? 
+1340	Military prison . 	V vojaškem zaporu . 
+1341	What have you done ? 	Kaj ste naredili ? 
+1342	Decoded Enigma intercepts . 	Dešifrirana prestrezanja Enigme . 
+1343	I found a pile of them in the bedside table . 	Našel sem jih cel kup v omarici ob postelji . 
+1344	No , no . 	Našel sem jih cel kup v omarici ob postelji . 
+1345	I gave those to her over a year ago when I was trying to figure out 	Ne , ne . Dal sem ji jih že pred več kot letom , ko sem skušal ugotoviti povezavo med … –Prepričan sem , da ste . 
+1346	- a link between ... 	
+1347	- I 'm sure you did . 	
+1348	Denniston 's been looking for a Soviet spy . 	Denniston je iskal sovjetskega vohuna . 
+1349	He 's been looking inside Hut 8 . 	Iskal je v baraki 8 . 
+1350	I know who the spy is . 	Vem , kdo je vohun . 
+1351	It 's not Joan . 	Ni Joan . 
+1352	It 's ... it 's Cairncross . 	Cairncross je . 
+1353	I found the Beale cipher , the Bible . 	Našel sem Bealovo šifro , v bibliji . 
+1354	God , I wish you 'd been a spy . 	Bog , želim si , da bi bili vi vohun . 
+1355	You 'd be so much better at this than he is . 	Bili bi veliko boljši v tem kot on . 
+1356	You knew it was him ? 	Ste vedeli , da je bil on ? 
+1357	Of course I bloody knew . 	Seveda sem vedel . 
+1358	I knew before he came to Bletchley . 	Vedel sem , preden je prišel v Bletchley . 
+1359	Why do you think I had him placed here ? 	Zakaj mislite , da sem ga namestil tja ? 
+1360	But we have an Enigma machine . 	Toda imamo stroj Enigmo . 
+1361	Yeah , Polish Intelligence ... 	Ja , poljska obveščevalna … 
+1362	You placed a ... a Soviet agent at Bletchley Park ? 	Vi ste namestili sovjetskega vohuna v Bletchley Park ? 
+1363	It 's really quite useful to be able to leak whatever we want to Stalin . 	Bilo je precej koristno , da je prišlo do Stalina , karkoli smo hoteli . 
+1364	Churchill 's too damn paranoid . 	Churchill je preklet paranoik . 
+1365	He won 't share a shred of intelligence with the Soviets . 	Noče deliti niti drobtinice obveščevalnih podatkov s Sovjeti . 
+1366	Not even information that will help them against the Germans . 	Niti informacij , ki bi jim pomagale proti Nemcem . 
+1367	There 's ... so much secrecy . 	Tako veliko je skrivnosti . 
+1368	Cairncross has no idea we know , of course . 	Cairncross seveda ni vedel , da vemo zanj . 
+1369	He 's really not the brightest bulb . 	Resnično ni najbolj pameten dečko . 
+1370	Which is why I need your help . 	Zato potrebujem vašo pomoč . 
+1371	I want to know what to leak to John , what to feed to the Soviets , as well as the British . 	Hočem vedeti , kaj dati Johnu , s čim nahraniti Sovjete , prav tako Britance . 
+1372	I 'm not a spy . 	Nisem vohun . 
+1373	I 'm ... 	Sem samo matematik . 
+1374	I 'm just a mathematician . 	Sem samo matematik . 
+1375	I know a lot of spies , Alan . 	Poznam veliko vohunov , Alan . 
+1376	You 've got more secrets than the best of them . 	Imate več skrivnosti kot najboljši od njih . 
+1377	You ... you have to promise me that you will release Joan . 	Morate mi obljubiti , da boste izpustili Joan . 
+1378	Yes , Joan 's at the market . 	Ja , Joan je na tržnici . 
+1379	She 's gonna be back in an hour . 	Vrnila se bo čez kakšno uro . Lagal sem . 
+1380	I lied . 	Bolje , da to zadržim . Če kdo zve zanje , bo zapor njena najmanjša skrb . 
+1381	I better hold on to these . 	Bolje , da to zadržim . Če kdo zve zanje , bo zapor njena najmanjša skrb . 
+1382	If anybody finds out about them , prison will be the least of her worries . 	Bolje , da to zadržim . Če kdo zve zanje , bo zapor njena najmanjša skrb . 
+1383	Oh , Alan ... we 're gonna have such a wonderful war together . 	Alan , skupaj bova vodila tako čudovito vojno . 
+1384	- I need you to leave Bletchley . 	Moraš zapustiti Bletchley . Kaj ? 
+1385	- What ? 	–Gre za Menziesa . 
+1386	It 's Menzies . 	–Gre za Menziesa . 
+1387	I don 't trust him . 	Ne zaupam mu . Tu ni varno . 
+1388	It 's not safe here . 	–Misliš , da je kaj bolj varno kje drugje ? 
+1389	- Do you think it 's any safer anywhere else ? 	–Misliš , da je kaj bolj varno kje drugje ? 
+1390	- You need to get away . 	–Moraš oditi od tu . 
+1391	- You need to get very far away from me . 	Moraš oditi zelo daleč proč od mene . 
+1392	- Alan , what 's happened ? 	–Alan , kaj se je zgodilo ? 
+1393	We can 't be engaged anymore . 	Ne moreva biti več zaročena . 
+1394	You ... your parents need to take you back and find you a husband elsewhere . 	Tvoji starši te morajo sprejeti nazaj in ti drugje poiskati moža . 
+1395	What 's wrong with you ? 	Kaj je narobe s tabo ? 
+1396	I have something to tell you . 	Moram ti nekaj povedati . 
+1397	I 'm ... 	Sem … 
+1398	I 'm a homosexual . 	Sem homoseksualec . 
+1399	All right . 	V redu . 
+1400	No , no . 	Ne , ne . 
+1401	Men , Joan ... 	Moški , Joan … ne ženske . 
+1402	- not women . 	Moški , Joan … ne ženske . 
+1403	- So what ? 	In kaj potem ? 
+1404	- Well , I just told you . 	Pravkar sem ti povedal . 
+1405	- So what ? 	In kaj potem ? 
+1406	I had my suspicions ; I always did . 	Sumila sem . Vedno sem sumila . 
+1407	But we 're not like other people . 	Toda midva nisva kot drugi ljudje . 
+1408	We love each other in our own way , and we can have the life together that we want . 	Imava se rada na najin način in imava lahko skupno življenje , kot ga želiva . 
+1409	You ... you won 't be the perfect husband . 	Ne boš idealen mož . 
+1410	Well , I can promise you , I have no intention of being the perfect wife . 	Lahko ti obljubim , nimam namena biti idealna žena . 
+1411	I' ll not be ... fixing your lamb all day while you come home from the office . 	Ne bom ti cel dan pripravljala jagnjetine , ko se boš vrnil domov iz službe . 
+1412	I' ll work . 	Delala bom . 
+1413	You 'll work . 	Ti boš delal . 
+1414	And we 'll have each other 's company . 	Imela bova družbo drug drugega . 
+1415	We 'll have each other 's minds . 	Imela bova um drug drugega . 
+1416	That sounds like a better marriage than most . 	To zveni boljši zakon od večine . 
+1417	Because I care for you . 	Ker mi je mar zate . 
+1418	And you care for me . 	In tebi je mar zame . 
+1419	And we understand one another more than ... more than anyone else ever has . 	In drug drugega razumeva bolj kot se je kdorkoli kdaj razumel . 
+1420	I don 't . 	Meni ni . 
+1421	- What ? 	–Mar zate . 
+1422	- Care for you . 	–Mar zate . 
+1423	I never did . 	Nikoli mi ni bilo . 
+1424	I just needed you to break Enigma . 	Samo potreboval sem te , da bi dešifriral Enigmo . 
+1425	I' ve done that now , so ... so you can go . 	To sem sedaj storil , torej lahko greš . 
+1426	I 'm not going anywhere . 	Nikamor ne bom odšla . 
+1427	I' ve spent entirely too much of my life worried about what you think of me , or what my parents think of me , or the boys in Hut 8 or the girls in Hut 3 . 	Preveč svojega življenja sem zapravila , da me je skrbelo , kaj si boš mislil o meni , ali kaj si bodo starši mislili o meni , ali fantje iz barake 8 , ali dekleta iz barake 3 . 
+1428	And do you know what ? 	In veš kaj ? 
+1429	I 'm done . 	Opravila sem . 
+1430	This is the most important work I will ever do , and no one is going to stop me . 	To je najpomembnejše delo , ki ga bom kadarkoli delala in nihče me ne bo ustavil . 
+1431	Least of all , you . 	Najmanj od vseh pa ti . 
+1432	You know what , they were right . 	Veš kaj , prav so imeli . 
+1433	Peter , Hugh , John . 	Peter , Hugh , John . 
+1434	You really are a monster . 	Resnično si pošast . 
+1435	The war dragged on for two more ... solitary years ... and every day we performed our blood- soaked calculus . 	Vojna se je vlekla še dve samotni leti . in vsak dan smo izvršili naše s krvjo prepojene izračune . 
+1436	Every day we decided who lived and who died . 	Vsak dan smo odločali , kdo bo živel in kdo umrl . 
+1437	Every day we ... helped the Allies to victories , and nobody knew . 	Vsak dan smo pomagali zaveznikom do zmag , in nihče ni vedel . 
+1438	Stalingrad . 	Stalingrad . 
+1439	The Ardenne . 	Stalingrad . 
+1440	The invasion of Normandy . 	Ardeni . Izkrcanje v Normandiji . 
+1441	All victories that would not have been possible without the intelligence that we supplied . 	Vse zmage , ki ne bi bile mogoče brez obveščevalnih podatkov , ki smo jih priskrbeli . 
+1442	And people ... talk about the war as this epic battle between ... civilizations ... freedom versus tyranny , democracy versus Nazism , armies of millions bleeding into the ground , fleets of ships weighing down the oceans , planes dropping bombs from the sky until they obliterated the sun itself ... the war wasn 't like that for us . 	In ljudje govorijo o vojni kot o epski bitki med civilizacijami . Svoboda proti tiraniji , demokracija proti nacizmu , vojske milijonov , krvavečih na zemljo , flote ladij , potopljenih na dnu oceana , letal , ki spuščajo bombe z neba dokler niso zabrisali samega sonca . 
+1443	For us , it was just ... half a dozen crossword enthusiasts in a tiny village in the South of England . 	Za nas , je bila samo pol ducata navdušencev za križanke v mali vasici na jugu Anglije . 
+1444	This is ... your victory . 	To je vaša zmaga . 
+1445	Victory ... of the cause of freedom in every land . 	Zmaga , ki je sprožila svobodo v vsaki državi . 
+1446	This is a solemn but glorious hour . 	To je slovesen , toda veličasten trenutek . Želim si , da bi Franklin D . 
+1447	I wish that Franklin D . 	To je slovesen , toda veličasten trenutek . Želim si , da bi Franklin D . 
+1448	Roosevelt had lived to see this day . 	Roosevelt živel , da bi videl ta dan . 
+1449	Was I God ? 	Sem bil bog ? Ne . 
+1450	No . 	Ker bog ni dobil vojne . 
+1451	Because ... 	Ker bog ni dobil vojne . 
+1452	God didn 't win the war . 	Ker bog ni dobil vojne . 
+1453	We did . 	Mi smo jo . 
+1454	So , what happens now ? 	Kako naprej ? 
+1455	Is it ... back to university for us , I suppose ? 	Predvidevam , da gremo nazaj na univerzo ? 
+1456	Yes , pretty much . 	Ja , v glavnem . 
+1457	But you 've one thing left to do before your service to your government in concluded . 	Toda preden bo vaša služba pri vladi končana , morate narediti še nekaj . 
+1458	- What 's that ? 	Kaj je to ? 
+1459	- Burn everything . 	Zažgite vse skupaj . 
+1460	- Burn ? 	Zakaj ? 
+1461	Why ? 	Zakaj ? 
+1462	- You were told when you started this was a top- secret program . 	Rečeno vam je bilo , da je to strogo zaupen program . 
+1463	Did you think we were joking ? 	Mislite , da smo se šalili ? 
+1464	- But the war is over . 	Toda vojna je končana . 
+1465	- This war is . 	–Ta vojna je končana . 
+1466	But there 'll be others . 	Toda prišle bodo druge . 
+1467	And we know how to break a code that everybody else believes is unbreakable . 	In vemo , kako dešifrirati kodo , za katero so vsi verjeli , da je nerešljiva . 
+1468	Precisely . 	Točno . 
+1469	Tear it down . 	Raztrgajte . 
+1470	Light it up . 	Zažgite . 
+1471	Sweep away the ashes . 	Pometite pepel . 
+1472	None of you have ever met before . 	Nikoli se niste srečali . 
+1473	None of you have ever even heard the word Enigma . 	Niste še slišali za besedo Enigma . 
+1474	Have a safe trip home . 	Srečno pot domov . 
+1475	Behave . 	Z malo sreče nas ne boste več videli . 
+1476	With a bit of luck , you 'll never have to see me or one another again for the rest of your lives . 	Z malo sreče nas ne boste več videli . 
+1477	That 's unbelievable . 	To je neverjetno . 
+1478	Now , Detective , you get to judge . 	Zdaj , detektiv , presodite . 
+1479	So , tell me ... what am I ? 	Povejte mi , kaj sem ? 
+1480	Am I ... a machine ? 	Sem stroj ? Sem človek ? 
+1481	Am I a person ? 	
+1482	Am I a war hero ? 	Sem vojni heroj ? 
+1483	Am I a criminal ? 	Sem kriminalec ? 
+1484	I can 't judge you . 	Ne morem vam soditi . 
+1485	Well , then ... 	Torej … mi niste v nobeno pomoč . 
+1486	you 're no help to me at all . 	Torej … mi niste v nobeno pomoč . 
+1487	Come in . 	Vstopite . 
+1488	You wanted to see me , sir ? 	Ste me želeli videti , gospod ? 
+1489	Turing . 	Turing . 
+1490	Sit down . 	Sedite . 
+1491	Something the matter ? 	Je kaj narobe ? 
+1492	You and Christopher Morcom are quite close . 	S Christopherjem Morcomom sta si bila precej blizu . 
+1493	I wouldn 't say that . 	Tega ne bi rekel . 
+1494	Well , your mathematics teacher says the two of you are positively inseparable . 	Vaš učitelj matematike pravi , da sta bila nerazdružljiva . 
+1495	We 're the best students in the class . 	Sva najboljša učenca v razredu . 
+1496	He caught you passing notes the other day . 	Nekega dne vaju je ujel , ko sta si izmenjavala pisemca . 
+1497	Cryptography , to pass the time . 	Kriptografija , da se ne bi dolgočasila . 
+1498	The class is too simple . 	Snov je preveč enostavna . 
+1499	You and your friend solve maths problems during maths class because the maths class is too dull ? 	S prijateljem rešujeta matematične probleme med poukom matematike , ker je pouk matematike tako dolgočasen ? 
+1500	He 's not my friend . 	Pravzaprav ni moj prijatelj . 
+1501	- Well , I 'm told he 's your only friend . 	Povedali so mi , da je tvoj edini prijatelj . 
+1502	- Who said that ? 	Kdo je to rekel ? 
+1503	Something 's come up concerning Morcom . 	Morcomu se je nekaj zgodilo . 
+1504	Why am I here ? 	Zakaj sem tu ? 
+1505	Christopher is dead . 	Christopher je mrtev . 
+1506	I don 't understand . 	Ne razumem . 
+1507	His mother sent word this morning . 	Njegova mama je zjutraj sporočila . 
+1508	The family were on holiday , you see . 	Z družino so bili na počitnicah . 
+1509	I don 't understand . 	Ne razumem . 
+1510	Well , he had bovine tuberculosis , as I 'm sure he told you . 	Imel je tuberkulozo . Prepričan sem , da ti je povedal . 
+1511	So , this won 't come as a shock , but ... still , all the same , 	Tako da to ne bo prevelik šok , toda vseeno , moje sožalje . 
+1512	I 'm sorry . 	Tako da to ne bo prevelik šok , toda vseeno , moje sožalje . 
+1513	You 're mistaken . 	Motite se . 
+1514	Did he not tell you ? 	Ti ni povedal ? Že dlje časa je bil bolan . 
+1515	Well , he 's been sick for a long time . 	Ti ni povedal ? Že dlje časa je bil bolan . 
+1516	He knew this was coming soon . 	Vedel je , da se bo kmalu zgodilo . 
+1517	But he had a stiff upper lip about it . 	Toda bil je trden . 
+1518	Good lad . 	Dober fant . 
+1519	- Are you all right , Turing ? 	Ste v redu , Turing ? –Ja . 
+1520	- Yes . 	Seveda . 
+1521	Of course . 	Seveda . 
+1522	Like I said , I didn 't know him very well . 	Kot sem rekel , nisem ga zelo dobro poznal . 
+1523	I see . 	Razumem . 
+1524	Very well . 	V redu . 
+1525	May I leave , Headmaster ? 	Lahko grem , ravnatelj ? 
+1526	Congratulations , sir . 	Čestitam , gospod . 
+1527	Sorry . 	Oprosti . 
+1528	I would have come . 	Prišla bi . Pričala bi . 
+1529	I would have testified . 	In kaj bi povedala ? 
+1530	And what would you have said , that I ... 	Da nisem homoseksualec ? 
+1531	I wasn 't a homosexual . 	Da nisem homoseksualec ? 
+1532	Alan ... this is serious . 	Alan , to je resno . 
+1533	They could send you to jail . 	Lahko te pošljejo v zapor . 
+1534	Damn it . 	Prekleto . 
+1535	- Your hands . 	Tvoje roke . 
+1536	You 're twitching . 	Treseš se . 
+1537	- No , I 'm not . 	–Ne . 
+1538	Alan . 	Alan . 
+1539	It 's the medication . 	To je zaradi zdravil . 
+1540	The medication ? 	Zdravil ? 
+1541	Well , the judge gave me a choice ... either two years in prison or hormonal therapy . 	Sodnik mi je dal na izbiro ; ali dve leti zapora ali hormonsko terapijo . 
+1542	Oh , my God . 	Mojbog . 
+1543	Oh , my God . 	Mojbog . 
+1544	Yes , yes , that 's right . 	Ja , ja , tako je . 
+1545	Chemical castration . 	Kemična kastracija , da me ozdravi mojega homoseksualnega nagnjenja . 
+1546	To ... to cure me of my homosexual predilections . 	Kemična kastracija , da me ozdravi mojega homoseksualnega nagnjenja . 
+1547	Well , of course I chose that . 	Seveda sem izbral to . 
+1548	I mean , I ... couldn 't ... work in prison , and ... 	Mislim , ne bi mogel delati v zaporu . 
+1549	All right . 	V redu . 
+1550	Now , I 'm going to speak to your doctors . 	Govorila bom s tvojim zdravnikom . 
+1551	I 'm going to speak to your lawyers . 	Govorila bom s tvojim odvetnikom . 
+1552	I 'm fine . 	–V redu sem . 
+1553	- Please let me help you . 	Prosim , naj ti pomagam . 
+1554	- No , I don 't need your help , thank you . 	–Ne , ne potrebujem tvoje pomoči , hvala . 
+1555	Alan , you do not have to do this alone . 	Alan , ni ti treba samemu skozi to . 
+1556	I 'm not alone . 	Nisem sam . 
+1557	Never have been . 	Nikoli nisem bil . 
+1558	Christopher 's become so smart . 	Christopher je postal tako pameten . 
+1559	If I don 't continue my treatment , then they 'll ... they 'll take him away from me . 	Če ne bom nadaljeval z zdravljenjem , mi ga bodo vzeli . 
+1560	You ... 	
+1561	You can 't let them do that . 	Ne smeš jim dovoliti tega . 
+1562	You can 't . 	Ne smeš . 
+1563	You ... you can 't let them leave me alone . 	Ne smeš jim pustiti , da ostanem sam . 
+1564	I don 't ... 	Ne želim biti sam . 
+1565	I don 't want to be alone . 	Ne želim biti sam . 
+1566	I don 't want to be alone . 	Ne želim biti sam . 
+1567	All ri ... all right , all right . 	V redu je , v redu . 
+1568	All right . 	V redu . 
+1569	It 's all right . 	V redu je . 
+1570	Come and sit down . 	Pridi in sedi . 
+1571	It 's all right . 	V redu je . 
+1572	Come and sit down . 	Pridi in sedi . 
+1573	It 's all right . 	V redu je . 
+1574	Oh , well , that 's a ... that 's a much nicer ring than the one I made you . 	To je precej lepši prstan , kot tisti , ki sem ti ga naredil . 
+1575	Yes . 	Ja . 
+1576	His name 's Jock . 	Ime mu je Jock . 
+1577	He 's an Army man , if you can believe it . 	Je vojak , če lahko verjameš . 
+1578	We work together . 	Skupaj delava . 
+1579	Why don 't we do a crossword puzzle . 	Zakaj ne bi rešila križanke . 
+1580	It 'll only take us five minutes . 	Vzelo nama bo samo pet minut . 
+1581	Or , in your case , six . 	Ali v tvojem primeru , šest . 
+1582	There . 	Tako . 
+1583	Perhaps later . 	Mogoče kasneje . 
+1584	Yes , of course . 	Ja , seveda . 
+1585	You got what you wanted , didn 't you ? 	Dobila si , kar si hotela , mar ne ? 
+1586	Work , a husband . 	Delo , moža . 
+1587	Normal life . 	Normalno življenje . 
+1588	No one normal could have done that . 	Nihče normalen ne bi mogel narediti tega . 
+1589	Do you know , this morning ... 	Veš , danes zjutraj sem bila na vlaku , ki je peljal skozi mesto , ki ne bi obstajalo , če ne bi bilo tebe . 
+1590	I was on a train that went through a city that wouldn 't exist if it wasn 't for you . 	Veš , danes zjutraj sem bila na vlaku , ki je peljal skozi mesto , ki ne bi obstajalo , če ne bi bilo tebe . 
+1591	I bought a ticket from a man who would likely be dead if it wasn 't for you . 	Kupila sem vozovnico od človeka , ki bi bil po vsej verjetnosti mrtev , če ne bi bilo tebe . 
+1592	I read up on my work ... a whole field of scientific inquiry that only exists because of you . 	V službi sem prebrala celo področje znanstvenega raziskovanja , ki obstaja samo zaradi tebe . 
+1593	Now , if you wish you could have been normal ... 	Če si želiš , da bi bil normalen , 
+1594	I can promise you I do not . 	lahko prisežem , da si jaz ne želim . 
+1595	The world is an infinitely better place precisely because you weren 't . 	Svet je neizmerno boljši ravno zato , ker nisi normalen . 
+1596	Do you ... do you really think that ? 	Res tako misliš ? 
+1597	I think ... that sometimes it is the people who no one imagines anything of who do the things that no one can imagine . 	Mislim , da včasih ljudje , za katere si nihče ne bi predstavljal , naredijo stvari , ki so nepredstavljive . 

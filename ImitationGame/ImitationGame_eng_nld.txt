@@ -1,0 +1,1597 @@
+1	Are you paying attention ? 	Let u even op ? 
+2	Good . 	Mooi . 
+3	If you 're not listening carefully , you will miss things , important things . 	Als u niet goed luistert , dan ontgaan u dingen . Belangrijke dingen . 
+4	I will not pause . 	Ik pauzeer niet , ik herhaal me niet , en u onderbreekt me niet . 
+5	I will not repeat myself , and you will not interrupt me . 	Ik pauzeer niet , ik herhaal me niet , en u onderbreekt me niet . 
+6	You think that because you are sitting where you are and I am sitting where I am that you are in control of what is about to happen . 	U denkt dat , omdat u daar zit en ik hier ... ... u de controle heeft over wat er staat te gebeuren . 
+7	You 're mistaken . 	U denkt dat , omdat u daar zit en ik hier ... ... u de controle heeft over wat er staat te gebeuren . 
+8	I am in control . 	U vergist zich . Ik heb de controle . 
+9	Because I know things that you do not know . 	Want ik weet dingen die u niet weet . 
+10	Manchester Police Department , please hold . 	Manchester , politie . 
+11	Windows broken . 	Ruit ingeslagen , huis geplunderd . 
+12	Home 's been ransacked . 	Ruit ingeslagen , huis geplunderd . 
+13	Send a detective down , will you ? 	Stuur ´n rechercheur . 
+14	What I will need from you now is a commitment . 	GEHEIME DIENST MI6 Wat ik nu nodig heb , is uw betrokkenheid . 
+15	You will listen closely , and you will not judge me until I am finished . 	U luistert goed en oordeelt pas over mij als ik uitgesproken ben . 
+16	If you cannot commit to this , then please leave the room . 	Als u dat niet kunt , gaat u dan weg . 
+17	Come in . 	Binnen . 
+18	But if you choose to stay , remember you chose to be here . 	Als u wilt blijven , onthoud dan dat u dat wilde . 
+19	What happens from this moment forwards is not my responsibility . 	Nu is ´t mijn verantwoordelijkheid niet meer , maar de uwe . 
+20	It 's yours . 	Nu is ´t mijn verantwoordelijkheid niet meer , maar de uwe . 
+21	Pay attention . 	Let even op . 
+22	- What 's all this , then ? 	Wat is dit nou ? 
+23	- Turing , Alan . 	- Turing , Alan . 
+24	Professor at King 's . 	Hoogleraar aan het King 's . 
+25	- Seems there 's been a burglary . 	Er is ingebroken . 
+26	- Oh ? 	- Wat is er weg ? 
+27	What of ? 	- Wat is er weg ? 
+28	Well , that 's just it . 	Dat is het gekke . 
+29	Nothing missing , really . 	Dat is het gekke . 
+30	What 's he doing in Manchester ? 	Er is niks weg . Wat doet hij in Manchester ? 
+31	Something with machines . 	Iets met machines . 
+32	The project at the NPL . 	Een project van de NPL . 
+33	I checked , but he won 't say what it 's on . 	Hij wil niet zeggen wat dit inhoudt . 
+34	Professor Turing ? 	Professor Turing ? 
+35	Detective Nock , Manchester Police . 	Rechercheur Nock , politie Manchester . 
+36	Sergeant Staehl here tells me you had a burglary last night . 	Hoofdagent Staehl zegt dat er ingebroken is . 
+37	Professor Turing ? 	Professor ? 
+38	Take a step back , and don 't breath heavily . 	Stap achteruit . Houd uw adem in . 
+39	- Breathe ? 	Adem ? 
+40	- Undiluted cyanide . 	- Dit is pure cyanide . 
+41	It wouldn 't take more than a thimbleful to kill you . 	Een snufje is genoeg om je te doden . 
+42	- Disappointing . 	Teleurstellend . 
+43	- Pardon ? 	- Pardon ? 
+44	I had hoped for a bit more . 	Ik had op iets meer gehoopt . 
+45	Sergeant Staehl , is it just me , or do you get the sense that we 're being insulted ? 	Denk jij ook dat we beledigd worden ? 
+46	Last night , you had a break- in . 	Er is bij u ingebroken . 
+47	Your neighbor , Mr . 	Uw buurman belde . 
+48	Springborn , called to report the noise . 	Hij zei dat ´t erg luidruchtig was . 
+49	He said there was quite a ruckus . 	Hij zei dat ´t erg luidruchtig was . 
+50	Only you say nothing was taken . 	U zegt dat er niks weg is . 
+51	It 's odd . 	U zegt dat er niks weg is . 
+52	So , how about you tell us what happened , and we 'll find the chap who did this . 	Vreemd . Wat is dit ? We zullen de dader pakken . 
+53	Gentlemen , I don 't believe that you could find the chap that did this if he walked up to you and spat in your face . 	Heren , ik denk niet dat u de dader kunt vinden ... ... al spuwde hij in uw gezicht . 
+54	What I could us right now is not a bobby , but a really good cleaning lady . 	Ik heb nu behoefte aan ´n heel goede schoonmaakster . 
+55	So , unless one of you has an apron in your car , 	Als u geen schort bij u heeft ... ... maak dan uw verslag op , en laat me met rust . 
+56	I suggest you file your reports and leave me alone . 	Als u geen schort bij u heeft ... ... maak dan uw verslag op , en laat me met rust . 
+57	As you say , Professor Turing . 	Zoals u wilt , professor . 
+58	Best of luck with your cyanide . 	Succes met uw cyanide . 
+59	I' ll give you a quid if you can name me a more insufferable sod . 	Wat ´n onuitstaanbare vent . 
+60	- Seemed a bit forced , though , didn 't it ? 	Een beetje geforceerd . 
+61	- Don 't know what you mean . 	- Hoe bedoel je ? 
+62	Well , if you didn 't want a pair of bobbies digging around in your personal affairs , that 'd have been a stellar way to make sure they don 't . 	Als je niet wilt dat politie je huis doorzoekt , moet je ´t zo aanpakken . 
+63	Tell me you don 't think this is suspicious . 	Vind je dat verdacht ? 
+64	I don 't think this is suspicious . 	- Nee , hoor . 
+65	A mysterious professor who won 't admit he 's had something stolen from his house ? 	Een geheimzinnige hoogleraar die zegt dat er niks weg is ... 
+66	I think Alan Turing 's hiding something . 	Ik denk dat Alan Turing iets verbergt . 
+67	War declared ! 	Het is oorlog . 
+68	800, 000 children evacuated ! 	800 . 000 kinderen geëvacueerd . 
+69	German bombs on their way ! 	Duitse bommen komen eraan . 
+70	Get your papers here ! 	Hier kranten , vers van de pers . 
+71	Fresh off the press ! 	Hier kranten , vers van de pers . 
+72	War declared ! 	1939 LONDEN 
+73	800, 000 children evacuated ! 	1939 LONDEN 
+74	German bombs expected soon ! 	
+75	This morning , the British Ambassador in Berlin handed the German government a final note stating that unless we heard from them , by 11 : 00 , a state of war would exist between us . 	De Britse ambassadeur overhandigde in Berlijn de Duitse regering ... ... de finale aanzegging . We moeten iets vernemen van hen , vóór elf uur ... ... anders zijn we in staat van oorlog . 
+76	I have to tell you now that no such undertaking has been received . 	Ik moet u nu mededelen , dat wij niets hebben vernomen . 
+77	And that , consequently , this country is at war with Germany . 	Dat houdt dus in dat dit land in oorlog is met Duitsland . 
+78	For the second time in the lives of most of us , we are ... at war . 	Voor de tweede keer in het leven van velen onder ons ... ... zijn we ... ... in oorlog . 
+79	To find a peaceful way out ... 	
+80	Papers , please . 	Papieren , alstublieft . 
+81	What are you doing here ? 	Wat doet u hier ? 
+82	- Oh , the lady told me to wait . 	Die dame zei dat ik moest wachten . 
+83	- In my office ? 	Die dame zei dat ik moest wachten . 
+84	She tell you to help yourself to tea while you were here ? 	- In mijn kantoor ? En dat u maar thee moest nemen ? 
+85	No , she didn 't . 	- Nee , dat zei ze niet . 
+86	She obviously didn 't tell you what a joke was , then , either , I gather . 	Dus ze zei ook niet wat ´n grap is . 
+87	Was she supposed to ? 	Had ze dat dan moeten zeggen ? 
+88	- Who are you ? 	Had ze dat dan moeten zeggen ? 
+89	- Alan Turing . 	- Alan Turing . 
+90	Turing . 	Turing , een wiskundige ... 
+91	The mathematician . 	Turing , een wiskundige ... 
+92	- Correct . 	- Dat klopt . 
+93	- However could I have guessed ? 	Hoe kon ik dat raden ? 
+94	Well , you didn 't . 	Hoe kon ik dat raden ? 
+95	You just read it on that piece of paper . 	- Dat las u daar . 
+96	King 's College , Cambridge . 	King 's College , Cambridge . 
+97	Now , it says here you were a bit of a prodigy in the maths department . 	U was ´n soort wonderkind . 
+98	I 'm not sure I can evaluate that , Mr .... 	Dat kan ik niet beoordelen , Mr ... 
+99	- How old are you , Mr . 	Hoe oud bent u ? 
+100	Turing ? 	Hoe oud bent u ? 
+101	- 27 . 	- 27 . 
+102	And how old were you when you became a Fellow at Cambridge ? 	Hoe oud was u toen u hoogleraar werd ? 
+103	- 24 . 	Hoe oud was u toen u hoogleraar werd ? 
+104	- And how old were you ... when you published this paper that has a title I can barely understand ? 	- 24 . En hoe oud toen u de paper schreef met deze onbegrijpelijke titel ? 
+105	23 . 	23 . 
+106	And you don 't think that qualifies you as a certified prodigy ? 	Bent u dan geen wonderkind ? 
+107	Well , Newton discovered binomial theorem aged 22 . 	- Newton had z 'n theorie op z 'n 22ste . 
+108	Einstein wrote four papers that changed the world by the age of 26 . 	Einstein veranderde alles op z 'n 26ste . 
+109	As far as I can tell , I' ve ... 	Dus wat mij betreft ben ik nauwelijks op niveau . 
+110	I' ve barely made par . 	Dus wat mij betreft ben ik nauwelijks op niveau . 
+111	- My God , you 're serious . 	U bent erg serieus . 
+112	- Would you prefer I made a joke ? 	- Wilt u ´n grap ? 
+113	Oh , I don 't think you know what those are . 	U weet niet wat grappen zijn . 
+114	Hardly seems fair that that 's a requirement for employment here , Mr ... 	- Dat is toch geen vereiste , Mr ... 
+115	Commander Denniston , Royal Navy . 	Overste Denniston , Marine . 
+116	All right , Mr . 	Overste Denniston , Marine . 
+117	Turing , I' ll bite . 	Mr Turing , waarom wilt u werken voor de overheid ? 
+118	Why do you wish to work for His Majesty 's government ? 	Mr Turing , waarom wilt u werken voor de overheid ? 
+119	Oh , I don 't , really . 	Dat wil ik niet echt . 
+120	Are you a bleeding pacifist ? 	Bent u zo 'n verdraaide pacifist ? 
+121	I 'm ... agnostic about violence . 	- Ik ben agnost qua geweld . 
+122	Well , you do realize that 600 miles away from London there 's this nasty little chap called Hitler who wants to engulf Europe in tyranny ? 	Weet u dat duizend kilometer van Londen die akelige Hitler ... ... Europa wil overheersen ? 
+123	Politics isn 't really my area of expertise . 	- Van politiek weet ik niks . 
+124	Really ? 	Echt ? 
+125	Well , I believe you 've just set the record for the shortest job interview in British military history . 	Dit is het kortste sollicitatiegesprek aller tijden bij de Britse defensie . 
+126	Mother says I can be off- putting sometimes on account of being one of the best mathematicians in the world . 	Mam zegt dat ik een van de beste wiskundigen ter wereld ben . 
+127	- In the world ? 	Ter wereld ? 
+128	- Oh , yes . 	
+129	Do you know how many people I' ve rejected for this program ? 	Weet u hoeveel mensen ik hier heb afgewezen ? 
+130	No . 	Weet u hoeveel mensen ik hier heb afgewezen ? 
+131	Well , that 's right , because we 're a top- secret program . 	Klopt , want dit is geheim . 
+132	But I' ll tell you , just because we 're friends , that only last week , I rejected one of our great nation 's top linguists . 	Ik vertel ´t u als vriend . Vorige week wees ik nog een van onze beste linguïsten af . 
+133	Knows German better than Bertolt Brecht . 	Hij spreekt beter Duits dan Brecht . 
+134	- I don 't speak German . 	- Ik spreek geen Duits . 
+135	- What ? 	- Ik spreek geen Duits . 
+136	I don 't ... speak German . 	Ik spreek geen Duits . 
+137	Well , how the hell were you supposed to decrypt German communications if you don 't ... 	Hoe kun je dan in vredesnaam Duitse communicatie decoderen ? 
+138	I don 't know , speak German ? 	Hoe kun je dan in vredesnaam Duitse communicatie decoderen ? 
+139	Well , I 'm really quite excellent at crossword puzzles . 	Ik ben goed in kruiswoordpuzzels . 
+140	Margaret ! 	Ik ben goed in kruiswoordpuzzels . 
+141	The German codes are a puzzle . 	Duitse codes zijn ´n spel zoals andere spelen . 
+142	A game , just like any other game . 	Duitse codes zijn ´n spel zoals andere spelen . 
+143	- Margaret , where are you ? 	Ik ben goed in spelen en puzzels . 
+144	- I 'm really very good at games . 	Ik ben goed in spelen en puzzels . 
+145	Puzzles . 	Ik ben goed in spelen en puzzels . 
+146	And this is the most difficult puzzle in the world . 	Dit is het moeilijkste spel ... 
+147	Margaret ! 	
+148	For the love of God . 	Goeie genade ... 
+149	This is a joke , obviously . 	Dit is ´n grap , kennelijk . 
+150	I 'm afraid I don 't know what those are , Commander Denniston . 	- Ik weet niet wat dat is ... ... overste Denniston . 
+151	Have a pleasant trip back to Cambridge , Professor . 	Goede reis terug , professor . 
+152	Enigma . 	- Enigma . 
+153	You called for me ? 	Had u geroepen ? 
+154	That 's what you 're doing here . 	Dat probeert u in het geheim te doen , in Bletchley : 
+155	The top- secret program at Bletchley . 	Dat probeert u in het geheim te doen , in Bletchley : 
+156	You 're trying to break the German Enigma machine . 	Het decoderen van de Duitse Enigma- machine . 
+157	What makes you think that ? 	Hoe komt u daar bij ? 
+158	It 's the greatest encryption device in history , and the Germans use it for all major communications . 	De beste codeermachine voor belangrijke communicatie . 
+159	If the Allies broke Enigma , well ... this would turn into a very short war , indeed . 	Als de Geallieerden Enigma kunnen breken , nou ... Dan wordt ´t wel ´n erg korte oorlog . 
+160	Of course that 's what you 're working on . 	Natuurlijk werkt u daar aan . 
+161	But you also haven 't got anywhere with it . 	Anders haalt u geen codeurs van de universiteit . 
+162	If you had , you wouldn 't be hiring cryptographers out of university . 	Anders haalt u geen codeurs van de universiteit . 
+163	You need me a lot more than I need you . 	U heeft mij meer nodig dan andersom . 
+164	I like solving problems , Commander . 	Ik los graag problemen op , overste . 
+165	And Enigma is the most difficult problem in the world . 	Enigma is het allergrootste probleem . 
+166	No , Enigma isn 't difficult ; it 's impossible . 	Enigma is onmogelijk . 
+167	The Americans , the Russians , the French , the Germans , everyone thinks Enigma is unbreakable . 	Amerikanen , Russen , Fransen ... ... en Duitsers denken dat Enigma niet te breken is . 
+168	Good . 	Mooi . 
+169	Let me try , and we 'll know for sure , won 't we ? 	Laat mij het ´s proberen . Dan weten we het , hè ? 
+170	Welcome to Enigma . 	Welkom bij Enigma . 
+171	The details of every surprise attack , every secret convoy and every U- boat in the bloody Atlantic go into that thing . 	Details over verrassingsaanvallen ... ... geheime konvooien ... ... en onderzeeërs in de Atlantische Oceaan gaan hier in ... ... en er komt wartaal uit . 
+172	And out comes gibberish . 	Details over verrassingsaanvallen ... ... geheime konvooien ... ... en onderzeeërs in de Atlantische Oceaan gaan hier in ... ... en er komt wartaal uit . 
+173	It 's beautiful . 	Prachtig . 
+174	It 's the crooked hand of death itself . 	De gekromde hand van de dood zelf . 
+175	Our Wrens intercept thousands of radio messages a day , and to the lovely young ladies of the Women 's Royal Navy , they 're nonsense . 	Onze dames onderscheppen talloze boodschappen per dag . Maar voor die lieve meiden van de marine zijn ze onzin . 
+176	It 's only when you feed them back into Enigma that they make any sense . 	Gooi ze door Enigma en je begrijpt ze . 
+177	But we have an Enigma machine . 	We hebben zo 'n machine . 
+178	Yes , Polish Intelligence smuggled it out of Berlin . 	- Door Polen gesmokkeld uit Berlijn . 
+179	So , what 's the problem ? 	Gooi de berichten door Enigma en ... 
+180	Just put the intercepted messages 	Gooi de berichten door Enigma en ... 
+181	- back into the Enigma and you 'll ... 	Gooi de berichten door Enigma en ... 
+182	- Look , it 's not that simple , is it ? 	Zo simpel is ´t niet . Toch ? 
+183	Just having an Enigma machine doesn 't help you to decode the messages . 	Als je zo 'n ding hebt , decodeer je nog geen berichten . 
+184	Very good , Mr . 	Juist , Mr Turing . 
+185	Turing . 	Juist , Mr Turing . 
+186	To decode a message , you need to know the machine 's settings . 	Daarvoor moet je de instellingen ervan kennen . 
+187	Now , the Germans switch settings every day promptly at midnight . 	De Duitsers wijzigen die precies om middernacht . 
+188	We usually intercept our first message around 6 : 00 a . m . , which gives you exactly 18 hours every day to crack the code before it changes , and you start again . 	We hebben hun eerste bericht om zes uur ´s morgens . Dus je hebt precies achttien uur om de code te kraken . Dan kun je opnieuw beginnen . 
+189	Five rotors . 	Vijf rotors en tien schakelbordkabels . 
+190	Ten plugboard cables . 	Vijf rotors en tien schakelbordkabels . 
+191	That 's ... 	Vijf rotors en tien schakelbordkabels . 
+192	- One million ... 	Een miljoen ... 
+193	- A thousand million ... 	Een miljoen ... 
+194	No , no , it 's , I' ve got it . 	- Een miljard . 
+195	- It 's million , million . 	Een miljoen maal ´n miljoen . 
+196	- It 's in the millions , obviously . 	Een miljoen maal ´n miljoen . 
+197	It 's over 150 million million million possible settings . 	150 miljoen maal miljoen maal miljoen . 
+198	Very good . 	- Heel goed . 
+199	159 . 	159 , om precies te zijn . 
+200	If you want to be exact about it . 	159 , om precies te zijn . 
+201	1- 5- 9 with 18 zeroes behind it . 	159 met achttien nullen erachter . 
+202	Possibilities . 	Dat zijn de mogelijkheden . 
+203	Every single day . 	Elke dag weer . 
+204	Gentlemen , meet Hugh Alexander . 	- Heren , dit is Hugh Alexander . 
+205	I personally selected him to run this unit . 	Ik heb ´m zelf geworven als leider van de unit . 
+206	Didn 't you ... 	Ik heb ´m zelf geworven als leider van de unit . 
+207	Mr . 	Mr Alexander is Brits schaakkampioen . 
+208	Alexander won Britain 's national chess championship . 	Mr Alexander is Brits schaakkampioen . 
+209	Twice . 	Mr Alexander is Brits schaakkampioen . 
+210	You 're not the only one who 's good at games around here , Turing . 	Twee keer . - Er zijn meer spelletjeskampioenen . 
+211	Are we to work together , then ? 	Moeten we samenwerken ? 
+212	I prefer to have my own office . 	Ik wil ´n eigen kantoor . 
+213	You 're a team , and you will work as one . 	- U werkt als ´n team . 
+214	I don 't have time to explain myself as I go along , and ... 	Ik heb geen tijd voor uitleg als ik bezig ben . 
+215	I 'm afraid these men would only slow me down . 	Deze mannen houden mij maar op . 
+216	If you can 't play together , then I 'm afraid we can 't let you play at all . 	Als u niet samenwerkt , werkt u niet . 
+217	This is Stewart Menzies , MI6 . 	Stewart Menzies van MI6 . 
+218	There are only five divisions of military intelligence . 	- Er zijn vijf afdelingen MI . 
+219	There is no MI6 . 	MI6 bestaat niet . 
+220	Exactly . 	- Ja , dat is de goede instelling . 
+221	That 's the spirit . 	- Ja , dat is de goede instelling . 
+222	Mr . 	Hoeveel Britten zijn er gesneuveld vanwege Enigma ? 
+223	Turing , do you know how many British servicemen have died because of Enigma ? 	Hoeveel Britten zijn er gesneuveld vanwege Enigma ? 
+224	- No , I don 't . 	Dat weet ik niet . 
+225	- Three ... while we 've been having this conversation . 	In de loop van dit gesprek . 
+226	Oh , look , there 's another . 	En nu weer eentje . 
+227	I rather hope he didn 't have a family . 	Hopelijk had hij geen gezin . 
+228	This war Commander Denniston 's been going on about , we 're not winning it . 	Die oorlog van overste Denniston zijn we nu niet aan ´t winnen . 
+229	Break the code , at least we have a chance . 	Als we de code breken , hebben we wel ´n kans . 
+230	Shall we leave the children alone with their new toy ? 	Laten we de kinderen alleen met hun nieuwe speeltje ? 
+231	All right , gentlemen ... 	Goed , heren . 
+232	Let 's play . 	Spelen maar . 
+233	The game was quite a simple one . 	Het spel was eigenlijk simpel . 
+234	Every single German message , every surprise attack , every bombing run , every imminent U- boat assault ... 	Duitse berichten over aanvallen en bombardementen ... ... en over dreigende onderzeeërs ... 
+235	They were all floating through the air . 	... ze zweefden allemaal door de lucht . 
+236	Radio signals that ... well , any schoolboy with an AM kit could intercept . 	Radiosignalen die ... ... die elk jochie met ´n ontvanger kon oppikken . 
+237	The trick was that they were encrypted . 	Het slimme was : ze waren gecodeerd . 
+238	There were 159 million million million possible Enigma settings . 	Er waren 159 miljoen maal ´n miljoen maal ´n miljoen aan instellingen . 
+239	All we had to do was try each one . 	We hoefden ze alleen maar allemaal uit te proberen . 
+240	But if we had ten men checking one setting a minute for 24 hours every day and seven days every week , how many days do you think it would take to ... to check each of the settings ? 	Als tien mensen één instelling per minuut checkten ... ... en dat 24 uur per dag , zeven dagen per week ... ... hoeveel dagen zou ´t dan kosten om alle instellingen na te lopen ? 
+241	Well , it 's not days , it 's years . 	Dat kost geen dagen , maar jaren . 
+242	- Good morning . 	Twintig miljoen jaar . 
+243	- It 's 20 million years . 	Twintig miljoen jaar . 
+244	- To stop a coming attack ... 	Vóór ´n aanval moesten we twintig miljoen jaar instellingen nalopen ... ... binnen twintig minuten . 
+245	- Thank you . ... we would have to check 20 million years´ worth of settings in 20 minutes . 	Vóór ´n aanval moesten we twintig miljoen jaar instellingen nalopen ... ... binnen twintig minuten . 
+246	I 'm famished . 	Ik verga van de honger . 
+247	Lunch ? 	Lunch ? 
+248	Good Lord . 	God , wat hebben vrouwen met hoedjes ? 
+249	What is it about women with little hats ? 	God , wat hebben vrouwen met hoedjes ? 
+250	The boys , we 're going to get some lunch . 	De jongens ... We gaan lunchen . 
+251	- Alan ? 	
+252	- Yes ? 	
+253	I said we 're going to get some lunch . 	Ik zei dat we gaan lunchen . 
+254	- Alan ? 	
+255	- Yes ? 	Hoor je me ? 
+256	- Can you hear me ? 	Hoor je me ? 
+257	- Yes . 	Ik zei dat we ... 
+258	I said we 're off to get some lu ... 	Ik zei dat we ... 
+259	This is starting to get a little bit repetitive . 	Ik herhaal mezelf . 
+260	What is ? 	Wat ? 
+261	I had asked if you wanted to come to lunch with us . 	- Kom je mee lunchen ? 
+262	No , you didn 't . 	Zei je niet dat je lunch ging halen ? 
+263	You said you were going to get some lunch . 	Zei je niet dat je lunch ging halen ? 
+264	- Have I offended you in some way ? 	Heb ik je beledigd ? 
+265	- Why would you think that ? 	- Waarom denk je dat ? 
+266	- Would you like to come to lunch with us ? 	Kom je mee lunchen ? 
+267	- What time 's lunchtime ? 	- Hoe laat ? 
+268	Christ , Alan , it 's a bleeding sandwich . 	Het is maar ´n sandwich . 
+269	- What is ? 	- Wat ? Lunch . 
+270	- Lunch . 	- Ik hou niet van sandwiches . 
+271	- Oh , I don 't like sandwiches . 	- Ik hou niet van sandwiches . 
+272	- Never mind . 	Laat maar . 
+273	You know , to pull off this irascible genius routine , one actually has to be a genius , Alan . 	Als je je als genie wilt voordoen , zul je wel ´n genie moeten zijn . 
+274	And yet we 're the ones making progress here , aren 't we ? 	Maar wij gaan vooruit . 
+275	Oh , you are ? 	- Is dat zo ? 
+276	Yes , we are . 	Jazeker . 
+277	We have decrypted a number of German messages by analyzing the frequency of letter distribution . 	Wij hebben boodschappen ontcijferd met letterfrequentieanalyse . 
+278	Oh , even a broken clock is right twice a day . 	Een kapotte klok staat twee keer per dag gelijk . 
+279	That 's not progress ; that 's just blind luck . 	Een kapotte klok staat twee keer per dag gelijk . 
+280	I 'm designing a machine that will allow us to break every message every day instantly . 	Ik ontwerp ´n machine waarmee we elk bericht decoderen , elke dag ... ... ogenblikkelijk . 
+281	Who 's hungry ? 	Wie heeft er trek ? 
+282	Let 's go . 	We gaan . 
+283	I 'm hungry . 	Ik heb trek . 
+284	What ? 	Wat ? 
+285	Peter asked who was hungry . 	- Peter vroeg wie er trek had . 
+286	Can I have some soup , please ? 	Ik wil wel wat soep . 
+287	What do you mean , " classified " ? 	Wat bedoel je met ´geheim ' ? 
+288	No , I 'm aware of the literal meaning of the word classified . 	Ik weet wel wat ´t betekent ... ... maar waarom is het militaire dossier van ´n hoogleraar geheim ? 
+289	What I 'm asking is why would a maths professor have his military records classified ? 	Ik weet wel wat ´t betekent ... ... maar waarom is het militaire dossier van ´n hoogleraar geheim ? 
+290	Yeah , well , I will come down . 	Dan kom ik wel langs . 
+291	Sorry , can I get you to hold for a minute , please ? 	
+292	Pardon me , I 'd like to see some documents , if I may . 	Ik wil enkele documenten inzien . 
+293	Service records of a Mr . 	Dienstrapporten van Mr Turing , Alan . 
+294	Turing . 	Dienstrapporten van Mr Turing , Alan . 
+295	Alan . 	Dienstrapporten van Mr Turing , Alan . 
+296	Foreign Office sent me . 	Opdracht van Buitenlandse Zaken . 
+297	This is unacceptable . 	Dit is onaanvaardbaar . 
+298	If you wish to discuss the complaint , I suggest you make a proper appointment . 	Als je ´n klacht wilt indienen , maak dan ´n afspraak . 
+299	Alexan ... 	Als je ´n klacht wilt indienen , maak dan ´n afspraak . 
+300	Complaint ? 	Klacht ? 
+301	No , no , Hugh Alexander has denied my requisition for parts and equipment that I need to build the machine I' ve designed . 	Alexander wijst m 'n aanvraag af voor onderdelen van mijn machine . 
+302	Your fellow code- breakers are refusing to work with you , and they filed a formal complaint . 	Jouw collega 's willen niet met je werken , zeggen ze . 
+303	It 's is inspired by an old Polish code machine . 	Geïnspireerd op ´n Poolse machine , maar veel moderner . 
+304	- Only this one is infinitely more advanced . 	Geïnspireerd op ´n Poolse machine , maar veel moderner . 
+305	- If you don 't respond to the complaint , 	Reageer , of ik ga ermee naar BiZa . 
+306	I shall have to take it up with the Home Office . 	Reageer , of ik ga ermee naar BiZa . 
+307	- Put those files by my desk . 	
+308	- Fine , my response is they 're all idiots . 	Ontsla ze maar en stop het geld in m 'n machine . 
+309	Fire them and use the savings to fund my machine . 	Ontsla ze maar en stop het geld in m 'n machine . 
+310	I only need about 100, 000 pounds . 	Ik heb maar 100 . 000 pond nodig . 
+311	100, 000 ... 	Honderdduizend ... 
+312	Why are you building a machine ? 	Waarom bouw je ´n machine ? 
+313	It 's highly technical . 	Erg technisch . 
+314	You wouldn 't understand . 	Snapt u niet . 
+315	I suggest you make the effort to try . 	- Ik zou zeggen : Probeer ´t eens . 
+316	Enigma is ... an extremely well- designed machine . 	Enigma is ´n extreem goed ontworpen machine . 
+317	Our problem is that we 're only using men to try to beat it . 	Wij willen ´m met mensen verslaan . 
+318	No , what if only a machine can defeat another machine ? 	Ik denk dat alleen ´n machine zo 'n machine kan verslaan . 
+319	Well , that 's not very technical . 	Dit is niet zo technisch . 
+320	Hugh Alexander is in charge of your unit . 	Alexander is de baas , en hij zegt nee . 
+321	He said no , and that is that . 	Alexander is de baas , en hij zegt nee . 
+322	I simply don 't have time for this . 	Ik heb hier geen tijd voor . 
+323	Have you ever won a war , Turing ? 	Heb je ooit ´n oorlog gewonnen , Turing ? 
+324	I have . 	Ik wel . 
+325	Do you know how it 's done ? 	En weet je hoe dat gaat ? 
+326	Order , discipline , chain of command . 	Orde , discipline , bevelen volgen . 
+327	You 're not at university any longer . 	Dit is geen universiteit . 
+328	You are a very small cog in a very large system . 	Je bent een radertje in ´n groot systeem . 
+329	And you will do as your commanding officer instructs . 	Je doet wat je bevelvoerend officier jou opdraagt . 
+330	Yes . 	
+331	Who is your commanding officer ? 	Wie is uw bevelvoerend officier ? 
+332	Winston Churchill , Number 10 Downing Street , London , SW1 . 	Winston Churchill , 10 Downing Street , London SW1 . 
+333	You have a problem with my decision , you can take it up with him . 	Als m 'n besluit jou dwarszit , neem ´t dan op met hem . 
+334	Mr . 	Mr Menzies ... 
+335	Menzies ! 	Mr Menzies . 
+336	Mr . 	Mr Menzies . 
+337	Menzies ! 	
+338	Are you going to London ? 	Gaat u naar Londen ? 
+339	Possibly . 	Zou kunnen . 
+340	Would you deliver a letter for me ? 	Bezorg deze brief voor mij . 
+341	Look , I 'm sorry , but are you joking ? 	Sorry , maar is dit ´n grap ? 
+342	Churchill 's put Alan in charge ? 	Benoemt Churchill nu Alan als baas ? 
+343	- This is a terrible idea . 	Benoemt Churchill nu Alan als baas ? 
+344	- No , no , no , no , no . 	- Erg slecht idee . 
+345	So , I can give these men orders now ? 	Kan ik hun ´n bevel geven ? 
+346	I hate to say it , but yes . 	- Ik zeg ´t niet graag , maar ja . 
+347	Excellent . 	Prima . 
+348	Keith and Charles , you 're both fired . 	Keith en Charles vliegen eruit . 
+349	- Excuse me ? 	Keith en Charles vliegen eruit . 
+350	- What ? 	Pardon ? 
+351	You 're mediocre linguists , and positively poor code- breakers . 	Matige linguïsten , slechte decodeerders . 
+352	Alan , you can 't just fire Keith and Charles . 	Dit kun je niet doen . 
+353	- Well , he just said I could . 	- Hij zei van wel . 
+354	- No , I did no such thing . 	Dat zei ik niet . 
+355	But Churchill did . 	- Churchill zei het . 
+356	Go to hell . 	Loop naar de hel . 
+357	Well , this is inhuman . 	Nou , dit is niet erg menselijk . Zelfs voor jou niet . 
+358	Even for you . 	
+359	Popular at school , were you ? 	Jij was vast populair op school . 
+360	The problem began , of course , with the carrots . 	Het probleem begon met wortels . 
+361	Carrots are orange . 	Wortels zijn oranje ... ... en erwtjes zijn groen . 
+362	And peas are green . 	Wortels zijn oranje ... ... en erwtjes zijn groen . 
+363	They mustn 't touch . 	Ze mogen elkaar niet aanraken . 
+364	I got it . 	
+365	Do you know why people like violence ? 	Waarom vinden mensen geweld prettig ? 
+366	It is because it feels ... good . 	Omdat ze zich er lekker bij voelen . 
+367	Humans find violence deeply satisfying . 	Mensen vinden geweld erg bevredigend . 
+368	But remove the satisfaction , and ... the act becomes ... hollow . 	Maar als je de bevrediging wegneemt ... ... wordt de geweldpleging leeg . 
+369	Turing ? 	Turing ... 
+370	Come on . 	Toe nou . 
+371	Don 't be such a kike about it . 	Je stelt je aan als ´n smous . 
+372	Leave him to bloody rot . 	Laat ´m maar wegrotten . 
+373	I didn 't learn this on my own , of course . 	Ik had ´t uiteraard niet van mezelf . 
+374	I had help . 	Ik had hulp . 
+375	Christopher helped . 	Christopher hielp me . 
+376	Alan , are you all right ? 	Gaat het , Alan ? 
+377	It 's not my fault . 	Het is mijn schuld niet . 
+378	The carrots got in with the peas and ... 	De wortels gingen door de erwtjes ... 
+379	- I 'm sorry . 	Ik laat ´t niet meer toe . 
+380	I won 't let them do it again . 	Ik laat ´t niet meer toe . 
+381	- They 're getting worse . 	- Het wordt erger . 
+382	They only beat me up because I 'm smarter than they are . 	Ze doen ´t omdat ik slimmer ben . 
+383	No , they beat you up because you 're different . 	Nee , omdat je anders bent . 
+384	- Mother says I 'm just an odd duck . 	Mam zegt dat ik ´n vreemde eend ben . 
+385	- And she 's right . 	- Dat klopt . 
+386	But you know , Alan , sometimes it 's the very people who no one imagines anything of who do the things no one can imagine . 	Maar soms kunnen mensen van wie niemand iets verwacht ... ... onvoorstelbare dingen produceren . 
+387	So , what do we do now ? 	Wat gaan we nu doen ? 
+388	- We 're short on staff . 	We zijn met te weinig . 
+389	- Well , we get more staff then . 	- Dan gaan we mensen werven . 
+390	And how do you propose to do that ? 	Hoe denk je dat te doen ? 
+391	- Alan Turing to see Stewart Menzies . 	Alan Turing voor Stewart Menzies . 
+392	- Very good , sir . 	- Gaat uw gang . 
+393	- So , who are they ? 	Wie zijn het ? 
+394	- Oh , all sorts , really . 	- Allerlei mensen . 
+395	Teacher , an engineer , a handful of students . 	Leraren , technici , studenten ... 
+396	And you think they 're qualified for Bletchley ' cause they 're good at crossword puzzles ? 	Gekwalificeerd met kruiswoordpuzzels ? 
+397	Well , they say they 're good , and now we shall find out , won 't we ? 	- Nu gaan we ze selecteren , hè ? 
+398	In order to aid your efforts , there is , to the right of you , a green scratch card book . 	Om u te helpen heeft u dat groene schetsboekje . 
+399	You are to make notes in that . 	Maakt u daar aantekeningen in . 
+400	Gentlemen , you have six minutes in which to complete the puzzle , at which point , I will ... 	U heeft zes minuten , waarna ik ... 
+401	Pardon , ma 'am , this room 's restricted . 	U mag hier niet in . 
+402	Apologies for my tardiness . 	Excuus dat ik laat ben . 
+403	The bus caught a flat tire . 	De bus had pech . 
+404	May I continue , please ? 	Kan ik doorgaan ? Dank u . 
+405	Thank you . 	U mag er niet in . 
+406	- You 're not allowed in here , ma 'am . 	U mag er niet in . 
+407	- Oh , but I 'm only a few minutes late . 	- Ik ben te laat , maar ... 
+408	The secretaries are to head upstairs . 	Secretaressen boven , hier kandidaten . 
+409	This room 's for the candidates . 	Secretaressen boven , hier kandidaten . 
+410	May I get on with this now , please ? 	Mag ik doorgaan ? 
+411	- I am a candidate . 	Ik ben kandidaat . 
+412	- For what position ? 	- Waarvoor ? 
+413	- The letter didn 't say precisely . 	Dat stond er niet bij , maar wel dat ´t geheim was . 
+414	- Yeah , so secretaries are to head upstairs . 	Dat stond er niet bij , maar wel dat ´t geheim was . 
+415	- It did say that it was top secret . 	Dat stond er niet bij , maar wel dat ´t geheim was . 
+416	- What is going on ? 	Wat is hier nu gaande ? 
+417	I solved a crossword puzzle in the newspaper , and I got this letter saying that I was a candidate for some sort of mysterious job . 	Ik had ´n puzzel in de krant ingevuld . Toen kreeg ik ´n brief . Over ´n geheimzinnige baan . 
+418	My name 's Joan Clarke . 	Joan Clarke . 
+419	Miss , did you really solve this puzzle yourself ? 	Heeft u deze puzzel zelf ingevuld ? 
+420	What makes you think I couldn 't solve the puzzle myself ? 	Waarom zou ik dat niet zelf kunnen ? 
+421	- I 'm really very good at ... 	Waarom zou ik dat niet zelf kunnen ? 
+422	- Ma 'am , I' ll have to ask you to ... 	- Ik moet vragen ... 
+423	Miss Clarke , I find tardiness under any circumstance , unacceptable . 	Miss Clarke , ik vind te laat komen in elke situatie onaanvaardbaar . 
+424	Take a seat so that we may continue . 	Gaat u zitten , dan kunnen we door . 
+425	Thank you . 	
+426	Now , as I was saying , you have six minutes to complete the task in front of you . 	Zoals ik al zei : U heeft zes minuten voor de taak die voor u ligt . 
+427	Gentlemen and lady , begin . 	Heren en dame ... Begin nu . 
+428	Six minutes . 	Zes minuten . 
+429	- Is that even possible ? 	Kan dat wel ? - Nee . 
+430	- No , it takes me eight . 	Ik heb er acht nodig . 
+431	This isn 't about crossword puzzles . 	Dit is geen puzzel . 
+432	It 's about how one approaches solving an impossible problem . 	Het gaat hier om hoe je iets onoplosbaars aanpakt . 
+433	Do you tackle the whole thing at once or divide it into small ... 	Pak je het geheel , of deel je ... 
+434	- You 've finished ? 	Bent u klaar ? - Ja . 
+435	- Yes . 	
+436	- Five minutes and 34 seconds . 	Vijf minuten en 34 seconden . 
+437	- You said to do it in under six . 	Het moest binnen zes minuten . 
+438	Congratulations . 	Gefeliciteerd . 
+439	My warmest welcome to His Majesty 's service . 	Hartelijk welkom bij de dienst . 
+440	If you speak a word of what I 'm about to show you , you will be executed for high treason . 	Als u praat over wat u ziet , wordt u geëxecuteerd wegens hoogverraad . 
+441	You will lie to your friends , your family and everyone you meet about what it is you really do . 	U liegt tegen vrienden , familie en ieder ander over wat u doet . 
+442	And what is it that we 're really doing ? 	Maar wat gaan we nu doen ? 
+443	We 're going to break an unbreakable Nazi code and win the war . 	We kraken onkraakbare nazi- codes en winnen de oorlog . 
+444	What 's that you 're reading ? 	Wat ben je aan het lezen ? 
+445	- It 's about cryptography . 	Gaat over cryptografie . 
+446	- Like secret messages ? 	- Geheime boodschappen ? 
+447	Not secret . 	Niet geheim , dat is het mooie ervan . 
+448	That 's the brilliant part . 	Niet geheim , dat is het mooie ervan . 
+449	Messages that anyone can see , but no one knows what they mean unless you have the key . 	Berichten die je gewoon kunt zien , maar alleen snapt met ´n sleutel . 
+450	How 's that different from talking ? 	Hoe verschilt dat van praten ? 
+451	- Talking ? 	- Praten ? 
+452	- When people talk to each other , they never say what they mean . 	Mensen menen niet wat ze zeggen . 
+453	They say something else , and you 're expected to just know what they mean . 	Ze zeggen wat anders . Je moet maar weten wat ze bedoelen . 
+454	Only I never do . 	Zo praat ik nooit . 
+455	So , how 's that different ? 	Daarom zeg ik : Hoe verschilt dat ? 
+456	Alan , I have a funny feeling you 're going to be very good at this . 	Ik heb het gevoel dat je hier erg goed in gaat worden . 
+457	Good night , Alan . 	Welterusten . 
+458	Good night . 	
+459	Hold on , Marion , I 'm coming ! ... lesser settings and then route back through ... 	1940 Voorzichtig . 
+460	Back to those ones ... 	
+461	Careful , will you ? 	Het is geen speelgoed . 
+462	It not a toy . 	Het is geen speelgoed . 
+463	Funny . 	Grappig , het ziet er wel zo uit . 
+464	Looks like a toy . 	Grappig , het ziet er wel zo uit . 
+465	Bloody great 100, 000- pound one . 	Speeltje van 100 . 000 pond dan . 
+466	Your new minion 's arrived . 	Je hulpje is aangekomen . 
+467	- Jack Good . 	Jack Good , we zijn ... 
+468	We met ... 	Jack Good , we zijn ... 
+469	- Well , where 's Miss Clarke ? 	- En Miss Clarke ? 
+470	Lovely , isn 't he ? 	Aardige vent , hè ? 
+471	It 's not just a usual humdrum production mill factory . 	Het is niet zomaar ´n gewone fabriek waar ze iets maken . 
+472	I mean , well , as I was saying , it 's a very important radio factory . 	Zoals ik al zei , het is ´n erg belangrijke radiofabriek . 
+473	It 's not , actually . 	Eigenlijk ook niet ... ... want in het spectrum van fabrieken is deze in het bijzonder ... 
+474	Well , on the spectrum of radio factories , this one is particularly ... 	Eigenlijk ook niet ... ... want in het spectrum van fabrieken is deze in het bijzonder ... 
+475	Why are you not at Bletchley ? 	Waarom bent u niet in Bletchley ? 
+476	Thank you ... so much for your visit , Mr . 	Bedankt voor uw bezoek , Mr Turing . 
+477	Turing . 	Bedankt voor uw bezoek , Mr Turing . 
+478	Was your trip pleasant ? 	Bedankt voor uw bezoek , Mr Turing . 
+479	Gather your things and let 's go . 	- Pak uw spullen en kom mee . 
+480	I 'm sorry , but I 'm unable to accept your offer . 	Sorry , ik neem uw aanbod niet aan . 
+481	We feel that such a position would hardly be appropriate . 	Zo 'n positie vinden we ongepast . 
+482	You earned a double first in mathematics . 	U bent ´n uitmuntend wiskundige . 
+483	But sadly wasn 't granted the opportunity to become a Fellow . 	- En helaas krijg ik geen beurs . 
+484	You belong at Bletchley . 	U hoort op Bletchley . 
+485	I 'm sorry , but for someone in my position , to live to ... to work in a radio factory so far from home , with all your men ... it would be ... indecorous . 	Als iemand in mijn positie een leven leidde ... ... van werken in ´n fabriek , ver van huis , met oudere mannen ... ... dan was dat ... ... onwelvoeglijk . 
+486	What in the world does that even mean ? 	Wat betekent dat , verdorie ? 
+487	We have a group of young ladies who tend to all of our clerical tasks : assistants , translators . 	We hebben ´n groep jongedames die administratie doen ... ... assistentes , vertaalsters , en die wonen samen in de stad . 
+488	They live together in town . 	We hebben ´n groep jongedames die administratie doen ... ... assistentes , vertaalsters , en die wonen samen in de stad . 
+489	Would that be a more suitable environment ? 	Is dat ´n geschiktere omgeving ? 
+490	So , I would be working amongst these women ? 	Dus dan ga ik onder vrouwen werken ? 
+491	Yes . 	
+492	Wonderful ladies . 	Het zijn fijne dames die ook in de kerk bijeenkomen . 
+493	They even organize social events at St . 	Het zijn fijne dames die ook in de kerk bijeenkomen . 
+494	Martin 's Church down the road . 	Het zijn fijne dames die ook in de kerk bijeenkomen . 
+495	Really , the whole thing is quite ... decorous . 	De hele situatie is heel erg ... ... welvoeglijk . 
+496	Now , you won 't have proper security clearance , of course , so , 	U bent nog niet nagetrokken , dus we moeten improviseren . 
+497	- we 'll have to improvise things a bit . 	U bent nog niet nagetrokken , dus we moeten improviseren . 
+498	- Why are you helping me ? 	Waarom helpt u me ? 
+499	Because there is only one thing that matters in this entire world right now . 	- Er is nu maar één ding belangrijk . 
+500	Do you understand ? 	Dat is Enigma kraken . 
+501	And that is breaking Enigma . 	Dat is Enigma kraken . 
+502	But , Mr . 	- Maar Mr Turing ... 
+503	Turing ... why are you helping me ? 	Waarom helpt u mij nou ? 
+504	Sometimes it 's the very people who no one imagines anything of who do the things that no one can imagine . 	Soms doen mensen van wie niemand iets verwacht , onvoorstelbare dingen . 
+505	Sir . 	Wat is dit ? 
+506	- What 's this ? 	Wat is dit ? 
+507	- Alan Turing 's classified military file . 	Turings geheime militaire dossier . 
+508	- It 's bloody empty . 	Helemaal leeg . - Juist . 
+509	- Exactly . 	Alleen ´n lege envelop . 
+510	- It 's an empty manila envelope . 	Alleen ´n lege envelop . 
+511	- Yeah . 	
+512	Well , you 've cracked the case wide open , then , haven 't you ? 	Wat ´n enorme doorbraak . 
+513	Alan Turing 's war records aren 't just classified , they 're nonexistent . 	Turings dossier uit de oorlog bestaat gewoon niet . 
+514	That means someone 's got rid of them . 	Het is weggemaakt . 
+515	Erased them . 	Geschrapt , verbrand . 
+516	Burned them . 	Geschrapt , verbrand . 
+517	And that same person broke into his house and stole nothing ? 	Door dezelfde inbreker die niks pikte ? 
+518	Guy Burgess and Donald Maclean . 	Guy Burgess en Donald Maclean ... 
+519	- What , the spies from the papers ? 	Die spionnen uit de krant ? 
+520	- The Soviet spies . 	- Sovjet- spionnen . 
+521	But first they were professors , weren 't they ? 	Eerder hoogleraren . 
+522	Radicalized at Cambridge , then they joined the Communist Party , then Foreign Office , then leaked information to Stalin during the war . 	Geradicaliseerd op Cambridge , communisten , BuZa ... ... en ze werkten voor Stalin . 
+523	Now , can you think of anyone else we know who was at Cambridge , then took up something murky and top secret when war broke out ? 	Kan er nog iemand in Cambridge iets geheims hebben opgepikt in de oorlog ? 
+524	You think this Alan Turing might be a Soviet agent ? 	Zou Alan Turing ´n Sovjet- spion zijn ? 
+525	I think something very serious is happening right here under our noses . 	Ik denk dat er iets ergs gaande is , hier onder onze neus . 
+526	Wouldn 't you like to find out what it is ? 	Wilt u niet weten wat dat is ? 
+527	Welcome , ladies . 	Welkom , dames . 
+528	If you 'd like to follow me . 	Komt u mee ? 
+529	Some people thought we were at war with the Germans ... 	We leken in oorlog met de Duitsers , maar nee . 
+530	Incorrect . 	We leken in oorlog met de Duitsers , maar nee . 
+531	We were at war with the clock . 	We waren in oorlog met de klok . 
+532	Britain was literally starving to death . 	Groot- Brittannië stierf van de honger . 
+533	The Americans sent over 100, 000 tons of food every week , and every week the Germans would send our desperately needed bread to the bottom of the ocean . 	De Amerikanen stuurden tonnen aan eten . Elke week joegen de Duitsers weer broodnodig voedsel naar de bodem . 
+534	Our daily failure was announced at the chimes of midnight . 	En ons falen klonk elke nacht om twaalf uur . 
+535	And the sound would haunt our unwelcome dreams . 	Dat geluid teisterde ons in onze dromen . 
+536	Tick ... tock ... tick . 	
+537	Damn it ! 	Verdomme ... 
+538	What just happened ? 	Wat is er ? 
+539	Midnight , all the work we 've done today is useless . 	Middernacht . Het werk van vandaag is nu zinloos . 
+540	Oh , but don 't worry , we 've a few hours before tomorrow 's messages start flooding in ... and we start all over again . 	En er komen straks nieuwe berichten . Dan beginnen we opnieuw . 
+541	- From scratch . 	Vanaf het begin . 
+542	- I 'm so sick of this . 	- Ik ben ´t zat . 
+543	Four hours rewiring his plugboard matrix . 	Vier uur met dat schakelbord van hem , gisteren drie uur met die rotors . 
+544	Three hours yesterday on his rotor positions ! 	Vier uur met dat schakelbord van hem , gisteren drie uur met die rotors . 
+545	- Don 't go over there . 	Ga niet daarheen . 
+546	- Look , John , no . 	- Luister . 
+547	If this job wasn 't already impossible before , it bloody well is now . 	Het wordt nu wel heel erg lastig . 
+548	Hugh , don 't . 	- Niet doen , Hugh . 
+549	Damn you and your useless machine . 	Jij en die zinloze machine van jou ... 
+550	My machine is how we are going to win . 	Met mijn machine gaan we winnen . 
+551	Really ? 	O ja ? 
+552	This machine ? 	Deze machine ... 
+553	Are you talking about this bloody machine ? ! 	Heb je ´t over deze verdomde machine ? 
+554	- Hugh ! 	Heb je ´t over deze verdomde machine ? 
+555	Hugh ! 	Niet doen . 
+556	Hugh , don 't ! 	Niet doen . 
+557	- Hugh ! 	- Stop . 
+558	Hugh ! 	- Stop . 
+559	Stop ! 	- Stop . 
+560	You arrogant bastard . 	Arrogante hufter . 
+561	You could help us . 	Je kunt ons helpen om sneller te werken , maar je doet ´t niet . 
+562	You could make this go faster , but you won 't . 	Je kunt ons helpen om sneller te werken , maar je doet ´t niet . 
+563	Get off . 	Blijf van me af . 
+564	He 's right , Alan . 	Hij heeft gelijk , Alan . 
+565	There are actual soldiers out there trying to win an actual war . 	Echte soldaten zijn nu bezig met ´n echte oorlog winnen . 
+566	My brother protects food convoys in the Navy . 	M 'n broer beschermt voedselkonvooien . 
+567	My cousins fly RAF patrols . 	M 'n neven vliegen bij de RAF . 
+568	All my friends , they 're all making a difference , while we just while away our days producing nothing . 	M 'n vrienden zetten zich in ... ... terwijl wij onze tijd verdoen , en we produceren niets . 
+569	Because of you . 	En dat komt door jou . 
+570	My machine ... will work . 	Mijn machine gaat echt werken . 
+571	Come on , Peter . 	Kom maar , Peter . 
+572	Okay . 	In orde . 
+573	Joan ? 	
+574	Will you ... 	
+575	Could you make a bit more noise ? 	Harder , graag . 
+576	I 'm not quite sure my landlady woke up . 	M 'n hospita slaapt nog . 
+577	- Oh , sorry . 	
+578	- Oh ... look . 	
+579	I think that 's the best I can do . 	Licht aan . 
+580	No male visitors after dark . 	Geen mannelijke bezoekers ´s avonds . 
+581	So ... what did you bring me ? 	Goed , wat hebt u meegenomen ? 
+582	- There you go . 	Ziezo ... 
+583	- Here . 	
+584	Some men try flowers , you know . 	Sommigen nemen bloemen mee . 
+585	These are actual decrypted Enigma messages direct from Nazi High Command . 	Dit zijn gedecodeerde Enigma - berichten van het nazi- opperbevel . 
+586	" 0600 hours . 	' Zes uur . ' 
+587	" Weather today is clear . 	' Helder weer , later regen . 
+588	Rain in the evening . 	Heil Hitler . ' 
+589	Heil Hitler . " 	
+590	Well , clearly , that vital piece of information is going to win us the war . 	Hiermee winnen we de oorlog . 
+591	It 's the relationship between the encrypted and decrypted messages that interests me . 	De relatie tussen gecodeerd en gedecodeerd , daar gaat ´t om . 
+592	Can we find a clue here that we can build into Christopher ? 	Dat bouwen we bij Christopher in . - Wie is Christopher ? 
+593	- Who 's Christopher ? 	Dat is m 'n machine . 
+594	- Oh , he 's my machine . 	Dat is m 'n machine . 
+595	You named him ? 	U hebt ´m een naam gegeven . 
+596	Is that a bad name ? 	Is ´t een verkeerde naam ? 
+597	No . 	
+598	No , never mind . 	Nee , laat maar . 
+599	Are you trying to build your universal machine ? 	Werkt u aan uw universele machine ? 
+600	- I read your paper at university . 	Dat stond in uw paper . 
+601	- Is it already being taught ? 	- Zit ´t in de les ? 
+602	No . 	Nee , ik ben voorbarig geweest . 
+603	No . 	Nee , ik ben voorbarig geweest . 
+604	No , I was precocious . 	Nee , ik ben voorbarig geweest . 
+605	So ... you theorized a machine that could solve any problem . 	Dus u denkt dat ´n machine alles kan oplossen ? 
+606	It didn 't just do one thing , it did everything . 	Die doet niet één ding , maar alles . 
+607	It wasn 't just programmable , it was reprogrammable . 	Programmeren en herprogrammeren . 
+608	Is that your idea behind Christopher ? 	Is dat het idee achter Christopher ? 
+609	Well , human brains can compute large sums very quickly ... even Hugh can do that ... but I want Christopher to be smarter . 	Mensen kunnen grote sommen snel maken , zelfs Hugh . Christopher moet slimmer zijn . 
+610	To make a calculation and then ... to determine what to do next . 	Die moet calculeren , en daarna bepalen wat er moet gebeuren . 
+611	Like a person does . 	Zoals ´n mens dat doet . 
+612	Think of it . 	Stel je voor , een elektrisch brein . 
+613	Electrical brain . 	Stel je voor , een elektrisch brein . 
+614	- A digital computer . 	Een digitale rekenaar . 
+615	- Digital computer . 	- Digitale rekenaar ... 
+616	What 's going on ? 	
+617	What 's happening ? 	Wat gebeurt hier ? 
+618	- No . 	Wat gebeurt hier ? 
+619	No , no . 	Blijf daar vanaf . 
+620	No , no , no ! 	Blijf daar vanaf . 
+621	Don 't touch that ! 	Blijf daar vanaf . 
+622	- Stay back . 	Dat is mijn bureau . 
+623	That 's my desk . 	Dat is mijn bureau . 
+624	Thank goodness . 	Mooi , we onderzoeken dus het goede . 
+625	I 'd hate to think we were searching the wrong one . 	Mooi , we onderzoeken dus het goede . 
+626	What are you doing ? 	Wat is er hier aan de hand ? 
+627	What 's going on ? 	Wat is er hier aan de hand ? 
+628	There is a spy in Bletchley Park . 	Er is ´n spion op Bletchley . 
+629	The Navy thinks that one of us is a Soviet double agent , Alan . 	- Ze denken dat een van ons spioneert . 
+630	Why ? 	En waarom ? 
+631	Our boys intercepted this on its way to Moscow . 	- Dit bericht was op weg naar Moskou . Ziet dit er bekend uit ? 
+632	Look familiar ? 	
+633	It 's a Beale cipher . 	Een Beale- cijfer . 
+634	Encrypted with a phrase from a book or a poem or ... 	Het is codering met ´n zin uit ´n gedicht of ... 
+635	You don 't seriously think I did this , do you ? 	U denkt toch niet dat ik dit heb gedaan ? 
+636	Double agents are such bastards . 	Dubbelagenten zijn schoften . 
+637	Isolated loners . 	Geïsoleerde eenlingen , geen vrienden of familie . 
+638	No attachments to friends or family . 	Geïsoleerde eenlingen , geen vrienden of familie . 
+639	Arrogant . 	Arrogant . 
+640	Know anybody like that ? 	Ken je zo iemand ? 
+641	I ... 	Ik weet dat jullie me niet mogen , maar dan nog ... ... ben ik niet ´n Sovjet- spion . 
+642	I know you don 't like me , but that does not make me a Soviet spy . 	Ik weet dat jullie me niet mogen , maar dan nog ... ... ben ik niet ´n Sovjet- spion . 
+643	Nothing out of the ordinary , sir . 	Niks vreemds , meneer . 
+644	Really . 	Echt waar ? 
+645	All right . 	Goed ... 
+646	The Home Office may be protecting you now , but sooner or later you will make a mistake . 	BiZa beschermt je nu , maar vroeg of laat ... ... maak je ´n fout . 
+647	And I needn 't bother firing you . 	Dan ontsla ik je niet . 
+648	They will hang you for treason . 	Ze hangen je op wegens hoogverraad . 
+649	Hello . 	
+650	I heard about what happened . 	Ik heb ´t gehoord . 
+651	It 's all the girls in Hut 3 can talk about . 	De meiden in Hut 3 praten nergens anders over . 
+652	I have an idea of what might cheer you up . 	Ik heb ´n idee dat jou wel opvrolijkt . 
+653	So , because no letter can be encoded as itself , there 's already a handful of settings that can be rejected at the outset . 	Letters in code zijn niet zichzelf . Die instellingen gebruiken ze niet . 
+654	- Is that your team ? 	Is dat je team ? 
+655	- Yes . 	Zeggen we hallo ? 
+656	- Shall we say hello ? 	Zeggen we hallo ? 
+657	- No . 	
+658	Hello . 	Ik zei dat je dat niet moest doen . 
+659	I told you not to do that . 	Ik zei dat je dat niet moest doen . 
+660	Alan . 	Alan ... 
+661	- Hugh , hello . 	- Hallo , Hugh . 
+662	- Didn 't know you drank . 	Je drinkt toch niet ? 
+663	He doesn 't , really . 	- Hij nipt aan het schuim . 
+664	He just sort of sips at the foam . 	- Hij nipt aan het schuim . 
+665	Well , I' ll let you into a little secret , Miss ... ? 	Ik zal u wat zeggen , Miss ... 
+666	- Clarke . 	Ik zal u wat zeggen , Miss ... 
+667	- Miss Clarke . 	Ik zal u wat zeggen , Miss ... 
+668	- Please . 	- Clarke . 
+669	- Foam 's my favorite part , too . 	Schuim is het lekkerst . 
+670	- Is it really ? 	- Echt ? 
+671	- Come and join us for a drink ? 	Drink wat met ons . 
+672	- We 'll be there in a moment . 	- We komen zo . Miss Clarke ... 
+673	- Miss Clarke . 	
+674	- Well , he likes you . 	Hij vindt je leuk . 
+675	- Yes . 	Hij vindt je leuk . 
+676	You ... got him to like you . 	Je zorgt ervoor dat hij je leuk vindt . 
+677	- Yes . 	Ja ... - Waarom ? 
+678	- Why ? 	
+679	Because I 'm a woman in a man 's job , and I don 't have the luxury of being an ass . 	Een vrouw met ´n mannenbaan kan geen zak zijn . 
+680	Alan ... it doesn 't matter how smart you are , Enigma is always smarter . 	Alan , ´t maakt niet uit hoe slim je bent . Enigma is altijd slimmer . 
+681	If you really want to solve your puzzle , then you 're going to need all the help you can get , and they are not going to help you if they do not like you . 	Als je echt je puzzel wilt oplossen ... ... heb je alle hulp nodig . Zij gaan je niet helpen ... ... als ze je onaardig vinden . 
+682	- What are those ? 	Wat zijn dit ? - Appels . 
+683	- Apples . 	Nee , toch ? 
+684	- No . 	Nee , toch ? 
+685	- Oh , they really are . 	- Het zijn echt appels . 
+686	I ... well , Miss Clarke , Joan actually ... said that it would be ... nice if I was to bring you all something . 	Ik ... Miss Clarke , Joan , eigenlijk ... ... zei dat ´t aardig zou zijn als ik iets voor jullie meenam . 
+687	So , here we are . 	Dus ik ... 
+688	I ... 	Dank je . 
+689	Thank you . 	- Lekker , appels . 
+690	I like apples . 	
+691	My best to Miss Clarke . 	Bedank haar . 
+692	There are two people in a wood , and they run into a bear . 	- Twee mensen in het bos ... ... komen ´n beer tegen . 
+693	The first person gets down on his knees to pray . 	De ene gaat bidden , de tweede trekt z 'n veters aan . 
+694	The second person starts lacing up his boots . 	De ene gaat bidden , de tweede trekt z 'n veters aan . 
+695	The first person asks the second person , " My dear friend , what are you doing ? 	De ene zegt : ´Wat doe je nou ? 
+696	You can 't outrun a bear . " 	Je bent niet sneller dan ´n beer . ' 
+697	To which the second person responds , 	Waarop de tweede zegt : 
+698	" I don 't have to . 	´Hoeft niet . ' 
+699	I only have to outrun you . " 	' Ik moet sneller zijn dan jij . ' 
+700	I' ll be with Christopher , if anyone needs me . 	Ik ben bij Christopher als iemand me zoekt . 
+701	If we assume that the square root of two is a rational number , then we can say that the square root of two is A over B ... where A and B are whole numbers and B is not zero . 	We nemen aan dat de wortel van 2 een rationaal getal is . Dan kunnen we zeggen dat de wortel van 2 ... ... A over B is , waarbij A en B hele getallen zijn ... ... en B is niet nul . 
+702	- Mr . 	Geven we briefjes door ? 
+703	Turing , passing notes , are we ? 	Geven we briefjes door ? 
+704	- No , sir . 	- Nee , meneer . 
+705	Only Turing would pass notes written in gibberish . 	Alleen Turing schrijft in kromtaal . 
+706	All right , gentlemen , do not forget your algebra over the break . 	Heren , vergeet uw algebra niet . 
+707	Have a pleasant holiday , and we 'll resume your irrationals when you return . 	Prettige vakantie . We gaan verder met wiskunde na uw terugkomst . 
+708	But Euler 's Theorem gives you that immediately . 	Met Euler 's theorema heb je ´t meteen . 
+709	Here . 	Bekijk dit eens . 
+710	Look at this . 	
+711	If you run the wires across the plugboard matrix diagonally , it will eliminate rotor positions 500 times faster . 	Als je die kabels diagonaal trekt , heb je de rotorposities veel sneller . 
+712	That 's ... actually not an entirely terrible idea . 	Dit is eigenlijk helemaal geen vreselijk idee . 
+713	I think that was Alan for " thank you . " 	Zo zegt Alan ´dank je wel ' . 
+714	- That 's my sandwich . 	Dat is mijn sandwich . 
+715	- You don 't like sandwiches . 	- Je houdt niet van sandwiches . 
+716	You nervous ? 	Zenuwachtig ? 
+717	What happens now ? 	Wat gebeurt er nu ? 
+718	It should work out the day 's Enigma settings . 	Hij berekent Enigma 's instellingen . 
+719	How long ? 	Hoe lang ? 
+720	Sieg Heil ! 	
+721	The German Army has fanned out across Europe , from Poland to Serbia , Lithuania to Denmark , Norway to France . 	Het Duitse leger zwermt uit . Polen , Servië , Denemarken , Noorwegen , Frankrijk : 
+722	The Nazi flag now flies from more than two dozen national capitals . 	Overal zijn nazi 's in de hoofdstad . 
+723	Their campaign mounts in fury as a free Europe crumbles . 	Hun veldtocht verplettert vrij Europa . 
+724	Oh , it 's still going . 	O , hij draait nog steeds . 
+725	- Good morning , sir . 	Goedemorgen . 
+726	- Morning , Margaret . 	- Goeiemorgen . 
+727	Gears keep spinning on and on . 	De raderen draaien , net als de rotors . 
+728	Rotors on and on . 	De raderen draaien , net als de rotors . 
+729	It 's endless . 	Eindeloos . 
+730	- With no result in sight ? 	En geen resultaat in zicht . 
+731	- No . 	
+732	Turing . 	Turing ... 
+733	- Turing , open the bloody door . 	Doe die rotdeur open . 
+734	- No . 	
+735	No . 	
+736	Open the door or we 'll break it down . 	We breken ´m open . 
+737	I can 't let you in ! 	- Dat kan niet . 
+738	I cannot let you interfere . 	Bemoei u er niet mee . 
+739	Go on , then . 	Vooruit maar . 
+740	Turn that thing off . 	Zet dat ding uit . 
+741	No . 	- Nee , niet doen . 
+742	Don 't , please . 	- Nee , niet doen . 
+743	Please . 	Alstublieft . 
+744	Please ! 	
+745	Please ! 	
+746	No ! 	
+747	No . 	
+748	No ! 	
+749	Well , then , it seems that your great big expensive machine doesn 't work . 	Het lijkt erop dat jouw geweldige , peperdure machine niet werkt . 
+750	- It does . 	Hij werkt wel . 
+751	- Wonderful . 	- Schitterend . 
+752	So , you 've broken Enigma , then ? 	Dus je hebt Enigma gebroken ? 
+753	It was just ... still working . 	Hij was ... ... nog steeds bezig . 
+754	This is my associate from the Home Office . 	Dit is m 'n collega van BiZa . 
+755	You see , a hundred thousand pounds is rather a lot of money , and he 's here to see what you have to show for it . 	Honderdduizend pond is nogal veel . Hij wil er nu wat voor terugzien . 
+756	You ... will never understand the importance of what I am creating here ! 	U zult echt nooit begrijpen ... ... wat het belang is van wat ik hier aan het creëren ben . 
+757	Have you decrypted any German messages ? 	Heb je één Duits bericht gedecodeerd ? 
+758	A single one ? 	Eén enkel bericht ? 
+759	Can you point to anything at all that you 've achieved ? 	Kun je enig resultaat aanwijzen ? 
+760	Your funding is up , and our patience is expired . 	Je krijgt geen geld meer , en ons geduld is op . 
+761	It 's with such great pleasure that I am finally able to say this . 	Met veel plezier kan ik eindelijk dit zeggen : 
+762	Alan Turing , you 're fired . 	Alan Turing , je bent ontslagen . 
+763	Please escort Mr . 	Begeleid Mr Turing van het terrein af . 
+764	Turing from the premises . 	Begeleid Mr Turing van het terrein af . 
+765	No . 	Nee ... 
+766	I beg your pardon ? 	Wat krijgen we nu ? 
+767	If you fire Alan ... well , then you 'll have to fire me , too . 	Als u Alan ontslaat ... ... moet u mij ook ontslaan . 
+768	What on earth are you saying ? 	Als u Alan ontslaat ... ... moet u mij ook ontslaan . 
+769	Trust me when I tell you there is no one who would rather say this less than I do , but ... he 's right . 	Geloof me , ik zeg dit echt zeer ongaarne , maar ... Hij heeft gelijk . 
+770	Alan is right . 	Alan heeft gelijk . 
+771	His machine can work , and it 's probably the best chance that we 've got . 	Z 'n machine kan werken en is vast de beste kans die we hebben . 
+772	God , it 's beyond belief . 	Dit is niet te geloven . 
+773	If you fire them ... you 'll have to fire me , too . 	Als u ze ontslaat , ontsla mij dan ook . 
+774	And me . 	En mij . 
+775	We 're the best cryptographic minds in Britain . 	We zijn de beste codeurs van Groot- Brittannië . 
+776	Are you going to fire us all ? 	Ontslaat u ons allemaal ? 
+777	Commander , at least give us some more time . 	Overste , geef ons meer tijd . 
+778	Six months , and if the machine doesn 't produce any results that we need , then we 'll go back to doing things the old way . 	Zes maanden , als hij dan niet werkt ... ... nemen we weer de oude methode . 
+779	How about that ? 	Zes maanden , als hij dan niet werkt ... ... nemen we weer de oude methode . 
+780	One month . 	Eén maand . 
+781	And then , so help me God , you 're all gone . 	En , God sta me bij , dan zijn jullie allemaal weg . 
+782	Oh , leave him . 	Laat ´m maar los . 
+783	- Thank you . 	Dank jullie wel . 
+784	- You 're welcome . 	- Graag gedaan . 
+785	Oh , and , Alan , your machine ... it better bloody work . 	Alan , die machine van jou ... ... laat ´m verdomme maar werken . 
+786	Hugh . 	Hugh ... 
+787	I swear ... 	Ik zweer ´t . 
+788	I 'm not a spy . 	Ik ben echt geen spion . 
+789	Oh , for God 's sake , of course you 're not a bloody spy . 	Je bent natuurlijk geen spion . 
+790	What ? 	Denniston geeft het Beale- getal , en wat denk je ? 
+791	Denniston gave me the Beale cipher , and guess what ? 	Denniston geeft het Beale- getal , en wat denk je ? 
+792	I cracked it . 	Ik kraak het . 
+793	" Ask , and it shall be given to you ; seek and ye shall find . " Matthew 7 : 7 . 	' Vraag , en jullie zal gegeven worden . 
+794	That was the key . 	Zoek , en je zult vinden . ' Matteüs 7- 7 . 
+795	Far too simple for the likes of you . 	Veel te simpel voor iemand als jij . 
+796	Pity Denniston disagrees . 	Jammer dat Denniston het daarmee oneens is . 
+797	Come in . 	
+798	Sir , I think I' ve got Turing . 	Ik denk dat ik Turing te pakken heb . 
+799	I tailed him to a pub last night , where he met a bloke . 	In de pub ontmoette hij ´n man aan wie hij ´n envelop gaf . 
+800	They exchanged an envelope . 	In de pub ontmoette hij ´n man aan wie hij ´n envelop gaf . 
+801	So , I follow this other fella , pick him up , give him a good shake . 	Ik pakte die vent op , ondervroeg ´m ... ... en hij bleek ´n poot te zijn . 
+802	- He 's a poofter . 	Ik pakte die vent op , ondervroeg ´m ... ... en hij bleek ´n poot te zijn . 
+803	He confessed . 	En hij bekende . 
+804	- What ? 	- Wat dan ? 
+805	The man admitted it . 	Hij gaf toe . 
+806	Arnold Murray . 	Hij heet Arnold Murray , zit in die pub , en mannen betalen ´m . 
+807	Hangs around that pub ; men pay him for a go . 	Hij heet Arnold Murray , zit in die pub , en mannen betalen ´m . 
+808	Turing 's one of the men that paid . 	Turing is ´n klant . 
+809	Only Mr . 	Mr Murray was zo slim om bij Turing in te breken met ´n vriend . 
+810	Murray here then has the bright idea of robbing Turing 's house after , with a friend . 	Mr Murray was zo slim om bij Turing in te breken met ´n vriend . 
+811	That 's what Turing 's hiding . 	Dat verbergt Turing . 
+812	Well , he 's a poof , not a spy . 	Hij is ´n poot , en geen spion . 
+813	- No . 	Hij is ´n poot , en geen spion . 
+814	- What 's the matter ? 	Een hoogleraar en obsceniteit . 
+815	We can charge a university professor with indecency . 	Een hoogleraar en obsceniteit . 
+816	No , this is ... it 's bloody rubbish . 	- Sodemieter op . 
+817	Turing 's up to something important ... 	Turing is bezig ... 
+818	He 's committed a crime and he 's broken the law . 	Het is ´n misdaad om ´t met een kerel te doen . 
+819	And with a bloke . 	Het is ´n misdaad om ´t met een kerel te doen . 
+820	Jesus Christ , it 's bloody disgusting . 	Jezus ... Het is walgelijk . 
+821	This isn 't the investigation I was conducting . 	- Dit onderzoek ik niet . 
+822	- Bring him in . 	Pak ´m op . 
+823	- Wait . 	Wacht even . 
+824	Let me interrogate him . 	Laat mij ´m ondervragen . 
+825	Please . 	Laat mij ´m ondervragen . 
+826	Give me half an hour alone , and then I swear , 	Geef me ´n halfuur . 
+827	I' ll spend the next month running errands on as many rubbish cases as you like . 	Dan doe ik ´n maand lang jouw rotklusjes . 
+828	Fine . 	Fijn . 
+829	Now , will someone get me a warrant for the arrest of Alan Turing . 	Regel ´n arrestatiebevel voor Alan Turing . 
+830	Alan ? 	Alan ? 
+831	Christopher 's simply not moving fast enough . 	- Christopher is niet snel genoeg . 
+832	We should talk . 	We moeten praten . 
+833	And even with the diagonal board , he 's still not eliminating settings as quickly 	Ook met een diagonaal schakelbord is hij niet ... 
+834	- as we need him to in order ... 	Ik ga weg . 
+835	- I 'm leaving . 	Ik ga weg . 
+836	But you 've just walked in . 	- Je bent er net . 
+837	No . 	Nee , ik ga weg uit Bletchley . 
+838	No . 	Nee , ik ga weg uit Bletchley . 
+839	Bletchley . 	Nee , ik ga weg uit Bletchley . 
+840	- What ? 	M 'n ouders ... 
+841	- It 's my parents . 	M 'n ouders ... 
+842	I 'm 25 , I 'm unmarried , I 'm living alone , and they want me home . 	Ik ben 25 en ongetrouwd . Ze willen me thuis hebben . 
+843	- That 's ridiculous . 	Belachelijk . 
+844	- That 's my parents . 	- Zo zijn ze . 
+845	You ... you can 't leave . 	Je mag niet weg . 
+846	I won 't let you . 	Ik laat ´t niet toe . 
+847	" I' ll miss you . " That 's what a normal person might say in this situation . 	' Ik zal je missen . ' Dat zegt ´n normaal iemand . 
+848	- I don 't care what is normal . 	Kan me niet schelen . 
+849	- What am I supposed to do , Alan ? 	- Wat moet ik doen ? 
+850	I will not ... give up my parents . 	Ik ga niet ... ... m 'n ouders opgeven . 
+851	You ... you have an opportunity here to make some actual use of your life . 	Je hebt hier de kans om iets te maken van je leven . 
+852	And end up like you ? 	En eindigen zoals jij ? 
+853	No , thanks . 	Nee , dank je . 
+854	I 'm sorry you 're lonely . 	Het is erg dat je eenzaam bent , maar Enigma zal jou niet redden . 
+855	But Enigma will not save you . 	Het is erg dat je eenzaam bent , maar Enigma zal jou niet redden . 
+856	Can you decipher that , you fragile narcissist ? 	Kun je ´t duiden , fragiele narcist ? 
+857	Or would you like me to go and fetch your precious Christopher to help ? 	Of moet lieve Christopher helpen ? 
+858	I 'm sorry . 	Het spijt me . 
+859	I want you ... 	Ik wil dat je blijft , want ik mag je . 
+860	I want you to stay because I like you . 	Ik wil dat je blijft , want ik mag je . 
+861	I like ... talking to you . 	Ik vind ´t fijn om met je te praten . 
+862	I like talking to you , too , Alan . 	Dat vind ik ook fijn , Alan . 
+863	And what if you weren 't alone ? 	En als je niet alleen was ? 
+864	What if you had a husband ? 	Als je ´n echtgenoot had ? 
+865	Do you have one in mind ? 	Heb je er een in gedachten ? 
+866	I do . 	Jazeker . 
+867	Hugh ? 	Hugh ? 
+868	Hugh 's terribly attractive , I' ll give you that , but ... 	Hugh is heel erg aantrekkelijk , maar die trouwt niet zo snel . 
+869	I don 't really think he 's the marrying kind . 	Hugh is heel erg aantrekkelijk , maar die trouwt niet zo snel . 
+870	- No , I wasn 't thinking of Hugh . 	Ik dacht niet aan Hugh ... - Of Peter . 
+871	- Or Peter . 	Peter is heel stil . 
+872	Peter 's so quiet . 	Peter is heel stil . 
+873	- Oh , my God . 	O , mijn god ... 
+874	- But this makes sense . 	- Maar dit klopt . 
+875	- Did you just propose to me ? 	Vraag je me nu ten huwelijk ? 
+876	- Well , it is the logical thing to do . 	- Het is gewoon logisch . 
+877	- This is ridiculous . 	Idioot . 
+878	- This is your parents . 	- Je ouders . 
+879	I can 't ... believe that this is happening . 	Ik kan niet ... ... geloven dat dit gebeurt . 
+880	Joan ... 	Joan ... 
+881	- Is your middle name Caroline or Catherine ? 	Middelste naam Caroline ? Catherine ? 
+882	- Elizabeth . 	- Elizabeth . 
+883	Joan Elizabeth ... 	Joan Elizabeth Clarke ... 
+884	Clarke ... 	Joan Elizabeth Clarke ... 
+885	will you marry me ? 	... wil je met me trouwen ? 
+886	It 's beautiful . 	Prachtig . 
+887	Well , I know it isn 't ordinary , but ... whoever loved ordinary ? 	Het is niet gewoon . Wie wil nou gewoon ? 
+888	She had it in both hands ... and she looked up at me with her doe eyes and said , 	Ze pakte ´m beet , keek omhoog met haar hertenogen en zei : 
+889	" Am I supposed to put that in my mouth ? " 	' Moet ik die in m 'n mond stoppen ? ' 
+890	And I said , " Yes . 	Ik zei : 
+891	You know , the French way . " 	´Je weet wel , op z 'n Frans . ' 
+892	So , she pops it in , clamps her lips around it , and starts humming the bloody Marseillaise . 	Ze klemt haar lippen erom heen ... ... en neuriet die verdomde Marseillaise . 
+893	Come have a dance . 	Kom mee , dansen . 
+894	No , no , no , you can dance with your fiance anytime you like . 	- Nee , jij kunt altijd dansen . 
+895	Right now , this moment ... my turn . 	Nu ... ... is ´t mijn beurt . 
+896	What 's the matter ? 	Wat is er ? 
+897	What if ... 	Wat doe ik ... 
+898	What if I don 't fancy being ... with Joan in that way ? 	Wat doe ik als ik ´t niet fijn vind om zo met Joan om te gaan ? 
+899	Because you 're a homosexual ? 	Omdat je homoseksueel bent ? 
+900	I suspected . 	Ik dacht ´t al . 
+901	Well , should I tell her that I' ve had ... affairs with men ? 	Moet ik zeggen dat ik ... ... dat ik omga met mannen ? 
+902	You know , in my ... admittedly limited experience , women ... tend to be a bit touchy about accidentally marrying homosexuals . 	Weet je , ik geef toe , ik heb er weinig ervaring mee . Maar ´t ligt gevoelig , per ongeluk trouwen met ´n homoseksueel . 
+903	Perhaps not spreading this information about might be in your best interest . 	Misschien is niks erover zeggen ´t best voor jou . 
+904	I care for her , I truly do . 	Ik geef om haar . Echt . 
+905	I ... 	
+906	I ... 	Ik weet niet of ik in staat ben ... ... om te doen alsof . 
+907	I just don 't know if I can ... 	Ik weet niet of ik in staat ben ... ... om te doen alsof . 
+908	- ... pretend . 	Ik weet niet of ik in staat ben ... ... om te doen alsof . 
+909	- You can 't tell anyone , Alan . 	- Je kunt ´t niet zeggen . 
+910	It 's illegal . 	Het is strafbaar . 
+911	And Denniston is looking for any excuse he can to put you away . 	Denniston gebruikt alles om je vast te zetten . 
+912	- I know . 	Weet ik . 
+913	- This has to stay a secret . 	- Het moet geheim blijven . 
+914	Come on , it 's your turn . 	Nu ben jij . 
+915	Okay . 	
+916	- Cup of tea ? 	Kopje thee ? 
+917	- No , thank you . 	- Nee , dank u . 
+918	Mr . 	Kan ik u ´n geheim vertellen ? 
+919	Turing , can I tell you a secret ? 	Kan ik u ´n geheim vertellen ? 
+920	- I 'm quite good with those . 	Ik ben goed in geheimen . 
+921	- I 'm here to help you . 	- Ik ben er om u te helpen . 
+922	Oh , clearly . 	O , dat is duidelijk . 
+923	Can machines think ? 	Kan ´n machine denken ? 
+924	Oh , so , you 've read some of my published works ? 	Heeft u iets van m 'n werk gelezen ? 
+925	What makes you say that ? 	Hoe komt u daarbij ? 
+926	Well , because I 'm sitting in a police station , accused of entreating a young man to touch my penis and you just asked me if machines can think . 	Ik ben opgepakt omdat ik ´n jongen vroeg m 'n penis aan te raken . U vraagt of machines kunnen denken . 
+927	Well , can they ? 	Kunnen ze dat ? 
+928	Could machines ever think as human beings do ? 	Kunnen machines ooit denken als mensen ? 
+929	Most people say not . 	De meeste mensen zeggen ´nee ' . 
+930	You 're not most people . 	- U hoort daar niet bij . 
+931	Well , the problem is you 're ... asking a stupid question . 	Probleem is : het is ´n stomme vraag . 
+932	I am ? 	O ja ? 
+933	Of course machines can 't think as people do . 	Natuurlijk kan ´n machine niet denken zoals mensen . 
+934	A machine is different ... from a person . 	Een machine is anders dan ´n mens . 
+935	Hence , they think differently . 	Dus denken ze ook anders . 
+936	The interesting question is , just because something thinks differently from you , does that mean it 's not thinking ? 	Het interessante is : als iets anders denkt dan jij ... ... betekent dat dan dat ´t niet denkt ? 
+937	Well , we allow for humans to have such divergences from one another . 	Wij mensen vinden ´t goed dat er veel verschillen zijn . 
+938	You like strawberries , I hate ice- skating , you ... cry at sad films , 	U houdt van aardbeien , ik haat schaatsen . 
+939	I ... am allergic to pollen . 	U huilt bij films ... ... en ik ben allergisch voor pollen . 
+940	What is the point of different tastes , different ... preferences if not to say that our brains work differently , that we think differently ? 	Waarom bestaan er verschillende smaken en voorkeuren ? Betekent ´t dat onze hersens anders werken , dat we anders denken ? 
+941	If we can say that about one another , then why can 't we say the same thing for brains ... built of copper and wire , steel ? 	Als we dat van elkaar zeggen , zeg je dat dan ook van ´n brein ... ... van koper , draden en staal ? 
+942	And that 's ... this big paper you wrote ? 	En daar gaat die paper van u over . Hoe heet die paper ? 
+943	What 's it called ? 	
+944	" The Imitation Game . " 	The Imitation Game . 
+945	Right , that 's ... that 's what it 's about ? 	Gaat ´t over imiteren ? 
+946	- Would you like to play ? 	Houdt u van spelen ? 
+947	- Play ? 	- Spelen ? 
+948	It 's a game . 	Het is ´n spel . 
+949	A test of sorts . 	Een soort test . 
+950	For determining whether something is a ... a machine or a human being . 	Om vast te stellen of iets een machine is , of ´n mens . 
+951	How do I play ? 	Hoe gaat dat ? 
+952	Well , there 's a judge and a subject , and ... the judge asks questions , and ... depending on the subject 's answers , determines who he is talking with ... what he is talking with , and ... 	- Je hebt ´n rechter en ´n subject . De rechter stelt vragen . De antwoorden geven aan met wie hij praat ... ... of met wat hij praat . 
+953	All you have to do is ask me a question . 	U hoeft me alleen maar wat te vragen . 
+954	- What did you do during the war ? 	Wat deed u in de oorlog ? 
+955	- I worked in a radio factory . 	- Ik heb gewerkt in ´n radiofabriek . 
+956	What did you really do during the war ? 	Wat deed u echt ? 
+957	Are you paying attention ? 	Let u even op ? 
+958	Damn it ! 	Verdomme ... 
+959	We 're soon out of time . 	We hebben nog maar weinig tijd . 
+960	A month . 	Een maand ... 
+961	So , that 's it , then , is it ? 	Dat is ´t dan , hè ? 
+962	Oh , the trouble is , it doesn 't matter how much we improve it . 	- Het maakt niet uit . 
+963	The machine 's never gonna be able to process 159 million million million possibilities in time . 	De machine kan die miljoenen instellingen niet aan . 
+964	It 's just bloody hopeless . 	Het is verdomme hopeloos . 
+965	It 's searching . 	Hij zoekt en zoekt . 
+966	It 's just ... 	
+967	It ... doesn 't know what it 's searching for . 	Hij weet niet wat hij zoekt . 
+968	If we knew what the messages were going to say ... 	Als we weten wat ze willen zeggen ... 
+969	If we knew what the messages were going to say , we wouldn 't have to decrypt them at all . 	- Dan hoeven we niet te decoderen . 
+970	Who 's Alan´s friend ? 	Wie is die vriend van Alan ? 
+971	Hugh . 	Hugh . 
+972	He 's a bit of a cad , actually . 	Lust er wel pap van . 
+973	So , my type , then ? 	Dus helemaal mijn type . 
+974	- Well , I' ll introduce you . 	Ik kan je voorstellen . 
+975	- No . 	Hij komt hierheen . 
+976	He 'll come over . 	Hij komt hierheen . 
+977	- Are you sure ? 	Weet je ´t zeker ? 
+978	- Yes . 	Weet je ´t zeker ? 
+979	I smiled at him 15 minutes ago and haven 't looked back since . 	Ik lachte daarnet naar ´m , en heb niet meer gekeken . 
+980	Who 's that with Joan ? 	Wie is dat meisje bij Joan ? 
+981	Helen . 	Dat is Helen , ´n collega . 
+982	Works with her . 	Dat is Helen , ´n collega . 
+983	- She 's really pretty . 	Ze is heel mooi . 
+984	- She wants me to come over . 	Ze wil dat ik naar haar toe ga . 
+985	What ? 	Ze wil dat ik naar haar toe ga . 
+986	How on earth can you know that ? 	- Hoe weet je dat nou ? 
+987	She smiled at me a while back and she hasn 't looked again since . 	Ze lachte daarnet en heeft niet meer gekeken . 
+988	And got him . 	En ik heb hem . 
+989	Now , why is this , that when I was single I found it very boring , but now that I 'm engaged , I just find it dreadfully fun . 	Ik vond dit altijd stom . Nu ben ik verloofd ... ... en vind ik ´t ontzettend leuk . 
+990	Bingo . 	Bingo . 
+991	She 's in . 	Ze doet mee . 
+992	- Alan , introduce us . 	Stel ons even voor . Hè ? 
+993	- What ? 	Waarom ik ? 
+994	Why me ? 	Waarom ik ? 
+995	Because there 's nothing like a friend 's engagement to make a woman want to do something she 'll later regret with the fiance 's better looking chum . 	Bij ´n verloving kun je gek doen met vrouwen ... ... als je knapper bent dan de verloofde . 
+996	Let 's go . 	Bij ´n verloving kun je gek doen met vrouwen ... ... als je knapper bent dan de verloofde . 
+997	Half a crown says Alan bollixes this up entirely . 	Wedden dat Alan ´t helemaal verprutst ? 
+998	No bet . 	Ik wed niet . 
+999	- Alan Turing has a theory . 	Alan heeft ´n theorie . 
+1000	- He has many . 	- Heeft ie veel . 
+1001	He believes that the regulations against men and women working side by side are sound because such proximity will necessarily lead to romance . 	Er moeten regels zijn voor mannen en vrouwen die samenwerken . Nabijheid leidt tot romantiek . 
+1002	What ? 	- Ik heb ... 
+1003	No , I don 't . 	- Ik heb ... 
+1004	I ... 	Maar ik heb ´n andere mening . 
+1005	- However I disagree . 	Maar ik heb ´n andere mening . 
+1006	- You do ? 	Maar ik heb ´n andere mening . 
+1007	Yeah . 	- O ja ? 
+1008	I think that if I were working beside a woman all day long , 	Als ik met ´n vrouw werk , waardeer ik haar talent en kennis ... ... zonder met haar te slapen . 
+1009	I could appreciate her abilities and intellect without taking her to bed . 	Als ik met ´n vrouw werk , waardeer ik haar talent en kennis ... ... zonder met haar te slapen . 
+1010	I 'm sorry , have we met ? 	Kennen we elkaar ? 
+1011	I don 't recall . 	Ik denk van niet . 
+1012	But let 's assume we haven 't . 	- Helen Stewart , Hugh Alexander . 
+1013	Helen Stewart . 	- Helen Stewart , Hugh Alexander . 
+1014	Hugh Alexander . 	- Helen Stewart , Hugh Alexander . 
+1015	So , who do you agree with , Alan or myself ? 	Ben je ´t eens met Alan of met mij ? 
+1016	Well , Alan , of course . 	- Met Alan , uiteraard . 
+1017	I 'm very flattered , really , but I don 't think ... 	Ik voel me gevleid , maar ... 
+1018	Rubbish . 	Kletskoek . 
+1019	Well , I work beside a man every day , and I can 't help but have developed a bit of a crush on him . 	Ik werk met ´n man , en ben een beetje verliefd op hem . 
+1020	Well , who is this man ? 	Ik sla ´m in elkaar . 
+1021	So I can kick his arse . 	- Niks aan de hand . 
+1022	Well , there 's no need to worry , it 's been chaste . 	Het is kuis . 
+1023	We 've never even met . 	Ik ken ´m niet . 
+1024	He 's a German . 	Het is ´n Duitser . 
+1025	Now I really want to kill him . 	Nu wil ik ´m echt vermoorden . 
+1026	How do you mean you work alongside a German ? 	Hoe kun je werken met ´n Duitser ? 
+1027	Well , each of us intercepts messages from a specific German radio tower . 	We onderscheppen berichten van ´n Duitse zender . 
+1028	So , we have a counterpart on the other side who 's tip- tapping out the messages . 	De andere kant tikt morseberichten . 
+1029	Everyone types a touch differently , so you get to know the rhythm of your counterpart . 	Iedereen tikt op z 'n eigen manier . 
+1030	It 's strangely intimate . 	Het is eigenaardig intiem . 
+1031	I feel as if I know him so well . 	Ik ken ´m goed , denk ik . 
+1032	It 's a pity he has a girlfriend , but that 's why I disagree with you , Mr . 	En hij heeft ´n vriendin . Dus ik ben ´t oneens met u . 
+1033	Alexander . 	Ik ben verliefd op ´n collega die ik niet ken . 
+1034	Because I 'm in love with a coworker of sorts , and we 've never even met . 	Ik ben verliefd op ´n collega die ik niet ken . 
+1035	Well , allow me to buy you another pint , and I' ll tell you why you 're wrong . 	Ik trakteer u op ´n pint , en leg uit waarom u zich vergist . 
+1036	Let 's . 	Ik trakteer u op ´n pint , en leg uit waarom u zich vergist . 
+1037	Excellent . 	Heel goed . 
+1038	Thanks . 	
+1039	Pints . 	
+1040	Have you got any sloe gin ? 	
+1041	In case you were wondering , that 's what flirting looks like . 	Zo ziet flirten er dus uit . 
+1042	Helen ... 	Helen ... 
+1043	Alan ? 	
+1044	Yes , Alan ? 	Ja , Alan ? 
+1045	Why do you think your German counterpart has a girlfriend ? 	- Waarom heeft de Duitser ´n vriendin ? 
+1046	- It 's just a stupid joke , don 't worry . 	Stomme grap . Laat maar . 
+1047	- No , no , no , no . 	- Nee , vertel ´t me . 
+1048	Tell me . 	- Nee , vertel ´t me . 
+1049	Well , each of his messages begins with the same five letters : 	Al z 'n berichten beginnen met dezelfde letters , C- I- L- L- Y . 
+1050	C- I- L- L- Y . 	Al z 'n berichten beginnen met dezelfde letters , C- I- L- L- Y . 
+1051	So , I suspect that Cilly must be the name of his amore . 	Ik denk dat het z 'n meisje is . 
+1052	But that 's impossible . 	Kan niet . 
+1053	The Germans are instructed to use five random letters 	De Duitsers moeten willekeurige letters gebruiken . 
+1054	- at the start of every message . 	De Duitsers moeten willekeurige letters gebruiken . 
+1055	- Well , this bloke doesn 't . 	Deze doet ´t niet . 
+1056	Love will make a man do strange things , I suppose . 	Liefde maakt de mensen gek . 
+1057	In this case , love just lost Germany the whole bloody war . 	En nu laat de liefde Duitsland de hele rotoorlog verliezen . 
+1058	Go , Peter . 	
+1059	Sorry . 	
+1060	Alan ! 	
+1061	Alan ! 	
+1062	Alan ! 	
+1063	I just want ... 	
+1064	Hugh Alexander . 	
+1065	John Cairncross . 	
+1066	Peter bloody Hilton . 	
+1067	Alan ? 	
+1068	What ... ? 	
+1069	What ... 	Stel ... 
+1070	What if ... what if Christopher doesn 't have to search through all of the settings ? 	Stel dat Christopher niet hoeft te zoeken in alle instellingen ... ... maar alleen in instellingen van woorden die we al kennen ? 
+1071	What if he only has to search through ones that produce words we already know will be in the message ? 	Stel dat Christopher niet hoeft te zoeken in alle instellingen ... ... maar alleen in instellingen van woorden die we al kennen ? 
+1072	- Repeated words , predictable words . 	Herhaalde , voorspelbare woorden . 
+1073	- Exactly . 	Herhaalde , voorspelbare woorden . 
+1074	Look , look , like this one . 	Zoals deze : 
+1075	" 0600 hours . 	' 0600 uur , helder weer , vanavond regen . 
+1076	Weather today is clear . 	' 0600 uur , helder weer , vanavond regen . 
+1077	Rain in the evening . 	' 0600 uur , helder weer , vanavond regen . 
+1078	Heil Hitler . " 	Heil Hitler . ' 
+1079	Well , that 's it . 	Dat is het . 
+1080	Exactly . 	Ze sturen elke dag ´n weerbericht om zes uur ´s morgens . 
+1081	They send a weather report every day at 6 : 00 a . m . 	Ze sturen elke dag ´n weerbericht om zes uur ´s morgens . 
+1082	So , that 's three words we know will be in every 6 : 00 a . m . message ... 	Dus drie woorden zitten steeds in elk ochtendbericht . 
+1083	" weather , " obviously , and ... 	' Weer´ dus , en ... - ' Heil rot- Hitler ' . 
+1084	- Heil bloody Hitler . 	' Heil rot- Hitler ' . 
+1085	- Heil bloody Hitler . 	' Heil rot- Hitler ' . 
+1086	Here 's the 6 : 00 message from this morning . 	Het bericht van zes uur vandaag . 
+1087	Hugh , the the right- hand letter wheel , set them to ... 	Hugh , stel de rechterrotors in op ... 
+1088	I know , I know . 	- ' Weer´ en ´Hitler ' . 
+1089	" Weather " and " Hitler . " 	- ' Weer´ en ´Hitler ' . 
+1090	Peter , John , run voltages through those letters , through the back scramblers . 	Peter en John , zet de rotors op spanning achterin . 
+1091	So , we 'll use the loops ? 	Met de spoelen , dus . 
+1092	Yes . 	Met de spoelen , dus . 
+1093	Joan , what was the last 6 : 00 a . m . message ? 	- Joan , laatste bericht ? 
+1094	- L . 	L . 
+1095	- L . 	L . 
+1096	- H . 	H . 
+1097	- H . 	H . 
+1098	- W . 	
+1099	- W . 	
+1100	- A . 	
+1101	- A . 	
+1102	- Q . 	
+1103	- Q . 	
+1104	Done . 	Klaar . 
+1105	Come on . 	
+1106	Come on . 	
+1107	Come on , Christopher . 	
+1108	Oh , my God . 	Mijn god ... 
+1109	What happened ? 	Wat is er gebeurd ? 
+1110	- Did it work ? 	Heeft ´t gewerkt ? 
+1111	- Alan ? 	Heeft ´t gewerkt ? 
+1112	Alan ! 	
+1113	Alan ! 	
+1114	I need a new message . 	Ik heb het laatste bericht nodig . 
+1115	The latest intercept . 	Ik heb het laatste bericht nodig . 
+1116	Thank you . 	
+1117	O ... 	
+1118	T . 	Klaar ? 
+1119	- Ready ? 	Klaar ? 
+1120	- Yes . 	Klaar ? 
+1121	- M . 	
+1122	- M . 	
+1123	- Y . 	
+1124	- Y . 	
+1125	- M . 	
+1126	S . 	
+1127	- M . 	
+1128	S . 	
+1129	- A . 	
+1130	I . 	
+1131	- A . 	
+1132	I . 	
+1133	- C . 	
+1134	- C . 	
+1135	- T . 	
+1136	R . 	
+1137	- T . 	
+1138	R . 	
+1139	- I . 	
+1140	S . 	
+1141	- I . 	
+1142	S . 	
+1143	- O . 	
+1144	A . 	
+1145	- O . 	
+1146	A . 	
+1147	- Y . 	
+1148	R . 	
+1149	- Y . 	
+1150	R . 	
+1151	- I . 	
+1152	- I . 	
+1153	" KMS Jaguar is aufpunkt is directed to 53 degrees 24 minutes north and aufpunkt one ... degree west . " 	´Konvoi Jaguar ist auf Punkt . 53 graden , 24 minuten noord . ' ´Auf punkt 1 ... ' 
+1154	Heil Hitler . 	Heil Hitler . 
+1155	Turns out that 's the only German you need to know to break Enigma . 	Meer Duits hoef je niet te weten om Enigma te kraken . 
+1156	Yes ! 	
+1157	- M . 	
+1158	- M . 	
+1159	- A . 	
+1160	- A . 	
+1161	- Y . 	
+1162	- Y . 	
+1163	- I . 	
+1164	- I . 	
+1165	- T . 	
+1166	- T . 	
+1167	- R . 	
+1168	- R . 	
+1169	- O . 	
+1170	- O . 	
+1171	T . 	
+1172	- T . 	
+1173	A . 	
+1174	- A . 	
+1175	- H . 	
+1176	- H . 	
+1177	- Q . 	
+1178	- Q . 	
+1179	- U . 	
+1180	- U . 	
+1181	R . 	
+1182	R . 	
+1183	My God , you did it . 	Mijn god , het is je gelukt . 
+1184	You just defeated Nazism with a crossword puzzle . 	Je hebt de nazi 's verslagen met ´n kruiswoordpuzzel . 
+1185	There are five people in the world who know the position of every ship in the Atlantic . 	Vijf mensen weten waar elk schip op de oceaan is . 
+1186	- They 're all in this room . 	En ze zijn in deze zaal . 
+1187	- Oh , good God . 	Goeie god ... 
+1188	Oh , I don 't think even He has the power that we do right now . 	- Zelfs Hij kan niet wat wij doen . 
+1189	No . 	- Zelfs Hij kan niet wat wij doen . 
+1190	There 's going to be an attack on a British passenger convoy . 	Er komt ´n aanval op een Brits konvooi . 
+1191	Right there . 	Daar . 
+1192	God , you 're right . 	Klopt . 
+1193	All those U- boats are only 20 , 30 minutes away . 	Die U- Boten zijn er over twintig minuten . 
+1194	Civilians . 	Die U- Boten zijn er over twintig minuten . 
+1195	Hundreds of them . 	We kunnen veel burgers redden . 
+1196	We can save their lives . 	We kunnen veel burgers redden . 
+1197	I' ll phone Denniston 's office so that he can alert the Admiralty . 	- Ik bel Denniston meteen . 
+1198	Do you think there 's enough time to save them ? 	Kan ´t nog ? 
+1199	There should be , if we can get a message ... 	- Als die boodschap op tijd is . 
+1200	Commander Denniston 's office , please . 	Het is urgent . 
+1201	It 's urgent . 	Het is urgent . 
+1202	No . 	- Nee ... 
+1203	- What the hell are you doing ? 	Wat doe je nou ? 
+1204	- You can 't call Denniston . 	- Zeg Denniston niks over die aanval . 
+1205	- You can 't tell him about the attack . 	- Zeg Denniston niks over die aanval . 
+1206	- What are you talking about ? 	Wat klets je ? 
+1207	We can have air support over that convoy in ten minutes . 	- We kunnen luchtsteun geven . 
+1208	Let the U- boats sink the convoy . 	Laat die U- Boten begaan . 
+1209	It 's been a big day , maybe you 're suffering ... 	- Het was ´n zware dag . Je ... 
+1210	- We don 't have time ... 	Er is geen tijd . 
+1211	- No ! 	
+1212	- Hugh ! 	
+1213	Hugh ! 	Genoeg ... 
+1214	That 's enough ! 	Genoeg ... 
+1215	That 's enough ! 	- Stop , Hugh . 
+1216	- Stop , Hugh ! 	- Stop , Hugh . 
+1217	John , the attack is in minutes . 	Die aanval komt er aan . 
+1218	Yes , no , I 'm fine , I 'm fine . 	Het gaat prima . Prima . 
+1219	I 'm fine . 	
+1220	You know why people like violence , Hugh ? 	Waarom houden mensen van geweld ? 
+1221	It 's because it feels good . 	Het geeft ´n lekker gevoel . 
+1222	Sometimes we can 't do what feels good . 	Soms kun je het lekkere niet doen . 
+1223	- We have to do what is logical . 	Dan doe je het logische . 
+1224	- What 's logical ? 	Wat is het logische ? 
+1225	Hardest time to lie to somebody is when they 're expecting to be lied to . 	Het moeilijkst is liegen tegen iemand die leugens verwacht . 
+1226	- Oh , God . 	Het moeilijkst is liegen tegen iemand die leugens verwacht . 
+1227	- What ? 	
+1228	If someone 's waiting for a lie , you can 't just give them one . 	Als iemand ´n leugen verwacht , kun je niet zomaar liegen . 
+1229	- Damn it , Alan 's right . 	Verdomme . Alan heeft gelijk . 
+1230	- What ? 	
+1231	What would the Germans think if we destroy their U- boats ? 	Wat denken Duitsers als we hun U- Boten vernietigen ? 
+1232	- Nothing . 	Niks , dan zijn ze dood . 
+1233	They 'll be dead . 	- Nee ... 
+1234	- No . 	
+1235	No , you can 't be right . 	Dit kan niet goed zijn . 
+1236	So , our convoy suddenly veers off course ... a squadron of our air bombers miraculously descends on the coordinates of the U- boats ... what will the Germans think ? 	- Ons konvooi wijzigt z 'n koers . Een eskader jachtvliegtuigen daagt op , als door ´n wonder , bij die U- Boten . Wat zullen de Duitsers ervan denken ? 
+1237	The Germans will know that we have broken Enigma . 	Dan weten ze dat we Enigma hebben gekraakt . 
+1238	They 'll stop all radio communications by midday , and they 'll have changed the design of Enigma by the weekend . 	Ze stoppen met hun berichten vrijwel direct ... ... en veranderen Enigma dit weekend . 
+1239	Yes . 	
+1240	Two years´ work . 	Twee jaar werk . 
+1241	Everything that we 've done here will all be for nothing . 	Alles wat we hebben gedaan , is dan voor niets geweest . 
+1242	There are 500 civilians in that convoy . 	Er zitten vijfhonderd burgers bij . 
+1243	Women , children . 	Vrouwen , kinderen ... 
+1244	We 're about to let them die . 	En we laten ze doodgaan . 
+1245	Our job is not to save one passenger convoy , it is to win the war . 	- We moeten niet ´n konvooi redden ... ... maar de oorlog winnen . 
+1246	- Our job was to crack Enigma . 	We moesten Enigma kraken . 
+1247	- We 've done that . 	- Dat hebben we gedaan . 
+1248	Now for the hard part . 	Nu komt het moeilijkste . 
+1249	- Keeping it a secret . 	Het geheim houden . 
+1250	- Carlisle . 	- De Carlisle ... 
+1251	What ? 	
+1252	The convoy you 're about to ... it 's ... 	Het konvooi dat je nu laat ... 
+1253	The HMS Carlisle is one of the ships . 	De Carlisle is een van de schepen . 
+1254	We can 't act on every piece of intelligence . 	We kunnen niet op alle informatie reageren , dat doen we ook niet . 
+1255	So , fine , we won 't . 	We kunnen niet op alle informatie reageren , dat doen we ook niet . 
+1256	- Just this one . 	Maar in dit geval ... 
+1257	- Peter , what 's the matter with you ? 	- Wat heb je , Peter ? 
+1258	My brother 's ... well , he 's on the Carlisle . 	M 'n broer vaart op de Carlisle . 
+1259	A gunnery ensign . 	Als artillerieofficier . 
+1260	I 'm ... 	
+1261	I 'm so sorry . 	Het spijt me . 
+1262	Who the hell do you think you are ? 	Wat denk je wel ? 
+1263	This ... this is my brother . 	Het is m 'n broer ... 
+1264	He 's my big brother , all right , and you have a few minutes to call off his murder . 	Je kunt de moord op hem voorkomen . 
+1265	We can 't . 	Dat kunnen we niet . 
+1266	He 's right . 	Hij heeft gelijk . 
+1267	Alan . 	Alan ... 
+1268	Joan . 	Joan ... 
+1269	Hugh . 	Hugh , John ... 
+1270	John . 	
+1271	Please , I ... 	Alsjeblieft , ik ... 
+1272	The Germans , they won 't get suspicious just because we stop one attack . 	De Duitsers vermoeden niks . Het is één aanval ... 
+1273	No one will know . 	Niemand zal ervan weten . 
+1274	I 'm asking you as your friend . 	Ik vraag ´t jullie ... ... als jullie vriend . 
+1275	Please . 	Alsjeblieft . 
+1276	I 'm so sorry . 	Het spijt me heel erg . 
+1277	You 're not God , Alan , you don 't get to decide who lives and who dies . 	Jij bent niet God die over leven of dood beslist . 
+1278	Yes , we do . 	Dat doen we wel . 
+1279	Why ? 	Waarom ? 
+1280	Because no one else can . 	Omdat niemand anders ´t kan doen . 
+1281	Why are you telling me this ? 	Waarom vertel je me dit ? 
+1282	We need your help to keep this a secret from Admiralty , Army , RAF . 	- We hebben je hulp nodig . Dit moet geheim blijven voor marine , leger en luchtmacht . 
+1283	No one can know we broke Enigma . 	Niemand mag weten dat Enigma gekraakt is . 
+1284	Not even Denniston . 	Zelfs Denniston niet . 
+1285	Who 's in the process of having you fired . 	- Die wil jou ontslaan . 
+1286	You can take care of that . 	Jij kunt dat afhandelen . 
+1287	While we develop a system to help you determine how much intelligence to act on ... which attacks to stop , which to let through . 	Wij maken ´n systeem dat zegt welke informatie actie vereist . Welke aanval hou je tegen , welke niet ? 
+1288	Statistical analysis . 	Statistische analyse . 
+1289	The minimal number of actions it would take for us to win the war ... but the maximum number we can take before the Germans get suspicious . 	Wat moet je minimaal doen om de oorlog te winnen ? En wat kun je maximaal doen voor de Duitsers iets doorkrijgen ? 
+1290	And you 're going to trust all this to statistics ? 	En dat vertrouw je toe aan statistiek ? 
+1291	- To maths ? 	Aan wiskunde ? 
+1292	- Correct . 	- Juist . 
+1293	And then MI6 can come up with the lies that we tell everybody else . 	En MI6 verspreidt steeds onze leugens . 
+1294	You 'll need a believable alternative source for all the pieces of information you use . 	Je hebt ´n geloofwaardige bron voor je informatie nodig . 
+1295	A false story so that we can explain how we got our information that has nothing to do with Enigma . 	Een dekmantel voor informatie die niks te maken heeft met Enigma . 
+1296	And then you can leak those stories to the Germans . 	Deze verhalen lek je naar de Duitsers . 
+1297	And then to our own military . 	Dan naar onze defensie . 
+1298	Maintain a conspiracy of lies at the highest levels of government . 	Een samenzwering van leugens op het hoogste overheidsniveau . 
+1299	Sounds right up my alley . 	Een kolfje naar m 'n hand . 
+1300	Alan , I so rarely have cause to say this , but you are exactly the man I always hoped you would be . 	Ik heb zelden reden om dit te zeggen . Je bent precies de man op wie ik had gehoopt . 
+1301	They code- named it " Ultra . " 	De codenaam was Ultra . 
+1302	It became the largest store of military intelligence in ... the history of the world . 	Het werd de grootste militaire spionageoperatie aller tijden . 
+1303	It was like having a tap on Himmler 's intercom . 	Alsof we Himmler konden afluisteren . 
+1304	I- E- O ... 	
+1305	Secrecy became the primary concern , and for some reason , they ... they trusted me . 	Geheimhouding was de eerste zorg , en dat vertrouwden ze aan mij toe . 
+1306	Peter , do you have the ... 630 decryp ... 	Peter ... Heb jij de decodering van half zeven ? 
+1307	It 's a Beale cipher encrypted with a phrase from a book or ... 	... Beale- cijfer , coderen met ´n zin ... 
+1308	" Ask , and it will be given to you ; seek and you will find . " 	´Zoek , en je zult vinden . ' 
+1309	Matthew 7 : 7 . 	De sleutel was Matteüs 7, 7 . 
+1310	That was the key . 	De sleutel was Matteüs 7, 7 . 
+1311	Peter will come around eventually . 	Peter komt er wel overheen . 
+1312	Jack . 	Jack ... 
+1313	Could you give Alan and me a moment , please ? 	Wil je Alan en mij even alleen laten ? 
+1314	The Soviets and us , we 're on the same side . 	De Sovjets en wij staan aan dezelfde kant . 
+1315	What I 'm doing will help Britain . 	Hiermee help ik Groot- Brittannië . 
+1316	I have to tell Denniston . 	- Ik moet ´t zeggen tegen Denniston . 
+1317	No , you don 't . 	Je hoeft ´t niet te zeggen . 
+1318	Because if you tell him my secret ... 	Als jij mijn geheim vertelt ... ... vertel ik jouw geheim . 
+1319	I' ll tell him yours . 	Als jij mijn geheim vertelt ... ... vertel ik jouw geheim . 
+1320	Do you know what they do to homosexuals ? 	Weet je wat ze doen met homoseksuelen ? 
+1321	You 'll never be able to work again , never be able to teach . 	Die mogen niet meer werken of lesgeven . 
+1322	Your precious machine ... 	Jouw geliefde machine ... ... zie je nooit meer . 
+1323	I doubt you 'll ever see him again . 	Jouw geliefde machine ... ... zie je nooit meer . 
+1324	Hello . 	Kunt u mij doorverbinden met Stewart Menzies ? 
+1325	Can I ... can I speak to Stewart Menzies , please ? 	Kunt u mij doorverbinden met Stewart Menzies ? 
+1326	It 's urgent . 	Kunt u mij doorverbinden met Stewart Menzies ? 
+1327	One moment , please . 	Moment . 
+1328	Hello . 	Met Menzies . 
+1329	Menzies . 	
+1330	Some advice about keeping secrets . 	Enig advies over geheimen bewaren : 
+1331	It 's a lot easier if you don 't know them in the first place . 	Het is veel eenvoudiger als je ze niet hebt . 
+1332	Were they steaming my letters , tapping my telephone ? 	Stoomden ze m 'n brieven open ? Werd ik afgeluisterd ? 
+1333	Trailing my nervous walks ? 	Volgden ze me tijdens wandelingen ? 
+1334	You know , I ... 	Weet je , ik ... 
+1335	I never did find out . 	Ik ben er nooit achtergekomen . 
+1336	Joan ? 	Joan ... 
+1337	Joan ? 	Joan , wat is ... 
+1338	What 's ... 	
+1339	Where 's Joan ? 	Waar is Joan ? 
+1340	Military prison . 	In de militaire gevangenis . 
+1341	What have you done ? 	Wat heb je gedaan ? 
+1342	Decoded Enigma intercepts . 	Gedecodeerde berichten naast het bed ... 
+1343	I found a pile of them in the bedside table . 	Gedecodeerde berichten naast het bed ... 
+1344	No , no . 	Die heb ik ´n jaar geleden gegeven . 
+1345	I gave those to her over a year ago when I was trying to figure out 	Die heb ik ´n jaar geleden gegeven . 
+1346	- a link between ... 	Ik zocht ´n verband tussen ... 
+1347	- I 'm sure you did . 	- Dat zal wel . 
+1348	Denniston 's been looking for a Soviet spy . 	Denniston zoekt naar ´n Sovjet- spion . 
+1349	He 's been looking inside Hut 8 . 	Dat doet hij in Hut 8 . 
+1350	I know who the spy is . 	Ik weet wie de spion is . 
+1351	It 's not Joan . 	En ´t is niet Joan . 
+1352	It 's ... it 's Cairncross . 	Het is Cairncross . 
+1353	I found the Beale cipher , the Bible . 	Ik vond het Beale- cijfer , de Bijbel . 
+1354	God , I wish you 'd been a spy . 	God , ik wou dat jij die spion was . 
+1355	You 'd be so much better at this than he is . 	Jij zou veel beter geweest zijn . 
+1356	You knew it was him ? 	Je wist dat hij ´t was . 
+1357	Of course I bloody knew . 	- Ik wist ´t verdomd goed . 
+1358	I knew before he came to Bletchley . 	Al voordat hij hier kwam . 
+1359	Why do you think I had him placed here ? 	Ik heb ´m hier geplaatst . 
+1360	But we have an Enigma machine . 	Maar we hebben ´n Enigma , dus wat is het probleem ? 
+1361	Yeah , Polish Intelligence ... 	Maar we hebben ´n Enigma , dus wat is het probleem ? 
+1362	You placed a ... a Soviet agent at Bletchley Park ? 	Heb jij ´n Sovjet- agent neergezet in Bletchley Park ? 
+1363	It 's really quite useful to be able to leak whatever we want to Stalin . 	Handig als we iets willen lekken naar Stalin . 
+1364	Churchill 's too damn paranoid . 	Churchill is te achterdochtig . 
+1365	He won 't share a shred of intelligence with the Soviets . 	Die wil geen flard informatie delen met de Sovjets . 
+1366	Not even information that will help them against the Germans . 	Zelfs niet iets wat de Sovjets helpt tegen de Duitsers . 
+1367	There 's ... so much secrecy . 	Al die geheimen ... 
+1368	Cairncross has no idea we know , of course . 	Cairncross weet niet dat we ´t weten . 
+1369	He 's really not the brightest bulb . 	Hij is ook niet de slimste . 
+1370	Which is why I need your help . 	Daarom heb ik jouw hulp nodig . 
+1371	I want to know what to leak to John , what to feed to the Soviets , as well as the British . 	Wat moet ik lekken naar John , voor de Sovjets en de Britten ? 
+1372	I 'm not a spy . 	Ik ben geen spion . 
+1373	I 'm ... 	Ik ben ... 
+1374	I 'm just a mathematician . 	Ik ben maar ´n wiskundige . 
+1375	I know a lot of spies , Alan . 	Ik ken heel veel spionnen , Alan . 
+1376	You 've got more secrets than the best of them . 	Jij hebt meer geheimen dan de beste . 
+1377	You ... you have to promise me that you will release Joan . 	Je moet beloven dat je Joan vrijlaat . 
+1378	Yes , Joan 's at the market . 	Joan is op de markt . 
+1379	She 's gonna be back in an hour . 	Die is zo terug . Ik heb gelogen . 
+1380	I lied . 	
+1381	I better hold on to these . 	Dit bewaar ik . 
+1382	If anybody finds out about them , prison will be the least of her worries . 	Als ´t zou worden ontdekt , is vastzitten de minste zorg . 
+1383	Oh , Alan ... we 're gonna have such a wonderful war together . 	O , Alan ... We krijgen ´n heerlijke oorlog samen . 
+1384	- I need you to leave Bletchley . 	Ik wil dat je weggaat uit Bletchley . 
+1385	- What ? 	Ik wil dat je weggaat uit Bletchley . 
+1386	It 's Menzies . 	Ik vertrouw Menzies niet . 
+1387	I don 't trust him . 	Ik vertrouw Menzies niet . 
+1388	It 's not safe here . 	Het is niet veilig . 
+1389	- Do you think it 's any safer anywhere else ? 	- Is ´t elders veiliger ? 
+1390	- You need to get away . 	Je moet weg van mij . 
+1391	- You need to get very far away from me . 	Je moet weg van mij . 
+1392	- Alan , what 's happened ? 	- Wat is er gebeurd ? 
+1393	We can 't be engaged anymore . 	Ik kan niet meer verloofd zijn . 
+1394	You ... your parents need to take you back and find you a husband elsewhere . 	Je ouders moeten je terugnemen , en ergens anders ´n man zoeken . 
+1395	What 's wrong with you ? 	Wat heb jij ? 
+1396	I have something to tell you . 	Ik moet je iets vertellen . 
+1397	I 'm ... 	Ik ben ... 
+1398	I 'm a homosexual . 	Ik ben homoseksueel . 
+1399	All right . 	Goed . 
+1400	No , no . 	Mannen , Joan . 
+1401	Men , Joan ... 	Mannen , Joan . 
+1402	- not women . 	Niet vrouwen . 
+1403	- So what ? 	Nou en ? 
+1404	- Well , I just told you . 	Ik heb ´t net gezegd . - Nou en ? 
+1405	- So what ? 	
+1406	I had my suspicions ; I always did . 	Ik heb ´t altijd al vermoed . 
+1407	But we 're not like other people . 	Wij zijn anders . 
+1408	We love each other in our own way , and we can have the life together that we want . 	We houden van elkaar op onze manier . We leven samen zoals we willen . 
+1409	You ... you won 't be the perfect husband . 	Jij wordt geen perfecte man . 
+1410	Well , I can promise you , I have no intention of being the perfect wife . 	Ik beloof je , dat ik geen perfecte vrouw wil zijn . 
+1411	I' ll not be ... fixing your lamb all day while you come home from the office . 	Ik ga niet ... ... koken terwijl jij op kantoor zit . 
+1412	I' ll work . 	Ik ga werken . 
+1413	You 'll work . 	Jij gaat werken . 
+1414	And we 'll have each other 's company . 	En we zullen bij elkaar zijn . 
+1415	We 'll have each other 's minds . 	En elkaars geest hebben . 
+1416	That sounds like a better marriage than most . 	Lijkt me ´n beter huwelijk dan de meeste . 
+1417	Because I care for you . 	Want ik geef om je . 
+1418	And you care for me . 	En jij geeft om mij . 
+1419	And we understand one another more than ... more than anyone else ever has . 	We begrijpen elkaar beter dan wie ook . 
+1420	I don 't . 	Ik niet . 
+1421	- What ? 	Wat ? 
+1422	- Care for you . 	- Ik geef niet om je . 
+1423	I never did . 	Nooit gedaan ook . 
+1424	I just needed you to break Enigma . 	Ik had je alleen nodig voor Enigma . 
+1425	I' ve done that now , so ... so you can go . 	Dat heb ik gedaan . Dus je kunt gaan . 
+1426	I 'm not going anywhere . 	Ik ga nergens naartoe . 
+1427	I' ve spent entirely too much of my life worried about what you think of me , or what my parents think of me , or the boys in Hut 8 or the girls in Hut 3 . 	Ik ben veel te bezorgd over wat jij vindt ... ... m 'n ouders vinden ... ... de jongens van Hut 8 , de meiden van Hut 3 . 
+1428	And do you know what ? 	Ik ben veel te bezorgd over wat jij vindt ... ... m 'n ouders vinden ... ... de jongens van Hut 8 , de meiden van Hut 3 . 
+1429	I 'm done . 	Ik ben veel te bezorgd over wat jij vindt ... ... m 'n ouders vinden ... ... de jongens van Hut 8 , de meiden van Hut 3 . 
+1430	This is the most important work I will ever do , and no one is going to stop me . 	Dit is het belangrijkste werk van m 'n leven . Niemand stopt mij . 
+1431	Least of all , you . 	Zeker jij niet . 
+1432	You know what , they were right . 	Ze hadden gelijk . 
+1433	Peter , Hugh , John . 	Peter , Hugh en John . 
+1434	You really are a monster . 	Je bent echt ´n monster . 
+1435	The war dragged on for two more ... solitary years ... and every day we performed our blood- soaked calculus . 	De oorlog sleepte zich voort gedurende nog twee ... ... eenzame jaren . En dagelijks maakten we onze bloedige berekeningen . 
+1436	Every day we decided who lived and who died . 	We beslisten over leven en dood . 
+1437	Every day we ... helped the Allies to victories , and nobody knew . 	We hielpen de Geallieerden aan overwinningen . Niemand wist dat . 
+1438	Stalingrad . 	Stalingrad . 
+1439	The Ardenne . 	De Ardennen . 
+1440	The invasion of Normandy . 	De invasie in Normandië . 
+1441	All victories that would not have been possible without the intelligence that we supplied . 	Overwinningen die onmogelijk waren zonder onze informatie . 
+1442	And people ... talk about the war as this epic battle between ... civilizations ... freedom versus tyranny , democracy versus Nazism , armies of millions bleeding into the ground , fleets of ships weighing down the oceans , planes dropping bombs from the sky until they obliterated the sun itself ... the war wasn 't like that for us . 	Mensen praten over de oorlog ... ... als over ´n beslissende slag tussen beschavingen . Vrijheid versus tirannie , democratie versus nazisme . Legers van miljoenen die de grond bebloedden . 
+1443	For us , it was just ... half a dozen crossword enthusiasts in a tiny village in the South of England . 	Voor ons was ´t alleen ... ... een paar kruiswoordpuzzelfans in ´n dorpje in Zuid- Engeland . 
+1444	This is ... your victory . 	... uw overwinning ... 
+1445	Victory ... of the cause of freedom in every land . 	De overwinning ... ... van de goede zaak van vrijheid , in alle landen . 
+1446	This is a solemn but glorious hour . 	Dit is ´n plechtig , maar glorieus moment . 
+1447	I wish that Franklin D . 	Ik zou willen dat Roosevelt vandaag nog had kunnen meemaken . 
+1448	Roosevelt had lived to see this day . 	Ik zou willen dat Roosevelt vandaag nog had kunnen meemaken . 
+1449	Was I God ? 	Was ik God ? 
+1450	No . 	Nee . 
+1451	Because ... 	God had de oorlog niet gewonnen . 
+1452	God didn 't win the war . 	God had de oorlog niet gewonnen . 
+1453	We did . 	Wij hadden gewonnen . 
+1454	So , what happens now ? 	Wat gaat er nu gebeuren ? 
+1455	Is it ... back to university for us , I suppose ? 	Terug naar de universiteit , denk ik . 
+1456	Yes , pretty much . 	Ja , zo ongeveer . 
+1457	But you 've one thing left to do before your service to your government in concluded . 	Nog één ding , dan is je werk voor de overheid klaar . 
+1458	- What 's that ? 	Wat is dat dan ? 
+1459	- Burn everything . 	Alles verbranden . 
+1460	- Burn ? 	- Waarom ? 
+1461	Why ? 	- Waarom ? 
+1462	- You were told when you started this was a top- secret program . 	Je wist vanaf ´t begin dat het project topgeheim was . 
+1463	Did you think we were joking ? 	Dat was geen grap . 
+1464	- But the war is over . 	De oorlog is voorbij . 
+1465	- This war is . 	- Deze . 
+1466	But there 'll be others . 	Maar er komen andere . 
+1467	And we know how to break a code that everybody else believes is unbreakable . 	En we kunnen ´n codering kraken die iedereen onkraakbaar acht . 
+1468	Precisely . 	Precies . 
+1469	Tear it down . 	Verscheur het , verbrand het , veeg de as weg . 
+1470	Light it up . 	Verscheur het , verbrand het , veeg de as weg . 
+1471	Sweep away the ashes . 	Verscheur het , verbrand het , veeg de as weg . 
+1472	None of you have ever met before . 	Jullie kennen elkaar niet , en hebben het woord Enigma nooit gehoord . 
+1473	None of you have ever even heard the word Enigma . 	Jullie kennen elkaar niet , en hebben het woord Enigma nooit gehoord . 
+1474	Have a safe trip home . 	Behouden thuiskomst . 
+1475	Behave . 	Gedraag je . 
+1476	With a bit of luck , you 'll never have to see me or one another again for the rest of your lives . 	Met wat geluk zie je mij , of elkaar , de rest van je leven niet meer . 
+1477	That 's unbelievable . 	Ongelooflijk . 
+1478	Now , Detective , you get to judge . 	En nu , rechercheur ... ... is ´t aan u om te oordelen . 
+1479	So , tell me ... what am I ? 	Vertel eens . Wat ben ik ? 
+1480	Am I ... a machine ? 	Ben ik ... ... een machine ? Ben ik ´n mens ? 
+1481	Am I a person ? 	
+1482	Am I a war hero ? 	Ben ik ´n oorlogsheld ? 
+1483	Am I a criminal ? 	Ben ik ´n misdadiger ? 
+1484	I can 't judge you . 	Ik kan niet over u oordelen . 
+1485	Well , then ... 	Nou , dan ... 
+1486	you 're no help to me at all . 	... heb ik aan u ook niks . 
+1487	Come in . 	Binnen . 
+1488	You wanted to see me , sir ? 	U wilde me spreken . 
+1489	Turing . 	Turing ... 
+1490	Sit down . 	Ga zitten . 
+1491	Something the matter ? 	Is er iets aan de hand ? 
+1492	You and Christopher Morcom are quite close . 	Jij en Chris Morcom zijn bevriend . 
+1493	I wouldn 't say that . 	- Kan ik niet zeggen . 
+1494	Well , your mathematics teacher says the two of you are positively inseparable . 	Je wiskundedocent zegt : Altijd samen . 
+1495	We 're the best students in the class . 	- Wij zijn de besten . 
+1496	He caught you passing notes the other day . 	Jullie geven briefjes door . 
+1497	Cryptography , to pass the time . 	- Cryptografie . 
+1498	The class is too simple . 	De les is te simpel . 
+1499	You and your friend solve maths problems during maths class because the maths class is too dull ? 	Jij en je vriend lossen vraagstukken op , want de wiskundeles is te saai . 
+1500	He 's not my friend . 	Hij is niet m 'n vriend . 
+1501	- Well , I 'm told he 's your only friend . 	Ze zeggen : Je enige vriend . 
+1502	- Who said that ? 	Wie zegt dat ? 
+1503	Something 's come up concerning Morcom . 	Er is iets gebeurd inzake Morcom . 
+1504	Why am I here ? 	Waarom ben ik hier ? 
+1505	Christopher is dead . 	Christopher is dood . 
+1506	I don 't understand . 	Ik snap ´t niet . 
+1507	His mother sent word this morning . 	Z 'n moeder heeft ´t net laten weten , vanaf hun vakantieadres . 
+1508	The family were on holiday , you see . 	Z 'n moeder heeft ´t net laten weten , vanaf hun vakantieadres . 
+1509	I don 't understand . 	Ik snap ´t niet . 
+1510	Well , he had bovine tuberculosis , as I 'm sure he told you . 	Hij had rundertuberculose . Dat heeft hij vast gezegd . 
+1511	So , this won 't come as a shock , but ... still , all the same , 	Het is vast geen schok ... ... maar tegelijk vind ik ´t wel erg . 
+1512	I 'm sorry . 	
+1513	You 're mistaken . 	U vergist zich . 
+1514	Did he not tell you ? 	Heeft hij ´t niet gezegd ? 
+1515	Well , he 's been sick for a long time . 	Hij was al heel lang ziek . 
+1516	He knew this was coming soon . 	Hij wist dat ´t snel zou gebeuren . 
+1517	But he had a stiff upper lip about it . 	En hij hield zich kranig . Goeie knul . 
+1518	Good lad . 	
+1519	- Are you all right , Turing ? 	Gaat ´t wel , Turing ? 
+1520	- Yes . 	Gaat ´t wel , Turing ? 
+1521	Of course . 	- Zeker . 
+1522	Like I said , I didn 't know him very well . 	Ik kende ´m niet goed . 
+1523	I see . 	Juist , ik begrijp het . 
+1524	Very well . 	Goed dan . 
+1525	May I leave , Headmaster ? 	Kan ik gaan , meneer de rector ? 
+1526	Congratulations , sir . 	Gefeliciteerd . 
+1527	Sorry . 	Sorry ... 
+1528	I would have come . 	Ik zou gekomen zijn om een verklaring af te leggen . 
+1529	I would have testified . 	Ik zou gekomen zijn om een verklaring af te leggen . 
+1530	And what would you have said , that I ... 	Had je gezegd dat ik geen homoseksueel was ? 
+1531	I wasn 't a homosexual . 	Had je gezegd dat ik geen homoseksueel was ? 
+1532	Alan ... this is serious . 	Het is ernstig . 
+1533	They could send you to jail . 	Je kunt gevangenisstraf krijgen . 
+1534	Damn it . 	Verdomme . 
+1535	- Your hands . 	Je handen trillen . 
+1536	You 're twitching . 	Je handen trillen . 
+1537	- No , I 'm not . 	- Nee , hoor . 
+1538	Alan . 	
+1539	It 's the medication . 	Het zijn de medicijnen . 
+1540	The medication ? 	Medicijnen ? 
+1541	Well , the judge gave me a choice ... either two years in prison or hormonal therapy . 	De rechter liet me kiezen . Twee jaar gevangenisstraf ... ... of hormoontherapie . 
+1542	Oh , my God . 	- O , mijn god . 
+1543	Oh , my God . 	O , mijn god ... 
+1544	Yes , yes , that 's right . 	- Zeg dat wel . 
+1545	Chemical castration . 	Chemische castratie . 
+1546	To ... to cure me of my homosexual predilections . 	Om mij te genezen van m 'n homoseksuele voorkeur . 
+1547	Well , of course I chose that . 	Natuurlijk heb ik dat gekozen . 
+1548	I mean , I ... couldn 't ... work in prison , and ... 	Ik kon niet ... ... werken in de gevangenis . 
+1549	All right . 	- Goed . 
+1550	Now , I 'm going to speak to your doctors . 	Ik ga naar je dokters en advocaten . 
+1551	I 'm going to speak to your lawyers . 	Ik ga naar je dokters en advocaten . 
+1552	I 'm fine . 	Het gaat prima met me . 
+1553	- Please let me help you . 	Laat me je helpen . 
+1554	- No , I don 't need your help , thank you . 	- Ik hoef geen hulp . Dank je wel . 
+1555	Alan , you do not have to do this alone . 	Je hoeft dit niet alleen te doen . 
+1556	I 'm not alone . 	Ik ben niet alleen . 
+1557	Never have been . 	Ben ik nooit geweest . 
+1558	Christopher 's become so smart . 	Christopher is heel slim geworden . 
+1559	If I don 't continue my treatment , then they 'll ... they 'll take him away from me . 	Als ik niet doorga met m 'n behandeling , dan ... ... pakken ze ´m van me af . 
+1560	You ... 	
+1561	You can 't let them do that . 	Dat kun je ze niet laten doen . 
+1562	You can 't . 	
+1563	You ... you can 't let them leave me alone . 	Laat ze mij niet eenzaam maken . 
+1564	I don 't ... 	Ik wil niet alleen zijn , ik wil ... 
+1565	I don 't want to be alone . 	Ik wil niet alleen zijn , ik wil ... 
+1566	I don 't want to be alone . 	Ik wil niet alleen zijn , ik wil ... 
+1567	All ri ... all right , all right . 	- Het is goed . Het is goed . 
+1568	All right . 	
+1569	It 's all right . 	Ga even zitten . 
+1570	Come and sit down . 	Ga even zitten . 
+1571	It 's all right . 	Ga zitten . 
+1572	Come and sit down . 	Ga zitten . 
+1573	It 's all right . 	Komt goed . 
+1574	Oh , well , that 's a ... that 's a much nicer ring than the one I made you . 	Een veel mooiere ring dan die van mij . 
+1575	Yes . 	
+1576	His name 's Jock . 	Hij heet Jock en zit in het leger . 
+1577	He 's an Army man , if you can believe it . 	Dat is toch niet te geloven ? 
+1578	We work together . 	We werken samen . 
+1579	Why don 't we do a crossword puzzle . 	Laten we ´n kruiswoordpuzzel doen . 
+1580	It 'll only take us five minutes . 	Kost vijf minuten . 
+1581	Or , in your case , six . 	In jouw geval zes minuten . 
+1582	There . 	Toe maar . 
+1583	Perhaps later . 	Misschien later wel . 
+1584	Yes , of course . 	- Ja , natuurlijk . 
+1585	You got what you wanted , didn 't you ? 	Jij hebt wat je wilde , hè ? 
+1586	Work , a husband . 	Een baan , een echtgenoot ... 
+1587	Normal life . 	Een gewoon leven . 
+1588	No one normal could have done that . 	Een normaal persoon had dat niet kunnen doen . 
+1589	Do you know , this morning ... 	Weet je , vanmorgen ... ... reed ik met de trein door een stad die er niet zou zijn ... ... zonder jou . 
+1590	I was on a train that went through a city that wouldn 't exist if it wasn 't for you . 	Weet je , vanmorgen ... ... reed ik met de trein door een stad die er niet zou zijn ... ... zonder jou . 
+1591	I bought a ticket from a man who would likely be dead if it wasn 't for you . 	Ik kocht ´n kaartje van ´n man ... ... die dood was geweest zonder jou . 
+1592	I read up on my work ... a whole field of scientific inquiry that only exists because of you . 	Ik bestudeer op m 'n werk ... ... een heel terrein wetenschappelijk onderzoek dat alleen bestaat ... ... dankzij jou . 
+1593	Now , if you wish you could have been normal ... 	Als jij wilt dat je normaal was ... ... dan verzeker ik je dat ik dat niet wil . 
+1594	I can promise you I do not . 	Als jij wilt dat je normaal was ... ... dan verzeker ik je dat ik dat niet wil . 
+1595	The world is an infinitely better place precisely because you weren 't . 	De wereld is ´n oneindig veel betere plek juist omdat jij niet normaal was . 
+1596	Do you ... do you really think that ? 	Denk je dat echt ? 
+1597	I think ... that sometimes it is the people who no one imagines anything of who do the things that no one can imagine . 	Ik denk ... ... dat ´t soms mensen zijn van wie niemand iets verwacht ... ... die dingen doen die niemand zich kan voorstellen . 

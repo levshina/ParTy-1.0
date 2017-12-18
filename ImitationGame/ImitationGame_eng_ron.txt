@@ -1,0 +1,1597 @@
+1	Are you paying attention ? 	Eşti atent ? 
+2	Good . 	Bine . 
+3	If you 're not listening carefully , you will miss things , important things . 	Dacă nu asculţi cu atenţie ... vei pierde anumite lucruri ... lucruri importante . 
+4	I will not pause . 	Nu voi întrerupe ... nu mă voi repeta ... iar tu nu mă vei întrerupe . 
+5	I will not repeat myself , and you will not interrupt me . 	Nu voi întrerupe ... nu mă voi repeta ... iar tu nu mă vei întrerupe . 
+6	You think that because you are sitting where you are and I am sitting where I am that you are in control of what is about to happen . 	Crezi că dacă tu stai acolo ... iar eu stau acolo unde sunt ... tu poţi controla ceea ce se va întâmpla ? 
+7	You 're mistaken . 	Te înşeli . 
+8	I am in control . 	Eu sunt cel care controlez . 
+9	Because I know things that you do not know . 	Pentru că eu ştiu anumite lucruri , pe care tu nu le cunoşti . 
+10	Manchester Police Department , please hold . 	Departamentul de poliţie Manchester , rămâneţi în legătură ... 
+11	Windows broken . 	Geamuri sparte . 
+12	Home 's been ransacked . 	Casa a fost jefuită . 
+13	Send a detective down , will you ? 	Trimiteţi un detectiv . 
+14	What I will need from you now is a commitment . 	Acum , vreau să fac o înţelegere cu tine . 
+15	You will listen closely , and you will not judge me until I am finished . 	Mă vei asculta cu atenţie , şi nu mă vei judeca până nu am terminat . 
+16	If you cannot commit to this , then please leave the room . 	Dacă nu poţi accepta acest lucru , atunci părăseşte camera . 
+17	Come in . 	Intră . 
+18	But if you choose to stay , remember you chose to be here . 	Dar dacă decizi să rămâi acolo , nu uita că ai decis să fii aici . 
+19	What happens from this moment forwards is not my responsibility . 	Ceea ce se va întâmpla începând din acest moment ... nu este responsabilitatea mea , este a ta . 
+20	It 's yours . 	Ceea ce se va întâmpla începând din acest moment ... nu este responsabilitatea mea , este a ta . 
+21	Pay attention . 	Fii atent . 
+22	- What 's all this , then ? 	- Ce- i asta ? 
+23	- Turing , Alan . 	- Turing , Alan . 
+24	Professor at King 's . 	Profesor la King . 
+25	- Seems there 's been a burglary . 	Se pare că a fost un jaf . 
+26	- Oh ? 	Nu mai spune ... 
+27	What of ? 	Nu mai spune ... 
+28	Well , that 's just it . 	Aşa pare . 
+29	Nothing missing , really . 	De fapt , nu lipseşte nimic . 
+30	What 's he doing in Manchester ? 	Ce făcea în Manchester ? 
+31	Something with machines . 	Ceva cu nişte maşini . 
+32	The project at the NPL . 	Proiectul de la NPL . 
+33	I checked , but he won 't say what it 's on . 	Am verificat , dar nu ne va spune ce este . 
+34	Professor Turing ? 	Profesore Turing ? 
+35	Detective Nock , Manchester Police . 	Detectiv Nock , poliţia din Manchester . 
+36	Sergeant Staehl here tells me you had a burglary last night . 	Sergentul Staehl mi- a spus că aseară ai fost jefuit . 
+37	Professor Turing ? 	Profesore Turing . 
+38	Take a step back , and don 't breath heavily . 	Fă un pas înapoi , şi nu respira adânc . 
+39	- Breathe ? 	- Să respir ? 
+40	- Undiluted cyanide . 	- Cianură nediluată . 
+41	It wouldn 't take more than a thimbleful to kill you . 	Este suficient un degetar din asta ca să te ucidă . 
+42	- Disappointing . 	Dezamăgitor . 
+43	- Pardon ? 	Pardon ? 
+44	I had hoped for a bit more . 	Am sperat la ceva mai mult . 
+45	Sergeant Staehl , is it just me , or do you get the sense that we 're being insulted ? 	Sergent Staehl , mi se pare numai mie , că suntem insultaţi ? 
+46	Last night , you had a break- in . 	Noaptea trecută , a fost spartă locuinţa ta . 
+47	Your neighbor , Mr . 	Vecinul tău , dl Springborn , a sunat şi a raportat zgomote . 
+48	Springborn , called to report the noise . 	Vecinul tău , dl Springborn , a sunat şi a raportat zgomote . 
+49	He said there was quite a ruckus . 	A spus că erau destul de puternice . 
+50	Only you say nothing was taken . 	Dar tu spui că nimic nu a fost luat . 
+51	It 's odd . 	Dar tu spui că nimic nu a fost luat . 
+52	So , how about you tell us what happened , and we 'll find the chap who did this . 	Este ciudat . Ce- ar fi să ne spui ce s- a întâmplat , iar noi îl vom găsi pe făptaş . 
+53	Gentlemen , I don 't believe that you could find the chap that did this if he walked up to you and spat in your face . 	Domnilor ... nu cred că- l puteţi găsi pe făptaş , deoarece a fost în faţa voastră şi v- a scuipat în faţă . 
+54	What I could us right now is not a bobby , but a really good cleaning lady . 	Ceea ce ar ajuta acum ... nu este un copoi , ci o bună femeie de serviciu . 
+55	So , unless one of you has an apron in your car , 	Dacă nici unul dintre voi nu are un şorţ în maşină , aş sugera să vă scrieţi raportul şi să mă lăsaţi în pace . 
+56	I suggest you file your reports and leave me alone . 	Dacă nici unul dintre voi nu are un şorţ în maşină , aş sugera să vă scrieţi raportul şi să mă lăsaţi în pace . 
+57	As you say , Professor Turing . 	Cum doreşti , profesore Turing . 
+58	Best of luck with your cyanide . 	Mult noroc cu cianura ta . 
+59	I' ll give you a quid if you can name me a more insufferable sod . 	Ai mai văzut o locuinţă atât de insuportabilă ? 
+60	- Seemed a bit forced , though , didn 't it ? 	- A forţat situaţia , nu- i aşa ? 
+61	- Don 't know what you mean . 	- Nu înţeleg . 
+62	Well , if you didn 't want a pair of bobbies digging around in your personal affairs , that 'd have been a stellar way to make sure they don 't . 	Dacă nu a vrut ca doi copoi să caute prin lucrurile sale ... s- a purtat în aşa fel ca să nu se întâmple asta . 
+63	Tell me you don 't think this is suspicious . 	Nu crezi că acest lucru este suspect ? 
+64	I don 't think this is suspicious . 	Nu cred că e suspect . 
+65	A mysterious professor who won 't admit he 's had something stolen from his house ? 	Un profesor misterios , care nu admite că s- a furat ceva din casa lui ... 
+66	I think Alan Turing 's hiding something . 	Cred că Alan Turing ascunde ceva . 
+67	War declared ! 	S- a declarat război . 
+68	800, 000 children evacuated ! 	800 . 000 de copii evacuaţi . 
+69	German bombs on their way ! 	Bombardierele germane vin spre noi . 
+70	Get your papers here ! 	Ia ziarul . 
+71	Fresh off the press ! 	Proaspăt tipărit . 
+72	War declared ! 	S- a declarat război . 
+73	800, 000 children evacuated ! 	800 . 000 de copii evacuaţi . 
+74	German bombs expected soon ! 	Bombardierele germane vin spre noi . 
+75	This morning , the British Ambassador in Berlin handed the German government a final note stating that unless we heard from them , by 11 : 00 , a state of war would exist between us . 	În această dimineaţă ... ambasadorul britanic din Berlin a înmânat guvernului german un ultimatum . Dacă nu vor răspunde până la ora 11 , se declară stare de război între noi şi ei . 
+76	I have to tell you now that no such undertaking has been received . 	Acum trebuie să vă anunţ , că nu am primit nici un răspuns . 
+77	And that , consequently , this country is at war with Germany . 	În consecinţă , ţara noastră se află în război cu Germania . 
+78	For the second time in the lives of most of us , we are ... at war . 	Pentru a doua oară ... în viaţa celor mai mulţi dintre noi , suntem ... în război ... pentru a găsi ... o cale spre pace . 
+79	To find a peaceful way out ... 	Pentru a doua oară ... în viaţa celor mai mulţi dintre noi , suntem ... în război ... pentru a găsi ... o cale spre pace . 
+80	Papers , please . 	Documentele , vă rog . 
+81	What are you doing here ? 	Ce faci aici ? 
+82	- Oh , the lady told me to wait . 	- Doamna mi- a spus să aştept . 
+83	- In my office ? 	- În biroul meu ? 
+84	She tell you to help yourself to tea while you were here ? 	Nu ţi- a spus să te serveşti cu un ceai dacă tot eşti aici ? 
+85	No , she didn 't . 	Nu , nu mi- a spus . 
+86	She obviously didn 't tell you what a joke was , then , either , I gather . 	Evident că nu ţi- a spus că e o glumă , nu- i aşa ? 
+87	Was she supposed to ? 	Ar fi trebuit ? 
+88	- Who are you ? 	Cine eşti ? 
+89	- Alan Turing . 	Alan Turing . 
+90	Turing . 	Da , Turing . 
+91	The mathematician . 	- Matematicianul . 
+92	- Correct . 	- Matematicianul . 
+93	- However could I have guessed ? 	- Corect . - Cum de n- am ghicit ? 
+94	Well , you didn 't . 	- Ei bine , n- aţi făcut- o . 
+95	You just read it on that piece of paper . 	Tocmai aţi citit pe acea hârtie . 
+96	King 's College , Cambridge . 	Colegiul King , Cambridge . 
+97	Now , it says here you were a bit of a prodigy in the maths department . 	Se spune că ai fost miraculos , la secţiunea de matematică . 
+98	I 'm not sure I can evaluate that , Mr .... 	Nu ştiu dacă pot evalua asta , domnule .... 
+99	- How old are you , Mr . 	- Câţi ani ai , dle Turing ? 
+100	Turing ? 	- Câţi ani ai , dle Turing ? 
+101	- 27 . 	- 27 . 
+102	And how old were you when you became a Fellow at Cambridge ? 	Câţi ani aveai când ai devenit membru academic la Cambridge ? 
+103	- 24 . 	Câţi ani aveai când ai devenit membru academic la Cambridge ? 
+104	- And how old were you ... when you published this paper that has a title I can barely understand ? 	- 24 . - Şi câţi ani aveai când ai publicat această lucrare al cărei titlu abia îl înţeleg ? 
+105	23 . 	23 . 
+106	And you don 't think that qualifies you as a certified prodigy ? 	Şi nu crezi că asta certifică faptul că eşti un copil minune ? 
+107	Well , Newton discovered binomial theorem aged 22 . 	Newton a descoperit Binomul la vârsta de 22 de ani . 
+108	Einstein wrote four papers that changed the world by the age of 26 . 	Einstein a scris 4 lucrări care au schimbat lumea la vârsta de 26 de ani . 
+109	As far as I can tell , I' ve ... 	Din câte îmi dau seama ... sunt doar pe aproape . 
+110	I' ve barely made par . 	Din câte îmi dau seama ... sunt doar pe aproape . 
+111	- My God , you 're serious . 	- Doamne , ce serios eşti . 
+112	- Would you prefer I made a joke ? 	Preferaţi să fiu glumeţ ? 
+113	Oh , I don 't think you know what those are . 	Nu cred că ştii ce înseamnă o glumă . 
+114	Hardly seems fair that that 's a requirement for employment here , Mr ... 	E greu de crezut că asta e o condiţie ca să ocupi un loc de muncă aici , dle .... 
+115	Commander Denniston , Royal Navy . 	Comandant Denniston , Marina Regală . 
+116	All right , Mr . 	Comandant Denniston , Marina Regală . 
+117	Turing , I' ll bite . 	Bine , dle Turing , voi muşca ... 
+118	Why do you wish to work for His Majesty 's government ? 	De ce vrei să lucrezi pentru guvernul Majestăţii Sale ? 
+119	Oh , I don 't , really . 	De fapt , nu vreau . 
+120	Are you a bleeding pacifist ? 	Eşti un pacifist idiot ? 
+121	I 'm ... agnostic about violence . 	Resping violenţa . 
+122	Well , you do realize that 600 miles away from London there 's this nasty little chap called Hitler who wants to engulf Europe in tyranny ? 	Îţi dai seama că la 1000 de km de Londra , există acel tip mic şi urât , numit Hitler , care vrea să introducă tirania în toată Europa ? 
+123	Politics isn 't really my area of expertise . 	Politica nu este domeniul meu de expertiză . 
+124	Really ? 	Serios ? 
+125	Well , I believe you 've just set the record for the shortest job interview in British military history . 	Cred că ai depăşit recordul celui mai scurt interviu , din istoria militară britanică . 
+126	Mother says I can be off- putting sometimes on account of being one of the best mathematicians in the world . 	Mama spune că aş putea fi înscris pe lista celor mai buni matematicieni din lume . 
+127	- In the world ? 	- Din lume ? 
+128	- Oh , yes . 	- Da . 
+129	Do you know how many people I' ve rejected for this program ? 	Ştii câţi oameni am respins pentru acest proiect ? 
+130	No . 	- Nu . 
+131	Well , that 's right , because we 're a top- secret program . 	- Bineînţeles ... pentru că este un proiect strict secret . 
+132	But I' ll tell you , just because we 're friends , that only last week , I rejected one of our great nation 's top linguists . 	Dar îţi voi spune , pentru că suntem prieteni ... Doar săptămâna trecută , am respins pe unul dintre cei mai renumiţi lingvişti ai ţării . 
+133	Knows German better than Bertolt Brecht . 	Ştia germana mai bine decât Bertolt Brecht . 
+134	- I don 't speak German . 	- Eu nu vorbesc germana . 
+135	- What ? 	- Eu nu vorbesc germana . 
+136	I don 't ... speak German . 	Eu nu ... vorbesc germana . 
+137	Well , how the hell were you supposed to decrypt German communications if you don 't ... 	Atunci , cum naiba ai putea să decriptezi comunicaţiile germane , dacă nu vorbeşti germana ? 
+138	I don 't know , speak German ? 	Atunci , cum naiba ai putea să decriptezi comunicaţiile germane , dacă nu vorbeşti germana ? 
+139	Well , I 'm really quite excellent at crossword puzzles . 	Sunt cu adevărat excelent la cuvinte încrucişate . 
+140	Margaret ! 	Margaret . 
+141	The German codes are a puzzle . 	Codurile germane sunt cuvinte încrucişate . 
+142	A game , just like any other game . 	Un joc , la fel ca orice alt joc . 
+143	- Margaret , where are you ? 	- Margaret , unde eşti ? 
+144	- I 'm really very good at games . 	- Sunt foarte bun la jocuri . 
+145	Puzzles . 	La cuvinte încrucişate . 
+146	And this is the most difficult puzzle in the world . 	Cel german este cel mai dificil din lume . 
+147	Margaret ! 	Cel german este cel mai dificil din lume . 
+148	For the love of God . 	Pentru numele lui Dumnezeu . 
+149	This is a joke , obviously . 	Asta e într- adevăr o glumă . 
+150	I 'm afraid I don 't know what those are , Commander Denniston . 	Mă tem că nu ştiu unde este ... Comandante Denniston . 
+151	Have a pleasant trip back to Cambridge , Professor . 	Călătorie plăcută înapoi la Cambridge , profesore . 
+152	Enigma . 	- Enigma . 
+153	You called for me ? 	- M- aţi chemat ? 
+154	That 's what you 're doing here . 	Asta faceţi voi aici . 
+155	The top- secret program at Bletchley . 	Proiectul strict secret de la Bletchley . 
+156	You 're trying to break the German Enigma machine . 	Încercaţi să descifraţi maşina germană Enigma . 
+157	What makes you think that ? 	Ce te face să crezi asta ? 
+158	It 's the greatest encryption device in history , and the Germans use it for all major communications . 	Este cel mai extraordinar dispozitiv de criptare , iar germanii îl utilizează la toate comunicaţiile importante . 
+159	If the Allies broke Enigma , well ... this would turn into a very short war , indeed . 	Dacă aliaţii descifrează Enigma , atunci ... acest război va deveni foarte scurt . 
+160	Of course that 's what you 're working on . 	Bineînţeles că la asta lucraţi aici . 
+161	But you also haven 't got anywhere with it . 	Dar nu aţi reuşit nimic până acum . 
+162	If you had , you wouldn 't be hiring cryptographers out of university . 	Dacă eraţi gata , nu mai angajaţi criptografi de la universitate . 
+163	You need me a lot more than I need you . 	Voi aveţi mai multă nevoie de mine , decât eu de voi . 
+164	I like solving problems , Commander . 	Îmi place să rezolv probleme , Comandante ... iar Enigma este cea mai dificilă problemă din lume . 
+165	And Enigma is the most difficult problem in the world . 	Îmi place să rezolv probleme , Comandante ... iar Enigma este cea mai dificilă problemă din lume . 
+166	No , Enigma isn 't difficult ; it 's impossible . 	Enigma nu este dificilă ... este imposibilă . 
+167	The Americans , the Russians , the French , the Germans , everyone thinks Enigma is unbreakable . 	Americanii , ruşii , francezii , chiar şi germanii , cred că Enigma este impenetrabilă . 
+168	Good . 	Bine . 
+169	Let me try , and we 'll know for sure , won 't we ? 	Lasă- mă să încerc , şi ne vom convinge . 
+170	Welcome to Enigma . 	Bine aţi venit la Enigma . 
+171	The details of every surprise attack , every secret convoy and every U- boat in the bloody Atlantic go into that thing . 	Detaliile fiecărui atac surpriză , fiecare convoi secret , şi fiecare submarin din Atlantic , intră în chestia asta ... şi iese din ea ceva de neînţeles . 
+172	And out comes gibberish . 	Detaliile fiecărui atac surpriză , fiecare convoi secret , şi fiecare submarin din Atlantic , intră în chestia asta ... şi iese din ea ceva de neînţeles . 
+173	It 's beautiful . 	Este frumoasă . 
+174	It 's the crooked hand of death itself . 	Este mâna ucigaşă . 
+175	Our Wrens intercept thousands of radio messages a day , and to the lovely young ladies of the Women 's Royal Navy , they 're nonsense . 	Staţiile noastre recepţionează zilnic mii de mesaje radio ... iar tinerele noastre doamne din Marina Regală spun că sunt de neînţeles . 
+176	It 's only when you feed them back into Enigma that they make any sense . 	Mesajele care ies din Enigma sunt de neînţeles . 
+177	But we have an Enigma machine . 	Dar avem o maşină Enigma . 
+178	Yes , Polish Intelligence smuggled it out of Berlin . 	Da , de la serviciile de informaţii poloneze , - care au scos- o din Berlin . 
+179	So , what 's the problem ? 	- Atunci , care este problema ? 
+180	Just put the intercepted messages 	Băgaţi mesajele în Enigma şi le descifraţi ... 
+181	- back into the Enigma and you 'll ... 	Băgaţi mesajele în Enigma şi le descifraţi ... 
+182	- Look , it 's not that simple , is it ? 	Nu este atât de simplu , nu- i aşa ? 
+183	Just having an Enigma machine doesn 't help you to decode the messages . 	Maşina Enigma însăşi nu descifrează mesajele . 
+184	Very good , Mr . 	Foarte bine , dle Turing . 
+185	Turing . 	Foarte bine , dle Turing . 
+186	To decode a message , you need to know the machine 's settings . 	Pentru a descifra un mesaj , trebuie să cunoşti programarea maşinii . 
+187	Now , the Germans switch settings every day promptly at midnight . 	Dar germanii modifică zilnic programarea , La miezul nopţii . 
+188	We usually intercept our first message around 6 : 00 a . m . , which gives you exactly 18 hours every day to crack the code before it changes , and you start again . 	Noi interceptăm primul mesaj , de obicei pe la ora 6 , deci avem exact 18 ore zilnic pentru a descifra codul , înainte de a fi schimbat , iar asta se întâmplă zilnic . 
+189	Five rotors . 	Cinci rotoare . 
+190	Ten plugboard cables . 	Zece cabluri de legătură . 
+191	That 's ... 	Zece cabluri de legătură . 
+192	- One million ... 	- Un milion ... 
+193	- A thousand million ... 	- O mie de milioane . 
+194	No , no , it 's , I' ve got it . 	- O mie de milioane . 
+195	- It 's million , million . 	- Sunt multe milioane ... 
+196	- It 's in the millions , obviously . 	- Evident că sunt milioane . 
+197	It 's over 150 million million million possible settings . 	Sunt peste 150 de milioane , de milioane de combinaţii posibile . 
+198	Very good . 	Foarte bine . 
+199	159 . 	159 . 
+200	If you want to be exact about it . 	159 . 
+201	1- 5- 9 with 18 zeroes behind it . 	Dacă vreţi să ştiţi cifra exactă ... 1 - 5 - 9 ... cu 18 zerouri în spatele ei . 
+202	Possibilities . 	Atâtea combinaţii pot fi . 
+203	Every single day . 	În fiecare zi . 
+204	Gentlemen , meet Hugh Alexander . 	Domnilor , vi- l prezint pe Hugh Alexander . 
+205	I personally selected him to run this unit . 	Eu personal l- am ales , pentru a manevra această maşină . 
+206	Didn 't you ... 	Eu personal l- am ales , pentru a manevra această maşină . 
+207	Mr . 	- Nu tu ai ... 
+208	Alexander won Britain 's national chess championship . 	- Dl Alexander ... a câştigat campionat naţional de şah din Marea Britanie . 
+209	Twice . 	- Dl Alexander ... a câştigat campionat naţional de şah din Marea Britanie . 
+210	You 're not the only one who 's good at games around here , Turing . 	De două ori . Nu eşti singurul bun la jocuri , Turing . 
+211	Are we to work together , then ? 	Trebuie să lucrăm împreună ? 
+212	I prefer to have my own office . 	- Prefer să am propriul meu birou . 
+213	You 're a team , and you will work as one . 	- Sunteţi o echipă şi aşa veţi lucra . 
+214	I don 't have time to explain myself as I go along , and ... 	Nu am timp să vă explic cum lucrez eu , şi mi- e teamă că aceşti oameni îmi vor încetini lucrul . 
+215	I 'm afraid these men would only slow me down . 	Nu am timp să vă explic cum lucrez eu , şi mi- e teamă că aceşti oameni îmi vor încetini lucrul . 
+216	If you can 't play together , then I 'm afraid we can 't let you play at all . 	Dacă nu putem lucra împreună , nu vei fi printre noi . 
+217	This is Stewart Menzies , MI6 . 	El este Stewart Menzies , MI6 . 
+218	There are only five divisions of military intelligence . 	Există doar 5 secţii de informaţii militare . 
+219	There is no MI6 . 	Nu există nici un MI6 . 
+220	Exactly . 	Exact . 
+221	That 's the spirit . 	Este intenţionat . 
+222	Mr . 	Dle Turing , ştii câţi militari britanici au murit din cauza Enigmei ? 
+223	Turing , do you know how many British servicemen have died because of Enigma ? 	Dle Turing , ştii câţi militari britanici au murit din cauza Enigmei ? 
+224	- No , I don 't . 	Nu , nu ştiu . 
+225	- Three ... while we 've been having this conversation . 	Trei . Doar în timpul acestei conversaţii . 
+226	Oh , look , there 's another . 	Uite , a murit încă unul . 
+227	I rather hope he didn 't have a family . 	Sper că nu avea o familie . 
+228	This war Commander Denniston 's been going on about , we 're not winning it . 	Acest război , despre care v- a vorbit Comandantul Denniston , nu- l vom câştiga . 
+229	Break the code , at least we have a chance . 	Spărgând codul ... am putea avea o şansă . 
+230	Shall we leave the children alone with their new toy ? 	Să lăsăm singuri copiii cu noua lor jucărie ? 
+231	All right , gentlemen ... 	Bine , domnilor ... 
+232	Let 's play . 	Să ne jucăm . 
+233	The game was quite a simple one . 	Jocul a fost destul de simplu . 
+234	Every single German message , every surprise attack , every bombing run , every imminent U- boat assault ... 	Fiecare mesaj german , fiecare atac surpriză , fiecare bombardament , fiecare atac iminent al unui submarin ... 
+235	They were all floating through the air . 	Toate pluteau în aer ... 
+236	Radio signals that ... well , any schoolboy with an AM kit could intercept . 	Semnalele radio ... puteau fi interceptate de orice elev , cu un aparat radio de recepţie . 
+237	The trick was that they were encrypted . 	Trucul consta în faptul că erau criptate . 
+238	There were 159 million million million possible Enigma settings . 	Sunt 159 de milioane , de milioane de combinaţii posibile ale Enigmei . 
+239	All we had to do was try each one . 	Tot ce trebuia să fac era să le încerc pe fiecare . 
+240	But if we had ten men checking one setting a minute for 24 hours every day and seven days every week , how many days do you think it would take to ... to check each of the settings ? 	Dacă am fi avut 10 oameni care să verifice o combinaţie pe minut , 24 de ore pe zi , 7 zile pe săptămână ... câte zile crezi că le- ar fi trebuit ca să le verifice pe toate ? 
+241	Well , it 's not days , it 's years . 	N- ar fi fost zile , ci ani . 
+242	- Good morning . 	Le- ar fi trebuit 20 de milioane de ani ... 
+243	- It 's 20 million years . 	Le- ar fi trebuit 20 de milioane de ani ... 
+244	- To stop a coming attack ... 	Ca să oprim un atac , ar fi trebuit să verificăm , timp de 20 milioane ani , un singur cod . 
+245	- Thank you . ... we would have to check 20 million years´ worth of settings in 20 minutes . 	Ca să oprim un atac , ar fi trebuit să verificăm , timp de 20 milioane ani , un singur cod . 
+246	I 'm famished . 	Sunt flămând . 
+247	Lunch ? 	Masa de prânz ? 
+248	Good Lord . 	Doamne . 
+249	What is it about women with little hats ? 	Ce- i cu acele femei cu pălărioare ? 
+250	The boys , we 're going to get some lunch . 	Băieţi ... mergem să luăm prânzul . 
+251	- Alan ? 	Alan ? 
+252	- Yes ? 	Da . 
+253	I said we 're going to get some lunch . 	Am spus că mergem să luăm prânzul . 
+254	- Alan ? 	- Alan ? 
+255	- Yes ? 	- Da . 
+256	- Can you hear me ? 	- Mă auzi ? - Da . 
+257	- Yes . 	Am spus că mergem să luăm prânzul . 
+258	I said we 're off to get some lu ... 	Am spus că mergem să luăm prânzul . 
+259	This is starting to get a little bit repetitive . 	Se pare că este puţin cam repetitiv . 
+260	What is ? 	Ce este ? 
+261	I had asked if you wanted to come to lunch with us . 	Am întrebat dacă vrei să vii cu noi la masă . 
+262	No , you didn 't . 	Nu . 
+263	You said you were going to get some lunch . 	Ai spus că te duci să iei masa de prânz . 
+264	- Have I offended you in some way ? 	- Te- am jignit cumva ? 
+265	- Why would you think that ? 	- De ce crezi asta ? 
+266	- Would you like to come to lunch with us ? 	- Vrei să vii cu noi la masă ? 
+267	- What time 's lunchtime ? 	- La ce oră e prânzul ? 
+268	Christ , Alan , it 's a bleeding sandwich . 	Doamne , Alan ... e vorba de un sandviş . 
+269	- What is ? 	- Ce- i asta ? 
+270	- Lunch . 	- Masa de prânz . 
+271	- Oh , I don 't like sandwiches . 	Nu- mi plac sandvişurile . 
+272	- Never mind . 	Nu contează . 
+273	You know , to pull off this irascible genius routine , one actually has to be a genius , Alan . 	Ştii ceva ? Ca să poţi scoate un geniu din obişnuinţa sa irascibilă , trebuie să fii tu însuţi un geniu . 
+274	And yet we 're the ones making progress here , aren 't we ? 	Şi totuşi noi suntem singurii care facem progrese , nu- i aşa ? 
+275	Oh , you are ? 	Sunteţi ? 
+276	Yes , we are . 	Da , suntem . 
+277	We have decrypted a number of German messages by analyzing the frequency of letter distribution . 	Am decriptat câteva mesaje germane prin analiza frecvenţei de distribuţie a literelor . 
+278	Oh , even a broken clock is right twice a day . 	Chiar şi un ceas stricat arată ora exactă de 2 ori pe zi . 
+279	That 's not progress ; that 's just blind luck . 	Acesta nu este progres ... este noroc orb . 
+280	I 'm designing a machine that will allow us to break every message every day instantly . 	Eu proiectez o maşină , care ne va permite să descifrăm fiecare mesaj , în fiecare zi şi instantaneu . 
+281	Who 's hungry ? 	Cine este flămând ? 
+282	Let 's go . 	Să mergem . 
+283	I 'm hungry . 	Eu sunt flămând . 
+284	What ? 	Ce ? 
+285	Peter asked who was hungry . 	Peter a întrebat cine este flămând . 
+286	Can I have some soup , please ? 	Pot primi nişte supă , te rog ? 
+287	What do you mean , " classified " ? 	Cum adică , clasificat ? 
+288	No , I 'm aware of the literal meaning of the word classified . 	Nu , înţeleg sensul cuvântului " clasificat " . 
+289	What I 'm asking is why would a maths professor have his military records classified ? 	Întreb de ce un profesor de matematică , are dosarul militar clasificat ? 
+290	Yeah , well , I will come down . 	Bine , mă calmez . 
+291	Sorry , can I get you to hold for a minute , please ? 	
+292	Pardon me , I 'd like to see some documents , if I may . 	Scuzaţi- mă , doresc să văd unele documente , dacă se poate . 
+293	Service records of a Mr . 	Dosarul serviciului militar al domnului Turing , Alen . 
+294	Turing . 	Dosarul serviciului militar al domnului Turing , Alen . 
+295	Alan . 	Dosarul serviciului militar al domnului Turing , Alen . 
+296	Foreign Office sent me . 	Ministerul de Externe m- a trimis . 
+297	This is unacceptable . 	Acest lucru este inacceptabil . 
+298	If you wish to discuss the complaint , I suggest you make a proper appointment . 	Dacă vrei să discutăm despre reclamaţie , îţi sugerez să- ţi faci o programare . 
+299	Alexan ... 	Dacă vrei să discutăm despre reclamaţie , îţi sugerez să- ţi faci o programare . 
+300	Complaint ? 	Reclamaţie ? 
+301	No , no , Hugh Alexander has denied my requisition for parts and equipment that I need to build the machine I' ve designed . 	Nu . Hugh Alexander a respins cererea mea pentru achiziţionarea pieselor , pentru construcţia maşinii proiectate de mine . 
+302	Your fellow code- breakers are refusing to work with you , and they filed a formal complaint . 	Colegii tăi refuză să lucreze cu tine şi au depus o reclamaţie oficială . 
+303	It 's is inspired by an old Polish code machine . 	M- am inspirat după o veche maşină poloneză . 
+304	- Only this one is infinitely more advanced . 	Dar asta este infinit mai avansată . 
+305	- If you don 't respond to the complaint , 	Dacă nu răspunzi la reclamaţie , va trebui s- o trimit la departament . 
+306	I shall have to take it up with the Home Office . 	Dacă nu răspunzi la reclamaţie , va trebui s- o trimit la departament . 
+307	- Put those files by my desk . 	- Pune dosarele pe biroul meu . 
+308	- Fine , my response is they 're all idiots . 	- Bine . Răspunsul meu este că sunt nişte idioţi . 
+309	Fire them and use the savings to fund my machine . 	Concediază- i şi foloseşte economiile pentru a finanţa maşina mea . 
+310	I only need about 100, 000 pounds . 	Aş avea nevoie doar de aproximativ 100 . 000 de lire sterline . 
+311	100, 000 ... 	100 . 000 ? 
+312	Why are you building a machine ? 	De ce construieşti o maşină ? 
+313	It 's highly technical . 	Este tehnică de înaltă clasă . 
+314	You wouldn 't understand . 	Nu ai înţelege . 
+315	I suggest you make the effort to try . 	Îţi sugerez să faci efortul de a încerca . 
+316	Enigma is ... an extremely well- designed machine . 	Enigma este ... o maşină extrem de bine proiectată . 
+317	Our problem is that we 're only using men to try to beat it . 	Problema noastră este că folosim oameni ca s- o batem . 
+318	No , what if only a machine can defeat another machine ? 	Dacă numai o maşină poate învinge altă maşină ? 
+319	Well , that 's not very technical . 	Asta nu pare foarte tehnic . 
+320	Hugh Alexander is in charge of your unit . 	Hugh Alexander este responsabil pentru echipa voastră . 
+321	He said no , and that is that . 	Dacă a spus nu , atunci asta este . 
+322	I simply don 't have time for this . 	Nu am timp pentru asta . 
+323	Have you ever won a war , Turing ? 	Ai câştigat vreodată un război , Turing ? 
+324	I have . 	Eu am câştigat . 
+325	Do you know how it 's done ? 	Ştii cum se face asta ? 
+326	Order , discipline , chain of command . 	Ordine , disciplină , ierarhie de comandă . 
+327	You 're not at university any longer . 	Nu mai eşti la universitate . 
+328	You are a very small cog in a very large system . 	Eşti o foarte mică rotiţă într- un sistem foarte mare . 
+329	And you will do as your commanding officer instructs . 	Şi vei executa instrucţiunile comandantului tău . 
+330	Yes . 	
+331	Who is your commanding officer ? 	Cine este comandantul tău ? 
+332	Winston Churchill , Number 10 Downing Street , London , SW1 . 	Winston Churchill . Strada Downing , numărul 10 . Londra . 
+333	You have a problem with my decision , you can take it up with him . 	Dacă ai o problemă cu decizia mea , ia legătura cu el . 
+334	Mr . 	Dle Menzies . 
+335	Menzies ! 	Dle Menzies . 
+336	Mr . 	Dle Menzies . 
+337	Menzies ! 	
+338	Are you going to London ? 	Te duci la Londra ? 
+339	Possibly . 	Posibil . 
+340	Would you deliver a letter for me ? 	Poţi preda o scrisoare pentru mine ? 
+341	Look , I 'm sorry , but are you joking ? 	Îmi pare rău , dar e o glumă . 
+342	Churchill 's put Alan in charge ? 	Churchill i- a dat şefia lui Alan . 
+343	- This is a terrible idea . 	- Este o idee teribilă . 
+344	- No , no , no , no , no . 	- Nu , nu , nu . 
+345	So , I can give these men orders now ? 	Acum eu dau ordine acestor oameni ? 
+346	I hate to say it , but yes . 	Nu- mi place să o spun , dar da . 
+347	Excellent . 	Excelent . 
+348	Keith and Charles , you 're both fired . 	Keith şi Charles , sunteţi concediat . 
+349	- Excuse me ? 	Keith şi Charles , sunteţi concediat . 
+350	- What ? 	- Pardon ? - Ce ? 
+351	You 're mediocre linguists , and positively poor code- breakers . 	Sunteţi lingvişti mediocrii , şi puteţi descifra doar coduri ieftine . 
+352	Alan , you can 't just fire Keith and Charles . 	Alan . Nu- i poţi concedia pe Keith şi Charles . 
+353	- Well , he just said I could . 	- El a spus că pot . 
+354	- No , I did no such thing . 	- Eu nu am spus aşa ceva . 
+355	But Churchill did . 	Dar Churchill a spus asta . 
+356	Go to hell . 	Să te ia naiba . 
+357	Well , this is inhuman . 	Ei bine ... asta este inuman . Chiar şi pentru tine . 
+358	Even for you . 	
+359	Popular at school , were you ? 	Ai fost sociabil la şcoală , nu- i aşa ? 
+360	The problem began , of course , with the carrots . 	Problema a început , desigur , cu morcovii ... 
+361	Carrots are orange . 	Morcovii sunt de culoare portocalie . 
+362	And peas are green . 	Mazărea este verde . 
+363	They mustn 't touch . 	Nu trebuie să se atingă . 
+364	I got it . 	
+365	Do you know why people like violence ? 	Ştii de ce oamenilor le place violenţa ? 
+366	It is because it feels ... good . 	Deoarece se simt bine . 
+367	Humans find violence deeply satisfying . 	Oamenii găsesc violenţa ... pe deplin satisfăcătoare . 
+368	But remove the satisfaction , and ... the act becomes ... hollow . 	Dar dacă am elimina satisfacţia ... acest act devine ... lipsit de conţinut . 
+369	Turing ? 	Turing ? 
+370	Come on . 	Haide . 
+371	Don 't be such a kike about it . 	Nu fi ca un jidan . 
+372	Leave him to bloody rot . 	Lasă- l să putrezească acolo . 
+373	I didn 't learn this on my own , of course . 	Bineînţeles că am simţit acest lucru pe propria piele . 
+374	I had help . 	Am fost ajutat . 
+375	Christopher helped . 	Christopher m- a ajutat . 
+376	Alan , are you all right ? 	Alan , eşti bine ? 
+377	It 's not my fault . 	Nu este vina mea . 
+378	The carrots got in with the peas and ... 	Morcovii s- au amestecat cu mazărea şi ... 
+379	- I 'm sorry . 	Îmi pare rău . 
+380	I won 't let them do it again . 	Nu o să- i las să mai facă asta . 
+381	- They 're getting worse . 	O să fie mai rău . 
+382	They only beat me up because I 'm smarter than they are . 	M- au bătut pentru că sunt mai deştept decât ei . 
+383	No , they beat you up because you 're different . 	Nu , te bat pentru că eşti altfel . 
+384	- Mother says I 'm just an odd duck . 	Mama spune că sunt o raţă ciudată . 
+385	- And she 's right . 	Şi are dreptate . 
+386	But you know , Alan , sometimes it 's the very people who no one imagines anything of who do the things no one can imagine . 	Dar ştii , Alan ... uneori este foarte uman , cel care nu- şi poate imagina că cineva poate face lucruri inimaginabile . 
+387	So , what do we do now ? 	Deci , ce facem acum ? 
+388	- We 're short on staff . 	Suntem puţini acum . 
+389	- Well , we get more staff then . 	Atunci , o să mai aducem oameni . 
+390	And how do you propose to do that ? 	Şi cum propui să faci asta ? 
+391	- Alan Turing to see Stewart Menzies . 	Alan Turing ... - Vreau să- l văd pe Stewart Menzies . 
+392	- Very good , sir . 	- Foarte bine , domnule . 
+393	- So , who are they ? 	- Cine sunt ei ? 
+394	- Oh , all sorts , really . 	- Tot felul de oameni . 
+395	Teacher , an engineer , a handful of students . 	Un învăţător , un inginer ... câţiva studenţi ... 
+396	And you think they 're qualified for Bletchley ' cause they 're good at crossword puzzles ? 	Şi crezi că sunt capabili pentru Bletchley , pentru că sunt buni la cuvinte încrucişate ? 
+397	Well , they say they 're good , and now we shall find out , won 't we ? 	Ei spun că sunt buni , dar vom verifica asta . 
+398	In order to aid your efforts , there is , to the right of you , a green scratch card book . 	Pentru a vă ajuta în efortul vostru , aveţi în dreapta voastră , un carnet verde . 
+399	You are to make notes in that . 	Puteţi face notiţe în el . 
+400	Gentlemen , you have six minutes in which to complete the puzzle , at which point , I will ... 	Domnilor , aveţi 6 minute pentru a finaliza careul ... 
+401	Pardon , ma 'am , this room 's restricted . 	Mă scuzaţi , doamnă , această cameră este ocupată . 
+402	Apologies for my tardiness . 	Îmi cer scuze pentru întârziere . 
+403	The bus caught a flat tire . 	Autobuzul a avut o pană de cauciuc . 
+404	May I continue , please ? 	Pot continua , vă rog ? 
+405	Thank you . 	Mulţumesc . 
+406	- You 're not allowed in here , ma 'am . 	Nu aveţi voie aici , doamnă . 
+407	- Oh , but I 'm only a few minutes late . 	- Dar am întârziat doar câteva minute . 
+408	The secretaries are to head upstairs . 	- Secretarele sunt la etaj . 
+409	This room 's for the candidates . 	Această cameră este pentru candidaţi . 
+410	May I get on with this now , please ? 	Pot continua , vă rog ? 
+411	- I am a candidate . 	- Dar eu sunt o candidată . 
+412	- For what position ? 	- Pentru ce poziţie ? 
+413	- The letter didn 't say precisely . 	- În scrisoare nu s- a specificat . 
+414	- Yeah , so secretaries are to head upstairs . 	- Da , secretarele sunt la etaj . 
+415	- It did say that it was top secret . 	Aici scrie că este strict secret . 
+416	- What is going on ? 	Ce se întâmplă ? 
+417	I solved a crossword puzzle in the newspaper , and I got this letter saying that I was a candidate for some sort of mysterious job . 	Am rezolvat careul din ziar , şi am primit această scrisoare în care scrie că sunt o candidată pentru un loc de muncă misterios . 
+418	My name 's Joan Clarke . 	Am rezolvat careul din ziar , şi am primit această scrisoare în care scrie că sunt o candidată pentru un loc de muncă misterios . 
+419	Miss , did you really solve this puzzle yourself ? 	- Mă numesc Joan Clarke . - Domnişoară , ai rezolvat careul singură ? 
+420	What makes you think I couldn 't solve the puzzle myself ? 	Ce te face să crezi , că nu l- aş fi putut rezolva singură ? 
+421	- I 'm really very good at ... 	- Sunt foarte bună la ... 
+422	- Ma 'am , I' ll have to ask you to ... 	- Doamnă ... trebuie să te rog ... 
+423	Miss Clarke , I find tardiness under any circumstance , unacceptable . 	Dra Clarke . Întârzierea este inacceptabilă , indiferent ce motive ai avea . 
+424	Take a seat so that we may continue . 	Ia loc , ca să putem continua . 
+425	Thank you . 	Mulţumesc . 
+426	Now , as I was saying , you have six minutes to complete the task in front of you . 	Acum ... după cum spuneam , aveţi 6 minute pentru a finaliza careul din faţa dvs . 
+427	Gentlemen and lady , begin . 	Domnilor şi doamnă ... începeţi . 
+428	Six minutes . 	Şase minute . 
+429	- Is that even possible ? 	- Este posibil de rezolvat ? 
+430	- No , it takes me eight . 	- Nu . Mie mi- a luat 8 minute . 
+431	This isn 't about crossword puzzles . 	Nu e vorba de cuvinte încrucişate ... 
+432	It 's about how one approaches solving an impossible problem . 	Este vorba despre modul în care , te poţi apropia de rezolvarea unei probleme imposibile . 
+433	Do you tackle the whole thing at once or divide it into small ... 	Abordezi totul dintr- o dată sau îl împarţi ... 
+434	- You 've finished ? 	Ai terminat ? Da . 
+435	- Yes . 	
+436	- Five minutes and 34 seconds . 	Cinci minute şi 34 de secunde . 
+437	- You said to do it in under six . 	Aţi spus să o facem în timp de 6 minute . 
+438	Congratulations . 	Felicitări . 
+439	My warmest welcome to His Majesty 's service . 	Vă urez un călduros bun venit în serviciul Majestăţii Sale . 
+440	If you speak a word of what I 'm about to show you , you will be executed for high treason . 	Dacă divulgaţi vreun cuvânt din ce o să vă arăt , veţi fi executaţi pentru înaltă trădare . 
+441	You will lie to your friends , your family and everyone you meet about what it is you really do . 	Vă veţi minţi prietenii , familia şi pe toţi cei pe care îi întâlniţi , despre ceea ce faceţi aici . 
+442	And what is it that we 're really doing ? 	Şi ce facem aici ? 
+443	We 're going to break an unbreakable Nazi code and win the war . 	Vom sparge un cod nazist impenetrabil , şi vom câştiga războiul . 
+444	What 's that you 're reading ? 	Ce citeşti ? 
+445	- It 's about cryptography . 	- Este vorba despre criptografie . 
+446	- Like secret messages ? 	- Adică , mesaje secrete ? 
+447	Not secret . 	Nu secrete . 
+448	That 's the brilliant part . 	Asta e o partea genială . 
+449	Messages that anyone can see , but no one knows what they mean unless you have the key . 	Mesaje pe care oricine le poate vedea , dar nimeni nu le înţelege , dacă nu are cheia . 
+450	How 's that different from talking ? 	Ce le diferă de cele vorbite ? 
+451	- Talking ? 	- Cele vorbite ? 
+452	- When people talk to each other , they never say what they mean . 	- Când oamenii vorbesc unul cu altul , nu spun ce înseamnă . 
+453	They say something else , and you 're expected to just know what they mean . 	Spun altceva ... şi se aşteaptă ca să înţelegi ce vor să spună . 
+454	Only I never do . 	Dar eu nu fac asta niciodată . 
+455	So , how 's that different ? 	Deci , care e diferenţa ? 
+456	Alan , I have a funny feeling you 're going to be very good at this . 	Alan , am un sentiment ciudat , că o să fii foarte bun la asta . 
+457	Good night , Alan . 	Noapte bună , Alan . 
+458	Good night . 	Noapte bună . 
+459	Hold on , Marion , I 'm coming ! ... lesser settings and then route back through ... 	Stai , Marion , să vin şi eu . 
+460	Back to those ones ... 	
+461	Careful , will you ? 	Vrei să fii mai atent ? 
+462	It not a toy . 	- Nu este o jucărie . 
+463	Funny . 	- Ciudat ... 
+464	Looks like a toy . 	Arată ca o jucărie . 
+465	Bloody great 100, 000- pound one . 	La naiba , 100 . 000 de lire . 
+466	Your new minion 's arrived . 	Noile tale miniaturi au sosit . 
+467	- Jack Good . 	- Jack Good . 
+468	We met ... 	Ne- am cunoscut ... 
+469	- Well , where 's Miss Clarke ? 	- Unde este dra Clarke ? 
+470	Lovely , isn 't he ? 	Drăguţ , nu- i aşa ? 
+471	It 's not just a usual humdrum production mill factory . 	Nu este o banală fabrică ... 
+472	I mean , well , as I was saying , it 's a very important radio factory . 	Adică , după cum v- am spus ... e o fabrică importantă de aparate radio . 
+473	It 's not , actually . 	De fapt , nu este . 
+474	Well , on the spectrum of radio factories , this one is particularly ... 	Privind aspectul unei fabrici de radio , aceasta are ceva deosebit . 
+475	Why are you not at Bletchley ? 	De ce nu eşti la Bletchley ? 
+476	Thank you ... so much for your visit , Mr . 	Mulţumesc foarte mult pentru vizită , dle Turing . 
+477	Turing . 	Mulţumesc foarte mult pentru vizită , dle Turing . 
+478	Was your trip pleasant ? 	- Aţi călătorit bine ? 
+479	Gather your things and let 's go . 	- Adună- ţi lucrurile şi să mergem . 
+480	I 'm sorry , but I 'm unable to accept your offer . 	Îmi pare rău , dar nu pot accepta oferta . 
+481	We feel that such a position would hardly be appropriate . 	Suntem de părere că o astfel de poziţie nu este adecvată . 
+482	You earned a double first in mathematics . 	Ai câştigat două premii la matematică . 
+483	But sadly wasn 't granted the opportunity to become a Fellow . 	Din păcate nu mi s- a dat posibilitatea să devin membru academic . 
+484	You belong at Bletchley . 	Tu faci parte din Bletchley . 
+485	I 'm sorry , but for someone in my position , to live to ... to work in a radio factory so far from home , with all your men ... it would be ... indecorous . 	Îmi pare rău , dar pentru cineva în situaţia mea , să trăiesc ... să lucrez într- o fabrică de radio , atât de departe de casă , şi cu toţi oamenii tăi , ar fi ... indecent . 
+486	What in the world does that even mean ? 	Ce înseamnă asta ? 
+487	We have a group of young ladies who tend to all of our clerical tasks : assistants , translators . 	Avem un grup de domnişoare , care au atribuţii adiacente ... Asistente , traducătoare ... 
+488	They live together in town . 	Locuiesc împreună în oraş . 
+489	Would that be a more suitable environment ? 	Ar fi acesta un mediu mai potrivit ? 
+490	So , I would be working amongst these women ? 	Deci , aş lucra printre aceste femei ? 
+491	Yes . 	Da . 
+492	Wonderful ladies . 	Sunt nişte doamne drăguţe . 
+493	They even organize social events at St . 	Uneori organizează evenimente sociale , la biserica St . 
+494	Martin 's Church down the road . 	Uneori organizează evenimente sociale , la biserica St . 
+495	Really , the whole thing is quite ... decorous . 	Martin . Serios , totul este ... decent . 
+496	Now , you won 't have proper security clearance , of course , so , 	Nu trebuie să dai o declaraţie de siguranţă . 
+497	- we 'll have to improvise things a bit . 	Va trebui să improvizăm puţin . 
+498	- Why are you helping me ? 	De ce mă ajuţi ? 
+499	Because there is only one thing that matters in this entire world right now . 	Deoarece există un singur lucru care contează acum în întreaga lume . 
+500	Do you understand ? 	Deoarece există un singur lucru care contează acum în întreaga lume . 
+501	And that is breaking Enigma . 	Înţelegi ? 
+502	But , Mr . 	- Şi acesta este spargerea Enigmei . 
+503	Turing ... why are you helping me ? 	- Dar , dle Turing ... de ce mă ajuţi pe mine ? 
+504	Sometimes it 's the very people who no one imagines anything of who do the things that no one can imagine . 	Uneori este foarte uman , cel care nu- şi poate imagina că cineva poate face lucruri inimaginabile . 
+505	Sir . 	Domnule . 
+506	- What 's this ? 	Ce- i asta ? 
+507	- Alan Turing 's classified military file . 	Dosarul militar clasificat al lui Alan Turing . 
+508	- It 's bloody empty . 	- E al naibii de gol . 
+509	- Exactly . 	- Exact . 
+510	- It 's an empty manila envelope . 	- Este doar un plic gol . 
+511	- Yeah . 	- Da . 
+512	Well , you 've cracked the case wide open , then , haven 't you ? 	Atunci , ai rezolvat cazul , nu- i aşa ? 
+513	Alan Turing 's war records aren 't just classified , they 're nonexistent . 	Dosarul lui Alan Turing nu e numai clasificat ... este inexistent . 
+514	That means someone 's got rid of them . 	Asta înseamnă că cineva l- a aranjat . 
+515	Erased them . 	L- a şters . 
+516	Burned them . 	L- a ars . 
+517	And that same person broke into his house and stole nothing ? 	Şi aceeaşi persoană a pătruns la el şi nu a furat nimic . 
+518	Guy Burgess and Donald Maclean . 	Guy Burgess şi Donald Maclean . 
+519	- What , the spies from the papers ? 	Spionii din ziare ? 
+520	- The Soviet spies . 	Spionii sovietici . 
+521	But first they were professors , weren 't they ? 	Dar mai întâi au fost profesori , nu- i aşa ? 
+522	Radicalized at Cambridge , then they joined the Communist Party , then Foreign Office , then leaked information to Stalin during the war . 	După ce s- au radicalizat la Cambridge , au intrat în Partidului Comunist , apoi în Ministerul de Externe , de unde au scos informaţii pentru Stalin , în timpul războiului . 
+523	Now , can you think of anyone else we know who was at Cambridge , then took up something murky and top secret when war broke out ? 	Te poţi gândi şi la altcineva , care a fost la Cambridge , şi care a pus mâna pe ceva secret când a izbucnit războiul ? 
+524	You think this Alan Turing might be a Soviet agent ? 	Crezi că Alan Turing ar putea fi un agent sovietic ? 
+525	I think something very serious is happening right here under our noses . 	Cred că ... se întâmplă ceva foarte grav , chiar aici , sub nasul nostru . 
+526	Wouldn 't you like to find out what it is ? 	N- ai vrea să aflăm despre ce e vorba ? 
+527	Welcome , ladies . 	Bine aţi venit , doamnelor . 
+528	If you 'd like to follow me . 	Vreţi să mă urmaţi ? 
+529	Some people thought we were at war with the Germans ... 	Unii oameni cred că războiul împotriva germanilor este incorect . 
+530	Incorrect . 	Unii oameni cred că războiul împotriva germanilor este incorect . 
+531	We were at war with the clock . 	Noi eram în război cu timpul . 
+532	Britain was literally starving to death . 	Marea Britanie murea de foame . 
+533	The Americans sent over 100, 000 tons of food every week , and every week the Germans would send our desperately needed bread to the bottom of the ocean . 	Americanii au trimis săptămânal peste 100 . 000 de tone de alimente . Germanii trimiteau săptămânal pâinea noastră , la fundul oceanului . 
+534	Our daily failure was announced at the chimes of midnight . 	Pierderile noastre zilnice erau anunţate de tunetele de la miezul nopţii . 
+535	And the sound would haunt our unwelcome dreams . 	Şi aceste sunete ne vor bântui visele noastre nedorite . 
+536	Tick ... tock ... tick . 	
+537	Damn it ! 	La naiba . 
+538	What just happened ? 	- Ce s- a întâmplat ? 
+539	Midnight , all the work we 've done today is useless . 	- E miezul nopţii ... Toată munca noastră de azi e inutilă . 
+540	Oh , but don 't worry , we 've a few hours before tomorrow 's messages start flooding in ... and we start all over again . 	Dar nu vă faceţi griji , mai sunt doar câteva ore înainte ca mesajele de mâine să înceapă să ne inunde . Şi vom începe totul din nou . 
+541	- From scratch . 	- De la zero . 
+542	- I 'm so sick of this . 	- M- am săturat de asta . 
+543	Four hours rewiring his plugboard matrix . 	Patru ore a durat recablarea tabloului de prize . 
+544	Three hours yesterday on his rotor positions ! 	Ieri a durat 3 ore cablarea rotorului . 
+545	- Don 't go over there . 	- Nu te duce acolo . 
+546	- Look , John , no . 	- John , nu . 
+547	If this job wasn 't already impossible before , it bloody well is now . 	Dacă această muncă nu a fost imposibilă înainte ... 
+548	Hugh , don 't . 	- acum este . - Hugh , nu . 
+549	Damn you and your useless machine . 	Să te ia naiba pe tine şi pe maşina ta inutilă . 
+550	My machine is how we are going to win . 	Cu maşina mea vom câştiga . 
+551	Really ? 	Serios ? 
+552	This machine ? 	Această maşină ? 
+553	Are you talking about this bloody machine ? ! 	Vorbeşti despre această maşină nenorocită ? 
+554	- Hugh ! 	- Hugh , nu . 
+555	Hugh ! 	- Hugh , nu . 
+556	Hugh , don 't ! 	- Hugh . 
+557	- Hugh ! 	Opreşte- te . 
+558	Hugh ! 	Opreşte- te . 
+559	Stop ! 	Opreşte- te . 
+560	You arrogant bastard . 	Arogant nenorocit . 
+561	You could help us . 	Ai putea să ne ajuţi . 
+562	You could make this go faster , but you won 't . 	Ai putea să accelerezi treaba , dar nu vrei . 
+563	Get off . 	Dă- mi drumul . 
+564	He 's right , Alan . 	Are dreptate , Alan . 
+565	There are actual soldiers out there trying to win an actual war . 	Acolo sunt ... soldaţi reali , care încearcă să câştige un război real . 
+566	My brother protects food convoys in the Navy . 	Fratele meu ... protejează convoaiele alimentare marine . 
+567	My cousins fly RAF patrols . 	Verii mei zboară în escadrilele RAF . 
+568	All my friends , they 're all making a difference , while we just while away our days producing nothing . 	Toţi prietenii mei fac ceva ... în timp ce noi ... ne consumăm zilele , producând nimic . 
+569	Because of you . 	Din cauza ta . 
+570	My machine ... will work . 	Maşina mea ... va funcţiona . 
+571	Come on , Peter . 	Haide , Peter . 
+572	Okay . 	În ordine . 
+573	Joan ? 	
+574	Will you ... 	
+575	Could you make a bit more noise ? 	Nu puteai face un zgomot mai mare ? 
+576	I 'm not quite sure my landlady woke up . 	- Poate ai trezit- o pe proprietară . 
+577	- Oh , sorry . 	- Poate ai trezit- o pe proprietară . 
+578	- Oh ... look . 	- Îmi pare rău . Uite ... 
+579	I think that 's the best I can do . 	Acesta e cel mai bun lucru pe care îl pot face . 
+580	No male visitors after dark . 	Noaptea nu e permisă vizita persoanelor de sex masculin . 
+581	So ... what did you bring me ? 	Ce mi- ai adus ? 
+582	- There you go . 	Uite ... 
+583	- Here . 	Da . 
+584	Some men try flowers , you know . 	Unii bărbaţi încearcă cu flori . 
+585	These are actual decrypted Enigma messages direct from Nazi High Command . 	Acestea sunt mesaje Enigma decriptate , transmise direct de Înaltul Comandament Nazist . 
+586	" 0600 hours . 	Ora 0600 . 
+587	" Weather today is clear . 	Vremea de azi e senină . 
+588	Rain in the evening . 	Seara ploaie . 
+589	Heil Hitler . " 	Heil Hitler . 
+590	Well , clearly , that vital piece of information is going to win us the war . 	E clar că sunt informaţii vitale , cu care vor câştiga războiul . 
+591	It 's the relationship between the encrypted and decrypted messages that interests me . 	Relaţia dintre mesajul criptat şi mesajul decriptat mă interesează . 
+592	Can we find a clue here that we can build into Christopher ? 	Putem găsi aici un indiciu pe care să- l introduc în Christopher ? 
+593	- Who 's Christopher ? 	Cine este Christopher ? 
+594	- Oh , he 's my machine . 	E maşina mea . 
+595	You named him ? 	I- ai dat nume ? 
+596	Is that a bad name ? 	E un nume rău ? 
+597	No . 	Nu . 
+598	No , never mind . 	Nu contează . 
+599	Are you trying to build your universal machine ? 	Încerci să construieşti o maşină universală . 
+600	- I read your paper at university . 	Am citit lucrările tale la universitate . 
+601	- Is it already being taught ? 	Au apărut deja ? 
+602	No . 	Au apărut deja ? 
+603	No . 	Au apărut deja ? 
+604	No , I was precocious . 	Nu , eu am fost mai precoce . 
+605	So ... you theorized a machine that could solve any problem . 	Deci ... tu teoretizezi o maşină care poate rezolva orice problemă ? 
+606	It didn 't just do one thing , it did everything . 	Nu pentru un singur lucru , pentru orice . 
+607	It wasn 't just programmable , it was reprogrammable . 	Nu este doar programabilă , ci reprogramabilă . 
+608	Is that your idea behind Christopher ? 	Ideea asta stă în spatele Christopher ? 
+609	Well , human brains can compute large sums very quickly ... even Hugh can do that ... but I want Christopher to be smarter . 	Creierul uman poate calcula sume mari foarte repede ... Chiar şi Hugh poate face asta ... dar eu vreau ca Christopher să fie mai inteligent . 
+610	To make a calculation and then ... to determine what to do next . 	Să facă un calcul , şi apoi ... să poată determina ce să facă în continuare . 
+611	Like a person does . 	Ca un om . 
+612	Think of it . 	Gândeşte- te la asta . 
+613	Electrical brain . 	Un creier electric . 
+614	- A digital computer . 	Un calculator digital . 
+615	- Digital computer . 	Calculator digital ... 
+616	What 's going on ? 	
+617	What 's happening ? 	Ce se întâmplă ? 
+618	- No . 	Nu , nu . 
+619	No , no . 	Nu , nu . 
+620	No , no , no ! 	Nu atingeţi asta . 
+621	Don 't touch that ! 	Nu atingeţi asta . 
+622	- Stay back . 	- Înapoi . 
+623	That 's my desk . 	- Acesta este biroul meu . 
+624	Thank goodness . 	Slava Domnului . 
+625	I 'd hate to think we were searching the wrong one . 	Nu mi- ar place să cred că am căutat într- un loc greşit . 
+626	What are you doing ? 	Ce faceţi ? 
+627	What 's going on ? 	Ce se întâmplă ? 
+628	There is a spy in Bletchley Park . 	Există un spion în Bletchley . 
+629	The Navy thinks that one of us is a Soviet double agent , Alan . 	Marina crede , că unul dintre noi , este agent sovietic dublu . 
+630	Why ? 	Marina crede , că unul dintre noi , este agent sovietic dublu . 
+631	Our boys intercepted this on its way to Moscow . 	Băieţii noştri au interceptat asta , care se ducea spre Moscova . 
+632	Look familiar ? 	Ţi se pare ceva cunoscut ? 
+633	It 's a Beale cipher . 	Este un cifru Beale . 
+634	Encrypted with a phrase from a book or a poem or ... 	Criptat cu o frază dintr- o carte sau o poezie ... 
+635	You don 't seriously think I did this , do you ? 	Doar nu crezi că eu am făcut acest lucru ? 
+636	Double agents are such bastards . 	Agenţii dubli sunt atât de nemernici . 
+637	Isolated loners . 	Nişte singuratici izolaţi ... 
+638	No attachments to friends or family . 	Fără legături cu prieteni sau cu familia . Aroganţi . 
+639	Arrogant . 	
+640	Know anybody like that ? 	Cunoşti pe cineva cam aşa ? 
+641	I ... 	
+642	I know you don 't like me , but that does not make me a Soviet spy . 	Ştiu că nu mă placi ... dar asta nu mă face spion sovietic . 
+643	Nothing out of the ordinary , sir . 	Nimic deosebit , domnule . 
+644	Really . 	Într- adevăr . 
+645	All right . 	Bine . 
+646	The Home Office may be protecting you now , but sooner or later you will make a mistake . 	Acum ai un statut protejat ... dar mai devreme sau mai târziu , vei face o greşeală . 
+647	And I needn 't bother firing you . 	Şi nu- mi va părea rău să te concediez . 
+648	They will hang you for treason . 	Te vor spânzura pentru trădare . 
+649	Hello . 	Bună . 
+650	I heard about what happened . 	Am auzit ce s- a întâmplat . 
+651	It 's all the girls in Hut 3 can talk about . 	Toate fetele din Hut 3 vorbesc despre asta . 
+652	I have an idea of what might cheer you up . 	Am o idee care te- ar putea înveseli . 
+653	So , because no letter can be encoded as itself , there 's already a handful of settings that can be rejected at the outset . 	Pentru că nici o scrisoare nu poate fi decodificată în mod normal , denotă că anumite programări pot fi respinse de la bun început . 
+654	- Is that your team ? 	- E echipa ta ? 
+655	- Yes . 	- Da . 
+656	- Shall we say hello ? 	- Să- i salutăm ? - Nu . 
+657	- No . 	Bună . 
+658	Hello . 	Bună . 
+659	I told you not to do that . 	Ţi- am spus să nu faci asta . 
+660	Alan . 	Alan . 
+661	- Hugh , hello . 	- Hugh , salut . 
+662	- Didn 't know you drank . 	- Nu ştiam că bei . 
+663	He doesn 't , really . 	Nu bea cu adevărat . 
+664	He just sort of sips at the foam . 	Soarbe doar spuma . 
+665	Well , I' ll let you into a little secret , Miss ... ? 	- Nu voi divulga micul secret , dră ... ? 
+666	- Clarke . 	- Nu voi divulga micul secret , dră ... ? 
+667	- Miss Clarke . 	- Clarke . 
+668	- Please . 	- Dra Clarke . 
+669	- Foam 's my favorite part , too . 	- Te rog . Spuma este şi partea mea preferată . 
+670	- Is it really ? 	- Este adevărat ? 
+671	- Come and join us for a drink ? 	- Vino să bei ceva cu noi . 
+672	- We 'll be there in a moment . 	- Vom veni imediat . - Dra Clarke . 
+673	- Miss Clarke . 	
+674	- Well , he likes you . 	Te place . 
+675	- Yes . 	- Da . 
+676	You ... got him to like you . 	- Tu ... l- ai făcut să te placă . 
+677	- Yes . 	- Da . 
+678	- Why ? 	- De ce ? 
+679	Because I 'm a woman in a man 's job , and I don 't have the luxury of being an ass . 	Pentru că sunt o femeie care face munca unui bărbat , şi nu- mi pot permite luxul să mă port urât . 
+680	Alan ... it doesn 't matter how smart you are , Enigma is always smarter . 	Alan ... nu contează cât de deştept eşti ... Enigma este întotdeauna mai inteligentă decât tine . 
+681	If you really want to solve your puzzle , then you 're going to need all the help you can get , and they are not going to help you if they do not like you . 	Dacă într- adevăr doreşti să rezolvi criptarea , atunci ai nevoie de tot ajutorul pe care îl poţi obţine , iar ei nu te vor ajuta dacă nu le place de tine . 
+682	- What are those ? 	Ce sunt astea ? 
+683	- Apples . 	Mere . 
+684	- No . 	- Nu . 
+685	- Oh , they really are . 	- Ba da . 
+686	I ... well , Miss Clarke , Joan actually ... said that it would be ... nice if I was to bring you all something . 	Eu ... ei bine , dra Clarke , Joan , de fapt ... a spus că ar fi frumos ... dacă v- aş aduce ceva . 
+687	So , here we are . 	Eu ... ei bine , dra Clarke , Joan , de fapt ... a spus că ar fi frumos ... dacă v- aş aduce ceva . 
+688	I ... 	Deci , iată ... 
+689	Thank you . 	Mulţumesc . 
+690	I like apples . 	Îmi plac merele . 
+691	My best to Miss Clarke . 	- Cel mai bune gânduri , drei Clarke . 
+692	There are two people in a wood , and they run into a bear . 	- Sunt 2 persoane într- o pădure , şi se întâlnesc cu un urs . 
+693	The first person gets down on his knees to pray . 	Prima persoană cade în genunchi şi se roagă . 
+694	The second person starts lacing up his boots . 	A doua persoană a început să- şi lege şireturile . 
+695	The first person asks the second person , " My dear friend , what are you doing ? 	Prima persoană o întreabă pe a doua persoană ... 
+696	You can 't outrun a bear . " 	Dragul meu prieten , ce faci ? 
+697	To which the second person responds , 	Nu poţi fugi de un urs . La care cea de- a doua persoană răspunde ... 
+698	" I don 't have to . 	Nu- i nevoie . 
+699	I only have to outrun you . " 	Trebuie doar să fug de tine . 
+700	I' ll be with Christopher , if anyone needs me . 	Sunt cu Christopher , dacă cineva are nevoie de mine . 
+701	If we assume that the square root of two is a rational number , then we can say that the square root of two is A over B ... where A and B are whole numbers and B is not zero . 	Dacă presupunem că rădăcina pătrată , este un număr raţional , atunci putem spune , că rădăcina pătrată , este A peste B ... unde A şi B , sunt numere întregi , şi B nu este zero . 
+702	- Mr . 	Dle Turing , pasezi bileţele ? 
+703	Turing , passing notes , are we ? 	Dle Turing , pasezi bileţele ? 
+704	- No , sir . 	Nu , domnule . 
+705	Only Turing would pass notes written in gibberish . 	Numai Turing scrie bileţele în limba păsărească . 
+706	All right , gentlemen , do not forget your algebra over the break . 	Bine , domnilor ... nu uitaţi de algebră , în timpul vacanţei . 
+707	Have a pleasant holiday , and we 'll resume your irrationals when you return . 	Vă doresc o vacanţă plăcută , şi vom relua discuţiile iraţionale când vă întoarceţi . 
+708	But Euler 's Theorem gives you that immediately . 	Dar Teorema lui Euler rezolvă asta imediat . 
+709	Here . 	Ţine . 
+710	Look at this . 	Uită- te la asta . 
+711	If you run the wires across the plugboard matrix diagonally , it will eliminate rotor positions 500 times faster . 	Dacă cablezi firele matricei în diagonală , poţi elimina poziţionarea rotorului şi va fi de 500 de ori mai rapidă . 
+712	That 's ... actually not an entirely terrible idea . 	Asta e ... într- adevăr , nu e o idee rea . 
+713	I think that was Alan for " thank you . " 	Cred că acesta este modul în care Alan îţi mulţumeşte . 
+714	- That 's my sandwich . 	Este sandvişul meu . 
+715	- You don 't like sandwiches . 	Nu- ţi plac sandvişurile . 
+716	You nervous ? 	Eşti emoţionat ? 
+717	What happens now ? 	Ce se întâmplă acum ? 
+718	It should work out the day 's Enigma settings . 	Acum ar trebui să descifreze codurile Enigmei . 
+719	How long ? 	Cât durează ? 
+720	Sieg Heil ! 	
+721	The German Army has fanned out across Europe , from Poland to Serbia , Lithuania to Denmark , Norway to France . 	Armata germană s- a răspândit în întreaga Europă , din Polonia până în Serbia , din Lituania până în Danemarca , din Norvegia , până în Franţa . 
+722	The Nazi flag now flies from more than two dozen national capitals . 	Pavilionul nazist flutură acum în mai mult de 40 de capitale . 
+723	Their campaign mounts in fury as a free Europe crumbles . 	Campania lor furibundă , terorizează întregul teritoriu european . 
+724	Oh , it 's still going . 	- Este încă în desfăşurare . - - Bună dimineaţa , dle . 
+725	- Good morning , sir . 	- Este încă în desfăşurare . - - Bună dimineaţa , dle . 
+726	- Morning , Margaret . 	Bună dimineaţa , Margaret . 
+727	Gears keep spinning on and on . 	Rotiţele mai lucrează încă . 
+728	Rotors on and on . 	Se mai rotesc ... 
+729	It 's endless . 	La nesfârşit . 
+730	- With no result in sight ? 	Cu nici un rezultat vizibil . Nu . 
+731	- No . 	
+732	Turing . 	Turing . 
+733	- Turing , open the bloody door . 	Turing , deschide uşa . 
+734	- No . 	Nu . 
+735	No . 	Nu . 
+736	Open the door or we 'll break it down . 	Deschide uşa sau o sparg . 
+737	I can 't let you in ! 	Nu te pot lăsa înăuntru . 
+738	I cannot let you interfere . 	Nu te pot lăsa să te amesteci . 
+739	Go on , then . 	Haideţi . 
+740	Turn that thing off . 	Opreşte chestia aia . 
+741	No . 	Vă rog . 
+742	Don 't , please . 	Vă rog . 
+743	Please . 	Vă rog . 
+744	Please ! 	Vă rog . 
+745	Please ! 	Nu . Nu . 
+746	No ! 	Nu . 
+747	No . 	Nu . 
+748	No ! 	
+749	Well , then , it seems that your great big expensive machine doesn 't work . 	Ei bine ... se pare că minunata şi scumpa ta maşină nu funcţionează . 
+750	- It does . 	Ba da . 
+751	- Wonderful . 	Minunat . 
+752	So , you 've broken Enigma , then ? 	Deci ai descifrat Enigma . 
+753	It was just ... still working . 	Încă lucrează ... Încă lucrează la asta . 
+754	This is my associate from the Home Office . 	El este asociatul meu de la departament . 
+755	You see , a hundred thousand pounds is rather a lot of money , and he 's here to see what you have to show for it . 	O sută de mii de lire e o grămadă de bani , iar el este aici ca să- i arătăm pe ce i- am consumat . 
+756	You ... will never understand the importance of what I am creating here ! 	Tu ... nu vei înţelege niciodată , ce important este ceea ce eu creez aici . 
+757	Have you decrypted any German messages ? 	Ai decriptat vreun mesaj german ? 
+758	A single one ? 	Unul cel puţin ? 
+759	Can you point to anything at all that you 've achieved ? 	Ne poţi arăta ceva din ceea ce ai realizat ? 
+760	Your funding is up , and our patience is expired . 	Finanţarea ta s- a oprit ... iar răbdarea noastră s- a epuizat . 
+761	It 's with such great pleasure that I am finally able to say this . 	Îmi face o mare plăcere că eu sunt acela care îţi spune acest lucru . 
+762	Alan Turing , you 're fired . 	Alan Turing ... eşti concediat . 
+763	Please escort Mr . 	Vă rog să- l escortaţi pe dl Turing în afara sediului . 
+764	Turing from the premises . 	Vă rog să- l escortaţi pe dl Turing în afara sediului . 
+765	No . 	Nu . 
+766	I beg your pardon ? 	Poftim ? 
+767	If you fire Alan ... well , then you 'll have to fire me , too . 	Dacă îl concediezi pe Alan ... va trebui să mă concediezi şi pe mine . 
+768	What on earth are you saying ? 	Ce naiba vrei să spui ? 
+769	Trust me when I tell you there is no one who would rather say this less than I do , but ... he 's right . 	Crede- mă când îţi spun că nu este nimeni altul care i- ar spune asta , mai mult decât mine , dar ... Are dreptate . 
+770	Alan is right . 	Alan are dreptate . 
+771	His machine can work , and it 's probably the best chance that we 've got . 	Maşină sa poate lucra , şi probabil ... este cea mai bună şansă pe care o avem . 
+772	God , it 's beyond belief . 	Doamne , nu- mi vine să cred . 
+773	If you fire them ... you 'll have to fire me , too . 	Dacă îl concediezi pe el ... va trebui să mă concediezi şi pe mine . 
+774	And me . 	Şi pe mine . 
+775	We 're the best cryptographic minds in Britain . 	Suntem cele mai strălucite minţi criptografice din Marea Britanie . 
+776	Are you going to fire us all ? 	Ai de gând să ne concediezi pe toţi ? 
+777	Commander , at least give us some more time . 	Comandante , cel puţin acordă- ne ceva mai mult timp . 
+778	Six months , and if the machine doesn 't produce any results that we need , then we 'll go back to doing things the old way . 	Şase luni . Dacă maşina nu dă rezultate ... atunci revenim la vechea procedură . 
+779	How about that ? 	Ce zici de asta ? 
+780	One month . 	O lună . 
+781	And then , so help me God , you 're all gone . 	Şi apoi , aşa să mă ajute Dumnezeu , veţi dispărea cu toţii . 
+782	Oh , leave him . 	Daţi- i drumul . 
+783	- Thank you . 	Mulţumesc . 
+784	- You 're welcome . 	Cu plăcere . 
+785	Oh , and , Alan , your machine ... it better bloody work . 	Şi , Alan , maşina ta ... ar face bine să funcţioneze . 
+786	Hugh . 	Hugh . 
+787	I swear ... 	Jur ... că nu sunt un spion . 
+788	I 'm not a spy . 	Jur ... că nu sunt un spion . 
+789	Oh , for God 's sake , of course you 're not a bloody spy . 	Pentru numele lui Dumnezeu , bineînţeles că nu eşti un spion . 
+790	What ? 	Ce ? 
+791	Denniston gave me the Beale cipher , and guess what ? 	Denniston mi- a dat cifrul Beale , şi ghiceşte ... 
+792	I cracked it . 	L- am descifrat . 
+793	" Ask , and it shall be given to you ; seek and ye shall find . " Matthew 7 : 7 . 	" Cere şi vei primi . Caută şi vei găsi . Matei 7- 7 . " 
+794	That was the key . 	Asta a fost cheia . 
+795	Far too simple for the likes of you . 	Mult prea simplu pentru cineva ca tine . 
+796	Pity Denniston disagrees . 	Păcat că Denniston nu este de acord . 
+797	Come in . 	Intră . 
+798	Sir , I think I' ve got Turing . 	Domnule , cred că l- am prins pe Turing . 
+799	I tailed him to a pub last night , where he met a bloke . 	Aseară l- am urmărit la crâşmă , unde s- a întâlnit cu un tip . 
+800	They exchanged an envelope . 	Au schimbat un plic . 
+801	So , I follow this other fella , pick him up , give him a good shake . 	Aşa că l- am urmărit pe acel tip , l- am ridicat şi l- am zguduit puţin ... 
+802	- He 's a poofter . 	Este un homosexual . 
+803	He confessed . 	- A mărturisit . 
+804	- What ? 	- Ce ? 
+805	The man admitted it . 	Omul a recunoscut . 
+806	Arnold Murray . 	Arnold Murray . 
+807	Hangs around that pub ; men pay him for a go . 	Umblă pe la crâşmă . Bărbaţii îl plătesc pentru una scurtă . 
+808	Turing 's one of the men that paid . 	Turing este unul dintre cei care îl plăteşte . 
+809	Only Mr . 	Turing este unul dintre cei care îl plăteşte . 
+810	Murray here then has the bright idea of robbing Turing 's house after , with a friend . 	Numai dl Murray putea avea ideea strălucită , să jefuiască casa lui Turing , cu un prieten . 
+811	That 's what Turing 's hiding . 	De aceea Turing a ascuns totul . 
+812	Well , he 's a poof , not a spy . 	Deci este homosexual , nu spion . 
+813	- No . 	- Nu . 
+814	- What 's the matter ? 	- Care- i problema ? 
+815	We can charge a university professor with indecency . 	Putem acuza un profesor universitar de indecenţă . 
+816	No , this is ... it 's bloody rubbish . 	Nu . A fost un jaf . 
+817	Turing 's up to something important ... 	Turing face ceva important ... 
+818	He 's committed a crime and he 's broken the law . 	A comis o infracţiune , a încălcat legea . 
+819	And with a bloke . 	Cu un homosexual . 
+820	Jesus Christ , it 's bloody disgusting . 	Isuse , este dezgustător . 
+821	This isn 't the investigation I was conducting . 	Asta nu este investigaţia condusă de mine . 
+822	- Bring him in . 	Adu- l aici . 
+823	- Wait . 	Aşteaptă . 
+824	Let me interrogate him . 	Lasă- mă pe mine să- l interoghez . 
+825	Please . 	Lasă- mă pe mine să- l interoghez . 
+826	Give me half an hour alone , and then I swear , 	Te rog . 
+827	I' ll spend the next month running errands on as many rubbish cases as you like . 	Lasă- mă singur cu el o jumătate de oră , apoi jur , voi face luna viitoare oricâte cazuri de rahat doreşti . 
+828	Fine . 	Lasă- mă singur cu el o jumătate de oră , apoi jur , voi face luna viitoare oricâte cazuri de rahat doreşti . 
+829	Now , will someone get me a warrant for the arrest of Alan Turing . 	Bine . Să- mi aducă cineva un mandat de arestare pentru Alan Turing . 
+830	Alan ? 	Alan ? 
+831	Christopher 's simply not moving fast enough . 	Christopher nu se mişcă suficient de repede . 
+832	We should talk . 	Trebuie să vorbim . 
+833	And even with the diagonal board , he 's still not eliminating settings as quickly 	Chiar şi cu placa pe diagonală , nu scoate suficient de repede codificările . 
+834	- as we need him to in order ... 	Chiar şi cu placa pe diagonală , nu scoate suficient de repede codificările . 
+835	- I 'm leaving . 	Plec . 
+836	But you 've just walked in . 	- Dar tocmai ai intrat . 
+837	No . 	- Dar tocmai ai intrat . 
+838	No . 	- Nu . 
+839	Bletchley . 	Nu . Din Bletchley . 
+840	- What ? 	- Ce ? 
+841	- It 's my parents . 	- E vorba de părinţii mei . 
+842	I 'm 25 , I 'm unmarried , I 'm living alone , and they want me home . 	Am 25 de ani , sunt necăsătorită , locuiesc singură şi mă vor acasă . 
+843	- That 's ridiculous . 	Asta este ridicol . 
+844	- That 's my parents . 	Aşa sunt părinţii mei . 
+845	You ... you can 't leave . 	Tu ... Tu nu poţi pleca ... 
+846	I won 't let you . 	Nu te voi lăsa . 
+847	" I' ll miss you . " That 's what a normal person might say in this situation . 	Îmi va fi dor de tine . Asta spune un om normal în această situaţie . 
+848	- I don 't care what is normal . 	Nu- mi pasă ce este normal . 
+849	- What am I supposed to do , Alan ? 	Ce ar trebui să fac , Alan ? 
+850	I will not ... give up my parents . 	Nu voi ... renunţa la părinţii mei . 
+851	You ... you have an opportunity here to make some actual use of your life . 	Ai o oportunitate aici ... pentru a face ceva efectiv în viaţa ta . 
+852	And end up like you ? 	Şi să ajung ca tine ? 
+853	No , thanks . 	Nu , mulţumesc . 
+854	I 'm sorry you 're lonely . 	Îmi pare rău că eşti singur ... dar Enigma nu te va salva . 
+855	But Enigma will not save you . 	Îmi pare rău că eşti singur ... dar Enigma nu te va salva . 
+856	Can you decipher that , you fragile narcissist ? 	Poţi descifra narcisismul tău fragil ? 
+857	Or would you like me to go and fetch your precious Christopher to help ? 	Sau ai vrea să- l farmec pe Christofer cu scopul de a te ajuta pe tine ? 
+858	I 'm sorry . 	Îmi pare rău . 
+859	I want you ... 	Vreau ca tu să rămâi aici pentru că te plac . 
+860	I want you to stay because I like you . 	Vreau ca tu să rămâi aici pentru că te plac . 
+861	I like ... talking to you . 	Îmi place ... să vorbesc cu tine . 
+862	I like talking to you , too , Alan . 	Şi mie îmi place să vorbesc cu tine , Alan . 
+863	And what if you weren 't alone ? 	Şi dacă nu erai singură ? 
+864	What if you had a husband ? 	Cum ar fi fost dacă ai fi avut un soţ ? 
+865	Do you have one in mind ? 	Ai pe vreunul în minte ? 
+866	I do . 	Da . 
+867	Hugh ? 	Hugh ? 
+868	Hugh 's terribly attractive , I' ll give you that , but ... 	Hugh e foarte atractiv , recunosc ... dar nu prea cred că e tipul omului căsătorit . 
+869	I don 't really think he 's the marrying kind . 	Hugh e foarte atractiv , recunosc ... dar nu prea cred că e tipul omului căsătorit . 
+870	- No , I wasn 't thinking of Hugh . 	- Nu , nu mă gândeam la Hugh . - La Peter ? 
+871	- Or Peter . 	Peter e aşa liniştit . 
+872	Peter 's so quiet . 	Peter e aşa liniştit . 
+873	- Oh , my God . 	Doamne ... 
+874	- But this makes sense . 	- Dar acest lucru are sens . 
+875	- Did you just propose to me ? 	- Vrei să mă ceri în căsătorie ? 
+876	- Well , it is the logical thing to do . 	Este cel mai logic lucru de făcut . 
+877	- This is ridiculous . 	- Este ridicol . 
+878	- This is your parents . 	- Aşa sunt părinţii tăi . 
+879	I can 't ... believe that this is happening . 	Nu pot să cred că acest lucru se întâmplă . 
+880	Joan ... 	Joan ... 
+881	- Is your middle name Caroline or Catherine ? 	Numele tău de mijloc este Caroline sau Catherine ? 
+882	- Elizabeth . 	Elizabeth . 
+883	Joan Elizabeth ... 	Joan Elizabeth ... 
+884	Clarke ... 	Clarke ... 
+885	will you marry me ? 	Vrei să te măriţi cu mine ? 
+886	It 's beautiful . 	Este frumos . 
+887	Well , I know it isn 't ordinary , but ... whoever loved ordinary ? 	Ei bine ... ştiu că nu este ceva obişnuit , dar ... nu toţi iubesc în mod obişnuit . 
+888	She had it in both hands ... and she looked up at me with her doe eyes and said , 	O avea în mâini ... Şi s- a uitat la mine cu ochii de căprioară şi a spus ... 
+889	" Am I supposed to put that in my mouth ? " 	" Trebuie să bag asta în gură ? " 
+890	And I said , " Yes . 	Şi i- am spus ... 
+891	You know , the French way . " 	" Da . Stilul francez . " 
+892	So , she pops it in , clamps her lips around it , and starts humming the bloody Marseillaise . 	Atunci a prins- o bine ... între buzele ei ... şi a început să cânte Marseillaise . 
+893	Come have a dance . 	- Hai să dansăm . 
+894	No , no , no , you can dance with your fiance anytime you like . 	- Nu , nu nu . Poţi dansa cu logodnicul tău oricând doreşti . 
+895	Right now , this moment ... my turn . 	Acum ... e rândul meu . 
+896	What 's the matter ? 	Care- i problema ? 
+897	What if ... 	Ce se întâmplă dacă ... 
+898	What if I don 't fancy being ... with Joan in that way ? 	Ce se întâmplă dacă nu am fantezia ... să mă port cu Joan în acest fel ? 
+899	Because you 're a homosexual ? 	Pentru că eşti un homosexual ? 
+900	I suspected . 	Am suspectat asta . 
+901	Well , should I tell her that I' ve had ... affairs with men ? 	Ar trebui să- i spun că am ... că am făcut- o cu bărbaţi ? 
+902	You know , in my ... admittedly limited experience , women ... tend to be a bit touchy about accidentally marrying homosexuals . 	Ştii ... din experienţa mea limitată ... femeile ... tind să fie cam afectate , de o căsătorie din greşeală cu un homosexual . 
+903	Perhaps not spreading this information about might be in your best interest . 	Poate că nu răspândeşte informaţia despre tine , în interesul tău . 
+904	I care for her , I truly do . 	Ţin la ea , cu adevărat . 
+905	I ... 	Ţin la ea , cu adevărat . 
+906	I ... 	Dar nu ştiu ... dacă mă pot preface . 
+907	I just don 't know if I can ... 	Dar nu ştiu ... dacă mă pot preface . 
+908	- ... pretend . 	Dar nu ştiu ... dacă mă pot preface . 
+909	- You can 't tell anyone , Alan . 	Nu poţi spune nimănui , Alan . 
+910	It 's illegal . 	Asta este ilegal . 
+911	And Denniston is looking for any excuse he can to put you away . 	Denniston caută orice motiv ca să te dea afară . 
+912	- I know . 	Ştiu . 
+913	- This has to stay a secret . 	Trebuie să rămână un secret . 
+914	Come on , it 's your turn . 	Haide , este rândul tău . 
+915	Okay . 	Bine . 
+916	- Cup of tea ? 	Un ceai ? 
+917	- No , thank you . 	Nu , mulţumesc . 
+918	Mr . 	Dle Turing , pot să- ţi spun un secret ? 
+919	Turing , can I tell you a secret ? 	Dle Turing , pot să- ţi spun un secret ? 
+920	- I 'm quite good with those . 	Sunt bun la aşa ceva . 
+921	- I 'm here to help you . 	Vreau să te ajut . 
+922	Oh , clearly . 	Bineînţeles ... 
+923	Can machines think ? 	Poate o maşină să gândească ? 
+924	Oh , so , you 've read some of my published works ? 	Ai citit câte ceva din lucrările mele publicate ? 
+925	What makes you say that ? 	Ce te face să spui asta ? 
+926	Well , because I 'm sitting in a police station , accused of entreating a young man to touch my penis and you just asked me if machines can think . 	Pentru că stau aici , într- o secţie de poliţie , acuzat că l- am rugat pe un tânăr să- mi atingă penisul , şi pentru că tocmai m- ai întrebat dacă maşinile pot gândi . 
+927	Well , can they ? 	Pot gândi ? 
+928	Could machines ever think as human beings do ? 	Ar putea maşinile vreodată să gândească ca fiinţele umane ? 
+929	Most people say not . 	Majoritatea oamenilor neagă acest lucru . 
+930	You 're not most people . 	Eu nu sunt ca majoritatea oamenilor . 
+931	Well , the problem is you 're ... asking a stupid question . 	Problema ta este ... că pui o întrebare stupidă . 
+932	I am ? 	Chiar aşa ? 
+933	Of course machines can 't think as people do . 	Sigur că maşinile ... nu pot gândi ca oamenii . 
+934	A machine is different ... from a person . 	O maşină nu este la fel ... ca o persoană . 
+935	Hence , they think differently . 	Prin urmare , ele gândesc altfel . 
+936	The interesting question is , just because something thinks differently from you , does that mean it 's not thinking ? 	Întrebarea interesantă este ... dacă gândeşte altfel ca tine ... înseamnă că nu gândeşte ? 
+937	Well , we allow for humans to have such divergences from one another . 	Oamenii îşi permit să aibă anumite divergenţe ... 
+938	You like strawberries , I hate ice- skating , you ... cry at sad films , 	Ţie îţi plac căpşunile , eu urăsc patinajul ... tu plângi văzând filme triste ... eu sunt alergic la polen . 
+939	I ... am allergic to pollen . 	Ţie îţi plac căpşunile , eu urăsc patinajul ... tu plângi văzând filme triste ... eu sunt alergic la polen . 
+940	What is the point of different tastes , different ... preferences if not to say that our brains work differently , that we think differently ? 	Care este sensul gusturilor diferite ? Diferenţe ... preferinţe ... Ca să nu mai spun şi faptul că creierul nostru funcţionează diferit , ceea ce ne face să gândim altfel . 
+941	If we can say that about one another , then why can 't we say the same thing for brains ... built of copper and wire , steel ? 	Şi dacă noi admitem asta ... de ce n- am putea admite acelaşi lucru pentru un creier ... construit de cupru , cabluri şi oţel ? 
+942	And that 's ... this big paper you wrote ? 	Şi asta ... este marea lucrare pe care ai scris- o . Cum se numeşte ? 
+943	What 's it called ? 	
+944	" The Imitation Game . " 	Jocul imitaţiei . 
+945	Right , that 's ... that 's what it 's about ? 	Da ... despre asta este vorba . 
+946	- Would you like to play ? 	Îţi place să te joci ? 
+947	- Play ? 	- Să mă joc ? 
+948	It 's a game . 	- Este un joc . 
+949	A test of sorts . 	O testare a tipurilor . 
+950	For determining whether something is a ... a machine or a human being . 	Pentru a determina dacă ceva este ... o maşină sau o fiinţă umană . 
+951	How do I play ? 	Cum se joacă asta ? 
+952	Well , there 's a judge and a subject , and ... the judge asks questions , and ... depending on the subject 's answers , determines who he is talking with ... what he is talking with , and ... 	Este un judecător şi un subiect ... Judecătorul pune întrebări ... şi în funcţie de răspunsurile subiectului , determină cu cine ... sau cu ce vorbeşte . 
+953	All you have to do is ask me a question . 	Tot ce trebuie să faci este să- mi pui o întrebare . 
+954	- What did you do during the war ? 	Ce- ai făcut în timpul războiului ? 
+955	- I worked in a radio factory . 	Am lucrat într- o fabrică de aparate radio . 
+956	What did you really do during the war ? 	Ce- ai făcut cu adevărat în timpul războiului ? 
+957	Are you paying attention ? 	Eşti atent ? 
+958	Damn it ! 	La naiba . 
+959	We 're soon out of time . 	În curând se termină timpul acordat . 
+960	A month . 	O lună . 
+961	So , that 's it , then , is it ? 	Atunci ... s- a terminat , nu- i aşa ? 
+962	Oh , the trouble is , it doesn 't matter how much we improve it . 	Problema este , că nu contează cât de mult o îmbunătăţim . 
+963	The machine 's never gonna be able to process 159 million million million possibilities in time . 	Niciodată nu va putea procesa 159 milioane de milioane , de milioane de posibilităţi în timp util . 
+964	It 's just bloody hopeless . 	Este fără speranţă . 
+965	It 's searching . 	Căutarea asta este ... 
+966	It 's just ... 	Căutarea asta este ... 
+967	It ... doesn 't know what it 's searching for . 	Eu nu- mi dau seama ce caută . 
+968	If we knew what the messages were going to say ... 	Dacă am şti ce spun mesajele ... 
+969	If we knew what the messages were going to say , we wouldn 't have to decrypt them at all . 	Dacă am şti ce spun mesajele , nu trebuie să le mai decriptăm . 
+970	Who 's Alan´s friend ? 	Cine este prietenul lui Alan ? 
+971	Hugh . 	Hugh . 
+972	He 's a bit of a cad , actually . 	E puţin cam mitocan . 
+973	So , my type , then ? 	Atunci e genul meu . 
+974	- Well , I' ll introduce you . 	- Pot să- ţi fac cunoştinţă cu el . 
+975	- No . 	- Nu . 
+976	He 'll come over . 	El va veni aici . 
+977	- Are you sure ? 	- Eşti sigur ? 
+978	- Yes . 	- Da . 
+979	I smiled at him 15 minutes ago and haven 't looked back since . 	I- am zâmbit acum 15 minute . 
+980	Who 's that with Joan ? 	Cine este cu Joan ? 
+981	Helen . 	Helen . 
+982	Works with her . 	Lucrează cu ea . 
+983	- She 's really pretty . 	- Este foarte drăguţă . 
+984	- She wants me to come over . 	- Vrea să mă duc la ea . 
+985	What ? 	Cum naiba îţi dai seama de asta ? 
+986	How on earth can you know that ? 	Cum naiba îţi dai seama de asta ? 
+987	She smiled at me a while back and she hasn 't looked again since . 	Mi- a zâmbit , iar de atunci nu s- a mai uitat aici . 
+988	And got him . 	L- am agăţat . 
+989	Now , why is this , that when I was single I found it very boring , but now that I 'm engaged , I just find it dreadfully fun . 	De ce când eram singură , asta mi se părea plictisitor , iar acum , când sunt căsătorită , mi se pare foarte distractiv . 
+990	Bingo . 	De ce când eram singură , asta mi se părea plictisitor , iar acum , când sunt căsătorită , mi se pare foarte distractiv . 
+991	She 's in . 	Bingo . 
+992	- Alan , introduce us . 	O am . Alan , fă- mi cunoştinţă . 
+993	- What ? 	De ce eu ? 
+994	Why me ? 	De ce eu ? 
+995	Because there 's nothing like a friend 's engagement to make a woman want to do something she 'll later regret with the fiance 's better looking chum . 	Pentru că îţi ajuţi un prieten să împingă o femeie să facă ceva ce va regreta mai târziu , iar femeia arată mai bine decât logodnica lui . 
+996	Let 's go . 	Pentru că îţi ajuţi un prieten să împingă o femeie să facă ceva ce va regreta mai târziu , iar femeia arată mai bine decât logodnica lui . 
+997	Half a crown says Alan bollixes this up entirely . 	Pariez o jumătate de coroană , că Alan va strica totul . 
+998	No bet . 	Nu pariez . 
+999	- Alan Turing has a theory . 	- Alan Turing are o teorie . 
+1000	- He has many . 	- Are multe . 
+1001	He believes that the regulations against men and women working side by side are sound because such proximity will necessarily lead to romance . 	El crede că regulamentele împotriva bărbaţilor şi femeilor , care îi împiedică să lucreze împreună sunt de înţeles , deoarece apropierea duce cu siguranţă la romantism . 
+1002	What ? 	Nu e adevărat . 
+1003	No , I don 't . 	Nu e adevărat . 
+1004	I ... 	Nu e adevărat . 
+1005	- However I disagree . 	Cu toate acestea ... eu nu sunt de acord cu asta . 
+1006	- You do ? 	- Serios ? 
+1007	Yeah . 	- Serios ? 
+1008	I think that if I were working beside a woman all day long , 	- Da . 
+1009	I could appreciate her abilities and intellect without taking her to bed . 	Cred că dacă aş lucra lângă o femeie o zi întreagă , i- aş putea aprecia abilităţile şi intelectul , fără a ajunge cu ea în pat . 
+1010	I 'm sorry , have we met ? 	Scuză- mă , ne cunoaştem ? 
+1011	I don 't recall . 	Nu- mi amintesc . 
+1012	But let 's assume we haven 't . 	Dar să presupunem că nu . 
+1013	Helen Stewart . 	Helen Stewart . 
+1014	Hugh Alexander . 	Hugh Alexander . 
+1015	So , who do you agree with , Alan or myself ? 	Cu cine eşti de acord ... cu Alan sau cu mine ? 
+1016	Well , Alan , of course . 	Cu Alan , bineînţeles . 
+1017	I 'm very flattered , really , but I don 't think ... 	Mă simt foarte flatat , dar nu cred ... 
+1018	Rubbish . 	Prostii ... 
+1019	Well , I work beside a man every day , and I can 't help but have developed a bit of a crush on him . 	Eu lucrez zilnic cu un bărbat şi n- aş afirma asta , dar s- a dezvoltat puţină pasiune . 
+1020	Well , who is this man ? 	Cine e acest bărbat , ca să- i dau un picior în fund ? 
+1021	So I can kick his arse . 	Cine e acest bărbat , ca să- i dau un picior în fund ? 
+1022	Well , there 's no need to worry , it 's been chaste . 	Nu- ţi fă griji ... a fost ceva nevinovat . 
+1023	We 've never even met . 	Nici măcar nu ne- am întâlnit . 
+1024	He 's a German . 	Este un german . 
+1025	Now I really want to kill him . 	Acum aş vrea cu adevărat să- l ucid . 
+1026	How do you mean you work alongside a German ? 	Cum adică ... lucrezi cu un german ? 
+1027	Well , each of us intercepts messages from a specific German radio tower . 	Noi interceptăm mesaje de la o staţie radio germană . 
+1028	So , we have a counterpart on the other side who 's tip- tapping out the messages . 	Deci avem un partener de cealaltă parte , care transmite mesajele . 
+1029	Everyone types a touch differently , so you get to know the rhythm of your counterpart . 	Fiecare are un stil diferit ... şi cu timpul recunoşti ritmul partenerului tău . 
+1030	It 's strangely intimate . 	Este o intimitate ciudată . 
+1031	I feel as if I know him so well . 	Mă simt ca şi cum l- aş cunoaşte foarte bine . 
+1032	It 's a pity he has a girlfriend , but that 's why I disagree with you , Mr . 	Păcat că are o prietenă . De aceea nu sunt de acord cu tine , dle Alexander . 
+1033	Alexander . 	
+1034	Because I 'm in love with a coworker of sorts , and we 've never even met . 	Pentru că sunt îndrăgostită de un fel de coleg , pe care nu- l cunosc . 
+1035	Well , allow me to buy you another pint , and I' ll tell you why you 're wrong . 	Permite- mi să- ţi cumpăr încă o halbă , şi îţi voi spune de ce nu ai dreptate . 
+1036	Let 's . 	Bine . 
+1037	Excellent . 	Excelent . 
+1038	Thanks . 	Mulţumesc . 
+1039	Pints . 	Halbe . 
+1040	Have you got any sloe gin ? 	Ai cumva gin ? 
+1041	In case you were wondering , that 's what flirting looks like . 	În cazul în care eşti uimit , aşa arată un flirt . 
+1042	Helen ... 	Helen ... 
+1043	Alan ? 	Chiar nu fumezi ? Alan ... 
+1044	Yes , Alan ? 	Da , Alan ... 
+1045	Why do you think your German counterpart has a girlfriend ? 	De ce crezi că partenerul tău german are o prietenă ? 
+1046	- It 's just a stupid joke , don 't worry . 	- A fost o glumă proastă . 
+1047	- No , no , no , no . 	Nu- ţi fă griji . 
+1048	Tell me . 	- Nu , nu , nu . 
+1049	Well , each of his messages begins with the same five letters : 	Toate mesajele sale încep cu aceleaşi 5 litere ... 
+1050	C- I- L- L- Y . 	C - I - L - L - Y . 
+1051	So , I suspect that Cilly must be the name of his amore . 	De aceea bănuiesc că Cilly este numele iubitei lui . 
+1052	But that 's impossible . 	Este imposibil . 
+1053	The Germans are instructed to use five random letters 	Germanii folosesc 5 litere aleatorii , la începutul fiecărui mesaj . 
+1054	- at the start of every message . 	Germanii folosesc 5 litere aleatorii , la începutul fiecărui mesaj . 
+1055	- Well , this bloke doesn 't . 	Dar acest tip nu face asta . 
+1056	Love will make a man do strange things , I suppose . 	Iubirea te împinge la lucruri ciudate . 
+1057	In this case , love just lost Germany the whole bloody war . 	Datorită acestui fapt ... Germania va pierde acest nenorocit de război . 
+1058	Go , Peter . 	Haide , Peter . 
+1059	Sorry . 	Îmi pare rău . 
+1060	Alan ! 	Alan . 
+1061	Alan ! 	Alan . 
+1062	Alan ! 	Alan . 
+1063	I just want ... 	Vreau doar ... 
+1064	Hugh Alexander . 	Hugh Alexander . 
+1065	John Cairncross . 	John Cairncross . 
+1066	Peter bloody Hilton . 	Peter Hilton . 
+1067	Alan ? 	Alan ... 
+1068	What ... ? 	Ce faci ? 
+1069	What ... 	Ce este ? 
+1070	What if ... what if Christopher doesn 't have to search through all of the settings ? 	Dacă Christopher ... nu trebuie să verifice toate codurile ? 
+1071	What if he only has to search through ones that produce words we already know will be in the message ? 	Dacă îl programăm să caute ţinând cont de primul cuvânt ? Cuvântul pe care îl ştim deja din mesaj . 
+1072	- Repeated words , predictable words . 	Cuvinte repetate ... Cuvinte previzibile ... 
+1073	- Exactly . 	Exact . 
+1074	Look , look , like this one . 	Uite , ca acesta ... 
+1075	" 0600 hours . 	Ora 600 . 
+1076	Weather today is clear . 	Vremea de azi e senină . 
+1077	Rain in the evening . 	Ploaie seara . 
+1078	Heil Hitler . " 	Heil Hitler . 
+1079	Well , that 's it . 	Asta este . 
+1080	Exactly . 	Exact . 
+1081	They send a weather report every day at 6 : 00 a . m . 	Ei trimit prognoza vremii , în fiecare zi la ora 6 . 
+1082	So , that 's three words we know will be in every 6 : 00 a . m . message ... 	Deci , sunt 3 cuvinte , care ştim că apar în fiecare mesaj . 
+1083	" weather , " obviously , and ... 	Legat de vreme , evident ... şi ... 
+1084	- Heil bloody Hitler . 	Heil Hitler . 
+1085	- Heil bloody Hitler . 	Heil Hitler . 
+1086	Here 's the 6 : 00 message from this morning . 	Iată mesajul de la ora 6 din această dimineaţă . 
+1087	Hugh , the the right- hand letter wheel , set them to ... 	Hugh ... Roata din dreapta o programăm ... 
+1088	I know , I know . 	Ştiu . 
+1089	" Weather " and " Hitler . " 	" Vremea " şi " Hitler " . 
+1090	Peter , John , run voltages through those letters , through the back scramblers . 	Peter şi John ... introduceţi voltajul între aceste litere . - prin transformarea semnalelor numerice . 
+1091	So , we 'll use the loops ? 	Peter şi John ... introduceţi voltajul între aceste litere . - prin transformarea semnalelor numerice . 
+1092	Yes . 	Da , John . 
+1093	Joan , what was the last 6 : 00 a . m . message ? 	Care a fost mesajul de la 6 dimineaţa ? 
+1094	- L . 	- L . 
+1095	- L . 	- L . 
+1096	- H . 	- H . 
+1097	- H . 	- H . 
+1098	- W . 	- W . 
+1099	- W . 	- W . 
+1100	- A . 	- A . 
+1101	- A . 	- A . 
+1102	- Q . 	- Q . 
+1103	- Q . 	- Q . 
+1104	Done . 	Gata . 
+1105	Come on . 	
+1106	Come on . 	Haide , Christopher . 
+1107	Come on , Christopher . 	Haide , Christopher . 
+1108	Oh , my God . 	Doamne ... 
+1109	What happened ? 	Ce s- a întâmplat ? 
+1110	- Did it work ? 	- A funcţionat ? 
+1111	- Alan ? 	- Alan ? 
+1112	Alan ! 	Alan . 
+1113	Alan ! 	Alan . 
+1114	I need a new message . 	Am nevoie de un nou mesaj . 
+1115	The latest intercept . 	Ultimul care a fost interceptat . 
+1116	Thank you . 	Mulţumesc . 
+1117	O ... 	O ... 
+1118	T . 	T ... 
+1119	- Ready ? 	- Gata ? 
+1120	- Yes . 	- Da . 
+1121	- M . 	- M . 
+1122	- M . 	- M . 
+1123	- Y . 	- Y . 
+1124	- Y . 	- Y . 
+1125	- M . 	- M . 
+1126	S . 	- M . 
+1127	- M . 	- S . 
+1128	S . 	- S . 
+1129	- A . 	- A . 
+1130	I . 	- A . 
+1131	- A . 	- I . 
+1132	I . 	- I . 
+1133	- C . 	- C . 
+1134	- C . 	- C . - T . 
+1135	- T . 	- T . 
+1136	R . 	- R . 
+1137	- T . 	- R . 
+1138	R . 	- I . 
+1139	- I . 	- I . 
+1140	S . 	- I . 
+1141	- I . 	- S . 
+1142	S . 	- S . 
+1143	- O . 	- O . 
+1144	A . 	- O . 
+1145	- O . 	- A . 
+1146	A . 	- A . 
+1147	- Y . 	- Y . 
+1148	R . 	- Y . 
+1149	- Y . 	- R . 
+1150	R . 	- R . 
+1151	- I . 	- I . - I . 
+1152	- I . 	
+1153	" KMS Jaguar is aufpunkt is directed to 53 degrees 24 minutes north and aufpunkt one ... degree west . " 	KMS Jaguar este la punctul ... Se referă la 53 de grade 24 minute , nord ... şi la punctul ... 1 grad vest . 
+1154	Heil Hitler . 	Heil Hitler . 
+1155	Turns out that 's the only German you need to know to break Enigma . 	Se pare că este singura germană pe care trebuie s- o cunoşti , ca să spargi Enigma . 
+1156	Yes ! 	Da . 
+1157	- M . 	
+1158	- M . 	
+1159	- A . 	
+1160	- A . 	
+1161	- Y . 	
+1162	- Y . 	
+1163	- I . 	
+1164	- I . 	
+1165	- T . 	
+1166	- T . 	
+1167	- R . 	
+1168	- R . 	
+1169	- O . 	
+1170	- O . 	
+1171	T . 	
+1172	- T . 	
+1173	A . 	
+1174	- A . 	
+1175	- H . 	
+1176	- H . 	
+1177	- Q . 	
+1178	- Q . 	
+1179	- U . 	
+1180	- U . 	
+1181	R . 	
+1182	R . 	
+1183	My God , you did it . 	Doamne , ai reuşit . 
+1184	You just defeated Nazism with a crossword puzzle . 	Tocmai ai învins nazismul cu nişte cuvinte încrucişate . 
+1185	There are five people in the world who know the position of every ship in the Atlantic . 	Sunt 5 persoane din lume , care cunosc poziţia fiecărei nave din Atlantic . 
+1186	- They 're all in this room . 	- Toate sunt în această cameră . 
+1187	- Oh , good God . 	- Toate sunt în această cameră . 
+1188	Oh , I don 't think even He has the power that we do right now . 	- Doamne . Acum cred că nici EL nu are puterea pe care o avem noi . 
+1189	No . 	Nu . 
+1190	There 's going to be an attack on a British passenger convoy . 	Acolo va fi atacat un convoi britanic cu pasageri . 
+1191	Right there . 	- Chiar acolo . 
+1192	God , you 're right . 	- Doamne , ai dreptate . 
+1193	All those U- boats are only 20 , 30 minutes away . 	Aceste submarine sunt la 20 - 30 de minute de el . 
+1194	Civilians . 	Civili . 
+1195	Hundreds of them . 	Sute . 
+1196	We can save their lives . 	Le putem salva vieţile . 
+1197	I' ll phone Denniston 's office so that he can alert the Admiralty . 	Îl voi suna pe Denniston , ca să alerteze Amiralitatea . 
+1198	Do you think there 's enough time to save them ? 	Crezi că e timp suficient ca să fie salvaţi ? 
+1199	There should be , if we can get a message ... 	Ar fi , dacă putem lua legătura cu Denniston . 
+1200	Commander Denniston 's office , please . 	Ar fi , dacă putem lua legătura cu Denniston . 
+1201	It 's urgent . 	- Este urgent . 
+1202	No . 	- Nu . 
+1203	- What the hell are you doing ? 	- Ce naiba faci ? 
+1204	- You can 't call Denniston . 	- Nu- l poţi suna pe Denniston . 
+1205	- You can 't tell him about the attack . 	Nu- i poţi spune despre atac . 
+1206	- What are you talking about ? 	Ce vrei să spui ? 
+1207	We can have air support over that convoy in ten minutes . 	Pot primi sprijin aerian , în 10 minute . 
+1208	Let the U- boats sink the convoy . 	Lasă submarinele să atace convoiul . 
+1209	It 's been a big day , maybe you 're suffering ... 	E o zi mare ... Poate eşti în stare de şoc ... 
+1210	- We don 't have time ... 	- Nu avem timp ... 
+1211	- No ! 	- Nu . 
+1212	- Hugh ! 	Hugh . 
+1213	Hugh ! 	Încetează . 
+1214	That 's enough ! 	Încetează . 
+1215	That 's enough ! 	Opreşte- te , Hugh . 
+1216	- Stop , Hugh ! 	Opreşte- te , Hugh . 
+1217	John , the attack is in minutes . 	Atacul va fi în câteva minute . 
+1218	Yes , no , I 'm fine , I 'm fine . 	Da , sunt bine . 
+1219	I 'm fine . 	Sunt bine . 
+1220	You know why people like violence , Hugh ? 	Ştii de ce oamenilor le place violenţa , Hugh ? 
+1221	It 's because it feels good . 	Deoarece se simt bine . 
+1222	Sometimes we can 't do what feels good . 	Uneori nu putem face orice ca să ne simţim bine . 
+1223	- We have to do what is logical . 	Trebuie să facem ce este logic . 
+1224	- What 's logical ? 	Ce este logic ? 
+1225	Hardest time to lie to somebody is when they 're expecting to be lied to . 	Cel mai greu este să minţi pe cineva , atunci când acesta se aşteaptă să fie minţit . 
+1226	- Oh , God . 	Doamne . 
+1227	- What ? 	Ce ? 
+1228	If someone 's waiting for a lie , you can 't just give them one . 	Dacă cineva se aşteaptă să fie minţit , atunci minte- l . 
+1229	- Damn it , Alan 's right . 	La naiba , Alan are dreptate . 
+1230	- What ? 	Ce ? 
+1231	What would the Germans think if we destroy their U- boats ? 	La ce se vor gândi germanii dacă le distrugem submarinele ? 
+1232	- Nothing . 	La nimic . 
+1233	They 'll be dead . 	Vor fi morţi . Nu . 
+1234	- No . 	
+1235	No , you can 't be right . 	Nu poţi avea dreptate ... 
+1236	So , our convoy suddenly veers off course ... a squadron of our air bombers miraculously descends on the coordinates of the U- boats ... what will the Germans think ? 	Dacă convoiul nostru îşi schimbă brusc ruta ... şi o escadrilă de bombardiere apare în mod miraculos , şi atacă submarinele ... La ce se vor gândi germanii ? 
+1237	The Germans will know that we have broken Enigma . 	Germanii îşi vor da seama că le- am spart Enigma . 
+1238	They 'll stop all radio communications by midday , and they 'll have changed the design of Enigma by the weekend . 	Vor opri toate comunicaţiile radio până de prânz , şi vor schimba configuraţia Enigmei până la sfârşitul săptămânii . 
+1239	Yes . 	Vor opri toate comunicaţiile radio până de prânz , şi vor schimba configuraţia Enigmei până la sfârşitul săptămânii . 
+1240	Two years´ work . 	Munca noastră de doi ani . 
+1241	Everything that we 've done here will all be for nothing . 	Tot ceea ce am făcut aici a fost pentru nimic . 
+1242	There are 500 civilians in that convoy . 	Sunt 500 de civili în acest convoi . 
+1243	Women , children . 	Femei . Copii . 
+1244	We 're about to let them die . 	Îi lăsăm să moară . 
+1245	Our job is not to save one passenger convoy , it is to win the war . 	Treaba noastră ... nu este să salvăm un convoi de pasageri , ci să câştigăm războiul . 
+1246	- Our job was to crack Enigma . 	Treaba noastră a fost să spargem Enigma . 
+1247	- We 've done that . 	Am făcut- o . 
+1248	Now for the hard part . 	Acum , vine partea cea mai grea . 
+1249	- Keeping it a secret . 	- Păstrarea secretului . 
+1250	- Carlisle . 	- Carlisle . 
+1251	What ? 	Ce ? 
+1252	The convoy you 're about to ... it 's ... 	Convoiul despre care vorbeam ... 
+1253	The HMS Carlisle is one of the ships . 	HMS Carlisle este una dintre aceste nave . 
+1254	We can 't act on every piece of intelligence . 	Nu putem acţiona la fiecare informaţie . 
+1255	So , fine , we won 't . 	În ordine ... nu putem . 
+1256	- Just this one . 	Doar acesta . 
+1257	- Peter , what 's the matter with you ? 	Peter , ce- i cu tine ? 
+1258	My brother 's ... well , he 's on the Carlisle . 	Fratele meu ... se găseşte pe Carlisle . 
+1259	A gunnery ensign . 	E artilerist . 
+1260	I 'm ... 	
+1261	I 'm so sorry . 	Îmi pare foarte rău . 
+1262	Who the hell do you think you are ? 	Cine naiba te crezi ? 
+1263	This ... this is my brother . 	E fratele meu . 
+1264	He 's my big brother , all right , and you have a few minutes to call off his murder . 	E fratele meu mai mare , şi ai câteva minute ca să eviţi uciderea lui . 
+1265	We can 't . 	E fratele meu mai mare , şi ai câteva minute ca să eviţi uciderea lui . 
+1266	He 's right . 	Are dreptate . 
+1267	Alan . 	Alan . 
+1268	Joan . 	Joan . 
+1269	Hugh . 	Hugh . 
+1270	John . 	John . 
+1271	Please , I ... 	Vă rog ... 
+1272	The Germans , they won 't get suspicious just because we stop one attack . 	Nemţii nu vor fi suspicioşi dacă oprim un singur atac . 
+1273	No one will know . 	Nimeni nu va şti . 
+1274	I 'm asking you as your friend . 	Vă cer ... ca prieten al vostru ... 
+1275	Please . 	Vă rog . 
+1276	I 'm so sorry . 	Îmi pare foarte rău . 
+1277	You 're not God , Alan , you don 't get to decide who lives and who dies . 	Nu eşti Dumnezeu , Alan ... Nu tu decizi cine trăieşte şi cine moare . 
+1278	Yes , we do . 	Ba da , suntem . 
+1279	Why ? 	De ce ? 
+1280	Because no one else can . 	Pentru ca nimeni altcineva nu poate face asta . 
+1281	Why are you telling me this ? 	De ce- mi spui mie asta ? 
+1282	We need your help to keep this a secret from Admiralty , Army , RAF . 	Avem nevoie de ajutorul tău pentru a păstra secretul ... faţă de Amiralitate , Armată , RAF . 
+1283	No one can know we broke Enigma . 	Nimeni nu are voie să ştie că am spart Enigma . 
+1284	Not even Denniston . 	Nici măcar Denniston . 
+1285	Who 's in the process of having you fired . 	Care te va concedia . 
+1286	You can take care of that . 	Poţi avea grijă de asta . 
+1287	While we develop a system to help you determine how much intelligence to act on ... which attacks to stop , which to let through . 	Noi am creat un sistem care să ajute la aflarea informaţiilor , şi să decidem ce atacuri oprim şi pe care să le lăsăm să se întâmple . 
+1288	Statistical analysis . 	Analiză statistică . 
+1289	The minimal number of actions it would take for us to win the war ... but the maximum number we can take before the Germans get suspicious . 	Numărul minim de acţiuni care ne- ar permite să câştigăm războiul . Şi numărul maxim folosibil , fără ca germanii să devină suspicioşi . 
+1290	And you 're going to trust all this to statistics ? 	Şi puteţi avea încredere în aceste statistici ... 
+1291	- To maths ? 	- matematice ? 
+1292	- Correct . 	- Corect . 
+1293	And then MI6 can come up with the lies that we tell everybody else . 	Iar MI6 poate răspândi minciuni , pe care să le audă toată lumea . 
+1294	You 'll need a believable alternative source for all the pieces of information you use . 	Veţi avea nevoie de o sursă alternativă de informaţii , - credibilă pentru toată lumea . 
+1295	A false story so that we can explain how we got our information that has nothing to do with Enigma . 	- O poveste falsă . Ca să putem explica de unde avem informaţiile , şi care nu are legătură cu Enigma . 
+1296	And then you can leak those stories to the Germans . 	Şi apoi puteţi scurge aceste poveşti germanilor . 
+1297	And then to our own military . 	Şi apoi Armatei noastre . 
+1298	Maintain a conspiracy of lies at the highest levels of government . 	Menţinerea unei conspiraţii de minciuni , la cel mai înalt nivel guvernamental . 
+1299	Sounds right up my alley . 	Merge pe aleea mea . 
+1300	Alan , I so rarely have cause to say this , but you are exactly the man I always hoped you would be . 	Alan , mi se întâmplă foarte rar să spun acest lucru ... dar tu eşti exact omul pe care mi l- am dorit . 
+1301	They code- named it " Ultra . " 	L- au numit " Ultra " . 
+1302	It became the largest store of military intelligence in ... the history of the world . 	A devenit cel mai mare loc de informaţii militare , din întreaga istorie a lumii . 
+1303	It was like having a tap on Himmler 's intercom . 	Era ca şi când aveam o legătură cu interfonul lui Himmler . 
+1304	I- E- O ... 	
+1305	Secrecy became the primary concern , and for some reason , they ... they trusted me . 	Secretul a devenit principala preocupare , şi dintr- un anumit motiv ... ei aveau încredere în mine . 
+1306	Peter , do you have the ... 630 decryp ... 	Peter ... Ai decriptarea 630 ... 
+1307	It 's a Beale cipher encrypted with a phrase from a book or ... 	Este un cifru Beale , criptat cu o frază dintr- o carte . " Cereţi şi vi se va da . " 
+1308	" Ask , and it will be given to you ; seek and you will find . " 	Este un cifru Beale , criptat cu o frază dintr- o carte . " Cereţi şi vi se va da . " 
+1309	Matthew 7 : 7 . 	" Căutaţi şi veţi găsi . Matei 7 - 7 . " 
+1310	That was the key . 	Asta a fost cheia . 
+1311	Peter will come around eventually . 	S- ar putea să vină şi Peter . 
+1312	Jack . 	Jack . 
+1313	Could you give Alan and me a moment , please ? 	Poţi să ne laşi singuri pe mine şi pe Alan , te rog ? 
+1314	The Soviets and us , we 're on the same side . 	Sovieticii şi noi ... suntem de aceeaşi parte . 
+1315	What I 'm doing will help Britain . 	Ce fac eu , va ajuta Marea Britanie . 
+1316	I have to tell Denniston . 	Trebuie să- i spun lui Denniston . 
+1317	No , you don 't . 	Nu , nu trebuie . 
+1318	Because if you tell him my secret ... 	Pentru că dacă- i spui secretul meu ... eu îl voi spune pe al tău . 
+1319	I' ll tell him yours . 	Pentru că dacă- i spui secretul meu ... eu îl voi spune pe al tău . 
+1320	Do you know what they do to homosexuals ? 	Ştii ce păţesc homosexualii ? 
+1321	You 'll never be able to work again , never be able to teach . 	Nu vei mai putea lucra din nou , şi nu vei mai putea preda . 
+1322	Your precious machine ... 	Maşina ta preţioasă ... 
+1323	I doubt you 'll ever see him again . 	Mă îndoiesc că o s- o mai vezi vreodată . 
+1324	Hello . 	Bună ziua . 
+1325	Can I ... can I speak to Stewart Menzies , please ? 	Pot să vorbesc cu Stewart Menzies . 
+1326	It 's urgent . 	Este ceva urgent . 
+1327	One moment , please . 	Un moment , vă rog . 
+1328	Hello . 	Bună ziua . 
+1329	Menzies . 	Menzies . 
+1330	Some advice about keeping secrets . 	Unele sfaturi despre păstrarea secretelor . 
+1331	It 's a lot easier if you don 't know them in the first place . 	Este mult mai uşor dacă nu le afli . 
+1332	Were they steaming my letters , tapping my telephone ? 	Oare îmi citesc scrisorile , sau îmi ascultă telefonul ? 
+1333	Trailing my nervous walks ? 	Îmi urmăresc plimbările mele nervoase ? 
+1334	You know , I ... 	Ştii ... n- am reuşit niciodată să aflu . 
+1335	I never did find out . 	Ştii ... n- am reuşit niciodată să aflu . 
+1336	Joan ? 	Joan ? 
+1337	Joan ? 	Joan ? 
+1338	What 's ... 	Ce ... ? 
+1339	Where 's Joan ? 	Unde este Joan ? 
+1340	Military prison . 	În închisoarea militară . 
+1341	What have you done ? 	Ce ai făcut ? 
+1342	Decoded Enigma intercepts . 	Mesaje decodificate din Enigma . 
+1343	I found a pile of them in the bedside table . 	Am găsit o grămadă la ea . 
+1344	No , no . 	Nu , nu . 
+1345	I gave those to her over a year ago when I was trying to figure out 	Eu i le- am dat acum un an , când încercam să- mi dau seama de legătura între ... 
+1346	- a link between ... 	Eu i le- am dat acum un an , când încercam să- mi dau seama de legătura între ... 
+1347	- I 'm sure you did . 	Sunt sigur că ai făcut asta . 
+1348	Denniston 's been looking for a Soviet spy . 	Denniston căuta un spion sovietic . 
+1349	He 's been looking inside Hut 8 . 	A cercetat la Hut 8 . 
+1350	I know who the spy is . 	Ştiu cine este spionul . 
+1351	It 's not Joan . 	Nu este Joan . 
+1352	It 's ... it 's Cairncross . 	Este ... Cairncross . 
+1353	I found the Beale cipher , the Bible . 	Am găsit la el cifrul Beale . Biblia . 
+1354	God , I wish you 'd been a spy . 	Doamne , mi- aş fi dorit ca tu să fii un spion . 
+1355	You 'd be so much better at this than he is . 	Ai fi fost mult mai bun decât el . 
+1356	You knew it was him ? 	Ai ştiut că el este . 
+1357	Of course I bloody knew . 	Sigur că ştiam . 
+1358	I knew before he came to Bletchley . 	Ştiam înainte de venirea lui la Bletchley . 
+1359	Why do you think I had him placed here ? 	De ce crezi că l- am băgat aici ? 
+1360	But we have an Enigma machine . 	Dar avem o maşină Enigma . 
+1361	Yeah , Polish Intelligence ... 	Da , de la serviciile poloneze . 
+1362	You placed a ... a Soviet agent at Bletchley Park ? 	Ai băgat ... un agent sovietic la Bletchley ? 
+1363	It 's really quite useful to be able to leak whatever we want to Stalin . 	Este foarte util pentru a putea scurge informaţiile dorite lui Stalin . 
+1364	Churchill 's too damn paranoid . 	Churchill este prea paranoic . 
+1365	He won 't share a shred of intelligence with the Soviets . 	El n- ar împărţi nici o fărâmă de informaţie cu sovieticii . 
+1366	Not even information that will help them against the Germans . 	Nici chiar informaţii care să- i ajute împotriva germanilor . 
+1367	There 's ... so much secrecy . 	Mult prea secretos . 
+1368	Cairncross has no idea we know , of course . 	Bineînţeles că Cairncross habar nu are . 
+1369	He 's really not the brightest bulb . 	Nu este destul de inteligent . 
+1370	Which is why I need your help . 	De aceea am nevoie de ajutorul tău . 
+1371	I want to know what to leak to John , what to feed to the Soviets , as well as the British . 	Vreau să ştiu ce informaţii trebuie să primească John , ce să- i putem alimenta pe sovietici , precum şi pe britanici . 
+1372	I 'm not a spy . 	Eu nu sunt un spion ... 
+1373	I 'm ... 	Eu nu sunt un spion ... 
+1374	I 'm just a mathematician . 	Sunt doar un matematician . 
+1375	I know a lot of spies , Alan . 	Ştiu o mulţime de spioni , Alan . 
+1376	You 've got more secrets than the best of them . 	Ai aflat mai multe secrete decât cel mai bun dintre ei . 
+1377	You ... you have to promise me that you will release Joan . 	Trebuie să- mi promiţi că o eliberezi pe Joan . 
+1378	Yes , Joan 's at the market . 	Da , Joan e la piaţă . 
+1379	She 's gonna be back in an hour . 	Se va întoarce într- o oră . Te- am minţit . 
+1380	I lied . 	
+1381	I better hold on to these . 	Mai bine iau eu chestiile astea ... înainte să afle altcineva despre ele . 
+1382	If anybody finds out about them , prison will be the least of her worries . 	Mai bine iau eu chestiile astea ... înainte să afle altcineva despre ele . 
+1383	Oh , Alan ... we 're gonna have such a wonderful war together . 	Alan ... Noi voi petrece un război minunat împreună . 
+1384	- I need you to leave Bletchley . 	Vreau să pleci din Bletchley . 
+1385	- What ? 	- Ce ? 
+1386	It 's Menzies . 	- E vorba de Menzies . 
+1387	I don 't trust him . 	Nu am încredere în el . 
+1388	It 's not safe here . 	Nu e sigur aici . 
+1389	- Do you think it 's any safer anywhere else ? 	- Crezi că există vreun loc sigur ? 
+1390	- You need to get away . 	- Crezi că există vreun loc sigur ? 
+1391	- You need to get very far away from me . 	- Trebuie să pleci . 
+1392	- Alan , what 's happened ? 	- Trebuie să fii cât mai departe de mine . 
+1393	We can 't be engaged anymore . 	Nu mai putem fi logodiţi . 
+1394	You ... your parents need to take you back and find you a husband elsewhere . 	Părinţii tăi trebuie să te primească înapoi , şi vei găsi un soţ în altă parte . 
+1395	What 's wrong with you ? 	Ce- i cu tine ? 
+1396	I have something to tell you . 	Am ceva să- ţi spun ... 
+1397	I 'm ... 	Eu sunt ... 
+1398	I 'm a homosexual . 	Sunt homosexual . 
+1399	All right . 	Bine . 
+1400	No , no . 	Nu , nu . 
+1401	Men , Joan ... 	Bărbaţi , Joan ... 
+1402	- not women . 	- Nu femei . 
+1403	- So what ? 	- Şi ce dacă ? 
+1404	- Well , I just told you . 	- Tocmai ţi- am spus ... 
+1405	- So what ? 	- Şi ce dacă ? 
+1406	I had my suspicions ; I always did . 	Am avut mereu suspiciuni . Întotdeauna le- am avut . 
+1407	But we 're not like other people . 	Dar noi nu suntem ca alţii . 
+1408	We love each other in our own way , and we can have the life together that we want . 	Ne iubim în felul nostru ... şi putem avea împreună o viaţă pe care ne- o dorim . 
+1409	You ... you won 't be the perfect husband . 	Tu nu vei fi soţul perfect . 
+1410	Well , I can promise you , I have no intention of being the perfect wife . 	Dar te asigur ... nici eu nu am intenţia să fiu o soţie perfectă . 
+1411	I' ll not be ... fixing your lamb all day while you come home from the office . 	Nu voi fi ... mieluşelul tău toată ziua , când te întorci acasă de la birou . 
+1412	I' ll work . 	Voi lucra . 
+1413	You 'll work . 	Tu vei lucra . 
+1414	And we 'll have each other 's company . 	Şi vom avea compania celuilalt . 
+1415	We 'll have each other 's minds . 	Vom avea părerea celuilalt . 
+1416	That sounds like a better marriage than most . 	Asta pare o căsătorie mai bună decât a majorităţii celorlalţi . 
+1417	Because I care for you . 	Pentru că eu ţin la tine . 
+1418	And you care for me . 	Şi tu ţii la mine . 
+1419	And we understand one another more than ... more than anyone else ever has . 	Şi ne înţelegem unul pe altul mai mult decât alţii o fac ... 
+1420	I don 't . 	Eu nu . 
+1421	- What ? 	- Ce ? 
+1422	- Care for you . 	- Nu ţin la tine . 
+1423	I never did . 	N- am ţinut niciodată . 
+1424	I just needed you to break Enigma . 	Am avut nevoie de tine ca să sparg Enigma . 
+1425	I' ve done that now , so ... so you can go . 	Acum ţi- am spus aşa că ... poţi pleca . 
+1426	I 'm not going anywhere . 	Nu plec nicăieri . 
+1427	I' ve spent entirely too much of my life worried about what you think of me , or what my parents think of me , or the boys in Hut 8 or the girls in Hut 3 . 	Am pierdut prea mult din viaţa mea , şi nu- mi pasă ce crezi despre mine , sau ce cred părinţii mei despre mine , sau băieţii de la Hut 8 sau fetele de la Hut 3 . 
+1428	And do you know what ? 	Am pierdut prea mult din viaţa mea , şi nu- mi pasă ce crezi despre mine , sau ce cred părinţii mei despre mine , sau băieţii de la Hut 8 sau fetele de la Hut 3 . 
+1429	I 'm done . 	Am terminat . 
+1430	This is the most important work I will ever do , and no one is going to stop me . 	Asta e cea mai importantă muncă pe care am făcut- o vreodată , şi nimeni nu mă va opri . 
+1431	Least of all , you . 	Nici chiar tu . 
+1432	You know what , they were right . 	Ştii ceva ? Aveau dreptate . 
+1433	Peter , Hugh , John . 	Peter , Hugh , John . 
+1434	You really are a monster . 	Chiar eşti un monstru . 
+1435	The war dragged on for two more ... solitary years ... and every day we performed our blood- soaked calculus . 	Războiul m- a târât mai mult de 2 ani în singurătate ... În fiecare zi făceam calculele noastre nenorocite ... 
+1436	Every day we decided who lived and who died . 	În fiecare zi decideam cine va trăi şi cine va muri . 
+1437	Every day we ... helped the Allies to victories , and nobody knew . 	În fiecare zi ... îi ajutam pe aliaţi să obţină victorii , şi nimeni nu ştia . 
+1438	Stalingrad . 	Stalingrad . 
+1439	The Ardenne . 	Ardenne . 
+1440	The invasion of Normandy . 	Invazia din Normandia . 
+1441	All victories that would not have been possible without the intelligence that we supplied . 	Toate victoriile nu ar fi fost posibile , fără informaţiile furnizate de noi . 
+1442	And people ... talk about the war as this epic battle between ... civilizations ... freedom versus tyranny , democracy versus Nazism , armies of millions bleeding into the ground , fleets of ships weighing down the oceans , planes dropping bombs from the sky until they obliterated the sun itself ... the war wasn 't like that for us . 	Şi oamenii ... vorbesc despre război ca fiind o luptă epică între .... civilizaţii . între libertate şi tiranie , între democraţie şi nazism , între armatele de milioane care stropeau pământul cu sânge , între flotele navale care se scufundau în oceane , între avioanele care aruncau bombe din cer , până puneau în umbră chiar şi soarele ... Războiul nu a fost aşa pentru noi . 
+1443	For us , it was just ... half a dozen crossword enthusiasts in a tiny village in the South of England . 	Pentru noi , a fost ... o jumătate de duzină de entuziaşti ai cuvintelor încrucişate , într- un mic sat din sudul Angliei . 
+1444	This is ... your victory . 	Aceasta este ... victoria ta . 
+1445	Victory ... of the cause of freedom in every land . 	Victorie ... pentru cauza libertăţii din fiecare ţară . 
+1446	This is a solemn but glorious hour . 	Aceasta este o oră solemnă şi glorioasă . 
+1447	I wish that Franklin D . 	Îmi doresc ca Franklin D . 
+1448	Roosevelt had lived to see this day . 	Roosevelt să fii trăit această zi . 
+1449	Was I God ? 	Am fost un Dumnezeu ? 
+1450	No . 	Am fost un Dumnezeu ? 
+1451	Because ... 	Nu . 
+1452	God didn 't win the war . 	Pentru că ... nu Dumnezeu a câştigat războiul . 
+1453	We did . 	Noi am făcut- o . 
+1454	So , what happens now ? 	Deci ... ce se întâmplă acum ? 
+1455	Is it ... back to university for us , I suppose ? 	Presupun ... că ne întoarcem la universitate . 
+1456	Yes , pretty much . 	Da , aşa se pare . 
+1457	But you 've one thing left to do before your service to your government in concluded . 	Dar a rămas un singur lucru de făcut , înainte de terminarea serviciului vostru . 
+1458	- What 's that ? 	Ce anume ? 
+1459	- Burn everything . 	Ardeţi totul . 
+1460	- Burn ? 	- Să ardem ? 
+1461	Why ? 	- Să ardem ? 
+1462	- You were told when you started this was a top- secret program . 	De ce ? - Vi s- a spus de la început ... că a fost un proiect strict secret . 
+1463	Did you think we were joking ? 	Credeţi că am glumit ? 
+1464	- But the war is over . 	- Dar războiul s- a terminat . 
+1465	- This war is . 	- Dar războiul s- a terminat . 
+1466	But there 'll be others . 	- Acest război . Dar vor apărea altele . 
+1467	And we know how to break a code that everybody else believes is unbreakable . 	Şi pentru că ştim cum se sparge un cod , pe care toată lumea crede că este imposibil de spart . 
+1468	Precisely . 	Exact . 
+1469	Tear it down . 	Distrugeţi totul . 
+1470	Light it up . 	Daţi foc la tot . 
+1471	Sweep away the ashes . 	Împrăştiaţi cenuşa . 
+1472	None of you have ever met before . 	Nu v- aţi cunoscut niciodată . 
+1473	None of you have ever even heard the word Enigma . 	Nu aţi auzit niciodată de cuvântul Enigma . 
+1474	Have a safe trip home . 	Vă doresc un drum bun spre casă . 
+1475	Behave . 	Comportaţi- vă cum trebuie ... 
+1476	With a bit of luck , you 'll never have to see me or one another again for the rest of your lives . 	Cu puţin noroc , nu va mai trebui să mă mai vedeţi pentru tot restul vieţii voastre . 
+1477	That 's unbelievable . 	Este incredibil . 
+1478	Now , Detective , you get to judge . 	Acum ... detective ... va trebui să judeci ... 
+1479	So , tell me ... what am I ? 	Deci , spune- mi ... ce sunt eu ? 
+1480	Am I ... a machine ? 	Sunt eu ... o maşină sau o persoană ? 
+1481	Am I a person ? 	
+1482	Am I a war hero ? 	Sunt un erou de război ? 
+1483	Am I a criminal ? 	Sunt un criminal ? 
+1484	I can 't judge you . 	Nu te pot judeca . 
+1485	Well , then ... 	Atunci ... 
+1486	you 're no help to me at all . 	nu îmi eşti de nici un ajutor . 
+1487	Come in . 	Intră . 
+1488	You wanted to see me , sir ? 	Aţi vrut să mă vedeţi , dle . 
+1489	Turing . 	Turing . 
+1490	Sit down . 	Ia loc . 
+1491	Something the matter ? 	Despre ce e vorba ? 
+1492	You and Christopher Morcom are quite close . 	Tu şi Christopher Morcom sunteţi destul de apropiaţi . 
+1493	I wouldn 't say that . 	Nu aş spune asta . 
+1494	Well , your mathematics teacher says the two of you are positively inseparable . 	Profesorul vostru de matematică spune că voi doi sunteţi inseparabili . 
+1495	We 're the best students in the class . 	Suntem cei mai buni elevi din clasă . 
+1496	He caught you passing notes the other day . 	Ai fost prins când i- ai pasat un bileţel . 
+1497	Cryptography , to pass the time . 	Criptografie , ca să ne treacă timpul . 
+1498	The class is too simple . 	Matematica era prea simplă . 
+1499	You and your friend solve maths problems during maths class because the maths class is too dull ? 	Tu şi prietenul tău rezolvaţi probleme în timpul orei de matematică , deoarece orele de matematică sunt prea plictisitoare ? 
+1500	He 's not my friend . 	Nu e prietenul meu . 
+1501	- Well , I 'm told he 's your only friend . 	Eu am spus că este singurul tău prieten . 
+1502	- Who said that ? 	Cine a spus asta ? 
+1503	Something 's come up concerning Morcom . 	Ceva a ieşit la iveală ... în ce- l priveşte pe Morcom . 
+1504	Why am I here ? 	De ce sunt aici ? 
+1505	Christopher is dead . 	Christopher este mort . 
+1506	I don 't understand . 	Nu înţeleg . 
+1507	His mother sent word this morning . 	Mama lui ne- a anunţat în această dimineaţă . 
+1508	The family were on holiday , you see . 	Familia lui era în vacanţă . 
+1509	I don 't understand . 	Nu înţeleg . 
+1510	Well , he had bovine tuberculosis , as I 'm sure he told you . 	Era bolnav de tuberculoză bovină . Sunt sigur că ţi- a spus . 
+1511	So , this won 't come as a shock , but ... still , all the same , 	Deci , acest lucru nu te poate şoca , dar ... rămâne cum am spus ... 
+1512	I 'm sorry . 	Îmi pare rău . 
+1513	You 're mistaken . 	Vă înşelaţi . 
+1514	Did he not tell you ? 	Nu ţi- a spus ? 
+1515	Well , he 's been sick for a long time . 	Era bolnav de mult timp . 
+1516	He knew this was coming soon . 	A ştiut că se va întâmpla curând . 
+1517	But he had a stiff upper lip about it . 	Dar poate a fost discret cu privire la asta . 
+1518	Good lad . 	Bun băiat . 
+1519	- Are you all right , Turing ? 	- Eşti bine , Turing ? 
+1520	- Yes . 	- Da . 
+1521	Of course . 	Desigur . 
+1522	Like I said , I didn 't know him very well . 	După cum v- am spus , nu l- am cunoscut prea bine . 
+1523	I see . 	Înţeleg . 
+1524	Very well . 	Foarte bine . 
+1525	May I leave , Headmaster ? 	Pot să plec , directore ? 
+1526	Congratulations , sir . 	Felicitări , domnule . 
+1527	Sorry . 	Scuză- mă . 
+1528	I would have come . 	Ar fi trebuit să vin aici . 
+1529	I would have testified . 	Aş fi putut să dau o mărturie . 
+1530	And what would you have said , that I ... 	Şi ce- ai fi putut spune , că eu ... nu am fost un homosexual ? 
+1531	I wasn 't a homosexual . 	Şi ce- ai fi putut spune , că eu ... nu am fost un homosexual ? 
+1532	Alan ... this is serious . 	Alan ... 
+1533	They could send you to jail . 	Asta e grav . Te poate băga în închisoare . 
+1534	Damn it . 	La naiba . 
+1535	- Your hands . 	Îţi tremură mâinile . 
+1536	You 're twitching . 	Îţi tremură mâinile . 
+1537	- No , I 'm not . 	Nu , nu- mi tremură . 
+1538	Alan . 	Alan . 
+1539	It 's the medication . 	Din cauza medicamentelor . 
+1540	The medication ? 	Medicamente ? 
+1541	Well , the judge gave me a choice ... either two years in prison or hormonal therapy . 	Judecătorul m- a pus să aleg ... Doi ani de închisoare ... sau o terapie hormonală . 
+1542	Oh , my God . 	Doamne . 
+1543	Oh , my God . 	- Doamne . 
+1544	Yes , yes , that 's right . 	- Da . Aşa este . 
+1545	Chemical castration . 	Castrare chimică . 
+1546	To ... to cure me of my homosexual predilections . 	Să mă vindece de ... predilecţiile homosexuale . 
+1547	Well , of course I chose that . 	Bineînţeles că am ales asta . 
+1548	I mean , I ... couldn 't ... work in prison , and ... 	Nu puteam ... munci în închisoare . 
+1549	All right . 	În regulă . 
+1550	Now , I 'm going to speak to your doctors . 	O să vorbesc cu doctorii tăi . 
+1551	I 'm going to speak to your lawyers . 	- Voi vorbi cu avocaţii . 
+1552	I 'm fine . 	- Voi vorbi cu avocaţii . 
+1553	- Please let me help you . 	- Sunt bine . - Te rog lasă- mă să te ajut . 
+1554	- No , I don 't need your help , thank you . 	- N- am nevoie de ajutorul tău . Mulţumesc . 
+1555	Alan , you do not have to do this alone . 	Alan , nu trebuie să faci asta de unul singur . 
+1556	I 'm not alone . 	Nu sunt singur . 
+1557	Never have been . 	Nu am fost singur niciodată . 
+1558	Christopher 's become so smart . 	Christopher a devenit atât de deştept ... 
+1559	If I don 't continue my treatment , then they 'll ... they 'll take him away from me . 	Dacă nu voi continua tratamentul ... îl vor lua de la mine . 
+1560	You ... 	
+1561	You can 't let them do that . 	Nu- i poţi lăsa să facă asta . 
+1562	You can 't . 	Nu poţi . 
+1563	You ... you can 't let them leave me alone . 	Nu poţi face nimic ca să mă lase în pace . 
+1564	I don 't ... 	Nu vreau să fiu singur . 
+1565	I don 't want to be alone . 	Nu vreau să fiu singur . 
+1566	I don 't want to be alone . 	- Nu vreau să fiu singur . 
+1567	All ri ... all right , all right . 	- Nu vreau să fiu singur . 
+1568	All right . 	- Bine , bine . 
+1569	It 's all right . 	Este în regulă . 
+1570	Come and sit down . 	Vino şi stai jos . 
+1571	It 's all right . 	Este în regulă . 
+1572	Come and sit down . 	Vino şi stai jos . 
+1573	It 's all right . 	Este în regulă . 
+1574	Oh , well , that 's a ... that 's a much nicer ring than the one I made you . 	Acest inel este ... este mult mai frumos decât cel pe care l- am făcut eu . 
+1575	Yes . 	Acest inel este ... este mult mai frumos decât cel pe care l- am făcut eu . 
+1576	His name 's Jock . 	Da . Numele lui este Jock . 
+1577	He 's an Army man , if you can believe it . 	Este în armată . Nu- ţi vine să crezi . 
+1578	We work together . 	Lucrăm împreună . 
+1579	Why don 't we do a crossword puzzle . 	Hai să rezolvăm cuvinte încrucişate . 
+1580	It 'll only take us five minutes . 	Ne va lua doar 5 minute . 
+1581	Or , in your case , six . 	În cazul tău , 6 . 
+1582	There . 	Aşa . 
+1583	Perhaps later . 	Poate mai târziu . 
+1584	Yes , of course . 	Da , desigur . 
+1585	You got what you wanted , didn 't you ? 	Ai obţinut ce ai vrut , nu- i aşa ? 
+1586	Work , a husband . 	Lucru , un soţ . 
+1587	Normal life . 	O viaţă normală . 
+1588	No one normal could have done that . 	Un om normal nu ar fi putut să realizeze aşa ceva . 
+1589	Do you know , this morning ... 	Azi dimineaţă ... 
+1590	I was on a train that went through a city that wouldn 't exist if it wasn 't for you . 	Eram în tren ... care a trecut printr- un oraş care n- ar mai fi existat , dacă nu existai tu . 
+1591	I bought a ticket from a man who would likely be dead if it wasn 't for you . 	Am cumpărat un bilet de la un om , care putea fi mort dacă nu existai tu . 
+1592	I read up on my work ... a whole field of scientific inquiry that only exists because of you . 	Am citit la servici ... o tablă întreagă de cercetare ştiinţifică , care există datorită ţie . 
+1593	Now , if you wish you could have been normal ... 	Dacă tu îţi doreşti să fii fost normal ... eu te asigur că nu- mi doresc asta . 
+1594	I can promise you I do not . 	Dacă tu îţi doreşti să fii fost normal ... eu te asigur că nu- mi doresc asta . 
+1595	The world is an infinitely better place precisely because you weren 't . 	Lumea este acum un loc infinit mai bun ... tocmai pentru că tu nu ai fost normal . 
+1596	Do you ... do you really think that ? 	Chiar crezi asta ? 
+1597	I think ... that sometimes it is the people who no one imagines anything of who do the things that no one can imagine . 	Cred că ... uneori este foarte uman , cel care nu- şi poate imagina că cineva poate face lucruri inimaginabile . 

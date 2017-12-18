@@ -1,0 +1,1597 @@
+1	Are you paying attention ? 	Figyel rám ? 
+2	Good . 	Helyes . 
+3	If you 're not listening carefully , you will miss things , important things . 	Ha nem figyel eléggé , bizonyos dolgokat nem fog megérteni . Fontos dolgokat . 
+4	I will not pause . 	Nem tartok szünetet , nem ismétlek meg semmit , ön nem szakít félbe . 
+5	I will not repeat myself , and you will not interrupt me . 	Nem tartok szünetet , nem ismétlek meg semmit , ön nem szakít félbe . 
+6	You think that because you are sitting where you are and I am sitting where I am that you are in control of what is about to happen . 	Azt hiszi , hogy csak azért , mert maga ott ül , ahol , én meg itt , maga fogja irányítani azt , ami történni fog . 
+7	You 're mistaken . 	Téved . 
+8	I am in control . 	Én irányítok . 
+9	Because I know things that you do not know . 	Mert olyan dolgokat tudok , amiket ön nem . 
+10	Manchester Police Department , please hold . 	Manchesteri rendőrség ! 
+11	Windows broken . 	MI6 KÖZPONT - ... Betört ablak , feldúlt lakás . 
+12	Home 's been ransacked . 	MI6 KÖZPONT - ... Betört ablak , feldúlt lakás . 
+13	Send a detective down , will you ? 	Küldjetek ide egy nyomozót ! 
+14	What I will need from you now is a commitment . 	Elvárom , hogy elkötelezze magát . 
+15	You will listen closely , and you will not judge me until I am finished . 	Figyelmesen meghallgat , és nem ítélkezik , míg be nem fejezem . 
+16	If you cannot commit to this , then please leave the room . 	Ha nem képes erre , úgy kérem , hagyja el a szobát ! 
+17	Come in . 	Jöjjön be ! 
+18	But if you choose to stay , remember you chose to be here . 	Ha úgy dönt , hogy marad , ne feledje , ön döntött így . 
+19	What happens from this moment forwards is not my responsibility . 	Ami mostantól történik , az már nem az én felelősségem . 
+20	It 's yours . 	Az öné . 
+21	Pay attention . 	Figyeljen ! 
+22	- What 's all this , then ? 	- Szóval , mi ez az egész ? 
+23	- Turing , Alan . 	- Alan Turing . 
+24	Professor at King 's . 	A King 's College tanára . 
+25	- Seems there 's been a burglary . 	- Úgy tűnik , betörés volt . 
+26	- Oh ? 	- Úgy tűnik , betörés volt . 
+27	What of ? 	- Mit vittek el ? 
+28	Well , that 's just it . 	Hát ez az ! 
+29	Nothing missing , really . 	Igazából semmi se hiányzik . 
+30	What 's he doing in Manchester ? 	Mit csinál Manchesterben ? 
+31	Something with machines . 	Valami masinákkal foglalkozik . 
+32	The project at the NPL . 	A Nemzeti Fizikai Laborban , de nem hajlandó elárulni , min dolgozik . 
+33	I checked , but he won 't say what it 's on . 	A Nemzeti Fizikai Laborban , de nem hajlandó elárulni , min dolgozik . 
+34	Professor Turing ? 	Turing professzor ? 
+35	Detective Nock , Manchester Police . 	Nock nyomozó , Manchesteri Rendőrség . 
+36	Sergeant Staehl here tells me you had a burglary last night . 	Az őrmestertől hallom , hogy betörtek magához . 
+37	Professor Turing ? 	Turing professzor ? 
+38	Take a step back , and don 't breath heavily . 	Lépjen hátrébb , és ne lélegezzen mélyeket ! 
+39	- Breathe ? 	Lépjen hátrébb , és ne lélegezzen mélyeket ! 
+40	- Undiluted cyanide . 	- Hogyan ? - Tömény cián . 
+41	It wouldn 't take more than a thimbleful to kill you . 	Gyűszűnyi is elég hozzá , hogy megölje . 
+42	- Disappointing . 	- Csalódott vagyok . 
+43	- Pardon ? 	- Csalódott vagyok . 
+44	I had hoped for a bit more . 	- Tessék ? Magasabb rangút vártam . 
+45	Sergeant Staehl , is it just me , or do you get the sense that we 're being insulted ? 	Csak én érzem úgy , vagy maga is , hogy sértegetnek ? 
+46	Last night , you had a break- in . 	Múlt éjjel betörtek önhöz . 
+47	Your neighbor , Mr . 	Múlt éjjel betörtek önhöz . 
+48	Springborn , called to report the noise . 	A szomszédja tett bejelentést . 
+49	He said there was quite a ruckus . 	Azt mondja , nagy lármát csaptak . 
+50	Only you say nothing was taken . 	Azt mondja , nagy lármát csaptak . 
+51	It 's odd . 	De ön nem hiányol semmit . 
+52	So , how about you tell us what happened , and we 'll find the chap who did this . 	Különös . Mondja el , mi történt , mi megkeressük a fickót . 
+53	Gentlemen , I don 't believe that you could find the chap that did this if he walked up to you and spat in your face . 	Uraim ! Kétlem , hogy meg tudnák találni a fickót , aki ezt tette , még ha a képükbe köpne se . 
+54	What I could us right now is not a bobby , but a really good cleaning lady . 	E pillanatban nekem nem egy rendőr kéne , hanem egy jó takarítónő . 
+55	So , unless one of you has an apron in your car , 	Hacsak nincs kötény az egyiküknél , javaslom , írják meg a jelentésüket , és hagyjanak békén . 
+56	I suggest you file your reports and leave me alone . 	Hacsak nincs kötény az egyiküknél , javaslom , írják meg a jelentésüket , és hagyjanak békén . 
+57	As you say , Professor Turing . 	Ahogy óhajtja , professzor . 
+58	Best of luck with your cyanide . 	Sok szerencsét a ciánnal ! 
+59	I' ll give you a quid if you can name me a more insufferable sod . 	Egy fontot kap , ha mond még egy ilyen taplót . 
+60	- Seemed a bit forced , though , didn 't it ? 	- Kissé kényszeredett volt , nem ? 
+61	- Don 't know what you mean . 	- Hogy érti ? 
+62	Well , if you didn 't want a pair of bobbies digging around in your personal affairs , that 'd have been a stellar way to make sure they don 't . 	Ha nem akarta , hogy kutakodjunk a holmija közt , kiválóan megoldotta . 
+63	Tell me you don 't think this is suspicious . 	- Mondja , hogy maga szerint nem gyanús ! 
+64	I don 't think this is suspicious . 	- Mondja , hogy maga szerint nem gyanús ! 
+65	A mysterious professor who won 't admit he 's had something stolen from his house ? 	- Nem gyanús . Egy rejtélyes professzor , aki nem ismeri be , hogy meglopták . 
+66	I think Alan Turing 's hiding something . 	Szerintem Turing rejteget valamit . 
+67	War declared ! 	Hadüzenet ! 
+68	800, 000 children evacuated ! 	Nyolcszázezer gyereket evakuáltak ! 
+69	German bombs on their way ! 	Német bombák jönnek ! 
+70	Get your papers here ! 	Német bombák jönnek ! 
+71	Fresh off the press ! 	Itt az újság ! A legfrissebb hírek ! 
+72	War declared ! 	Hadüzenet ! 
+73	800, 000 children evacuated ! 	
+74	German bombs expected soon ! 	
+75	This morning , the British Ambassador in Berlin handed the German government a final note stating that unless we heard from them , by 11 : 00 , a state of war would exist between us . 	Ma reggel a brit nagykövet Berlinben átadott a német kormánynak egy utolsó figyelmeztetést , miszerint ha nem hallunk felőlük ma 11- ig , akkor hadban állunk egymással . 
+76	I have to tell you now that no such undertaking has been received . 	Ezennel közölnöm kell önökkel , hogy nem kaptunk ilyen üzenetet , és ennek következtében országunk hadban áll Németországgal . 
+77	And that , consequently , this country is at war with Germany . 	Ezennel közölnöm kell önökkel , hogy nem kaptunk ilyen üzenetet , és ennek következtében országunk hadban áll Németországgal . 
+78	For the second time in the lives of most of us , we are ... at war . 	zene Legtöbbünk életében immár másodszor országunk ... hadban áll . fényképezte 
+79	To find a peaceful way out ... 	Hogy békés kiutat találjunk ... 
+80	Papers , please . 	Az iratait kérem ! 
+81	What are you doing here ? 	Mit keres itt ? 
+82	- Oh , the lady told me to wait . 	- A hölgy mondta , hogy várjak . 
+83	- In my office ? 	- Az irodámban ? 
+84	She tell you to help yourself to tea while you were here ? 	Azt is mondta , hogy szolgálja ki magát teával ? 
+85	No , she didn 't . 	Nem , azt nem . 
+86	She obviously didn 't tell you what a joke was , then , either , I gather . 	Nyilván azt sem mondta , hogy mi is a vicc , gondolom . 
+87	Was she supposed to ? 	Nyilván azt sem mondta , hogy mi is a vicc , gondolom . 
+88	- Who are you ? 	- Ki maga ? 
+89	- Alan Turing . 	- Alan Turing . 
+90	Turing . 	Turing . 
+91	The mathematician . 	A matematikus . 
+92	- Correct . 	A matematikus . 
+93	- However could I have guessed ? 	- Így van . - Hogy is jöttem rá ? 
+94	Well , you didn 't . 	Sehogy . 
+95	You just read it on that piece of paper . 	Az imént olvasta azon a papíron . 
+96	King 's College , Cambridge . 	King 's College , Cambridge . 
+97	Now , it says here you were a bit of a prodigy in the maths department . 	Azt írják , a matematika tanszék zsenije volt . 
+98	I 'm not sure I can evaluate that , Mr .... 	Ezt nem feltétlenül tudom megítélni , Mr ... 
+99	- How old are you , Mr . 	- Hány éves , Mr . 
+100	Turing ? 	- Hány éves , Mr . 
+101	- 27 . 	Turing ? 
+102	And how old were you when you became a Fellow at Cambridge ? 	- 27 . - Mikor lett a tanszék tagja Cambridge- beh ? 
+103	- 24 . 	
+104	- And how old were you ... when you published this paper that has a title I can barely understand ? 	- 24 évesen . Hány évesen jelentette meg ezt a zavaros című dolgozatot ? 
+105	23 . 	23 . 
+106	And you don 't think that qualifies you as a certified prodigy ? 	Ez nem bizonyítja a zsenialitását ? 
+107	Well , Newton discovered binomial theorem aged 22 . 	Newton 22 évesen fedezte fel a binominális tételt . 
+108	Einstein wrote four papers that changed the world by the age of 26 . 	Einstein négy világrengető tanulmányt írt 26 éves korára . 
+109	As far as I can tell , I' ve ... 	Amennyire meg tudom ítélni , nem érek fel hozzájuk . 
+110	I' ve barely made par . 	Amennyire meg tudom ítélni , nem érek fel hozzájuk . 
+111	- My God , you 're serious . 	Amennyire meg tudom ítélni , nem érek fel hozzájuk . 
+112	- Would you prefer I made a joke ? 	- Istenem , maga aztán komoly ! - Vicceljek inkább ? 
+113	Oh , I don 't think you know what those are . 	Nem hinném , hogy tudna . 
+114	Hardly seems fair that that 's a requirement for employment here , Mr ... 	Ez aligha lenne fair követelmény , Mr ... 
+115	Commander Denniston , Royal Navy . 	Denniston parancsnok , Királyi Haditengerészet . 
+116	All right , Mr . 	Denniston parancsnok , Királyi Haditengerészet . 
+117	Turing , I' ll bite . 	Denniston parancsnok , Királyi Haditengerészet . 
+118	Why do you wish to work for His Majesty 's government ? 	Folytatom . - Miért akar őfelsége kormányának dolgozni ? 
+119	Oh , I don 't , really . 	- Igazából nem akarok . 
+120	Are you a bleeding pacifist ? 	Mert átkozott pacifista ? 
+121	I 'm ... agnostic about violence . 	Agnosztikus vagyok az erőszakot illetően . 
+122	Well , you do realize that 600 miles away from London there 's this nasty little chap called Hitler who wants to engulf Europe in tyranny ? 	Tisztában van vele , hogy van ez a Hitler nevű kis fickó hatszáz mérföldre , - aki zsarnokságba döntené Európát ? 
+123	Politics isn 't really my area of expertise . 	- A politika nem a szakterületem . 
+124	Really ? 	- A politika nem a szakterületem . 
+125	Well , I believe you 've just set the record for the shortest job interview in British military history . 	Igazán ? Ez volt a brit katonai történelem legrövidebb felvételi beszélgetése . 
+126	Mother says I can be off- putting sometimes on account of being one of the best mathematicians in the world . 	Anyám szerint taszító lehetek a világ egyik legjobb matematikusaként . 
+127	- In the world ? 	- A világ ... ? ! 
+128	- Oh , yes . 	- Bizony ! 
+129	Do you know how many people I' ve rejected for this program ? 	- Tudja , hány embert elutasítottam már erre a programra ? 
+130	No . 	- Tudja , hány embert elutasítottam már erre a programra ? 
+131	Well , that 's right , because we 're a top- secret program . 	- Nem . Mert ez egy szigorúan titkos program . 
+132	But I' ll tell you , just because we 're friends , that only last week , I rejected one of our great nation 's top linguists . 	De baráti alapon elárulom , hogy csak a múlt héten az ország egyik legjobb nyelvészet küldtem el . 
+133	Knows German better than Bertolt Brecht . 	Jobban tud németül , mint Brecht . 
+134	- I don 't speak German . 	- Én nem beszélek németül . 
+135	- What ? 	- Mi ? 
+136	I don 't ... speak German . 	Nem beszélek németül . 
+137	Well , how the hell were you supposed to decrypt German communications if you don 't ... 	Hogy a fenébe akar német üzeneteket megfejteni , ha nem tud németül ? 
+138	I don 't know , speak German ? 	Hogy a fenébe akar német üzeneteket megfejteni , ha nem tud németül ? 
+139	Well , I 'm really quite excellent at crossword puzzles . 	Kitűnően tudok keresztrejtvényt fejteni . 
+140	Margaret ! 	Margaret ! 
+141	The German codes are a puzzle . 	A német kód rejtvény . 
+142	A game , just like any other game . 	Éppen olyan játék , mint a többi . 
+143	- Margaret , where are you ? 	És én játékokban nagyon jó vagyok . 
+144	- I 'm really very good at games . 	És én játékokban nagyon jó vagyok . 
+145	Puzzles . 	És én játékokban nagyon jó vagyok . 
+146	And this is the most difficult puzzle in the world . 	- És ez a világ legnehezebb rejtvénye . 
+147	Margaret ! 	- Margaret ! 
+148	For the love of God . 	Az isten szerelmére , ez nyilván csak vicc ! 
+149	This is a joke , obviously . 	Az isten szerelmére , ez nyilván csak vicc ! 
+150	I 'm afraid I don 't know what those are , Commander Denniston . 	Attól tartok , nem tudom , mi a vicc , Denniston parancsnok . 
+151	Have a pleasant trip back to Cambridge , Professor . 	- Jó utat vissza Cambridge- be ! 
+152	Enigma . 	- Jó utat vissza Cambridge- be ! 
+153	You called for me ? 	- Enigma . Hívott ? 
+154	That 's what you 're doing here . 	Ezt csinálják itt . 
+155	The top- secret program at Bletchley . 	Ez a szigorúan titkos program Bletchleyben . 
+156	You 're trying to break the German Enigma machine . 	A német Enigma gépet próbálják feltörni . 
+157	What makes you think that ? 	Miből gondolja ? 
+158	It 's the greatest encryption device in history , and the Germans use it for all major communications . 	A történelem legjobb kódoló eszköze , a németek ezzel kommunikálnak . 
+159	If the Allies broke Enigma , well ... this would turn into a very short war , indeed . 	Ha a szövetségesek feltörnék az Enigmát , az nagyon lerövidítené a háborút . 
+160	Of course that 's what you 're working on . 	Naná hogy ezen dolgoznak ! 
+161	But you also haven 't got anywhere with it . 	De nem jutottak vele semmire . 
+162	If you had , you wouldn 't be hiring cryptographers out of university . 	Különben nem alkalmaznának rejtjelírókat az egyetemről . 
+163	You need me a lot more than I need you . 	Nagyobb szükségük van rám , mint fordítva . 
+164	I like solving problems , Commander . 	Szeretek problémákat megoldani . 
+165	And Enigma is the most difficult problem in the world . 	És az Enigma a világ legnehezebb problémája . 
+166	No , Enigma isn 't difficult ; it 's impossible . 	Az Enigma nem nehéz . 
+167	The Americans , the Russians , the French , the Germans , everyone thinks Enigma is unbreakable . 	Lehetetlen . Az amerikaiak , oroszok , franciák és németek is feltörhetetlennek tartják . 
+168	Good . 	
+169	Let me try , and we 'll know for sure , won 't we ? 	Jó . Hadd próbáljam meg , és akkor egyértelműen tudni fogjuk , nem ? 
+170	Welcome to Enigma . 	Üdv az Enigmánál ! 
+171	The details of every surprise attack , every secret convoy and every U- boat in the bloody Atlantic go into that thing . 	Az összes meglepetésszerű támadás részlete , minden titkos konvoj és az összes tengeralattjáró az Atlanti- óceánban ebbe az izébe megy , és valami halandzsa jön ki . 
+172	And out comes gibberish . 	Az összes meglepetésszerű támadás részlete , minden titkos konvoj és az összes tengeralattjáró az Atlanti- óceánban ebbe az izébe megy , és valami halandzsa jön ki . 
+173	It 's beautiful . 	De szép ! 
+174	It 's the crooked hand of death itself . 	A halál csalárd keze . 
+175	Our Wrens intercept thousands of radio messages a day , and to the lovely young ladies of the Women 's Royal Navy , they 're nonsense . 	A WREN tagjai ezrével fognak el rádióüzeneteket naponta , de a Királyi Haditengerészet bájos ifjú hölgyei számára ezek sületlenségek . 
+176	It 's only when you feed them back into Enigma that they make any sense . 	Csak az Enigmába visszatáplálva nyernek értelmet . 
+177	But we have an Enigma machine . 	- De Van egy Enigma gépünk ! 
+178	Yes , Polish Intelligence smuggled it out of Berlin . 	- Igen . Lengyel kémek csempészték ki . 
+179	So , what 's the problem ? 	Mi a gond ? 
+180	Just put the intercepted messages 	Az elfogott üzeneteket vissza kell ... 
+181	- back into the Enigma and you 'll ... 	Az elfogott üzeneteket vissza kell ... 
+182	- Look , it 's not that simple , is it ? 	Nézze , ez nem ilyen egyszerű . Igaz ? 
+183	Just having an Enigma machine doesn 't help you to decode the messages . 	Csupán az Enigma gép még nem segít megfejteni az üzeneteket . 
+184	Very good , Mr . 	Csupán az Enigma gép még nem segít megfejteni az üzeneteket . 
+185	Turing . 	Nagyon jó , Mr . 
+186	To decode a message , you need to know the machine 's settings . 	Turing ! A dekódoláshoz ismerni kell a gép beállításait . 
+187	Now , the Germans switch settings every day promptly at midnight . 	A németek mindennap pontban éjfélkor módosítják a beállításokat . 
+188	We usually intercept our first message around 6 : 00 a . m . , which gives you exactly 18 hours every day to crack the code before it changes , and you start again . 	Általában reggel hat körül vesszük az első üzenetet , ami pontosan 18 órát ad maguknak mindennap arra , hogy feltörjék a kódot , mielőtt megváltozna , és kezdhetnék elölről . 
+189	Five rotors . 	Általában reggel hat körül vesszük az első üzenetet , ami pontosan 18 órát ad maguknak mindennap arra , hogy feltörjék a kódot , mielőtt megváltozna , és kezdhetnék elölről . 
+190	Ten plugboard cables . 	Öt rotor , tíz kapcsolótábla- kábel . 
+191	That 's ... 	Öt rotor , tíz kapcsolótábla- kábel . 
+192	- One million ... 	- Az egymillió ... 
+193	- A thousand million ... 	- Az egymillió ... 
+194	No , no , it 's , I' ve got it . 	- Ezermillió . - Nem . 
+195	- It 's million , million . 	- Az billió . 
+196	- It 's in the millions , obviously . 	- Több billió . 
+197	It 's over 150 million million million possible settings . 	Több mint 150 trillió beállítás lehetséges . 
+198	Very good . 	Remek ! 
+199	159 . 	
+200	If you want to be exact about it . 	159 , ha egész pontos akar lenni . 
+201	1- 5- 9 with 18 zeroes behind it . 	1- 5- 9 és utána 18 nulla . 
+202	Possibilities . 	Lehetőség . 
+203	Every single day . 	- Minden egyes nap . 
+204	Gentlemen , meet Hugh Alexander . 	- Uraim , bemutatom Hugh Alexandert . 
+205	I personally selected him to run this unit . 	Személyesen választottam az élükre . 
+206	Didn 't you ... 	Személyesen választottam az élükre . 
+207	Mr . 	Személyesen választottam az élükre . 
+208	Alexander won Britain 's national chess championship . 	Mr . Alexander nyerte meg a brit sakkbajnokságot . 
+209	Twice . 	Kétszer . 
+210	You 're not the only one who 's good at games around here , Turing . 	Nem ön az egyetlen , aki jó itt a játékokban , Mr . 
+211	Are we to work together , then ? 	Turing . Együtt kéne dolgoznunk ? 
+212	I prefer to have my own office . 	Én inkább külön szobát kérnék . 
+213	You 're a team , and you will work as one . 	Csapatban dolgoznak . 
+214	I don 't have time to explain myself as I go along , and ... 	Nincs időm magyarázni munka közben , és félek , ők csak hátráltatnának . 
+215	I 'm afraid these men would only slow me down . 	Nincs időm magyarázni munka közben , és félek , ők csak hátráltatnának . 
+216	If you can 't play together , then I 'm afraid we can 't let you play at all . 	Ha nem képes a csapatjátékra , egyáltalán nem játszhat . 
+217	This is Stewart Menzies , MI6 . 	Stuart Menzies az MI6- tól . 
+218	There are only five divisions of military intelligence . 	A katonai hírszerzésnek öt részlege van csak . 
+219	There is no MI6 . 	A katonai hírszerzésnek öt részlege van csak . 
+220	Exactly . 	MI6 nincs . Ez az ! 
+221	That 's the spirit . 	Ebben a szellemben ! 
+222	Mr . 	
+223	Turing , do you know how many British servicemen have died because of Enigma ? 	Tudja , hány brit katona halt meg az Enigma miatt ? 
+224	- No , I don 't . 	- Nem , nem tudom . 
+225	- Three ... while we 've been having this conversation . 	- Három . Csak miközben most beszélgetünk . 
+226	Oh , look , there 's another . 	És még egy ! 
+227	I rather hope he didn 't have a family . 	Remélem , hogy nem volt családja . 
+228	This war Commander Denniston 's been going on about , we 're not winning it . 	Ebben a háborúban , amiről Denniston beszélt , nem állunk nyerésre . 
+229	Break the code , at least we have a chance . 	Törjék fel a kódot , és legalább lesz egy esélyünk . 
+230	Shall we leave the children alone with their new toy ? 	Hagyjuk magukra a gyerekeket az új játékukkal ? 
+231	All right , gentlemen ... 	Jól van , uraim ! 
+232	Let 's play . 	Játsszunk ! 
+233	The game was quite a simple one . 	A játék elég egyszerű volt . 
+234	Every single German message , every surprise attack , every bombing run , every imminent U- boat assault ... 	Minden egyes német üzenet , minden meglepetésszerű támadás , minden bombázás , minden közelgő tengeralattjáró- támadás . 
+235	They were all floating through the air . 	Az összes ott lebegett a levegőben . 
+236	Radio signals that ... well , any schoolboy with an AM kit could intercept . 	Rádiójelek , amiket egy AM felszereléssel bíró iskolás kölyök is elfoghatott . 
+237	The trick was that they were encrypted . 	A trükk az volt , hogy kódolták őket . 
+238	There were 159 million million million possible Enigma settings . 	159 trillió lehetséges Enigma- beállítás létezett . 
+239	All we had to do was try each one . 	Mindegyiket ki kellett próbálnunk . 
+240	But if we had ten men checking one setting a minute for 24 hours every day and seven days every week , how many days do you think it would take to ... to check each of the settings ? 	De ha tíz ember percenként egy beállítást ellenőriz , 24 órán át mindennap és hét nap a héten , mit gondol , hány napba telne az összes beállítást leellenőrizni ? 
+241	Well , it 's not days , it 's years . 	Nem napokról , évekről beszélünk . 
+242	- Good morning . 	Húszmillió év . 
+243	- It 's 20 million years . 	Húszmillió év . 
+244	- To stop a coming attack ... 	Megfékezni egy támadást húszmillió évnyi beállítás ellenőrzésével kellene húsz perc alatt . 
+245	- Thank you . ... we would have to check 20 million years´ worth of settings in 20 minutes . 	Megfékezni egy támadást húszmillió évnyi beállítás ellenőrzésével kellene húsz perc alatt . 
+246	I 'm famished . 	Éhen halok ! 
+247	Lunch ? 	Ebéd ? 
+248	Good Lord . 	Egek , mit eszik az ember a kis kalapos nőkön ? 
+249	What is it about women with little hats ? 	Egek , mit eszik az ember a kis kalapos nőkön ? 
+250	The boys , we 're going to get some lunch . 	A fiúk ... mi kimegyünk enni valamit . 
+251	- Alan ? 	- Alan ? 
+252	- Yes ? 	- Igen ? 
+253	I said we 're going to get some lunch . 	Azt mondtam , kimegyünk ebédelni . 
+254	- Alan ? 	- Alan ? 
+255	- Yes ? 	- Igen . 
+256	- Can you hear me ? 	- Hallasz engem ? 
+257	- Yes . 	- Igen . 
+258	I said we 're off to get some lu ... 	Azt mondtam , kimegyünk ... 
+259	This is starting to get a little bit repetitive . 	Kezdek olyan lenni , mint egy elakadt lemezjátszó . 
+260	What is ? 	Kezdek olyan lenni , mint egy elakadt lemezjátszó . 
+261	I had asked if you wanted to come to lunch with us . 	- Micsoda ? - Azt kérdeztem , jössz- e velünk ebédelni . 
+262	No , you didn 't . 	Nem kérdezted . 
+263	You said you were going to get some lunch . 	Azt mondtad , hogy ti kimentek ebédelni valamit . 
+264	- Have I offended you in some way ? 	- Megsértettelek volna ? 
+265	- Why would you think that ? 	- Megsértettelek volna ? 
+266	- Would you like to come to lunch with us ? 	- Van kedved velünk jönni ebédelni ? 
+267	- What time 's lunchtime ? 	- Van kedved velünk jönni ebédelni ? 
+268	Christ , Alan , it 's a bleeding sandwich . 	- Hánykor van ebéd ? - Jézusom , csak egy nyamvadt szendvics ! 
+269	- What is ? 	- Micsoda ? 
+270	- Lunch . 	- Micsoda ? 
+271	- Oh , I don 't like sandwiches . 	- Az ebéd . - Nem szeretem a szendvicset . 
+272	- Never mind . 	Hagyjuk ! 
+273	You know , to pull off this irascible genius routine , one actually has to be a genius , Alan . 	Hogy valaki eladja ezt az epés zsenitempót , Alan , ahhoz igazán zseninek kell lennie . 
+274	And yet we 're the ones making progress here , aren 't we ? 	Hogy valaki eladja ezt az epés zsenitempót , Alan , ahhoz igazán zseninek kell lennie . 
+275	Oh , you are ? 	Mégis mi haladtunk előbbre . Igazán ? 
+276	Yes , we are . 	Igen . 
+277	We have decrypted a number of German messages by analyzing the frequency of letter distribution . 	Dekódoltunk számos német üzenetet a betűk eloszlásának elemzésével . 
+278	Oh , even a broken clock is right twice a day . 	Egy rossz óra is pontos kétszer egy nap . 
+279	That 's not progress ; that 's just blind luck . 	Egy rossz óra is pontos kétszer egy nap . 
+280	I 'm designing a machine that will allow us to break every message every day instantly . 	Ez inkább vakszerencse . Én olyan gépet tervezek , ami lehetővé teszi az összes üzenet megfejtését mindennap , azonnal . 
+281	Who 's hungry ? 	Ki éhes ? 
+282	Let 's go . 	Menjünk ! 
+283	I 'm hungry . 	Én éhes vagyok . 
+284	What ? 	- Tessék ? 
+285	Peter asked who was hungry . 	- Peter azt kérdezte , ki éhes . 
+286	Can I have some soup , please ? 	Hoznátok egy kis levest ? 
+287	What do you mean , " classified " ? 	Mit ért azon , hogy " titkosított " ? 
+288	No , I 'm aware of the literal meaning of the word classified . 	A közvetlen jelentését persze értem , de egy matematikaprofesszor miért titkosíttatná a katonai aktáit ? 
+289	What I 'm asking is why would a maths professor have his military records classified ? 	A közvetlen jelentését persze értem , de egy matematikaprofesszor miért titkosíttatná a katonai aktáit ? 
+290	Yeah , well , I will come down . 	Hát , jó , lemegyek . 
+291	Sorry , can I get you to hold for a minute , please ? 	
+292	Pardon me , I 'd like to see some documents , if I may . 	Elnézést , megnéznék néhány iratot , ha szabad . 
+293	Service records of a Mr . 	Mr . Alan Turing szolgálati aktáját . 
+294	Turing . 	
+295	Alan . 	
+296	Foreign Office sent me . 	A külügyből küldtek . 
+297	This is unacceptable . 	Ez elfogadhatatlan ! 
+298	If you wish to discuss the complaint , I suggest you make a proper appointment . 	Ha a panaszról akar beszélni , kérjen rendesen időpontot . 
+299	Alexan ... 	Ha a panaszról akar beszélni , kérjen rendesen időpontot . 
+300	Complaint ? 	Panasz ? 
+301	No , no , Hugh Alexander has denied my requisition for parts and equipment that I need to build the machine I' ve designed . 	Hugh Alexander megtagadta az általam tervezett géphez szükséges berendezéseket . 
+302	Your fellow code- breakers are refusing to work with you , and they filed a formal complaint . 	A kódfejtő társai nem hajlandók önnel dolgozni . 
+303	It 's is inspired by an old Polish code machine . 	Panaszt is tettek . 
+304	- Only this one is infinitely more advanced . 	Egy régi lengyel kódgép nyomán készülne , csak ez sokkal fejlettebb . 
+305	- If you don 't respond to the complaint , 	Egy régi lengyel kódgép nyomán készülne , csak ez sokkal fejlettebb . 
+306	I shall have to take it up with the Home Office . 	Ha nem reagál a panaszra , a belügy elé tárom a dolgot . 
+307	- Put those files by my desk . 	Azokat tegyék az asztalomra ! 
+308	- Fine , my response is they 're all idiots . 	Jó . 
+309	Fire them and use the savings to fund my machine . 	Azt felelem , hogy rúgja ki őket , és lesz pénz a gépre ! 
+310	I only need about 100, 000 pounds . 	Csak úgy százezer font kéne . 
+311	100, 000 ... 	Százezer ? 
+312	Why are you building a machine ? 	Minek épít gépet ? 
+313	It 's highly technical . 	- Ez túl szakmai dolog , úgysem értené . 
+314	You wouldn 't understand . 	- Ez túl szakmai dolog , úgysem értené . 
+315	I suggest you make the effort to try . 	- Azért csak próbálja meg ! 
+316	Enigma is ... an extremely well- designed machine . 	Az Enigma egy rendkívül jól megtervezett gép . 
+317	Our problem is that we 're only using men to try to beat it . 	Az a gond , hogy mi csak emberekkel próbáljuk feltörni . 
+318	No , what if only a machine can defeat another machine ? 	Mi van , ha csak egy gép tud legyőzni egy másikat ? 
+319	Well , that 's not very technical . 	Ez nem túl szakmai . 
+320	Hugh Alexander is in charge of your unit . 	Alexander felel az ön egységéért . 
+321	He said no , and that is that . 	- Ha ő nemet mondott , akkor ennyi . 
+322	I simply don 't have time for this . 	- Nekem erre egyszerűen nincs időm . 
+323	Have you ever won a war , Turing ? 	Nyert ön már valaha háborút ? 
+324	I have . 	Én igen . 
+325	Do you know how it 's done ? 	Tudja , min múlik ? 
+326	Order , discipline , chain of command . 	Parancs . Fegyelem . Utasítási lánc . 
+327	You 're not at university any longer . 	Ez már nem az egyetem . 
+328	You are a very small cog in a very large system . 	Itt csak egy kis fogaskerék egy nagy rendszerben , és azt teszi , amire a parancsnoka utasítja . 
+329	And you will do as your commanding officer instructs . 	Itt csak egy kis fogaskerék egy nagy rendszerben , és azt teszi , amire a parancsnoka utasítja . 
+330	Yes . 	
+331	Who is your commanding officer ? 	Az ön parancsnoka kicsoda ? 
+332	Winston Churchill , Number 10 Downing Street , London , SW1 . 	Winston Churchill , Downing Street 10 . , London SW1 . 
+333	You have a problem with my decision , you can take it up with him . 	Ha gondja van a döntésemmel , nála reklamálhat . 
+334	Mr . 	
+335	Menzies ! 	Mr . Menzies ! 
+336	Mr . 	Mr . 
+337	Menzies ! 	Menzies ! 
+338	Are you going to London ? 	Londonba megy ? 
+339	Possibly . 	Valószínűleg . 
+340	Would you deliver a letter for me ? 	Elvinné a levelemet ? 
+341	Look , I 'm sorry , but are you joking ? 	Már elnézést , de ugye tréfál ? 
+342	Churchill 's put Alan in charge ? 	- Churchill Alant tette meg vezetőnek ? 
+343	- This is a terrible idea . 	- Churchill Alant tette meg vezetőnek ? 
+344	- No , no , no , no , no . 	- Ez szörnyű ötlet . 
+345	So , I can give these men orders now ? 	- Szóval most már utasíthatom őket ? 
+346	I hate to say it , but yes . 	- Nem szívesen mondom , de igen . 
+347	Excellent . 	- Nem szívesen mondom , de igen . 
+348	Keith and Charles , you 're both fired . 	Pompás ! Keith ! Charles ! 
+349	- Excuse me ? 	- Tessék ? 
+350	- What ? 	- Tessék ? 
+351	You 're mediocre linguists , and positively poor code- breakers . 	- Mi ? Középszerű nyelvészek és abszolút rossz kódfejtők vagytok . 
+352	Alan , you can 't just fire Keith and Charles . 	- Nem rúghatod ki őket csak így ! 
+353	- Well , he just said I could . 	- Most mondta , hogy igen . 
+354	- No , I did no such thing . 	- Nem , ezt nem mondtam . 
+355	But Churchill did . 	- De Churchill igen . 
+356	Go to hell . 	Menj a fenébe ! 
+357	Well , this is inhuman . 	Hát , ez embertelen . Még magától is . 
+358	Even for you . 	
+359	Popular at school , were you ? 	Népszerű volt az iskolában , igaz ? 
+360	The problem began , of course , with the carrots . 	Sherborne- i Iskola - A gond persze a répával kezdődött . 
+361	Carrots are orange . 	A répa narancssárga . 
+362	And peas are green . 	A borsó meg zöld . 
+363	They mustn 't touch . 	Nem szabad érintkezniük . 
+364	I got it . 	
+365	Do you know why people like violence ? 	Tudja , miért szeretik az emberek az erőszakot ? 
+366	It is because it feels ... good . 	Mert jó érzés . 
+367	Humans find violence deeply satisfying . 	Az embereket az erőszak elégedettséggel tölti el . 
+368	But remove the satisfaction , and ... the act becomes ... hollow . 	De ha kivonjuk az elégedettséget , a tett értelmetlenné válik . 
+369	Turing ? 	Turing ? 
+370	Come on . 	Ugyan már ! 
+371	Don 't be such a kike about it . 	Ne légy már ilyen jakhec ! 
+372	Leave him to bloody rot . 	Hagyjátok ott rohadni ! 
+373	I didn 't learn this on my own , of course . 	Erre persze nem egyedül jöttem rá , kaptam hozzá segítséget . 
+374	I had help . 	Erre persze nem egyedül jöttem rá , kaptam hozzá segítséget . 
+375	Christopher helped . 	Christopher segített . 
+376	Alan , are you all right ? 	Alan , jól vagy ? 
+377	It 's not my fault . 	Nem tehetek róla . 
+378	The carrots got in with the peas and ... 	A répa összekeveredett a borsóval ... 
+379	- I 'm sorry . 	- Sajnálom . 
+380	I won 't let them do it again . 	Többé nem hagyom . 
+381	- They 're getting worse . 	- Egyre gonoszabbak . 
+382	They only beat me up because I 'm smarter than they are . 	Csak azért vertek meg , mert okosabb vagyok . 
+383	No , they beat you up because you 're different . 	Nem . 
+384	- Mother says I 'm just an odd duck . 	Hanem mert más vagy . - Anyám szerint csak egy fura szerzet vagyok . 
+385	- And she 's right . 	- Igaza van . 
+386	But you know , Alan , sometimes it 's the very people who no one imagines anything of who do the things no one can imagine . 	De néha épp azok , akikről senki nem képzelné , hogy képesek bármire , tesznek elképzelhetetlennek tűnő dolgokat . 
+387	So , what do we do now ? 	Akkor most mi legyen ? 
+388	- We 're short on staff . 	- Kevés az emberünk . 
+389	- Well , we get more staff then . 	- Akkor szerzünk még embert . 
+390	And how do you propose to do that ? 	És szerinted mégis hogyan ? 
+391	- Alan Turing to see Stewart Menzies . 	Alan Turing . - Stewart Menzieshez jöttem . 
+392	- Very good , sir . 	- Rendben , uram . 
+393	- So , who are they ? 	- Szóval kik ők ? 
+394	- Oh , all sorts , really . 	- Mindenféle van köztük . 
+395	Teacher , an engineer , a handful of students . 	Tanár . Egy mérnök . Egy csapat diák . 
+396	And you think they 're qualified for Bletchley ' cause they 're good at crossword puzzles ? 	A rejtvényfejtés alapján alkalmasak ? 
+397	Well , they say they 're good , and now we shall find out , won 't we ? 	Azt állítják , jók benne , és most a végére járunk . 
+398	In order to aid your efforts , there is , to the right of you , a green scratch card book . 	Segítendő az erőfeszítéseiket ott egy zöld fedelű jegyzettömb . 
+399	You are to make notes in that . 	Segítendő az erőfeszítéseiket ott egy zöld fedelű jegyzettömb . 
+400	Gentlemen , you have six minutes in which to complete the puzzle , at which point , I will ... 	Abba jegyzeteljenek . Hat percük van befejezni a rejtvényt , ami után ... 
+401	Pardon , ma 'am , this room 's restricted . 	- Ide nem jöhet be ! 
+402	Apologies for my tardiness . 	- Elnézést a késésért ! 
+403	The bus caught a flat tire . 	Defektet kapott a buszom . 
+404	May I continue , please ? 	Folytathatnám ? 
+405	Thank you . 	Köszönöm ! 
+406	- You 're not allowed in here , ma 'am . 	- Ide nem szabad bejönnie ! 
+407	- Oh , but I 'm only a few minutes late . 	- Ide nem szabad bejönnie ! 
+408	The secretaries are to head upstairs . 	- De alig késtem ! A titkárnőknek fel kell menniük . 
+409	This room 's for the candidates . 	Itt jelöltek vannak . 
+410	May I get on with this now , please ? 	Folytathatom ? 
+411	- I am a candidate . 	- Én jelölt vagyok . 
+412	- For what position ? 	- Én jelölt vagyok . 
+413	- The letter didn 't say precisely . 	- Milyen pozícióra ? - Nem közölték pontosan . 
+414	- Yeah , so secretaries are to head upstairs . 	- A titkárnőknek fel kell menniük . 
+415	- It did say that it was top secret . 	- Azt mondták , szigorúan titkos . 
+416	- What is going on ? 	- Mi folyik itt ? 
+417	I solved a crossword puzzle in the newspaper , and I got this letter saying that I was a candidate for some sort of mysterious job . 	Megoldottam egy keresztrejtvényt , és kaptam egy levelet , hogy jelölt vagyok egy rejtélyes állásra . 
+418	My name 's Joan Clarke . 	- Joan Clarke a nevem . 
+419	Miss , did you really solve this puzzle yourself ? 	- Tényleg egyedül oldotta meg azt a rejtvényt ? 
+420	What makes you think I couldn 't solve the puzzle myself ? 	Miből gondolja , hogy nem voltam képes rá ? 
+421	- I 'm really very good at ... 	Miből gondolja , hogy nem voltam képes rá ? 
+422	- Ma 'am , I' ll have to ask you to ... 	Igazán jó ... 
+423	Miss Clarke , I find tardiness under any circumstance , unacceptable . 	- Megkérem , hogy ... - Miss Clarke , szerintem a késés ... minden körülmények közt elfogadhatatlan . 
+424	Take a seat so that we may continue . 	Foglaljon helyet , hogy folytathassuk ! 
+425	Thank you . 	Köszönöm ! 
+426	Now , as I was saying , you have six minutes to complete the task in front of you . 	Tehát , mint mondtam , hat percük van befejezni az önök előtt levő feladatot . 
+427	Gentlemen and lady , begin . 	Uraim és hölgyem ! Kezdjenek hozzá ! 
+428	Six minutes . 	Hat perc . 
+429	- Is that even possible ? 	- Lehetséges egyáltalán ? 
+430	- No , it takes me eight . 	- Nem . Nekem nyolcba telt . 
+431	This isn 't about crossword puzzles . 	De nem is a rejtvény a lényeg , hanem hogy valaki hogy közelít egy problémához . 
+432	It 's about how one approaches solving an impossible problem . 	De nem is a rejtvény a lényeg , hanem hogy valaki hogy közelít egy problémához . 
+433	Do you tackle the whole thing at once or divide it into small ... 	Azonnal nekiugrik az egésznek , vagy kisebb részekre osztja ... 
+434	- You 've finished ? 	- Elkészült ? - Igen . 
+435	- Yes . 	
+436	- Five minutes and 34 seconds . 	5 perc 34 másodperc . 
+437	- You said to do it in under six . 	Azt mondta , hat percen belül . 
+438	Congratulations . 	Gratulálok ! 
+439	My warmest welcome to His Majesty 's service . 	Melegen üdvözlöm önöket Őfelsége szolgálatában ! 
+440	If you speak a word of what I 'm about to show you , you will be executed for high treason . 	Ha egy szót szólnak arról , amit mutatok , kivégzik önöket hazaárulásért . 
+441	You will lie to your friends , your family and everyone you meet about what it is you really do . 	Hazudni fognak mindenkinek arról , hogy igazából mivel is foglalkoznak . 
+442	And what is it that we 're really doing ? 	És igazából mit is csinálunk ? 
+443	We 're going to break an unbreakable Nazi code and win the war . 	Megfejtünk egy megfejthetetlen náci kódot , és megnyerjük a háborút . 
+444	What 's that you 're reading ? 	Mit olvasol ? 
+445	- It 's about cryptography . 	- A rejtjelezésről szól . 
+446	- Like secret messages ? 	- Afféle titkos üzenetek ? 
+447	Not secret . 	Nem titkos . 
+448	That 's the brilliant part . 	Ez benne a zseniális . 
+449	Messages that anyone can see , but no one knows what they mean unless you have the key . 	Üzenetek , amiket mindenki lát , de senki sem tudja , mit jelent , hacsak nincs kulcsa hozzá . 
+450	How 's that different from talking ? 	Mennyiben tér el ez a beszédtől ? 
+451	- Talking ? 	
+452	- When people talk to each other , they never say what they mean . 	- Beszédtől ? 
+453	They say something else , and you 're expected to just know what they mean . 	- Amikor sosem azt mondják , amire gondolnak , hanem mást . Tőled meg elvárják , hogy megértsd . 
+454	Only I never do . 	Csakhogy én sosem értem . 
+455	So , how 's that different ? 	Szóval ... mennyiben más ez ? 
+456	Alan , I have a funny feeling you 're going to be very good at this . 	Valami azt súgja , Alan , hogy te nagyon jó leszel ebben . 
+457	Good night , Alan . 	Jó éjt , Alan ! 
+458	Good night . 	Jó éjt ! 
+459	Hold on , Marion , I 'm coming ! ... lesser settings and then route back through ... 	
+460	Back to those ones ... 	
+461	Careful , will you ? 	Óvatosan , kérem ! 
+462	It not a toy . 	Ez nem játék ! 
+463	Funny . 	Ez nem játék ! 
+464	Looks like a toy . 	Fura , pedig annak tűnik . 
+465	Bloody great 100, 000- pound one . 	Egy baromi nagy , százezer fontos játékszernek . 
+466	Your new minion 's arrived . 	Megérkezett az új kegyeltje . 
+467	- Jack Good . 	Megérkezett az új kegyeltje . 
+468	We met ... 	- Jack Good . 
+469	- Well , where 's Miss Clarke ? 	Már találkoztunk . - Hol van Miss Clarke ? 
+470	Lovely , isn 't he ? 	Aranyos , ugye ? 
+471	It 's not just a usual humdrum production mill factory . 	Ez nem csupán egy hétköznapi , unalmas gyártóüzem . 
+472	I mean , well , as I was saying , it 's a very important radio factory . 	Mint mondtam , ez egy nagyon fontos rádiógyár . 
+473	It 's not , actually . 	Vagyis igazából nem . 
+474	Well , on the spectrum of radio factories , this one is particularly ... 	A rádiógyárak széles skáláján ez á gyár különösképp ... 
+475	Why are you not at Bletchley ? 	Miért nincs Bletchleyben ? 
+476	Thank you ... so much for your visit , Mr . 	Köszönöm á látogatását , Mr . 
+477	Turing . 	Köszönöm á látogatását , Mr . 
+478	Was your trip pleasant ? 	Turing ! Kellemesen utazott ? 
+479	Gather your things and let 's go . 	Szedje a holmiját , és menjünk ! 
+480	I 'm sorry , but I 'm unable to accept your offer . 	Nem fogadhatom el az ajánlatát . 
+481	We feel that such a position would hardly be appropriate . 	Úgy érezzük , ez a pozíció aligha lenne megfelelő . 
+482	You earned a double first in mathematics . 	Kiválóan diplomázott matematikából . 
+483	But sadly wasn 't granted the opportunity to become a Fellow . 	De nem kaptam ösztöndíjat . 
+484	You belong at Bletchley . 	Bletchleyben a helye . 
+485	I 'm sorry , but for someone in my position , to live to ... to work in a radio factory so far from home , with all your men ... it would be ... indecorous . 	Sajnálom , de az én helyzetemben ott élni és dolgozni egy gyárban , távol otthonról , annyi férfi közt morálisan kikezdhető lenne . 
+486	What in the world does that even mean ? 	Az ég szerelmére , mit jelentsen ez ? 
+487	We have a group of young ladies who tend to all of our clerical tasks : assistants , translators . 	Van egy ifjú hölgycsapat , akik elvégzik az összes irodai feladatot , asszisztensek , fordítók . 
+488	They live together in town . 	Ők együtt laknak a városban . 
+489	Would that be a more suitable environment ? 	Az megfelelőbb környezet lenne ? 
+490	So , I would be working amongst these women ? 	Szóval ezek közt a nők közt dolgoznék ? 
+491	Yes . 	Igen . 
+492	Wonderful ladies . 	Csodás hölgyek ! 
+493	They even organize social events at St . 	A templomban még társasági eseményeket is szerveznek . 
+494	Martin 's Church down the road . 	A templomban még társasági eseményeket is szerveznek . 
+495	Really , the whole thing is quite ... decorous . 	Komolyan , az egész dolog igazán kikezdhetetlen . 
+496	Now , you won 't have proper security clearance , of course , so , 	A megbízhatósági bizonyítványa nem tökéletes , így improvizálnunk kell . 
+497	- we 'll have to improvise things a bit . 	A megbízhatósági bizonyítványa nem tökéletes , így improvizálnunk kell . 
+498	- Why are you helping me ? 	Miért segít nekem ? 
+499	Because there is only one thing that matters in this entire world right now . 	Mert most csak egy dolog számít . 
+500	Do you understand ? 	Mert most csak egy dolog számít . 
+501	And that is breaking Enigma . 	Érti ? 
+502	But , Mr . 	- És ez az Enigma feltörése . 
+503	Turing ... why are you helping me ? 	- De Mr . Turing ! Miért épp nekem segít ? 
+504	Sometimes it 's the very people who no one imagines anything of who do the things that no one can imagine . 	Néha épp azok , akikről senki sem képzelné , hogy képesek bármire , tesznek elképzelhetetlennek tűnő dolgokat . 
+505	Sir . 	Uram ! 
+506	- What 's this ? 	- Mi ez ? 
+507	- Alan Turing 's classified military file . 	- Alan Turing titkos katonai aktája . 
+508	- It 's bloody empty . 	- Rohadtul üres ! 
+509	- Exactly . 	- Rohadtul üres ! 
+510	- It 's an empty manila envelope . 	- Az . - Ez egy üres barna boríték . 
+511	- Yeah . 	- Igen . 
+512	Well , you 've cracked the case wide open , then , haven 't you ? 	Sikerült megfejtenie az ügyet , nem ? 
+513	Alan Turing 's war records aren 't just classified , they 're nonexistent . 	Alan Turing háborús aktája annyira titkos , hogy nem is létezik . 
+514	That means someone 's got rid of them . 	Tehát valaki megsemmisítette , elégette . 
+515	Erased them . 	Tehát valaki megsemmisítette , elégette . 
+516	Burned them . 	Tehát valaki megsemmisítette , elégette . 
+517	And that same person broke into his house and stole nothing ? 	Majd ugyanez az ember betört hozzá , és nem lopott el semmit ? 
+518	Guy Burgess and Donald Maclean . 	Guy Burgess és Donald Maclean . 
+519	- What , the spies from the papers ? 	- Mi ? A kémek az újságokból ? 
+520	- The Soviet spies . 	- Szovjet kémek . 
+521	But first they were professors , weren 't they ? 	De előtte professzorok voltak , nem ? 
+522	Radicalized at Cambridge , then they joined the Communist Party , then Foreign Office , then leaked information to Stalin during the war . 	Cambridge- ben radikalizálódtak , beléptek a kommunista pártba . Aztán a külügyből szivárogtattak híreket Sztálinnak . 
+523	Now , can you think of anyone else we know who was at Cambridge , then took up something murky and top secret when war broke out ? 	Tud más olyat Cambridge- ből , aki valami titkos dologba kezdett ? 
+524	You think this Alan Turing might be a Soviet agent ? 	Ön szerint Turing szovjet ügynök lehet ? 
+525	I think something very serious is happening right here under our noses . 	Szerintem valami igen komoly dolog zajlik itt , az orrunk előtt . 
+526	Wouldn 't you like to find out what it is ? 	Nem akar a végére járni , mi az ? 
+527	Welcome , ladies . 	Üdvözlöm a hölgyeket ! 
+528	If you 'd like to follow me . 	Jöjjenek utánam ! 
+529	Some people thought we were at war with the Germans ... 	Egyesek szerint a németekkel álltunk háborúban . 
+530	Incorrect . 	Egyesek szerint a németekkel álltunk háborúban . 
+531	We were at war with the clock . 	Tévedés . Az idő volt az ellenségünk . 
+532	Britain was literally starving to death . 	Anglia szó szerint az éhhalál szélén volt . 
+533	The Americans sent over 100, 000 tons of food every week , and every week the Germans would send our desperately needed bread to the bottom of the ocean . 	Az amerikaiak százezer tonna élelmet küldtek át minden héten , és a németek ezt a nagyon várt kenyeret hetente az óceán fenekére küldtek . 
+534	Our daily failure was announced at the chimes of midnight . 	Az aznapi kudarcunkat az éjféli harangszó jelezte . 
+535	And the sound would haunt our unwelcome dreams . 	És ez a hang kísértett a kellemetlen álmainkban . 
+536	Tick ... tock ... tick . 	Tiktak . Tik . 
+537	Damn it ! 	A szentségit ! 
+538	What just happened ? 	- Mi történt ? 
+539	Midnight , all the work we 've done today is useless . 	- Éjfél van . Az egész napos munkánk pocsékba ment . 
+540	Oh , but don 't worry , we 've a few hours before tomorrow 's messages start flooding in ... and we start all over again . 	De ne izgulj , van pár óránk , mielőtt a holnapi üzenetek áradni kezdenének , és elölről kezdünk mindent . 
+541	- From scratch . 	- Nulláról . 
+542	- I 'm so sick of this . 	- Elegem van ebből ! 
+543	Four hours rewiring his plugboard matrix . 	Négy óra a kapcsolótábla- mátrix újrahuzalozására . 
+544	Three hours yesterday on his rotor positions ! 	Három óra a rotorpozíciókra . 
+545	- Don 't go over there . 	- Ne menj oda ! 
+546	- Look , John , no . 	- Nézd , John , ne ! 
+547	If this job wasn 't already impossible before , it bloody well is now . 	Ha eddig nem volt lehetetlen a feladat , most már az ! 
+548	Hugh , don 't . 	Hugh, ne ! 
+549	Damn you and your useless machine . 	A pokolba veled meg a masináddal ! 
+550	My machine is how we are going to win . 	- Az én masinám segít hozzá a győzelemhez . 
+551	Really ? 	- Igazán ? 
+552	This machine ? 	Ez a masina ? 
+553	Are you talking about this bloody machine ? ! 	- Erről a rohadt masináról beszélsz ? 
+554	- Hugh ! 	- Erről a rohadt masináról beszélsz ? 
+555	Hugh ! 	- Erről a rohadt masináról beszélsz ? 
+556	Hugh , don 't ! 	- Hugh , ne ! 
+557	- Hugh ! 	- Hugh , ne ! 
+558	Hugh ! 	- Hugh , ne ! 
+559	Stop ! 	- Hagyd abba ! 
+560	You arrogant bastard . 	- Te arrogáns gazember ! 
+561	You could help us . 	Segíthettél volna . 
+562	You could make this go faster , but you won 't . 	De nem vagy hajlandó rá . 
+563	Get off . 	Hagyj ! 
+564	He 's right , Alan . 	Igaza van , Alan . 
+565	There are actual soldiers out there trying to win an actual war . 	Odakint igazi katonák próbálnak egy igazi háborút megnyerni . 
+566	My brother protects food convoys in the Navy . 	A fivérem élelmiszerkonvojokat véd a haditengerészetnél . 
+567	My cousins fly RAF patrols . 	Az unokatestvérem az RAF- nál járőrözik . 
+568	All my friends , they 're all making a difference , while we just while away our days producing nothing . 	Az összes barátom valami fontosat csinál , miközben mi csak eredménytelenül tékozoljuk a napjainkat . 
+569	Because of you . 	Miattad . 
+570	My machine ... will work . 	A gépem működni fog . 
+571	Come on , Peter . 	Gyere , Peter ! 
+572	Okay . 	Rendben . 
+573	Joan ? 	Joan ! 
+574	Will you ... 	
+575	Could you make a bit more noise ? 	- Nem tudna nagyobb zajt csapni ? 
+576	I 'm not quite sure my landlady woke up . 	- Nem tudna nagyobb zajt csapni ? 
+577	- Oh , sorry . 	Felébreszti a házinénimet . 
+578	- Oh ... look . 	- Elnézést ! 
+579	I think that 's the best I can do . 	Ennyire telik tőlem . 
+580	No male visitors after dark . 	Sötétedés után nem fogadhatok férfilátogatókat . 
+581	So ... what did you bring me ? 	Szóval , mit hozott ? 
+582	- There you go . 	- Így ni ! 
+583	- Here . 	- Tessék ! 
+584	Some men try flowers , you know . 	Van , aki virággal próbálkozik . 
+585	These are actual decrypted Enigma messages direct from Nazi High Command . 	Ezek megfejtett Enigma- üzenetek a náci főparancsnokságtól . 
+586	" 0600 hours . 	" O6OO óra . 
+587	" Weather today is clear . 	Ma tiszta az idő . Este eső . 
+588	Rain in the evening . 	Heil Hitler ! " 
+589	Heil Hitler . " 	Heil Hitler ! " 
+590	Well , clearly , that vital piece of information is going to win us the war . 	Nyilván ez a hír nyeri meg nekünk a háborút . 
+591	It 's the relationship between the encrypted and decrypted messages that interests me . 	Engem a kódolt és dekódolt üzenet közti kapcsolat érdekel . 
+592	Can we find a clue here that we can build into Christopher ? 	Akad olyan kulcsszó , amit beépíthetnénk Christopherbe ? 
+593	- Who 's Christopher ? 	- Ki az a Christopher ? 
+594	- Oh , he 's my machine . 	- Ő a gépem . 
+595	You named him ? 	Nevet adott neki ? 
+596	Is that a bad name ? 	Nem jó név ? 
+597	No . 	De . 
+598	No , never mind . 	Nem érdekes ... 
+599	Are you trying to build your universal machine ? 	Az univerzális gépét próbálja összerakni ? 
+600	- I read your paper at university . 	- Olvastam a cikkét az egyetemen . 
+601	- Is it already being taught ? 	- Olvastam a cikkét az egyetemen . 
+602	No . 	- Már tananyag ? 
+603	No . 	Nem , nem ! 
+604	No , I was precocious . 	Csak koraérett voltam . 
+605	So ... you theorized a machine that could solve any problem . 	Szóval elméletet gyártott egy mindent megoldó gépre ? 
+606	It didn 't just do one thing , it did everything . 	Ami nem csak egy dolgot tud ? 
+607	It wasn 't just programmable , it was reprogrammable . 	És nemcsak programozható , de újraprogramozható is ? 
+608	Is that your idea behind Christopher ? 	Ez az ötlet Christopher mögött ? 
+609	Well , human brains can compute large sums very quickly ... even Hugh can do that ... but I want Christopher to be smarter . 	Az emberi agy képes nagy összegekkel gyorsan számolni , még Hugh- é is , de Christophert okosabbra tervezem , hogy tudjon kalkulálni , aztán eldöntse , mi is a következő lépés . 
+610	To make a calculation and then ... to determine what to do next . 	Az emberi agy képes nagy összegekkel gyorsan számolni , még Hugh- é is , de Christophert okosabbra tervezem , hogy tudjon kalkulálni , aztán eldöntse , mi is a következő lépés . 
+611	Like a person does . 	Ahogy egy ember . 
+612	Think of it . 	Gondoljon bele ! 
+613	Electrical brain . 	Egy elektromos agy ! 
+614	- A digital computer . 	Egy digitális számítógép ! 
+615	- Digital computer . 	Digitális számítógép ? 
+616	What 's going on ? 	Mi történik itt ? 
+617	What 's happening ? 	Mi történik itt ? 
+618	- No . 	Mi történik itt ? 
+619	No , no . 	Ne ! 
+620	No , no , no ! 	Ahhoz ne nyúljon ! 
+621	Don 't touch that ! 	Ahhoz ne nyúljon ! 
+622	- Stay back . 	- Vissza ! 
+623	That 's my desk . 	- Az az én asztalom ! 
+624	Thank goodness . 	- Az az én asztalom ! 
+625	I 'd hate to think we were searching the wrong one . 	Hála az égnek ! Dühített volna , ha másét kutatjuk át . 
+626	What are you doing ? 	Mi folyik itt ? 
+627	What 's going on ? 	Mi folyik itt ? 
+628	There is a spy in Bletchley Park . 	Kém van Bletchley Parkban . 
+629	The Navy thinks that one of us is a Soviet double agent , Alan . 	Úgy gondolják , az egyikünk szovjet kettős ügynök . 
+630	Why ? 	Miért ? 
+631	Our boys intercepted this on its way to Moscow . 	Ezt csípték el a fiaink útban Moszkva felé . 
+632	Look familiar ? 	Ismerősnek tűnik ? 
+633	It 's a Beale cipher . 	Ez egy Beale- kód . 
+634	Encrypted with a phrase from a book or a poem or ... 	Egy könyvből vagy versből vett szöveggel ... 
+635	You don 't seriously think I did this , do you ? 	Ugye nem gondolják komolyan , hogy én voltam ? 
+636	Double agents are such bastards . 	A kettős ügynökök akkora patkányok ! 
+637	Isolated loners . 	Zárkózottak , maguknak valók . 
+638	No attachments to friends or family . 	Se barátaik , se családjuk . 
+639	Arrogant . 	Arrogánsak . 
+640	Know anybody like that ? 	Ismer ilyet ? 
+641	I ... 	
+642	I know you don 't like me , but that does not make me a Soviet spy . 	Tudom , nem kedvel , de ettől még nem vagyok orosz kém . 
+643	Nothing out of the ordinary , sir . 	Semmi rendkívüli , uram . 
+644	Really . 	Igazán ? 
+645	All right . 	Rendben . 
+646	The Home Office may be protecting you now , but sooner or later you will make a mistake . 	Lehet , hogy a belügy védelme alatt áll , de előbb- utóbb hibázni fog . 
+647	And I needn 't bother firing you . 	Akkor már ki sem kell rúgnom . 
+648	They will hang you for treason . 	Fel fogják akasztani hazaárulásért . 
+649	Hello . 	Helló ! 
+650	I heard about what happened . 	Hallottam , mi történt . 
+651	It 's all the girls in Hut 3 can talk about . 	A lányok csak erről beszélnek a 3- as barakkban . 
+652	I have an idea of what might cheer you up . 	Van egy ötletem , hogy vidíthatnám fel . 
+653	So , because no letter can be encoded as itself , there 's already a handful of settings that can be rejected at the outset . 	Miután egy betűt se lehet önmagaként kódolni , már eleve elvethetünk egy csomó beállítást . 
+654	- Is that your team ? 	- Ez a csapata ? 
+655	- Yes . 	- Ez a csapata ? 
+656	- Shall we say hello ? 	- Igen . - Odaköszönjünk nekik ? 
+657	- No . 	
+658	Hello . 	- Ne ! - Jó napot ! 
+659	I told you not to do that . 	Mondtam , hogy ne ! 
+660	Alan . 	- Alan ! 
+661	- Hugh , hello . 	- Hugh ! 
+662	- Didn 't know you drank . 	Üdv ! 
+663	He doesn 't , really . 	- Nem tudtam , hogy iszol . 
+664	He just sort of sips at the foam . 	- Nem . Csak a habot szürcsöli . 
+665	Well , I' ll let you into a little secret , Miss ... ? 	- Elárulok egy kis titkot , Miss ... 
+666	- Clarke . 	- Elárulok egy kis titkot , Miss ... 
+667	- Miss Clarke . 	- Clarke . 
+668	- Please . 	- Miss Clarke . 
+669	- Foam 's my favorite part , too . 	- Kérem ! 
+670	- Is it really ? 	- Nekem is a hab a kedvencem . 
+671	- Come and join us for a drink ? 	- Tényleg ? 
+672	- We 'll be there in a moment . 	- Csatlakozzanak hozzánk egy italra ! - Máris megyünk . 
+673	- Miss Clarke . 	Miss Clarke ! 
+674	- Well , he likes you . 	- Tetszik Hugh- Nak . 
+675	- Yes . 	- Tetszik Hugh- Nak . 
+676	You ... got him to like you . 	- Igen . - Mert ... megkedveltette magát . 
+677	- Yes . 	- Igen . 
+678	- Why ? 	- Miért ? 
+679	Because I 'm a woman in a man 's job , and I don 't have the luxury of being an ass . 	Mert nőként végzek férfimunkát , így nem tehetem meg , hogy undok legyek . 
+680	Alan ... it doesn 't matter how smart you are , Enigma is always smarter . 	Alan , mindegy , hogy maga milyen okos , az Enigma mindig okosabb . 
+681	If you really want to solve your puzzle , then you 're going to need all the help you can get , and they are not going to help you if they do not like you . 	Ha tényleg meg akarja oldani a rejtvényt , minden segítség elkél , de ők nem fognak segíteni , ha nem kedvelik meg magát . 
+682	- What are those ? 	- Azok mik ? 
+683	- Apples . 	- Almák . 
+684	- No . 	- Na ne ! 
+685	- Oh , they really are . 	- De bizony ! 
+686	I ... well , Miss Clarke , Joan actually ... said that it would be ... nice if I was to bring you all something . 	Én ... szóval Miss Clarke , azazhogy Joan ... azt mondta , kedves gesztus lenne , ha hoznék nektek valamit . 
+687	So , here we are . 	Hát tessék ! 
+688	I ... 	Hát tessék ! 
+689	Thank you . 	Én ... - Kösz ! 
+690	I like apples . 	- Szeretem az almát . 
+691	My best to Miss Clarke . 	A legjobbakat Miss Clarke- Nak ! 
+692	There are two people in a wood , and they run into a bear . 	Két ember van az erdőben , és belefutnak egy medvébe . 
+693	The first person gets down on his knees to pray . 	Az első térdre esve imádkozni kezd . 
+694	The second person starts lacing up his boots . 	A másik á bakancsát kezdi befűzni . 
+695	The first person asks the second person , " My dear friend , what are you doing ? 	Az első megkérdi a másodikat : " Drága barátom , mit csinálsz ? 
+696	You can 't outrun a bear . " 	Egy medvét nem lehet lehagyni . " 
+697	To which the second person responds , 	Egy medvét nem lehet lehagyni . " 
+698	" I don 't have to . 	Erre a másik : " Nem is kell . 
+699	I only have to outrun you . " 	Elég , ha téged lehagylak . " 
+700	I' ll be with Christopher , if anyone needs me . 	Christopherrel leszek , ha bárkinek szüksége lenne rám . 
+701	If we assume that the square root of two is a rational number , then we can say that the square root of two is A over B ... where A and B are whole numbers and B is not zero . 	Tegyük fel , hogy a négyzetgyök 2 racionális szám , akkor elmondhatjuk , hogy négyzetgyök 2 = A/ B , ahol A és B egész számok , és B nem Ő . 
+702	- Mr . 	Tegyük fel , hogy a négyzetgyök 2 racionális szám , akkor elmondhatjuk , hogy négyzetgyök 2 = A/ B , ahol A és B egész számok , és B nem Ő . 
+703	Turing , passing notes , are we ? 	- Mr . Turing ! Leveleket továbbít ? 
+704	- No , sir . 	- Nem , uram . 
+705	Only Turing would pass notes written in gibberish . 	Csak Turing továbbítana halandzsa nyelven írt leveleket . 
+706	All right , gentlemen , do not forget your algebra over the break . 	Jól van , urak ! Ne feledjék el az algebrát a szünidőben ! 
+707	Have a pleasant holiday , and we 'll resume your irrationals when you return . 	Kellemes vakációt , és folytatjuk az irracionálisokkal , ha visszatértek . 
+708	But Euler 's Theorem gives you that immediately . 	De Euler tételével ez azonnal kijön ! 
+709	Here . 	Tessék , nézd ! 
+710	Look at this . 	Tessék , nézd ! 
+711	If you run the wires across the plugboard matrix diagonally , it will eliminate rotor positions 500 times faster . 	Ha átlósan huzalozod be a kapcsolótábla- mátrixot , ötszázszor gyorsabban fogja kizárni a rotorpozíciókat . 
+712	That 's ... actually not an entirely terrible idea . 	Ez ... igazából nem teljesen rémes ötlet . 
+713	I think that was Alan for " thank you . " 	Azt hiszen , ez Alannél a " köszönöm " . 
+714	- That 's my sandwich . 	- Az az én szendvicsem . 
+715	- You don 't like sandwiches . 	- Te nem szereted a szendvicset . 
+716	You nervous ? 	Ideges vagy ? 
+717	What happens now ? 	Most mi lesz ? 
+718	It should work out the day 's Enigma settings . 	Meg kéne fejtenie a mai Enigma- beállításokat . 
+719	How long ? 	Mennyi idő alatt ? 
+720	Sieg Heil ! 	
+721	The German Army has fanned out across Europe , from Poland to Serbia , Lithuania to Denmark , Norway to France . 	A német hadsereg egész Európát megszállja . Lengyelországtól Szerbiáig , Dániától Litvánián át Franciaországig . 
+722	The Nazi flag now flies from more than two dozen national capitals . 	Több mint két tucat nemzeti fővárosban lobog már a náci zászló . 
+723	Their campaign mounts in fury as a free Europe crumbles . 	Hadjáratuk egyre dühödtebb , ahogy a szabad Európa összeomlik . 
+724	Oh , it 's still going . 	Ö , még mindig forog ! 
+725	- Good morning , sir . 	- Jó reggelt , uram ! 
+726	- Morning , Margaret . 	- Jó reggelt , uram ! 
+727	Gears keep spinning on and on . 	- Margaret ! 
+728	Rotors on and on . 	A szerkezet még mindig forog , a rotorok is . végeláthatatlanul . 
+729	It 's endless . 	A szerkezet még mindig forog , a rotorok is . végeláthatatlanul . 
+730	- With no result in sight ? 	- Semmi eredmény nincs kilátásban ? 
+731	- No . 	- Nincs . 
+732	Turing . 	Turing ! 
+733	- Turing , open the bloody door . 	- Turing , nyissa ki a rohadt ajtót ! 
+734	- No . 	- Nem ! 
+735	No . 	Nem ! 
+736	Open the door or we 'll break it down . 	- Nyissa ki , vagy betörjük ! 
+737	I can 't let you in ! 	- Nem hagyhatom bejönni ! 
+738	I cannot let you interfere . 	- Nem engedhetem közbelépni . 
+739	Go on , then . 	- Törjék be ! 
+740	Turn that thing off . 	- Kapcsolja ki azt a masinát ! 
+741	No . 	- Kapcsolja ki azt a masinát ! 
+742	Don 't , please . 	- Ne ! Kérem , ne ! 
+743	Please . 	Kérem ! 
+744	Please ! 	Kérem ! 
+745	Please ! 	
+746	No ! 	Ne ! 
+747	No . 	Ne tegye ! 
+748	No ! 	Ne tegye ! 
+749	Well , then , it seems that your great big expensive machine doesn 't work . 	Úgy tűnik , ez a maga méregdrága hatalmas masinája nem működik . 
+750	- It does . 	- De igen . 
+751	- Wonderful . 	- Csodás ! 
+752	So , you 've broken Enigma , then ? 	Szóval akkor feltörte az Enigmát ? 
+753	It was just ... still working . 	Már majdnem ... még dolgozott rajta . 
+754	This is my associate from the Home Office . 	Ö a kollégám a belügyből . 
+755	You see , a hundred thousand pounds is rather a lot of money , and he 's here to see what you have to show for it . 	Tudja , százezer elég sok pénz . Ő csak ellenőrzi , mit tud érte felmutatni . 
+756	You ... will never understand the importance of what I am creating here ! 	Ön sosem fogja megérteni annak a jelentőségét , amit itt teremtek ! 
+757	Have you decrypted any German messages ? 	Megfejtett bármilyen német üzenetet ? 
+758	A single one ? 	Akárcsak egyet is ? 
+759	Can you point to anything at all that you 've achieved ? 	Tud bármilyen eredményt felmutatni ? 
+760	Your funding is up , and our patience is expired . 	Az anyagi eszközei elfogytak , és a türelmünknek is vége szakadt . 
+761	It 's with such great pleasure that I am finally able to say this . 	Óriási örömömre szolgál , hogy végre kimondhatom a következőt : 
+762	Alan Turing , you 're fired . 	Alan Turing , ki van rúgva ! 
+763	Please escort Mr . 	Kérem , kísérjék ki Mr . 
+764	Turing from the premises . 	Turingot az épületből ! 
+765	No . 	Ne ! 
+766	I beg your pardon ? 	Hogy mondta ? 
+767	If you fire Alan ... well , then you 'll have to fire me , too . 	Ha kirúgja Alant , - nos , úgy engem is ki kell rúgnia . - Mi az ördögöt beszél ? ! 
+768	What on earth are you saying ? 	
+769	Trust me when I tell you there is no one who would rather say this less than I do , but ... he 's right . 	Higgye el , nálam kevésbé senki se akarná ezt mondani , de igaza van . 
+770	Alan is right . 	Alannek igaza van . 
+771	His machine can work , and it 's probably the best chance that we 've got . 	A gépe működhet , és valószínűleg ez a legnagyobb esélyünk , ami van . 
+772	God , it 's beyond belief . 	Egek , ez hihetetlen ! 
+773	If you fire them ... you 'll have to fire me , too . 	Ha kirúgja őket , engem is ki kell rúgjon . 
+774	And me . 	És engem is . 
+775	We 're the best cryptographic minds in Britain . 	Mi vagyunk Anglia legjobb kódfejtő elméi . 
+776	Are you going to fire us all ? 	Mindnyájunkat kirúg ? 
+777	Commander , at least give us some more time . 	Parancsnok , legalább még egy kis időt adjon ! 
+778	Six months , and if the machine doesn 't produce any results that we need , then we 'll go back to doing things the old way . 	Hat hónap . És ha a gép nem hoz kellő eredményt , akkor visszatérünk a régi módszerekhez . 
+779	How about that ? 	Mit szól ehhez ? 
+780	One month . 	Egy hónap . 
+781	And then , so help me God , you 're all gone . 	És istenemre mondom , mindnyájukat kidobom ! 
+782	Oh , leave him . 	Hagyják ! 
+783	- Thank you . 	- Köszönöm ! 
+784	- You 're welcome . 	- Szívesen . 
+785	Oh , and , Alan , your machine ... it better bloody work . 	Ja , és Alan ! A géped ... ajánlom , hogy működjön ! 
+786	Hugh . 	Hugh , esküszöm , nem vagyok kém . 
+787	I swear ... 	Hugh , esküszöm , nem vagyok kém . 
+788	I 'm not a spy . 	Hugh , esküszöm , nem vagyok kém . 
+789	Oh , for God 's sake , of course you 're not a bloody spy . 	- Az isten szerelmére ! Naná hogy nem vagy kém ! 
+790	What ? 	- Tessék ? 
+791	Denniston gave me the Beale cipher , and guess what ? 	Denniston odaadta a Beale- rejtjeles levelet , és képzeld ! 
+792	I cracked it . 	Megfejtettem ! 
+793	" Ask , and it shall be given to you ; seek and ye shall find . " Matthew 7 : 7 . 	" Kérjetek és adatik néktek , keressetek és találtok . " 
+794	That was the key . 	Máté evangéliuma 7 . fejezet . Ez volt a kulcs . 
+795	Far too simple for the likes of you . 	A te fajtádnak túl egyszerű . 
+796	Pity Denniston disagrees . 	Sajnos Denniston ezt vitatja . 
+797	Come in . 	Tessék ! 
+798	Sir , I think I' ve got Turing . 	Uram , azt hiszem , elkaptam Turingot ! 
+799	I tailed him to a pub last night , where he met a bloke . 	Az este követtem egy kocsmába , ahol egy borítékot cserélt egy fickóval . 
+800	They exchanged an envelope . 	Az este követtem egy kocsmába , ahol egy borítékot cserélt egy fickóval . 
+801	So , I follow this other fella , pick him up , give him a good shake . 	Úgyhogy követtem a pasast , elkaptam , és jól ráijesztettem . 
+802	- He 's a poofter . 	- Homokos az ürge . 
+803	He confessed . 	Bevallotta . 
+804	- What ? 	- Mit ? 
+805	The man admitted it . 	Beismerte . 
+806	Arnold Murray . 	Arnold Murray . 
+807	Hangs around that pub ; men pay him for a go . 	Ott lóg a kocsmában , és a férfiak fizetnek neki egy menetért . 
+808	Turing 's one of the men that paid . 	Turing volt az egyik , csakhogy Murraynek az a remek ötlete támadt , hogy kirabolja Turing házát . 
+809	Only Mr . 	Turing volt az egyik , csakhogy Murraynek az a remek ötlete támadt , hogy kirabolja Turing házát . 
+810	Murray here then has the bright idea of robbing Turing 's house after , with a friend . 	Turing volt az egyik , csakhogy Murraynek az a remek ötlete támadt , hogy kirabolja Turing házát . 
+811	That 's what Turing 's hiding . 	Ez Turing titka . 
+812	Well , he 's a poof , not a spy . 	Szóval buzeráns , nem kém . 
+813	- No . 	Szóval buzeráns , nem kém . 
+814	- What 's the matter ? 	- Nem . 
+815	We can charge a university professor with indecency . 	- Mi a baj ? 
+816	No , this is ... it 's bloody rubbish . 	- Egy professzort megvádolhatunk közerkölcssértéssel . 
+817	Turing 's up to something important ... 	- Baromság ! 
+818	He 's committed a crime and he 's broken the law . 	- Turing valami fontosra készül . - Bűnt követett el , törvényt szegett egy fickóval ! 
+819	And with a bloke . 	Ez undorító ! 
+820	Jesus Christ , it 's bloody disgusting . 	Ez undorító ! 
+821	This isn 't the investigation I was conducting . 	Én más után nyomoztam . 
+822	- Bring him in . 	- Hozza be ! 
+823	- Wait . 	- Várjon ! 
+824	Let me interrogate him . 	Hadd kérdezzem ki én ! 
+825	Please . 	Hadd kérdezzem ki én ! 
+826	Give me half an hour alone , and then I swear , 	Kérem ! 
+827	I' ll spend the next month running errands on as many rubbish cases as you like . 	Adjon vele fél órát kettesben , aztán esküszöm , egy hónapig annyi piti ügy nyomába eredek , amennyit akar ! 
+828	Fine . 	Adjon vele fél órát kettesben , aztán esküszöm , egy hónapig annyi piti ügy nyomába eredek , amennyit akar ! 
+829	Now , will someone get me a warrant for the arrest of Alan Turing . 	Rendben . Szerezzenek Turing ellen letartóztatási parancsot ! 
+830	Alan ? 	Alan ? 
+831	Christopher 's simply not moving fast enough . 	Christopher egyszerűen nem mozog elég gyorsan . 
+832	We should talk . 	Beszélnünk kellene . 
+833	And even with the diagonal board , he 's still not eliminating settings as quickly 	Még mindig túl lassan eliminálja a beállításokat ... 
+834	- as we need him to in order ... 	Még mindig túl lassan eliminálja a beállításokat ... 
+835	- I 'm leaving . 	- Elmegyek . 
+836	But you 've just walked in . 	- Hisz épp csak megjött ! 
+837	No . 	Nem , nem ! 
+838	No . 	Nem , nem ! 
+839	Bletchley . 	Nem , nem ! 
+840	- What ? 	- Bletchleyből ! - Micsoda ? 
+841	- It 's my parents . 	A szüleim miatt . 
+842	I 'm 25 , I 'm unmarried , I 'm living alone , and they want me home . 	25 éves vagyok , hajadon , egyedül élek , így aztán hazarendeltek . 
+843	- That 's ridiculous . 	- Ez nevetséges . 
+844	- That 's my parents . 	- Mégis a szüleim . 
+845	You ... you can 't leave . 	- Nem mehet el . 
+846	I won 't let you . 	- Nem mehet el . 
+847	" I' ll miss you . " That 's what a normal person might say in this situation . 	Nem engedem . - " Hiányozni fog . " Egy normális ember ezt mondaná egy ilyen helyzetben . 
+848	- I don 't care what is normal . 	- Nem érdekel , hogy mi a normális . 
+849	- What am I supposed to do , Alan ? 	- Mit kellene tennem , Alan ? 
+850	I will not ... give up my parents . 	A szüleimmel nem szakítok . 
+851	You ... you have an opportunity here to make some actual use of your life . 	Itt alkalma nyílik valami igazán hasznosat kezdeni az életével . 
+852	And end up like you ? 	És úgy végezzem , mint maga ? 
+853	No , thanks . 	És úgy végezzem , mint maga ? 
+854	I 'm sorry you 're lonely . 	Sajnálom , hogy magányos , de az Enigma nem fogja megmenteni . 
+855	But Enigma will not save you . 	Sajnálom , hogy magányos , de az Enigma nem fogja megmenteni . 
+856	Can you decipher that , you fragile narcissist ? 	Meg tudja ezt fejteni , maga önimádó pukkancs , vagy idehozzam a drága Christopherjét , hogy segítsen ? 
+857	Or would you like me to go and fetch your precious Christopher to help ? 	Meg tudja ezt fejteni , maga önimádó pukkancs , vagy idehozzam a drága Christopherjét , hogy segítsen ? 
+858	I 'm sorry . 	Elnézést ! 
+859	I want you ... 	Azért szeretném , ha maradna , mert kedvelem . 
+860	I want you to stay because I like you . 	Azért szeretném , ha maradna , mert kedvelem . 
+861	I like ... talking to you . 	Jó magával beszélgetni . 
+862	I like talking to you , too , Alan . 	Én is szeretek magával beszélgetni . 
+863	And what if you weren 't alone ? 	Mi lenne , ha nem lenne egyedül ? 
+864	What if you had a husband ? 	Mondjuk ha lenne egy férje ? 
+865	Do you have one in mind ? 	- Gondol konkrétan valakire ? 
+866	I do . 	- Igen . 
+867	Hugh ? 	Hugh ? 
+868	Hugh 's terribly attractive , I' ll give you that , but ... 	Hugh szörnyen vonzó , de kétlem , hogy nősülős típus lenne . 
+869	I don 't really think he 's the marrying kind . 	Hugh szörnyen vonzó , de kétlem , hogy nősülős típus lenne . 
+870	- No , I wasn 't thinking of Hugh . 	- Nem , én nem Hugh- ra gondoltam . - Vagy Peter ? 
+871	- Or Peter . 	Peter olyan csöndes . 
+872	Peter 's so quiet . 	Peter olyan csöndes . 
+873	- Oh , my God . 	- Uram isten ! 
+874	- But this makes sense . 	- Pedig lenne értelme . 
+875	- Did you just propose to me ? 	- Jól értem , hogy megkérte a kezem ? 
+876	- Well , it is the logical thing to do . 	- Nos , ez a logikus lépés . 
+877	- This is ridiculous . 	- Ez nevetséges ! 
+878	- This is your parents . 	- A szülei azok . 
+879	I can 't ... believe that this is happening . 	Ezt nem hiszem el ! 
+880	Joan ... 	Joan ! 
+881	- Is your middle name Caroline or Catherine ? 	- Caroline vagy Catherine a középső neve ? 
+882	- Elizabeth . 	- Caroline vagy Catherine a középső neve ? 
+883	Joan Elizabeth ... 	- Elizabeth . Joan Elizabeth ... Clarke ... 
+884	Clarke ... 	
+885	will you marry me ? 	Hozzám jön feleségül ? 
+886	It 's beautiful . 	Ez gyönyörű ! 
+887	Well , I know it isn 't ordinary , but ... whoever loved ordinary ? 	Hát , tudom , hogy nem szokványos , de ... kinek tetszik , ami " szokványos " ? 
+888	She had it in both hands ... and she looked up at me with her doe eyes and said , 	Két kézzel fogta , felnézett rám a bociszemeivel , és azt kérdezte : 
+889	" Am I supposed to put that in my mouth ? " 	" Ezt most a számba kéne vennem ? " 
+890	And I said , " Yes . 	Mire én : 
+891	You know , the French way . " 	" Igen , tudod , ez a francia módi . " 
+892	So , she pops it in , clamps her lips around it , and starts humming the bloody Marseillaise . 	Erre bekapta , rácuppant a szájával , és elkezdte dúdolni a Marseillaise- t . 
+893	Come have a dance . 	- Gyere , táncoljunk ! 
+894	No , no , no , you can dance with your fiance anytime you like . 	- Bármikor táncolhatsz a vőlegényeddel . 
+895	Right now , this moment ... my turn . 	Most rajtam a sor . 
+896	What 's the matter ? 	Mi a gond ? 
+897	What if ... 	Mi van , ha ... 
+898	What if I don 't fancy being ... with Joan in that way ? 	Mi van , ha nincs kedvem " úgy " együtt lenni Joannal ? 
+899	Because you 're a homosexual ? 	Mert homoszexuális vagy ? 
+900	I suspected . 	Sejtettem . 
+901	Well , should I tell her that I' ve had ... affairs with men ? 	Megmondjam neki , hogy férfiakkal volt viszonyom ? 
+902	You know , in my ... admittedly limited experience , women ... tend to be a bit touchy about accidentally marrying homosexuals . 	Tudod , bevallottan csekély tapasztalatom alapján a nők hajlamosak érzékenyen reagálni , ha véletlenül egy homokoshoz mennek . 
+903	Perhaps not spreading this information about might be in your best interest . 	Talán azzal jársz a legjobban , ha nem terjeszted ezt az információt . 
+904	I care for her , I truly do . 	De Joan tényleg fontos nekem . 
+905	I ... 	
+906	I ... 	Nem tudom , képes leszek- e ... - tettetni , hogy ... 
+907	I just don 't know if I can ... 	Nem tudom , képes leszek- e ... - tettetni , hogy ... 
+908	- ... pretend . 	Nem tudom , képes leszek- e ... - tettetni , hogy ... 
+909	- You can 't tell anyone , Alan . 	- Senkinek se mondhatod el . 
+910	It 's illegal . 	Ez törvénysértő . 
+911	And Denniston is looking for any excuse he can to put you away . 	És Denniston csak indokot keres , hogy börtönbe csukathasson . 
+912	- I know . 	- Tudom . 
+913	- This has to stay a secret . 	- Ennek titokban kell maradnia . 
+914	Come on , it 's your turn . 	- Gyere , most te jössz ! 
+915	Okay . 	- Rendben . 
+916	- Cup of tea ? 	- Egy csésze teát ? 
+917	- No , thank you . 	- Nem kérek , köszönöm . 
+918	Mr . 	
+919	Turing , can I tell you a secret ? 	- Eláruljak egy titkot , Mr . Turing ? 
+920	- I 'm quite good with those . 	- A titkokkal hadilábon állok . 
+921	- I 'm here to help you . 	Azért vagyok itt , hogy segítsek . 
+922	Oh , clearly . 	Nyilvánvalóan . 
+923	Can machines think ? 	Tudnak a gépek gondolkozni ? 
+924	Oh , so , you 've read some of my published works ? 	Hát elolvasta pár publikációmat ? 
+925	What makes you say that ? 	Miért mondja ezt ? 
+926	Well , because I 'm sitting in a police station , accused of entreating a young man to touch my penis and you just asked me if machines can think . 	Mert egy rendőrőrsön azzal vádolnak , hogy rávettem egy fiút , hogy megérintse a péniszem , közben meg azt kérdi tőlem , tudnak- e gondolkozni a gépek . 
+927	Well , can they ? 	Na , és tudnak ? 
+928	Could machines ever think as human beings do ? 	Tudnának a gépek valaha ember módjára gondolkozni ? 
+929	Most people say not . 	A legtöbbek szerint nem . 
+930	You 're not most people . 	Maga más , mint a legtöbben . 
+931	Well , the problem is you 're ... asking a stupid question . 	Az a gond , hogy ostoba a kérdése . 
+932	I am ? 	Igazán ? 
+933	Of course machines can 't think as people do . 	A gépek természetesen nem tudnak úgy gondolkozni , mint az emberek . 
+934	A machine is different ... from a person . 	A gép más , mint egy ember , így aztán másképp gondolkoznak . 
+935	Hence , they think differently . 	A gép más , mint egy ember , így aztán másképp gondolkoznak . 
+936	The interesting question is , just because something thinks differently from you , does that mean it 's not thinking ? 	Az az érdekes kérdés , hogy csak mert másképp gondolkoznak , mint mi , vajon akkor nem is gondolkoznak ? 
+937	Well , we allow for humans to have such divergences from one another . 	Az embereknél megengedünk ilyen különbözőségeket . 
+938	You like strawberries , I hate ice- skating , you ... cry at sad films , 	L Maga szereti az epret . Én utálok korcsolyázni . Maga ... sír a szomorú filmeken . 
+939	I ... am allergic to pollen . 	Én allergiás vagyok a pollenre . 
+940	What is the point of different tastes , different ... preferences if not to say that our brains work differently , that we think differently ? 	Mi értelme az eltérő ízléseknek , az eltérő preferenciáinknak , ha nem annak megmutatása , hogy másképp működik az agyunk , hogy másképp gondolkozunk ? 
+941	If we can say that about one another , then why can 't we say the same thing for brains ... built of copper and wire , steel ? 	Ha ezt elmondhatjuk egymásról , miért ne mondhatnánk el egy agyról , ami rézből , drótból és acélból készült ? 
+942	And that 's ... this big paper you wrote ? 	Erről szól az a híres tanulmány , amit írt ? Mi is a címe ? 
+943	What 's it called ? 	
+944	" The Imitation Game . " 	" A kémjáték " . 
+945	Right , that 's ... that 's what it 's about ? 	És az erről szól ? 
+946	- Would you like to play ? 	Volna kedve játszani ? 
+947	- Play ? 	- Játszani ? 
+948	It 's a game . 	- Ez egy játék . 
+949	A test of sorts . 	Egyfajta teszt . 
+950	For determining whether something is a ... a machine or a human being . 	Hogy eldöntsük , vajon valami gép- e , vagy ember . 
+951	How do I play ? 	- Hogy kell játszani ? 
+952	Well , there 's a judge and a subject , and ... the judge asks questions , and ... depending on the subject 's answers , determines who he is talking with ... what he is talking with , and ... 	- Van egy bíró meg egy alany . A bíró kérdéseket tesz fel , és az alany válaszaitól függően eldönti , hogy kivel is beszél , mivel is beszél , és ... nincs más dolga , mint kérdezni tőlem valamit . 
+953	All you have to do is ask me a question . 	
+954	- What did you do during the war ? 	- Mit csinált a háború alatt ? 
+955	- I worked in a radio factory . 	- Egy rádiógyárban dolgoztam . 
+956	What did you really do during the war ? 	Mit csinált igazából a háború alatt ? 
+957	Are you paying attention ? 	Figyel egyáltalán ? 
+958	Damn it ! 	Az istenit ! 
+959	We 're soon out of time . 	Hamarosan lejár az időnk . 
+960	A month . 	Az egy hónap . 
+961	So , that 's it , then , is it ? 	- Szóval akkor ennyi volt ? 
+962	Oh , the trouble is , it doesn 't matter how much we improve it . 	- Az a baj , hogy hiába fejlesztjük , a gép sose fog tudni feldolgozni 159 trillió lehetőséget . 
+963	The machine 's never gonna be able to process 159 million million million possibilities in time . 	- Az a baj , hogy hiába fejlesztjük , a gép sose fog tudni feldolgozni 159 trillió lehetőséget . 
+964	It 's just bloody hopeless . 	Egyszerűen reménytelen . 
+965	It 's searching . 	Folyamatosan keres , csak ... nem tudja , hogy mit keres . 
+966	It 's just ... 	Folyamatosan keres , csak ... nem tudja , hogy mit keres . 
+967	It ... doesn 't know what it 's searching for . 	Folyamatosan keres , csak ... nem tudja , hogy mit keres . 
+968	If we knew what the messages were going to say ... 	Ha tudnánk , mi lesz az üzenetekben ... 
+969	If we knew what the messages were going to say , we wouldn 't have to decrypt them at all . 	Ha tudnánk , akkor nem kéne mindet megfejteni . 
+970	Who 's Alan´s friend ? 	Sosem fosztanám meg az imától ... Alan barátja kicsoda ? 
+971	Hugh . 	Hugh ? 
+972	He 's a bit of a cad , actually . 	Igazából egy pimasz csirkefogó . 
+973	So , my type , then ? 	- Szóval az én típusom ? 
+974	- Well , I' ll introduce you . 	- Bemutatlak neki . Ne ! 
+975	- No . 	Ide fog jönni . 
+976	He 'll come over . 	Ide fog jönni . 
+977	- Are you sure ? 	- Biztos vagy benne ? 
+978	- Yes . 	- Biztos vagy benne ? 
+979	I smiled at him 15 minutes ago and haven 't looked back since . 	- Igen . Tizenöt perce rámosolyogtam , és azóta nem néztem vissza . 
+980	Who 's that with Joan ? 	Ki az ott Joannel ? 
+981	Helen . 	Helen . 
+982	Works with her . 	Együtt dolgoznak . 
+983	- She 's really pretty . 	- Igazán csinos . 
+984	- She wants me to come over . 	- Azt akarja , hogy menjek oda . 
+985	What ? 	Honnan az ördögből veszed ? 
+986	How on earth can you know that ? 	Honnan az ördögből veszed ? 
+987	She smiled at me a while back and she hasn 't looked again since . 	Nemrég rám mosolygott , és azóta nem nézett vissza . 
+988	And got him . 	És megvan ! 
+989	Now , why is this , that when I was single I found it very boring , but now that I 'm engaged , I just find it dreadfully fun . 	Miért van az , hogy szingliként holt unalmasnak találtam , de most , hogy eljegyeztek , szörnyen szórakoztat . 
+990	Bingo . 	Bingó , bejött ! 
+991	She 's in . 	Bingó , bejött ! 
+992	- Alan , introduce us . 	Alan , mutass be ! Mi ? 
+993	- What ? 	Miért pont én ? 
+994	Why me ? 	Miért pont én ? 
+995	Because there 's nothing like a friend 's engagement to make a woman want to do something she 'll later regret with the fiance 's better looking chum . 	Nincs jobb egy eljegyzésnél , ami rábírhatna egy nőt , hogy olyat tegyen a vőlegény jóképű haverjával , amit bánni fog . 
+996	Let 's go . 	Gyerünk ! 
+997	Half a crown says Alan bollixes this up entirely . 	Fél koronába , hogy Alan teljesen elcseszi . 
+998	No bet . 	Nem fogadok . 
+999	- Alan Turing has a theory . 	- Alan Turingnak van egy elmélete . 
+1000	- He has many . 	- Sok van neki . 
+1001	He believes that the regulations against men and women working side by side are sound because such proximity will necessarily lead to romance . 	Szerinte jogosak az együtt dolgozó nőkre és férfiakra vonatkozó szabályok , mert a közelség románchoz vezet . 
+1002	What ? 	Szerinte jogosak az együtt dolgozó nőkre és férfiakra vonatkozó szabályok , mert a közelség románchoz vezet . 
+1003	No , I don 't . 	- Nem , én nem ... 
+1004	I ... 	- Nem , én nem ... 
+1005	- However I disagree . 	- De én ezt vitatom . 
+1006	- You do ? 	- Tényleg ? 
+1007	Yeah . 	- Tényleg ? 
+1008	I think that if I were working beside a woman all day long , 	- Igen . 
+1009	I could appreciate her abilities and intellect without taking her to bed . 	Ha egy nő mellett dolgoznék , értékelhetném a képességeit és intellektusát anélkül , hogy ágyba vinném . 
+1010	I 'm sorry , have we met ? 	Találkoztunk már ? 
+1011	I don 't recall . 	Nem emlékszem . 
+1012	But let 's assume we haven 't . 	De feltételezzük , hogy nem . 
+1013	Helen Stewart . 	De feltételezzük , hogy nem . 
+1014	Hugh Alexander . 	- Helen Stewart . 
+1015	So , who do you agree with , Alan or myself ? 	Hugh Alexander . - Szóval kivel ért egyet ? 
+1016	Well , Alan , of course . 	Velem ? Alannel , természetesen . 
+1017	I 'm very flattered , really , but I don 't think ... 	Igazán hízelgő , de nem hinném ... 
+1018	Rubbish . 	- Badarság ! 
+1019	Well , I work beside a man every day , and I can 't help but have developed a bit of a crush on him . 	- Én nap mint nap egy férfi mellett dolgozom , és lassanként belehabarodtam . 
+1020	Well , who is this man ? 	- Ki az , hogy seggbe rúghassam ? 
+1021	So I can kick his arse . 	- Ki az , hogy seggbe rúghassam ? 
+1022	Well , there 's no need to worry , it 's been chaste . 	- Ne aggódjon , plátói a dolog . 
+1023	We 've never even met . 	Sosem találkoztunk . 
+1024	He 's a German . 	Sosem találkoztunk . 
+1025	Now I really want to kill him . 	Ő német . Most aztán tényleg megölném ! 
+1026	How do you mean you work alongside a German ? 	Hogyhogy egy német mellett dolgozik ? 
+1027	Well , each of us intercepts messages from a specific German radio tower . 	Mind egy- egy adott német rádióadó üzeneteit fogjuk el . 
+1028	So , we have a counterpart on the other side who 's tip- tapping out the messages . 	Van egy párunk a túloldalon , aki bepötyögi az üzeneteket . 
+1029	Everyone types a touch differently , so you get to know the rhythm of your counterpart . 	Mindenkinek megvan a maga ritmusa , amit megismersz . 
+1030	It 's strangely intimate . 	Furán meghitt érzés . 
+1031	I feel as if I know him so well . 	Olyan , mintha jól ismerném . 
+1032	It 's a pity he has a girlfriend , but that 's why I disagree with you , Mr . 	Kár , hogy van barátnője , de ezért nem értek egyet magával , Mr . 
+1033	Alexander . 	Alexander , mert beleszerettem egy kollégaszerűségbe , pedig nem is ismerem . 
+1034	Because I 'm in love with a coworker of sorts , and we 've never even met . 	Alexander , mert beleszerettem egy kollégaszerűségbe , pedig nem is ismerem . 
+1035	Well , allow me to buy you another pint , and I' ll tell you why you 're wrong . 	- Hadd hívjam meg egy sörre , és elmondom , miért téved . 
+1036	Let 's . 	- Rendben . 
+1037	Excellent . 	Pompás ! 
+1038	Thanks . 	Köszönöm , uram ! 
+1039	Pints . 	Két sört ! 
+1040	Have you got any sloe gin ? 	Van kökénygin ? 
+1041	In case you were wondering , that 's what flirting looks like . 	Ha ezen elmélkednél , így fest a flört . 
+1042	Helen ... 	Helen ! 
+1043	Alan ? 	- Alan ! 
+1044	Yes , Alan ? 	- Tessék , Alan ! 
+1045	Why do you think your German counterpart has a girlfriend ? 	Miből gondolja , hogy a német partnerének van barátnője ? 
+1046	- It 's just a stupid joke , don 't worry . 	- Csak egy buta vicc . Ne törődjön vele ! 
+1047	- No , no , no , no . 	- Ne ! 
+1048	Tell me . 	Mondja ! 
+1049	Well , each of his messages begins with the same five letters : 	Minden üzenet ugyanazzal az öt betűvel kezdődik . 
+1050	C- I- L- L- Y . 	Minden üzenet ugyanazzal az öt betűvel kezdődik . 
+1051	So , I suspect that Cilly must be the name of his amore . 	C- I- L- L- Y . Gyanítom , hogy ő a szerelme . 
+1052	But that 's impossible . 	Kizárt ! 
+1053	The Germans are instructed to use five random letters 	A németeknek mindig másik öt betűvel kell kezdeni az üzenetet . 
+1054	- at the start of every message . 	A németeknek mindig másik öt betűvel kell kezdeni az üzenetet . 
+1055	- Well , this bloke doesn 't . 	- Kivéve ezt a fickót . 
+1056	Love will make a man do strange things , I suppose . 	- A szerelem fura dolgokra késztet . 
+1057	In this case , love just lost Germany the whole bloody war . 	Ez esetben Németországnak ez a szerelem a háborúba fog kerülni ! 
+1058	Go , Peter . 	Gyerünk , Peter ! 
+1059	Sorry . 	Elnézést ! 
+1060	Alan ! 	Alan ! 
+1061	Alan ! 	Alan ! 
+1062	Alan ! 	
+1063	I just want ... 	
+1064	Hugh Alexander . 	Hugh Alexander . John Cairncross . 
+1065	John Cairncross . 	Peter nyavalyás Hilton . 
+1066	Peter bloody Hilton . 	Peter nyavalyás Hilton . 
+1067	Alan ? 	Alan ? 
+1068	What ... ? 	Mi , mi ... 
+1069	What ... 	
+1070	What if ... what if Christopher doesn 't have to search through all of the settings ? 	Mi van , ha Christophernek nem kell az összes beállítást átvizsgálnia ? 
+1071	What if he only has to search through ones that produce words we already know will be in the message ? 	Mi van , ha csak azokat kell , amik olyan szavakat adnak ki , amikről tudjuk , hogy az üzenetben lesznek ? 
+1072	- Repeated words , predictable words . 	- Ismétlődő , megjósolható szavakat . 
+1073	- Exactly . 	- Ismétlődő , megjósolható szavakat . 
+1074	Look , look , like this one . 	Mint ez . 
+1075	" 0600 hours . 	Mint ez . 
+1076	Weather today is clear . 	" O6OO óra . Ma tiszta az idő . 
+1077	Rain in the evening . 	Este eső lesz . 
+1078	Heil Hitler . " 	Heil Hitler ! " 
+1079	Well , that 's it . 	Ez az ! 
+1080	Exactly . 	Pontosan ! 
+1081	They send a weather report every day at 6 : 00 a . m . 	Mindennap egy időjárás- jelentést küldenek el reggel hatkor . 
+1082	So , that 's three words we know will be in every 6 : 00 a . m . message ... 	Ez három szó , amiről tudjuk , hogy benne lesz a reggeli üzenetekben . 
+1083	" weather , " obviously , and ... 	" Idő " nyilvánvalóan és ... 
+1084	- Heil bloody Hitler . 	- Heil rohadt Hitler . - ... Heil rohadt Hitler . 
+1085	- Heil bloody Hitler . 	- Heil rohadt Hitler . - ... Heil rohadt Hitler . 
+1086	Here 's the 6 : 00 message from this morning . 	Itt a ma reggel hat órai üzenet . 
+1087	Hugh , the the right- hand letter wheel , set them to ... 	Hugh , a jobb oldali gombokat állítsd ... 
+1088	I know , I know . 	" Idő " - re és " Hitler " - re . 
+1089	" Weather " and " Hitler . " 	" Idő " - re és " Hitler " - re . 
+1090	Peter , John , run voltages through those letters , through the back scramblers . 	Peter , John ! Futtassatok át áramot a betűkön hátulról ! 
+1091	So , we 'll use the loops ? 	- A zárt áramkört használjuk ? 
+1092	Yes . 	- A zárt áramkört használjuk ? 
+1093	Joan , what was the last 6 : 00 a . m . message ? 	- Mi volt az üzenet ? 
+1094	- L . 	- Mi volt az üzenet ? 
+1095	- L . 	T ! " . 
+1096	- H . 	- H . 
+1097	- H . 	- H . 
+1098	- W . 	- W . 
+1099	- W . 	- W . 
+1100	- A . 	- A . 
+1101	- A . 	- A . 
+1102	- Q . 	- Q . 
+1103	- Q . 	- Q . 
+1104	Done . 	Mehet . 
+1105	Come on . 	Gyerünk ! 
+1106	Come on . 	Gyerünk ! 
+1107	Come on , Christopher . 	Gyerünk , Christopher ! 
+1108	Oh , my God . 	Istenem ! 
+1109	What happened ? 	Mi történt ? 
+1110	- Did it work ? 	- Sikerült ? 
+1111	- Alan ? 	- Sikerült ? 
+1112	Alan ! 	- Alan ! 
+1113	Alan ! 	
+1114	I need a new message . 	Kell egy új üzenet ! 
+1115	The latest intercept . 	A legutolsó , amit elfogtak . 
+1116	Thank you . 	Kösz ! 
+1117	O ... 	Ő , T ... 
+1118	T . 	Ő , T ... 
+1119	- Ready ? 	Ő , T ... 
+1120	- Yes . 	- Mehet ? 
+1121	- M . 	- Igen . 
+1122	- M . 	- M . Y . M . S . 
+1123	- Y . 	- M . Y . M . S . 
+1124	- Y . 	- M . Y . M . S . 
+1125	- M . 	- M . Y . M . S . 
+1126	S . 	- M . Y . M . S . 
+1127	- M . 	- M . Y . M . S . 
+1128	S . 	
+1129	- A . 	- A . l . C . T . 
+1130	I . 	- A . l . C . T . 
+1131	- A . 	- A . l . C . T . 
+1132	I . 	
+1133	- C . 	- A . l . C . T . 
+1134	- C . 	- A . l . C . T . 
+1135	- T . 	- A . l . C . T . 
+1136	R . 	
+1137	- T . 	- R . l . S . Ő . 
+1138	R . 	- R . l . S . Ő . 
+1139	- I . 	- R . l . S . Ő . 
+1140	S . 	
+1141	- I . 	- R . l . S . Ő . 
+1142	S . 	- R . l . S . Ő . 
+1143	- O . 	- R . l . S . Ő . 
+1144	A . 	
+1145	- O . 	- A . Y . R . l . 
+1146	A . 	- A . Y . R . l . 
+1147	- Y . 	- A . Y . R . l . 
+1148	R . 	- A . Y . R . l . 
+1149	- Y . 	- A . Y . R . l . 
+1150	R . 	- A . Y . R . l . 
+1151	- I . 	
+1152	- I . 	
+1153	" KMS Jaguar is aufpunkt is directed to 53 degrees 24 minutes north and aufpunkt one ... degree west . " 	KMS Jaguar ist auf Punkt ... az irány 53 fok 24 perc észak ... And auf Punkt one ... fok nyugat . 
+1154	Heil Hitler . 	Heil Hitler ! 
+1155	Turns out that 's the only German you need to know to break Enigma . 	Még kiderül , hogy csak ennyit kell tudni németül az Enigma feltöréséhez . 
+1156	Yes ! 	Igen ! 
+1157	- M . 	- M . 
+1158	- M . 	- M . 
+1159	- A . 	- M . 
+1160	- A . 	- A . Y . l . 
+1161	- Y . 	- A . Y . l . 
+1162	- Y . 	- A . Y . l . 
+1163	- I . 	- A . Y . l . 
+1164	- I . 	- A . Y . l . 
+1165	- T . 	- T . R . 
+1166	- T . 	- T . R . 
+1167	- R . 	- T . R . 
+1168	- R . 	- T . R . 
+1169	- O . 	- Ő . T . A . 
+1170	- O . 	- Ő . T . A . 
+1171	T . 	- Ő . T . A . 
+1172	- T . 	- Ő . T . A . 
+1173	A . 	- Ő . T . A . 
+1174	- A . 	- Ő . T . A . 
+1175	- H . 	- H . Ő . 
+1176	- H . 	- H . Ő . 
+1177	- Q . 	- H . Ő . 
+1178	- Q . 	
+1179	- U . 	- U . 
+1180	- U . 	- U . 
+1181	R . 	- R . 
+1182	R . 	- R . 
+1183	My God , you did it . 	Istenem , megcsináltad ! 
+1184	You just defeated Nazism with a crossword puzzle . 	Épp most győzted le a nácizmust egy keresztrejtvénnyel . 
+1185	There are five people in the world who know the position of every ship in the Atlantic . 	Öt ember van a világon , akik tudják minden hajó pozícióját az óceánon . 
+1186	- They 're all in this room . 	- És mind itt van . 
+1187	- Oh , good God . 	- Jóságos isten ! 
+1188	Oh , I don 't think even He has the power that we do right now . 	Szerintem még neki sincs akkora hatalma , mint nekünk most . 
+1189	No . 	Szerintem még neki sincs akkora hatalma , mint nekünk most . 
+1190	There 's going to be an attack on a British passenger convoy . 	Megtámadnak egy brit személyszállító hajókonvojt . 
+1191	Right there . 	Megtámadnak egy brit személyszállító hajókonvojt . 
+1192	God , you 're right . 	Ott ni . Igazad van ! 
+1193	All those U- boats are only 20 , 30 minutes away . 	Azok a tengeralattjárók 20- 30 percnyire vannak . 
+1194	Civilians . 	Azok a tengeralattjárók 20- 30 percnyire vannak . 
+1195	Hundreds of them . 	Megmenthetjük több száz civil életét . 
+1196	We can save their lives . 	Megmenthetjük több száz civil életét . 
+1197	I' ll phone Denniston 's office so that he can alert the Admiralty . 	Denniston riaszthatja az admiralitást . 
+1198	Do you think there 's enough time to save them ? 	- Elég rá az idő ? 
+1199	There should be , if we can get a message ... 	- Elég kell legyen ... 
+1200	Commander Denniston 's office , please . 	Denniston parancsnok irodáját kérem . 
+1201	It 's urgent . 	Denniston parancsnok irodáját kérem . 
+1202	No . 	Sürgős ! Ne ! 
+1203	- What the hell are you doing ? 	- Mi a frászt művelsz ? 
+1204	- You can 't call Denniston . 	- Nem hívhatod fel . 
+1205	- You can 't tell him about the attack . 	- Nem szólhatsz neki a támadásról . 
+1206	- What are you talking about ? 	- Nem szólhatsz neki a támadásról . 
+1207	We can have air support over that convoy in ten minutes . 	- Mit beszélsz ? - Tíz perc , és lesz légi támogatás . 
+1208	Let the U- boats sink the convoy . 	- Hagyjuk elsüllyeszteni a konvojt . 
+1209	It 's been a big day , maybe you 're suffering ... 	Nagy nap volt ez . Talán ... 
+1210	- We don 't have time ... 	- Erre nincs időnk ! - Ne ! 
+1211	- No ! 	
+1212	- Hugh ! 	- Ebből elég ! 
+1213	Hugh ! 	- Ebből elég ! 
+1214	That 's enough ! 	- Ebből elég ! 
+1215	That 's enough ! 	- Ne , Hugh ! 
+1216	- Stop , Hugh ! 	- Ne , Hugh ! 
+1217	John , the attack is in minutes . 	Perceken belül támadnak , John . 
+1218	Yes , no , I 'm fine , I 'm fine . 	Ne , jól vagyok ! 
+1219	I 'm fine . 	
+1220	You know why people like violence , Hugh ? 	Tudod , miért szeretik az erőszakot , Hugh ? 
+1221	It 's because it feels good . 	Mert jó érzés . 
+1222	Sometimes we can 't do what feels good . 	Néha nem tehetjük azt , ami jólesik , csak azt tehetjük , ami logikus . 
+1223	- We have to do what is logical . 	Néha nem tehetjük azt , ami jólesik , csak azt tehetjük , ami logikus . 
+1224	- What 's logical ? 	Mi a logikus ? 
+1225	Hardest time to lie to somebody is when they 're expecting to be lied to . 	Akkor a legnehezebb hazudni , mikor számítanak rá . 
+1226	- Oh , God . 	- Istenem ! 
+1227	- What ? 	- Mi az ? 
+1228	If someone 's waiting for a lie , you can 't just give them one . 	Mikor valaki hazugságot vár , akkor pont nem hazudhatsz . 
+1229	- Damn it , Alan 's right . 	- A fenébe , Alannek igaza van . 
+1230	- What ? 	- Mi ? 
+1231	What would the Germans think if we destroy their U- boats ? 	Mit gondolnak majd a németek , ha felrobbantjuk a tengeralattjáróikat ? 
+1232	- Nothing . 	- Semmit . 
+1233	They 'll be dead . 	Halottak lesznek . - Nem . 
+1234	- No . 	
+1235	No , you can 't be right . 	Nem lehet igazad . 
+1236	So , our convoy suddenly veers off course ... a squadron of our air bombers miraculously descends on the coordinates of the U- boats ... what will the Germans think ? 	A konvojunk hirtelen letér az útvonaláról . A RAF bombázóraj csodás módon beméri á tengeralattjárók koordinátáit , mit gondolnak majd a németek ? 
+1237	The Germans will know that we have broken Enigma . 	A németek tudni fogják , hogy feltörtük az Enigmát . 
+1238	They 'll stop all radio communications by midday , and they 'll have changed the design of Enigma by the weekend . 	Délre beszüntetnek minden rádiókommunikációt , - és hétvégére megváltoztatják az Enigma felépítését . 
+1239	Yes . 	- Igén . 
+1240	Two years´ work . 	Két év munkája . 
+1241	Everything that we 've done here will all be for nothing . 	Minden , amit itt csináltunk , értelmét veszti . 
+1242	There are 500 civilians in that convoy . 	Ötszáz civil van abban a konvojban . 
+1243	Women , children . 	Nők . Gyerekek . 
+1244	We 're about to let them die . 	- És mi hagyjuk őket meghalni . 
+1245	Our job is not to save one passenger convoy , it is to win the war . 	- Nem egy konvojt kell megmentenünk , hanem a háborút kell megnyernünk . 
+1246	- Our job was to crack Enigma . 	- Az volt a dolgunk , hogy feltörjük az Enigmát . 
+1247	- We 've done that . 	- Azt megtettük . 
+1248	Now for the hard part . 	Most jön a neheze . 
+1249	- Keeping it a secret . 	- Hogy ezt titokban tartsuk . 
+1250	- Carlisle . 	- Carlisle . 
+1251	What ? 	Tessék ? 
+1252	The convoy you 're about to ... it 's ... 	A konvoj , amit sorsára készülünk ... 
+1253	The HMS Carlisle is one of the ships . 	A HMS Carlisle az egyik hajó . 
+1254	We can 't act on every piece of intelligence . 	Nem reagálhatunk minden értesülésre , jó , rendben , nem reagálunk . 
+1255	So , fine , we won 't . 	Nem reagálhatunk minden értesülésre , jó , rendben , nem reagálunk . 
+1256	- Just this one . 	Csak erre az egyre ! 
+1257	- Peter , what 's the matter with you ? 	Peter , mi bajod ? 
+1258	My brother 's ... well , he 's on the Carlisle . 	A bátyám ... rajta van a Carlisle- on . 
+1259	A gunnery ensign . 	Mint tüzérségi zászlós . 
+1260	I 'm ... 	
+1261	I 'm so sorry . 	Annyira sajnálom ! 
+1262	Who the hell do you think you are ? 	Mi a fenét képzelsz te magadról ? 
+1263	This ... this is my brother . 	A bátyámról van szó ! 
+1264	He 's my big brother , all right , and you have a few minutes to call off his murder . 	És még van pár perced megakadályozni a meggyilkolását . 
+1265	We can 't . 	Nem tehetjük . 
+1266	He 's right . 	Igaza van . 
+1267	Alan . 	Alan ! 
+1268	Joan . 	Joan ! 
+1269	Hugh . 	Hugh ! 
+1270	John . 	John ! 
+1271	Please , I ... 	Kérlek titeket ... 
+1272	The Germans , they won 't get suspicious just because we stop one attack . 	Nem fognak gyanút , csak mert egy támadást megállítunk . 
+1273	No one will know . 	Senki sem jön rá . 
+1274	I 'm asking you as your friend . 	A barátotokként kérlek titeket ! 
+1275	Please . 	Kérlek ! 
+1276	I 'm so sorry . 	Sajnálom . 
+1277	You 're not God , Alan , you don 't get to decide who lives and who dies . 	Nem vagy isten , Alan , nem dönthetsz életről és halálról ! 
+1278	Yes , we do . 	De igen . 
+1279	Why ? 	Miért ? 
+1280	Because no one else can . 	Mert más senki se tud . 
+1281	Why are you telling me this ? 	Miért mondják el ezt nekem ? 
+1282	We need your help to keep this a secret from Admiralty , Army , RAF . 	Segítenie kell ezt titokban tartani az admiralitás és a hadsereg előtt . 
+1283	No one can know we broke Enigma . 	Senki sem tudhatja , hogy feltörtük az Enigmát . 
+1284	Not even Denniston . 	- Még Denniston sem . 
+1285	Who 's in the process of having you fired . 	- Aki épp ki akarja rúgatni magát . 
+1286	You can take care of that . 	Ezt ön el tudja simítani . 
+1287	While we develop a system to help you determine how much intelligence to act on ... which attacks to stop , which to let through . 	Míg kifejlesztünk egy döntéshozó rendszert arra , hogyan reagáljunk , melyik támadást állítsuk meg , és mit hagyjunk . 
+1288	Statistical analysis . 	Statisztikai elemzéssel . 
+1289	The minimal number of actions it would take for us to win the war ... but the maximum number we can take before the Germans get suspicious . 	Mi az a minimális számú akció , amivel megnyerhetjük a háborút , de ami egyben a maximális szám is , hogy a németek ne fogjanak gyanút . 
+1290	And you 're going to trust all this to statistics ? 	Mindezt a statisztikára bízza ? 
+1291	- To maths ? 	- Matematikára ? 
+1292	- Correct . 	- Matematikára ? 
+1293	And then MI6 can come up with the lies that we tell everybody else . 	- Igen . Majd az MI6 előállhat a többieknek is elhintett hazugságokkal . 
+1294	You 'll need a believable alternative source for all the pieces of information you use . 	Kelleni fog egy hihető alternatív forrás a felhasznált értesülésekhez . 
+1295	A false story so that we can explain how we got our information that has nothing to do with Enigma . 	Egy hamis sztori , ami megmagyarázza , hogy kaptuk a hírt az Enigma nélkül . 
+1296	And then you can leak those stories to the Germans . 	Aztán kiszivárogtathatják a sztorit a németeknek . 
+1297	And then to our own military . 	Majd a saját szolgálatainknak . 
+1298	Maintain a conspiracy of lies at the highest levels of government . 	Egy hazugságkonspirációt tartsak fenn a kormány legfelső köreiben ? 
+1299	Sounds right up my alley . 	Ez a nekem való pálya . 
+1300	Alan , I so rarely have cause to say this , but you are exactly the man I always hoped you would be . 	Alan , nagyon ritkán van okom ezt mondani , de maga pontosan az az ember , akinek mindig is reméltem . 
+1301	They code- named it " Ultra . " 	Az " Ultra " fedőnevet kapta . 
+1302	It became the largest store of military intelligence in ... the history of the world . 	Ez lett a katonai hírszerzés legnagyobb adattára a világtörténelemben . 
+1303	It was like having a tap on Himmler 's intercom . 	Olyan volt , mintha poloskánk lett volna Himmler tavbeszélőjén . 
+1304	I- E- O ... 	I- E- O . 
+1305	Secrecy became the primary concern , and for some reason , they ... they trusted me . 	A titoktartás lett az elsődleges szempont , és valamilyen okból megbíztak bennem . 
+1306	Peter , do you have the ... 630 decryp ... 	Peter ! Megvan a 6 : 30- as megfejtése ? 
+1307	It 's a Beale cipher encrypted with a phrase from a book or ... 	... Ez egy Beale- kód . Egy könyvből vett szöveggel ... 
+1308	" Ask , and it will be given to you ; seek and you will find . " 	" Kérjetek és adatik néktek , keressetek és találtok . " 
+1309	Matthew 7 : 7 . 	Máté evangéliuma 7 . fejezet . 
+1310	That was the key . 	Máté evangéliuma 7 . fejezet . 
+1311	Peter will come around eventually . 	Ez volt a kulcs . Peter is belátja majd . 
+1312	Jack . 	Jack ! 
+1313	Could you give Alan and me a moment , please ? 	Magunkra hagynál egy kicsit Alannel ? 
+1314	The Soviets and us , we 're on the same side . 	A szovjetek és mi egy oldalon állunk . 
+1315	What I 'm doing will help Britain . 	Amit teszek , segíteni fog Angliának . 
+1316	I have to tell Denniston . 	Meg kell mondanom Dennistonnak . 
+1317	No , you don 't . 	Nem , nem kell . 
+1318	Because if you tell him my secret ... 	Mert ha elárulod neki a titkomat , én is elárulom neki a tiédet . 
+1319	I' ll tell him yours . 	Mert ha elárulod neki a titkomat , én is elárulom neki a tiédet . 
+1320	Do you know what they do to homosexuals ? 	Tudod , mit csinálnak a homoszexuálisokkal ? 
+1321	You 'll never be able to work again , never be able to teach . 	Soha többé nem dolgozhatsz . Nem taníthatsz . 
+1322	Your precious machine ... 	A drágalátos géped ... 
+1323	I doubt you 'll ever see him again . 	Kétlem , hogy valaha viszontláthatnád . 
+1324	Hello . 	Halló ! 
+1325	Can I ... can I speak to Stewart Menzies , please ? 	Beszélhetnék Stewart Menziesszel , kérem ? 
+1326	It 's urgent . 	Beszélhetnék Stewart Menziesszel , kérem ? 
+1327	One moment , please . 	Sürgős ! Kis türelmet ! 
+1328	Hello . 	Halló ! 
+1329	Menzies . 	Itt Menzies . 
+1330	Some advice about keeping secrets . 	Némi tanács , hogyan tartsunk titkot . 
+1331	It 's a lot easier if you don 't know them in the first place . 	Először is sokkal könnyebb , ha nem is ismered . 
+1332	Were they steaming my letters , tapping my telephone ? 	Felgőzölték a leveleimet ? Lehallgatták a telefonomat ? 
+1333	Trailing my nervous walks ? 	Követtek az ideges sétáimon ? 
+1334	You know , I ... 	Tudja , számomra ... ez sosem derült ki . 
+1335	I never did find out . 	Tudja , számomra ... ez sosem derült ki . 
+1336	Joan ? 	Joan ? 
+1337	Joan ? 	Joan ! 
+1338	What 's ... 	Mi ... 
+1339	Where 's Joan ? 	Hol van Joan ? 
+1340	Military prison . 	Katonai börtönben . 
+1341	What have you done ? 	Mit művelt ? 
+1342	Decoded Enigma intercepts . 	Dekódolt Enigma- rádióüzenetek . 
+1343	I found a pile of them in the bedside table . 	Találtam egy kupacnyit az asztalán . 
+1344	No , no . 	Találtam egy kupacnyit az asztalán . 
+1345	I gave those to her over a year ago when I was trying to figure out 	Azokat több mint egy éve adtam Joannak , mikor megpróbáltam rájönni 
+1346	- a link between ... 	- a kapcsolatra ... 
+1347	- I 'm sure you did . 	- Minden bizonnyal . 
+1348	Denniston 's been looking for a Soviet spy . 	Denniston egy szovjet kém után kutatott . 
+1349	He 's been looking inside Hut 8 . 	A 8- as barakkban . 
+1350	I know who the spy is . 	Tudom , ki a kém . 
+1351	It 's not Joan . 	Nem Joan , hanem ... 
+1352	It 's ... it 's Cairncross . 	Cairncross az . 
+1353	I found the Beale cipher , the Bible . 	Megtaláltam a Beale- kódot . A Bibliát . 
+1354	God , I wish you 'd been a spy . 	Istenem , bár maga lett volna a kém ! 
+1355	You 'd be so much better at this than he is . 	Sokkal jobb lenne ebben , mint ő . 
+1356	You knew it was him ? 	- Maga tudta , hogy ő az ? 
+1357	Of course I bloody knew . 	- Hogy az ördögbe ne tudtam volna ! 
+1358	I knew before he came to Bletchley . 	Már mielőtt Bletchleybe jött . 
+1359	Why do you think I had him placed here ? 	Mit gondol , miért helyeztettem ide ? 
+1360	But we have an Enigma machine . 	De van egy Enigma gépünk ! 
+1361	Yeah , Polish Intelligence ... 	A lengyel hírszerzés csempészte ki ... 
+1362	You placed a ... a Soviet agent at Bletchley Park ? 	Maga egy szovjet ügynököt helyezettel Bletchley Parkban ? 
+1363	It 's really quite useful to be able to leak whatever we want to Stalin . 	Igazán hasznos , hogy bármit ki tudunk szivárogtatni Sztálinnak . 
+1364	Churchill 's too damn paranoid . 	Churchill túlságosan paranoiás . 
+1365	He won 't share a shred of intelligence with the Soviets . 	Még egy hírmorzsát sem hajlandó megosztani az oroszokkal . 
+1366	Not even information that will help them against the Germans . 	Még azt sem , ami segítene nekik a németek ellen . 
+1367	There 's ... so much secrecy . 	Olyan sok a titok ! 
+1368	Cairncross has no idea we know , of course . 	Cairncross persze nem is sejti , hogy mi tudjuk . 
+1369	He 's really not the brightest bulb . 	Igazán nem egy agytröszt . 
+1370	Which is why I need your help . 	Ezért is kell a maga segítsége . 
+1371	I want to know what to leak to John , what to feed to the Soviets , as well as the British . 	Tudni akarom , mit szivárogtassunk ki Johnnak , az oroszoknak és briteknek . 
+1372	I 'm not a spy . 	Én nem vagyok kém . 
+1373	I 'm ... 	
+1374	I 'm just a mathematician . 	Én csak egy matematikus vagyok . 
+1375	I know a lot of spies , Alan . 	Sok kémet ismerek , Alan . 
+1376	You 've got more secrets than the best of them . 	Magának több a titka , mint a legjobbaknak közülük . 
+1377	You ... you have to promise me that you will release Joan . 	Meg kell ígérnie , hogy kiengedi Joant . 
+1378	Yes , Joan 's at the market . 	Igen , Joan a piacon van . 
+1379	She 's gonna be back in an hour . 	Egy órán belül itthon lesz . Hazudtam . 
+1380	I lied . 	
+1381	I better hold on to these . 	Ezeket jobb , ha megtartom . 
+1382	If anybody finds out about them , prison will be the least of her worries . 	Ha tudomásukra jut , Joannak a börtön lesz a legkisebb gondja . 
+1383	Oh , Alan ... we 're gonna have such a wonderful war together . 	Jaj , Alan ! Olyan csodálatos egy háborúnk lesz együtt ! 
+1384	- I need you to leave Bletchley . 	- El kell hagynod Bletchleyt . 
+1385	- What ? 	- El kell hagynod Bletchleyt . 
+1386	It 's Menzies . 	- Tessék ? Menzies miatt . 
+1387	I don 't trust him . 	Nem bízom benne . 
+1388	It 's not safe here . 	Itt nem biztonságos . 
+1389	- Do you think it 's any safer anywhere else ? 	- Máshol biztonságosabb ? 
+1390	- You need to get away . 	- El kell menned . 
+1391	- You need to get very far away from me . 	- Jó messzire tőlem . - Alan ! 
+1392	- Alan , what 's happened ? 	Mi történt ? 
+1393	We can 't be engaged anymore . 	Nem lehetünk tovább jegyesek . 
+1394	You ... your parents need to take you back and find you a husband elsewhere . 	A szüleid vigyenek vissza , és keressenek neked férjet máshol . 
+1395	What 's wrong with you ? 	Mi bajod ? 
+1396	I have something to tell you . 	Mondanom kell neked valamit . 
+1397	I 'm ... 	Én ... 
+1398	I 'm a homosexual . 	homoszexuális vagyok . 
+1399	All right . 	- Rendben . 
+1400	No , no . 	- Nem ! 
+1401	Men , Joan ... 	Férfiakkal , Joan . 
+1402	- not women . 	- Nem nőkkel . 
+1403	- So what ? 	- Na és ? 
+1404	- Well , I just told you . 	- Épp most mondtam ! 
+1405	- So what ? 	- Na és ? 
+1406	I had my suspicions ; I always did . 	Mindig is gyanítottam . 
+1407	But we 're not like other people . 	Mások vágyunk , mint á többiek . 
+1408	We love each other in our own way , and we can have the life together that we want . 	A magunk módján szeretjük egymást , és olyan életünk lehet együtt , amilyet akarunk . 
+1409	You ... you won 't be the perfect husband . 	Nem leszel tökéletes férj . 
+1410	Well , I can promise you , I have no intention of being the perfect wife . 	Én sem készülök tökéletes feleség lenni . 
+1411	I' ll not be ... fixing your lamb all day while you come home from the office . 	Nem fogok egész nap bárányt sütni , míg haza nem jössz az irodából . 
+1412	I' ll work . 	Nem fogok egész nap bárányt sütni , míg haza nem jössz az irodából . 
+1413	You 'll work . 	Te is dolgozni fogsz . 
+1414	And we 'll have each other 's company . 	És élvezzük majd egymás társaságát . 
+1415	We 'll have each other 's minds . 	Élvezzük egymás eszét . 
+1416	That sounds like a better marriage than most . 	Ez jobban hangzik , mint a legtöbb házasság . 
+1417	Because I care for you . 	Mert fontos vagy nekem . 
+1418	And you care for me . 	Én meg neked . 
+1419	And we understand one another more than ... more than anyone else ever has . 	És mert jobban megértjük egymást , mint bárki más . 
+1420	I don 't . 	Nekem nem . 
+1421	- What ? 	- Mi ? 
+1422	- Care for you . 	- Nem vagy fontos . 
+1423	I never did . 	Sose voltál . 
+1424	I just needed you to break Enigma . 	Csak az Enigma feltöréséhez kellettél . 
+1425	I' ve done that now , so ... so you can go . 	Most , hogy ez megvan , elmehetsz . 
+1426	I 'm not going anywhere . 	Nem megyek sehová . 
+1427	I' ve spent entirely too much of my life worried about what you think of me , or what my parents think of me , or the boys in Hut 8 or the girls in Hut 3 . 	Aránytalanul sokat aggódtam amiatt , hogy mit tartasz rólam , vagy hogy mit gondolnak a szüleim , a fiúk a 8- asban vagy a lányok a 3- asban . 
+1428	And do you know what ? 	És tudod , mit ? 
+1429	I 'm done . 	Befejeztem . 
+1430	This is the most important work I will ever do , and no one is going to stop me . 	Ez életem legfontosabb munkája , és senki sem fog megállítani . 
+1431	Least of all , you . 	A legkevésbé te . 
+1432	You know what , they were right . 	Tudod , mit ? Igazuk volt . 
+1433	Peter , Hugh , John . 	Peternek , Hugh- Nak , Johnnak . 
+1434	You really are a monster . 	Te tényleg szörnyeteg vagy . 
+1435	The war dragged on for two more ... solitary years ... and every day we performed our blood- soaked calculus . 	A háború elhúzódott még két magányos évig ... és mi mindennap elvégeztük a magunk véráztatta számításait . 
+1436	Every day we decided who lived and who died . 	Mindennap eldöntöttük , ki éljen , és ki haljon meg . 
+1437	Every day we ... helped the Allies to victories , and nobody knew . 	Mindennap győzelemhez segítettük a szövetségeseket , és senki se tudta . 
+1438	Stalingrad . 	Sztálingrád . 
+1439	The Ardenne . 	Az Ardennek . 
+1440	The invasion of Normandy . 	A normandiai invázió . 
+1441	All victories that would not have been possible without the intelligence that we supplied . 	Csupa olyan győzelem , ami a híreink nélkül lehetetlen lett volna . 
+1442	And people ... talk about the war as this epic battle between ... civilizations ... freedom versus tyranny , democracy versus Nazism , armies of millions bleeding into the ground , fleets of ships weighing down the oceans , planes dropping bombs from the sky until they obliterated the sun itself ... the war wasn 't like that for us . 	Az emberek ... a civilizációk közti gigászi csataként beszélnek a háborúról . Szabadság kontra zsarnokság . Demokrácia kontra nácizmus . 
+1443	For us , it was just ... half a dozen crossword enthusiasts in a tiny village in the South of England . 	Nekünk csak ... fél tucat keresztrejtvény- rajongó egy kis faluban Dél- Angliában . 
+1444	This is ... your victory . 	... az önök győzelme . 
+1445	Victory ... of the cause of freedom in every land . 	Diadala ... a jó ügynek , a szabadságnak minden országban . 
+1446	This is a solemn but glorious hour . 	Ez egy ünnepélyes és dicsőséges óra . 
+1447	I wish that Franklin D . 	Bárcsak Franklin D . 
+1448	Roosevelt had lived to see this day . 	Roosevelt is megérhette volna ezt a napot ! 
+1449	Was I God ? 	Isten voltam- e ? 
+1450	No . 	Nem . 
+1451	Because ... 	Mert nem Isten nyerte meg a háborút . 
+1452	God didn 't win the war . 	Mert nem Isten nyerte meg a háborút . 
+1453	We did . 	Hanem mi . 
+1454	So , what happens now ? 	Szóval , most mi lesz ? 
+1455	Is it ... back to university for us , I suppose ? 	Gondolom , visszatérünk az egyetemre . 
+1456	Yes , pretty much . 	Lényegében igen . 
+1457	But you 've one thing left to do before your service to your government in concluded . 	Még egy teendőjük van a kormánynak tett szolgálataik végezte előtt . 
+1458	- What 's that ? 	Éspedig ? 
+1459	- Burn everything . 	- Égessenek el mindent ! 
+1460	- Burn ? 	- Égessenek el mindent ! 
+1461	Why ? 	- Égessenek el mindent ! 
+1462	- You were told when you started this was a top- secret program . 	- Miért ? Megmondtuk , hogy ez egy titkos program . 
+1463	Did you think we were joking ? 	Azt hitték , tréfálunk ? 
+1464	- But the war is over . 	- De a háborúnak vége ! 
+1465	- This war is . 	- De a háborúnak vége ! 
+1466	But there 'll be others . 	- Ennek . De lesznek újabbak . 
+1467	And we know how to break a code that everybody else believes is unbreakable . 	És mi tudjuk , hogy kell feltörni egy feltörhetetlennek hitt kódot . 
+1468	Precisely . 	Pontosan . 
+1469	Tear it down . 	Szedjék szét , gyújtsák fel ! 
+1470	Light it up . 	Szedjék szét , gyújtsák fel ! 
+1471	Sweep away the ashes . 	Söpörjék el a hamut ! 
+1472	None of you have ever met before . 	Maguk sosem találkoztak egymással . 
+1473	None of you have ever even heard the word Enigma . 	És sosem hallottak az " Enigma " szót . 
+1474	Have a safe trip home . 	Jó utat haza ! 
+1475	Behave . 	Jók legyenek ! 
+1476	With a bit of luck , you 'll never have to see me or one another again for the rest of your lives . 	Egy kis szerencsével soha többé nem látják se egymást , se engem . 
+1477	That 's unbelievable . 	Ez hihetetlen ! 
+1478	Now , Detective , you get to judge . 	Nos , felügyelő , most ítélkeznie kell . 
+1479	So , tell me ... what am I ? 	Szóval , mondja meg , mi vagyok ? 
+1480	Am I ... a machine ? 	Vajon egy gép vagyok , Vagy egy ember ? 
+1481	Am I a person ? 	Vajon egy gép vagyok , Vagy egy ember ? 
+1482	Am I a war hero ? 	Vagy egy háborús hős ? 
+1483	Am I a criminal ? 	Vagy egy bűnöző ? 
+1484	I can 't judge you . 	Nem tudom megítélni . 
+1485	Well , then ... 	Hát akkor 
+1486	you 're no help to me at all . 	egyáltalán nincs segítségemre . 
+1487	Come in . 	Tessék ! 
+1488	You wanted to see me , sir ? 	- Látni kívánt , uram ? 
+1489	Turing . 	- Turing ! 
+1490	Sit down . 	Üljön le ! 
+1491	Something the matter ? 	Valami baj van ? 
+1492	You and Christopher Morcom are quite close . 	Maga és Christopher Morcom közeli jó barátok . 
+1493	I wouldn 't say that . 	Ezt nem mondanám . 
+1494	Well , your mathematics teacher says the two of you are positively inseparable . 	A matematikatanáruk szerint szinte elválaszthatatlanok . 
+1495	We 're the best students in the class . 	A legjobb tanulók vagyunk . 
+1496	He caught you passing notes the other day . 	A minap levelezésen kapták magukat . 
+1497	Cryptography , to pass the time . 	Titkosírás , hogy agyonüssük az időt . 
+1498	The class is too simple . 	Titkosírás , hogy agyonüssük az időt . 
+1499	You and your friend solve maths problems during maths class because the maths class is too dull ? 	Azért oldanak meg matekórán feladatokat a barátjával , mert túl unalmas az óra ? 
+1500	He 's not my friend . 	- Ő nem a barátom . 
+1501	- Well , I 'm told he 's your only friend . 	- Állítólag az egyetlen barátja . 
+1502	- Who said that ? 	Ezt ki mondta ? 
+1503	Something 's come up concerning Morcom . 	Morcommal kapcsolatban felmerült valami . 
+1504	Why am I here ? 	Miért vagyok itt ? 
+1505	Christopher is dead . 	Christopher meghalt . 
+1506	I don 't understand . 	Nem értem . 
+1507	His mother sent word this morning . 	Az anyja üzent ma reggel . 
+1508	The family were on holiday , you see . 	Tudja , a család vakációzni volt . 
+1509	I don 't understand . 	Nem értem . 
+1510	Well , he had bovine tuberculosis , as I 'm sure he told you . 	Szarvasmarha- tuberkulózisa volt , mint azt bizonyára elmondta . 
+1511	So , this won 't come as a shock , but ... still , all the same , 	Így nyilván nem éri sokként a hír , mindazonáltal sajnálom . 
+1512	I 'm sorry . 	Így nyilván nem éri sokként a hír , mindazonáltal sajnálom . 
+1513	You 're mistaken . 	Téved . 
+1514	Did he not tell you ? 	Nem szólt róla ? 
+1515	Well , he 's been sick for a long time . 	Jó ideje beteg volt már . 
+1516	He knew this was coming soon . 	Tudta , hogy ez hamarosan bekövetkezik . 
+1517	But he had a stiff upper lip about it . 	De bátran viselte . Derék fiú volt . 
+1518	Good lad . 	
+1519	- Are you all right , Turing ? 	- Jól van , Turing ? 
+1520	- Yes . 	- Igen , persze . 
+1521	Of course . 	- Igen , persze . 
+1522	Like I said , I didn 't know him very well . 	Mint mondtam , nem ismertem túl jól . 
+1523	I see . 	Á , értem ! 
+1524	Very well . 	Jól van . 
+1525	May I leave , Headmaster ? 	Elmehetek , igazgató úr ? 
+1526	Congratulations , sir . 	Gratulálok , uram ! 
+1527	Sorry . 	Elnézést ! 
+1528	I would have come . 	Eljöttem volna . 
+1529	I would have testified . 	Tanúskodtam volna . 
+1530	And what would you have said , that I ... 	És mit mondtál volna ? 
+1531	I wasn 't a homosexual . 	Hogy nem vagyok homoszexuális ? 
+1532	Alan ... this is serious . 	Alan , ez komoly ügy . 
+1533	They could send you to jail . 	Börtönbe küldhetnek ! 
+1534	Damn it . 	A szentségit ! 
+1535	- Your hands . 	- Remeg a kezed ! 
+1536	You 're twitching . 	- Remeg a kezed ! 
+1537	- No , I 'm not . 	- Nem . 
+1538	Alan . 	Alan ! 
+1539	It 's the medication . 	A gyógyszer miatt . 
+1540	The medication ? 	Gyógyszer ? 
+1541	Well , the judge gave me a choice ... either two years in prison or hormonal therapy . 	A bíró választás elé állított . Vagy két év börtön , vagy ... - hormonterápia . 
+1542	Oh , my God . 	- Istenem ! 
+1543	Oh , my God . 	- Ó , istenem ! 
+1544	Yes , yes , that 's right . 	- Bizony . 
+1545	Chemical castration . 	Kémiai kasztrálás . 
+1546	To ... to cure me of my homosexual predilections . 	Hogy kigyógyítson a homoszexuális hajlamaimból . 
+1547	Well , of course I chose that . 	Természetesen ezt választottam . 
+1548	I mean , I ... couldn 't ... work in prison , and ... 	Nem ... tudnék dolgozni a börtönben . 
+1549	All right . 	Jól van . 
+1550	Now , I 'm going to speak to your doctors . 	Beszélek az orvosaiddal . 
+1551	I 'm going to speak to your lawyers . 	És az ügyvédeiddel . 
+1552	I 'm fine . 	Jól vagyok . 
+1553	- Please let me help you . 	- Kérlek , hadd segítsek ! 
+1554	- No , I don 't need your help , thank you . 	- Nincs szükségem a segítségedre , köszönöm ! 
+1555	Alan , you do not have to do this alone . 	Nem kell egyedül végigcsinálnod . 
+1556	I 'm not alone . 	Nem vagyok egyedül . 
+1557	Never have been . 	Soha nem is voltam . 
+1558	Christopher 's become so smart . 	Christopher olyan okos lett ! 
+1559	If I don 't continue my treatment , then they 'll ... they 'll take him away from me . 	Ha nem folytatom a kezelést , akkor elveszik tőlem . 
+1560	You ... 	
+1561	You can 't let them do that . 	Nem hagyhatod , hogy ezt tegyék ! 
+1562	You can 't . 	
+1563	You ... you can 't let them leave me alone . 	Ne engedd , hogy egyedül hagyjanak ! 
+1564	I don 't ... 	Nem akarok egyedül lenni ... 
+1565	I don 't want to be alone . 	Nem akarok egyedül lenni ... 
+1566	I don 't want to be alone . 	Nem akarok egyedül lenni ... 
+1567	All ri ... all right , all right . 	Jól van , jól van ! 
+1568	All right . 	
+1569	It 's all right . 	Semmi baj , gyere , ülj le ! 
+1570	Come and sit down . 	Semmi baj , gyere , ülj le ! 
+1571	It 's all right . 	Jól van , gyere , ülj le ! 
+1572	Come and sit down . 	Jól van , gyere , ülj le ! 
+1573	It 's all right . 	Nyugodj meg ! 
+1574	Oh , well , that 's a ... that 's a much nicer ring than the one I made you . 	Hát ... - Ez sokkal szebb gyűrű , mint amit én csináltam neked . 
+1575	Yes . 	- Igen . 
+1576	His name 's Jock . 	Jock a neve . 
+1577	He 's an Army man , if you can believe it . 	Nem fogod elhinni , de a hadseregben szolgál . 
+1578	We work together . 	Együtt dolgozunk . 
+1579	Why don 't we do a crossword puzzle . 	Mi lenne , ha megfejtenénk egy keresztrejtvényt ? 
+1580	It 'll only take us five minutes . 	Csak öt percbe telik nekünk . 
+1581	Or , in your case , six . 	Illetve neked hatba . 
+1582	There . 	Na ! 
+1583	Perhaps later . 	- Talán később . 
+1584	Yes , of course . 	- Hogyne . 
+1585	You got what you wanted , didn 't you ? 	Megkaptad , amit akartál , ugye ? 
+1586	Work , a husband . 	Munkát , férjet . 
+1587	Normal life . 	Normális életet . 
+1588	No one normal could have done that . 	Egy normális ember erre sose lett volna képes . 
+1589	Do you know , this morning ... 	Tudod , ma reggel egy olyan városon mentem át vonattal , ami nem létezne ... nélküled . 
+1590	I was on a train that went through a city that wouldn 't exist if it wasn 't for you . 	Tudod , ma reggel egy olyan városon mentem át vonattal , ami nem létezne ... nélküled . 
+1591	I bought a ticket from a man who would likely be dead if it wasn 't for you . 	Egy olyan férfitól vettem jegyet , aki valószínűleg halott lenne , ha te nem vagy . 
+1592	I read up on my work ... a whole field of scientific inquiry that only exists because of you . 	A munkám folytán olvasok egy csomó tudományos kutatásról , ami csak miattad létezik . 
+1593	Now , if you wish you could have been normal ... 	Ha azt kívánod , bár normális lettél volna , esküszöm , hogy én nem . 
+1594	I can promise you I do not . 	Ha azt kívánod , bár normális lettél volna , esküszöm , hogy én nem . 
+1595	The world is an infinitely better place precisely because you weren 't . 	A világ pont azért végtelenül jobb hely , mert nem voltál az . 
+1596	Do you ... do you really think that ? 	Komolyan gondolod ? 
+1597	I think ... that sometimes it is the people who no one imagines anything of who do the things that no one can imagine . 	Azt gondolom , hogy néha épp azok , akikről senki sem képzelné , hogy képesek bármire , tesznek elképzelhetetlennek tűnő dolgokat . 

@@ -1,0 +1,1597 @@
+1	Are you paying attention ? 	Hören Sie mir zu ? 
+2	Good . 	Gut . 
+3	If you 're not listening carefully , you will miss things , important things . 	Wenn man nicht genau zuhört , entgehen einem Dinge . Wichtige Dinge . 
+4	I will not pause . 	Ich halte nicht inne , wiederhole mich nicht , und Sie werden mich nicht unterbrechen . 
+5	I will not repeat myself , and you will not interrupt me . 	Ich halte nicht inne , wiederhole mich nicht , und Sie werden mich nicht unterbrechen . 
+6	You think that because you are sitting where you are and I am sitting where I am that you are in control of what is about to happen . 	Sie meinen , weil Sie sitzen , wo Sie sitzen , und ich sitze , wo ich sitze , haben Sie alles unter Kontrolle . 
+7	You 're mistaken . 	Sie irren sich . 
+8	I am in control . 	Ich habe alles unter Kontrolle . 
+9	Because I know things that you do not know . 	Denn ich weiß Dinge , die Sie nicht wissen . 
+10	Manchester Police Department , please hold . 	Polizeikommissariat Manchester . Einen Moment bitte . 
+11	Windows broken . 	Fenster kaputt , Haus durchwühlt . 
+12	Home 's been ransacked . 	Fenster kaputt , Haus durchwühlt . 
+13	Send a detective down , will you ? 	Schick einen Beamten hin . 
+14	What I will need from you now is a commitment . 	Was ich von Ihnen verlange , ist Aufmerksamkeit . 
+15	You will listen closely , and you will not judge me until I am finished . 	Hören Sie genau zu und urteilen Sie erst über mich , wenn ich fertig bin . 
+16	If you cannot commit to this , then please leave the room . 	Wenn Sie dazu nicht bereit sind , verlassen Sie bitte das Zimmer . 
+17	Come in . 	Herein ! 
+18	But if you choose to stay , remember you chose to be here . 	- Wollen Sie aber bleiben , nicht vergessen , es war Ihre Entscheidung . 
+19	What happens from this moment forwards is not my responsibility . 	Was von nun an geschieht , liegt in Ihrer Verantwortung . 
+20	It 's yours . 	ALAN TURING WURDE BERAUBT . 
+21	Pay attention . 	Hören Sie zu ! 
+22	- What 's all this , then ? 	- Was ist das hier ? 
+23	- Turing , Alan . 	- Turing , Alan . 
+24	Professor at King 's . 	Professor am King 's College . 
+25	- Seems there 's been a burglary . 	Gab wohl einen Einbruchsdiebstahl . 
+26	- Oh ? 	- Was wurde gestohlen ? 
+27	What of ? 	- Was wurde gestohlen ? 
+28	Well , that 's just it . 	- Das ist es ja , es fehlt nichts . 
+29	Nothing missing , really . 	- Das ist es ja , es fehlt nichts . 
+30	What 's he doing in Manchester ? 	Was macht er in Manchester ? 
+31	Something with machines . 	Irgendwas mit Maschinen . 
+32	The project at the NPL . 	Das Projekt am NPL . 
+33	I checked , but he won 't say what it 's on . 	Ich habs überprüft , aber er wollte nicht sagen , was es ist . 
+34	Professor Turing ? 	Professor Turing ? 
+35	Detective Nock , Manchester Police . 	Kommissar Nock , Polizei Manchester . 
+36	Sergeant Staehl here tells me you had a burglary last night . 	Bei Ihnen ist eingebrochen worden ? 
+37	Professor Turing ? 	Professor Turing ? 
+38	Take a step back , and don 't breath heavily . 	Gehen Sie einen Schritt zurück und atmen Sie nicht doll ein . 
+39	- Breathe ? 	- Atmen ? 
+40	- Undiluted cyanide . 	- Unverdünntes Zyanid . 
+41	It wouldn 't take more than a thimbleful to kill you . 	Ein Fingerhut reicht , um Sie zu töten . 
+42	- Disappointing . 	- Enttäuschend . 
+43	- Pardon ? 	- Bitte ? 
+44	I had hoped for a bit more . 	Ich hatte etwas Höheres erhofft . Sgt . 
+45	Sergeant Staehl , is it just me , or do you get the sense that we 're being insulted ? 	Staehl , will man uns beleidigen ? 
+46	Last night , you had a break- in . 	Letzte Nacht wurde bei Ihnen eingebrochen . 
+47	Your neighbor , Mr . 	Ihr Nachbar meldete den Lärm . 
+48	Springborn , called to report the noise . 	Ihr Nachbar meldete den Lärm . 
+49	He said there was quite a ruckus . 	Er sagte , es war ganz schön laut . 
+50	Only you say nothing was taken . 	Aber Sie sagen , es fehlt nichts . 
+51	It 's odd . 	Ist doch seltsam . 
+52	So , how about you tell us what happened , and we 'll find the chap who did this . 	Sagen Sie uns , was war , und wir finden den Täter . 
+53	Gentlemen , I don 't believe that you could find the chap that did this if he walked up to you and spat in your face . 	Meine Herren , ich glaube nicht , dass Sie den Täter finden können , selbst wenn er Ihnen ins Gesicht spucken würde . 
+54	What I could us right now is not a bobby , but a really good cleaning lady . 	Was ich brauchen könnte , ist kein Bobby , sondern eine richtig gute Reinmachefrau . 
+55	So , unless one of you has an apron in your car , 	Sofern Sie nicht eine Schürze im Auto haben , schlage ich vor , 
+56	I suggest you file your reports and leave me alone . 	Sie schreiben Ihren Bericht und lassen mich in Ruhe . 
+57	As you say , Professor Turing . 	Wie Sie wünschen , Professor Turing . 
+58	Best of luck with your cyanide . 	Viel Glück mit Ihrem Zyanid . 
+59	I' ll give you a quid if you can name me a more insufferable sod . 	Ein Pfund für einen noch größeres Ekel ! 
+60	- Seemed a bit forced , though , didn 't it ? 	Bisschen unnatürlich , oder ? 
+61	- Don 't know what you mean . 	Ich weiß nicht , was Sie meinen . 
+62	Well , if you didn 't want a pair of bobbies digging around in your personal affairs , that 'd have been a stellar way to make sure they don 't . 	Wenn man nicht will , dass die Polizei einem in die Karten guckt , ist das doch der beste Weg . 
+63	Tell me you don 't think this is suspicious . 	Ist das etwa nicht verdächtig ? 
+64	I don 't think this is suspicious . 	Find ich nicht . 
+65	A mysterious professor who won 't admit he 's had something stolen from his house ? 	Ein geheimnisvoller Professor , der nicht zugibt , dass er bestohlen wurde . 
+66	I think Alan Turing 's hiding something . 	Ich glaube , Alan Turing verbirgt etwas . 
+67	War declared ! 	Kriegserklärung ! 
+68	800, 000 children evacuated ! 	800, 000 Kinder evakuiert ! 
+69	German bombs on their way ! 	Deutsche Bomben auf dem Weg ! 
+70	Get your papers here ! 	Holen Sie sich Ihre Zeitung , druckfrisch ! 
+71	Fresh off the press ! 	Holen Sie sich Ihre Zeitung , druckfrisch ! 
+72	War declared ! 	
+73	800, 000 children evacuated ! 	
+74	German bombs expected soon ! 	
+75	This morning , the British Ambassador in Berlin handed the German government a final note stating that unless we heard from them , by 11 : 00 , a state of war would exist between us . 	Heute Morgen übergab der britische Botschafter in Berlin der deutschen Regierung ein letztes Schreiben : Sollten wir bis 11 Uhr nichts von ihnen hören , befänden wir uns im Kriegszustand . 
+76	I have to tell you now that no such undertaking has been received . 	Ich muss Ihnen jetzt berichten , dass wir keine Antwort erhalten haben und dass sich demzufolge dieses Land mit Deutschland im Krieg befindet . 
+77	And that , consequently , this country is at war with Germany . 	Ich muss Ihnen jetzt berichten , dass wir keine Antwort erhalten haben und dass sich demzufolge dieses Land mit Deutschland im Krieg befindet . 
+78	For the second time in the lives of most of us , we are ... at war . 	Zum zweiten Mal im Leben der meisten von uns befinden wir uns im Krieg . 
+79	To find a peaceful way out ... 	Um einen friedlichen Weg aus dieser Lage zu finden ... 
+80	Papers , please . 	Ihre Papiere , bitte . 
+81	What are you doing here ? 	Was tun Sie hier ? 
+82	- Oh , the lady told me to wait . 	Die Dame sagte , ich solle hier warten . 
+83	- In my office ? 	In meinem Büro ? 
+84	She tell you to help yourself to tea while you were here ? 	Sollten Sie sich auch Tee nehmen ? 
+85	No , she didn 't . 	Nein , das nicht . 
+86	She obviously didn 't tell you what a joke was , then , either , I gather . 	Sie wollte keine Scherze mit Ihnen machen . 
+87	Was she supposed to ? 	Sollte sie das ? 
+88	- Who are you ? 	Wer sind Sie ? 
+89	- Alan Turing . 	Alan Turing . 
+90	Turing . 	Ah , Turing . 
+91	The mathematician . 	Der Mathematiker . 
+92	- Correct . 	- Korrekt . 
+93	- However could I have guessed ? 	- Hätte ich mir denken können . 
+94	Well , you didn 't . 	Nein , Sie haben es gerade gelesen . 
+95	You just read it on that piece of paper . 	Nein , Sie haben es gerade gelesen . 
+96	King 's College , Cambridge . 	King 's College , Cambridge . 
+97	Now , it says here you were a bit of a prodigy in the maths department . 	Hier steht , Sie waren ein Ausnahmetalent . 
+98	I 'm not sure I can evaluate that , Mr .... 	Das kann ich nicht beurteilen , Mr ... 
+99	- How old are you , Mr . 	Wie alt sind Sie , Mr . 
+100	Turing ? 	Turing ? 
+101	- 27 . 	- 27 . 
+102	And how old were you when you became a Fellow at Cambridge ? 	Mit wie viel Jahren wurden Sie " Fellow ? " 
+103	- 24 . 	24 . 
+104	- And how old were you ... when you published this paper that has a title I can barely understand ? 	- Und wie alt waren Sie , als Sie diese Abhandlung veröffentlichten , dessen Titel ich nur mit Mühe verstehe ? 
+105	23 . 	Da war ich 23 . 
+106	And you don 't think that qualifies you as a certified prodigy ? 	Und das beweist nicht Ihr Talent ? 
+107	Well , Newton discovered binomial theorem aged 22 . 	Newton fand den binomischen Lehrsatz mit 22 , 
+108	Einstein wrote four papers that changed the world by the age of 26 . 	Einstein schrieb 4 weltberühmte Abhandlungen , als er 26 war . 
+109	As far as I can tell , I' ve ... 	Soweit ich sagen kann , habe ich gerade mal ein Par geschafft . 
+110	I' ve barely made par . 	Soweit ich sagen kann , habe ich gerade mal ein Par geschafft . 
+111	- My God , you 're serious . 	Mein Gott , sind Sie ernst ! 
+112	- Would you prefer I made a joke ? 	Soll ich lieber einen Scherz machen ? 
+113	Oh , I don 't think you know what those are . 	Wissen Sie überhaupt , was das ist ? 
+114	Hardly seems fair that that 's a requirement for employment here , Mr ... 	Ist das etwa ein Einstellungskriterium , Mr ... 
+115	Commander Denniston , Royal Navy . 	Commander Denniston , Royal Navy . 
+116	All right , Mr . 	Gut , Mr . 
+117	Turing , I' ll bite . 	Turing , angebissen : 
+118	Why do you wish to work for His Majesty 's government ? 	Warum wollen Sie für die Regierung arbeiten ? 
+119	Oh , I don 't , really . 	Das will ich gar nicht . 
+120	Are you a bleeding pacifist ? 	Sind Sie Pazifist ? 
+121	I 'm ... agnostic about violence . 	Gewalt sehe ich mit Skepsis . 
+122	Well , you do realize that 600 miles away from London there 's this nasty little chap called Hitler who wants to engulf Europe in tyranny ? 	Sie wissen , dass es 600 Meilen von London diesen fiesen kleinen Kerl Hitler gibt , der Europa in die Tyrannei stürzen will ? 
+123	Politics isn 't really my area of expertise . 	- Politik ist nicht mein Fachgebiet . 
+124	Really ? 	- Politik ist nicht mein Fachgebiet . 
+125	Well , I believe you 've just set the record for the shortest job interview in British military history . 	Das war ein Rekord : Das kürzeste Bewerbungsgespräch der Militärgeschichte . 
+126	Mother says I can be off- putting sometimes on account of being one of the best mathematicians in the world . 	Mutter sagt , ich kann mal unliebsam sein , da ich einer der besten Mathematiker 
+127	- In the world ? 	- der Welt bin . - Der Welt ? 
+128	- Oh , yes . 	Ja . 
+129	Do you know how many people I' ve rejected for this program ? 	Wissen Sie , wie viele ich abgelehnt habe für dieses Programm ? 
+130	No . 	- Nein . 
+131	Well , that 's right , because we 're a top- secret program . 	- Gut , denn das Programm ist streng geheim . 
+132	But I' ll tell you , just because we 're friends , that only last week , I rejected one of our great nation 's top linguists . 	Aber da wir Freunde sind , sage ich Ihnen : Erst letzte Woche lehnte ich einen unserer Spitzenlinguisten ab . 
+133	Knows German better than Bertolt Brecht . 	Kann besser Deutsch als Bertolt Brecht . 
+134	- I don 't speak German . 	- Ich spreche kein Deutsch . 
+135	- What ? 	- Was ? 
+136	I don 't ... speak German . 	Ich spreche kein Deutsch . 
+137	Well , how the hell were you supposed to decrypt German communications if you don 't ... 	Wie wollen Sie dann deutsche Nachrichten entschlüsseln , wenn Sie kein Deutsch sprechen ? 
+138	I don 't know , speak German ? 	Wie wollen Sie dann deutsche Nachrichten entschlüsseln , wenn Sie kein Deutsch sprechen ? 
+139	Well , I 'm really quite excellent at crossword puzzles . 	Ich bin exzellent im Kreuzwort rätseln . 
+140	Margaret ! 	Margaret ! 
+141	The German codes are a puzzle . 	Deutsche Codes sind Puzzle , ein Spiel wie jedes andere . 
+142	A game , just like any other game . 	Deutsche Codes sind Puzzle , ein Spiel wie jedes andere . 
+143	- Margaret , where are you ? 	Ich bin gut in Spielen , in Puzzles . 
+144	- I 'm really very good at games . 	Ich bin gut in Spielen , in Puzzles . 
+145	Puzzles . 	
+146	And this is the most difficult puzzle in the world . 	Und das hier ist das schwierigste Puzzle - der Welt . 
+147	Margaret ! 	- Margaret ! 
+148	For the love of God . 	Um Himmels willen ... 
+149	This is a joke , obviously . 	Das ist offenbar ein Witz . 
+150	I 'm afraid I don 't know what those are , Commander Denniston . 	Ich weiß leider nicht , was Witze sind , Commander Denniston . 
+151	Have a pleasant trip back to Cambridge , Professor . 	Gute Rückreise nach Cambridge , Professor . 
+152	Enigma . 	Enigma . 
+153	You called for me ? 	Sie haben mich gerufen ? 
+154	That 's what you 're doing here . 	Das machen Sie hier , das ... streng geheime Programm in Bletchley . 
+155	The top- secret program at Bletchley . 	Das machen Sie hier , das ... streng geheime Programm in Bletchley . 
+156	You 're trying to break the German Enigma machine . 	Sie versuchen , die deutsche Enigma- Maschine zu knacken . 
+157	What makes you think that ? 	Wie kommen Sie darauf ? 
+158	It 's the greatest encryption device in history , and the Germans use it for all major communications . 	Es ist das beste Verschlüssungsgerät , und die Deutschen benutzen es für alle wichtigen Nachrichten . 
+159	If the Allies broke Enigma , well ... this would turn into a very short war , indeed . 	Wenn die Alliierten Enigma knacken , dann ... wäre der Krieg in Kürze vorbei . 
+160	Of course that 's what you 're working on . 	Klar arbeiten Sie daran . 
+161	But you also haven 't got anywhere with it . 	Aber erfolglos . 
+162	If you had , you wouldn 't be hiring cryptographers out of university . 	Sonst würde sie nicht Kryptografen der Universität einstellen . 
+163	You need me a lot more than I need you . 	Sie brauchen mich mehr als ich Sie . 
+164	I like solving problems , Commander . 	Ich löse gerne Probleme , Commander . 
+165	And Enigma is the most difficult problem in the world . 	Und Enigma ist das schwierigste Problem der Welt . 
+166	No , Enigma isn 't difficult ; it 's impossible . 	Es ist nicht schwierig , es ist unmöglich . 
+167	The Americans , the Russians , the French , the Germans , everyone thinks Enigma is unbreakable . 	Amerikaner , Russen , Franzosen , Deutsche , alle halten Enigma für unknackbar . 
+168	Good . 	Gut . 
+169	Let me try , and we 'll know for sure , won 't we ? 	Lassen Sie michs versuchen , dann wissen wirs genau . 
+170	Welcome to Enigma . 	Willkommen bei Enigma . 
+171	The details of every surprise attack , every secret convoy and every U- boat in the bloody Atlantic go into that thing . 	Details von jedem Überraschungsangriff , von jedem geheimen Konvoi , und von jedem U- Boot im Atlantik gehen in das Ding rein , und raus kommt Buchstabensalat . 
+172	And out comes gibberish . 	Details von jedem Überraschungsangriff , von jedem geheimen Konvoi , und von jedem U- Boot im Atlantik gehen in das Ding rein , und raus kommt Buchstabensalat . 
+173	It 's beautiful . 	Großartig . 
+174	It 's the crooked hand of death itself . 	Die verkrüppelte Hand des Todes selbst . 
+175	Our Wrens intercept thousands of radio messages a day , and to the lovely young ladies of the Women 's Royal Navy , they 're nonsense . 	Unsere Frauen fangen täglich Tausende solcher Funksprüche auf . Und für die reizenden Damen der Royal Navy ist alles Unsinn . 
+176	It 's only when you feed them back into Enigma that they make any sense . 	Nur wenn man sie in die Enigma füttert , ergeben Sie einen Sinn . 
+177	But we have an Enigma machine . 	Aber wir haben ein Enigma- Gerät . 
+178	Yes , Polish Intelligence smuggled it out of Berlin . 	Von Polens Geheimdienst rausgeschmuggelt . 
+179	So , what 's the problem ? 	Wo ist das Problem ? 
+180	Just put the intercepted messages 	Man leitet die aufgefangenen Botschafte ... 
+181	- back into the Enigma and you 'll ... 	So einfach ist das nicht ! 
+182	- Look , it 's not that simple , is it ? 	Nicht wahr ? 
+183	Just having an Enigma machine doesn 't help you to decode the messages . 	Der Besitz einer Enigma- Maschine hilft einem nicht bei der Entschlüsselung - der Nachrichten . 
+184	Very good , Mr . 	- Sehr gut , Mr . 
+185	Turing . 	- Sehr gut , Mr . 
+186	To decode a message , you need to know the machine 's settings . 	Turing . Man braucht man die Einstellungen des Geräts . 
+187	Now , the Germans switch settings every day promptly at midnight . 	Die ändern die Deutschen jeden Tag pünktlich um Mitternacht . 
+188	We usually intercept our first message around 6 : 00 a . m . , which gives you exactly 18 hours every day to crack the code before it changes , and you start again . 	Den ersten Funkspruch fangen wir meist gegen 6 Uhr morgens auf . Wir haben also genau 18 Stunden jeden Tag , um den Code zu knacken , eh er sich ändert , und wir von vorn anfangen . 
+189	Five rotors . 	5 Rotoren . 
+190	Ten plugboard cables . 	10 Steckbrettkabel . 
+191	That 's ... 	Das sind eine Million ... 
+192	- One million ... 	Das sind eine Million ... 
+193	- A thousand million ... 	- 1 . 000 Millionen . 
+194	No , no , it 's , I' ve got it . 	
+195	- It 's million , million . 	- Millionen . 
+196	- It 's in the millions , obviously . 	- Es geht in die Millionen . 
+197	It 's over 150 million million million possible settings . 	Es gibt über 150 Billiarden Einstellungen . 
+198	Very good . 	Sehr gut . 
+199	159 . 	
+200	If you want to be exact about it . 	159 . Um genau zu sein , 1- 5- 9 . 
+201	1- 5- 9 with 18 zeroes behind it . 	Mit 18 Nullen dahinter . 
+202	Possibilities . 	Möglichkeiten . 
+203	Every single day . 	Jeden Tag . 
+204	Gentlemen , meet Hugh Alexander . 	Meine Herren , das ist Hugh Alexander . 
+205	I personally selected him to run this unit . 	Von mir persönlich ausgewählt , diese Einheit zu leiten . 
+206	Didn 't you ... 	
+207	Mr . 	
+208	Alexander won Britain 's national chess championship . 	Er gewann das nationale Schachturnier . 
+209	Twice . 	- Zweimal . 
+210	You 're not the only one who 's good at games around here , Turing . 	- Sie sind nicht der Einzige , der gut in Spielen ist , Mr . Turing . 
+211	Are we to work together , then ? 	Wir arbeiten zusammen ? 
+212	I prefer to have my own office . 	Ich habe lieber mein eigenes Büro . 
+213	You 're a team , and you will work as one . 	Sie sind ein Team und arbeiten im Team . 
+214	I don 't have time to explain myself as I go along , and ... 	Ich habe keine Zeit für Erklärungen und fürchte , diese Männer halten mich auf . 
+215	I 'm afraid these men would only slow me down . 	Ich habe keine Zeit für Erklärungen und fürchte , diese Männer halten mich auf . 
+216	If you can 't play together , then I 'm afraid we can 't let you play at all . 	Entweder im Team oder gar nicht . 
+217	This is Stewart Menzies , MI6 . 	Das ist Stewart Menzies . MI6 . 
+218	There are only five divisions of military intelligence . 	Es gibt nur 5 Abteilungen im Abwehrdienst . 
+219	There is no MI6 . 	Eine MI6 gibt es nicht . 
+220	Exactly . 	Genau . 
+221	That 's the spirit . 	So ists recht ! 
+222	Mr . 	Mr . 
+223	Turing , do you know how many British servicemen have died because of Enigma ? 	Turing , wissen Sie , wie viele Soldaten wegen Enigma gefallen sind ? 
+224	- No , I don 't . 	Nein . 
+225	- Three ... while we 've been having this conversation . 	Drei . Während wir uns hier unterhalten . 
+226	Oh , look , there 's another . 	Schon wieder einer . 
+227	I rather hope he didn 't have a family . 	Ich hoffe , er hatte keine Familie . 
+228	This war Commander Denniston 's been going on about , we 're not winning it . 	Den Krieg , den Commander Denniston erwähnte , werden wir nicht gewinnen . 
+229	Break the code , at least we have a chance . 	Knacken wir den Code , haben wir zumindest eine Chance . 
+230	Shall we leave the children alone with their new toy ? 	Sollen wir die Jungs alleinlassen mit ihrem neuen Spielzeug ? 
+231	All right , gentlemen ... 	Also gut , meine Herren . 
+232	Let 's play . 	Spielen wir . 
+233	The game was quite a simple one . 	Das Spiel war ganz einfach . 
+234	Every single German message , every surprise attack , every bombing run , every imminent U- boat assault ... 	Jeder deutsche Funkspruch , jeder Überraschungsangriff , jedes Bombardement , jeder drohende U- Boot- Angriff ... 
+235	They were all floating through the air . 	alles schwebte durch die Luft . 
+236	Radio signals that ... well , any schoolboy with an AM kit could intercept . 	Funksignale , die ... Jeder Schuljunge mit Mittelwellenempfang konnte einen Funkspruch auffangen . 
+237	The trick was that they were encrypted . 	Der Trick war : Sie waren verschlüsselt . 
+238	There were 159 million million million possible Enigma settings . 	Es gab 159 Billiarden mögliche Enigma- Einstellungen . 
+239	All we had to do was try each one . 	Wir mussten nur alle ausprobieren . 
+240	But if we had ten men checking one setting a minute for 24 hours every day and seven days every week , how many days do you think it would take to ... to check each of the settings ? 	Aber wenn zehn Personen eine Einstellung pro Minute prüften , 24 Stunden am Tag , 7 Tage die Woche , wie viele Tage wären dann nötig , um jede Einstellung zu überprüfen ? 
+241	Well , it 's not days , it 's years . 	Es wären keine Tage , sondern Jahre . 
+242	- Good morning . 	Zwanzig Millionen Jahre . 
+243	- It 's 20 million years . 	Zwanzig Millionen Jahre . 
+244	- To stop a coming attack ... 	Um einen Angriff zu verhindern , müssten wir die Einstellungen , für die wir 20 Millionen Jahre bräuchten , in zwanzig Minuten überprüfen . 
+245	- Thank you . ... we would have to check 20 million years´ worth of settings in 20 minutes . 	Um einen Angriff zu verhindern , müssten wir die Einstellungen , für die wir 20 Millionen Jahre bräuchten , in zwanzig Minuten überprüfen . 
+246	I 'm famished . 	Ich verhungere . 
+247	Lunch ? 	Mittagessen ? 
+248	Good Lord . 	
+249	What is it about women with little hats ? 	Was haben nur Frauen mit kleinen Hüten ? 
+250	The boys , we 're going to get some lunch . 	Jungs , wir gehen Mittagessen . 
+251	- Alan ? 	Alan ? 
+252	- Yes ? 	Ja . 
+253	I said we 're going to get some lunch . 	Ich sagte , wir gehen was essen . 
+254	- Alan ? 	- Alan ? 
+255	- Yes ? 	- Ja . 
+256	- Can you hear me ? 	- Hast du gehört ? - Ja . 
+257	- Yes . 	
+258	I said we 're off to get some lu ... 	Ich sagte , wir gehen essen . 
+259	This is starting to get a little bit repetitive . 	Langsam wiederhole ich mich . 
+260	What is ? 	- Was ist ? 
+261	I had asked if you wanted to come to lunch with us . 	- Ob du mit uns essen kommst ? 
+262	No , you didn 't . 	Sagtest du nicht , ihr holt was zu essen ? 
+263	You said you were going to get some lunch . 	Sagtest du nicht , ihr holt was zu essen ? 
+264	- Have I offended you in some way ? 	Hab ich dich beleidigt ? 
+265	- Why would you think that ? 	Wie kommst du darauf ? 
+266	- Would you like to come to lunch with us ? 	- Würdest du mit uns essen kommen ? 
+267	- What time 's lunchtime ? 	- Würdest du mit uns essen kommen ? 
+268	Christ , Alan , it 's a bleeding sandwich . 	- Wann ? - Mein Gott , Alan , ein Sandwich ! 
+269	- What is ? 	- Was ? 
+270	- Lunch . 	- Mittagessen ! 
+271	- Oh , I don 't like sandwiches . 	- Ich mag keine Sandwiches . 
+272	- Never mind . 	Dann eben nicht . 
+273	You know , to pull off this irascible genius routine , one actually has to be a genius , Alan . 	Um die Rolle des reizbaren Genies zu spielen , muss man in der Tat ein Genie sein . 
+274	And yet we 're the ones making progress here , aren 't we ? 	Aber wir sind es , die vorankommen . 
+275	Oh , you are ? 	Ach ja ? 
+276	Yes , we are . 	Allerdings . 
+277	We have decrypted a number of German messages by analyzing the frequency of letter distribution . 	Wir knackten mehrere deutsche Funksprüche über die Frequenz einzelner Buchstaben . 
+278	Oh , even a broken clock is right twice a day . 	Auch eine kaputte Uhr stimmt zweimal am Tag . 
+279	That 's not progress ; that 's just blind luck . 	Das ist kein Fortschritt , das ist Glücksache . 
+280	I 'm designing a machine that will allow us to break every message every day instantly . 	Ich entwickle eine Maschine , die jeden Funkspruch entschlüsseln kann , jeden Tag , auf der Stelle . 
+281	Who 's hungry ? 	Wer hat Hunger ? 
+282	Let 's go . 	- Gehen wir . 
+283	I 'm hungry . 	- Ich hab Hunger . 
+284	What ? 	- Wie ? 
+285	Peter asked who was hungry . 	- Peter hat gefragt , wer Hunger hat . 
+286	Can I have some soup , please ? 	Kann ich etwas Suppe haben , bitte ? 
+287	What do you mean , " classified " ? 	Was meinst du mit " Verschlusssache " ? 
+288	No , I 'm aware of the literal meaning of the word classified . 	Die wörtliche Bedeutung kenne ich . 
+289	What I 'm asking is why would a maths professor have his military records classified ? 	Aber warum bezeichnet ein Mathe- Professor seine Militärakte als geheim ? 
+290	Yeah , well , I will come down . 	Ja , ich komme runter . 
+291	Sorry , can I get you to hold for a minute , please ? 	
+292	Pardon me , I 'd like to see some documents , if I may . 	Ich möchte einige Dokumente einsehen . 
+293	Service records of a Mr . 	Die Militärdienst- Dokumente eines Mr ... 
+294	Turing . 	Turing , Alan . 
+295	Alan . 	Turing , Alan . 
+296	Foreign Office sent me . 	Das Außenministerium schickt mich . 
+297	This is unacceptable . 	Das ist inakzeptabel . 
+298	If you wish to discuss the complaint , I suggest you make a proper appointment . 	Wenn Sie über eine Beschwerde reden wollen , 
+299	Alexan ... 	- machen Sie einen Termin ! 
+300	Complaint ? 	- Beschwerde ? 
+301	No , no , Hugh Alexander has denied my requisition for parts and equipment that I need to build the machine I' ve designed . 	Nein ! Hugh Alexander verweigert mir die Ausrüstung , die ich brauche , um meine Maschine zu bauen . 
+302	Your fellow code- breakers are refusing to work with you , and they filed a formal complaint . 	Ihre Kollegen lehnen die Arbeit mit Ihnen ab und haben Beschwerde eingelegt . 
+303	It 's is inspired by an old Polish code machine . 	Wie die alte polnische Maschine , nur viel , viel moderner . 
+304	- Only this one is infinitely more advanced . 	Wie die alte polnische Maschine , nur viel , viel moderner . 
+305	- If you don 't respond to the complaint , 	Wenn Sie darauf nicht reagieren , muss ich das Innenministerium informieren . 
+306	I shall have to take it up with the Home Office . 	Wenn Sie darauf nicht reagieren , muss ich das Innenministerium informieren . 
+307	- Put those files by my desk . 	
+308	- Fine , my response is they 're all idiots . 	Das sind alles Idioten . 
+309	Fire them and use the savings to fund my machine . 	Feuern Sie sie und finanzieren Sie stattdessen mein Gerät . 
+310	I only need about 100, 000 pounds . 	Ich brauche nur etwa 100, 000 Pfund . 
+311	100, 000 ... 	Hunderttausend ? 
+312	Why are you building a machine ? 	Wozu bauen Sie eine Maschine ? 
+313	It 's highly technical . 	Zu technisch , das verstehen Sie nicht . 
+314	You wouldn 't understand . 	Zu technisch , das verstehen Sie nicht . 
+315	I suggest you make the effort to try . 	Ich schlage vor , Sie versuchen es . 
+316	Enigma is ... an extremely well- designed machine . 	Enigma ist eine extrem komplexe Maschine . 
+317	Our problem is that we 're only using men to try to beat it . 	Das Problem : Wie arbeiten nur mit Menschen . 
+318	No , what if only a machine can defeat another machine ? 	Was ist , wenn nur eine Maschine eine andere besiegen kann ? 
+319	Well , that 's not very technical . 	Das ist nicht allzu technisch . 
+320	Hugh Alexander is in charge of your unit . 	Hugh Alexander leitet Ihre Einheit . 
+321	He said no , and that is that . 	Er sagt nein , und das war 's . 
+322	I simply don 't have time for this . 	Ich hab keine Zeit für sowas . 
+323	Have you ever won a war , Turing ? 	Haben Sie je einen Krieg gewonnen , Turing ? 
+324	I have . 	Ich schon . 
+325	Do you know how it 's done ? 	Wissen Sie , wie das geht ? 
+326	Order , discipline , chain of command . 	Ordnung , Disziplin , Befehlskette . 
+327	You 're not at university any longer . 	Sie sind nicht mehr an der Universität . 
+328	You are a very small cog in a very large system . 	Sie sind ein kleines Rad in einem großen System . 
+329	And you will do as your commanding officer instructs . 	Und tun , was Ihr Vorgesetzter Ihnen sagt . 
+330	Yes . 	
+331	Who is your commanding officer ? 	Wer ist Ihr Vorgesetzter ? 
+332	Winston Churchill , Number 10 Downing Street , London , SW1 . 	Winston Churchill , 10 , Downing Street , London SW1 . 
+333	You have a problem with my decision , you can take it up with him . 	Missbilligen Sie meine Entscheidung , können Sie es mit ihm erörtern . 
+334	Mr . 	Mr . 
+335	Menzies ! 	Menzies ! 
+336	Mr . 	Mr . 
+337	Menzies ! 	Menzies ! 
+338	Are you going to London ? 	Fahren Sie nach London ? 
+339	Possibly . 	Möglich . 
+340	Would you deliver a letter for me ? 	Könnten Sie einen Brief abgeben ? 
+341	Look , I 'm sorry , but are you joking ? 	Verzeihung , machen Sie Witze ? 
+342	Churchill 's put Alan in charge ? 	Churchill hat Alan zum Chef ernannt ? 
+343	- This is a terrible idea . 	- Ein schrecklicher Gedanke . 
+344	- No , no , no , no , no . 	- Nein , nein . 
+345	So , I can give these men orders now ? 	Kann ich diesen Männern jetzt Befehle geben ? 
+346	I hate to say it , but yes . 	Leider ja . 
+347	Excellent . 	Großartig . 
+348	Keith and Charles , you 're both fired . 	Keith und Charles sind gefeuert . 
+349	- Excuse me ? 	- Wie bitte ? 
+350	- What ? 	- Was ? 
+351	You 're mediocre linguists , and positively poor code- breakers . 	Ihr seid mittelmäßige Linguisten - und total schlechte Codeknacker . 
+352	Alan , you can 't just fire Keith and Charles . 	- Alan , du kannst Keith und Charles nicht feuern ! 
+353	- Well , he just said I could . 	- Er hat gesagt , ich kann . 
+354	- No , I did no such thing . 	- Hab ich nicht . 
+355	But Churchill did . 	Aber Churchill hat . 
+356	Go to hell . 	Fahr zur Hölle ! 
+357	Well , this is inhuman . 	Das ist unmenschlich . Auch für dich . 
+358	Even for you . 	
+359	Popular at school , were you ? 	Sie waren sicher beliebt in der Schule . 
+360	The problem began , of course , with the carrots . 	Das Problem begann mit den Möhren . 
+361	Carrots are orange . 	Möhren sind orange . 
+362	And peas are green . 	Und Erbsen sind grün . 
+363	They mustn 't touch . 	Sie durften sich nicht berühren . 
+364	I got it . 	
+365	Do you know why people like violence ? 	Wissen Sie , warum Leute Gewalt mögen ? 
+366	It is because it feels ... good . 	Weil sie sich gut anfühlt . 
+367	Humans find violence deeply satisfying . 	Menschen finden sie zutiefst befriedigend . 
+368	But remove the satisfaction , and ... the act becomes ... hollow . 	Doch ohne die Befriedigung wird der Akt zu etwas Leerem . 
+369	Turing ? 	Turing ? 
+370	Come on . 	Komm ! 
+371	Don 't be such a kike about it . 	Sei keine jüdische Memme ! 
+372	Leave him to bloody rot . 	Soll er doch verrotten . 
+373	I didn 't learn this on my own , of course . 	Ich hab das nicht alleine gelernt . 
+374	I had help . 	Ich hatte Hilfe . 
+375	Christopher helped . 	Christopher hat mir geholfen . 
+376	Alan , are you all right ? 	Alan , alles in Ordnung ? 
+377	It 's not my fault . 	Es ist nicht meine Schuld . 
+378	The carrots got in with the peas and ... 	Die Möhren kullerten in die Erbsen und ... 
+379	- I 'm sorry . 	Tut mir leid , es kommt nicht wieder vor . 
+380	I won 't let them do it again . 	Tut mir leid , es kommt nicht wieder vor . 
+381	- They 're getting worse . 	Sie werden immer schlimmer . 
+382	They only beat me up because I 'm smarter than they are . 	Sie haben mich verhauen , weil ich klüger bin . 
+383	No , they beat you up because you 're different . 	Nein , weil du anders bist . 
+384	- Mother says I 'm just an odd duck . 	Mutter sagt , ich bin ein komischer Vogel . 
+385	- And she 's right . 	Und sie hat recht . 
+386	But you know , Alan , sometimes it 's the very people who no one imagines anything of who do the things no one can imagine . 	Aber manchmal sind es genau diejenigen , von denen man das nie gedacht hätte , die unvorstellbare Dinge tun . 
+387	So , what do we do now ? 	Und was machen wir jetzt ? 
+388	- We 're short on staff . 	Wir haben nicht genug Leute . 
+389	- Well , we get more staff then . 	Dann holen wir uns noch welche . 
+390	And how do you propose to do that ? 	Und wie machen wir das ? 
+391	- Alan Turing to see Stewart Menzies . 	Alan Turing . Zu Stewart Menzies . 
+392	- Very good , sir . 	In Ordnung , Sir . 
+393	- So , who are they ? 	Was sind das für Leute ? 
+394	- Oh , all sorts , really . 	Ganz unterschiedliche . 
+395	Teacher , an engineer , a handful of students . 	Lehrer , ein Ingenieur , ein paar Studenten . 
+396	And you think they 're qualified for Bletchley ' cause they 're good at crossword puzzles ? 	Qualifiziert durch Kreuzworträtsel ? 
+397	Well , they say they 're good , and now we shall find out , won 't we ? 	Sie sagen , sie sind gut . Mal sehen . Perfekt . 
+398	In order to aid your efforts , there is , to the right of you , a green scratch card book . 	Um Ihnen zu helfen , gibt es ein grünes Notizbuch darin machen Sie sich Notizen . 
+399	You are to make notes in that . 	Um Ihnen zu helfen , gibt es ein grünes Notizbuch darin machen Sie sich Notizen . 
+400	Gentlemen , you have six minutes in which to complete the puzzle , at which point , I will ... 	Sie haben 6 Minuten , dann werde ich ... 
+401	Pardon , ma 'am , this room 's restricted . 	Ma 'am , hier ist Zutritt verboten . 
+402	Apologies for my tardiness . 	Sorry , der Bus hatte einen Platten . 
+403	The bus caught a flat tire . 	Sorry , der Bus hatte einen Platten . 
+404	May I continue , please ? 	Kann ich bitte fortfahren ? 
+405	Thank you . 	
+406	- You 're not allowed in here , ma 'am . 	Sie dürfen hier nicht rein , Ma 'am .. 
+407	- Oh , but I 'm only a few minutes late . 	Es sind doch nur ein paar Minuten . 
+408	The secretaries are to head upstairs . 	Sekretärinnen müssen nach oben . 
+409	This room 's for the candidates . 	Der Raum ist für die Kandidaten . 
+410	May I get on with this now , please ? 	Kann ich jetzt fortfahren , bitte ? 
+411	- I am a candidate . 	Ich bin eine Kandidatin . 
+412	- For what position ? 	Für welche Stelle ? 
+413	- The letter didn 't say precisely . 	Das stand nicht genau in dem Brief . 
+414	- Yeah , so secretaries are to head upstairs . 	Sekretärinnen müssen nach oben . 
+415	- It did say that it was top secret . 	Da steht " streng geheim " . 
+416	- What is going on ? 	- Was ist los ? 
+417	I solved a crossword puzzle in the newspaper , and I got this letter saying that I was a candidate for some sort of mysterious job . 	- Ich habe ein Kreuzworträtsel gelöst und bekam diesen Brief , in dem steht , ich sei Kandidatin für einen Job . 
+418	My name 's Joan Clarke . 	- Mein Name ist Joan Clarke . 
+419	Miss , did you really solve this puzzle yourself ? 	- Miss , haben Sie das Rätsel wirklich selbst gelöst ? 
+420	What makes you think I couldn 't solve the puzzle myself ? 	Wieso glauben Sie mir nicht ? 
+421	- I 'm really very good at ... 	Ich bin wirklich ... 
+422	- Ma 'am , I' ll have to ask you to ... 	Ich muss Sie fragen .. 
+423	Miss Clarke , I find tardiness under any circumstance , unacceptable . 	Miss Clarke , ich finde Zuspätkommen , ganz gleich unter welchen Umständen , inakzeptabel . 
+424	Take a seat so that we may continue . 	Nehmen Sie Platz , dann können wir fortfahren . 
+425	Thank you . 	Danke . 
+426	Now , as I was saying , you have six minutes to complete the task in front of you . 	Wie ich schon sagte , haben Sie sechs Minuten , um die Aufgabe zu lösen . 
+427	Gentlemen and lady , begin . 	Meine Herren , meine Dame , fangen Sie an . 
+428	Six minutes . 	Sechs Minuten . 
+429	- Is that even possible ? 	- Ist das überhaupt möglich ? 
+430	- No , it takes me eight . 	- Nein . Ich brauche acht dazu . 
+431	This isn 't about crossword puzzles . 	Es geht auch nicht um Kreuzworträtsel , sondern darum , wie jemand sich der Lösung eines unmöglichen Problems nähert . 
+432	It 's about how one approaches solving an impossible problem . 	Es geht auch nicht um Kreuzworträtsel , sondern darum , wie jemand sich der Lösung eines unmöglichen Problems nähert . 
+433	Do you tackle the whole thing at once or divide it into small ... 	Geht man es als Ganzes an oder teilt man ... 
+434	- You 've finished ? 	Sind Sie fertig ? Ja . 
+435	- Yes . 	
+436	- Five minutes and 34 seconds . 	5 Minuten und 34 Sekunden . 
+437	- You said to do it in under six . 	Sie sagten , unter 6 . 
+438	Congratulations . 	Gratuliere . 
+439	My warmest welcome to His Majesty 's service . 	Herzlich Willkommen im Dienst Seiner Majestät . 
+440	If you speak a word of what I 'm about to show you , you will be executed for high treason . 	Wenn Sie ein Wort über das hier verlieren , werden Sie wegen Hochverrats hingerichtet . 
+441	You will lie to your friends , your family and everyone you meet about what it is you really do . 	Sie werden Ihre Freunde , ihre Familie , und alle , denen Sie begegnen , über das belügen , was Sie wirklich machen . 
+442	And what is it that we 're really doing ? 	Und was machen wir wirklich ? 
+443	We 're going to break an unbreakable Nazi code and win the war . 	Wir knacken einen Code der Nazis , um den Krieg zu gewinnen . 
+444	What 's that you 're reading ? 	Was liest du da ? 
+445	- It 's about cryptography . 	Es geht um Kryptographie . 
+446	- Like secret messages ? 	Wie geheime Botschaften ? 
+447	Not secret . 	Keine geheimen . 
+448	That 's the brilliant part . 	Das ist das Tolle daran . 
+449	Messages that anyone can see , but no one knows what they mean unless you have the key . 	Botschaften , die jeder sehen kann , aber keiner weiß , was sie bedeuten . Es sei denn , man hat den Schlüssel . 
+450	How 's that different from talking ? 	Wie unterscheidet sich das von Gesprochenem ? 
+451	- Talking ? 	Gesprochenem ? 
+452	- When people talk to each other , they never say what they mean . 	Wenn Leute miteinander reden , sagen sie immer was anders , als Sie meinen , und erwarten , dass man weiß , was sie meinen . 
+453	They say something else , and you 're expected to just know what they mean . 	Wenn Leute miteinander reden , sagen sie immer was anders , als Sie meinen , und erwarten , dass man weiß , was sie meinen . 
+454	Only I never do . 	Aber ich mach das nie . 
+455	So , how 's that different ? 	Wieso ist das anders ? 
+456	Alan , I have a funny feeling you 're going to be very good at this . 	Alan , ich hab das Gefühl , dass du richtig gut darin bist . 
+457	Good night , Alan . 	Gute Nacht , Alan . 
+458	Good night . 	Gute Nacht . 
+459	Hold on , Marion , I 'm coming ! ... lesser settings and then route back through ... 	
+460	Back to those ones ... 	
+461	Careful , will you ? 	Vorsicht , bitte ! 
+462	It not a toy . 	Das ist kein Spielzeug . 
+463	Funny . 	Komisch , sieht aber aus wie eins . 
+464	Looks like a toy . 	Komisch , sieht aber aus wie eins . 
+465	Bloody great 100, 000- pound one . 	Ein Hunderttausend- Pfund- Spielzeug . 
+466	Your new minion 's arrived . 	- Dein neuer Lakai ist da . 
+467	- Jack Good . 	- Jack Good . 
+468	We met ... 	Wo ist Miss Clarke ? 
+469	- Well , where 's Miss Clarke ? 	Wo ist Miss Clarke ? 
+470	Lovely , isn 't he ? 	Reizend , nicht ? 
+471	It 's not just a usual humdrum production mill factory . 	Stinknormale Fabrik . 
+472	I mean , well , as I was saying , it 's a very important radio factory . 	Wie gesagt , es ist eine wichtige Radiofabrik . 
+473	It 's not , actually . 	Das nicht . 
+474	Well , on the spectrum of radio factories , this one is particularly ... 	In der Skala der Radiofabriken ist diese besonders ... 
+475	Why are you not at Bletchley ? 	Warum sind Sie nicht in Bletchley ? 
+476	Thank you ... so much for your visit , Mr . 	Vielen Dank für Ihren Besuch , Mr . 
+477	Turing . 	Vielen Dank für Ihren Besuch , Mr . 
+478	Was your trip pleasant ? 	Turing . - Hatten Sie eine gute Reise ? 
+479	Gather your things and let 's go . 	- Gehen wir ! 
+480	I 'm sorry , but I 'm unable to accept your offer . 	Ich kann Ihr Angebot leider nicht annehmen . 
+481	We feel that such a position would hardly be appropriate . 	Uns erscheint eine solche Position nicht angemessen . 
+482	You earned a double first in mathematics . 	Sie haben mit Auszeichnung bestanden . 
+483	But sadly wasn 't granted the opportunity to become a Fellow . 	Hatte aber leider nicht die Chance , Fellow zu werden . 
+484	You belong at Bletchley . 	Sie gehören nach Bletchley . 
+485	I 'm sorry , but for someone in my position , to live to ... to work in a radio factory so far from home , with all your men ... it would be ... indecorous . 	Tut mir leid , aber für jemand in meiner Lage in einer Radiofabrik zu arbeiten , weit weg von zu Hause , mit all den Männern ... das wäre ... unschicklich . 
+486	What in the world does that even mean ? 	Was in aller Welt soll das heißen ? 
+487	We have a group of young ladies who tend to all of our clerical tasks : assistants , translators . 	Bei uns sind eine Reihe junger Damen , die erledigen unsere Büroarbeiten . Assistentinnen , Übersetzerinnen ... 
+488	They live together in town . 	Sie wohnen zusammen in der Stadt . 
+489	Would that be a more suitable environment ? 	Wäre das eine passendere Umgebung ? 
+490	So , I would be working amongst these women ? 	Ich würde mit diesen Frauen arbeiten ? 
+491	Yes . 	Ja . 
+492	Wonderful ladies . 	Wunderbare Damen . 
+493	They even organize social events at St . 	Sie organisieren sogar Veranstaltungen . 
+494	Martin 's Church down the road . 	Sie organisieren sogar Veranstaltungen . 
+495	Really , the whole thing is quite ... decorous . 	Es ist wirklich alles sehr ... schicklich . 
+496	Now , you won 't have proper security clearance , of course , so , 	Nur bei der Sicherheitsüberprüfung , da müssen wir ein bisschen improvisieren . 
+497	- we 'll have to improvise things a bit . 	Nur bei der Sicherheitsüberprüfung , da müssen wir ein bisschen improvisieren . 
+498	- Why are you helping me ? 	Warum helfen Sie mir ? 
+499	Because there is only one thing that matters in this entire world right now . 	Weil es nur auf eins in der Welt ankommt , verstehen Sie ? 
+500	Do you understand ? 	Weil es nur auf eins in der Welt ankommt , verstehen Sie ? 
+501	And that is breaking Enigma . 	Weil es nur auf eins in der Welt ankommt , verstehen Sie ? 
+502	But , Mr . 	Aber Mr . 
+503	Turing ... why are you helping me ? 	Turing ... Warum helfen Sie mir ? 
+504	Sometimes it 's the very people who no one imagines anything of who do the things that no one can imagine . 	Manchmal sind es diejenigen , von denen es sich keiner vorstellen kann , die unvorstellbare Dinge tun . 
+505	Sir . 	- Sir ! 
+506	- What 's this ? 	- Was ist das ? 
+507	- Alan Turing 's classified military file . 	Alan Turings geheime Militärakte . 
+508	- It 's bloody empty . 	- Leer . 
+509	- Exactly . 	- Genau . 
+510	- It 's an empty manila envelope . 	- Ein leerer brauner Umschlag . 
+511	- Yeah . 	- Ja . 
+512	Well , you 've cracked the case wide open , then , haven 't you ? 	Da haben Sie ja was aufgedeckt ! 
+513	Alan Turing 's war records aren 't just classified , they 're nonexistent . 	Turings Militärakte ist nicht nur geheim , sie ist nicht vorhanden . 
+514	That means someone 's got rid of them . 	Jemand hat sie verschwinden lassen . 
+515	Erased them . 	Hat sie gelöscht , verbrannt . 
+516	Burned them . 	Hat sie gelöscht , verbrannt . 
+517	And that same person broke into his house and stole nothing ? 	Und dieselbe Person bricht bei ihm ein und stiehlt nichts ? 
+518	Guy Burgess and Donald Maclean . 	Guy Burgess und Donald Mclean . 
+519	- What , the spies from the papers ? 	Die Spione aus der Zeitung ? 
+520	- The Soviet spies . 	Die sowjetischen Spione . 
+521	But first they were professors , weren 't they ? 	Aber vorher waren Sie Professoren . 
+522	Radicalized at Cambridge , then they joined the Communist Party , then Foreign Office , then leaked information to Stalin during the war . 	Radikalisiert in Cambridge , Eintritt in die kommunistische Partei , dann Außenministerium , dann Weitergabe von Informationen an Stalin im Krieg . 
+523	Now , can you think of anyone else we know who was at Cambridge , then took up something murky and top secret when war broke out ? 	Wissen Sie jemand anders aus Cambridge , der in etwas Undurchsichtiges verwickelt war ? 
+524	You think this Alan Turing might be a Soviet agent ? 	Turing ein sowjetischer Agent ? 
+525	I think something very serious is happening right here under our noses . 	Ich glaube , dass sich etwas Gravierendes direkt vor unserer Nase abspielt . 
+526	Wouldn 't you like to find out what it is ? 	Möchten Sie nicht wissen , was das ist ? 
+527	Welcome , ladies . 	Willkommen , Ladies ! 
+528	If you 'd like to follow me . 	Bitte folgen Sie mir . 
+529	Some people thought we were at war with the Germans ... 	Einige dachten , wir wären mit Deutschland im Krieg . 
+530	Incorrect . 	Falsch . 
+531	We were at war with the clock . 	Wir waren im Krieg mit der Uhr . 
+532	Britain was literally starving to death . 	Großbritannien verhungerte buchstäblich . 
+533	The Americans sent over 100, 000 tons of food every week , and every week the Germans would send our desperately needed bread to the bottom of the ocean . 	Die Amerikaner schickten jede Woche hunderttausende Tonnen Lebensmittel , und die Deutschen versenkten jede Woche das Brot , das wir so nötig brauchten , im Ozean . 
+534	Our daily failure was announced at the chimes of midnight . 	Die Mitternachtsglocken verkündeten unser tägliches Scheitern . 
+535	And the sound would haunt our unwelcome dreams . 	Und ihr Klang geisterte durch unsere unerwünschten Träume . 
+536	Tick ... tock ... tick . 	Tick ... Tack ... Tick ... 
+537	Damn it ! 	Verdammt nochmal ! 
+538	What just happened ? 	- Was war das eben ? 
+539	Midnight , all the work we 've done today is useless . 	- Mitternacht . Unsere ganze Arbeit ist für die Katz . 
+540	Oh , but don 't worry , we 've a few hours before tomorrow 's messages start flooding in ... and we start all over again . 	Aber keine Sorge , es dauert , bis zu den nächsten Funksprüchen und wir fangen wieder an . 
+541	- From scratch . 	- Von ganz vorne . 
+542	- I 'm so sick of this . 	- Ich hab das so satt . 
+543	Four hours rewiring his plugboard matrix . 	4 Stunden , um sein Steckbrett zu verkabeln . 
+544	Three hours yesterday on his rotor positions ! 	Gestern drei Stunden für seine Rotoren . 
+545	- Don 't go over there . 	- Geh da nicht hin ! 
+546	- Look , John , no . 	- Weißt du was , John ? 
+547	If this job wasn 't already impossible before , it bloody well is now . 	War dieser Job vorher nicht unmöglich , - ist er es jetzt . 
+548	Hugh , don 't . 	- Hugh , mach das nicht ! 
+549	Damn you and your useless machine . 	Zum Teufel mit Ihnen und Ihrer Maschine ! 
+550	My machine is how we are going to win . 	- Sie hilft uns zu gewinnen . 
+551	Really ? 	- Ach ja ? 
+552	This machine ? 	Diese Maschine ? 
+553	Are you talking about this bloody machine ? ! 	Meinen Sie diese Scheißmaschine ? 
+554	- Hugh ! 	Nicht , Hugh ! 
+555	Hugh ! 	Nicht , Hugh ! 
+556	Hugh , don 't ! 	Nicht , Hugh ! 
+557	- Hugh ! 	
+558	Hugh ! 	- Aufhören ! 
+559	Stop ! 	- Aufhören ! 
+560	You arrogant bastard . 	- Sie arrogantes Schwein ! 
+561	You could help us . 	Sie könnten uns helfen . 
+562	You could make this go faster , but you won 't . 	Sie könnten es beschleunigen , aber nein . 
+563	Get off . 	Hau ab ! 
+564	He 's right , Alan . 	Er hat recht , Alan . 
+565	There are actual soldiers out there trying to win an actual war . 	Draußen sind Soldaten , die versuchen , den Krieg zu gewinnen . 
+566	My brother protects food convoys in the Navy . 	Mein Bruder sichert Lebensmittelconvoys in der Navy . 
+567	My cousins fly RAF patrols . 	Mein Cousins fliegen RAF- Patrouillen . 
+568	All my friends , they 're all making a difference , while we just while away our days producing nothing . 	All meine Freunde tragen etwas bei , während wir nur unsere Zeit vertrödeln und nichts zustande bringen . 
+569	Because of you . 	Ihretwegen . 
+570	My machine ... will work . 	Meine Maschine wird funktionieren . 
+571	Come on , Peter . 	Komm , Peter . 
+572	Okay . 	In Ordnung . 
+573	Joan ? 	Joan ! 
+574	Will you ... 	
+575	Could you make a bit more noise ? 	Gehts nicht etwas leiser ? 
+576	I 'm not quite sure my landlady woke up . 	- Meine Wirtin wacht auf . 
+577	- Oh , sorry . 	- Sorry . 
+578	- Oh ... look . 	
+579	I think that 's the best I can do . 	Mehr kann ich nicht tun . 
+580	No male visitors after dark . 	Kein Männerbesuch nach Dunkelwerden . 
+581	So ... what did you bring me ? 	Und ... was haben Sie mitgebracht ? 
+582	- There you go . 	So . 
+583	- Here . 	Hier . 
+584	Some men try flowers , you know . 	Manche versuchens mit Blumen . 
+585	These are actual decrypted Enigma messages direct from Nazi High Command . 	Das sind entschlüsselte Enigma- Funksprüche , direkt aus dem Nazi- Oberkommando . 
+586	" 0600 hours . 	6 Uhr , Wetter schön heute . 
+587	" Weather today is clear . 	6 Uhr , Wetter schön heute . 
+588	Rain in the evening . 	Am Abend Regen . 
+589	Heil Hitler . " 	Heil Hitler . 
+590	Well , clearly , that vital piece of information is going to win us the war . 	Diese Info wird uns zum Sieg verhelfen . 
+591	It 's the relationship between the encrypted and decrypted messages that interests me . 	Die Beziehung zwischen verschlüsseltem und entschlüsselten Funkspruch interessiert mich . 
+592	Can we find a clue here that we can build into Christopher ? 	Finden wir hier einen Schlüssel , den wir in " Christopher " einbauen können ? 
+593	- Who 's Christopher ? 	- Wer ist Christopher ? 
+594	- Oh , he 's my machine . 	- Meine Maschine . 
+595	You named him ? 	Sie haben ihr einen Namen gegeben ? 
+596	Is that a bad name ? 	Ist das ein schlechter Name ? 
+597	No . 	Nein . 
+598	No , never mind . 	Schon gut . 
+599	Are you trying to build your universal machine ? 	Wollen Sie Ihre Universalmaschine bauen ? 
+600	- I read your paper at university . 	Ich hab Ihre Abhandlung an der Uni gelesen . 
+601	- Is it already being taught ? 	Wird das schon gelehrt ? 
+602	No . 	
+603	No . 	
+604	No , I was precocious . 	Nein , ich war frühreif . 
+605	So ... you theorized a machine that could solve any problem . 	Sie theoretisierten über eine Maschine , die jedes Problem lösen kann ? 
+606	It didn 't just do one thing , it did everything . 	Die nicht nur eins kann , sondern alles ? 
+607	It wasn 't just programmable , it was reprogrammable . 	Die nicht nur programmierbar , sondern auch reprogrammierbar ist ? 
+608	Is that your idea behind Christopher ? 	Ist das die Idee hinter Christopher ? 
+609	Well , human brains can compute large sums very quickly ... even Hugh can do that ... but I want Christopher to be smarter . 	Das menschliche Gehirn kann große Summen schnell berechnen . Selbst Hugh kann das . Aber Christopher soll klüger sein . 
+610	To make a calculation and then ... to determine what to do next . 	Etwas berechnen und dann ... den nächsten Schritt bestimmen . 
+611	Like a person does . 	Genau wie ein Mensch . 
+612	Think of it . 	Überlegen Sie . 
+613	Electrical brain . 	Ein elektrisches Gehirn . 
+614	- A digital computer . 	Ein digitaler Rechner . 
+615	- Digital computer . 	Digitaler Rechner ? 
+616	What 's going on ? 	
+617	What 's happening ? 	Was geht hier vor ? 
+618	- No . 	
+619	No , no . 	
+620	No , no , no ! 	- Nein , nicht doch ! 
+621	Don 't touch that ! 	- Nein , nicht doch ! 
+622	- Stay back . 	- Zurück ! 
+623	That 's my desk . 	- Das ist mein Schreibtisch ! 
+624	Thank goodness . 	- Gott sei Dank ! 
+625	I 'd hate to think we were searching the wrong one . 	Nicht auszudenken , dass es der falsche wäre . 
+626	What are you doing ? 	Was geht hier vor ? 
+627	What 's going on ? 	Was geht hier vor ? 
+628	There is a spy in Bletchley Park . 	Es gibt einen Spion in Bletchley Park . 
+629	The Navy thinks that one of us is a Soviet double agent , Alan . 	Die Navy glaubt , dass einer von uns ein sowjetischer Doppelagent ist . 
+630	Why ? 	Wieso ? 
+631	Our boys intercepted this on its way to Moscow . 	Unsere Jungs haben das hier abgefangen . 
+632	Look familiar ? 	Kommt Ihnen das bekannt vor ? 
+633	It 's a Beale cipher . 	Das ist eine Beale- Chiffre . 
+634	Encrypted with a phrase from a book or a poem or ... 	Verschlüsselt mit einem Buch oder Gedicht . 
+635	You don 't seriously think I did this , do you ? 	Sie ... glauben doch nicht im Ernst , dass ich das gemacht habe ? 
+636	Double agents are such bastards . 	Doppelagenten sind solche Schweine . 
+637	Isolated loners . 	Isolierte Einzelgänger ohne Bindungen an Freunde oder Familie . 
+638	No attachments to friends or family . 	Isolierte Einzelgänger ohne Bindungen an Freunde oder Familie . 
+639	Arrogant . 	Arrogant . 
+640	Know anybody like that ? 	Kennen Sie so jemand ? 
+641	I ... 	Ich ... 
+642	I know you don 't like me , but that does not make me a Soviet spy . 	Ich weiß , Sie mögen mich nicht , aber das macht mich nicht zu einem sowjetischen Spion . 
+643	Nothing out of the ordinary , sir . 	Nichts Außergewöhnliches , Sir . 
+644	Really . 	Ach , nein ? 
+645	All right . 	Ach , nein ? 
+646	The Home Office may be protecting you now , but sooner or later you will make a mistake . 	Noch mag das Innenministerium Sie schützen , aber irgendwann machen Sie einen Fehler . 
+647	And I needn 't bother firing you . 	Dann muss ich Sie nicht feuern . 
+648	They will hang you for treason . 	Man wird Sie wegen Hochverrats hängen . 
+649	Hello . 	Hallo ! 
+650	I heard about what happened . 	Ich habe gehört , was passiert ist . 
+651	It 's all the girls in Hut 3 can talk about . 	Die Mädels in Hut 3 reden nur noch darüber . 
+652	I have an idea of what might cheer you up . 	Ich weiß , was Sie aufheitern könnte . 
+653	So , because no letter can be encoded as itself , there 's already a handful of settings that can be rejected at the outset . 	Ein Buchstabe wird nie mit sich selbst codiert , also fallen einige Einstellungen gleich weg . 
+654	- Is that your team ? 	Ist das Ihr Team ? 
+655	- Yes . 	- Ja . 
+656	- Shall we say hello ? 	- Sollen wir hallo sagen ? 
+657	- No . 	- Sollen wir hallo sagen ? 
+658	Hello . 	
+659	I told you not to do that . 	Ich sagte , Sie sollen das lassen . 
+660	Alan . 	Alan . 
+661	- Hugh , hello . 	- Hugh . 
+662	- Didn 't know you drank . 	Hallo . - Du trinkst ? 
+663	He doesn 't , really . 	Nicht wirklich . 
+664	He just sort of sips at the foam . 	Er nippt am Schaum . 
+665	Well , I' ll let you into a little secret , Miss ... ? 	Ich verrate Ihnen ein Geheimnis , Miss ... 
+666	- Clarke . 	- Clarke . 
+667	- Miss Clarke . 	- Clarke . 
+668	- Please . 	- Miss Clarke . 
+669	- Foam 's my favorite part , too . 	- Bitte ! Schaum mag ich auch am liebsten . 
+670	- Is it really ? 	- Ach ja ? 
+671	- Come and join us for a drink ? 	- Trinken Sie was mit uns ! 
+672	- We 'll be there in a moment . 	Wir sind gleich bei Ihnen . 
+673	- Miss Clarke . 	
+674	- Well , he likes you . 	Er mag Sie . 
+675	- Yes . 	- Ja . 
+676	You ... got him to like you . 	- Sie ... haben ihn dazu gebracht , Sie zu mögen . 
+677	- Yes . 	- Ja . 
+678	- Why ? 	- Warum ? 
+679	Because I 'm a woman in a man 's job , and I don 't have the luxury of being an ass . 	Ich bin eine Frau in einem Männerjob und kann mir nicht leisten , ein Arsch zu sein . 
+680	Alan ... it doesn 't matter how smart you are , Enigma is always smarter . 	Alan , ganz egal , wie klug man ist , Enigma ist immer klüger . 
+681	If you really want to solve your puzzle , then you 're going to need all the help you can get , and they are not going to help you if they do not like you . 	Wenn Sie wirklich Ihr Rätsel lösen wollen , brauchen Sie jedwede Hilfe . Und sie werden Ihnen nicht helfen , wenn sie Sie nicht mögen . 
+682	- What are those ? 	- Was sind das ? 
+683	- Apples . 	- Äpfel . 
+684	- No . 	- Nein ! 
+685	- Oh , they really are . 	- Doch , wirklich . 
+686	I ... well , Miss Clarke , Joan actually ... said that it would be ... nice if I was to bring you all something . 	Ich ... Miss Clarke , bzw . Joan ... hat gesagt , es wäre nett , wenn ich Ihnen etwas bringen würde . 
+687	So , here we are . 	Also , bitteschön . 
+688	I ... 	Also , bitteschön . 
+689	Thank you . 	- Danke . 
+690	I like apples . 	- Ich mag Äpfel . 
+691	My best to Miss Clarke . 	Alles Gute für Miss Clarke . 
+692	There are two people in a wood , and they run into a bear . 	Zwei Menschen sind in einem Wald und stoßen auf einen Bären . 
+693	The first person gets down on his knees to pray . 	Der Erste kniet sich hin , um zu beten , der Zweite schnürt seine Stiefel zu . 
+694	The second person starts lacing up his boots . 	Der Erste kniet sich hin , um zu beten , der Zweite schnürt seine Stiefel zu . 
+695	The first person asks the second person , " My dear friend , what are you doing ? 	Der Erste fragt den Zweiten : Mein Freund , was machst du ? 
+696	You can 't outrun a bear . " 	Vor dem Bären kannst du nicht weglaufen . 
+697	To which the second person responds , 	Der Zweite antwortet : 
+698	" I don 't have to . 	Muss ich auch nicht , ich muss vor dir weglaufen . 
+699	I only have to outrun you . " 	Muss ich auch nicht , ich muss vor dir weglaufen . 
+700	I' ll be with Christopher , if anyone needs me . 	Ich bin bei Christopher , wenn mich jemand braucht . 
+701	If we assume that the square root of two is a rational number , then we can say that the square root of two is A over B ... where A and B are whole numbers and B is not zero . 	Angenommen , die Quadratwurzel aus 2 ist eine rationale Zahl , dann ist die Quadratwurzel aus 2 A durch B . Wobei A und B ganze Zahlen sind , und B nicht Null ist . 
+702	- Mr . 	Mr . 
+703	Turing , passing notes , are we ? 	Turing , geben wir Zettelchen weiter ? Nein , Sir . 
+704	- No , sir . 	
+705	Only Turing would pass notes written in gibberish . 	Nur Turing würde Nachrichten als Buchstabensalat weitergeben . 
+706	All right , gentlemen , do not forget your algebra over the break . 	Okay , meine Herren , vergessen Sie nicht Ihr Algebra . 
+707	Have a pleasant holiday , and we 'll resume your irrationals when you return . 	Schöne Ferien ! Wir fahren mit den irrationalen Zahlen fort , wenn Sie zurück sind . 
+708	But Euler 's Theorem gives you that immediately . 	Aber Eulers Theorem zeigt das sofort . 
+709	Here . 	Hier . 
+710	Look at this . 	Sehen Sie sich das an . 
+711	If you run the wires across the plugboard matrix diagonally , it will eliminate rotor positions 500 times faster . 	Zieht man die Kabel quer übers Steckbrett , löscht es die Rotorpositionen 500 Mal schneller . 
+712	That 's ... actually not an entirely terrible idea . 	Das ist ... in der Tat keine ganz schlechte Idee . 
+713	I think that was Alan for " thank you . " 	Das war wohl danke auf " Alan " . 
+714	- That 's my sandwich . 	Das ist mein Sandwich . 
+715	- You don 't like sandwiches . 	Sie mögen doch keine Sandwiches . 
+716	You nervous ? 	Sind Sie nervös ? 
+717	What happens now ? 	Was passiert jetzt ? 
+718	It should work out the day 's Enigma settings . 	Sie sollte die heutige Enigma- Einstellung ausspucken . 
+719	How long ? 	Wie lange noch ? 
+720	Sieg Heil ! 	
+721	The German Army has fanned out across Europe , from Poland to Serbia , Lithuania to Denmark , Norway to France . 	Die deutsche Armee breitet sich in Europa aus . Von Polen bis Serbien , Litauen bis Dänemark , von Norwegen bis Frankreich . 
+722	The Nazi flag now flies from more than two dozen national capitals . 	Die Nazifahne weht jetzt über mehr als zwei Dutzend Hauptstädten . 
+723	Their campaign mounts in fury as a free Europe crumbles . 	Ihr Feldzug wird zur Raserei und zerstört das freie Europa . 
+724	Oh , it 's still going . 	Sie arbeitet immer noch . 
+725	- Good morning , sir . 	- Guten Morgen , Sir . 
+726	- Morning , Margaret . 	- Morgen , Margaret . 
+727	Gears keep spinning on and on . 	Die Räder laufen und laufen . 
+728	Rotors on and on . 	Die Rotoren auch . 
+729	It 's endless . 	Es nimmt kein Ende . 
+730	- With no result in sight ? 	Und kein Ergebnis in Sicht ? 
+731	- No . 	Nein . 
+732	Turing . 	Turing ! 
+733	- Turing , open the bloody door . 	Machen Sie die Tür auf ! 
+734	- No . 	Nein ! 
+735	No . 	Nein ! 
+736	Open the door or we 'll break it down . 	Aufmachen , oder wir schlagen die Tür ein ! 
+737	I can 't let you in ! 	Das geht nicht . 
+738	I cannot let you interfere . 	Sie dürfen sich nicht einmischen . 
+739	Go on , then . 	Dann mal los ! 
+740	Turn that thing off . 	Schalten Sie das Ding ab ! 
+741	No . 	Nein . 
+742	Don 't , please . 	Nicht , bitte . 
+743	Please . 	Bitte ! 
+744	Please ! 	Bitte ! 
+745	Please ! 	Nein ! 
+746	No ! 	Nein , nicht ! 
+747	No . 	Nein , nicht ! 
+748	No ! 	Nein , nicht ! 
+749	Well , then , it seems that your great big expensive machine doesn 't work . 	Nun denn ... Ihre große , teure Maschine scheint nicht zu funktionieren . 
+750	- It does . 	Doch . 
+751	- Wonderful . 	Wunderbar . 
+752	So , you 've broken Enigma , then ? 	Dann haben Sie Enigma geknackt ? 
+753	It was just ... still working . 	Eben hat sie noch ... funktioniert . 
+754	This is my associate from the Home Office . 	Das ist mein Kollege aus dem Innenministerium . 
+755	You see , a hundred thousand pounds is rather a lot of money , and he 's here to see what you have to show for it . 	Hunderttausend Pfund ist eine Menge Geld . Er will sehen , was Sie vorzuweisen haben . 
+756	You ... will never understand the importance of what I am creating here ! 	Sie werden niemals verstehen , wie wichtig es ist , was ich hier mache . 
+757	Have you decrypted any German messages ? 	Haben Sie deutsche Funksprüche geknackt ? 
+758	A single one ? 	Einen einzigen ? 
+759	Can you point to anything at all that you 've achieved ? 	Haben Sie überhaupt irgendetwas erreicht ? 
+760	Your funding is up , and our patience is expired . 	Mit Ihrem Geld ist jetzt Schluss , und unsere Geduld ist am Ende . 
+761	It 's with such great pleasure that I am finally able to say this . 	Mit größtem Vergnügen kann ich endlich sagen : 
+762	Alan Turing , you 're fired . 	Alan Turing , Sie sind gefeuert . 
+763	Please escort Mr . 	Bitte begleiten Sie Mr . 
+764	Turing from the premises . 	Turing hinaus . 
+765	No . 	Nein ! 
+766	I beg your pardon ? 	Wie bitte ? 
+767	If you fire Alan ... well , then you 'll have to fire me , too . 	Wenn Sie Alan feuern , müssen Sie mich auch feuern . 
+768	What on earth are you saying ? 	Was sagen Sie da ? 
+769	Trust me when I tell you there is no one who would rather say this less than I do , but ... he 's right . 	Glauben Sie mir , es gibt keinen , der das lieber nicht sagen würde , aber ... er hat recht . 
+770	Alan is right . 	Alan hat recht . 
+771	His machine can work , and it 's probably the best chance that we 've got . 	Seine Maschine kann funktionieren und ist vermutlich unsere beste Chance . 
+772	God , it 's beyond belief . 	Gott , das ist doch nicht zu fassen ! 
+773	If you fire them ... you 'll have to fire me , too . 	Wenn Sie sie feuern , müssen Sie mich auch feuern . 
+774	And me . 	Mich auch . 
+775	We 're the best cryptographic minds in Britain . 	Wir sind die besten Kryptographen in Großbritannien . 
+776	Are you going to fire us all ? 	Feuern Sie uns alle ? 
+777	Commander , at least give us some more time . 	Geben Sie uns wenigstens noch etwas Zeit . 
+778	Six months , and if the machine doesn 't produce any results that we need , then we 'll go back to doing things the old way . 	6 Monate , und wenn die Maschine bis dahin nichts Brauchbares geliefert hat , machen wirs auf die alte Art . Wie wäre das ? 
+779	How about that ? 	
+780	One month . 	Einen Monat . 
+781	And then , so help me God , you 're all gone . 	Dann sind Sie hoffentlich alle weg . 
+782	Oh , leave him . 	Lassen Sie ihn in Ruhe . 
+783	- Thank you . 	Danke . 
+784	- You 're welcome . 	Bitte . 
+785	Oh , and , Alan , your machine ... it better bloody work . 	Und Ihre Maschine , Alan ... hätte lieber funktionieren sollen . 
+786	Hugh . 	Hugh , ich schwöre , ich bin kein Spion . 
+787	I swear ... 	Hugh , ich schwöre , ich bin kein Spion . 
+788	I 'm not a spy . 	Hugh , ich schwöre , ich bin kein Spion . 
+789	Oh , for God 's sake , of course you 're not a bloody spy . 	Um Himmels willen , natürlich nicht . 
+790	What ? 	- Wie ? 
+791	Denniston gave me the Beale cipher , and guess what ? 	- Denniston gab mir die Beale- Chiffre , und weißt du was ? Ich hab sie geknackt . 
+792	I cracked it . 	
+793	" Ask , and it shall be given to you ; seek and ye shall find . " Matthew 7 : 7 . 	Bittet , so wird euch gegeben . Suchet , so werdet ihr finden . 
+794	That was the key . 	Das war der Schlüssel . 
+795	Far too simple for the likes of you . 	Viel zu einfach für jemanden wie dich . 
+796	Pity Denniston disagrees . 	Schade , dass Denniston anderer Meinung ist . 
+797	Come in . 	Herein ! 
+798	Sir , I think I' ve got Turing . 	Sir , ich glaube , ich hab Turing am Haken . 
+799	I tailed him to a pub last night , where he met a bloke . 	Ich folgte ihm in einen Pub , wo er einen Kerl traf , der ihm einen Umschlag gab . 
+800	They exchanged an envelope . 	Ich folgte ihm in einen Pub , wo er einen Kerl traf , der ihm einen Umschlag gab . 
+801	So , I follow this other fella , pick him up , give him a good shake . 	Ich folgte dem anderen , nahm ihn fest und hab ihn mir ordentlich vorgenommen . 
+802	- He 's a poofter . 	Er ist eine Schwuchtel . 
+803	He confessed . 	Er hats gestanden . 
+804	- What ? 	Was ? 
+805	The man admitted it . 	Er hat es zugegeben . 
+806	Arnold Murray . 	Arnold Murray . 
+807	Hangs around that pub ; men pay him for a go . 	Hängt bei dem Pub rum . Männer bezahlen ihn für Sex . 
+808	Turing 's one of the men that paid . 	Turing war einer davon . 
+809	Only Mr . 	Turing war einer davon . 
+810	Murray here then has the bright idea of robbing Turing 's house after , with a friend . 	Dann hatte Mr . Murray die tolle Idee , mit einem Freund bei Turing einzubrechen . 
+811	That 's what Turing 's hiding . 	Das ist es , was Turing verbirgt . 
+812	Well , he 's a poof , not a spy . 	Er ist eine Tunte , kein Spion . 
+813	- No . 	Non ! 
+814	- What 's the matter ? 	Non ! 
+815	We can charge a university professor with indecency . 	Wir kriegen ihn wegen Unschicklichkeit ran . 
+816	No , this is ... it 's bloody rubbish . 	Das ist barer Unsinn . 
+817	Turing 's up to something important ... 	Er hat Wichtiges vor . 
+818	He 's committed a crime and he 's broken the law . 	Er hat gegen das Gesetz verstoßen . 
+819	And with a bloke . 	War mit einem Mann zusammen . 
+820	Jesus Christ , it 's bloody disgusting . 	Mein Gott , ist das widerlich ! 
+821	This isn 't the investigation I was conducting . 	Das sollten wir nicht ermitteln . 
+822	- Bring him in . 	- Hol ihn her ! 
+823	- Wait . 	- Warten Sie ! 
+824	Let me interrogate him . 	Lassen Sie mich ihn verhören . 
+825	Please . 	Bitte . 
+826	Give me half an hour alone , and then I swear , 	Geben Sie mir 30 Minuten . 
+827	I' ll spend the next month running errands on as many rubbish cases as you like . 	Dann kümmere ich mich den nächsten Monat um so viele langweilige Fälle , wie Sie wollen . 
+828	Fine . 	Gut . 
+829	Now , will someone get me a warrant for the arrest of Alan Turing . 	Jetzt besorg mir mal einer einen Haftbefehl für Alan Turing . 
+830	Alan ? 	Alan ? 
+831	Christopher 's simply not moving fast enough . 	Christopher ist einfach nicht schnell genug . 
+832	We should talk . 	Wir müssen reden . 
+833	And even with the diagonal board , he 's still not eliminating settings as quickly 	Selbst mit einem diagonalen Steckbrett löscht er die Einstellungen zu langsam . 
+834	- as we need him to in order ... 	Ich gehe . 
+835	- I 'm leaving . 	Sie sind doch eben erst gekommen . 
+836	But you 've just walked in . 	Sie sind doch eben erst gekommen . 
+837	No . 	Nein . 
+838	No . 	Nein , ich verlasse Bletchley . 
+839	Bletchley . 	Nein , ich verlasse Bletchley . 
+840	- What ? 	- Wie ? 
+841	- It 's my parents . 	- Wegen meiner Eltern . 
+842	I 'm 25 , I 'm unmarried , I 'm living alone , and they want me home . 	Ich bin 25 und unverheiratet . Sie wollen , dass ich nach Hause komme . 
+843	- That 's ridiculous . 	Das ist doch lächerlich . 
+844	- That 's my parents . 	So sind meine Eltern . 
+845	You ... you can 't leave . 	Das geht nicht . 
+846	I won 't let you . 	Ich lasse Sie nicht . 
+847	" I' ll miss you . " That 's what a normal person might say in this situation . 	" Ich werde Sie vermissen . " Das würde ein normaler Mensch sagen . 
+848	- I don 't care what is normal . 	Was normal ist , ist mir schnuppe . 
+849	- What am I supposed to do , Alan ? 	Was soll ich machen , Alan ? 
+850	I will not ... give up my parents . 	Auf meine Eltern verzichte ich nicht . 
+851	You ... you have an opportunity here to make some actual use of your life . 	Hier haben Sie die Chance , etwas aus Ihrem Leben zu machen . 
+852	And end up like you ? 	Um so zu enden wie Sie ? 
+853	No , thanks . 	Nein , danke . 
+854	I 'm sorry you 're lonely . 	Es tut mir leid , dass Sie einsam sind . 
+855	But Enigma will not save you . 	Aber Enigma wird Sie nicht retten . 
+856	Can you decipher that , you fragile narcissist ? 	Können Sie das entschlüsseln , Sie Narzisst ? 
+857	Or would you like me to go and fetch your precious Christopher to help ? 	Oder soll Ihr kostbarer Christopher Ihnen helfen ? 
+858	I 'm sorry . 	Verzeihung . 
+859	I want you ... 	Ich will , das Sie bleiben , weil ich Sie mag . 
+860	I want you to stay because I like you . 	Ich will , das Sie bleiben , weil ich Sie mag . 
+861	I like ... talking to you . 	Ich mag gerne mit Ihnen reden . 
+862	I like talking to you , too , Alan . 	Ich rede auch gern mit Ihnen , Alan . 
+863	And what if you weren 't alone ? 	Was wäre , wenn Sie nicht alleine wären ? 
+864	What if you had a husband ? 	Wenn Sie einen Mann hätten ? 
+865	Do you have one in mind ? 	Haben Sie einen im Auge ? 
+866	I do . 	Ja . 
+867	Hugh ? 	Hugh ? 
+868	Hugh 's terribly attractive , I' ll give you that , but ... 	Hugh ist wahnsinnig attraktiv , aber kein Mann zum Heiraten . 
+869	I don 't really think he 's the marrying kind . 	Hugh ist wahnsinnig attraktiv , aber kein Mann zum Heiraten . 
+870	- No , I wasn 't thinking of Hugh . 	- Nein , Hugh meinte ich nicht . - Oder Peter ? 
+871	- Or Peter . 	Peter ist so ruhig . 
+872	Peter 's so quiet . 	Peter ist so ruhig . 
+873	- Oh , my God . 	Oh , Gott . 
+874	- But this makes sense . 	Das macht Sinn . 
+875	- Did you just propose to me ? 	War das ein Heiratsantrag ? 
+876	- Well , it is the logical thing to do . 	- Das liegt doch nahe . 
+877	- This is ridiculous . 	- Das ist lächerlich . 
+878	- This is your parents . 	Das liegt an Ihren Eltern . 
+879	I can 't ... believe that this is happening . 	Ich glaube nicht , was hier passiert . 
+880	Joan ... 	Joan , ist Ihr zweiter Name Caroline oder Catherine ? 
+881	- Is your middle name Caroline or Catherine ? 	Joan , ist Ihr zweiter Name Caroline oder Catherine ? 
+882	- Elizabeth . 	Elizabeth . 
+883	Joan Elizabeth ... 	Joan Elizabeth ... 
+884	Clarke ... 	Clarke ... 
+885	will you marry me ? 	wollen Sie mich heiraten ? 
+886	It 's beautiful . 	Der ist wunderschön . 
+887	Well , I know it isn 't ordinary , but ... whoever loved ordinary ? 	Ich weiß , er ist nicht alltäglich , aber ... Wer will schon was Alltägliches ? 
+888	She had it in both hands ... and she looked up at me with her doe eyes and said , 	Sie hielt ihn in beiden Händen , sah mich mit ihren Rehaugen an und sagte : 
+889	" Am I supposed to put that in my mouth ? " 	" Soll ich den in den Mund nehmen ? " 
+890	And I said , " Yes . 	Und ich sagte : " Ja . 
+891	You know , the French way . " 	Auf französische Art . " 
+892	So , she pops it in , clamps her lips around it , and starts humming the bloody Marseillaise . 	Sie schiebt ihn rein , zwischen ihre Lippen , und fängt an , die Marseillaise zu summen . 
+893	Come have a dance . 	Komm tanzen ! 
+894	No , no , no , you can dance with your fiance anytime you like . 	Nein , Sie können immer mit ihm tanzen . 
+895	Right now , this moment ... my turn . 	Jetzt , in diesem Moment , bin ich dran . 
+896	What 's the matter ? 	Was ist denn ? 
+897	What if ... 	Was ist , wenn ... 
+898	What if I don 't fancy being ... with Joan in that way ? 	Was ist , wenn ich nicht ... auf die Art mit Joan zusammensein mag ? 
+899	Because you 're a homosexual ? 	Weil du homosexuell bist ? 
+900	I suspected . 	Das hab ich geahnt . 
+901	Well , should I tell her that I' ve had ... affairs with men ? 	Soll ich ihr sagen , dass ich was mit Männern hatte ? 
+902	You know , in my ... admittedly limited experience , women ... tend to be a bit touchy about accidentally marrying homosexuals . 	Nach meiner zugegeben geringen Erfahrung sind Frauen leicht zickig , wenn sie aus Versehen einen Schwulen heiraten . 
+903	Perhaps not spreading this information about might be in your best interest . 	Diese Informationen solltest du vielleicht besser zurück halten . 
+904	I care for her , I truly do . 	Ich hab sie wirklich gerne . 
+905	I ... 	
+906	I ... 	Aber ich weiß nicht , ob ich ihr etwas vortäuschen kann . 
+907	I just don 't know if I can ... 	Aber ich weiß nicht , ob ich ihr etwas vortäuschen kann . 
+908	- ... pretend . 	Aber ich weiß nicht , ob ich ihr etwas vortäuschen kann . 
+909	- You can 't tell anyone , Alan . 	Du darfst keinem was davon sagen , Alan . 
+910	It 's illegal . 	Das ist strafbar . 
+911	And Denniston is looking for any excuse he can to put you away . 	Und Denniston sucht nach einem Vorwand , dich wegzusperren . 
+912	- I know . 	- Ich weiß . 
+913	- This has to stay a secret . 	- Es muss ein Geheimnis bleiben . 
+914	Come on , it 's your turn . 	Komm , jetzt bist du an der Reihe ! 
+915	Okay . 	
+916	- Cup of tea ? 	Einen Tee ? 
+917	- No , thank you . 	Nein , danke . 
+918	Mr . 	
+919	Turing , can I tell you a secret ? 	Kann ich Ihnen ein Geheimnis anvertrauen ? 
+920	- I 'm quite good with those . 	Das ist bei mir gut aufgehoben . 
+921	- I 'm here to help you . 	Ich bin hier , um Ihnen zu helfen . 
+922	Oh , clearly . 	Ja , bestimmt . 
+923	Can machines think ? 	Können Maschinen denken ? 
+924	Oh , so , you 've read some of my published works ? 	Sie haben was von meinen Arbeiten gelesen ? 
+925	What makes you say that ? 	Wie kommen Sie darauf ? 
+926	Well , because I 'm sitting in a police station , accused of entreating a young man to touch my penis and you just asked me if machines can think . 	Weil ich auf einer Polizeiwache bin , beschuldigt , einen Mann gebeten zu haben , meinen Penis anzufassen , und Sie mich fragen , ob Maschinen denken können . 
+927	Well , can they ? 	Und , können sie ? 
+928	Could machines ever think as human beings do ? 	Können Maschinen je so denken wie Menschen ? 
+929	Most people say not . 	Die meisten halten das für unmöglich . 
+930	You 're not most people . 	Sie sind nicht die meisten . 
+931	Well , the problem is you 're ... asking a stupid question . 	Das Problem ist : Sie stellen eine dumme Frage . 
+932	I am ? 	- Tu ich das ? 
+933	Of course machines can 't think as people do . 	- Natürlich können Maschinen nicht denken wie Menschen . 
+934	A machine is different ... from a person . 	Eine Maschine ist anders als ein Mensch . 
+935	Hence , they think differently . 	Also denken sie auch anders . 
+936	The interesting question is , just because something thinks differently from you , does that mean it 's not thinking ? 	Die interessante Frage ist : Nur weil etwas anders denkt als Sie , denkt es darum nicht ? 
+937	Well , we allow for humans to have such divergences from one another . 	Bei Menschen akzeptieren wir solche Divergenzen . 
+938	You like strawberries , I hate ice- skating , you ... cry at sad films , 	Sie mögen Erdbeeren , ich hasse Schlittschuhe . Sie weinen bei traurigen Filmen , ich bin allergisch auf Pollen . 
+939	I ... am allergic to pollen . 	
+940	What is the point of different tastes , different ... preferences if not to say that our brains work differently , that we think differently ? 	Was haben unterschiedlicher Geschmack , unterschiedliche Vorlieben für einen Sinn , wenn nicht den , zu sagen , dass unsere Gehirne unterschiedlich arbeiten , dass wir unterschiedlich denken ? 
+941	If we can say that about one another , then why can 't we say the same thing for brains ... built of copper and wire , steel ? 	Wenn wir das von uns sagen können , warum gilt dann nicht dasselbe für Gehirne aus Kupfer , Draht und Stahl ? 
+942	And that 's ... this big paper you wrote ? 	Und das ist ... Ihr großer Aufsatz ? Welchen Titel hat er ? 
+943	What 's it called ? 	
+944	" The Imitation Game . " 	Das Spiel der Imitation . 
+945	Right , that 's ... that 's what it 's about ? 	Darum geht es ? 
+946	- Would you like to play ? 	Mögen Sie etwas spielen ? 
+947	- Play ? 	- Spielen ? 
+948	It 's a game . 	- Es ist ein Spiel . 
+949	A test of sorts . 	Eine Art Test . 
+950	For determining whether something is a ... a machine or a human being . 	Um festzustellen , ob etwas ... eine Maschine oder ein Mensch ist . 
+951	How do I play ? 	Wie spielt man das ? 
+952	Well , there 's a judge and a subject , and ... the judge asks questions , and ... depending on the subject 's answers , determines who he is talking with ... what he is talking with , and ... 	Es gibt einen Richter und eine Testperson . Der Richter stellt Fragen , und , abhängig von den Antworten der Testperson , bestimmt er , mit wem er spricht , oder mit was er spricht , und ... 
+953	All you have to do is ask me a question . 	Sie müssen mir nur eine Frage stellen . 
+954	- What did you do during the war ? 	Was haben Sie während des Kriegs gemacht ? 
+955	- I worked in a radio factory . 	Ich habe in einer Radiofabrik gearbeitet . 
+956	What did you really do during the war ? 	Und was haben Sie wirklich gemacht ? 
+957	Are you paying attention ? 	Hören Sie mir zu ? 
+958	Damn it ! 	Verdammt ! 
+959	We 're soon out of time . 	Unsere Zeit ist bald um . 
+960	A month . 	Ein Monat . 
+961	So , that 's it , then , is it ? 	Und das wars dann ? 
+962	Oh , the trouble is , it doesn 't matter how much we improve it . 	Ganz gleich , wie viel wir verbessern , die Maschine schafft es nie , 150 Billionen Möglichkeiten zu prüfen . 
+963	The machine 's never gonna be able to process 159 million million million possibilities in time . 	Ganz gleich , wie viel wir verbessern , die Maschine schafft es nie , 150 Billionen Möglichkeiten zu prüfen . 
+964	It 's just bloody hopeless . 	Es ist einfach hoffnungslos . 
+965	It 's searching . 	Sie sucht , aber ... sie weiß nicht , wonach . 
+966	It 's just ... 	Sie sucht , aber ... sie weiß nicht , wonach . 
+967	It ... doesn 't know what it 's searching for . 	Sie sucht , aber ... sie weiß nicht , wonach . 
+968	If we knew what the messages were going to say ... 	Wüssten wir , wie die Funksprüche lauten ... 
+969	If we knew what the messages were going to say , we wouldn 't have to decrypt them at all . 	Dann bräuchten wir sie nicht zu knacken . 
+970	Who 's Alan´s friend ? 	Wer ist der Freund von Alan ? 
+971	Hugh . 	
+972	He 's a bit of a cad , actually . 	Hugh . Er hat was von einem Flegel . 
+973	So , my type , then ? 	Also mein Typ . 
+974	- Well , I' ll introduce you . 	- Ich stell ihn dir vor . - Nein ! 
+975	- No . 	
+976	He 'll come over . 	Der kommt schon . 
+977	- Are you sure ? 	- Bist du sicher ? 
+978	- Yes . 	- Bist du sicher ? 
+979	I smiled at him 15 minutes ago and haven 't looked back since . 	- Ja . Ich hab ihn angelächelt und dann nicht mehr hingesehen . 
+980	Who 's that with Joan ? 	Wer ist das da bei Joan ? 
+981	Helen . 	Helen . 
+982	Works with her . 	Eine Arbeitskollegin . 
+983	- She 's really pretty . 	Sie ist sehr hübsch . 
+984	- She wants me to come over . 	Sie will , dass ich zu ihnen komme . 
+985	What ? 	Sie will , dass ich zu ihnen komme . 
+986	How on earth can you know that ? 	Woher weißt du das denn ? 
+987	She smiled at me a while back and she hasn 't looked again since . 	Sie hat mich angelächelt und hat dann nicht mehr hergesehen . 
+988	And got him . 	Ich hab ihn am Haken . 
+989	Now , why is this , that when I was single I found it very boring , but now that I 'm engaged , I just find it dreadfully fun . 	Wie kommt das ? Als ich solo war , fand ich es stinklangweilig , aber jetzt , wo ich verlobt bin , macht es mir Riesenspaß . 
+990	Bingo . 	Bingo , sie hat angebissen . 
+991	She 's in . 	Bingo , sie hat angebissen . 
+992	- Alan , introduce us . 	- Alan , stell uns vor . 
+993	- What ? 	- Was ? 
+994	Why me ? 	Warum ich ? 
+995	Because there 's nothing like a friend 's engagement to make a woman want to do something she 'll later regret with the fiance 's better looking chum . 	Weil die Verlobung einer Freundin eine Frau etwas tun lässt , was sie bereut , mit dem gut aussehenden Kumpel der Freundin . 
+996	Let 's go . 	Gehen wir . 
+997	Half a crown says Alan bollixes this up entirely . 	Eine Halbkrone darauf , Alan schaffts nicht . 
+998	No bet . 	Jede Wette . 
+999	- Alan Turing has a theory . 	Alan Turing hat eine Theorie . 
+1000	- He has many . 	Er hat viele . 
+1001	He believes that the regulations against men and women working side by side are sound because such proximity will necessarily lead to romance . 	Er findet die Regelung , dass Männer und Frau nicht zusammenarbeiten , vernünftig , weil das unweigerlich zu Affären führt . 
+1002	What ? 	Finde ich nicht . 
+1003	No , I don 't . 	Finde ich nicht . 
+1004	I ... 	Finde ich nicht . 
+1005	- However I disagree . 	Ich bin nicht der Meinung . 
+1006	- You do ? 	- Wirklich ? 
+1007	Yeah . 	- Wirklich ? 
+1008	I think that if I were working beside a woman all day long , 	- Ja . Arbeite ich mit einer Frau zusammen , 
+1009	I could appreciate her abilities and intellect without taking her to bed . 	lerne ich , ihre Fähigkeiten zu schätzen , ohne mit ihr ins Bett zu gehen . 
+1010	I 'm sorry , have we met ? 	Kennen wir uns ? 
+1011	I don 't recall . 	Ich kann mich nicht erinnern . 
+1012	But let 's assume we haven 't . 	Ich kann mich nicht erinnern . 
+1013	Helen Stewart . 	Helen Stewart , Hugh Alexander . 
+1014	Hugh Alexander . 	Helen Stewart , Hugh Alexander . 
+1015	So , who do you agree with , Alan or myself ? 	Wer hat recht , Alan oder ich ? 
+1016	Well , Alan , of course . 	Alan natürlich . 
+1017	I 'm very flattered , really , but I don 't think ... 	Sie schmeicheln mir , aber ich glaube nicht ... 
+1018	Rubbish . 	Unsinn . 
+1019	Well , I work beside a man every day , and I can 't help but have developed a bit of a crush on him . 	Ich arbeite mit einem Mann zusammen und muss sagen , ich bin ein wenig verknallt . 
+1020	Well , who is this man ? 	Dem Mann will ich in den Arsch treten . 
+1021	So I can kick his arse . 	Dem Mann will ich in den Arsch treten . 
+1022	Well , there 's no need to worry , it 's been chaste . 	Keine Sorge , es ist ganz züchtig . 
+1023	We 've never even met . 	Wir haben uns nie gesehen . 
+1024	He 's a German . 	Er ist Deutscher . 
+1025	Now I really want to kill him . 	Jetzt will ich ihn umbringen ! 
+1026	How do you mean you work alongside a German ? 	Wieso arbeiten Sie mit einem Deutschen ? 
+1027	Well , each of us intercepts messages from a specific German radio tower . 	Jede von uns fängt Funksprüche von einer bestimmten deutschen Funkstation auf . 
+1028	So , we have a counterpart on the other side who 's tip- tapping out the messages . 	Ein Pendant auf der anderen Seite , der unsere Funksprüche abgreift . 
+1029	Everyone types a touch differently , so you get to know the rhythm of your counterpart . 	Jeder tippt ein bisschen anders , darum bekommt man seinen Rhythmus mit . 
+1030	It 's strangely intimate . 	Das ist auf seltsame Weise intim . 
+1031	I feel as if I know him so well . 	Ich hab das Gefühl , ich kenne ihn genau . 
+1032	It 's a pity he has a girlfriend , but that 's why I disagree with you , Mr . 	Schade , dass er eine Freundin hat . 
+1033	Alexander . 	Deshalb bin ich nicht Ihrer Meinung , da ich in eine Art Kollegen verliebt bin , den ich nie gesehen habe . 
+1034	Because I 'm in love with a coworker of sorts , and we 've never even met . 	Deshalb bin ich nicht Ihrer Meinung , da ich in eine Art Kollegen verliebt bin , den ich nie gesehen habe . 
+1035	Well , allow me to buy you another pint , and I' ll tell you why you 're wrong . 	Darf ich Sie auf ein Bier einladen , und Ihnen sagen , warum Sie unrecht haben ? 
+1036	Let 's . 	- Okay . 
+1037	Excellent . 	- Exzellent . 
+1038	Thanks . 	Danke , Sir . 
+1039	Pints . 	
+1040	Have you got any sloe gin ? 	
+1041	In case you were wondering , that 's what flirting looks like . 	Falls du dich wunderst , so sieht flirten aus . 
+1042	Helen ... 	Helen ! 
+1043	Alan ? 	
+1044	Yes , Alan ? 	Ja , Alan ? 
+1045	Why do you think your German counterpart has a girlfriend ? 	Wieso glaubst du , dass dein Pendant eine Freundin hat ? 
+1046	- It 's just a stupid joke , don 't worry . 	- Ein blöder Witz . 
+1047	- No , no , no , no . 	- Nein , sag es mir . 
+1048	Tell me . 	- Nein , sag es mir . 
+1049	Well , each of his messages begins with the same five letters : 	Alle seine Funksprüche beginnen mit 
+1050	C- I- L- L- Y . 	C - I- L- L- Y . 
+1051	So , I suspect that Cilly must be the name of his amore . 	Darum ist Cilly vermutlich der Name 
+1052	But that 's impossible . 	- seiner Freundin . - Unmöglich . 
+1053	The Germans are instructed to use five random letters 	Die Deutschen müssen 5 beliebige Buchstaben an den Anfang stellen . 
+1054	- at the start of every message . 	Die Deutschen müssen 5 beliebige Buchstaben an den Anfang stellen . 
+1055	- Well , this bloke doesn 't . 	Er tut das nicht . 
+1056	Love will make a man do strange things , I suppose . 	Liebe lässt Männer seltsame Dinge tun . 
+1057	In this case , love just lost Germany the whole bloody war . 	Wenn das so ist , hat Deutschland gerade den Krieg verloren . 
+1058	Go , Peter . 	Nichts wie weg , Peter ! 
+1059	Sorry . 	Tut mir leid . 
+1060	Alan ! 	Alan ! 
+1061	Alan ! 	
+1062	Alan ! 	Halt ! Halt ! 
+1063	I just want ... 	
+1064	Hugh Alexander . 	Hugh Alexander , John Cairncross , Peter Hilton . 
+1065	John Cairncross . 	Hugh Alexander , John Cairncross , Peter Hilton . 
+1066	Peter bloody Hilton . 	Hugh Alexander , John Cairncross , Peter Hilton . 
+1067	Alan ? 	Alan ? 
+1068	What ... ? 	
+1069	What ... 	
+1070	What if ... what if Christopher doesn 't have to search through all of the settings ? 	Was ist , wenn Christopher nicht alle Einstellungen durchsuchen muss ? 
+1071	What if he only has to search through ones that produce words we already know will be in the message ? 	Wenn er nur die durchsuchen muss , die Wörter generieren , von denen wir wissen , 
+1072	- Repeated words , predictable words . 	- sie sind in dem Funkspruch ? - Wiederholte , - vorhersehbare Wörter ? 
+1073	- Exactly . 	- Genau . 
+1074	Look , look , like this one . 	Wie das hier . 
+1075	" 0600 hours . 	" 6 Uhr , Wetter schön , abends Regen . 
+1076	Weather today is clear . 	" 6 Uhr , Wetter schön , abends Regen . 
+1077	Rain in the evening . 	" 6 Uhr , Wetter schön , abends Regen . 
+1078	Heil Hitler . " 	Heil Hitler ! " 
+1079	Well , that 's it . 	Das ist es . 
+1080	Exactly . 	Genau . 
+1081	They send a weather report every day at 6 : 00 a . m . 	Sie schicken einen Wetterbericht , jeden Tag um 6 Uhr morgens . 
+1082	So , that 's three words we know will be in every 6 : 00 a . m . message ... 	Das sind also drei Wörter , die wir kennen , in jedem 6- Uhr- Funkspruch : 
+1083	" weather , " obviously , and ... 	Wetter , - und ... 
+1084	- Heil bloody Hitler . 	- Heil Scheiß- Hitler ! 
+1085	- Heil bloody Hitler . 	Heil Scheiß- Hitler ! 
+1086	Here 's the 6 : 00 message from this morning . 	Hier ist der 6- Uhr- Funkspruch von heute . 
+1087	Hugh , the the right- hand letter wheel , set them to ... 	Hugh , stell die rechten Buchstabenwalzen 
+1088	I know , I know . 	- auf die Wörter ... 
+1089	" Weather " and " Hitler . " 	- Wetter und Hitler . 
+1090	Peter , John , run voltages through those letters , through the back scramblers . 	Peter und John , schickt Spannung durch diese Buchstabenwalzen ! 
+1091	So , we 'll use the loops ? 	- Wir benutzen die Loops ? 
+1092	Yes . 	- Wir benutzen die Loops ? 
+1093	Joan , what was the last 6 : 00 a . m . message ? 	- Ja . Joan , wie lautet der letzte 6 - Uhr- Funkspruch ? 
+1094	- L . 	
+1095	- L . 	
+1096	- H . 	H . 
+1097	- H . 	H . 
+1098	- W . 	W . 
+1099	- W . 	
+1100	- A . 	A . 
+1101	- A . 	A . 
+1102	- Q . 	Q . 
+1103	- Q . 	Q . 
+1104	Done . 	Fertig . 
+1105	Come on . 	Na komm ! 
+1106	Come on . 	Na komm ! 
+1107	Come on , Christopher . 	Komm , Christopher ! 
+1108	Oh , my God . 	Oh , Gott ! 
+1109	What happened ? 	Was ist passiert ? 
+1110	- Did it work ? 	- Hat es funktioniert ? 
+1111	- Alan ? 	- Hat es funktioniert ? 
+1112	Alan ! 	- Alan ! 
+1113	Alan ! 	
+1114	I need a new message . 	Ich brauch einen neuen Funkspruch . 
+1115	The latest intercept . 	Den letzten , der aufgefangen wurde . 
+1116	Thank you . 	Danke . 
+1117	O ... 	O ... 
+1118	T . 	T . 
+1119	- Ready ? 	- Bereit ? 
+1120	- Yes . 	- Bereit ? 
+1121	- M . 	- Ja . 
+1122	- M . 	M ... 
+1123	- Y . 	Y ... 
+1124	- Y . 	Y ... 
+1125	- M . 	M ... 
+1126	S . 	M ... 
+1127	- M . 	S ... 
+1128	S . 	
+1129	- A . 	A ... 
+1130	I . 	A ... 
+1131	- A . 	I ... 
+1132	I . 	I ... 
+1133	- C . 	C ... 
+1134	- C . 	C ... 
+1135	- T . 	T ... 
+1136	R . 	T ... 
+1137	- T . 	T ... 
+1138	R . 	R ... 
+1139	- I . 	I ... 
+1140	S . 	I ... 
+1141	- I . 	S ... 
+1142	S . 	S ... 
+1143	- O . 	O ... 
+1144	A . 	O ... 
+1145	- O . 	A ... 
+1146	A . 	A ... 
+1147	- Y . 	Y ... 
+1148	R . 	Y ... 
+1149	- Y . 	R ... 
+1150	R . 	R ... 
+1151	- I . 	R ... 
+1152	- I . 	I ... 
+1153	" KMS Jaguar is aufpunkt is directed to 53 degrees 24 minutes north and aufpunkt one ... degree west . " 	" KMS Jaguar ist auf Punkt ... " nimmt Kurs auf 53 Grad 24 Minuten Nord " und auf Punkt 1 ... Grad West . " 
+1154	Heil Hitler . 	Heil Hitler ! 
+1155	Turns out that 's the only German you need to know to break Enigma . 	So wenig Deutsch muss man können , um Enigma zu knacken . 
+1156	Yes ! 	Ja ! 
+1157	- M . 	M ... 
+1158	- M . 	M ... 
+1159	- A . 	A ... 
+1160	- A . 	A ... 
+1161	- Y . 	A ... 
+1162	- Y . 	Y ... 
+1163	- I . 	Y ... 
+1164	- I . 	I ... 
+1165	- T . 	T ... 
+1166	- T . 	T ... 
+1167	- R . 	T ... 
+1168	- R . 	R ... 
+1169	- O . 	O ... 
+1170	- O . 	O ... 
+1171	T . 	O ... 
+1172	- T . 	T ... 
+1173	A . 	
+1174	- A . 	A ... 
+1175	- H . 	H ... 
+1176	- H . 	H ... 
+1177	- Q . 	Q ... 
+1178	- Q . 	Q ... 
+1179	- U . 	
+1180	- U . 	U ... 
+1181	R . 	R ... 
+1182	R . 	
+1183	My God , you did it . 	Mein Gott , du hast es geschafft . 
+1184	You just defeated Nazism with a crossword puzzle . 	Du hast soeben den Nazismus besiegt . Mit einem Kreuzworträtsel . 
+1185	There are five people in the world who know the position of every ship in the Atlantic . 	Nur fünf Personen auf der Welt kennen die Position jedes Schiffs im Atlantik . 
+1186	- They 're all in this room . 	- Sie sind alle hier anwesend . 
+1187	- Oh , good God . 	- Sie sind alle hier anwesend . 
+1188	Oh , I don 't think even He has the power that we do right now . 	- Guter Gott ! Nicht mal Er hat im Moment so viel Macht . 
+1189	No . 	
+1190	There 's going to be an attack on a British passenger convoy . 	Ein britischer Konvoi soll angegriffen werden . 
+1191	Right there . 	- Genau da . 
+1192	God , you 're right . 	- Du hast recht . 
+1193	All those U- boats are only 20 , 30 minutes away . 	Die U- Boote sind nur 30min weg . 
+1194	Civilians . 	Zivilisten . 
+1195	Hundreds of them . 	Hunderte . 
+1196	We can save their lives . 	Wir können sie retten . 
+1197	I' ll phone Denniston 's office so that he can alert the Admiralty . 	Denniston soll die Admiralität alarmieren . 
+1198	Do you think there 's enough time to save them ? 	Reicht die Zeit , sie zu retten ? 
+1199	There should be , if we can get a message ... 	Reicht die Zeit , sie zu retten ? 
+1200	Commander Denniston 's office , please . 	Ich denke . Commander Denniston , bitte . 
+1201	It 's urgent . 	Es eilt . 
+1202	No . 	Nein ! Nein ! 
+1203	- What the hell are you doing ? 	- Was zum ... 
+1204	- You can 't call Denniston . 	- Du darfst ihn nicht anrufen ! 
+1205	- You can 't tell him about the attack . 	Du darfst nichts von dem Angriff sagen . 
+1206	- What are you talking about ? 	- Was sagst du da ? 
+1207	We can have air support over that convoy in ten minutes . 	- Wir können in 10 Minuten Luftunterstützung kriegen . 
+1208	Let the U- boats sink the convoy . 	Die U- Boote sollen den Konvoi versenken . 
+1209	It 's been a big day , maybe you 're suffering ... 	Es war ein großer Tag . 
+1210	- We don 't have time ... 	Vielleicht hast du ... - Wir haben keine Zeit ... 
+1211	- No ! 	- Nein ! 
+1212	- Hugh ! 	- Hugh , es reicht ! 
+1213	Hugh ! 	- Hugh , es reicht ! 
+1214	That 's enough ! 	- Hugh , es reicht ! 
+1215	That 's enough ! 	- Hör auf , Hugh ! 
+1216	- Stop , Hugh ! 	- Hör auf , Hugh ! 
+1217	John , the attack is in minutes . 	Der Angriff ist in Minuten ! 
+1218	Yes , no , I 'm fine , I 'm fine . 	Alles okay . 
+1219	I 'm fine . 	
+1220	You know why people like violence , Hugh ? 	Weißt du , warum Leute Gewalt mögen , Hugh ? 
+1221	It 's because it feels good . 	Weil sie sich gut anfühlt . 
+1222	Sometimes we can 't do what feels good . 	Aber was sich gut anfühlt , geht nicht immer . 
+1223	- We have to do what is logical . 	Wir müssen tun , was logisch ist . 
+1224	- What 's logical ? 	Was ist logisch ? 
+1225	Hardest time to lie to somebody is when they 're expecting to be lied to . 	Am schwersten ist es , jemand anzulügen , - wenn derjenige es erwartet . 
+1226	- Oh , God . 	- Oh , Gott . 
+1227	- What ? 	- Was ist ? 
+1228	If someone 's waiting for a lie , you can 't just give them one . 	- Wenn jemand darauf wartet , kann man ihn nicht anlügen . 
+1229	- Damn it , Alan 's right . 	Verflucht , Alan hat recht . Wie ? 
+1230	- What ? 	
+1231	What would the Germans think if we destroy their U- boats ? 	Was werden die Deutschen denken , wenn wir ihre U- Boote zerstören ? 
+1232	- Nothing . 	Nichts , sie sind tot . 
+1233	They 'll be dead . 	Nein . 
+1234	- No . 	Nein , du kannst nicht recht haben . 
+1235	No , you can 't be right . 	Nein , du kannst nicht recht haben . 
+1236	So , our convoy suddenly veers off course ... a squadron of our air bombers miraculously descends on the coordinates of the U- boats ... what will the Germans think ? 	Unser Konvoi ändert plötzlich den Kurs , eine Staffel RAF- Bomber geht auf wundersame Weise auf den Koordinaten der U- Boote runter . Was werden die Deutschen dann denken ? 
+1237	The Germans will know that we have broken Enigma . 	Sie werden wissen , dass wir Enigma geknackt haben . 
+1238	They 'll stop all radio communications by midday , and they 'll have changed the design of Enigma by the weekend . 	Sie stellen sofort jeglichen Funkverkehr ein und verändern die Einstellungen der Enigma 
+1239	Yes . 	- bis zum Wochenende . - Ja . 
+1240	Two years´ work . 	Die Arbeit von zwei Jahren . 
+1241	Everything that we 've done here will all be for nothing . 	Alles , was wir hier getan haben , wäre für die Katz . 
+1242	There are 500 civilians in that convoy . 	In dem Konvoi sind 500 Zivilpersonen . 
+1243	Women , children . 	Frauen . Kinder . 
+1244	We 're about to let them die . 	- Wir lassen sie sterben . 
+1245	Our job is not to save one passenger convoy , it is to win the war . 	- Unser Job war nicht , einen Konvoi zu retten , sondern den Krieg zu gewinnen . 
+1246	- Our job was to crack Enigma . 	Unser Job war , Enigma zu knacken . 
+1247	- We 've done that . 	Das haben wir getan . 
+1248	Now for the hard part . 	Aber das Schwerste nicht . 
+1249	- Keeping it a secret . 	Es geheimzuhalten . 
+1250	- Carlisle . 	- " Carlisle " . 
+1251	What ? 	Wie ? 
+1252	The convoy you 're about to ... it 's ... 	Der Konvoi , den ihr ... 
+1253	The HMS Carlisle is one of the ships . 	Die " HMS Carlisle " ist eines der Schiffe . 
+1254	We can 't act on every piece of intelligence . 	Wir können nicht immer dem Geheimdienst folgen . 
+1255	So , fine , we won 't . 	Also tun wirs nicht . 
+1256	- Just this one . 	Nur dies eine Mal . 
+1257	- Peter , what 's the matter with you ? 	Peter , was ist mit dir ? 
+1258	My brother 's ... well , he 's on the Carlisle . 	Mein Bruder ist ... auf der " Carlisle " . 
+1259	A gunnery ensign . 	Fähnrich der Artillerie . 
+1260	I 'm ... 	
+1261	I 'm so sorry . 	Das tut mir sehr leid . 
+1262	Who the hell do you think you are ? 	Für wen hältst du dich ? 
+1263	This ... this is my brother . 	Er ist mein Bruder . 
+1264	He 's my big brother , all right , and you have a few minutes to call off his murder . 	Ihr könnt den Mord an ihm verhindern . 
+1265	We can 't . 	Das können wir nicht . 
+1266	He 's right . 	Er hat recht . 
+1267	Alan . 	Alan ... 
+1268	Joan . 	Joan ... 
+1269	Hugh . 	Hugh ... 
+1270	John . 	John ... 
+1271	Please , I ... 	Bitte , ich ... 
+1272	The Germans , they won 't get suspicious just because we stop one attack . 	Die Deutschen werden nicht misstrauisch , weil wir einen Angriff stoppen . 
+1273	No one will know . 	Keiner wird etwas erfahren . 
+1274	I 'm asking you as your friend . 	Ich bitte euch als euer Freund . 
+1275	Please . 	Bitte ! 
+1276	I 'm so sorry . 	Es tut mir so leid . 
+1277	You 're not God , Alan , you don 't get to decide who lives and who dies . 	Du bist nicht Gott , Alan . Du entscheidest nicht über Leben und Tod . 
+1278	Yes , we do . 	Doch , das tun wir . 
+1279	Why ? 	Warum ? 
+1280	Because no one else can . 	Weil niemand anders es tun kann . 
+1281	Why are you telling me this ? 	Warum erzählen Sie mir das ? 
+1282	We need your help to keep this a secret from Admiralty , Army , RAF . 	Wir brauchen Ihre Hilfe , um es geheimzuhalten vor der Admiralität , der Armee und der RAF . 
+1283	No one can know we broke Enigma . 	Kein Mensch darf wissen , dass wir Enigma geknackt haben . 
+1284	Not even Denniston . 	Nicht mal Denniston . 
+1285	Who 's in the process of having you fired . 	Der Sie gerade feuern lassen will . 
+1286	You can take care of that . 	Darum können Sie sich kümmern . 
+1287	While we develop a system to help you determine how much intelligence to act on ... which attacks to stop , which to let through . 	Wir entwickeln ein System , das Ihnen hilft zu erkennen , auf welche Erkenntnisse Sie reagieren müssen , welche Angriffe Sie abwehren , welche Sie zulassen . 
+1288	Statistical analysis . 	Statistische Analysen . 
+1289	The minimal number of actions it would take for us to win the war ... but the maximum number we can take before the Germans get suspicious . 	Die Mindestzahl von Handlungen , die wir brauchen , um den Krieg zu gewinnen , und die höchst mögliche , bevor die Deutschen Verdacht schöpfen . 
+1290	And you 're going to trust all this to statistics ? 	Und das überlassen Sie alles der Statistik ? 
+1291	- To maths ? 	- Der Mathematik ? 
+1292	- Correct . 	- Korrekt . 
+1293	And then MI6 can come up with the lies that we tell everybody else . 	Und MI6 kann die Lügen erfinden , die wir allen anderen erzählen . 
+1294	You 'll need a believable alternative source for all the pieces of information you use . 	Sie brauchen eine glaubhafte alternative Quelle für jegliche Information , die Sie nutzen . 
+1295	A false story so that we can explain how we got our information that has nothing to do with Enigma . 	Ein Märchen , damit wir erklären können , wie wir unsere Informationen bekommen haben , das nichts mit Enigma zu tun hat . 
+1296	And then you can leak those stories to the Germans . 	Und dann lassen Sie dieses Märchen an die Deutschen durchsickern . 
+1297	And then to our own military . 	Und dann zu unserem eigenen Militär . 
+1298	Maintain a conspiracy of lies at the highest levels of government . 	Ein Lügenkomplott auf höchster Regierungsebene . 
+1299	Sounds right up my alley . 	Das ist ganz nach meinem Geschmack . 
+1300	Alan , I so rarely have cause to say this , but you are exactly the man I always hoped you would be . 	Alan , ich habe selten Grund , das zu sagen , aber Sie sind genau der Mann , den ich mir erhofft hatte . 
+1301	They code- named it " Ultra . " 	Sie nannten das Projekt " Ultra " . 
+1302	It became the largest store of military intelligence in ... the history of the world . 	Es wurde zum größten Speicher von Feindnachrichten der Weltgeschichte . 
+1303	It was like having a tap on Himmler 's intercom . 	Es war , als zapfte man Himmlers Telefonanlage an . 
+1304	I- E- O ... 	I - E- O . 
+1305	Secrecy became the primary concern , and for some reason , they ... they trusted me . 	Geheimhaltung wurde zur Hauptsorge , und aus irgendeinem Grund vertrauten sie mir . 
+1306	Peter , do you have the ... 630 decryp ... 	Peter ... hast du die Entschlüsselung von 6 . 30 Uhr ? 
+1307	It 's a Beale cipher encrypted with a phrase from a book or ... 	Es ist eine Beale- Chiffre , verschlüsselt mit einem Satz aus einem Buch oder ... 
+1308	" Ask , and it will be given to you ; seek and you will find . " 	" Bittet , so wird euch gegeben , suchet , so werdet ihr finden . " 
+1309	Matthew 7 : 7 . 	Matthäus 7 , 7 . 
+1310	That was the key . 	Das war der Schlüssel . 
+1311	Peter will come around eventually . 	Peter kommt endlich . 
+1312	Jack . 	Jack ! 
+1313	Could you give Alan and me a moment , please ? 	Lässt du uns einen Moment allein ? 
+1314	The Soviets and us , we 're on the same side . 	Die Sowjets und wir stehen auf der selben Seite . 
+1315	What I 'm doing will help Britain . 	Was ich tue , wird Großbritannien helfen . 
+1316	I have to tell Denniston . 	Ich muss es Denniston sagen . 
+1317	No , you don 't . 	Musst du nicht . 
+1318	Because if you tell him my secret ... 	Wenn du ihm mein Geheimnis verrätst , verrate ich ihm deins . 
+1319	I' ll tell him yours . 	Wenn du ihm mein Geheimnis verrätst , verrate ich ihm deins . 
+1320	Do you know what they do to homosexuals ? 	Weißt du , was sie mit Homosexuellen machen ? 
+1321	You 'll never be able to work again , never be able to teach . 	Du kannst nie wieder arbeiten oder lehren . 
+1322	Your precious machine ... 	Deine kostbare Maschine ... 
+1323	I doubt you 'll ever see him again . 	Ich bezweifle , dass du sie wiedersiehst . 
+1324	Hello . 	
+1325	Can I ... can I speak to Stewart Menzies , please ? 	Hallo , kann ich mit Stewart Menzies sprechen . 
+1326	It 's urgent . 	Hallo , kann ich mit Stewart Menzies sprechen . 
+1327	One moment , please . 	Dringend . Augenblick . 
+1328	Hello . 	Hallo , Menzies . 
+1329	Menzies . 	Hallo , Menzies . 
+1330	Some advice about keeping secrets . 	Einen Rat , wie man Geheimnisse bewahrt . 
+1331	It 's a lot easier if you don 't know them in the first place . 	Besser ist es , sie gar nicht zu wissen . 
+1332	Were they steaming my letters , tapping my telephone ? 	Öffneten sie meine Briefe ? Zapften sie mein Telefon an ? 
+1333	Trailing my nervous walks ? 	Folgten Sie mir auf meinen nervösen Wegen ? 
+1334	You know , I ... 	Ich ... habe es nie herausgefunden . 
+1335	I never did find out . 	Ich ... habe es nie herausgefunden . 
+1336	Joan ? 	Joan ? 
+1337	Joan ? 	
+1338	What 's ... 	Was .. 
+1339	Where 's Joan ? 	Wo ist Joan ? 
+1340	Military prison . 	Im Militärgefängnis . 
+1341	What have you done ? 	Was haben Sie getan ? 
+1342	Decoded Enigma intercepts . 	Abgefangene Funksprüche entschlüsselt . 
+1343	I found a pile of them in the bedside table . 	- Im Nachttisch waren jede Menge . 
+1344	No , no . 	- Im Nachttisch waren jede Menge . 
+1345	I gave those to her over a year ago when I was trying to figure out 	- Nein , die hab ich ihr vor über einem Jahr gegeben , als ich eine Verbindung suchte zwischen ... 
+1346	- a link between ... 	- Nein , die hab ich ihr vor über einem Jahr gegeben , als ich eine Verbindung suchte zwischen ... 
+1347	- I 'm sure you did . 	Sicher . 
+1348	Denniston 's been looking for a Soviet spy . 	Denniston sucht einen sowjetischen Spion . 
+1349	He 's been looking inside Hut 8 . 	Innerhalb von Hut 8 . 
+1350	I know who the spy is . 	Ich weiß , wer es ist . 
+1351	It 's not Joan . 	Joan ist es nicht . 
+1352	It 's ... it 's Cairncross . 	Es ist ... Cairncross . 
+1353	I found the Beale cipher , the Bible . 	Ich hab die Beale- Chiffre gefunden , die Bibel . 
+1354	God , I wish you 'd been a spy . 	Gott , ich wünschte , Sie wären der Spion . 
+1355	You 'd be so much better at this than he is . 	Sie wären viel besser darin als er . 
+1356	You knew it was him ? 	Sie wissen , dass er es war . 
+1357	Of course I bloody knew . 	Natürlich wusste ich das . 
+1358	I knew before he came to Bletchley . 	Schon bevor er nach Bletchley kam . 
+1359	Why do you think I had him placed here ? 	Warum hab ich ihn wohl hergeholt ? 
+1360	But we have an Enigma machine . 	Aber wir haben eine Enigma- Maschine . 
+1361	Yeah , Polish Intelligence ... 	Die Polen schmuggelten sie aus Berlin . 
+1362	You placed a ... a Soviet agent at Bletchley Park ? 	Und wo ist das Problem ? Sie schickten einen sowjetischen Agenten nach Bletchley ? 
+1363	It 's really quite useful to be able to leak whatever we want to Stalin . 	Es ist sehr nützlich , alles , was wir wollen , zu Stalin durchsickern zu lassen . 
+1364	Churchill 's too damn paranoid . 	Churchill ist zu paranoid . 
+1365	He won 't share a shred of intelligence with the Soviets . 	Er gibt keinerlei Information an die Sowjets . 
+1366	Not even information that will help them against the Germans . 	Nicht mal , wenn sie gegen Deutschland hilft . 
+1367	There 's ... so much secrecy . 	Es gibt so viel Heimlichkeit . 
+1368	Cairncross has no idea we know , of course . 	Cairncross hat natürlich keine Ahnung . 
+1369	He 's really not the brightest bulb . 	Er ist wirklich nicht der Klügste . 
+1370	Which is why I need your help . 	Darum brauche ich Ihre Hilfe . 
+1371	I want to know what to leak to John , what to feed to the Soviets , as well as the British . 	Was soll ich zu John durchsickern lassen ? Womit soll ich Sowjets und Briten füttern ? 
+1372	I 'm not a spy . 	Ich bin kein Spion , ich bin ... 
+1373	I 'm ... 	Ich bin kein Spion , ich bin ... 
+1374	I 'm just a mathematician . 	Ich bin nur ein Mathematiker . 
+1375	I know a lot of spies , Alan . 	Ich kenne jede Menge Spione , Alan . 
+1376	You 've got more secrets than the best of them . 	Sie haben mehr Geheimnisse als die besten . 
+1377	You ... you have to promise me that you will release Joan . 	Versprechen Sie mir , Joan freizulassen . 
+1378	Yes , Joan 's at the market . 	Joan ist auf dem Markt . 
+1379	She 's gonna be back in an hour . 	Und ein einer Stunde zurück . Ich hab gelogen . 
+1380	I lied . 	
+1381	I better hold on to these . 	Die hier nehme ich lieber in Verwahrung . 
+1382	If anybody finds out about them , prison will be the least of her worries . 	Wenn jemand davon erfährt , ist Gefängnis ihre kleinste Sorge . 
+1383	Oh , Alan ... we 're gonna have such a wonderful war together . 	Oh , Alan . Einen wunderbaren Krieg werden wir haben ! 
+1384	- I need you to leave Bletchley . 	Du musst weg aus Bletchley . 
+1385	- What ? 	
+1386	It 's Menzies . 	- Wie ? - Wegen Menzies . 
+1387	I don 't trust him . 	Ich trau ihm nicht . 
+1388	It 's not safe here . 	Hier ist es nicht sicher . 
+1389	- Do you think it 's any safer anywhere else ? 	Ist es woanders sicherer ? 
+1390	- You need to get away . 	Du musst hier weg . 
+1391	- You need to get very far away from me . 	- Weit weg von mir . 
+1392	- Alan , what 's happened ? 	- Was ist los , Alan ? 
+1393	We can 't be engaged anymore . 	Wir müssen die Verlobung lösen . 
+1394	You ... your parents need to take you back and find you a husband elsewhere . 	Deine Eltern müssen dich zurücknehmen und dir anderswo einen Mann suchen . 
+1395	What 's wrong with you ? 	Was ist los mit dir ? 
+1396	I have something to tell you . 	Ich muss dir etwas sagen . 
+1397	I 'm ... 	Ich bin ... 
+1398	I 'm a homosexual . 	Ich bin homosexuell . 
+1399	All right . 	Okay . 
+1400	No , no . 	Nein , nein . 
+1401	Men , Joan ... 	Männer , Joan . 
+1402	- not women . 	Keine Frauen . 
+1403	- So what ? 	Na und ? 
+1404	- Well , I just told you . 	- Ich hab es dir eben gesagt . 
+1405	- So what ? 	- Ich hab es dir eben gesagt . 
+1406	I had my suspicions ; I always did . 	Das hatte ich schon immer vermutet . 
+1407	But we 're not like other people . 	Aber wir sind nicht wie andere . 
+1408	We love each other in our own way , and we can have the life together that we want . 	Wie lieben einander auf unsere Weise und können das Leben haben , was wir wollen . 
+1409	You ... you won 't be the perfect husband . 	Du bist nicht der perfekte Ehemann . 
+1410	Well , I can promise you , I have no intention of being the perfect wife . 	Und ich will nicht die perfekte Frau sein . 
+1411	I' ll not be ... fixing your lamb all day while you come home from the office . 	Ich mache dir keinen Lammbraten , wenn du aus dem Büro kommst . 
+1412	I' ll work . 	Ich werde arbeiten . 
+1413	You 'll work . 	Du wirst arbeiten . 
+1414	And we 'll have each other 's company . 	Wir leisten einander Gesellschaft . 
+1415	We 'll have each other 's minds . 	Wir haben unsere Klugheit . 
+1416	That sounds like a better marriage than most . 	Klingt wie eine bessere Ehe als die meisten . 
+1417	Because I care for you . 	Denn mir liegt etwas an dir . 
+1418	And you care for me . 	Und dir liegt etwas an mir . 
+1419	And we understand one another more than ... more than anyone else ever has . 	Und wir verstehen uns besser als alle anderen . 
+1420	I don 't . 	Mir nicht . 
+1421	- What ? 	- Was ? 
+1422	- Care for you . 	- Mir liegt nichts an dir . 
+1423	I never did . 	Mir lag nie etwas an dir . 
+1424	I just needed you to break Enigma . 	Ich brauchte dich nur , um Enigma zu knacken . 
+1425	I' ve done that now , so ... so you can go . 	Das ist jetzt erledigt , also kannst du gehen . 
+1426	I 'm not going anywhere . 	Ich denke nicht daran ! 
+1427	I' ve spent entirely too much of my life worried about what you think of me , or what my parents think of me , or the boys in Hut 8 or the girls in Hut 3 . 	Ich habe zu viel Zeit meines Lebens darüber nachgedacht , was du von mir denkst . Was meine Eltern von mir denken . Die Jungs in Hut 8 und die Mädels in Hut 3 . 
+1428	And do you know what ? 	Und weißt du was ? 
+1429	I 'm done . 	Und weißt du was ? 
+1430	This is the most important work I will ever do , and no one is going to stop me . 	Dies ist die wichtigste Arbeit , die ich je tun werde , und niemand kann mich davon abhalten . 
+1431	Least of all , you . 	Du am allerwenigsten . 
+1432	You know what , they were right . 	Weißt du was ? Sie hatten recht . 
+1433	Peter , Hugh , John . 	Peter , Hugh , John . 
+1434	You really are a monster . 	Du bist wirklich ein Monster . 
+1435	The war dragged on for two more ... solitary years ... and every day we performed our blood- soaked calculus . 	Der Krieg zog sich zwei weitere einsame Jahre hin . Und jeden Tag erstellten wir unsere blutgetränkte Rechnung . 
+1436	Every day we decided who lived and who died . 	Jeden Tag entschieden wir über Leben und Tod . 
+1437	Every day we ... helped the Allies to victories , and nobody knew . 	Jeden Tag verhalfen wir den Alliierten zu Siegen , und keiner wusste etwas davon . 
+1438	Stalingrad . 	Stalingrad . 
+1439	The Ardenne . 	Die Ardennen . 
+1440	The invasion of Normandy . 	Die Invasion der Normandie . 
+1441	All victories that would not have been possible without the intelligence that we supplied . 	Keiner der Siege wäre möglich gewesen ohne die Informationen , die wir lieferten . 
+1442	And people ... talk about the war as this epic battle between ... civilizations ... freedom versus tyranny , democracy versus Nazism , armies of millions bleeding into the ground , fleets of ships weighing down the oceans , planes dropping bombs from the sky until they obliterated the sun itself ... the war wasn 't like that for us . 	Und die Leute reden über den Krieg als einem epischen Kampf der Kulturen . Frieden contra Tyrannei , Demokratie contra Nazismus . 
+1443	For us , it was just ... half a dozen crossword enthusiasts in a tiny village in the South of England . 	Für uns war er : Ein halbes Dutzend Kreuzwort- Enthusiasten in einem winzigen Dorf im Süden Englands . 
+1444	This is ... your victory . 	Euer Sieg . 
+1445	Victory ... of the cause of freedom in every land . 	Ein Sieg der Freiheit in jedem Land . 
+1446	This is a solemn but glorious hour . 	Dies ist eine ernste , doch glorreiche Stunde . 
+1447	I wish that Franklin D . 	Ich wünschte , Franklin D . 
+1448	Roosevelt had lived to see this day . 	Roosevelt hätte diesen Tag erlebt . 
+1449	Was I God ? 	War ich Gott ? 
+1450	No . 	War ich Gott ? 
+1451	Because ... 	Nein . Denn 
+1452	God didn 't win the war . 	Gott hatte den Krieg nicht gewonnen . 
+1453	We did . 	Aber wir . 
+1454	So , what happens now ? 	Und , was passiert jetzt ? 
+1455	Is it ... back to university for us , I suppose ? 	Heißt das , zurück an die Universität für uns ? 
+1456	Yes , pretty much . 	Ja , so in etwa . 
+1457	But you 've one thing left to do before your service to your government in concluded . 	Aber eines müssen Sie noch tun , ehe Ihr Dienst für die Regierung beendet ist . 
+1458	- What 's that ? 	Und das wäre ? 
+1459	- Burn everything . 	Alles zu verbrennen . 
+1460	- Burn ? 	Alles zu verbrennen . 
+1461	Why ? 	- Verbrennen ? 
+1462	- You were told when you started this was a top- secret program . 	Warum ? - Man hat Ihnen gesagt , als Sie anfingen , dass es ein streng geheimes Programm ist . 
+1463	Did you think we were joking ? 	Dachten Sie , das war ein Witz ? 
+1464	- But the war is over . 	- Aber der Krieg ist vorbei . 
+1465	- This war is . 	- Aber der Krieg ist vorbei . 
+1466	But there 'll be others . 	- Dieser ja . Aber es wird andere geben . 
+1467	And we know how to break a code that everybody else believes is unbreakable . 	Wir wissen , wie man einen Code knackt , den alle anderen für nicht zu knacken halten . 
+1468	Precisely . 	Genau . 
+1469	Tear it down . 	Zerstören Sie alles , verbrennen Sie es . 
+1470	Light it up . 	Zerstören Sie alles , verbrennen Sie es . 
+1471	Sweep away the ashes . 	Fegen Sie die Asche weg . 
+1472	None of you have ever met before . 	Sie alle haben sich noch nie gesehen . 
+1473	None of you have ever even heard the word Enigma . 	Keiner hat das Wort " Enigma " auch nur gehört . 
+1474	Have a safe trip home . 	Gute Reise nach Hause . 
+1475	Behave . 	Seien Sie brav ! 
+1476	With a bit of luck , you 'll never have to see me or one another again for the rest of your lives . 	Mit ein bisschen Glück werden Sie mich oder einander nie wiedersehen für den Rest Ihres Lebens . 
+1477	That 's unbelievable . 	Nicht zu fassen . 
+1478	Now , Detective , you get to judge . 	Jetzt , Detective , müssen Sie urteilen . 
+1479	So , tell me ... what am I ? 	Schießen Sie los . Was bin ich ? 
+1480	Am I ... a machine ? 	Bin ich ... eine Maschine , ein Mensch ? 
+1481	Am I a person ? 	Bin ich ... eine Maschine , ein Mensch ? 
+1482	Am I a war hero ? 	Bin ich ein Kriegsheld ? 
+1483	Am I a criminal ? 	Bin ich ein Verbrecher ? 
+1484	I can 't judge you . 	Ich kann nicht Ihr Richter sein . 
+1485	Well , then ... 	Dann ... 
+1486	you 're no help to me at all . 	sind Sie mir auch keine Hilfe . 
+1487	Come in . 	Herein . 
+1488	You wanted to see me , sir ? 	Sie wollten mich sprechen , Sir . 
+1489	Turing . 	Turing , setz dich . 
+1490	Sit down . 	Turing , setz dich . 
+1491	Something the matter ? 	Ist was passiert ? 
+1492	You and Christopher Morcom are quite close . 	Du und Christopher Morcom , ihr seid enge Freunde . 
+1493	I wouldn 't say that . 	Das würde ich nicht sagen . 
+1494	Well , your mathematics teacher says the two of you are positively inseparable . 	Euer Mathelehrer sagt , ihr seid unzertrennlich . 
+1495	We 're the best students in the class . 	Wir sind die Besten in der Klasse . 
+1496	He caught you passing notes the other day . 	Ihr habt neulich Zettel ausgetauscht . 
+1497	Cryptography , to pass the time . 	Kryptographie , zum Zeitvertreib . 
+1498	The class is too simple . 	Der Unterricht ist zu einfach . 
+1499	You and your friend solve maths problems during maths class because the maths class is too dull ? 	Du und dein Freund , ihr löst Matheprobleme während der Mathestunde , weil der Matheunterricht zu langweilig ist . 
+1500	He 's not my friend . 	Er ist nicht mein Freund . 
+1501	- Well , I 'm told he 's your only friend . 	Ich hab gehört , er ist dein einziger Freund . 
+1502	- Who said that ? 	Wer hat das gesagt ? 
+1503	Something 's come up concerning Morcom . 	Ich habe Nachrichten über Morcom . 
+1504	Why am I here ? 	Warum bin ich hier ? 
+1505	Christopher is dead . 	Christopher ist tot . 
+1506	I don 't understand . 	Das versteh ich nicht . 
+1507	His mother sent word this morning . 	Seine Mutter hat es heute Morgen mitgeteilt . 
+1508	The family were on holiday , you see . 	Die Familie war im Urlaub . 
+1509	I don 't understand . 	Das versteh ich nicht . 
+1510	Well , he had bovine tuberculosis , as I 'm sure he told you . 	Er hatte Rindertuberkulose . Das hat er dir sicher erzählt . 
+1511	So , this won 't come as a shock , but ... still , all the same , 	Darum dürfte es kein Schock für dich sein . Doch gleichwohl , es tut mir leid . 
+1512	I 'm sorry . 	
+1513	You 're mistaken . 	Sie irren sich . 
+1514	Did he not tell you ? 	Hat er dir nichts davon gesagt ? 
+1515	Well , he 's been sick for a long time . 	Er ist schon lange krank . 
+1516	He knew this was coming soon . 	Er wusste , es würde nicht mehr lange dauern . 
+1517	But he had a stiff upper lip about it . 	Aber er hat sich nicht erschüttern lassen . 
+1518	Good lad . 	Guter Kerl . 
+1519	- Are you all right , Turing ? 	- Alles in Ordnung , Turing ? 
+1520	- Yes . 	- Alles in Ordnung , Turing ? 
+1521	Of course . 	- Ja , natürlich . 
+1522	Like I said , I didn 't know him very well . 	Ich sagte ja schon , ich kannte ihn nicht gut . 
+1523	I see . 	Ah , verstehe . 
+1524	Very well . 	Gut . 
+1525	May I leave , Headmaster ? 	Kann ich jetzt gehen , Herr Direktor ? 
+1526	Congratulations , sir . 	Glückwunsch , Sir . 
+1527	Sorry . 	Entschuldigung . 
+1528	I would have come . 	Ich wäre gekommen . 
+1529	I would have testified . 	Ich hätte ausgesagt . 
+1530	And what would you have said , that I ... 	Und was hättest du gesagt , dass ich ... nicht homosexuell war ? 
+1531	I wasn 't a homosexual . 	Und was hättest du gesagt , dass ich ... nicht homosexuell war ? 
+1532	Alan ... this is serious . 	Alan , es ist ernst . 
+1533	They could send you to jail . 	- Sie können dich einsperren . 
+1534	Damn it . 	- Verflucht ! 
+1535	- Your hands . 	Deine Hände , du zuckst . 
+1536	You 're twitching . 	Deine Hände , du zuckst . 
+1537	- No , I 'm not . 	Nein , tu ich nicht . 
+1538	Alan . 	Alan . 
+1539	It 's the medication . 	Das sind die Medikamente . 
+1540	The medication ? 	Medikamente ? 
+1541	Well , the judge gave me a choice ... either two years in prison or hormonal therapy . 	Der Richter stellte mich vor die Wahl : Entweder zwei Jahre Gefängnis oder ... Hormontherapie . 
+1542	Oh , my God . 	Oh , Gott . 
+1543	Oh , my God . 	- Oh , Gott . 
+1544	Yes , yes , that 's right . 	- Ja , so ist das . 
+1545	Chemical castration . 	Chemische Kastration . 
+1546	To ... to cure me of my homosexual predilections . 	Um mich von meinen ... homosexuellen Vorlieben zu heilen . 
+1547	Well , of course I chose that . 	Das hab ich natürlich vorgezogen . 
+1548	I mean , I ... couldn 't ... work in prison , and ... 	Ich könnte nicht im Gefängnis arbeiten und ... 
+1549	All right . 	Okay . 
+1550	Now , I 'm going to speak to your doctors . 	Ich werde mit deinen Ärzten reden . 
+1551	I 'm going to speak to your lawyers . 	Ich werde mit deinen Ärzten reden . 
+1552	I 'm fine . 	- Und mit deinen Anwälten . 
+1553	- Please let me help you . 	- Alles okay . - Bitte lass mich dir helfen . 
+1554	- No , I don 't need your help , thank you . 	- Nein , ich brauche deine Hilfe nicht . Danke . 
+1555	Alan , you do not have to do this alone . 	Du musst nicht alleine da durch . 
+1556	I 'm not alone . 	Ich bin nicht alleine . 
+1557	Never have been . 	Das war ich nie . 
+1558	Christopher 's become so smart . 	Christopher ist so clever geworden . 
+1559	If I don 't continue my treatment , then they 'll ... they 'll take him away from me . 	Wenn ich die Behandlung abbreche , dann ... nehmen sie ihn mir weg . 
+1560	You ... 	
+1561	You can 't let them do that . 	Das darfst du nicht zulassen . 
+1562	You can 't . 	Das darfst du nicht zulassen . 
+1563	You ... you can 't let them leave me alone . 	Du darfst nicht zulassen , dass ich alleine bin . 
+1564	I don 't ... 	Ich will nicht alleine sein . 
+1565	I don 't want to be alone . 	Ich will nicht alleine sein . 
+1566	I don 't want to be alone . 	Ich will nicht alleine sein . 
+1567	All ri ... all right , all right . 	Ist ja gut . 
+1568	All right . 	Ist ja gut . 
+1569	It 's all right . 	Komm , setz dich . 
+1570	Come and sit down . 	Komm , setz dich . 
+1571	It 's all right . 	
+1572	Come and sit down . 	Setz dich hin . 
+1573	It 's all right . 	Alles ist gut . 
+1574	Oh , well , that 's a ... that 's a much nicer ring than the one I made you . 	Der Ring ist viel schöner als der , den ich dir gemacht hab . 
+1575	Yes . 	Der Ring ist viel schöner als der , den ich dir gemacht hab . 
+1576	His name 's Jock . 	Ja . Er heißt Jock . 
+1577	He 's an Army man , if you can believe it . 	Er ist in der Armee , ob dus glaubst oder nicht . 
+1578	We work together . 	Wir arbeiten zusammen . 
+1579	Why don 't we do a crossword puzzle . 	Lass uns ein Kreuzworträtsel machen . 
+1580	It 'll only take us five minutes . 	Dazu brauchen wir nur 5 Minuten . 
+1581	Or , in your case , six . 	Oder in deinem Fall 6 . 
+1582	There . 	Hier . 
+1583	Perhaps later . 	Vielleicht später . 
+1584	Yes , of course . 	Ja , natürlich . 
+1585	You got what you wanted , didn 't you ? 	Du hast jetzt , was du wolltest , nicht ? 
+1586	Work , a husband . 	Arbeit , einen Mann ... ein normales Leben . 
+1587	Normal life . 	Arbeit , einen Mann ... ein normales Leben . 
+1588	No one normal could have done that . 	Kein anderer hätte das geschafft . 
+1589	Do you know , this morning ... 	Heute Morgen ... im Zug , fuhren wir durch eine Stadt , die es nicht geben würde , wenn du nicht wärst . 
+1590	I was on a train that went through a city that wouldn 't exist if it wasn 't for you . 	Heute Morgen ... im Zug , fuhren wir durch eine Stadt , die es nicht geben würde , wenn du nicht wärst . 
+1591	I bought a ticket from a man who would likely be dead if it wasn 't for you . 	Ich habe ein Ticket gekauft von einem Mann , der vermutlich tot wäre , wenn du nicht wärst . 
+1592	I read up on my work ... a whole field of scientific inquiry that only exists because of you . 	Ich habe mich in meine Arbeit eingelesen , ein riesiges Forschungsgebiet , das nur deinetwegen existiert . 
+1593	Now , if you wish you could have been normal ... 	Wenn du lieber " normal " gewesen wärst , versichere ich dir : 
+1594	I can promise you I do not . 	Wenn du lieber " normal " gewesen wärst , versichere ich dir : 
+1595	The world is an infinitely better place precisely because you weren 't . 	Die Welt ist unendlich viel besser , gerade weil du es nicht warst . 
+1596	Do you ... do you really think that ? 	Glaubst du das wirklich ? 
+1597	I think ... that sometimes it is the people who no one imagines anything of who do the things that no one can imagine . 	Ich glaube ... manchmal sind die Menschen , von denen man es sich nicht vorstellen kann , diejenigen , die unerwartete Dinge tun . 
