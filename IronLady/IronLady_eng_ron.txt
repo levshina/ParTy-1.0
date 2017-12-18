@@ -1,0 +1,1392 @@
+1	One forty- nine , please . 	1, 49 , te rog . 
+2	- How much is the milk ? 	Cât costă laptele ? 
+3	- Forty- nine pence . 	1, 49 de pence . 
+4	- Thank you very much . 	Mulţumesc . 
+5	- Thank you . 	Mulţumesc . 
+6	One pound , please . 	
+7	Thank you . 	Mulţumesc . 
+8	Uh- uh . 	
+9	Too much . 	- E prea mult . 
+10	Much too much butter . 	Pui prea mult unt . - Îmi place untul . 
+11	I like butter . 	Pui prea mult unt . - Îmi place untul . 
+12	Denis . 	
+13	Mmm . 	
+14	- Milk 's gone up . 	S- a scumpit laptele . 
+15	- Hm ? 	1, 49 pence litrul . 
+16	- 49p a pint . 	1, 49 pence litrul . 
+17	- Good grief ! 	1, 49 pence litrul . 
+18	We 'll have to economize . 	Doamne sfinte ! Va trebui să facem economie . 
+19	I suppose we could always sell the car . 	Am putea vinde maşina . 
+20	Or take in paying guests . 	Sau să primim oameni î n chirie . 
+21	Watch out . 	Ai grijă . 
+22	She 's on the prowl . 	A ieşit la vânătoare . 
+23	Eat your 699 . 	Mănâncă- ţi oul . 
+24	- Goodness ! 	Doamne ! 
+25	There you are . 	Aici eraţi . Da . 
+26	- Yes . 	Aici suntem . 
+27	Here we are . 	Aici suntem . 
+28	How did this happen ? 	
+29	How could she possibly have got out ? 	Nu î nţeleg cum s- a î ntâmplat . 
+30	It 's very , very important that the front door is left locked . 	Cum e posibil să fi ieşit afară ? Este extrem de important . 
+31	- Of course . 	Te rog , fii explicită . 
+32	- Please , make it clear 	Te rog , fii explicită . 
+33	- to whoever 's on after you . 	Ce crezi că se î ntâmplă ? 
+34	- Dixon . 	Ce crezi că se î ntâmplă ? 
+35	I 'm afraid I 'm going to have to phone the station about this . 	Ce crezi că se î ntâmplă ? 
+36	- Anything could have happened . 	
+37	- I understand . 	
+38	Maria , she 's starting to clear her husband 's cupboard , so ... 	
+39	- Mm- hm . 	
+40	- I may need your help . 	
+41	Can you bring up any cases that you can find in the basement ? 	
+42	Of course . 	
+43	Mm ! 	
+44	Beautiful day . 	Ce zi frumoasă ! 
+45	- Mm ... 	Ce zi frumoasă ! 
+46	- Oh , you 've made a start . 	Ai î nceput deja . 
+47	Carol 's coming soon , I' ll get some bags . 	Carol trebuie să ajungă . Aduc nişte genţi . 
+48	Anything you want to go to Mark , I' ll bring up a suitcase for it . 	Dacă vrei să iei ceva la Mark , î ţi aduc o valiză . 
+49	Uh- uh . 	
+50	No , no , no , no . 	Nu , nu , nu . 
+51	The grey . 	Cel gri . 
+52	- You sure ? 	Eşti sigură ? 
+53	- Mm ... 	
+54	Definitely the grey . 	Da . Categoric cel gri . 
+55	Righty oh . 	Foarte bine . 
+56	Boss knows best . 	Şefa ştie mai bine . 
+57	Don 't let her take my paper away . 	N- o lăsa să- mi ia ziarul . 
+58	Oh , I haven 't had a chance to look at that yet , dear . 	N- am avut timp să- l citesc î ncă , dragă . 
+59	Sorry . 	Scuze . 
+60	Atta girl . 	Bravo , fată . 
+61	Ah ! 	La naiba . 
+62	Damn ! 	La naiba . 
+63	- Damn it . 	
+64	- Blot it . 	Te- ai pătat . 
+65	- Blot it . 	Te- ai pătat . 
+66	- Pardon ? 	Poftim ? 
+67	You 're supposed to be looking after her . 	
+68	Now look what you 've done . 	Uite ce- ai făcut . 
+69	Are they to keep the loonies out or you in ? 	Au venit să te scoată sau să te î nchidă ? 
+70	Hm ... 	
+71	I' ll be off then . 	Hai că plec . 
+72	Wear your scarf . 	Pune- ţi fularul . 
+73	There is a chill out there . 	E răcoare afară . 
+74	Good morning , Lady Thatcher . 	Bună dimineaţa , doamnă Thatcher . 
+75	Are you all right ? 	E totul î n ordine ? 
+76	- How are you feeling ? 	Cum vă simţiţi ? 
+77	- I 'm fine , thank you , Susie . 	Bine . Mulţumesc , Susie . 
+78	I' ve just been reading about the bombings . 	Am citit despre bombardamente . 
+79	- Of course . 	Da . Sunt î nspăimântătoare . 
+80	Frightful . 	
+81	- Sorry - . 	Scuze . 
+82	These are the books for you to sign . 	Trebuie să semnaţi aceste cărţi . 
+83	I brought as many as I could find . 	Am cumpărat cât de multe am găsit . 
+84	Shall we go through your appointments ? 	Verificăm ce î ntâlniri aveţi ? 
+85	We said we 'd go through them today . 	Am stabilit că le verificăm azi . 
+86	Yes . 	Da , desigur , dragă . 
+87	Of course , dear . 	Da , desigur , dragă . 
+88	Today . 	Da , desigur , dragă . 
+89	The invitation has come from Downing Street for the unveiling of your portrait . 	Astăzi . Aveţi o invitaţie de pe strada Downing , la dezvelirea portretului dvs . 
+90	I' ll put that on the mantelpiece , and there 's an invitation from Lord Armstrong for lunch on the first Friday of next month . 	V- o las pe şemineu . Mai aveţi şi o invitaţie din partea dlui Armstrong la prânz , î n prima vineri a lunii următoare . 
+91	I said no , because you have a concert that afternoon , but if you 'd like to ... 	Am refuzat , aveţi un concert î n acea după- amiază , dar dacă doriţi ... 
+92	It looks like a very interesting program . 	Pare un program foarte interesant . 
+93	What are they playing ? 	Ce spectacol va fi ? 
+94	Um , I think they said ... ... Rodgers & Hammerstein . 	Parcă au spus Rogers şi Hammerstein . 
+95	Oh . 	
+96	Oh ... 	
+97	Silly man . 	Bleguţul . 
+98	Oh , he hasn 't got his scarf on . 	Nu şi- a pus fularul . 
+99	- Did someone cover the butter ? 	A acoperit cineva untul ? 
+100	- I' ll go . 	Mă duc eu . 
+101	- Leave it ! 	Mă duc eu . 
+102	- Margaret . 	Lasă- l , Margaret ! 
+103	Good girl . 	Bravo . 
+104	Tomorrow , no matter what they do , it 'll be business as usual . 	Mâine , indiferent ce fac ei , eu voi face afaceri , ca de obicei . 
+105	Two of the small beef , Mr . 	Două fleici mici de vită , dle Roberts . 
+106	Roberts . 	Două fleici mici de vită , dle Roberts . 
+107	What is the life blood of any community ? 	Care e viaţa oricărei comunităţi ? 
+108	It 's business . 	Care e viaţa oricărei comunităţi ? 
+109	Not just big business , but small businesses , like mine . 	Afacerile . Şi nu afacerile mari , ci cele mici , cum e a mea . 
+110	Margaret ! 	Afacerile . Şi nu afacerile mari , ci cele mici , cum e a mea . 
+111	Cups ! 	Margaret ! 
+112	We on this island are strong . 	Paharele ! Noi , cei de pe această insulă , suntem puternici , ne bazăm pe noi . 
+113	We 're self- reliant . 	
+114	Sometimes , we 're plain bloody- minded . 	Uneori suntem î ncăpăţânaţi , î nsă crezul nostru este ajutarea aproapelui . Şi nu mă refer la a sta cu mâna î ntinsă . 
+115	But we also believe in helping each other . 	Uneori suntem î ncăpăţânaţi , î nsă crezul nostru este ajutarea aproapelui . Şi nu mă refer la a sta cu mâna î ntinsă . 
+116	And I don 't mean by state handouts . 	Uneori suntem î ncăpăţânaţi , î nsă crezul nostru este ajutarea aproapelui . Şi nu mă refer la a sta cu mâna î ntinsă . 
+117	Margaret , do you want to come to the pictures ? 	Margaret , vii să facem poze ? 
+118	She 's not coming out , she 's got to study . 	Nu poate veni , are de î nvăţat . 
+119	- Miss Hoity- Toity ! 	Dra Ştie- Tot ! 
+120	Never run with the crowd , Margaret . 	Nu urma niciodată turma , Margaret . 
+121	Go your own way . 	Mergi pe drumul tău . 
+122	Go your own way . 	Deschide- l . 
+123	Never run with the crowd . 	Deschide- l . 
+124	Open it then . 	Deschide- l . 
+125	I' ve got a place at Oxford . 	M- au admis la Oxford . 
+126	Don 't let me down , Margaret . 	Să nu mă dezamăgeşti , Margaret . 
+127	Mother ! 	Mamă ! 
+128	My hands are still damp . 	Am mâinile ude . 
+129	" Margaret Roberts . " 	Margaret Roberts ... 
+130	Oh ! 	
+131	Tea . 	
+132	- Margaret ! 	Margaret ! 
+133	Cups ! 	Paharele ! 
+134	They 're talking about you again . 	Iar discută despre tine . 
+135	Wha ... 	Cât e ceasul ? 
+136	What time is it ? 	Cât e ceasul ? 
+137	Sun 's not quite over the yardarm . 	Soarele n- a trecut dincolo de gard . 
+138	- It 's time for tea . 	E ora ceaiului . 
+139	- Look , Margaret . 	
+140	What have you got on your head ? 	Ce ai pe cap ? 
+141	Found it in the cupboard , and thought , bugger it , it 's Friday , why not fancy dress ? 	Am găsit- o î n dulap şi- am zis s- o probez , doar e vineri . De ce să nu port ceva elegant ? 
+142	- You look ridiculous . 	Arăţi ridicol . Şefa e nemulţumită ? 
+143	- Boss lady no like ? 	Arăţi ridicol . Şefa e nemulţumită ? 
+144	No , Denis , boss lady no like . 	Nu , Denis , şefei nu- i place . 
+145	She 's made a start , that 's the main thing . 	
+146	No , no , no . 	
+147	It 's going fine . 	
+148	But it 's taken Carol eight years to persuade her to let his things go . 	
+149	Feet ! 	
+150	Well , it 's her pills . 	
+151	You can never be sure she 's taking them . 	
+152	I think sometimes she hides them . 	
+153	Oh , rumbled ! 	
+154	They give her about an hour 's clarity , then she slips again . 	
+155	Can I suggest you remove the sticker from the back of your car ? 	Pot să- ţi sugerezi să dezlipeşti autocolantul de pe maşină ? 
+156	- Sorry . 	Toată ziua mă baţi la cap . 
+157	It 's always cash ... 	Toată ziua mă baţi la cap . 
+158	- Then take the sticker off ! 	Atunci dezlipeşte- l ! 
+159	I call that false advertising , wouldn 't you ? 	E o falsă reclamă . Ţi- aş lăsa ţie restul , dar n- a mai rămas nimic . 
+160	- I' ve got another ... 	E o falsă reclamă . Ţi- aş lăsa ţie restul , dar n- a mai rămas nimic . 
+161	- I would say keep the change , but there isn 't any change . 	E o falsă reclamă . Ţi- aş lăsa ţie restul , dar n- a mai rămas nimic . 
+162	Hello , June . 	Bună , June ! 
+163	Any news ? 	Ai noutăţi ? 
+164	Look , I brought every single bag I could find . 	Am adus toate genţile pe care le- am găsit . 
+165	He gave a speech recently , trying to come up with a broad base ... 	
+166	Hello , Ma . 	Bună , Ma ! 
+167	Bloody taxi driver wouldn 't take my card . 	Afurisitul de şofer de taxi n- a vrut să- mi accepte cardul . 
+168	I said don 't have a sticker saying you take Visa and then insist on cash . 	Să şteargă afişul cu Visa dacă tot nu acceptă decât numerar . Îţi vine să crezi ? 
+169	Oh ! 	Să şteargă afişul cu Visa dacă tot nu acceptă decât numerar . Îţi vine să crezi ? 
+170	Can you believe it ? 	Să şteargă afişul cu Visa dacă tot nu acceptă decât numerar . Îţi vine să crezi ? 
+171	Rummaging around the bottom of my bag . 	Mi- am răscolit geanta . Nu i- am lăsat bacşiş . 
+172	He didn 't get a tip . 	
+173	I didn 't know that you were dropping by today , dear . 	Nu ştiam că vii azi pe aici , draga mea . 
+174	Yes , you said yesterday , we were going to start on Dad 's things . 	Dar ai spus de ieri că vrei să î mpachetezi lucrurile tatei din dulapuri şi să te ajut să te î mbraci . 
+175	The cupboards , then I was going to help you dress . 	Dar ai spus de ieri că vrei să î mpachetezi lucrurile tatei din dulapuri şi să te ajut să te î mbraci . 
+176	- You 've got Michael and ... 	Michael şi ... 
+177	- Jacqueline . 	Jaqueline ... vin la cină diseară . 
+178	- Coming for dinner tonight . 	Jaqueline ... vin la cină diseară . 
+179	- Yes , of course . 	Da , desigur . 
+180	We 're having halibut . 	Vom servi halibut . 
+181	This is a major catastrophe that has struck our capital . 	
+182	- As you can see ... 	Doamne , ce oribil . 
+183	- Isn 't it terrible ? 	Doamne , ce oribil . 
+184	They think it 's al- Qaeda . ... are trying to get all the people out of the building . 	Ei cred că e Al Quaida . 
+185	The Prime Minister and his senior staff were due to be staying at the hotel , 	
+186	- but checked out earlier . 	
+187	- Denis ! 	
+188	It 'll be fine . 	
+189	Come get your head down . 	Totul va fi bine . 
+190	- It 's ten to three , for God 's sake . 	Hai , linişteşte- te , E 3 fără 10 , pentru Dumnezeu . 
+191	- Denis ! 	La ora 3 fără 10 , o explozie de azi dimineaţă , a distrus Grand Hotel din Brighton , 
+192	At ten to three this morning , an explosion extensively damaged the Grand Hotel in Brighton ... ... 	La ora 3 fără 10 , o explozie de azi dimineaţă , a distrus Grand Hotel din Brighton , 
+193	Brighton , scene of the Conservative Party conference . ... the Prime Minister and a number of her Cabinet were staying . 	locul conferinţei Partidului Conservator , unde erau cazaţi şi primul ministru şi o parte a cabinetului său . 
+194	They escaped unhurt , but it 's reported that ... 	Au scăpat nevătămaţi . 
+195	Five people have died , many others are injured , some critically . 	Cinci persoane au decedat , mulţi au fost răniţi , iar alţii se află î n stare gravă . 
+196	The IRA have claimed responsibility . 	IRA şi- a asumat responsabilitatea . 
+197	We must release a statement , offering our condolences . 	Trebuie să dăm o declaraţie , să le prezentăm condoleanţe . 
+198	I 'm sure they 've already ... 	Sigur au făcut asta deja . 
+199	We must never , ever , ever give in to terrorists . 	Nu trebuie să cedăm niciodată î n faţa teroriştilor . 
+200	Is it warm in here ? 	Bună dimineaţa , dragă . 
+201	Now , Ma , are we going long or just below the knee tonight ? 	Ma , o vrei lungă sau până sub genunchi î n seara asta ? 
+202	Oh , below the knee , I should think . 	Cred că până sub genunchi . 
+203	No ! 	Nu ! 
+204	Don 't ... 	Nu le muta . Încă nu le- am terminat de triat . 
+205	Don 't move those . 	Nu le muta . Încă nu le- am terminat de triat . 
+206	I haven 't finished sorting . 	Nu le muta . Încă nu le- am terminat de triat . 
+207	I hear you went out today . 	Am auzit c- ai ieşit î n oraş azi . 
+208	You mustn 't go out on your own , Mummy . 	Nu trebuie să ieşi singură , mamă . 
+209	We 've talked about that . 	Am mai discutat despre asta . 
+210	There was no milk . 	Nu mai era lapte . 
+211	Call Robert , he 'll get it for you if June 's not up . 	Sună- l pe Robert şi- ţi aduce el dacă nu e June acasă . 
+212	I am not for the knacker 's yet . 	Nu sunt neputincioasă î ncă . 
+213	Now , take it easy , Margaret . 	Linişteşte- te , Margaret . 
+214	- No one 's saying that . 	N- a spus nimeni asta . 
+215	If I can 't go out to buy a pint of milk , what is the world coming to ? 	Dacă nu pot ieşi să- mi iau un litru de lapte , pe ce lume mai trăim ? 
+216	Really , Carol . 	Serios , Carol ... 
+217	Please don 't fuss about it . 	Te rog , nu face tărăboi pe tema asta . 
+218	You 've always been like this , fuss , fuss , fuss . 	Mereu ai fost aşa . Tărăboi . Tărăboi . 
+219	You must find something better to do with your time . 	Trebuie să- ţi găseşti ceva mai bun de făcut î n timpul liber . 
+220	It 's most unattractive in a woman . 	Nu e deloc atrăgător la o femeie . 
+221	When I was your age , the last thing I wanted to do was fuss around my mother . 	Când eram de vârsta ta , ultimul lucru pe care voiam să- l fac era să- i fac tărăboi mamei . 
+222	Four down , nine letters . 	Am 4 litere , e din 9 . 
+223	Something B , something T , something N ... 	Pătrăţică , B , pătrăţică , T , pătrăţică , N , pătrăţică T . 
+224	Something , something , something . 	Pătrăţică , pătrăţică , pătrăţică . 
+225	Refusal to change course . 	Refuză să se schimbe . 
+226	- Obstinate . 	Obstinat . 
+227	- What ? 	Ce ? 
+228	- I knew you 'd get it . 	Ce ? 
+229	Ob ... 	
+230	I' ll wear the pearls . 	Perle . Voi purta perle . 
+231	I' ll wear the pearls . 	
+232	There they are . 	Iată- le . Îngemănatele mele . 
+233	My little twins . 	Iată- le . Îngemănatele mele . 
+234	Thank you , dear . 	Mulţumesc , dragă . 
+235	It 's nearly all familiar faces : 	Sunt numai cunoscuţi : 
+236	- William , Michael and his lovely wife . 	William , Michael şi scumpa lui soţie , 
+237	- Jacqueline . 	Jacqueline . 
+238	And then there 's Peter , James R , James T , and that very nice man we met last year . 	Mai sunt Peter , James R . , James T . şi domnul acela drăguţ ... 
+239	- I remember . 	Da , ne- am cunoscut anul trecut . 
+240	- He 's bringing his new lady friend , just to mix things up a bit , because we 're rather short of women , but I 'm sure we 'll manage . 	Da , î mi amintesc . Cred că vine cu noua lui prietenă ca să mai î nsufleţească atmosfera . Nu prea sunt femei , dar sigur ne descurcăm . 
+241	I' ve always preferred the company of men . 	Mereu am preferat compania bărbaţilor . 
+242	- Ma ? 	Ma . 
+243	Ah , Miss Roberts . 	Dră Roberts . 
+244	Hoping to be chosen as our candidate for Parliament . 	Sperăm să fiţi aleasă drept candidata noastră pentru parlament . 
+245	Well , I don 't like coalitions , I never have . 	Nu- mi plac coaliţiile . Niciodată nu mi- au plăcut . 
+246	Start on the outside , work your way in . 	Începe din exterior spre interior . 
+247	Attlee has his sights set on the steel industry , you mark my words . 	Attlee e cu ochii pe industria de metal , credeţi- mă pe cuvânt . 
+248	They 'll be nationalizing the bloody air next . 	Vor naţionaliza afurisitul de spaţiu aerian anul viitor . 
+249	Yes , hold your breath , sir . 	Da . Ţineţi- vă respiraţia , dle , e proprietatea guvernului ! Şi tatăl dumitale era om politic , dră Roberts ? 
+250	That 's government property . 	Da . Ţineţi- vă respiraţia , dle , e proprietatea guvernului ! Şi tatăl dumitale era om politic , dră Roberts ? 
+251	Dreadful . 	Da . Ţineţi- vă respiraţia , dle , e proprietatea guvernului ! Şi tatăl dumitale era om politic , dră Roberts ? 
+252	Was your father a political man , too , Miss Roberts ? 	
+253	Oh , yes , to his core . 	Da , până- n măduva oaselor . 
+254	And Mayor of Grantham . 	Era şi primar de Grantham . Şi băcan ! 
+255	- And a grocer as well . 	Era şi primar de Grantham . Şi băcan ! 
+256	- Yes . 	Da . 
+257	And did you help ... in the ... 	- Ajutai şi tu prin ... magazin ? 
+258	- Oh , yes . 	- Da . 
+259	It was a family business . - ... shop ? 	Era o afacere de familie . 
+260	A very good starting point for the political life , I 'm sure . 	E un punct de plecare bun pentru o viaţă politică , sunt sigur . 
+261	That and a degree from Oxford . 	Asta şi diploma de la Oxford . 
+262	No , don 't . 	Whisky . 
+263	Whiskey , please . 	Whisky . 
+264	What I do think is that a man should be encouraged to stand on his own two feet . 	Cred că omul ar trebui î ncurajat să se sprijine pe propriile sale forţe . 
+265	Yes , we help people . 	Da , ajutăm oamenii . 
+266	Of course we help people . 	Sigur că- i ajutăm . Însă cei care pot face ceva , trebuie să se ridice şi să facă . 
+267	But for those that can do , they must just get up and do . 	Sigur că- i ajutăm . Însă cei care pot face ceva , trebuie să se ridice şi să facă . 
+268	And if something 's wrong , they shouldn 't just whine about it , they should get in there and do something about it , change things . 	Iar dacă ceva nu merge , n- ar trebui să se plângă de asta . Ar trebui să meargă şi să face ceva î n privinţa asta , să schimbe lucrurile . 
+269	With all due respect , Miss Roberts , what may have served in Grantham ... 	Cu tot respectul , dră Roberts , ceea ce se aplica î n Grantham ... 
+270	Can serve very well for the people of Dartford , too . 	Se poate aplica foarte bine şi oamenilor din Dartford . 
+271	- Really ? 	Serios ? Ştiu mult mai multe decât cei care n- au trăit dintr- un venit limitat . 
+272	- I know much more than those who have never lived on a limited income . 	Serios ? Ştiu mult mai multe decât cei care n- au trăit dintr- un venit limitat . 
+273	Just like the man or woman in the street , when I am short one week , I have to make economies the next . 	Asemeni cetăţeanului obişnuit , dacă n- am bani o săptămână , trebuie să economisesc î n următoarea . 
+274	Nothing like a slice of fiscal responsibility . 	Nimic nu se compară cu o porţie de responsabilitate fiscală . 
+275	A man might call it fiscal responsibility , a woman might call it good housekeeping . 	Bărbatul î i spune responsabilitate fiscală . Femeia o numeşte gospodărie . 
+276	I 'm not sure a home economics lesson is quite what the Dartford constituents need . 	Nu sunt sigur că de o lecţie casnică de economie au nevoie alegătorii din Dartford . 
+277	They see industry being nationalized , the unions on the up , the pound on the slide . 	Ei văd naţionalizarea industriei ca pe unirea sindicatelor şi deprecierea lirei . 
+278	Whoever can sort that lot out , he 's my man . 	Cine poate rezolva asta , e omul meu . 
+279	- Or woman ? 	Sau femeia . 
+280	Ladies , shall we ? 	Doamnelor , mergem ? 
+281	Miss Roberts , do join the ladies . 	Dră Roberts , mergi cu doamnele . 
+282	Well . 	
+283	That 's told us ! 	Ce ne- a spus- o ! 
+284	So , Margaret , how would you have dealt with this if you 'd been Prime Minister ? 	Margaret , tu ce ai face dacă ai fi prim ministru ? 
+285	Where ? 	Unde ? 
+286	The bombings , Mummy . 	Bombardamentele de azi , mămico . 
+287	Today . 	Bombardamentele de azi , mămico . 
+288	We were just talking about them . 	Vorbeam despre ele . 
+289	No ... yes . 	Întotdeauna am trăit alături de rău . 
+290	We have always lived alongside evil . 	Întotdeauna am trăit alături de rău . 
+291	But it has never been so patient , so avid for carnage , so eager to carry innocents along with it into oblivion . 	Dar n- a fost niciodată atât de răbdător , de dornic de carnagiu şi trimite nevinovaţii î n uitare . 
+292	Hear , hear . 	Margaret , tu ce ai face ? 
+293	Western civilization must root out this evil , wherever it hides , or she risks defeat at the hands of global terror in a nuclear age . 	Civilizaţia occidentală trebuie să smulgă din rădăcini acest rău , de oriunde s- ar ascunde , altfel riscă î nfrângerea terorii globale î ntr- o epocă nucleară . 
+294	Unimaginable . 	Inimaginabil ! 
+295	The Prime Minister made a very good statement , I thought . 	Primul ministru a dat o declaraţie care mi s- a părut destul de bună . 
+296	Yes . 	Primul ministru a dat o declaraţie care mi s- a părut destul de bună . 
+297	Clever man . 	Da , abil om . 
+298	Quite a smoothie . 	Foarte linguşitor . 
+299	Miss Thatcher , it 's been such a pleasure to meet you . 	- Te superi dacă stau jos ? 
+300	- You don 't mind if I sit down . 	- Te superi dacă stau jos ? 
+301	- No , no . 	- Nu . 
+302	I heard you speak at the conference in Brighton in 1984 , just after the IRA bombed the Grand Hotel . 	Te- am auzit vorbind la conferinţa din Brighton , î n 1984 , imediat după ce IRA a bombardat Grand Hotel . 
+303	You were remarkable . 	Ai fost remarcabilă . 
+304	I hope you appreciate what an inspiration you 've been to women like myself . 	Sper că ştii c- ai fost o adevărată inspiraţie pentru femeile ca mine . 
+305	Well , it used to be about trying to do something . 	Înainte era vorba despre a face ceva . 
+306	You see . 	
+307	Now , it 's about trying to be someone . 	Acum e despre a î ncerca să fii cineva . 
+308	- Mm . 	
+309	Anyway , I ... thank you . 	În orice caz ... î ţi mulţumesc . 
+310	- Good night , Lady Thatcher . 	- Noapte bună , dnă Th ... 
+311	- Good night to you . 	- Noapte bună şi ţie . 
+312	I am so pleased to see your mother looking so well . 	
+313	- Yes , doesn 't she . 	
+314	- She certainly does . 	
+315	William , great to see you , thank you so much for coming . 	
+316	Thank you . 	
+317	It was lovely , absolutely lovely . 	
+318	- Can I call you a taxi ? 	
+319	- No , no ... 	
+320	OK , hold on to me , that 's right . 	Gata , ţine- te de mine . 
+321	Ah . 	
+322	Better . 	
+323	Do the clasp . 	Desfă- mi- le tu , nu prea ajung ... 
+324	I can 't quite ... 	Desfă- mi- le tu , nu prea ajung ... 
+325	- OK . 	Mulţumesc . 
+326	Yes . 	
+327	- Oh , you have an eyelash . 	Ai o geană . 
+328	- Oh ? 	
+329	- Make a wish . 	Pune- ţi o dorinţă . 
+330	Oh , I spoke to Dr . 	Am vorbit cu dr Michael azi . 
+331	Michael today . 	Am vorbit cu dr Michael azi . 
+332	He 's very good . 	E foarte bun şi foarte costisitor . 
+333	Very expensive . 	E foarte bun şi foarte costisitor . 
+334	I know you 're not due to see him for another month , but I' ve spoken to him and he can fit you in tomorrow . 	Ştiu că nu trebuia să- l vezi pentru î ncă o lună , dar am discutat cu el şi te poate primi mâine . 
+335	Just for a checkup . 	Pentru o consultaţie . 
+336	Ma , please . 	Mamă , te rog . 
+337	What does Mark think about it ? 	Ce părere are Mark despre asta ? 
+338	- Mark ? 	Mark ? 
+339	- Mm . 	
+340	Tell him to come up . 	Da , spune- i să urce . 
+341	I want to talk to him about this . 	Vreau să discut cu el despre asta . 
+342	Mark 's with Sarah and the children . 	Mark e cu Sarah şi copiii . 
+343	Well , tell him to come up and see me after he 's kissed them good night , would you , Carol , darling ? 	Spune- i să vină la mine după ce î i pupă pe copii de noapte bună , vrei , scumpă Carol ? 
+344	He 's not here , Mummy . 	Nu e aici , mămico . 
+345	Mark lives in South Africa . 	Mark locuieşte î n Africa de Sud . 
+346	And you 're not Prime Minister any more . 	Nu mai eşti prim ministru . 
+347	And Dad is , uh ... 	Iar tata ... 
+348	Dad is dead . 	Tata e mort . 
+349	You look exhausted , dear . 	Pari extenuată , scumpo . 
+350	You really must try to get some sleep . 	Ar trebui să î ncerci să te odihneşti . 
+351	Taxis will be few and far between at this hour . 	Taxiurile sunt puţine şi rare la ora asta . 
+352	Righty oh . 	Bine . 
+353	Night- night , Ma . 	Noapte bună , mamă . 
+354	Sleep well . 	Somn uşor . 
+355	Good night , dear . 	Noapte bună , scumpo . 
+356	Twenty- four- year- old Miss Margaret Roberts lost her bid to win a seat in Parliament today , but she has put new life into the Dartford Conservative Association . 	Dra Margaret Roberts , î n vârstă de 24 de ani , a pierdut cursă spre parlament astăzi , dar i- a dat o viaţă nouă Asociaţiei conservatoare din Dartford . 
+357	Winning candidate , Mr . 	Candidatul câştigător , dl Dodds , ar trebui să fie atent , pentru că această tânără promiţătoare e pe urmele lui . 
+358	Dodds , had better watch out . 	Candidatul câştigător , dl Dodds , ar trebui să fie atent , pentru că această tânără promiţătoare e pe urmele lui . 
+359	This bright young woman is on his tail . 	Candidatul câştigător , dl Dodds , ar trebui să fie atent , pentru că această tânără promiţătoare e pe urmele lui . 
+360	- Eat . 	Mănâncă ! 
+361	- Oh . 	
+362	Disaster . 	Ce dezastru ... 
+363	Hang on . 	Stai aşa . 
+364	Hang on . 	Stai aşa . 
+365	Hang on . 	Şi o tărie . 
+366	You shaved thousands off their majority . 	Le- ai ras sute de voturi . 
+367	You did splendidly . 	Te- ai descurcat splendid ! 
+368	Not splendidly enough . 	Nu suficient de splendid . Înţeleg . 
+369	Ah , I see . 	Autocompătimire . 
+370	Self- pity . 	Autocompătimire . 
+371	No one 's saying you don 't need a safe seat . 	Nu spune nimeni că n- ai nevoie de un fotoliu sigur . 
+372	You deserve a safe seat . 	Meriţi un fotoliu sigur . 
+373	But it does not come unless you learn to play the game a little . 	Dar n- o să- l obţii dacă nu î nveţi să joci jocul . 
+374	- What game ? 	Ce joc ? 
+375	- You 're a grocer 's daughter . 	Eşti fiica unui băcan . - Şi sunt mândră de asta . 
+376	- And proud of being ... 	Eşti fiica unui băcan . - Şi sunt mândră de asta . 
+377	- And in their eyes ... ... a single grocer 's daughter . 	- Iar î n ochii lor ... O fiică nemăritată de băcan . 
+378	But if you were to become the wife of a moderately successful businessman , then you 'd get to Parliament . 	Dacă ai deveni soţia unui viitor afacerist de succes moderat , ai intra î n parlament . 
+379	And I 'd get to be the happiest man in ... ... wherever they select you . 	Iar eu aş fi cel mai fericit om din ... Oriunde te- ar alege . 
+380	Margaret , will you marry me ? 	Margaret , vrei să fii soţia mea ? 
+381	Well ? 	Deci ? 
+382	Yes . 	Da . 
+383	Yes ! 	Da ! 
+384	- Oh ... 	Ce e ? 
+385	- What ? 	Ce e ? 
+386	I love you so much , but ... ... I will never be one of those women , Denis , who stays silent and pretty on the arm of her husband . 	Te iubesc enorm , dar ... N- o să fiu niciodată o femeie din acelea , Denis , care atârnă tăcută şi drăguţă de braţul soţului ei . 
+387	Or remote and alone in the kitchen , doing the washing- up , for that matter . 	Sau singură î n bucătărie , spălând vasele . 
+388	We 'll get a help for that . 	- Vom angaja pe cineva pentru asta . 
+389	No . 	- Vom angaja pe cineva pentru asta . 
+390	One 's life must matter , Denis . 	- Nu ... Viaţa trebuie să aibă î nsemnătate , Denis . 
+391	Beyond all the cooking and the cleaning and the children , one 's life must mean more than that . 	Dincolo de a găti , a spăla şi a creşte copiii , viaţa trebuie să î nsemne mai mult de atât . 
+392	I cannot die washing up a tea cup . 	Nu vreau să mor spălând o ceaşcă de ceai . 
+393	I mean it , Denis . 	Vorbesc serios , Denis . 
+394	Say you understand . 	Spune- mi că î nţelegi . 
+395	That 's why I want to marry you , my dear . 	De asta vreau să mă î nsor cu tine , draga mea . 
+396	Oh . 	
+397	Now eat . 	Mănâncă acum . 
+398	Oh ! 	
+399	Oh ... 	
+400	There we go . 	
+401	There they are , my little twins . 	Iată- vă , gemenii mei . 
+402	Oh ... 	
+403	Mark . 	
+404	Cornwall , wasn 't it ? 	Cornwall , nu- i aşa ? 
+405	Bloody hell . 	Fir- ar să fie ... 
+406	Look at them , little imps . 	Uită- te la ei , ce î mpieliţaţi ! 
+407	You never really got golf , did you ' ? 	N- ai î nvăţat niciodată să joci golf , nu ? 
+408	You look happy . 	Pari fericit . 
+409	Yes , I do , don 't I ? 	Da , par , nu- i aşa ? 
+410	You 're drinking too much . 	Bei prea mult . 
+411	Whatcha doing ? 	Ce faci ? 
+412	Not like you , looking back . 	Nu e genul tău să priveşti î napoi . 
+413	Don 't want to dig around too deep , M , don 't know what you might find . 	Nu săpa prea mult î n trecut , M . Nu se ştie ce- ai putea găsi . 
+414	You can rewind it , but you can 't change it . 	O poţi derula î napoi , dar n- o poţi schimba . 
+415	They grow up so fast , don 't they ? 	Ce repede cresc ! 
+416	Mark . 	
+417	Oh ... 	
+418	Mr . 	
+419	Eric Deakins , 	Domnul Eric Deakins , clasa muncitoare , 13 . 437 ... 
+420	Labor , 13, 437 . 	Domnul Eric Deakins , clasa muncitoare , 13 . 437 ... 
+421	Mr . 	
+422	Ivan Spence , Liberal , 12, 260 . 	Dl Ivan Spells , liberal , 12 . 260 voturi . 
+423	- We won ! 	
+424	Mrs . 	Dna Margaret Thatcher , conservatoare , 29 . 697 voturi . 
+425	Margaret Thatcher , Conservative , 29, 697 . 	Dna Margaret Thatcher , conservatoare , 29 . 697 voturi . 
+426	I can now announce the new Member of Parliament for Finchley , 	Acum anunţ rezultatele alegerilor ... 
+427	- 1959 ... 	Acum anunţ rezultatele alegerilor ... 
+428	- Come along , please ! ... Mrs . 	Acum anunţ rezultatele alegerilor ... 
+429	Margaret Thatcher . 	Dna Margaret Thatcher . 
+430	Please ! 	Te rugăm ... 
+431	Mummy , don 't go ! 	
+432	You promised ! 	
+433	Hey ! 	
+434	Mummy ! 	
+435	Wait , Mummy ! 	
+436	Please don 't go ! 	
+437	No . 	
+438	Oh ! 	
+439	Mrs . 	
+440	Thatcher . 	Dna Thatcher ! 
+441	Excuse me . 	
+442	Sorry . 	
+443	Mrs . 	Dnă Thatcher ! 
+444	Thatcher , Airey Neave . 	Sunt Airey Neave . 
+445	Welcome to the madhouse . 	Bun venit la balamuc . 
+446	Follow me . 	Veniţi cu mine . 
+447	The Honorable Lady , the Member of Parliament for Finchley ! 	Bun venit membrilor parlamentului ! 
+448	Order ! 	Linişte ! 
+449	Order ! 	Linişte ! 
+450	The Right Honorable Lady , the Secretary of State for Education . 	Stimata lady aleasă ca Secretat de Stat pentru Educaţie . 
+451	Thank you , Mr . 	
+452	Speaker . 	Stimaţi domni , ştiţi că n- avem î ncotro . 
+453	The Right Honorable Gentleman knows very well that we had no choice 	Stimaţi domni , ştiţi că n- avem î ncotro . 
+454	- but to close the schools . 	Trebuie să î nchidem şcolile . 
+455	- Shame ! 	
+456	- Disgrace ! 	Deoarece ... 
+457	Because his union paymasters have called a strike deliberately to cripple our economy . 	Consiliul patronilor au intrat deliberat î n grevă , pentru a ne paraliza economia . 
+458	- Rubbish ! 	
+459	- Teachers cannot teach when there is no heating , no lighting in their classrooms . 	Profesorii nu pot preda fără căldură şi lumină î n sălile de clasă . 
+460	And I ask the Right Honorable Gentleman , whose fault is that ? 	Vă î ntreb , stimaţi domni , a cui este vina ? 
+461	Yours ! 	- A ta ! 
+462	Methinks the Right Honorable Lady doth screech too much . 	Consider că stimata lady ţipă prea mult . 
+463	And if she wants us to take her seriously , she must learn to calm down ! 	Dacă vrea s- o luăm î n serios , trebuie să î nveţe s se calmeze . 
+464	- Very good ! 	
+465	- If the Right Honorable Gentleman could perhaps attend more closely to what I am saying , rather than how I am saying it , he may receive a valuable education in spite of himself ! 	Dacă stimaţii domni ar fi mai atenţi la ce spun , î n loc de modul î n care o spun , poate c- ar primi o lecţie valoroasă î n ciuda propriei persoane . 
+466	Why has ... 	De ce Dumnezeu a dat greş această guvernare conservatoare ? 
+467	Why has this Conservative government failed ? 	De ce Dumnezeu a dat greş această guvernare conservatoare ? 
+468	- It hasn 't failed . 	
+469	Why has it forced so many in the public sector into taking strike action to save their own jobs ? 	De ce i- a forţat pe atât de mulţi din sectorul public să facă grevă pentru a- şi salva locurile de muncă ? 
+470	Minister , the breakdown in essential public services , in transport , in electricity , in sanitation , is not the fault of the trade unions . 	Dle ministru , defalcarea serviciilor publice esenţiale din transport , electricitate , salubritate , nu e din vina sindicatelor , ci a acestei guvernări conservatoare pe care o aserviţi cu neruşinare ! 
+471	It 's entirely the fault of the trade unions . 	Dle ministru , defalcarea serviciilor publice esenţiale din transport , electricitate , salubritate , nu e din vina sindicatelor , ci a acestei guvernări conservatoare pe care o aserviţi cu neruşinare ! 
+472	But of this Conservative government in which you so shamefully serve ! 	Dle ministru , defalcarea serviciilor publice esenţiale din transport , electricitate , salubritate , nu e din vina sindicatelor , ci a acestei guvernări conservatoare pe care o aserviţi cu neruşinare ! 
+473	These power cuts will continue unless we can reach a compromise . 	Aceste reduceri de buget vor continua până vom ajunge la un compromis . 
+474	The miners are asking for a 35 percent increase in wages . 	Minerii cer o creştere cu 35 % a salariilor . 
+475	Obviously , we can 't go anywhere near that . 	Este evident că nu le putem oferi ceva asemănător . 
+476	The unions are not our enemies and never have been . 	Sindicatele nu sunt duşmanii noştri . N- au fost niciodată . 
+477	We want , and have always wanted , the broadest consensus . 	Mereu ne- am dorit consensul general . 
+478	- Hear , hear . 	Mereu ne- am dorit consensul general . 
+479	- I 'm sure we are all in agreement that we must do nothing for the moment that will further inflame the current situation . 	Sunt sigur că suntem cu toţii de acord să nu facem nimic deocamdată , care ar putea inflama î n viitor situaţia actuală . 
+480	- Hear , hear , Prime Minister . 	Ascultaţi- mă , dle prim ministru . 
+481	- The fact of the matter is , it 's absolutely crucial that we are seen by the public to be acting as conciliators and not aggressors . 	Este absolut crucial să fim consideraţi de public drept conciliatori . - Nu agresori . 
+482	Hear , hear . 	- Da . 
+483	- Yes , Education Secretary . 	Da , dnă ministru al educaţiei . 
+484	- Yes , Prime Minister . 	Da , dle prim ministru . 
+485	With the miners' union leader today calling for the army to mutiny in support of the strikes , this seems the wrong time for conciliation . 	Dat fiind că liderul minerilor cheamă armata la revoltă , î n sprijinul greviştilor , pare un moment nepotrivit pentru reconciliere . 
+486	Be patient . 	Aveţi răbdare . 
+487	They 'll come back on again in a moment . 	Va reveni imediat . 
+488	- Anybody got a shilling ? 	- Vede cineva ceva ? 
+489	- Ah , Boy Scout . 	- Vede cineva ceva ? 
+490	Be prepared . 	- Cei de acolo . 
+491	Thank you , Margaret . 	Mulţumesc , Margaret . 
+492	Oh ! 	
+493	It lives . 	
+494	Your thoughts are duly noted . 	Gândurile dvs vor fi menţionate . 
+495	Compromise , compromise , compromise ... 	
+496	We on this island are strong . 	Noi , cei de pe această insulă , suntem puternici . 
+497	We 're self- reliant . 	Ne bazăm pe noi î nşine . 
+498	Napoleon called us a nation of shopkeepers . 	Napoleon ne- a numit popor de negustori . 
+499	He meant it as an insult , but to me it 's a compliment . 	A vrut să fie o insultă , dar pentru mine e un compliment . 
+500	That 's why he couldn 't beat us , that 's why Hitler can 't beat us . 	De asta nu ne- a putut î nvinge . De asta Hitler nu ne poate î nvinge . 
+501	We Conservatives believe in giving people the freedom and opportunity to fulfill their own potential , especially the young . 	Noi , conservatorii , credem î n a acorda oamenilor libertatea şi şansa de a- şi valorifica potenţialul , mai ales cei tineri . 
+502	There 's no good in pretending we 're all equal , we 're not all the same , never have been , never will be . 	N- are rost să pretindem că suntem toţi la fel . Nu suntem la fel . N- am fost , nu suntem şi nu vom fi niciodată . 
+503	We should encourage our children to aspire to achieve more than we have , for our children today will be the leaders of tomorrow . 	Ar trebui să ne î ncurajăm copiii să î nveţe mai mult decât noi . Deoarece copiii de astăzi vor fi liderii de mâine . 
+504	It 's 1974 , you 'd think it was World War II . 	E anul 1974 şi este al Doilea Război Mondial . 
+505	Blackouts , no petrol . 	Sunt pene de curent , nu e benzină . 
+506	It 's a mess . 	E un dezastru . 
+507	Heath should resign now and make way for someone who 's not afraid to tackle the unions . 	Heath ar trebui să demisioneze , să- i lase locul cuiva căruia nu- i este frică să î nfrunte sindicatele . 
+508	I swear , it 's all gone completely out of my head . 	Jur că am uitat tot . 
+509	My driving instructor says I should pass , but I feel as if I' ve hardly had any lessons . 	Instructorul meu auto crede c- ar trebui să trec , dar parcă n- aş fi î nvăţat nimic . 
+510	Which is ridiculous , isn 't it ? 	E ridicol , nu ? 
+511	- Maybe third time lucky . 	Poate a treia oară am noroc . 
+512	- Right . 	Poate a treia oară am noroc . 
+513	The only thing you should remember is that everyone else is either reckless or inept . 	Da . Singurul lucru pe care ar trebui să ţi- l aminteşti , e că toţi ceilalţi sunt ori nesăbuiţi , ori inepţi . 
+514	Usually both . 	Iar deseori ambele . 
+515	One must be brave if one is to take the wheel . 	Trebuie să ai curaj când urci la volan . 
+516	- Right oh . 	Aşa- i . 
+517	- Right , move . 	Mergi puţin mai spre dreapta . 
+518	Move to your right a little bit . 	Mergi puţin mai spre dreapta . 
+519	But if I move to the right , aren 't I on the wrong side of the road ? 	Dacă trec pe dreapta , n- o să fiu pe contrasens ? 
+520	- Carol ! 	Dacă trec pe dreapta , n- o să fiu pe contrasens ? 
+521	- Well , he 's in the way ! 	E î n calea noastră ! 
+522	- To the right . 	Fă la dreapta ! 
+523	Move to the right ! 	Fă la dreapta ! 
+524	- Hey ! 	
+525	Look out ! 	Îmi pare rău ! Îmi pare extrem de rău ! 
+526	So sorry ! 	Îmi pare rău ! Îmi pare extrem de rău ! 
+527	Terribly sorry ! 	Îmi pare rău ! Îmi pare extrem de rău ! 
+528	Hey , look at me , driving ! 	Uită- te la mine , şofez ! 
+529	Thanks , Ma , that was terrific ! 	Mulţumesc , mamă . 
+530	I really feel like I' ve got a handle on it now . 	A fost fantastic ! Simt c- o să mă descurc de- acum . 
+531	You should have seen us , Pa . 	Să ne fi văzut , tată ! Încercai să- ţi pregăteşti micul dejun ? 
+532	Are you trying to cook your own breakfast ? 	Să ne fi văzut , tată ! Încercai să- ţi pregăteşti micul dejun ? 
+533	- Denis ! 	Pentru Dumnezeu , Denis ! 
+534	- I can boil a bloody egg . 	Pot să- mi fierb un afurisit de ou . 
+535	Mummy took me for a test drive . 	Mama m- a dus la un test auto . 
+536	We went absolutely everywhere . 	Am fost absolut peste tot . 
+537	All over the place . 	Prin tot oraşul . 
+538	- Yeah ? 	Am hotărât . 
+539	- I' ve decided . 	Am hotărât . 
+540	I 'm going to run . 	Voi candida . 
+541	What for ? 	La ce ? 
+542	I 'm going to run for Leader of the Party . 	Voi candida pentru postul de lider al partidului . 
+543	- Silly me ! 	- Ce proastă sunt ! 
+544	- Good luck ! 	- Ce proastă sunt ! 
+545	All the time I thought I was having a driving lesson , it was all about my mother , just for a change ! 	- Baftă ! Credeam că- i o lecţie de şofat , dar iar era vorba despre mama ! 
+546	- What 's she on about ? 	Despre ce vorbeşte ? 
+547	- Her driving test this morning ! 	- Are examen auto î n dimineaţa asta . 
+548	- Oh , right . 	- Are examen auto î n dimineaţa asta . 
+549	Of course . 	- Aşa- i . Desigur . 
+550	- Are you saying you want to be Prime Minister ? 	Spui că vrei să devii prim ministru ? 
+551	Oh ! 	Spui că vrei să devii prim ministru ? 
+552	What I 'm saying is that someone must force the point , someone must say the un- sayable . 	Spun că cineva trebuie să pună punctul pe i . Să rostească ce- i de nerostit . 
+553	None of these men have the guts . 	Iar bărbaţii aceia nu au curaj . 
+554	- The Prime Minister has been very loyal to you , MT . 	Primul ministru ţi- a fost foarte loial , MT . 
+555	But he 's weak , and he 's weakened the party . 	Dar e slab şi a slăbit partidul . 
+556	One must know when to go . 	Trebuie să ştii când să te retragi . 
+557	You 're shaking . 	Trebuie să ştii când să te retragi . 
+558	Here , let me ... 	Tremuri . 
+559	I can do it ! 	- Lasă- mă să te ajut . - Mă descurc ! 
+560	Goodness me ! 	Doamne fereşte ! 
+561	What is the matter with everyone this morning ? 	Ce aveţi cu toţii î n dimineaţa asta ? Ţi- am spus care- i problema . 
+562	I' ve told you what the matter is . 	Ce aveţi cu toţii î n dimineaţa asta ? Ţi- am spus care- i problema . 
+563	The business is a bit rocky at the moment and the doctor says I need a rest . 	Afacerile sunt cam dificile momentan , iar doctorul a spus că am nevoie de odihnă . Şi ai nevoie de odihnă ? 
+564	Do you need a rest ? 	Afacerile sunt cam dificile momentan , iar doctorul a spus că am nevoie de odihnă . Şi ai nevoie de odihnă ? 
+565	Oh , God . 	
+566	We both know it 's highly unlikely that I would ever be elected leader . 	Ştim amândoi că e foarte puţin probabil să fiu aleasă ca lider , dar voi candida . 
+567	I' ll never be elected leader . 	Ştim amândoi că e foarte puţin probabil să fiu aleasă ca lider , dar voi candida . 
+568	But I will run . 	Ştim amândoi că e foarte puţin probabil să fiu aleasă ca lider , dar voi candida . 
+569	I will run . 	Voi candida . 
+570	Just to nip at their heels and make them reaffirm the principles on which 	Doar pentru a- i arde puţin la tălpi , pentru a- i face să reafirme principiile pe care Partidul Conservator trebuie să le susţină . 
+571	- the Conservative Party must stand . 	Doar pentru a- i arde puţin la tălpi , pentru a- i face să reafirme principiile pe care Partidul Conservator trebuie să le susţină . 
+572	There 's so much to do . 	Sunt atât de multe de făcut ! 
+573	You 're insufferable , Margaret , do you know that ? 	Eşti insuportabilă , Margaret . Ştii asta ? 
+574	Denis , you married someone who is committed to public service , you knew that . 	Denis , te- ai î nsurat cu cineva dedicat serviciului public . Ştiai asta . 
+575	- And it is my duty ... 	- E de datoria mea ... 
+576	- Don 't call it duty . 	- Nu o numi datorie . 
+577	It 's ambition that 's gotten you this far . 	Ambiţia te- a adus până aici . 
+578	Ambition . 	Ambiţia . 
+579	And the rest of us , me , the children , we can all go to hell ! 	Noi , restul , eu , copiii , putem să ne ducem naibii . 
+580	Don 't worry about me , I' ll be fine ! 	Nu- ţi face griji pentru mine . Voi fi bine . 
+581	Where did you go ? 	Unde ai plecat ? - În Africa de Sud . 
+582	- South Africa . 	Unde ai plecat ? - În Africa de Sud . 
+583	- Yes . 	Unde ai plecat ? - În Africa de Sud . 
+584	How many days passed before you realized I 'd gone ? 	Câte zile au trecut până să- ţi dai seama c- am plecat ? 
+585	Probably had to ask the cleaning woman where I was . 	Probabil a trebuit să î ntrebi menajera unde sunt . 
+586	When did I lose track of everyone ? 	Când am pierdut legătura cu toţi ? 
+587	- Too busy climbing the greasy pole , MT . 	Erai prea ocupată să te caţări î n vârf , MT . 
+588	- How did I ... ? 	Erai prea ocupată să te caţări î n vârf , MT . 
+589	Mrs . 	Erai prea ocupată să te caţări î n vârf , MT . 
+590	Thatcher , I understand you recently visited 	Dnă Thatcher , am î nţeles c- aţi vizitat recent Statele Unite ale Americii . 
+591	- the United States of America . 	Dnă Thatcher , am î nţeles c- aţi vizitat recent Statele Unite ale Americii . 
+592	- Oh , oh ... 	
+593	What is it you took away from your visit which may be of value , 	Ce aţi î nvăţat î n această vizită şi ar putea fi util aici , î n Marea Britanie ? 
+594	- here in Great Britain ? 	Ce aţi î nvăţat î n această vizită şi ar putea fi util aici , î n Marea Britanie ? 
+595	- That 's rather easy to answer . 	Răspunsul e foarte simplu . 
+596	They are unafraid of success . 	Lor nu le este frică de succes . 
+597	We in Great Britain and in Europe are formed mostly by our history . 	Noi , cei din Marea Britanie şi Europa , suntem formaţi de istoria noastră , î n general . 
+598	They , on the other hand , are formed by their philosophy . 	Ei , pe de altă parte , sunt formaţi de filosofia lor . 
+599	Not by what has been , but by what can be . 	Nu de ceea ce- au fost , ci de ceea ce pot fi . 
+600	Oh , we have a great deal that we can learn from them , yes . 	Avem multe de î nvăţat de la ei . 
+601	Oh , yes ! 	Da . 
+602	Well ... 	
+603	Uh ... 	
+604	For a start , that hat has got to go . 	Pentru î nceput , pălăria trebuie să dispară . Şi perlele . 
+605	And the pearls . 	Pentru î nceput , pălăria trebuie să dispară . Şi perlele . 
+606	In fact , I think all hats may have to go . 	De fapt , mă tem că toate pălăriile vor trebui să dispară . 
+607	You look and sound like a privileged Conservative wife , and we 've already got her vote . 	Arăţi şi vorbeşti ca o soţie conservatoare privilegiată căreia i- am obţinut deja votul . 
+608	You 've got lovely hair , but we need to do something with it , to make it more ... 	Ai un păr superb . Dar trebuie să facem ceva cu el pentru a- l face mai important . 
+609	- Important . 	
+610	- Yes . 	Da , să aibă mai mult impact . 
+611	Give it more impact . 	Da , să aibă mai mult impact . 
+612	But the main thing is your voice . 	Principala chestiune e vocea ta . 
+613	It 's too high , and it has no authority . 	E prea acută . N- are pic de autoritate . 
+614	Methinks the lady doth screech too much . 	Consider că ţipaţi prea mult . 
+615	People don 't want to be harangued by a woman or hectored . 	Oamenii nu vor să le ţină discursuri o femeie sau să fie sfidaţi . 
+616	Persuaded , yes . 	Convinşi , da . 
+617	That " Oh , yes , " at the end of the interview , that 's authoritative , that 's the voice of a leader . 	Acel " chiar da " , de la finalul interviului , are autoritate , e vocea unui lider . 
+618	Quite . 	
+619	It 's all very well to talk about changing my voice , Mr . 	Putem discuta despre schimbarea vocii mele , dle Reece , î nsă pentru unii dintre colegii mei , să- şi imagineze că sunt liderul lor , ar fi ca şi cum şi- ar imagina că sunt conduşi î n luptă de către camerista lor . 
+620	Reece , but for some of my colleagues to imagine me as their leader ... ... would be like imagining , I don 't know , being led into battle by their chambermaid . 	Putem discuta despre schimbarea vocii mele , dle Reece , î nsă pentru unii dintre colegii mei , să- şi imagineze că sunt liderul lor , ar fi ca şi cum şi- ar imagina că sunt conduşi î n luptă de către camerista lor . 
+621	It 's my background and my sex . 	E vorba despre trecutul meu şi faptul că sunt femeie . 
+622	No matter how I' ve tried , and I have tried , to fit in , 	Oricând am î ncercat , şi m- am străduit , să mă integrez , ştiu că nu voi fi niciodată de- ai lor . 
+623	I know I will never be truly one of them . 	Oricând am î ncercat , şi m- am străduit , să mă integrez , ştiu că nu voi fi niciodată de- ai lor . 
+624	If I may say so , I think that 's your trump card . 	Dacă- mi permiteţi , cred că acesta este atuul dvs . 
+625	You 're flying in the face of everything the Tories have been thus far . 	Treceţi peste tot ce au fost conservatorii până acum . 
+626	It 's really terribly exciting . 	E foarte palpitant . 
+627	One simply has to maximize your appeal , bring out all your qualities , and make you look , and sound , like the leader that you could be . 	Nu trebuie decât să vă amplificăm şarmul , să vă evidenţiem calităţile şi să vă facem să arătaţi şi să vorbiţi ca liderul care aţi putea fi . 
+628	You 've got it in you to go the whole distance . 	Aveţi potenţialul de a merge până la capăt . 
+629	Absolutely . 	Absolut . 
+630	What ... 	
+631	Prime Minister ? 	Prim ministru ? 
+632	Oh , no . 	Nu ... 
+633	Oh , no , no , no . 	Nu , nu , nu , nu , nu ... În Anglia ? 
+634	In Britain ? 	Nu , nu , nu , nu , nu ... În Anglia ? 
+635	There will be no female Prime Minister here , not in my lifetime . 	N- o să fie o femeie prim ministru aici . Nu î n timpul vieţii mele . 
+636	No . 	Nu . 
+637	And I told Airey , I don 't expect to win the leadership , but I am going to run , just to shake up the party . 	I- am spus lui Airey că nu mă aştept să câştig conducerea , dar voi candida pentru a zgudui partidul . 
+638	Respectfully , Margaret , I disagree . 	Cu tot respectul , Margaret , nu sunt de acord . 
+639	If you want to change this party , lead it . 	Dacă vrei să schimbi acest partid , condu- l . 
+640	If you want to change the country , lead it . 	Dacă vrei să schimbi ţara , condu- o . 
+641	What we 're talking about here today is surface . 	Aici discutăm despre suprafaţă . 
+642	What 's crucial is that you hold your course , and stay true to who you are . 	Ceea ce este crucial e să- ţi menţii direcţia şi să rămâi aşa cum eşti . 
+643	Never be anything other than yourself . 	Să nu fii niciodată altceva decât tu î nsăţi . 
+644	Leave us to do the rest . 	Lasă- ne pe noi să facem restul . 
+645	Gentlemen , I am in your hands . 	Domnilor , sunt î n mâinile voastre . 
+646	I may be persuaded to surrender the hat . 	Aş putea fi convinsă să renunţ la pălărie , î nsă perlele sunt un dar de la soţul meu , la naşterea gemenilor , şi nu sunt negociabile . 
+647	But the pearls were a gift from my husband on the birth of our twins , and , um , they are absolutely non- negotiable . 	Aş putea fi convinsă să renunţ la pălărie , î nsă perlele sunt un dar de la soţul meu , la naşterea gemenilor , şi nu sunt negociabile . 
+648	And ... 	
+649	Good , I think we can lose the handbag , Mrs . 	Bun , cred că putem renunţa şi la poşetă , dnă Thatcher . 
+650	Thatcher . 	Bun , cred că putem renunţa şi la poşetă , dnă Thatcher . 
+651	Yes ? 	
+652	And hands down by side . 	Mâinile pe lângă corp . Şi ... coborâţi- le . 
+653	Right up . 	Mâinile pe lângă corp . Şi ... coborâţi- le . 
+654	Because this isn 't about the voice , it 's about belief . 	Nu despre voce este vorba , ci despre î ncredere . 
+655	The very core . 	Nu despre voce este vorba , ci despre î ncredere . 
+656	So a nice deep breath and really fill out against my hands . 	Respiraţi adânc . Întindeţi mâinile aşa . 
+657	You 're calling Mr . 	Dacă l- aţi striga pe dl Thatcher , cum aţi face- o ? 
+658	Thatcher , how would you do that ? 	Dacă l- aţi striga pe dl Thatcher , cum aţi face- o ? 
+659	- Denis . 	Dacă l- aţi striga pe dl Thatcher , cum aţi face- o ? 
+660	- Yes , I want authority . 	Denis . 
+661	- I want conviction , I want ... 	Da , dar vreau mai multă autoritate , vreau convingere , vreau ... 
+662	- Denis . 	Da , dar vreau mai multă autoritate , vreau convingere , vreau ... 
+663	That 's right , one more time , and breathing in . 	Aşa , î ncă o dată . 
+664	And ... 	Respiraţi adânc . 
+665	Denis . 	Respiraţi adânc . 
+666	- Yes , M ! 	Denis . 
+667	- Sorry . 	Da , MT ! 
+668	No , no , no . 	
+669	You are the backbone of our nation ! 	Sunteţi coloana vertebrală a poporului nostru . 
+670	Small firms like Loveday 's Ice Cream . 	Firmele micuţe , ca Îngheţata lui Loveday . 
+671	- So nice to meet you , ladies . 	Ce faceţi ? 
+672	- Nice to meet you . 	Mă bucur să vă cunosc , doamnelor . 
+673	I' ll just have a small one , because I 'm watching my figure . 	Voi face una mică , pentru că ţin la siluetă . 
+674	Whoo ! 	
+675	That 's for you , young man ! 	E pentru tine , tinere ! 
+676	I passionately believe that it 's the growth of small businesses into larger ones that is critical for Britain 's future . 	Am convingerea că transformarea afacerilor mici î n unele mari este foarte importantă pentru viitorul Angliei . 
+677	Well , it has to be something icy on a stick for Denis . 	Trebuie să fie ceva î ngheţat pe băţ pentru Denis . 
+678	That 's the only way that we will produce jobs , real jobs , jobs that sustain . 	E singurul mod î n care vom crea locuri de muncă reale , sustenabile . 
+679	The Trade Union Movement was founded to protect workers . 	Mişcarea sindicală a fost î nfiinţată pentru a apăra muncitorii . 
+680	Now it persecutes them . 	Acum î i persecută . 
+681	It stops them from working . 	Nu- i lasă să muncească . 
+682	It is killing jobs and it is bringing this country to its knees . 	Desfiinţează locurile de muncă şi î ngenunchează ţara . 
+683	I say enough . 	Eu spun că ajunge . 
+684	It 's time to get up . 	E timpul să ne ridicăm şi să mergem la muncă . 
+685	It 's time to go to work . 	E timpul să ne ridicăm şi să mergem la muncă . 
+686	It 's time to put the " Great " back into Great Britain ! 	E timpul să facem din nou Britania Mare ! 
+687	The incompetence of the Labor government ... 	
+688	- ... continue to misinform and spend in this incessant and blasé manner . 	
+689	- We have paid the price ... 	
+690	- Mrs . 	
+691	Thatcher , they 're ready for you . 	
+692	- Thank you . 	
+693	- Give 'em hell . 	Fă- i praf ! 
+694	- You look magnificent . 	Arăţi magnific . 
+695	Next stop , Prime Minister . 	Urmează primul ministru . 
+696	- Oh , Airey ... 	Urmează primul ministru . 
+697	- Let 's go . 	Să mergem ! 
+698	The new leader of the Conservative Party , 	Liderul Partidului Conservator , Margaret Thatcher ! 
+699	- Margaret Thatcher ! 	Liderul Partidului Conservator , Margaret Thatcher ! 
+700	Hm ... 	
+701	Good night , Margaret . 	Noapte bună , Margaret . 
+702	- Oh ... 	Noapte bună , Margaret . 
+703	My money 's on the filly to win . 	Eu pariez pe zâmbăreaţă ! 
+704	Oh ... 	Mulţumesc , Airey . 
+705	Thanks , Airey . 	Mulţumesc , Airey . 
+706	Good night . 	Noapte bună ! 
+707	No ! 	Nu . 
+708	No , no ! 	Nu , nu ! 
+709	No ! 	Nu , nu ! 
+710	Airey ! 	Airey ! 
+711	Ai Fey ! 	
+712	The Irish National Liberation Army has claimed responsibility for the death of MP Airey Neave , 	Armata Naţională Irlandeză de Eliberare şi- a asumat răspunderea pentru moartea lui Airey Neave , purtătorul de cuvânt al lui Margaret Thatcher din Irlanda de Nord . 
+713	Margaret Thatcher 's spokesman on Northern Ireland . 	Armata Naţională Irlandeză de Eliberare şi- a asumat răspunderea pentru moartea lui Airey Neave , purtătorul de cuvânt al lui Margaret Thatcher din Irlanda de Nord . 
+714	If you want to change the party , lead it . 	Dacă vrei să schimbi partidul , condu- l . 
+715	If you want to change the country , lead it . 	Dacă vrei să schimbi ţara , condu- o . 
+716	You 've got it in you to go the whole distance . 	Ai potenţial pentru a merge până la capăt . 
+717	- Now , as the test draws near , 	Urmează un moment de grea î ncercare şi vă cer ajutorul , pentru ca î mpreună să putem scăpa de cătuşele socialismului şi să reinstaurăm măreţia ţării pe care o iubim . 
+718	- I ask your help . 	Urmează un moment de grea î ncercare şi vă cer ajutorul , pentru ca î mpreună să putem scăpa de cătuşele socialismului şi să reinstaurăm măreţia ţării pe care o iubim . 
+719	That together we can shake off the shackles of Socialism and restore to greatness this country that we love ... 	Urmează un moment de grea î ncercare şi vă cer ajutorul , pentru ca î mpreună să putem scăpa de cătuşele socialismului şi să reinstaurăm măreţia ţării pe care o iubim . 
+720	And the only way is for the Conservative Party to win ! 	Iar singurul mod de a face asta e ca Partidul Conservator să câştige . 
+721	Is she gonna get there ? 	
+722	Watch those blocks rise ... 	
+723	Go , Maggie ! 	
+724	It 's Friday the 4th of May , an historic day for Britain , a Conservative government led by Mrs . 	E vineri , 4 mai , şi o zi istorică pentru Anglia . Guvernarea conservatoare , condusă de dna Thatcher , va conduce ... 
+725	Thatcher is set to lead ... 	
+726	Mrs . 	
+727	Bandaranaike in Sri Lanka , Mrs . 	A fost dna Ghandi î n India , dar î n occident n- a existat niciodată vreo femeie prim ministru . Şi- a asigurat î n istoria Marii Britanii 
+728	Gandhi in India , but never in the West has there ever been a woman Prime Minister . 	A fost dna Ghandi î n India , dar î n occident n- a existat niciodată vreo femeie prim ministru . Şi- a asigurat î n istoria Marii Britanii 
+729	The place that she has now secured in British history , as the first woman ever to be invited to form a government . 	A fost dna Ghandi î n India , dar î n occident n- a existat niciodată vreo femeie prim ministru . Şi- a asigurat î n istoria Marii Britanii 
+730	The bonus of one of the most famous addresses in the world , 	locul primei femei invitate să- şi creeze un partid . 
+731	Number 10 Downing Street . 	Bonusul e una dintre cele mai cunoscute adrese din lume , strada Downing , numărul 10 . 
+732	This is it . 	Acu- i acu ' . 
+733	Steady the buffs , old girl . 	Preia frâiele , viteazo ! 
+734	- Good afternoon . 	Bună ziua , dnă prim ministru . 
+735	- Congratulations , Prime Minister . 	Bună ziua , dnă prim ministru . 
+736	- I should just like to say that I take very seriously the trust placed in me by the British people today , and I will work hard every day to live up to that responsibility . 	Aş vrea să spun că iau foarte î n serios î ncrederea cu care m- au investit englezii astăzi şi mă voi strădui zilnic să mă ridic la î nălţimea acestei responsabilităţi . 
+737	And now , I should like to share with you a prayer of St . 	Acum , aş vrea să î mpărtăşesc cu voi rugăciunea 
+738	Francis of Assisi . 	Sfântului Francis de Assisi : 
+739	Where there is discord , may we bring harmony . 	Acolo unde este ofensă , să aduc iertare . 
+740	Where there is error , may we bring truth . 	Acolo unde este greşeală , să aduc adevăr . 
+741	Where there is doubt , may we bring faith . 	Acolo unde este î ndoială , să aduc credinţă . 
+742	And where there is despair , may we bring hope . 	Acolo unde este disperare , să aduc speranţă . 
+743	- Shoulders back , tummies in ! 	Spatele drept , sugeţi burtica ! 
+744	- Thank you , Michael . 	Mulţumesc , Michael . 
+745	Look this way , please . 	
+746	Three , two , one . 	Doi , unu . 
+747	Robert , could you bring the car around ? 	
+748	She 's been ready for ages . 	
+749	I am perfectly healthy . 	Sunt perfect sănătoasă . 
+750	No need for any of this . 	N- am nevoie de toate astea . 
+751	Just let them look under the bonnet , MT . 	Lasă- i să se uite sub bonetă , MT . 
+752	Make sure everything is hunky dory . 	Să verifice dacă totul este î n regulă . 
+753	Oh , really , this is becoming quite tiresome . 	Devine destul de obositor . 
+754	- What is ? 	- Ce anume ? 
+755	- You . 	- Tu . 
+756	I was on my own for 24 years before I met you , and I can manage perfectly well without you now . 	Am fost pe cont propriu timp de 24 de ani î nainte să te î ntâlnesc . Mă descurc perfect şi fără tine . 
+757	So will you please go away , and stop bothering me ? 	Vrei , te rog , să pleci şi să nu mă mai necăjeşti ? 
+758	Just look straight ahead , straight at me , that 's it . 	Uitaţi- vă drept la mine . Drept î nainte . Aşa . 
+759	- Are you noticing night sweats ? 	- Transpiraţi noaptea ? - Nu . 
+760	- No . 	
+761	- Hallucinations ? 	Aveţi halucinaţii ? Nu . 
+762	- No . 	
+763	- Sleep ? 	Dormiţi ? 
+764	- Yes . 	Da , dorm . 
+765	I sleep . 	Patru , cinci ore pe noapte . 
+766	Four , five hours a night . 	Patru , cinci ore pe noapte . 
+767	So you wake early ? 	Deci vă treziţi devreme ? Şi stau trează până târziu , ca de obicei . 
+768	And I stay up late . 	Deci vă treziţi devreme ? Şi stau trează până târziu , ca de obicei . 
+769	I always have . 	Deci vă treziţi devreme ? Şi stau trează până târziu , ca de obicei . 
+770	We just want to keep abreast of it , that 's all . 	Vrem să ne informăm . Asta- i tot . 
+771	Yes . 	Da , desigur . 
+772	Of course . 	
+773	Grief is a very natural state . 	Întristarea este o stare foarte naturală . 
+774	My husband has been gone for years . 	Soţul meu a murit de mulţi ani . 
+775	Cancer . 	Cancer . 
+776	Carol says you 've decided to let his things go . 	Carol a spus că te- ai hotărât să uiţi . 
+777	Probably a good thing . 	Probabil este un lucru bun . 
+778	Yes . 	Da . 
+779	It was my idea . 	A fost ideea mea . 
+780	To Oxfam . 	Pentru Oxfam . 
+781	Perfectly good stuff . 	Un lucru foarte bun . 
+782	People can use these things . 	Oamenii pot folosi astfel de lucruri . 
+783	Hm ... 	
+784	Still , it must be a bit disorientating . 	Totuşi , trebuie să fie puţin dezorientant . 
+785	- You are bound to be feeling ... 	Trebuie să simţi ... 
+786	- What ? 	Ce ? 
+787	What am I " bound to be feeling " ? 	Ce " trebuie să simt " ? 
+788	People don 't think any more . 	Oamenii nu mai cred . 
+789	They feel . 	Ei " simt " . 
+790	" How are you feeling ? " 	" Cum te mai simţi ? " 
+791	" Oh , I don 't feel comfortable . " 	" Nu mă simt confortabil î n legătură cu asta . " " Îmi pare foarte rău , dar noi , grupul , simţeam ... " Ştii , una din marile probleme ale epocii noastre este că suntem guvernaţi de către oameni cărora le pasă mai mult de sentimente decât de gânduri şi idei . 
+792	" Oh , I 'm so sorry , we , the group , we 're feeling ... " 	" Nu mă simt confortabil î n legătură cu asta . " " Îmi pare foarte rău , dar noi , grupul , simţeam ... " Ştii , una din marile probleme ale epocii noastre este că suntem guvernaţi de către oameni cărora le pasă mai mult de sentimente decât de gânduri şi idei . 
+793	Do you know , one of the great problems of our age is that we are governed by people who care more about feelings than they do about thoughts and ideas ? 	" Nu mă simt confortabil î n legătură cu asta . " " Îmi pare foarte rău , dar noi , grupul , simţeam ... " Ştii , una din marile probleme ale epocii noastre este că suntem guvernaţi de către oameni cărora le pasă mai mult de sentimente decât de gânduri şi idei . 
+794	Now , thoughts and ideas , that interests me . 	Gândurile şi ideile ... ele mă interesează . Întreabă- mă la ce mă gândesc . 
+795	Ask me what I am thinking . 	Gândurile şi ideile ... ele mă interesează . Întreabă- mă la ce mă gândesc . 
+796	What are you thinking , Margaret ? 	La ce te gândeşti , Margaret ? 
+797	Watch your thoughts , for they become words . 	Ai grijă la gândurile tale , pentru că ele devin cuvinte . 
+798	Watch your words , for they become actions . 	Ai grijă la cuvintele tale , pentru că ele devin acţiuni . 
+799	Watch your actions , for they become habits . 	Ai grijă la acţiunile tale , pentru că devin obiceiuri . 
+800	Watch your habits , for they become your character . 	Ai grijă la obiceiurile tale , pentru că ele devin caracterul tău . Şi ai grijă la caracterul tău , pentru că el devine destinul tău . 
+801	And watch your character , for it becomes your destiny . 	Ai grijă la obiceiurile tale , pentru că ele devin caracterul tău . Şi ai grijă la caracterul tău , pentru că el devine destinul tău . 
+802	What we think , we become . 	Ceea ce credem , devenim . 
+803	My father always said that . 	Tatăl meu î ntotdeauna spunea asta . 
+804	And I think I am fine . 	Iar eu cred că sunt bine . 
+805	But I do so appreciate your kind concern . 	Dar apreciez foarte mult grija ta . 
+806	Oh , do please answer that . 	Răspunde tu , te rog . 
+807	It might be someone who needs you . 	Ar putea fi cineva care are nevoie de tine . 
+808	I' ll give Carol a quick ring , let her know we 're back , and then I' ll put your electric blanket on . 	Îi dau lui Carol un telefon scurt , să ştie că ne- am î ntors , apoi o să- ţi pun pătura electrică . 
+809	Steady , steady , steady ! 	Încetişor , î ncetişor ... 
+810	Damn . 	La naiba . În faţă ! 
+811	Fore ! 	
+812	What about that medicine man , eh ? 	Cum rămâne cu doctorul ăla ? 
+813	Ah . 	Cina rece . 
+814	Cold supper . 	Cina rece . 
+815	Standards are slipping , Margaret . 	Scad standardele , Margaret . 
+816	You really gave it to that quack , didn 't you , darling ? 	Chiar asculţi de acel şarlatan , nu- i aşa , dragă ? 
+817	Just like the old days . 	Exact ca pe vremuri ! 
+818	Hallucinations , my eye ! 	Halucinaţii , pe naiba ! 
+819	How dare he ? 	Cum î ndrăzneşte ? 
+820	But then , you give us all the runaround , don 't you ? 	Dar ne- ai î nşelat pe toţi , nu- i aşa ? 
+821	I know you can hear me , sweetheart , so there 's no use pretending you can 't . 	Ştiu că mă poţi auzi , iubito , aşa că nu are niciun rost să te prefaci că nu auzi . 
+822	Enough . 	Suficient . 
+823	Denis , enough ! 	Denis , ajunge ! Învoit ! 
+824	Dismissed ! 	Denis , ajunge ! Învoit ! 
+825	She does it in the end . 	În cele din urmă o face . Îl ucide ... 
+826	Kills him . 	În cele din urmă o face . Îl ucide ... 
+827	I don 't know why you 're being so scratchy . 	Nu ştiu de ce eşti atât de iritată . 
+828	It 's not as if you 've got anyone else to talk to . 	Oricum nu ai cu cine altcineva să vorbeşti . 
+829	" When the Himalayan peasant meets the he- bear in his pride ... " 	Când un ţăran din Himalaya î ntâlneşte un urs ... Ştii , este de mirare pentru mine că î ncă poţi reţine citate mari din Kipling , doar aminteşte- ţi numele acelei femei care ţi- a făcut acea mâncare î ngrozitoare . 
+830	It 's a marvel to me that you can still quote whole chunks of Kipling , but try remembering the name of that woman who just made you that god- awful cold collation . 	Când un ţăran din Himalaya î ntâlneşte un urs ... Ştii , este de mirare pentru mine că î ncă poţi reţine citate mari din Kipling , doar aminteşte- ţi numele acelei femei care ţi- a făcut acea mâncare î ngrozitoare . 
+831	No ? 	Nu ? 
+832	Come on , you can do it . 	Haide . Poţi să o faci . 
+833	Month of the year . 	Lună a anului ? 
+834	One syllable . 	O silabă . 
+835	Rhymes with moon . 	Rimează cu " moon " . - June . 
+836	- June . 	- June ! 
+837	- June ! 	- June ! 
+838	Bingo ! 	Bingo . Ştiam eu că o să- ţi aminteşti î n cele din urmă . 
+839	Knew you 'd get there in the end . 	Bingo . Ştiam eu că o să- ţi aminteşti î n cele din urmă . 
+840	" When the Himalayan peasant meets the he- bear in his pride , he shouts to scare the monster , who will often turn aside . " 	" Când un ţăran din Himalaya î ntâlneşte un urs ... tipă , să sperie monstrul , care adesea se î ntoarce şi pleacă . 
+841	- " But the she- bear , thus accosted , " rends the peasant tooth and nail , 	Dar o ursoaică î l sfâşie î n bucăţi . 
+842	" for the female of the species is more deadly than the male . " 	Pentru că femela speciei este mai mortală decât masculul . 
+843	- " When Nag , the basking cobra , hears the careless foot of man ... " 	
+844	If I can 't hear you , I can 't see you . 	Dacă nu te pot auzi , nu te pot vedea . Şi dacă nu te pot vedea , nu eşti aici . 
+845	If I can 't see you , you 're not here . 	Dacă nu te pot auzi , nu te pot vedea . Şi dacă nu te pot vedea , nu eşti aici . 
+846	And if you 're not here , I 'm not going mad . 	Iar dacă nu eşti aici , nu î nnebunesc . 
+847	I will not go mad . 	Nu o să î nnebunesc . 
+848	I won 't go mad ... 	Nu o să ... 
+849	I will not go mad ... 	Nu o să î nnebunesc . 
+850	I will not go mad . 	Nu o să î nnebunesc . 
+851	I will not . 	
+852	Baroness Thatcher made an apparently routine visit to her doctors today . 	Baronesa Thatcher a făcut astăzi o vizită la doctor , aparent de rutină . 
+853	Although rarely seen in public . 	Deşi este văzută rar î n public , cea mai longevivă prim ministru al secolului 20 , rămâne o figură controversată . 
+854	Britain 's longest- serving Prime Minister of the twentieth century , remains a controversial figure . 	Deşi este văzută rar î n public , cea mai longevivă prim ministru al secolului 20 , rămâne o figură controversată . 
+855	Almost lovingly dubbed by the Soviets " The Iron Lady , " she is credited , with her friend Ronald Reagan , with a decisive role in the ending of the Cold War . 	Denumită aproape cu dragoste de către sovietici " Doamna de Fier " , ea este creditată î mpreună cu prietenul său Ronald Reagan , pentru rolul decisiv jucat î n sfârşitul Războiului Rece . 
+856	- Margaret ... 	Suporterii săi susţin că a transformat economia britanică şi a inversat declinul ţării de după război . 
+857	- Her supporters claim she transformed the British economy and reversed the country 's post- war decline . 	Suporterii săi susţin că a transformat economia britanică şi a inversat declinul ţării de după război . 
+858	- I am so sorry . 	Cei care o atacă , o acuză de reducerea salbatica a cheltuielilor publice , reducerile şi privatizarea ... 
+859	- Her detractors blame her savage public spending cuts and sweeping privatization of ... 	Cei care o atacă , o acuză de reducerea salbatica a cheltuielilor publice , reducerile şi privatizarea ... 
+860	- I ... don 't recognize myself . 	Nu mă recunosc . 
+861	Hm ... 	
+862	Am I out of the doghouse yet ? 	Am scăpat de necazuri ? 
+863	Oh . 	
+864	They 're unveiling that portrait of me at Number 10 next month . 	Dezvelesc acel portret cu mine la numărul zece de pe strada Downing luna următoare . 
+865	Mm . 	
+866	Yes , it 's ... the invitation , it 's on the mantelpiece . 	Invitaţia este pe şemineu . 
+867	So it 'll be Churchill , 	Aşadar ... va fi acolo Churchill , 
+868	Lloyd George and me . 	Lloyd George şi cu mine . 
+869	- Just the three of us . 	Doar noi trei . 
+870	I said I didn 't want any big fuss ... 	Am spus că nu vreau mare zarvă , dar ei au insistat . 
+871	- No . - ... but they insisted . 	Am spus că nu vreau mare zarvă , dar ei au insistat . 
+872	Lovely little article in The Telegraph . 	Un articol drăguţ î n The Telegraph . 
+873	" The Woman Who Changed the Face of History . " 	" Femeia care a schimbat faţa istoriei " . 
+874	Huh ... 	
+875	Less than two years ago , the Prime Minister quoted St . 	Nu mai puţin de acum doi ani , primul ministru l- a citat pe St . 
+876	Francis ... 	Nu mai puţin de acum doi ani , primul ministru l- a citat pe St . 
+877	Yes , and talked about bringing faith , 	Francis şi a vorbit despre aducerea credinţei , speranţei şi armoniei î n această ţară . 
+878	- hope , and harmony to this country . 	Francis şi a vorbit despre aducerea credinţei , speranţei şi armoniei î n această ţară . 
+879	Mm ... 	
+880	Denis ? 	Denis ? 
+881	Can the Right Honorable Lady deny that having brought about the highest level of unemployment since 1934 ... 	Poate nega onorabila doamnă , că a adus cel mai î nalt nivel al şomajului din 1934 ? 
+882	- ... the biggest fall in total output in steel and coal production in one year since 1931 ... and the biggest collapse in industrial production since 1921 ? ! 	Cea mai mare scădere din producţia de oţel şi cărbune din 1931 ? Şi cea mai mare prăbuşire a producţiei industriale din 1921 ? 
+883	- Order ! 	Linişte , linişte . 
+884	Order ! 	Linişte , linişte . 
+885	Can she also accept that her free- market economics , designed to create a growing middle class , ensures that the rich get richer and the poor are irrelevant ? ! 	Poate de asemenea accepta că economia ei liberă ... concepută pentru a crea o clasă mijlocie majoră , a făcut ca bogaţii să devină mai bogaţi , iar cei sărmani au devenit irelevanţi ! 
+886	Out ! 	Maggie Maggie Maggie ! 
+887	Out ! 	Maggie Maggie Maggie ! 
+888	Out ! 	Afară , afară ! 
+889	Maggie ! 	Afară , afară ! 
+890	Maggie ! 	Maggie Maggie Maggie ! 
+891	Maggie ! 	Afară , afară ! 
+892	- Out ! 	
+893	Out ! 	
+894	Out ! 	
+895	- Look at me ! 	
+896	Look at me ! 	
+897	You 're supposed to be a mother ! 	Ar fi trebuit să fii o mamă ! 
+898	You 're not a mother , you 're a monster ! 	Nu eşti o mamă , eşti un monstru ! 
+899	You 're a monster ! 	
+900	May we have a word , Prime Minister ? 	Putem discuta , dnă prim- ministru ? 
+901	Yes , but in order to arrive at the palace on time , 	Da , dar pentru a ajunge la timp la palat , 
+902	Geoffrey and I are will be walking out of that door in 15 minutes . 	Geoffrey şi cu mine o să ieşim pe uşa ăia peste 15 minute . 
+903	- As you can see ... 	- După cum vedeţi ... 
+904	- I know you 're running late , Margaret , but we have to address this situation in the light of tomorrow 's blistering press coverage . 	- Ştiu că î ntârzii , Margaret ... dar trebuie să- ţi spunem situaţia î n lumina articolelor de presă supărătoare de mâine . 
+905	Blistering ! 	- Ştiu că î ntârzii , Margaret ... dar trebuie să- ţi spunem situaţia î n lumina articolelor de presă supărătoare de mâine . 
+906	The knives are out . 	- Ştiu că î ntârzii , Margaret ... dar trebuie să- ţi spunem situaţia î n lumina articolelor de presă supărătoare de mâine . 
+907	Your draft budget has been leaked , Geoffrey . 	Cuţitele au fost scoase . 
+908	They are baying for our blood . 	Proiectul tău de buget a fost dat presei , Geoffrey , şi ne cer sângele ! 
+909	Michael , we can 't possibly buckle at the first sign of difficulty . 	Michael , nu ne putem speria la primul semn de dificultate . 
+910	- No one is saying we have to buckle . 	- Nimeni nu spune că ne speriem . 
+911	- But is this really the time to be making these spending cuts in the middle of one of the deepest recessions this country has ever experienced ? 	- Dar chiar este timpul să facem aceste reduceri de buget î n mijlocul uneia dintre cele mai adânci recesiuni pe care le- a trăit această ţară ? 
+912	- We need a plan of action , Margaret . 	Ne trebuie de un plan de acţiune , Margaret . Absolut . 
+913	- Absolutely . 	O strategie . 
+914	A strategy . 	O strategie . 
+915	- We must be armed . 	Trebuie să ne pregătim . 
+916	- Agreed . 	Există o percepţie , Margaret ... greşită sau nu , că am pierdut complet legătură cu ce se petrece î n ţară . 
+917	There 's a perception , Margaret , rightly or wrongly , that we are now completely out of touch with the country . 	Există o percepţie , Margaret ... greşită sau nu , că am pierdut complet legătură cu ce se petrece î n ţară . 
+918	Really . 	Serios ? 
+919	How much is a pack of Lurpak ? 	Cât costă un pachet de Lurpak ? 
+920	- Lurpak ? 	- Lurpak ? 
+921	- Butter , Francis . 	- Unt , Francis . 
+922	Forty- two pence . 	42 de penny . 
+923	Anchor butter is 40 pence . 	Untul fără grăsimi costă 40 penny . 
+924	Flora margarine , still the cheapest , at 38p . 	Margarină Flora , î n continuare cea mai ieftină , costă 38 de penny . 
+925	I can assure you I am not out of touch . 	Vă pot asigura că eu nu am pierdut legătura . 
+926	- Sorry . 	
+927	I didn 't hear you . 	Ce ? Nu am auzit . Ce ai spus ? 
+928	- What did you say ? 	Nimic , dnă prim- ministru . 
+929	- Nothing , Prime Minister . 	Nimic , dnă prim- ministru . 
+930	Nothing . 	Nimic . 
+931	No , no , please . 	Nu , nu , te rog . 
+932	Don 't try to hide you opinions . 	Nu î ncerca să- ţi ascunzi opiniile . 
+933	Goodness me , I 'd much rather you were open and straightforward about them , instead of continuously and damagingly leaking them to the press . 	Dumnezeule , aş prefera să fii deschis şi sincer î n legătură cu ele , î n loc să le spui presei pe furiş continuu . 
+934	Well ? 	- Ei bine ? 
+935	- Well ... 	- Ei bine ... oamenii nu- şi pot plăti ipotecile . 
+936	- People can 't pay their mortgages . 	- Ei bine ... oamenii nu- şi pot plăti ipotecile . 
+937	The manufacturing industry is practically on its knees . 	Industria manufacturieră este practic î ngenunchiată . 
+938	Honest , hard- working , decent people are losing their homes . 	Oamenii muncitori , decenţi , î şi pierd casele . 
+939	- It 's terribly shameful . 	Este ruşinos . 
+940	- The point is , Prime Minister , we must moderate the pace ... 	Ideea este , dnă prim- ministru , că trebuie să moderăm pacea . 
+941	If we even have a hope of winning the next election . 	Dacă vrem ca măcar să avem o şansă la următoarele alegeri ... 
+942	Ah . 	- Aşa este . 
+943	Worried about our careers , are we ? 	- Sunteţi î ngrijoraţi de cariere , nu- i aşa ? 
+944	- Really . 	Asta este absurd . 
+945	- That 's quite absurd . 	Asta este absurd . 
+946	Gentlemen , if we don 't cut spending , we will be bankrupt . 	Domnilor , dacă nu reducem cheltuielile , vom ajunge î n faliment . 
+947	Yes , the medicine is harsh , but the patient requires it in order to live . 	Da , medicamentul este dur ... dar pacientul are nevoie de el pentru a trăi . 
+948	Should we withhold the medicine ? 	Ar trebui să nu- i administrăm medicamentul ? 
+949	No . 	Ar trebui să nu- i administrăm medicamentul ? 
+950	We are not wrong . 	Nu ! Nu greşim . 
+951	We did not seek election and win in order to manage the decline of a great nation . 	Nu căutăm să fim aleşi pentru a realiza declinul unei naţiuni măreţe . 
+952	The people of this country chose us because they believe we can restore the health of the British economy , and we will do just that . 	Oamenii din această ţară ne- au ales pentru că au crezut că putem reî nsănătoşi economia britanică şi exact asta vom face ! 
+953	Barring a failure of nerve . 	Cu excepţia unei căderi nervoase . 
+954	Anything else ? 	- Altceva ? 
+955	- Prime Minister . 	- Dnă prim- ministru . 
+956	- Prime Minister . 	Ai salvat î ncă o dată ziua , Crawfie , eşti un î nger . 
+957	You have saved the day once again , Crawfie . 	Ai salvat î ncă o dată ziua , Crawfie , eşti un î nger . 
+958	You 're an angel . 	Ai salvat î ncă o dată ziua , Crawfie , eşti un î nger . 
+959	You can 't just close down a conversation because it 's not what you wish to hear . 	Nu poţi î ncheia o conversaţie doar pentru că nu vrei să o auzi . 
+960	Oh , Geoffrey , I don 't expect everyone to just sit there and agree with me . 	Nu mă aştept ca toţi să fie de acord cu mine . 
+961	But what kind of leader am I if I don 't try to get my own way , do what I know to be right ? 	Dar ce fel de lider sunt dacă nu î ncerc să mă impun ... - Să fac ceea ce ştiu că este corect . - Da . 
+962	Yes . 	Dar Margaret , trebuie să fim atenţi să nu testăm prea mult loialitatea colegilor noştri . 
+963	But , Margaret ... ... one must be careful not to test one 's colleagues' loyalties too far . 	Dar Margaret , trebuie să fim atenţi să nu testăm prea mult loialitatea colegilor noştri . 
+964	We are now one split nation , with a huge gulf dividing the employed from the unemployed . 	Acum suntem o naţiune divizată , cu o mare prăpastie care î i desparte pe cei cu serviciu de şomeri . 
+965	The Thatcher plan is to break the Trade Union Movement . 	Planul lui Thatcher este de a î nfrânge mişcarea sindicală . 
+966	There must be closures of uneconomic coal mines . 	Minele nerentabile trebuie î nchise , căutăm să avem doar o industrie eficientă . 
+967	We seek only an efficient industry . 	Minele nerentabile trebuie î nchise , căutăm să avem doar o industrie eficientă . 
+968	The miners are being starved back to work , the need is desperate ! 	Minerii sunt î nfometaţi şi au nevoie să se î ntoarcă imediat la lucru ! 
+969	There are those who would say hold back , there are those who would make us retreat , but we shall never give in to them . 	Unii spun să ne oprim , alţii vor să ne facă să ne retragem . Dar nu vom ceda niciodată î n faţa lor . 
+970	We shall never waver , not for a second , in our determination to see this country prosper once again . 	Nu vom ezita nici măcar pentru o secundă î n determinarea noastră de a vedea această ţară prosperă din nou . 
+971	A car bomb has exploded outside Harrods department store , killing six people and injuring 71 . 	O maşină a explodat lângă depozitul Harrods , ucigând şase oameni şi rănind alţi 71 . 
+972	Eleven soldiers died today when two bombs were detonated during military parades in Hyde Park and Regent 's Park . 	11 soldaţi au murit astăzi când două bombe au fost detonate î n timpul paradelor militare sân Hyde Park şi Regent’s Park . 
+973	Seven horses also died in the blast . 	De asemenea , au murit î n explozie şi şapte cai . 
+974	The IRA have claimed responsibility . 	IRA şi- a asumat responsabilitatea atentatelor . 
+975	And now , it must be business as usual . 	Acum trebuie să ne facem treaba ca de obicei . 
+976	Come on , love , come to bed . 	Haide , dragă , vino î n pat . 
+977	I don 't know why you do this to yourself every year . 	Nu ştiu de ce î ţi faci asta î n fiecare an , este un discurs la o conferinţă , nu Magna Carta ! 
+978	It 's a speech at conference , not the Magna Carta . 	Nu ştiu de ce î ţi faci asta î n fiecare an , este un discurs la o conferinţă , nu Magna Carta ! 
+979	Time to call it a day , darling . 	E vremea să te culci , dragă . 
+980	It 's ten to three , for God 's sake . 	Este 02 : 50 , pentru Dumnezeu . Ştiu , ştiu . Vin , DT . 
+981	Oh , I know , I 'm coming , DT . 	Aproape am terminat . 
+982	- Come on ... 	Aproape am terminat . 
+983	- Nearly there . 	Aproape am terminat . 
+984	Denis ! 	Denis ! 
+985	Denis ! 	Denis ... 
+986	Oh , there you are . 	Aici erai . 
+987	Are you all right ' ? 	Eşti î n regulă ? 
+988	My shoes ! 	Pantofii mei ! 
+989	That 's when I thought I 'd lost you . 	Atunci am crezut că te- am pierdut . 
+990	Mark ? 	Mark ? 
+991	Hello , darling . 	Bună , dragule . 
+992	Oh ... 	Nu , sunt bine . 
+993	No . 	Nu , sunt bine . 
+994	No , I 'm fine . 	Nu , sunt bine . 
+995	I ... 	Sunt foarte bine . 
+996	I 'm very well . 	Sunt foarte bine . 
+997	How ... 	Sunt foarte bine . 
+998	How is , uh ... ... Sarah ? 	Cum este ... Sarah ? 
+999	Yes , and the children ? 	Şi copiii ? 
+1000	Oh . 	
+1001	Oh , you can 't . 	Nu poţi . 
+1002	That 's a pity . 	Este păcat . 
+1003	Well , I was hoping to see you . 	Speram să te văd . 
+1004	Yes . 	Da ... 
+1005	Oh , no , that 's fine . 	Nu , este î n regulă . 
+1006	Really , darling . 	Serios , dragule . 
+1007	That 's fine . 	Este î n regulă . 
+1008	Of course . 	Desigur ... altă dată . 
+1009	Another time . 	Desigur ... altă dată . 
+1010	Yes , darling . 	Da , dragule . 
+1011	Yes . 	Da , abia aştept . 
+1012	I can 't wait . 	Da , abia aştept . 
+1013	Lovely . 	Drăguţ . 
+1014	Yes . 	Da . 
+1015	Mark ? 	Mark ? 
+1016	Mm ... 	
+1017	Oh . 	
+1018	Oh , dear . 	
+1019	That was Mark . 	A fost Mark . 
+1020	Not able to come . 	Nu poate veni . 
+1021	That boy 's always going AWOL . 	Băieţii î ntotdeauna lipsesc nemotivat . 
+1022	Well , it costs him a great deal to fly everyone up here . 	Ei bine , î l costă foarte mult să vină toţi cu avionul până aici . 
+1023	There you go , making excuses for him . 	Uite , inventezi scuze pentru el . 
+1024	Now look where it 's got you . 	Uite unde te- a dus asta . 
+1025	Did you know that Yul Brynner was a gypsy from Vladivostok ? 	Ştiai că Yul Brynner a fost un ţigan din Vladivostok ? 
+1026	Yes . 	Da . 
+1027	Yes , he moved to Paris when he was 14 . 	S- a mutat la Paris când avea 14 ani . 
+1028	And he played the King of Siam 4, 625 times on the London and Broadway stages . 	A jucat rolul regelui din Siam ... de 4 . 625 ori la Londra şi pe scenele de pe Broadway . 
+1029	- What are you doing ? 	Ce faci ? 
+1030	- One likes to make an effort . 	Cuiva î i place să facă un efort . 
+1031	- A snifter ? 	Puţin brandy ? 
+1032	- You 're dead , Denis . 	Eşti mort , Denis . 
+1033	- Well , if I 'm dead , who you talking to ? 	Ei bine , dacă sunt mort ... cu cine vorbeşti ? 
+1034	- Shall we dance ? 	Dansăm ? 
+1035	- Oh . 	
+1036	Oh ! 	
+1037	The Falkland Islands , the British colony in the South Atlantic , has fallen . 	Insulele Falkland , colonia britanică din Atlanticul de Sud a căzut . 
+1038	Argentina claims its marines went ashore as a spearhead this morning to capture key targets , including the capital , Port Stanley . 	Argentina pretinde că soldaţii săi au acostat î n această dimineaţă şi au capturat ţinte cheie , inclusiv capitala , Port Stanley . 
+1039	Gentlemen , the Argentinean junta , which is a fascist gang , has invaded our sovereign territory . 	Dlor , Junta ~Consiliul~ din Argentina , care este o gaşcă fascistă , a invadat teritoriul nostru suveran . Asta nu poate fi tolerat . 
+1040	This cannot be tolerated . 	Pot să- mi fac limpede poziţia mea de negociere ? 
+1041	May I make plain my negotiating position : 	Pot să- mi fac limpede poziţia mea de negociere ? 
+1042	I will not negotiate with criminals or thugs . 	Nu voi negocia cu infractorii şi criminalii . 
+1043	The Falkland Islands belong to Britain , and I want them back . 	Insulele Falkland aparţin Marii Britanii şi le vreau î napoi . 
+1044	Gentlemen , I need you to tell me today if that is possible . 	Dlor , vreau să- mi spuneţi astăzi dacă este posibil . 
+1045	Possible ... just , Prime Minister . 	Posibil ... dnă prim- ministru . 
+1046	We can have a task force ready to sail in 48 hours . 	Putem avea o trupă de intervenţie pregătită să navigheze î n 48 de ore . 
+1047	- Forty- eight hours . 	- 48 de ore ? Dar ? 
+1048	But ? 	- Dar ... 
+1049	- But ... 	- Dar ... 
+1050	We have a very narrow weather window . 	Avem o perioadă de timp foarte scurtă datorită vremii . 
+1051	We can 't fight in winter down there , nobody can . 	Nu putem lupta acolo iarna . Nimeni nu poate . 
+1052	If we are going , we have to go now . 	Dacă mergem , trebuie să mergem acum . tit rări . ro 
+1053	Why were the islands left without any naval protection ? 	De ce erau insulele lăsate fără niciun fel de protecţie navală ? 
+1054	In the last round of defense cuts , we judged the risk of invasion to be small . 	Ca urmare a ultimelor reduceri ale bugetului apărării , am considerat că riscul invaziei era mic . 
+1055	Did we ? 	Serios ? 
+1056	- And if you remember , Prime Minister , you agreed that we should reduce the naval presence in the area to an absolute minimum . 	Dacă vă amintiţi , dnă prim- ministru , aţi fost de acord că ar trebui să reducem prezenţa năvală î n zonă la minimum . 
+1057	Margaret , the cost of sending 28, 000 men and a hundred ships 12, 000 miles , almost to Argentina , will be absolutely crippling . 	Margaret , costul trimiterii a 28 . 000 de oameni şi a 100 de nave la 18 . 000 kilometri până î n Argentina , va fi foarte mare . 
+1058	I don 't think we should be worrying about money at this point , Geoffrey . 	Nu cred că ar trebui să ne facem griji despre bani î n acest moment , Geoffrey . 
+1059	We can 't afford to go to war . 	Nu ne putem permite să mergem la război . 
+1060	We have to go now . 	Trebuie să plecăm acum . 
+1061	Now . 	Acum . 
+1062	The government has now decided that a large task force will sail , as soon as all preparations are complete . 	Guvernul a decis că o largă forţă de intervenţie va fi trimisă imediat ce toate pregătirile vor fi făcute . 
+1063	Prime Minister , we do still have three weeks before our ships reach the islands . 	Dnă prim- ministru , mai avem 3 săptămâni până când navele noastre vor ajunge la insule . 
+1064	All we 're saying is that we shouldn 't give up on trying to find a diplomatic solution . 	Tot ce spunem este că nu ar trebui să renunţăm să î ncercăm să găsim o soluţie diplomatică . 
+1065	The US Secretary of State has arrived , Prime Minister . 	Secretarul de Stat american a venit , dnă prim- ministru . 
+1066	So you are proposing to go to war over these islands . 	Aşadar propuneţi să mergeţi la război pentru aceste insule . 
+1067	They are thousands of miles away , a handful of citizens , politically and economically insignificant , if you 'll excuse me . 	Sunt la mii de kilometri depărtare , cu foarte puţin cetăţeni , şi insignifiante din punct de vedere politic şi economic , dacă î mi permiteţi . 
+1068	Just like Hawaii ... 	Exact ca Hawaii , presupun . 
+1069	I imagine . 	Exact ca Hawaii , presupun . 
+1070	- I 'm sorry ? 	Scuzaţi- mă ? În 1941 , când Japonia a atacat Pearl Harbour , s- a dus America umilă să roage Tokyo pentru î ncheierea unui tratat de pace ? Şi- a î ntors spatele de la proprii cetăţeni de acolo , pentru că insulele erau la mii de kilometri distanţă de continentul Statelor Unite ? 
+1071	- 1941 , when Japan attacked Pearl Harbor . 	Scuzaţi- mă ? În 1941 , când Japonia a atacat Pearl Harbour , s- a dus America umilă să roage Tokyo pentru î ncheierea unui tratat de pace ? Şi- a î ntors spatele de la proprii cetăţeni de acolo , pentru că insulele erau la mii de kilometri distanţă de continentul Statelor Unite ? 
+1072	Did America go , cap in hand , and ask Tojo for a peaceful negotiation of terms ' ? 	Scuzaţi- mă ? În 1941 , când Japonia a atacat Pearl Harbour , s- a dus America umilă să roage Tokyo pentru î ncheierea unui tratat de pace ? Şi- a î ntors spatele de la proprii cetăţeni de acolo , pentru că insulele erau la mii de kilometri distanţă de continentul Statelor Unite ? 
+1073	Did she turn her back on her own citizens there because the islands were thousands of miles away from the mainland United States ? 	Nu , nu , nu ! 
+1074	No ! 	Nu , nu , nu ! 
+1075	No ! 	Nu , nu , nu ! 
+1076	No ! 	Ne vom ridica î n faţa unui principiu , sau nu ne vom ridica deloc . 
+1077	We will stand on principle , or we will not stand at all . 	Ne vom ridica î n faţa unui principiu , sau nu ne vom ridica deloc . 
+1078	But , Margaret , with all due respect , when one has been to war ... 	Dar , Margaret , cu tot respectul , când cineva a fost î n război ... 
+1079	With all due respect , sir , 	Cu tot respectul , dle ... 
+1080	I have done battle every single day of my life , and many men have underestimated me before . 	M- am luptat î n fiecare zi a vieţii mele şi mulţi m- au subestimat î nainte . 
+1081	This lot seem bound to do the same , but they will rue the day . 	Aceştia par să facă la fel , dar vor vedea ei . 
+1082	Now , shall I be mother ? 	Acum , pot să fac pe mama ? 
+1083	Tea , Al , how do you take your tea ? 	Ceai , Al , cum bei ceaiul ? Simplu sau cu lapte ? 
+1084	Black or white ? 	
+1085	The Argentinean ship the General Belgrano and her escorts are pursuing course 273 degrees towards the Argentinean mainland . 	Nava argentiniană General Belgrano şi navele sale de escortă au un curs de 273 grade spre continentul argentinian . Îi urmărim cu submarinul nostru HMS Conqueror . 
+1086	We are tracking them with our submarine HMS Conqueror . 	Nava argentiniană General Belgrano şi navele sale de escortă au un curs de 273 grade spre continentul argentinian . Îi urmărim cu submarinul nostru HMS Conqueror . 
+1087	Is this ship a threat ? 	Nava asta este o ameninţare ? 
+1088	Both of these ships are carrying Exocet missiles , Prime Minister . 	Ambele aceste nave au la bord rachete Exocet , dnă prim- ministru . 
+1089	Just yesterday , they launched , then aborted , an attack inside the exclusion zone . 	Chiar ieri ... au lansat , apoi au oprit un atac î n afara zonei păzite . 
+1090	There is a risk they could try it again . 	Există riscul că ar putea î ncerca din nou . 
+1091	The Belgrano is sailing directly away from the islands . 	Belgrano navighează î n sens opus insulelor . 
+1092	Can it really be regarded as a threat ? 	Poate fi privită ca o ameninţare ? Şi- a schimbat cursul continuu . 
+1093	She 's been changing course continually . 	Poate fi privită ca o ameninţare ? Şi- a schimbat cursul continuu . 
+1094	There 's a strong possibility that they 'll attempt a pincer movement on our carrier group . 	Există o şansă bună ca să î ncerce să ne flancheze navele . 
+1095	I advise that we engage them . 	Sfatul meu este să î i atacăm . 
+1096	Hit the Belgrano as a warning to the others , send them all back to port . 	Atacaţi Belgrano ca un avertisment pentru celelalte nave . Trimiteţi- i pe toţi î napoi î n port . 
+1097	It 'll play badly internationally . 	Va fi un atac intenţionat . 
+1098	We 'll be seen as aggressors . 	Noi vom fi văzuţi drept agresori . 
+1099	This will be an escalation , Prime Minister . 	Asta va fi o escaladare a conflictului , dnă prim- ministru . 
+1100	If there is to be an escalation , it 's better that we start it . 	Dacă va fi o escaladare , este mai bine să o î ncepem noi . 
+1101	It is steaming away , Prime Minister . 	Va î ncinge spiritele , dnă prim- ministru . 
+1102	Sink it . 	Scufundaţi- o . 
+1103	HMS Sheffield , a Type 42 destroyer , was attacked and hit late this afternoon by an Argentine missile . 	HMS Sheffield , un distrugător de tipul 42 , a fost atacat şi lovit î n această după- amiază de o rachetă argentiniană , atac văzut ca represalii pentru scufundarea navei General Belgrano , î n care au murit mai mult de 300 de marinari argentinieni . 
+1104	It is seen as retaliation for the sinking of the General Belgrano , in which over 300 Argentinean sailors died . 	HMS Sheffield , un distrugător de tipul 42 , a fost atacat şi lovit î n această după- amiază de o rachetă argentiniană , atac văzut ca represalii pentru scufundarea navei General Belgrano , î n care au murit mai mult de 300 de marinari argentinieni . 
+1105	Prime Minister . 	HMS Sheffield , un distrugător de tipul 42 , a fost atacat şi lovit î n această după- amiază de o rachetă argentiniană , atac văzut ca represalii pentru scufundarea navei General Belgrano , î n care au murit mai mult de 300 de marinari argentinieni . 
+1106	The latest casualty figures from the Sheffield . 	Ultimele date cu privire la numărul pierderilor de pe nava Sheffield . 
+1107	- I must write to them . 	Trebuie să le scriu . 
+1108	Prime Minister ? 	Doamnă prim- ministru ? 
+1109	The families . 	Familiilor . 
+1110	I must write to them . 	Trebuie să le scriu . 
+1111	A Type 21 frigate , HMS Ardent , was hit by bombs and rockets . 	Fregată HMS Argyll de tip 21 a fost atacată cu rachete ... 
+1112	Antelope went the way of the other two British ships 	
+1113	- lost so far ... 	
+1114	- Foreign Secretary . 	Dle Secretar al Afacerilor Externe ... 
+1115	I' ve just been briefed by Admiral Fieldhouse . 	Tocmai a fost informat de către amiralul Fieldhouse . 
+1116	He told me , bluntly , that if the Argentineans are prepared and willing to risk their aircraft , they have enough Exocet missiles to cripple most of our fleet . 	Mi- a spus direct că dacă argentinienii sunt pregătiţi şi dispuşi să- şi rişte navele au suficiente rachete î ncât să ne scoată din luptă majoritatea navelor din flotă . 
+1117	President Reagan and President Belaunde of Peru have some new proposals ... ... new proposals for the peace plan . 	Preşedintele Reagan şi Preşedintele Bellaunde al statului Peru au noi propuneri î n privinţa planului de pace ... 
+1118	Peace plan ? 	Plan de pace ? 
+1119	There will be no appeasement . 	Nu va fi nicio î mpăciuire . Ăsta este un război . 
+1120	This is a war . 	Nu va fi nicio î mpăciuire . Ăsta este un război . 
+1121	It 's a war they started , but by God , we will finish it . 	Este un război pe care ei l- au î nceput , iar Dumnezeule ... noi î l vom sfârşi . 
+1122	Shall I tell you what I 'm going to Write to every single one of these families , these heartbroken families ? 	O să- ţi spun ce o să scriu fiecăreia dintre acesta familii , aceste familii î ndurerate . 
+1123	I 'm going to tell them that no British soldier will die in vain ... for the Falklands . 	O să le spun că niciun soldat britanic nu va muri î n zadar pentru Insulele Falklands . 
+1124	Lieutenant Colonel Jones . 	Locotenent colonel Jones . 
+1125	Captain Wood . 	Căpitan Wood . 
+1126	Captain Dench . 	Căpitan Dench . 
+1127	As the only Prime Minister in the history of our country who is also a mother with a son of my own , 	Sunt singurul prim- ministru din istoria acestei ţări care este de asemenea mamă a unor gemeni . Îmi pot imagina agonia şi durerea voastră . 
+1128	I can imagine your agony , and your grief . 	Sunt singurul prim- ministru din istoria acestei ţări care este de asemenea mamă a unor gemeni . Îmi pot imagina agonia şi durerea voastră . 
+1129	Prime Minister , we have secured the beachhead . 	Dnă prim- ministru , am securizat plaja . 
+1130	The Argentinean troops are demoralized and ill- equipped . 	Trupele argentiniene sunt demoralizate şi slab echipate . 
+1131	The paratroops have taken Goose Green . 	Paraşutiştii au cucerit Goose Green . 
+1132	Shortly after dark last night , our forces surrounding Port Stanley carried out what the Commander in Chief has described as a brilliant surprise night attack . 	La scurt timp după î nserare , noaptea trecută forţele noastre au î nconjurat Port Stanley printr- o mişcare care a fost numită de către comandantul operaţiunii " Un atac surpriză de noapte genial " . 
+1133	Thatcher , bed . 	Thatcher , la culcare . 
+1134	From their new positions , our forces can see 	Din noile lor poziţii , forţele noastre pot vedea un mare număr de soldaţi argentinieni care se retrag şi se î nvălmăşesc spre Port Stanley . 
+1135	large numbers of Argentine soldiers retreating and streaming back into Port Stanley . 	Din noile lor poziţii , forţele noastre pot vedea un mare număr de soldaţi argentinieni care se retrag şi se î nvălmăşesc spre Port Stanley . 
+1136	Our forces are moving forward to exploit their success . 	Forţele noastre avansează pentru a- şi exploata succesul . 
+1137	- Well done , Margaret . 	Bravo , Margaret . Îi felicităm pe bărbaţii şi femeile armatei noastre pentru priceperea lor , curajul şi loialitatea faţă de această ţară . 
+1138	- Congratulations . 	Bravo , Margaret . Îi felicităm pe bărbaţii şi femeile armatei noastre pentru priceperea lor , curajul şi loialitatea faţă de această ţară . 
+1139	We congratulate the men and women of our armed forces for their skill , bra very , and loyalty to this country . 	Bravo , Margaret . Îi felicităm pe bărbaţii şi femeile armatei noastre pentru priceperea lor , curajul şi loialitatea faţă de această ţară . 
+1140	We were faced with an act of unprovoked aggression , and we responded as we have responded in times past : 	Am fost puşi î n faţa unui act neprovocat de agresiune , şi am răspuns aşa cum am răspuns şi dăţile trecute . 
+1141	With unity , strength , and courage ... 	Cu unitate , putere şi curaj , conştienţi că deşi sacrificăm mult , î n cele din urmă , dreptatea va câştiga î n faţa răului . 
+1142	- ... sure in the knowledge that though much is sacrificed , in the end , right will prevail over wrong . 	Cu unitate , putere şi curaj , conştienţi că deşi sacrificăm mult , î n cele din urmă , dreptatea va câştiga î n faţa răului . 
+1143	Hear , hear ! 	
+1144	And I put it to the Right Honorable Gentleman opposite that this is not a day for him to carp , find fault , demand inquiries . 	Atrag atenţia onorabililor membri ai opoziţiei că aceasta nu este o zi î n care să critice , să găsească greşeli şi să solicite anchete ... 
+1145	They will happen , I can assure him of that , for we have nothing to hide . 	Se vor face , vă pot asigura de asta , pentru că nu avem nimic de ascuns , nu ... 
+1146	No . 	Se vor face , vă pot asigura de asta , pentru că nu avem nimic de ascuns , nu ... 
+1147	This is a day to put differences aside , to hold one 's head high and take pride in being British . 	Aceasta este o zi î n care trebuie să punem deoparte neî nţelegerile , să ne ridicăm capul î mpreună şi să fim mândri că suntem britanici . 
+1148	Hear , hear ! 	
+1149	Well done , Prime Minister . 	
+1150	Gotcha ! 	Ţi- am făcut- o ! 
+1151	Well , that paid off , old girl ! 	Ei bine , a meritat , fată ! 
+1152	Your ratings have soared , from the most hated Prime Minister of all time to the nation 's darling . 	Procentele tale de simpatie au urcat ! De la cel mai urât prim ministru din toate timpurile , la cea mai dragă a naţiunii . 
+1153	The world at your feet , and Britain was back in business . 	Lumea este la picioarele tale , iar Marea Britanie şi- a revenit ! 
+1154	" I 'm in Love with Margaret Thatcher " ) 	
+1155	The Berlin Wall has fallen . 	Zidul Berlinului a căzut . 
+1156	The gates have been opened ! 	Porţile s- au deschis ! 
+1157	The police are making no attempt ... 	Poliţia nu face nicio î ncercare de a- i opri pe oamenii care trec . 
+1158	I don 't agree . 	Nu sunt de acord . 
+1159	I don 't agree in any measure . 	Nu sunt nicicum de acord ! 
+1160	Prime Minister , the question of the European single currency will come up . 	Dar , dnă prim ministru problema monedei unice europene se va pune . 
+1161	I don 't think the country is ready for it yet . 	Nu cred că ţara este pregătită pentru asta . 
+1162	But we cannot bury our heads in the sand ... 	Dar nu ne putem î ngropa capetele î n nisip . 
+1163	A lot of Conservative MP 's and Ministers are saying that there must be a change in that style of management , that Mrs . 	Mulţi membri ai Parlamentului conservatori şi miniştri spun că trebuie făcută o schimbare î n stilul de management . 
+1164	Thatcher must listen more , and on occasion , give in . 	Că dna Thatcher trebuie să asculte mai mult şi ocazional să cedeze . 
+1165	The point is , Prime Minister , 	Ideea este , dnă prim- ministru , că nu cred că ne putem impune ideea unei taxe î n care toţi să plătească la fel . 
+1166	I don 't think we can sell the idea of a tax that asks everyone to pay the same . 	Ideea este , dnă prim- ministru , că nu cred că ne putem impune ideea unei taxe î n care toţi să plătească la fel . 
+1167	Our policies may be unpopular , but they are the right policies . 	Măsurile noastre pot fi nepopulare , dar sunt măsuri guvernamentale corecte . 
+1168	Prime Minister , I just don 't think we can ask the poorest of the poor to pay the same amount of tax as a multi- millionaire . 	Dnă prim ministru , nu cred că le putem cere celor mai săraci să plătească ca taxă aceeaşi sumă ca un multimilionar . 
+1169	There you go again ! 	O luăm de la capăt ! 
+1170	Why not ? 	De ce nu ? 
+1171	- Because ... 	Pentru că ... 
+1172	- Because people , on the whole , think that the tax is manifestly unfair . 	Pentru că oamenii , cu toţii , cred că taxa este incorectă . 
+1173	Nonsense . 	Prostii . 
+1174	Errant nonsense . 	Absolut prostii . 
+1175	This is a simple proposition . 	Asta este o propoziţie simplă . 
+1176	If you live in this country , you must pay for the privilege . 	Dacă trăieşti î n ţara asta , trebuie să plăteşti pentru privilegiu . 
+1177	Something , anything . 	Ceva , orice ! 
+1178	If you pay nothing , you care nothing . 	Dacă nu plăteşti deloc , nu î ţi pasă deloc . 
+1179	What do you care where you throw your rubbish ? 	Ce- ţi pasă unde î ţi arunci gunoiul ? 
+1180	Your council estate is a mess , your town , graffiti , what do you care ? 	Clădirea ta este o mizerie , oraşul tău este plin de graffiti , ce î ţi pasă ? 
+1181	It 's not your problem , it 's somebody else 's problem . 	Nu este problema ta , este problema altcuiva , este problema guvernului ! 
+1182	It 's the government 's problem . 	Nu este problema ta , este problema altcuiva , este problema guvernului ! 
+1183	Your problem , some of you , is that you haven 't got the courage for this fight . 	Problema voastră ... a unora dintre voi , este că nu aveţi curajul necesar pentru această luptă . 
+1184	No , you haven 't had to fight hard for anything . 	Nu a trebuit să luptaţi din greu pentru nimic . 
+1185	It 's all been given to you , and you feel guilty about it . 	Vi s- a dat totul şi vă simţiţi vinovaţi î n legătură cu asta ! 
+1186	Well , may I say , on behalf of those who have had to fight their way up , and who don 't feel guilty about it , we resent those slackers who take , take , take , and contribute nothing to the community . 	Ei bine , pot să spun , din partea acelora care au trebuit să lupte să ajungă sus , şi care nu se simt vinovaţi î n legătură cu asta , ne displac şmecherii care iau î n continuu şi nu contribuie cu nimic la comunitate ! 
+1187	And I see the same thing , the same cowardice in our fight within the European Union , cowardice , for the sovereignty of Britain , the integrity of the pound ! 	Văd acelaşi lucru , aceeaşi laşitate î n lupta noastră din Uniunea Europeană . Laşitate . Pentru suveranitatea Marii Britanii şi integritatea lirei sterline ! 
+1188	Some of you ... want to make concessions . 	Unii dintre voi vor să facă concesii . 
+1189	Some of you want to make concessions . 	Unii dintre voi vor să facă concesii . 
+1190	I hear , some of you , agree with the latest French proposals . 	Am auzit că unii dintre voi sunteţi de acord cu ultimele propuneri făcute de francezi . 
+1191	Well , why don 't you get on a boat to Calais ? 	Ei bine , de ce nu vă urcaţi pe un vapor spre Calais ? 
+1192	Hm ? 	Da , de ce nu vă puneţi o beretă , să plătiţi 85 % din venitul vostru guvernului francez ! 
+1193	Why don 't you put on a beret , and pay 85 percent of your income to the French government ! 	Da , de ce nu vă puneţi o beretă , să plătiţi 85 % din venitul vostru guvernului francez ! 
+1194	Right . 	Bine . 
+1195	What can we realistically hope to achieve by the end of session , 	Ce putem spera î n mod realist să realizăm până la sfârşitul sesiunii , Lord Preşedinte ? Şi de ce nu am făcut un progres mai mare până la această dată ? 
+1196	Lord President ? 	Ce putem spera î n mod realist să realizăm până la sfârşitul sesiunii , Lord Preşedinte ? Şi de ce nu am făcut un progres mai mare până la această dată ? 
+1197	And why have we not made more progress to date ? 	Ce putem spera î n mod realist să realizăm până la sfârşitul sesiunii , Lord Preşedinte ? Şi de ce nu am făcut un progres mai mare până la această dată ? 
+1198	What is that ? 	Ce este asta ? 
+1199	Is that the timetable ? 	Este orarul ? 
+1200	- I haven 't seen that . 	Nu l- am văzut . 
+1201	- It is , Prime Minister . 	Pot să- l văd ? 
+1202	- May I see it ? 	Pot să- l văd ? 
+1203	- Yes , yes , of course . 	Poftim , dnă prim- ministru . Desigur . 
+1204	The wording is sloppy here . 	Formularea este neî ngrijită aici . 
+1205	- And here . 	Şi aici . 
+1206	- If you say so . 	- Dacă spuneţi dumneavoastră . 
+1207	- I do say so . 	- Dacă spuneţi dumneavoastră . 
+1208	- It 's merely a first draft . 	Este abia o primă schiţă . 
+1209	This is ridiculous . 	Asta este ridicol . 
+1210	There are two " T 's " in " committee . " 	Sunt doi " T " î n cuvântul " committee " ! ~comitet~ 
+1211	Two " T 's . " Geoffrey , this is shameful . 	Doi " T " . Asta este ruşinos . 
+1212	Shameful ! 	Ruşinos ! 
+1213	I can 't even rely on you ... for a simple timetable . 	Nu mă pot baza pe voi nici măcar pentru un simplu orar ! 
+1214	Are you unwell ? 	Sunteţi suferind ? 
+1215	Yes , you are unwell . 	Da . Eşti suferind . 
+1216	Give me your pencil . 	Dă- mi stiloul tău , dă- mi- l ! 
+1217	Give it to me ! 	
+1218	If this is the best you can do , I had better send you to hospital , and I shall do your job as well as my own and everyone else 's . 	Dacă asta este tot ce puteţi face , mai bine vă trimit la spital şi o să fac treaba voastră pe lângă a mea şi a tuturor celorlalţi . 
+1219	Gentlemen , as the Lord President has chosen to come to Cabinet unprepared ... ... I shall have to close the meeting . 	Domnilor . Deoarece Lordul Preşedinte a ales să vină la şedinţa de guvern nepregătit , trebuie să î nchei această şedinţă . 
+1220	Good morning . 	Bună dimineaţa ! 
+1221	Can 't pay ! 	Nu putem plăti , nu vom plăti ! 
+1222	Won 't pay ! 	Nu putem plăti , nu vom plăti ! 
+1223	Can 't pay ! 	
+1224	Won 't pay ! 	
+1225	Geoffrey . 	Geoffrey ... 
+1226	My letter of resignation . 	Scrisoarea mea de demisie . 
+1227	Our differences , I 'm afraid , cannot be reconciled . 	Neî nţelegerile noastre , mă tem , sunt ireconciliabile . 
+1228	I have done what I believe to be right for my party and my country . 	Am făcut ceea ce am crezut că este bine pentru partid şi pentru ţara mea . 
+1229	The time has come for others to consider their own response to the tragic conflict of loyalties with which I have myself wrestled ... 	A venit vremea ca alţii să ia î n considerare propriul lor răspuns la tragicul conflict de loialităţi , cu care m- am luptat poate prea mult timp . 
+1230	Geoffrey 's speech in the House of Commons was devastating . 	Discursul lui Geoffrey din Casa Comunelor a fost devastator . 
+1231	He just couldn 't take any more of the bullying . 	Aproape a invitat pe cineva să o provoace la şefia partidului . 
+1232	He was almost inviting someone to challenge her for leadership of the party . 	Aproape a invitat pe cineva să o provoace la şefia partidului . 
+1233	She behaved appallingly . 	S- a purtat groaznic . 
+1234	I wouldn 't have spoken to my gamekeeper like that . 	Nu i- aş fi vorbit aşa nici măcar î ngrijitorului meu . 
+1235	I don 't think she can survive this . 	Nu cred că poate supravieţui politic acestui lucru . 
+1236	I 'm here to announce my decision to put my name forward as leader of the Conservative Party . 	Sunt aici să- mi anunţ decizia de a mă î nscrie la şefia partidului Conservator . 
+1237	I have nothing but admiration for our Prime Minister , 	Nu am decât admiraţie pentru dna Prim Ministru Margaret Thatcher , dar cred ... că partidul şi ţara noastră au nevoie de un nou lider . 
+1238	Margaret Thatcher , but I believe our party and our country need a new leader . 	Nu am decât admiraţie pentru dna Prim Ministru Margaret Thatcher , dar cred ... că partidul şi ţara noastră au nevoie de un nou lider . 
+1239	It 's extraordinary ... 	Este extraordinar . - Eu sunt primul ministru . 
+1240	- I 'm the Prime Minister . ... make it possible for Conservative MPs to depose 	- Regulile Partidului Conservator ... fac posibil faptul ca membri ai Parlamentului conservatori să destituie un prim ministru . 
+1241	- a sitting Prime Minister . 	- Regulile Partidului Conservator ... fac posibil faptul ca membri ai Parlamentului conservatori să destituie un prim ministru . 
+1242	- Sweetie . 	Scumpule ? 
+1243	He already has open support . 	Majoritatea are deja suportul ... 
+1244	As Conservative MPs gather in Westminster to decide who they will back in the leadership contest , the Prime Minister said she would not be diverted from critical international affairs . 	Membri Parlamentului conservatori s- au adunat 
+1245	Tonight in Paris , Mrs . 	la Westminster pentru a discuta pe cine vor susţine la şefia partidului , iar dna primul ministru a spus că nu se va lăsa distrasă de la politica externă critică . În seara asta î n Paris , dna Thatcher este printre cei 34 de lideri mondiali care s- au î ntâlnit pentru a celebra sfârşitul Războiului Rece şi pentru a anunţa î nceputul unei noi ere paşnice î n relaţiile dintre est şi vest . 
+1246	Thatcher is among 34 world leaders who came here to celebrate the end of the Cold War and to herald the start of a peaceful new age of East- West cooperation . 	la Westminster pentru a discuta pe cine vor susţine la şefia partidului , iar dna primul ministru a spus că nu se va lăsa distrasă de la politica externă critică . În seara asta î n Paris , dna Thatcher este printre cei 34 de lideri mondiali care s- au î ntâlnit pentru a celebra sfârşitul Războiului Rece şi pentru a anunţa î nceputul unei noi ere paşnice î n relaţiile dintre est şi vest . 
+1247	There 's a general feeling that Mrs . 	Există sentimentul general că dna Thatcher va câştiga la primul tur al alegerilor . 
+1248	Thatcher is going to win on the first ballot . 	Există sentimentul general că dna Thatcher va câştiga la primul tur al alegerilor . 
+1249	" We 're going to put it to bed tomorrow night , " is how one of her campaign staff puts it . 	Vom vedea mâine seară cum va reacţiona staff- ul ei de campanie . 
+1250	M , I think you should come home and defend yourself , old girl . 	M , cred că ar trebui vii acasă şi să te aperi , fată . 
+1251	Heseltine is campaigning ferociously . 	Heseltine are o campanie feroce . 
+1252	I do think my time is better spent seeing an end to the Cold War . 	Cred că timpul meu este mai bine utilizat văzând sfârşitul Războiului rece , nu credeţi ? 
+1253	Don 't you ? 	Cred că timpul meu este mai bine utilizat văzând sfârşitul Războiului rece , nu credeţi ? 
+1254	After all this time , they know what I stand for . 	După tot acest timp , ei ştiu ceea ce reprezint . 
+1255	Will she , or will she not , be in the job tomorrow ? 	Va fi sau nu mâine î n funcţie ? 
+1256	Margaret , they can 't touch you . 	Margaret , ei nu te pot atinge . 
+1257	Mrs . 	Dna Thatcher a eşuat î n a obţine suficiente voturi pentru a- şi asigura victoria la alegerile şefiei partidului , iar acum trebuie să decidă dacă se va î nscrie î n turul doi . În timp ce dna Thatcher pleacă din Paris spre Londra pentru a face o ultimă î ncercare pentru a aduna susţinători î n vederea rămânerii sale la şefia partidului , este posibil să fie prea târziu . 
+1258	Thatcher has failed to win enough votes to secure an outright win in the leadership contest and must now decide whether to put her name forward for the second round . 	Dna Thatcher a eşuat î n a obţine suficiente voturi pentru a- şi asigura victoria la alegerile şefiei partidului , iar acum trebuie să decidă dacă se va î nscrie î n turul doi . În timp ce dna Thatcher pleacă din Paris spre Londra pentru a face o ultimă î ncercare pentru a aduna susţinători î n vederea rămânerii sale la şefia partidului , este posibil să fie prea târziu . 
+1259	As Mrs . 	Dna Thatcher a eşuat î n a obţine suficiente voturi pentru a- şi asigura victoria la alegerile şefiei partidului , iar acum trebuie să decidă dacă se va î nscrie î n turul doi . În timp ce dna Thatcher pleacă din Paris spre Londra pentru a face o ultimă î ncercare pentru a aduna susţinători î n vederea rămânerii sale la şefia partidului , este posibil să fie prea târziu . 
+1260	Thatcher leaves Paris for London to make her last- ditch attempt to pull together support for her leadership , the ship may have sailed . 	
+1261	Treachery ! 	Trădare ! 
+1262	We will never win another election led by that woman . 	Nu vom mai câştiga nicio alegere conduşi de către această femeie . 
+1263	We need a leader who listens . 	Avem nevoie de un lider care ascultă . 
+1264	This isn 't about her , it 's about the party . 	Nu este vorba despre ea , este vorba despre partid . 
+1265	One must know when to go . 	Trebuie să ştie când să plece . Întrebarea este : " cum î i spunem ? " 
+1266	The question is , how does anyone put it to her ? 	Trebuie să ştie când să plece . Întrebarea este : " cum î i spunem ? " 
+1267	If you were to stand , I , of course , would vote for you , Prime Minister . 	Dacă ai avea şanse , desigur că aş vota pentru primul ministru ... 
+1268	Prime Minister , I , of course , would vote for you ... 	Desigur că aş vota pentru primul ministru , dar nu cred că poţi câştiga . 
+1269	But I don 't think you can win . 	Desigur că aş vota pentru primul ministru , dar nu cred că poţi câştiga . 
+1270	The loyalty of all of my colleagues ... 	Nu putem conta pe loialitatea colegilor mei . 
+1271	It was the people who put me here . 	Dacă oamenii m- au pus aici ... 
+1272	The loyalty of all of my colleagues cannot be counted upon . 	Nu putem conta pe loialitatea colegilor mei . 
+1273	It 's up to them to tell me when to go . 	Ei î mi pot spune când să plec . 
+1274	Margaret , you can 't let them do this to you . 	Margaret , nu î i poţi lăsa să- ţi facă asta . 
+1275	Please , boss . 	Te rog ... 
+1276	They 'll destroy you . 	Te vor distruge . 
+1277	Throw in the towel now , love . 	Abandonează acum , scumpo . 
+1278	Don 't let those bastards see you humiliated . 	Nu î i lăsa pe nemernicii ăia să te vadă umilită . 
+1279	You just won 't win , darling . 	Nu vei câştiga , draga mea . 
+1280	Not this time . 	Nu şi de data asta . 
+1281	- Oh , Denis . 	Denis ... 
+1282	I am the Prime Minister . 	Eu sunt primul ministru . 
+1283	Order ! 	Linişte ! 
+1284	Order ! 	Linişte ! 
+1285	The Right Honorable Gentleman is afraid . 	Onorabilului domn î i este frică ! 
+1286	This is their naked strategy of closing some coal mines and then selling off ... 	Asta este o strategie de a î nchide nişte mine ... - Şi de a le vinde . 
+1287	They believe in striking , I believe in working ! 	- Ei cred î n grevă ... - Eu cred î n muncă ! 
+1288	This is the woman who 's watched ten men on hunger strike starve themselves to death and never ﬂinched ! 	- Aceasta este femeia care a privit zece bărbaţi aflaţi î n greva foamei , î nfometaţi de moarte şi nu a tresărit ! 
+1289	Despicable and cowardly . 	Josnic . 
+1290	- Cynical Falklands war ... 	Mai mulţi proprietari de case , mai mulţi acţionari , mai multe economii ... 
+1291	- More homeowners , 	Mai mulţi proprietari de case , mai mulţi acţionari , mai multe economii ... 
+1292	- more shareowners , more savings ... 	Mai mulţi proprietari de case , mai mulţi acţionari , mai multe economii ... 
+1293	- Showing to the bankers ... 	
+1294	Yes , yes , yes ! 	
+1295	I offer my resignation after 11 and a half extraordinary years ... ... proud to have left Britain in a much better state than when we took office . 	Îmi ofer demisia ... după 11 ani şi jumătate extraordinari , mândră să fi lăsat Marea Britanie î ntr- o stare mult mai bună decât când am preluat funcţia . 
+1296	What 's this then ? 	Ce este asta ? 
+1297	A radio . 	Un radio ... 
+1298	How useful . 	Foarte util . 
+1299	Steady , MT . 	Stai dreaptă , MT . 
+1300	Mrs . 	
+1301	Thatcher ! 	
+1302	The greatest Prime Minister since Churchill deposed by a bunch of spineless pygmies ! 	Cel mai grozav prim ministru de la Churchill demis de o gaşcă de pigmei fără şira spinării ! 
+1303	All those years of taking the tough decisions . 	Toţi anii ăştia de luare a celor mai dificile decizii ... mai contează acum ceva din asta ? 
+1304	Does any of it matter now ? 	Toţi anii ăştia de luare a celor mai dificile decizii ... mai contează acum ceva din asta ? 
+1305	It 's all been turned to mush ! 	A fost distrus totul ! 
+1306	- Hm ? 	- Ce ? 
+1307	- By these fools ! 	- Proşti afurisiţi ! 
+1308	These lily- livered pinkos ! 	Comunişti patetici ! 
+1309	- These inept placaters . 	- Aceşti concilianţi inapţi . 
+1310	Very good ! 	- Foarte bine ! 
+1311	These vacillators . 	Aceşti ezitanţi . 
+1312	- Vacillators ! 	- Ezitanţi ! 
+1313	Poll takers . 	Cercetători ai opiniei publice . 
+1314	- Popularity seekers . 	- Căutători de popularitate . 
+1315	So busy taking the pulse of the public ! 	Erau foarte ocupaţi să ia pulsul publicului ! 
+1316	- Weak ! 	Slăbiciune î nseamnă slăbiciune . 
+1317	Weak ! 	Slăbiciune î nseamnă slăbiciune . 
+1318	Weak ! 	Slăbiciune î nseamnă slăbiciune . 
+1319	- These weak , weak ... 	- Slabi ... - Ei toţi . 
+1320	- All of them , weak ! - ... weak men ! 	Slabi . Bărbaţii ! 
+1321	Don 't they know if you take the tough decisions ... ... yes , people will hate you today , but they 'll thank you for generations . 	E nu ştiu că atunci când iei decizii dificile ... da , oamenii te vor urî  astăzi , dar î ţi vor mulţumi peste generaţii . 
+1322	Or forget you entirely and chuck you out with the rubbish . 	Sau te vor uita pe deplin şi te vor arunca la gunoi ! 
+1323	Oh ! 	
+1324	All I wanted was to make a difference in the world . 	Tot ce am vrut a fost să fac ceva important î n lume . Şi ai făcut , dragă , ai făcut . 
+1325	And you did , love , you did . 	Tot ce am vrut a fost să fac ceva important î n lume . Şi ai făcut , dragă , ai făcut . 
+1326	Yes ... 	
+1327	Oh ... 	Tot ce am vrut a fost ca fiii meu să crească bine şi fericiţi , mai fericiţi decât am fost eu . 
+1328	All I wanted was for my children to grow up well and be happy , happier than I was , certainly . 	Tot ce am vrut a fost ca fiii meu să crească bine şi fericiţi , mai fericiţi decât am fost eu . 
+1329	He kept all this . 	Toţi aceşti ani ... 
+1330	Oh , yes . 	Da . 
+1331	And I wanted you to be happy , of course . 	Desigur , şi tu am vrut să fii fericit . 
+1332	Were you happy , Denis ? 	Ai fost fericit , Denis ? 
+1333	Tell me the truth . 	Spune- mi adevărul . 
+1334	Denis ? 	
+1335	Denis ? 	Denis ? 
+1336	Denis ? 	Denis ? 
+1337	Here 's your bag . 	Uite- ţi valiza . 
+1338	All packed , sorted . 	Ai lucrurile î mpachetate . 
+1339	Denis , wait . 	Denis , aşteaptă . 
+1340	Where are your shoes ? 	Unde î ţi sunt pantofii ? 
+1341	You ... 	Nu , nu poţi pleca fără pantofi ! 
+1342	You can 't go without your shoes . 	Nu , nu poţi pleca fără pantofi ! 
+1343	- Not yet . 	- Nu î ncă . - Stai dreaptă . 
+1344	- Steady . 	
+1345	Yes . 	Da . 
+1346	Steady . 	Să stau dreaptă . 
+1347	- Steady the buffs . 	- " Staţi drepţi , soldaţi " . 
+1348	- Steady the buffs . 	- " Staţi drepţi , soldaţi " . 
+1349	No . 	Nu . Încă nu . 
+1350	Not yet ! 	Nu . Încă nu . 
+1351	Denis ! 	Denis . 
+1352	Wait ! 	Aşteaptă ... 
+1353	I don 't ... 	Nu vreau ... nu pot . 
+1354	I said I don 't want you to go yet . 	Nu vreau să pleci î ncă . 
+1355	Denis ! 	Denis . 
+1356	Please ! 	Te rog . 
+1357	Not ... 	Nu , nu . 
+1358	Don 't ... 	Nu , nu . 
+1359	No . 	Nu eşti ... 
+1360	I 'm not ... 	Nu vreau să fiu singură . 
+1361	I don 't want to be on my own . 	Nu vreau să fiu singură . 
+1362	You 're gonna be fine on your own , love . 	O să fii î n regulă singură , draga mea . Întotdeauna ai fost . 
+1363	You always have been . 	O să fii î n regulă singură , draga mea . Întotdeauna ai fost . 
+1364	Denis ... 	Denis ! 
+1365	No , no , no ! 	Denis ! Denis ! 
+1366	Mummy . 	Mami ... 
+1367	- Good God ! 	Dumnezeule , mamă . 
+1368	- Mum , are you all right ? 	Eşti î n regulă ? - Da . 
+1369	- Yes . 	- Ce faci ? 
+1370	- What have you been doing ? 	Da ... 
+1371	Mummy , you should have called for help , silly old sausage . 	Mami , ar fi trebuit să ceri ajutor , prostuţo . 
+1372	Have you not even been in your bed properly ? 	Nu ai dormit bine î n pat ? 
+1373	You 've done all this ? 	- Tu ai făcut toate astea ? 
+1374	Yes , it 's all sorted . 	- Da , le- am sortat pe toate . 
+1375	Finished . 	Am terminat . 
+1376	Yes , well , don 't worry about that . 	Ei bine , nu- ţi fă griji î n legătură cu asta . 
+1377	June and I can crack on with it . 	June şi cu mine puteam face asta . 
+1378	I was just going to get dressed . 	Tocmai mă duceam să mă î mbrac . 
+1379	Shall I call someone , see if anyone can come and do your hair ? 	Să chem pe cineva , să văd dacă poate veni cineva să- ţi aranjeze părul ? 
+1380	No ... 	Nu . 
+1381	You do it . 	Aranjează- l tu . 
+1382	Right , I 'm off , June . 	
+1383	Susie 's going to drive me . 	
+1384	- Just loading the car . 	
+1385	- OK . 	
+1386	Bye ! 	
+1387	Oh , let me do that , Margaret . 	Lasă- mă pe mine să fac asta , Margaret . 
+1388	No , dear , it 's all right . 	Nu , dragă , o să o fac eu . 
+1389	I' ll do it . 	Carol a spus că s- ar putea să mergi la Casa Lorzilor astăzi ? 
+1390	Carol said you might go to the House of Lords today ? 	Carol a spus că s- ar putea să mergi la Casa Lorzilor astăzi ? 
+1391	- No , no . 	Nu , nu . 
+1392	I 'm not going anywhere . 	Nu mă duc nicăieri . 
