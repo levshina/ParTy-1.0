@@ -1,0 +1,1199 @@
+1	Where are you going ? 	Πού πας ; 
+2	I won 't be long . 	Δεν θ´ αργήσω . 
+3	Welcome , Signor Soiarra . 	Καλωσορίσατε , signοr Σκιάρα . 
+4	I trust you had a pleasant journey . 	Ελπίζω να είχατε ευχάριστο ταξίδι . 
+5	Do you have it ? 	Το έχεις ; 
+6	Yes . 	Ναι . 
+7	It 's over there . 	Εκεί είναι . 
+8	When do we blow the stadium ? 	Πότε ανατινάζουμε το στάδιο ; 
+9	This evening at six . 	Το απόγευμα στις 6 . 
+10	And the flight out of here ? 	Και η πτήση που θα μας φυγαδεύσει ; 
+11	All arranged . 	Όλα κανονισμένα . 
+12	And then what ? 	Και μετά ; 
+13	Then I visit The Pale King . 	Μετά επισκέπτομαι τον Χλωμό Βασιλιά . 
+14	A toast , my friend . 	Μια πρόποση , φίλε μου . 
+15	To Death ! 	Στον Θάνατο ! ʼσπρο πάτο . 
+16	Bottoms up . 	Στον Θάνατο ! ʼσπρο πάτο . 
+17	Meet me in the square ! 	Έλα στην πλατεία ! 
+18	Start anywhere you like . 	ΕΚΤΡΟΠΑ ΣΤΟ ΜΕΞIΚΟ ʼρχισε απ´ όπου θέλεις . 
+19	Take your time , 007 , but in five minutes the head of the Joint Security Service is going to walk through that door , and I' ve got to explain to him how one of our agents decided to potter off to Mexico , all on his own , and cause an international incident . 	007 , σε 5 λεπτά ο επικεφαλής της Διακλαδικής Υπηρεσίας Ασφαλείας ... θα έρθει εδώ και πρέπει να του εξηγήσω πώς ένας πράκτοράς μας ... ... αποφάσισε να τριγυρίζει στο Μεξικό και να προκαλέσει θερμό επεισόδιο . 
+20	With all due respect , sir , it could 've been worse . 	Κύριε , θα μπορούσε να ήταν χειρότερα . 
+21	Worse ? 	Χειρότερα ; Ανατίναξες μισό τετράγωνο . 
+22	You blew up half a bloody block . 	Χειρότερα ; Ανατίναξες μισό τετράγωνο . 
+23	Well , better half a block than a whole stadium full of people . 	Καλύτερα από ένα στάδιο γεμάτο ανθρώπους . 
+24	You had no authority . 	Δεν είχες εξουσιοδότηση . 
+25	None . 	Καμία . 
+26	As you know , we 're in the middle of the biggest shakeup in the history of British intelligence . 	Κάνουμε τεράστια αναδιοργάνωση στις βρετανικές υπηρεσίες πληροφοριών . 
+27	The ink 's barely dry on this merger with MI5 and already they 're itching for a chance to scrap the double- 0 program forever . 	Το μελάνι δεν έχει στεγνώσει ακόμα από τη συγχώνευση με τη ΜΙ5 ... ... και ήδη ζητούν αφορμή για να κόψουν το πρόγραμμα 00 . 
+28	And you 've just given them one . 	Κι εσύ τους την έδωσες . 
+29	You 're right , sir . 	Έχετε δίκιο , κύριε . 
+30	You have got a tricky day ahead . 	Έχετε μπροστά σας δύσκολη μέρα . 
+31	This is an official question . 	Θα σε ρωτήσω επισήμως : 
+32	Mexico City . 	Στην Πόλη του Μεξικού . 
+33	What were you doing there ? 	Τι έκανες εκεί ; 
+34	It was just a coincidence . 	Ήταν απλά μια σύμπτωση . 
+35	I was taking some overdue holiday . 	Έκανα καθυστερημένες διακοπές . 
+36	Okay . 	Εντάξει . 
+37	Fine . 	Ωραία . 
+38	As of this morning , you are officially grounded . 	Από σήμερα είσαι σε διαθεσιμότητα . 
+39	I 'm standing you down from all operations indefinitely . 	Απομακρύνεσαι από κάθε επιχείρηση επ´ αόριστον . 
+40	Very good , sir . 	Πολύ καλά , κύριε . 
+41	007 ? 	007 ; 
+42	Sir ? 	Κύριε ; 
+43	I don 't know what you 're playing at , but whatever it is , it has to stop . 	Δεν ξέρω τι παιχνίδι παίζεις , όμως όποιο κι αν είναι , σταμάτα το ... ... τώρα . 
+44	Now . 	
+45	- So sorry . 	- Με συγχωρείτε . 
+46	Am I interrupting ? 	- Με συγχωρείτε . 
+47	- Not remotely . 	Διακόπτω ; - Καθόλου . 
+48	007 , I 'd like you to meet Max Denbigh , head of the Joint Security Service . 	007 , ο Μαξ Ντένμπι , επικεφαλής της Διακλαδικής Υπηρεσίας Ασφαλείας . 
+49	It 's a pleasure to finally meet you , 007 . 	Χαίρομαι που επιτέλους σε γνωρίζω , 007 . 
+50	I' ve heard a lot about you . 	Έχω ακούσει πολλά για σένα . 
+51	Most of it good . 	Κυρίως καλά . 
+52	- Congratulations on your new appointment . 	- Συγχαρητήρια για τον διορισμό σου . 
+53	- Thank you . 	- Ευχαριστώ . 
+54	- I suppose we should call you C now . 	- Μάλλον τώρα πρέπει να σε φωνάζω C . 
+55	- No , no . 	- Όχι , όχι . 
+56	" Max , " please . 	" Μαξ " , παρακαλώ . 
+57	No , I think I' ll call you C ... 	Όχι , θα σε φωνάζω C ... ... C . 
+58	C . 	Όχι , θα σε φωνάζω C ... ... C . 
+59	As you wish . 	Όπως επιθυμείς . 
+60	Well , my door is always open , 007 , for my employees . 	Η πόρτα μου είναι ανοιχτή , 007 ... ... για τους υφισταμένους μου . 
+61	This merger 's gonna be a whole new chapter for us . 	Η συγχώνευση ανοίγει νέο κεφάλαιο για μας . 
+62	We 're going to bring British intelligence out of the Dark Ages ... into the light . 	Θα φέρουμε τις βρετανικές υπηρεσίες πληροφοριών από τον Μεσαίωνα ... ... στο φως . 
+63	That all sounds lovely . 	Ακούγεται θαυμάσιο . 
+64	That 'll be all , 007 . 	Ελεύθερος , 007 . 
+65	Report to Q tomorrow for medical , thank you . 	Αύριο παρουσιάσου στον Q για τσεκάπ , ευχαριστώ . 
+66	Very good , sir . 	Πολύ καλά , κύριε . 
+67	- James ? 	Τζέιμς ; 
+68	- Moneypenny . 	Μανιπένι . 
+69	- So ? 	Λοιπόν ... πώς πήγε η συνάντηση ; 
+70	How was the meeting ? 	Λοιπόν ... πώς πήγε η συνάντηση ; 
+71	- Very good , thank you . 	Πολύ καλά , ευχαριστώ . 
+72	- Here . 	Ορίστε . 
+73	Forensics finally released this . 	Το εγκληματολογικό το παρέδωσε επιτέλους . 
+74	- What is it ? 	- Τι είναι ; - Προσωπικά είδη από το Skyfall . 
+75	It 's personal effects they recovered from Skyfall . 	- Τι είναι ; - Προσωπικά είδη από το Skyfall . 
+76	- Perfect . 	Τέλεια . 
+77	You can bring it to me later . 	Μου το φέρνεις αργότερα . 
+78	- What do you mean ? 	- Τι εννοείς ; - Στο σπίτι μου . 
+79	My place , 9 : 00 . 	Στις εννέα . 
+80	- Evening . 	Καλησπέρα . 
+81	- Come in . 	Πέρασε . 
+82	- Have you just moved in ? 	Μόλις μετακόμισες ; 
+83	- No . 	Όχι . 
+84	Well , I like what you 've done with the place . 	Μ´ αρέσει η διακόσμηση . 
+85	Your delivery . 	Το δέμα σου . 
+86	Thank you . 	Ευχαριστώ . 
+87	- Would you like a drink ? 	Θα πιεις κάτι ; 
+88	- No , thanks . 	- Όχι , ευχαριστώ . 
+89	I 'm not staying . 	- Όχι , ευχαριστώ . 
+90	That 's a shame . 	Δεν θα μείνω . - Κρίμα . 
+91	What 's going on , James ? 	Τι συμβαίνει , Τζέιμς ; 
+92	There 's not one person at MI6 who isn 't talking about it . 	Δεν υπάρχει κανείς στην ΜΙ6 που να μην το συζητεί . 
+93	Talking about what , exactly ? 	Τι ακριβώς συζητεί ; 
+94	That what you did in Mexico was one step too far . 	Ότι αυτό που έκανες στο Μεξικό ξεπέρασε τα όρια . 
+95	- That you 're finished . 	Ότι ξόφλησες . 
+96	- And what do you think ? 	Εσύ τι πιστεύεις ; 
+97	I think you 're just getting started . 	Πιστεύω ότι μόλις άρχισες . 
+98	I don 't know what you mean . 	Δεν σε καταλαβαίνω . 
+99	All right . 	Εντάξει . 
+100	I think you 've got a secret . 	Πιστεύω ότι έχεις ένα μυστικό . 
+101	And it 's something you won 't tell anyone . 	Είναι κάτι που δεν το λες σε κανέναν . 
+102	Because you don 't trust anyone . 	Επειδή δεν εμπιστεύεσαι κανέναν . 
+103	If anything happens to me , 007 , I need you to do something . 	Αν μου συμβεί οτιδήποτε , 007 , θέλω να κάνεις κάτι . 
+104	Find a man called Marco Sciarra . 	Να βρεις έναν άνθρωπο που ονομάζεται Μάρκο Σκιάρα . 
+105	Kill him . 	Σκότωσέ τον . 
+106	And don 't miss the funeral . 	Και να πας στην κηδεία . 
+107	Jesus . 	Χριστέ μου . 
+108	- Where did you get it ? 	- Πού το βρήκες ; - Στην αλληλογραφία μου μόλις πέθανε . 
+109	- In my mailbox just after she died . 	- Πού το βρήκες ; - Στην αλληλογραφία μου μόλις πέθανε . 
+110	Well , she was never short of surprises . 	Ποτέ δεν της έλλειπαν οι εκπλήξεις . 
+111	She wasn 't gonna let death get in the way of her job . 	Δεν θ´ άφηνε τον θάνατο να μπει εμπόδιο στη δουλειά της . 
+112	I' ve been tracking Sciarra ever since . 	Από τότε ακολουθώ τα ίχνη του Σκιάρα . 
+113	- And what have you found ? 	Και τι βρήκες ; 
+114	- Nothing significant yet . 	Τίποτα ουσιαστικό ... ακόμα . 
+115	When 's the funeral ? 	Πότε είναι η κηδεία ; 
+116	Three days . 	Σε τρεις μέρες . 
+117	In Rome . 	Στη Ρώμη . 
+118	If you think M 's signing off on that , you 're insane . 	Αν νομίζεις ότι ο Μ θα το επιτρέψει , είσαι τρελός . 
+119	- He won 't let you out of his sight . 	- Δεν θα σε χάσει απ´ τα μάτια του . 
+120	- Yes , it 's a bit of a problem . 	- Ναι , αυτό είναι ένα πρόβλημα . ʼκου ... 
+121	Listen ... could you do a little quiet digging for me ? 	Μπορείς να κάνεις μια σιωπηρή έρευνα για χάρη μου ; ʼκουσα ένα όνομα στο Μεξικό . 
+122	I heard a name in Mexico . 	Μπορείς να κάνεις μια σιωπηρή έρευνα για χάρη μου ; ʼκουσα ένα όνομα στο Μεξικό . 
+123	" The Pale King . " 	" Ο Χλωμός Βασιλιάς . " 
+124	You want me to be your mole . 	Θέλεις να γίνω πράκτοράς σου . 
+125	Yes . 	Ναι . 
+126	And what makes you think you can trust me ? 	Και τι σε κάνει να μ´ εμπιστεύεσαι ; 
+127	Instinct . 	Το ένστικτο . 
+128	Poor old girl . 	Το καημένο . 
+129	Rigged for demolition in a week . 	Θα το κατεδαφίσουν σε μια βδομάδα . 
+130	Cheaper to knock her down than to rebuild . 	Θα στοιχίσει πιο φτηνά απ´ το να το ξανακτίσουν . 
+131	Still . 	Όμως ... ... ο χρόνος δεν περιμένει κανέναν . 
+132	Time waits for no man and all that . 	Όμως ... ... ο χρόνος δεν περιμένει κανέναν . 
+133	Anyway , all the money 's been spent on this ... the New Centre for National Security . 	Όλα τα χρήματα επενδύθηκαν σε αυτό : Στο Νέο Κέντρο Εθνικής Ασφάλειας . 
+134	So that 's C´s new digs . 	Το καινούριο σπίτι του C . 
+135	You 've met him , have you ? 	Τον γνώρισες , έτσι ; 
+136	- Yesterday . 	Χθες . 
+137	What do we know about him ? 	Τι ξέρουμε γι´ αυτόν ; 
+138	- Classic Whitehall mandarin . 	Κλασικός κυβερνητικός μανδαρίνος . 
+139	Wrote a dossier last year on how the double- 0 program was obsolete , how drones could do all our dirty work abroad . 	Πέρυσι συνέταξε φάκελο για το πώς το πρόγραμμα 00 είναι απαρχαιωμένο . Ότι τα τηλεκατευθυνόμενα αεροσκάφη θα κάνουν τις βρομοδουλειές μας . 
+140	- Went to school with the Home Secretary . 	- Συμμαθητής του υπουργού εσωτερικών . 
+141	- Of course , he did . 	- Μα φυσικά . 
+142	This merger 's just the start of it . 	Η συγχώνευση είναι μόνο η αρχή . 
+143	In three days , there 's a security conference in Tokyo to decide the New World Order . 	Σε 3 μέρες , γίνεται διάσκεψη ασφαλείας στο Τόκιο για τη Νέα Παγκόσμια Τάξη . 
+144	If C gets his way , he 'll have unlimited access to the combined the intelligence streams of nine countries . 	Ο C θ´ αποκτήσει απεριόριστη πρόσβαση στις διακλαδικές ροές δεδομένων 9 χωρών . 
+145	Including us . 	- Και στις δικές μας . 
+146	Quite . 	- Ασφαλώς . 
+147	Well , a lot 's happened while you were away . 	Συνέβηκαν πολλά όσο έλειπες . 
+148	A train bombing in Hamburg and an industrial explosion in Tunisia . 	Βόμβα σε τρένο στο Αμβούργο και έκρηξη σε βιομηχανία της Τυνησίας . 
+149	It 's not great timing for us . 	Δεν είναι κατάλληλη στιγμή για εμάς . 
+150	It 's all rather playing into C 's hands . 	Όλα πάνε καλά για τον C . 
+151	M , well , let 's say he 's feeling the pressure . 	Ο Μ ... ας πούμε ότι αισθάνεται την πίεση . 
+152	Yeah , I' ve noticed . 	Ναι , το πρόσεξα . 
+153	Now , this way , 007 . 	Από δω , 007 . 
+154	Be careful . 	Πρόσεχε . 
+155	It 's a trifle slippery . 	Γλιστράει πολύ . 
+156	Q wasn 't exactly feeling at home in Whitehall , what with the new merger , so he set up shop here , away from prying eyes , as it were . 	Ο Q δεν ένιωθε άνετα στη Γουάιτχολ , λόγω της συγχώνευσης , γι´ αυτό ... ... έστησε το εργαστήριο εδώ ... μακριά απ´ τα αδιάκριτα βλέμματα . ʼκουσα ότι έχει ετοιμάσει κάτι πολύ ξεχωριστό για σένα . 
+157	I hear he 's got something rather special planned for you . 	Ο Q δεν ένιωθε άνετα στη Γουάιτχολ , λόγω της συγχώνευσης , γι´ αυτό ... ... έστησε το εργαστήριο εδώ ... μακριά απ´ τα αδιάκριτα βλέμματα . ʼκουσα ότι έχει ετοιμάσει κάτι πολύ ξεχωριστό για σένα . 
+158	I can hardly wait . 	Ανυπομονώ . 
+159	007 . 	Α , 007 . - Q . 
+160	- Q . 	
+161	- Please excuse the mess . 	- Συγγνώμη για την ακαταστασία . 
+162	Everything 's a little bit up in the air , what with the changes and all . 	Όλα είναι κάπως στον αέρα με όλες αυτές τις αλλαγές . 
+163	Couple of things to get through . 	Δυο- τρία πράγματα για να σε βοηθήσουν . 
+164	Shall we get started ? 	Ν´ αρχίσουμε ; 
+165	Just relax . 	Ηρέμησε . 
+166	That 's it . 	Αυτό είναι . Θαυμάσια . 
+167	Lovely . 	
+168	Now , you may feel a small ... 	Μπορεί να νιώσεις ένα μικρό ... 
+169	- Christ ! - ... prick . 	Χριστέ μου ! ... τσίμπημα . 
+170	- What is it ? 	- Τι είναι ; - Νανοτεχνολογία αιχμής . 
+171	- Cutting- edge nanotechnology . 	- Τι είναι ; - Νανοτεχνολογία αιχμής . 
+172	Smart Blood . 	Έξυπνο Αίμα . 
+173	Microchips in your bloodstream . 	Μικροτσίπ στη ροή του αίματός σου . 
+174	Allows us to track your movements in the field . 	Μας επιτρέπουν να παρακολουθούμε τις κινήσεις σου στις αποστολές . 
+175	You see those readouts ? 	Βλέπεις αυτές τις ενδείξεις ; 
+176	We can monitor your vital signs from anywhere on the planet . 	Θα παρακολουθούμε τα ζωτικά σημεία σου από οπουδήποτε στον πλανήτη . 
+177	Well , that sounds marvelous . 	Αυτό ακούγεται θαυμάσιο . 
+178	Call it a post- Mexico insurance policy . 	Είναι μια μετά- Μεξικό ασφάλεια . 
+179	By direct order of M . 	Με εντολή του Μ . 
+180	I completely understand . 	Καταλαβαίνω απολύτως . 
+181	Good . 	Ωραία . 
+182	Right . 	Μάλιστα . 
+183	Well , I' ve just ... got one last thing for you and you can be on your way . 	Έχω μόνο ... ... ένα τελευταίο για σένα και μπορείς να πηγαίνεις . 
+184	Magnificent , isn 't she ? 	Εξαιρετικό , δεν είναι ; 
+185	Zero to 60 in three point two seconds . 	Από 0 στα 100 σε 3 . 2 δεύτερα . 
+186	Fully bulletproof . 	Απολύτως αλεξίσφαιρο . 
+187	A few little tricks up her sleeve . 	Έχει μερικά κρυφά κόλπα . 
+188	It 's a shame , really . 	Είναι μεγάλο κρίμα . 
+189	She was meant for you , but she 's been reassigned to 009 . 	Το ετοίμασαν για σένα , αλλά ... ... διατέθηκε στον 009 . 
+190	But you can have this . 	Όμως μπορείς να πάρεις αυτό . 
+191	- Does it do anything ? 	Κάνει τίποτα ; 
+192	- It tells the time . 	Λέει την ώρα . 
+193	- Might help with your punctuality issues . 	Θα σε βοηθήσει στο πρόβλημα της ακρίβειας . 
+194	- M 's idea ? 	- Ιδέα του Μ ; - Ακριβώς . 
+195	Precisely . 	- Ιδέα του Μ ; - Ακριβώς . 
+196	Oh , one word of warning . 	Και μια προειδοποίηση . 
+197	The alarm is rather loud . 	Το ξυπνητήρι χτυπάει δυνατά . 
+198	- If you know what I mean . 	Αν με καταλαβαίνεις . 
+199	- I think I do . 	Νομίζω πως ναι . 
+200	Oh , yes . 	Α , ναι . 
+201	That old thing is taking quite a bit of time . 	Αυτή η αντίκα χρειάζεται μεγάλη επισκευή . 
+202	Mind you , there wasn 't much left to work on . 	Αν και δεν είχαν μείνει πολλά για να επισκευάσουμε . 
+203	Only a steering wheel . 	Μόνο το τιμόνι . 
+204	I believe I said , " Bring it back in one piece , " not , " Bring back one piece . " 	Σου είπα , " Φέρ´ το πίσω σε ένα κομμάτι " , όχι " Φέρε πίσω ένα κομμάτι " . 
+205	Anyway , enjoy your downtime , 007 . 	Τελοσπάντων ... απόλαυσε το ρεπό σου , 007 . 
+206	- Q ? 	- Q ; - Ναι ; 
+207	- Yes ? 	- Q ; - Ναι ; 
+208	Well , now you know exactly where I am all of the time . 	Τώρα που ξέρεις συνέχεια πού ακριβώς βρίσκομαι ... ... θα μου κάνεις μια χάρη ; 
+209	- Will you do something for me ? 	Τώρα που ξέρεις συνέχεια πού ακριβώς βρίσκομαι ... ... θα μου κάνεις μια χάρη ; 
+210	- What do you have in mind , exactly ? 	Τι ακριβώς έχεις στο μυαλό σου ; 
+211	Make me disappear . 	Κάνε με να εξαφανιστώ . 
+212	May I remind you that I answer directly to M . 	Να σου θυμίσω ότι λογοδοτώ απευθείας στον Μ . 
+213	I also have a mortgage . 	Επίσης έχω στεγαστικό δάνειο . 
+214	And two cats to feed . 	Και δυο γάτες να θρέψω . 
+215	Well , then I suggest you trust me ... for the sake of the cats . 	Σου προτείνω να μ´ εμπιστευτείς ... ... για το καλό των γατών . 
+216	Well , it 's lovely to see you , 007 . 	Χαίρομαι που σε βλέπω , 007 . Θαυμάσια . 
+217	Lovely . 	
+218	Now , I meant to tell you , the Smart Blood program is obviously still in its developmental phase . 	Το πρόγραμμα του Έξυπνου Αίματος είναι προφανώς σε φάση ανάπτυξης . 
+219	So we may experience the odd drop in coverage during the first 24 hours ... 	Γι´ αυτό μπορεί κάποια στιγμή ... να σημειωθεί απώλεια εντοπισμού τις πρώτες 24 ώρες ... 
+220	48 hours after administration , but after that it should work perfectly . 	48 ... ... ώρες μετά τη χορήγηση , όμως μετά θα λειτουργεί άψογα . 
+221	- I' ll send you a postcard . 	Θα σου στείλω μια κάρτα . 
+222	- Please , don 't . 	Παρακαλώ , μη . 
+223	- Morning . 	Καλημέρα . 
+224	What 's that ? 	- Τι είναι αυτό ; - Κάτι από έναν θαυμαστή . 
+225	- Oh , it 's just something from an admirer . 	- Τι είναι αυτό ; - Κάτι από έναν θαυμαστή . 
+226	- It 's not your birthday , is it ? 	- Μήπως έχεις γενέθλια ; - Όχι , κύριε . 
+227	- No , sir . 	
+228	That was last week . 	Τα είχα την περασμένη βδομάδα . 
+229	Morning . 	Καλημέρα . 
+230	009 has arrived to pick up the DB10 , sir . 	Ο 009 ήρθε για να παραλάβει το DΒ10 , κύριε . 
+231	He 's waiting upstairs . 	Περιμένει πάνω . 
+232	Oh , good . 	Ωραία . 
+233	Yes , fine . 	Ναι , εντάξει . 
+234	Oh , shit . 	Σκατά . 
+235	I 'm sorry for your loss . 	Τα συλλυπητήριά μου . 
+236	- You knew my husband ? 	Γνωρίζατε τον σύζυγό μου ; 
+237	- All too briefly . 	Ελάχιστα . 
+238	- What do you do ? 	Η δουλειά σας ; 
+239	- Life insurance . 	Ασφάλειες ζωής . 
+240	A little late for that . 	Αργήσατε κάπως . 
+241	For your husband , yes . 	Για τον σύζυγό σας , ναι . 
+242	But what about you ? 	Για σας όμως ; 
+243	Me ? 	Εμένα ; 
+244	I hear the life expectancy of some widows can be very short . 	Έμαθα ότι το προσδόκιμο ζωής για κάποιες χήρες είναι πολύ σύντομο . 
+245	How can you talk like this ? 	Μα πώς μου μιλάτε έτσι ; 
+246	Can 't you see I 'm grieving ? 	Δεν βλέπετε ότι πενθώ ; 
+247	No . 	Όχι . 
+248	What a lovely view . 	Τι όμορφη θέα . 
+249	You 're wasting your time . 	Χάνετε τον καιρό σας . 
+250	There are 100 more that will come after me . 	Θα έρθουν άλλοι εκατό για να με κυνηγήσουν . 
+251	All you buy me is five minutes . 	Το μόνο που μου εξασφαλίζετε ... είναι πέντε λεπτά . 
+252	Excellent . 	Θαυμάσια . 
+253	Time for a drink . 	Καιρός για ένα ποτό . 
+254	You killed him ... didn 't you ? 	Τον σκοτώσατε ... ... έτσι ; Τον σύζυγό μου . 
+255	My husband . 	Τον σκοτώσατε ... ... έτσι ; Τον σύζυγό μου . 
+256	He was an assassin . 	Ήταν ένας εκτελεστής . 
+257	Trust me , he won 't take it personally . 	Πιστέψτε με , δεν θα το πάρει προσωπικά . 
+258	You signed my death warrant . 	Υπογράψατε το ένταλμα θανάτου μου . 
+259	I was respected . 	Ήμουν αξιοσέβαστη . 
+260	- Loyal to a man you hated . 	Πιστή στον άνδρα που μισούσατε . 
+261	- He trusted my silence . 	Εμπιστευόταν τη σιωπή μου . 
+262	With him gone , I 'm a dead woman . 	Τώρα που πέθανε , είμαι καταδικασμένη . 
+263	- I can trust nobody . 	- Δεν εμπιστεύομαι κανέναν . 
+264	- I know the feeling well . 	- Μου είναι γνώριμο το συναίσθημα . 
+265	Well , I can tell you that I don 't trust you . 	Μπορώ να σας πω ότι δεν σας εμπιστεύομαι . ʼρα το ένστικτό σας είναι άψογο . 
+266	Well , then you have impeccable instincts . 	Μπορώ να σας πω ότι δεν σας εμπιστεύομαι . ʼρα το ένστικτό σας είναι άψογο . 
+267	If you don 't leave now , we 'll die together . 	Αν δεν φύγετε τώρα , θα πεθάνουμε μαζί . 
+268	I can think of worse ways to go . 	Υπάρχουν και χειρότεροι θάνατοι . 
+269	Then you 're obviously crazy , Mister ... 	Τότε , προφανώς είστε τρελός ... κύριε ... ; 
+270	Bond . 	Μποντ . 
+271	James Bond . 	Τζέιμς Μποντ . 
+272	These people ... if you just knew what they could do . 	Αυτοί οι άνθρωποι ... ... δεν φαντάζεστε τι μπορούν να κάνουν . 
+273	The power they have . 	Τι εξουσία έχουν . 
+274	Did your husband ever mention " The Pale King ? " 	Ο σύζυγός σας ανέφερε ποτέ τον " Χλωμό Βασιλιά " ; 
+275	No . 	Όχι . 
+276	The organization ... they hardly ever meet . 	Η οργάνωση ... ... σπάνια κάνει συναντήσεις . 
+277	But because of what happened to my husband , 	Λόγω αυτού που συνέβη στον σύζυγό μου ... ... θα συναντηθούν απόψε . 
+278	- they meet tonight . 	Λόγω αυτού που συνέβη στον σύζυγό μου ... ... θα συναντηθούν απόψε . 
+279	- Why ? 	Γιατί ; 
+280	To choose a replacement . 	Για να επιλέξουν αντικαταστάτη . 
+281	Where ? 	Πού ; 
+282	The Palazzo Cardenza . 	Στο Παλάτσο Καρτένζα . 
+283	- Midnight . 	- Τα μεσάνυχτα . 
+284	- Sounds like fun . 	- Θα ´ναι διασκεδαστικό . 
+285	I might drop by . 	Μπορεί να περάσω . 
+286	He was obsessed . 	Του είχε γίνει ψύχωση . 
+287	He spent more time with them than with me . 	Περνούσε πιο πολύ χρόνο μαζί τους παρά μ´ εμένα . 
+288	Then the man was a fool . 	Ο άνθρωπος ήταν ανόητος . 
+289	Leaving your number ? 	Μου αφήνεις το νούμερό σου ; 
+290	I' ve called an American friend of mine . 	Τηλεφώνησα σε έναν Αμερικανό φίλο μου . Τον Φίλιξ . 
+291	Felix . 	
+292	He 'll contact his embassy and get you out of here . 	Θα επικοινωνήσει με την πρεσβεία του και θα σε πάρει από δω . 
+293	You 'll be safe . 	Θα ´σαι ασφαλής . 
+294	Don 't go , James . 	Μη φεύγεις , Τζέιμς . 
+295	If you go there , you 're crossing over to a place where there is no mercy . 	Αν πας εκεί ... ... θα βρεθείς σε έναν κύκλο όπου δεν υπάρχει οίκτος . 
+296	I have to go . 	Πρέπει να φύγω . 
+297	Bona fortuna , Dona Lucia . 	Βuοna fοrtuna , δόνα Λουτσία . 
+298	Identify yourself , asshole . 	Αναγνώριση , μαλάκα . 
+299	Who are you ? 	Ποιος είσαι ; 
+300	I 'm Mickey Mouse . 	Είμαι ο Μίκι Μάους . 
+301	Who are you ? 	Εσύ ποιος είσαι ; 
+302	Pharmacy sites has provided an excellent new sales platform . 	Οι ιστοσελίδες φαρμάκων μας προσέφεραν νέα πλατφόρμα πωλήσεων . 
+303	We have adapted many of them into clearinghouses for unapproved drugs . 	Προσαρμόσαμε πολλές σε κέντρα διαλογής μη εγκεκριμένων φαρμάκων . 
+304	In addition to which , the latest figures show that we presently control 70 % of antimalarial vaccines , 34 % of H . I . V . , and 40 % of all oncological drugs across Sub- Saharan Africa . 	Ενώ επιπλέον , οι πρόσφατοι αριθμοί δείχνουν ότι τώρα ελέγχουμε ... το 70 % των εμβολίων κατά της ελονοσίας ... το 34 % κατά του Η . I . V . , και το 40 % όλων των αντικαρκινικών φαρμάκων ... ... στην υποσαχάρια Αφρική . 
+305	But we face challenges from the WHO in their campaign against our counterfeit pharmaceuticals . 	Όμως δεχόμαστε προκλήσεις από την WΗΟ με την καμπάνια τους κατά των ... ... " ψευδεπίγραφων " φαρμάκων μας . 
+306	We have now identified the key individuals to target . 	Αναγνωρίσαμε τα κύρια πρόσωπα για στόχους . 
+307	We expect the same success as we had against the Council on Human Trafficking . 	Αναμένουμε την επιτυχία που είχαμε με το Συμβούλιο για την Εμπορία Ανθρώπων . 
+308	Since the board 's resignation ... we have placed 160, 000 migrated females into the leisure sector . 	Μετά την παραίτηση της επιτροπής ... ... τοποθετήσαμε 160 . 000 μετανάστριες στον τομέα της αναψυχής . 
+309	The impending completion of the Global Surveillance initiative ... will mean our capability is second to none ... and now is the moment for aggressive expansion . 	Η ολοκλήρωση της πρωτοβουλίας για την Παγκόσμια Εποπτεία ... σημαίνει ότι οι δυνατότητές μας για πρόσβαση αυξάνονται κατά πολύ ... ... για αυτό είναι τώρα η στιγμή για επιθετική ανάπτυξη . 
+310	The news is only good ... 	Οι ειδήσεις είναι ευχάριστες ... 
+311	Don 't let me interrupt you . 	Να μη σας διακόπτω . 
+312	The news is only good ... 	Οι ειδήσεις είναι ευχάριστες ... 
+313	Our increased surveillance capability ... means government intelligence agencies ... are easily counteracted . 	Η ενισχυμένη ικανότητά μας για επιτήρηση ... σημαίνει ότι οι κρατικές υπηρεσίες πληροφοριών ... ... εξουδετερώνονται εύκολα . 
+314	We are winning . 	Κερδίζουμε . 
+315	Thank you , Doctor . 	Ευχαριστώ , Δόκτωρ . 
+316	Now , on to the matter at hand . 	Και τώρα στο προκείμενο . 
+317	After the success of our attacks in Hamburg and Tunisia , the aborted attack in Mexico City and the death of our valued colleague , Marco Sciarra , 	Μετά από τις πετυχημένες επιθέσεις μας στο Αμβούργο και την Τυνησία ... η ματαίωση της επίθεσης στην Πόλη του Μεξικού ... και ο θάνατος του πολύτιμου συνεργάτη μας Μάρκο Σκιάρα ... ... αφήνουν να εκκρεμεί ένα από τα καθήκοντά του . 
+318	leaves one of his duties outstanding . 	Μετά από τις πετυχημένες επιθέσεις μας στο Αμβούργο και την Τυνησία ... η ματαίωση της επίθεσης στην Πόλη του Μεξικού ... και ο θάνατος του πολύτιμου συνεργάτη μας Μάρκο Σκιάρα ... ... αφήνουν να εκκρεμεί ένα από τα καθήκοντά του . 
+319	Signor Guerra , The Pale King must be terminated . 	Signοr Γκουέρα , ο Χλωμός Βασιλιάς πρέπει να εξοντωθεί . 
+320	Will you make the journey to Altaussee ? 	Θα ταξιδέψετε στο Αλτάουσι ; 
+321	Of course . 	Ασφαλώς . 
+322	My loyalty to this organization is total . 	Είμαι απόλυτα αφοσιωμένος στην οργάνωση . 
+323	I will protect it with my last breath . 	Θα την προστατέψω ως την ύστατη πνοή μου . 
+324	There will be no more ... amateurs . 	Δεν θα υπάρξουν άλλοι ... ... ερασιτέχνες . 
+325	No more shows of weakness . 	Κανείς δεν θα δείξει αδυναμία . 
+326	Does anyone challenge Signor Guerra for this position ? 	Θα διεκδικήσει κανείς από τον signοr Γκουέρα αυτήν τη θέση ; 
+327	Welcome . 	Καλωσορίσατε . 
+328	State your credentials for succeeding Signor Sciarra . 	Δηλώστε την εντολή σας για τη διαδοχή του signοr Σκιάρα . 
+329	It 's funny . 	Είναι αστείο . 
+330	All that excitement in Mexico City rang a distant bell . 	Η αναστάτωση στην Πόλη του Μεξικού μου έφερε μια αόριστη μνήμη . 
+331	And now ... suddenly , this evening , it makes perfect sense . 	Και τώρα ... ... ξαφνικά , αυτό το βράδυ , είναι απολύτως εύλογη . 
+332	Welcome , James . 	Καλωσόρισες , Τζέιμς . 
+333	It 's been a long time . 	Πέρασε πολύς καιρός . 
+334	But , finally , here we are . 	Επιτέλους , όμως , βρεθήκαμε . 
+335	What took you so long ? 	Γιατί άργησες τόσο ; 
+336	Cuckoo . 	Κούκου . 
+337	Ciao , Mickey Mouse . 	Ciaο , Μίκι Μάους . 
+338	Oh , you 've got to be kidding me . 	Σίγουρα μου κάνεις πλάκα . 
+339	No . 	Όχι ! 
+340	Moneypenny . 	Μανιπένι . 
+341	- Bond ? 	Μποντ ; ʼκου , Μανιπένι . 
+342	- Listen , Moneypenny . 	Μποντ ; ʼκου , Μανιπένι . 
+343	Hamburg , Tunisia , Mexico City , they 're all linked . 	Αμβούργο , Τυνησία και Πόλη του Μεξικού ... συνδέονται . 
+344	It 's one organization coordinating multiple attacks . 	Είναι μία οργάνωση ... που συντονίζει πολλαπλές επιθέσεις . 
+345	- So , she was right . 	- Είχε δίκιο , λοιπόν . 
+346	- Of course , she was . 	- Φυσικά και είχε . 
+347	- I ran that check . 	- Έκανα τον έλεγχο . 
+348	- Who is it ? 	- Ποιος είναι ; 
+349	Oh , my boss had his credit card stolen . 	Το αφεντικό μου . Έκλεψαν την πιστωτική του κάρτα . 
+350	It 's nothing . 	Δεν είναι τίποτα . 
+351	- Why don 't you go back to sleep . 	Ξανακοιμήσου . 
+352	- Don 't be long . 	Μην αργήσεις . 
+353	- Who was that ? 	- Ποιος ήταν ; - Κανείς . 
+354	- No one . 	- Ποιος ήταν ; - Κανείς . 
+355	- No , it wasn 't . 	- Όχι , κάποιος ήταν . 
+356	- It 's just a friend . 	- Ήταν ένας φίλος . 
+357	At this time of night ? 	Βραδιάτικα ; 
+358	It 's called life , James . 	Έτσι είναι η ζωή , Τζέιμς . 
+359	You should try it sometime . 	Δοκίμασε κάποτε να τη ζήσεις . 
+360	The Pale King . 	Ο Χλωμός Βασιλιάς . 
+361	It looks like you 've had dealings with him before . 	Είχες πάρε- δώσε μαζί του και παλιά . 
+362	Quantum . 	- Quantum . 
+363	- Of course . 	- Φυσικά . - Ο κ . 
+364	Mr . 	Γουάιτ ! 
+365	White ! 	Γουάιτ ! 
+366	- That 's him . 	- Αυτός είναι . 
+367	Last unconfirmed sighting , Altaussee in Austria , four months ago . 	Τελευταία φορά τον είδαν στο Αλτάουσι ... ... στην Αυστρία . Πριν τέσσερις μήνες . 
+368	Hold that thought . 	Περίμενε . 
+369	- You still there ? 	- Με ακούς ; - Ναι . 
+370	- Yeah . 	- Με ακούς ; - Ναι . 
+371	- Run another name , will you ? 	Θα ελέγξεις άλλο ένα όνομα ; Εντάξει . 
+372	- Okay . 	Λέγε . 
+373	Go . 	
+374	A man called Franz Oberhauser . 	Κάποιον Φραντς Ομπερχάουσερ . 
+375	He 's ... 	
+376	And check his files before and after his death . 	Έλεγξε τον φάκελό του πριν και μετά τον θάνατό του . 
+377	After his death ? 	Μετά τον θάνατό του ; Τι εννοείς ; 
+378	What are you talking about ? 	Μετά τον θάνατό του ; Τι εννοείς ; 
+379	Please , just do it . 	Σε παρακαλώ , κάν´ το . 
+380	Okay , Q , give me something . 	Έλα , Q , δώσ´ μου κάτι . ΕΞΑΤΜIΣΗ 
+381	That 's more like it . 	Έτσι μπράβο . 
+382	Here goes nothing . 	Όλα για όλα . 
+383	Good evening . 	Καλησπέρα . 
+384	Do not let them tell you we need less surveillance . 	Μην επιτρέψετε να σας πουν ότι χρειαζόμαστε λιγότερη επιτήρηση . 
+385	We need more . 	Χρειαζόμαστε περισσότερη . 
+386	Much more . 	Τόκιο . 
+387	I say again , the Nine Eyes committee would have full access to the combined intelligence streams of all member states . 	Λέω και πάλι ... ότι επιτροπή Εννέα Οφθαλμοί θα έχει πλήρη πρόσβαση ... ... στις διακλαδικές ροές πληροφοριών όλων των μελών κρατών . 
+388	More data , more analysis , 	Περισσότερα δεδομένα , μεγαλύτερη ανάλυση ... ... λιγότερες πιθανότητες για τρομοκρατική επίθεση . 
+389	less likelihood of a terrorist attack . 	Περισσότερα δεδομένα , μεγαλύτερη ανάλυση ... ... λιγότερες πιθανότητες για τρομοκρατική επίθεση . 
+390	Ladies and gentlemen , it 's time for the security services of the world to unite . 	Κυρίες και κύριοι , καιρός να ενωθούν οι υπηρεσίες ασφαλείας όλου του κόσμου . 
+391	Alone , we are weak . 	ΕΠΕIΓΟΝ ΜΗΝYΜΑ 
+392	Together , we 're a global power . 	Καταδίωξη λήγει με έναν παφλασμό Μαζί είμαστε παγκόσμια δύναμη . 
+393	An unelected one . 	Μη εκλεγμένη . 
+394	Thank you . 	Ευχαριστώ . 
+395	Thank you . 	Ευχαριστώ . 
+396	We will now vote on the resolution . 	Θα ολοκληρώσουμε με το ψήφισμα . 
+397	Ladies and gentlemen , please cast your vote . 	Κυρίες και κύριοι , παρακαλώ ψηφίστε . 
+398	The vote is eight to one in favor . 	Οκτώ ψήφοι υπέρ και μία κατά . 
+399	However , as you know , we cannot proceed unless by unanimous vote . 	Όπως ξέρετε , δεν μπορούμε να προχωρήσουμε ... ... εάν δεν υπάρξει ομοφωνία . 
+400	The Nine Eyes motion is therefore not passed . 	Οπότε η πρόταση των Εννέα Οφθαλμών ... ... δεν ψηφίστηκε . 
+401	Democracy . 	Δημοκρατία . 
+402	Thank you , ladies and gentlemen . 	Ευχαριστώ , κυρίες και κύριοι . 
+403	This evening 's session is adjourned . 	Λύεται η σημερινή συνεδρίαση . 
+404	- Yes , sir . 	Μάλιστα , κύριε . 
+405	- Please , tell me 007 is in London . 	Σε παρακαλώ , πες μου ότι ο 007 είναι στο Λονδίνο . 
+406	Oh , yes . 	Α , ναι . 
+407	I' ll just take a look now , sir . 	Θα ρίξω μια ματιά τώρα , κύριε . 
+408	Because if he isn 't , you 're in deep shit . 	Διότι αν δεν είναι , την έβαψες . 
+409	You 've got precisely 10 seconds . 	Έχεις ακριβώς δέκα δεύτερα . ΑΛΤΑΟYΣI , ΑYΣΤΡIΑ 
+410	I have him , sir . 	Τον εντόπισα , κύριε . 
+411	He appears to be in Chelsea . 	Εμφανίζεται στο Τσέλσι . 
+412	Well , I want eyes on him when I get back , understood ? 	Να παρακολουθείται όταν επιστρέψω , κατάλαβες ; 
+413	I completely understand ... sir . 	Κατάλαβα απολύτως ... ... κύριε . 
+414	Do me a favor . 	Κάντε μου μια χάρη . 
+415	Make it quick . 	Να ´ναι γρήγορο . 
+416	Upstairs , Mr . 	Πάνω , κ . 
+417	White . 	Γουάιτ . 
+418	I always knew death would wear a familiar face , but not yours . 	Πάντα ήξερα ότι ο θάνατος θα είχε οικείο πρόσωπο ... ... αλλά όχι το δικό σας . 
+419	To what do I owe this pleasure , Mr . 	Σε τι οφείλω αυτή τη χαρά , κ . Μποντ ; 
+420	Bond ? 	
+421	I was at a meeting recently and your name came up . 	Βρέθηκα σε μια συνάντηση τελευταία ... ... και αναφέρθηκε το όνομά σας . 
+422	I 'm flattered London is still talking about me . 	Κολακεύομαι που το Λονδίνο ακόμα μιλά για μένα . 
+423	It wasn 't MI6 . 	Δεν ήταν η ΜΙ6 . 
+424	It was Rome . 	Ήταν η Ρώμη . 
+425	Your team , not mine . 	Η δική σας ομάδα , όχι η δική μου . 
+426	Last month , I found thallium in my cell phone . 	Τον περασμένο μήνα , βρήκα θάλλιο στο κινητό μου . 
+427	It 's done its job . 	Έκανε τη δουλειά του . 
+428	I have a few weeks . 	Μου μένουν μερικές βδομάδες . 
+429	Maybe less . 	Ίσως λιγότερες . 
+430	So , here we are , Mr . 	Να ´μαστε , λοιπόν , κ . 
+431	Bond , two dead men enjoying the evening . 	Μποντ ... ... δύο νεκροί που απολαμβάνουν τη βραδιά τους . 
+432	- What did you do ? 	Τι κάνατε εσείς ; 
+433	- I disobeyed him . 	Δεν τον υπάκουσα . 
+434	I followed him as far as I could . 	Τον ακολούθησα όσο μπορούσα . 
+435	He ... 	Εκείνος ... ... άλλαξε . 
+436	- changed . 	Εκείνος ... ... άλλαξε . 
+437	- Oh , I see . 	Κατάλαβα . 
+438	You grew a conscience . 	Αναπτύξατε συνείδηση . 
+439	Our game is our game . 	Το παιχνίδι μας είναι παιχνίδι μας . 
+440	But this ? 	Όμως αυτό ; 
+441	Women , children ... 	Γυναίκες ... παιδιά ... 
+442	Well , the thallium would suggest that he doesn 't like you very much anymore . 	Το θάλλιο υπονοεί ότι δεν σας συμπαθεί και τόσο πολύ πια . 
+443	And clearly the feeling is mutual . 	Το αίσθημα είναι προφανώς αμοιβαίο . 
+444	So why don 't you tell me how to find him again ? 	Πείτε μου , λοιπόν , πώς θα τον ξαναβρώ . 
+445	Oh , come on . 	Ελάτε τώρα . 
+446	- Tell me where he is . 	- Πείτε μου πού βρίσκεται . 
+447	- He 's everywhere . 	- Βρίσκεται παντού . 
+448	Everywhere ! 	Παντού ! 
+449	He 's sitting at your desk , he 's kissing your lover , he 's eating supper with your family ! 	Κάθεται στο γραφείο σας ... ... φιλάει την ερωμένη σας , τρώει βραδινό με την οικογένειά σας ! 
+450	You 're protecting someone . 	Προστατεύετε κάποιον . 
+451	Your wife . 	Τη γυναίκα σας . 
+452	She left long ago . 	Χάθηκε πριν καιρό . 
+453	Your son ? 	Τον γιο σας ; 
+454	Your daughter . 	Την κόρη σας . 
+455	You won 't find her . 	Δεν θα τη βρείτε . 
+456	She 's clever . 	Είναι έξυπνη . 
+457	She 's smarter than me . 	Είναι πιο έξυπνη από εμένα . 
+458	She knows how to hide . 	Ξέρει να κρύβεται . 
+459	I can protect her if you tell me where he is . 	Θα την προστατέψω αν μου πείτε πού είναι αυτός . 
+460	- I can keep her alive . 	Θα την κρατήσω ζωντανή . Ναι . 
+461	- Yeah . 	
+462	- You have my word . 	- Έχετε τον λόγο μου . - Τον λόγο σας ; 
+463	- Your word ? 	
+464	The word of an assassin ! 	Τον λόγο ενός εκτελεστή ! 
+465	That 's my word . 	Αυτός είναι ο λόγος μου . 
+466	L' Americain . 	L' Αmericain . 
+467	You save her , she can lead you to L' Americain . 	Αν τη σώσετε ... ... θα σας οδηγήσει στον Αmericain . 
+468	She knows L' Americain . 	Αν τη σώσετε ... ... θα σας οδηγήσει στον Αmericain . 
+469	Try the Hoffler Klinik . 	Δοκιμάστε τη Ηοffler Κlinik . 
+470	You 're a kite dancing in a hurricane , Mr . 	Είστε χαρταετός που χορεύει σε θύελλα , κ . 
+471	Bond . 	Μποντ . 
+472	So long . 	Αντίο . 
+473	I can 't deny I 'm impressed you got H . M . G . to cough up for all this . 	Πείσατε την κυβέρνηση να σας δώσει τέτοια χρηματοδότηση ! 
+474	Good God , the government couldn 't afford this kind of facility . 	Η κυβέρνηση δεν έχει τους πόρους για τέτοιες εγκαταστάσεις . 
+475	No , it was benefactors mostly , from the private sector . 	Όχι , τα έδωσαν κυρίως δωρητές από τον ιδιωτικό τομέα . 
+476	When it goes online , this building will be the most sophisticated data gathering system in history . 	Όταν συνδεθεί , θα ´ναι το πιο εξελιγμένο σύστημα συλλογής δεδομένων . 
+477	The world 's digital ghost , available 24/ 7 . 	Το παγκόσμιο ψηφιακό φάντασμα , διαθέσιμο κάθε στιγμή . 
+478	- George Orwell 's worst nightmare . 	- Ο χειρότερος εφιάλτης του Όργουελ . 
+479	- I 'm glad you like it . 	- Χαίρομαι που σ´ αρέσει . 
+480	My commiserations on losing the Nine Eyes vote . 	Συλλυπητήρια που έχασες την ψήφο των Εννέα Οφθαλμών . 
+481	Must 've been a blow . 	Θα σου στοίχισε . 
+482	Not really . 	Όχι και τόσο . 
+483	Only a matter of time before the South Africans see the light . 	Είναι θέμα χρόνου για να δουν το φως οι Νοτιοαφρικανοί . 
+484	And you know what they say , Rome wasn 't built in a day . 	Λένε ότι η Ρώμη δεν χτίστηκε σε μία ημέρα . 
+485	Day and a half maybe . 	Λένε ότι η Ρώμη δεν χτίστηκε σε μία ημέρα . 
+486	Look , Max , I know surveillance is a fact of life . 	Μαξ , ξέρω ότι η επιτήρηση είναι γεγονός . 
+487	It 's how you use the information that concerns me , and who is using it . 	Με ανησυχεί ο τρόπος που χρησιμοποιούνται οι πληροφορίες ... ... και ποιος τις χρησιμοποιεί . 
+488	This is what we need to do to keep the people safe . 	Το κάνουμε για την ασφάλεια του κόσμου . 
+489	Double- 0 program is prehistoric . 	Το πρόγραμμα 00 είναι προϊστορικό . 
+490	Come on , M . 	Δεν μπορεί ένας άνδρας σε αποστολή να ανταγωνιστεί όλα αυτά ... ... και να τριγυρίζει με άδεια για να σκοτώνει . 
+491	You can 't really tell me that one man in the field can compete with all of this , running around out there with his license to kill . 	Δεν μπορεί ένας άνδρας σε αποστολή να ανταγωνιστεί όλα αυτά ... ... και να τριγυρίζει με άδεια για να σκοτώνει . 
+492	Have you ever had to kill a man , Max ? 	Σκότωσες ποτέ άνθρωπο , Μαξ ; 
+493	Have you ? 	Σκότωσες ; 
+494	To pull that trigger , you have to be sure . 	Για να τραβήξεις σκανδάλη , πρέπει να ´σαι σίγουρος . 
+495	Yes , you investigate , analyze , assess , target . 	Ναι , ερευνάς ... ... αναλύεις , αξιολογείς , στοχεύεις . 
+496	And then you have to look him in the eye . 	Και μετά τον κοιτάς στα μάτια . 
+497	And you make the call . 	Και τότε αποφασίζεις . 
+498	And all the drones , bugs , cameras , transcripts , all the surveillance in the world can 't tell you what to do next . 	Κανένα τηλεκατευθυνόμενο , κοριός , κάμερα ή απομαγνητοφώνηση ... καμία επιτήρηση στον κόσμο ... ... δεν θα σου πουν τι θ´ αποφασίσεις . 
+499	A license to kill ... is also a license not to kill . 	Μια άδεια να σκοτώνεις ... ... είναι και άδεια να μη σκοτώνεις . 
+500	I didn 't want to have to do this , but it looks like you still can 't control your agents . 	Δεν ήθελα να το κάνω αυτό ... ... όμως φαίνεται ότι δεν ελέγχεις τους πράκτορές σου . 
+501	Bond ? 	Τον Μποντ ; Έκανα τον έλεγχο . 
+502	I ran that check . 	Τον Μποντ ; Έκανα τον έλεγχο . 
+503	Looks like you 've had dealings with him before . 	Φαίνεται ότι είχες πάρε- δώσε μαζί του παλιά . 
+504	Quantum . 	Quantum . 
+505	Of course . 	Φυσικά . 
+506	Mr . 	Ο κ . 
+507	White ! 	Γουάιτ ! 
+508	Last unconfirmed sighting , Altaussee in Austria . 	Τελευταία φορά τον είδαν στο Αλτάουσι , στην Αυστρία . 
+509	Run another name , will you ? 	Θα ελέγξεις άλλο ένα όνομα ; 
+510	So maybe there 's something to be said for total surveillance after all . 	Ίσως τελικά να είναι χρήσιμη η απόλυτη επιτήρηση . 
+511	You watch MI6 agents ? 	Παρακολουθείτε πράκτορες της ΜΙ6 ; 
+512	We watch everyone . 	Παρακολουθούμε τους πάντες . 
+513	Please , take a seat . 	Παρακαλώ , καθίστε . 
+514	I' ll be with you in just a moment . 	Θα μιλήσουμε σε λίγο . 
+515	Please excuse me , Mr . 	Συγχωρήστε με , κ . Μποντ . 
+516	Bond . 	
+517	My name is Dr . 	Ονομάζομαι δρ Μάντελεν Σουάν . 
+518	Madeleine Swann . 	Ονομάζομαι δρ Μάντελεν Σουάν . 
+519	Our job today is to analyze your needs , both psychological and physical . 	Σήμερα θα αναλύσουμε τις ψυχολογικές και οργανικές σας ανάγκες . 
+520	Sounds pretty straightforward . 	Είστε πολύ σαφής . 
+521	I hope you don 't mind . 	Ελπίζω να μη σας πειράζει . 
+522	The view can be distracting . 	Η θέα μπορεί να αποσπά την προσοχή . 
+523	I hadn 't noticed . 	Δεν την πρόσεξα . 
+524	I see you filled out most of the paperwork . 	Συμπληρώσατε τα περισσότερα έντυπα . 
+525	Just a few questions to complete your evaluation , if I may . 	Λίγες ερωτήσεις για να ολοκληρώσω την αξιολόγησή σας , αν επιτρέπετε . 
+526	- Do you exercise ? 	Ασκείστε ; 
+527	- When I have to . 	Όταν αναγκάζομαι . 
+528	Do you consider your employment to be psychologically stressful ? 	Θεωρείτε ότι το επάγγελμά σας σάς επιβαρύνει ψυχολογικά ; 
+529	- Sometimes . 	Ορισμένες φορές . 
+530	- How much alcohol do you consume ? 	Πόσο οινόπνευμα καταναλώνετε ; 
+531	Too much . 	Πάρα πολύ . 
+532	Some broader questions . 	Ορισμένες γενικότερες ερωτήσεις . 
+533	As a child , would you say you were close to your parents ? 	Ως παιδί , είχατε καλές σχέσεις με τους γονείς σας ; 
+534	My parents died when I was young . 	Οι γονείς μου πέθαναν όταν ήμουν μικρός . 
+535	Really ? 	Ηλικία ; 
+536	How old ? 	Ηλικία ; 
+537	- Old enough to remember . 	Αρκετά μεγάλος για να το θυμάμαι . 
+538	- How , if I may ask ? 	- Πώς πέθαναν , παρακαλώ ; - Δυστύχημα σε ορειβασία . 
+539	It was a climbing accident . 	- Πώς πέθαναν , παρακαλώ ; - Δυστύχημα σε ορειβασία . 
+540	- So who brought you up ? 	- Ποιος σας ανέθρεψε ; - Κάποιος άλλος . 
+541	- Someone else . 	- Ποιος σας ανέθρεψε ; - Κάποιος άλλος . 
+542	Humor me . 	Βοηθήστε με . 
+543	How does one train at Oxford and the Sorbonne become a consultant , spend two years with Medecins Sans Frontieres ... and end up here ? 	Πώς κάποια εκπαιδεύεται στην Οξφόρδη και τη Σορβόνη ... γίνεται δύο χρόνια ιατρικός σύμβουλος στους Γιατρούς Χωρίς Σύνορα ... ... και καταλήγει εδώ πάνω ; 
+544	Forgive me , but ... anyone might think you were hiding from something . 	Συγχωρήστε με , αλλά κάποιος θα πίστευε ότι κρύβεστε από κάτι . 
+545	You 're paying a lot of money to be here , Mr . 	Πληρώνετε πολλά για να είστε εδώ , κ . 
+546	Bond . 	Μποντ . 
+547	- Who 's asking the questions , you or me ? 	Ποιος κάνει τις ερωτήσεις , εσείς ή εγώ ; Παρακαλώ . 
+548	- Of course . 	Συνεχίστε . 
+549	Carry on . 	Συνεχίστε . 
+550	I see you left this final question blank . 	Αφήσατε την τελευταία ερώτηση κενή . 
+551	What is your occupation ? 	Ποιο είναι το επάγγελμά σας ; 
+552	Well , that 's not the sort of thing that looks good on a form . 	Αυτό δεν είναι κάτι που δείχνει ωραίο σε ένα έντυπο . 
+553	- And why is that ? 	- Για ποιον λόγο ; - Σκοτώνω ανθρώπους . 
+554	- I kill people . 	
+555	Small world ? 	Μικρός κόσμος , ε ; 
+556	- Where is he ? 	Πού βρίσκεται ; 
+557	- Your father 's dead . 	Ο πατέρας σας πέθανε . 
+558	- Two days ago . 	Πριν δύο ημέρες . 
+559	- How do you know ? 	- Πώς το ξέρετε ; - Βρισκόμουν εκεί . 
+560	- Because I was there . 	- Πώς το ξέρετε ; - Βρισκόμουν εκεί . 
+561	- Did you kill him ? 	- Εσείς τον σκοτώσατε ; - Δεν χρειάστηκε . 
+562	I didn 't have to . 	- Εσείς τον σκοτώσατε ; - Δεν χρειάστηκε . 
+563	He did it himself . 	Το έκανε μόνος του . 
+564	And you came all the way just to tell me this ? 	Ήλθατε τόσο δρόμο για μου πείτε αυτό ; 
+565	That my father 's dead ? 	Ότι ο πατέρας μου πέθανε ; 
+566	I came to tell you that your life is in danger and I need your help . 	Ήρθα να σας πω ότι κινδυνεύετε και ότι χρειάζομαι τη βοήθειά σας . 
+567	- Why ? 	- Γιατί ; - Συμφωνήσαμε να σας προστατέψω . 
+568	- I made a deal with him to protect you . 	- Γιατί ; - Συμφωνήσαμε να σας προστατέψω . 
+569	You 're lying . 	Λέτε ψέματα . 
+570	Why would he trust you ? 	Γιατί να σας εμπιστευθεί ; 
+571	Because he knew that I needed something in return . 	Ήξερε ότι χρειαζόμουν ένα αντάλλαγμα . 
+572	And what was that ? 	Δηλαδή , τι ; 
+573	To find L' Americain . 	Να βρω τον Αmericain . 
+574	- This interview is over . 	- Αυτή η συνεδρία έληξε . 
+575	- Dr . 	- Δόκτωρ Σουάν ... 
+576	Swann ... 	- Δόκτωρ Σουάν ... 
+577	You have 10 minutes to leave the building . 	Σε 10´ να έχετε εγκαταλείψει το κτίριο . 
+578	Then I 'm calling security . 	Μετά καλώ την ασφάλεια . 
+579	Thank you , Dr . 	Ευχαριστώ , δρ Σουάν . 
+580	Swann . 	
+581	- Can I get you something , sir ? 	Θα πιείτε κάτι , κύριε ; 
+582	- Vodka martini . 	Βότκα μαρτίνι . 
+583	Shaken , not stirred . 	Χτυπημένο , όχι ανακατεμένο . 
+584	I 'm sorry , we don 't serve alcohol . 	Λυπάμαι , δεν σερβίρουμε αλκοόλ . 
+585	I 'm really starting to love this place . 	Αρχίζει να μ´ αρέσει αυτό το μέρος . 
+586	He 'll have the prolytic digestive enzyme shake . 	Θα πιει ένα σέικ με πρωτεολυτικά πεπτικά ένζυμα . 
+587	Certainly . 	Ασφαλώς . 
+588	If you 've come for the car , I parked it at the bottom of the Tiber . 	Αν ήρθες για το αυτοκίνητο , το πάρκαρα στον βυθό του Τίβερη . 
+589	Well , not to worry , 007 . 	Μν ανησυχείς , 007 . 
+590	It was only a ¡ ê3, 000, 000 prototype . 	Ήταν ένα πρωτότυπο 3 . 000 . 000£ . 
+591	- Why are you here , Q ? 	Γιατί ήρθες εδώ , Q ; 
+592	- I just fancied a break , to be honest . 	Ήρθα για να χαλαρώσω . 
+593	I' ve been a tad stressed at work recently . 	Στη δουλειά πέρασα ένα μικρό στρες . 
+594	What with C 's people crawling all over us and the fact that M wants my balls 	Ο C μας παρακολουθεί και ο Μ θέλει να κρεμάσει τα μπαλάκια μου στο δέντρο . 
+595	- for Christmas decorations . 	Ο C μας παρακολουθεί και ο Μ θέλει να κρεμάσει τα μπαλάκια μου στο δέντρο . 
+596	- Get to the point . 	- Μπες στο θέμα . 
+597	The point , 007 , is that Franz Oberhauser is dead . 	- Το θέμα , 007 ... ... είναι ότι ο Φραντς Ομπερχάουσερ πέθανε και τον έθαψαν . 
+598	Dead and buried . 	- Το θέμα , 007 ... ... είναι ότι ο Φραντς Ομπερχάουσερ πέθανε και τον έθαψαν . 
+599	And unless you come back with me right now , my career and Moneypenny 's will go the same way . 	Αν δεν γυρίσεις , η καριέρα μου και της Μανιπένι θα έχουν την ίδια μοίρα . 
+600	Do you understand ? 	Καταλαβαίνεις ; Οι πύλες της κόλασης έχουν ανοίξει και ... 
+601	All hell is breaking loose out there and ... 	Καταλαβαίνεις ; Οι πύλες της κόλασης έχουν ανοίξει και ... 
+602	- I saw him . 	- Τον είδα . 
+603	- You thought you saw him . 	- Νόμισες ότι τον είδες . 
+604	We 've been through the records . 	Σκοτώθηκε σε χιονοστιβάδα μαζί με τον πατέρα του πριν είκοσι χρόνια . 
+605	He died in an avalanche with his father 20 years ago . 	Σκοτώθηκε σε χιονοστιβάδα μαζί με τον πατέρα του πριν είκοσι χρόνια . 
+606	Yes . 	Ναι . 
+607	I know that . 	Το ξέρω αυτό . 
+608	But I saw him . 	Αλλά τον είδα . 
+609	He 's not someone I' ll ever forget . 	Δεν είναι κάποιος που θα ξεχάσω . 
+610	- So you have a lead ? 	Δηλαδή ... έχεις κάποιο στοιχείο ; 
+611	- I have a name . 	Έχω ένα όνομα . 
+612	L' Americain . 	L' Αmericain . 
+613	Well , that narrows it down . 	Ναι , αυτό είναι πιο συγκεκριμένο . 
+614	Look , I 'm sorry , 007 , but time 's up . 	Λυπάμαι , 007 , αλλά ο χρόνος τελείωσε . 
+615	My whole career is on the line here . 	Κινδυνεύει ολόκληρη η καριέρα μου . 
+616	Either you come back in and do this through proper channels , or I go directly to M . 	Αν δεν έρθεις για να ενεργήσεις μέσω των κατάλληλων διαύλων , θα πάω στον Μ . 
+617	Do one more thing for me . 	Κάνε μου μια χάρη ακόμα . Μετά απαλλάσσεσαι . 
+618	Then you 're out . 	
+619	Find out what you can from this . 	Μάθε ό, τι μπορείς από αυτό . 
+620	- I really , really hate you right now . 	Πολύ , πολύ σε μισώ . Ευχαριστώ , Q . 
+621	- Thank you , Q . 	
+622	Monsieur ? 	Μοnsieur ; Τώρα ; Παρακαλώ ; 
+623	Now ? 	Μοnsieur ; Τώρα ; Παρακαλώ ; 
+624	Please ? 	Μοnsieur ; Τώρα ; Παρακαλώ ; 
+625	- Where are you staying ? 	- Πού μένεις ; - Στο Ρeνsner . 
+626	- The Pevsner . 	- Πού μένεις ; - Στο Ρeνsner . 
+627	Room 12 . 	Δωμάτιο 12 . 
+628	One hour . 	Σε μία ώρα . 
+629	Here you are , sir . 	Ορίστε , κύριε . 
+630	One prolytic digestive enzyme shake . 	Το σέικ με πρωτεολυτικά πεπτικά ένζυμα . 
+631	Do me a favor , will you ? 	Κάνε μου μια χάρη , σε παρακαλώ . 
+632	Throw that down the toilet . 	Χύσ´ το στην τουαλέτα . 
+633	Cut out the middleman . 	Να μην κάνω τον μεσάζοντα . 
+634	No ! 	Όχι ! 
+635	Stay . 	Μείνε . 
+636	What do you want ? 	Τι θέλετε ; 
+637	What are you doing ? 	Τι κάνεις εκεί ; 
+638	Can 't any of you speak ? 	Κανείς δεν μιλάει ; 
+639	Come on ! 	Έλα ! 
+640	Right , come on . 	
+641	Come on . 	
+642	Don 't touch me ! 	Μη μ´ αγγίζεις ! 
+643	Hey ! 	
+644	You need to take a breath and calm down . 	Ανάπνευσε βαθιά και ηρέμησε . 
+645	You 're in shock . 	Έχεις πάθει σοκ . 
+646	Get away from me ! 	Μη με πλησιάζεις ! 
+647	Just get away ! 	Απλά μη με πλησιάζεις ! 
+648	Did it cross your mind that you led them to me ? 	Σκέφτηκες ότι μπορεί να τους οδήγησες σ´ εμένα ; 
+649	I haven 't got time for this . 	Δεν έχω καιρό για τέτοια . 
+650	You need to tell me everything you know about L' Americain . 	Πρέπει να μου πεις ό, τι ξέρεις για τον Αmericain . 
+651	Go to hell ! 	Στον διάολο ! 
+652	I gave your father my word ! 	Έδωσα τον λόγο μου στον πατέρα σου ! 
+653	And why should I trust you ? 	Γιατί να σ´ εμπιστευτώ ; Επειδή σ´ εμπιστεύτηκε ο πατέρας μου ; 
+654	Because my father did ? 	Γιατί να σ´ εμπιστευτώ ; Επειδή σ´ εμπιστεύτηκε ο πατέρας μου ; 
+655	Because right now , Dr . 	Διότι αυτήν τη στιγμή , δρ Σουάν ... ... είμαι η μόνη σας ελπίδα να παραμείνετε ζωντανή . 
+656	Swann ... 	Διότι αυτήν τη στιγμή , δρ Σουάν ... ... είμαι η μόνη σας ελπίδα να παραμείνετε ζωντανή . 
+657	I 'm your best chance of staying alive . 	Διότι αυτήν τη στιγμή , δρ Σουάν ... ... είμαι η μόνη σας ελπίδα να παραμείνετε ζωντανή . 
+658	Dr . 	Η δρ Σουάν , ο Q . 
+659	Swann , Q . 	Η δρ Σουάν , ο Q . 
+660	Q , Dr . 	Ο Q , η δρ Σουάν . 
+661	Swann . 	Ο Q , η δρ Σουάν . 
+662	- Hello . 	- Γεια σου . 
+663	- Enchanted . 	- Γοητευμένος . 
+664	Bond , we need to talk . 	Μποντ , πρέπει να μιλήσουμε . 
+665	Alone . 	Ιδιαιτέρως . 
+666	- She knows . 	Ξέρει . 
+667	- But , Bond ... 	- Μα , Μποντ ... 
+668	She knows . 	- Μα , Μποντ ... 
+669	What have you got ? 	- Ξέρει . Τι βρήκες ; 
+670	I owe you an apology , 007 . 	Σου ζητώ συγγνώμη , 007 . 
+671	You are onto something . 	Έχεις ανακαλύψει κάτι . 
+672	Oberhauser is still alive . 	Ο Ομπερχάουσερ ζει ακόμα . 
+673	The ring proves it . 	Το δαχτυλίδι είναι η απόδειξη . 
+674	And it seems they were all part of one organization . 	Όλοι συνδέονται με μία οργάνωση . 
+675	Le Chiffre , Quantum , Sciarra , your friend Mr . 	Le Chiffre , Quantum , Σκιάρα , ο φίλος σου κ . 
+676	Silva . 	Σίλβα . 
+677	And do you know who links them all ? 	- Ξέρεις τι τους συνδέει όλους ; - Αυτός . 
+678	- Him . 	- Ξέρεις τι τους συνδέει όλους ; - Αυτός . 
+679	- Exactly . 	Ακριβώς . 
+680	This organization , do you know what it 's called ? 	Αυτή η οργάνωση ... ξέρεις πώς ονομάζεται ; 
+681	- No . 	- Όχι . 
+682	- Spectre . 	- SΡΕCΤRΕ . 
+683	Its name is Spectre . 	Ονομάζεται SΡΕCΤRΕ . 
+684	- How does she know that ? 	- Πώς το ξέρει αυτό ; - Ο πατέρας μου ήταν μέλος της . 
+685	- Because my father was part of it . 	- Πώς το ξέρει αυτό ; - Ο πατέρας μου ήταν μέλος της . 
+686	Then I think that you ought to see this . 	Νομίζω ότι πρέπει να δεις αυτό . 
+687	You 're looking at pictures from South Africa right now 	ΕΚΤΑΚΤΟ ΔΕΛΤIΟ ΤΟ ΚΕΪΠ ΤΑΟYΝ ΣΤΟ ΧΑΟΣ 
+688	- of what appears to be a huge explosion . 	Q , γύρνα στο Λονδίνο . 
+689	- Q , go back to London . 	Q , γύρνα στο Λονδίνο . 
+690	M 's gonna need your help . 	Ο Μ θα χρειαστεί τη βοήθειά σου . 
+691	And keep tracking me . 	Συνέχισε να με εντοπίζεις . 
+692	I will . 	Εντάξει . 
+693	And , Bond , you have to find L' Americain . 	Και , Μποντ ... πρέπει να βρεις τον Αmericain . 
+694	He 's our only link to Oberhauser . 	Είναι ο μόνος σύνδεσμός μας με τον Ομπερχάουσερ . 
+695	It 's not a person . 	Δεν είναι άνθρωπος . 
+696	It 's a place . 	Είναι ένα μέρος . 
+697	Thank you . 	Ευχαριστώ . 
+698	This is where they spent their wedding night . 	Εδώ πέρασαν τη γαμήλια νύχτα τους . 
+699	They came back every year . 	Έρχονταν κάθε χρόνο . 
+700	Then they brought me with them , too . 	Μετά έφερναν κι εμένα . 
+701	He kept coming back , even after the divorce . 	Εξακολούθησε να έρχεται και μετά το διαζύγιο . 
+702	Well , then I 'm sorry . 	Τότε , λοιπόν , ζητώ συγγνώμη . 
+703	What for ? 	Γιατί ; 
+704	What is it ? 	Τι είναι αυτό ; 
+705	It 's your inheritance . 	Είναι η κληρονομιά σου . 
+706	- Want some ? 	- Θέλεις λίγο ; - Όχι , ευχαριστώ . 
+707	- No , thank you . 	- Θέλεις λίγο ; - Όχι , ευχαριστώ . 
+708	You don 't know what you 're missing . 	Δεν ξέρεις τι χάνεις . 
+709	This can 't be it . 	Δεν μπορεί να είναι αυτό . 
+710	Well , here 's to your father . 	Πίνω στον πατέρα σου . 
+711	I promised myself I would never be hurt by that man again . 	Υποσχέθηκα στον εαυτό μου να μην πληγωθώ ξανά από αυτόν τον άνδρα . 
+712	I cut off all contact . 	Έκοψα κάθε επαφή . 
+713	I didn 't want anything to do with him or his sick life . 	Δεν ήθελα καμιά σχέση μαζί του ή με την άθλια ζωή του . 
+714	And then , with his dying breath ... he sends me you . 	Και μετά , στην τελευταία του πνοή ... ... μου έστειλε εσένα . 
+715	- Ironic , no ? 	Ειρωνικό , έτσι ; 
+716	- You shouldn 't be so hard on him . 	Μην είσαι τόσο σκληρή μαζί του . 
+717	The man I just met should have been dead weeks ago . 	Ο άνθρωπος που συνάντησα , έπρεπε να είχε πεθάνει πριν βδομάδες . 
+718	The only reason his heart was still beating was you . 	Ο μόνος λόγος που χτυπούσε ακόμα η καρδιά του , ήσουν εσύ . 
+719	I' ll mourn my father in my own time , Mr . 	Θα πενθήσω τον πατέρα μου όταν είμαι έτοιμη , κ . Μποντ . 
+720	Bond . 	
+721	And , now , I 'm going to bed . 	Τώρα θα πέσω να κοιμηθώ . 
+722	Don 't think for one moment this is where I fall into your arms , seeking solace for my dead daddy . 	Μην νομίσετε ούτε για μια στιγμή ότι θα πέσω στην αγκαλιά σας ... ... αναζητώντας παρηγοριά για τον θάνατο του μπαμπά μου . 
+723	You sit there . 	Καθίστε εκεί . 
+724	Keep watch . 	Φυλάξτε με . 
+725	That 's what you 're good at . 	Γι´ αυτό είστε καλός . 
+726	Come anywhere near me and I' ll kill you . 	Αν με πλησιάσετε , θα σας σκοτώσω . 
+727	I don 't doubt it . 	Δεν αμφιβάλλω . 
+728	Look . 	Κοίτα . 
+729	There are two of you . 	Είστε δύο . 
+730	Two Jameses . 	Δύο Τζέιμς . 
+731	Lucky me . 	Τυχερή είμαι . 
+732	What am I doing here ? 	Τι γυρεύω εδώ ; 
+733	To liars ... and killers . 	Στους ψεύτες ... ... και τους δολοφόνους . 
+734	To liars ... and killers ... everywhere . 	Στους ψεύτες ... και τους δολοφόνους ... ... παντού . 
+735	Who sent you ? 	Ποιος σ´ έστειλε ; 
+736	Who are you working for ? 	Για ποιον δουλεύεις ; 
+737	Now , where did you go ? 	Μα πού πήγες . 
+738	Of course . 	Ασφαλώς . 
+739	What is it ? 	Τι είναι ; 
+740	Nothing . 	Τίποτα . 
+741	- What 's this ? 	Τι είναι αυτό ; 
+742	- It 's coordinates . 	Είναι συντεταγμένες . 
+743	Your father was scanning for a particular satellite phone . 	Ο πατέρας σου ανίχνευε συγκεκριμένο δορυφορικό τηλέφωνο . 
+744	He was looking for someone . 	Κάποιον γύρευε . 
+745	He was looking for him . 	Γύρευε αυτόν . 
+746	And he sent me here to finish the job . 	Μ´ έστειλε εδώ για να τελειώσω τη δουλειά . 
+747	- I 'm coming with you . 	- Έρχομαι μαζί σου . - Όχι , δεν θα έρθεις . 
+748	- No , you 're not . 	
+749	- I like you alive . 	Σε προτιμώ ζωντανή . 
+750	- I can look after myself . 	- Ξέρω να προστατεύομαι . 
+751	That 's beside the point . 	- Δεν έχει σημασία . 
+752	I might not be coming back . 	Μπορεί να μη γυρίσω . 
+753	I know . 	Το ξέρω . 
+754	But I want to understand what happened to my father . 	Όμως θέλω να καταλάβω τι συνέβη στον πατέρα μου . 
+755	So , where was he going ? 	Πού πήγαινε , λοιπόν ; 
+756	Nowhere . 	Στο πουθενά . 
+757	Thank you so much . 	Ευχαριστώ πολύ . 
+758	Thanks . 	Ευχαριστώ . 
+759	All the very best . 	Να ´σαι καλά . 
+760	What 's going on ? 	- Τι συμβαίνει ; - Η συνάντηση ήρθε μπροστά . 
+761	The meeting was brought forward . 	- Τι συμβαίνει ; - Η συνάντηση ήρθε μπροστά . 
+762	Did you not get the message ? 	- Δεν λάβατε το μήνυμα ; - Όχι . 
+763	- No , we didn 't . 	- Δεν λάβατε το μήνυμα ; - Όχι . 
+764	- Shortest meeting I can remember . 	Δεν το λάβαμε . Η πιο σύντομη συνάντηση που θυμάμαι . 
+765	- South Africans on board , I take it ? 	- Οι Νοτιοαφρικανοί συμφώνησαν , λοιπόν ; - Ναι , και με το δίκιο τους . 
+766	- Yeah , well , who can blame them ? 	- Οι Νοτιοαφρικανοί συμφώνησαν , λοιπόν ; - Ναι , και με το δίκιο τους . 
+767	Nine Eyes is now officially sanctioned . 	Οι Εννέα Οφθαλμοί επικυρώθηκαν . 
+768	The new system goes live in less than 72 hours . 	Το νέο σύστημα θα συνδεθεί σε λιγότερο από 72 ώρες . 
+769	It 's a major step forward . 	Είναι ένα τεράστιο βήμα . 
+770	Global intelligence cooperation changes everything . 	Η παγκόσμια συνεργασία των υπηρεσιών ασφαλείας , αλλάζει τα πάντα . 
+771	As you said before . 	Η παγκόσμια συνεργασία των υπηρεσιών ασφαλείας , αλλάζει τα πάντα . 
+772	Look . 	ʼκου ... 
+773	They 've asked me to head the new committee . 	Μου ζήτησαν να διευθύνω τη νέα επιτροπή . 
+774	Yes ? 	Ναι ; Και ; 
+775	And ? 	Ναι ; Και ; 
+776	And I should tell you I' ve spoken with the Home Secretary . 	Πρέπει να σου πω ότι μίλησα με τον υπουργό εσωτερικών . 
+777	And in light of the new information I' ve given him , he 's decided to close down the double- 0 program with immediate effect . 	Υπό το πρίσμα των νέων πληροφοριών που του έδωσα ... ... αποφάσισε να κλείσει αμέσως το πρόγραμμα 00 . 
+778	- You don 't know what you 're doing . 	- Δεν ξέρεις τι κάνεις . - Δεν είναι κάτι προσωπικό . 
+779	- It 's not personal . 	Είναι το μέλλον . 
+780	It 's the future . 	Είναι το μέλλον . 
+781	And ... 	Και ... ... εσύ δεν είσαι . 
+782	- You 're not . 	Και ... ... εσύ δεν είσαι . 
+783	- You 're a cocky little bastard , aren 't you ? 	Είσαι αλαζονικός μπασταρδάκος , έτσι ; 
+784	- I' ll take that as a compliment . 	Αυτό το δέχομαι ως φιλοφρόνηση . Πρόσεχε . 
+785	- I wouldn 't . 	
+786	This isn 't over yet . 	Δεν τελείωσε ακόμα . 
+787	- Would you press this for me ? 	Μου το σιδερώνεις αυτό ; Ευχαριστώ . 
+788	Thank you . 	Μου το σιδερώνεις αυτό ; Ευχαριστώ . 
+789	- Yes , sir . 	
+790	Pick it up . 	Σήκωσέ το . 
+791	I hate guns . 	Μισώ τα όπλα . 
+792	I promised him I 'd protect you . 	Υποσχέθηκα να σε προστατέψω . 
+793	The first thing to do is to teach you how to protect yourself . 	Πρέπει να σε μάθω να προστατεύεις τον εαυτό σου . 
+794	What if I shoot you by mistake ? 	Κι αν σε πυροβολήσω κατά λάθος ; 
+795	Wouldn 't be the first time . 	Δεν θα είναι η πρώτη φορά . 
+796	- Pick it up . 	Σήκωσέ το . 
+797	- I said , I hate guns . 	Είπα ότι μισώ τα όπλα . 
+798	SIG 226 . 	SIG 226 . 
+799	Front sight . 	Μπροστινό στόχαστρο . 
+800	Rear sight . 	Πίσω . Επικρουστήρας . 
+801	Hammer . 	
+802	You just point it . 	Σημαδεύεις . 
+803	You squeeze the trigger . 	Πιέζεις τη σκανδάλη . 
+804	You try not to close your eyes . 	Προσπάθησε να μην κλείνεις τα μάτια . 
+805	Please ... try it . 	Σε παρακαλώ ... ... δοκίμασε . 
+806	I don 't have to teach you anything , do I ? 	Δεν έχω τίποτα να σου μάθω , έτσι ; 
+807	A man once came to our house to kill my father . 	Κάποτε ήρθε ένας άνδρας στο σπίτι μας για να σκοτώσει τον πατέρα μου . 
+808	He didn 't know I was upstairs playing in my bedroom . 	Δεν ήξερε ότι ήμουν πάνω και έπαιζα στο δωμάτιό μου . 
+809	Or that Papa kept a Beretta Nine- millimeter under the sink with the bleach . 	Ή ότι ο μπαμπάς είχε εννιάρα Βeretta στον νεροχύτη , δίπλα στη χλωρίνη . 
+810	That 's why I hate guns . 	Γι´ αυτό μισώ τα όπλα . 
+811	I think we 'll skip hand- to- hand combat . 	Καλύτερα ν´ αφήσουμε τη μάχη σώμα με σώμα . 
+812	Good evening , sir . 	Καλησπέρα . 
+813	Sorry to interrupt your supper , but we have some news . 	Συγγνώμη που διακόπτουμε το δείπνο σας , αλλά έχουμε νέα . 
+814	Evening , sir . 	
+815	Using the Smart Blood , I' ve tracked Bond to a point here in North Africa . 	Με το Έξυπνο Αίμα εντόπισα τον Μποντ σε ένα σημείο εδώ στη Βόρεια Αφρική . 
+816	See , every known map registers it as empty desert . 	Οι χάρτες το έχουν καταχωρημένο ως κενή έρημο . 
+817	Exactly . 	Όμως αν κοιτάξετε μεγέθυνση δορυφόρου , θα δείτε καθαρά αυτό . 
+818	But if you look at the satellite blowup , you can clearly see this . 	Όμως αν κοιτάξετε μεγέθυνση δορυφόρου , θα δείτε καθαρά αυτό . 
+819	We can 't help him . 	Δεν μπορούμε να τον βοηθήσουμε . 
+820	But , sir , we know where he 's heading . 	Μα , κύριε , ξέρουμε πού πηγαίνει . 
+821	C is watching everything we do . 	Ο C παρακολουθεί ό, τι κάνουμε . 
+822	We 're only handing them more information . 	Απλά τους δίνουμε περισσότερες πληροφορίες . 
+823	Sir , we can 't just desert Bond . 	Κύριε ... δεν μπορούμε να εγκαταλείψουμε τον Μποντ . 
+824	- We have to . 	Πρέπει . 
+825	We only make him weaker . 	Αλλιώς θα τον αποδυναμώσουμε . 
+826	- But , sir , we know exactly where he is . 	- Μα ξέρουμε ακριβώς πού βρίσκεται . 
+827	Yes , I know , but if we can track him , so can others . 	- Ναι , αλλά θα τον εντοπίσουν και άλλοι . 
+828	Delete all the Smart Blood files . 	Διαγράψτε όλα τα αρχεία για το Έξυπνο Αίμα . 
+829	Everything . 	Τα πάντα . 
+830	He 's on his own . 	Είναι μόνος του . 
+831	- You shouldn 't stare . 	Μην κοιτάς επίμονα . 
+832	- Well , you shouldn 't look like that . 	Κι εσύ μην είσαι τόσο όμορφη . 
+833	May I get you an aperitif ? 	Θα πιεις ένα απεριτίφ ; 
+834	I 'm not sure . 	Δεν είμαι σίγουρη . 
+835	It gets me into trouble . 	Με βάζει σε μπελάδες . 
+836	Makes me do crazy things . 	Με κάνει να κάνω τρελά πράγματα . 
+837	Well , we can 't have that . 	Δεν θα το επιτρέψουμε αυτό . 
+838	So , I' ll have a vodka martini , dirty . 	Θα πιω , λοιπόν , βότκα μαρτίνι ... βρόμικο . 
+839	Make that two . 	Κάνε τα δύο . 
+840	- I have a question . 	Έχω μια ερώτηση . 
+841	- Well , what 's that ? 	Τι ερώτηση ; 
+842	Why , given every other possible option , does a man choose the life of a paid assassin ? 	Με τόσες επιλογές που υπάρχουν ... ... γιατί ένας άνθρωπος επιλέγει να γίνει πληρωμένος δολοφόνος ; 
+843	Well , it was that or the priesthood . 	Ή αυτό ή θα γινόμουν ιερέας . 
+844	I 'm serious . 	Σοβαρολογώ . 
+845	Is this really what you want ? 	Το θέλεις πραγματικά αυτό ; 
+846	Living in the shadows ? 	Να ζεις στις σκιές ; Να κυνηγάς ; Να σε κυνηγούν ; 
+847	Hunting ? 	Να ζεις στις σκιές ; Να κυνηγάς ; Να σε κυνηγούν ; 
+848	Being hunted ? 	Να ζεις στις σκιές ; Να κυνηγάς ; Να σε κυνηγούν ; 
+849	Always looking behind you ? 	Πάντα να κοιτάς πίσω σου ; Πάντα μόνος ; 
+850	Always alone ? 	Πάντα να κοιτάς πίσω σου ; Πάντα μόνος ; 
+851	But I 'm not alone . 	Μα δεν είμαι μόνος . 
+852	Answer the question . 	Απάντησέ μου . 
+853	I 'm not sure I ever had a choice . 	Δεν είμαι βέβαιος ότι είχα επιλογή . 
+854	Anyway , I don 't stop to think about it . 	Πάντως δεν κάθομαι να το σκεφτώ . 
+855	What would happen if you did ? 	Τι θα γινόταν αν το έκανες ; 
+856	- Stop ? 	Να σταματούσα ; 
+857	- Yes . 	Ναι . 
+858	I don 't know . 	Δεν ξέρω . 
+859	- Your drinks , sir . 	Τα ποτά σας , κύριε . 
+860	- Could you leave them there , please ? 	Τ´ αφήνεις εκεί , παρακαλώ ; 
+861	You know , I think you 're wrong . 	Ξέρεις , νομίζω ότι κάνεις λάθος . 
+862	I am ? 	Αλήθεια ; 
+863	We always have a choice . 	Πάντα έχουμε επιλογή . 
+864	I' ll drink to that . 	Θα πιω σ´ αυτό . 
+865	Shit . 	Σκατά . 
+866	What do we do now ? 	Τι κάνουμε τώρα ; 
+867	This might be a long wait . 	Ίσως πρέπει να περιμένουμε πολύ . 
+868	Are you having second thoughts ? 	Μετανιώνεις τώρα ; 
+869	Too late now . 	Είναι πολύ αργά . 
+870	What 's that ? 	Τι είναι αυτό ; 
+871	That is a 1948 Rolls- Royce Silver Wraith . 	Αυτό ... ... είναι μια Rοlls- Rοyce Silνer Wraith του 1948 . 
+872	Please . 	Παρακαλώ . 
+873	I 'm scared , James . 	Φοβάμαι , Τζέιμς . 
+874	Good afternoon , Mr . 	Καλησπέρα σας , κ . 
+875	Bond , Dr . 	Μποντ , δρ Σουάν . 
+876	Swann . 	Μποντ , δρ Σουάν . 
+877	I want you to know just how excited we all are to finally meet you . 	Να ξέρετε ότι είμαστε ενθουσιασμένοι που επιτέλους σας γνωρίζουμε . 
+878	Well ... it 's a pleasure to be here . 	Είναι ... χαρά μας που βρισκόμαστε εδώ . 
+879	Your host invites you both to rest , relax , and join him for drinks at 4 : 00 . 	Ο οικοδεσπότης σας προτείνει ν´ αναπαυθείτε ... ... να χαλαρώσετε και να βρεθείτε για ποτά στις 4 . 
+880	- Tell our host we won 't be late . 	- Πες του ότι δεν θ´ αργήσουμε . 
+881	- Wonderful . 	- Θαυμάσια . 
+882	Before we show you to your rooms , just one more thing . 	Πριν σας οδηγήσουμε στα δωμάτιά σας , έχουμε κάτι ακόμα . 
+883	You be careful with that . 	Πρόσεχέ το αυτό . 
+884	It 's loaded . 	Είναι γεμάτο . 
+885	Thank you . 	Ευχαριστώ . 
+886	This is a very special place . 	Αυτό το μέρος είναι πολύ ξεχωριστό . 
+887	He has requested you enter it alone . 	Zήτησε να εισέλθετε μόνοι . 
+888	Of course . 	Ασφαλώς . 
+889	Champagne ? 	Σαμπάνια ; 
+890	Maybe later . 	Ίσως αργότερα . 
+891	Certainly . 	Βεβαίως . 
+892	I think we 're meant to be impressed . 	Νομίζω ότι πρέπει να εντυπωσιαστούμε . 
+893	Touch it . 	Αγγίξτε το . 
+894	You can touch it if you want . 	Αγγίξτε το αν θέλετε . 
+895	- Do you know what it is ? 	Ξέρετε τι είναι ; 
+896	- It 's a meteorite . 	Ένας μετεωρίτης . 
+897	Yes , exactly . 	Ναι , ακριβώς . 
+898	The Kartenhoff . 	Ο Κάρτενχοφ . 
+899	The oldest in human possession . 	Ο παλιότερος σε χέρια ανθρώπου . 
+900	The very meteorite which made this crater . 	Αυτός ο μετεωρίτης δημιούργησε αυτόν τον κρατήρα . 
+901	Think about it . 	Σκεφτείτε το . 
+902	So many years up there , alone , silent , building momentum until it chose to make its mark on Earth . 	Τόσα χρόνια εκεί πάνω , μόνος , σιωπηλός ... ... αποκτούσε ορμή ώσπου πλησίασε τη Γη και άφησε το σημάδι του . 
+903	A huge , unstoppable force . 	Μια τεράστια , ασταμάτητη δύναμη . 
+904	Except it did stop , didn 't it ? 	Παρ´ όλα αυτά σταμάτησε , έτσι ; 
+905	Right here . 	Ακριβώς εδώ . 
+906	I can 't tell you how much I' ve been looking forward to this . 	Δεν φαντάζεσαι πόσο ανυπομονούσα να έρθει αυτή η στιγμή . 
+907	All of us here , together . 	Να είμαστε μαζί εδώ . 
+908	A reunion . 	Μια επανένωση . 
+909	I 'm so glad you came , too , dear Madeleine . 	Χαίρομαι πολύ που ήρθες κι εσύ , αγαπητή Μάντελεν . 
+910	You were just a girl when I saw you first . 	Ήσουν κοριτσάκι όταν σε είδα πρώτη φορά . 
+911	I came to your home once to see your father . 	Ήρθα στο σπίτι σας κάποτε για να δω τον πατέρα σου . 
+912	I don 't remember that . 	Δεν το θυμάμαι . 
+913	But I do . 	Το θυμάμαι εγώ . 
+914	Shall we ? 	Πάμε ; 
+915	- What is this place ? 	Τι είναι αυτό το μέρος ; 
+916	- Information . 	Πληροφορίες . 
+917	Information is all ... is it not ? 	Οι πληροφορίες είναι το παν ... ... έτσι δεν είναι ; 
+918	For example , you must know by now that the double- 0 program is officially dead . 	Για παράδειγμα ... ... πρέπει ήδη να γνωρίζεις ότι το πρόγραμμα 00 έχει επισήμως πεθάνει . 
+919	Which leads me to speculate exactly why you came . 	Και αυτό με κάνει να αναρωτιέμαι για τον λόγο που ήρθες . 
+920	So , James , why did you come ? 	Λοιπόν , Τζέιμς ... γιατί ήρθες ; 
+921	I came here to kill you . 	Ήρθα εδώ για να σε σκοτώσω . 
+922	And I thought you came here to die . 	Εγώ νόμιζα ότι ήρθες για να πεθάνεις . 
+923	Well , it 's all a matter of perspective . 	Όλα είναι θέμα αντίληψης . 
+924	Speaking of perspective . 	Μια που μιλάμε για αντίληψη ... 
+925	- Is this live ? 	- Είναι ζωντανή μετάδοση ; - Zωντανή . 
+926	- Live and direct . 	Ώρα 16 : 20 ώρα Γκρίνουιτς . 
+927	16 : 20 GMT . 	Ώρα 16 : 20 ώρα Γκρίνουιτς . 
+928	What an uncanny coincidence . 	Τι περίεργη σύμπτωση . 
+929	The French have a saying , " It 's the fate of glass to break . " 	Οι Γάλλοι έχουν ένα γνωμικό : " Μοίρα του γυαλιού είναι να σπάσει " . 
+930	Well , maybe it 's the fate of spies to just disappear . 	Ίσως , λοιπόν , είναι μοίρα των κατασκόπων απλά να ... εξαφανιστούν . 
+931	But with any luck , we leave something behind . 	Ελπίζουμε πάντως ... ... ότι πίσω μας αφήνουμε κάτι . 
+932	In the meantime , I 'm sure C will keep you all busy . 	Στο μεταξύ , είμαι βέβαιος ότι ο C θα σας κρατά απασχολημένους . 
+933	Thank you all . 	Σας ευχαριστώ όλους . 
+934	That 's touching , don 't you think ? 	Πολύ συγκινητικό ... ... δεν νομίζεις ; 
+935	Well , James ... it looks like you 're all alone . 	Λοιπόν , Τζέιμς ... ... φαίνεται ότι έχεις μείνει μόνος σου . 
+936	Not much more than a voyeur , are you ? 	Είσαι ένας απλός ηδονοβλεψίας , έτσι ; 
+937	Too scared to join in . 	Φοβάσαι να συμμετέχεις . 
+938	- I don 't think you quite understand . 	- Δεν νομίζω ότι καταλαβαίνεις . 
+939	- Oh , I think I do . 	- Νομίζω ότι καταλαβαίνω . 
+940	You set cities on fire and watch innocent people burn , so you can convince governments to join an intelligence network you 've paid for . 	Καις τις πόλεις και βλέπεις αθώους να καίγονται ... ... για να πείσεις κυβερνήσεις να συμμετέχουν στο δίκτυο που πλήρωσες . 
+941	Not that complicated . 	Δεν είναι τόσο πολύπλοκο . 
+942	I 'm guessing our little friend , C , he 's one of your disciples . 	Υποθέτω ότι ο φιλαράκος μας C είναι ένας από τους ακολούθους σου . 
+943	- You could say that . 	Μπορείς να το πεις αυτό . 
+944	- And what does he get out of it ? 	Και τι κερδίζει από αυτό ; 
+945	Nothing . 	Τίποτα . 
+946	He 's a visionary , like me . 	Είναι οραματιστής , όπως εγώ . 
+947	Visionaries . 	Οραματιστές . 
+948	Psychiatric wards are full of them . 	Οι ψυχιατρικές κλινικές είναι γεμάτες από αυτούς . 
+949	Whereas you couldn 't see what 's right in front of you . 	Ενώ εσύ δεν βλέπεις αυτό που είναι μπροστά σου . 
+950	You came across me so many times and yet you never saw me . 	Με πλησίασες πάρα πολλές φορές και ποτέ δεν με είδες . 
+951	Le Chiffre , Greene , Silva . 	Le Chiffre , Γκριν , Σίλβα . 
+952	- All dead . 	- Όλοι νεκροί . 
+953	- Yeah , that 's right . 	- Ναι , σωστά . 
+954	A nice pattern developed . 	Ασφαλώς . 
+955	You interfered in my world , I destroyed yours . 	Αναμίχθηκες στον κόσμο μου κι εγώ κατέστρεψα τον δικό σου . 
+956	Or did you think it was coincidence that all the women in your life ended up dead ? 	Ή νομίζεις ότι ήταν σύμπτωση που πέθαναν όλες οι γυναίκες της ζωής σου ; 
+957	Vesper Lynd , for example . 	Η Εσπερινός Λιντ , για παράδειγμα . 
+958	She was the big one . 	Ήταν ο μεγάλος έρωτας . 
+959	Has he told you about her ? 	Σου μίλησε γι´ αυτή ; 
+960	And then , of course , your beloved M . 	Και μετά , ασφαλώς , η αγαπημένη σου Μ . 
+961	Gone forever . 	Χάθηκε για πάντα . 
+962	Me . 	Εγώ . 
+963	It was all me , James . 	Όλα εγώ , Τζέιμς . 
+964	It 's always been me . 	Εγώ ήμουν πίσω απ´ όλα . 
+965	The author of all your pain . 	Ο δημιουργός της δυστυχίας σου . 
+966	You 're a brave woman , my dear . 	Είσαι γενναία γυναίκα , αγαπητή μου . 
+967	Now I understand why my father lost his mind . 	Τώρα καταλαβαίνω γιατί ο πατέρας μου έχασε το μυαλό του . 
+968	He didn 't lose his mind , he was just weak . 	Δεν έχασε το μυαλό του , απλά ήταν αδύναμος . 
+969	But at least he understood what he was up against . 	Τουλάχιστον κατάλαβε τι αντιμετώπιζε . 
+970	You see , they failed to comprehend the crucial fact , that a terrible event can lead to something wonderful . 	Βλέπεις , δεν μπόρεσαν να κατανοήσουν το κρίσιμο γεγονός ... ... ότι ένα τρομερό συμβάν μπορεί να οδηγήσει σε κάτι υπέροχο . 
+971	Since you mention your father , I' ll show you . 	Αφού ανέφερες τον πατέρα σου , θα σου δείξω . 
+972	She 's clever . 	Είναι έξυπνη . 
+973	She 's smarter than me . 	Πιο έξυπνη από εμένα . 
+974	She knows how to hide . 	Ξέρει να κρύβεται . 
+975	I can protect her if you tell me where he is . 	Θα την προστατέψω αν μου πείτε πού είναι αυτός . 
+976	- I can keep her alive . 	Θα την κρατήσω ζωντανή . - Ναι . 
+977	- Yeah . 	- Έχετε τον λόγο μου . 
+978	- You have my word . 	- Έχετε τον λόγο μου . 
+979	- No , no , no . 	Όχι , όχι , όχι . 
+980	Turn this off . 	Κλείσ´ το . 
+981	Your word ? 	Τον λόγο σας ; 
+982	- The word of an assassin ! 	- Τον λόγο ενός εκτελεστή ! 
+983	- Turn this off . 	- Κλείσ´ το αυτό . 
+984	- This is important . 	- Είναι σημαντικό . 
+985	- I said turn it off ! 	- Είπα , κλείσ´ το ! 
+986	I want you to understand something . 	Θέλω να καταλάβεις κάτι . 
+987	That 's my word . 	Αυτός είναι ο λόγος μου . 
+988	Madeleine ? 	Μάντελεν ; 
+989	Look at me . 	Κοίτα εμένα . 
+990	Don 't look at him , Madeleine . 	Μην κοιτάς αυτόν , Μάντελεν . Κοίτα εμένα . 
+991	Look at me . 	
+992	L' Americain . 	L' Αmericain . 
+993	You save her , she can lead you to L' Americain . 	Αν τη σώσετε ... ... θα σας οδηγήσει στον Αmericain . 
+994	She knows L' Americain . 	Αν τη σώσετε ... ... θα σας οδηγήσει στον Αmericain . 
+995	Try the Hoffler Klinik . 	Δοκιμάστε τη Ηοffler ΚΙinik . 
+996	You 're a kite dancing in a hurricane , Mr . 	Είστε χαρταετός που χορεύει σε θύελλα , κ . Μποντ . 
+997	Bond . 	
+998	So long . 	Αντίο . 
+999	The things that bring people together . 	Αυτά φέρνουν τους ανθρώπους πιο κοντά . 
+1000	Out of horror , beauty . 	Από τη φρίκη , η ομορφιά . 
+1001	Torture is easy , on a superficial level . 	Ο βασανισμός είναι εύκολος , σε ένα επιδερμικό επίπεδο . 
+1002	A man can watch himself being disemboweled and ... derive great horror from the experience , but it 's still going on at a distance . 	Κάποιος μπορεί να δει τον εαυτό του να ξεκοιλιάζεται και ... να βιώσει τη μεγάλη φρίκη από αυτήν την εμπειρία ... ... αλλά και πάλι το μυαλό του να αποστασιοποιείται . 
+1003	It isn 't taking place where he is . 	Δεν συμβαίνει εκεί που είναι . 
+1004	As you know all too well , dear Madeleine , a man lives inside his head . 	Όπως ξέρεις καλά , αγαπητή Μάντελεν , ο άνθρωπος ζει μέσα στο κεφάλι του . 
+1005	That 's where the seat of his soul is . 	Εκεί βρίσκεται η έδρα της ψυχής του . 
+1006	Now , James and I were both present recently when a man was deprived of his eyes . 	Με τον Τζέιμς ήμαστε παρόντες όταν κάποιος πρόσφατα στερήθηκε τα μάτια του . 
+1007	And the most astonishing thing happened . 	Και τότε συνέβη κάτι αληθινά εκπληκτικό . 
+1008	Didn 't you notice ? 	Το πρόσεξες ; Δεν ήταν πια εκεί . 
+1009	He wasn 't there anymore . 	Το πρόσεξες ; Δεν ήταν πια εκεί . 
+1010	He 'd gone even though he was still alive . 	Είχε φύγει αν και ήταν ακόμα ζωντανός . 
+1011	So in this brief moment between life and death , there was nobody inside his skull . 	Σε αυτήν τη σύντομη στιγμή μεταξύ ζωής και θανάτου ... ... κανείς δεν υπήρχε στο κρανίο του . 
+1012	Most odd . 	Παράδοξο . 
+1013	So , James . 	Λοιπόν , Τζέιμς ... θα εισχωρήσω ... ... εκεί που βρίσκεσαι . 
+1014	I 'm going to penetrate ... to where you are . 	Λοιπόν , Τζέιμς ... θα εισχωρήσω ... ... εκεί που βρίσκεσαι . 
+1015	To the inside of your head . 	Στο εσωτερικό του κεφαλιού σου . 
+1016	Now , the first probe will play with your sight , your hearing and your balance , just with the subtlest of manipulations . 	Η πρώτη μήλη θα επηρεάσει την όρασή σου ... την ακοή σου ... και την ευστάθειά σου ... ... με έναν ανεπαίσθητο χειρισμό . 
+1017	Well , get on with it then . 	Τελείωνε , λοιπόν . 
+1018	Nothing can be as painful as listening to you talk . 	Τίποτα δεν μπορεί να είναι πιο οδυνηρό από το να σε ακούω να μιλάς . 
+1019	All right . 	Εντάξει . 
+1020	Let 's begin . 	Ας αρχίσουμε . 
+1021	Why are you doing this ? 	Γιατί το κάνεις αυτό ; 
+1022	You probably know that James here lost his parents when he was young . 	Πιθανόν να γνωρίζεις ότι ο Τζέιμς έχασε τους γονείς του όταν ήταν μικρός . 
+1023	But did you know that it was my father who helped him through this difficult time ? 	Ήξερες , όμως , ότι ο πατέρας μου τον βοήθησε να ξεπεράσει τις δυσκολίες ; 
+1024	Over the course of two winters he taught him to ski , and climb , and hunt . 	Σε διάστημα δύο χειμώνων ... ... τον έμαθε σκι , ορειβασία και κυνήγι . 
+1025	He soothed the wounds of the poor little blue- eyed orphan . 	Μαλάκωσε τα τραύματα του μικρού δύστυχου γαλανομάτη ορφανού . 
+1026	Asked me to treat him as a brother . 	Μου ζήτησε να τον αντιμετωπίζω σαν ... αδερφό . 
+1027	My little brother . 	Σαν μικρό μου αδερφό . 
+1028	They formed quite an attachment . 	Ανέπτυξαν μια στενή σχέση . 
+1029	So ... you killed him . 	Γι´ αυτό ... ... τον σκότωσες . 
+1030	Yes , I did . 	Ναι , τον σκότωσα . 
+1031	You know what happens when a cuckoo hatches inside another bird 's nest ? 	Ξέρεις τι συμβαίνει όταν ένα ... ... αβγό κούκου σκάει σε φωλιά άλλου πουλιού ; 
+1032	Yes . 	Ναι . 
+1033	It forces the other eggs out . 	Πετά έξω τ´ άλλα αβγά . 
+1034	Yes . 	Ναι . 
+1035	Well ... this cuckoo made me realize my father 's life had to end . 	Αυτός ο κούκος μ´ έκανε να καταλάβω ότι ο πατέρας μου έπρεπε να πεθάνει . 
+1036	In a way , he 's responsible for the path I took . 	Κατά κάποιο τρόπο , είναι υπεύθυνος για τον δρόμο που πήρα . 
+1037	So , thank you . 	Σ´ ευχαριστώ , λοιπόν . 
+1038	Cuckoo . 	Κούκου . 
+1039	Do you know any other birdcalls , Franz ? 	Ξέρεις κι άλλα κελαδήματα , Φραντς ; 
+1040	Hello , pussy . 	Γεια σου , γατούλα . 
+1041	Franz Oberhauser died 20 years ago , James . 	Ο Φραντς Ομπερχάουσερ πέθανε πριν είκοσι χρόνια , Τζέιμς . 
+1042	In an avalanche , alongside his father . 	Σε μια χιονοστιβάδα , μαζί με τον πατέρα του . 
+1043	The man you are talking to now , the man inside your head , is Ernst Stavro Blofeld . 	Ο άνθρωπος που τώρα του μιλάς , ο άνθρωπος μέσα στο κεφάλι σου ... ... είναι ο Ερνστ Σταύρος Μπλόφελντ . 
+1044	Catchy name . 	Πιασάρικο όνομα . 
+1045	My mother 's bloodline . 	Από τη μεριά της μητέρας μου . 
+1046	If the needle finds the correct spot in the fusiform gyrus , you 'll recognize no one . 	Αν η βελόνα βρει το σωστό σημείο στην ατρακτοειδή έλικα ... ... δεν θ´ αναγνωρίζεις κανέναν . 
+1047	Of course , the faces of your women are interchangeable , aren 't they , James ? 	Φυσικά , τα πρόσωπα των γυναικών σου εναλλάσσονται , έτσι , Τζέιμς ; 
+1048	You won 't know who she is . 	Δεν θα ξέρεις ποια είναι . ʼλλο ένα περαστικό πρόσωπο στον πηγεμό σου για τον τάφο . 
+1049	Just another passing face on your way to the grave . 	Δεν θα ξέρεις ποια είναι . ʼλλο ένα περαστικό πρόσωπο στον πηγεμό σου για τον τάφο . 
+1050	He dies not knowing who you are . 	Θα πεθάνει χωρίς να ξέρει ποια είσαι . 
+1051	The daughter of an assassin . 	Η κόρη ενός εκτελεστή . 
+1052	The only one who could have understood him . 	Η μόνη που θα τον καταλάβαινε . 
+1053	Shame . 	Κρίμα . 
+1054	I love you . 	Σ´ αγαπώ . 
+1055	Do those blue eyes still recognize you ? 	Τα γαλάζια μάτια του σε αναγνωρίζουν ακόμα ; 
+1056	I 'd recognize you anywhere . 	Θα σε αναγνώριζα παντού . 
+1057	The watch . 	Το ρολόι . 
+1058	One minute . 	Ένα λεπτό . 
+1059	One minute . 	Ένα λεπτό . 
+1060	- Did he say something ? 	Είπε κάτι ; 
+1061	- Tempus fugit . 	Τempus fugit . 
+1062	- What ? 	- Τι ; - Τempus fugit . 
+1063	- Tempus fugit . 	- Τι ; - Τempus fugit . 
+1064	I can 't hear you , James . 	Δεν σ´ ακούω , Τζέιμς . 
+1065	I said ... doesn 't time fly ? 	Είπα ... ... ο χρόνος πετάει . 
+1066	In there ! 	Εκεί ! 
+1067	Let 's go home . 	Πάμε σπίτι . 
+1068	It 's not over yet . 	Δεν τελείωσε ακόμα . 
+1069	- I' ve never even heard of Hildebrand . 	- Δεν έχω ξανακούσει τη Ηildebrand . 
+1070	- That is the general idea with safe houses . 	- Έτσι είναι τα καταφύγια . 
+1071	- Exactly how safe is this , sir ? 	- Πόσο ασφαλές είναι , κύριε ; - Θα μάθουμε σε λίγο . 
+1072	- We 're about to find out . 	- Πόσο ασφαλές είναι , κύριε ; - Θα μάθουμε σε λίγο . 
+1073	It 's safe . 	Είναι ασφαλές . 
+1074	Better wait here . 	Περίμενε εδώ . 
+1075	- I 'm M . 	Είμαι ο Μ . 
+1076	- Madeleine Swann . 	- Μάντελεν Σουάν . 
+1077	Pleased to meet you . 	- Χαίρω πολύ . 
+1078	So , what do you have for me , 007 ? 	Τι πληροφορίες έχεις , 007 ; 
+1079	The recently deceased head of Spectre , Ernst Stavro Blofeld , and his chief of intelligence , your new best friend , C . 	Ο προσφάτως αποθανών επικεφαλής της SΡΕCΤRΕ , Ερνστ Σταύρος Μπλόφελντ ... ... και ο διευθυντής της υπηρεσίας πληροφοριών του , ο φίλος σου C . 
+1080	About to take control of his very own global surveillance system that he built right here under our noses . 	Θ´ αναλάβει τον έλεγχο του δικού του παγκόσμιου συστήματος επιτήρησης ... ... που κατασκεύασε κάτω απ´ τη μύτη μας . 
+1081	Then we 'd better move . 	Καλό θα είναι να βιαστούμε . 
+1082	The system goes online at midnight . 	Το σύστημα συνδέεται τα μεσάνυχτα . 
+1083	If that happens , Spectre will have control of everything . 	Αν συμβεί αυτό , η SΡΕCΤRΕ θα ελέγχει τα πάντα . 
+1084	So , you and I will have a quiet word with C while Q hacks into the system 	Εμείς θα απασχολήσουμε τον C και ο Q θα εμποδίσει το σύστημα να συνδεθεί . 
+1085	- and stops it going online . 	Εμείς θα απασχολήσουμε τον C και ο Q θα εμποδίσει το σύστημα να συνδεθεί . 
+1086	- It won 't be easy . 	- Δεν θα είναι εύκολο . 
+1087	He 'll find a way . 	- Θα βρει τρόπο . 
+1088	He always does . 	Πάντα βρίσκει . 
+1089	It 's good to have you back , 007 . 	Χαίρομαι που επέστρεψες , 007 . 
+1090	Sir . 	Κύριε . 
+1091	James , I can 't . 	Τζέιμς , δεν μπορώ . 
+1092	I' ll come back for you when it 's all over . 	Θα γυρίσω να σε πάρω ... ... όταν όλα τελειώσουν . 
+1093	No , I can 't . 	Όχι , δεν μπορώ . 
+1094	No , you can 't stay here , or you ... 	Όχι , δεν μπορείς να μείνεις ή ... ; 
+1095	I can 't go back to this life . 	Δεν μπορώ να γυρίσω σ´ αυτήν τη ζωή . 
+1096	And I 'm not going to ask you to change . 	Και δεν θα σου ζητήσω ν´ αλλάξεις . 
+1097	This is who you are . 	Αυτός είσαι . 
+1098	You 're saying good- bye . 	Με αποχαιρετάς . 
+1099	Yes . 	Ναι . 
+1100	Take care . 	Να προσέχεις . 
+1101	You 're a good man , James . 	Είσαι καλός άνθρωπος , Τζέιμς . 
+1102	Are you in yet , Q ? 	Μπήκες , Q ; 
+1103	A few layers of impenetrable security still to go , but I think I 'm getting somewhere . 	Έχω ακόμα μερικά επίπεδα απροσπέλαστης ασφάλειας , αλλά πλησιάζω . 
+1104	They 've seen us ! 	Μας είδαν ! Όπισθεν ! 
+1105	Reverse ! 	
+1106	Go ! 	Ξεκίνα ! 
+1107	Get him in the building ! 	Βάλ´ τον στο κτίριο ! 
+1108	Move . 	Προχώρα . 
+1109	Move ! 	Προχώρα ! 
+1110	Go back and find M , now ! 	Πήγαινε να βρεις τον Μ , τώρα ! 
+1111	We need them both . 	Χρειαζόμαστε και τους δύο . 
+1112	Not a good feeling being watched , is it ? 	Δεν είναι ωραία η αίσθηση να σε παρακολουθούν , έτσι ; 
+1113	- Don 't tell me you 're responsible for this . 	Μη μου πεις ότι είσαι υπεύθυνος γι´ αυτό . 
+1114	- No , but my Quartermaster is . 	Όχι , αλλά είναι ο διαχειριστής υλικού μου . 
+1115	- And he 's extremely talented . 	Και είναι πολύ ικανός . 
+1116	- Well , bravo . 	Μπράβο . 
+1117	But in case you hadn 't realized it , you two are out of a job . 	Σε περίπτωση που δεν το έχετε καταλάβει , είστε και οι δύο χωρίς δουλειά . 
+1118	So you 're trespassing . 	Βρίσκεστε εδώ παράνομα . 
+1119	I 'm afraid you 've got the wrong end of the stick , Max . 	Φοβάμαι ότι έχεις αντιληφθεί λάθος , Μαξ . 
+1120	We 're going to stop this system going online . 	Θα εμποδίσουμε το σύστημα να συνδεθεί . 
+1121	- And then I 'm going to bring you in . 	Και μετά θα σε συλλάβω . 
+1122	- On what grounds exactly ? 	Με ποια κατηγορία ακριβώς ; 
+1123	Poor taste in friends . 	Για κακό γούστο στους φίλους . 
+1124	Take a look at the world . 	Ρίξε μια ματιά στον κόσμο . 
+1125	Chaos . 	Χάος . 
+1126	Because people like you , paper- pushers and politicians , are too spineless to do what needs to be done . 	Διότι άνθρωποι σαν εσένα ... ... χαρτογιακάδες και πολιτικοί , είναι πολύ δειλοί για να κάνουν ό, τι πρέπει . 
+1127	So I made an alliance to put the power where it should be . 	Έκανα μια συμμαχία για να δώσω την εξουσία εκεί που πρέπει . 
+1128	And now you want to throw it away for the sake of " democracy . " 	Και τώρα θέλεις να την πετάξεις ... για χάρη της " δημοκρατίας " . 
+1129	Whatever the hell that is . 	Ό, τι διάολο κι αν είναι αυτό . 
+1130	How predictably moronic . 	Πόσο απίστευτα μυωπικό . 
+1131	But then isn 't that what M stands for ? 	Όμως , αυτό δεν σημαίνει το αρχικό Μ ; 
+1132	" Moron . " 	" Μυωπικός . " 
+1133	And now we know what C stands for . 	Και τώρα ξέρουμε τι σημαίνει το C . 
+1134	" Careless . " 	" Κουτός . " 
+1135	Come on . 	Έλα . 
+1136	No , no , no ! 	Η ΠΡΟΣΒΑΣΗ ΑΠΑΓΟΡΕYΕΤΑI 
+1137	You 're a hard man to kill , Blofeld . 	Δύσκολα σκοτώνεσαι , Μπλόφελντ . 
+1138	I do hope that doesn 't hurt too much . 	Ελπίζω να μην πονάει πολύ αυτό . 
+1139	My wounds will heal . 	Τα τραύματά μου θα επουλωθούν . 
+1140	What about yours ? 	Ενώ τα δικά σου ; 
+1141	Look around you , James . 	Κοίτα γύρω σου , Τζέιμς . 
+1142	Look . 	Κοίτα . 
+1143	This is what 's left of your world . 	Αυτό απέμεινε από τον κόσμο σου . 
+1144	Everything you ever stood for , everything you believed in , a ruin . 	Όσα υπερασπιζόσουν , όσα πίστευες , έγιναν ερείπια . 
+1145	Why are we here ? 	Γιατί είμαστε εδώ ; 
+1146	Did you miss me ? 	Σου έλειψα ; 
+1147	No . 	Όχι . 
+1148	But I know someone who does . 	Όμως έλειψες σε κάποιον άλλο . 
+1149	Where is she ? 	Πού είναι εκείνη ; 
+1150	That 's for you to find out . 	Δουλειά σου είναι να τη βρεις . 
+1151	In three minutes , this building will be demolished . 	Σε τρία λεπτά , αυτό το κτίριο θα κατεδαφιστεί . 
+1152	I can get out easily . 	Εγώ μπορώ να βγω εύκολα . 
+1153	Now , you have a choice . 	Εσύ , όμως , έχεις μια επιλογή . 
+1154	Die trying to save her or ... save yourself and live with the pain . 	Να πεθάνεις προσπαθώντας να τη σώσεις ... ... ή να σωθείς και να ζήσεις με τον πόνο . 
+1155	You 're bluffing . 	Μπλοφάρεις . 
+1156	Am I ? 	Σίγουρα ; 
+1157	I' ve really put you through it , haven 't I ? 	Σε ζόρισα πολύ , έτσι ; 
+1158	That 's brothers for you . 	Έτσι είναι τ´ αδέρφια . 
+1159	They always know which buttons to press . 	Πάντα ξέρουν τα κουμπιά του άλλου . 
+1160	Madeleine ! 	Μάντελεν ! 
+1161	Come on . 	Έλα . 
+1162	Come on . 	Έλα . 
+1163	Yes ! 	ΤΟ ΣYΣΤΗΜΑ ΚΑΤΕΡΡΕYΣΕ 
+1164	Let 's go . 	Πάμε . 
+1165	After you . 	Μετά από σένα . 
+1166	Why can 't you just face it , M ? 	Γιατί δεν το παίρνεις απόφαση , Μ ; 
+1167	You don 't matter anymore . 	Δεν έχεις αξία πια . 
+1168	Maybe I don 't . 	Ίσως να μην έχω . 
+1169	But something has to . 	Κάτι , όμως , πρέπει να έχει . 
+1170	- Dead . 	Νεκρός . 
+1171	- Any word on Bond ? 	- Κανένα νέο από τον Μποντ ; - Όχι . 
+1172	No . 	- Κανένα νέο από τον Μποντ ; - Όχι . 
+1173	But I can hazard a guess . 	Όμως μπορώ να μαντέψω . 
+1174	Madeleine ! 	Μάντελεν ! 
+1175	Madeleine ! 	Μάντελεν ! 
+1176	- Do you trust me ? 	Μ´ εμπιστεύεσαι ; 
+1177	- Do I have a choice ? 	- Έχω επιλογή ; - Όχι πια . 
+1178	Not anymore . 	- Έχω επιλογή ; - Όχι πια . 
+1179	Come on ! 	Έλα ! 
+1180	Good- bye , James Bond . 	Αντίο , Τζέιμς Μποντ . 
+1181	Brace , brace , brace ! 	Κρατηθείτε ! 
+1182	- Sir , this is a terrorist alert . 	- Κύριε , είναι τρομοκρατική απειλή . 
+1183	- Mallory , double- 0 section . 	- Μάλορι , τμήμα 00 . 
+1184	Stand them down . 	Απόσυρέ τους . 
+1185	- Echo team , hold fire . 	Ομάδα Εchο , μην πυροβολείτε . 
+1186	- Stand down . 	Αποχωρήστε . 
+1187	Finish it . 	Δώσε τέλος . 
+1188	Finish it . 	Δώσε τέλος . 
+1189	Out of bullets . 	Έμεινα από σφαίρες . 
+1190	And besides ... 	ʼλλωστε ... ... έχω κάτι καλύτερο να κάνω . 
+1191	I' ve got something better to do . 	ʼλλωστε ... ... έχω κάτι καλύτερο να κάνω . 
+1192	Under the Special Measures Act of 2001 , 	Σύμφωνα με την πράξη ειδικών μέτρων του 2001 ... ... σε συλλαμβάνω στο όνομα της κυβέρνησης της Αυτής Μεγαλειότητας . 
+1193	I am detaining you on behalf of Her Majesty 's Government . 	Σύμφωνα με την πράξη ειδικών μέτρων του 2001 ... ... σε συλλαμβάνω στο όνομα της κυβέρνησης της Αυτής Μεγαλειότητας . 
+1194	Bond ? 	Μποντ ; 
+1195	- What are you doing here ? 	- Τι γυρεύεις εδώ ; - Καλημέρα , Q . 
+1196	- Good morning , Q . 	
+1197	- I thought you 'd gone . 	- Νόμιζα πως είχες φύγει . 
+1198	- I have . 	- Έφυγα . 
+1199	There 's just one thing I need . 	Αλλά χρειάζομαι κάτι ακόμα . 

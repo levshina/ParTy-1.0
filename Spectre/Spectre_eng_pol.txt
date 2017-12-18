@@ -1,0 +1,1199 @@
+1	Where are you going ? 	Dokąd idziesz ? 
+2	I won 't be long . 	Zaraz wracam . 
+3	Welcome , Signor Soiarra . 	Witam , signor Sciarra . 
+4	I trust you had a pleasant journey . 	Podróż minęła przyjemnie ? 
+5	Do you have it ? 	Masz to ? 
+6	Yes . 	Masz to ? 
+7	It 's over there . 	Tak . Tutaj . 
+8	When do we blow the stadium ? 	Kiedy wysadzamy stadion ? 
+9	This evening at six . 	Dziś o 18 . 00 . 
+10	And the flight out of here ? 	A co z wylotem ? 
+11	All arranged . 	Wszystko załatwione . 
+12	And then what ? 	Co dalej ? 
+13	Then I visit The Pale King . 	Złożę wizytę Blademu Królowi . 
+14	A toast , my friend . 	Toast , przyjacielu . 
+15	To Death ! 	Za śmierć . 
+16	Bottoms up . 	Do dna . 
+17	Meet me in the square ! 	Spotykamy się na placu ! 
+18	Start anywhere you like . 	ZNISZCZENIE Wyjaśniaj . 
+19	Take your time , 007 , but in five minutes the head of the Joint Security Service is going to walk through that door , and I' ve got to explain to him how one of our agents decided to potter off to Mexico , all on his own , and cause an international incident . 	Za 5 minut szef połączonych służb specjalnych spyta mnie , czemu jeden z naszych agentów bryknął do Meksyku , by wywołać międzynarodowy skandal . 
+20	With all due respect , sir , it could 've been worse . 	Mogło być o wiele gorzej . 
+21	Worse ? 	Mogło być o wiele gorzej . 
+22	You blew up half a bloody block . 	Tak ? Wysadziłeś pół kwartału . 
+23	Well , better half a block than a whole stadium full of people . 	Lepsze to niż pełny stadion . 
+24	You had no authority . 	Nie miałeś uprawnień . 
+25	None . 	Żadnych . 
+26	As you know , we 're in the middle of the biggest shakeup in the history of British intelligence . 	Trwa największe przetasowanie w dziejach wywiadu . 
+27	The ink 's barely dry on this merger with MI5 and already they 're itching for a chance to scrap the double- 0 program forever . 	Ledwo zaczęli fuzję z MI5 , a już szukają okazji , żeby skasować program 00 . 
+28	And you 've just given them one . 	Dałeś im ją . 
+29	You 're right , sir . 	Rzeczywiście . 
+30	You have got a tricky day ahead . 	Czeka pana trudny dzień . 
+31	This is an official question . 	Pytanie służbowe . 
+32	Mexico City . 	Stolica Meksyku . 
+33	What were you doing there ? 	Co tam robiłeś ? 
+34	It was just a coincidence . 	Zbieg okoliczności . 
+35	I was taking some overdue holiday . 	Wykorzystywałem zaległy urlop . 
+36	Okay . 	Dobrze . 
+37	Fine . 	W porządku . 
+38	As of this morning , you are officially grounded . 	Od dziś jesteś oficjalnie uziemiony . 
+39	I 'm standing you down from all operations indefinitely . 	Odsuwam cię od wszelkich operacji . 
+40	Very good , sir . 	Doskonale . 
+41	007 ? 	007 ? 
+42	Sir ? 	Słucham ? 
+43	I don 't know what you 're playing at , but whatever it is , it has to stop . 	Nie wiem , jaką prowadzisz grę , ale masz ją zakończyć . 
+44	Now . 	Już . 
+45	- So sorry . 	- Przeszkadzam ? 
+46	Am I interrupting ? 	- Przeszkadzam ? 
+47	- Not remotely . 	- Ani trochę . 
+48	007 , I 'd like you to meet Max Denbigh , head of the Joint Security Service . 	007 , Max Denbigh , szef połączonych służb . 
+49	It 's a pleasure to finally meet you , 007 . 	Miło mi . Sporo o tobie słyszałem . 
+50	I' ve heard a lot about you . 	W większości pochwały . 
+51	Most of it good . 	W większości pochwały . 
+52	- Congratulations on your new appointment . 	- Gratuluję nowej funkcji . 
+53	- Thank you . 	- Dziękuję . 
+54	- I suppose we should call you C now . 	- Będziemy ci mówić " C " . 
+55	- No , no . 	- Będziemy ci mówić " C " . 
+56	" Max , " please . 	- Nie , nie . 
+57	No , I think I' ll call you C ... 	Nie , będę ci mówił C . C . 
+58	C . 	
+59	As you wish . 	Jak sobie życzysz . 
+60	Well , my door is always open , 007 , for my employees . 	Moje drzwi są zawsze otwarte dla podwładnych . 
+61	This merger 's gonna be a whole new chapter for us . 	Ta fuzja otwiera nowy rozdział . 
+62	We 're going to bring British intelligence out of the Dark Ages ... into the light . 	Wywiad wyjdzie z mroków średniowiecza ... ku światłu . 
+63	That all sounds lovely . 	Brzmi uroczo . 
+64	That 'll be all , 007 . 	Brzmi uroczo . 
+65	Report to Q tomorrow for medical , thank you . 	To wszystko , 007 . Zgłoś się jutro do Q na badanie . 
+66	Very good , sir . 	Dobrze . 
+67	- James ? 	James ? 
+68	- Moneypenny . 	Moneypenny . 
+69	- So ? 	Więc ... jak spotkanie ? 
+70	How was the meeting ? 	Więc ... jak spotkanie ? 
+71	- Very good , thank you . 	Dobrze , dziękuję . 
+72	- Here . 	Wreszcie wyszło z laboratorium . 
+73	Forensics finally released this . 	Wreszcie wyszło z laboratorium . 
+74	- What is it ? 	Wreszcie wyszło z laboratorium . 
+75	It 's personal effects they recovered from Skyfall . 	- Co to ? - Rzeczy osobiste ze Skyfall . 
+76	- Perfect . 	Podrzucisz mi to . 
+77	You can bring it to me later . 	Podrzucisz mi to . 
+78	- What do you mean ? 	Podrzucisz mi to . 
+79	My place , 9 : 00 . 	- Jak to ? - Do mnie . O dziewiątej . 
+80	- Evening . 	Dobry wieczór . 
+81	- Come in . 	Wejdź . 
+82	- Have you just moved in ? 	- Dopiero co się wprowadziłeś ? 
+83	- No . 	- Dopiero co się wprowadziłeś ? 
+84	Well , I like what you 've done with the place . 	- Nie . Przytulne gniazdko . 
+85	Your delivery . 	Przesyłka . 
+86	Thank you . 	Dziękuję . 
+87	- Would you like a drink ? 	Może drinka ? 
+88	- No , thanks . 	- Dzięki . 
+89	I 'm not staying . 	- Dzięki . 
+90	That 's a shame . 	Uciekam . - Szkoda . 
+91	What 's going on , James ? 	Co się dzieje , James ? 
+92	There 's not one person at MI6 who isn 't talking about it . 	Całe MI6 o tym mówi . 
+93	Talking about what , exactly ? 	Mówi o tym , czyli konkretnie ... ? 
+94	That what you did in Mexico was one step too far . 	Że posunąłeś się w Meksyku o krok za daleko . 
+95	- That you 're finished . 	I że to twój koniec . 
+96	- And what do you think ? 	A co ty myślisz ? 
+97	I think you 're just getting started . 	Myślę , że się dopiero rozkręcasz . 
+98	I don 't know what you mean . 	Nie rozumiem . 
+99	All right . 	No dobrze . 
+100	I think you 've got a secret . 	Myślę , że masz jakąś tajemnicę . 
+101	And it 's something you won 't tell anyone . 	Coś , o czym nikomu nie mówisz . 
+102	Because you don 't trust anyone . 	Bo nikomu nie ufasz . 
+103	If anything happens to me , 007 , I need you to do something . 	Jeśli coś się ze mną stanie , 007 , mam prośbę . 
+104	Find a man called Marco Sciarra . 	Odszukaj niejakiego Marco Sciarrę . 
+105	Kill him . 	Zabij go . 
+106	And don 't miss the funeral . 	I zjaw się na pogrzebie . 
+107	Jesus . 	Jezu ... 
+108	- Where did you get it ? 	- Skąd to masz ? 
+109	- In my mailbox just after she died . 	- Było w skrzynce , tuż po jej śmierci . 
+110	Well , she was never short of surprises . 	Zawsze lubiła zaskakiwać . 
+111	She wasn 't gonna let death get in the way of her job . 	Nawet śmierć nie przeszkodziła jej w pracy . 
+112	I' ve been tracking Sciarra ever since . 	Od tamtej pory tropię Sciarrę . 
+113	- And what have you found ? 	Co znalazłeś ? 
+114	- Nothing significant yet . 	Nic znaczącego . 
+115	When 's the funeral ? 	Kiedy pogrzeb ? 
+116	Three days . 	Za 3 dni . 
+117	In Rome . 	W Rzymie . 
+118	If you think M 's signing off on that , you 're insane . 	Jeśli myślisz , że M da zgodę , to oszalałeś . 
+119	- He won 't let you out of his sight . 	- Nie spuści cię z oka . 
+120	- Yes , it 's a bit of a problem . 	- Tak , to lekki problem . 
+121	Listen ... could you do a little quiet digging for me ? 	Słuchaj ... Mogłabyś trochę dla mnie poszperać ? 
+122	I heard a name in Mexico . 	W Meksyku słyszałem ksywkę " Blady Król " . 
+123	" The Pale King . " 	W Meksyku słyszałem ksywkę " Blady Król " . 
+124	You want me to be your mole . 	Mam być twoim kretem ? 
+125	Yes . 	Tak . 
+126	And what makes you think you can trust me ? 	A skąd myśl , że można mi zaufać ? 
+127	Instinct . 	Instynkt . 
+128	Poor old girl . 	Biedaczysko . 
+129	Rigged for demolition in a week . 	Za tydzień idzie do rozbiórki . 
+130	Cheaper to knock her down than to rebuild . 	Taniej zburzyć niż odbudować . 
+131	Still . 	A jednak ... 
+132	Time waits for no man and all that . 	Czas na nikogo się nie ogląda i takie tam . 
+133	Anyway , all the money 's been spent on this ... the New Centre for National Security . 	Tak czy siak , pieniądze poszły na to : Nowe Centrum Bezpieczeństwa Narodowego . 
+134	So that 's C´s new digs . 	Nowa siedziba naszego C ? 
+135	You 've met him , have you ? 	Poznałeś go ? 
+136	- Yesterday . 	Wczoraj . 
+137	What do we know about him ? 	Co o nim wiemy ? 
+138	- Classic Whitehall mandarin . 	Typowy mandaryn z Whitehall . 
+139	Wrote a dossier last year on how the double- 0 program was obsolete , how drones could do all our dirty work abroad . 	Rok temu napisał , że program 00 to przeżytek . Że brudną robotę za granicą zrobią za nas drony . 
+140	- Went to school with the Home Secretary . 	- Studiował z szefem MSW . 
+141	- Of course , he did . 	- Jakże by inaczej . 
+142	This merger 's just the start of it . 	Fuzja to dopiero początek . 
+143	In three days , there 's a security conference in Tokyo to decide the New World Order . 	Za 3 dni konferencja w Tokio zatwierdzi nowy porządek świata . 
+144	If C gets his way , he 'll have unlimited access to the combined the intelligence streams of nine countries . 	Jeśli C dopnie swego , będzie miał dostęp do danych wywiadu 9 państw . 
+145	Including us . 	- W tym i naszych . 
+146	Quite . 	- Właśnie . 
+147	Well , a lot 's happened while you were away . 	Sporo się pod twoją nieobecność działo . 
+148	A train bombing in Hamburg and an industrial explosion in Tunisia . 	Bomba w pociągu w Hamburgu , wybuch w zakładzie w Tunezji . 
+149	It 's not great timing for us . 	Kiepsko dla nas . 
+150	It 's all rather playing into C 's hands . 	Woda na młyn naszego C . 
+151	M , well , let 's say he 's feeling the pressure . 	A M ... powiedzmy , że żyje w wielkim stresie . 
+152	Yeah , I' ve noticed . 	Zauważyłem . 
+153	Now , this way , 007 . 	Tędy , 007 . 
+154	Be careful . 	Uważaj , troszkę tu ślisko . 
+155	It 's a trifle slippery . 	Uważaj , troszkę tu ślisko . 
+156	Q wasn 't exactly feeling at home in Whitehall , what with the new merger , so he set up shop here , away from prying eyes , as it were . 	Q nie czuł się swobodnie w Whitehall po fuzji , więc urządził się tutaj . Z dala od wścibskich oczu . 
+157	I hear he 's got something rather special planned for you . 	Podobno ma dla ciebie coś wyjątkowego . 
+158	I can hardly wait . 	Nie mogę się doczekać . 
+159	007 . 	A , 007 . - Q . 
+160	- Q . 	
+161	- Please excuse the mess . 	- Wybacz bałagan . 
+162	Everything 's a little bit up in the air , what with the changes and all . 	Po zmianach wszystko jest w zawieszeniu . 
+163	Couple of things to get through . 	Kilka procedur . 
+164	Shall we get started ? 	Możemy zacząć ? 
+165	Just relax . 	Odpręż się . 
+166	That 's it . 	Tak , ślicznie . 
+167	Lovely . 	Tak , ślicznie . 
+168	Now , you may feel a small ... 	Możesz poczuć lekkie ... 
+169	- Christ ! - ... prick . 	Chryste ! ... ukłucie . 
+170	- What is it ? 	- Co to ? 
+171	- Cutting- edge nanotechnology . 	- Przełom w nanotechnologii . 
+172	Smart Blood . 	Smart Blood . 
+173	Microchips in your bloodstream . 	Mikroprocesory w krwioobiegu . 
+174	Allows us to track your movements in the field . 	Możemy śledzić twoje ruchy w terenie . 
+175	You see those readouts ? 	Widzisz odczyty ? 
+176	We can monitor your vital signs from anywhere on the planet . 	Monitorujemy parametry życiowe w dowolnym miejscu globu . 
+177	Well , that sounds marvelous . 	Brzmi wspaniale . 
+178	Call it a post- Mexico insurance policy . 	Pomeksykańska polisa ubezpieczeniowa . 
+179	By direct order of M . 	Rozkaz M . 
+180	I completely understand . 	Doskonale rozumiem . 
+181	Good . 	Świetnie . 
+182	Right . 	No to jeszcze ... 
+183	Well , I' ve just ... got one last thing for you and you can be on your way . 	Ostatnia sprawa i jesteś wolny . 
+184	Magnificent , isn 't she ? 	Wspaniały , co ? 
+185	Zero to 60 in three point two seconds . 	Od zera do setki w 3, 2 sekundy . 
+186	Fully bulletproof . 	Pełna kuloodporność , kilka ukrytych funkcji . 
+187	A few little tricks up her sleeve . 	Pełna kuloodporność , kilka ukrytych funkcji . 
+188	It 's a shame , really . 	Szkoda . 
+189	She was meant for you , but she 's been reassigned to 009 . 	Miał być dla ciebie , ale przydzielono go 009 . 
+190	But you can have this . 	Dla ciebie mam to . 
+191	- Does it do anything ? 	Ma jakieś funkcje ? 
+192	- It tells the time . 	Pokazuje czas . 
+193	- Might help with your punctuality issues . 	Bywasz na bakier z punktualnością . 
+194	- M 's idea ? 	- Pomysł M ? 
+195	Precisely . 	- Zgadłeś . 
+196	Oh , one word of warning . 	Maleńka przestroga . 
+197	The alarm is rather loud . 	Budzik jest nieco głośny . 
+198	- If you know what I mean . 	- Jeśli wiesz , co mam na myśli . 
+199	- I think I do . 	- Chyba wiem . 
+200	Oh , yes . 	A , tak . 
+201	That old thing is taking quite a bit of time . 	Staruszek wymagał sporo czasu . 
+202	Mind you , there wasn 't much left to work on . 	Niewiele z niego zostało . 
+203	Only a steering wheel . 	Tylko kierownica . 
+204	I believe I said , " Bring it back in one piece , " not , " Bring back one piece . " 	Miałeś go zwrócić w jednym kawałku , a nie zwrócić jeden kawałek . 
+205	Anyway , enjoy your downtime , 007 . 	Tak czy siak , miłego leniuchowania , 007 . 
+206	- Q ? 	- Q ? 
+207	- Yes ? 	- Tak ? 
+208	Well , now you know exactly where I am all of the time . 	Skoro już dokładnie wiesz , gdzie w danej chwili jestem , zrobisz coś dla mnie ? 
+209	- Will you do something for me ? 	Skoro już dokładnie wiesz , gdzie w danej chwili jestem , zrobisz coś dla mnie ? 
+210	- What do you have in mind , exactly ? 	- Co konkretnie masz na myśli ? 
+211	Make me disappear . 	- Spraw , żebym zniknął . 
+212	May I remind you that I answer directly to M . 	Przypominam , że odpowiadam bezpośrednio przed M . 
+213	I also have a mortgage . 	Spłacam też kredyt . 
+214	And two cats to feed . 	I mam dwa koty . 
+215	Well , then I suggest you trust me ... for the sake of the cats . 	Więc proponuję , żebyś mi zaufał . Dla dobra kotów . 
+216	Well , it 's lovely to see you , 007 . 	Miło cię znów widzieć , 007 . 
+217	Lovely . 	Miło . 
+218	Now , I meant to tell you , the Smart Blood program is obviously still in its developmental phase . 	Dodam , że program Smart Blood jest wciąż w fazie eksperymentalnej . 
+219	So we may experience the odd drop in coverage during the first 24 hours ... 	Więc możemy się spodziewać luk w przekazie w pierwszych 24 godzinach ... 
+220	48 hours after administration , but after that it should work perfectly . 	48 godzinach od wprowadzenia , ale potem powinien działać bez zarzutu . 
+221	- I' ll send you a postcard . 	Przyślę ci kartkę . 
+222	- Please , don 't . 	Proszę , nie . 
+223	- Morning . 	Dzień dobry . 
+224	What 's that ? 	Dzień dobry . 
+225	- Oh , it 's just something from an admirer . 	- Co to ? - Prezent od wielbiciela . 
+226	- It 's not your birthday , is it ? 	- Masz urodziny ? 
+227	- No , sir . 	- Nie . 
+228	That was last week . 	Miałam tydzień temu . 
+229	Morning . 	Dzień dobry . 
+230	009 has arrived to pick up the DB10 , sir . 	009 przyjechał po DB10 . 
+231	He 's waiting upstairs . 	Czeka na górze . 
+232	Oh , good . 	Świetnie . 
+233	Yes , fine . 	Dobrze . 
+234	Oh , shit . 	O , szlag . 
+235	I 'm sorry for your loss . 	- Wyrazy współczucia z powodu straty . 
+236	- You knew my husband ? 	- Znał pan mojego męża ? 
+237	- All too briefly . 	Nazbyt krótko . 
+238	- What do you do ? 	- Czym się pan zajmuje ? 
+239	- Life insurance . 	- Ubezpieczam na życie . 
+240	A little late for that . 	Trochę na to za późno . 
+241	For your husband , yes . 	Dla pani męża , tak . 
+242	But what about you ? 	Ale pani ? 
+243	Me ? 	Ja ? 
+244	I hear the life expectancy of some widows can be very short . 	Podobno średnia długość życia pewnych wdów bywa bardzo krótka . 
+245	How can you talk like this ? 	Jak pan może tak mówić ? 
+246	Can 't you see I 'm grieving ? 	Nie widzi pan , że opłakuję męża ? 
+247	No . 	Nie . 
+248	What a lovely view . 	Jaki piękny widok . 
+249	You 're wasting your time . 	Traci pan tylko czas . 
+250	There are 100 more that will come after me . 	Zjawi się setka kolejnych , żeby mnie zgładzić . 
+251	All you buy me is five minutes . 	Kupuje mi pan tylko ... pięć minut . 
+252	Excellent . 	Doskonale . 
+253	Time for a drink . 	W sam raz na drinka . 
+254	You killed him ... didn 't you ? 	Zabiłeś go ... prawda ? 
+255	My husband . 	Mojego męża . 
+256	He was an assassin . 	Był mordercą . 
+257	Trust me , he won 't take it personally . 	Wierz mi , nie obrazi się za to . 
+258	You signed my death warrant . 	Podpisałeś mój wyrok śmierci . 
+259	I was respected . 	Szanowali mnie . 
+260	- Loyal to a man you hated . 	Wierna znienawidzonemu . 
+261	- He trusted my silence . 	Liczył na moje milczenie . 
+262	With him gone , I 'm a dead woman . 	Bez niego jestem martwa . 
+263	- I can trust nobody . 	- Nikomu nie ufam . 
+264	- I know the feeling well . 	- Nikomu nie ufam . 
+265	Well , I can tell you that I don 't trust you . 	- Znam to . Tobie na pewno nie . 
+266	Well , then you have impeccable instincts . 	Masz niezawodny instynkt . 
+267	If you don 't leave now , we 'll die together . 	Wyjdź , inaczej zginiemy razem . 
+268	I can think of worse ways to go . 	Bywają gorsze scenariusze . 
+269	Then you 're obviously crazy , Mister ... 	Więc najwidoczniej jesteś szaleńcem , panie ... ? 
+270	Bond . 	Bond . 
+271	James Bond . 	James Bond . 
+272	These people ... if you just knew what they could do . 	Ci ludzie ... Gdybyś wiedział , na co ich stać . 
+273	The power they have . 	Jaką mają władzę ... 
+274	Did your husband ever mention " The Pale King ? " 	Czy mąż wspominał ci o " Bladym Królu " ? 
+275	No . 	Nie . 
+276	The organization ... they hardly ever meet . 	Organizacja ... Prawie nigdy się nie spotykają . 
+277	But because of what happened to my husband , 	Ale po tym , co spotkało mojego męża , skrzykną się dzisiaj . 
+278	- they meet tonight . 	Ale po tym , co spotkało mojego męża , skrzykną się dzisiaj . 
+279	- Why ? 	Po co ? 
+280	To choose a replacement . 	Żeby wyznaczyć następcę . 
+281	Where ? 	Gdzie ? 
+282	The Palazzo Cardenza . 	W Palazzo Cardenza . 
+283	- Midnight . 	- O północy . 
+284	- Sounds like fun . 	- Ciekawe . 
+285	I might drop by . 	Może wpadnę . 
+286	He was obsessed . 	Miał obsesję . 
+287	He spent more time with them than with me . 	Spędzał więcej czasu z nimi niż ze mną . 
+288	Then the man was a fool . 	W takim razie był durniem . 
+289	Leaving your number ? 	Zostawiasz swój numer ? 
+290	I' ve called an American friend of mine . 	Dzwoniłem do amerykańskiego znajomego , Feliksa . 
+291	Felix . 	Dzwoniłem do amerykańskiego znajomego , Feliksa . 
+292	He 'll contact his embassy and get you out of here . 	Skontaktuje się z ambasadą USA i wywiezie cię w bezpieczne miejsce . 
+293	You 'll be safe . 	Skontaktuje się z ambasadą USA i wywiezie cię w bezpieczne miejsce . 
+294	Don 't go , James . 	Daj sobie spokój . 
+295	If you go there , you 're crossing over to a place where there is no mercy . 	Jeśli tam pójdziesz , trafisz w miejsce , w którym nie ma litości . 
+296	I have to go . 	Muszę . 
+297	Bona fortuna , Dona Lucia . 	Buona fortuna , Donna Lucia . 
+298	Identify yourself , asshole . 	Przedstaw się , dupku . 
+299	Who are you ? 	Ktoś ty ? 
+300	I 'm Mickey Mouse . 	Myszka Miki . 
+301	Who are you ? 	A ty to kto ? 
+302	Pharmacy sites has provided an excellent new sales platform . 	... strony aptek internetowych to świetna platforma handlowa . 
+303	We have adapted many of them into clearinghouses for unapproved drugs . 	Przekształciliśmy wiele z nich w pralnię niezalegalizowanych leków . 
+304	In addition to which , the latest figures show that we presently control 70 % of antimalarial vaccines , 34 % of H . I . V . , and 40 % of all oncological drugs across Sub- Saharan Africa . 	A na dodatek z zestawień wynika , że kontrolujemy obecnie 70 % rynku szczepionek antymalarycznych , 34 % rynku leków do walki z HIV oraz 40 % rynku leków onkologicznych w Afryce subsaharyjskiej . 
+305	But we face challenges from the WHO in their campaign against our counterfeit pharmaceuticals . 	Ale WHO rzuca nam wyzwanie , prowadząc kampanię przeciwko naszym " fałszowanym " farmaceutykom . 
+306	We have now identified the key individuals to target . 	Mamy już na celowniku kluczowe postacie . 
+307	We expect the same success as we had against the Council on Human Trafficking . 	Spodziewamy się podobnego sukcesu , jak z radą ds . handlu żywym towarem . 
+308	Since the board 's resignation ... we have placed 160, 000 migrated females into the leisure sector . 	Vous en prie . Po rozwiązaniu rady umieściliśmy 160 000 imigrantek w branży rozrywkowej . 
+309	The impending completion of the Global Surveillance initiative ... will mean our capability is second to none ... and now is the moment for aggressive expansion . 	Bliska finalizacji inicjatywa globalnego nadzoru będzie oznaczała redukcję naszych możliwości do zera . Nadszedł więc czas na agresywną ekspansję . 
+310	The news is only good ... 	Pozytywna wiadomość ... 
+311	Don 't let me interrupt you . 	Nie przeszkadzajcie sobie . 
+312	The news is only good ... 	To pozytywna wiadomość . 
+313	Our increased surveillance capability ... means government intelligence agencies ... are easily counteracted . 	Zwiększony nadzór elektroniczny z naszej strony oznacza łatwość przeciwdziałania zapędom agencji rządowych . 
+314	We are winning . 	Jesteśmy górą . 
+315	Thank you , Doctor . 	Dziękuję . 
+316	Now , on to the matter at hand . 	A teraz zagadnienie dnia . 
+317	After the success of our attacks in Hamburg and Tunisia , the aborted attack in Mexico City and the death of our valued colleague , Marco Sciarra , 	Po sukcesie naszych zamachów w Hamburgu i Tunezji , ponieśliśmy fiasko w Meksyku i straciliśmy cenionego kolegę Marco Sciarrę , więc jedno z jego zadań jest niewykonane . 
+318	leaves one of his duties outstanding . 	Po sukcesie naszych zamachów w Hamburgu i Tunezji , ponieśliśmy fiasko w Meksyku i straciliśmy cenionego kolegę Marco Sciarrę , więc jedno z jego zadań jest niewykonane . 
+319	Signor Guerra , The Pale King must be terminated . 	Signor Guerra , " Blady Król " musi być zlikwidowany . 
+320	Will you make the journey to Altaussee ? 	Uda się pan do Altaussee ? 
+321	Of course . 	Oczywiście . 
+322	My loyalty to this organization is total . 	Jestem wam bezwzględnie lojalny . 
+323	I will protect it with my last breath . 	Będę chronił organizację do ostatniego tchu . 
+324	There will be no more ... amateurs . 	Nie będzie już więcej ... amatorszczyzny . 
+325	No more shows of weakness . 	Koniec z obnażaniem naszych słabości . 
+326	Does anyone challenge Signor Guerra for this position ? 	Czy ktoś chciałby zgłosić kontrkandydaturę ? 
+327	Welcome . 	Witamy . 
+328	State your credentials for succeeding Signor Sciarra . 	Jakie ma pan kwalifikacje na następcę pana Sciarry ? 
+329	It 's funny . 	Zabawne . 
+330	All that excitement in Mexico City rang a distant bell . 	Całe to zamieszanie w Mexico City coś mi przypominało . 
+331	And now ... suddenly , this evening , it makes perfect sense . 	I nagle ... tej nocy wszystko składa się w logiczną całość . 
+332	Welcome , James . 	Witaj , James . 
+333	It 's been a long time . 	Kopę lat . 
+334	But , finally , here we are . 	Ale wreszcie się spotykamy . 
+335	What took you so long ? 	Czemu to tyle trwało ? 
+336	Cuckoo . 	Kuku . 
+337	Ciao , Mickey Mouse . 	Ciao , Myszko Miki . 
+338	Oh , you 've got to be kidding me . 	To jakieś kpiny . 
+339	No . 	MUZYKA DLA 009 
+340	Moneypenny . 	Moneypenny . 
+341	- Bond ? 	
+342	- Listen , Moneypenny . 	Słuchaj . 
+343	Hamburg , Tunisia , Mexico City , they 're all linked . 	Hamburg , Tunezja i Meksyk są ze sobą powiązane . 
+344	It 's one organization coordinating multiple attacks . 	Zamachy koordynuje jedna organizacja . 
+345	- So , she was right . 	- Miała rację . 
+346	- Of course , she was . 	- Oczywiście . 
+347	- I ran that check . 	- Sprawdziłam . 
+348	- Who is it ? 	- Kto dzwoni ? 
+349	Oh , my boss had his credit card stolen . 	Szefowi ukradli karty kredytowe . 
+350	It 's nothing . 	Nic takiego . 
+351	- Why don 't you go back to sleep . 	Śpij dalej . 
+352	- Don 't be long . 	Skończ szybko . 
+353	- Who was that ? 	- Kto to ? 
+354	- No one . 	- Kto to ? 
+355	- No , it wasn 't . 	- Nikt . 
+356	- It 's just a friend . 	- Nieprawda . - Znajomy . 
+357	At this time of night ? 	W środku nocy ? 
+358	It 's called life , James . 	Tak zwane życie , James . 
+359	You should try it sometime . 	Spróbuj czasem . 
+360	The Pale King . 	Blady Król . 
+361	It looks like you 've had dealings with him before . 	Już miałeś z nim do czynienia . 
+362	Quantum . 	- Quantum . 
+363	- Of course . 	- Quantum . 
+364	Mr . 	- No tak , 
+365	White ! 	- pan White ! 
+366	- That 's him . 	- pan White ! 
+367	Last unconfirmed sighting , Altaussee in Austria , four months ago . 	Ostatnio , wg niepotwiedzonych danych , widziany w Altaussee , 4 miesiące temu . 
+368	Hold that thought . 	Jedną chwilę . 
+369	- You still there ? 	- Jesteś tam ? 
+370	- Yeah . 	- Jesteś tam ? 
+371	- Run another name , will you ? 	- Tak . Sprawdź inne nazwisko . 
+372	- Okay . 	Dobra . 
+373	Go . 	Mów . 
+374	A man called Franz Oberhauser . 	Niejaki Franz Oberhauser . 
+375	He 's ... 	Był ... 
+376	And check his files before and after his death . 	Sprawdź dane sprzed i po śmierci . 
+377	After his death ? 	Sprawdź dane sprzed i po śmierci . 
+378	What are you talking about ? 	Po śmierci ? 
+379	Please , just do it . 	Co to znaczy ? Zrób to , proszę . 
+380	Okay , Q , give me something . 	Dobra , Q , daj mi coś . ODRZUT 
+381	That 's more like it . 	I to rozumiem . 
+382	Here goes nothing . 	Ryzyk fizyk . 
+383	Good evening . 	Dobry wieczór . 
+384	Do not let them tell you we need less surveillance . 	Nie dajcie sobie wmówić , że trzeba zmniejszyć nadzór . 
+385	We need more . 	Wręcz przeciwnie . 
+386	Much more . 	Tokio 
+387	I say again , the Nine Eyes committee would have full access to the combined intelligence streams of all member states . 	Komisja Dziewięciorga Oczu miałaby pełny dostęp do danych wywiadu wszystkich krajów członkowskich . 
+388	More data , more analysis , 	Więcej danych , więcej analiz , mniejsze prawdopodobieństwo zamachu terrorystycznego . 
+389	less likelihood of a terrorist attack . 	Więcej danych , więcej analiz , mniejsze prawdopodobieństwo zamachu terrorystycznego . 
+390	Ladies and gentlemen , it 's time for the security services of the world to unite . 	Pani i panowie , czas zjednoczyć służby specjalne świata . 
+391	Alone , we are weak . 	PILNE Sami jesteśmy słabi . 
+392	Together , we 're a global power . 	Pościg zakończony chlupotem . Razem będziemy mocarstwem . 
+393	An unelected one . 	Samozwańczym . 
+394	Thank you . 	Dziękuję państwu . 
+395	Thank you . 	Dziękuję . 
+396	We will now vote on the resolution . 	A teraz przeprowadzimy głosowanie . 
+397	Ladies and gentlemen , please cast your vote . 	Panie i panowie , proszę o głos . 
+398	The vote is eight to one in favor . 	Osiem głosów za , jeden przeciw . 
+399	However , as you know , we cannot proceed unless by unanimous vote . 	Jednakże nie zatwierdzimy wniosku bez pełnej jednomyślności . 
+400	The Nine Eyes motion is therefore not passed . 	Wniosek o wdrożenie Dziewięciorga Oczu upadł . 
+401	Democracy . 	Demokracja . 
+402	Thank you , ladies and gentlemen . 	Dziękuję państwu . 
+403	This evening 's session is adjourned . 	Zamykam obrady . 
+404	- Yes , sir . 	Słucham . 
+405	- Please , tell me 007 is in London . 	Powiedz mi , że 007 jest w Londynie . 
+406	Oh , yes . 	O ... tak . 
+407	I' ll just take a look now , sir . 	Zerknę do komputera . 
+408	Because if he isn 't , you 're in deep shit . 	Bo jeśli nie , to masz przesrane . 
+409	You 've got precisely 10 seconds . 	Masz 10 sekund . 
+410	I have him , sir . 	Widzę go . 
+411	He appears to be in Chelsea . 	Jest teraz w Chelsea . 
+412	Well , I want eyes on him when I get back , understood ? 	Chcę mieć podgląd po powrocie , jasne ? 
+413	I completely understand ... sir . 	Jak słońce ... szefie . 
+414	Do me a favor . 	Proszę to szybko załatwić . 
+415	Make it quick . 	Proszę to szybko załatwić . 
+416	Upstairs , Mr . 	Na górę , panie White . 
+417	White . 	Na górę , panie White . 
+418	I always knew death would wear a familiar face , but not yours . 	Czułem , że śmierć będzie miała znajomą twarz , ale nie pańską . 
+419	To what do I owe this pleasure , Mr . 	Czemu zawdzięczam tę przyjemność , panie Bond ? 
+420	Bond ? 	Czemu zawdzięczam tę przyjemność , panie Bond ? 
+421	I was at a meeting recently and your name came up . 	Byłem niedawno na naradzie i padło pańskie nazwisko . 
+422	I 'm flattered London is still talking about me . 	Miło , że Londyn wciąż o mnie mówi . 
+423	It wasn 't MI6 . 	To nie było MI6 . 
+424	It was Rome . 	Spotkali się w Rzymie . 
+425	Your team , not mine . 	Pańska ekipa , nie moja . 
+426	Last month , I found thallium in my cell phone . 	Miesiąc temu znalazłem w telefonie tal . 
+427	It 's done its job . 	Zrobił swoje . 
+428	I have a few weeks . 	Zostało mi kilka tygodni . 
+429	Maybe less . 	Może mniej . 
+430	So , here we are , Mr . 	I tak to wygląda , panie Bond ... dwóch umrzyków spędza miły wieczór . 
+431	Bond , two dead men enjoying the evening . 	I tak to wygląda , panie Bond ... dwóch umrzyków spędza miły wieczór . 
+432	- What did you do ? 	Co pan zrobił ? 
+433	- I disobeyed him . 	Nie posłuchałem rozkazu . 
+434	I followed him as far as I could . 	Szedłem za nim tak daleko jak się dało . 
+435	He ... 	Ale ... zmienił się . 
+436	- changed . 	Ale ... zmienił się . 
+437	- Oh , I see . 	Rozumiem . 
+438	You grew a conscience . 	Wyrosło panu sumienie . 
+439	Our game is our game . 	Nasza gra jest jaka jest . 
+440	But this ? 	Nasza gra jest jaka jest . 
+441	Women , children ... 	Ale to ? Kobiety , dzieci ... 
+442	Well , the thallium would suggest that he doesn 't like you very much anymore . 	Tal wskazywałby na to , że przestał pana lubić . 
+443	And clearly the feeling is mutual . 	Z wzajemnością . 
+444	So why don 't you tell me how to find him again ? 	Jak go mogę znów znaleźć ? 
+445	Oh , come on . 	No co pan ... 
+446	- Tell me where he is . 	- Gdzie teraz jest ? 
+447	- He 's everywhere . 	- Wszędzie . 
+448	Everywhere ! 	Wszędzie ! 
+449	He 's sitting at your desk , he 's kissing your lover , he 's eating supper with your family ! 	Za pańskim biurkiem , z pańską kochanką , z pańską rodziną przy stole ! 
+450	You 're protecting someone . 	Pan kogoś osłania . 
+451	Your wife . 	Swoją żonę ? 
+452	She left long ago . 	Już dawno temu odeszła . 
+453	Your son ? 	Syna ? 
+454	Your daughter . 	Córkę . 
+455	You won 't find her . 	Nie znajdziecie jej . 
+456	She 's clever . 	Jest cwana . 
+457	She 's smarter than me . 	Cwańsza ode mnie . 
+458	She knows how to hide . 	Wie , jak się ukryć . 
+459	I can protect her if you tell me where he is . 	Mogę jej zapewnić ochronę . 
+460	- I can keep her alive . 	Utrzymać ją przy życiu . Tak . 
+461	- Yeah . 	
+462	- You have my word . 	- Ręczę słowem . 
+463	- Your word ? 	- Słowem ? 
+464	The word of an assassin ! 	Słowem zabójcy ! 
+465	That 's my word . 	Oto moje słowo . 
+466	L' Americain . 	L' Americain . 
+467	You save her , she can lead you to L' Americain . 	Niech ją pan ocali , a zaprowadzi pana do l' Americaina . 
+468	She knows L' Americain . 	Niech ją pan ocali , a zaprowadzi pana do l' Americaina . 
+469	Try the Hoffler Klinik . 	Proszę szukać w klinice Hofflera . 
+470	You 're a kite dancing in a hurricane , Mr . 	Jest pan latawcem tańczącym pośród huraganu . 
+471	Bond . 	Jest pan latawcem tańczącym pośród huraganu . 
+472	So long . 	Na razie . 
+473	I can 't deny I 'm impressed you got H . M . G . to cough up for all this . 	Jestem pod wrażeniem , namówiliście na to rząd . 
+474	Good God , the government couldn 't afford this kind of facility . 	Nie byłoby go na to stać . 
+475	No , it was benefactors mostly , from the private sector . 	Gmach powstał z prywatnych datków . 
+476	When it goes online , this building will be the most sophisticated data gathering system in history . 	Najnowocześniejszy system gromadzenia danych w dziejach . 
+477	The world 's digital ghost , available 24/ 7 . 	Globalny cyfrowy duch , czuwający non stop . 
+478	- George Orwell 's worst nightmare . 	- Koszmar Orwella ożył . 
+479	- I 'm glad you like it . 	- Miło , że się panu podoba . 
+480	My commiserations on losing the Nine Eyes vote . 	Współczuję fiaska Dziewięciorga Oczu . 
+481	Must 've been a blow . 	Współczuję fiaska Dziewięciorga Oczu . 
+482	Not really . 	To dla was cios . 
+483	Only a matter of time before the South Africans see the light . 	Nie . Trochę czasu i RPA przejrzy na oczy . 
+484	And you know what they say , Rome wasn 't built in a day . 	Nie od razu Rzym zbudowano , ale chwilkę później . 
+485	Day and a half maybe . 	Nie od razu Rzym zbudowano , ale chwilkę później . 
+486	Look , Max , I know surveillance is a fact of life . 	Max , wiem , że nadzór elektroniczny to fakt . 
+487	It 's how you use the information that concerns me , and who is using it . 	Niepokoję się , jak te dane będą wykorzystane i przez kogo . 
+488	This is what we need to do to keep the people safe . 	Musimy zadbać o bezpieczeństwo świata . 
+489	Double- 0 program is prehistoric . 	Program 00 to prehistoria . 
+490	Come on , M . 	
+491	You can 't really tell me that one man in the field can compete with all of this , running around out there with his license to kill . 	Jeden człowiek w terenie przegra z tym wszystkim , biegając ze swoją licencją na zabijanie . 
+492	Have you ever had to kill a man , Max ? 	Musiałeś kiedyś kogoś zabić ? 
+493	Have you ? 	Musiałeś ? 
+494	To pull that trigger , you have to be sure . 	By nacisnąć ten spust , trzeba mieć pewność . 
+495	Yes , you investigate , analyze , assess , target . 	Badasz , analizujesz , oceniasz , celujesz . 
+496	And then you have to look him in the eye . 	A potem musisz spojrzeć mu w oczy . 
+497	And you make the call . 	I podjąć decyzję . 
+498	And all the drones , bugs , cameras , transcripts , all the surveillance in the world can 't tell you what to do next . 	I wszystkie drony , pluskwy , kamery , zapisy , cały podgląd i nasłuch świata nie podpowiedzą ci , co robić dalej . 
+499	A license to kill ... is also a license not to kill . 	Licencja na zabijanie to także licencja na niezabijanie . 
+500	I didn 't want to have to do this , but it looks like you still can 't control your agents . 	Chciałem tego uniknąć , ale chyba wciąż nie macie kontroli nad swoimi agentami . 
+501	Bond ? 	
+502	I ran that check . 	Bond ? Sprawdziłam . 
+503	Looks like you 've had dealings with him before . 	Już miałeś z nim do czynienia . 
+504	Quantum . 	Już miałeś z nim do czynienia . 
+505	Of course . 	Quantum . 
+506	Mr . 	No tak , pan White ! 
+507	White ! 	No tak , pan White ! 
+508	Last unconfirmed sighting , Altaussee in Austria . 	Ostatnio widziany w Altaussee . 
+509	Run another name , will you ? 	Sprawdź inne nazwisko . 
+510	So maybe there 's something to be said for total surveillance after all . 	Więc może jednak nadzór nie jest taki zły . 
+511	You watch MI6 agents ? 	Śledzicie agentów MI6 ? 
+512	We watch everyone . 	Śledzimy wszystkich . 
+513	Please , take a seat . 	Proszę usiąść . 
+514	I' ll be with you in just a moment . 	Zaraz się panem zajmę . 
+515	Please excuse me , Mr . 	Proszę mi wybaczyć , panie Bond . 
+516	Bond . 	Proszę mi wybaczyć , panie Bond . 
+517	My name is Dr . 	Madeleine Swann . 
+518	Madeleine Swann . 	Madeleine Swann . 
+519	Our job today is to analyze your needs , both psychological and physical . 	Doktor . Mamy dziś określić pańskie potrzeby , tak fizyczne jak i psychologiczne . 
+520	Sounds pretty straightforward . 	Brzmi nieskomplikowanie . 
+521	I hope you don 't mind . 	Widok za oknem może rozpraszać . 
+522	The view can be distracting . 	Widok za oknem może rozpraszać . 
+523	I hadn 't noticed . 	Nie zauważyłem . 
+524	I see you filled out most of the paperwork . 	Wypełnił pan większość formularzy . 
+525	Just a few questions to complete your evaluation , if I may . 	Jeszcze tylko kilka dodatkowych pytań , jeśli można . 
+526	- Do you exercise ? 	Ćwiczy pan ? 
+527	- When I have to . 	Kiedy muszę . 
+528	Do you consider your employment to be psychologically stressful ? 	Czy praca jest dla pana obciążeniem psychicznym ? 
+529	- Sometimes . 	Czasami . 
+530	- How much alcohol do you consume ? 	Jak dużo pije pan alkoholu ? 
+531	Too much . 	Za dużo . 
+532	Some broader questions . 	I pytania ogólniejsze . 
+533	As a child , would you say you were close to your parents ? 	Miał pan bliską więź z rodzicami ? 
+534	My parents died when I was young . 	Zginęli , kiedy byłem mały . 
+535	Really ? 	Tak ? 
+536	How old ? 	Ile miał pan lat ? 
+537	- Old enough to remember . 	Dość , by to pamiętać . 
+538	- How , if I may ask ? 	- Jak zginęli ? 
+539	It was a climbing accident . 	- Wypadek na wspinaczce . 
+540	- So who brought you up ? 	- Więc kto pana wychowywał ? 
+541	- Someone else . 	- Ktoś inny . 
+542	Humor me . 	A teraz ja spytam . 
+543	How does one train at Oxford and the Sorbonne become a consultant , spend two years with Medecins Sans Frontieres ... and end up here ? 	Skończyła pani Oxford i Sorbonę , pracowała jako konsultant , spędziła 2 lata z lekarzami bez granic , i skończyła tutaj ? 
+544	Forgive me , but ... anyone might think you were hiding from something . 	Ktoś mógłby pomyśleć , że się pani przed czymś ukrywa . 
+545	You 're paying a lot of money to be here , Mr . 	Zapłacił pan dużo za wizytę . 
+546	Bond . 	Zapłacił pan dużo za wizytę . 
+547	- Who 's asking the questions , you or me ? 	Kto zadaje pytania , pan czy ja ? 
+548	- Of course . 	Oczywiście . 
+549	Carry on . 	Proszę pytać . 
+550	I see you left this final question blank . 	Na ostatnie pytanie pan nie odpowiedział . 
+551	What is your occupation ? 	Czym się pan zajmuje ? 
+552	Well , that 's not the sort of thing that looks good on a form . 	Czymś , co niezbyt dobrze wygląda w papierach . 
+553	- And why is that ? 	- Czemu ? 
+554	- I kill people . 	- Zabijam ludzi . 
+555	Small world ? 	Świat jest mały . 
+556	- Where is he ? 	Gdzie on jest ? 
+557	- Your father 's dead . 	Pani ojciec nie żyje . 
+558	- Two days ago . 	Od dwóch dni . 
+559	- How do you know ? 	- Skąd pan wie ? 
+560	- Because I was there . 	- Byłem przy tym . 
+561	- Did you kill him ? 	- Zabił go pan ? 
+562	I didn 't have to . 	- Nie musiałem . 
+563	He did it himself . 	Sam to zrobił . 
+564	And you came all the way just to tell me this ? 	I przyjechał mi to pan powiedzieć ? 
+565	That my father 's dead ? 	Że mój ojciec nie żyje ? 
+566	I came to tell you that your life is in danger and I need your help . 	Ostrzec panią przed niebezpieczeństwem i poprosić o pomoc . 
+567	- Why ? 	Ostrzec panią przed niebezpieczeństwem i poprosić o pomoc . 
+568	- I made a deal with him to protect you . 	- Dlaczego ? - Obiecałem mu panią chronić . 
+569	You 're lying . 	Kłamie pan . 
+570	Why would he trust you ? 	Czemu miałby panu ufać ? 
+571	Because he knew that I needed something in return . 	Bo wiedział , że potrzebuję czegoś w zamian . 
+572	And what was that ? 	Czego ? 
+573	To find L' Americain . 	Odszukać l' Americaina . 
+574	- This interview is over . 	- Koniec rozmowy . 
+575	- Dr . 	- Koniec rozmowy . 
+576	Swann ... 	- Dr Swann ... 
+577	You have 10 minutes to leave the building . 	Ma pan 10 minut na opuszczenie budynku , potem wezwę ochronę . 
+578	Then I 'm calling security . 	Ma pan 10 minut na opuszczenie budynku , potem wezwę ochronę . 
+579	Thank you , Dr . 	Dziękuję , dr Swann . 
+580	Swann . 	Dziękuję , dr Swann . 
+581	- Can I get you something , sir ? 	Co panu podać ? 
+582	- Vodka martini . 	Martini z wódką . 
+583	Shaken , not stirred . 	Wstrząśnięte , nie zmieszane . 
+584	I 'm sorry , we don 't serve alcohol . 	Niestety , nie podajemy alkoholu . 
+585	I 'm really starting to love this place . 	Zaczyna mi się tu podobać . 
+586	He 'll have the prolytic digestive enzyme shake . 	Wypije koktajl z enzymami proteolitycznymi . 
+587	Certainly . 	Oczywiście . 
+588	If you 've come for the car , I parked it at the bottom of the Tiber . 	Wóz zaparkowałem na dnie Tybru . 
+589	Well , not to worry , 007 . 	Spokojnie , to tylko prototyp za 3 miliony funtów . 
+590	It was only a ¡ ê3, 000, 000 prototype . 	Spokojnie , to tylko prototyp za 3 miliony funtów . 
+591	- Why are you here , Q ? 	Co tu robisz ? 
+592	- I just fancied a break , to be honest . 	Zrobiłem sobie urlop , bo w pracy jest ciut nerwowo . 
+593	I' ve been a tad stressed at work recently . 	Zrobiłem sobie urlop , bo w pracy jest ciut nerwowo . 
+594	What with C 's people crawling all over us and the fact that M wants my balls 	Osaczyli nas ludzie C , a M chce powiesić moje jądra na choince . 
+595	- for Christmas decorations . 	Osaczyli nas ludzie C , a M chce powiesić moje jądra na choince . 
+596	- Get to the point . 	Osaczyli nas ludzie C , a M chce powiesić moje jądra na choince . 
+597	The point , 007 , is that Franz Oberhauser is dead . 	- Konkret . - Konkret jest taki , że Franz Oberhauser nie żyje . 
+598	Dead and buried . 	Spoczywa w grobie . 
+599	And unless you come back with me right now , my career and Moneypenny 's will go the same way . 	I jeśli ze mną nie wrócisz , ja i Moneypenny pogrzebiemy nasze kariery . 
+600	Do you understand ? 	Rozumiesz ? 
+601	All hell is breaking loose out there and ... 	Rozpętało się tam piekło i ... 
+602	- I saw him . 	Rozpętało się tam piekło i ... 
+603	- You thought you saw him . 	- Widziałem go . - Wydawało ci się . 
+604	We 've been through the records . 	Sprawdzałem . 
+605	He died in an avalanche with his father 20 years ago . 	Zginął z ojcem 20 lat temu , porwała ich lawina . 
+606	Yes . 	Zginął z ojcem 20 lat temu , porwała ich lawina . 
+607	I know that . 	Tak , wiem . 
+608	But I saw him . 	Ale go widziałem . 
+609	He 's not someone I' ll ever forget . 	Takich ludzi się pamięta . 
+610	- So you have a lead ? 	Masz już jakiś trop ? 
+611	- I have a name . 	Masz już jakiś trop ? 
+612	L' Americain . 	Ksywkę . L' Americain . 
+613	Well , that narrows it down . 	To zawęża krąg . 
+614	Look , I 'm sorry , 007 , but time 's up . 	Przykro mi , 007 , ale czas minął . 
+615	My whole career is on the line here . 	Moja kariera wisi na włosku . 
+616	Either you come back in and do this through proper channels , or I go directly to M . 	Wróć i załatw to jak trzeba , albo idę prosto do M . 
+617	Do one more thing for me . 	Jeszcze jedna prośba i będziesz wolny . 
+618	Then you 're out . 	Jeszcze jedna prośba i będziesz wolny . 
+619	Find out what you can from this . 	Zbadaj , co to może być . 
+620	- I really , really hate you right now . 	Nienawidzę cię . 
+621	- Thank you , Q . 	Dziękuję , ci , Q . 
+622	Monsieur ? 	Monsieur ? 
+623	Now ? 	Monsieur ? 
+624	Please ? 	Prosimy . 
+625	- Where are you staying ? 	- Gdzie mieszkasz ? 
+626	- The Pevsner . 	- Gdzie mieszkasz ? 
+627	Room 12 . 	- Pevsner , pokój 12 . 
+628	One hour . 	Za godzinę . 
+629	Here you are , sir . 	Proszę . 
+630	One prolytic digestive enzyme shake . 	Koktajl z enzymami proteolitycznymi . 
+631	Do me a favor , will you ? 	Mam prośbę : niech to trafi do sedesu . 
+632	Throw that down the toilet . 	Mam prośbę : niech to trafi do sedesu . 
+633	Cut out the middleman . 	Bez pośrednika . 
+634	No ! 	Nie ! 
+635	Stay . 	Waruj ! 
+636	What do you want ? 	Czego chcesz ? 
+637	What are you doing ? 	Co robisz ? 
+638	Can 't any of you speak ? 	Jesteście niemowami ? 
+639	Come on ! 	Skręcaj ! 
+640	Right , come on . 	
+641	Come on . 	
+642	Don 't touch me ! 	Łapy przy sobie ! 
+643	Hey ! 	
+644	You need to take a breath and calm down . 	Głęboki wdech i uspokój się . 
+645	You 're in shock . 	Jesteś w szoku . 
+646	Get away from me ! 	Odejdź ode mnie ! 
+647	Just get away ! 	Odejdź ode mnie ! 
+648	Did it cross your mind that you led them to me ? 	Już ! To ty ich na mnie naprowadziłeś ! 
+649	I haven 't got time for this . 	Nie mam na to czasu . 
+650	You need to tell me everything you know about L' Americain . 	Mów wszystko , co wiesz o l' Americainie . 
+651	Go to hell ! 	Idź do diabła ! 
+652	I gave your father my word ! 	Dałem twemu ojcu słowo . 
+653	And why should I trust you ? 	Czemu mam ci zaufać ? 
+654	Because my father did ? 	Bo mój ojciec to zrobił ? 
+655	Because right now , Dr . 	Bo w tej chwili , doktor Swann , jestem jedyną gwarancją , że przeżyjesz . 
+656	Swann ... 	Bo w tej chwili , doktor Swann , jestem jedyną gwarancją , że przeżyjesz . 
+657	I 'm your best chance of staying alive . 	Bo w tej chwili , doktor Swann , jestem jedyną gwarancją , że przeżyjesz . 
+658	Dr . 	
+659	Swann , Q . 	Dr Swann , Q . 
+660	Q , Dr . 	Q , dr Swann . 
+661	Swann . 	Q , dr Swann . 
+662	- Hello . 	- Dzień dobry . 
+663	- Enchanted . 	- Bardzo mi miło . 
+664	Bond , we need to talk . 	Bond . Musimy pogadać . 
+665	Alone . 	W cztery oczy . 
+666	- She knows . 	Ona wie . 
+667	- But , Bond ... 	Ona wie . 
+668	She knows . 	- Ale ... 
+669	What have you got ? 	- Wie . Co masz ? 
+670	I owe you an apology , 007 . 	Muszę cię przeprosić , 007 . 
+671	You are onto something . 	Miałeś rację . 
+672	Oberhauser is still alive . 	Oberhauser żyje . 
+673	The ring proves it . 	Pierścień to potwierdza . 
+674	And it seems they were all part of one organization . 	Byli członkami jednej organizacji . 
+675	Le Chiffre , Quantum , Sciarra , your friend Mr . 	Le Chiffre , Quantum , Sciarra , twój znajomy , pan Silva . 
+676	Silva . 	Le Chiffre , Quantum , Sciarra , twój znajomy , pan Silva . 
+677	And do you know who links them all ? 	- A kto jest wspólnym ogniwem ? 
+678	- Him . 	- A kto jest wspólnym ogniwem ? 
+679	- Exactly . 	- On . Nie inaczej . 
+680	This organization , do you know what it 's called ? 	Ustaliłeś , jak się ta organizacja nazywa ? 
+681	- No . 	- Nie . 
+682	- Spectre . 	- SPECTRE . 
+683	Its name is Spectre . 	Nazywa się SPECTRE . 
+684	- How does she know that ? 	- Skąd to wie ? 
+685	- Because my father was part of it . 	- Mój ojciec do niej należał . 
+686	Then I think that you ought to see this . 	No to obejrzyj coś . 
+687	You 're looking at pictures from South Africa right now 	Oto widoki po gigantycznym wybuchu w Afryce Południowej . 
+688	- of what appears to be a huge explosion . 	Oto widoki po gigantycznym wybuchu w Afryce Południowej . 
+689	- Q , go back to London . 	Q , wracaj do Londynu . 
+690	M 's gonna need your help . 	M będzie cię potrzebował . 
+691	And keep tracking me . 	M będzie cię potrzebował . 
+692	I will . 	I namierzaj mnie . Dobrze . 
+693	And , Bond , you have to find L' Americain . 	I , Bond ... musisz znaleźć l' Americaina . 
+694	He 's our only link to Oberhauser . 	- Tylko on doprowadzi nas do Oberhausera . 
+695	It 's not a person . 	- To nie osoba . 
+696	It 's a place . 	To miejsce . 
+697	Thank you . 	Dziękuję . 
+698	This is where they spent their wedding night . 	Tu spędzili noc poślubną . 
+699	They came back every year . 	I co roku wracali . 
+700	Then they brought me with them , too . 	Potem jeździli ze mną . 
+701	He kept coming back , even after the divorce . 	Tata przyjeżdżał tu nawet po rozwodzie . 
+702	Well , then I 'm sorry . 	No to przepraszam . 
+703	What for ? 	Za co ? 
+704	What is it ? 	Co to ? 
+705	It 's your inheritance . 	Twój spadek . 
+706	- Want some ? 	- Masz ochotę ? 
+707	- No , thank you . 	- Nie , dzięki . 
+708	You don 't know what you 're missing . 	Nie wiesz , co tracisz . 
+709	This can 't be it . 	To raczej nie tu . 
+710	Well , here 's to your father . 	Za twojego ojca . 
+711	I promised myself I would never be hurt by that man again . 	Przysięgłam sobie , że nie dam się temu człowiekowi dalej krzywdzić . 
+712	I cut off all contact . 	Zerwałam kontakty . 
+713	I didn 't want anything to do with him or his sick life . 	Żeby nie mieć nic wspólnego z nim i jego plugawym życiem . 
+714	And then , with his dying breath ... he sends me you . 	I nagle , wydając ostatnie tchnienie , przysyła mi ciebie . 
+715	- Ironic , no ? 	- Ironia losu , co ? 
+716	- You shouldn 't be so hard on him . 	- Nie oceniaj go tak surowo . 
+717	The man I just met should have been dead weeks ago . 	Patrzyłem na człowieka , który powinien już nie żyć . 
+718	The only reason his heart was still beating was you . 	Ale myśl o tobie nie pozwalała mu umrzeć . 
+719	I' ll mourn my father in my own time , Mr . 	Opłaczę go w swoim czasie , panie Bond . 
+720	Bond . 	
+721	And , now , I 'm going to bed . 	A teraz pójdę spać . 
+722	Don 't think for one moment this is where I fall into your arms , seeking solace for my dead daddy . 	Nie myśl ani przez chwilę , że teraz padnę ci w ramiona , szukając pociechy po śmierci tatusia . 
+723	You sit there . 	Siadaj tam . 
+724	Keep watch . 	Trzymaj wartę . 
+725	That 's what you 're good at . 	Jesteś w tym dobry . 
+726	Come anywhere near me and I' ll kill you . 	Jeśli się do mnie zbliżysz , zabiję cię . 
+727	I don 't doubt it . 	Nie wątpię . 
+728	Look . 	Coś takiego . 
+729	There are two of you . 	Coś takiego . 
+730	Two Jameses . 	Dwóch Jamesów . 
+731	Lucky me . 	Szczęściara ze mnie . 
+732	What am I doing here ? 	Co ja tu robię ? 
+733	To liars ... and killers . 	Za kłamców ... i zabójców . 
+734	To liars ... and killers ... everywhere . 	Za kłamców i zabójców ... całego świata . 
+735	Who sent you ? 	Kto cię nasłał ? 
+736	Who are you working for ? 	Dla kogo pracujesz ? 
+737	Now , where did you go ? 	Gdzieś ty się schowała ? 
+738	Of course . 	Oczywiście . 
+739	What is it ? 	Co to ? 
+740	Nothing . 	Nic . 
+741	- What 's this ? 	Co to takiego ? 
+742	- It 's coordinates . 	Współrzędne . 
+743	Your father was scanning for a particular satellite phone . 	Namierzał konkretny telefon satelitarny . 
+744	He was looking for someone . 	Namierzał konkretny telefon satelitarny . 
+745	He was looking for him . 	Szukał jego . 
+746	And he sent me here to finish the job . 	I przysłał mnie tu , żebym dokończył dzieła . 
+747	- I 'm coming with you . 	- Jadę z tobą . 
+748	- No , you 're not . 	- Nie . 
+749	- I like you alive . 	Wolę cię żywą . 
+750	- I can look after myself . 	- Umiem o siebie zadbać . 
+751	That 's beside the point . 	- To bez znaczenia . 
+752	I might not be coming back . 	Mogę nie wrócić . 
+753	I know . 	Wiem . 
+754	But I want to understand what happened to my father . 	Ale chcę zrozumieć to , co spotkało mojego ojca . 
+755	So , where was he going ? 	Więc ... dokąd zmierzał ? 
+756	Nowhere . 	Donikąd . 
+757	Thank you so much . 	Wielkie dzięki . 
+758	Thanks . 	Wielkie dzięki . 
+759	All the very best . 	Powodzenia . 
+760	What 's going on ? 	Co się dzieje ? 
+761	The meeting was brought forward . 	Co się dzieje ? 
+762	Did you not get the message ? 	Nie wiedziałeś o przesunięciu terminu ? 
+763	- No , we didn 't . 	Nie wiedziałeś o przesunięciu terminu ? 
+764	- Shortest meeting I can remember . 	- Nie . - Najkrótsze zebranie , jakie pamiętam . 
+765	- South Africans on board , I take it ? 	- Ludzie z RPA się przełamali ? 
+766	- Yeah , well , who can blame them ? 	- Trudno ich winić . 
+767	Nine Eyes is now officially sanctioned . 	Wdrażamy Dziewięcioro Oczu . 
+768	The new system goes live in less than 72 hours . 	Nowy system zacznie działać za niecałe 3 doby . 
+769	It 's a major step forward . 	Nowy system zacznie działać za niecałe 3 doby . 
+770	Global intelligence cooperation changes everything . 	Wielki krok naprzód . 
+771	As you said before . 	- Globalna współpraca wszystko zmieni ... - Jak już mówiłeś . 
+772	Look . 	Słuchaj ... 
+773	They 've asked me to head the new committee . 	Mam przewodniczyć nowej komisji . 
+774	Yes ? 	Mam przewodniczyć nowej komisji . 
+775	And ? 	Tak ? 
+776	And I should tell you I' ve spoken with the Home Secretary . 	No i ? Wiedz , że rozmawiałem z ministrem spraw wewnętrznych . 
+777	And in light of the new information I' ve given him , he 's decided to close down the double- 0 program with immediate effect . 	Po zapoznaniu się z nowymi danymi zarządził zamknięcie programu 00 . 
+778	- You don 't know what you 're doing . 	- Nie wiesz , co robisz . 
+779	- It 's not personal . 	- Nie bierz tego do siebie . 
+780	It 's the future . 	To przyszłość ... 
+781	And ... 	A ciebie ... w niej nie ma . 
+782	- You 're not . 	A ciebie ... w niej nie ma . 
+783	- You 're a cocky little bastard , aren 't you ? 	Bezczelny z ciebie gnojek , co ? 
+784	- I' ll take that as a compliment . 	Uznam to za komplement . 
+785	- I wouldn 't . 	Ja bym tego nie robił . 
+786	This isn 't over yet . 	To jeszcze nie koniec . 
+787	- Would you press this for me ? 	Wyprasuje mi to pan ? 
+788	Thank you . 	Wyprasuje mi to pan ? 
+789	- Yes , sir . 	Dziękuję . 
+790	Pick it up . 	Weź go . 
+791	I hate guns . 	Nie cierpię broni . 
+792	I promised him I 'd protect you . 	Dałem słowo , że będę cię chronił . 
+793	The first thing to do is to teach you how to protect yourself . 	Więc muszę cię nauczyć samoobrony . 
+794	What if I shoot you by mistake ? 	A jeśli cię niechcący postrzelę ? 
+795	Wouldn 't be the first time . 	To nie będziesz pierwsza . 
+796	- Pick it up . 	Weź go . 
+797	- I said , I hate guns . 	Mówiłam , że nie cierpię broni . 
+798	SIG 226 . 	SIG 226 . 
+799	Front sight . 	SIG 226 . 
+800	Rear sight . 	Celownik przedni i tylny , kurek . 
+801	Hammer . 	Celownik przedni i tylny , kurek . 
+802	You just point it . 	Celujesz i naciskasz spust . 
+803	You squeeze the trigger . 	Celujesz i naciskasz spust . 
+804	You try not to close your eyes . 	Próbujesz nie zamykać przy tym oczu . 
+805	Please ... try it . 	Proszę ... Spróbuj . 
+806	I don 't have to teach you anything , do I ? 	Nie muszę cię niczego uczyć , co ? 
+807	A man once came to our house to kill my father . 	Pewien człowiek wszedł do naszego domu , żeby zabić ojca . 
+808	He didn 't know I was upstairs playing in my bedroom . 	Nie wiedział , że bawię w swoim pokoju . 
+809	Or that Papa kept a Beretta Nine- millimeter under the sink with the bleach . 	Ani że tata trzyma pod zlewem berettę 9mm . 
+810	That 's why I hate guns . 	Dlatego nienawidzę broni . 
+811	I think we 'll skip hand- to- hand combat . 	Darujemy sobie walkę wręcz . 
+812	Good evening , sir . 	Dobry wieczór . 
+813	Sorry to interrupt your supper , but we have some news . 	Zakłócamy panu kolację , ale mamy wiadomość . 
+814	Evening , sir . 	Zakłócamy panu kolację , ale mamy wiadomość . 
+815	Using the Smart Blood , I' ve tracked Bond to a point here in North Africa . 	Smart Blood pozwolił mi namierzyć Bonda tutaj , w Afryce Północnej . 
+816	See , every known map registers it as empty desert . 	Na każdej mapie jest to pustynia . 
+817	Exactly . 	Na każdej mapie jest to pustynia . 
+818	But if you look at the satellite blowup , you can clearly see this . 	Ale na powiększonych zdjęciach z satelity widać to . 
+819	We can 't help him . 	Nie możemy mu pomóc . 
+820	But , sir , we know where he 's heading . 	Ale wiemy , dokąd zmierza . 
+821	C is watching everything we do . 	C śledzi każdy nasz ruch . 
+822	We 're only handing them more information . 	Podsuwamy im tylko kolejne dane . 
+823	Sir , we can 't just desert Bond . 	Nie możemy opuścić Bonda . 
+824	- We have to . 	Nie możemy opuścić Bonda . 
+825	We only make him weaker . 	Musimy . 
+826	- But , sir , we know exactly where he is . 	To by go tylko osłabiło . 
+827	Yes , I know , but if we can track him , so can others . 	- Znamy jego położenie . - Więc inni też mogą go namierzyć . 
+828	Delete all the Smart Blood files . 	Wykasuj pliki programu Smart Blood . 
+829	Everything . 	Wszystko . 
+830	He 's on his own . 	Jest zdany na siebie . 
+831	- You shouldn 't stare . 	Nie powinieneś się gapić . 
+832	- Well , you shouldn 't look like that . 	A ty tak wyglądać . 
+833	May I get you an aperitif ? 	Zamówić ci aperitif ? 
+834	I 'm not sure . 	Zamówić ci aperitif ? 
+835	It gets me into trouble . 	Nie jestem pewna . 
+836	Makes me do crazy things . 	Mam przez to kłopoty . Zaczynam szaleć . 
+837	Well , we can 't have that . 	Tego nie chcemy . 
+838	So , I' ll have a vodka martini , dirty . 	Więc poproszę martini z wódką . Takie niegrzeczne . 
+839	Make that two . 	Dwa razy . 
+840	- I have a question . 	Mam pytanie . 
+841	- Well , what 's that ? 	Jakie ? 
+842	Why , given every other possible option , does a man choose the life of a paid assassin ? 	Dlaczego , mimo istnienia tylu możliwości , facet wybiera zawód płatnego zabójcy ? 
+843	Well , it was that or the priesthood . 	Drugą opcją było kapłaństwo . 
+844	I 'm serious . 	Pytam poważnie . 
+845	Is this really what you want ? 	Czy naprawdę tego chcesz ? 
+846	Living in the shadows ? 	Życia w cieniu ? 
+847	Hunting ? 	Polowania ? 
+848	Being hunted ? 	Bycia zwierzyną łowną ? 
+849	Always looking behind you ? 	Wiecznego patrzenia przez ramię ? 
+850	Always alone ? 	Wiecznego patrzenia przez ramię ? 
+851	But I 'm not alone . 	Samotności ? Nie jestem samotny . 
+852	Answer the question . 	Odpowiedz mi . 
+853	I 'm not sure I ever had a choice . 	Nie wiem , czy miałem inny wybór . 
+854	Anyway , I don 't stop to think about it . 	I nie zastanawiam się nad tym . 
+855	What would happen if you did ? 	A gdybyś spróbował ? 
+856	- Stop ? 	Skończyć z tym ? 
+857	- Yes . 	Tak . 
+858	I don 't know . 	Nie wiem . 
+859	- Your drinks , sir . 	Pańskie drinki . 
+860	- Could you leave them there , please ? 	Proszę postawić . 
+861	You know , I think you 're wrong . 	Chyba jesteś w błędzie . 
+862	I am ? 	Poważnie ? 
+863	We always have a choice . 	Zawsze mamy wybór . 
+864	I' ll drink to that . 	I za to chętnie wypiję . 
+865	Shit . 	Kurwa . 
+866	What do we do now ? 	I co teraz ? 
+867	This might be a long wait . 	Możemy długo czekać . 
+868	Are you having second thoughts ? 	Masz wątpliwości ? 
+869	Too late now . 	Już za późno . 
+870	What 's that ? 	Co to ? 
+871	That is a 1948 Rolls- Royce Silver Wraith . 	To ... jest rolls- royce silver wraith , rocznik 1948 . 
+872	Please . 	Proszę . 
+873	I 'm scared , James . 	Boję się , James . 
+874	Good afternoon , Mr . 	Witam , panie Bond , doktor Swann . 
+875	Bond , Dr . 	Witam , panie Bond , doktor Swann . 
+876	Swann . 	Witam , panie Bond , doktor Swann . 
+877	I want you to know just how excited we all are to finally meet you . 	Nie posiadamy się z radości , że wreszcie możemy was poznać . 
+878	Well ... it 's a pleasure to be here . 	Miło nam tu gościć . 
+879	Your host invites you both to rest , relax , and join him for drinks at 4 : 00 . 	Gospodarz proponuje wypoczynek , a o czwartej zaprasza na drinki . 
+880	- Tell our host we won 't be late . 	- Nie spóźnimy się . 
+881	- Wonderful . 	- Nie spóźnimy się . 
+882	Before we show you to your rooms , just one more thing . 	- Cudownie . I jeszcze coś , zanim wskażemy wam pokoje , 
+883	You be careful with that . 	Proszę uważać . 
+884	It 's loaded . 	Naładowany . 
+885	Thank you . 	Dziękuję . 
+886	This is a very special place . 	To wyjątkowe miejsce . 
+887	He has requested you enter it alone . 	Prosi , byście weszli tam sami . 
+888	Of course . 	Oczywiście . 
+889	Champagne ? 	Szampana ? 
+890	Maybe later . 	Może później . 
+891	Certainly . 	Oczywiście . 
+892	I think we 're meant to be impressed . 	Chyba mamy być pod wrażeniem . 
+893	Touch it . 	Proszę dotknąć . 
+894	You can touch it if you want . 	Można , jeśli chcecie . 
+895	- Do you know what it is ? 	Wiecie , co to ? 
+896	- It 's a meteorite . 	Meteoryt . 
+897	Yes , exactly . 	Tak , właśnie . 
+898	The Kartenhoff . 	Kartenhoff . 
+899	The oldest in human possession . 	Najstarszy znany ludzkości . 
+900	The very meteorite which made this crater . 	Ten , który wybił w ziemi ten krater . 
+901	Think about it . 	Pomyślcie . 
+902	So many years up there , alone , silent , building momentum until it chose to make its mark on Earth . 	Tyle lat gdzieś tam w górze , samotnie , w ciszy nabierał przyspieszenia , aż postanowił zostawić znak na Ziemi . 
+903	A huge , unstoppable force . 	Olbrzymia , nieposkromiona siła . 
+904	Except it did stop , didn 't it ? 	Tyle że spotkał go kres , prawda ? 
+905	Right here . 	W tym miejscu . 
+906	I can 't tell you how much I' ve been looking forward to this . 	Nie wyobrażacie sobie , jak na to czekałem . 
+907	All of us here , together . 	Cała trójka razem . 
+908	A reunion . 	Spotkanie . 
+909	I 'm so glad you came , too , dear Madeleine . 	Tak się cieszę , że i ty tu jesteś , droga Madeleine . 
+910	You were just a girl when I saw you first . 	Byłaś malutka , kiedy cię pierwszy raz ujrzałem . 
+911	I came to your home once to see your father . 	Przyszedłem kiedyś w odwiedziny do taty . 
+912	I don 't remember that . 	Nie pamiętam tego . 
+913	But I do . 	Ale ja tak . 
+914	Shall we ? 	Idziemy ? 
+915	- What is this place ? 	Co to za miejsce ? 
+916	- Information . 	Informacja . 
+917	Information is all ... is it not ? 	Informacja to podstawa ... nieprawdaż ? 
+918	For example , you must know by now that the double- 0 program is officially dead . 	Na przykład ... Pewnie już wiesz , że program 00 oficjalnie dokonał żywota . 
+919	Which leads me to speculate exactly why you came . 	Dlatego zachodzę w głowę , po co tu przyjechałeś . 
+920	So , James , why did you come ? 	A zatem , James ... po co przyjechałeś ? 
+921	I came here to kill you . 	Żeby cię zabić . 
+922	And I thought you came here to die . 	A ja myślałem , że po to , by umrzeć . 
+923	Well , it 's all a matter of perspective . 	Kwestia perspektywy . 
+924	Speaking of perspective . 	A skoro o niej mowa ... 
+925	- Is this live ? 	- Przekaz na żywo ? 
+926	- Live and direct . 	- Tak , bezpośredni . 
+927	16 : 20 GMT . 	16 . 20 GMT . 
+928	What an uncanny coincidence . 	Osobliwy zbieg okoliczności . 
+929	The French have a saying , " It 's the fate of glass to break . " 	Francuzi mawiają , że szkło powstało po to , by się stłuc . 
+930	Well , maybe it 's the fate of spies to just disappear . 	Więc może szpiedzy istnieją po to , by zniknąć . 
+931	But with any luck , we leave something behind . 	Ale przy odrobinie szczęścia coś po nas zostanie . 
+932	In the meantime , I 'm sure C will keep you all busy . 	A tymczasem C nie pozwoli wam próżnować . 
+933	Thank you all . 	Bardzo wszystkim dziękuję . 
+934	That 's touching , don 't you think ? 	Wzruszające ... nieprawdaż ? 
+935	Well , James ... it looks like you 're all alone . 	Cóż , James . Chyba zostałeś sam . 
+936	Not much more than a voyeur , are you ? 	A ty masz duszę podglądacza , co ? 
+937	Too scared to join in . 	Boisz się przyłączyć . 
+938	- I don 't think you quite understand . 	- Chyba nie rozumiesz . 
+939	- Oh , I think I do . 	- Chyba rozumiem . 
+940	You set cities on fire and watch innocent people burn , so you can convince governments to join an intelligence network you 've paid for . 	Puszczałeś z dymem miasta i niewinnych ludzi , by przekonać rządy do wejścia w siatki wywiadu , który sfinansowałeś . 
+941	Not that complicated . 	To nie aż tak skomplikowane . 
+942	I 'm guessing our little friend , C , he 's one of your disciples . 	Domyślam się , że nasz koleżka C jest jednym z twoich uczniów . 
+943	- You could say that . 	Można to tak ująć . 
+944	- And what does he get out of it ? 	Co on z tego ma ? 
+945	Nothing . 	Nic . 
+946	He 's a visionary , like me . 	To wizjoner , jak ja . 
+947	Visionaries . 	Wizjonerzy . 
+948	Psychiatric wards are full of them . 	Pełno ich na oddziałach psychiatrycznych . 
+949	Whereas you couldn 't see what 's right in front of you . 	A ty dostrzegasz tylko to , co jest przed tobą . 
+950	You came across me so many times and yet you never saw me . 	Tyle razy mnie mijałeś , a jednak nigdy mnie nie dostrzegłeś . 
+951	Le Chiffre , Greene , Silva . 	Le Chiffre , Greene , Silva . 
+952	- All dead . 	Le Chiffre , Greene , Silva . 
+953	- Yeah , that 's right . 	- Wszyscy nie żyją . 
+954	A nice pattern developed . 	- Fakt . Ciekawa zależność . 
+955	You interfered in my world , I destroyed yours . 	Ty się wtrącałeś w mój świat , ja niszczyłem twój . 
+956	Or did you think it was coincidence that all the women in your life ended up dead ? 	A może myślisz , że to przypadek uśmierca kobiety twojego życia ? 
+957	Vesper Lynd , for example . 	Na przykład Vesper Lynd . 
+958	She was the big one . 	Jego wielka miłość . 
+959	Has he told you about her ? 	Opowiadał ci o niej ? 
+960	And then , of course , your beloved M . 	No i oczywiście twoja ukochana M . 
+961	Gone forever . 	Odeszła na zawsze . 
+962	Me . 	Ja . 
+963	It was all me , James . 	To wszystko byłem ja , James . 
+964	It 's always been me . 	To wszystko byłem ja , James . 
+965	The author of all your pain . 	Zawsze stałem za tym ja . Architekt twojego cierpienia . 
+966	You 're a brave woman , my dear . 	Dzielna z ciebie kobieta , skarbie . 
+967	Now I understand why my father lost his mind . 	Teraz rozumiem , dlaczego mój ojciec zwariował . 
+968	He didn 't lose his mind , he was just weak . 	Nie zwariował . Był tylko słaby . 
+969	But at least he understood what he was up against . 	Ale on chociaż wiedział , z czym walczy ... 
+970	You see , they failed to comprehend the crucial fact , that a terrible event can lead to something wonderful . 	A tamci nie pojmowali najważniejszej prawdy : Okropne wydarzenie może dać początek czemuś cudownemu . 
+971	Since you mention your father , I' ll show you . 	Wspomniałaś ojca , pokażę ci coś . 
+972	She 's clever . 	Jest cwana . 
+973	She 's smarter than me . 	Cwańsza ode mnie . 
+974	She knows how to hide . 	Wie , jak się ukryć . 
+975	I can protect her if you tell me where he is . 	Mogę jej zapewnić ochronę . 
+976	- I can keep her alive . 	Utrzymać ją przy życiu . 
+977	- Yeah . 	- Tak . 
+978	- You have my word . 	- Ręczę słowem . 
+979	- No , no , no . 	- Ręczę słowem . 
+980	Turn this off . 	Nie , nie . 
+981	Your word ? 	Wyłącz to . Słowem ? 
+982	- The word of an assassin ! 	- Słowem zabójcy ! 
+983	- Turn this off . 	- Słowem zabójcy ! 
+984	- This is important . 	- Wyłącz to ! - To ważne . 
+985	- I said turn it off ! 	- Wyłącz , mówię ! 
+986	I want you to understand something . 	Chcę ci coś uświadomić . 
+987	That 's my word . 	Oto moje słowo . 
+988	Madeleine ? 	Madeleine ... 
+989	Look at me . 	Patrz na mnie . 
+990	Don 't look at him , Madeleine . 	Nie patrz na niego , Madeleine . 
+991	Look at me . 	Patrz na mnie . 
+992	L' Americain . 	L' Americain . 
+993	You save her , she can lead you to L' Americain . 	Niech ją pan ocali , a zaprowadzi pana do l' Americaina . 
+994	She knows L' Americain . 	
+995	Try the Hoffler Klinik . 	Proszę szukać w klinice Hofflera . 
+996	You 're a kite dancing in a hurricane , Mr . 	Jest pan latawcem tańczącym pośród huraganu . 
+997	Bond . 	Jest pan latawcem tańczącym pośród huraganu . 
+998	So long . 	Na razie . 
+999	The things that bring people together . 	Jakie dziwne zdarzenia łączą ludzi ... 
+1000	Out of horror , beauty . 	Ze zgrozy rodzi się piękno . 
+1001	Torture is easy , on a superficial level . 	Tortura jest dość łatwa do zniesienia . 
+1002	A man can watch himself being disemboweled and ... derive great horror from the experience , but it 's still going on at a distance . 	Człowiek może patrzeć , jak go patroszą , odczuwać grozę całej sytuacji , a jednak umie się od tego zdystansować . 
+1003	It isn 't taking place where he is . 	To się nie dzieje tam , gdzie się znalazł . 
+1004	As you know all too well , dear Madeleine , a man lives inside his head . 	Jak dobrze wiesz , droga Madeleine , życie człowieka rozgrywa się w głowie . 
+1005	That 's where the seat of his soul is . 	Bo tam jest siedlisko duszy . 
+1006	Now , James and I were both present recently when a man was deprived of his eyes . 	Oglądaliśmy niedawno akcję wyłupywana komuś oczu . 
+1007	And the most astonishing thing happened . 	I stało się coś zadziwiającego . 
+1008	Didn 't you notice ? 	I stało się coś zadziwiającego . 
+1009	He wasn 't there anymore . 	Nie zauważyłeś ? Stał się nieobecny duchem . 
+1010	He 'd gone even though he was still alive . 	Odszedł , choć był jeszcze żywy . 
+1011	So in this brief moment between life and death , there was nobody inside his skull . 	I w tej krótkiej chwili dzielącej życie od śmierci pod jego czaszką nikogo nie było . 
+1012	Most odd . 	Zadziwiające . 
+1013	So , James . 	A zatem , James ... 
+1014	I 'm going to penetrate ... to where you are . 	Spróbuję przeniknąć do miejsca , w którym teraz jesteś . 
+1015	To the inside of your head . 	Do wnętrza twojej głowy . 
+1016	Now , the first probe will play with your sight , your hearing and your balance , just with the subtlest of manipulations . 	Pierwsza sonda poigra z twoim wzrokiem ... słuchem ... i zmysłem równowagi . Przy pomocy bardzo subtelnych manipulacji . 
+1017	Well , get on with it then . 	No to zaczynaj . 
+1018	Nothing can be as painful as listening to you talk . 	Nic tak nie boli , jak słuchanie twojego gadania . 
+1019	All right . 	Dobrze . 
+1020	Let 's begin . 	Zacznijmy . 
+1021	Why are you doing this ? 	Dlaczego pan to robi ? 
+1022	You probably know that James here lost his parents when he was young . 	Pewnie wiesz , że James stracił rodziców , kiedy był jeszcze dzieckiem . 
+1023	But did you know that it was my father who helped him through this difficult time ? 	Ale czy wiedziałaś , że to mój ojciec pomógł mu w najtrudniejszych chwilach ? 
+1024	Over the course of two winters he taught him to ski , and climb , and hunt . 	Przez dwie zimy uczył go jazdy na nartach , wspinaczki , polowania ... 
+1025	He soothed the wounds of the poor little blue- eyed orphan . 	Leczył rany biednego , małego błękitnookiego sieroty . 
+1026	Asked me to treat him as a brother . 	Prosił , żebym widział w nim brata . 
+1027	My little brother . 	Mojego młodszego braciszka . 
+1028	They formed quite an attachment . 	Połączyła ich mocna więź . 
+1029	So ... you killed him . 	Więc ... go zabiłeś . 
+1030	Yes , I did . 	A tak . 
+1031	You know what happens when a cuckoo hatches inside another bird 's nest ? 	Wiesz , co się dzieje , kiedy w gnieździe innego ptaka wykluje się kukułka . 
+1032	Yes . 	Tak . 
+1033	It forces the other eggs out . 	Wypycha z niego pozostałe jaja . 
+1034	Yes . 	Wypycha z niego pozostałe jaja . 
+1035	Well ... this cuckoo made me realize my father 's life had to end . 	A ta kukułka uświadomiła mi , że czas zakończyć życie ojca ... 
+1036	In a way , he 's responsible for the path I took . 	Odpowiada za wybraną przeze mnie drogę . 
+1037	So , thank you . 	Więc dziękuję ci . 
+1038	Cuckoo . 	Więc dziękuję ci . 
+1039	Do you know any other birdcalls , Franz ? 	Umiesz naśladować inne ptaki , Franz ? 
+1040	Hello , pussy . 	Cześć , kiciu . 
+1041	Franz Oberhauser died 20 years ago , James . 	Franz Oberhauser zginął 20 lat temu , James . 
+1042	In an avalanche , alongside his father . 	Pod lawiną , u boku ojca . 
+1043	The man you are talking to now , the man inside your head , is Ernst Stavro Blofeld . 	Człowiek , do którego teraz mówisz , człowiek wewnątrz twojej głowy , To Ernst Stavro Blofeld . 
+1044	Catchy name . 	Wpadające w ucho nazwisko . 
+1045	My mother 's bloodline . 	Linia ze strony mojej matki . 
+1046	If the needle finds the correct spot in the fusiform gyrus , you 'll recognize no one . 	Jeśli igła trafi we właściwy punkt zakrętu wrzecionowatego , nikogo już nie rozpoznasz ... 
+1047	Of course , the faces of your women are interchangeable , aren 't they , James ? 	Oczywiście twarze twoich kobiet zmieniały się jak w kalejdoskopie . 
+1048	You won 't know who she is . 	Nie będziesz wiedział kto to . 
+1049	Just another passing face on your way to the grave . 	Twarz kolejnej osoby , którą mijasz idąc do grobu . 
+1050	He dies not knowing who you are . 	Skona , nie wiedząc , kim jesteś . 
+1051	The daughter of an assassin . 	Córką zabójcy . 
+1052	The only one who could have understood him . 	Jedyną , która go rozumiała . 
+1053	Shame . 	Przykre . 
+1054	I love you . 	Kocham cię . 
+1055	Do those blue eyes still recognize you ? 	Czy te oczy jeszcze cię rozpoznają ? 
+1056	I 'd recognize you anywhere . 	Wszędzie bym cię rozpoznał . 
+1057	The watch . 	Zegarek . 
+1058	One minute . 	Jedna minuta . 
+1059	One minute . 	Jedna minuta . 
+1060	- Did he say something ? 	Coś powiedział ? 
+1061	- Tempus fugit . 	Tempus fugit . 
+1062	- What ? 	- Co ? 
+1063	- Tempus fugit . 	- Tempus ... fugit . 
+1064	I can 't hear you , James . 	Nie słyszę cię , James . 
+1065	I said ... doesn 't time fly ? 	Powiedziałem ... " Jak ten czas leci " . 
+1066	In there ! 	Tam ! 
+1067	Let 's go home . 	Wracajmy do domu ! 
+1068	It 's not over yet . 	To jeszcze nie koniec . 
+1069	- I' ve never even heard of Hildebrand . 	- Nigdy nie słyszałem o Hildebrandzie . 
+1070	- That is the general idea with safe houses . 	- Taka jest koncepcja kryjówek . 
+1071	- Exactly how safe is this , sir ? 	- Do jakiego stopnia jest bezpieczna ? 
+1072	- We 're about to find out . 	- Do jakiego stopnia jest bezpieczna ? 
+1073	It 's safe . 	Jest bezpieczna . 
+1074	Better wait here . 	Zaczekajcie tu . 
+1075	- I 'm M . 	
+1076	- Madeleine Swann . 	Jestem M . 
+1077	Pleased to meet you . 	- Madeleine Swann . 
+1078	So , what do you have for me , 007 ? 	- Miło mi . Co dla mnie masz , 007 ? 
+1079	The recently deceased head of Spectre , Ernst Stavro Blofeld , and his chief of intelligence , your new best friend , C . 	Niedawno zmarłego dyrektora SPECTRE , Ernsta Stavro Blofelda , i szefa jego wywiadu , twojego nowego druha , C . 
+1080	About to take control of his very own global surveillance system that he built right here under our noses . 	Jest o krok od przejęcia systemu globalnego nadzoru , który zbudował nam tu pod nosem . 
+1081	Then we 'd better move . 	Jest o krok od przejęcia systemu globalnego nadzoru , który zbudował nam tu pod nosem . 
+1082	The system goes online at midnight . 	Więc nie traćmy czasu . 
+1083	If that happens , Spectre will have control of everything . 	Odpalamy system o północy . Jeśli do tego dojdzie , SPECTRE będzie kontrolował wszystko . 
+1084	So , you and I will have a quiet word with C while Q hacks into the system 	Więc zajmiemy C rozmową , a Q włamie się do systemu i go zamknie . 
+1085	- and stops it going online . 	Więc zajmiemy C rozmową , a Q włamie się do systemu i go zamknie . 
+1086	- It won 't be easy . 	- To nie będzie łatwe . 
+1087	He 'll find a way . 	- To nie będzie łatwe . 
+1088	He always does . 	- Znajdzie sposób , jak zawsze . 
+1089	It 's good to have you back , 007 . 	Fajnie , że wróciłeś , 007 . 
+1090	Sir . 	Szefie . 
+1091	James , I can 't . 	James , nie mogę . 
+1092	I' ll come back for you when it 's all over . 	Wrócę po ciebie , kiedy będzie po wszystkim . 
+1093	No , I can 't . 	Wrócę po ciebie , kiedy będzie po wszystkim . 
+1094	No , you can 't stay here , or you ... 	Nie , nie mogę . Nie możesz tu zostać czy ... 
+1095	I can 't go back to this life . 	Nie mogę wrócić do takiego życia . 
+1096	And I 'm not going to ask you to change . 	Ani prosić , żebyś się zmienił . 
+1097	This is who you are . 	Jesteś jaki jesteś . 
+1098	You 're saying good- bye . 	To pożegnanie . 
+1099	Yes . 	Tak . 
+1100	Take care . 	Trzymaj się . 
+1101	You 're a good man , James . 	Dobry z ciebie człowiek . 
+1102	Are you in yet , Q ? 	Włamałeś się już ? 
+1103	A few layers of impenetrable security still to go , but I think I 'm getting somewhere . 	Kilka poziomów zabezpieczeń ale jestem na dobrej drodze . 
+1104	They 've seen us ! 	Widzieli nas ! 
+1105	Reverse ! 	Wsteczny ! 
+1106	Go ! 	Jedź ! 
+1107	Get him in the building ! 	Zapędź go do środka ! 
+1108	Move . 	Jazda ! 
+1109	Move ! 	Jazda ! 
+1110	Go back and find M , now ! 	Wracaj i odszukaj M , już ! 
+1111	We need them both . 	Potrzebujemy ich obu . 
+1112	Not a good feeling being watched , is it ? 	ODMOWA DOSTĘPU ZAMYKAM SYSTEM Kiepsko czuć się obserwowanym , co ? 
+1113	- Don 't tell me you 're responsible for this . 	Nie mów , że to twoja sprawka . 
+1114	- No , but my Quartermaster is . 	Nie , mojego kwatermistrza . 
+1115	- And he 's extremely talented . 	Niezwykły talent . 
+1116	- Well , bravo . 	Niezwykły talent . 
+1117	But in case you hadn 't realized it , you two are out of a job . 	Brawo . Ale jeśli jeszcze nie zauważyłeś , obaj straciliście pracę . 
+1118	So you 're trespassing . 	Jesteś tu bezprawnie . 
+1119	I 'm afraid you 've got the wrong end of the stick , Max . 	Chyba nie wiesz , w którym dzwonią kościele . 
+1120	We 're going to stop this system going online . 	Nie dopuścimy systemu do sieci . 
+1121	- And then I 'm going to bring you in . 	A potem cię aresztujemy . 
+1122	- On what grounds exactly ? 	Pod jakim zarzutem ? 
+1123	Poor taste in friends . 	Marnego doboru przyjaciół . 
+1124	Take a look at the world . 	MATERIAŁY WYBUCHOWE Popatrz na świat . 
+1125	Chaos . 	Chaos . 
+1126	Because people like you , paper- pushers and politicians , are too spineless to do what needs to be done . 	Bo takim jak ty , urzędasom i politykom , brak kręgosłupa , żeby zrobić to , co należy . 
+1127	So I made an alliance to put the power where it should be . 	Więc stworzyłem sojusz , by władza była tam , gdzie powinna . 
+1128	And now you want to throw it away for the sake of " democracy . " 	A wy chcecie to zniszczyć w imię " demokracji " ? 
+1129	Whatever the hell that is . 	Czymkolwiek jest . 
+1130	How predictably moronic . 	Przewidywalne matoły . 
+1131	But then isn 't that what M stands for ? 	Ale czy nie to właśnie kryje się za literką M ? 
+1132	" Moron . " 	" Matoł " . 
+1133	And now we know what C stands for . 	Rozszyfrowaliśmy też literkę C . 
+1134	" Careless . " 	" Chaotyczny " . 
+1135	Come on . 	No , prędzej . 
+1136	No , no , no ! 	Nie , nie ! 
+1137	You 're a hard man to kill , Blofeld . 	Trudno cię uśmiercić , Blofeld . 
+1138	I do hope that doesn 't hurt too much . 	Oby to nie było bardzo bolesne . 
+1139	My wounds will heal . 	Moje rany się zabliźnią . 
+1140	What about yours ? 	A twoje ? 
+1141	Look around you , James . 	Rozejrzyj się , James . 
+1142	Look . 	Rozejrzyj się , James . 
+1143	This is what 's left of your world . 	Tyle zostało z twojego świata . 
+1144	Everything you ever stood for , everything you believed in , a ruin . 	Wszystko czego broniłeś , w co wierzyłeś - legło w gruzach . 
+1145	Why are we here ? 	Dlaczego tu jesteśmy ? 
+1146	Did you miss me ? 	Tęskniłeś za mną ? 
+1147	No . 	Nie . 
+1148	But I know someone who does . 	Ale znam kogoś , kto tęskni . 
+1149	Where is she ? 	Gdzie ona jest ? 
+1150	That 's for you to find out . 	Sam musisz to wybadać . 
+1151	In three minutes , this building will be demolished . 	Za 3 minuty budynek zostanie zniszczony . 
+1152	I can get out easily . 	Ja się wydostanę z łatwością . 
+1153	Now , you have a choice . 	Ty masz wybór . 
+1154	Die trying to save her or ... save yourself and live with the pain . 	Umrzeć , usiłując ją ocalić , albo ... ocalić siebie i żyć w rozpaczy . 
+1155	You 're bluffing . 	Blefujesz . 
+1156	Am I ? 	Czyżby ? 
+1157	I' ve really put you through it , haven 't I ? 	Naprawdę dałem ci popalić , co ? 
+1158	That 's brothers for you . 	Jak to brat . 
+1159	They always know which buttons to press . 	Zawsze wie , gdzie nacisnąć . 
+1160	Madeleine ! 	Madeleine ! 
+1161	Come on . 	Dawaj . 
+1162	Come on . 	Dawaj . 
+1163	Yes ! 	SYSTEM USUNIĘTY - Tak ! 
+1164	Let 's go . 	Chodźmy . 
+1165	After you . 	Ty pierwszy . 
+1166	Why can 't you just face it , M ? 	Pogódź się z prawdą , M . 
+1167	You don 't matter anymore . 	Już się nie liczysz . 
+1168	Maybe I don 't . 	Może i tak . 
+1169	But something has to . 	Może i tak . 
+1170	- Dead . 	Umarł . 
+1171	- Any word on Bond ? 	Umarł . 
+1172	No . 	- Wiemy coś o Bondzie ? 
+1173	But I can hazard a guess . 	- Nie . Ale czegoś się domyślam . 
+1174	Madeleine ! 	Madeleine ! 
+1175	Madeleine ! 	
+1176	- Do you trust me ? 	Ufasz mi ? 
+1177	- Do I have a choice ? 	Ufasz mi ? 
+1178	Not anymore . 	- A mam wybór ? - Już nie . 
+1179	Come on ! 	Szybko ! 
+1180	Good- bye , James Bond . 	Żegnaj , Jamesie Bondzie . 
+1181	Brace , brace , brace ! 	Uwaga ! 
+1182	- Sir , this is a terrorist alert . 	- Zagrożenie terrorystyczne . 
+1183	- Mallory , double- 0 section . 	- Sekcja 00 . 
+1184	Stand them down . 	Odwołaj akcję . 
+1185	- Echo team , hold fire . 	Grupa E , wstrzymać ogień . 
+1186	- Stand down . 	
+1187	Finish it . 	Zakończ to . 
+1188	Finish it . 	Zakończ to . 
+1189	Out of bullets . 	Brak amunicji . 
+1190	And besides ... 	A poza tym ... mam coś lepszego do roboty . 
+1191	I' ve got something better to do . 	A poza tym ... mam coś lepszego do roboty . 
+1192	Under the Special Measures Act of 2001 , 	W myśl ustawy o środkach przymusu z 2001 roku aresztuję cię w imieniu rządu JKMości ... 
+1193	I am detaining you on behalf of Her Majesty 's Government . 	W myśl ustawy o środkach przymusu z 2001 roku aresztuję cię w imieniu rządu JKMości ... 
+1194	Bond ? 	Bond ? 
+1195	- What are you doing here ? 	- Co tu robisz ? 
+1196	- Good morning , Q . 	- Dzień dobry , Q . 
+1197	- I thought you 'd gone . 	- Nie odszedłeś ? 
+1198	- I have . 	- Nie odszedłeś ? 
+1199	There 's just one thing I need . 	Potrzebuję tylko jednej rzeczy . 

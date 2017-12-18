@@ -1,0 +1,1199 @@
+1	Where are you going ? 	Куда ты уходишь ? 
+2	I won 't be long . 	Я ненадолго . 
+3	Welcome , Signor Soiarra . 	Проходите , синьор Скьярра . 
+4	I trust you had a pleasant journey . 	Надеюсь , добрались без приключений ? 
+5	Do you have it ? 	- Она у вас ? 
+6	Yes . 	- Она у вас ? 
+7	It 's over there . 	- Да , вон там . 
+8	When do we blow the stadium ? 	Когда мы взрываем стадион ? 
+9	This evening at six . 	В 6 вечера . 
+10	And the flight out of here ? 	А обратный рейс ? 
+11	All arranged . 	Всё уже устроено . 
+12	And then what ? 	И что будет потом ? 
+13	Then I visit The Pale King . 	Потом я навещу Бледного Короля . 
+14	A toast , my friend . 	Выпьем , друг мой ... 
+15	To Death ! 	За Смерть ! 
+16	Bottoms up . 	ДО дна . 
+17	Meet me in the square ! 	Жди меня на площади ! 
+18	Start anywhere you like . 	БЕСПРЕДЕЛ В МЕХИ КО Выкручивайтесь , как хотите . 
+19	Take your time , 007 , but in five minutes the head of the Joint Security Service is going to walk through that door , and I' ve got to explain to him how one of our agents decided to potter off to Mexico , all on his own , and cause an international incident . 	Не спешите , 007 . Но скоро сюда войдет глава Объединённой разведки , и мне придётся объяснять ему , почему наш агент решил самовольно сгонять в Мексику и устроить международный скандал . 
+20	With all due respect , sir , it could 've been worse . 	Позвольте заметить : могло быть и хуже . 
+21	Worse ? 	Куда уж хуже ! 
+22	You blew up half a bloody block . 	Полквартала к чертям . 
+23	Well , better half a block than a whole stadium full of people . 	Лучше полквартала , чем полный стадион людей . 
+24	You had no authority . 	У вас не было полномочий ! 
+25	None . 	Не было ! 
+26	As you know , we 're in the middle of the biggest shakeup in the history of British intelligence . 	Британскую разведку сейчас трясут сверху донизу . 
+27	The ink 's barely dry on this merger with MI5 and already they 're itching for a chance to scrap the double- 0 program forever . 	Ещё не высохли чернила на приказе о слиянии с МИ- 5 , а им уже неймётся закрыть программу " Два нуля " насовсем ! 
+28	And you 've just given them one . 	И вы даёте им повод . 
+29	You 're right , sir . 	Вы правы , сэр . 
+30	You have got a tricky day ahead . 	У вас впереди нелёгкий день . 
+31	This is an official question . 	Я спрашиваю вас официально : 
+32	Mexico City . 	Мехико . 
+33	What were you doing there ? 	Что вы там делали ? 
+34	It was just a coincidence . 	Это просто совпадение . 
+35	I was taking some overdue holiday . 	У меня там отпуск затянулся . 
+36	Okay . 	Понятно . 
+37	Fine . 	
+38	As of this morning , you are officially grounded . 	С этого утра вы отстранены от службы . 
+39	I 'm standing you down from all operations indefinitely . 	Я снимаю вас со всех операций бессрочно . 
+40	Very good , sir . 	Слушаюсь , сэр . 
+41	007 ? 	007 ! 
+42	Sir ? 	Сэр ? 
+43	I don 't know what you 're playing at , but whatever it is , it has to stop . 	Не знаю , что вы затеяли , но в любом случае - бросьте это . Немедленно . 
+44	Now . 	
+45	- So sorry . 	Простите . 
+46	Am I interrupting ? 	Я не помешал ? 
+47	- Not remotely . 	Я не помешал ? 
+48	007 , I 'd like you to meet Max Denbigh , head of the Joint Security Service . 	Нисколько . 007 , познакомьтесь : Макс Дэнби , директор Объединённой разведки . 
+49	It 's a pleasure to finally meet you , 007 . 	Наконец- то я вас увидел , 007 . 
+50	I' ve heard a lot about you . 	О вас много говорят . 
+51	Most of it good . 	Больше - хорошего . 
+52	- Congratulations on your new appointment . 	Поздравляю с назначением . 
+53	- Thank you . 	Спасибо . 
+54	- I suppose we should call you C now . 	Вас , вероятно , следует называть " С " ? 
+55	- No , no . 	Нет- нет . 
+56	" Max , " please . 	Просто Макс . 
+57	No , I think I' ll call you C ... 	Нет , я буду звать вас С . 
+58	C . 	
+59	As you wish . 	Как хотите . 
+60	Well , my door is always open , 007 , for my employees . 	Моя дверь всегда открыта для моих подчинённых . 
+61	This merger 's gonna be a whole new chapter for us . 	Это слияние - исторический шаг . 
+62	We 're going to bring British intelligence out of the Dark Ages ... into the light . 	Мы выведем британскую разведку из мрака средневековья к свету . 
+63	That all sounds lovely . 	Чудесная затея . 
+64	That 'll be all , 007 . 	Вы свободны , 007 . 
+65	Report to Q tomorrow for medical , thank you . 	Завтра вас ждёт Кью для медосмотра . 
+66	Very good , sir . 	Так точно , сэр . 
+67	- James ? 	Джеймс ? 
+68	- Moneypenny . 	Манипенни ... 
+69	- So ? 	
+70	How was the meeting ? 	Как поговорили ? 
+71	- Very good , thank you . 	Замечательно . 
+72	- Here . 	Держи . 
+73	Forensics finally released this . 	Эксперты , наконец , отдали . 
+74	- What is it ? 	Что это ? 
+75	It 's personal effects they recovered from Skyfall . 	Вещи , уцелевшие в " Скайфолле " . 
+76	- Perfect . 	Прекрасно . 
+77	You can bring it to me later . 	Занеси позже . 
+78	- What do you mean ? 	Куда ? 
+79	My place , 9 : 00 . 	Ко мне , в девять вечера . 
+80	- Evening . 	Добрый вечер . 
+81	- Come in . 	Проходи . 
+82	- Have you just moved in ? 	Ты только что переехал ? 
+83	- No . 	Нет . 
+84	Well , I like what you 've done with the place . 	Роскошная меблировка ! 
+85	Your delivery . 	Твоя посылка . 
+86	Thank you . 	Спасибо . 
+87	- Would you like a drink ? 	Выпить хочешь ? 
+88	- No , thanks . 	Спасибо , я ненадолго . 
+89	I 'm not staying . 	Спасибо , я ненадолго . 
+90	That 's a shame . 	Жаль . 
+91	What 's going on , James ? 	Что происходит , Джеймс ? 
+92	There 's not one person at MI6 who isn 't talking about it . 	В коридорах МИ- 6 все говорят об одном . 
+93	Talking about what , exactly ? 	О чём же конкретно они говорят ? 
+94	That what you did in Mexico was one step too far . 	О том , что в Мексике ты вышел за рамки . 
+95	- That you 're finished . 	Что тебе конец . 
+96	- And what do you think ? 	А ты что думаешь ? 
+97	I think you 're just getting started . 	Я думаю , это только начало . 
+98	I don 't know what you mean . 	Не понимаю , о чём ты . 
+99	All right . 	Ладно . 
+100	I think you 've got a secret . 	Я думаю , ты что- то скрываешь , и эту тайну ты не раскроешь никому , потому что никому уже не веришь . 
+101	And it 's something you won 't tell anyone . 	Я думаю , ты что- то скрываешь , и эту тайну ты не раскроешь никому , потому что никому уже не веришь . 
+102	Because you don 't trust anyone . 	Я думаю , ты что- то скрываешь , и эту тайну ты не раскроешь никому , потому что никому уже не веришь . 
+103	If anything happens to me , 007 , I need you to do something . 	Если со мной что- то случится , 007 , у меня к вам одна просьба . 
+104	Find a man called Marco Sciarra . 	Найдите человека по имени Марко Скьярра . 
+105	Kill him . 	Убейте его . 
+106	And don 't miss the funeral . 	И сходите на похороны . 
+107	Jesus . 	Господи ... 
+108	- Where did you get it ? 	Откуда это у тебя ? 
+109	- In my mailbox just after she died . 	Нашёл в почтовом ящике , сразу после её смерти . 
+110	Well , she was never short of surprises . 	Удивлять она всегда умела . 
+111	She wasn 't gonna let death get in the way of her job . 	Даже смерть для неё - не повод отлынивать от работы . 
+112	I' ve been tracking Sciarra ever since . 	С тех пор я гонялся за Скьяррой . 
+113	- And what have you found ? 	И что удалось узнать ? 
+114	- Nothing significant yet . 	Пока - ничего особенного . 
+115	When 's the funeral ? 	Когда похороны ? 
+116	Three days . 	Через три дня . 
+117	In Rome . 	В Риме . 
+118	If you think M 's signing off on that , you 're insane . 	Если ты считаешь , что М согласится , ты сошёл с ума . 
+119	- He won 't let you out of his sight . 	Он будет держать тебя на привязи ! 
+120	- Yes , it 's a bit of a problem . 	Да , есть такая неприятность . 
+121	Listen ... could you do a little quiet digging for me ? 	Слушай ... Ты не могла бы кое- что тихонечко выяснить для меня ? 
+122	I heard a name in Mexico . 	В Мехико я услышал одно имя : " Бледный Король " . 
+123	" The Pale King . " 	
+124	You want me to be your mole . 	Вербуешь меня в двойные агенты ? 
+125	Yes . 	Да . 
+126	And what makes you think you can trust me ? 	Что же тебя заставило поверить мне ? 
+127	Instinct . 	Чутьё . 
+128	Poor old girl . 	Жалко здание . 
+129	Rigged for demolition in a week . 	Через неделю на слом . 
+130	Cheaper to knock her down than to rebuild . 	Дешевле снести , чем отреставрировать . 
+131	Still . 	Что 
+132	Time waits for no man and all that . 	Время неумолимо , и всё такое ... 
+133	Anyway , all the money 's been spent on this ... the New Centre for National Security . 	Зато вот на что угрохали все деньги ! Новый центр госбезопасности . 
+134	So that 's C´s new digs . 	Новое логово С ? 
+135	You 've met him , have you ? 	Уже познакомились ? 
+136	- Yesterday . 	Вчера . 
+137	What do we know about him ? 	Что мы о нём знаем ? 
+138	- Classic Whitehall mandarin . 	Кабинетный Выскочка . 
+139	Wrote a dossier last year on how the double- 0 program was obsolete , how drones could do all our dirty work abroad . 	Прославился докладом о том , что программа " Два нуля " устарела , что дроны могут делать за нас всю грязную работу . 
+140	- Went to school with the Home Secretary . 	Однокашник министра внутренних дел . 
+141	- Of course , he did . 	Ну а как иначе ! 
+142	This merger 's just the start of it . 	Это слияние - только начало . 
+143	In three days , there 's a security conference in Tokyo to decide the New World Order . 	Через три дня в Токио - конференция о новом мировом порядке . 
+144	If C gets his way , he 'll have unlimited access to the combined the intelligence streams of nine countries . 	Если С продавит свой план , он получит полный доступ к разведданным девяти стран мира . 
+145	Including us . 	Включая нас . 
+146	Quite . 	Именно . 
+147	Well , a lot 's happened while you were away . 	Без вас было много событий . 
+148	A train bombing in Hamburg and an industrial explosion in Tunisia . 	Теракт в гамбургском поезде , взрыв на заводе в Тунисе . 
+149	It 's not great timing for us . 	Не лучший период в нашей истории . 
+150	It 's all rather playing into C 's hands . 	Зато нашему С карта пошла . 
+151	M , well , let 's say he 's feeling the pressure . 	М ... скажем так ... чувствует давление . 
+152	Yeah , I' ve noticed . 	Я заметил . 
+153	Now , this way , 007 . 	Теперь за мной , 007 . 
+154	Be careful . 	Осторожно , здесь немного скользко . 
+155	It 's a trifle slippery . 	
+156	Q wasn 't exactly feeling at home in Whitehall , what with the new merger , so he set up shop here , away from prying eyes , as it were . 	Кью было неуютно в новой резиденции . И он обустроился здесь . Подальше от любопытных глаз . 
+157	I hear he 's got something rather special planned for you . 	Я слышал , у него для вас особый подарок . 
+158	I can hardly wait . 	ЖДУ Не дождусь . 
+159	007 . 	А , 007 ... 
+160	- Q . 	Кью ... 
+161	- Please excuse the mess . 	Простите за беспорядок . 
+162	Everything 's a little bit up in the air , what with the changes and all . 	У нас тут некоторый сумбур : все эти перемены ... 
+163	Couple of things to get through . 	Пока не всё на своих местах . 
+164	Shall we get started ? 	Начнём ? 
+165	Just relax . 	Расслабьтесь . 
+166	That 's it . 	Вот и чудненько . 
+167	Lovely . 	Вот и чудненько . 
+168	Now , you may feel a small ... 	Сейчас будет лёгкий ... 
+169	- Christ ! - ... prick . 	Господи ! ... УКОЛ . 
+170	- What is it ? 	Что это ? 
+171	- Cutting- edge nanotechnology . 	Передовые нанотехнологии . 
+172	Smart Blood . 	Старт- кровь . 
+173	Microchips in your bloodstream . 	Микрочипы в кровяном потоке . 
+174	Allows us to track your movements in the field . 	Позволят следить за каждым вашим шагом . 
+175	You see those readouts ? 	Видите эти данные ? 
+176	We can monitor your vital signs from anywhere on the planet . 	Мы следим за вашим здоровьем в любой точке планеты . 
+177	Well , that sounds marvelous . 	Замечательная вещь . 
+178	Call it a post- Mexico insurance policy . 	Считайте , что это страховка после Мексики . 
+179	By direct order of M . 	Прямой приказ М . 
+180	I completely understand . 	Прекрасно его понимаю . 
+181	Good . 	Хорошо . 
+182	Right . 	Так , мне осталось вручить вам кое- что , и я вас отпущу . 
+183	Well , I' ve just ... got one last thing for you and you can be on your way . 	Так , мне осталось вручить вам кое- что , и я вас отпущу . 
+184	Magnificent , isn 't she ? 	Красавица , не правда пи ? 
+185	Zero to 60 in three point two seconds . 	Разгон до ста за 3, 2 секунды . 
+186	Fully bulletproof . 	Пуленепробиваемая . 
+187	A few little tricks up her sleeve . 	Есть несколько фокусов в запасе . 
+188	It 's a shame , really . 	Жаль : делалась под вас , но её передали 009- му . 
+189	She was meant for you , but she 's been reassigned to 009 . 	Жаль : делалась под вас , но её передали 009- му . 
+190	But you can have this . 	Зато это - вам . 
+191	- Does it do anything ? 	Они хоть что- то делают ? 
+192	- It tells the time . 	Показывают время . 
+193	- Might help with your punctuality issues . 	Полезно , при вашей пунктуальности . 
+194	- M 's idea ? 	- М придумал ? 
+195	Precisely . 	- Именно так . 
+196	Oh , one word of warning . 	Д0ПЖЕН предупредить : 
+197	The alarm is rather loud . 	БУДИЛЬНИК громковат . 
+198	- If you know what I mean . 	Если вы меня понимаете . Кажется , понимаю . 
+199	- I think I do . 	
+200	Oh , yes . 	Ах , да . 
+201	That old thing is taking quite a bit of time . 	Над старушкой нужно ещё повозиться . 
+202	Mind you , there wasn 't much left to work on . 	От неё почти ничего не осталось . 
+203	Only a steering wheel . 	Разве что руль . 
+204	I believe I said , " Bring it back in one piece , " not , " Bring back one piece . " 	Я просил : " верните целиком " , а не " взорвите целиком " . 
+205	Anyway , enjoy your downtime , 007 . 	В общем , приятного вам отдыха , 007 . 
+206	- Q ? 	Кью . 
+207	- Yes ? 	Да ? 
+208	Well , now you know exactly where I am all of the time . 	Раз уж ты теперь точно знаешь , где я нахожусь в любое время суток , сделаешь для меня кое- что ? 
+209	- Will you do something for me ? 	Раз уж ты теперь точно знаешь , где я нахожусь в любое время суток , сделаешь для меня кое- что ? 
+210	- What do you have in mind , exactly ? 	Смотря что конкретно . 
+211	Make me disappear . 	Сделай так , чтоб я исчез . 
+212	May I remind you that I answer directly to M . 	Позвольте напомнить ... Я подчиняюсь напрямую М . 
+213	I also have a mortgage . 	МНЕ НУЖНО платить за ИПОТЕКУ 
+214	And two cats to feed . 	И кормить ДВУХ КОТОВ . 
+215	Well , then I suggest you trust me ... for the sake of the cats . 	Тогда ты лучше дружи со мной . Подумай о котах . 
+216	Well , it 's lovely to see you , 007 . 	Что ж , очень рад был повидаться . 
+217	Lovely . 	Да , чуть не забыл . 
+218	Now , I meant to tell you , the Smart Blood program is obviously still in its developmental phase . 	Программа " Смарт- кровь " пока на стадии разработки . 
+219	So we may experience the odd drop in coverage during the first 24 hours ... 	ПОЭТОМУ ВОЗМОЖНЫ странные сбои в передаче данных в первые сутки ... 
+220	48 hours after administration , but after that it should work perfectly . 	В первые двое суток после инъекции . Но затем всё наладится . 
+221	- I' ll send you a postcard . 	Пришлю тебе открытку . 
+222	- Please , don 't . 	Умоляю , не надо . 
+223	- Morning . 	Доброе утро . 
+224	What 's that ? 	Доброе утро . 
+225	- Oh , it 's just something from an admirer . 	- Что это у вас ? - Подарок от поклонника . 
+226	- It 's not your birthday , is it ? 	У вас день рождения ? Нет , сэр . 
+227	- No , sir . 	
+228	That was last week . 	Он был на той неделе . 
+229	Morning . 	Доброе утро . 
+230	009 has arrived to pick up the DB10 , sir . 	009 зашёл за машиной . 
+231	He 's waiting upstairs . 	Он ждёт вас наверху . 
+232	Oh , good . 	Хорошо ! 
+233	Yes , fine . 	Я сейчас . 
+234	Oh , shit . 	О , Чёрт ! 
+235	I 'm sorry for your loss . 	Мои соболезнования . 
+236	- You knew my husband ? 	Вы знали моего мужа ? 
+237	- All too briefly . 	Увы , недолго . 
+238	- What do you do ? 	Кем вы работаете ? 
+239	- Life insurance . 	Я страхую жизни . 
+240	A little late for that . 	Припоздали немного . 
+241	For your husband , yes . 	Для вашего мужа - да . 
+242	But what about you ? 	А как насчёт вас ? 
+243	Me ? 	Меня ? 
+244	I hear the life expectancy of some widows can be very short . 	Продолжительность ЖИЗНИ У ВДОВ бывает очень недолгой . 
+245	How can you talk like this ? 	Как вы можете говорить такое ... 
+246	Can 't you see I 'm grieving ? 	Разве вы не видите , что я скорблю ? 
+247	No . 	Нет . 
+248	What a lovely view . 	Чудесный вид . 
+249	You 're wasting your time . 	Зря тратите время . 
+250	There are 100 more that will come after me . 	Скоро за мной пришлют ещё сотню убийц . 
+251	All you buy me is five minutes . 	Вы спасли меня всего на ПЯТЬ МИНУТ . 
+252	Excellent . 	Прекрасно . 
+253	Time for a drink . 	Успеем выпить . 
+254	You killed him ... didn 't you ? 	Вы убили его . Не так ли ? 
+255	My husband . 	Моего мужа . 
+256	He was an assassin . 	ОН сам был убийцей . 
+257	Trust me , he won 't take it personally . 	Поверьте , он на меня не в обиде . 
+258	You signed my death warrant . 	Вы подписали смертный приговор и мне . 
+259	I was respected . 	Меня все уважали ! 
+260	- Loyal to a man you hated . 	За верность нелюбимому ? 
+261	- He trusted my silence . 	Он знал , что я буду молчать . 
+262	With him gone , I 'm a dead woman . 	А без него И мне ЖИТЬ недолго . 
+263	- I can trust nobody . 	- Я никому не доверяю . 
+264	- I know the feeling well . 	- Знакомое чувство . 
+265	Well , I can tell you that I don 't trust you . 	И уж точно не доверяю вам . 
+266	Well , then you have impeccable instincts . 	Значит , у вас безупречное чутье . 
+267	If you don 't leave now , we 'll die together . 	Если вы сейчас же не уйдёте , мы умрём вместе . 
+268	I can think of worse ways to go . 	Это не самая страшная смерть . 
+269	Then you 're obviously crazy , Mister ... 	Вы явно сошли с ума , мистер ... 
+270	Bond . 	Бонд . 
+271	James Bond . 	Джеймс Бонд . 
+272	These people ... if you just knew what they could do . 	Это такие люди ... Если б вы знали , на что они способны ... 
+273	The power they have . 	Какая за ними власть ... 
+274	Did your husband ever mention " The Pale King ? " 	Муж ничего не говорил вам о Бледном Короле ? 
+275	No . 	Нет . 
+276	The organization ... they hardly ever meet . 	Их организация собирается очень редко . 
+277	But because of what happened to my husband , 	Но из- за того , что случилось с моим мужем , они соберутся сегодня . 
+278	- they meet tonight . 	Но из- за того , что случилось с моим мужем , они соберутся сегодня . 
+279	- Why ? 	
+280	To choose a replacement . 	Выбрать ему замену . Где ? 
+281	Where ? 	
+282	The Palazzo Cardenza . 	В палаццо Карденца . - В полночь . 
+283	- Midnight . 	- Звучит заманчиво . 
+284	- Sounds like fun . 	Наведаюсь , пожалуй . 
+285	I might drop by . 	Наведаюсь , пожалуй . 
+286	He was obsessed . 	Он стал одержим . 
+287	He spent more time with them than with me . 	Стал видеться с ними чаще , чем со мной . 
+288	Then the man was a fool . 	Значит , он был идиот . 
+289	Leaving your number ? 	Оставил свой телефон ? 
+290	I' ve called an American friend of mine . 	Я позвонил своему американскому приятелю , Феликсу . 
+291	Felix . 	
+292	He 'll contact his embassy and get you out of here . 	Он свяжется с посольством и вытащит тебя . 
+293	You 'll be safe . 	Всё будет хорошо . 
+294	Don 't go , James . 	Не уходи , Джеймс . 
+295	If you go there , you 're crossing over to a place where there is no mercy . 	Если ты придёшь к ним , тебя встретят люди , не знающие жалости . 
+296	I have to go . 	Я должен идти . 
+297	Bona fortuna , Dona Lucia . 	Удачи , донна Лучия . 
+298	Identify yourself , asshole . 	Назовись , ПРИДУРОК - 
+299	Who are you ? 	Кто ты такой ? 
+300	I 'm Mickey Mouse . 	Я - Микки Маус . 
+301	Who are you ? 	А ты кто такой ? 
+302	Pharmacy sites has provided an excellent new sales platform . 	Сетевые аптеки оказались перспективным рынком . 
+303	We have adapted many of them into clearinghouses for unapproved drugs . 	Мы используем их для сбыта нелегальных лекарств . 
+304	In addition to which , the latest figures show that we presently control 70 % of antimalarial vaccines , 34 % of H . I . V . , and 40 % of all oncological drugs across Sub- Saharan Africa . 	Кроме того , по самым последним данным , мы контролируем 70 % антималярийных вакцин , 34 % по спиду и 40 % всех лекарств против рака в Центральной и Западной Африке . 
+305	But we face challenges from the WHO in their campaign against our counterfeit pharmaceuticals . 	Однако есть препятствия в лице ВОЗ и её кампании против чёрной фармацевтики . 
+306	We have now identified the key individuals to target . 	Мы подготовили список главных лиц к устранению . 
+307	We expect the same success as we had against the Council on Human Trafficking . 	Рассчитываем на такой же успех , как и с Комиссией по работорговле . 
+308	Since the board 's resignation ... we have placed 160, 000 migrated females into the leisure sector . 	С тех пор , как Комиссию распустили , мы разместили в секторе досуга 160000 мигранток . 
+309	The impending completion of the Global Surveillance initiative ... will mean our capability is second to none ... and now is the moment for aggressive expansion . 	При успешном завершении проекта Всемирной разведки , наши возможности станут безграничны . Наступит момент для агрессивной экспансии . 
+310	The news is only good ... 	Ещё одна хорошая новость ... 
+311	Don 't let me interrupt you . 	Прошу вас , продолжайте . 
+312	The news is only good ... 	Ещё одна хорошая новость : чем шире наш доступ к секретным данным , тем легче нам бороться с государственными разведками . 
+313	Our increased surveillance capability ... means government intelligence agencies ... are easily counteracted . 	Ещё одна хорошая новость : чем шире наш доступ к секретным данным , тем легче нам бороться с государственными разведками . 
+314	We are winning . 	Все козыри у нас . 
+315	Thank you , Doctor . 	Спасибо , доктор . 
+316	Now , on to the matter at hand . 	Перейдём к повестке дня . 
+317	After the success of our attacks in Hamburg and Tunisia , the aborted attack in Mexico City and the death of our valued colleague , Marco Sciarra , 	После успешных операций в Гамбурге и Тунисе срыв операции в Мехико и смерть нашего уважаемого коллеги , Марко Скьярры , оставляют ОДИН вопрос незакрытым . 
+318	leaves one of his duties outstanding . 	После успешных операций в Гамбурге и Тунисе срыв операции в Мехико и смерть нашего уважаемого коллеги , Марко Скьярры , оставляют ОДИН вопрос незакрытым . 
+319	Signor Guerra , The Pale King must be terminated . 	Синьор Герра , Бледный Король должен быть ликвидирован . 
+320	Will you make the journey to Altaussee ? 	Вы не против прокатиться в Аль таусзее ? 
+321	Of course . 	Разумеется . 
+322	My loyalty to this organization is total . 	Моя преданность организации не знает границ . 
+323	I will protect it with my last breath . 	Я буду бороться за неё до последнего вздоха . 
+324	There will be no more ... amateurs . 	Никаких больше дилетантов . 
+325	No more shows of weakness . 	Никаких проявлений слабости . 
+326	Does anyone challenge Signor Guerra for this position ? 	Кто хочет оспорить кандидатуру синьора Георг ' ? 
+327	Welcome . 	Добро пожаловать . 
+328	State your credentials for succeeding Signor Sciarra . 	Предъявите доказательства вашей квалификации . 
+329	It 's funny . 	Забавно . 
+330	All that excitement in Mexico City rang a distant bell . 	Я знал , что суматоха в Мехико мне что- то напоминает . 
+331	And now ... suddenly , this evening , it makes perfect sense . 	И вот теперь , сегодня вечером , всё окончательно сложилось . 
+332	Welcome , James . 	Здравствуй , Джеймс . 
+333	It 's been a long time . 	Сколько лет , сколько зим . 
+334	But , finally , here we are . 	Но наконец- то свиделись . 
+335	What took you so long ? 	Где же ты прятался ? 
+336	Cuckoo . 	Кущ - 
+337	Ciao , Mickey Mouse . 	Чао , Микки- Маус . 
+338	Oh , you 've got to be kidding me . 	Да что ж за бардак ! 
+339	No . 	Нет ! 
+340	Moneypenny . 	Манипенни ... 
+341	- Bond ? 	Бонд ? 
+342	- Listen , Moneypenny . 	Слушай , Манипенни : 
+343	Hamburg , Tunisia , Mexico City , they 're all linked . 	Гамбург , Тунис , Мехико связаны между собой ! 
+344	It 's one organization coordinating multiple attacks . 	Это одна организация , бьёт во все точки сразу . 
+345	- So , she was right . 	Она была права ? 
+346	- Of course , she was . 	Ну а как иначе . 
+347	- I ran that check . 	Я всё проверила . 
+348	- Who is it ? 	Кто звонит ? 
+349	Oh , my boss had his credit card stolen . 	У босса украли кредитку - 
+350	It 's nothing . 	Не заморачивайся , спи . 
+351	- Why don 't you go back to sleep . 	Не заморачивайся , спи . 
+352	- Don 't be long . 	Только недолго . 
+353	- Who was that ? 	- Кто там у тебя ? 
+354	- No one . 	- Никто . 
+355	- No , it wasn 't . 	Только не зри . 
+356	- It 's just a friend . 	Друг зашёл в гости . 
+357	At this time of night ? 	Среди ночи ? 
+358	It 's called life , James . 	Это называется " жизнь " , Джеймс . 
+359	You should try it sometime . 	Попробуй как- нибудь . 
+360	The Pale King . 	Бледный Король ... 
+361	It looks like you 've had dealings with him before . 	Похоже , ты с ним уже пересекался . - ” Квант ” . 
+362	Quantum . 	Похоже , ты с ним уже пересекался . - ” Квант ” . 
+363	- Of course . 	- Ещё бы ! 
+364	Mr . 	Мистер Уайт ! 
+365	White ! 	Мистер Уайт ! 
+366	- That 's him . 	Он самый . 
+367	Last unconfirmed sighting , Altaussee in Austria , four months ago . 	Последнее место жительства - Альтаусзее , Австрия . Четыре месяца назад . 
+368	Hold that thought . 	Так и запишем . 
+369	- You still there ? 	Ты ещё там ? 
+370	- Yeah . 	Да . 
+371	- Run another name , will you ? 	Пробей ещё человека . Давай . 
+372	- Okay . 	Кто нужен ? 
+373	Go . 	Кто нужен ? 
+374	A man called Franz Oberhauser . 	Некто по имени Франц Оберхаузер . 
+375	He 's ... 	
+376	And check his files before and after his death . 	Пробей его и до , и после смерти . 
+377	After his death ? 	После смерти ? 
+378	What are you talking about ? 	Что за ерунда ? 
+379	Please , just do it . 	Пожалуйста , сделай это . 
+380	Okay , Q , give me something . 	Ладно , Кью . Дай хоть что- нибудь . 
+381	That 's more like it . 	Другое дело ! 
+382	Here goes nothing . 	Ну , с Богом . 
+383	Good evening . 	Добрый вечер . 
+384	Do not let them tell you we need less surveillance . 	Пусть не говорят , что нужно меньше контроля . 
+385	We need more . 	Его нужно гораздо больше . 
+386	Much more . 	ТОКИО 
+387	I say again , the Nine Eyes committee would have full access to the combined intelligence streams of all member states . 	Повторюсь : комиссия " Девяти глаз " получит полный доступ к разведданным всех стран- участниц . 
+388	More data , more analysis , 	Чем больше банных , тем лучше аналитика , тем меньше вероятность террористических атак . 
+389	less likelihood of a terrorist attack . 	Чем больше банных , тем лучше аналитика , тем меньше вероятность террористических атак . 
+390	Ladies and gentlemen , it 's time for the security services of the world to unite . 	Дамы и господа , разведкам всех стран мира пора объединиться . 
+391	Alone , we are weak . 	Поодиночке мы слабы . КОНЦЫ В ВОДУ 
+392	Together , we 're a global power . 	Но вместе мы - всемирная власть . 
+393	An unelected one . 	Никем не избранная . 
+394	Thank you . 	Спасибо . 
+395	Thank you . 	Спасибо . 
+396	We will now vote on the resolution . 	Приступим к голосованию . 
+397	Ladies and gentlemen , please cast your vote . 	Прошу каждого отдать свой голос . ЮЖНАЯ АФРИКА 
+398	The vote is eight to one in favor . 	Восемь " за " , один " против " . 
+399	However , as you know , we cannot proceed unless by unanimous vote . 	Как вам хорошо известно , решение может быть принято только единогласно . 
+400	The Nine Eyes motion is therefore not passed . 	Таким образом , проект " Девять глаз " отвергнут . 
+401	Democracy . 	Демократия ... 
+402	Thank you , ladies and gentlemen . 	Спасибо , дамы и господа . 
+403	This evening 's session is adjourned . 	Заседание объявляется закрытым . 
+404	- Yes , sir . 	Да , Сэр ? 
+405	- Please , tell me 007 is in London . 	Пожалуйста , скажи , что 007 в Лондоне . 
+406	Oh , yes . 	Да ... 
+407	I' ll just take a look now , sir . 	Сейчас проверю , сэр . 
+408	Because if he isn 't , you 're in deep shit . 	Если он не там , то ты в дерьме . 
+409	You 've got precisely 10 seconds . 	У тебя ровно десять секунд . 
+410	I have him , sir . 	Вижу его , сэр . 
+411	He appears to be in Chelsea . 	В данный момент он в Челси . АЛЬ ТАУСЗЕЕ , АВСТРИЯ 
+412	Well , I want eyes on him when I get back , understood ? 	Когда я вернусь , чтоб он был под наблюдением ! 
+413	I completely understand ... sir . 	Прекрасно вас понимаю , сэр . 
+414	Do me a favor . 	Только , ради Бога , побыстрее . 
+415	Make it quick . 	Только , ради Бога , побыстрее . 
+416	Upstairs , Mr . 	Поднимайтесь , мистер Уайт . 
+417	White . 	
+418	I always knew death would wear a familiar face , but not yours . 	Я догадывался , что у Смерти будет знакомое лицо . Но не думал , что ваше . 
+419	To what do I owe this pleasure , Mr . 	Чему я обязан этой радостью , мистер Бонд ? 
+420	Bond ? 	
+421	I was at a meeting recently and your name came up . 	Был недавно на одной встрече . Там прозвучало ваше имя . 
+422	I 'm flattered London is still talking about me . 	Приятно , что в Лондоне до сих пор обо мне говорят . 
+423	It wasn 't MI6 . 	Это было не в МИ- 6 . 
+424	It was Rome . 	Это было в Риме . 
+425	Your team , not mine . 	Ваши люди , не мои . 
+426	Last month , I found thallium in my cell phone . 	Месяц назад я нашёл следы таллия в своём телефоне . 
+427	It 's done its job . 	Яд сработал : мне осталось 2- 3 недели . 
+428	I have a few weeks . 	Или даже меньше . 
+429	Maybe less . 	
+430	So , here we are , Mr . 	Вот такая у нас встреча , мистер Бонд . 
+431	Bond , two dead men enjoying the evening . 	Два мертвеца за лёгкой беседой . 
+432	- What did you do ? 	Чем вы провинились ? 
+433	- I disobeyed him . 	Не выполнил его приказ . 
+434	I followed him as far as I could . 	Я шёл за ним достаточно долго , 
+435	He ... 	НО ОН ИЗМЕНИЛСЯ . 
+436	- changed . 	НО ОН ИЗМЕНИЛСЯ . 
+437	- Oh , I see . 	Понятно . 
+438	You grew a conscience . 	Отрастили совесть ? 
+439	Our game is our game . 	Наши игры - это одно дело . 
+440	But this ? 	Но это ... 
+441	Women , children ... 	Женщины ... Дети ... 
+442	Well , the thallium would suggest that he doesn 't like you very much anymore . 	По таллию видно , что вы ему разонравились . 
+443	And clearly the feeling is mutual . 	И чувство это взаимно . 
+444	So why don 't you tell me how to find him again ? 	Может , расскажете , где его отыскать ? 
+445	Oh , come on . 	Перестаньте ! 
+446	- Tell me where he is . 	Скажите , где он сейчас . 
+447	- He 's everywhere . 	Он везде ! 
+448	Everywhere ! 	Везде ! 
+449	He 's sitting at your desk , he 's kissing your lover , he 's eating supper with your family ! 	Сидит за вашим столом , целует вашу любовницу , ужинает с вашей семьёй ! 
+450	You 're protecting someone . 	Вы кого- то покрываете . 
+451	Your wife . 	Жену ' ? 
+452	She left long ago . 	Она давно меня бросила . 
+453	Your son ? 	Сына ? 
+454	Your daughter . 	ДОЧЬ ? 
+455	You won 't find her . 	Вы её не найдёте . 
+456	She 's clever . 	Она умница . 
+457	She 's smarter than me . 	Гораздо умнее , чем я : знает , где прятаться . 
+458	She knows how to hide . 	Гораздо умнее , чем я : знает , где прятаться . 
+459	I can protect her if you tell me where he is . 	Я присмотрю за ней , если вы скажете , где он . 
+460	- I can keep her alive . 	Я помогу ей выжить . Как же ! 
+461	- Yeah . 	
+462	- You have my word . 	Даю вам слово . Слово ? ! 
+463	- Your word ? 	
+464	The word of an assassin ! 	Слово убийцы ? 
+465	That 's my word . 	Вот моё слово . 
+466	L' Americain . 	" Американец " . 
+467	You save her , she can lead you to L' Americain . 	Спасёте её - она приведёт вас к " Американцу " . 
+468	She knows L' Americain . 	Спасёте её - она приведёт вас к " Американцу " . 
+469	Try the Hoffler Klinik . 	Езжайте в больницу Хоффлера . 
+470	You 're a kite dancing in a hurricane , Mr . 	Вы как воздушный змей в центре урагана , мистер Бонд . 
+471	Bond . 	
+472	So long . 	Прощайте . 
+473	I can 't deny I 'm impressed you got H . M . G . to cough up for all this . 	Удивительно , как государство оторвало от сердца такой бюджет . 
+474	Good God , the government couldn 't afford this kind of facility . 	Что вы , откуда такие деньги у государства ! 
+475	No , it was benefactors mostly , from the private sector . 	Это всё наши спонсоры из частного сектора . 
+476	When it goes online , this building will be the most sophisticated data gathering system in history . 	Когда здание подключат к сети , оно станет самой современной системой сбора информации . 
+477	The world 's digital ghost , available 24/ 7 . 	Всевидящее око , работающее круглосуточно . 
+478	- George Orwell 's worst nightmare . 	Страшный сон Джорджа Оруэлла . 
+479	- I 'm glad you like it . 	Рад , что вам нравится . 
+480	My commiserations on losing the Nine Eyes vote . 	Жаль , что вы проиграли голосование . 
+481	Must 've been a blow . 	- Переживаете ? 
+482	Not really . 	- Да не особо . 
+483	Only a matter of time before the South Africans see the light . 	Скоро южноафриканцы прозреют . 
+484	And you know what they say , Rome wasn 't built in a day . 	Знаете пословицу ? " Рим строился не за день " . 
+485	Day and a half maybe . 	Максимум за полтора . 
+486	Look , Max , I know surveillance is a fact of life . 	Макс , я знаю , что слежка необходима . 
+487	It 's how you use the information that concerns me , and who is using it . 	Меня больше волнует , куда пойдёт эта информация и как её будут использовать . 
+488	This is what we need to do to keep the people safe . 	Только так мы сможем охранять покой людей . 
+489	Double- 0 program is prehistoric . 	Программа " Два нуля " - это каменный век . 
+490	Come on , M . 	Неужели вы считаете , что даже хороший агент может сравниться с этим ? 
+491	You can 't really tell me that one man in the field can compete with all of this , running around out there with his license to kill . 	Неужели вы считаете , что даже хороший агент может сравниться с этим ? 
+492	Have you ever had to kill a man , Max ? 	Вам доводилось убивать , Макс ? 
+493	Have you ? 	Доводилось ? 
+494	To pull that trigger , you have to be sure . 	Чтобы выстрелить , нужна уверенность . 
+495	Yes , you investigate , analyze , assess , target . 	Да , сначала собираешь факты , анализируешь , делаешь выводы , ВЫЧИСЛЯЕШЬ цель . 
+496	And then you have to look him in the eye . 	А потом смотришь ей в глаза . 
+497	And you make the call . 	И принимаешь решение . 
+498	And all the drones , bugs , cameras , transcripts , all the surveillance in the world can 't tell you what to do next . 	И никакие дроны , жучки , камеры , никакие разведданные В мире не подскажут , что делать дальше . 
+499	A license to kill ... is also a license not to kill . 	Лицензия на убийство - это ещё и лицензия на НЕ убийство . 
+500	I didn 't want to have to do this , but it looks like you still can 't control your agents . 	Не хотелось до этого доводить ... Но , похоже , вы не справляетесь со своими агентами . 
+501	Bond ? 	Бонд ? 
+502	I ran that check . 	Я навела справки . 
+503	Looks like you 've had dealings with him before . 	Кажется , ты с ним уже пересекался . 
+504	Quantum . 	- " Квант " . 
+505	Of course . 	- Ещё бы ! 
+506	Mr . 	Мистер Уайт ! 
+507	White ! 	Мистер Уайт ! 
+508	Last unconfirmed sighting , Altaussee in Austria . 	Последнее место жительства - Альтаусзее , Австрия . 
+509	Run another name , will you ? 	Пробей- ка ещё человечка . 
+510	So maybe there 's something to be said for total surveillance after all . 	Может , в тотальной слежке есть и свои плюсы . 
+511	You watch MI6 agents ? 	Вы следите за агентами МИ- 6 ? 
+512	We watch everyone . 	Мы следим за всеми . 
+513	Please , take a seat . 	Присаживайтесь . 
+514	I' ll be with you in just a moment . 	Я закончу через минуту . 
+515	Please excuse me , Mr . 	ПРОШУ Прощения , мистер Бонд . 
+516	Bond . 	
+517	My name is Dr . 	Меня зовут доктор Мадлен Сван . 
+518	Madeleine Swann . 	Меня зовут доктор Мадлен Сван . 
+519	Our job today is to analyze your needs , both psychological and physical . 	Мы попробуем нащупать ваши проблемы , ПСИХОЛОГИЧЕСКИЕ И физические . 
+520	Sounds pretty straightforward . 	Как вы прямолинейны ! 
+521	I hope you don 't mind . 	Надеюсь , вы не против ? 
+522	The view can be distracting . 	Вид из окна отвлекает . 
+523	I hadn 't noticed . 	Я не заметил . 
+524	I see you filled out most of the paperwork . 	ВЫ ЗАПОЛНИЛИ ПОЧТИ ВСЮ анкету . 
+525	Just a few questions to complete your evaluation , if I may . 	Задам несколько вопросов , для полноты картины . 
+526	- Do you exercise ? 	Вы ходите в спортзал ? 
+527	- When I have to . 	Если нужно . 
+528	Do you consider your employment to be psychologically stressful ? 	Вы считаете свою работу сопряжённой со стрессами ? 
+529	- Sometimes . 	Всякое бывает . 
+530	- How much alcohol do you consume ? 	Много ли вы пьёте ? 
+531	Too much . 	Слишком много . 
+532	Some broader questions . 	Более общие вопросы . 
+533	As a child , would you say you were close to your parents ? 	В детстве вы были близки с родителями ? 
+534	My parents died when I was young . 	Я рано осиротел . 
+535	Really ? 	Сколько вам было лет ? 
+536	How old ? 	
+537	- Old enough to remember . 	Достаточно , чтобы помнить . 
+538	- How , if I may ask ? 	Как они погибли ? 
+539	It was a climbing accident . 	Разбились в горах . 
+540	- So who brought you up ? 	Кто же вас вырастил ? 
+541	- Someone else . 	Другой человек . 
+542	Humor me . 	Вот мне интересно : как выпускница Оксфорда и Сорбонны , два года проработав с " Врачами без границ " , оказалась здесь ? 
+543	How does one train at Oxford and the Sorbonne become a consultant , spend two years with Medecins Sans Frontieres ... and end up here ? 	Вот мне интересно : как выпускница Оксфорда и Сорбонны , два года проработав с " Врачами без границ " , оказалась здесь ? 
+544	Forgive me , but ... anyone might think you were hiding from something . 	Простите , но можно подумать что вы от кого- то скрываетесь . 
+545	You 're paying a lot of money to be here , Mr . 	Вы заплатили большие деньги , чтобы сюда попасть . 
+546	Bond . 	
+547	- Who 's asking the questions , you or me ? 	Кто задаёт вопросы ? Вы или я ? Вы правы . 
+548	- Of course . 	Продолжайте . 
+549	Carry on . 	Продолжайте . 
+550	I see you left this final question blank . 	Вы не заполнили последнюю графу . 
+551	What is your occupation ? 	Ваш род занятий ? 
+552	Well , that 's not the sort of thing that looks good on a form . 	Он не очень хорошо смотрится в анкетах . 
+553	- And why is that ? 	Интересно , почему ? 
+554	- I kill people . 	Я убиваю людей . 
+555	Small world ? 	Тесен мир , да ? 
+556	- Where is he ? 	Где он ? 
+557	- Your father 's dead . 	Ваш отец умер . 
+558	- Two days ago . 	Два дня назад . 
+559	- How do you know ? 	Откуда вы знаете ? 
+560	- Because I was there . 	Видел своими глазами . 
+561	- Did you kill him ? 	Это вы его убили ? 
+562	I didn 't have to . 	Не пришлось стараться . 
+563	He did it himself . 	Он всё сделал сам . 
+564	And you came all the way just to tell me this ? 	И вы приехали , чтобы сказать мне об этом ? 
+565	That my father 's dead ? 	Что мой отец умер ? 
+566	I came to tell you that your life is in danger and I need your help . 	Ваша жизнь в опасности , а мне нужна ваша помощь . 
+567	- Why ? 	ДЛЯ чего ? 
+568	- I made a deal with him to protect you . 	Я договорился с ним , что не дам вас в обиду . 
+569	You 're lying . 	Вы врёте . 
+570	Why would he trust you ? 	С чего бы он вам доверился ? 
+571	Because he knew that I needed something in return . 	Он знал , что мне нужна ответная услуга . 
+572	And what was that ? 	Что же вам нужно ? 
+573	To find L' Americain . 	Найти Американца . 
+574	- This interview is over . 	Разговор окончен . 
+575	- Dr . 	Я бы не спешил . 
+576	Swann ... 	Я бы не спешил . 
+577	You have 10 minutes to leave the building . 	У вас 10 минут , чтобы уйти . 
+578	Then I 'm calling security . 	Потом я вызываю охрану . 
+579	Thank you , Dr . 	Спасибо , доктор Сван . 
+580	Swann . 	
+581	- Can I get you something , sir ? 	Вам что- нибудь налить , сэр ? 
+582	- Vodka martini . 	Водку с мартини . взболтать , но не смешивать . 
+583	Shaken , not stirred . 	Водку с мартини . взболтать , но не смешивать . 
+584	I 'm sorry , we don 't serve alcohol . 	Простите , мы не продаём алкоголь . 
+585	I 'm really starting to love this place . 	Какое чудесное заведение . 
+586	He 'll have the prolytic digestive enzyme shake . 	Сделайте ему казеиновый белковый коктейль . 
+587	Certainly . 	Конечно . 
+588	If you 've come for the car , I parked it at the bottom of the Tiber . 	Если ты пришёл за машиной , она припаркована на дне Тибра . 
+589	Well , not to worry , 007 . 	Ничего страшного , 007 . 
+590	It was only a ¡ ê3, 000, 000 prototype . 	Всего лишь опытный образец за З миллиона . 
+591	- Why are you here , Q ? 	Зачем ты приехал , Кью ? 
+592	- I just fancied a break , to be honest . 	Решил отдохнуть . 
+593	I' ve been a tad stressed at work recently . 	На работе стало как- то напряжённо . 
+594	What with C 's people crawling all over us and the fact that M wants my balls 	То люди из МИ- 5 ходят по пятам , то М грозится украсить новогоднюю ёлку моими яйцами . 
+595	- for Christmas decorations . 	То люди из МИ- 5 ходят по пятам , то М грозится украсить новогоднюю ёлку моими яйцами . 
+596	- Get to the point . 	- Ближе к делу . 
+597	The point , 007 , is that Franz Oberhauser is dead . 	- А дело , 007 , в том , что Франц Оберхаузер мёртв . 
+598	Dead and buried . 	И похоронен . 
+599	And unless you come back with me right now , my career and Moneypenny 's will go the same way . 	Если вы не вернётесь со мной , мою карьеру и карьеру Манипенни ждёт та же участь . 
+600	Do you understand ? 	Поймите , у нас там конец света ! 
+601	All hell is breaking loose out there and ... 	Поймите , у нас там конец света ! 
+602	- I saw him . 	Я видел его . 
+603	- You thought you saw him . 	Вам показалось . 
+604	We 've been through the records . 	МЫ ПОДНЯЛИ архивы . 
+605	He died in an avalanche with his father 20 years ago . 	Он погиб с отцом , под лавиной , 20 лет назад . 
+606	Yes . 	Он погиб с отцом , под лавиной , 20 лет назад . 
+607	I know that . 	Да , это я знаю . 
+608	But I saw him . 	Но я его видел . 
+609	He 's not someone I' ll ever forget . 	Его ни с кем не спутаешь . 
+610	- So you have a lead ? 	И что ? У вас есть след ? 
+611	- I have a name . 	Есть одно имя : 
+612	L' Americain . 	Американец . 
+613	Well , that narrows it down . 	Да , ценная Наводка . 
+614	Look , I 'm sorry , 007 , but time 's up . 	Простите , 007 , но времени нет . 
+615	My whole career is on the line here . 	Моя карьера из- за вас под угрозой . 
+616	Either you come back in and do this through proper channels , or I go directly to M . 	Либо вернитесь и работайте официально , либо я иду напрямую к М ! 
+617	Do one more thing for me . 	Ещё одна просьба . И я отстану . 
+618	Then you 're out . 	
+619	Find out what you can from this . 	Узнай о нём , что сможешь . 
+620	- I really , really hate you right now . 	Я вас так сейчас ненавижу ! Спасибо , Кью . 
+621	- Thank you , Q . 	
+622	Monsieur ? 	Мсье ? 
+623	Now ? 	- На выход . 
+624	Please ? 	- Я сейчас . 
+625	- Where are you staying ? 	Где ты поселился ? 
+626	- The Pevsner . 	В " Певзнере " . 
+627	Room 12 . 	Номер 12 . 
+628	One hour . 	Через час . 
+629	Here you are , sir . 	Ваш напиток , сэр . 
+630	One prolytic digestive enzyme shake . 	Свежайший казеиновый белковый коктейль . 
+631	Do me a favor , will you ? 	Сделай мне одолжение . 
+632	Throw that down the toilet . 	Выпей сразу в унитаз . 
+633	Cut out the middleman . 	Я тут - лишнее звено . 
+634	No ! 	Нет ! 
+635	Stay . 	Стоять . 
+636	What do you want ? 	Что вам нужно ? 
+637	What are you doing ? 	Что вы делаете ? 
+638	Can 't any of you speak ? 	Вы что , все немые ? 
+639	Come on ! 	Давай ! 
+640	Right , come on . 	Всё , пойдёмте . 
+641	Come on . 	
+642	Don 't touch me ! 	РУКИ Убери ! 
+643	Hey ! 	
+644	You need to take a breath and calm down . 	Отдышитесь и успокойтесь . 
+645	You 're in shock . 	У вас шок . 
+646	Get away from me ! 	Не подходи ко мне ! 
+647	Just get away ! 	Убирайся прочь ! 
+648	Did it cross your mind that you led them to me ? 	Ты не догадался , что привёл их ко мне ? 
+649	I haven 't got time for this . 	Нет времени на разборки . 
+650	You need to tell me everything you know about L' Americain . 	Вы должны рассказать мне всё , что знаете об Американце . 
+651	Go to hell ! 	Иди к чёрту ! 
+652	I gave your father my word ! 	Я дал вашему отцу слово . 
+653	And why should I trust you ? 	И я должна тебе верить ? 
+654	Because my father did ? 	Потому что верил отец ? 
+655	Because right now , Dr . 	Потому что сейчас , доктор Сван , 
+656	Swann ... 	
+657	I 'm your best chance of staying alive . 	Я - ВАШ ЕДИНСТВЕННЫЙ ШАНС ВЫЖИТЬ . 
+658	Dr . 	Доктор Сван - Кью . 
+659	Swann , Q . 	Доктор Сван - Кью . 
+660	Q , Dr . 	Кью - доктор Сван . 
+661	Swann . 	
+662	- Hello . 	Здравствуйте . 
+663	- Enchanted . 	Крайне рад . 
+664	Bond , we need to talk . 	БОНД ... Надо поговорить . 
+665	Alone . 	Наедине . 
+666	- She knows . 	Она в курсе . 
+667	- But , Bond ... 	Но , Бонд ... 
+668	She knows . 	Она в курсе . 
+669	What have you got ? 	Что ты выяснил ? 
+670	I owe you an apology , 007 . 	Хотел извиниться перед вами , 007 . 
+671	You are onto something . 	Кое в чём вы правы . 
+672	Oberhauser is still alive . 	Оберхаузер жив : кольцо это доказало . 
+673	The ring proves it . 	
+674	And it seems they were all part of one organization . 	И все они связаны с одной организацией . 
+675	Le Chiffre , Quantum , Sciarra , your friend Mr . 	Ле Шиффр , Квант , Скьярра , ваш друг мистер Сильва ... 
+676	Silva . 	Ле Шиффр , Квант , Скьярра , ваш друг мистер Сильва ... 
+677	And do you know who links them all ? 	И кто же их всех объединяет ? 
+678	- Him . 	Он . 
+679	- Exactly . 	Совершенно верно . 
+680	This organization , do you know what it 's called ? 	Название организации Удалось узнать ? 
+681	- No . 	- Нет . 
+682	- Spectre . 	- " Спектр " . 
+683	Its name is Spectre . 	Она называется " Спектр " . 
+684	- How does she know that ? 	Откуда она знает ? 
+685	- Because my father was part of it . 	В ней состоял мой отец . 
+686	Then I think that you ought to see this . 	Тогда вы должны увидеть это . 
+687	You 're looking at pictures from South Africa right now 	Эти кадры мы только что получили из Южной Африки . 
+688	- of what appears to be a huge explosion . 	Напомню , взрыв в центре Кейптауна ... Кью ... 
+689	- Q , go back to London . 	Возвращайся в Лондон . 
+690	M 's gonna need your help . 	М будет нужна твоя помощь . 
+691	And keep tracking me . 	И продолжай вести меня . 
+692	I will . 	Хорошо . 
+693	And , Bond , you have to find L' Americain . 	БОНД ... Вы должны найти Американца . 
+694	He 's our only link to Oberhauser . 	Только он выведет нас на Оберхаузера . 
+695	It 's not a person . 	Это не человек . 
+696	It 's a place . 	Это место . 
+697	Thank you . 	Спасибо . 
+698	This is where they spent their wedding night . 	Здесь они провели брачную ночь . 
+699	They came back every year . 	Потом приезжали каждый год . 
+700	Then they brought me with them , too . 	И меня брали с собой . 
+701	He kept coming back , even after the divorce . 	А потом он приезжал один , после развода . 
+702	Well , then I 'm sorry . 	Ну тогда - извините . 
+703	What for ? 	За что ? 
+704	What is it ? 	Что там ? 
+705	It 's your inheritance . 	Ваше наследство . будете ? 
+706	- Want some ? 	Ваше наследство . будете ? 
+707	- No , thank you . 	Нет , спасибо . 
+708	You don 't know what you 're missing . 	Зря отказываетесь . 
+709	This can 't be it . 	Неужели всё ? 
+710	Well , here 's to your father . 	Что ж , за вашего отца . 
+711	I promised myself I would never be hurt by that man again . 	Я обещала себе , что больше никогда не буду страдать из- за него . 
+712	I cut off all contact . 	Оборвала все связи . 
+713	I didn 't want anything to do with him or his sick life . 	Не хотела ничего знать о нём и о его жизни . 
+714	And then , with his dying breath ... he sends me you . 	И вот , со смертного одра , он присылает тебя . 
+715	- Ironic , no ? 	Смешно же , нет ? 
+716	- You shouldn 't be so hard on him . 	Зря вы к нему так суровы . 
+717	The man I just met should have been dead weeks ago . 	Другой на его месте умер бы месяц назад . 
+718	The only reason his heart was still beating was you . 	А его сердце продолжало биться ради вас . 
+719	I' ll mourn my father in my own time , Mr . 	Я поплачу об отце , когда придёт время . 
+720	Bond . 	
+721	And , now , I 'm going to bed . 	А сейчас пойду в постель . 
+722	Don 't think for one moment this is where I fall into your arms , seeking solace for my dead daddy . 	Ты только не подумай , что Я упала в твои объятия от безутешного горя по мёртвому папочке . 
+723	You sit there . 	СИДИ рядом . 
+724	Keep watch . 	Сторожи . 
+725	That 's what you 're good at . 	Это всё , на что ты годен . 
+726	Come anywhere near me and I' ll kill you . 	Попробуешь подойти - я тебя убью . 
+727	I don 't doubt it . 	Не сомневаюсь . 
+728	Look . 	Ух ты ! 
+729	There are two of you . 	Тебя двое . 
+730	Two Jameses . 	Два Джеймса . 
+731	Lucky me . 	Везёт же мне ! 
+732	What am I doing here ? 	Что я здесь делаю ? 
+733	To liars ... and killers . 	За Лжецов ... ... и убийц - 
+734	To liars ... and killers ... everywhere . 	За Лжецов ... ... и убийц ... ... во всём мире . 
+735	Who sent you ? 	Кто тебя прислал ? 
+736	Who are you working for ? 	На кого работаешь ? 
+737	Now , where did you go ? 	И куда же ты делась ? 
+738	Of course . 	Конечно ! 
+739	What is it ? 	Что там ? 
+740	Nothing . 	Ничего . 
+741	- What 's this ? 	А это что ? 
+742	- It 's coordinates . 	Координаты . 
+743	Your father was scanning for a particular satellite phone . 	Ваш отец отслеживал чей- то спутниковый телефон . 
+744	He was looking for someone . 	Он кого- то искал . 
+745	He was looking for him . 	Он искал его . 
+746	And he sent me here to finish the job . 	А меня прислал закончить работу . 
+747	- I 'm coming with you . 	- Я поеду с тобой . - Не поедешь . 
+748	- No , you 're not . 	Ты мне нравишься живой . 
+749	- I like you alive . 	Ты мне нравишься живой . 
+750	- I can look after myself . 	- Я не беспомощная . 
+751	That 's beside the point . 	- Это не обсуждается . 
+752	I might not be coming back . 	Возможно , я не вернусь . 
+753	I know . 	Знаю . 
+754	But I want to understand what happened to my father . 	Но я хочу понять , что случилось с отцом . 
+755	So , where was he going ? 	И куда же он отправился ? 
+756	Nowhere . 	В никуда . 
+757	Thank you so much . 	
+758	Thanks . 	
+759	All the very best . 	
+760	What 's going on ? 	Что происходит ? 
+761	The meeting was brought forward . 	Заседание перенесли на утро . 
+762	Did you not get the message ? 	Вам не сообщили ? 
+763	- No , we didn 't . 	Нет , представьте . 
+764	- Shortest meeting I can remember . 	Самое быстрое заседание на моей памяти . 
+765	- South Africans on board , I take it ? 	Южная Африка теперь с вами ? 
+766	- Yeah , well , who can blame them ? 	Да . Их можно понять . 
+767	Nine Eyes is now officially sanctioned . 	Программа " Девять глаз " запущена в ход . 
+768	The new system goes live in less than 72 hours . 	Система заработает через трое суток . 
+769	It 's a major step forward . 	Колоссальный прорыв ! 
+770	Global intelligence cooperation changes everything . 	Единая всемирная разведка изменит историю . 
+771	As you said before . 	Это мы уже слышали . 
+772	Look . 	Вот что ... 
+773	They 've asked me to head the new committee . 	Мне предложили возглавить новый комитет . 
+774	Yes ? 	Так . 
+775	And ? 	И ' ? 
+776	And I should tell you I' ve spoken with the Home Secretary . 	Я поговорил с министром внутренних дел . 
+777	And in light of the new information I' ve given him , he 's decided to close down the double- 0 program with immediate effect . 	В свете полученной от меня информации он решил закрыть программу " Два нуля " С сегодняшнего ДНЯ . 
+778	- You don 't know what you 're doing . 	ВЫ не понимаете , ЧТО творите . Ничего личного . 
+779	- It 's not personal . 	Это будущее . 
+780	It 's the future . 	Это будущее . 
+781	And ... 	А вы ... 
+782	- You 're not . 	Вы - прошлое . 
+783	- You 're a cocky little bastard , aren 't you ? 	Вот же наглый ты ублюдок . 
+784	- I' ll take that as a compliment . 	Сочту это за комплимент . А зря . 
+785	- I wouldn 't . 	
+786	This isn 't over yet . 	Игра ещё не окончена . 
+787	- Would you press this for me ? 	- Погладите костюм ? - Да , сэр . Спасибо . 
+788	Thank you . 	
+789	- Yes , sir . 	
+790	Pick it up . 	Бери . 
+791	I hate guns . 	Ненавижу оружие . 
+792	I promised him I 'd protect you . 	Я дал слово тебя защищать . 
+793	The first thing to do is to teach you how to protect yourself . 	Первый шаг - научить тебя защищаться . 
+794	What if I shoot you by mistake ? 	А если застрелю тебя случайно ? 
+795	Wouldn 't be the first time . 	Не ты будешь первая . 
+796	- Pick it up . 	Бери . 
+797	- I said , I hate guns . 	Я сказала : ненавижу оружие . 
+798	SIG 226 . 	" ЭКЗ 226 " 
+799	Front sight . 	Передняя мушка , задняя , курок . 
+800	Rear sight . 	Передняя мушка , задняя , курок . 
+801	Hammer . 	
+802	You just point it . 	Просто наводишь и жмёшь на крючок . 
+803	You squeeze the trigger . 	Просто наводишь и жмёшь на крючок . 
+804	You try not to close your eyes . 	Старайся не закрывать глаза . 
+805	Please ... try it . 	Пожалуйста , попробуй . 
+806	I don 't have to teach you anything , do I ? 	Так тебя ничему учить не надо ? 
+807	A man once came to our house to kill my father . 	Однажды в наш дом пришёл человек , чтобы убить отца . 
+808	He didn 't know I was upstairs playing in my bedroom . 	Он не знал , что я играю наверху и что папа прячет под раковиной 9- мм " беретту " . 
+809	Or that Papa kept a Beretta Nine- millimeter under the sink with the bleach . 	Он не знал , что я играю наверху и что папа прячет под раковиной 9- мм " беретту " . 
+810	That 's why I hate guns . 	Поэтому я ненавижу оружие . 
+811	I think we 'll skip hand- to- hand combat . 	Думаю , рукопашный бой мы пропустим . 
+812	Good evening , sir . 	Добрый вечер , сэр . 
+813	Sorry to interrupt your supper , but we have some news . 	Простите , что отрываем , но у нас новости . 
+814	Evening , sir . 	Добрый вечер . 
+815	Using the Smart Blood , I' ve tracked Bond to a point here in North Africa . 	При помощи смарт- крови я отследил Бонда до этой точки , в Северной Африке . 
+816	See , every known map registers it as empty desert . 	Все карты показывают здесь пустыню . 
+817	Exactly . 	Но если посмотреть на снимок со спутника , отчётливо видно это . 
+818	But if you look at the satellite blowup , you can clearly see this . 	Но если посмотреть на снимок со спутника , отчётливо видно это . 
+819	We can 't help him . 	Мы не можем ему помочь . 
+820	But , sir , we know where he 's heading . 	Но мы знаем , куда он направился . 
+821	C is watching everything we do . 	С следит за каждым нашим шагом . 
+822	We 're only handing them more information . 	Мы просто подарим ему информацию . 
+823	Sir , we can 't just desert Bond . 	СЭР , нельзя же бросить Бонда ! 
+824	- We have to . 	Мы ему только помещаем . 
+825	We only make him weaker . 	Мы ему только помещаем . 
+826	- But , sir , we know exactly where he is . 	Но ведь мы знаем , где он ! 
+827	Yes , I know , but if we can track him , so can others . 	Если мы его нашли , найдут и другие . 
+828	Delete all the Smart Blood files . 	Сотри все файлы смарт- крови . 
+829	Everything . 	Всё сотри . 
+830	He 's on his own . 	Он сам за себя . 
+831	- You shouldn 't stare . 	Нехорошо так пялиться . 
+832	- Well , you shouldn 't look like that . 	Нехорошо быть такой красивой . 
+833	May I get you an aperitif ? 	Заказать тебе аперитив ? 
+834	I 'm not sure . 	Даже не знаю . 
+835	It gets me into trouble . 	ВЕЧНО ОТ него неприятности . 
+836	Makes me do crazy things . 	Начну вести себя безрассудно . 
+837	Well , we can 't have that . 	Да , этого нам не надо . 
+838	So , I' ll have a vodka martini , dirty . 	Я закажу себе " грязный мартини " , с водкой . 
+839	Make that two . 	Несите два . 
+840	- I have a question . 	Всё хочу спросить ... 
+841	- Well , what 's that ? 	О чём ? 
+842	Why , given every other possible option , does a man choose the life of a paid assassin ? 	Почему , при таком богатстве возможностей , человек выбирает путь наёмного убийцы ? 
+843	Well , it was that or the priesthood . 	Второй вариант был - в священники . 
+844	I 'm serious . 	Я серьёзно . 
+845	Is this really what you want ? 	Тебе правда это нравится ? 
+846	Living in the shadows ? 	Жить в тени ? 
+847	Hunting ? 	За одними бегать , 
+848	Being hunted ? 	ОТ других убегать , вечно смотреть , кто за спиной ... 
+849	Always looking behind you ? 	ОТ других убегать , вечно смотреть , кто за спиной ... 
+850	Always alone ? 	Вечно быть в одиночестве ... 
+851	But I 'm not alone . 	Но я не одинок . 
+852	Answer the question . 	Ответь на вопрос . 
+853	I 'm not sure I ever had a choice . 	Не знаю даже , был ли у меня выбор . 
+854	Anyway , I don 't stop to think about it . 	Некогда остановиться и подумать . 
+855	What would happen if you did ? 	Что будет , если попробуешь ? 
+856	- Stop ? 	Остановиться ? 
+857	- Yes . 	Да . 
+858	I don 't know . 	Не знаю . 
+859	- Your drinks , sir . 	Ваши напитки , сэр . 
+860	- Could you leave them there , please ? 	Поставьте сюда , пожалуйста . 
+861	You know , I think you 're wrong . 	А мне кажется , ты не прав . 
+862	I am ? 	В чём ? 
+863	We always have a choice . 	У каждого есть выбор . 
+864	I' ll drink to that . 	За него и выпьем . 
+865	Shit . 	Чёрт . 
+866	What do we do now ? 	Что дальше будем делать ? 
+867	This might be a long wait . 	Возможно , ждать придётся долго . 
+868	Are you having second thoughts ? 	Ты не передумала ? 
+869	Too late now . 	Поздновато . 
+870	What 's that ? 	А это что ? 
+871	That is a 1948 Rolls- Royce Silver Wraith . 	А это - роллс- ройс " Серебряный Призрак " 1948 года выпуска . 
+872	Please . 	
+873	I 'm scared , James . 	Мне страшно , Джеймс . 
+874	Good afternoon , Mr . 	Добро пожаловать , мистер Бонд , доктор Сван ... 
+875	Bond , Dr . 	Добро пожаловать , мистер Бонд , доктор Сван ... 
+876	Swann . 	Добро пожаловать , мистер Бонд , доктор Сван ... 
+877	I want you to know just how excited we all are to finally meet you . 	Не могу передать , как мы рады нашему ДОЛГОЖДАННОМУ ЗНАКОМСТВУ . 
+878	Well ... it 's a pleasure to be here . 	Нам тоже очень приятно . 
+879	Your host invites you both to rest , relax , and join him for drinks at 4 : 00 . 	Хозяин дома предлагает вам отдохнуть , расслабиться и выпить с ним в 4 часа . 
+880	- Tell our host we won 't be late . 	Передайте хозяину , что мы не опоздаем . 
+881	- Wonderful . 	Прекрасно . 
+882	Before we show you to your rooms , just one more thing . 	Прежде , чем проводить вас в номера , ещё одна формальность . 
+883	You be careful with that . 	Вы поосторожнее с ним . 
+884	It 's loaded . 	Он заряжен . 
+885	Thank you . 	Спасибо . 
+886	This is a very special place . 	Это очень необычное место . 
+887	He has requested you enter it alone . 	Он просил , чтобы вы зашли одни . 
+888	Of course . 	Конечно . 
+889	Champagne ? 	Шампанского ? 
+890	Maybe later . 	Может , позже . 
+891	Certainly . 	Как скажете . 
+892	I think we 're meant to be impressed . 	Видимо , мы должны впечатлиться . 
+893	Touch it . 	Прикоснитесь . 
+894	You can touch it if you want . 	Этот экспонат можно трогать . 
+895	- Do you know what it is ? 	Знаете , что это ? 
+896	- It 's a meteorite . 	Метеорит . 
+897	Yes , exactly . 	Совершенно верно . 
+898	The Kartenhoff . 	" Картенхофф " . 
+899	The oldest in human possession . 	Старейший из найденных на планете . 
+900	The very meteorite which made this crater . 	Тот самый метеорит , что оставил этот кратер . 
+901	Think about it . 	Только подумайте ! 
+902	So many years up there , alone , silent , building momentum until it chose to make its mark on Earth . 	Столько лет провести там , В ОДИНОЧЕСТВЕ И тишине , набирать разгон , а потом врезаться в Землю . 
+903	A huge , unstoppable force . 	Огромная , неостановимая мощь . 
+904	Except it did stop , didn 't it ? 	Однако она остановилась . 
+905	Right here . 	На этом самом месте . 
+906	I can 't tell you how much I' ve been looking forward to this . 	Страшно подумать , как долго я ждал этого . 
+907	All of us here , together . 	Наконец- то мы встретились ! 
+908	A reunion . 	Семья в сборе . 
+909	I 'm so glad you came , too , dear Madeleine . 	Очень рад , что и вы пришли , дорогая Мадлен . 
+910	You were just a girl when I saw you first . 	Вас я помню ещё маленькой девочкой . 
+911	I came to your home once to see your father . 	Как- то раз я зашёл навестить вашего отца . 
+912	I don 't remember that . 	Я не помню этого . 
+913	But I do . 	А я помню . 
+914	Shall we ? 	ПРОШУ вас . 
+915	- What is this place ? 	Что в этом здании ? Информация . 
+916	- Information . 	
+917	Information is all ... is it not ? 	Информация - это всё . Разве нет ? 
+918	For example , you must know by now that the double- 0 program is officially dead . 	Например , ты , наверное , уже знаешь , что программу " Два нуля " окончательно прикрыли ? 
+919	Which leads me to speculate exactly why you came . 	В связи с чем даже не ясно , зачем ты приехал . 
+920	So , James , why did you come ? 	Итак , Джеймс , зачем ты приехал ? 
+921	I came here to kill you . 	Чтобы убить тебя . 
+922	And I thought you came here to die . 	А я думал - чтобы умереть . 
+923	Well , it 's all a matter of perspective . 	Тут всё зависит от точки зрения . 
+924	Speaking of perspective . 	Кстати , о точках зрения . 
+925	- Is this live ? 	Это сейчас ? 
+926	- Live and direct . 	Прямая трансляция . 16 : 20 по Гринвичу . 
+927	16 : 20 GMT . 	
+928	What an uncanny coincidence . 	Какое УДИВИТЕЛЬНОЕ совпадение . 
+929	The French have a saying , " It 's the fate of glass to break . " 	У французов есть поговорка : ” Стеклу суждено разбиться ” . 
+930	Well , maybe it 's the fate of spies to just disappear . 	Что ж , может , всем шпионам суждено исчезнуть . 
+931	But with any luck , we leave something behind . 	Но , хочется верить , мы оставим что- то после себя . 
+932	In the meantime , I 'm sure C will keep you all busy . 	Тем временем , я уверен , С найдёт , чем вас занять . 
+933	Thank you all . 	Спасибо зам всем . 
+934	That 's touching , don 't you think ? 	Трогательно . Не находишь ? 
+935	Well , James ... it looks like you 're all alone . 	Что же , Джеймс ... Похоже , ты остался один . 
+936	Not much more than a voyeur , are you ? 	Ты , я смотрю , любитель подглядывать ? 
+937	Too scared to join in . 	А подключиться боязно ? 
+938	- I don 't think you quite understand . 	Кажется , ты не понимаешь . Да УЖ , куда мне ! 
+939	- Oh , I think I do . 	
+940	You set cities on fire and watch innocent people burn , so you can convince governments to join an intelligence network you 've paid for . 	Ты разрушаешь города , сжигаешь людей заживо , чтобы убедить правительства создать единую разведку на твои же деньги . 
+941	Not that complicated . 	Тоже мне , сложности . 
+942	I 'm guessing our little friend , C , he 's one of your disciples . 	Полагаю , наш приятель С тоже из твоих адептов ? 
+943	- You could say that . 	Можно сказать и так . 
+944	- And what does he get out of it ? 	И что он с этого получит ? 
+945	Nothing . 	Ничего . 
+946	He 's a visionary , like me . 	Он провидец , как и я . 
+947	Visionaries . 	ПРОВИДЦЫ ... 
+948	Psychiatric wards are full of them . 	Ими переполнены психушки . 
+949	Whereas you couldn 't see what 's right in front of you . 	А ты не видишь того , что у тебя под носом . 
+950	You came across me so many times and yet you never saw me . 	Ты столько раз подбирался ко мне , НО так И не УВИДЕЛ . 
+951	Le Chiffre , Greene , Silva . 	Ле шиффр , ГРИН , Сильва ... 
+952	- All dead . 	Их уже нет . 
+953	- Yeah , that 's right . 	Это верно . 
+954	A nice pattern developed . 	Сложилась милая традиция : ты вторгаешься в мой мир , я уничтожаю твой . 
+955	You interfered in my world , I destroyed yours . 	Сложилась милая традиция : ты вторгаешься в мой мир , я уничтожаю твой . 
+956	Or did you think it was coincidence that all the women in your life ended up dead ? 	Или , по- твоему , так случайно выходит , что все твои женщины погибают ? 
+957	Vesper Lynd , for example . 	Веспер Линд , например . 
+958	She was the big one . 	У них всё было серьёзно ! 
+959	Has he told you about her ? 	Он не рассказывал ? 
+960	And then , of course , your beloved M . 	Потом , конечно же , твоя любимая М ! 
+961	Gone forever . 	Ушла навеки . 
+962	Me . 	Я - 
+963	It was all me , James . 	Всё это я , Джеймс . 
+964	It 's always been me . 	Всегда был я . 
+965	The author of all your pain . 	Я - творец твоей боли . 
+966	You 're a brave woman , my dear . 	Вы храбрая женщина , моя дорогая . 
+967	Now I understand why my father lost his mind . 	Теперь я понимаю , почему отец сошёл с ума . 
+968	He didn 't lose his mind , he was just weak . 	Он не сошёл с ума : он был слабак . 
+969	But at least he understood what he was up against . 	Но он хотя бы понимал , с кем воюет . 
+970	You see , they failed to comprehend the crucial fact , that a terrible event can lead to something wonderful . 	А эти не могут понять самого главного : что страшные события могут менять мир к лучшему . 
+971	Since you mention your father , I' ll show you . 	Раз вы вспомнили отца , я вам покажу . 
+972	She 's clever . 	Она умница . 
+973	She 's smarter than me . 	Гораздо умнее меня : знает , где прятаться . 
+974	She knows how to hide . 	Гораздо умнее меня : знает , где прятаться . 
+975	I can protect her if you tell me where he is . 	Я присмотрю за ней , если скажете , где он . 
+976	- I can keep her alive . 	Я помогу ей выжить . Как же ! 
+977	- Yeah . 	
+978	- You have my word . 	Даю зам слово . 
+979	- No , no , no . 	Нет- нет- нет , выключи . 
+980	Turn this off . 	Нет- нет- нет , выключи . 
+981	Your word ? 	Слово ? ! 
+982	- The word of an assassin ! 	Слово убийцы ? 
+983	- Turn this off . 	Выключи ! 
+984	- This is important . 	Сейчас будет главное . 
+985	- I said turn it off ! 	Я сказал , выключи ! 
+986	I want you to understand something . 	Я хочу , чтобы ты кое- что понял . 
+987	That 's my word . 	Вот моё слово . 
+988	Madeleine ? 	Мадлен ... 
+989	Look at me . 	Смотри на меня . 
+990	Don 't look at him , Madeleine . 	Не смотри на него . Смотри на меня . 
+991	Look at me . 	
+992	L' Americain . 	" Американец " ... 
+993	You save her , she can lead you to L' Americain . 	Если спасёте её , она приведёт вас к " Американцу " . 
+994	She knows L' Americain . 	Если спасёте её , она приведёт вас к " Американцу " . 
+995	Try the Hoffler Klinik . 	Езжайте е клинику Хоффлера . 
+996	You 're a kite dancing in a hurricane , Mr . 	Вы как воздушный змей в центре урагана , мистер Бонд . 
+997	Bond . 	
+998	So long . 	Прощайте . 
+999	The things that bring people together . 	Что только не сводит людей вместе ! 
+1000	Out of horror , beauty . 	Из ужаса рождается красота . 
+1001	Torture is easy , on a superficial level . 	Пытать просто , но это примитив . 
+1002	A man can watch himself being disemboweled and ... derive great horror from the experience , but it 's still going on at a distance . 	Человек может смотреть , как его потрошат , пребывать в полном ужасе из- за этого , но всё равно это где- то там , всё это происходит не с ним . 
+1003	It isn 't taking place where he is . 	Человек может смотреть , как его потрошат , пребывать в полном ужасе из- за этого , но всё равно это где- то там , всё это происходит не с ним . 
+1004	As you know all too well , dear Madeleine , a man lives inside his head . 	Как вы сами прекрасно знаете , человек живёт в голове . 
+1005	That 's where the seat of his soul is . 	Вот где обитель его души ! 
+1006	Now , James and I were both present recently when a man was deprived of his eyes . 	Мы с Джеймсом недавно видели , как ЧЕЛОВЕКУ выдавили ГЛАЗА . 
+1007	And the most astonishing thing happened . 	И произошла поразительная вещь , ты не заметил ? 
+1008	Didn 't you notice ? 	И произошла поразительная вещь , ты не заметил ? 
+1009	He wasn 't there anymore . 	Он как будто исчез ! 
+1010	He 'd gone even though he was still alive . 	Он ушёл , хотя был ещё жив . 
+1011	So in this brief moment between life and death , there was nobody inside his skull . 	В этот краткий миг между жизнью и смертью в его черепе не было никого . 
+1012	Most odd . 	Так странно ! 
+1013	So , James . 	Итак , Джеймс ... 
+1014	I 'm going to penetrate ... to where you are . 	Я собираюсь проникнуть к тебе в домик . 
+1015	To the inside of your head . 	За оболочку черепа . 
+1016	Now , the first probe will play with your sight , your hearing and your balance , just with the subtlest of manipulations . 	Первым зондом поиграем со зрением , слухом и равновесием . ВСЕГО ЛИШЬ слегка ПОВОЗИМСЯ . 
+1017	Well , get on with it then . 	Давай уже побыстрее . 
+1018	Nothing can be as painful as listening to you talk . 	Нет страшнее пытки , чем слушать твою болтовню . 
+1019	All right . 	Хорошо . 
+1020	Let 's begin . 	Начинаем . 
+1021	Why are you doing this ? 	Зачем вы это делаете ? 
+1022	You probably know that James here lost his parents when he was young . 	Вам , должно быть , известно , что Джеймс рано осиротел . 
+1023	But did you know that it was my father who helped him through this difficult time ? 	Но знаете пи вы , что мой отец ПОМОГ ему В трудное время ? 
+1024	Over the course of two winters he taught him to ski , and climb , and hunt . 	Две зимы он учил его ходить на лыжах , лазить по горам , ОХОТИТЬСЯ ... 
+1025	He soothed the wounds of the poor little blue- eyed orphan . 	Он исцелил раны бедного голубоглазого сиротки . 
+1026	Asked me to treat him as a brother . 	Меня он просил считать его братом . 
+1027	My little brother . 	Младшим братом . 
+1028	They formed quite an attachment . 	Они так привязались друг к другу ! 
+1029	So ... you killed him . 	И тогда ты убил его . 
+1030	Yes , I did . 	Да , убил . 
+1031	You know what happens when a cuckoo hatches inside another bird 's nest ? 	Знаете , что бывает , когда кукушка оставляет яйцо в чужом гнезде ? 
+1032	Yes . 	Да . 
+1033	It forces the other eggs out . 	Птенец выбрасывает другие яйца . 
+1034	Yes . 	Да . 
+1035	Well ... this cuckoo made me realize my father 's life had to end . 	Так вот ... Наш кукушонок помог мне понять , что отцу пора на тот свет . 
+1036	In a way , he 's responsible for the path I took . 	Так что он в ответе за путь , выбранный мною . 
+1037	So , thank you . 	Спасибо тебе , кукушонок ! 
+1038	Cuckoo . 	
+1039	Do you know any other birdcalls , Franz ? 	Переходишь на птичий язык , Франц ? 
+1040	Hello , pussy . 	Привет , котик . 
+1041	Franz Oberhauser died 20 years ago , James . 	Франц Оберхаузер умер 20 лет назад . 
+1042	In an avalanche , alongside his father . 	Погиб под лавиной вместе с отцом . 
+1043	The man you are talking to now , the man inside your head , is Ernst Stavro Blofeld . 	Того , с кем ты говоришь , человека в твоей голове , зовут Эрнст Ставро Блофельд . 
+1044	Catchy name . 	Славное имечко . 
+1045	My mother 's bloodline . 	По материнской линии . 
+1046	If the needle finds the correct spot in the fusiform gyrus , you 'll recognize no one . 	Если сверло найдёт нужную точку в веретеновидной извилине , ТЫ НИКОГО не УЗНАЕШЬ . 
+1047	Of course , the faces of your women are interchangeable , aren 't they , James ? 	Хотя все твои женщины и так на одно лицо . 
+1048	You won 't know who she is . 	Ты не узнаешь её . 
+1049	Just another passing face on your way to the grave . 	Всего лишь лицо в толпе на пути к могиле . 
+1050	He dies not knowing who you are . 	Он умрёт , ничего о вас не зная . 
+1051	The daughter of an assassin . 	А ведь вы - дочь убийцы . 
+1052	The only one who could have understood him . 	ТОЛЬКО ВЫ бы И МОГЛИ его ПОНЯТЬ . 
+1053	Shame . 	Жаль . 
+1054	I love you . 	Я тебя люблю . 
+1055	Do those blue eyes still recognize you ? 	Есть ещё блеск узнавания в голубых глазах ? 
+1056	I 'd recognize you anywhere . 	Я узнаю тебя всегда и везде . 
+1057	The watch . 	Часы . 
+1058	One minute . 	Одна минута . 
+1059	One minute . 	Одна минута . 
+1060	- Did he say something ? 	Ты что- то сказал ? 
+1061	- Tempus fugit . 	Tempus fugit . 
+1062	- What ? 	Что ? 
+1063	- Tempus fugit . 	Тет риз тишь 
+1064	I can 't hear you , James . 	Я тебя не слышу , Джеймс . 
+1065	I said ... doesn 't time fly ? 	Я говорю : как бежит время ! 
+1066	In there ! 	“ Вы ! 
+1067	Let 's go home . 	Пора домой . 
+1068	It 's not over yet . 	Это ещё не всё . 
+1069	- I' ve never even heard of Hildebrand . 	Никогда не слышал о Гильдебранде . 
+1070	- That is the general idea with safe houses . 	Так обычно и бывает с конспиративными домами . 
+1071	- Exactly how safe is this , sir ? 	А он всё ещё конспиративен ? 
+1072	- We 're about to find out . 	Сейчас узнаем . 
+1073	It 's safe . 	Всё в порядке . 
+1074	Better wait here . 	Подождите здесь . 
+1075	- I 'm M . 	Я- М . 
+1076	- Madeleine Swann . 	- Мадлен Сван . 
+1077	Pleased to meet you . 	- Очень приятно . 
+1078	So , what do you have for me , 007 ? 	Чем похвастаетесь , 007 ? 
+1079	The recently deceased head of Spectre , Ernst Stavro Blofeld , and his chief of intelligence , your new best friend , C . 	Отправил на тот свет главу " Спектра " , Эрнста Ставро Блофеkьда , и вычислил , кто шеф его разведки : ваш новый друг С , который вот- вот возглавит собственную систему глобальной разведки , построенную ПОД самым нашим НОСОМ . 
+1080	About to take control of his very own global surveillance system that he built right here under our noses . 	
+1081	Then we 'd better move . 	Надо торопиться . 
+1082	The system goes online at midnight . 	Система заработает в полночь . 
+1083	If that happens , Spectre will have control of everything . 	Если это случится , " Спектр " получит полный контроль . 
+1084	So , you and I will have a quiet word with C while Q hacks into the system 	Мы с вами побеседуем с С , а Кью взломает систему и остановит её . 
+1085	- and stops it going online . 	Мы с вами побеседуем с С , а Кью взломает систему и остановит её . 
+1086	- It won 't be easy . 	Легко сказать . 
+1087	He 'll find a way . 	Он разберётся . 
+1088	He always does . 	Как всегда . 
+1089	It 's good to have you back , 007 . 	Рад , что вы снова с вами , 007 . 
+1090	Sir . 	Сэр ... 
+1091	James , I can 't . 	Джеймс , я не могу . 
+1092	I' ll come back for you when it 's all over . 	Я вернусь за тобой , когда всё закончится . 
+1093	No , I can 't . 	Нет , я не могу . 
+1094	No , you can 't stay here , or you ... 	Не можешь подождать или ... ? 
+1095	I can 't go back to this life . 	Не могу снова так жить . 
+1096	And I 'm not going to ask you to change . 	Я не стану просить тебя измениться . 
+1097	This is who you are . 	Ты такой , какой есть . 
+1098	You 're saying good- bye . 	Ты прощаешься ? 
+1099	Yes . 	Да . 
+1100	Take care . 	Береги себя . 
+1101	You 're a good man , James . 	Ты хороший человек . 
+1102	Are you in yet , Q ? 	Как у нас дела , Кью ? 
+1103	A few layers of impenetrable security still to go , but I think I 'm getting somewhere . 	Ещё несколько слоёв непробиваемой защиты , но виден свет в конце тоннеля . 
+1104	They 've seen us ! 	Нас увидели ! Назад ! 
+1105	Reverse ! 	
+1106	Go ! 	Вперёд ! 
+1107	Get him in the building ! 	Давай его в здание ! 
+1108	Move . 	Пошёл ! 
+1109	Move ! 	
+1110	Go back and find M , now ! 	Вернитесь и найдите М ! 
+1111	We need them both . 	Нам нужны оба ! 
+1112	Not a good feeling being watched , is it ? 	Неуютно , когда за тобой следят ? 
+1113	- Don 't tell me you 're responsible for this . 	Не говорите , что это ваших рук дело . 
+1114	- No , but my Quartermaster is . 	Не меня , моего каптенармуса . 
+1115	- And he 's extremely talented . 	Очень способный парень . 
+1116	- Well , bravo . 	Прекрасно . 
+1117	But in case you hadn 't realized it , you two are out of a job . 	Если вы ещё не поняли , вы оба уволены . 
+1118	So you 're trespassing . 	Очистите помещение . 
+1119	I 'm afraid you 've got the wrong end of the stick , Max . 	Боюсь , ты не осознаёшь своего положения , Макс . 
+1120	We 're going to stop this system going online . 	Мы не дадим твоей системе выйти в сеть . 
+1121	- And then I 'm going to bring you in . 	А потом я тебя арестую . 
+1122	- On what grounds exactly ? 	За что , интересно ? 
+1123	Poor taste in friends . 	За неудачный выбор друзей . 
+1124	Take a look at the world . 	Что такое наш мир ? 
+1125	Chaos . 	Хаос . 
+1126	Because people like you , paper- pushers and politicians , are too spineless to do what needs to be done . 	Потому что такие , как вы , крючкотворы И ПОЛИТИКИ , боятся делать то , что необходимо . 
+1127	So I made an alliance to put the power where it should be . 	Я заключил союз , чтобы передать впасть в нужные руки . 
+1128	And now you want to throw it away for the sake of " democracy . " 	А ВЫ хотите сорвать МОИ ПЛFНЫ ради какой- то демократии ! 
+1129	Whatever the hell that is . 	Кто бы знал , что это такое ! 
+1130	How predictably moronic . 	Какая предсказуемая мелочность . 
+1131	But then isn 't that what M stands for ? 	Но , может , это и означает М ? 
+1132	" Moron . " 	" Мелкота " . 
+1133	And now we know what C stands for . 	Теперь мы поняли , что означает С . 
+1134	" Careless . " 	« Сосунок » . 
+1135	Come on . 	
+1136	No , no , no ! 	
+1137	You 're a hard man to kill , Blofeld . 	Живучий ты парень , Блофельд . 
+1138	I do hope that doesn 't hurt too much . 	Надеюсь , ты не сильно мучился ? 
+1139	My wounds will heal . 	Мои раны заживут . 
+1140	What about yours ? 	А как насчёт твоих ? 
+1141	Look around you , James . 	Оглянись вокруг , Джеймс . 
+1142	Look . 	Оглянись вокруг , Джеймс . 
+1143	This is what 's left of your world . 	Вот что осталось от твоего мира . 
+1144	Everything you ever stood for , everything you believed in , a ruin . 	Всё , за что ты сражался , во что верил - В РУИНАХ . 
+1145	Why are we here ? 	Зачем мы здесь ? 
+1146	Did you miss me ? 	Ты скучал по мне ? 
+1147	No . 	Нет . 
+1148	But I know someone who does . 	Но кое- кто скучает . 
+1149	Where is she ? 	Где она ? 
+1150	That 's for you to find out . 	А это ты сам выясняй . 
+1151	In three minutes , this building will be demolished . 	Через три минуты здание будет взорвано . 
+1152	I can get out easily . 	Я спокойно выйду через дверь . 
+1153	Now , you have a choice . 	А у тебя есть выбор : погибнуть , пытаясь спасти её , либо спастись самому и жить с этой болью . 
+1154	Die trying to save her or ... save yourself and live with the pain . 	А у тебя есть выбор : погибнуть , пытаясь спасти её , либо спастись самому и жить с этой болью . 
+1155	You 're bluffing . 	Блефуешь . 
+1156	Am I ? 	Уверен ? 
+1157	I' ve really put you through it , haven 't I ? 	Что , попал на этот раз в больное место ? 
+1158	That 's brothers for you . 	Вот что значит братья ! 
+1159	They always know which buttons to press . 	Брат всегда знает , на что нажать . 
+1160	Madeleine ! 	Мадлен ! 
+1161	Come on . 	Давай ! 
+1162	Come on . 	Давай ! 
+1163	Yes ! 	Есть ! 
+1164	Let 's go . 	Идём . 
+1165	After you . 	Ты первый . 
+1166	Why can 't you just face it , M ? 	Когда же до тебя дойдёт , М ? 
+1167	You don 't matter anymore . 	Ты давно никому не нужен . 
+1168	Maybe I don 't . 	Я , может , и не нужен . 
+1169	But something has to . 	Но есть другие ценности . 
+1170	- Dead . 	Готов . 
+1171	- Any word on Bond ? 	Узнали , где Бонд ? 
+1172	No . 	Нет . 
+1173	But I can hazard a guess . 	Но есть одна догадка . 
+1174	Madeleine ! 	Мадлен ! 
+1175	Madeleine ! 	Мадлен ! 
+1176	- Do you trust me ? 	Веришь мне ? 
+1177	- Do I have a choice ? 	А что , есть выбор ? 
+1178	Not anymore . 	Да не особо . 
+1179	Come on ! 	Бегом ! 
+1180	Good- bye , James Bond . 	Прощай , Джеймс Бонд . 
+1181	Brace , brace , brace ! 	Всем держаться ! 
+1182	- Sir , this is a terrorist alert . 	СЭР , У Нас угроза теракта . 
+1183	- Mallory , double- 0 section . 	Мэллори , отдел " Два нуля " . 
+1184	Stand them down . 	Командуй " отбой " . 
+1185	- Echo team , hold fire . 	Рота , внимание . 
+1186	- Stand down . 	Отбой . 
+1187	Finish it . 	Ставь точку . 
+1188	Finish it . 	Ставь точку . 
+1189	Out of bullets . 	Патроны кончились . 
+1190	And besides ... 	Да и вообще , есть дела поважнее . 
+1191	I' ve got something better to do . 	Да и вообще , есть дела поважнее . 
+1192	Under the Special Measures Act of 2001 , 	Согласно Антитеррористическому закону 2001 года , вы арестованы именем британского правительства . 
+1193	I am detaining you on behalf of Her Majesty 's Government . 	Согласно Антитеррористическому закону 2001 года , вы арестованы именем британского правительства . 
+1194	Bond ? 	Бонд ? 
+1195	- What are you doing here ? 	Что вы здесь делаете ? доброе утро , Кью . 
+1196	- Good morning , Q . 	
+1197	- I thought you 'd gone . 	Я думал , вы ушли . 
+1198	- I have . 	Ушёл . 
+1199	There 's just one thing I need . 	Но хотел забрать одну вещь . 
