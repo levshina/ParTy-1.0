@@ -1,0 +1,1971 @@
+1	The next stop is Broad Street . 	Επόμενη στάση , Broad Street , 
+2	Broad Street will be next . 	Επόμενη στάση , Broad Street , 
+3	Upstairs . 	
+4	This way . 	
+5	He didn 't come up this way ? 	
+6	Anything ? 	
+7	He 's not up here . 	Δεν ήρθε από δω ; 
+8	Go back down . 	Δεν ήρθε από δω ; 
+9	Excuse me . 	
+10	Excuse me . 	
+11	Go ahead and park around the corner . 	Προχώρα και πάρκαρε στη γωνία . 
+12	Visitors . 	Επισκέπτες , 
+13	Do you mind if I fetch my teeth ? 	Μπορώ να βάλω τα δόντια μου ; 
+14	Colonel , would you turn around , please ? 	Μπορώ να βάλω τα δόντια μου ; 
+15	Sit down on the bed . 	
+16	Let 's go . 	- Καθήστε στο κρεβάτι . 
+17	Uh , they 're in the ... 	
+18	The teeth are in the ... 	Τα δόντια μου είναι στον νεροχύτη . 
+19	On the sink . 	Τα δόντια μου είναι στον νεροχύτη . 
+20	Look at me . 	Τα δόντια μου είναι στον νεροχύτη . 
+21	We are agents from the Federal Bureau of Investigation . 	Ακούστε με , είμαστε από το FBI . 
+22	Look at me ! 	Ακούστε με , είμαστε από το FBI . 
+23	I 'm talking to you . 	Εμένα κοιτάξτε ! 
+24	We 've received information concerning your involvement in espionage . 	Σας μιλάω . Λάβαμε την πληροφορία πως είστε αναμειγμένος σε υπόθεση κατασκοπίας . 
+25	You can either cooperate with us right now , or you 'll be under arrest . 	Ή θα συνεργαστείτε μαζί μας , ή θα διεξαχθεί σε βάρος σας έρευνα . 
+26	Do you understand , Colonel ? 	Ή θα συνεργαστείτε μαζί μας , ή θα διεξαχθεί σε βάρος σας έρευνα . 
+27	No , not really . 	Με καταλαβαίνετε , συνταγματάρχη ; 
+28	Why do you keep calling me " Colonel " ? 	Όχι καλά . Γιατί με αποκαλείτε " Συνταγματάρχη " ; 
+29	You need to get dressed . 	Πρέπει να ντυθείτε . 
+30	We have to search your apartment . 	Πρέπει να ντυθείτε . 
+31	Would you mind if I , uh , cleaned my palette ? 	Θα ερευνήσουμε το διαμέρισμα . Μπορώ να καθαρίσω την παλέτα μου ; 
+32	The paints , it 'll get ruined otherwise . 	Αλλιώς , θα καταστραφούν τα χρώματα . 
+33	It 's just behind you there . 	Αλλιώς , θα καταστραφούν τα χρώματα . 
+34	I have a cloth myself . 	Εκεί , πίσω σας είναι . Είναι ένα πανάκι . 
+35	Thank you . 	
+36	All right , start searching the place . 	Ευχαριστώ . 
+37	Thank you . 	Αρχίστε να ψάχνετε . 
+38	All right , search the mattress , the bed , the floorboards , his chair . 	Ευχαριστώ . 
+39	Would you put that in the ashtray on the windowsill there ? 	Ψάξτε το στρώμα , το κρεβάτι , το πάτωμα , την καρέκλα ... 
+40	Take a good look at that desk . 	Το σβήνετε στο τασάκι ; 
+41	Let 's see the desk . 	Ας δούμε το γραφείο . 
+42	Wouldn 't want to get this ruined . 	Δεν θέλω να τα σκατώσουμε . 
+43	Don 't say " my guy . " 	Μη λέτε " δικός μου " . 
+44	He 's not " my guy . " 	Δεν είναι " δικός μου " . 
+45	Yes , he 's " your guy . " 	Ασφαλώς και είναι " δικός σου " . 
+46	Who are we talking about ? 	Ασφαλώς και είναι " δικός σου " . 
+47	We 're talking about a guy who was insured by my client . 	Για ποιον μιλάμε ; 
+48	So , don 't make him " my guy . " 	Μιλάμε για έναν τύπο που τον έχει ασφαλίσει ο πελάτης μου γι´ αυτό μην τον λέτε " δικό μου " . 
+49	Okay , fine . 	Μιλάμε για έναν τύπο που τον έχει ασφαλίσει ο πελάτης μου γι´ αυτό μην τον λέτε " δικό μου " . 
+50	My point is , the guy insured by your client , he doesn 't deny that any of these things happened . 	Καλά , εντάξει . Το θέμα είναι , πως ο τύπος που ασφάλισε ο πελάτης σας , δεν αρνείται πως αυτά τα πράγματα έχουν συμβεί . 
+51	" These ... 	
+52	These things " ? 	" Αυτά " ; 
+53	Yes , these five things . 	Ναι , αυτά τα πέντε πράγματα . 
+54	Wait , hold it , hold it , hold it . 	Ναι , αυτά τα πέντε πράγματα . 
+55	Not five things . 	Καθήστε μισό λεπτό . 
+56	One thing . 	Όχι πέντε πράγματα , 
+57	Clearly , it 's five things . 	Ένα πράγμα . 
+58	Well , I 'm sorry , it 's not clear to me . 	Είναι φανερό πως πρόκειται για πέντε . 
+59	Five things ? 	Λυπάμαι , αλλά δεν το αντιλαμβάνομαι έτσι . 
+60	Explain it to me . 	Πέντε ; Εξηγήστε μου , σε παρακαλώ . 
+61	It 's self- evident . 	Πέντε ; Εξηγήστε μου , σε παρακαλώ . 
+62	Okay , then tell me what happened . 	Είναι προφανές . 
+63	Tell me the story in a way that makes sense for five things . 	Ωραία , πείτε μου λοιπόν τι συνέβη . Πείτε μου γιατί μιλάτε για πέντε πράγματα . 
+64	Fine , absolutely . 	
+65	Your guy is ... 	Ο δικός σας λοιπόν ... 
+66	Not my guy . 	Ο δικός σας λοιπόν ... 
+67	Insured by my client . 	Ο δικός σας λοιπόν ... 
+68	The guy insured by your client is driving down State Highway 19 when he loses control of his car and hits my five guys , the five guys who hired me to represent them because you 're not honoring your claim . 	Όχι ο δικός μου ... Ο ασφαλισμένος από τον πελάτη σας οδηγώντας στην State Road 19 , χάνει τον έλεγχο του αυτοκινήτου και παρασύρει τους 5 πελάτες μου , αυτούς που με προσέλαβαν να τους εκπροσωπήσω . γιατί ο πελάτης σας δεν θέλει να πληρώσει αποζημιώσεις . 
+69	You mean my client is not honoring the claim , the insurance company ? 	Όταν λέτε ο πελάτης μου , εννοείτε την ασφαλιστική εταιρία ; 
+70	Mr . 	Όταν λέτε ο πελάτης μου , εννοείτε την ασφαλιστική εταιρία ; 
+71	Donovan , we 're all clear on who 's who , here . 	Κύριε Ντόνοβαν , όλοι καταλαβαίνουμε τι συμβαίνει . 
+72	Except my client honors every claim . 	Εκτός από το γιατί ο πελάτης μου πρέπει να πληρώσει τους πελάτες σας . 
+73	They do , Mr . 	Εκτός από το γιατί ο πελάτης μου πρέπει να πληρώσει τους πελάτες σας . 
+74	Bates . 	
+75	Every single legitimate claim , up to the limit of their liability , which is $100, 000 per accident , in the case of this man 's policy . 	Πληρώνουν κύριε Μπέιτς . Κάθε νόμιμη απαίτηση , στο προβλεπόμενο ύψος αποζημίωσης που είναι 100 . 000$ ανά ατύχημα σύμφωνα με το ασφαλιστήριο του . 
+76	And this is one claim . 	
+77	According to your description , " He hit my five guys . " 	Κι αυτή είναι μία απαίτηση . Όπως εσείς το περιγράφετε , " Χτύπησε τους πέντε πελάτες μου , " 
+78	The guy insured by my client had one accident . 	Ο ασφαλισμένος του πελάτη μου , προκάλεσε ένα ατύχημα . 
+79	One , one , one . 	Ο ασφαλισμένος του πελάτη μου , προκάλεσε ένα ατύχημα . 
+80	Losing control of the car and hitting five motorcyclists . 	Ένα , ένα , ένα , χάνοντας τον έλεγχο του αυτοκινήτου του και χτυπώντας πέντε μοτοσυκλετιστές . 
+81	From their point of view , five things happened . 	Όπως το βλέπουν αυτοί , πρόκειται για πέντε συμβάντα . ʼκου Μπομπ , μπορώ να σε λέω Μπομπ ; 
+82	Well , look , Bob . 	Όπως το βλέπουν αυτοί , πρόκειται για πέντε συμβάντα . ʼκου Μπομπ , μπορώ να σε λέω Μπομπ ; 
+83	May I ? 	Όπως το βλέπουν αυτοί , πρόκειται για πέντε συμβάντα . ʼκου Μπομπ , μπορώ να σε λέω Μπομπ ; 
+84	Bob ? 	
+85	" Jim . " 	Τζιμ . 
+86	If I go bowling and I throw a strike , one thing happened . 	Στο μπόουλιγκ , αν πετύχω στράικ πρόκειται για ένα χτύπημα , όχι για δέκα . 
+87	Ten things didn 't happen . 	Στο μπόουλιγκ , αν πετύχω στράικ πρόκειται για ένα χτύπημα , όχι για δέκα . 
+88	Jim , my guys aren 't bowling pins , as much as your guy may have treated them as such . 	Τζιμ , οι πελάτες μου δεν είναι κορίνες , αν και σαν τέτοιες τους είδε ο πελάτης σου . ʼσε με να ολοκληρώσω . 
+89	If ... 	Τζιμ , οι πελάτες μου δεν είναι κορίνες , αν και σαν τέτοιες τους είδε ο πελάτης σου . ʼσε με να ολοκληρώσω . 
+90	Let me finish . 	Τζιμ , οι πελάτες μου δεν είναι κορίνες , αν και σαν τέτοιες τους είδε ο πελάτης σου . ʼσε με να ολοκληρώσω . 
+91	Let me finish . 	
+92	If your house is insured for $100, 000 and a tornado carries it away , it carried away one house . 	Αν έχεις ασφαλίσει το σπίτι σου για 100 . 000$ κι ένας ανεμοστρόβιλος το παρασύρει παρασύρει ένα σπίτι , δεν παρασύρει κάθε έπιπλο του σπιτιού ξεχωριστά . 
+93	It didn 't pick up every stick of furniture and destroy it in a separate incident . 	Αν έχεις ασφαλίσει το σπίτι σου για 100 . 000$ κι ένας ανεμοστρόβιλος το παρασύρει παρασύρει ένα σπίτι , δεν παρασύρει κάθε έπιπλο του σπιτιού ξεχωριστά . 
+94	If that is what you 're saying , well , then there is never any limit to our liability and that is the end of the insurance business . 	Αν αυτό εννοείς , τότε δεν υπάρχει όριο αποζημίωσης κι αυτό θα ήταν το τέλος των ασφαλιστικών εταιριών . 
+95	And then , Bob , nobody is safe . 	Αν αυτό εννοείς , τότε δεν υπάρχει όριο αποζημίωσης κι αυτό θα ήταν το τέλος των ασφαλιστικών εταιριών . 
+96	Watters , Cowan and Donovan . 	Γουότερς , Κάουαν και Ντόνοβαν , με ποιον θέλετε να σας συνδέσω ; 
+97	How may I direct your call ? 	Γουότερς , Κάουαν και Ντόνοβαν , με ποιον θέλετε να σας συνδέσω ; 
+98	Morning , Mr . 	Γουότερς , Κάουαν και Ντόνοβαν , με ποιον θέλετε να σας συνδέσω ; 
+99	Donovan . 	Καλημέρα κύριε Ντόνοβαν . 
+100	Good morning , Alison . 	Καλημέρα κύριε Ντόνοβαν . 
+101	I moved your 9 : 00 a . m . with Prudential , sir . 	Καλημέρα ʼλισον . 
+102	Why did you do that ? 	Ακύρωσα το ραντεβού σας με τη επιτροπή κύριε . 
+103	I asked her to . 	Γιατί το έκανες αυτό ; 
+104	Is everything all right , Tom ? 	Εγώ της το ζήτησα . 
+105	Why don 't you leave your stuff with Alison . 	Όλα καλά Τομ ; ʼσε τα πράγματά σου στην ʼλισον και πάμε μέσα . 
+106	Come on inside . 	Όλα καλά Τομ ; ʼσε τα πράγματά σου στην ʼλισον και πάμε μέσα . 
+107	Something pretty important has come up . 	Όλα καλά Τομ ; ʼσε τα πράγματά σου στην ʼλισον και πάμε μέσα . 
+108	Somebody 's here to see us . 	Προέκυψε κάτι σοβαρό . 
+109	Natalie 's getting your coffee . 	Έχει έρθει κάποιος να μας δει . 
+110	Nescafe , cream , two lumps , right ? 	Η Νάταλι θα φέρει καφέ . Νεσκαφέ με δυο ζάχαρες και γάλα ; 
+111	That 's right . 	
+112	Thanks . 	Ακριβώς . 
+113	Lynn ! 	
+114	Jim ! 	
+115	Nice to see you again . 	- Λιν ! - Τζιμ ! 
+116	How 's the family ? 	Χαίρομαι . 
+117	Great , good . 	Πώς είναι η οικογένεια ; 
+118	Thanks . 	Πώς είναι η οικογένεια ; 
+119	How 's Annie ? 	Μια χαρά . 
+120	Homicidal . 	Η ʼννι τι κάνει ; 
+121	We had the in- laws for the holiday . 	Σχέδια για φόνο . 
+122	Well , if she acts on it , she 'll have good representation . 	Ήρθαν οι δικοί της για τις γιορτές . 
+123	Now , what 's up ? 	Αν εγκληματίσει θα έχει καλή υπεράσπιση . 
+124	Okay , here 's the thing . 	ʼκου πως έχουν τα πράγματα . 
+125	The Soviet spy they caught , we want you to defend him . 	Θέλουμε να αναλάβεις τον σοβιετικό κατάσκοπο που έπιασαν . 
+126	Here 's the indictment . 	Θέλουμε να αναλάβεις τον σοβιετικό κατάσκοπο που έπιασαν . 
+127	Wow . 	
+128	I 'm not sure I wanna pick that up . 	Δεν είμαι σίγουρος αν θέλω να το δω . 
+129	The accused doesn 't know any lawyers . 	Δεν είμαι σίγουρος αν θέλω να το δω . 
+130	The federal court tossed it into our lap . 	Ο κατηγορούμενος δεν έχει δικηγόρο , 
+131	The Bar Committee took a vote . 	Το ομοσπονδιακό δικαστήριο μάς όρισε αρμόδιους , ο δικηγορικός σύλλογος ψήφισε , και επιλέχθηκες εσύ ομόφωνα . 
+132	You 're the unanimous choice . 	Το ομοσπονδιακό δικαστήριο μάς όρισε αρμόδιους , ο δικηγορικός σύλλογος ψήφισε , και επιλέχθηκες εσύ ομόφωνα . 
+133	It was important to us ... 	Το ομοσπονδιακό δικαστήριο μάς όρισε αρμόδιους , ο δικηγορικός σύλλογος ψήφισε , και επιλέχθηκες εσύ ομόφωνα . 
+134	It 's important to our country , Jim , that this man is seen as getting a fair shake . 	Είναι σημαντικό για μας και για τη χώρα μας Τζιμ ο άνθρωπος να τύχει δίκαιης μεταχείρισης . 
+135	American justice will be on trial . 	Είναι σημαντικό για μας και για τη χώρα μας Τζιμ ο άνθρωπος να τύχει δίκαιης μεταχείρισης . 
+136	Well , of course , when you put it that way , it 's an honor to be asked . 	Κρίνεται και η αμερικάνικη δικαιοσύνη . Όπως το θέτετε , είναι τιμή μου , αλλά 
+137	But , Lynn , I 'm an insurance lawyer . 	Λιν , ασχολούμαι με τις ασφάλειες Δεν έχω κάνει ποινικό εδώ και χρόνια . 
+138	I haven 't done criminal work in years . 	Λιν , ασχολούμαι με τις ασφάλειες Δεν έχω κάνει ποινικό εδώ και χρόνια . 
+139	It 's like riding a bike , isn 't it ? 	Δεν είναι όπως το ποδήλατο ; 
+140	You distinguished yourself at Nuremberg . 	Στη Νυρεμβέργη ήσουν εξαιρετικός . 
+141	I was on the prosecution team . 	Στη Νυρεμβέργη ήσουν εξαιρετικός . 
+142	Not the point . 	Ήμουν μέλος της κατηγορούσας αρχής . 
+143	You 're no stranger to criminal law . 	Το θέμα είναι πως γνωρίζεις την ποινική νομοθεσία . 
+144	Jim , look at the situation . 	Κοίτα πώς έχει η κατάσταση , Τζιμ . 
+145	The man is publicly reviled . 	Ο άνθρωπος έχει δημοσίως διαπομπευθεί . 
+146	And I will be , too . 	Ο άνθρωπος έχει δημοσίως διαπομπευθεί . 
+147	Yes , in more ignorant quarters . 	Το ίδιο θα πάθω κι εγώ . 
+148	But that 's exactly why this has to be done , and capably done . 	Ναι , γιατί έτσι είναι οι δημοσιογράφοι . Γι αυτό και πρέπει να γίνει και μάλιστα με τον πιο ικανό τρόπο 
+149	It can 't look like our justice system tosses people on the ash heap . 	Δεν μπορεί το ποινικό μας σύστημα να φαίνεται πως πετάει ανθρώπους στα σκουπίδια . 
+150	Suppose I did , what 's the evidence look like ? 	Ας πούμε πως δέχομαι . 
+151	Pretty overwhelming . 	Ακλόνητα . 
+152	Great . 	Ακλόνητα . 
+153	Great . 	Υπέροχα . 
+154	Everyone will hate me but at least I' ll lose . 	Όλοι θα με μισήσουν αλλά τουλάχιστον θα χάσω . 
+155	Well , what do you think , Tom ? 	Εσύ τι λες Τομ ; 
+156	The firm will suffer . 	Εσύ τι λες Τομ ; 
+157	I have work here . 	Και η δικηγορική εταιρία θα υποστεί βλάβη , αφού δουλεύω εδώ . 
+158	I think it 's a patriotic duty . 	Νομίζω είναι πατριωτικό καθήκον . 
+159	It 's an important mission . 	Νομίζω είναι πατριωτικό καθήκον . 
+160	I told Lynn , the firm can 't say no , and you 'd have a tough time saying no , too . 	Είναι σημαντική αποστολή . Είπα στον Λιν πως η εταιρία δε μπορεί να αρνηθεί και πιστεύω πως ούτε εσύ μπορείς . 
+161	I think you have to defend the son of a bitch . 	Νομίζω πως πρέπει να αναλάβεις αυτό το κάθαρμα . 
+162	So , you 're doing it ? 	Θα το κάνεις λοιπόν ; 
+163	Doing what ? 	Θα το κάνεις λοιπόν ; 
+164	Defending Abel , the Soviet spy . 	Να κάνω , τι ; Θα υπερασπιστείς τον ʼμπελ , έναν σοβιετικό κατάσκοπο . 
+165	I may . 	
+166	I have to speak to ... 	Θα πρέπει να μιλήσω με ... 
+167	Wait , how do you know ? 	Θα πρέπει να μιλήσω με ... 
+168	Did they post it on the bulletin board ? 	Εσύ πού τό ´μαθες ; Το είπαν στις ειδήσεις ; 
+169	No , I ... 	Εσύ πού τό ´μαθες ; Το είπαν στις ειδήσεις ; 
+170	I was talking to Richard Earl ... 	Όχι , μιλούσα με τον Ρίτσαρντ ... 
+171	Look , if I do this , I 'm going to need your help . 	Όχι , μιλούσα με τον Ρίτσαρντ ... 
+172	Can you work tonight ? 	Απόψε ευκαιρείς ; 
+173	Well , I have a dinner date , sir . 	Έχω ραντεβού απόψε για δείπνο . 
+174	It 's Tuesday , right ? 	
+175	Yeah , no , I 'm free , completely free . 	Τρίτη δεν είναι ; Είμαι ελεύθερος . 
+176	Thank you , sir . 	Τρίτη δεν είναι ; Είμαι ελεύθερος . 
+177	But it 's also an honor . 	Αποτελεί επίσης τιμή που ο δικηγορικός σύλλογος ζήτησε εμένα για να δείξουν πως κι ένας κατάσκοπος δικαιούται ικανής εκπροσώπησης . 
+178	And the Bar Association asked me because they want to show that even a spy gets a capable advocate . 	Αποτελεί επίσης τιμή που ο δικηγορικός σύλλογος ζήτησε εμένα για να δείξουν πως κι ένας κατάσκοπος δικαιούται ικανής εκπροσώπησης . 
+179	Well , maybe it 's the kind of honor we could do without . 	Να μας έλειπε καλύτερα τέτοια τιμή . 
+180	Hey , honey , what are you doing home ? 	Να μας έλειπε καλύτερα τέτοια τιμή . 
+181	I got stood up . 	Τι κάνεις εσύ εδώ ; 
+182	Well , that 's despicable . 	Με έστησαν . Αδιανόητο . 
+183	Who is this knot- head ? 	Ποιος ήταν αυτός ο κόπανος ; 
+184	I 'd rather not say . 	Ποιος ήταν αυτός ο κόπανος ; 
+185	Well , sit down . 	Δε θέλω να πω . 
+186	We just started . 	Κάθησε . 
+187	People are scared . 	Μόλις αρχίσαμε . 
+188	They 're building bomb shelters to protect themselves from people like this man . 	Ο κόσμος φοβάται . Φτιάχνουν καταφύγια για να προστατευτούν από άτομα σαν κι αυτόν . 
+189	I go to the store , people are buying canned food and potassium tablets . 	Στο σούπερμαρκετ ο κόσμος αγοράζει κονσέρβες και χάπια καλλίου . 
+190	It 's all about this man and what he represents . 	Το μόνο που έχω να πω για το ποιόν του και τι αντιπροσωπεύει , είναι ότι είναι απειλή για όλους μας , ένας προδότης . 
+191	He 's a threat to all of us . 	Το μόνο που έχω να πω για το ποιόν του και τι αντιπροσωπεύει , είναι ότι είναι απειλή για όλους μας , ένας προδότης . 
+192	A traitor . 	Το μόνο που έχω να πω για το ποιόν του και τι αντιπροσωπεύει , είναι ότι είναι απειλή για όλους μας , ένας προδότης . 
+193	Who 's a traitor ? 	
+194	The Rosenbergs were traitors . 	- Ποιος είναι προδότης ; - Οι Ρόσεμπεργκ ήταν προδότες . 
+195	Who were they ? 	- Ποιος είναι προδότης ; - Οι Ρόσεμπεργκ ήταν προδότες . 
+196	They gave atomic secrets to the Russians . 	Ποιοι ήταν αυτοί ; Πρόδωσαν πυρηνικά μυστικά στους Ρώσους . 
+197	They were Americans . 	
+198	They betrayed their country . 	Ήταν Αμερικάνοι που πρόδωσαν τη χώρα τους . 
+199	You can 't accuse Abel of being a traitor . 	Δε μπορείς να κατηγορείς τον ʼμπελ για προδοσία . 
+200	He 's not an American . 	Δε μπορείς να κατηγορείς τον ʼμπελ για προδοσία . 
+201	Oh , listen to yourself . 	Δεν είναι Αμερικάνος . ʼκου τι λες . ʼρχισες κιόλας να τον υπερασπίζεσαι . 
+202	You 're defending him already . 	Δεν είναι Αμερικάνος . ʼκου τι λες . ʼρχισες κιόλας να τον υπερασπίζεσαι . 
+203	You 're rehearsing it on me . 	Δεν είναι Αμερικάνος . ʼκου τι λες . ʼρχισες κιόλας να τον υπερασπίζεσαι . 
+204	You said you were just thinking about taking it . 	Μου είπες πως θα το σκεφτόσουν . 
+205	I am just thinking about it , just very hard . 	Το σκέφτομαι . 
+206	Everyone deserves a defense . 	Όλοι δικαιούνται υπεράσπισης . 
+207	Every person matters . 	Όλοι δικαιούνται υπεράσπισης . 
+208	Jim , what do we deserve ? 	Κάθε άτομο μετράει . 
+209	Do you know how people will look at us ? 	Τζιμ , εμείς τι δικαιούμαστε ; 
+210	The family of a man trying to free a traitor ? 	Ξέρεις τι θα λέει για μας ο κόσμος ; Η οικογένεια αυτού που θέλει να ελευθερώσει τον προδότη . 
+211	He 's not a traitor , Mary . 	- Δεν είναι προδότης Μαίρη . 
+212	Yes , yes . 	- Δεν είναι προδότης Μαίρη . 
+213	Roger , get that ! 	- Δεν είναι προδότης Μαίρη . 
+214	He 's not a traitor ... 	- Εντάξει . 
+215	Why do I have to do all the work ? 	- Ρότζερ , άνοιξε εσύ . 
+216	Oh ! 	- Γιατί πάντα εγώ ; 
+217	You wait till we say grace . 	- Γιατί πάντα εγώ ; 
+218	I 'm hungry ! 	- Να πούμε πρώτα την προσευχή . 
+219	He 's about the most unpopular man in this country , and you 're trying to take second place ! 	- Πεινάω ! Είναι ο πιο μισητός άνθρωπος στη χώρα μας κι εσύ προσπαθείς να γίνεις ο δεύτερος ! 
+220	Yeah , and I 'm third . 	Κι εγώ είμαι η τρίτη . 
+221	Carol , you just dated the wrong guy . 	Κι εγώ είμαι η τρίτη . 
+222	I wanna eat . 	Κάρολ , απλά βγήκες ραντεβού με λάθος άτομο . 
+223	Mary , don 't make this an argument when we 're not having an argument . 	Κάρολ , απλά βγήκες ραντεβού με λάθος άτομο . 
+224	You 're against him , I 'm for him ? 	Μαίρη , μη δημιουργείς θέμα . Δεν καυγαδίζουμε . 
+225	No , I 'm not for him . 	Εσύ είσαι κατά κι εγώ υπέρ ; 
+226	I 'm not for the Russians spying on us . 	Δεν τον υποστηρίζω ούτε θέλω οι Ρώσοι να μας κατασκοπεύουν , αλλά θέλω να έχει υπεράσπιση στο δικαστήριο , γιατί αυτό σημαίνει δικαιοσύνη . 
+227	I 'm for his right to have a defense in a court of law , which is why they call it a court of law . 	Δεν τον υποστηρίζω ούτε θέλω οι Ρώσοι να μας κατασκοπεύουν , αλλά θέλω να έχει υπεράσπιση στο δικαστήριο , γιατί αυτό σημαίνει δικαιοσύνη . 
+228	I didn 't mean to interrupt dinner . 	Δεν τον υποστηρίζω ούτε θέλω οι Ρώσοι να μας κατασκοπεύουν , αλλά θέλω να έχει υπεράσπιση στο δικαστήριο , γιατί αυτό σημαίνει δικαιοσύνη . 
+229	A court of law ... 	Δεν ήθελα να σας διακόψω στο τραπέζι . 
+230	Hey , Doug . 	Δεν ήθελα να σας διακόψω στο τραπέζι . 
+231	Oh , no , not at all . 	Γεια σου Νταγκ . 
+232	Hello , Doug . 	Δεν ενοχλείς Νταγκ . 
+233	Jim was just flailing . 	Δεν ενοχλείς Νταγκ . 
+234	I 'm not flailing . 	Ο Τζιμ αγόρευε . 
+235	Go ahead , Doug , you can join us for dinner . 	Κάτσε να φας μαζί μας Νταγκ , έχουμε ρολό . 
+236	We 're having meatloaf tonight . 	Κάτσε να φας μαζί μας Νταγκ , έχουμε ρολό . 
+237	So , you came over to help Jim think about whether he 's taking the case ? 	Ήρθες να βοηθήσεις τον Τζιμ να αποφασίσει τι θα κάνει ; 
+238	Oh , we 're taking it ! 	Ήρθες να βοηθήσεις τον Τζιμ να αποφασίσει τι θα κάνει ; 
+239	It 's exciting , isn 't it ? 	Θα την αναλάβουμε . 
+240	Lord , we thank thee for thy blessings we are about to receive . 	Χριστέ ο Θεός ημών , ευλόγησον την βρώσιν και την πόσιν των δούλων Σου . 
+241	Thy bounty through Christ , our Lord . 	Χριστέ ο Θεός ημών , ευλόγησον την βρώσιν και την πόσιν των δούλων Σου . 
+242	Amen . 	Χριστέ ο Θεός ημών , ευλόγησον την βρώσιν και την πόσιν των δούλων Σου . 
+243	Good morning , sir . 	
+244	My name is Jim Donovan . 	Καλημέρα κύριε , ονομάζομαι Τζιμ Ντόνοβαν . 
+245	These are my credentials . 	Καλημέρα κύριε , ονομάζομαι Τζιμ Ντόνοβαν . 
+246	I am a partner in Watters , Cowan and Donovan . 	Αυτά είναι τα διαπιστευτήριά μου . 
+247	I was admitted to the New York Bar in 1941 . 	Είμαι συνέταιρος στην Γουότερς , Κάουαν και Ντόνοβαν . Είμαι μέλος του δικηγορικού συλλόγου από το 1941 , 
+248	You have been charged with three counts and 19 overt acts . 	Κατηγορείστε με 3 κακουργήματα και 19 διακεκριμένες πράξεις , για συνομωσία με σκοπό τη μεταφορά πυρηνικών και αμυντικών μυστικών από τις Η . Π . Α στην Ε . Σ . Σ . Δ συνομωσία για συλλογή μυστικών , καταγραφή τους και παράδοσή τους σε ξένο πράκτορα . 
+249	Conspiracy to transmit United States defense and atomic secrets to the Soviet Union , conspiracy to gather secrets , and failing to register as a foreign agent . 	Κατηγορείστε με 3 κακουργήματα και 19 διακεκριμένες πράξεις , για συνομωσία με σκοπό τη μεταφορά πυρηνικών και αμυντικών μυστικών από τις Η . Π . Α στην Ε . Σ . Σ . Δ συνομωσία για συλλογή μυστικών , καταγραφή τους και παράδοσή τους σε ξένο πράκτορα . 
+250	Do many foreign agents register ? 	Είναι πολλοί ξένοι πράκτορες καταγεγραμμένοι ; 
+251	If you don 't mind my asking , sir , since your arrest , where have you been ? 	Μπορώ να σας ρωτήσω πού βρεθήκατε από τη σύλληψή σας και μετά ; 
+252	I couldn 't say for certain . 	Δε μπορώ να απαντήσω με σιγουριά . 
+253	You don 't know ? 	Δε μπορώ να απαντήσω με σιγουριά . 
+254	They drove me to an airport and put me on a plane , took me off the plane . 	Δε γνωρίζετε ; 
+255	Somewhere hot . 	Με πήγαν στο αεροδρόμιο , μ´ έβαλαν στο αεροπλάνο , με πήγαν σ´ ένα μέρος με ζέστη . 
+256	It 's hot here . 	Με πήγαν στο αεροδρόμιο , μ´ έβαλαν στο αεροπλάνο , με πήγαν σ´ ένα μέρος με ζέστη . 
+257	Hotter , very humid . 	Κι εδώ έχει ζέστη . Ζεστό και υγρό . 
+258	They put me in a room . 	Μ´ έβαλαν σ´ ένα δωμάτιο , 
+259	Were you beaten ? 	Μ´ έβαλαν σ´ ένα δωμάτιο , 
+260	No . 	Σας χτύπησαν ; 
+261	I was talked to . 	Όχι . 
+262	Offers were made . 	Μου μιλούσαν , μου έκαναν προσφορές . 
+263	What do you mean ? 	Μου μιλούσαν , μου έκαναν προσφορές . 
+264	Offers of employment , to work for your government . 	Τι εννοείτε ; Μου πρόσφεραν δουλειά , να εργαστώ για την κυβέρνησή σας . 
+265	I was told if I cooperated , no further charges would be made against me . 	Μου είπαν πως αν συνεργαζόμουν , δεν θα μου απήγγειλαν κατηγορίες και θα μου έδιναν χρήματα . 
+266	And I would be given money . 	Μου είπαν πως αν συνεργαζόμουν , δεν θα μου απήγγειλαν κατηγορίες και θα μου έδιναν χρήματα . 
+267	Hmm . 	Μου είπαν πως αν συνεργαζόμουν , δεν θα μου απήγγειλαν κατηγορίες και θα μου έδιναν χρήματα . 
+268	And you declined ? 	Κι εσείς αρνηθήκατε ; 
+269	As you see . 	Όπως βλέπετε . 
+270	Well , of course I can 't endorse that . 	Δεν προσυπογράφω κάτι τέτοιο αλλά αισθάνομαι την ηθική υποχρέωση να σας προτρέψω να συνεργαστείτε . 
+271	I feel duty- bound to urge you to cooperate with the U . S . government . 	Δεν προσυπογράφω κάτι τέτοιο αλλά αισθάνομαι την ηθική υποχρέωση να σας προτρέψω να συνεργαστείτε . 
+272	Well , I said no . 	Δεν προσυπογράφω κάτι τέτοιο αλλά αισθάνομαι την ηθική υποχρέωση να σας προτρέψω να συνεργαστείτε . 
+273	Perhaps you could relay to your friends at the CIA that I meant it . 	Είπα όχι . Πείτε στους φίλους σας στη CIA πως το εννοώ 
+274	No , no , no . 	Όχι , όχι δεν δουλεύω για τη CIA , ούτε για την κυβέρνηση . 
+275	I ... 	Όχι , όχι δεν δουλεύω για τη CIA , ούτε για την κυβέρνηση . 
+276	I don 't work for the agency . 	Όχι , όχι δεν δουλεύω για τη CIA , ούτε για την κυβέρνηση . 
+277	I don 't work for the government . 	
+278	I am here to offer my services as your legal counsel . 	Είμαι εδώ για να σας προσφέρω τις νομικές μου υπηρεσίες , ως συνήγορος , αν με δεχτείτε . 
+279	If you accept them as such , 	Είμαι εδώ για να σας προσφέρω τις νομικές μου υπηρεσίες , ως συνήγορος , αν με δεχτείτε . 
+280	I work for you . 	Δουλεύω για σας . 
+281	If I accept you ? 	Δουλεύω για σας . 
+282	Are you good at what you do ? 	Είστε καλός στη δουλειά σας ; 
+283	Yeah . 	Είστε καλός στη δουλειά σας ; 
+284	Yeah , I 'm pretty good . 	Ναι , είμαι πολύ καλός . 
+285	Have you represented many accused spies ? 	Έχετε υπερασπιστεί πολλούς φερόμενους ως κατάσκοποι ; 
+286	No , not yet . 	Όχι μέχρι τώρα . 
+287	This will be a first for the both of us . 	Θα είναι η πρώτη φορά και για τους δυο μας . 
+288	Yes . 	
+289	All right . 	Εντάξει . 
+290	" All right " ? 	Εντάξει . 
+291	You accept ? 	" Εντάξει " ; Δηλαδή , δέχεστε ; 
+292	Yes , all right . 	Ναι , δέχομαι . 
+293	Good , okay . 	Ναι , δέχομαι . 
+294	Let 's start here . 	Ωραία . 
+295	If you are firm in your resolve not to cooperate with the U . S . government ... 	Για ν´ αρχίσουμε λοιπόν , Αν είστε αποφασισμένος να μη συνεργαστείτε με την κυβέρνηση ... 
+296	I am . 	Είμαι . 
+297	Yeah . 	Είμαι . 
+298	Then do not talk to anybody else about your case , inside of government or out . 	δεν θα μιλάτε με κανένα για την υπόθεσή σας , κυβερνητικό ή μη , εκτός από μένα στο βαθμό που με εμπιστεύεστε . 
+299	Except to me , to the extent that you trust me . 	δεν θα μιλάτε με κανένα για την υπόθεσή σας , κυβερνητικό ή μη , εκτός από μένα στο βαθμό που με εμπιστεύεστε . 
+300	I have a mandate to serve you . 	Εγώ είμαι εξουσιοδοτημένος να σας βοηθήσω και κανείς άλλος . 
+301	Nobody else does . 	Εγώ είμαι εξουσιοδοτημένος να σας βοηθήσω και κανείς άλλος . 
+302	Quite frankly , everybody else has an interest in sending you to the electric chair . 	Ειλικρινά , όλοι οι άλλοι θέλουν να σας στείλουν στην ηλεκτρική καρέκλα . 
+303	All right . 	Ειλικρινά , όλοι οι άλλοι θέλουν να σας στείλουν στην ηλεκτρική καρέκλα . 
+304	You don 't seem alarmed . 	Δε φαίνεστε να ανησυχείτε . 
+305	Would it help ? 	Θα ωφελούσε σε τίποτα ; 
+306	I ... 	
+307	I would like materials to draw with . 	Θα ήθελα σύνεργα ζωγραφικής . 
+308	That 's not possible . 	Θα ήθελα σύνεργα ζωγραφικής . 
+309	A pencil , a piece of paper . 	Είναι αδύνατο . 
+310	Cigarettes . 	Ένα μολύβι , ένα χαρτί , τσιγάρα . 
+311	Please ? 	Σας παρακαλώ ; 
+312	Mr . 	
+313	Donovan , you have men like me doing the same for your country . 	Κύριε Ντόνοβαν έχετε κι εσείς ανθρώπους που κάνουν το ίδιο για τη χώρα σας . 
+314	If they were caught , 	Αν είχαν συλληφθεί , είμαι σίγουρος πως θα θέλατε να τους φερθούν καλά . 
+315	I 'm sure that you would wish them to be treated well . 	Αν είχαν συλληφθεί , είμαι σίγουρος πως θα θέλατε να τους φερθούν καλά . 
+316	What 's your name ? 	
+317	Francis Gary Powers . 	Πώς λέγεσαι ; 
+318	Rank , service ? 	Πού υπηρετείς ; 
+319	First Lieutenant , United States Air Force . 	Υποσμηναγός της αεροπορίας των Η . Π . Α . 
+320	Do you have any association with the Soviet Union , Lieutenant Powers ? 	Έχεις σχέσεις με την Ε . Σ . Σ . Δ . υποσμηναγέ ; 
+321	Kidding ? 	Έχεις σχέσεις με την Ε . Σ . Σ . Δ . υποσμηναγέ ; 
+322	Just answer the questions , Lieutenant . 	Πλάκα μου κάνετε ; 
+323	Yes , no , or as simply as you can . 	Απλά απάντησε , υποσμηναγέ . 
+324	Do you have any association with the Soviet Union ? 	Ναι , όχι , ή όσο πιο απλά γίνεται , 
+325	Hell , no . 	Έχεις σχέσεις με την Ε . Σ . Σ . Δ ; 
+326	Do you know why you 're here ? 	Με τίποτα . 
+327	Mmm- mmm . 	Γνωρίζεις γιατί βρίσκεσαι εδώ ; 
+328	Is that a no ? 	Αυτό σημαίνει " όχι " ; 
+329	Yes . 	Αυτό σημαίνει " όχι " ; 
+330	I mean ... 	Ναι , δηλαδή ... 
+331	No , it 's just " no . " 	Ναι , δηλαδή ... 
+332	Yes , I have absolutely no idea why I 'm here . 	Όχι , είναι ένα απλό " όχι " . 
+333	Eyes front , Lieutenant . 	Δεν έχω την παραμικρή ιδέα γιατί βρίσκομαι εδώ . 
+334	Yes , sir . 	- Κοίτα μπροστά υποσμηναγέ . 
+335	How 'd you do in there , Gary ? 	
+336	Pretty good . 	Πώς τα πήγες εκεί μέσα Γκάρι ; 
+337	Think I got my name right . 	Πολύ καλά , νομίζω πως έγραψα όνομα . 
+338	You probably outscored Shinn , then . 	Μάλλον μάζεψες περισσότερους πόντους από τον Σιν . 
+339	Who 's winning ? 	Μάλλον μάζεψες περισσότερους πόντους από τον Σιν . 
+340	Uh , that would be me . 	- Ποιος κερδίζει ; - Εγώ . 
+341	Oh . 	- Ποιος κερδίζει ; - Εγώ . 
+342	Well , deal me in . 	- Ποιος κερδίζει ; - Εγώ . 
+343	So , these are all mine , then . 	Μοίρασέ μου φύλλο . 
+344	I told you boys not to play with him . 	Έχει περάσει τα όρια . 
+345	Okay , drivers , here 's the deal . 	Πιλότοι , η κατάσταση έχει ως εξής : 
+346	You 've been selected for a mission which you are not to discuss with anyone outside of this room . 	Επιλεχθήκατε για μια αποστολή που δε θα συζητήσετε με κανέναν έξω απ´ αυτό το δωμάτιο . 
+347	No one . 	Επιλεχθήκατε για μια αποστολή που δε θα συζητήσετε με κανέναν έξω απ´ αυτό το δωμάτιο . 
+348	I don 't care who you trust . 	Κανέναν . 
+349	Wife , mother , sweetheart . 	Δε με νοιάζει ποιους εμπιστεύεστε 
+350	The good Lord when you pray at night . 	Σύζυγο , μάνα , φιλενάδα , τον Θεό τον ίδιο , δεν θα πείτε σε κανέναν αυτό που θα σας πω . 
+351	You don 't tell any of them anything of what I 'm about to tell you . 	Σύζυγο , μάνα , φιλενάδα , τον Θεό τον ίδιο , δεν θα πείτε σε κανέναν αυτό που θα σας πω . 
+352	Each of you drivers has met certain qualifications . 	Όλοι σας έχετε τα απαιτούμενα προσόντα . 
+353	High level security clearance . 	Όλοι σας έχετε τα απαιτούμενα προσόντα . 
+354	Exceptional pilot ratings in excess of the required hours flight time in a single- seat aircraft . 	Είστε απόλυτα έμπιστοι , εξαιρετικοί πιλότοι με πολλές ώρες πτήσης σε μονοθέσια μαχητικά αεροσκάφη . 
+355	We are engaged in a war . 	Είμαστε σε εμπόλεμη κατάσταση σ´ έναν πόλεμο που επί του παρόντος δεν αφορά στρατεύματα αλλά πληροφορίες . 
+356	This war does not , for the moment , involve men- at- arms . 	Είμαστε σε εμπόλεμη κατάσταση σ´ έναν πόλεμο που επί του παρόντος δεν αφορά στρατεύματα αλλά πληροφορίες . 
+357	It involves information . 	Είμαστε σε εμπόλεμη κατάσταση σ´ έναν πόλεμο που επί του παρόντος δεν αφορά στρατεύματα αλλά πληροφορίες . 
+358	You will be collecting information . 	Θα συλλέγετε πληροφορίες αναφορικά με τον εχθρό που θα μπορούσαν να μας δώσουν το πάνω χέρι σ´ ένα θερμό πυρηνικό επεισόδιο με τη Σοβιετική Ένωση . 
+359	You will be gathering intelligence about the enemy . 	Θα συλλέγετε πληροφορίες αναφορικά με τον εχθρό που θα μπορούσαν να μας δώσουν το πάνω χέρι σ´ ένα θερμό πυρηνικό επεισόδιο με τη Σοβιετική Ένωση . 
+360	The intelligence you gather could give us the upper hand in a full thermonuclear exchange with the Soviet Union . 	Θα συλλέγετε πληροφορίες αναφορικά με τον εχθρό που θα μπορούσαν να μας δώσουν το πάνω χέρι σ´ ένα θερμό πυρηνικό επεισόδιο με τη Σοβιετική Ένωση . 
+361	Or it could prevent one . 	
+362	For public purposes , as far as your wife or mother or sweetheart or the good Lord above , your mission does not exist . 	Ή να μας βοηθήσουν να το αποτρέψουμε . Για το κοινό καλό , όσον αφορά στη γυναίκα , στη φιλενάδα ή στον Θεό τον ίδιο , η αποστολή αυτή δεν υπάρχει . 
+363	If it does not exist , you do not exist . 	Αν δεν υπάρχει αυτή , ούτε κι εσείς υπάρχετε . 
+364	You cannot be shot down . 	Αν δεν υπάρχει αυτή , ούτε κι εσείς υπάρχετε . 
+365	You cannot be captured . 	Δεν πρέπει να σκοτωθείτε , δεν πρέπει να συλληφθείτε . 
+366	You work for the CIA now . 	
+367	So , Jim , I heard your guy is speaking with a phony accent . 	ʼκουσα Τζιμ πως ο δικός σου μιλάει με ψεύτικη προφορά . 
+368	Does he keep that up all the time ? 	Έτσι μιλάει όλη την ώρα ; 
+369	Actually , I 'm pretty sure that 's just the way he talks . 	Είμαι πεπεισμένος πως αυτός είναι ο τρόπος που μιλάει . 
+370	He 's got the Russian name but a British passport . 	Είμαι πεπεισμένος πως αυτός είναι ο τρόπος που μιλάει . 
+371	Well , I doubt that that 's genuine . 	Έχει ρώσικο όνομα αλλά βρετανικό διαβατήριο . Αμφιβάλλω αν είναι γνήσιο . 
+372	So , Jim , where are we ? 	Πού βρισκόμαστε λοιπόν , Τζιμ ; Εδώ βλέπω ... 
+373	I see here ... 	Πού βρισκόμαστε λοιπόν , Τζιμ ; Εδώ βλέπω ... 
+374	Yes , uh , Judge , you see , 	Πού βρισκόμαστε λοιπόν , Τζιμ ; Εδώ βλέπω ... 
+375	I just don 't think that three weeks is going to do it , here . 	Ξέρετε , δικαστή δε νομίζω πως επαρκούν τρεις εβδομάδες . 
+376	We ... 	Ξέρετε , δικαστή δε νομίζω πως επαρκούν τρεις εβδομάδες . 
+377	We got a massive amount of evidence , as you know . 	Ξέρετε , δικαστή δε νομίζω πως επαρκούν τρεις εβδομάδες . 
+378	You wanna postpone ? 	Η δικογραφία είναι τεράστια . 
+379	Six weeks . 	- Αιτείσαι αναβολής ; - Έξι εβδομάδων . 
+380	I mean , there 's just myself and my associate , basically . 	Είμαι μόνος μου με τον βοηθό μου . 
+381	Jim , is this serious ? 	Είμαι μόνος μου με τον βοηθό μου . 
+382	Sir ? 	Τζιμ , σοβαρολογείς ; 
+383	Is this serious ? 	Σοβαρολογείς ; 
+384	Yes . 	Σοβαρολογείς ; 
+385	Yes , indeed , it is . 	Σοβαρολογείς ; 
+386	You can see in the filing ... 	Ναι , απολύτως . 
+387	Jim , this man is a Soviet spy . 	Όπως λέει και η αίτηση ... Ο άνθρωπος είναι σοβιετικός κατάσκοπος . 
+388	Allegedly . 	
+389	Come on , Counselor ! 	- Φέρεται να είναι . 
+390	Your Honor . 	
+391	Of course , I salute you . 	Εντιμότατε ... 
+392	We all salute you for taking on a thankless task . 	Φυσικά εκτιμώ όπως όλοι μας , το γεγονός πως ανέλαβες ένα άχαρο καθήκον και πρέπει να τηρηθεί η διαδικασία αλλά ας μην κοροιδευόμαστε 
+393	This man has to have due process . 	Φυσικά εκτιμώ όπως όλοι μας , το γεγονός πως ανέλαβες ένα άχαρο καθήκον και πρέπει να τηρηθεί η διαδικασία αλλά ας μην κοροιδευόμαστε 
+394	But let 's not kid each other . 	Φυσικά εκτιμώ όπως όλοι μας , το γεγονός πως ανέλαβες ένα άχαρο καθήκον και πρέπει να τηρηθεί η διαδικασία αλλά ας μην κοροιδευόμαστε 
+395	He 'll receive a capable defense . 	Θα έχεις την ευκαιρία μιας σωστής υπεράσπισης και Θεού θέλοντος , θα καταδικαστεί . 
+396	And , God willing , he 'll be convicted . 	Θα έχεις την ευκαιρία μιας σωστής υπεράσπισης και Θεού θέλοντος , θα καταδικαστεί . 
+397	Come on , Counselor . 	Θα έχεις την ευκαιρία μιας σωστής υπεράσπισης και Θεού θέλοντος , θα καταδικαστεί . 
+398	Let 's not play games with this . 	Έλα συνήγορε δεν θα επιτρέψω παιγνίδια . 
+399	Not in my courtroom . 	Έλα συνήγορε δεν θα επιτρέψω παιγνίδια . 
+400	We have a date and we 're going to trial . 	Όχι όταν δικάζω εγώ . Έχουμε ορίσει ημερομηνία και θα διεξαχθεί η δίκη . 
+401	Taxi ! 	Ταξί ! 
+402	Taxi ! 	Ταξί ! 
+403	I see your light on ! 	Ταξί ! 
+404	Son of a bitch . 	Είσαι ελεύθερος , αλήτη ! 
+405	Can 't wait to get back to Manhattan . 	Βιάζεται να γυρίσει στο Μανχάταν . 
+406	His light was on , right ? 	Βιάζεται να γυρίσει στο Μανχάταν . 
+407	Son of a bitch . 	Ελεύθερος δεν ήταν ; 
+408	Against their level of comfort . 	Εν συγκρίσει με τις συνθήκες , ο νόμος δεν έχει αλλάξει . 
+409	The statute hasn 't changed . 	Εν συγκρίσει με τις συνθήκες , ο νόμος δεν έχει αλλάξει . 
+410	Oh , excuse me , sir . 	Εν συγκρίσει με τις συνθήκες , ο νόμος δεν έχει αλλάξει . 
+411	Pardon me . 	Συγνώμη . 
+412	Sorry . 	Συγνώμη . 
+413	Oh ! 	Με συγχωρείτε . 
+414	Mr . 	
+415	Donovan . 	Κύριε Ντόνοβαν . 
+416	What ? 	Τι ; 
+417	What ? 	
+418	CIA . 	CIA . 
+419	Yeah . 	CIA . 
+420	I just wanted to chat . 	Ναι . 
+421	How 's the case going ? 	
+422	Case is going great . 	Πώς πάει η υπόθεση ; 
+423	Couldn 't be better . 	Καλύτερα δε γινόταν . 
+424	Mmm- hmm . 	Καλύτερα δε γινόταν . 
+425	Has your guy talked ? 	
+426	Excuse me . 	Ορίστε ; 
+427	You met him . 	Ορίστε ; 
+428	Has he talked ? 	Ορίστε ; 
+429	Has he said anything yet ? 	Τον είδατε . 
+430	We 're not having this conversation . 	Σας μίλησε ; Είπε τίποτα ; 
+431	No , of course not . 	Η συζήτηση αυτή δεν είναι σαν να μην έγινε . 
+432	No , I mean , we really are not having it . 	Φυσικά . 
+433	You 're asking me to violate attorney- client privilege . 	Σοβαρολογώ . Μου ζητάτε να παραβιάσω το δικηγορικό απόρρητο . 
+434	Oh , come on , Counselor . 	
+435	You know , I wish people like you would quit saying " Oh , come on , Counselor . " 	Έλα τώρα συνήγορε . 
+436	I didn 't like it the first time it happened today . 	Θα ήθελα να σταματήσετε να το λέτε αυτό . 
+437	A judge said it to me twice . 	Δε μου άρεσε από την πρώτη φορά που το άκουσα . 
+438	And the more I hear it , the more I don 't like it . 	Ο δικαστής μού το είπε δις κι όσο περισσότερο το ακούω , τόσο ενοχλούμαι . 
+439	Okay , well , listen , I understand attorney- client privilege . 	Κατανοώ το επαγγελματικό απόρρητο και όλα τα νομικά τερτίπια και πως έτσι βγάζεις το ψωμί σου αλλά εγώ μιλάω για κάτι διαφορετικό . 
+440	I understand all the legal gamesmanship . 	Κατανοώ το επαγγελματικό απόρρητο και όλα τα νομικά τερτίπια και πως έτσι βγάζεις το ψωμί σου αλλά εγώ μιλάω για κάτι διαφορετικό . 
+441	And I understand that 's how you make a living . 	Κατανοώ το επαγγελματικό απόρρητο και όλα τα νομικά τερτίπια και πως έτσι βγάζεις το ψωμί σου αλλά εγώ μιλάω για κάτι διαφορετικό . 
+442	But I 'm talking to you about something else . 	
+443	The security of your country . 	Την ασφάλεια της χώρας σου και λυπάμαι αν σε προσβάλλουν αυτά που λέω αλλά πρέπει να μάθουμε τι σου είπε ο ʼμπελ . 
+444	And I 'm sorry if the way I put it offends you . 	Την ασφάλεια της χώρας σου και λυπάμαι αν σε προσβάλλουν αυτά που λέω αλλά πρέπει να μάθουμε τι σου είπε ο ʼμπελ . 
+445	But we need to know what Abel is telling you . 	Την ασφάλεια της χώρας σου και λυπάμαι αν σε προσβάλλουν αυτά που λέω αλλά πρέπει να μάθουμε τι σου είπε ο ʼμπελ . 
+446	You understand me , Donovan ? 	Με καταλαβαίνεις Ντόνοβαν ; 
+447	We need to know . 	Με καταλαβαίνεις Ντόνοβαν ; 
+448	Don 't go " Boy Scout " on me . 	Πρέπει να ξέρουμε . 
+449	We don 't have a rule book , here . 	Μη μου πουλάς εμένα ηθική . 
+450	You 're Agent Hoffman , yeah ? 	Εμείς δεν ακολουθούμε κανόνες . 
+451	Yeah . 	Είσαι ο πράκτωρ Χόφμαν , σωστά ; 
+452	German extraction . 	Ναι . 
+453	Yeah , so ? 	Γερμανικής καταγωγής . 
+454	My name 's Donovan . 	Και λοιπόν ; 
+455	Irish . 	Εμένα με λένε Ντόνοβαν . 
+456	Both sides , mother and father . 	Ιρλανδός . 
+457	I 'm Irish , you 're German . 	Κι από μητέρα κι από πατέρα . 
+458	But what makes us both Americans ? 	Εγώ είμαι Ιρλανδός , εσύ Γερμανός , αλλά τι μας κάνει και τους δυο Αμερικάνους ; 
+459	Just one thing . 	Εγώ είμαι Ιρλανδός , εσύ Γερμανός , αλλά τι μας κάνει και τους δυο Αμερικάνους ; 
+460	One , one , one . 	Ένα μόνο πράγμα . 
+461	The rule book . 	Μόνο ένα . 
+462	We call it the Constitution and we agree to the rules , and that 's what makes us Americans . 	Οι κανονισμοί . Ονομάζονται Σύνταγμα . Το ότι υπακούουμε σ´ αυτούς , μας κάνει Αμερικάνους . 
+463	It 's all that makes us Americans so don 't tell me there 's no rule book , and don 't nod at me like that , you son of a bitch . 	Αυτό μας κάνει όλους Αμερικάνους γι αυτό μη μου τσαμπουνάς πως δεν υπάρχουν κανονισμοί , αλήτη . 
+464	Do we need to worry about you ? 	
+465	Not if I 'm left alone to do my job . 	Πρέπει να ανησυχούμε για σένα ; Όχι αν μ´ αφήσετε ήσυχο να κάνω τη δουλειά μου . 
+466	From this moment forward you will not refer to the U- 2 as a spy plane or reconnaissance aircraft . 	ΑΕΡΟΠΟΡΙΚΗ ΒΑΣΗ PESHAWAR ΠΑΚΙΣΤΑΝ Από δω και στο εξής δεν θα αναφερόμαστε στα U- 2 ως κατασκοπευτικά αεροπλάνα ή αναγνωριστικά αεροσκάφη , αλλά θα τα αποκαλείτε " Αντικείμενα " , 
+467	You will refer to it as " The Article . " 	
+468	The Article has an 80- foot wingspan . 	Το αντικείμενο έχει 24μ άνοιγμα φτερών , 
+469	It 's powered by a single Pratt and Whitney J57 P- 37 engine . 	Εξοπλισμένο με έναν κινητήρα Pratt και Whitney J57- P 37 , 4 . 500 κιλά ώθησης και 700 χλμ . την ώρα ανώτατη ταχύτητα . 
+470	10, 000 pounds of thrust and a maximum speed of 430 miles an hour . 	Εξοπλισμένο με έναν κινητήρα Pratt και Whitney J57- P 37 , 4 . 500 κιλά ώθησης και 700 χλμ . την ώρα ανώτατη ταχύτητα . 
+471	She may not be quick , but at your cruising altitude of 70, 000 feet , nothing will come close to you . 	Μπορεί να μην είναι γρήγορο αλλά στις 21 . 000 μ που θα πετάτε κανείς δεν θα σας πλησιάσει . 
+472	70, 000 ? 	Μπορεί να μην είναι γρήγορο αλλά στις 21 . 000 μ που θα πετάτε κανείς δεν θα σας πλησιάσει . 
+473	The idea is the enemy doesn 't even know you 're there . 	21 . 000 ; Το σκεπτικό ήταν ο εχθρός να μη γνωρίζει καν την ύπαρξή σας . 
+474	It looks kind of flimsy . 	Η κατασκευή του δεν δείχνει στιβαρή . 
+475	Every extra pound of weight costs a foot in altitude , and we need to accommodate the cameras . 	Κάθε παραπανίσιο κιλό βάρους μειώνει το ύψος πτήσης κατά ένα μέτρο και πρέπει να φιλοξενεί και τις κάμερες . 
+476	That 's a 4, 500- millimeter lens , times three . 	τρεις , με φακούς των 4500 χιλ . 
+477	A pin- sharp panoramic camera four times as powerful as any aerial reconnaissance cameras we 've ever used . 	Μια πανοραμική κάμερα πολλών λήψεων 4 φορές πιο ισχυρή από τις κάμερες αναγνώρισης από αέρος που έχουμε 
+478	You 're gonna be taking pictures , lots of pictures . 	Θα παίρνετε φωτογραφίες . 
+479	At 70, 000 feet , The Article can photograph 2, 000 square miles of territory in one pass . 	Πολλές φωτογραφίες . Στα 70 χιλιάδες πόδια το " αντικείμενο " μπορεί να φωτογραφήσει 5 . 000 τετ . χιλ . μόνο μ´ ένα πέρασμα . 
+480	Now , drivers , give Agent Sumner your undivided attention . 	Πιλότοι , θέλω τώρα ν´ ακούσετε με μεγάλη προσοχή τον πράκτορα Σάμμερ . 
+481	The items you will need on your mission are over here . 	Αυτά που θα χρειαστείτε στην αποστολή σας είναι : 
+482	B camera , Revere 8 model 40 magazine , 	Βιντεοκάμερα 8 χιλ . 
+483	Keystone Capri K- 25 , silver . 	Ριβέρ , μοντέλο 40 με κασέτα . Αψιδόλιθος Capri K- 25 , ασημί , 
+484	Hollow- handle shaving brush . 	Πινέλο καθαρισμού . 
+485	Complete set of cipher tables on edible silver foil . 	Ένα πλήρες σετ φακών για κάθε τύπο εδάφους . 
+486	Specialist photographic equipment . 	Ένα πλήρες σετ φακών για κάθε τύπο εδάφους . 
+487	Yeah , we , uh ... 	
+488	We get the idea . 	Καταλάβαμε . 
+489	Thank you . 	Καταλάβαμε . 
+490	Uh , excuse me , Agent , uh , Bosco . 	Συγνώμη , πράκτωρα Μπόσκο , " Μπλάσκο " . 
+491	" Blasco . " 	Συγνώμη , πράκτωρα Μπόσκο , " Μπλάσκο " . 
+492	Sir . 	Συγνώμη , πράκτωρα Μπόσκο , " Μπλάσκο " . 
+493	There seems to be a subsection to this list here . 	Ναι . Υπάρχει μια υποενότητα σ´ αυτή τη λίστα . 
+494	Well , most of this stuff came from his studio , but the rest is from the hotel room he was holed up in . 	Το περισσότερο υλικό είναι από το διαμέρισμά του και το υπόλοιπο από το δωμάτιο του ξενοδοχείου που είχε καταφύγει . 
+495	Where we found him . 	Το περισσότερο υλικό είναι από το διαμέρισμά του και το υπόλοιπο από το δωμάτιο του ξενοδοχείου που είχε καταφύγει . 
+496	The hotel room you searched ? 	Εκεί που τον βρήκαμε . Το δωμάτιο που ερευνήσατε . 
+497	Well , yeah . 	Ακριβώς . 
+498	Can I see the warrant ? 	Ακριβώς . 
+499	The what ? 	Μπορώ να δω το ένταλμα ; 
+500	Yeah , explain this to me . 	Παρακαλώ εξηγείστε μου . 
+501	There was a warrant . 	Παρακαλώ εξηγείστε μου . 
+502	There was a warrant . 	Υπήρχε ένα ένταλμα . 
+503	A civil detention writ for the arrest of an alien , but there was no search warrant for suspicion of criminal activity . 	Υπήρχε ένα ένταλμα για τη σύλληψη ενός αλλοδαπού , αλλά όχι για έρευνα στη βάση υποψίας περί εγκληματικής συμπεριφοράς , άρα η ίδια η έρευνα και τα στοιχεία που προέκυψαν απ´ αυτή , είναι παράνομα και πρέπει να απορριφθούν . 
+504	So , the search and the evidence that is the fruit of that search , that 's all tainted and should not be admitted . 	Υπήρχε ένα ένταλμα για τη σύλληψη ενός αλλοδαπού , αλλά όχι για έρευνα στη βάση υποψίας περί εγκληματικής συμπεριφοράς , άρα η ίδια η έρευνα και τα στοιχεία που προέκυψαν απ´ αυτή , είναι παράνομα και πρέπει να απορριφθούν . 
+505	What protections is he due , Your Honor ? 	Υπήρχε ένα ένταλμα για τη σύλληψη ενός αλλοδαπού , αλλά όχι για έρευνα στη βάση υποψίας περί εγκληματικής συμπεριφοράς , άρα η ίδια η έρευνα και τα στοιχεία που προέκυψαν απ´ αυτή , είναι παράνομα και πρέπει να απορριφθούν . 
+506	The man is not ... 	Ποια προστασία επικαλείται κύριε Πρόεδρε ; 
+507	The man is what ? 	Ο άνθρωπος δεν είναι ... 
+508	He 's Rudolf Ivanovich Abel . 	Ποιο είναι αυτό το άτομο ; Είναι ο Ρούντολφ Ιβάνοβιτς ʼμπελ 
+509	He is a Soviet citizen . 	Ποιο είναι αυτό το άτομο ; Είναι ο Ρούντολφ Ιβάνοβιτς ʼμπελ 
+510	He 's not an American . 	Σοβιετικός πολίτης . 
+511	1886 , Yick Wo v . 	Δεν είναι Αμερικάνος . 
+512	Hopkins . 	Υπόθεση Γικ Γουό κατά Χόπκινς , 1886 
+513	The court held that even aliens , in that case Chinese immigrants , could not be held to answer for a crime without due process of law , including any alien that entered the country illegally . 	Το δικαστήριο απεφάνθη πως ακόμη κι οι ξένοι πολίτες , εν προκειμένω Κινέζοι μετανάστες δε μπορούσαν να κρατηθούν και ανακριθούν δίχως να τηρηθεί η προβλεπόμενη διαδικασία συμπεριλαμβανομένων και των παράνομων μεταναστών . 
+514	The Department of Justice has its first allegiance to the United States . 	Το υπουργείο δικαιοσύνης ενδιαφέρεται πρωτίστως για τους Αμερικάνους πολίτες . 
+515	I don 't see how an alien , if he 's here illegally , how he suffered deprivation of rights . 	Δε βλέπω πως ένας ξένος που έχει εισέλθει παρανόμως , μπορεί να υποστεί καταπάτηση των δικαιωμάτων του . 
+516	Rights as what ? 	Δε βλέπω πως ένας ξένος που έχει εισέλθει παρανόμως , μπορεί να υποστεί καταπάτηση των δικαιωμάτων του . 
+517	An American ? 	Δικαιώματα ως τι ; 
+518	Rights as what , Counselor ? 	Ως Αμερικάνος ; Ως τι , συνήγορε ; 
+519	We 're in a battle for civilization . 	Βιώνουμε έναν πόλεμο πολιτισμών . 
+520	This Russian spy came here to threaten our way of life . 	Αυτός ο Ρώσος κατάσκοπος ήρθε να απειλήσει τον τρόπο ζωής μας 
+521	Now , I have a courtroom of people waiting . 	Αυτός ο Ρώσος κατάσκοπος ήρθε να απειλήσει τον τρόπο ζωής μας 
+522	Get out there , sit beside the Russian . 	Μας περιμένει κόσμος στην αίθουσα . 
+523	Let 's get this over and done with . 	Τράβα και κάτσε δίπλα στον Ρώσο . ʼντε να τελειώνουμε . 
+524	And your motion is denied . 	Τράβα και κάτσε δίπλα στον Ρώσο . ʼντε να τελειώνουμε . 
+525	He should take some insurance out on himself . 	Καλύτερα να ασφαλίσει τον εαυτό του . 
+526	How did we do ? 	Καλύτερα να ασφαλίσει τον εαυτό του . 
+527	In there ? 	Πώς τα πήγαμε ; 
+528	Uh ... 	Μέσα ; 
+529	Not too good . 	Όχι και τόσο καλά . 
+530	Apparently , you 're not an American citizen . 	Όχι και τόσο καλά . 
+531	That 's true . 	Δεν είστε Αμερικάνος πολίτης . 
+532	And according to your boss , you 're not a Soviet citizen either . 	Σωστά . Και σύμφωνα με το αφεντικό σας δεν είστε ούτε Σοβιετικός . 
+533	Well , the boss isn 't always right but he 's always the boss . 	Το αφεντικό , ακόμη κι αν κάνει λάθος παραμένει αφεντικό . 
+534	Do you never worry ? 	
+535	Would it help ? 	Δεν ανησυχείς ; 
+536	All rise . 	
+537	" I pledge allegiance to the Flag 	Δηλώνω πίστη στη σημαία των Η . Π . Α και τη Δημοκρατία που διακηρύττει ένα Έθνος του Θεού , αδιαίρετο , με ελευθερία και δικαιοσύνη για όλους . 
+538	" of the United States of America , 	Δηλώνω πίστη στη σημαία των Η . Π . Α και τη Δημοκρατία που διακηρύττει ένα Έθνος του Θεού , αδιαίρετο , με ελευθερία και δικαιοσύνη για όλους . 
+539	" and to the Republic for which it stands , 	Δηλώνω πίστη στη σημαία των Η . Π . Α και τη Δημοκρατία που διακηρύττει ένα Έθνος του Θεού , αδιαίρετο , με ελευθερία και δικαιοσύνη για όλους . 
+540	" one Nation under God , indivisible , 	
+541	" with liberty and justice for all . " 	
+542	First , you have to know what happens when an atomic bomb explodes . 	Πρώτα πρέπει κανείς να γνωρίζει τι σημαίνει έκρηξη ατομικής βόμβας . 
+543	There is a bright flash , brighter than the sun . 	Υπάρχει μια ισχυρή λάμψη , ισχυρότερη κι απ´ του ήλιου . 
+544	It can smash in buildings , break windows all over town . 	Μπορεί να καταστρέψει κτίρια , να σπάσει τζάμια σ´ όλη την πόλη . 
+545	But if you duck and cover like Bert , you will be much safer . 	Αλλά αν προφυλαχτείς σε καταφύγιο , όπως ο Μπαρτ θα είσαι πιο ασφαλής . 
+546	There are two kinds of attack , with warning and without any warning . 	Υπάρχουν δυο ειδών επιθέσεις : 
+547	Mmm . 	
+548	What 's going on in here ? 	
+549	Okay , Dad , this is really important . 	Τι συμβαίνει εδώ ; Λοιπόν , μπαμπά , αυτό είναι πολύ σημαντικό . 
+550	When the war begins , the first thing they do is cut off all the water and all the electricity . 	Όταν αρχίσει ο πόλεμος , το πρώτο που κάνουν είναι να κόψουν το νερό και το ρεύμα . ʼρα η πρώτη μας κίνηση είναι να έχουμε τη μπανιέρα γεμάτη να χρησιμοποιούμε τη ντουζιέρα στο δωμάτιό σου , τον νεροχύτη στο ισόγειο , το λάστιχο του κήπου ... 
+551	So the first thing we should do is keep this filled , use the shower in your room , use the sink downstairs , the garden hose outside ... 	Όταν αρχίσει ο πόλεμος , το πρώτο που κάνουν είναι να κόψουν το νερό και το ρεύμα . ʼρα η πρώτη μας κίνηση είναι να έχουμε τη μπανιέρα γεμάτη να χρησιμοποιούμε τη ντουζιέρα στο δωμάτιό σου , τον νεροχύτη στο ισόγειο , το λάστιχο του κήπου ... 
+552	Those are good ideas . 	Όταν αρχίσει ο πόλεμος , το πρώτο που κάνουν είναι να κόψουν το νερό και το ρεύμα . ʼρα η πρώτη μας κίνηση είναι να έχουμε τη μπανιέρα γεμάτη να χρησιμοποιούμε τη ντουζιέρα στο δωμάτιό σου , τον νεροχύτη στο ισόγειο , το λάστιχο του κήπου ... 
+553	But , Roger , I don 't see this as being something you ever have to worry about . 	Πολύ καλές αυτές οι ιδέες αλλά δεν έγινε κάτι για να ανησυχείς Ρότζερ . 
+554	Yeah , but when you hear the sirens , there may not be enough time to fill the tub and the sinks . 	Όταν όμως ακουστούν οι σειρήνες δεν θα έχουμε χρόνο να γεμίσουμε τη μπανιέρα και τους νεροχύτες . 
+555	Not gonna be any sirens ... 	Όταν όμως ακουστούν οι σειρήνες δεν θα έχουμε χρόνο να γεμίσουμε τη μπανιέρα και τους νεροχύτες . 
+556	What is this ? 	Αυτό τι είναι ; 
+557	When the bomb comes , the Reds will aim for the Empire State Building . 	Η βόμβα , θα έχει στόχο το Empire State Building αλλά η έκρηξη γίνεται στα 3000 μέτρα ύψος . 
+558	But the bomb goes off at 10, 000 feet up . 	Η βόμβα , θα έχει στόχο το Empire State Building αλλά η έκρηξη γίνεται στα 3000 μέτρα ύψος . 
+559	In Life magazine , it 's called an airburst , and if the bomb is 50 megatons , the blast wave goes out and out and out and melts everything from here to here . 	Το περιοδικό Λάιφ την αποκαλεί " ατμοσφαιρική " και αν η βόμβα είναι 50 μεγατόνων , η έκρηξη εξαπλώνεται συνεχώς και λειώνει τα πάντα από εδώ μέχρι εδώ . 
+560	Including where we live . 	Το περιοδικό Λάιφ την αποκαλεί " ατμοσφαιρική " και αν η βόμβα είναι 50 μεγατόνων , η έκρηξη εξαπλώνεται συνεχώς και λειώνει τα πάντα από εδώ μέχρι εδώ . 
+561	Here . 	Μαζί και το μέρος που μένουμε . 
+562	Yeah , right there . 	Εδώ . Ναι , εδώ μένουμε . 
+563	But , you know , Roger , no one is dropping atomic bombs on us . 	Όμως Ρότζερ , δεν θα μας ρίξει κανείς ατομική βόμβα . 
+564	But the Russians want to . 	Όμως Ρότζερ , δεν θα μας ρίξει κανείς ατομική βόμβα . 
+565	You know that Russian guy you 're defending ? 	Οι Ρώσοι θέλουν . 
+566	He 's here to get things ready for the guys who drop the bombs . 	Ο Ρώσος που υπερασπίζεσαι ... ήρθε να ετοιμάσει το έδαφος γι´ αυτούς που θα τη ρίξουν . 
+567	No , no , he 's not ... 	Ο Ρώσος που υπερασπίζεσαι ... ήρθε να ετοιμάσει το έδαφος γι´ αυτούς που θα τη ρίξουν . 
+568	Not here for that . 	Όχι , δεν είναι εδώ γι αυτόν τον λόγο . 
+569	He 's not even Russian . 	Όχι , δεν είναι εδώ γι αυτόν τον λόγο . 
+570	He was born , we think , in Northern England . 	Δεν είναι καν Ρώσος . Γεννήθηκε πιστεύουμε στη βόρεια Αγγλία . 
+571	Yeah , but he 's a spy for Russia . 	Ναι αλλά είναι κατάσκοπος της Ρωσίας . 
+572	I don 't even understand what you 're doing . 	Δεν καταλαβαίνω γιατί το κάνεις ; 
+573	You 're not a Communist , so why are you defending one ? 	Αφού δεν είσαι κομμουνιστής γιατί τον υπερασπίζεσαι ; 
+574	Well , because it 's my job . 	Αφού δεν είσαι κομμουνιστής γιατί τον υπερασπίζεσαι ; 
+575	It never used to be . 	Γιατί αυτή είναι η δουλειά μου . Δεν ήταν πριν . 
+576	In the case of the United States of America versus Rudolf Abel , as to the first count in the indictment , how do you find the defendant ? 	Το κράτος των Η . Π . Α εναντίον του Ρούντολφ ʼμπελ στην πρώτη κατηγορία του κατηγορητηρίου , σε τι απόφαση καταλήξατε για τον κατηγορούμενο ; 
+577	Guilty or not guilty ? 	Αθώος ή ένοχος ; 
+578	Guilty . 	Αθώος ή ένοχος ; 
+579	As to the second count ? 	Για τη δεύτερη κατηγορία ; 
+580	Guilty . 	Ένοχος . 
+581	As to the third count ? 	Για την τρίτη ; 
+582	Guilty . 	Για την τρίτη ; 
+583	Your Honor , I make a motion to set aside these guilty verdicts against the weight of evidence . 	Ένοχος . Κε Πρόεδρε , ζητώ να απορριφθούν οι καταδίκες λόγω απουσίας αποδείξεων . 
+584	Denied . 	Απορρίπτεται . 
+585	The jury is discharged . 	Οι ένορκοι είναι ελεύθεροι να αποχωρήσουν . 
+586	Thank you all . 	Οι ένορκοι είναι ελεύθεροι να αποχωρήσουν . 
+587	I would like to add that , if I were one of you , 	Σας ευχαριστώ όλους . 
+588	I would 've reached the same verdict . 	Θα ήθελα να προσθέσω πως αν ήμουν ένας από σας θα είχα αποφασίσει το ίδιο . 
+589	Sentencing will be 	Η ποινή θα οριστεί στις 15 Νοεμβρίου . 
+590	November 15 . 	Η ποινή θα οριστεί στις 15 Νοεμβρίου . 
+591	The death sentence is not a foregone conclusion . 	Η θανατική ποινή δεν είναι προαποφασισμένη . 
+592	Don 't worry . 	Η θανατική ποινή δεν είναι προαποφασισμένη . 
+593	I 'm not afraid to die , Mr . 	Δε φοβάμαι να πεθάνω κύριε Ντόνοβαν . 
+594	Donovan . 	Δε φοβάμαι να πεθάνω κύριε Ντόνοβαν . 
+595	Although it wouldn 't be my first choice . 	Αν και ... δεν είναι και η πρώτη μου επιλογή . 
+596	You left this behind . 	Ξεχάσατε αυτά . 
+597	Oh , thank you . 	Ευχαριστώ . 
+598	Oh , thank you very much ! 	Ευχαριστώ πολύ ! 
+599	You 've never asked me if the charges were true . 	Δε με ρωτήσατε ποτέ αν οι κατηγορίες αληθεύουν . 
+600	If I am indeed a spy . 	Αν είμαι όντως κατάσκοπος . 
+601	This is how we do it . 	Αν είμαι όντως κατάσκοπος . 
+602	The case against you matters . 	Κοιτάξτε πώς γίνεται . 
+603	Making them prove it matters . 	Η κατηγορία έχει σημασία , να κληθούν να το αποδείξουν , έχει σημασία . 
+604	The fiction is ... 	Η κατηγορία έχει σημασία , να κληθούν να το αποδείξουν , έχει σημασία . 
+605	Whether you did it or not doesn 't matter . 	Ρεαλιστικά αν το δούμε ... είτε είσαι ή δεν είσαι , δεν εχει σημασία . 
+606	The state has to prove it , that you 're a spy . 	Η πολιτεία πρέπει να αποδείξει πως είσαι . 
+607	So you 're not curious ? 	Η πολιτεία πρέπει να αποδείξει πως είσαι . 
+608	No , not really . 	Δεν είσαι περίεργος να μάθεις ; Όχι . 
+609	I always assumed you were an artist . 	Πάντα υπέθετα πως είσαι καλλιτέχνης . 
+610	My wife , she 's the artist . 	Η γυναίκα μου είναι η καλλιτέχνης . 
+611	She 's a musician in the Children 's Orchestra of Moscow . 	Είναι μουσικός . Στην παιδική ορχήστρα της Μόσχας . 
+612	What instrument ? 	Τι όργανο παίζει ; ʼρπα . 
+613	The harp . 	Τι όργανο παίζει ; ʼρπα . 
+614	Oh . 	Τι όργανο παίζει ; ʼρπα . 
+615	Then , she 's an angel . 	Επομένως είναι ένας άγγελος . 
+616	Standing there like that , you remind me of a man who used to come to our house when I was young . 	Έτσι όπως στέκεσαι , μου θυμίζεις κάποιον που ερχόταν σπίτι μας συχνά όταν ήμουν μικρός . 
+617	My father used to say , " Watch this man . " 	Ο πατέρας μου έλεγε : 
+618	So I did , every time he came . 	" Παρατήρησέ τον " . Και τον παρατηρούσα κάθε φορά που ερχόταν . 
+619	And never once did he do anything remarkable . 	Ποτέ ... δεν έκανε κάτι ξεχωριστό . 
+620	And I remind you of him ? 	Ποτέ ... δεν έκανε κάτι ξεχωριστό . 
+621	This one time , I was about the age of your son . 	Κάποια φορά , ήμουν στην ηλικία του γιου σου , στο σπίτι μας έκαναν επιδρομή ασφαλίτες , 
+622	Our house was overrun by partisan border guards . 	Κάποια φορά , ήμουν στην ηλικία του γιου σου , στο σπίτι μας έκαναν επιδρομή ασφαλίτες , 
+623	Dozens of them . 	δεκάδες από δαύτους , ο πατέρας μου κι η μητέρα μου ξυλοκοπήθηκαν ακόμη κι αυτός , ο φίλος του πατέρα μου , ξυλοκοπήθηκε . 
+624	My father was beaten , my mother was beaten , and this man , my father 's friend , he was beaten . 	δεκάδες από δαύτους , ο πατέρας μου κι η μητέρα μου ξυλοκοπήθηκαν ακόμη κι αυτός , ο φίλος του πατέρα μου , ξυλοκοπήθηκε . 
+625	And I watched this man . 	Κι έβλεπα αυτόν τον άνθρωπο , 
+626	Every time they hit him he stood back up again . 	κάθε φορά που τον χτυπούσαν σηκωνόταν πάλι όρθιος . 
+627	So they hit him harder . 	Αυτοί τον χτυπούσαν πιο δυνατά μα αυτός πάλι στεκόταν στα πόδια του . 
+628	Still , he got back to his feet . 	Αυτοί τον χτυπούσαν πιο δυνατά μα αυτός πάλι στεκόταν στα πόδια του . 
+629	I think because of this they stopped the beating . 	Μάλλον γι αυτό , σταμάτησαν να τον χτυπάνε . 
+630	They let him live . 	Μάλλον γι αυτό , σταμάτησαν να τον χτυπάνε . 
+631	I remember them saying it . 	Τους θυμάμαι να το επαναλαμβάνουν . 
+632	It sort of means , like , uh , " standing man . " 	Περίπου σημαίνει ... " Περήφανος άνθρωπος " 
+633	Standing man . 	
+634	Hello , Jim ! 	
+635	Millie , you 're a vision . 	- Γεια σου Τζιμ ! 
+636	Mortie 's busy getting kitted out . 	- Μίλι , είσαι υπέροχη . 
+637	But come on in . 	Ο Μόρτυ προσπαθεί να σηκωθεί αλλά εσύ πέρασε μέσα . 
+638	Scotch , Jim ? 	Ο Μόρτυ προσπαθεί να σηκωθεί αλλά εσύ πέρασε μέσα . 
+639	Oh , yes , please . 	- Ένα ουίσκυ Τζιμ ; - Ναι , σ´ ευχαριστώ πολύ . 
+640	Thank you . 	- Ένα ουίσκυ Τζιμ ; - Ναι , σ´ ευχαριστώ πολύ . 
+641	Uh , just a drop of water . 	- Ένα ουίσκυ Τζιμ ; - Ναι , σ´ ευχαριστώ πολύ . 
+642	Your Honor . 	Με μια στάλα νερό . 
+643	Hello , Jim ! 	Κύριε Πρόεδρε . 
+644	Just going out . 	Γεια σου Τζιμ . 
+645	Got a few minutes though . 	Μόλις έφευγα . Έχω όμως λίγο χρόνο . 
+646	March of Dimes thing . 	Φιλανθρωπική εκδήλωση . 
+647	Millie is active . 	Φιλανθρωπική εκδήλωση . 
+648	Well , thank you for seeing me . 	Ευχαριστώ που με δεχτήκατε . 
+649	I just wanted to give you my two cents on the sentencing . 	Ήθελα να σας εκφράσω κάποιες σκέψεις αναφορικά με την ποινή . 
+650	And I thought maybe I should pester you at home as not all of my points are narrowly legal . 	Κι είπα να σας ενοχλήσω καλύτερα στο σπίτι αφού τα επιχειρήματά μου δεν είναι αυστηρά νομικά . 
+651	Yeah , well , it 's that kind of case . 	Είναι η περίπτωση τέτοια . 
+652	I hope I wasn 't too scratchy during the trial but it 's exactly what you say . 	Ήμουν κάπως τραχύς στη δίκη αλλά είναι αυτό που λες . 
+653	Nothing about this is narrowly legal . 	Δε μπορείς να τη δεις σε στενά νομικά πλαίσια . 
+654	There are bigger issues . 	Δε μπορείς να τη δεις σε στενά νομικά πλαίσια . 
+655	Bigger issues ! 	Υπάρχουν σπουδαιότερα θέματα . Σπουδαιότερα θέματα ! 
+656	Thank you , thank you . 	Ευχαριστώ . 
+657	Uh ... 	Ευχαριστώ . 
+658	Sir ... 	Κύριε , νομίζω πως θα είναι προς το συμφέρον των Η . Π . Α ο ʼμπελ να μείνει ζωντανός . 
+659	I think it could be considered in the best interests of the United States that Abel remain alive . 	Κύριε , νομίζω πως θα είναι προς το συμφέρον των Η . Π . Α ο ʼμπελ να μείνει ζωντανός . 
+660	Why ? 	Κύριε , νομίζω πως θα είναι προς το συμφέρον των Η . Π . Α ο ʼμπελ να μείνει ζωντανός . 
+661	I 'm not saying I' ve made up my mind but if he was gonna cooperate , work with the government , he would 've done it already . 	Γιατί ; Δε λέω πως έχω αποφασίσει αλλά αν ήταν να συνεργαστεί με την κυβέρνηση , θα το είχε ήδη κάνει . 
+662	- True , but the issue here ... 	
+663	- You can 't ... 	Σωστά , αλλά το θέμα είναι ... 
+664	Excuse me . 	Σωστά , αλλά το θέμα είναι ... 
+665	You can 't say it 's in the best interest of the United States that he spend the rest of his days in a prison cell . 	Μη μου λες πως συμφέρει τις Η . Π . Α . να περάσει το υπόλοιπο της ζωής του σ´ ένα κελί . 
+666	How is this the national interest ? 	Μη μου λες πως συμφέρει τις Η . Π . Α . να περάσει το υπόλοιπο της ζωής του σ´ ένα κελί . 
+667	Not the incarceration itself , sir . 	Από πού προκύπτει το εθνικό συμφέρον ; 
+668	It is possible that , in the foreseeable future , an American of equivalent rank might be captured by Soviet Russia . 	Δεν είναι η φυλάκιση καθεαυτή ... αλλά είναι πιθανό στο άμεσο μέλλον ένας παρόμοιος πράκτορας μας να συλληφθεί από τους Σοβιετικούς 
+669	We might want to have someone to trade . 	Ίσως θα θέλαμε να έχουμε κάποιον να ανταλλάξουμε . 
+670	Wow . 	Ίσως θα θέλαμε να έχουμε κάποιον να ανταλλάξουμε . 
+671	That sounds like spinning what- ifs . 	Πωπω ! 
+672	You could do that till the cows come home . 	Παρατραβηγμένο , μου φαίνεται . 
+673	It 's my business , what- ifs . 	Θα περιμένουμε ως τη δευτέρα παρουσία . 
+674	I 'm in insurance . 	Η δουλειά μου είναι στις ασφάλειες . 
+675	And there 's nothing implausible about this one . 	Η δουλειά μου είναι στις ασφάλειες . 
+676	It 's entirely in the realm of what could happen . 	Δεν είναι απίθανο να συμβεί . Αντιθέτως , είναι πολύ πιθανό . 
+677	It 's the kind of probability that people buy insurance for . 	Για τις πιθανότητες ασφαλίζεται ο κόσμος . 
+678	If we send this guy to his death , we leave ourselves wide open . 	Αν τον καταδικάσουμε σε θάνατο μένουμε εκτεθειμένοι 
+679	No policy in our back pocket for the day the storm comes . 	Δεν παίρνουμε προφυλάξεις για μια επερχόμενη καταιγίδα . 
+680	Nice speech . 	Ωραίος λόγος . 
+681	Sir , there is also the humanitarian argument . 	Έχω επίσης κι ένα επιχείρημα ανθρωπιστικού χαρακτήρα . 
+682	Should he die for doing the job they sent him to do ? 	Πρέπει να πεθάνει επειδή έκανε τη δουλειά που τον έστειλαν να κάνει ; 
+683	All right , Counselor . 	Πρέπει να πεθάνει επειδή έκανε τη δουλειά που τον έστειλαν να κάνει ; 
+684	I gotta run . 	Εντάξει συνήγορε . 
+685	Good seeing you , Jim . 	
+686	I' ll walk you out . 	
+687	All rise . 	
+688	The United States District Court for the Eastern District of New York is now in session . 	Εγέρθητε ! Το δικαστήριο της ανατολικής Ν . 
+689	The honorable Mortimer Byers presiding . 	Υόρκης συνεδριάζει προεδρεύοντος του αξιότιμου δικαστή Μόρτιμερ Μπάιερς . 
+690	Be seated . 	
+691	The defendant will please rise . 	Να σηκωθεί ο κατηγορούμενος . 
+692	In the measured judgment of this court the following sentence , based upon the jury 's verdict of guilty as to each count of the indictment , is believed to meet the test which has been stated . 	Η ποινή που επιβάλλει το δικαστήριο , βάση της καταδικαστικής απόφασης των ενόρκων για κάθε μια από τις κατηγορίες είναι σύμφωνη θεωρώ , με την απόφαση των ενόρκων περί ενοχής του σε όλες τις κατηγορίες ορίζει την προφυλάκισή του από τον 
+693	Pursuant to the verdict of guilty as to all counts , the defendant is committed to the custody of the Attorney General of the United States for imprisonment in a federal institution to be selected by him for a period of 30 years . 	Η ποινή που επιβάλλει το δικαστήριο , βάση της καταδικαστικής απόφασης των ενόρκων για κάθε μια από τις κατηγορίες είναι σύμφωνη θεωρώ , με την απόφαση των ενόρκων περί ενοχής του σε όλες τις κατηγορίες ορίζει την προφυλάκισή του από τον 
+694	Marshals , you may take the defendant into custody . 	για να εκτίσει ποινή σε ομοσπονδιακή φυλακή της εκλογής του , για περίοδο τριάντα χρόνων . Οι φρουροί να οδηγήσουν τον κατηγορούμενο προς κράτηση . 
+695	No ... 	
+696	No electrocution ? 	
+697	No . 	Στην ηλεκτρική καρέκλα ; 
+698	No , no . 	Στην ηλεκτρική καρέκλα ; 
+699	Why aren 't we hanging him ? 	Όχι . 
+700	In the name of God , why aren 't we hanging him ? 	Γιατί δεν τον κρεμάμε ; 
+701	Sit down , sir ! 	Για τ´ όνομα του Θεού , γιατί δεν τον κρεμάμε ; 
+702	He 's a spy ! 	Καθήστε κάτω ! 
+703	He 's killing us with his lies ! 	Είναι κατάσκοπος ! Μας έχει ταράξει στα ψέμματα ! 
+704	In the name of God , why aren 't we hanging him ? 	Για τ´ όνομα του Θεού , γιατί δεν τον κρεμάμε ; 
+705	That 's right ! 	Για τ´ όνομα του Θεού , γιατί δεν τον κρεμάμε ; 
+706	He 's a spy ! 	Είναι κατάσκοπος ! 
+707	Mr . 	
+708	Donovan ! 	
+709	Mr . 	
+710	Donovan ! 	Κύριε Ντόνοβαν ! 
+711	Just one question . 	Κύριε Ντόνοβαν ! 
+712	Just one question , sir . 	Μια ερώτηση ! 
+713	My hat ! 	
+714	My hat ! 	
+715	My hat ! 	Το καπέλο μου ! 
+716	Nobody here has a comment . 	Κανείς δεν θα προβεί σε δηλώσεις . 
+717	Mr . and Mrs . 	Κανείς δεν θα προβεί σε δηλώσεις . 
+718	Donovan are not answering questions . 	Κανείς δεν θα προβεί σε δηλώσεις . 
+719	How do you feel now that this national nightmare is over ? 	Ο κύριος και η κυρία Ντόνοβαν δεν θα απαντήσουν σε ερωτήσεις . 
+720	Mr . 	Πώς αισθάνεστε που τέλειωσε ο εθνικός εφιάλτης ; 
+721	Donovan , are you happy with the verdict ? 	Πώς αισθάνεστε που τέλειωσε ο εθνικός εφιάλτης ; 
+722	We 're ... 	Κύριε Ντόνοβαν , είστε ικανοποιημένος με την απόφαση ; 
+723	We 're in firm ground on , uh , for a case on appeal . 	Έχουμε βάσιμα νομικά επιχειρήματα να ασκήσουμε έφεση . 
+724	Appeal ? 	Έχουμε βάσιμα νομικά επιχειρήματα να ασκήσουμε έφεση . 
+725	Appeal , yes . 	Έχουμε βάσιμα νομικά επιχειρήματα να ασκήσουμε έφεση . 
+726	Jim , you did a great job . 	Τζιμ , έκανες σπουδαία δουλειά . 
+727	You fulfilled your mandate and then some . 	Τζιμ , έκανες σπουδαία δουλειά . 
+728	But the man is a spy . 	Εκπλήρωσες το καθήκον σου και με το παραπάνω . 
+729	The verdict is correct and there 's no reason to appeal it . 	Αλλά ο άνθρωπος είναι κατάσκοπος . Η ετυμηγορία είναι σωστή και δεν υπάρχει λόγος έφεσης . 
+730	There 's ample procedural reason . 	Υπάρχουν παραλείψεις στη διαδικασία . 
+731	We know the search is tainted . 	Υπάρχουν παραλείψεις στη διαδικασία . 
+732	And Fourth Amendment issues will always weigh more heavily in an appellate forum . 	Ξέρουμε πως η έρευνα έγινε παράνομα . Η επίκληση της τέταρτης τροπολογίας έχει μεγαλύτερη βαρύτητα σε περίπτωση έφεσης . 
+733	We 've got a good shot . 	Έχουμε πολλές πιθανότητες . 
+734	What the goddamn hell are you talking about ? 	Μα τι μου λες τώρα ; 
+735	We were supposed to show he had a capable defense , which we did . 	Έπρεπε να δείξουμε πως θα τύχει σωστής υπεράσπισης και το κάναμε . 
+736	Why are you citing the goddamn Constitution at me ? 	Έπρεπε να δείξουμε πως θα τύχει σωστής υπεράσπισης και το κάναμε . 
+737	Tom , if you look me in the eye and tell me we don 't have grounds for an appeal , I' ll drop it right now . 	Γιατί επικαλείσαι το Σύνταγμα σε μένα ; Τομ , αν με κοιτάξεις κατάματα και μου πεις πως δεν υπάρχει νομικά λόγος για έφεση , θα κάνω πίσω . 
+738	I 'm not saying that . 	
+739	You know what I 'm saying . 	Δεν είπα αυτό . 
+740	Tom is saying there 's a cost to these things . 	Ξέρεις τι θέλω να πω . 
+741	That 's right . 	Ο Τομ λέει πως όλα αυτά έχουν ένα κόστος . 
+742	A cost to both your family and your firm . 	Ακριβώς . 
+743	I' ve missed music . 	Μου έλειψε η μουσική . 
+744	They checked the radio to make sure there was no transmitter in it . 	Εξέτασαν το ραδιόφωνο μήπως έκρυβε πομπό μετάδοσης . 
+745	I 'm sure they did . 	Εξέτασαν το ραδιόφωνο μήπως έκρυβε πομπό μετάδοσης . 
+746	Shostakovich . 	Φυσικά και το εξέτασαν . 
+747	Mmm . 	Σοστακόβιτς . 
+748	That 's a very great artist , Shostakovich . 	Είναι σπουδαίος καλλιτέχνης . 
+749	Uh , I think our strongest grounds for reversal are constitutional . 	Σκεφτόμουν πως τα πιο ισχυρά μας όπλα για να ασκήσουμε έφεση είναι συνταγματικά . 
+750	Our best chance is if the Supreme Court agrees to review our case . 	Η καλύτερη πιθανότητά μας αν το ανώτατο δικαστήριο τη δεχτεί . 
+751	Jim ... 	
+752	You should be careful . 	
+753	Careful . 	
+754	♪ 77 Sunset Strip 	
+755	Edward Byrnes . ♪ 77 Sunset Strip 	
+756	And Richard Long . 	
+757	Good morning , Suzanne . 	
+758	Good morning , Dick . 	
+759	There is a special delivery letter here for you . 	
+760	Oh , her . 	
+761	Mom ! 	
+762	What in God 's name happened ? 	Χριστέ μου ! 
+763	Honey , are you all right ? 	Τι έγινε ; 
+764	Mom ! 	Αγάπη μου , είσαι καλά ; 
+765	Are you hurt ? 	Αγάπη μου , είσαι καλά ; 
+766	I' ve got her . 	- Μαμά ! 
+767	Upstairs ! 	- Χτύπησες ; 
+768	Are you all right ? 	
+769	I sat with my back against the wall , Dad ! 	
+770	Are you okay ? 	Είστε εντάξει ; 
+771	Are you all right ? 	Είστε καλά ; 
+772	Dad , I sat with my back against the wall ! 	Είστε καλά ; 
+773	Good , good . 	Μπαμπά , κόλησα στον τοίχο ! 
+774	Away from the windows ! 	Μπαμπά , κόλησα στον τοίχο ! 
+775	Good , good , good , good , good . 	Μακριά από τα παράθυρα ! 
+776	Good boy , good boy , good boy . 	Μπράβο . 
+777	It 's okay . 	Μπράβο , παιδί μου . 
+778	It 's all right . 	Μπράβο , παιδί μου . 
+779	It 's all right , they 're gone , they 're gone . 	Εντάξει , τέλειωσε . 
+780	They 're cowards . 	Έφυγαν . 
+781	They 're gone . 	Είναι δειλοί . 
+782	We have detectives canvassing the neighborhood . 	Έφυγαν τώρα . 
+783	Maybe we 'll find a description of the car but I don 't think it 's very likely . 	Έχουμε βάλει να ρωτήσουν τη γειτονιά . Για την περιγραφή του αυτοκινήτου αλλά δε νομίζω να έχουμε τύχη . 
+784	We 're gonna need protection . 	Θα χρειαστούμε προστασία . 
+785	Oh , I have instructions to leave two cars here . 	Μου είπαν να αφήσω εδώ δυο αυτοκίνητα . 
+786	It 'll be pretty obvious that this is a secure ... 	Μου είπαν να αφήσω εδώ δυο αυτοκίνητα . 
+787	For how long ? 	- Θα είστε ασφαλείς ... 
+788	I have to be in Washington later on this week . 	- Για πόσο ; 
+789	What are you doing ? 	Πρέπει να πάω στην Ουάσιγκτον στο τέλος της εβδομάδας . 
+790	What are you doing to your family ? 	Τι κάνεις ; Τι κάνεις στην οικογένειά σου ; 
+791	Pardon me , Officer ? 	Τι κάνεις ; Τι κάνεις στην οικογένειά σου ; 
+792	You 're still defending this guy ? 	Πώς είπατε ; 
+793	I mean , what are you fighting for him for ? 	Ακόμη τον υπερασπίζεσαι ; Για ποιο λόγο αγωνίζεσαι ; 
+794	Okay , knock that off , Officer . 	Ακόμη τον υπερασπίζεσαι ; Για ποιο λόγο αγωνίζεσαι ; 
+795	I' ll knock off nothing . 	Κόφ 'το αστυφύλακα ! 
+796	I was in the third wave at Omaha Beach . 	Δεν κόβω τίποτα . 
+797	Hey , I did my time in the service . 	Εγώ πολέμησα . 
+798	I was fighting these guys , and you 're defending them ? 	Έχω κάνει τη θητεία μου . 
+799	Why don 't you just do your job as an officer of the law ? 	Εμείς τους πολεμούμε κι εσύ τους υπερασπίζεσαι ; Γιατί δε κάνεις τη δουλειά σου ως όργανο του νόμου ; 
+800	Okay , I 'm sorry . 	
+801	Let 's go outside . 	
+802	Come on . 	Εντάξει . 
+803	You know what ? 	Εντάξει . 
+804	Just forget him . 	Εντάξει . 
+805	What am I not getting here ? 	Ξέχνα τον . 
+806	Outside , Officer . 	Τι δεν καταλαβαίνω ; Βγες έξω αστυφύλακα . 
+807	I 'm sorry . 	Λυπάμαι . 
+808	Defending a commie spy . 	Να υπερασπίζεται το κομμούνι ; Τι πράγματα είναι αυτά ; 
+809	Jeez ! 	Να υπερασπίζεται το κομμούνι ; Τι πράγματα είναι αυτά ; 
+810	Do you feel that you deserve this , sir ? 	Πιστεύετε πώς σας αξίζει αυτό ; 
+811	Should it become necessary to abandon the aircraft over Soviet territory , then there 's a two- and- a- half pound explosive charge contained within the fuselage . 	Αν χρειαστεί να εγκαταλείψετε το αεροσκάφος σε Σοβιετικό έδαφος υπάρχει ένας εκρηκτικός μηχανισμός συνδεδεμένος με τη δεξαμενή καυσίμων . 
+812	Now , first , you activate the circuits . 	Αν χρειαστεί να εγκαταλείψετε το αεροσκάφος σε Σοβιετικό έδαφος υπάρχει ένας εκρηκτικός μηχανισμός συνδεδεμένος με τη δεξαμενή καυσίμων . 
+813	But to start the 70- second timer , you need to flip the switch marked " Destruct . " 	Πρώτα ενεργοποιείτε το κύκλωμα αλλά για να μπει σε λειτουργία ο διακόπτης των 70 " πρέπει να γυρίσετε τον διακόπτη στην ένδειξη " Καταστροφή " . 
+814	It is imperative that these flights remain a secret and this equipment does not fall into enemy hands . 	Είναι επιτακτική ανάγκη οι πτήσεις αυτές να παραμείνουν μυστικές κι ο μηχανισμός αυτός να μην πέσει σε εχθρικά χέρια . 
+815	What about us ? 	Είναι επιτακτική ανάγκη οι πτήσεις αυτές να παραμείνουν μυστικές κι ο μηχανισμός αυτός να μην πέσει σε εχθρικά χέρια . 
+816	I don 't know if you 're kidding , Lieutenant Powers . 	Κι εμείς τι θα γίνουμε ; 
+817	I 'm not . 	Δεν ξέρω αν αστειεύεσαι υποσμηναγέ Πάουερς γιατί εγώ δεν αστειεύομαι . 
+818	What you know about the plane is as secret as the plane itself . 	Αυτά που γνωρίζεις είναι το ίδιο απόρρητα όσο και το ίδιο το αεροπλάνο . 
+819	If capture is a foregone conclusion , you go down with your plane . 	Αν είναι να συλληφθείτε , τότε είναι αναπόφευκτο . 
+820	Now , if you think you can ditch and get away , if you 're close enough to a border , fine . 	Θα έχετε την ίδια τύχη με το αεροπλάνο . 
+821	You know the ejection protocol . 	Τώρα , αν πιστεύετε πως μπορείτε να διαφύγετε , αν είστε κοντά στα σύνορα , γνωρίζετε τη διαδικασία εγκατάλειψης του σκάφους . 
+822	But if you ditch , you bring the dollar with you . 	Αλλά αν σας πιάσουν , θα έχετε μαζί σας αυτό το δολλάριο . 
+823	All right , there 's a pin inside . 	Αλλά αν σας πιάσουν , θα έχετε μαζί σας αυτό το δολλάριο . 
+824	You scratch your skin anywhere , it 's instantaneous . 	Μια αμυχή , οπουδήποτε και το τέλος θα είναι ακαριαίο . 
+825	If you think you are about to be captured , you use it . 	Αν θεωρήσετε πως θα συλληφθείτε χρησιμοποιείστε την . 
+826	Drivers , you understand me ? 	Πιλότοι , με καταλάβατε ; 
+827	Spend the dollar . 	Πιλότοι , με καταλάβατε ; 
+828	Mr . 	
+829	Chief Justice , and may it please the court . 	Κύριε Πρόεδρε του δικαστηρίου με την άδειά σας , ο " Ψυχρός πόλεμος " δεν είναι απλά μια έκφραση , εντιμότατε . 
+830	The " Cold War " is not just a phrase , Your Honor . 	Κύριε Πρόεδρε του δικαστηρίου με την άδειά σας , ο " Ψυχρός πόλεμος " δεν είναι απλά μια έκφραση , εντιμότατε . 
+831	It 's not just a figure of speech . 	Κύριε Πρόεδρε του δικαστηρίου με την άδειά σας , ο " Ψυχρός πόλεμος " δεν είναι απλά μια έκφραση , εντιμότατε . 
+832	Truly , a battle is being fought between two competing views of the world . 	Δεν είναι απλά σχήμα λόγου . Ειλικρινά διεξάγεται μια σύγκρουση μεταξύ δυο κοσμοθεωριών . 
+833	I contend that Rudolf Ivanovich Abel , 	Ο Ρούντολφ Ιβάνοβιτς ʼμπελ 
+834	" Colonel Abel , " as he was called even by the men who arrested him , is our foe in that battle . 	" Συνταγματάρχης ʼμπελ , " όπως τον αποκάλεσαν κι αυτοί που τον συνέλλαβαν , είναι ο αντίπαλός μας σ´ αυτή τη μάχη . 
+835	Auxiliary power ? 	" Συνταγματάρχης ʼμπελ , " όπως τον αποκάλεσαν κι αυτοί που τον συνέλλαβαν , είναι ο αντίπαλός μας σ´ αυτή τη μάχη . 
+836	Connected and on . 	Βοηθητική ισχύς ; 
+837	Oxygen seat- pack supply ? 	Ενεργοποιημένη . 
+838	Supply at 1, 800 psi . 	Παροχή οξυγόνου ; 
+839	Inverter ? 	Παροχή 1 . 800 psi , 
+840	On , light out . 	Μετασχηματιστής ; 
+841	He was treated as a combatant in that war until it no longer suited our government to so treat him . 	Σε λειτουργία , η λυχνία έσβησε . Έτυχε της μεταχείρισης ενός αιχμαλώτου πολέμου μέχρι του σημείου που βόλευε την κυβέρνησή μας . 
+842	Accordingly , he was not given the protections we give our own citizens . 	Συνεπώς δεν έτυχε της προστασίας που απολαμβάνουν οι συμπολίτες μας . 
+843	He was subjected to treatment that , however appropriate for a suspected enemy , was not appropriate to a suspected criminal . 	Έτυχε μεταχείρισης αντίστοιχης μεν αυτής ενός φερόμενου εχθρού , αλλά όχι αυτής ως φερόμενου εγκληματία . 
+844	Fuel transfer ? 	Έτυχε μεταχείρισης αντίστοιχης μεν αυτής ενός φερόμενου εχθρού , αλλά όχι αυτής ως φερόμενου εγκληματία . 
+845	Transfer switch off . 	- Διανομή καυσίμων ; - Σε λειτουργία . 
+846	Destructor ? 	- Διανομή καυσίμων ; - Σε λειτουργία . 
+847	Destructor safety . 	Επιλογέας καταστροφής ; 
+848	Climb data card . 	Ασφαλισμένος . 
+849	Installed in aircraft . 	Όλα σε λειτουργία . 
+850	I know this man . 	Γνωρίζω αυτόν τον άνθρωπο . 
+851	If the charge is true , he serves a foreign power but he serves it faithfully . 	Αν η κατηγορία ευσταθεί υπηρετεί τα συμφέροντα ξένης δύναμης αλλά πιστά . 
+852	If he is a soldier in the opposing army , he is a good soldier . 	Αν είναι στρατιώτης του εχθρού είναι καλός στρατιώτης . 
+853	He has not fled the field of battle to save himself . 	Δεν εγκατέλειψε το πεδίο της μάχης για να σωθεί . 
+854	He has refused to serve his captor . 	Αρνήθηκε να υπηρετήσει αυτόν που τον αιχμαλώτησε αρνήθηκε να προδώσει τα ιδανικά του . 
+855	He has refused to betray his cause . 	Αρνήθηκε να υπηρετήσει αυτόν που τον αιχμαλώτησε αρνήθηκε να προδώσει τα ιδανικά του . 
+856	He has refused to take the coward 's way out . 	Αρνήθηκε να υπηρετήσει αυτόν που τον αιχμαλώτησε αρνήθηκε να προδώσει τα ιδανικά του . 
+857	The coward must abandon his dignity before he abandons the field of battle . 	Αρνήθηκε να ακολουθήσει το μονοπάτι των δειλών . Ένας δειλός πρώτα εγκαταλείπει την αξιοπρέπειά του και μετά το πεδίο της μάχης . 
+858	That , Rudolf Abel will never do . 	Κάτι που ο Ρούντολφ ʼμπελ δεν θα κάνει ποτέ . 
+859	Shouldn 't we , by giving him the full benefit of the rights that define our system of government , show this man who we are ? 	Δεν θα έπρεπε ... παρέχοντάς του τα πλήρη δικαιώματα που ορίζουν το δημοκρατικό μας πολίτευμα να του αποδείξουμε ποιοι είμαστε ; 
+860	Who we are . 	Δεν θα έπρεπε ... παρέχοντάς του τα πλήρη δικαιώματα που ορίζουν το δημοκρατικό μας πολίτευμα να του αποδείξουμε ποιοι είμαστε ; 
+861	Is that not the greatest weapon we have in this Cold War ? 	Ποιοι είμαστε ; Δεν είναι αυτό το ισχυρότερο όπλο μας στον Ψυχρό πόλεμο ; 
+862	Will we stand by our cause less resolutely than he stands by his ? 	Θα υποστηρίξουμε το δίκιο μας λιγότερο αποφασιστικά απ´ ότι αυτός το δικό του ; 
+863	The President announced that a NASA weather plane disappeared four days ago north of Turkey . 	Ο Πρόεδρος ανακοίνωσε πως μετεωρολογικό αεροπλάνο της NASA εξαφανίστηκε πριν 4 μέρες στη βόρια Τουρκία . 
+864	And the Space Administration fears that its pilot died in the crash . 	Φόβοι εκφράζονται πως ο πιλότος σκοτώθηκε κατά τη σύγκρουση . 
+865	Radar showed the plane wandering off course deep into Soviet territory before contact was lost , complicating any effort to recover it or the remains of the pilot . 	Το ραντάρ κατέγραψε αλλαγή της πορείας του και είσοδό του σε ρώσικο έδαφος πριν χαθεί η επαφή . καθιστώντας περίπλοκη κάθε προσπάθεια περισυλλογής των συντριμμιών του ή της σορού του πιλότου . 
+866	Now to news out of Washington . 	Το ραντάρ κατέγραψε αλλαγή της πορείας του και είσοδό του σε ρώσικο έδαφος πριν χαθεί η επαφή . καθιστώντας περίπλοκη κάθε προσπάθεια περισυλλογής των συντριμμιών του ή της σορού του πιλότου . 
+867	In a close vote today , the Supreme Court affirmed the conviction of Russian spy Rudolf Ivanovich Abel , five votes to four . 	Πίσω στα νέα από την Ουάσιγκτον . Σε μια αμφίροπη ψηφοφορία , το ανώτατο δικαστήριο επικύρωσε την καταδίκη του Ρώσου κατασκόπου Ρούντολφ ʼμπελ , με πέντε ψήφους έναντι τεσσάρων . 
+868	The case presented civil liberties issues , according to the Russian 's lawyer , James B . 	Η υπόθεση στηρίχθηκε στην παράλειψη πολιτικών δικαιωμάτων σύμφωνα με τον δικηγόρο του Ρώσου , Τζέιμς Β . 
+869	Donovan . 	Η υπόθεση στηρίχθηκε στην παράλειψη πολιτικών δικαιωμάτων σύμφωνα με τον δικηγόρο του Ρώσου , Τζέιμς Β . 
+870	When asked how he felt about today 's loss , 	Ντόνοβαν . 
+871	Mr . 	Όταν ρωτήθηκε πώς αισθάνεται για την ήττα του , ο κύριος Ντόνοβαν απάντησε " κουρασμένος " . 
+872	Donovan simply said , " Tired . " 	Όταν ρωτήθηκε πώς αισθάνεται για την ήττα του , ο κύριος Ντόνοβαν απάντησε " κουρασμένος " . 
+873	I' ll have more news for you after this message . ♪ Styling tricks 	Επιστρέφουμε με περισσότερα νέα μετά το διαφημιστικό . 
+874	It 's over . ♪ See the new , exciting styling tricks ♪ You ... 	Τέλειωσε . 
+875	Marty . 	Μάρτυ , δε βρίσκω τον φάκελο της υπόθεσης Προυντένσιαλ 
+876	I' ll be damned if I can find the file on that Prudential case . 	Μάρτυ , δε βρίσκω τον φάκελο της υπόθεσης Προυντένσιαλ 
+877	I , uh , Mr . 	Μάρτυ , δε βρίσκω τον φάκελο της υπόθεσης Προυντένσιαλ 
+878	Watters had me move it over to Jack Elwes 's office along with the first draft of the appeal . 	Ο κύριος Γουότερς μου είπε να την αφήσω στο γραφείο του κύριου Τζακ Έλις μαζί με το προσχέδιο της έφεσης . 
+879	He did ? 	Ο κύριος Γουότερς μου είπε να την αφήσω στο γραφείο του κύριου Τζακ Έλις μαζί με το προσχέδιο της έφεσης . 
+880	Yeah , he redrafted and filed that last week while you were in Washington . 	Αυτό σου είπε ; Έκανε την αλλαγή την προηγούμενη εβδομάδα που είσαστε στην Ουάσιγκτον . 
+881	How long have we been together ? 	
+882	You act as if I' ve never closed a deal . 	Πόσο καιρό είμαστε μαζί ; 
+883	Set up a meeting . 	Κάνει σαν να μην έχουμε κλείσει ποτέ συμφωνία . 
+884	Someplace fancy . 	Κλείσε του ραντεβού σε κάποιο χλιδάτο μέρος . 
+885	I 'm betting Mr . 	Κλείσε του ραντεβού σε κάποιο χλιδάτο μέρος . 
+886	Young would like some of the finer things 	Φαντάζομαι ότι ο κύριος Γιανγκ ενδιαφέρεται για ό, τι καλύτερο διαθέτει η Νέα Υόρκη . 
+887	New York has to offer . 	Φαντάζομαι ότι ο κύριος Γιανγκ ενδιαφέρεται για ό, τι καλύτερο διαθέτει η Νέα Υόρκη . 
+888	And I want you to give me the summary of ... 	Φαντάζομαι ότι ο κύριος Γιανγκ ενδιαφέρεται για ό, τι καλύτερο διαθέτει η Νέα Υόρκη . 
+889	Do you know anyone from Leipzig ? 	Γνωρίζετε κανέναν από τη Λειψία ; 
+890	" Leipzig . " Am I getting hate mail from Germany now ? 	Λειψία ; Θα παίρνω γράμματα μίσους κι από τη Γερμανία τώρα ; 
+891	From East Germany . 	Λειψία ; Θα παίρνω γράμματα μίσους κι από τη Γερμανία τώρα ; 
+892	Is it your wife ? 	Η γυναίκα σου είναι ; 
+893	No . 	Η γυναίκα σου είναι ; 
+894	No , no , no , no . 	Όχι . Όχι , όχι . 
+895	She pretends to be but it 's not even a good pretense . 	Υποτίθεται πως είναι αλλά προσποιείται χάλια . 
+896	" I 'm taking this liberty to write to you 	" Παίρνω το θάρρος να σας γράψω έχοντας διαβάσει στις εφημερίδες για τη βαθειά ανθρώπινη συμπεριφορά σας στον λατρεμένο μου σύζυγο , Ρούντολφ ʼμπελ . " 
+897	" after having learned from the newspapers 	" Παίρνω το θάρρος να σας γράψω έχοντας διαβάσει στις εφημερίδες για τη βαθειά ανθρώπινη συμπεριφορά σας στον λατρεμένο μου σύζυγο , Ρούντολφ ʼμπελ . " 
+898	" about your most humane attitude 	" Παίρνω το θάρρος να σας γράψω έχοντας διαβάσει στις εφημερίδες για τη βαθειά ανθρώπινη συμπεριφορά σας στον λατρεμένο μου σύζυγο , Ρούντολφ ʼμπελ . " 
+899	" towards my beloved husband , Rudolf Abel . " 	
+900	And do I write back ? 	Λες να απαντήσω ; 
+901	Yeah , yeah , yeah . 	
+902	What 's the next move when you don 't know what the game is ? 	Ποια είναι η επόμενη σου κίνηση όταν δεν ξέρεις ποιο παιγνίδι παίζεται ; 
+903	Francis Gary Powers ... 	Ποια είναι η επόμενη σου κίνηση όταν δεν ξέρεις ποιο παιγνίδι παίζεται ; 
+904	On the strength of Article Two of the U . S . S . R . law on criminal responsibility for state crimes to 10 years of confinement with the first three years to be served in prison . 	Φράνσις Γκάρυ Πάουερς βάσει του άρθρου 2 του ποινικού δικαίου της Ε . Σ . Σ . Δ περί εγκλημάτων κατά του κράτους , καταδικάζεσαι σε δεκαετή εγκλεισμό . 
+905	The term of the punishment , including preliminary detention , shall be counted from May first , nineteen hundred and sixty . 	Οι όροι της τιμωρίας θα αποφασιστούν την 1η Μαίου 1960 . 
+906	Mr . 	
+907	Donovan , thank you so much for coming . 	Κύριε Ντόνοβαν σας ευχαριστώ που ήρθατε . 
+908	It 's a pleasure to meet you , Mr . 	Κύριε Ντόνοβαν σας ευχαριστώ που ήρθατε . 
+909	Dulles . 	Χαίρομαι που σας γνωρίζω κύριε Γουίλις . 
+910	It 's an honor , sir . 	Χαίρομαι που σας γνωρίζω κύριε Γουίλις . 
+911	Nescafe , cream , two lumps . 	Είναι τιμή μου . Νεσκαφέ με γάλα και δυο κουταλάκια ζάχαρη . 
+912	Thank you . 	Ευχαριστώ . 
+913	Okay , this letter you received . 	Στο γράμμα που λάβατε είναι φανερό πως οι Σοβιετικοί επιχειρούν μια προσέγγιση . 
+914	Seems pretty clear that the Soviets are making an overture here . 	Στο γράμμα που λάβατε είναι φανερό πως οι Σοβιετικοί επιχειρούν μια προσέγγιση . 
+915	They 're doing it through East Germany because they still don 't want to acknowledge Abel as a Soviet citizen , much less a Soviet spy . 	Επικαλούνται την Ανατολική Γερμανία γιατί δεν θέλουν να αναγνωρίσουν τον ʼμπελ ως Σοβιετικό , πόσω μάλλον ως Σοβιετικό κατάσκοπο . 
+916	So ... 	Επικαλούνται την Ανατολική Γερμανία γιατί δεν θέλουν να αναγνωρίσουν τον ʼμπελ ως Σοβιετικό , πόσω μάλλον ως Σοβιετικό κατάσκοπο . 
+917	Lot of fiction going on . 	Επικαλούνται την Ανατολική Γερμανία γιατί δεν θέλουν να αναγνωρίσουν τον ʼμπελ ως Σοβιετικό , πόσω μάλλον ως Σοβιετικό κατάσκοπο . 
+918	Yes , sir , but to what end ? 	Πολλή φαντασία . 
+919	They got our guy , our spy pilot . 	Ναι , αλλά ως πού θα φτάσει ; 
+920	We 've got their guy . 	Έχουν τον δικό μας , τον πιλότο κατάσκοπο . 
+921	Prisoner exchange , I think that 's what they 're after . 	Ανταλλαγή κρατουμένων . 
+922	Which could hardly be a surprise to you , Counselor . 	Αυτό επιδιώκουν . 
+923	It 's an eventuality that I think you foresaw . 	Αυτό που δεν αποτελεί για σένα έκπληξη , είναι μια πιθανότητα που εσύ προέβλεψες . 
+924	Yes , I sure did , and I 'm so rarely right . 	Ναι , όντως αν και σπανίως δικαιώνομαι . 
+925	Well , congratulations . 	Ναι , όντως αν και σπανίως δικαιώνομαι . 
+926	Red letter day . 	Συγχαρητήρια . 
+927	Now , we have our man over there . 	Ημέρα ανταλλαγής επιστολών . Αυτοί κρατούν τον δικό μας . 
+928	Powers . 	Τον Πάουερς . 
+929	Good man , but with a head full of classified information . 	Καλός στρατιώτης αλλά γνωρίζει ένα σωρό απόρρητες πληροφορίες . 
+930	Abel has a head full of classified information , too , but he hasn 't given us a lick . 	Ο ʼμπελ επίσης κατέχει απόρρητες πληροφορίες αλλά δεν μας έχει πει τίποτα . 
+931	And , sir , take it from me , he won 't . 	Ο ʼμπελ επίσης κατέχει απόρρητες πληροφορίες αλλά δεν μας έχει πει τίποτα . 
+932	Yes , we know that , but the Russians don 't . 	Κι αν θέλετε τη γνώμη μου , δεν πρόκειται . 
+933	They want their man back before he cracks . 	Εμείς το ξέρουμε αυτό αλλά οι Ρώσοι , όχι . 
+934	And we want Powers back for the same reasons . 	Τον θέλουν πίσω πριν " σπάσει " κι εμείς τον Πάουερς για τους ίδιους λόγους . 
+935	I think you are saying , sir , that there might be a happy ending for everyone . 	Νομίζω πως αυτό που λέτε είναι πως μπορεί να υπάρξει ευτυχές τέλος για όλους . 
+936	Yes , if we , um , indulge their fiction . 	Νομίζω πως αυτό που λέτε είναι πως μπορεί να υπάρξει ευτυχές τέλος για όλους . 
+937	We want you to negotiate the swap because you 're a private citizen , so it 's not governments talking . 	Θέλουμε να διαπραγματευτείς εσύ την ανταλλαγή , γιατί εσύ είσαι ιδιώτης άρα δεν θα συνδιαλλαγούν κυβερνήσεις . 
+938	They don 't acknowledge Abel as a Soviet citizen , and we don 't acknowledge East Germany as a sovereign country . 	Αυτοί δεν αναγνωρίζουν τον ʼμπελ ως Σοβιετικό πολίτη κι εμείς δεν αναγνωρίζουμε την Α . 
+939	We haven 't recognized East Berlin since it was annexed by the Soviets in ´45 . 	Γερμανία ως ανεξάρτητη χώρα . Ούτε το Α . 
+940	So I act as a negotiator , representing ... 	Βερολίνο από τότε που το κατέλαβαν οι Σοβιετικοί το ´45 . ʼρα εγώ κάνω τη διαπραγμάτευση εκπροσωπώντας ... 
+941	You 're not representing anybody . 	Βερολίνο από τότε που το κατέλαβαν οι Σοβιετικοί το ´45 . ʼρα εγώ κάνω τη διαπραγμάτευση εκπροσωπώντας ... 
+942	Not a government official . 	Κανέναν δεν εκπροσωπείς . 
+943	You have no official standing . 	Δεν είσαι κυβερνητικός υπάλληλος . 
+944	So , some fiction on our side as well . 	Δεν κατέχεις επίσημη θέση . ʼρα παίζουμε κι εμείς στο φανταστικό παιγνίδι . 
+945	Correct . 	Δεν κατέχεις επίσημη θέση . ʼρα παίζουμε κι εμείς στο φανταστικό παιγνίδι . 
+946	Which means , of course , you can 't rely on any acknowledgment or help if things go south . 	Ακριβώς . Αυτό σημαίνει πως δεν πρέπει να ελπίζεις σε βοήθεια ή οποιαδήποτε αναγνώριση αν το πράγμα στραβώσει . 
+947	CIA can 't be responsible . 	Η CIA δε μπορεί να αναμειχθεί . 
+948	We can 't be embarrassed . 	Η CIA δε μπορεί να αναμειχθεί . 
+949	Where do they want this negotiation to take place ? 	Πού θέλουν να γίνει η διαπραγμάτευση ; 
+950	There . 	Πού θέλουν να γίνει η διαπραγμάτευση ; 
+951	" There " ? 	Εκεί . 
+952	East Berlin . 	" Εκεί " ; 
+953	Well , isn 't East Berlin getting rather ... 	Δεν είναι κάπως ... 
+954	Oh , yes , the place is getting complicated . 	Δεν είναι κάπως ... 
+955	Yeah , complicated . 	
+956	The Soviet side has been setting up checkpoints for the past few months to try to stop people hemorrhaging to the Western sectors , and it hasn 't worked . 	Οι Σοβιετικοί τους τελευταίους μήνες έχουν εγκαταστήσει σημεία ελέγχου για να αποτρέψουν τη φυγή ανθρώπων στον δυτικό τομέα αλλά δεν το πέτυχαν . 
+957	We have intelligence to suggest that they may go one step further and wall off the entire Eastern sector . 	Η CIA έχει πληροφορίες πως θα προχωρήσουν ένα βήμα παραπέρα και θα αποκλείσουν με τείχος τον ανατολικό τομέα . 
+958	Okay , that 's it in a nutshell . 	Μέσες άκρες έτσι έχει η κατάσταση . 
+959	The decision is entirely yours . 	Μέσες άκρες έτσι έχει η κατάσταση . 
+960	You need time to kick it around . 	Εσύ θα πάρεις την απόφαση . Χρειάζεσαι χρόνο να το σκεφτείς . 
+961	No . 	Όχι . 
+962	No , I don 't . 	
+963	Well , fine . 	Δε χρειάζομαι . 
+964	Fine . 	Πολύ ωραία . 
+965	Best that this all remains confidential . 	Αυτό πρέπει να μείνει εμπιστετικό . 
+966	Let 's not discuss any of this with , uh , Mary or with anyone else . 	Δεν πρέπει να το συζητήσεις με τη Μαίρη ή κάποιον άλλο . 
+967	Share the correspondence only with us . 	Θα έχεις επικοινωνία μόνο μαζί μας . 
+968	Let us know what they want to do and when . 	Θα έχεις επικοινωνία μόνο μαζί μας . 
+969	I' ve got no client , no wife , no country . 	Να μας πεις τι θέλεις και πότε . 
+970	Don 't know what I 'm doing or when or who for . 	Δεν έχω πελάτη , γυναίκα και χώρα Δεν ξέρω τι κάνω , πότε και για ποιον . 
+971	You 're doing it for your country , but your country doesn 't know that yet . 	Το κάνεις για τη χώρα σου , απλά αυτή δεν το ξέρει ακόμα . 
+972	What about my client , the other person in this equation ? 	Το κάνεις για τη χώρα σου , απλά αυτή δεν το ξέρει ακόμα . 
+973	My guy ? 	Κι ο πελάτης μου , το άλλο μέρος της εξίσωσης ; Ο δικός μου ; 
+974	Your guy ? 	Κι ο πελάτης μου , το άλλο μέρος της εξίσωσης ; Ο δικός μου ; 
+975	You mean the Russian ? 	Κι ο πελάτης μου , το άλλο μέρος της εξίσωσης ; Ο δικός μου ; 
+976	He 's not your guy anymore , Counselor . 	Ο δικός σου ; Τον Ρώσο εννοείς ; 
+977	Your guy is Francis Gary Powers now . 	Δεν είναι ο δικός σου συνήγορε . 
+978	What do I tell Rudolf Abel ? 	Τώρα είναι ο Πάουερς . Τι να πω στον Ρούντολφ ʼμπελ ; 
+979	Tell him not to drop dead . 	
+980	Professor ? 	
+981	Professor ? 	
+982	Papa went to university . 	Καθηγητή ; Ο μπαμπάς είναι στο πανεπιστήμιο . 
+983	You shouldn 't be here , Frederic . 	Δεν έπρεπε να έρθεις εδώ Φρέντερικ . 
+984	They 're having classes today ? 	Έχουν μάθημα σήμερα ; 
+985	He went to see . 	Έχουν μάθημα σήμερα ; 
+986	That 's where he goes . 	Πήγε να δει . 
+987	What are you doing here ? 	Πήγε να δει . 
+988	I came to get you and your father . 	Τι θέλεις εδώ ; 
+989	You have to come with me . 	Ήρθα να πάρω εσένα και τον πατέρα σου . 
+990	You might not get out tomorrow . 	Πρέπει να έρθετε μαζί μου . 
+991	Just ... 	Πρέπει να έρθετε μαζί μου . 
+992	Just leave ? 	Αύριο ίσως να μη μπορείτε . 
+993	Yes . 	Αύριο ίσως να μη μπορείτε . 
+994	Yes , yes , yes , leave . 	Να φύγουμε , έτσι απλά ; 
+995	Right now . 	Ναι . 
+996	Go back . 	
+997	Go back . 	Πήγαινε πίσω . 
+998	I' ll be okay , I 'm American . 	Πήγαινε πίσω . 
+999	Go back . 	Είμαι εντάξει . 
+1000	Go back to your father 's . 	Είμαι Αμερικάνος . Πήγαινε πίσω . 
+1001	We 'll find another way . 	Γύρισε στον πατέρα σου . 
+1002	Go . 	Γύρισε στον πατέρα σου . 
+1003	Hey ! 	
+1004	So , hi . 	
+1005	Papers , please . 	Ταυτότητα , παρακαλώ . 
+1006	Ich bin Student Frederic Pryor . 	Ταυτότητα , παρακαλώ . 
+1007	Yes , Student . 	Είμαι φοιτητής , Φρέντερικ Πράιορ . 
+1008	My name 's Frederic Pryor . 	
+1009	I 'm an economics student . 	Ονομάζομαι Φρέντερικ Πράιορ . 
+1010	See ? 	
+1011	It 's my dissertation . 	Βλέπετε ; Είναι η διατριβή μου . 
+1012	My thesis . 	Βλέπετε ; Είναι η διατριβή μου . 
+1013	You see ? 	Βλέπετε ; Είναι η διατριβή μου . 
+1014	Look , look . 	
+1015	Look " The foreign trade system of the European Communist nations . " Huh ? 	Δείτε , " Το ακμάζον εμπορικό σύστημα των ευρωπαϊκών κομμουνιστικών κρατών " . 
+1016	It was a lot of work . 	Πολύ δουλειά . 
+1017	No , that 's my only copy . 	Όχι , δεν έχω αντίγραφο . 
+1018	No ! 	
+1019	Tell me something . 	Πες μου κάτι . 
+1020	It came up at the last minute . 	Πες μου κάτι . 
+1021	They have offices in London . 	Προέκυψε ξαφνικά . Έχουν γραφεία στο Λονδίνο . 
+1022	These clients . 	Οι πελάτες μας . 
+1023	Not my idea . 	Οι πελάτες μας . 
+1024	Scotland , this fishing expedition . 	Δεν ήταν δική μου ιδέα . Στη Σκωτία . 
+1025	What kind of fishing trip , Jim ? 	Αλιευτική αποστολή . 
+1026	Salmon fishing . 	Τι θα ψαρέψετε , Τζιμ ; Σολωμούς . 
+1027	Just tell me that you 're not gonna be in any danger , that this is just a routine business trip , and I won 't worry . 	Πες μου πως δεν θα κινδυνεύεις , πως είναι ένα συνηθισμένο επαγγελματικό ταξίδι για να μην ανησυχώ . 
+1028	I need my passport . 	Πες μου πως δεν θα κινδυνεύεις , πως είναι ένα συνηθισμένο επαγγελματικό ταξίδι για να μην ανησυχώ . 
+1029	Just give me something to hold on to . 	Πες μου κάτι να είμαι ήσυχη κι ας μην είναι αλήθεια . 
+1030	I don 't even care if it 's the truth . 	Πες μου κάτι να είμαι ήσυχη κι ας μην είναι αλήθεια . 
+1031	I 'm doing this for us . 	Πες μου κάτι να είμαι ήσυχη κι ας μην είναι αλήθεια . 
+1032	Mr . 	
+1033	Michener , here , is your Berlin escort . 	Ο κύριος Μίτσενερ θα σε συνοδεύει στο Βερολίνο . 
+1034	He 's an attache with the U . S . embassy . 	Ο κύριος Μίτσενερ θα σε συνοδεύει στο Βερολίνο . 
+1035	- So , it 's gotten goddamn complicated . 	Θα είναι ο σύνδεσμός σου με την Αμερικάνικη πρεσβεία . 
+1036	- Uh- huh . 	Η κατάσταση είναι λίγο περίπλοκη . 
+1037	As you know , the last letter from Mrs . 	Η κατάσταση είναι λίγο περίπλοκη . 
+1038	Abel , whoever she is , talks about a lawyer in East Berlin , 	Στο τελευταίο γράμμα της κυρίας ʼμπελ , όποια κι αν είναι αυτή ανφέρεται ένας Ανατολικογερμανός δικηγόρος ο κύριος Βόγκελ , όποιος κι αν είναι αυτος , που την εκπροσωπεί . 
+1039	Mr . 	Στο τελευταίο γράμμα της κυρίας ʼμπελ , όποια κι αν είναι αυτή ανφέρεται ένας Ανατολικογερμανός δικηγόρος ο κύριος Βόγκελ , όποιος κι αν είναι αυτος , που την εκπροσωπεί . 
+1040	Vogel , whoever he is , representing her interests , she says . 	Στο τελευταίο γράμμα της κυρίας ʼμπελ , όποια κι αν είναι αυτή ανφέρεται ένας Ανατολικογερμανός δικηγόρος ο κύριος Βόγκελ , όποιος κι αν είναι αυτος , που την εκπροσωπεί . 
+1041	Yeah , Vogel says he 's gone to the Russian embassy in East Berlin and they may be ready to trade Abel for Powers . 	Ο Βόγκελ λέει πως συνεννοήθηκε με την εδώ Ρωσική πρεσβεία και είναι έτοιμος να ανταλλάξει τον ʼμπελ με τον Πάουερς 
+1042	But no one knows who 's who , but essentially they 're all Russian , right ? 	Ο Βόγκελ λέει πως συνεννοήθηκε με την εδώ Ρωσική πρεσβεία και είναι έτοιμος να ανταλλάξει τον ʼμπελ με τον Πάουερς 
+1043	Well , Soviet . 	Δεν ξέρουμε ποιος είναι αλλά θεωρούμε πως είναι Ρώσος . 
+1044	Well , we think so . 	Σοβιετικός . 
+1045	What do you mean ? 	Έτσι πιστεύουμε . 
+1046	Could we turn up the heat in here ? 	Τι εννοείς ; Μπορούμε να αυξήσουμε λίγο τη ζέστη ; 
+1047	There 's a wrinkle . 	
+1048	They might try to throw you a curveball . 	Υπάρχει ένα θέμα . 
+1049	Try and get you to accept another prisoner other than Powers . 	Μπορεί να επιχειρήσουν κάποια αλλαγή . 
+1050	Another American ? 	Να ανταλλάξουν κάποιον άλλον αντί του Πάουερς . ʼλλον Αμερικάνο ; 
+1051	The , uh , East German Stasi picked up an American student . 	Η Στάζι ( μυστική αστυνομία της Α . 
+1052	Frederic Pryor . 	Γερμανίας ) συνέλλαβε έναν αμερικάνο φοιτητή , τον Πράιορ . 
+1053	Uh , the kid they found on the wrong side of the Wall . 	Γερμανίας ) συνέλλαβε έναν αμερικάνο φοιτητή , τον Πράιορ . 
+1054	He 's a grad student out of Yale . 	Το παιδί εγκλωβίστηκε απ´ την άλλη πλευρά του τείχους . 
+1055	- Came over here to study economics . 	Είναι απόφοιτος του Γέιλ και ήρθε εδώ να σπουδάσει οικονομικά . 
+1056	- Mmm- hmm . 	Είναι απόφοιτος του Γέιλ και ήρθε εδώ να σπουδάσει οικονομικά . 
+1057	So , they 're making noises about trying this kid for espionage . 	Απειλούν λοιπόν να τον δικάσουν για κατασκοπεία . 
+1058	Grave offense , capital crime . 	Απειλούν λοιπόν να τον δικάσουν για κατασκοπεία . 
+1059	Well . 	Βαρύτατο αδίκημα . 
+1060	Vogel got in touch with us , said he represents Pryor . 	Ο Βόγκελ επικοινώνησε μαζί μας και είπε πως εκπροσωπεί τον Πράιορ . 
+1061	Wait a minute . 	Ο Βόγκελ επικοινώνησε μαζί μας και είπε πως εκπροσωπεί τον Πράιορ . 
+1062	Vogel represents Mrs . 	Ο Βόγκελ εκπροσωπεί και την κυρία ʼμπελ και το παιδί ; 
+1063	Abel and this ... 	Ο Βόγκελ εκπροσωπεί και την κυρία ʼμπελ και το παιδί ; 
+1064	This kid ? 	Ο Βόγκελ εκπροσωπεί και την κυρία ʼμπελ και το παιδί ; 
+1065	Yeah , he 's busy . 	
+1066	Well , so , what is he ? 	Είναι πολυάσχολος . 
+1067	Vogel , is he , uh , East German or is he Russian ? 	Ο Βόγκελ τελικά τι είναι ; 
+1068	Well , try to figure it out when you meet him . 	Ανατολικογερμανός ή Ρώσος ; Προσπάθησε να καταλάβεις όταν τον συναντήσεις . 
+1069	At Russian embassy , East Berlin , noon tomorrow . 	Ρωσική πρεσβεία , Α . 
+1070	Hoffman will show you how to get there . 	Βερολίνο , αύριο το απόγευμα . Ο Χόφμαν θα σου δείξει πώς να πας . 
+1071	Wait , show me how to get there ? 	Πώς να πάω ; Θα με συνοδέψεις εσύ . 
+1072	I 'm gonna have an escort . 	Πώς να πάω ; Θα με συνοδέψεις εσύ . 
+1073	Right ? 	Πώς να πάω ; Θα με συνοδέψεις εσύ . 
+1074	Well , that was the plan but like I said , there 's a wrinkle . 	Έτσι δεν είναι ; 
+1075	I won 't be taking you . 	Έτσι ήταν το σχέδιο αλλά όπως είπα έχει γίνει μπέρδεμα . 
+1076	Decision 's been made . 	Αποφασίστηκε να μη σε πάω . 
+1077	No U . S . government personnel are to cross the border until further notice . 	Κανείς επίσημος των Η . Π . Α . δεν περνάει τα σύνορα μέχρι νεωτέρας . 
+1078	How come ? 	Κανείς επίσημος των Η . Π . Α . δεν περνάει τα σύνορα μέχρι νεωτέρας . 
+1079	It 's too dangerous . 	Κανείς επίσημος των Η . Π . Α . δεν περνάει τα σύνορα μέχρι νεωτέρας . 
+1080	Yeah , the East Germans grabbed this kid . 	- Γιατί ; - Είναι πολύ επικίνδυνο . 
+1081	There 's a degree of impunity that we had not anticipated . 	Οι Ανατολικογερμανοί άρπαξαν το παιδί , επικρατεί ένα είδος αυθαιρεσίας που δεν είχαμε προβλέψει . 
+1082	The point is that the East German agenda and the Russian agenda may not be the same thing . 	Το θέμα είναι πως οι επιδιώξεις των Ρώσων και των Ανατολικογερμανών μπορεί να είναι διαφορετικές 
+1083	Try and figure it out and act accordingly . 	Το θέμα είναι πως οι επιδιώξεις των Ρώσων και των Ανατολικογερμανών μπορεί να είναι διαφορετικές 
+1084	And try to make a deal . 	Προσπάθησε να καταλάβεις και ενέργησε ανάλογα . 
+1085	Powers for Abel . 	Και κλείσε τη συμφωνία . 
+1086	Well , what about this college kid , Pryor ? 	Τον Πάουερς , για τον ʼμπελ . 
+1087	Mmm- mmm . 	Κι ο φοιτητής , ο Πράιορ ; 
+1088	Don 't fall for that . 	Μη σ´ απασχολεί αυτό . 
+1089	We can get him out another time . 	Μη σ´ απασχολεί αυτό . 
+1090	Powers is the whole ball game . 	Τον βγάζουμε κάποια άλλη στιγμή . 
+1091	Where 's your room ? 	Ποιο είναι το δωμάτιό σου ; 
+1092	I' ll be staying at the Hilton . 	Ποιο είναι το δωμάτιό σου ; 
+1093	It 's not far . 	
+1094	This is a number here in West Berlin . 	Αυτό το τηλέφωνο είναι στο δυτικό Βερολίνο . 
+1095	Memorize it and give it back to me . 	Αυτό το τηλέφωνο είναι στο δυτικό Βερολίνο . 
+1096	No , no . 	Απομνημόνευσέ το και δώστο μου . 
+1097	I ... 	
+1098	I mean , now . 	
+1099	The Soviets keep cutting the international lines but local calls are okay . 	Οι Σοβιετικοί κόβουν τις διεθνείς κλήσεις αλλά οι τοπικές δεν έχουν πρόβλημα . 
+1100	Someone will pick up day and night . 	Οι Σοβιετικοί κόβουν τις διεθνείς κλήσεις αλλά οι τοπικές δεν έχουν πρόβλημα . 
+1101	Now , this docket attached to your passport will serve as your ticket into and out of the Eastern Soviet sector . 	Αυτή η κάρτα στο διαβατήριό σου χρησιμεύει για να μπεις και να βγεις από τον ανατολικό τομέα . 
+1102	The meeting with Vogel is set for noon tomorrow . 	Αυτή η κάρτα στο διαβατήριό σου χρησιμεύει για να μπεις και να βγεις από τον ανατολικό τομέα . 
+1103	There are only a few routes left to the East . 	Λίγοι πλέον δρόμοι σε πάνε ανατολικά . 
+1104	You take the S- Bahn , the station we showed you on the way in . 	Πάρε την S- Bahn , τον σταθμό που σου δείξαμε όταν ήρθες , 
+1105	You 're gonna get off at the Friedrichstrasse station here and walk to the Soviet embassy on Unter den Linden here . 	Κατέβα στον σταθμό Friedrichstrasse , εδώ και περπάτα ως τη Σοβιετική πρεσβεία στην Unter den Linden , εδώ . 
+1106	Look at the map now . 	Κατέβα στον σταθμό Friedrichstrasse , εδώ και περπάτα ως τη Σοβιετική πρεσβεία στην Unter den Linden , εδώ . 
+1107	You shouldn 't take it with you . 	Κοίτα τον χάρτη τώρα , δεν θα τον πάρεις μαζί σου . 
+1108	You 're looking at a map , you 're an American , you 're a spy . 	Αν κοιτάζεις χάρτη είσαι Αμερικάνος , άρα κατάσκοπος . 
+1109	You could well be detained . 	Αν κοιτάζεις χάρτη είσαι Αμερικάνος , άρα κατάσκοπος . 
+1110	Just avoid interacting with people generally . 	Θα μπορούσαν να σε συλλάβουν . 
+1111	You don 't ... 	Γενικά απόφυγε τις επαφές με κόσμο για να μη δώσεις στόχο . 
+1112	You don 't belong , so don 't stick out . 	Γενικά απόφυγε τις επαφές με κόσμο για να μη δώσεις στόχο . 
+1113	Food is scarce over there and things have started to fall apart . 	Η τροφή άρχισε να εκλείπει και τα πράγματα καταρρέουν . 
+1114	There are gangs , and rule of law is less firmly established over there . 	Υπάρχουν συμμορίες και οι νόμοι δεν πολυ- ισχύουν . 
+1115	And definitely stay away from the Wall . 	Και οπωσδήποτε μείνε μακριά από το τείχος . 
+1116	On their side , there 's a line cleared of buildings along the Wall . 	Στην πλευρά τους υπάρχει μια γραμμή κατά μήκος του τείχους . 
+1117	They call it the " Death Line . " 	Στην πλευρά τους υπάρχει μια γραμμή κατά μήκος του τείχους . 
+1118	Cross it and you 'll be shot . 	Τη λένε " Γραμμή θανάτου " Αν τη διασχίσεις θα σε πυροβολήσουν . 
+1119	Is there any outcome here where I 'm not either detained or shot ? 	Υπάρχει περίπτωση να μη με συλλάβουν ή πυροβολήσουν ; 
+1120	Don 't worry too much about what Michener said . 	Μην ανησυχείς γι αυτά που είπε ο Μίτσενερ . 
+1121	No , I 'm worried about what you 're saying . 	Με ανησυχούν αυτά που λες εσύ . 
+1122	This kid , Pryor , that the East Germans have , how old is he ? 	Αυτό το παιδί , ο Πράιορ πόσω χρονών είναι ; 
+1123	Twenty- five . 	Αυτό το παιδί , ο Πράιορ πόσω χρονών είναι ; 
+1124	Why ? 	Είκοσιπέντε . 
+1125	Same age as Dougie . 	Γιατί ; 
+1126	Who ? 	Ποιον ; 
+1127	Eh , an associate of mine . 	Ποιον ; 
+1128	Frederic Pryor . 	Φρέντερικ Πράιορ . 
+1129	Okay , okay , okay . 	
+1130	Danke . 	
+1131	So , we apologize if this offends . 	Ζητούμε συγνώμη αν σε προσβάλαμε . 
+1132	Uh ... 	
+1133	Coat ? 	
+1134	Okay . 	
+1135	Do you understand English ? 	Μιλάτε αγγλικά ; 
+1136	Yes , sir . 	Μάλιστα . 
+1137	I 'm James Donovan . 	Μάλιστα . 
+1138	I 'm here to meet a Mr . 	Με λένε Τζέιμς Ντόνοβαν . 
+1139	Vogel . 	Με λένε Τζέιμς Ντόνοβαν . 
+1140	Mr . 	Έχω ραντεβού με τον κύριο Βόγκελ . 
+1141	Vogel . 	Έχω ραντεβού με τον κύριο Βόγκελ . 
+1142	He doesn 't work here . 	Τον κύριο Βόγκελ . 
+1143	I 'm just supposed to meet him . 	Δε δουλεύει αλλά υποτίθεται πως θα τον συναντούσα εδώ . 
+1144	That 's all I know . 	Δε δουλεύει αλλά υποτίθεται πως θα τον συναντούσα εδώ . 
+1145	Mr . 	
+1146	Donovan ! 	Κύριε Ντόνοβαν ! 
+1147	So we finally meet you . 	Κύριε Ντόνοβαν ! 
+1148	I 'm Helen Abel . 	Είμαι η Έλεν ʼμπελ . 
+1149	How is our husband ? 	Είμαι η Έλεν ʼμπελ . 
+1150	Oh . 	
+1151	He 's fine . 	- Τι κάνει ο άντρας μου ; - Είναι μια χαρά . 
+1152	How is my Rudolf ? 	- Τι κάνει ο άντρας μου ; - Είναι μια χαρά . 
+1153	As good as can be expected . 	Πώς είναι ο Ρούντολφ μου ; 
+1154	And we will get him back , yes ? 	Όσο καλύτερα γίνεται . Θα επιστρέψει , έτσι ; 
+1155	This is our daughter . 	Αυτή είναι η κόρη μας . 
+1156	How do you do ? 	Αυτή είναι η κόρη μας . 
+1157	Lydia . 	Τι κάνετε ; 
+1158	Are you Mr . 	Λύδια . 
+1159	Vogel ? 	Εσείς είστε ο κύριος Βόγκελ ; 
+1160	No , no , no ! 	Εσείς είστε ο κύριος Βόγκελ ; 
+1161	I 'm not Vogel . 	Όχι , όχι ! 
+1162	I 'm cousin Drews . 	Δεν είμαι ο Βόγκελ . 
+1163	This is Rudolf 's beloved cousin Drews . 	Ο ξάδερφος του Ρούντολφ . 
+1164	Yes , cousin Drews . 	Ο ξάδερφος του Ρούντολφ . 
+1165	I am cousin Drews . 	Ναι , ο ξάδερφος Ντρους . 
+1166	Cousin Drews , yes . 	
+1167	I 'm Helen Abel . 	
+1168	When will you see him ? 	
+1169	When will your government release him ? 	Πότε θα τον δούμε ; Πότε θα τον αφήσει ελεύθερο η κυβέρνησή σας ; 
+1170	I 'm a little , uh , lost here . 	Τα έχω λίγο χαμένα . 
+1171	I 'm supposed to meet a Mr . 	Υποτίθεται πως θα συναντούσα τον κύριο Βόγκελ . 
+1172	Vogel . 	Υποτίθεται πως θα συναντούσα τον κύριο Βόγκελ . 
+1173	Oh , Mr . 	Υποτίθεται πως θα συναντούσα τον κύριο Βόγκελ . 
+1174	Vogel is our lawyer . 	Ο κύριος Βόγκελ είναι ο δικηγόρος μας . 
+1175	We were supposed to negotiate , uh , the exchange . 	Θα διαπραγματευόμασταν την ανταλλαγή . 
+1176	To bring Rudolf here ? 	Θα διαπραγματευόμασταν την ανταλλαγή . 
+1177	Yes , yes , to bring him here . 	Για να έρθει πίσω ο Ρούντολφ ; 
+1178	But it doesn 't happen unilaterally , do you understand ? 	Ναι για να έρθει πίσω . Αλλά αυτό δε γίνεται μονομερώς , με καταλαβαίνετε ; 
+1179	It has to be an exchange . 	Πρέπει να γίνει ανταλλαγή . 
+1180	Not here ? 	
+1181	Shh . 	
+1182	Shh . 	
+1183	Shh . 	
+1184	Mr . 	
+1185	Donovan ? 	Κύριε Ντόνοβαν . 
+1186	Mr . 	Κύριε Ντόνοβαν . 
+1187	Vogel . 	Κύριε Ντόνοβαν . 
+1188	No , no , no . 	Κύριε Βόγκελ . 
+1189	Goodness . 	Όχι . 
+1190	My name is Schischkin . 	Όχι . 
+1191	Ivan Schischkin . 	Ονομάζομαι Ιβάν Σίσκιν . 
+1192	I 'm the second secretary of the Soviet embassy . 	Ονομάζομαι Ιβάν Σίσκιν . 
+1193	It wouldn 't be appropriate for Mr . 	Είμαι ο δεύτερος γραμματέας της Σοβιετικής πρεσβείας . 
+1194	Vogel to join us . 	Δεν θα ήταν σωστό να συναντηθούμε με τον κύριο Βόγκελ . 
+1195	He is a German national . 	Είναι Γερμανός υπήκοος . ʼρα δεν βρίσκεστε εδώ για να ... 
+1196	So you aren 't here to ... 	Είναι Γερμανός υπήκοος . ʼρα δεν βρίσκεστε εδώ για να ... 
+1197	To facilitate this meeting . 	Να διευκολύνω τη συνάντηση . 
+1198	Uh , perhaps Mrs . 	Κυρία ʼμπελ θέλετε να μας περιμένετε κάπου πιο ήσυχα 
+1199	Abel would like to compose herself privately ? 	Κυρία ʼμπελ θέλετε να μας περιμένετε κάπου πιο ήσυχα 
+1200	And let Mr . 	Κυρία ʼμπελ θέλετε να μας περιμένετε κάπου πιο ήσυχα 
+1201	Donovan and myself to talk ? 	
+1202	Thank you . 	
+1203	So , I 'm confused . 	Έχω μπερδευτεί . 
+1204	Yes . 	Έχω μπερδευτεί . 
+1205	Uh , I don 't care who I talk to if it 's about an exchange of personnel . 	Ναι . Δεν με απασχολεί η αλλαγή προσωπικού αλλά με ποιον θα μιλήσω . 
+1206	Are you the person to talk to ? 	
+1207	Yes , yes , yes , of course . 	Ναι , βεβαίως . 
+1208	Uh , we should talk . 	Ναι , βεβαίως . 
+1209	Please , have a seat , Mr . 	Θα μιλήσουμε . 
+1210	Donovan . 	Παρακαλώ καθίστε κύριε Ντόνοβαν . 
+1211	Uh , how did you arrive to the Eastern sector ? 	Παρακαλώ καθίστε κύριε Ντόνοβαν . 
+1212	The train . 	Πώς φτάσατε στον ανατολικό τομέα ; 
+1213	The S- Bahn . 	Πώς φτάσατε στον ανατολικό τομέα ; 
+1214	Ah , and you were alone ? 	Με τρένο , το S- Bahn . 
+1215	Yeah . 	Είστε μόνος ; 
+1216	And you are credentialed ? 	Ναι . Έχετε κάποιο πιστοποιητικό ; 
+1217	Now , you must know about me , sir . 	Ίσως ήδη με γνωρίζετε . 
+1218	I 'm a private citizen . 	Ίσως ήδη με γνωρίζετε . 
+1219	I 'm a lawyer in Brooklyn in the United States , and I' ve taken time out of my busy schedule to help my client , Rudolf Abel . 	Είμαι ιδιώτης . Είμαι δικηγόρος στο Μπρούκλιν , Η . Π . Α . και αφιερώνω χρόνο από το βαρύ μου πρόγραμμα για να βοηθήσω τον πελάτη μου , τον Ρούντολφ ʼμπελ . 
+1220	I 'm authorized to arrange an exchange of Abel for Francis Gary Powers . 	Είμαι εξουσιοδοτημένος να προχωρήσω σε ανταλλαγή του με τον Φράνσις Γκάρι Πάουερς . 
+1221	This is a full pardon of Abel that will be signed when the exchange actually takes place . 	Αυτή είναι η επίσημη απονομή χάριτος έτοιμη προς υπογραφή όταν τελικά πραγματοποιηθεί η ανταλλαγή . 
+1222	This is the only reason I 'm here . 	Αυτή είναι η επίσημη απονομή χάριτος έτοιμη προς υπογραφή όταν τελικά πραγματοποιηθεί η ανταλλαγή . 
+1223	I hope and expect to make this arrangement quickly . 	Είναι ο μοναδικός λόγος που βρίσκομαι εδώ προσμένοντας σε μια ταχεία λύση στις διαπαραγματεύσεις . 
+1224	Abel for Francis Gary Powers and Frederic Pryor . 	Ο ʼμπελ αντί του Φράνσις Γκάρι Πάουερς και του Φρέντερικ Πράιορ . 
+1225	Mmm , we don 't have Pryor . 	Δεν έχουμε εμείς τον Πράιορ . 
+1226	No ? 	Δεν έχουμε εμείς τον Πράιορ . 
+1227	You don 't ? 	Δεν τον έχετε ; 
+1228	I' ve heard of Pryor , but he 's held by the German Democratic Republic , not by the Union of Soviet Socialist Republics . 	Έμαθα για τον Πράιορ αλλά συνελήφθη από τους Ανατολικογερμανούς όχι από την Ε . Σ . Σ . Δ . 
+1229	Well , I' ll tell you the first problem . 	Έμαθα για τον Πράιορ αλλά συνελήφθη από τους Ανατολικογερμανούς όχι από την Ε . Σ . Σ . Δ . 
+1230	The names of your countries are too long . 	Θα σας πω το πρώτο πρόβλημα . Τα ονόματα των χωρών σας είναι πολύ μεγάλα . 
+1231	Yes , yes . 	Ναι , ναι . 
+1232	If we release Powers , it is only to promote a goodwill between our countries . 	Αν ελευθερώσουμε τον Πάουερς θα είναι για να ευνοήσουμε τη δημιουργία καλών σχέσεων μεταξύ των δυο χωρών . 
+1233	So , it cannot be an exchange . 	ʼρα , δε μπορεί να γίνει ανταλλαγή . 
+1234	Perhaps ... 	
+1235	Perhaps you could release Abel as a token of goodwill to our friends in Germany , and then , some months later , we would release Powers . 	Μπορείτε όμως να αφήσετε τον ʼμπελ ως ένδειξη καλής θέλησης προς τους φίλους μας Ανατολικογερμανούς κι εμείς μετά από μερικούς μήνες αφήνουμε τον Πάουερς . 
+1236	There is an idea . 	Μπορείτε όμως να αφήσετε τον ʼμπελ ως ένδειξη καλής θέλησης προς τους φίλους μας Ανατολικογερμανούς κι εμείς μετά από μερικούς μήνες αφήνουμε τον Πάουερς . 
+1237	No . 	Μπορείτε όμως να αφήσετε τον ʼμπελ ως ένδειξη καλής θέλησης προς τους φίλους μας Ανατολικογερμανούς κι εμείς μετά από μερικούς μήνες αφήνουμε τον Πάουερς . 
+1238	That just won 't work for us at all . 	Μια ιδέα είναι . 
+1239	See , we need this to be an exchange . 	Δε μας κάνει κάτι τέτοιο . 
+1240	You can call it what you want , but an exchange it must be . 	Εμείς θέλουμε να γίνει ανταλλαγή . Πείτε το όπως θέλετε αλλά πρέπει να είναι ανταλλαγή . 
+1241	We can have Abel here within 48 hours . 	Μπορούμε να φέρουμε τον ʼμπελ σε 48 ώρες . 
+1242	We need Powers at the same time we give you Abel . 	Θέλουμε τον Πάουερς την ίδια στιγμή που θα σας παραδώσουμε τον ʼμπελ . 
+1243	Hmm . 	Θέλουμε τον Πάουερς την ίδια στιγμή που θα σας παραδώσουμε τον ʼμπελ . 
+1244	This is ... 	Αυτό ... θα μπορούσαμε να το αποκαλέσουμε " σχέδιο ανυπομονησίας " ; 
+1245	Can we call this the " impatient plan " ? 	Αυτό ... θα μπορούσαμε να το αποκαλέσουμε " σχέδιο ανυπομονησίας " ; 
+1246	Well , you can call it whatever you want . 	Αυτό ... θα μπορούσαμε να το αποκαλέσουμε " σχέδιο ανυπομονησίας " ; 
+1247	I can relay your impatient plan to Moscow , see what they say ... 	Θα μεταφέρω το σχέδιό σας στη Μόσχα και θα δούμε τι θα πουν αλλά θα αναρωτηθούν γιατί τόση ανυπομονησία . 
+1248	But they will wonder why so impatient . 	Θα μεταφέρω το σχέδιό σας στη Μόσχα και θα δούμε τι θα πουν αλλά θα αναρωτηθούν γιατί τόση ανυπομονησία . 
+1249	Because I have a cold . 	Θα μεταφέρω το σχέδιό σας στη Μόσχα και θα δούμε τι θα πουν αλλά θα αναρωτηθούν γιατί τόση ανυπομονησία . 
+1250	And I don 't live in Berlin and I want to go home . 	Γιατί άρπαξα κρύωμα , δε ζω στο Βερολίνο και θέλω να επιστρέψω σπίτι . 
+1251	They will think , 	Γιατί άρπαξα κρύωμα , δε ζω στο Βερολίνο και θέλω να επιστρέψω σπίτι . 
+1252	" Well , the Americans must have gotten 	Θα σκεφτούν : 
+1253	" all the information that Abel had to give . 	" Οι Αμερικάνοι έχουν στη διάθεσή τους τις πληροφορίες που κατείχε ο ʼμπελ και τώρα βιάζονται να τον ανταλλάξουν με τον δικό τους , τον Πάουερς που ίσως δεν έχει δώσει τις πληροφορίες που θα μπορούσε να δώσει " 
+1254	" And now they 're impatient to trade him , 	" Οι Αμερικάνοι έχουν στη διάθεσή τους τις πληροφορίες που κατείχε ο ʼμπελ και τώρα βιάζονται να τον ανταλλάξουν με τον δικό τους , τον Πάουερς που ίσως δεν έχει δώσει τις πληροφορίες που θα μπορούσε να δώσει " 
+1255	" hoping to get in return this man , Powers , 	" Οι Αμερικάνοι έχουν στη διάθεσή τους τις πληροφορίες που κατείχε ο ʼμπελ και τώρα βιάζονται να τον ανταλλάξουν με τον δικό τους , τον Πάουερς που ίσως δεν έχει δώσει τις πληροφορίες που θα μπορούσε να δώσει " 
+1256	" that , perhaps , has not yet given up 	
+1257	" all the information that he has to give . " 	
+1258	This is not an equitable trade , sir . 	Δεν είναι ισότιμη ανταλλαγή , κύριε . 
+1259	But what you 're saying is , if Powers has given up everything he knows , then Moscow would trade ? 	Δηλαδή αν ο Πάουερς πει όσα γνωρίζει η Μόσχα θα διαπραγματευόταν ; 
+1260	Why wouldn 't they ? 	Δηλαδή αν ο Πάουερς πει όσα γνωρίζει η Μόσχα θα διαπραγματευόταν ; 
+1261	As for Abel , if he dies in an American prison , the next Russian operative who gets caught might think twice about keeping his mouth shut . 	Γιατί να μην το κάνουν ; Όσον αφορά στον ʼμπελ , αν πεθάνει σε μια αμερικάνικη φυλακή ο επόμενος Ρώσος κατάσκοπος που θα συλληφθεί θα το σκεφτεί διπλά να κρατήσει το στόμα του κλειστό . 
+1262	And you never know . 	Ποτέ δεν ξέρετε . 
+1263	Abel might want to see the sky again and decide to trade Russian secrets for small American favors . 	Ο ʼμπελ ίσως θελήσει να ξαναδεί ουρανό και αποφασίσει να ανταλλάξει ρώσικα μυστικά με αμερικάνικα ανταλλάγματα . 
+1264	How can we know this ? 	Πώς να το ξέρουμε αυτό ; 
+1265	We little men , we just do our jobs . 	Εμείς είμαστε ασήμαντοι άνθρωποι που επιτελούν ένα έργο . 
+1266	Like Lieutenant Powers . 	Εμείς είμαστε ασήμαντοι άνθρωποι που επιτελούν ένα έργο . 
+1267	He 's just a pilot . 	Όπως ο υποσμηναγός Πάουερς . 
+1268	He was making photographs from 70, 000 feet when he was shot from the sky . 	Τραβούσε φωτογραφίες από τα 70 χιλιάδες μέτρα όταν καταρρίφθηκε . 
+1269	People in my country consider this an act of war . 	Στη χώρα μου θεωρείται αιτία πολέμου . 
+1270	We have to get off this merry- go- round , sir . 	Πρέπει να ξεφύγουμε απ´ αυτό τον φαύλο κύκλο . 
+1271	The next mistake our countries make could be the last one . 	Το επόμενο λάθος των χωρών μας μπορεί να είναι και το τελευταίο . 
+1272	We need to have the conversation our governments can 't . 	Πρέπει εμείς να κάνουμε τον διάλογο που οι κυβερνήσεις μας δεν μπορούν . 
+1273	I will ask Moscow . 	Θα ρωτήσω τη Μόσχα . 
+1274	Who knows what they will say . 	Ποιος ξέρει τι θα πουν ; 
+1275	There are a lot of people , Mr . 	Ποιος ξέρει τι θα πουν ; 
+1276	Donovan , who doesn 't want this exchange to ever take place . 	Υπάρχουν πολλοί που δε θέλουν η ανταλλαγή να έχει αίσιο τέλος . 
+1277	Can you come back tomorrow to discuss their answer ? 	Μπορείτε να έρθετε πάλι αύριο για την απάντηση στην πρότασή σας ; 
+1278	Powers for Abel . 	Μπορείτε να έρθετε πάλι αύριο για την απάντηση στην πρότασή σας ; 
+1279	And Frederic Pryor . 	Ο Πάουερς αντί του ʼμπελ . 
+1280	As I said , 	Και του Φρέντερικ Πράιορ . 
+1281	Pryor is in the hands of the organs of 	Όπως σας είπα κρατείται από την ασφάλεια της Λ . Δ . Γ . 
+1282	State Security of the German Democratic Republic . 	Όπως σας είπα κρατείται από την ασφάλεια της Λ . Δ . Γ . 
+1283	I 'm confident you can make arrangements . 	Όπως σας είπα κρατείται από την ασφάλεια της Λ . Δ . Γ . 
+1284	I am merely a secretary in the embassy of foreign power . 	Είμαι σίγουρος πως μπορείτε να το διευθετήσετε . Είμαι ένας απλός γραμματέας μιας ξένης πρεσβείας . 
+1285	Okay , okay . 	
+1286	You have to see Mr . 	Εντάξει . Εντάξει . 
+1287	Vogel . 	Πρέπει να δείτε τον κύριο Βόγκελ . 
+1288	I' ll give you his address . 	Πρέπει να δείτε τον κύριο Βόγκελ . 
+1289	There actually is a Mr . 	Θα σας δώσω τη διεύθυνσή του . 
+1290	Vogel ? 	Είναι υπαρκτός ο κύριος Βόγκελ ; 
+1291	Why would you imagine otherwise ? 	Είναι υπαρκτός ο κύριος Βόγκελ ; 
+1292	Uh , it 's a short cab ride . 	Φανταστήκατε το αντίθετο ; 
+1293	And please , Mr . 	Με το ταξί είναι κοντά . 
+1294	Donovan , wear an overcoat in this weather . 	Σας παρακαλώ κύριε Ντόνοβαν , βάλτε παλτό την επόμενη φορά . 
+1295	I had mine stolen from me . 	Σας παρακαλώ κύριε Ντόνοβαν , βάλτε παλτό την επόμενη φορά . 
+1296	What do you expect ? 	Μου το έκλεψαν . 
+1297	It was from Saks Fifth Avenue . 	Τι περιμένατε ; Ήταν απ´ του Σακς στην 5η λεωφόρο . 
+1298	Wasn 't it ? 	Τι περιμένατε ; Ήταν απ´ του Σακς στην 5η λεωφόρο . 
+1299	Mr . 	
+1300	Donovan . 	
+1301	Mr . 	Κύριε Ντόνοβαν . 
+1302	Vogel . 	Κύριε Ντόνοβαν . 
+1303	Please come in . 	Κύριε Βόγκελ . 
+1304	Danke . 	Περάστε παρακαλώ . 
+1305	Sorry about the embassy . 	Συγνώμη που δεν ήμουν στην πρεσβεία αλλά οι Σοβιετικοί αποφάσισαν να μη με καλέσουν . 
+1306	But the Soviets decided not to host me . 	Συγνώμη που δεν ήμουν στην πρεσβεία αλλά οι Σοβιετικοί αποφάσισαν να μη με καλέσουν . 
+1307	Very irritating . 	Συγνώμη που δεν ήμουν στην πρεσβεία αλλά οι Σοβιετικοί αποφάσισαν να μη με καλέσουν . 
+1308	I am still trying to grasp each party 's ... 	Πολύ ενοχλητικό . 
+1309	Status ? 	Ακόμη προσπαθώ να κατανοήσω κάθε κράτος ... 
+1310	Yes . 	Τη θέση του ; 
+1311	And interest in the proceedings . 	Ναι . Και το ενδιαφέρον του για τις διαδικασίες . 
+1312	Oh . 	
+1313	It 's a new world . 	Είναι ένας νέος κόσμος . 
+1314	All very disorienting , isn 't it ? 	Είναι ένας νέος κόσμος . 
+1315	Let me tell you what I have to offer . 	Να σας πω την προσφορά μου . 
+1316	I 'm a good friend ... 	Είμαι πολύ φίλος ... 
+1317	" Friend . " 	Είμαι πολύ φίλος ... 
+1318	No , he 's older . 	" Φίλος " ; Μπα , είναι μεγαλύτερος . 
+1319	" Protege " ? 	" Φίλος " ; Μπα , είναι μεγαλύτερος . 
+1320	Of the attorney general of the German Democratic Republic . 	" Προστατεύομενος " ... του γενικού εισαγγελέα της Λαϊκής Δημοκρατίας της Γερμανίας . 
+1321	Sit down , please . 	" Προστατεύομενος " ... του γενικού εισαγγελέα της Λαϊκής Δημοκρατίας της Γερμανίας . 
+1322	This unfortunate , 	Αυτό το ατυχές ... ο Φρέντερικ Πράιορ βρέθηκε στο λάθος σημείο τη λάθος ώρα . 
+1323	Frederic Pryor , he was in the wrong place at the wrong time . 	Αυτό το ατυχές ... ο Φρέντερικ Πράιορ βρέθηκε στο λάθος σημείο τη λάθος ώρα . 
+1324	But every accident , properly viewed , is an opportunity , isn 't it , Mr . 	Αλλά κάθε συμβάν , αν το δεις σωστά αποτελεί μια ευκαιρία , συμφωνείτε ; 
+1325	Donovan ? 	Αλλά κάθε συμβάν , αν το δεις σωστά αποτελεί μια ευκαιρία , συμφωνείτε ; 
+1326	Well ... 	Αλλά κάθε συμβάν , αν το δεις σωστά αποτελεί μια ευκαιρία , συμφωνείτε ; 
+1327	Your country refuses to recognize the German Democratic Republic . 	Η χώρα σας αρνείται να αναγνωρίσει τη Λαϊκή Δημοκρατία της Γερμανίας . 
+1328	They prefer to make up stories that the GDR doesn 't exist , for instance . 	Προτιμούν να πλάθουν ιστορίες , ας πούμε πως δεν υφίσταται αυτό το κράτος . 
+1329	Sorry . 	Συγνώμη . 
+1330	As a means of forcing your government 's recognition of this real place , sir , in which you find yourself , the GDR , the attorney general is happy to negotiate with you as a representative of your government for Mr . 	Για να αναγκάσει την κυβέρνησή σας να αναγνωρίσει το κράτος στο οποίο βρίσκεστε , την Λ . Δ . Γ , ο Γ . Εισαγγελέας προτίθεται να διαπραγματευτεί με κάποιον αντιπρόσωπο της κυβέρνησής σας την επιστροφή του κύριου Πράιορ . 
+1331	Pryor 's return . 	
+1332	Mr . 	
+1333	Vogel , I 'm not here as a representative of my government . 	Κύριε Βόγκελ , δεν εκπροσωπώ την κυβέρνησή μου . 
+1334	All right . 	
+1335	I think that 's childish , Mr . 	Αυτό μας δένει τα χέρια . 
+1336	Donovan . 	Αυτό μας δένει τα χέρια . 
+1337	Well , I ... 	Αυτό μας δένει τα χέρια . 
+1338	I have no official status . 	Δεν κατέχω κάποια επίσημη θέση . 
+1339	Fine . 	Δεν κατέχω κάποια επίσημη θέση . 
+1340	You do not represent the USA , I do not represent the GDR . 	Ωραία . Εσείς δεν εκπροσωπείτε τις Η . Π . Α , ούτε εγώ τη Λ . Δ . Γ 
+1341	My client is Lydia Abel , Rudolf 's wife . 	Πελάτης μου είναι η Λύδια ʼμπελ , σύζυγος του Ρούντολφ . 
+1342	And I have also ... 	Πελάτης μου είναι η Λύδια ʼμπελ , σύζυγος του Ρούντολφ . 
+1343	Lydia is the daughter . 	Επίσης έχω ... 
+1344	Helen is the wife . 	Λύδια λέγεται η κόρη . 
+1345	Well ... 	
+1346	I am prepared to offer 	Προσφέρω ανταλλαγή του Φρέντερικ Πράιορ με τον Ρούντολφ ʼμπελ . 
+1347	Frederic Pryor 's exchange for Rudolf Abel 's . 	Προσφέρω ανταλλαγή του Φρέντερικ Πράιορ με τον Ρούντολφ ʼμπελ . 
+1348	Then let 's be clear . 	Να το ξεκαθαρίσουμε . 
+1349	We will produce Rudolf Abel . 	Να το ξεκαθαρίσουμε . 
+1350	You will produce , at the same time , the student , Pryor . 	Εγώ φέρνω τον Ρούντολφ ʼμπελ κι εσείς την ίδια στιγμή τον Πράιορ . 
+1351	At the same time ? 	Εγώ φέρνω τον Ρούντολφ ʼμπελ κι εσείς την ίδια στιγμή τον Πράιορ . 
+1352	Absolutely . 	Ταυτόχρονα ; 
+1353	The exchange on offer is a Russian at the end of his life for an American student at the start of his . 	Βεβαίως . Ανταλλαγή ενός Ρώσου στη δύση της ζωής του , με ένα Αμερικάνο φοιτητή στο ξεκίνημα της δικής του . 
+1354	Schischkin ? 	
+1355	He 's not an embassy secretary . 	Ο Σίσκιν ; Δεν είναι γραμματέας της πρεσβείας . 
+1356	Ivan Schischkin is the KGB 's chief in western Europe . 	Είναι ο επικεφαλής της KGB στη δυτική Ευρώπη . 
+1357	Well , whatever he is , he 's relaying our proposal to Moscow and they 'll decide . 	Όποιος κι αν είναι θα μεταφέρει την πρότασή μας στη Μόσχα κι αυτοί θα αποφασίσουν . 
+1358	Could I borrow a coat ? 	Όποιος κι αν είναι θα μεταφέρει την πρότασή μας στη Μόσχα κι αυτοί θα αποφασίσουν . 
+1359	I lost mine . 	Μπορώ να δανειστώ το παλτό σου ; Το δικό μου το έχασα . 
+1360	How did you lose your coat ? 	Μπορώ να δανειστώ το παλτό σου ; Το δικό μου το έχασα . 
+1361	You know , spy stuff . 	Πώς έχασες το παλτό σου ; 
+1362	I' ll get you another coat . 	Θα σου βρω παλτό . 
+1363	Good , because ... 	Ωραία , επειδή ... 
+1364	So who is , uh ... 	Ωραία , επειδή ... 
+1365	Who is this Vogel ? 	Ποιος είναι λοιπόν ο Βόγκελ ; 
+1366	Him , we don 't know . 	Ποιος είναι λοιπόν ο Βόγκελ ; 
+1367	He might be what you said he said he is . 	Δεν ξέρουμε . 
+1368	Friend of the attorney general . 	Μπορεί όπως λέει , να είναι φίλος του Γ . εισαγγελέα . 
+1369	Just some guy the GDR tapped to handle this . 	Κάποιος που επιστράτευσαν για την περίσταση . 
+1370	Sounds like the East Germans are fighting for a place at our table . 	Η Α . Γερμανία φαίνεται προσπαθεί να την αναγνωρίσουμε ως κράτος . 
+1371	The GDR gets Abel back for the Russians , winning their respect ... 	Παίρνει πίσω τον ʼμπελ για τους Ρώσους , κερδίζει τον σεβασμό τους και προβάλλουν τον σκοπό τους που φυσικά τους βάζει στον χάρτη . 
+1372	And capturing the headlines for their cause . 	Παίρνει πίσω τον ʼμπελ για τους Ρώσους , κερδίζει τον σεβασμό τους και προβάλλουν τον σκοπό τους που φυσικά τους βάζει στον χάρτη . 
+1373	Which , of course , puts East Germany on the map . 	Παίρνει πίσω τον ʼμπελ για τους Ρώσους , κερδίζει τον σεβασμό τους και προβάλλουν τον σκοπό τους που φυσικά τους βάζει στον χάρτη . 
+1374	But we don 't care about their map . 	Εμάς δεν μας ενδιαφέρει αυτό . 
+1375	Stick with the Russians . 	Εμάς δεν μας ενδιαφέρει αυτό . 
+1376	Stick with the Russians . 	Εσύ κοίτα τους Ρώσους . 
+1377	It 's Powers for Abel . 	Τον ʼμπελ αντί του Πάουερς . 
+1378	So , does all this mean this might actually happen ? 	Μπορεί δηλαδή να συμβεί ; 
+1379	Yeah , that 's what you seem to be telling me . 	Απ´ αυτά που μου λες βάζουμε τον ʼμπελ στο αεροπλάνο κι είναι εδώ την Παρασκευή κι αν ο Σίσκιν έχει πάρει την έγκριση κανονίζουμε τις λεπτομέρειες . 
+1380	We 'll put Abel on a plane , he 'll be here Friday . 	Απ´ αυτά που μου λες βάζουμε τον ʼμπελ στο αεροπλάνο κι είναι εδώ την Παρασκευή κι αν ο Σίσκιν έχει πάρει την έγκριση κανονίζουμε τις λεπτομέρειες . 
+1381	So , if Schischkin gets the okay , all that 's left is the mechanics of the trade . 	Απ´ αυτά που μου λες βάζουμε τον ʼμπελ στο αεροπλάνο κι είναι εδώ την Παρασκευή κι αν ο Σίσκιν έχει πάρει την έγκριση κανονίζουμε τις λεπτομέρειες . 
+1382	How we swap our guy for their guy . 	Ο δικός μας για τον δικό τους . 
+1383	Our " guys . " Two guys . 	Ο δικός μας για τον δικό τους . 
+1384	Powers and Pryor . 	Τους " δικούς " μας . Πάουερς και Πράιορ . 
+1385	No , now don 't go bleeding heart on me . 	Μη μου το δυσκολεύεις . 
+1386	Powers is the whole ball game . 	Μη μου το δυσκολεύεις . 
+1387	Forget this Ivy League boy , who obviously thought it was a good idea to study Soviet economics in Berlin in the middle of the Cold War . 	Ο Πάουερς είναι που μας νοιάζει . Ξέχνα το παιδάκι που το βρήκε έξυπνο να σπουδάσει τη Σοβιετική οικονομία στο Α . 
+1388	Powers is who we need . 	Βερολίνο στη μέση του Ψυχρού Πολέμου . 
+1389	You don 't even like Powers . 	Τον Πάουερς χρειαζόμαστε . 
+1390	Everybody hates Powers . 	Ούτε καν συμπαθείς τον Πάουερς . Όλοι τον απεχθάνονται . 
+1391	He didn 't kill himself and he let the commies parade him on television . 	Δεν αυτοκτόνησε και άφησε τα κομμούνια να τον κάνουν θέατρο στην τηλεόραση . 
+1392	He 's the most hated man in America . 	Είναι το πιο μισητό πρόσωπο στην Αμερική μετά ίσως από τον Ρούντολφ ʼμπελ ... κι εμένα . 
+1393	After Rudolf Abel , maybe . 	Είναι το πιο μισητό πρόσωπο στην Αμερική μετά ίσως από τον Ρούντολφ ʼμπελ ... κι εμένα . 
+1394	And me . 	Είναι το πιο μισητό πρόσωπο στην Αμερική μετά ίσως από τον Ρούντολφ ʼμπελ ... κι εμένα . 
+1395	Now wake up ! 	
+1396	I gotta sleep . 	Θέλω να κοιμηθώ . 
+1397	I just gotta sleep . 	Θέλω να κοιμηθώ . 
+1398	I told you , you can sleep once we talk what we need to talk . 	Θα κοιμηθείς αφού πεις αυτά που πρέπει . 
+1399	You must focus on me . 	Θα κοιμηθείς αφού πεις αυτά που πρέπει . 
+1400	Your government doesn 't care about you . 	Πρόσεξέ με ! 
+1401	You know that . 	Το ξέρεις πως η κυβέρνησή σου δε δίνει δεκάρα για σένα . 
+1402	Any of you . 	Το ξέρεις πως η κυβέρνησή σου δε δίνει δεκάρα για σένα . 
+1403	You know that twelve U- 2 pilots incurred brain damage ? 	Για κανένα από σας . Ξέρεις για τους 12 πιλότους των U- 2 που έπαθαν εγκεφαλική βλάβη ; 
+1404	They 're vegetables because of altitude , insufficient oxygen . 	Έμειναν φυτά λόγω του υψόμετρου και της έλειψης οξυγόνου . 
+1405	But they keep you flying , Gary . 	Έμειναν φυτά λόγω του υψόμετρου και της έλειψης οξυγόνου . 
+1406	You and your friends . 	Αλλά σε βάζουν να πετάς Γκάρι . Κι εσένα και τους φίλους σου . 
+1407	They gave you this . 	Σου έδωσαν αυτό για να γρατζουνιστείς , σωστά ; 
+1408	A scratcher , yes ? 	Σου έδωσαν αυτό για να γρατζουνιστείς , σωστά ; 
+1409	Potassium cyanide . 	Σου έδωσαν αυτό για να γρατζουνιστείς , σωστά ; 
+1410	Does that look like they care about you ? 	Υδροκυάνιο . Σου φαίνεται πως νοιάζονται για σένα ; 
+1411	What is the construction of the destructor unit ? 	Ποια είναι η δομή του μηχανισμού καταστροφής ; 
+1412	By what means is this unit operated ? 	Ποια είναι η δομή του μηχανισμού καταστροφής ; 
+1413	With what explosives is the unit charged , and what destruction is it capable of ? 	Πώς δουλεύει ; Τι είδους εκρηκτικά έχει και τι μπορεί να κάνει ; 
+1414	I don 't know . 	Δεν ξέρω . 
+1415	The pilots were never shown any of the equipment . 	Δεν ξέρω . 
+1416	How wide far can the radar map an area during an overflight ? 	Στους πιλότους δεν έδειξαν τον μηχανισμό . Πόση έκταση μπορεί να χαρτογραφήσει το ραντάρ ; 
+1417	I don 't know , I don 't know ! 	
+1418	Were you making the overflight on April 9th over the industrial area and MiG bomber base at Baranovichi ? 	Δεν ξέρω ! Δεν ξέρω ! Πετούσες στις 9 Απριλίου πάνω από τη βάση των βομβαρδιστικών ΜΙΓΚ στο Μπαράνοβιτς ; 
+1419	I was not . 	Όχι , αυτή ήταν η πρώτη μου πτήση . 
+1420	This was my first overflight . 	Όχι , αυτή ήταν η πρώτη μου πτήση . 
+1421	I need to know about engine- out to glide ratio . 	Θέλω να μάθω τις δυνατότητες του κινητήρα . 
+1422	How the plane gets so high . 	Πώς πετάει τόσο ψηλά ; 
+1423	We know it reaches altitude of 70, 000 feet . 	Ξέρουμε ότι φτάνει τα 70 χιλιάδες πόδια . 
+1424	Gary , we know this . 	Ξέρουμε ότι φτάνει τα 70 χιλιάδες πόδια . 
+1425	And I need to know where the planes have flown . 	Γκάρι , το ξέρουμε αυτό . 
+1426	Where they have flown , Gary . 	Και θέλω να μάθω σε ποιο μέρος πετάξατε . 
+1427	And we must have this talk now . 	Πού πετάξατε Γκάρι ; 
+1428	Now . 	Τώρα . 
+1429	And then you can sleep a little . 	Μετά μπορείς να κοιμηθείς . 
+1430	Sir , wake up . 	Κύριε , σηκωθείτε . 
+1431	Wake up , sir . 	Κύριε , σηκωθείτε . 
+1432	Sir , can you come with me , please ? 	Πρέπει να έρθετε μαζί μου . 
+1433	Yeah . 	Πρέπει να έρθετε μαζί μου . 
+1434	We gotta move . 	Πρέπει να έρθετε μαζί μου . 
+1435	Yeah , of course . 	- Πρέπει να φύγουμε . 
+1436	Can you come with me , please ? 	- Πρέπει να φύγουμε . 
+1437	Yeah . 	- Ναι , βέβαια . 
+1438	Okay . 	- Μπορείτε να με ακολουθήσετε ; - Ναι . 
+1439	Got your glasses ? 	Εντάξει . 
+1440	Uh- huh . 	Τα γυαλιά σας . 
+1441	What time is it ? 	Τα γυαλιά σας . 
+1442	It 's late , but we need to talk , and then we need to get on a plane , okay ? 	Τι ώρα είναι ; Είναι αργά αλλά πρέπει να μιλήσουμε . 
+1443	Yeah . 	Μετά θα σας βάλουμε στο αεροπλάνο , εντάξει ; 
+1444	Yep . 	
+1445	Upsy- daisy ! 	Σήκω . 
+1446	Upsy- daisy . 	Σήκω ! 
+1447	That 's right . 	Σήκω ! 
+1448	There we go . 	- Όρθιος . 
+1449	Keep it moving . 	- Έτσι μπράβο . 
+1450	Thank you . 	Πάμε . 
+1451	Other way , other way . 	Απ´ την άλλη πλευρά . 
+1452	There we go . 	Απ´ την άλλη πλευρά . 
+1453	You say a plane ? 	Απ´ την άλλη πλευρά . 
+1454	This way , please . 	Είπατε αεροπλάνο ; 
+1455	Keep moving . 	Από δω παρακαλώ . 
+1456	So , I received a favorable decision from Moscow on your proposal that we help our friends in the German Democratic Republic by exchanging 	Συνεχίστε . Η απάντηση στην πρότασή σας από τη Μόσχα ήταν θετική . 
+1457	Mr . 	Θα βοηθήσουμε τους φίλους μας από τη Λ . Δ . Γ στην ανταλλαγή του Πάουερς με τον ʼμπελ . 
+1458	Powers for Mr . 	Θα βοηθήσουμε τους φίλους μας από τη Λ . Δ . Γ στην ανταλλαγή του Πάουερς με τον ʼμπελ . 
+1459	Abel . 	Θα βοηθήσουμε τους φίλους μας από τη Λ . Δ . Γ στην ανταλλαγή του Πάουερς με τον ʼμπελ . 
+1460	That 's swell . 	
+1461	May I suggest the Glienicke Bridge as a place of a swap ? 	Πολύ ωραία . Μπορώ να προτείνω τη γέφυρα Γκλίνικε ως σημείο της ανταλλαγής ; 
+1462	Why not Checkpoint Charlie ? 	
+1463	We 're not looking for publicity . 	Γιατί όχι το φυλάκιο ελέγχου Τσάρλι ; 
+1464	The Glienicke Bridge is very quiet , especially early in the morning . 	Δεν θέλουμε να δοθεί δημοσιότητα . Στη γέφυρα επικρατεί ησυχία ειδικά νωρίς το πρωί . 
+1465	Glienicke Bridge . 	
+1466	I' ll run that by our side . 	Εντάξει , θα το μεταφέρω στους δικούς μου . 
+1467	We can have Abel here on Friday . 	Εντάξει , θα το μεταφέρω στους δικούς μου . 
+1468	So , Saturday morning ? 	Μπορούμε να έχουμε τον ʼμπελ την Παρασκευή οπότε , Σάββατο πρωί ; 
+1469	Always impatience , yeah ? 	Μπορούμε να έχουμε τον ʼμπελ την Παρασκευή οπότε , Σάββατο πρωί ; 
+1470	I want to get home and get into bed . 	Πάντα ανυπόμονος . 
+1471	So , Saturday morning ? 	Θέλω να γυρίσω σπίτι μου να ξεκουραστώ . 
+1472	5 : 30 ? 	Σάββατο πρωί , λοιπόν ; 
+1473	All right . 	Στις 5 : 30 ; 
+1474	We 're done here . 	Ωραία , τελειώσαμε λοιπόν . 
+1475	This is a number , in case anything should come up . 	Κρατήστε ένα τηλέφωνο σε περίπτωση που προκύψει κάτι . 
+1476	All right . 	Κρατήστε ένα τηλέφωνο σε περίπτωση που προκύψει κάτι . 
+1477	Someone will answer at any hour . 	Εντάξει . 
+1478	I don 't expect to use it . 	Κάποιος θα είναι πάντα εκεί για ν´ απαντήσει . 
+1479	Shall we toast the arrangement ? 	Δεν περιμένω να το χρησιμοποιήσω . 
+1480	Why not ? 	Να κάνουμε πρόποση για τη συμφωνία ; 
+1481	Armenian brandy . 	Γιατί όχι ; Αρμένικο μπράντυ . 
+1482	Good bracer for your cold . 	Κάνει καλό στο κρύωμα . 
+1483	Thank you . 	Κάνει καλό στο κρύωμα . 
+1484	Would you mind ... 	Ευχαριστώ . 
+1485	This is not part of our business but I 'd like to ask you a couple of questions . 	Θα σας πείραζε να ... είναι άσχετο με τη δουλειά αλλά θέλω να σας ρωτήσω κάποια πράγματα . 
+1486	You do not have to answer . 	Θα σας πείραζε να ... είναι άσχετο με τη δουλειά αλλά θέλω να σας ρωτήσω κάποια πράγματα . 
+1487	I shall answer what I know . 	Δεν είστε υποχρεωμένος ν´ απαντήσετε . 
+1488	I like this guy , your guy . 	Θα απαντήσω αν γνωρίζω . Συμπαθώ αυτόν τον τύπο , τον δικό σας . 
+1489	What happens to your guy when he gets home ? 	Τι θα απογίνει όταν επιστρέψει ; 
+1490	Well , we have to make a determination whether our guy is now your guy . 	Πρέπει να αποφασίσουμε αν εξακολουθεί να είναι δικός μας κι όχι δικός σας . 
+1491	Now , as I said to you before , he 's acted honorably . 	Όπως προείπα φέρθηκε πολύ έντιμα . 
+1492	He 's still your guy , believe me . 	Όπως προείπα φέρθηκε πολύ έντιμα . 
+1493	Of course you will say that if it were true and if it were not true . 	Δικός σας είναι , πιστέψτε με . Φυσικά αυτό θα λέγατε αν ήταν αλήθεια αλλά κι αν δεν ήταν . 
+1494	I guess it has come down to that , huh ? 	Ναι , είναι κι αυτό . 
+1495	Well , forgive me for pushing , but is he in any danger if the determination is made ? 	Συγνώμη που σας πιέζω αλλά διατρέχει κάποιο κίνδυνο ; 
+1496	Well , goodness . 	Συγνώμη που σας πιέζω αλλά διατρέχει κάποιο κίνδυνο ; 
+1497	As things are now , everyone is in danger . 	Τι να σας πω ; Έτσι όπως έχουν τα πράγματα , κανείς δεν είναι ασφαλής . 
+1498	Cheers . 	
+1499	Na zdorovie . 	Εις υγείαν . 
+1500	There will be no exchange on Glienicke Bridge . 	Δεν θα γίνει καμμιά ανταλλαγή στη γέφυρα Γκλίνικε . 
+1501	Excuse me , sir . 	Δεν θα γίνει καμμιά ανταλλαγή στη γέφυρα Γκλίνικε . 
+1502	There will be no exchange . 	Πώς είπατε ; 
+1503	Not for Frederic Pryor . 	Δεν θα γίνει ανταλλαγή . 
+1504	Mr . 	Όχι του Φρέντερικ Πράιορ . 
+1505	Vogel , I thought yesterday we had agreed . 	Κύριε Βόγκελ , νόμιζα πως συμφωνήσαμε εχθές . 
+1506	We agreed on an exchange , Abel for Pryor . 	Συμφωνήσαμε να ανταλλάξουμε τον ʼμπελ με τον Πράιορ . 
+1507	Now I learn you are a rug merchant selling the same rug to two customers . 	Έμαθα όμως πως κάνετε μπαγαποντιές . 
+1508	Abel for Pryor you sell to us . 	Πουλάτε το ίδιο προϊόν σε δυο πελάτες . ʼμπελ αντί Πράιορ , πουλάτε σ´ εμάς ... 
+1509	Yeah . 	Πουλάτε το ίδιο προϊόν σε δυο πελάτες . ʼμπελ αντί Πράιορ , πουλάτε σ´ εμάς ... 
+1510	And Abel for Powers you sell to the Soviets . 	Ναι . και ʼμπελ αντί Πάουερς , στους Σοβιετικούς . 
+1511	I 'm not quite sure what the problem is if the arrangement satisfies two parties or three or four . 	Δε βλέπω πού είναι το πρόβλημα αν η συμφωνία αφορά δύο ή τρία ή τέσσερα μέρη . 
+1512	What difference does it make ? 	Δε βλέπω πού είναι το πρόβλημα αν η συμφωνία αφορά δύο ή τρία ή τέσσερα μέρη . 
+1513	The arrangement does not satisfy this party . 	Τι διαφορά έχει ; 
+1514	Now , Mr . 	
+1515	Vogel , please ... 	
+1516	Obviously you do not know who you are dealing with . 	Κύριε Βόγκελ ... 
+1517	Here 's the interest of the German Democratic Republic . 	Ακούστε τι ενδιαφέρει εμάς : 
+1518	To deal with , and to be seen to be dealing with another sovereign power , the United States . 	Να καταστεί σαφές πως διαπραγματευόμαστε με μια άλλη ανεξάρτητη χώρα , τις Ηνωμένες Πολιτείες . 
+1519	An equal power . 	Να καταστεί σαφές πως διαπραγματευόμαστε με μια άλλη ανεξάρτητη χώρα , τις Ηνωμένες Πολιτείες . 
+1520	Instead you treat us as stooges for the Union of Soviet Socialist Republics . 	Σαν ίσος προς ίσο . Τουναντίον , μας φέρεστε σαν μαριονέτες της Ε . Σ . Σ . Δ . 
+1521	Can we just call them the Russians ? 	Να τους λέμε Ρώσους ; Θα γλυτώσουμε χρόνο . 
+1522	It 'll save time . 	Να τους λέμε Ρώσους ; Θα γλυτώσουμε χρόνο . 
+1523	I have an appointment , sir . 	Έχω ραντεβού , κύριε . 
+1524	I think it 's you who are wasting time . 	Έχω ραντεβού , κύριε . 
+1525	Now , tell me if I am describing this wrong . 	Εσείς σπαταλάτε τον χρόνο . 
+1526	You have a kid , a university student , someone you know is not a spy , who 's no threat to you . 	Πείτε μου αν τα λέω λάθος . Κρατάτε ένα παιδί , ένα φοιτητή που ξέρετε πως δεν είναι κατάσκοπος και δεν είναι απειλή για σας . 
+1527	And in exchange for this person who is worthless to you , you play an equal part in an exchange between the Russians and the Americans . 	Και για αντάλλαγμα , για κάποιον άχρηστο για σας θέλετε ισοδύναμο ρόλο σε μια ανταλλαγή μεταξύ Ρώσων και Αμερικάνων . 
+1528	And this is one transaction between us and the two of you . 	Κι αυτή είναι μια συναλλαγή μεταξύ ημών και των δυο σας . 
+1529	We 're not trying to do two things here , sir . 	Κι αυτή είναι μια συναλλαγή μεταξύ ημών και των δυο σας . 
+1530	We 're just doing one thing . 	Εμείς προσπαθούμε να κάνουμε δυο πράγματα κι εσείς μόνο ένα . 
+1531	One , one , one . 	Εμείς προσπαθούμε να κάνουμε δυο πράγματα κι εσείς μόνο ένα . 
+1532	It 's hard for me to see how the Republic of East German Democrats is being slighted . 	Ένα , ένα . Δε μπορώ να καταλάβω πώς παραγκωνίζεται η Α . 
+1533	You agreed with the Soviets without consulting me . 	Γερμανία . Συμφωνήσατε με τους Ρώσους χωρίς να με συμβουλευθείτε . 
+1534	Is this a negotiation or a conspiracy ? 	Διαπραγμάτευση είναι αυτή ή συνομωσία ; 
+1535	For it to be a conspiracy , there would have to be harm to you , sir . 	Συνομωσία θα ήταν αν σας έβλαπτε . 
+1536	There 's just benefits here . 	Συνομωσία θα ήταν αν σας έβλαπτε . 
+1537	We 're of agreeing interests . 	Εδώ όλοι κερδίζουν . 
+1538	No , you decide they agree . 	Υπάρχουν κοινά συμφέροντα . 
+1539	Where is your appointment , sir ? 	Όχι , εσείς το λέτε αυτό . 
+1540	In the West . 	Πού είναι το ραντεβού σας ; 
+1541	Ku' damm . 	Δυτικά . 
+1542	Good . 	Στο Κούνταμ . 
+1543	Look around you . 	
+1544	How does the Eastern sector compare with the West ? 	Κοιτάξτε γύρω σας . Μπορεί να συγκριθεί ο δυτικός με τον ανατολικό τομέα ; 
+1545	Hmm ? 	
+1546	Our Russian friends have decided that we should not rebuild our capital city . 	Οι Ρώσοι φίλοι μας αποφάσισαν να μην ξαναχτίσουμε την πόλη μας . 
+1547	But we live in this ruin made by our Russian friends . 	Να μένουμε στα συντρίμμια που δημιούργησαν . 
+1548	Go ahead , make your deal with these Russians . 	Να μένουμε στα συντρίμμια που δημιούργησαν . 
+1549	We won 't be part of it . 	Ορίστε λοιπόν , κλείστε συμφωνία με τους Ρώσους . 
+1550	There is no deal without Pryor . 	
+1551	We are not leaving him here . 	Δεν έχει συμφωνία χωρίς τον Πράιορ . 
+1552	Is this your position or your government 's ? 	Δεν έχει συμφωνία χωρίς τον Πράιορ . 
+1553	Sir , I 'm here . 	Είναι απόφαση της κυβέρνησης ή δική σας ; 
+1554	I 'm talking to you . 	Κύριε , εγώ βρίσκομαι εδώ . 
+1555	But you are not a representative of your government . 	Εγώ μιλάω μαζί σας . 
+1556	You don 't know who you are . 	Δεν εκπροσωπείτε όμως την κυβέρνησή σας . 
+1557	Neither do we . 	Δεν ξέρετε τι ακριβώς είστε . 
+1558	You should be careful . 	Δεν ξέρετε τι ακριβώς είστε . 
+1559	This is not Brooklyn , Mr . 	Ούτε κι εμείς . Πρέπει να είστε προσεκτικός . 
+1560	Donovan . 	
+1561	Look , sir . 	
+1562	You must know that in every respect that matters , 	Ακούστε . 
+1563	I represent my government . 	Από κάθε άποψη , εκπροσωπώ την κυβέρνησή μου . 
+1564	You know who I am . 	Από κάθε άποψη , εκπροσωπώ την κυβέρνησή μου . 
+1565	Do I ? 	Ξέρετε ποιος είμαι . 
+1566	Uh- oh . 	
+1567	Do you have the proper papers ? 	Έχετε πάνω σας πιστοποιητικά ; 
+1568	Of course not . 	Έχετε πάνω σας πιστοποιητικά ; 
+1569	It doesn 't matter . 	Βεβαίως και όχι αλλά δεν πειράζει . 
+1570	An American lawyer like you can talk your way out of anything . 	Ένας Αμερικάνος δικηγόρος όπως εσείς , πείθει οποιονδήποτε . 
+1571	Can 't you ? 	Ένας Αμερικάνος δικηγόρος όπως εσείς , πείθει οποιονδήποτε . 
+1572	You go with him . 	Ακολουθήστε τους . 
+1573	Why ? 	Ακολουθήστε τους . 
+1574	It 's passport problem . 	Γιατί ; 
+1575	What ... 	Πρόβλημα με το διαβατήριο . 
+1576	What problem ? 	Πρόβλημα με το διαβατήριο . 
+1577	What 's the problem ? 	Πρόβλημα με το διαβατήριο . 
+1578	You go with him . 	Πρόβλημα ; Τι πρόβλημα έχει ; 
+1579	And remember , we control the fate of Frederic Pryor . 	Και θυμηθείτε , εμείς ελέγχουμε τη μοίρα του Φρέντερικ Πράιορ . 
+1580	My God ! 	
+1581	Yeah , I' ll start with some coffee , please . 	Κατ´ αρχήν καφέ , παρακαλώ . 
+1582	Then I' ll have the Hilton combo and the American breakfast . 	Μετά , το σπέσιαλ πρωινό του Χίλτον . 
+1583	And coffee . 	Και αμερικάνικο πρωινό με καφέ . 
+1584	Both breakfasts ? 	Και αμερικάνικο πρωινό με καφέ . 
+1585	Yeah , yeah . 	Και τα δύο πρωινά ; 
+1586	One first or ... 	Ναι . 
+1587	Both first , both . 	Πρώτα το ένα ... 
+1588	Whenever they 're ready . 	Πρώτα το ένα ... 
+1589	And coffee . 	Και τα δυο μαζί όταν ετοιμαστούν . 
+1590	Hmm . 	Και καφέ . 
+1591	You shouldn 't be here . 	Δεν έπρεπε να είσαι εδώ . 
+1592	Well , sometimes in Germany , you just want a big American breakfast . 	Είμαι στη Γερμανία και πεθύμησα ένα καλό αμερικάνικο πρωινό . 
+1593	What happened ? 	
+1594	Where were you last night ? 	Τι συνέβη ; Πού ήσουν εχθές το βράδυ ; 
+1595	Vogel arranged for me to spend some time in the East . 	Ο Βόγκελ βρήκε τρόπο να με κρατήσει για λίγο στον ανατολικό τομέα . 
+1596	Oh , Jesus . 	Ο Βόγκελ βρήκε τρόπο να με κρατήσει για λίγο στον ανατολικό τομέα . 
+1597	Frankly , it 's not that much worse than where you have me here in the West . 	Χριστέ μου ! 
+1598	So the Russians are fine with the exchange , but now Vogel is saying that the East Germans won 't do it . 	Δεν ήταν πολύ χειρότερα απ´ τον δυτικό που μ´ έχεις εσύ . Οι Ρώσοι είναι εντάξει αλλά ο Βόγκελ λέει πως οι ανατολικογερμανοί δεν συμφωνούν . 
+1599	We 're not gonna get Pryor . 	
+1600	Great , good . 	Δεν δίνουν τον Πράιορ . Σπουδαία . 
+1601	So the Soviets are set . 	
+1602	We get Powers . 	Οπότε οι Σοβιετικοί συμφώνησαν . 
+1603	We get Powers . 	Θα πάρουμε τον Πάουερς . 
+1604	Well done . 	Σπουδαία . 
+1605	No , the East Germans won 't do it . 	Μπράβο ! Όχι , οι Ανατολικογερμανοί δεν δέχονται . 
+1606	We won 't get Pryor , and that kid matters . 	Δεν δίνουν τον Πράιορ . 
+1607	Every person matters . 	Και το παιδί μετράει . 
+1608	Sure , that 's why you tried . 	Κάθε άτομο μετράει . 
+1609	That 's why you tried . 	Φυσικά . 
+1610	Abel 's on his way , so we 're all set for tomorrow morning . 	Γι αυτό το πάλαιψες . Ο ʼμπελ είναι καθ' οδόν . 
+1611	Wait a minute . 	Όλα είναι έτοιμα γι αύριο το πρωί . 
+1612	Makes things simple . 	Όλα είναι έτοιμα γι αύριο το πρωί . 
+1613	Makes things simple . 	- Κάτσε ένα λεπτό . 
+1614	We are not getting the kid . 	- Τα πράγματα είναι απλά . 
+1615	Yeah , I understand . 	Δεν μας δίνουν το παιδί . 
+1616	We 're set . 	Το κατάλαβα . 
+1617	We can ignore the message we got this morning . 	Είμαστε εντάξει . 
+1618	What message ? 	
+1619	From the East Germans . 	Ποιο μήνυμα ; 
+1620	They called the number I gave you . 	Οι Ανατολικογερμανοί . 
+1621	They said they wanted to speak to you today . 	Πήραν στο νούμερο που σου έδωσα και είπαν πως θέλουν να σου μιλήσουν . 
+1622	Vogel called ? 	Πήραν στο νούμερο που σου έδωσα και είπαν πως θέλουν να σου μιλήσουν . 
+1623	No , um ... 	Ο Βόγκελ πήρε τηλέφωνο ; 
+1624	Office of , uh , Harald Ott , 	Όχι . 
+1625	East German attorney general . 	Ο Χάραλντ Ότ , γενικός εισαγγελέας . 
+1626	Wanting what ? 	Ο Χάραλντ Ότ , γενικός εισαγγελέας . 
+1627	What does he want ? 	Ο Χάραλντ Ότ , γενικός εισαγγελέας . 
+1628	Well , to talk to you . 	Τι ήθελε ; 
+1629	But it 's okay , I can 't ask you to go back there . 	Να μιλήσει μ´ εσένα . Δεν έχει σημασία . 
+1630	And listen , you seem to be persona non grata to some elements , so we won 't push our luck . 	Δε μπορώ να σου ζητήσω να ξαναπάς εκεί . Για κάποιους λόγους είσαι ανεπιθύμητος εκεί γι αυτό μη ζορίζεις την τύχη σου . 
+1631	So he wants to see me . 	Θέλει δηλαδή να με δει . 
+1632	What time ? 	Θέλει δηλαδή να με δει . 
+1633	Oh , no , no . 	Τι ώρα ; 
+1634	Now , listen . 	Όχι , όχι , άκουσέ με . 
+1635	You don 't need to go . 	
+1636	In fact , you shouldn 't go . 	Δε χρειάζεται να πας . 
+1637	In fact , you can 't go . 	Για την ακρίβεια , δεν πρέπει να πας . 
+1638	We 're set with the Soviets . 	Για την ακρίβεια , δεν θα πας . 
+1639	We don 't want to screw it up . 	Συμφωνήσαμε με τους Ρώσους . 
+1640	I 'm not gonna screw it up . 	Μη τα σκατώσουμε τώρα . 
+1641	You 're not going ! 	Δε θα τα σκατώσω . 
+1642	Don 't be a pain in the ass . 	Μη πας ! 
+1643	Oh , I ordered . 	Μη γίνεσαι μπελάς . 
+1644	Enjoy your big American breakfast . 	Παράγγειλα . 
+1645	I thought it should be negotiated at the highest level as a courtesy to you . 	Από ευγένεια προς το πρόσωπό σας , είπα να διαπραγματευτούμε στο πιο ψηλό επίπεδο . 
+1646	I thank you , sir . 	Από ευγένεια προς το πρόσωπό σας , είπα να διαπραγματευτούμε στο πιο ψηλό επίπεδο . 
+1647	I don 't know how things became so confused . 	Δεν ξέρω γιατί τα πράγματα μπερδεύτηκαν τόσο . 
+1648	Well , I guess sometimes they just do . 	Δεν ξέρω γιατί τα πράγματα μπερδεύτηκαν τόσο . 
+1649	For sake of clarity , 	Για να μιλήσω καθαρά είμαστε πανέτοιμοι για την ανταλλαγή του υποτιθέμενου φοιτητή Πράιορ με τον ʼμπελ . 
+1650	I say we are fully prepared to exchange the so- called student , Pryor , for Rudolf Abel . 	Για να μιλήσω καθαρά είμαστε πανέτοιμοι για την ανταλλαγή του υποτιθέμενου φοιτητή Πράιορ με τον ʼμπελ . 
+1651	I understand from Mr . 	Για να μιλήσω καθαρά είμαστε πανέτοιμοι για την ανταλλαγή του υποτιθέμενου φοιτητή Πράιορ με τον ʼμπελ . 
+1652	Vogel that Pryor is very important to you . 	Καταλαβαίνω πως για σας ο Πράιορ έχει σημασία . 
+1653	Yes , but ... 	Καταλαβαίνω πως για σας ο Πράιορ έχει σημασία . 
+1654	Ah , we 'll do a memorandum to that effect . 	Ναι , αλλά ... 
+1655	Oh , a memorandum . 	Θα υπογράψουμε και σύμφωνο για την ανταλλαγή . Σύμφωνο . 
+1656	Certainly , we commit to a bi- lateral exchange . 	Ασφαλώς θα είναι μια διμερής ανταλλαγή . 
+1657	Yes , yes , sure . 	Ασφαλώς θα είναι μια διμερής ανταλλαγή . 
+1658	I 'm not sure what that means but ... 	Οπωσδήποτε , αν και δεν ξέρω τι σημαίνει αυτό ... 
+1659	My country also insists on Francis Gary Powers . 	Η χώρα μου επιμένει και για τον Πάουερς . 
+1660	No ! 	Η χώρα μου επιμένει και για τον Πάουερς . 
+1661	This is how things became so confused . 	Γι αυτό μπερδεύτηκαν τα πράγματα τόσο . 
+1662	Powers . 	Γι αυτό μπερδεύτηκαν τα πράγματα τόσο . 
+1663	What use is he , sir ? 	Τον Πάουερς ; 
+1664	You want him back for punitive reasons ? 	Τον Πάουερς ; 
+1665	What 's done is done . 	Τον θέλετε πίσω για να υποστεί κυρώσεις . 
+1666	He has divulged what he will divulge , as no doubt Abel has also . 	Πάει , ό, τι έγινε , έγινε . Αποκάλυψε ό, τι ήξερε και αναμφίβολα ο ʼμπελ έκανε το ίδιο . 
+1667	We are offering instead someone who you insist is innocent . 	Εμείς αντιθέτως προσφέρουμε κάποιον που εσείς ισχυρίζεστε πως είναι αθώος . 
+1668	And this is right . 	Εμείς αντιθέτως προσφέρουμε κάποιον που εσείς ισχυρίζεστε πως είναι αθώος . 
+1669	This is who you should retrieve . 	Κι αυτό είναι το σωστό . 
+1670	The future . 	Έτσι πρέπει να το δείτε . 
+1671	Look to the future . 	Το μέλλον . Προσέξτε το μέλλον . 
+1672	Ott . 	
+1673	Ott . 	Οτ . 
+1674	I 'm sorry . 	
+1675	If you could give me a moment , sir . 	Με συγχωρείτε ένα λεπτό κύριε ; 
+1676	I 'm very sorry , sir . 	
+1677	The attorney general regrets that he had to leave on urgent business . 	Σας ζητώ συγνώμη . Ο γενικός εισαγγελέας λυπάται που έπρεπε να φύγει εσπευσμένα . 
+1678	He left ? 	
+1679	Yes . 	Έφυγε ; 
+1680	Many apologies . 	Ναι , χίλια συγνώμη . 
+1681	I' ve been waiting for over an hour . 	Ναι , χίλια συγνώμη . 
+1682	Very sorry , sir . 	Περιμένω πάνω από μια ώρα . 
+1683	Young man . 	Νεαρέ ! 
+1684	Come here . 	Έλα εδώ . 
+1685	It 's all right . 	Έλα εδώ . 
+1686	Come here . 	Μη φοβάσαι . 
+1687	Uh ... 	
+1688	Take a seat . 	
+1689	Oh , come on , come on . 	Έλα τώρα , κάθησε . 
+1690	Sit down . 	Έλα τώρα , κάθησε . 
+1691	Do you like your job here ? 	Σου αρέσει η δουλειά εδώ ; 
+1692	It 's a very good job , sir . 	Σου αρέσει η δουλειά εδώ ; 
+1693	It must be . 	Είναι πολύ καλή δουλειά . 
+1694	Must be interesting . 	Πρέπει να είναι ενδιαφέρουσα . 
+1695	Oh , yes , sir . 	Πρέπει να είναι ενδιαφέρουσα . 
+1696	And important , too . 	Μάλιστα . Και σημαντική . 
+1697	And your English is ... 	Και τα Αγγλικά σου είναι καλά . 
+1698	Is good . 	Και τα Αγγλικά σου είναι καλά . 
+1699	Yes , I hesitate to say it 's excellent . 	Ναι . 
+1700	But it 's excellent , sir . 	Όχι με τέλεια προφορά , αλλά καλά . 
+1701	Good , good . 	Όχι με τέλεια προφορά , αλλά καλά . 
+1702	Good . 	Ωραία , ωραία . 
+1703	See , I just lost my negotiating partner , and I need somebody to talk to , and you seem like a reasonable young man . 	Μόλις έφυγε αυτός που διαπραγματευόμουν κι εγώ πρέπει να μιλήσω με κάποιον κι εσύ μου φαίνεσαι λογικός νέος . 
+1704	Can I talk to you ? 	Μπορώ να μιλήσω μ´ εσένα ; 
+1705	Uh ... 	Μπορώ να μιλήσω μ´ εσένα ; 
+1706	It 's all right . 	Εντάξει . 
+1707	It 's all right . 	Εντάξει . 
+1708	I just ... 	Δεν υπάρχει πρόβλημα . 
+1709	I just need you to give a message to your boss . 	Απλά πρέπει να στείλω ένα μήνυμα στο αφεντικό σου . 
+1710	But it has to be very , very , very clear . 	Αλλά πρέπει να είναι ξεκάθαρο . 
+1711	You understand ? 	Αλλά πρέπει να είναι ξεκάθαρο . 
+1712	Yes , sir . 	
+1713	But perhaps you should wait until he ... 	Μάλιστα αλλά καλύτερα να περιμένετε ... 
+1714	No , no . 	Μάλιστα αλλά καλύτερα να περιμένετε ... 
+1715	The thing is , I have this cold and I wanna get home and get in bed . 	Το θέμα είναι ότι έχω κρυώσει και θέλω να γυρίσω σπίτι να πέσω στο κρεβάτι . 
+1716	Can you give him the message ? 	Θα του μεταφέρεις το μήνυμα ; 
+1717	Certainly . 	Θα του μεταφέρεις το μήνυμα ; 
+1718	Well , this is the message . 	Το μήνυμα έχει ως εξής : 
+1719	" There is no deal for Abel unless we get Powers and Pryor . " 	" Δεν υπάρχει συμφωνία αν δεν πάρουμε και τον Πάουερς και τον Πράιορ " 
+1720	Do you understand ? 	Κατάλαβες ; 
+1721	Yes , sir . 	Κατάλαβες ; 
+1722	It 's arranged for tomorrow morning . 	Μάλιστα . 
+1723	It will not happen unless we get two men . 	Είναι κανονισμένο για αύριο αλλά δεν θα γίνει αν δεν έχουμε και τους δυο . 
+1724	Those two men . 	Είναι κανονισμένο για αύριο αλλά δεν θα γίνει αν δεν έχουμε και τους δυο . 
+1725	Two , two , two . 	Αυτούς τους δυο . 
+1726	Yes , sir . 	Αυτούς τους δυο . 
+1727	If there is no deal , your boss must tell the Soviets . 	- Μάλιστα . 
+1728	He has to tell the Soviets that they are not getting Rudolf Abel . 	Αν δεν υπάρξει συμφωνία το αφεντικό σου θα πρέπει να πει στους Ρώσους ... θα πρέπει να τους πει πως δεν θα πάρουν τον Ρούντολφ ʼμπελ . 
+1729	Yes , sir . 	Μάλιστα . 
+1730	Oh , and tell him this . 	Και πες του : 
+1731	That so far , Abel has been a good soldier , but he thinks he 's going home . 	Μέχρι στιγμής ο ʼμπελ υπήρξε καλός στρατιώτης αλλά πιστεύει πως γυρίζει σπίτι . 
+1732	If we had to tell him that he 's not going home , that the Soviets don 't even want him , that he 's never going home ... 	Αν του πούμε πως αυτό δεν πρόκειται να συμβεί , πως οι Σοβιετικοί δεν τον θέλουν και δεν θα επιστρέψει ποτέ φαντάζομαι πως θα αλλάξει συμπεριφορά και ποιος θα θεωρηθεί υπεύθυνος γι αυτό ; 
+1733	Well , I imagine his behavior might change . 	Αν του πούμε πως αυτό δεν πρόκειται να συμβεί , πως οι Σοβιετικοί δεν τον θέλουν και δεν θα επιστρέψει ποτέ φαντάζομαι πως θα αλλάξει συμπεριφορά και ποιος θα θεωρηθεί υπεύθυνος γι αυτό ; 
+1734	And who will be held responsible for that ? 	Αν του πούμε πως αυτό δεν πρόκειται να συμβεί , πως οι Σοβιετικοί δεν τον θέλουν και δεν θα επιστρέψει ποτέ φαντάζομαι πως θα αλλάξει συμπεριφορά και ποιος θα θεωρηθεί υπεύθυνος γι αυτό ; 
+1735	That 's a long message . 	Είναι μεγάλο το μήνυμα . 
+1736	Uh , did you get it all ? 	Τό ´πιασες όλο ; 
+1737	Yes , sir . 	Τό ´πιασες όλο ; 
+1738	Got it . 	Μάλιστα . 
+1739	Good . 	Τό ´πιασα . 
+1740	You 're a good man . 	Ωραία . 
+1741	Oh ... 	Είσαι καλός άνθρωπος . 
+1742	And also tell him there 's no deal unless we hear before the end of business today . 	Πες του επίσης δεν υπάρχει συμφωνία αν δεν κλείσει σήμερα . 
+1743	He has the number . 	Πες του επίσης δεν υπάρχει συμφωνία αν δεν κλείσει σήμερα . 
+1744	If the exchange isn 't gonna happen , no reason for everybody to get up first thing in the morning . 	Έχει το τηλέφωνό μου . Αν δε γίνει η ανταλλαγή κανείς δε χρειάζεται να ξυπνήσει χαράματα . 
+1745	No , sir , that would be pointless . 	Όχι . Θα ήταν άσκοπο . 
+1746	You 're kidding me ! 	Αστειεύεσαι ! 
+1747	You 're kidding me ! 	
+1748	Not really . 	Αστειεύεσαι ! 
+1749	I need some change . 	Όχι . 
+1750	This is exactly what you weren 't supposed to do . 	Χρειάζομαι ψιλά . Αυτό ακριβώς ήταν που δεν έπρεπε να κάνεις . 
+1751	My instructions were to feel out the situation . 	Οι οδηγίες μου ήταν να διευθετήσω την κατάσταση . 
+1752	Your instructions were to get Powers , not Pryor . 	Οι οδηγίες ήταν να πάρεις τον Πάουερς , όχι τον Πράιορ . 
+1753	That was not the original deal . 	Οι οδηγίες ήταν να πάρεις τον Πάουερς , όχι τον Πράιορ . 
+1754	You fouled it all up ! 	Δεν ήταν αυτή η αρχική συμφωνία . 
+1755	How do you know ? 	Τα τίναξες όλα στον αέρα ! 
+1756	I feel pretty good about it . 	Πώς το ξέρεις ; Εγώ μια χαρά νιώθω . 
+1757	You fucked it all up ! 	Πώς το ξέρεις ; Εγώ μια χαρά νιώθω . 
+1758	Oh , don 't worry . 	Τα τίναξες όλα στον αέρα ! 
+1759	I think it 's gonna be fine . 	Μην ανησυχείς . Νομίζω πως όλα θα πάνε μια χαρά . 
+1760	How do you know ? 	
+1761	You don 't know that . 	Πώς το ξέρεις αυτό ; 
+1762	United States . 	Αμερική . 
+1763	New York , New York . 	Αμερική . 
+1764	Danke . 	Νέα Υόρκη . 
+1765	Look , this whole thing has been to feel me out . 	Ευχαριστώ . Η όλη ιστορία έγινε για να με ψυχολογήσουν . 
+1766	Would I swap one for one and which one ? 	Αν θα αντάλλασα έναν μ´ έναν και ποιος θα ήταν αυτός . 
+1767	But I said " No , two for one . " 	Αν θα αντάλλασα έναν μ´ έναν και ποιος θα ήταν αυτός . 
+1768	So they know where we stand . 	Αλλά εγώ είπα , " ¨Οχι , δύο για έναν " Κι έτσι ξέρουν ποια είναι η θέση μας 
+1769	Yeah , what if they think about it and say , uh ... 	Αλλά εγώ είπα , " ¨Οχι , δύο για έναν " Κι έτσι ξέρουν ποια είναι η θέση μας 
+1770	" Forget it ! 	Κι αν αυτοί πουν 
+1771	You keep our guy , we keep your guys " ? 	" Ξεχάστε το ! 
+1772	Well , then I have fucked it all up . 	Τότε όντως τα τίναξα όλα στον αέρα . 
+1773	Hey , honey ! 	Τότε όντως τα τίναξα όλα στον αέρα . 
+1774	It 's me . 	Έλα γλυκειά μου ! 
+1775	Yeah . 	Έλα γλυκειά μου ! 
+1776	The fishing 's been great . 	Εγώ είμαι . 
+1777	I 'm in London , just for one more meeting , then I 'm on my way home . 	Είμαι στο Λονδίνο . ʼλλη μια συνάντηση και επιστρέφω . 
+1778	Yeah , yeah , I remember that marmalade . 	Ναι , θυμάμαι τη μαρμελάδα . 
+1779	It 's that shop right by Regent 's Park . 	Ναι , θυμάμαι τη μαρμελάδα . 
+1780	All right , I will if I have the time . 	Το μαγαζί δίπλα στο Regent 's Park . 
+1781	Hey , can I say hi to Roger ? 	Εντάξει , αν μου μείνει χρόνος . 
+1782	Could I say hi to the girls ? 	Αγάπη μου μπορώ να μιλήσω στον Ρότζερ ; 
+1783	Is anyone not busy ? 	Να πω ένα γεια στα κορίτσια ; 
+1784	Have they even noticed I 'm not around ? 	Δεν είναι κανείς εύκαιρος ; 
+1785	We 're on . 	
+1786	Two for one . 	Έκλεισε . Δυό για εναν . 
+1787	Hot dog . 	Περίφημα ! 
+1788	Let 's have a drink . 	Ας πιούμε . 
+1789	One wrinkle . 	Ας πιούμε . 
+1790	What is that ? 	Υπάρχει ένα θέμα . 
+1791	They won 't release Pryor with Powers , not at the bridge . 	Τι ; 
+1792	They 'll release him at the same time . 	Δεν θ´ αφήσουν τον Πράιορ με τον Πάουερς στη γέφυρα . 
+1793	When the Russians give us Powers on the bridge , they 'll release Pryor over Checkpoint Charlie . 	Θα τον αφήσουν την ίδια στιγμή που οι Ρώσοι θα αφήνουν τον Πάουερς στη γέφυρα αλλά στο φυλάκιο ελέγχου Τσάρλι . 
+1794	What does that mean ? 	Τι σημαίνει αυτό ; 
+1795	I think it means , " We wanna have the last word . " 	Σημαίνει νομίζω " Εμείς έχουμε τον τελευταίο λόγο . " 
+1796	But they will do it . 	Σημαίνει νομίζω " Εμείς έχουμε τον τελευταίο λόγο . " 
+1797	You tell me . 	Θα το κάνουν όμως ; 
+1798	You felt them out . 	Πες μου εσύ που τους έχεις ψυχολογήσει . 
+1799	Where are they ? 	Πού είναι ; 
+1800	Where 's our guy ? 	Πού είναι ; 
+1801	Where 's our guy ? 	Πού είναι ; 
+1802	They 're late . 	Πού είναι ο δικός μας ; Έχουν αργήσει . 
+1803	Nobody 's late . 	Πού είναι ο δικός μας ; Έχουν αργήσει . 
+1804	We 're early . 	Κανείς δεν άργησε , εμείς ήρθαμε νωρίς . 
+1805	May I ? 	Κανείς δεν άργησε , εμείς ήρθαμε νωρίς . 
+1806	Yeah . 	Μπορώ ; 
+1807	Hoffman . 	
+1808	Yeah ? 	Χόφμαν . 
+1809	I think they have ... 	Ναι ; 
+1810	What ? ... snipers . 	Νομίζω έχουν ... Τι ; ... ελεύθερους σκοπευτές . 
+1811	Well , I 'm sure they do . 	
+1812	How are you sure they do ? 	Είμαι σίγουρος . 
+1813	Because we have snipers . 	Είσαι σίγουρος ; 
+1814	Step out , sir . 	
+1815	Jim . 	
+1816	Dear Jim . 	
+1817	How are you ? 	
+1818	Happy to see you . 	Τι κάνεις ; Χαίρομαι που σε βλέπω . 
+1819	Have you arranged all this for me ? 	Εσύ το κανόνισες για μένα ; 
+1820	Well , let 's see what this is before I ... 	Εσύ το κανόνισες για μένα ; 
+1821	I take credit for it . 	Να δούμε πώς θα πάει πριν μου απονείμεις τα εύσημα . 
+1822	Any word about Pryor from Checkpoint Charlie ? 	Να δούμε πώς θα πάει πριν μου απονείμεις τα εύσημα . 
+1823	Nothing cooking yet . 	Ακόμη τίποτα . 
+1824	Excuse me , sir . 	Με συγχωρείτε κύριε 
+1825	This is Lieutenant Joe Murphy , United States Air Force , here to identify Powers . 	Ο υποσμηναγός Μέρφι της αεροπορίας των Η . Π . Α ήρθε να αναγνωρίσει τον Πάουερς . 
+1826	Lieutenant Murphy . 	Ο υποσμηναγός Μέρφι της αεροπορίας των Η . Π . Α ήρθε να αναγνωρίσει τον Πάουερς . 
+1827	Sir . 	Υποσμηναγέ Μέρφι . 
+1828	There may be a slight glitch . 	Ίσως υπάρξει ένα πρόβλημα . 
+1829	I was a young man when I left . 	Ήμουν μικρός όταν έφυγα . 
+1830	Who will they find to identify me ? 	Ποιον θα βρουν να με αναγνωρίσει ; 
+1831	Well , I hope it 's not your East German family . 	Ελπίζω όχι η " οικογένειά " σου στην Α . 
+1832	I doubt they could identify each other . 	Γερμανία . 
+1833	Looks like our party . 	Φαίνεται πως έφτασαν . 
+1834	Well , let 's go . 	Πάμε . 
+1835	You can stay here , Donovan . 	Πάμε . 
+1836	Not likely . 	Εσύ μείνε εδώ , Ντόνοβαν . 
+1837	Open the gate . 	Ανοίξτε την πύλη . 
+1838	What do you think will happen when you get home ? 	Τι πιστεύεις πως θα γίνει όταν επιστρέψεις ; 
+1839	Uh , I think ... 	Τι πιστεύεις πως θα γίνει όταν επιστρέψεις ; 
+1840	I' ll have a vodka . 	Νομίζω πως ... θα πιω μια βότκα . 
+1841	Yeah . 	
+1842	Yeah . 	
+1843	But , Rudolf , is there not the possibility ... 	Δεν υπάρχει όμως η πιθανότητα ... 
+1844	That my people are going to shoot me ? 	Να με εκτελέσουν οι δικοί μου ; 
+1845	Yes . 	Να με εκτελέσουν οι δικοί μου ; 
+1846	You 're not worried ? 	Δεν ανησυχείς ; 
+1847	Would it help ? 	Δεν ανησυχείς ; 
+1848	To answer your question , my friend , 	Για να απαντήσω στην ερώτησή σου φίλε μου εγώ υπήρξα έντιμος και νομίζω πως το ξέρουν . 
+1849	I acted honorably . 	Για να απαντήσω στην ερώτησή σου φίλε μου εγώ υπήρξα έντιμος και νομίζω πως το ξέρουν . 
+1850	I think they know that . 	Για να απαντήσω στην ερώτησή σου φίλε μου εγώ υπήρξα έντιμος και νομίζω πως το ξέρουν . 
+1851	But sometimes people think wrong . 	Καμμιά φορά όμως οι άνθρωποι σκέφτονται λάθος . 
+1852	People are people . 	Καμμιά φορά όμως οι άνθρωποι σκέφτονται λάθος . 
+1853	Let 's see how they greet me . 	Είναι στη φύση τους . 
+1854	What can I look for ? 	Ας δούμε πώς θα με υποδεχτούν . 
+1855	If I 'm embraced or just shown the back seat . 	Αν θα με αγκαλιάσουν ή θα με βάλουν στο πίσω κάθισμα . 
+1856	Da . 	
+1857	Take off the hat . 	
+1858	Hey , Powers . 	
+1859	Hey , Murph . 	Πάουερς . 
+1860	Yeah , that 's Powers . 	
+1861	All right , Mr . 	
+1862	Donovan . 	Εντάξει κύριε Ντόνοβαν . 
+1863	We go now ! 	Εντάξει κύριε Ντόνοβαν . 
+1864	Hang on . 	Εντάξει κύριε Ντόνοβαν . 
+1865	Believe me , I will tell you . 	Πίστεψέ με , δεν είναι κανείς εδώ . 
+1866	There 's no one here . 	Πίστεψέ με , δεν είναι κανείς εδώ . 
+1867	They 're releasing another man at Checkpoint Charlie . 	Θα απελευθερώσουν έναν ακόμη στο φυλάκιο Τσάρλι και θέλουμε να το επιβεβαιώσουμε . 
+1868	We 're just confirming that he 's there . 	Θα απελευθερώσουν έναν ακόμη στο φυλάκιο Τσάρλι και θέλουμε να το επιβεβαιώσουμε . 
+1869	Now ! 	Θα απελευθερώσουν έναν ακόμη στο φυλάκιο Τσάρλι και θέλουμε να το επιβεβαιώσουμε . 
+1870	As per plan , if you please . 	Τώρα ! 
+1871	Let 's go . 	Όπως συμφωνήσαμε . 
+1872	Pryor will show up or he won 't . 	Πάμε . 
+1873	Let 's go . 	Είτε εμφανιστεί ο Πράιορ , είτε όχι . 
+1874	They 're waiting to see if we 'll do it without him . 	Πάμε . Μας δοκιμάζουν να δουν τι θα κάνουμε χωρίς αυτόν . 
+1875	We just have to stand here , show them we won 't . 	Πρέπει να μείνουμε εδώ . 
+1876	I don 't give a shit what they want . 	Πρέπει να μείνουμε εδώ . 
+1877	We have our objective . 	Δε δίνω δεκάρα τι θέλουν , εμείς έχουμε αυτό που θέλουμε . 
+1878	Go ahead , Abel . 	Δε δίνω δεκάρα τι θέλουν , εμείς έχουμε αυτό που θέλουμε . 
+1879	Go ahead , sir . 	Προχώρα ʼμπελ . Ορίστε κύριε . 
+1880	You can go . 	Μπορείτε να πάτε . 
+1881	If it is not to plan , we go home . 	Αν δεν γίνει αυτό που είπαμε , θα φύγουμε . 
+1882	We exchange now or we go home ! 	Αν δεν γίνει αυτό που είπαμε , θα φύγουμε . 
+1883	You 're waiting for another man ? 	Περιμένουμε κι άλλον άνθρωπο ; 
+1884	Yup . 	Περιμένουμε κι άλλον άνθρωπο ; 
+1885	You want him , too . 	Ναι . 
+1886	I want him . 	
+1887	Doesn 't matter what he wants , sir . 	Τον θέλω . 
+1888	I 'm in charge and you are free to go . 	Δεν έχει σημασία τι θέλει . 
+1889	Please go . 	Εγώ κάνω κουμάντο και είστε ελεύθερος . 
+1890	Walk across . 	Πηγαίνετε παρακαλώ . 
+1891	I can wait . 	
+1892	It 's something . 	Κάτι βλέπω . 
+1893	I 'm not sure yet . 	Κάτι βλέπω . 
+1894	Hang on ! 	Δεν είμαι ακόμη σίγουρος . 
+1895	Let 's go . 	
+1896	We got him ! 	
+1897	Uh , I , uh ... 	Τον πήραμε ! 
+1898	I sent you a gift , Jim . 	Θα σου στείλω ένα δώρο Τζιμ . 
+1899	It 's a ... 	Θα σου στείλω ένα δώρο Τζιμ . 
+1900	It 's a painting . 	
+1901	I hope it has some meaning to you . 	Μια ζωγραφιά . 
+1902	I 'm sorry . 	
+1903	I didn 't think to get you a gift . 	Με συγχωρείς που δεν σου πήρα κι εγώ δώρο . 
+1904	This is your gift . 	Αυτό είναι το δώρο σου . 
+1905	This is your gift . 	Αυτό είναι το δώρο σου . 
+1906	You okay ? 	
+1907	Let 's go , let 's go , let 's go ! 	Πάμε , πάμε , πάμε ! 
+1908	Mr . 	
+1909	Donovan . 	Κύριε Ντόνοβαν . 
+1910	Colonel Abel asked me to give this to you . 	Ο συνταγματάρχης ʼμπελ μού ζήτησε να σας δώσω αυτό . 
+1911	Pardon me , sir . 	
+1912	Were you in charge of this thing , sir ? 	Εσείς ήσασταν υπεύθυνος ; 
+1913	Yeah . 	Εσείς ήσασταν υπεύθυνος ; 
+1914	Well , I gotta thank you . 	Ναι . 
+1915	I gotta thank somebody . 	Πρέπει να σας ευχαριστήσω . 
+1916	I gave them nothing . 	Δεν τους είπα τίποτα . 
+1917	I gave them nothing . 	Δεν τους είπα τίποτα . 
+1918	It doesn 't matter . 	Δεν έχει σημασία . 
+1919	It doesn 't matter what people think . 	Δεν έχει σημασία τι θα σκεφτεί ο κόσμος . 
+1920	You know what you did . 	Εσύ ξέρεις τι έκανες . 
+1921	Welcome home . 	Καλωσόρισες σπίτι . 
+1922	What a trip . 	Τι ταξίδι ! 
+1923	Mmm . 	
+1924	Mmm . 	
+1925	You okay ? 	Είσαι καλά ; 
+1926	Yeah , I 'm fine . 	Ναι , καλά είμαι . 
+1927	Did you get the marmalade ? 	Έφερες τη μαρμελάδα ; 
+1928	Yes , yes . 	Βέβαια . 
+1929	Yep . 	Βέβαια . 
+1930	Yep . 	Βέβαια . 
+1931	I did . 	Ναι . 
+1932	As ordered . 	Όπως μου ζήτησες . 
+1933	Jim . 	
+1934	This is from Arno 's . 	Τζιμ - Είναι από του ʼρνο . 
+1935	So ? 	
+1936	On the corner ! 	- Και ; 
+1937	Well , honey , I was busy . 	Είναι απ´ το γωνιακό μαγαζί . 
+1938	I 'm sorry . 	Γλυκειά μου , λυπάμαι αλλά δεν είχα χρόνο . 
+1939	We were so busy . 	Γλυκειά μου , λυπάμαι αλλά δεν είχα χρόνο . 
+1940	Oh , for Pete 's sake . 	Δεν σε πιστεύω . 
+1941	How 's Roger ? 	Δεν σε πιστεύω . 
+1942	Is he home ? 	Ο Ρότζερ ; Είναι σπίτι ; 
+1943	He 's home . 	Ο Ρότζερ ; Είναι σπίτι ; 
+1944	Carol 's home , Peggy 's home . 	Κι αυτός και η Κάρολ με την Πέγκυ . 
+1945	Everyone 's home . 	Όλοι είναι σπίτι . 
+1946	Mom ! 	Όλοι είναι σπίτι . 
+1947	Come quick ! 	Μαμά ! 
+1948	Look ! 	Τρέχα να δεις ! 
+1949	- Mom , come here ! 	Μαμά τρέχα ! 
+1950	- Mom , come here ! 	Μαμά τρέχα ! 
+1951	- Come see this ! 	Έλα να δεις ! 
+1952	Look ! 	Έλα να δεις ! 
+1953	Watch ! 	Κοίτα ! 
+1954	- Come on ! 	Έλα ! 
+1955	Francis Gary Powers has been released from prison in the Soviet Union and turned over to American authorities early this morning in Berlin . 	Ο Φράνσις Γκάρι Πάουερς που κρατούταν σε σοβιετική φυλακή , απελευθερώθηκε και παραδόθηκε στις αμερικάνικες αρχές σήμερα το πρωί στο Βερολίνο . 
+1956	The President has commuted the sentence of Rudolf Abel . 	Ο Πρόεδρος ανέστειλε την ποινή του Ρούντολφ ʼμπελ . 
+1957	Mr . 	Ο Πρόεδρος ανέστειλε την ποινή του Ρούντολφ ʼμπελ . 
+1958	Abel has been deported and has been released in Berlin . 	Ο κύριος ʼμπελ απελάθηκε και απελευθερώθηκε στο Βερολίνο . 
+1959	Efforts to obtain Mr . 	Εδώ και καιρό ήταν σε εξέλιξη προσπάθειες να απελευθερωθεί ο Πάουερς . 
+1960	Powers´ release had been underway for some time . 	Εδώ και καιρό ήταν σε εξέλιξη προσπάθειες να απελευθερωθεί ο Πάουερς . 
+1961	In recent efforts , the United States government has had the cooperation and assistance of Mr . 	Πρόσφατα , η αμερικάνικη κυβέρνηση είχε τη συνδρομή και τη συνεργασία του κυρίου Τζέιμς Β Ντόνοβαν , δικηγόρου από τη Νέα Υόρκη . 
+1962	James B . 	Πρόσφατα , η αμερικάνικη κυβέρνηση είχε τη συνδρομή και τη συνεργασία του κυρίου Τζέιμς Β Ντόνοβαν , δικηγόρου από τη Νέα Υόρκη . 
+1963	Donovan , a New York attorney . 	Πρόσφατα , η αμερικάνικη κυβέρνηση είχε τη συνδρομή και τη συνεργασία του κυρίου Τζέιμς Β Ντόνοβαν , δικηγόρου από τη Νέα Υόρκη . 
+1964	Frederic L . 	Ο Φρέντερικ Λ Πράιορ , αμερικάνος φοιτητής που κρατούταν από τις αρχές της Ανατολικής Γερμανίας από τον Αύγουστο του 1961 ... 
+1965	Pryor , an American student held by East German authorities since August of 1961 ... 	Ο Φρέντερικ Λ Πράιορ , αμερικάνος φοιτητής που κρατούταν από τις αρχές της Ανατολικής Γερμανίας από τον Αύγουστο του 1961 ... 
+1966	I thought Daddy was fishing . 	Νόμιζα πως ο μπαμπάς είχε πάει για ψάρεμα ... σολωμού . 
+1967	For salmon . 	Νόμιζα πως ο μπαμπάς είχε πάει για ψάρεμα ... σολωμού . 
+1968	Abel now has disappeared into the communist world . 	Ο ʼμπελ εξαφανίστηκε στο κομμουνιστικό μπλοκ 
+1969	Powers is here , answering questions . 	Ο Πάουερς είναι εδώ απαντώντας σε ερωτήσεις και ο Ντόνοβαν επέστρεψε στη δικηγορία . 
+1970	And Donovan has gone back to his law practice . 	Ο Πάουερς είναι εδώ απαντώντας σε ερωτήσεις και ο Ντόνοβαν επέστρεψε στη δικηγορία . 
+1971	And now , here is George Fenneman , speaking for the Douglas Fir Plywood Association . 	Και τώρα ο Τζορτζ Φένεμαν μιλάει με τον έμπορο ξυλείας , Ντάγκλας Φιρ . 

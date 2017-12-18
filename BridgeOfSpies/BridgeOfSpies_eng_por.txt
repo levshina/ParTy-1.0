@@ -1,0 +1,1971 @@
+1	The next stop is Broad Street . 	Próxima paragem : Broad Street . 
+2	Broad Street will be next . 	Broad Street a seguir . 
+3	Upstairs . 	Lá em cima . 
+4	This way . 	Por aqui . 
+5	He didn 't come up this way ? 	Ele não subiu por aqui ? 
+6	Anything ? 	Não está cá em cima . 
+7	He 's not up here . 	Não está cá em cima . 
+8	Go back down . 	Volta lá para baixo . 
+9	Excuse me . 	- Desculpe . 
+10	Excuse me . 	- Desculpe . 
+11	Go ahead and park around the corner . 	Estaciona ao virar da esquina . 
+12	Visitors . 	Visitas ... Posso ir buscar os meus dentes ? 
+13	Do you mind if I fetch my teeth ? 	Coronel , pode virar- se , por favor ? 
+14	Colonel , would you turn around , please ? 	Coronel , pode virar- se , por favor ? 
+15	Sit down on the bed . 	- Sente- se na cama . 
+16	Let 's go . 	- Vamos . 
+17	Uh , they 're in the ... 	Estão no ... 
+18	The teeth are in the ... 	Os dentes estão no lavatório . 
+19	On the sink . 	Os dentes estão no lavatório . 
+20	Look at me . 	Olhe para mim . 
+21	We are agents from the Federal Bureau of Investigation . 	Somos agentes do FBI . 
+22	Look at me ! 	Olhe para mim . 
+23	I 'm talking to you . 	Estou a falar consigo . 
+24	We 've received information concerning your involvement in espionage . 	Recebemos informações sobre o seu envolvimento em espionagem . 
+25	You can either cooperate with us right now , or you 'll be under arrest . 	Pode colaborar connosco agora ou será detido . Percebe , Coronel ? 
+26	Do you understand , Colonel ? 	Não , nem por isso . 
+27	No , not really . 	Não , nem por isso . 
+28	Why do you keep calling me " Colonel " ? 	Porque é que me trata por " coronel " ? 
+29	You need to get dressed . 	Tem de se vestir . 
+30	We have to search your apartment . 	Temos de revistar o seu quarto . 
+31	Would you mind if I , uh , cleaned my palette ? 	Importam- se que limpe a minha paleta ? 
+32	The paints , it 'll get ruined otherwise . 	Senão , as tintas estragam- se . 
+33	It 's just behind you there . 	Está mesmo atrás de si . 
+34	I have a cloth myself . 	Eu tenho um pano . 
+35	Thank you . 	Obrigado . 
+36	All right , start searching the place . 	Comecem a revistar a casa . Obrigado . 
+37	Thank you . 	Revistem o colchão , a cama , o soalho , a cadeira dele . 
+38	All right , search the mattress , the bed , the floorboards , his chair . 	Revistem o colchão , a cama , o soalho , a cadeira dele . 
+39	Would you put that in the ashtray on the windowsill there ? 	Pode pôr isso no cinzeiro - que está no parapeito ? 
+40	Take a good look at that desk . 	- Procurem bem na secretária . 
+41	Let 's see the desk . 	Vamos ver na secretária . 
+42	Wouldn 't want to get this ruined . 	Não quero estragar isto . 
+43	Don 't say " my guy . " 	Não diga " o meu homem " . 
+44	He 's not " my guy . " 	Ele não é " o meu homem " . Sim , é . 
+45	Yes , he 's " your guy . " 	Estamos a falar de quem ? 
+46	Who are we talking about ? 	Estamos a falar de quem ? 
+47	We 're talking about a guy who was insured by my client . 	Estamos a falar de um homem que era segurado pelo meu cliente . 
+48	So , don 't make him " my guy . " 	Não diga que é " o meu homem " . 
+49	Okay , fine . 	Certo , muito bem . 
+50	My point is , the guy insured by your client , he doesn 't deny that any of these things happened . 	O que interessa é que o homem segurado pelo seu cliente não nega que qualquer uma destas coisas tenha acontecido . 
+51	" These ... 	" Destas coisas " ? 
+52	These things " ? 	" Destas coisas " ? 
+53	Yes , these five things . 	Sim , destas cinco coisas . 
+54	Wait , hold it , hold it , hold it . 	Espere , um momento . 
+55	Not five things . 	Não são cinco coisas . É uma coisa . 
+56	One thing . 	Não são cinco coisas . É uma coisa . 
+57	Clearly , it 's five things . 	São claramente cinco coisas . 
+58	Well , I 'm sorry , it 's not clear to me . 	Lamento , não é claro para mim . 
+59	Five things ? 	Cinco coisas ? 
+60	Explain it to me . 	Explique- me . É óbvio . 
+61	It 's self- evident . 	Explique- me . É óbvio . 
+62	Okay , then tell me what happened . 	Então , conte- me o que aconteceu . 
+63	Tell me the story in a way that makes sense for five things . 	Conte- me a história de forma a que cinco coisas façam sentido . 
+64	Fine , absolutely . 	Claro , sem dúvida . 
+65	Your guy is ... 	O seu homem ... Não é o meu homem . 
+66	Not my guy . 	O segurado pelo meu cliente . 
+67	Insured by my client . 	O segurado pelo meu cliente . 
+68	The guy insured by your client is driving down State Highway 19 when he loses control of his car and hits my five guys , the five guys who hired me to represent them because you 're not honoring your claim . 	O homem segurado pelo seu cliente conduz pela auto- estrada 19 , quando perde o controlo do carro e bate nos meus cinco clientes , que me contrataram para representá- los , porque você não está a honrar a indemnização do seguro . 
+69	You mean my client is not honoring the claim , the insurance company ? 	Ou seja , o meu cliente não está a honrar a indemnização , a seguradora ? Sr . 
+70	Mr . 	Donovan , já percebemos perfeitamente quem é quem , aqui . 
+71	Donovan , we 're all clear on who 's who , here . 	Donovan , já percebemos perfeitamente quem é quem , aqui . 
+72	Except my client honors every claim . 	Só que o meu cliente honra todas as indemnizações . É verdade , Sr . 
+73	They do , Mr . 	Só que o meu cliente honra todas as indemnizações . É verdade , Sr . 
+74	Bates . 	Bates . 
+75	Every single legitimate claim , up to the limit of their liability , which is $100, 000 per accident , in the case of this man 's policy . 	Cada indemnização individual , até ao limite de responsabilidade , que é de cem mil dólares por acidente , no caso da apólice deste homem . 
+76	And this is one claim . 	E trata- se de uma só indemnização . 
+77	According to your description , " He hit my five guys . " 	Segundo a sua descrição : " Ele bateu nos meus cinco clientes " . 
+78	The guy insured by my client had one accident . 	O homem segurado pelo meu cliente teve um só acidente . 
+79	One , one , one . 	Um , um , um . 
+80	Losing control of the car and hitting five motorcyclists . 	Perdeu o controlo do carro e bateu em cinco motociclistas . 
+81	From their point of view , five things happened . 	Do ponto de vista deles , aconteceram cinco coisas . 
+82	Well , look , Bob . 	Escute , Bob ... 
+83	May I ? 	Posso tratá- lo por Bob ? 
+84	Bob ? 	Posso tratá- lo por Bob ? 
+85	" Jim . " 	" Jim . " 
+86	If I go bowling and I throw a strike , one thing happened . 	Quando jogo bowling e derrubo todos os pinos , é só um acontecimento . 
+87	Ten things didn 't happen . 	Não aconteceram 10 coisas . 
+88	Jim , my guys aren 't bowling pins , as much as your guy may have treated them as such . 	Jim , os meus clientes não são pinos de bowling , por muito que o seu cliente os tenha tratado como tal . 
+89	If ... 	Deixe- me acabar . 
+90	Let me finish . 	Deixe- me acabar . 
+91	Let me finish . 	Deixe- me acabar . 
+92	If your house is insured for $100, 000 and a tornado carries it away , it carried away one house . 	Se a sua casa estiver segurada em $100 . 000 e um tornado a levar , só levou uma casa . 
+93	It didn 't pick up every stick of furniture and destroy it in a separate incident . 	Não levou todas as peças de mobiliário , destruindo- as em incidentes isolados . 
+94	If that is what you 're saying , well , then there is never any limit to our liability and that is the end of the insurance business . 	Se é isso que está a dizer , então , a nossa responsabilidade não tem limites e é o fim do negócio das seguradoras . 
+95	And then , Bob , nobody is safe . 	E assim , Bob , ninguém fica seguro . 
+96	Watters , Cowan and Donovan . 	Watters , Cowan e Donovan . 
+97	How may I direct your call ? 	Para onde deseja que passe a chamada ? 
+98	Morning , Mr . 	Bom dia , Sr . Donovan . 
+99	Donovan . 	Bom dia , Alison . 
+100	Good morning , Alison . 	Bom dia , Alison . 
+101	I moved your 9 : 00 a . m . with Prudential , sir . 	Mudei a sua reunião das 9 : 00 com a Prudential . 
+102	Why did you do that ? 	Por que fez isso ? 
+103	I asked her to . 	Eu pedi- lhe . 
+104	Is everything all right , Tom ? 	Está tudo bem , Tom ? 
+105	Why don 't you leave your stuff with Alison . 	Deixa as tuas coisas com a Alison . 
+106	Come on inside . 	Vamos entrar . 
+107	Something pretty important has come up . 	Surgiu uma coisa importante . 
+108	Somebody 's here to see us . 	Está cá uma pessoa para falar connosco . 
+109	Natalie 's getting your coffee . 	A Natalie foi buscar- te café . 
+110	Nescafe , cream , two lumps , right ? 	Nescafé , natas , dois cubos de açúcar , certo ? Exacto . 
+111	That 's right . 	Obrigado . 
+112	Thanks . 	Obrigado . 
+113	Lynn ! 	- Lynn ! 
+114	Jim ! 	- Jim ! É um prazer voltar a vê- lo . 
+115	Nice to see you again . 	- Jim ! É um prazer voltar a vê- lo . 
+116	How 's the family ? 	Como está a famí lia ? Óptima , obrigado . 
+117	Great , good . 	Como está a famí lia ? Óptima , obrigado . 
+118	Thanks . 	E a Annie ? 
+119	How 's Annie ? 	Está homicida . 
+120	Homicidal . 	Os meus sogros passaram o feriado connosco . 
+121	We had the in- laws for the holiday . 	Os meus sogros passaram o feriado connosco . 
+122	Well , if she acts on it , she 'll have good representation . 	Se matar mesmo alguém , será bem representada . 
+123	Now , what 's up ? 	O que se passa ? 
+124	Okay , here 's the thing . 	Muito bem , é o seguinte . 
+125	The Soviet spy they caught , we want you to defend him . 	Queremos que defenda o espião soviético que foi apanhado . 
+126	Here 's the indictment . 	Eis o auto de acusação . 
+127	Wow . 	
+128	I 'm not sure I wanna pick that up . 	Não sei se quero pegar nisso . 
+129	The accused doesn 't know any lawyers . 	O acusado não conhece nenhum advogado . 
+130	The federal court tossed it into our lap . 	O tribunal federal atirou- nos isto para cima . 
+131	The Bar Committee took a vote . 	O Comité da Ordem votou . És a escolha unânime . 
+132	You 're the unanimous choice . 	O Comité da Ordem votou . És a escolha unânime . 
+133	It was important to us ... 	Era importante para nós ... É importante para o nosso paí s que se perceba que este homem tem um julgamento justo . 
+134	It 's important to our country , Jim , that this man is seen as getting a fair shake . 	Era importante para nós ... É importante para o nosso paí s que se perceba que este homem tem um julgamento justo . 
+135	American justice will be on trial . 	Será a justiça americana a ser julgada . É claro que , vendo as coisas assim , o convite é uma honra . 
+136	Well , of course , when you put it that way , it 's an honor to be asked . 	Será a justiça americana a ser julgada . É claro que , vendo as coisas assim , o convite é uma honra . 
+137	But , Lynn , I 'm an insurance lawyer . 	Mas eu sou advogado de seguros . 
+138	I haven 't done criminal work in years . 	Não faço direito penal há anos . É como andar de bicicleta , não é ? 
+139	It 's like riding a bike , isn 't it ? 	Não faço direito penal há anos . É como andar de bicicleta , não é ? 
+140	You distinguished yourself at Nuremberg . 	Distinguiu- se pelo seu trabalho em Nuremberga . 
+141	I was on the prosecution team . 	Estava na equipa de acusação . 
+142	Not the point . 	Isso não interessa . 
+143	You 're no stranger to criminal law . 	Percebe de direito penal . 
+144	Jim , look at the situation . 	Jim , analise a situação . 
+145	The man is publicly reviled . 	O homem é publicamente aviltado . 
+146	And I will be , too . 	E eu também o serei . 
+147	Yes , in more ignorant quarters . 	Sim , em sectores mais ignorantes . 
+148	But that 's exactly why this has to be done , and capably done . 	Mas é exactamente por isso que isto tem ser feito e de forma capaz . 
+149	It can 't look like our justice system tosses people on the ash heap . 	Não pode parecer que o nosso sistema judicial atira as pessoas para a fogueira . 
+150	Suppose I did , what 's the evidence look like ? 	Supondo que aceito , que tipo de provas há ? 
+151	Pretty overwhelming . 	São muito sólidas . 
+152	Great . 	Bestial , bestial ... 
+153	Great . 	Bestial , bestial ... 
+154	Everyone will hate me but at least I' ll lose . 	Todos me odiarão , mas , pelo menos , perderei . 
+155	Well , what do you think , Tom ? 	O que achas , Tom ? 
+156	The firm will suffer . 	O escritório será prejudicado . Tenho trabalho para fazer aqui . 
+157	I have work here . 	Acho que é um dever patriótico . É uma missão importante . 
+158	I think it 's a patriotic duty . 	Acho que é um dever patriótico . É uma missão importante . 
+159	It 's an important mission . 	Acho que é um dever patriótico . É uma missão importante . 
+160	I told Lynn , the firm can 't say no , and you 'd have a tough time saying no , too . 	Disse ao Lynn que o escritório não pode recusar e que também terias dificuldade em fazê- lo . 
+161	I think you have to defend the son of a bitch . 	Acho que tens de defender aquele filho da mãe . 
+162	So , you 're doing it ? 	Então , vai fazê- lo ? 
+163	Doing what ? 	Fazer o quê ? 
+164	Defending Abel , the Soviet spy . 	Defender o Abel , o espião soviético . Talvez . 
+165	I may . 	Tenho de falar com ... 
+166	I have to speak to ... 	Tenho de falar com ... 
+167	Wait , how do you know ? 	Espere , como é que sabe ? 
+168	Did they post it on the bulletin board ? 	Afixaram- no no quadro de informações ? 
+169	No , I ... 	Não , falei com o Richard Earl ... 
+170	I was talking to Richard Earl ... 	Não , falei com o Richard Earl ... 
+171	Look , if I do this , I 'm going to need your help . 	Para fazer isto , preciso da sua ajuda . 
+172	Can you work tonight ? 	Pode trabalhar esta noite ? 
+173	Well , I have a dinner date , sir . 	Bem , tenho um jantar ... É terça- feira , certo ? 
+174	It 's Tuesday , right ? 	Bem , tenho um jantar ... É terça- feira , certo ? 
+175	Yeah , no , I 'm free , completely free . 	Bem , tenho um jantar ... É terça- feira , certo ? 
+176	Thank you , sir . 	Obrigado . 
+177	But it 's also an honor . 	Mas também é uma honra . 
+178	And the Bar Association asked me because they want to show that even a spy gets a capable advocate . 	Se a Ordem me convidou , foi porque querem mostrar que mesmo um espião recebe um defensor capaz . 
+179	Well , maybe it 's the kind of honor we could do without . 	Talvez seja daquelas honras que podí amos dispensar . 
+180	Hey , honey , what are you doing home ? 	Querida , o que fazes em casa ? 
+181	I got stood up . 	Deixaram- me pendurada . 
+182	Well , that 's despicable . 	Isso é desprezí vel . 
+183	Who is this knot- head ? 	Quem é esse palerma ? 
+184	I 'd rather not say . 	Preferia não dizer . 
+185	Well , sit down . 	Senta- te , começámos agora . 
+186	We just started . 	Senta- te , começámos agora . 
+187	People are scared . 	As pessoas andam assustadas . 
+188	They 're building bomb shelters to protect themselves from people like this man . 	Constroem abrigos antibomba para se protegerem de gente como esse homem . 
+189	I go to the store , people are buying canned food and potassium tablets . 	Quando vou à loja , há gente a comprar comida enlatada e comprimidos de potássio . 
+190	It 's all about this man and what he represents . 	Tudo por causa desse homem e do que ele representa . 
+191	He 's a threat to all of us . 	Ele é uma ameaça para todos nós , um traidor . 
+192	A traitor . 	- Quem é o traidor ? 
+193	Who 's a traitor ? 	- Quem é o traidor ? 
+194	The Rosenbergs were traitors . 	- Os Rosenberg eram traidores . 
+195	Who were they ? 	Quem eram eles ? 
+196	They gave atomic secrets to the Russians . 	Passaram segredos atómicos aos russos . 
+197	They were Americans . 	Eram americanos . 
+198	They betrayed their country . 	Traí ram o seu paí s . 
+199	You can 't accuse Abel of being a traitor . 	Não podes acusar o Abel de ser traidor . 
+200	He 's not an American . 	Ele não é americano . 
+201	Oh , listen to yourself . 	Ouve o que dizes . 
+202	You 're defending him already . 	Já estás a defendê- lo . 
+203	You 're rehearsing it on me . 	Estás a ensaiar comigo . 
+204	You said you were just thinking about taking it . 	Disseste que estavas só a pensar nisso . 
+205	I am just thinking about it , just very hard . 	E estou só a pensar nisso , muito seriamente . 
+206	Everyone deserves a defense . 	Toda a gente merece ter uma defesa . 
+207	Every person matters . 	Cada pessoa conta . 
+208	Jim , what do we deserve ? 	E o que é que nós merecemos ? 
+209	Do you know how people will look at us ? 	Sabes como é que as pessoas vão olhar para nós ? 
+210	The family of a man trying to free a traitor ? 	A famí lia de um homem que quer libertar um traidor ? 
+211	He 's not a traitor , Mary . 	- Não é um traidor , Mary . - Pois , pois ... 
+212	Yes , yes . 	- Roger , vai abrir . 
+213	Roger , get that ! 	- Roger , vai abrir . 
+214	He 's not a traitor ... 	- Porque é que tenho de fazer tudo ? 
+215	Why do I have to do all the work ? 	- Porque é que tenho de fazer tudo ? 
+216	Oh ! 	- Espera até darmos graças . 
+217	You wait till we say grace . 	- Tenho fome ! 
+218	I 'm hungry ! 	Ele é o homem mais impopular deste paí s e tu queres ficar no segundo lugar . 
+219	He 's about the most unpopular man in this country , and you 're trying to take second place ! 	Ele é o homem mais impopular deste paí s e tu queres ficar no segundo lugar . 
+220	Yeah , and I 'm third . 	Pois , e eu sou a terceira . 
+221	Carol , you just dated the wrong guy . 	Carol , ias apenas sair com o tipo errado . 
+222	I wanna eat . 	Mary , não faças disto uma discussão . 
+223	Mary , don 't make this an argument when we 're not having an argument . 	Não é uma discussão . És contra ele e eu sou a favor ? 
+224	You 're against him , I 'm for him ? 	Não é uma discussão . És contra ele e eu sou a favor ? 
+225	No , I 'm not for him . 	Não sou a favor dele . 
+226	I 'm not for the Russians spying on us . 	Não sou a favor de que os russos nos espiem . 
+227	I 'm for his right to have a defense in a court of law , which is why they call it a court of law . 	Apoio o direito dele a ter uma defesa em tribunal , é por isso que lhe chamam tribunal . 
+228	I didn 't mean to interrupt dinner . 	Não queria interromper o jantar . 
+229	A court of law ... 	Olá , Doug . 
+230	Hey , Doug . 	Não faz mal . 
+231	Oh , no , not at all . 	Olá , Doug . 
+232	Hello , Doug . 	O Jim estava apenas a divagar . 
+233	Jim was just flailing . 	O Jim estava apenas a divagar . 
+234	I 'm not flailing . 	Não estou a divagar . 
+235	Go ahead , Doug , you can join us for dinner . 	Doug , jante connosco . 
+236	We 're having meatloaf tonight . 	Vamos comer rolo de carne . 
+237	So , you came over to help Jim think about whether he 's taking the case ? 	Então , veio ajudar o Jim a pensar se aceita ou não o caso ? 
+238	Oh , we 're taking it ! 	Vamos aceitá- lo . É empolgante , não é ? 
+239	It 's exciting , isn 't it ? 	Vamos aceitá- lo . É empolgante , não é ? 
+240	Lord , we thank thee for thy blessings we are about to receive . 	Senhor , agradecemos- Te as bênçãos que vamos receber . 
+241	Thy bounty through Christ , our Lord . 	A Tua dádiva através de Cristo , nosso Senhor . Ámen . 
+242	Amen . 	A Tua dádiva através de Cristo , nosso Senhor . Ámen . 
+243	Good morning , sir . 	Bom dia . 
+244	My name is Jim Donovan . 	O meu nome é Jim Donovan . 
+245	These are my credentials . 	Eis as minhas credenciais . 
+246	I am a partner in Watters , Cowan and Donovan . 	Sou sócio da firma Watters , Cowan e Donovan . 
+247	I was admitted to the New York Bar in 1941 . 	Entrei para a Ordem dos Advogados de Nova Iorque em 1941 . 
+248	You have been charged with three counts and 19 overt acts . 	Foi acusado de três crimes e dezanove actos manifestos . 
+249	Conspiracy to transmit United States defense and atomic secrets to the Soviet Union , conspiracy to gather secrets , and failing to register as a foreign agent . 	Conspiração para passar à União Soviética segredos de defesa e atómicos dos Estados Unidos , conspiração para reunir segredos , e não se ter registado como agente estrangeiro . 
+250	Do many foreign agents register ? 	Há muitos agentes estrangeiros a registarem- se ? 
+251	If you don 't mind my asking , sir , since your arrest , where have you been ? 	Se não se importa que pergunte , onde tem estado , desde a sua detenção ? 
+252	I couldn 't say for certain . 	Não sei dizer ao certo . 
+253	You don 't know ? 	Não sabe ? 
+254	They drove me to an airport and put me on a plane , took me off the plane . 	Levaram- me a um aeroporto , meteram- me num avião , tiraram- me do avião . 
+255	Somewhere hot . 	Num sí tio quente . 
+256	It 's hot here . 	Está calor , aqui . 
+257	Hotter , very humid . 	Quente e muito húmido . 
+258	They put me in a room . 	Meteram- me num quarto . 
+259	Were you beaten ? 	Foi espancado ? 
+260	No . 	Não . 
+261	I was talked to . 	Falaram comigo . 
+262	Offers were made . 	Fizeram ofertas . 
+263	What do you mean ? 	O que quer dizer ? 
+264	Offers of employment , to work for your government . 	Ofertas de emprego , para trabalhar para o vosso governo . 
+265	I was told if I cooperated , no further charges would be made against me . 	Disseram- me que , se cooperasse , não apresentariam mais acusações contra mim . 
+266	And I would be given money . 	E dar- me- iam dinheiro . 
+267	Hmm . 	E recusou ? 
+268	And you declined ? 	E recusou ? 
+269	As you see . 	Como vê . É claro que não posso apoiar isso . 
+270	Well , of course I can 't endorse that . 	Como vê . É claro que não posso apoiar isso . 
+271	I feel duty- bound to urge you to cooperate with the U . S . government . 	Sinto- me obrigado a aconselhá- lo a colaborar com o governo dos EUA . 
+272	Well , I said no . 	Bem , eu disse que não . 
+273	Perhaps you could relay to your friends at the CIA that I meant it . 	Talvez possa transmitir aos seus amigos na CIA que falava a sério . 
+274	No , no , no . 	Não , não , não . 
+275	I ... 	Não trabalho para a CIA . 
+276	I don 't work for the agency . 	Não trabalho para a CIA . 
+277	I don 't work for the government . 	Não trabalho para o governo . 
+278	I am here to offer my services as your legal counsel . 	Estou aqui para lhe oferecer os meus serviços como advogado . 
+279	If you accept them as such , 	Se os aceitar como tal , trabalho para si . 
+280	I work for you . 	Se os aceitar como tal , trabalho para si . 
+281	If I accept you ? 	Se eu o aceitar ? 
+282	Are you good at what you do ? 	É bom no que faz ? 
+283	Yeah . 	Sim . 
+284	Yeah , I 'm pretty good . 	Sou bastante bom . 
+285	Have you represented many accused spies ? 	Já defendeu muitos acusados de espionagem ? 
+286	No , not yet . 	Não , ainda não . 
+287	This will be a first for the both of us . 	Será a primeira vez para ambos . 
+288	Yes . 	Certo . 
+289	All right . 	Está bem . 
+290	" All right " ? 	" Está bem " ? 
+291	You accept ? 	Aceita ? 
+292	Yes , all right . 	Sim , está bem . 
+293	Good , okay . 	Muito bem , então . 
+294	Let 's start here . 	Comecemos por aqui . 
+295	If you are firm in your resolve not to cooperate with the U . S . government ... 	Se estiver determinado a não colaborar com o governo dos EUA ... 
+296	I am . 	Estou . 
+297	Yeah . 	Pois . 
+298	Then do not talk to anybody else about your case , inside of government or out . 	Então , não fale do seu caso com mais ninguém , seja ou não do governo . 
+299	Except to me , to the extent that you trust me . 	Excepto comigo , até onde a sua confiança o permitir . 
+300	I have a mandate to serve you . 	Tenho um mandato para servi- lo . Mais ninguém o tem . 
+301	Nobody else does . 	Sinceramente , todos os outros gostariam de o mandar para a cadeira eléctrica . 
+302	Quite frankly , everybody else has an interest in sending you to the electric chair . 	Sinceramente , todos os outros gostariam de o mandar para a cadeira eléctrica . 
+303	All right . 	Certo . 
+304	You don 't seem alarmed . 	Não parece inquieto . 
+305	Would it help ? 	Isso ajudaria ? 
+306	I ... 	Gostaria de ter material de desenho . 
+307	I would like materials to draw with . 	Gostaria de ter material de desenho . 
+308	That 's not possible . 	Não é possí vel . 
+309	A pencil , a piece of paper . 	Um lápis , um pedaço de papel . 
+310	Cigarettes . 	Cigarros . 
+311	Please ? 	Por favor ... 
+312	Mr . 	Sr . 
+313	Donovan , you have men like me doing the same for your country . 	Donovan , vocês têm homens como eu que fazem o mesmo pelo vosso paí s . 
+314	If they were caught , 	Se fossem apanhados , decerto gostaria que fossem bem tratados . 
+315	I 'm sure that you would wish them to be treated well . 	Se fossem apanhados , decerto gostaria que fossem bem tratados . 
+316	What 's your name ? 	Qual é o seu nome ? 
+317	Francis Gary Powers . 	Francis Gary Powers . 
+318	Rank , service ? 	Patente ? Ramo ? 
+319	First Lieutenant , United States Air Force . 	Primeiro- tenente , Força Aérea dos Estados Unidos . 
+320	Do you have any association with the Soviet Union , Lieutenant Powers ? 	Tem alguma associação à União Soviética , Tenente Powers ? 
+321	Kidding ? 	Está a brincar ? 
+322	Just answer the questions , Lieutenant . 	Limite- se a responder às perguntas . 
+323	Yes , no , or as simply as you can . 	" Sim " , " não " , ou o mais simplesmente possí vel . 
+324	Do you have any association with the Soviet Union ? 	Tem alguma associação à União Soviética ? 
+325	Hell , no . 	Não , raios . 
+326	Do you know why you 're here ? 	Sabe por que está aqui ? 
+327	Mmm- mmm . 	
+328	Is that a no ? 	Isso é um " não " ? 
+329	Yes . 	Sim . 
+330	I mean ... 	Ou seja ... 
+331	No , it 's just " no . " 	Não , é apenas um " não " . 
+332	Yes , I have absolutely no idea why I 'm here . 	Sim , não faço ideia da razão para estar aqui . 
+333	Eyes front , Lieutenant . 	- Olhe para a frente , Tenente . 
+334	Yes , sir . 	- Sim , senhor . 
+335	How 'd you do in there , Gary ? 	Como correu , Gary ? 
+336	Pretty good . 	Nada mal . 
+337	Think I got my name right . 	Acho que acertei no meu nome . 
+338	You probably outscored Shinn , then . 	Então , deves ter superado o Shinn . 
+339	Who 's winning ? 	- Quem está a ganhar ? 
+340	Uh , that would be me . 	- Quem está a ganhar ? 
+341	Oh . 	Dá- me cartas . 
+342	Well , deal me in . 	Dá- me cartas . 
+343	So , these are all mine , then . 	Isto é tudo meu , então . 
+344	I told you boys not to play with him . 	Eu disse- vos para não jogarem com ele . 
+345	Okay , drivers , here 's the deal . 	Muito bem , pilotos , eis a situação . 
+346	You 've been selected for a mission which you are not to discuss with anyone outside of this room . 	Foram seleccionados para uma missão que não podem discutir com ninguém fora deste quarto . 
+347	No one . 	Ninguém . 
+348	I don 't care who you trust . 	Por mais que confiem em alguém . 
+349	Wife , mother , sweetheart . 	Mulher , mãe , namorada . 
+350	The good Lord when you pray at night . 	Nosso Senhor , quando rezam à noite . 
+351	You don 't tell any of them anything of what I 'm about to tell you . 	Não lhes contam nada do que vou dizer- vos . 
+352	Each of you drivers has met certain qualifications . 	Todos vocês cumprem certos requisitos : credenciação de segurança de ní vel elevado , classificação excepcional como pilotos , além das horas de voo exigidas numa aeronave monolugar . 
+353	High level security clearance . 	Todos vocês cumprem certos requisitos : credenciação de segurança de ní vel elevado , classificação excepcional como pilotos , além das horas de voo exigidas numa aeronave monolugar . 
+354	Exceptional pilot ratings in excess of the required hours flight time in a single- seat aircraft . 	Todos vocês cumprem certos requisitos : credenciação de segurança de ní vel elevado , classificação excepcional como pilotos , além das horas de voo exigidas numa aeronave monolugar . 
+355	We are engaged in a war . 	Estamos a travar uma guerra . 
+356	This war does not , for the moment , involve men- at- arms . 	Esta guerra , de momento , não envolve tropas no terreno . 
+357	It involves information . 	Envolve informação . 
+358	You will be collecting information . 	Vão recolher informação . 
+359	You will be gathering intelligence about the enemy . 	Vão recolher informação secreta sobre o inimigo . 
+360	The intelligence you gather could give us the upper hand in a full thermonuclear exchange with the Soviet Union . 	Os dados que recolherem podem dar- nos a vantagem num conflito termonuclear aberto com a União Soviética . 
+361	Or it could prevent one . 	Ou pode impedir que este ocorra . 
+362	For public purposes , as far as your wife or mother or sweetheart or the good Lord above , your mission does not exist . 	Em termos públicos , para a vossa mulher , mãe , namorada ou para Nosso Senhor , a vossa missão não existe . 
+363	If it does not exist , you do not exist . 	Se ela não existe , vocês não existem . 
+364	You cannot be shot down . 	Não podem ser abatidos . 
+365	You cannot be captured . 	Não podem ser capturados . 
+366	You work for the CIA now . 	Agora , trabalham para a CIA . 
+367	So , Jim , I heard your guy is speaking with a phony accent . 	Jim , soube que o seu homem fala com um sotaque forçado . 
+368	Does he keep that up all the time ? 	Ele mantém- no sempre ? 
+369	Actually , I 'm pretty sure that 's just the way he talks . 	Na verdade , acho que é mesmo assim que ele fala . 
+370	He 's got the Russian name but a British passport . 	Tem um nome russo mas um passaporte inglês . 
+371	Well , I doubt that that 's genuine . 	Duvido que seja autêntico . 
+372	So , Jim , where are we ? 	Jim , onde estamos ? 
+373	I see here ... 	Vejo aqui que ... 
+374	Yes , uh , Judge , you see , 	Pois . 
+375	I just don 't think that three weeks is going to do it , here . 	Sabe , Merití ssimo , não creio que três semanas sejam suficientes , neste caso . 
+376	We ... 	Há imensas provas , como sabe . 
+377	We got a massive amount of evidence , as you know . 	Há imensas provas , como sabe . 
+378	You wanna postpone ? 	- Quer adiar ? 
+379	Six weeks . 	- Seis semanas . 
+380	I mean , there 's just myself and my associate , basically . 	Só eu e o meu colega é que estamos a trabalhar nisto . 
+381	Jim , is this serious ? 	Jim , está a falar a sério ? 
+382	Sir ? 	Merití ssimo ? 
+383	Is this serious ? 	Está a falar a sério ? 
+384	Yes . 	Sim , estou . 
+385	Yes , indeed , it is . 	Sim , estou . 
+386	You can see in the filing ... 	Como pode ver na apresentação ... 
+387	Jim , this man is a Soviet spy . 	Jim , este homem é um espião soviético . 
+388	Allegedly . 	- Alegadamente . 
+389	Come on , Counselor ! 	- Por favor , Sr . Dr ... 
+390	Your Honor . 	Merití ssimo ... É claro que o respeito . 
+391	Of course , I salute you . 	Merití ssimo ... É claro que o respeito . 
+392	We all salute you for taking on a thankless task . 	Todos o respeitamos por aceitar uma missão ingrata . 
+393	This man has to have due process . 	Este homem precisa de ter um processo equitativo . 
+394	But let 's not kid each other . 	Mas não nos enganemos . 
+395	He 'll receive a capable defense . 	Ele receberá uma defesa capaz . 
+396	And , God willing , he 'll be convicted . 	E , se Deus quiser , será condenado . 
+397	Come on , Counselor . 	Por favor . 
+398	Let 's not play games with this . 	Não façamos jogos . 
+399	Not in my courtroom . 	Não no meu tribunal . 
+400	We have a date and we 're going to trial . 	Temos uma data e vamos realizar o julgamento . 
+401	Taxi ! 	Táxi ! 
+402	Taxi ! 	Táxi ! 
+403	I see your light on ! 	Vejo a tua luz acesa ! 
+404	Son of a bitch . 	Filho da mãe . 
+405	Can 't wait to get back to Manhattan . 	Está ansioso por chegar a Manhattan . 
+406	His light was on , right ? 	Tinha a luz acesa , certo ? 
+407	Son of a bitch . 	Filho da mãe . 
+408	Against their level of comfort . 	... contra o seu ní vel de conforto . 
+409	The statute hasn 't changed . 	O estatuto não mudou . 
+410	Oh , excuse me , sir . 	Desculpe . 
+411	Pardon me . 	Perdão . 
+412	Sorry . 	Desculpe . 
+413	Oh ! 	Desculpe . 
+414	Mr . 	Sr . 
+415	Donovan . 	Donovan . 
+416	What ? 	Que é ? 
+417	What ? 	Que é ? 
+418	CIA . 	CIA . 
+419	Yeah . 	Sim . 
+420	I just wanted to chat . 	Queria só conversar um pouco . 
+421	How 's the case going ? 	Como está a correr o caso ? 
+422	Case is going great . 	Está a correr lindamente . 
+423	Couldn 't be better . 	Não podia correr melhor . 
+424	Mmm- hmm . 	
+425	Has your guy talked ? 	O seu homem falou ? 
+426	Excuse me . 	Desculpe ? 
+427	You met him . 	Já esteve com ele . 
+428	Has he talked ? 	Já esteve com ele . 
+429	Has he said anything yet ? 	Falou ? Já disse alguma coisa ? 
+430	We 're not having this conversation . 	Não vamos ter esta conversa ... 
+431	No , of course not . 	Pois , claro que não . 
+432	No , I mean , we really are not having it . 	Não , estou a dizer que não vamos mesmo tê- la . 
+433	You 're asking me to violate attorney- client privilege . 	Pede- me que viole o sigilo profissional entre advogado e cliente . 
+434	Oh , come on , Counselor . 	Por favor , Sr . Dr ... 
+435	You know , I wish people like you would quit saying " Oh , come on , Counselor . " 	Gostaria que as pessoas parassem de dizer " por favor , Sr . 
+436	I didn 't like it the first time it happened today . 	Dr . " Não gostei da primeira vez que aconteceu hoje . 
+437	A judge said it to me twice . 	Um juiz disse- mo duas vezes . 
+438	And the more I hear it , the more I don 't like it . 	E quanto mais o ouço , menos gosto . 
+439	Okay , well , listen , I understand attorney- client privilege . 	Eu percebo o sigilo profissional entre advogado e cliente . 
+440	I understand all the legal gamesmanship . 	Percebo todas as habilidades jurí dicas . 
+441	And I understand that 's how you make a living . 	E percebo que é assim que ganha a vida . 
+442	But I 'm talking to you about something else . 	Mas estou a falar- lhe de outra coisa . 
+443	The security of your country . 	Da segurança do nosso paí s . 
+444	And I 'm sorry if the way I put it offends you . 	Desculpe se a forma como o digo o ofende . 
+445	But we need to know what Abel is telling you . 	Mas preciso de saber o que o Abel lhe diz . 
+446	You understand me , Donovan ? 	Percebe , Donovan ? 
+447	We need to know . 	Precisamos de saber . 
+448	Don 't go " Boy Scout " on me . 	Não se arme em escuteiro comigo . 
+449	We don 't have a rule book , here . 	Não temos aqui nenhum livro de regras . É o Agente Hoffman , certo ? 
+450	You 're Agent Hoffman , yeah ? 	Não temos aqui nenhum livro de regras . É o Agente Hoffman , certo ? 
+451	Yeah . 	Sou . 
+452	German extraction . 	De origem alemã . 
+453	Yeah , so ? 	Sim . E então ? 
+454	My name 's Donovan . 	O meu nome é Donovan . Irlandês . 
+455	Irish . 	Dos dois lados , mãe e pai . 
+456	Both sides , mother and father . 	Dos dois lados , mãe e pai . 
+457	I 'm Irish , you 're German . 	Eu sou irlandês , você é alemão . 
+458	But what makes us both Americans ? 	Mas o que faz de nós americanos ? 
+459	Just one thing . 	Só uma coisa . 
+460	One , one , one . 	Uma , uma , uma . 
+461	The rule book . 	O livro de regras . 
+462	We call it the Constitution and we agree to the rules , and that 's what makes us Americans . 	Chamamos- lhe Constituição , concordamos com as regras e é isso que faz de nós americanos . É só isso que faz de nós americanos . 
+463	It 's all that makes us Americans so don 't tell me there 's no rule book , and don 't nod at me like that , you son of a bitch . 	Não me diga que não há um livro de regras e não abane assim a cabeça , seu filho da mãe . 
+464	Do we need to worry about you ? 	Temos de nos preocupar consigo ? 
+465	Not if I 'm left alone to do my job . 	Não , se me deixarem fazer o meu trabalho sossegado . 
+466	From this moment forward you will not refer to the U- 2 as a spy plane or reconnaissance aircraft . 	A partir deste momento , não se referirão ao U- 2 como avião espião ou aeronave de reconhecimento . 
+467	You will refer to it as " The Article . " 	Vão referir- se a ele como " O Artigo " . 
+468	The Article has an 80- foot wingspan . 	O artigo tem uma envergadura de 24 metros . É alimentado por um único motor Pratt & Whitney J- 57 P- 37 . 
+469	It 's powered by a single Pratt and Whitney J57 P- 37 engine . 	O artigo tem uma envergadura de 24 metros . É alimentado por um único motor Pratt & Whitney J- 57 P- 37 . 
+470	10, 000 pounds of thrust and a maximum speed of 430 miles an hour . 	Tem uma propulsão de 4 . 500 kg e uma velocidade máxima de 690 km/ h . 
+471	She may not be quick , but at your cruising altitude of 70, 000 feet , nothing will come close to you . 	Pode não ser muito veloz , mas a vossa altitude de cruzeiro é de 21 . 000 metros . Nada se aproximará de vocês . 
+472	70, 000 ? 	21 . 000 ? 
+473	The idea is the enemy doesn 't even know you 're there . 	A ideia é o inimigo nem dar pela vossa presença . 
+474	It looks kind of flimsy . 	Parece algo frágil . 
+475	Every extra pound of weight costs a foot in altitude , and we need to accommodate the cameras . 	Cada meio quilo de peso a mais custa 30 cm de altitude e temos de levar as câmaras . 
+476	That 's a 4, 500- millimeter lens , times three . 	As lentes são de 4 . 500 mm . Levam três . 
+477	A pin- sharp panoramic camera four times as powerful as any aerial reconnaissance cameras we 've ever used . 	Uma câmara panorâmica de alta resolução , quatro vezes mais poderosa do que qualquer câmara que já tenhamos usado . 
+478	You 're gonna be taking pictures , lots of pictures . 	Vão tirar fotografias , muitas fotografias . 
+479	At 70, 000 feet , The Article can photograph 2, 000 square miles of territory in one pass . 	A 21 . 000 metros de altitude , o Artigo pode fotografar 5 . 000 km2 de território numa só passagem . 
+480	Now , drivers , give Agent Sumner your undivided attention . 	Pilotos , agora dêem ao Agente Sumner toda a vossa atenção . 
+481	The items you will need on your mission are over here . 	Os itens de que precisarão na vossa missão estão aqui . 
+482	B camera , Revere 8 model 40 magazine , 	Uma câmara B , Revere 8 , Modelo 40 de cartucho , uma Keystone Capri K- 25 prateada . 
+483	Keystone Capri K- 25 , silver . 	Uma câmara B , Revere 8 , Modelo 40 de cartucho , uma Keystone Capri K- 25 prateada . 
+484	Hollow- handle shaving brush . 	Pincel de barba com cabo oco , um conjunto completo de tabelas de cifra em papel de prata comestí vel , equipamento de fotografia especializado . 
+485	Complete set of cipher tables on edible silver foil . 	Pincel de barba com cabo oco , um conjunto completo de tabelas de cifra em papel de prata comestí vel , equipamento de fotografia especializado . 
+486	Specialist photographic equipment . 	Pincel de barba com cabo oco , um conjunto completo de tabelas de cifra em papel de prata comestí vel , equipamento de fotografia especializado . 
+487	Yeah , we , uh ... 	Sim , já percebemos a ideia . 
+488	We get the idea . 	Sim , já percebemos a ideia . 
+489	Thank you . 	Obrigado . 
+490	Uh , excuse me , Agent , uh , Bosco . 	Desculpe , Agente Bosco . 
+491	" Blasco . " 	" Blasco . " 
+492	Sir . 	Sim ? 
+493	There seems to be a subsection to this list here . 	Parece haver uma subsecção nesta lista . 
+494	Well , most of this stuff came from his studio , but the rest is from the hotel room he was holed up in . 	A maioria destas coisas veio do estúdio dele , mas o resto veio do quarto de hotel onde se escondeu . 
+495	Where we found him . 	Quando o encontrámos . 
+496	The hotel room you searched ? 	O quarto de hotel que revistaram ? 
+497	Well , yeah . 	Sim . 
+498	Can I see the warrant ? 	Posso ver o mandado ? 
+499	The what ? 	O quê ? 
+500	Yeah , explain this to me . 	Explique- me isso . 
+501	There was a warrant . 	Havia um mandado . 
+502	There was a warrant . 	Havia um mandado . 
+503	A civil detention writ for the arrest of an alien , but there was no search warrant for suspicion of criminal activity . 	Uma ordem para a detenção civil de um estrangeiro , mas não havia mandado de busca por suspeita de actividade criminosa . 
+504	So , the search and the evidence that is the fruit of that search , that 's all tainted and should not be admitted . 	Logo , a busca e as provas que resultaram dessa busca são ilegí timas e não devem ser admitidas . 
+505	What protections is he due , Your Honor ? 	A que medidas de protecção ele tem direito ? O homem não ... 
+506	The man is not ... 	O homem é o quê ? É Rudolf Ivanovich Abel . É um cidadão soviético . 
+507	The man is what ? 	O homem é o quê ? É Rudolf Ivanovich Abel . É um cidadão soviético . 
+508	He 's Rudolf Ivanovich Abel . 	O homem é o quê ? É Rudolf Ivanovich Abel . É um cidadão soviético . 
+509	He is a Soviet citizen . 	Não é um americano . 
+510	He 's not an American . 	Não é um americano . 
+511	1886 , Yick Wo v . 	1886 , Yick Wo contra Hopkins . 
+512	Hopkins . 	1886 , Yick Wo contra Hopkins . 
+513	The court held that even aliens , in that case Chinese immigrants , could not be held to answer for a crime without due process of law , including any alien that entered the country illegally . 	O tribunal declarou que nem estrangeiros , no caso imigrantes chineses , podiam responder por um crime sem o total respeito pela legalidade , incluindo qualquer estrangeiro que tenha entrado ilegalmente no paí s . 
+514	The Department of Justice has its first allegiance to the United States . 	O Departamento de Justiça deve primeiro lealdade aos Estados Unidos . 
+515	I don 't see how an alien , if he 's here illegally , how he suffered deprivation of rights . 	Não percebo como é que um estrangeiro ilegal possa ter sido privado de direitos . 
+516	Rights as what ? 	Direitos enquanto quê ? 
+517	An American ? 	Americano ? 
+518	Rights as what , Counselor ? 	Direitos enquanto quê , Sr . Dr . ? 
+519	We 're in a battle for civilization . 	Travamos uma batalha pela civilização . 
+520	This Russian spy came here to threaten our way of life . 	Este espião russo veio para cá para ameaçar o nosso modo de vida . 
+521	Now , I have a courtroom of people waiting . 	Tenho um tribunal cheio de gente à espera . 
+522	Get out there , sit beside the Russian . 	Vá sentar- se ao lado do russo . 
+523	Let 's get this over and done with . 	Vamos lá despachar isto . 
+524	And your motion is denied . 	E a sua moção é recusada . 
+525	He should take some insurance out on himself . 	Ele devia fazer um seguro para ele próprio . 
+526	How did we do ? 	Que tal nos saí mos ? 
+527	In there ? 	Com o juiz ? 
+528	Uh ... 	Não muito bem . 
+529	Not too good . 	Não muito bem . 
+530	Apparently , you 're not an American citizen . 	Aparentemente , não é um cidadão americano . É verdade . 
+531	That 's true . 	Aparentemente , não é um cidadão americano . É verdade . 
+532	And according to your boss , you 're not a Soviet citizen either . 	E , segundo o seu chefe , também não é um cidadão soviético . 
+533	Well , the boss isn 't always right but he 's always the boss . 	O chefe não tem sempre razão ... mas é sempre o chefe . 
+534	Do you never worry ? 	Nunca se preocupa ? 
+535	Would it help ? 	Isso ajudaria ? 
+536	All rise . 	Queiram levantar- se . 
+537	" I pledge allegiance to the Flag 	Juro lealdade à bandeira dos Estados Unidos da América e à República que representa , uma Nação sob Deus , indivisí vel , com liberdade e justiça para todos . 
+538	" of the United States of America , 	Juro lealdade à bandeira dos Estados Unidos da América e à República que representa , uma Nação sob Deus , indivisí vel , com liberdade e justiça para todos . 
+539	" and to the Republic for which it stands , 	Juro lealdade à bandeira dos Estados Unidos da América e à República que representa , uma Nação sob Deus , indivisí vel , com liberdade e justiça para todos . 
+540	" one Nation under God , indivisible , 	
+541	" with liberty and justice for all . " 	
+542	First , you have to know what happens when an atomic bomb explodes . 	Primeiro , têm de saber o que acontece quando uma bomba atómica explode . 
+543	There is a bright flash , brighter than the sun . 	Há um grande clarão , mais brilhante do que o sol . 
+544	It can smash in buildings , break windows all over town . 	Pode derrubar edifí cios e partir janelas por toda a cidade . 
+545	But if you duck and cover like Bert , you will be much safer . 	Mas , se se baixarem e cobrirem , como o Bert , ficarão muito mais seguros . 
+546	There are two kinds of attack , with warning and without any warning . 	Há dois tipos de ataque : com aviso e sem qualquer aviso . 
+547	Mmm . 	
+548	What 's going on in here ? 	O que se passa aqui ? 
+549	Okay , Dad , this is really important . 	Pai , isto é muito importante . 
+550	When the war begins , the first thing they do is cut off all the water and all the electricity . 	Quando a guerra começa , a primeira coisa que fazem é cortar toda a água e electricidade . 
+551	So the first thing we should do is keep this filled , use the shower in your room , use the sink downstairs , the garden hose outside ... 	A primeira coisa a fazer é manter isto cheio , usar o duche do vosso quarto o lava- louças lá de baixo , a mangueira do jardim ... 
+552	Those are good ideas . 	São boas ideias . 
+553	But , Roger , I don 't see this as being something you ever have to worry about . 	Mas , Roger , não vejo que isto seja algo com que tenhas de te preocupar . 
+554	Yeah , but when you hear the sirens , there may not be enough time to fill the tub and the sinks . 	Mas , quando ouvirmos as sirenes , podemos não ter tempo para encher a banheira e os lava- louças . 
+555	Not gonna be any sirens ... 	Não vai haver sirenes nenhumas ... 
+556	What is this ? 	O que é isso ? 
+557	When the bomb comes , the Reds will aim for the Empire State Building . 	Quando a bomba vier , os Vermelhos vão apontar ao Empire State Building . 
+558	But the bomb goes off at 10, 000 feet up . 	Mas a bomba rebenta a 3 . 000 metros de altitude . 
+559	In Life magazine , it 's called an airburst , and if the bomb is 50 megatons , the blast wave goes out and out and out and melts everything from here to here . 	Na revista Life chamam- lhe airburst . E se a bomba tiver 50 mega toneladas , a onda de choque espalha- se , espalha- se , espalha- se e destrói tudo , daqui até aqui . 
+560	Including where we live . 	Incluindo onde vivemos . 
+561	Here . 	Aqui . 
+562	Yeah , right there . 	Pois , aqui . 
+563	But , you know , Roger , no one is dropping atomic bombs on us . 	Mas , Roger , ninguém vai largar bombas atómicas sobre nós . 
+564	But the Russians want to . 	Mas os russos querem fazê- lo . 
+565	You know that Russian guy you 're defending ? 	Sabes aquele russo que estás a defender ? 
+566	He 's here to get things ready for the guys who drop the bombs . 	Ele veio preparar as coisas para os tipos que largam as bombas . 
+567	No , no , he 's not ... 	Não , ele não veio fazer isso . 
+568	Not here for that . 	Não , ele não veio fazer isso . 
+569	He 's not even Russian . 	Nem sequer é russo . 
+570	He was born , we think , in Northern England . 	Achamos que ele nasceu no norte de Inglaterra . 
+571	Yeah , but he 's a spy for Russia . 	Sim , mas espia para a Rússia . 
+572	I don 't even understand what you 're doing . 	Nem percebo o que estás a fazer . 
+573	You 're not a Communist , so why are you defending one ? 	Não és comunista , então , por que defendes um ? 
+574	Well , because it 's my job . 	Porque é o meu trabalho . 
+575	It never used to be . 	Nunca tinha sido . 
+576	In the case of the United States of America versus Rudolf Abel , as to the first count in the indictment , how do you find the defendant ? 	No caso que opõe os Estados Unidos da América a Rudolf Abel , quanto ao primeiro ponto do auto de acusação , declaram o réu culpado ou inocente ? 
+577	Guilty or not guilty ? 	No caso que opõe os Estados Unidos da América a Rudolf Abel , quanto ao primeiro ponto do auto de acusação , declaram o réu culpado ou inocente ? 
+578	Guilty . 	Culpado . 
+579	As to the second count ? 	Quanto ao segundo ponto ? 
+580	Guilty . 	Culpado . 
+581	As to the third count ? 	Quanto ao terceiro ponto ? 
+582	Guilty . 	Culpado . 
+583	Your Honor , I make a motion to set aside these guilty verdicts against the weight of evidence . 	Merití ssimo , solicito a anulação dos veredictos de culpado , face ao peso das provas . 
+584	Denied . 	Recusado . 
+585	The jury is discharged . 	O júri está dispensado . 
+586	Thank you all . 	Obrigado a todos . 
+587	I would like to add that , if I were one of you , 	Gostaria de acrescentar que , se fosse um de vocês , teria chegado ao mesmo veredicto . 
+588	I would 've reached the same verdict . 	Gostaria de acrescentar que , se fosse um de vocês , teria chegado ao mesmo veredicto . 
+589	Sentencing will be 	A sentença será lida ... a 15 de Novembro . 
+590	November 15 . 	A sentença será lida ... a 15 de Novembro . 
+591	The death sentence is not a foregone conclusion . 	A pena de morte não é um dado adquirido . 
+592	Don 't worry . 	Não se preocupe . 
+593	I 'm not afraid to die , Mr . 	Não tenho medo de morrer , Sr . 
+594	Donovan . 	Donovan . 
+595	Although it wouldn 't be my first choice . 	Embora não fosse a minha primeira escolha . 
+596	You left this behind . 	Deixou isto na sala . 
+597	Oh , thank you . 	Obrigado . 
+598	Oh , thank you very much ! 	Muito obrigado . 
+599	You 've never asked me if the charges were true . 	Nunca me perguntou se as acusações eram verdadeiras . 
+600	If I am indeed a spy . 	Se sou realmente ... um espião . É assim que fazemos as coisas . 
+601	This is how we do it . 	Se sou realmente ... um espião . É assim que fazemos as coisas . 
+602	The case against you matters . 	O caso contra si interessa . 
+603	Making them prove it matters . 	Obrigá- los a prová- lo interessa . 
+604	The fiction is ... 	A presunção é ... 
+605	Whether you did it or not doesn 't matter . 	Se o fez ou não , não interessa . 
+606	The state has to prove it , that you 're a spy . 	O estado tem de provar que é um espião . 
+607	So you 're not curious ? 	Então , não tem curiosidade ? 
+608	No , not really . 	Nem por isso . 
+609	I always assumed you were an artist . 	Sempre presumi que era um artista ... 
+610	My wife , she 's the artist . 	A minha mulher é que é artista . É música numa orquestra de Moscovo . 
+611	She 's a musician in the Children 's Orchestra of Moscow . 	A minha mulher é que é artista . É música numa orquestra de Moscovo . 
+612	What instrument ? 	Que instrumento ? 
+613	The harp . 	Harpa . 
+614	Oh . 	
+615	Then , she 's an angel . 	Então , ela é um anjo . 
+616	Standing there like that , you remind me of a man who used to come to our house when I was young . 	Vendo- o aí de pé , lembra- me um homem que ia lá a casa quando eu era pequeno . 
+617	My father used to say , " Watch this man . " 	O meu pai costumava dizer : " Olha para aquele homem " . 
+618	So I did , every time he came . 	E eu assim fazia , sempre que ele ia lá . 
+619	And never once did he do anything remarkable . 	E nem uma única vez ele fez alguma coisa de assinalável . 
+620	And I remind you of him ? 	E eu lembro- lho ? 
+621	This one time , I was about the age of your son . 	Uma vez , tinha eu a idade do seu filho , a nossa casa foi tomada por guardas de fronteira rebeldes . 
+622	Our house was overrun by partisan border guards . 	Uma vez , tinha eu a idade do seu filho , a nossa casa foi tomada por guardas de fronteira rebeldes . 
+623	Dozens of them . 	Dúzias deles . 
+624	My father was beaten , my mother was beaten , and this man , my father 's friend , he was beaten . 	O meu pai foi espancado , a minha mãe foi espancada e esse homem , o amigo do meu pai , foi espancado . 
+625	And I watched this man . 	E eu observei- o . 
+626	Every time they hit him he stood back up again . 	Sempre que lhe batiam ... ele voltava a levantar- se . 
+627	So they hit him harder . 	Então , batiam- lhe com mais força . 
+628	Still , he got back to his feet . 	Ainda assim , voltava a pôr- se de pé . 
+629	I think because of this they stopped the beating . 	Acho que deixaram de lhe bater por causa disso . 
+630	They let him live . 	Deixaram- no viver . 
+631	I remember them saying it . 	Lembro- me de os ouvir dizer isso . 
+632	It sort of means , like , uh , " standing man . " 	Quer dizer algo como ... " o homem de pé " . 
+633	Standing man . 	O homem de pé . 
+634	Hello , Jim ! 	- Olá , Jim . 
+635	Millie , you 're a vision . 	- Millie , está fabulosa . 
+636	Mortie 's busy getting kitted out . 	O Mortie está a equipar- se . 
+637	But come on in . 	Mas entre . 
+638	Scotch , Jim ? 	- Whisky ? 
+639	Oh , yes , please . 	- Sim , por favor . 
+640	Thank you . 	Obrigado . 
+641	Uh , just a drop of water . 	Só com uma gota de água . 
+642	Your Honor . 	Merití ssimo . 
+643	Hello , Jim ! 	Olá , Jim . 
+644	Just going out . 	Ia mesmo a sair . 
+645	Got a few minutes though . 	Mas ainda tenho uns minutos . 
+646	March of Dimes thing . 	Um jantar de beneficência . 
+647	Millie is active . 	Um jantar de beneficência . 
+648	Well , thank you for seeing me . 	Obrigado por me receber . 
+649	I just wanted to give you my two cents on the sentencing . 	Queria só dar- lhe a minha opinião sobre a sentença . 
+650	And I thought maybe I should pester you at home as not all of my points are narrowly legal . 	E achei que talvez devesse incomodá- lo em casa , pois nem todos os meus argumentos são estritamente jurí dicos . 
+651	Yeah , well , it 's that kind of case . 	Pois , o caso presta- se a isso . 
+652	I hope I wasn 't too scratchy during the trial but it 's exactly what you say . 	Espero não ter sido duro demais no julgamento , mas é tal como diz . 
+653	Nothing about this is narrowly legal . 	Nada disto é estritamente jurí dico . 
+654	There are bigger issues . 	Há questões mais importantes . 
+655	Bigger issues ! 	Questões mais importantes ! 
+656	Thank you , thank you . 	Obrigado , obrigado . 
+657	Uh ... 	Obrigado , obrigado . 
+658	Sir ... 	Merití ssimo , acho que pode ser considerado que é do maior interesse para os Estados Unidos que o Abel continue vivo . 
+659	I think it could be considered in the best interests of the United States that Abel remain alive . 	Merití ssimo , acho que pode ser considerado que é do maior interesse para os Estados Unidos que o Abel continue vivo . 
+660	Why ? 	Porquê ? 
+661	I 'm not saying I' ve made up my mind but if he was gonna cooperate , work with the government , he would 've done it already . 	Não digo que já tenha tomado uma decisão , mas se ele quisesse colaborar e trabalhar com o governo , já o teria feito . É verdade , mas a questão aqui ... 
+662	- True , but the issue here ... 	Não digo que já tenha tomado uma decisão , mas se ele quisesse colaborar e trabalhar com o governo , já o teria feito . É verdade , mas a questão aqui ... 
+663	- You can 't ... 	Não digo que já tenha tomado uma decisão , mas se ele quisesse colaborar e trabalhar com o governo , já o teria feito . É verdade , mas a questão aqui ... 
+664	Excuse me . 	Desculpe . 
+665	You can 't say it 's in the best interest of the United States that he spend the rest of his days in a prison cell . 	Não pode dizer que é do maior interesse para os Estados Unidos que ele passe o resto da vida numa cela de prisão . 
+666	How is this the national interest ? 	Como pode ser do interesse nacional ? 
+667	Not the incarceration itself , sir . 	Não é a encarceração em si . É possí vel que , num futuro próximo , um americano de patente equivalente seja capturado pela Rússia Soviética . 
+668	It is possible that , in the foreseeable future , an American of equivalent rank might be captured by Soviet Russia . 	Não é a encarceração em si . É possí vel que , num futuro próximo , um americano de patente equivalente seja capturado pela Rússia Soviética . 
+669	We might want to have someone to trade . 	Talvez queiramos ter alguém para trocar . 
+670	Wow . 	Isso parece- me um exagero de " ses " . 
+671	That sounds like spinning what- ifs . 	Isso parece- me um exagero de " ses " . 
+672	You could do that till the cows come home . 	Pode continuar a fazê- lo eternamente . 
+673	It 's my business , what- ifs . 	Os " ses " são o meu ramo . Trabalho com seguros . 
+674	I 'm in insurance . 	Este " se " não tem nada de implausí vel . 
+675	And there 's nothing implausible about this one . 	Este " se " não tem nada de implausí vel . 
+676	It 's entirely in the realm of what could happen . 	Está inteiramente no campo do possí vel . É o tipo de probabilidade que leva as pessoas a fazerem seguros . 
+677	It 's the kind of probability that people buy insurance for . 	Está inteiramente no campo do possí vel . É o tipo de probabilidade que leva as pessoas a fazerem seguros . 
+678	If we send this guy to his death , we leave ourselves wide open . 	Se mandarmos este tipo para a morte , ficamos totalmente expostos . 
+679	No policy in our back pocket for the day the storm comes . 	Sem uma apólice no bolso para o dia em que chegue a tempestade . 
+680	Nice speech . 	Belo discurso . 
+681	Sir , there is also the humanitarian argument . 	Também há o argumento humanitário . 
+682	Should he die for doing the job they sent him to do ? 	Deverá ele morrer por fazer o trabalho que lhe mandaram fazer ? 
+683	All right , Counselor . 	Muito bem . 
+684	I gotta run . 	Tenho de ir andando . 
+685	Good seeing you , Jim . 	Gostei de o ver , Jim . 
+686	I' ll walk you out . 	Acompanho- o à porta . 
+687	All rise . 	Queiram levantar- se . 
+688	The United States District Court for the Eastern District of New York is now in session . 	O Tribunal da Comarca de Nova Iorque Oriental está reunido . O Exmo . 
+689	The honorable Mortimer Byers presiding . 	Senhor Juiz Mortimer Byers preside . 
+690	Be seated . 	Queiram sentar- se . 
+691	The defendant will please rise . 	O réu deve levantar- se , por favor . 
+692	In the measured judgment of this court the following sentence , based upon the jury 's verdict of guilty as to each count of the indictment , is believed to meet the test which has been stated . 	Na opinião ponderada deste tribunal , a seguinte sentença , assente no veredicto de culpado emitido pelo júri para todos os pontos da acusação , adequa- se ao juí zo previamente formulado . 
+693	Pursuant to the verdict of guilty as to all counts , the defendant is committed to the custody of the Attorney General of the United States for imprisonment in a federal institution to be selected by him for a period of 30 years . 	Na sequência do veredicto de culpado para todos os pontos de acusação , o réu é entregue à custódia do procurador- geral dos Estados Unidos , para detenção numa instituição federal por si seleccionada , por um perí odo de 30 anos . 
+694	Marshals , you may take the defendant into custody . 	Srs . Agentes , podem deter o réu . 
+695	No ... 	Não vou ser electrocutado ? 
+696	No electrocution ? 	Não vou ser electrocutado ? 
+697	No . 	Não . 
+698	No , no . 	Não . 
+699	Why aren 't we hanging him ? 	Não é condenado à morte porquê ? 
+700	In the name of God , why aren 't we hanging him ? 	Por amor de Deus , não é condenado à morte porquê ? 
+701	Sit down , sir ! 	Sente- se ! É um espião ! 
+702	He 's a spy ! 	Sente- se ! É um espião ! 
+703	He 's killing us with his lies ! 	Mata- nos com as suas mentiras ! 
+704	In the name of God , why aren 't we hanging him ? 	Por amor de Deus , não é condenado à morte porquê ? 
+705	That 's right ! 	Exactamente ! 
+706	He 's a spy ! 	Ele é um espião ! 
+707	Mr . 	Sr . 
+708	Donovan ! 	Donovan ! Sr . 
+709	Mr . 	Donovan ! 
+710	Donovan ! 	Donovan ! 
+711	Just one question . 	Só uma pergunta . 
+712	Just one question , sir . 	Só uma pergunta . 
+713	My hat ! 	O meu chapéu ! 
+714	My hat ! 	O meu chapéu ! 
+715	My hat ! 	O meu chapéu ! 
+716	Nobody here has a comment . 	Ninguém aqui comenta . O Sr . e a Sra . 
+717	Mr . and Mrs . 	Donovan não respondem a perguntas . 
+718	Donovan are not answering questions . 	Donovan não respondem a perguntas . 
+719	How do you feel now that this national nightmare is over ? 	O que sente , agora que este pesadelo nacional acabou ? Sr . 
+720	Mr . 	Donovan , está contente com o veredicto ? 
+721	Donovan , are you happy with the verdict ? 	Donovan , está contente com o veredicto ? 
+722	We 're ... 	Temos bases sólidas para interpor um recurso . 
+723	We 're in firm ground on , uh , for a case on appeal . 	Temos bases sólidas para interpor um recurso . 
+724	Appeal ? 	- Um recurso ? 
+725	Appeal , yes . 	- Sim . 
+726	Jim , you did a great job . 	Jim , fizeste um trabalho óptimo . 
+727	You fulfilled your mandate and then some . 	Cumpriste a tua obrigação e excedeste- a . 
+728	But the man is a spy . 	Mas o homem é um espião . 
+729	The verdict is correct and there 's no reason to appeal it . 	O veredicto está correcto , não há motivo para recorrer . 
+730	There 's ample procedural reason . 	Há amplas razões processuais . Sabemos que a busca foi ilegal . 
+731	We know the search is tainted . 	E questões ligadas à Quarta Emenda terão sempre mais peso num órgão de recurso . 
+732	And Fourth Amendment issues will always weigh more heavily in an appellate forum . 	E questões ligadas à Quarta Emenda terão sempre mais peso num órgão de recurso . 
+733	We 've got a good shot . 	Temos boas hipóteses . 
+734	What the goddamn hell are you talking about ? 	De que raio estás a falar ? 
+735	We were supposed to show he had a capable defense , which we did . 	Deví amos mostrar que ele tinha uma defesa capaz e teve- a . 
+736	Why are you citing the goddamn Constitution at me ? 	Por que estás a citar- me o raio da Constituição ? 
+737	Tom , if you look me in the eye and tell me we don 't have grounds for an appeal , I' ll drop it right now . 	Tom , se me olhares nos olhos e me disseres que não temos bases para um recurso , deixo- o cair já . 
+738	I 'm not saying that . 	Não estou a dizer isso . 
+739	You know what I 'm saying . 	Sabes o que quero dizer . 
+740	Tom is saying there 's a cost to these things . 	O Tom está a dizer que estas coisas têm custos . 
+741	That 's right . 	Exactamente . 
+742	A cost to both your family and your firm . 	Custos tanto para a tua famí lia como para a tua firma . 
+743	I' ve missed music . 	Tinha saudades de ouvir música . 
+744	They checked the radio to make sure there was no transmitter in it . 	Eles verificaram o rádio , para garantir que não tinha um transmissor dentro . 
+745	I 'm sure they did . 	Não duvido . 
+746	Shostakovich . 	Shostakovich . 
+747	Mmm . 	
+748	That 's a very great artist , Shostakovich . 	É um grande artista , Shostakovich . 
+749	Uh , I think our strongest grounds for reversal are constitutional . 	Acho que ... a nossa melhor fundamentação para uma anulação da sentença é constitucional . 
+750	Our best chance is if the Supreme Court agrees to review our case . 	A nossa melhor hipótese é se o Supremo Tribunal aceitar analisar o nosso caso . 
+751	Jim ... 	Jim ... 
+752	You should be careful . 	Devia ter cuidado . 
+753	Careful . 	Cuidado . 
+754	♪ 77 Sunset Strip 	
+755	Edward Byrnes . ♪ 77 Sunset Strip 	
+756	And Richard Long . 	
+757	Good morning , Suzanne . 	
+758	Good morning , Dick . 	
+759	There is a special delivery letter here for you . 	
+760	Oh , her . 	
+761	Mom ! 	Mãe ! 
+762	What in God 's name happened ? 	Mas que raio aconteceu ? 
+763	Honey , are you all right ? 	Querida , estás bem ? - Mãe ! 
+764	Mom ! 	- Estás magoada ? 
+765	Are you hurt ? 	- Estás magoada ? 
+766	I' ve got her . 	Eu trato dela . 
+767	Upstairs ! 	Vai lá acima ! 
+768	Are you all right ? 	Estão bem ? 
+769	I sat with my back against the wall , Dad ! 	Estão bem ? 
+770	Are you okay ? 	Estás bem ? 
+771	Are you all right ? 	Pai , sentei- me de costas para a parede ! 
+772	Dad , I sat with my back against the wall ! 	Pai , sentei- me de costas para a parede ! 
+773	Good , good . 	Longe das janelas ! 
+774	Away from the windows ! 	Longe das janelas ! 
+775	Good , good , good , good , good . 	Muito bem , muito bem . 
+776	Good boy , good boy , good boy . 	Lindo menino . 
+777	It 's okay . 	Está tudo bem . 
+778	It 's all right . 	Está tudo bem , eles já se foram embora . 
+779	It 's all right , they 're gone , they 're gone . 	Está tudo bem , eles já se foram embora . 
+780	They 're cowards . 	São cobardes , já se foram embora . 
+781	They 're gone . 	Temos detectives a vasculhar o bairro . 
+782	We have detectives canvassing the neighborhood . 	Temos detectives a vasculhar o bairro . 
+783	Maybe we 'll find a description of the car but I don 't think it 's very likely . 	Talvez consigamos uma descrição do carro , mas não creio que seja muito provável . 
+784	We 're gonna need protection . 	Vamos precisar de protecção . 
+785	Oh , I have instructions to leave two cars here . 	Tenho instruções para deixar aqui dois carros . 
+786	It 'll be pretty obvious that this is a secure ... 	- Ficará claro que é seguro ... - Por quanto tempo ? 
+787	For how long ? 	
+788	I have to be in Washington later on this week . 	Tenho de ir a Washington no fim da semana . 
+789	What are you doing ? 	Que está a fazer ? 
+790	What are you doing to your family ? 	Que está a fazer à sua famí lia ? 
+791	Pardon me , Officer ? 	Desculpe , Sr . Guarda ? 
+792	You 're still defending this guy ? 	Ainda defende este tipo ? 
+793	I mean , what are you fighting for him for ? 	Por que está a lutar por ele ? 
+794	Okay , knock that off , Officer . 	Vamos , pare com isso . 
+795	I' ll knock off nothing . 	Não paro nada . 
+796	I was in the third wave at Omaha Beach . 	Estive na terceira vaga , em Omaha Beach . 
+797	Hey , I did my time in the service . 	Eu cumpri o meu serviço militar . 
+798	I was fighting these guys , and you 're defending them ? 	Combati estes tipos e agora você defende- os ? 
+799	Why don 't you just do your job as an officer of the law ? 	Por que não cumpre o seu dever de agente da lei ? Desculpe . 
+800	Okay , I 'm sorry . 	Vamos lá para fora . 
+801	Let 's go outside . 	Vamos lá para fora . 
+802	Come on . 	Não lhe ligue . 
+803	You know what ? 	Não lhe ligue . 
+804	Just forget him . 	Não lhe ligue . 
+805	What am I not getting here ? 	O que está a escapar- me ? 
+806	Outside , Officer . 	Lá para fora . Desculpe . 
+807	I 'm sorry . 	A defender um espião comuna . 
+808	Defending a commie spy . 	A defender um espião comuna . 
+809	Jeez ! 	Céus ! 
+810	Do you feel that you deserve this , sir ? 	Acha que merece isto ? 
+811	Should it become necessary to abandon the aircraft over Soviet territory , then there 's a two- and- a- half pound explosive charge contained within the fuselage . 	Caso seja necessário abandonar a aeronave sobre território soviético , há uma carga explosiva de 1 kg no interior da fuselagem . 
+812	Now , first , you activate the circuits . 	Primeiro , têm de activar os circuitos . 
+813	But to start the 70- second timer , you need to flip the switch marked " Destruct . " 	Mas para iniciarem o temporizador de 70 segundos , têm de carregar no interruptor que diz " Destruir " . 
+814	It is imperative that these flights remain a secret and this equipment does not fall into enemy hands . 	É imperativo que estes voos permaneçam secretos e que este equipamento não caia em mãos inimigas . 
+815	What about us ? 	Então e nós ? 
+816	I don 't know if you 're kidding , Lieutenant Powers . 	Não sei se está a brincar , Tenente Powers . 
+817	I 'm not . 	Eu não estou . 
+818	What you know about the plane is as secret as the plane itself . 	O que sabem do avião é tão secreto como o próprio avião . 
+819	If capture is a foregone conclusion , you go down with your plane . 	Se a captura for inevitável , desaparecem com o avião . 
+820	Now , if you think you can ditch and get away , if you 're close enough to a border , fine . 	Mas se acharem que podem ejectar- se e escapar , se estiverem perto de uma fronteira , muito bem . 
+821	You know the ejection protocol . 	Conhecem o protocolo de ejecção . 
+822	But if you ditch , you bring the dollar with you . 	Mas , se saltarem , levam o dólar convosco . 
+823	All right , there 's a pin inside . 	Tem um alfinete dentro . 
+824	You scratch your skin anywhere , it 's instantaneous . 	Basta arranharem a pele em qualquer lado e é instantâneo . 
+825	If you think you are about to be captured , you use it . 	Se acharem que estão prestes a ser capturados , usem- no . 
+826	Drivers , you understand me ? 	Pilotos , perceberam ? 
+827	Spend the dollar . 	Gastem o dólar . 
+828	Mr . 	Juiz Presidente e digní ssimo tribunal . 
+829	Chief Justice , and may it please the court . 	Juiz Presidente e digní ssimo tribunal . 
+830	The " Cold War " is not just a phrase , Your Honor . 	A Guerra Fria não é apenas um termo , Merití ssimo . 
+831	It 's not just a figure of speech . 	Não é apenas uma figura de retórica . 
+832	Truly , a battle is being fought between two competing views of the world . 	Realmente , trava- se uma batalha entre duas visões divergentes do mundo . 
+833	I contend that Rudolf Ivanovich Abel , 	Eu afirmo que Rudolf Ivanovich Abel , 
+834	" Colonel Abel , " as he was called even by the men who arrested him , is our foe in that battle . 	" Coronel Abel , " como era chamado até pelos homens que o prenderam , é nosso inimigo nessa batalha . 
+835	Auxiliary power ? 	Propulsão auxiliar ? 
+836	Connected and on . 	Ligada e a postos . 
+837	Oxygen seat- pack supply ? 	Alimentação de oxigénio no assento ? 
+838	Supply at 1, 800 psi . 	Alimentação a 1 . 800 psi . 
+839	Inverter ? 	Variador ? 
+840	On , light out . 	Ligado , luz desligada . 
+841	He was treated as a combatant in that war until it no longer suited our government to so treat him . 	Ele foi tratado como combatente nessa guerra , até já não interessar ao nosso governo tratá- lo como tal . 
+842	Accordingly , he was not given the protections we give our own citizens . 	Em conformidade , não lhe foi dada a protecção que damos aos nossos cidadãos . 
+843	He was subjected to treatment that , however appropriate for a suspected enemy , was not appropriate to a suspected criminal . 	Foi sujeito a um tratamento que , embora apropriado a um alegado inimigo , não foi apropriado a um alegado criminoso . 
+844	Fuel transfer ? 	- Transferência de combustí vel ? 
+845	Transfer switch off . 	- Transferência desligada . 
+846	Destructor ? 	Destruidor ? 
+847	Destructor safety . 	Destruidor na segurança . 
+848	Climb data card . 	Tabela de velocidade de subida . 
+849	Installed in aircraft . 	Instalada na aeronave . 
+850	I know this man . 	Eu conheço este homem . 
+851	If the charge is true , he serves a foreign power but he serves it faithfully . 	Se a acusação for verdade , ele serve uma potência estrangeira , mas serve- a lealmente . 
+852	If he is a soldier in the opposing army , he is a good soldier . 	Se é um soldado do exército adversário , é um bom soldado . 
+853	He has not fled the field of battle to save himself . 	Não fugiu do campo de batalha para se salvar . 
+854	He has refused to serve his captor . 	Recusou- se a servir o seu captor . 
+855	He has refused to betray his cause . 	Recusou- se a trair a sua causa . 
+856	He has refused to take the coward 's way out . 	Recusou- se a tomar a opção cobarde . 
+857	The coward must abandon his dignity before he abandons the field of battle . 	O cobarde tem de abandonar a dignidade antes de abandonar o campo de batalha . 
+858	That , Rudolf Abel will never do . 	Isso , Rudolf Abel nunca fará . 
+859	Shouldn 't we , by giving him the full benefit of the rights that define our system of government , show this man who we are ? 	Não deverí amos , dando- lhe o pleno benefí cio dos direitos que definem o nosso sistema de governo , mostrar a este homem quem somos ? 
+860	Who we are . 	Quem somos . 
+861	Is that not the greatest weapon we have in this Cold War ? 	Não é essa a maior arma que temos nesta Guerra Fria ? 
+862	Will we stand by our cause less resolutely than he stands by his ? 	Apoiaremos a nossa causa menos resolutamente do que ele a sua ? 
+863	The President announced that a NASA weather plane disappeared four days ago north of Turkey . 	O Presidente anunciou que um avião meteorológico da NASA desapareceu há 4 dias a norte da Turquia . 
+864	And the Space Administration fears that its pilot died in the crash . 	E a NASA receia que o piloto tenha morrido na queda do avião . 
+865	Radar showed the plane wandering off course deep into Soviet territory before contact was lost , complicating any effort to recover it or the remains of the pilot . 	O radar mostrou que o avião se desviou da rota , entrando no interior de território soviético antes de se perder o contacto , dificultando qualquer esforço para o seu resgate ou o dos restos mortais do piloto . 
+866	Now to news out of Washington . 	Agora , notí cias de Washington . 
+867	In a close vote today , the Supreme Court affirmed the conviction of Russian spy Rudolf Ivanovich Abel , five votes to four . 	Numa votação renhida hoje , o Supremo Tribunal reafirmou a condenação do espião russo Rudolf Ivanovich Abel por cinco votos contra quatro . 
+868	The case presented civil liberties issues , according to the Russian 's lawyer , James B . 	O caso tem implicações para as liberdades cí vicas , segundo o advogado do russo , James B . 
+869	Donovan . 	Donovan . 
+870	When asked how he felt about today 's loss , 	Quando lhe perguntaram como se sentia com a derrota de hoje , o Sr . 
+871	Mr . 	Quando lhe perguntaram como se sentia com a derrota de hoje , o Sr . 
+872	Donovan simply said , " Tired . " 	Donovan disse apenas : " Cansado " . 
+873	I' ll have more news for you after this message . ♪ Styling tricks 	Teremos mais notí cias após este intervalo . Acabou- se . 
+874	It 's over . ♪ See the new , exciting styling tricks ♪ You ... 	
+875	Marty . 	Marty , diabos me levem , mas não encontro o dossiê daquele caso da Prudential . 
+876	I' ll be damned if I can find the file on that Prudential case . 	Marty , diabos me levem , mas não encontro o dossiê daquele caso da Prudential . 
+877	I , uh , Mr . 	
+878	Watters had me move it over to Jack Elwes 's office along with the first draft of the appeal . 	Watters mandou- me passá- lo ao gabinete do Jack Elwes , juntamente com o primeiro esboço do recurso . 
+879	He did ? 	Mandou ? 
+880	Yeah , he redrafted and filed that last week while you were in Washington . 	Sim , redigiu- o de novo e apresentou- o quando o senhor esteve em Washington . 
+881	How long have we been together ? 	Há quanto tempo trabalhamos juntos ? 
+882	You act as if I' ve never closed a deal . 	Até parece que nunca fechei um negócio . 
+883	Set up a meeting . 	Marca um encontro . 
+884	Someplace fancy . 	Num lugar finório . Decerto o Sr . 
+885	I 'm betting Mr . 	Young apreciará algumas das coisas mais requintadas de Nova Iorque . 
+886	Young would like some of the finer things 	Young apreciará algumas das coisas mais requintadas de Nova Iorque . 
+887	New York has to offer . 	Young apreciará algumas das coisas mais requintadas de Nova Iorque . 
+888	And I want you to give me the summary of ... 	E quero que me faças um resumo de ... 
+889	Do you know anyone from Leipzig ? 	Conhece alguém de " Lipzig " ? 
+890	" Leipzig . " Am I getting hate mail from Germany now ? 	" Leipzig . " Agora recebo cartas insultuosas da Alemanha ? 
+891	From East Germany . 	Da Alemanha de Leste . 
+892	Is it your wife ? 	É a sua mulher ? 
+893	No . 	Não . 
+894	No , no , no , no . 	Não , não , não . 
+895	She pretends to be but it 's not even a good pretense . 	Ela finge sê- lo , mas nem sequer finge bem . 
+896	" I 'm taking this liberty to write to you 	" Tomei a liberdade de lhe escrever , depois de saber pelos jornais 
+897	" after having learned from the newspapers 	" Tomei a liberdade de lhe escrever , depois de saber pelos jornais 
+898	" about your most humane attitude 	" da sua atitude tão humana para com o meu querido marido Rudolf Abel . " 
+899	" towards my beloved husband , Rudolf Abel . " 	" da sua atitude tão humana para com o meu querido marido Rudolf Abel . " 
+900	And do I write back ? 	E respondo- lhe ? 
+901	Yeah , yeah , yeah . 	Sim , sim . 
+902	What 's the next move when you don 't know what the game is ? 	Qual é a próxima jogada , quando não sabemos de que jogo se trata ? 
+903	Francis Gary Powers ... 	Francis Gary Powers , ao abrigo do artigo dois da lei da URSS sobre a responsabilidade criminal por crimes de estado , é condenado a dez anos de privação da liberdade , sendo que os primeiros três anos serão cumpridos na prisão . 
+904	On the strength of Article Two of the U . S . S . R . law on criminal responsibility for state crimes to 10 years of confinement with the first three years to be served in prison . 	Francis Gary Powers , ao abrigo do artigo dois da lei da URSS sobre a responsabilidade criminal por crimes de estado , é condenado a dez anos de privação da liberdade , sendo que os primeiros três anos serão cumpridos na prisão . 
+905	The term of the punishment , including preliminary detention , shall be counted from May first , nineteen hundred and sixty . 	O prazo da pena , incluindo a detenção preliminar , será contado a partir de 1 de Maio de 1960 . 
+906	Mr . 	Donovan , muito obrigado por ter vindo . É um prazer conhecê- lo , Sr . 
+907	Donovan , thank you so much for coming . 	Donovan , muito obrigado por ter vindo . É um prazer conhecê- lo , Sr . 
+908	It 's a pleasure to meet you , Mr . 	Donovan , muito obrigado por ter vindo . É um prazer conhecê- lo , Sr . 
+909	Dulles . 	Dulles . É uma honra . 
+910	It 's an honor , sir . 	Dulles . É uma honra . 
+911	Nescafe , cream , two lumps . 	Nescafé , natas , dois cubos de açúcar . 
+912	Thank you . 	Obrigado . 
+913	Okay , this letter you received . 	Muito bem , esta carta que recebeu ... 
+914	Seems pretty clear that the Soviets are making an overture here . 	Parece óbvio que os soviéticos estão a mostrar abertura . 
+915	They 're doing it through East Germany because they still don 't want to acknowledge Abel as a Soviet citizen , much less a Soviet spy . 	Embora o façam através da Alemanha de Leste , porque ainda não querem reconhecer o Abel como cidadão soviético e muito menos como espião soviético . 
+916	So ... 	Embora o façam através da Alemanha de Leste , porque ainda não querem reconhecer o Abel como cidadão soviético e muito menos como espião soviético . 
+917	Lot of fiction going on . 	Há aqui muita ficção . 
+918	Yes , sir , but to what end ? 	Sim , mas com que finalidade ? 
+919	They got our guy , our spy pilot . 	Eles têm o nosso piloto espião . 
+920	We 've got their guy . 	Nós temos o homem deles . 
+921	Prisoner exchange , I think that 's what they 're after . 	Acho que o que eles pretendem é uma troca de prisioneiros . 
+922	Which could hardly be a surprise to you , Counselor . 	O que é algo que não deve surpreendê- lo . É uma eventualidade que julgo que previu . 
+923	It 's an eventuality that I think you foresaw . 	O que é algo que não deve surpreendê- lo . É uma eventualidade que julgo que previu . 
+924	Yes , I sure did , and I 'm so rarely right . 	Sim , previ mesmo . E raramente acerto . 
+925	Well , congratulations . 	Bem , parabéns . 
+926	Red letter day . 	Um dia marcado a vermelho . 
+927	Now , we have our man over there . 	Portanto , temos lá o nosso homem , o Powers . É bom homem , mas tem a cabeça cheia de informação secreta . 
+928	Powers . 	Portanto , temos lá o nosso homem , o Powers . É bom homem , mas tem a cabeça cheia de informação secreta . 
+929	Good man , but with a head full of classified information . 	Portanto , temos lá o nosso homem , o Powers . É bom homem , mas tem a cabeça cheia de informação secreta . 
+930	Abel has a head full of classified information , too , but he hasn 't given us a lick . 	O Abel também tem a cabeça cheia de informação secreta , mas não nos passou nada . 
+931	And , sir , take it from me , he won 't . 	Vá por mim , nem passará . 
+932	Yes , we know that , but the Russians don 't . 	Sim , nós sabemos isso , mas os russos não sabem . 
+933	They want their man back before he cracks . 	Querem o homem deles antes que ele ceda . 
+934	And we want Powers back for the same reasons . 	E nós queremos o Powers de volta pelas mesmas razões . 
+935	I think you are saying , sir , that there might be a happy ending for everyone . 	Acho que está a dizer que pode haver um final feliz para toda a gente . 
+936	Yes , if we , um , indulge their fiction . 	Sim , se colaborarmos na ficção deles . 
+937	We want you to negotiate the swap because you 're a private citizen , so it 's not governments talking . 	Queremos que negoceie a troca , visto que é um cidadão privado e não serão os governos a conversar . 
+938	They don 't acknowledge Abel as a Soviet citizen , and we don 't acknowledge East Germany as a sovereign country . 	Eles não reconhecem o Abel como cidadão soviético e nós não reconhecemos a Alemanha de Leste como paí s soberano . 
+939	We haven 't recognized East Berlin since it was annexed by the Soviets in ´45 . 	Não reconhecemos Berlim Leste desde a anexação soviética , em 1945 . 
+940	So I act as a negotiator , representing ... 	Então , agirei como negociador , representando ... 
+941	You 're not representing anybody . 	Não representa ninguém . 
+942	Not a government official . 	Não é funcionário do governo . 
+943	You have no official standing . 	Não tem essa legitimidade . 
+944	So , some fiction on our side as well . 	Portanto , também há alguma ficção do nosso lado . 
+945	Correct . 	Correcto . 
+946	Which means , of course , you can 't rely on any acknowledgment or help if things go south . 	Portanto , não pode contar com qualquer reconhecimento ou ajuda , se as coisas derem para o torto . 
+947	CIA can 't be responsible . 	A CIA não pode ser responsabilizada . 
+948	We can 't be embarrassed . 	Não podemos sofrer esse embaraço . 
+949	Where do they want this negotiation to take place ? 	Onde é que eles querem que essa negociação decorra ? 
+950	There . 	Lá . 
+951	" There " ? 	" Lá " ? 
+952	East Berlin . 	Berlim Leste . 
+953	Well , isn 't East Berlin getting rather ... 	Berlim Leste não está a ficar algo ... 
+954	Oh , yes , the place is getting complicated . 	Sim , a cidade está a ficar complicada . 
+955	Yeah , complicated . 	Sim , complicada . 
+956	The Soviet side has been setting up checkpoints for the past few months to try to stop people hemorrhaging to the Western sectors , and it hasn 't worked . 	O lado soviético tem montado postos de controlo nos últimos meses , para tentar estancar a hemorragia de pessoas para os sectores ocidentais , sem resultados . 
+957	We have intelligence to suggest that they may go one step further and wall off the entire Eastern sector . 	Temos informações que sugerem que eles podem ir mais além e tentar isolar todo o sector oriental com um muro . 
+958	Okay , that 's it in a nutshell . 	Certo . Resumindo , é isto . 
+959	The decision is entirely yours . 	A decisão é só sua . 
+960	You need time to kick it around . 	Precisa de tempo para pensar . 
+961	No . 	Não . 
+962	No , I don 't . 	Não , não preciso . 
+963	Well , fine . 	Então , óptimo . Óptimo . É melhor que tudo isto permaneça confidencial . 
+964	Fine . 	Então , óptimo . Óptimo . É melhor que tudo isto permaneça confidencial . 
+965	Best that this all remains confidential . 	Então , óptimo . Óptimo . É melhor que tudo isto permaneça confidencial . 
+966	Let 's not discuss any of this with , uh , Mary or with anyone else . 	Não partilhe nada disto com a Mary nem com mais ninguém . 
+967	Share the correspondence only with us . 	Partilhe a correspondência apenas connosco . 
+968	Let us know what they want to do and when . 	Diga- nos o que eles querem fazer e quando . 
+969	I' ve got no client , no wife , no country . 	Não tenho cliente , nem mulher , nem paí s . 
+970	Don 't know what I 'm doing or when or who for . 	Não sei o que faço , nem quando , nem para quem . 
+971	You 're doing it for your country , but your country doesn 't know that yet . 	Está a fazê- lo pelo seu paí s , só que o seu paí s ainda não o sabe . 
+972	What about my client , the other person in this equation ? 	Então e o meu cliente , a outra pessoa nesta equação ? O meu homem ? 
+973	My guy ? 	O seu homem ? 
+974	Your guy ? 	O seu homem ? 
+975	You mean the Russian ? 	Refere- se ao russo ? 
+976	He 's not your guy anymore , Counselor . 	Já não é ele que lhe interessa . 
+977	Your guy is Francis Gary Powers now . 	O seu homem agora é o Francis Gary Powers . 
+978	What do I tell Rudolf Abel ? 	O que digo ao Rudolf Abel ? 
+979	Tell him not to drop dead . 	Diga- lhe para não morrer . 
+980	Professor ? 	Professor ? 
+981	Professor ? 	Professor ? 
+982	Papa went to university . 	O meu pai foi para a universidade . 
+983	You shouldn 't be here , Frederic . 	Não devias ter vindo , Frederic . 
+984	They 're having classes today ? 	Há aulas , hoje ? 
+985	He went to see . 	Ele foi ver . É onde vai sempre . 
+986	That 's where he goes . 	Ele foi ver . É onde vai sempre . 
+987	What are you doing here ? 	O que fazes aqui ? 
+988	I came to get you and your father . 	Vim buscar- te a ti e ao teu pai . 
+989	You have to come with me . 	Tens de vir comigo . 
+990	You might not get out tomorrow . 	Amanhã , talvez já não saias . 
+991	Just ... 	Partir , simplesmente ? 
+992	Just leave ? 	Partir , simplesmente ? 
+993	Yes . 	Sim , partir . 
+994	Yes , yes , yes , leave . 	Sim , partir . 
+995	Right now . 	Agora mesmo . 
+996	Go back . 	Volta para trás . 
+997	Go back . 	Volta para trás . 
+998	I' ll be okay , I 'm American . 	Eu fico bem , sou americano . Volta para trás . 
+999	Go back . 	Volta para o teu pai . 
+1000	Go back to your father 's . 	Volta para o teu pai . 
+1001	We 'll find another way . 	Arranjaremos outra saí da . 
+1002	Go . 	Vai . 
+1003	Hey ! 	
+1004	So , hi . 	Olá . 
+1005	Papers , please . 	Documentos , por favor . 
+1006	Ich bin Student Frederic Pryor . 	Ich bin Student Frederic Pryor . 
+1007	Yes , Student . 	Sim , Student . 
+1008	My name 's Frederic Pryor . 	O meu nome é Frederic Pryor . 
+1009	I 'm an economics student . 	Sou estudante de economia . 
+1010	See ? 	Vê ? É a minha dissertação , a minha tese . 
+1011	It 's my dissertation . 	Vê ? É a minha dissertação , a minha tese . 
+1012	My thesis . 	Vê ? É a minha dissertação , a minha tese . 
+1013	You see ? 	
+1014	Look , look . 	Veja : 
+1015	Look " The foreign trade system of the European Communist nations . " Huh ? 	" O sistema de trocas comerciais dos paí ses europeus comunistas . " 
+1016	It was a lot of work . 	Deu muito trabalho . 
+1017	No , that 's my only copy . 	Não , é o meu único exemplar . 
+1018	No ! 	Não ! 
+1019	Tell me something . 	Diz- me alguma coisa . 
+1020	It came up at the last minute . 	Surgiu à última hora . 
+1021	They have offices in London . 	Eles têm escritórios em Londres . 
+1022	These clients . 	Estes clientes ... 
+1023	Not my idea . 	A ideia não foi minha . 
+1024	Scotland , this fishing expedition . 	A Escócia , esta expedição de pesca ... 
+1025	What kind of fishing trip , Jim ? 	Que tipo de viagem de pesca , Jim ? 
+1026	Salmon fishing . 	Pesca de salmão . 
+1027	Just tell me that you 're not gonna be in any danger , that this is just a routine business trip , and I won 't worry . 	Garante- me só que não vais correr nenhum perigo , que é só uma viagem de trabalho rotineira , e não me preocuparei . 
+1028	I need my passport . 	Preciso do meu passaporte . 
+1029	Just give me something to hold on to . 	Dá- me só algo a que possa agarrar- me . 
+1030	I don 't even care if it 's the truth . 	Nem me interessa que seja verdade . 
+1031	I 'm doing this for us . 	Estou a fazer isto por nós . 
+1032	Mr . 	Aqui o Sr . 
+1033	Michener , here , is your Berlin escort . 	Michener é o seu acompanhante em Berlim . É adido na embaixada americana . 
+1034	He 's an attache with the U . S . embassy . 	Michener é o seu acompanhante em Berlim . É adido na embaixada americana . 
+1035	- So , it 's gotten goddamn complicated . 	Isto tornou- se complicado a valer . 
+1036	- Uh- huh . 	Isto tornou- se complicado a valer . 
+1037	As you know , the last letter from Mrs . 	Como sabe , a última carta da Sra . 
+1038	Abel , whoever she is , talks about a lawyer in East Berlin , 	Abel , seja ela quem for , fala de um advogado de Berlim Leste , o Sr . 
+1039	Mr . 	Vogel , seja ele quem for , que representa os interesses dela . 
+1040	Vogel , whoever he is , representing her interests , she says . 	Vogel , seja ele quem for , que representa os interesses dela . 
+1041	Yeah , Vogel says he 's gone to the Russian embassy in East Berlin and they may be ready to trade Abel for Powers . 	Sim . O Vogel diz que foi à embaixada russa em Berlim Leste e que talvez eles estejam dispostos a trocar o Abel pelo Powers . 
+1042	But no one knows who 's who , but essentially they 're all Russian , right ? 	Ninguém sabe quem é quem , mas , basicamente , são todos russos , certo ? 
+1043	Well , Soviet . 	- Bem , soviéticos . 
+1044	Well , we think so . 	- Cremos que sim . 
+1045	What do you mean ? 	Que querem dizer ? 
+1046	Could we turn up the heat in here ? 	Podem abrir mais o aquecimento ? 
+1047	There 's a wrinkle . 	Há um senão . 
+1048	They might try to throw you a curveball . 	Eles podem tentar dar- lhe a volta . 
+1049	Try and get you to accept another prisoner other than Powers . 	Tentar que aceite outro prisioneiro em vez do Powers . 
+1050	Another American ? 	Outro americano ? 
+1051	The , uh , East German Stasi picked up an American student . 	A Stasi da Alemanha de Leste deteve um estudante americano , Frederic Pryor . 
+1052	Frederic Pryor . 	A Stasi da Alemanha de Leste deteve um estudante americano , Frederic Pryor . 
+1053	Uh , the kid they found on the wrong side of the Wall . 	Um miúdo que apanharam do lado errado do muro . É um pós- graduado de Yale , veio para cá estudar economia . 
+1054	He 's a grad student out of Yale . 	Um miúdo que apanharam do lado errado do muro . É um pós- graduado de Yale , veio para cá estudar economia . 
+1055	- Came over here to study economics . 	Um miúdo que apanharam do lado errado do muro . É um pós- graduado de Yale , veio para cá estudar economia . 
+1056	- Mmm- hmm . 	Eles andam a dar sinais de quererem julgar o miúdo por espionagem . 
+1057	So , they 're making noises about trying this kid for espionage . 	Eles andam a dar sinais de quererem julgar o miúdo por espionagem . 
+1058	Grave offense , capital crime . 	Delito grave , puní vel com a pena de morte . 
+1059	Well . 	Delito grave , puní vel com a pena de morte . 
+1060	Vogel got in touch with us , said he represents Pryor . 	O Vogel contactou- nos , diz que representa o Pryor . 
+1061	Wait a minute . 	Esperem lá , o Vogel representa a Sra . 
+1062	Vogel represents Mrs . 	Esperem lá , o Vogel representa a Sra . 
+1063	Abel and this ... 	Abel e esse miúdo ? 
+1064	This kid ? 	Abel e esse miúdo ? 
+1065	Yeah , he 's busy . 	Sim , anda muito ocupado ... 
+1066	Well , so , what is he ? 	Ele é o quê ? 
+1067	Vogel , is he , uh , East German or is he Russian ? 	O Vogel é alemão de leste ou é russo ? 
+1068	Well , try to figure it out when you meet him . 	Tente perceber , quando o conhecer . 
+1069	At Russian embassy , East Berlin , noon tomorrow . 	Na embaixada russa , Berlim Leste , amanhã ao meio- dia . 
+1070	Hoffman will show you how to get there . 	O Hoffman mostra- lhe como lá chegar . 
+1071	Wait , show me how to get there ? 	Mostra- me como lá chegar ? 
+1072	I 'm gonna have an escort . 	Irei acompanhado . 
+1073	Right ? 	Certo ? 
+1074	Well , that was the plan but like I said , there 's a wrinkle . 	O plano era esse , mas , como disse , há um senão . 
+1075	I won 't be taking you . 	Não vou levá- lo lá . 
+1076	Decision 's been made . 	A decisão foi tomada . 
+1077	No U . S . government personnel are to cross the border until further notice . 	Nenhum funcionário do governo dos EUA pode cruzar a fronteira até novo aviso . 
+1078	How come ? 	- Porquê ? - É demasiado perigoso . 
+1079	It 's too dangerous . 	- Porquê ? - É demasiado perigoso . 
+1080	Yeah , the East Germans grabbed this kid . 	Os alemães de leste detiveram este miúdo . 
+1081	There 's a degree of impunity that we had not anticipated . 	Há um grau de impunidade que não antecipámos . 
+1082	The point is that the East German agenda and the Russian agenda may not be the same thing . 	O que importa é que as agendas da Alemanha de Leste e da Rússia podem não ser iguais . 
+1083	Try and figure it out and act accordingly . 	Tente perceber como e aja em consonância . 
+1084	And try to make a deal . 	Tente fazer um acordo . 
+1085	Powers for Abel . 	O Powers pelo Abel . 
+1086	Well , what about this college kid , Pryor ? 	E este universitário , o Pryor ? 
+1087	Mmm- mmm . 	Não caia nessa . 
+1088	Don 't fall for that . 	Não caia nessa . 
+1089	We can get him out another time . 	Podemos resgatá- lo depois . 
+1090	Powers is the whole ball game . 	O Powers é muito mais importante . 
+1091	Where 's your room ? 	Onde fica o seu quarto ? 
+1092	I' ll be staying at the Hilton . 	Vou ficar no Hilton . 
+1093	It 's not far . 	Não é longe . 
+1094	This is a number here in West Berlin . 	Este é um número de Berlim Ocidental . 
+1095	Memorize it and give it back to me . 	Memorize- o e devolva- mo . 
+1096	No , no . 	Não . 
+1097	I ... 	Não . 
+1098	I mean , now . 	Agora . 
+1099	The Soviets keep cutting the international lines but local calls are okay . 	Os soviéticos estão sempre a desligar as chamadas internacionais , mas não as locais . 
+1100	Someone will pick up day and night . 	Alguém atenderá , dia e noite . 
+1101	Now , this docket attached to your passport will serve as your ticket into and out of the Eastern Soviet sector . 	Esta guia anexada ao seu passaporte dá- lhe entrada e saí da do sector oriental soviético . 
+1102	The meeting with Vogel is set for noon tomorrow . 	O encontro com o Vogel está marcado para amanhã ao meio- dia . 
+1103	There are only a few routes left to the East . 	Já restam poucas rotas para leste . 
+1104	You take the S- Bahn , the station we showed you on the way in . 	Apanhe o S- Bahn na estação que lhe mostrámos à chegada . 
+1105	You 're gonna get off at the Friedrichstrasse station here and walk to the Soviet embassy on Unter den Linden here . 	Vai sair aqui , na estação de Friedrichstrasse e caminhar até à embaixada soviética , aqui em Unter den Linden . 
+1106	Look at the map now . 	Veja o mapa agora , não deve levá- lo consigo . 
+1107	You shouldn 't take it with you . 	Veja o mapa agora , não deve levá- lo consigo . 
+1108	You 're looking at a map , you 're an American , you 're a spy . 	Está a ver um mapa , é americano , é um espião . 
+1109	You could well be detained . 	Pode muito bem ser detido . 
+1110	Just avoid interacting with people generally . 	Evite interagir com as pessoas em geral . 
+1111	You don 't ... 	Não está no seu meio , não dê nas vistas . 
+1112	You don 't belong , so don 't stick out . 	Não está no seu meio , não dê nas vistas . 
+1113	Food is scarce over there and things have started to fall apart . 	A comida lá escasseia e tudo começou a desmoronar- se . 
+1114	There are gangs , and rule of law is less firmly established over there . 	Há bandos e o estado de direito tem menos implantação , lá . 
+1115	And definitely stay away from the Wall . 	E fique longe do muro . 
+1116	On their side , there 's a line cleared of buildings along the Wall . 	Do lado deles , há uma fileira sem prédios ao longo do muro . 
+1117	They call it the " Death Line . " 	Chamam- lhe a " Linha da Morte " . 
+1118	Cross it and you 'll be shot . 	Se a atravessar , será abatido . 
+1119	Is there any outcome here where I 'm not either detained or shot ? 	Há outro desfecho em que não seja detido ou abatido ? 
+1120	Don 't worry too much about what Michener said . 	Não se preocupe muito com o que o Michener disse . 
+1121	No , I 'm worried about what you 're saying . 	Não , estou preocupado com o que você disse . 
+1122	This kid , Pryor , that the East Germans have , how old is he ? 	Esse miúdo , o Pryor , que está com os alemães de leste , que idade tem ? 
+1123	Twenty- five . 	25 . Porquê ? 
+1124	Why ? 	Tem a mesma idade que o Dougie . 
+1125	Same age as Dougie . 	Tem a mesma idade que o Dougie . 
+1126	Who ? 	Quem ? 
+1127	Eh , an associate of mine . 	Um colega meu . 
+1128	Frederic Pryor . 	Frederic Pryor . 
+1129	Okay , okay , okay . 	Pronto , pronto . 
+1130	Danke . 	
+1131	So , we apologize if this offends . 	Desculpe , se isto o ofende . 
+1132	Uh ... 	
+1133	Coat ? 	O casaco ? 
+1134	Okay . 	Está bem . 
+1135	Do you understand English ? 	Percebe inglês ? Sim . 
+1136	Yes , sir . 	Sou James Donovan . 
+1137	I 'm James Donovan . 	Sou James Donovan . 
+1138	I 'm here to meet a Mr . 	Vim falar com o Sr . 
+1139	Vogel . 	Vogel . 
+1140	Mr . 	Sr . 
+1141	Vogel . 	Vogel . 
+1142	He doesn 't work here . 	Ele não trabalha aqui . 
+1143	I 'm just supposed to meet him . 	Vim só encontrar- me com ele . 
+1144	That 's all I know . 	Só sei isso . 
+1145	Mr . 	Sr . 
+1146	Donovan ! 	Donovan ! 
+1147	So we finally meet you . 	Finalmente conhecemo- lo ! 
+1148	I 'm Helen Abel . 	Eu sou a Helen Abel . 
+1149	How is our husband ? 	- Como está o nosso marido ? 
+1150	Oh . 	- Está bem . 
+1151	He 's fine . 	- Está bem . 
+1152	How is my Rudolf ? 	Como está o meu Rudolf ? 
+1153	As good as can be expected . 	Tão bem quanto possí vel . 
+1154	And we will get him back , yes ? 	E vamos trazê- lo para cá , sim ? 
+1155	This is our daughter . 	Esta é a nossa filha . 
+1156	How do you do ? 	Como está ? 
+1157	Lydia . 	Lydia . É o Sr . 
+1158	Are you Mr . 	Lydia . É o Sr . 
+1159	Vogel ? 	Vogel ? 
+1160	No , no , no ! 	Não , não , não ! 
+1161	I 'm not Vogel . 	Não sou o Vogel . 
+1162	I 'm cousin Drews . 	Sou o primo Drews . 
+1163	This is Rudolf 's beloved cousin Drews . 	É o primo Drews , que o Rudolf adora . 
+1164	Yes , cousin Drews . 	Pois , o primo Drews . 
+1165	I am cousin Drews . 	Sou o primo Drews . 
+1166	Cousin Drews , yes . 	O primo Drews , pois . 
+1167	I 'm Helen Abel . 	Eu sou a Helen Abel . 
+1168	When will you see him ? 	Quando é que vai vê- lo ? 
+1169	When will your government release him ? 	Quando é que o vosso governo vai libertá- lo ? 
+1170	I 'm a little , uh , lost here . 	Estou um pouco perdido . 
+1171	I 'm supposed to meet a Mr . 	Devia encontrar- me com o Sr . Vogel . 
+1172	Vogel . 	O Sr . 
+1173	Oh , Mr . 	Vogel é o nosso advogado . 
+1174	Vogel is our lawyer . 	Vogel é o nosso advogado . 
+1175	We were supposed to negotiate , uh , the exchange . 	Era suposto negociarmos a troca . 
+1176	To bring Rudolf here ? 	Para trazer o Rudolf para aqui ? 
+1177	Yes , yes , to bring him here . 	Sim , para trazê- lo para aqui . 
+1178	But it doesn 't happen unilaterally , do you understand ? 	Mas isso não acontece unilateralmente , percebem ? 
+1179	It has to be an exchange . 	Tem de ser uma troca . 
+1180	Not here ? 	Não está cá ? 
+1181	Shh . 	
+1182	Shh . 	
+1183	Shh . 	
+1184	Mr . 	Sr . 
+1185	Donovan ? 	Donovan ? 
+1186	Mr . 	Sr . 
+1187	Vogel . 	Vogel . 
+1188	No , no , no . 	Não , não . 
+1189	Goodness . 	Credo . 
+1190	My name is Schischkin . 	Chamo- me Schischkin . 
+1191	Ivan Schischkin . 	Ivan Schischkin . 
+1192	I 'm the second secretary of the Soviet embassy . 	Sou o segundo secretário da embaixada soviética . 
+1193	It wouldn 't be appropriate for Mr . 	Não seria adequado o Sr . 
+1194	Vogel to join us . 	Vogel juntar- se a nós . 
+1195	He is a German national . 	Ele é um cidadão alemão . 
+1196	So you aren 't here to ... 	Então , não está aqui para ... 
+1197	To facilitate this meeting . 	Propiciar este encontro . 
+1198	Uh , perhaps Mrs . 	Talvez a Sra . 
+1199	Abel would like to compose herself privately ? 	Abel queira recompor- se em privado ? 
+1200	And let Mr . 	Deixando que eu e o Sr . 
+1201	Donovan and myself to talk ? 	Donovan conversemos ? 
+1202	Thank you . 	Obrigado . 
+1203	So , I 'm confused . 	Estou baralhado . 
+1204	Yes . 	Sim . 
+1205	Uh , I don 't care who I talk to if it 's about an exchange of personnel . 	Não me interessa com quem falo , desde que seja sobre a troca de pessoal . É a pessoa com quem devo falar ? 
+1206	Are you the person to talk to ? 	Não me interessa com quem falo , desde que seja sobre a troca de pessoal . É a pessoa com quem devo falar ? 
+1207	Yes , yes , yes , of course . 	Sim , sim , claro . 
+1208	Uh , we should talk . 	Devemos falar . 
+1209	Please , have a seat , Mr . 	Por favor , sente- se , Sr . 
+1210	Donovan . 	Por favor , sente- se , Sr . 
+1211	Uh , how did you arrive to the Eastern sector ? 	Como é que chegou ao sector oriental ? 
+1212	The train . 	De comboio . 
+1213	The S- Bahn . 	O S- Bahn . 
+1214	Ah , and you were alone ? 	E estava sozinho ? 
+1215	Yeah . 	Sim . 
+1216	And you are credentialed ? 	E está devidamente acreditado ? 
+1217	Now , you must know about me , sir . 	Já deve saber quem sou , um cidadão comum . 
+1218	I 'm a private citizen . 	Já deve saber quem sou , um cidadão comum . 
+1219	I 'm a lawyer in Brooklyn in the United States , and I' ve taken time out of my busy schedule to help my client , Rudolf Abel . 	Sou advogado em Brooklyn , nos Estados Unidos , e usei tempo da minha ocupada agenda para ajudar o meu cliente Rudolf Abel . 
+1220	I 'm authorized to arrange an exchange of Abel for Francis Gary Powers . 	Estou autorizado a negociar a troca do Abel pelo Francis Gary Powers . 
+1221	This is a full pardon of Abel that will be signed when the exchange actually takes place . 	Isto é um perdão total do Abel , que será assinado quando a troca tiver lugar . 
+1222	This is the only reason I 'm here . 	Esta é a única razão para eu estar aqui . 
+1223	I hope and expect to make this arrangement quickly . 	Espero tratar deste acordo rapidamente . 
+1224	Abel for Francis Gary Powers and Frederic Pryor . 	O Abel pelo Francis Gary Powers ... e pelo Frederic Pryor . 
+1225	Mmm , we don 't have Pryor . 	Não temos o Pryor . 
+1226	No ? 	Não ? 
+1227	You don 't ? 	Não têm ? 
+1228	I' ve heard of Pryor , but he 's held by the German Democratic Republic , not by the Union of Soviet Socialist Republics . 	Já ouvi falar do Pryor , mas ele está detido pela República Democrática Alemã , não pela União das Repúblicas Socialistas Soviéticas . 
+1229	Well , I' ll tell you the first problem . 	Digo- lhe qual é o primeiro problema . 
+1230	The names of your countries are too long . 	Os nomes dos vossos paí ses são demasiados longos . 
+1231	Yes , yes . 	Pois , pois ... 
+1232	If we release Powers , it is only to promote a goodwill between our countries . 	Se libertarmos o Powers , será apenas para promover a boa vontade entre os nossos paí ses . 
+1233	So , it cannot be an exchange . 	Portanto , não pode ser uma troca . 
+1234	Perhaps ... 	Talvez vocês pudessem libertar o Abel como sí mbolo de boa vontade para com os nossos amigos alemães e depois , alguns meses mais tarde , nós libertarí amos o Powers . 
+1235	Perhaps you could release Abel as a token of goodwill to our friends in Germany , and then , some months later , we would release Powers . 	Talvez vocês pudessem libertar o Abel como sí mbolo de boa vontade para com os nossos amigos alemães e depois , alguns meses mais tarde , nós libertarí amos o Powers . 
+1236	There is an idea . 	Ora aí está uma ideia . 
+1237	No . 	Ora aí está uma ideia . 
+1238	That just won 't work for us at all . 	Não . Isso não resultará para nós . 
+1239	See , we need this to be an exchange . 	Precisamos que seja uma troca . 
+1240	You can call it what you want , but an exchange it must be . 	Podem chamar- lhe o que quiserem , mas tem de ser uma troca . 
+1241	We can have Abel here within 48 hours . 	Podemos pôr cá o Abel em 48 horas . 
+1242	We need Powers at the same time we give you Abel . 	Precisamos do Powers ao mesmo tempo que vos damos o Abel . 
+1243	Hmm . 	
+1244	This is ... 	Isso é ... 
+1245	Can we call this the " impatient plan " ? 	Podemos chamar a isso o " plano impaciente " ? 
+1246	Well , you can call it whatever you want . 	Pode chamar- lhe o que quiser . 
+1247	I can relay your impatient plan to Moscow , see what they say ... 	Posso transmitir o seu plano impaciente a Moscovo e ver o que dizem , mas não vão perceber tanta impaciência . É porque estou constipado . 
+1248	But they will wonder why so impatient . 	Posso transmitir o seu plano impaciente a Moscovo e ver o que dizem , mas não vão perceber tanta impaciência . É porque estou constipado . 
+1249	Because I have a cold . 	Posso transmitir o seu plano impaciente a Moscovo e ver o que dizem , mas não vão perceber tanta impaciência . É porque estou constipado . 
+1250	And I don 't live in Berlin and I want to go home . 	E não vivo em Berlim e quero ir para casa . 
+1251	They will think , 	Eles vão pensar : 
+1252	" Well , the Americans must have gotten 	" Os americanos já devem ter conseguido toda a informação que o Abel podia dar . 
+1253	" all the information that Abel had to give . 	" Os americanos já devem ter conseguido toda a informação que o Abel podia dar . 
+1254	" And now they 're impatient to trade him , 	" E agora estão impacientes para trocá- lo , 
+1255	" hoping to get in return this man , Powers , 	" esperando ficar com o Powers em troca , 
+1256	" that , perhaps , has not yet given up 	" pois talvez ele ainda não tenha dado todas as informações que tem para dar " . 
+1257	" all the information that he has to give . " 	" pois talvez ele ainda não tenha dado todas as informações que tem para dar " . 
+1258	This is not an equitable trade , sir . 	Isso não é uma troca equitativa . 
+1259	But what you 're saying is , if Powers has given up everything he knows , then Moscow would trade ? 	Mas está a dizer que , se o Powers já disse tudo o que sabe , então , Moscovo fará a troca ? 
+1260	Why wouldn 't they ? 	Por que não a fariam ? 
+1261	As for Abel , if he dies in an American prison , the next Russian operative who gets caught might think twice about keeping his mouth shut . 	Quanto ao Abel , se ele morrer numa prisão americana , o próximo operacional russo a ser apanhado talvez pense duas vezes quanto a ficar calado . 
+1262	And you never know . 	E nunca se sabe . 
+1263	Abel might want to see the sky again and decide to trade Russian secrets for small American favors . 	Talvez o Abel queira voltar a ver o céu e decida trocar segredos russos por pequenos favores americanos . 
+1264	How can we know this ? 	Como podemos ter a certeza ? 
+1265	We little men , we just do our jobs . 	Nós , homens pequenos , só fazemos o nosso trabalho . 
+1266	Like Lieutenant Powers . 	Como o Tenente Powers . É apenas um piloto . 
+1267	He 's just a pilot . 	Como o Tenente Powers . É apenas um piloto . 
+1268	He was making photographs from 70, 000 feet when he was shot from the sky . 	Ele estava a tirar fotografias a 21 . 000 metros quando foi abatido em voo . 
+1269	People in my country consider this an act of war . 	As pessoas no meu paí s consideram isso um ato de guerra . 
+1270	We have to get off this merry- go- round , sir . 	Temos de sair deste carrossel . 
+1271	The next mistake our countries make could be the last one . 	O próximo erro que os nossos paí ses fizerem pode ser o último . 
+1272	We need to have the conversation our governments can 't . 	Precisamos de ter a conversa que os nossos governos não podem ter . 
+1273	I will ask Moscow . 	Vou perguntar a Moscovo . 
+1274	Who knows what they will say . 	Quem sabe o que eles dirão . 
+1275	There are a lot of people , Mr . 	Há muita gente , Sr . 
+1276	Donovan , who doesn 't want this exchange to ever take place . 	Donovan , que não quer que esta troca ocorra . 
+1277	Can you come back tomorrow to discuss their answer ? 	Pode voltar amanhã , para discutir a resposta deles ? 
+1278	Powers for Abel . 	O Powers pelo Abel . 
+1279	And Frederic Pryor . 	E pelo Frederic Pryor . 
+1280	As I said , 	Como já disse , o Pryor está nas mãos dos órgãos da segurança de estado da República Democrática Alemã . 
+1281	Pryor is in the hands of the organs of 	Como já disse , o Pryor está nas mãos dos órgãos da segurança de estado da República Democrática Alemã . 
+1282	State Security of the German Democratic Republic . 	Como já disse , o Pryor está nas mãos dos órgãos da segurança de estado da República Democrática Alemã . 
+1283	I 'm confident you can make arrangements . 	Estou confiante de que pode tratar do assunto . 
+1284	I am merely a secretary in the embassy of foreign power . 	Sou apenas um secretário da embaixada de uma potência estrangeira . 
+1285	Okay , okay . 	Certo , certo ... 
+1286	You have to see Mr . 	Tem de falar com o Sr . 
+1287	Vogel . 	Vogel . 
+1288	I' ll give you his address . 	Dou- lhe a morada dele . 
+1289	There actually is a Mr . 	Existe mesmo um Sr . 
+1290	Vogel ? 	Vogel ? 
+1291	Why would you imagine otherwise ? 	Por que pensaria o contrário ? É uma curta viagem de táxi . 
+1292	Uh , it 's a short cab ride . 	Por que pensaria o contrário ? É uma curta viagem de táxi . 
+1293	And please , Mr . 	Por favor , Sr . 
+1294	Donovan , wear an overcoat in this weather . 	Donovan , use um sobretudo , com este tempo . 
+1295	I had mine stolen from me . 	Roubaram- me o meu . 
+1296	What do you expect ? 	Estava à espera de quê ? 
+1297	It was from Saks Fifth Avenue . 	Era da Saks Fifth Avenue . 
+1298	Wasn 't it ? 	Não era ? 
+1299	Mr . 	Sr . 
+1300	Donovan . 	Donovan . 
+1301	Mr . 	Sr . 
+1302	Vogel . 	Vogel . 
+1303	Please come in . 	Por favor , entre . 
+1304	Danke . 	
+1305	Sorry about the embassy . 	Desculpe não ter estado na embaixada . 
+1306	But the Soviets decided not to host me . 	Mas os soviéticos decidiram não me receber . 
+1307	Very irritating . 	Foi muito irritante . 
+1308	I am still trying to grasp each party 's ... 	Quanto aos dois paí ses , ainda estou a tentar perceber qual é ... 
+1309	Status ? 	A posição deles ? Sim . 
+1310	Yes . 	E qual o seu interesse neste processo . É um novo mundo . É tudo muito desconcertante , não é ? 
+1311	And interest in the proceedings . 	E qual o seu interesse neste processo . É um novo mundo . É tudo muito desconcertante , não é ? 
+1312	Oh . 	E qual o seu interesse neste processo . É um novo mundo . É tudo muito desconcertante , não é ? 
+1313	It 's a new world . 	
+1314	All very disorienting , isn 't it ? 	
+1315	Let me tell you what I have to offer . 	Deixe- me dizer- lhe o que tenho para oferecer . 
+1316	I 'm a good friend ... 	Sou um bom amigo ... 
+1317	" Friend . " 	" Amigo " ... 
+1318	No , he 's older . 	Não , ele é mais velho . 
+1319	" Protege " ? 	" Protegido " ? 
+1320	Of the attorney general of the German Democratic Republic . 	Do procurador- geral da República Democrática Alemã . 
+1321	Sit down , please . 	Sente- se , por favor . 
+1322	This unfortunate , 	Esse infeliz ... 
+1323	Frederic Pryor , he was in the wrong place at the wrong time . 	O Frederic Pryor . Estava no sí tio errado à hora errada . 
+1324	But every accident , properly viewed , is an opportunity , isn 't it , Mr . 	Mas qualquer acidente , visto do ângulo certo , é uma oportunidade , não é , Sr . Donovan ? 
+1325	Donovan ? 	
+1326	Well ... 	
+1327	Your country refuses to recognize the German Democratic Republic . 	O seu paí s recusa- se a reconhecer a República Democrática Alemã . 
+1328	They prefer to make up stories that the GDR doesn 't exist , for instance . 	Preferem inventar histórias de que a RDA não existe , por exemplo . 
+1329	Sorry . 	Desculpe . 
+1330	As a means of forcing your government 's recognition of this real place , sir , in which you find yourself , the GDR , the attorney general is happy to negotiate with you as a representative of your government for Mr . 	Como meio de forçar o seu governo a reconhecer este paí s real , onde o senhor se encontra , a RDA , o procurador- geral terá muito gosto em negociar consigo , enquanto representante do seu governo , a entrega do Sr . 
+1331	Pryor 's return . 	Como meio de forçar o seu governo a reconhecer este paí s real , onde o senhor se encontra , a RDA , o procurador- geral terá muito gosto em negociar consigo , enquanto representante do seu governo , a entrega do Sr . 
+1332	Mr . 	Pryor . Sr . 
+1333	Vogel , I 'm not here as a representative of my government . 	Vogel , não estou aqui como representante do meu governo . 
+1334	All right . 	Muito bem ... 
+1335	I think that 's childish , Mr . 	Acho que isso é uma infantilidade . 
+1336	Donovan . 	Acho que isso é uma infantilidade . 
+1337	Well , I ... 	Não tenho qualquer estatuto oficial . 
+1338	I have no official status . 	Não tenho qualquer estatuto oficial . 
+1339	Fine . 	Muito bem . 
+1340	You do not represent the USA , I do not represent the GDR . 	Não representa os EUA e eu não represento a RDA . 
+1341	My client is Lydia Abel , Rudolf 's wife . 	A minha cliente é Lydya Abel , mulher do Rudolf . 
+1342	And I have also ... 	E tenho também ... 
+1343	Lydia is the daughter . 	Lydia é a filha . 
+1344	Helen is the wife . 	A mulher é Helen . 
+1345	Well ... 	
+1346	I am prepared to offer 	Estou preparado para oferecer o Frederic Pryor em troca pelo Rudolf Abel . 
+1347	Frederic Pryor 's exchange for Rudolf Abel 's . 	Estou preparado para oferecer o Frederic Pryor em troca pelo Rudolf Abel . 
+1348	Then let 's be clear . 	Então , sejamos claro . 
+1349	We will produce Rudolf Abel . 	Nós apresentaremos o Rudolf Abel . 
+1350	You will produce , at the same time , the student , Pryor . 	Vocês apresentarão , ao mesmo tempo , o estudante Pryor . 
+1351	At the same time ? 	Ao mesmo tempo ? 
+1352	Absolutely . 	Com certeza . 
+1353	The exchange on offer is a Russian at the end of his life for an American student at the start of his . 	A troca proposta é de um russo no fim da vida por um estudante no iní cio da sua vida . 
+1354	Schischkin ? 	O Schischkin ? 
+1355	He 's not an embassy secretary . 	Ele não é secretário da embaixada . 
+1356	Ivan Schischkin is the KGB 's chief in western Europe . 	O Ivan Schischkin é o chefe do KGB na Europa Ocidental . 
+1357	Well , whatever he is , he 's relaying our proposal to Moscow and they 'll decide . 	Seja ele quem for , vai passar a nossa proposta a Moscovo e eles decidirão . 
+1358	Could I borrow a coat ? 	Empresta- me um casaco ? 
+1359	I lost mine . 	Perdi o meu . 
+1360	How did you lose your coat ? 	Como é que perdeu o seu casaco ? 
+1361	You know , spy stuff . 	Bem , coisas de espiões . 
+1362	I' ll get you another coat . 	Eu arranjo- lhe outro casaco . Óptimo , porque ... 
+1363	Good , because ... 	Eu arranjo- lhe outro casaco . Óptimo , porque ... 
+1364	So who is , uh ... 	Então , quem é este Vogel ? 
+1365	Who is this Vogel ? 	Então , quem é este Vogel ? 
+1366	Him , we don 't know . 	Esse não conhecemos . 
+1367	He might be what you said he said he is . 	Pode ser o que disse que ele disse que era . 
+1368	Friend of the attorney general . 	Amigo do procurador- geral . 
+1369	Just some guy the GDR tapped to handle this . 	Um tipo qualquer a quem a RDA pediu para tratar disto . 
+1370	Sounds like the East Germans are fighting for a place at our table . 	Parece que os alemães de leste estão a lutar por um lugar à nossa mesa . 
+1371	The GDR gets Abel back for the Russians , winning their respect ... 	A RDA resgata o Abel para os russos , ganhando o respeito deles e conseguindo cabeçalhos para a sua causa . 
+1372	And capturing the headlines for their cause . 	A RDA resgata o Abel para os russos , ganhando o respeito deles e conseguindo cabeçalhos para a sua causa . 
+1373	Which , of course , puts East Germany on the map . 	O que , claro , põe a Alemanha de Leste no mapa . 
+1374	But we don 't care about their map . 	Mas o mapa deles não nos interessa . 
+1375	Stick with the Russians . 	Fique- se pelos russos . 
+1376	Stick with the Russians . 	Fique- se pelos russos . 
+1377	It 's Powers for Abel . 	A troca é do Powers pelo Abel . 
+1378	So , does all this mean this might actually happen ? 	Então , quer dizer que isso pode mesmo acontecer ? 
+1379	Yeah , that 's what you seem to be telling me . 	Sim , é que parece estar a dizer- me . 
+1380	We 'll put Abel on a plane , he 'll be here Friday . 	Metemos o Abel num avião e ele estará cá na sexta- feira . 
+1381	So , if Schischkin gets the okay , all that 's left is the mechanics of the trade . 	Se o Schischkin receber autorização , só faltará afinar os detalhes da troca . 
+1382	How we swap our guy for their guy . 	Como trocamos o nosso homem pelo homem deles ? 
+1383	Our " guys . " Two guys . 	Os nossos " homens " . 
+1384	Powers and Pryor . 	Dois homens . O Powers e o Pryor . 
+1385	No , now don 't go bleeding heart on me . 	Não me venha com pieguices . 
+1386	Powers is the whole ball game . 	O Powers é que conta . 
+1387	Forget this Ivy League boy , who obviously thought it was a good idea to study Soviet economics in Berlin in the middle of the Cold War . 	Esqueça esse menino das universidades finas que achou boa ideia estudar economia soviética em Berlim em plena Guerra Fria . É do Powers que precisamos . 
+1388	Powers is who we need . 	Esqueça esse menino das universidades finas que achou boa ideia estudar economia soviética em Berlim em plena Guerra Fria . É do Powers que precisamos . 
+1389	You don 't even like Powers . 	Você nem sequer gosta do Powers . 
+1390	Everybody hates Powers . 	Toda a gente odeia o Powers . 
+1391	He didn 't kill himself and he let the commies parade him on television . 	Não se matou e deixou que os comunas o exibissem na televisão . É o homem mais odiado da América . 
+1392	He 's the most hated man in America . 	Não se matou e deixou que os comunas o exibissem na televisão . É o homem mais odiado da América . 
+1393	After Rudolf Abel , maybe . 	A seguir ao Rudolf Abel , talvez . 
+1394	And me . 	E a mim . 
+1395	Now wake up ! 	Acorde já ! 
+1396	I gotta sleep . 	Preciso de dormir . 
+1397	I just gotta sleep . 	Preciso mesmo de dormir . 
+1398	I told you , you can sleep once we talk what we need to talk . 	Já lhe disse que pode dormir depois de falarmos daquilo que precisamos . 
+1399	You must focus on me . 	Tem de se concentrar em mim . 
+1400	Your government doesn 't care about you . 	O seu governo não quer saber de si . 
+1401	You know that . 	Sabe isso . 
+1402	Any of you . 	De nenhum de vocês . 
+1403	You know that twelve U- 2 pilots incurred brain damage ? 	Sabe que dois pilotos de U- 2 sofreram danos cerebrais ? 
+1404	They 're vegetables because of altitude , insufficient oxygen . 	Tornaram- se vegetais por causa da altitude , oxigénio insuficiente . 
+1405	But they keep you flying , Gary . 	Mas mantêm- vos a voar , Gary . 
+1406	You and your friends . 	A si e aos seus amigos . 
+1407	They gave you this . 	Deram- lhe isto . 
+1408	A scratcher , yes ? 	Para arranhar , sim ? 
+1409	Potassium cyanide . 	Cianeto de potássio . 
+1410	Does that look like they care about you ? 	Parece- lhe que se preocupam consigo ? 
+1411	What is the construction of the destructor unit ? 	Como funciona a unidade de destruição ? 
+1412	By what means is this unit operated ? 	De que forma é operada essa unidade ? 
+1413	With what explosives is the unit charged , and what destruction is it capable of ? 	Com que explosivos é carregada e de que tipo de destruição é capaz ? 
+1414	I don 't know . 	Não sei . 
+1415	The pilots were never shown any of the equipment . 	Nunca mostraram qualquer equipamento aos pilotos . 
+1416	How wide far can the radar map an area during an overflight ? 	Que extensão é que o radar consegue mapear durante um voo ? 
+1417	I don 't know , I don 't know ! 	Não sei . Não sei ! 
+1418	Were you making the overflight on April 9th over the industrial area and MiG bomber base at Baranovichi ? 	A 9 de Abril sobrevoou a zona industrial e a base de bombardeiros MiG em Baranovichi ? 
+1419	I was not . 	Não . 
+1420	This was my first overflight . 	Este foi o meu primeiro sobrevoo . 
+1421	I need to know about engine- out to glide ratio . 	Quero saber qual é o ângulo de planagem com o motor desligado . 
+1422	How the plane gets so high . 	Como é que o avião sobe tanto . 
+1423	We know it reaches altitude of 70, 000 feet . 	Sabemos que atinge uma altitude de 21 . 000 metros . 
+1424	Gary , we know this . 	Gary , sabemos isso . 
+1425	And I need to know where the planes have flown . 	E preciso de saber onde é que os aviões voaram . 
+1426	Where they have flown , Gary . 	Onde voaram , Gary . 
+1427	And we must have this talk now . 	E precisamos de ter esta conversa agora . 
+1428	Now . 	Agora . 
+1429	And then you can sleep a little . 	E depois pode dormir um pouco . 
+1430	Sir , wake up . 	Senhor , acorde . 
+1431	Wake up , sir . 	Acorde . 
+1432	Sir , can you come with me , please ? 	Pode vir comigo , por favor ? Sim . 
+1433	Yeah . 	- Temos de ir . 
+1434	We gotta move . 	- Temos de ir . 
+1435	Yeah , of course . 	- Sim , claro . 
+1436	Can you come with me , please ? 	- Pode vir comigo , por favor ? 
+1437	Yeah . 	- Pode vir comigo , por favor ? 
+1438	Okay . 	- Sim . Muito bem . 
+1439	Got your glasses ? 	Tem os seus óculos ? 
+1440	Uh- huh . 	Que horas são ? É tarde , mas temos de conversar e depois temos de apanhar um avião , certo ? 
+1441	What time is it ? 	Que horas são ? É tarde , mas temos de conversar e depois temos de apanhar um avião , certo ? 
+1442	It 's late , but we need to talk , and then we need to get on a plane , okay ? 	Que horas são ? É tarde , mas temos de conversar e depois temos de apanhar um avião , certo ? 
+1443	Yeah . 	Sim . 
+1444	Yep . 	Pois . 
+1445	Upsy- daisy ! 	Toca a levantar . 
+1446	Upsy- daisy . 	- Toca a levantar . 
+1447	That 's right . 	- Isso mesmo . 
+1448	There we go . 	Isso mesmo . 
+1449	Keep it moving . 	Continue . 
+1450	Thank you . 	Obrigado . 
+1451	Other way , other way . 	Para o outro lado . 
+1452	There we go . 	Isso mesmo . 
+1453	You say a plane ? 	Falou num avião ? 
+1454	This way , please . 	Por aqui , por favor . 
+1455	Keep moving . 	Continue . 
+1456	So , I received a favorable decision from Moscow on your proposal that we help our friends in the German Democratic Republic by exchanging 	Então , recebi uma decisão favorável de Moscovo quanto à sua proposta de ajudarmos os nossos amigos da República Democrática Alemã , trocando o Sr . 
+1457	Mr . 	Powers pelo Sr . 
+1458	Powers for Mr . 	Powers pelo Sr . 
+1459	Abel . 	Abel . 
+1460	That 's swell . 	Isso é bestial . 
+1461	May I suggest the Glienicke Bridge as a place of a swap ? 	Posso sugerir a Ponte Glienicke como lugar da troca ? 
+1462	Why not Checkpoint Charlie ? 	Por que não o Checkpoint Charlie ? 
+1463	We 're not looking for publicity . 	Não procuramos publicidade . 
+1464	The Glienicke Bridge is very quiet , especially early in the morning . 	A Ponte Glienicke é muito sossegada , especialmente de manhã cedo . 
+1465	Glienicke Bridge . 	Ponte Glienicke . 
+1466	I' ll run that by our side . 	Vou consultar o nosso lado . 
+1467	We can have Abel here on Friday . 	Podemos ter cá o Abel na sexta- feira . 
+1468	So , Saturday morning ? 	Sábado de manhã , então ? 
+1469	Always impatience , yeah ? 	Sempre a impaciência , não é ? 
+1470	I want to get home and get into bed . 	Quero ir para casa e meter- me na cama . 
+1471	So , Saturday morning ? 	Sábado de manhã , então ? Às 5 : 30 ? 
+1472	5 : 30 ? 	Sábado de manhã , então ? Às 5 : 30 ? 
+1473	All right . 	Muito bem . 
+1474	We 're done here . 	Estamos conversados . 
+1475	This is a number , in case anything should come up . 	Isto é um número , caso surja alguma coisa . 
+1476	All right . 	Certo . 
+1477	Someone will answer at any hour . 	Alguém atenderá a qualquer hora . 
+1478	I don 't expect to use it . 	Não conto usá- lo . 
+1479	Shall we toast the arrangement ? 	Brindamos ao acordo ? 
+1480	Why not ? 	Por que não ? 
+1481	Armenian brandy . 	Brandy arménio . 
+1482	Good bracer for your cold . 	Um bom tónico para a sua constipação . 
+1483	Thank you . 	Obrigado . 
+1484	Would you mind ... 	Importa- se ... ? 
+1485	This is not part of our business but I 'd like to ask you a couple of questions . 	Isto não tem que ver com o nosso acordo , mas gostaria de lhe fazer umas perguntas . 
+1486	You do not have to answer . 	Não tem de responder . 
+1487	I shall answer what I know . 	Responderei ao que souber . 
+1488	I like this guy , your guy . 	Simpatizo com o vosso homem . 
+1489	What happens to your guy when he gets home ? 	O que vai acontecer- lhe quando voltar a casa ? 
+1490	Well , we have to make a determination whether our guy is now your guy . 	Temos de avaliar se o nosso homem não será agora o vosso homem . 
+1491	Now , as I said to you before , he 's acted honorably . 	Como já lhe disse , ele agiu de forma honrada . 
+1492	He 's still your guy , believe me . 	Ainda é o vosso homem , acredite . É claro que me diria isso caso fosse verdade ou caso não fosse verdade . 
+1493	Of course you will say that if it were true and if it were not true . 	Ainda é o vosso homem , acredite . É claro que me diria isso caso fosse verdade ou caso não fosse verdade . 
+1494	I guess it has come down to that , huh ? 	Parece que se resume a isso . 
+1495	Well , forgive me for pushing , but is he in any danger if the determination is made ? 	Desculpe a insistência , mas ele corre algum perigo , dependendo da avaliação ? 
+1496	Well , goodness . 	Bem , enfim ... 
+1497	As things are now , everyone is in danger . 	Como as coisas estão agora , toda a gente corre perigo . 
+1498	Cheers . 	Saúde . 
+1499	Na zdorovie . 	
+1500	There will be no exchange on Glienicke Bridge . 	Não haverá troca nenhuma na Ponte Glienicke . 
+1501	Excuse me , sir . 	Desculpe ? 
+1502	There will be no exchange . 	Não haverá troca nenhuma . 
+1503	Not for Frederic Pryor . 	Não pelo Frederic Pryor . Sr . 
+1504	Mr . 	Vogel , pensava que ontem tí nhamos chegado a um acordo . 
+1505	Vogel , I thought yesterday we had agreed . 	Vogel , pensava que ontem tí nhamos chegado a um acordo . 
+1506	We agreed on an exchange , Abel for Pryor . 	Acordámos uma troca , o Abel pelo Pryor . 
+1507	Now I learn you are a rug merchant selling the same rug to two customers . 	Agora , soube que é um negociante de tapetes que vende o mesmo tapete a dois clientes . 
+1508	Abel for Pryor you sell to us . 	Vendeu- nos o Abel pelo Pryor . 
+1509	Yeah . 	Sim . 
+1510	And Abel for Powers you sell to the Soviets . 	E vendeu o Abel pelo Powers aos soviéticos . 
+1511	I 'm not quite sure what the problem is if the arrangement satisfies two parties or three or four . 	Não percebo bem qual é o problema , se o acordo satisfizer as duas , três ou quatro partes . 
+1512	What difference does it make ? 	Que diferença faz ? 
+1513	The arrangement does not satisfy this party . 	O acordo não satisfaz esta parte . 
+1514	Now , Mr . 	Sr . 
+1515	Vogel , please ... 	Vogel ... É óbvio que não sabe com quem está a lidar . 
+1516	Obviously you do not know who you are dealing with . 	Vogel ... É óbvio que não sabe com quem está a lidar . 
+1517	Here 's the interest of the German Democratic Republic . 	Eis o interesse da República Democrática Alemã : negociar e ser vista a negociar com outra potência soberana , os Estados Unidos . 
+1518	To deal with , and to be seen to be dealing with another sovereign power , the United States . 	Eis o interesse da República Democrática Alemã : negociar e ser vista a negociar com outra potência soberana , os Estados Unidos . 
+1519	An equal power . 	Uma potência igual . 
+1520	Instead you treat us as stooges for the Union of Soviet Socialist Republics . 	Mas tratam- nos como marionetas da União das Repúblicas Socialistas Soviéticas . 
+1521	Can we just call them the Russians ? 	Não podemos chamar- lhes apenas russos ? 
+1522	It 'll save time . 	Pouparemos tempo . 
+1523	I have an appointment , sir . 	Tenho um compromisso . 
+1524	I think it 's you who are wasting time . 	Acho que é o senhor quem está a perder tempo . 
+1525	Now , tell me if I am describing this wrong . 	Diga- me se estou a descrever isto mal . 
+1526	You have a kid , a university student , someone you know is not a spy , who 's no threat to you . 	Vocês têm um miúdo , um universitário , que sabem que não é um espião nem uma ameaça . 
+1527	And in exchange for this person who is worthless to you , you play an equal part in an exchange between the Russians and the Americans . 	Em troca dessa pessoa que não vos serve de nada , têm um papel de iguais numa troca entre os russos e os americanos . É uma única transacção entre nós e os vossos dois paí ses . 
+1528	And this is one transaction between us and the two of you . 	Em troca dessa pessoa que não vos serve de nada , têm um papel de iguais numa troca entre os russos e os americanos . É uma única transacção entre nós e os vossos dois paí ses . 
+1529	We 're not trying to do two things here , sir . 	Não estamos a tentar fazer duas coisas . 
+1530	We 're just doing one thing . 	Fazemos só uma . 
+1531	One , one , one . 	Uma , uma , uma . 
+1532	It 's hard for me to see how the Republic of East German Democrats is being slighted . 	Custa- me perceber como é que a República dos Democratas da Alemanha Oriental está a ser desrespeitada . 
+1533	You agreed with the Soviets without consulting me . 	Fez um acordo com os soviéticos sem me consultar . 
+1534	Is this a negotiation or a conspiracy ? 	Isto é uma negociação ou uma conspiração ? 
+1535	For it to be a conspiracy , there would have to be harm to you , sir . 	Para ser uma conspiração , os senhores teriam de ser prejudicados . 
+1536	There 's just benefits here . 	Aqui , só há benefí cios . 
+1537	We 're of agreeing interests . 	Temos interesses convergentes . 
+1538	No , you decide they agree . 	Não , o senhor é que decidiu que eles convergem . 
+1539	Where is your appointment , sir ? 	Onde é o seu encontro ? 
+1540	In the West . 	Na zona ocidental . 
+1541	Ku' damm . 	Ku' damm . Óptimo . 
+1542	Good . 	Ku' damm . Óptimo . 
+1543	Look around you . 	Olhe à sua volta . 
+1544	How does the Eastern sector compare with the West ? 	Como está o sector oriental , comparado com o ocidental ? 
+1545	Hmm ? 	
+1546	Our Russian friends have decided that we should not rebuild our capital city . 	Os nossos amigos russos decidiram que não deví amos reconstruir a nossa capital . 
+1547	But we live in this ruin made by our Russian friends . 	Mas vivemos nesta ruí na criada pelos nossos amigos russos . 
+1548	Go ahead , make your deal with these Russians . 	Avance , faça o seu acordo com os russos . 
+1549	We won 't be part of it . 	Nós não participaremos nele . 
+1550	There is no deal without Pryor . 	Não há acordo sem o Pryor . 
+1551	We are not leaving him here . 	Não vamos deixá- lo aqui . 
+1552	Is this your position or your government 's ? 	Essa é a sua posição ou a do seu governo ? 
+1553	Sir , I 'm here . 	Eu estou aqui . 
+1554	I 'm talking to you . 	Estou a falar consigo . 
+1555	But you are not a representative of your government . 	Mas não é um representante do seu governo . 
+1556	You don 't know who you are . 	Não sabe quem é . E nós também não . 
+1557	Neither do we . 	Deve ter cuidado . 
+1558	You should be careful . 	Deve ter cuidado . 
+1559	This is not Brooklyn , Mr . 	Isto não é Brooklyn , Sr . 
+1560	Donovan . 	Isto não é Brooklyn , Sr . 
+1561	Look , sir . 	Escute , tem de saber que , em tudo o que conta , eu represento o meu governo . 
+1562	You must know that in every respect that matters , 	Escute , tem de saber que , em tudo o que conta , eu represento o meu governo . 
+1563	I represent my government . 	Escute , tem de saber que , em tudo o que conta , eu represento o meu governo . 
+1564	You know who I am . 	Sabe quem eu sou . 
+1565	Do I ? 	Sei ? 
+1566	Uh- oh . 	
+1567	Do you have the proper papers ? 	Tem os documentos adequados ? 
+1568	Of course not . 	Claro que não . 
+1569	It doesn 't matter . 	Não faz mal . 
+1570	An American lawyer like you can talk your way out of anything . 	Um advogado americano como você safa- se sempre com conversa . 
+1571	Can 't you ? 	Não é ? 
+1572	You go with him . 	Vá com ele . 
+1573	Why ? 	Porquê ? É um problema com o passaporte . 
+1574	It 's passport problem . 	Porquê ? É um problema com o passaporte . 
+1575	What ... 	Porquê ? É um problema com o passaporte . 
+1576	What problem ? 	Qual problema ? 
+1577	What 's the problem ? 	Qual é o problema ? 
+1578	You go with him . 	Vá com ele . 
+1579	And remember , we control the fate of Frederic Pryor . 	E lembre- se que nós controlamos o destino do Frederic Pryor . 
+1580	My God ! 	Meu Deus ! 
+1581	Yeah , I' ll start with some coffee , please . 	Vou começar por um café , por favor . 
+1582	Then I' ll have the Hilton combo and the American breakfast . 	Depois , quero o combinado Hilton e o pequeno- almoço americano . 
+1583	And coffee . 	Depois , quero o combinado Hilton e o pequeno- almoço americano . 
+1584	Both breakfasts ? 	E café . Ambos os pequenos- almoços ? 
+1585	Yeah , yeah . 	Sim , sim . 
+1586	One first or ... 	Um primeiro ou ... 
+1587	Both first , both . 	Os dois primeiro . 
+1588	Whenever they 're ready . 	Assim que estiverem prontos . 
+1589	And coffee . 	E café . 
+1590	Hmm . 	
+1591	You shouldn 't be here . 	Não devia estar aqui . Às vezes , na Alemanha , apetece- nos um grande pequeno- almoço americano . 
+1592	Well , sometimes in Germany , you just want a big American breakfast . 	Não devia estar aqui . Às vezes , na Alemanha , apetece- nos um grande pequeno- almoço americano . 
+1593	What happened ? 	O que aconteceu ? 
+1594	Where were you last night ? 	Onde esteve ontem à noite ? 
+1595	Vogel arranged for me to spend some time in the East . 	O Vogel conseguiu que eu passasse algum tempo no leste . 
+1596	Oh , Jesus . 	Céus ... 
+1597	Frankly , it 's not that much worse than where you have me here in the West . 	Não é muito pior do que o sí tio que me arranjaram aqui no sector ocidental . 
+1598	So the Russians are fine with the exchange , but now Vogel is saying that the East Germans won 't do it . 	Os russos estão de acordo com a troca , mas agora o Vogel diz que os alemães de leste não a farão . 
+1599	We 're not gonna get Pryor . 	Não nos darão o Pryor . Óptimo , muito bem . 
+1600	Great , good . 	Não nos darão o Pryor . Óptimo , muito bem . 
+1601	So the Soviets are set . 	Os soviéticos estão de acordo , entregam- nos o Powers . 
+1602	We get Powers . 	Os soviéticos estão de acordo , entregam- nos o Powers . 
+1603	We get Powers . 	Entregam- nos o Powers . 
+1604	Well done . 	Bom trabalho . 
+1605	No , the East Germans won 't do it . 	Não , os alemães de leste não aceitam . 
+1606	We won 't get Pryor , and that kid matters . 	Não entregam o Pryor . 
+1607	Every person matters . 	E o miúdo conta . Cada pessoa conta . 
+1608	Sure , that 's why you tried . 	Claro , foi por isso que tentou . 
+1609	That 's why you tried . 	Foi por isso que tentou . 
+1610	Abel 's on his way , so we 're all set for tomorrow morning . 	O Abel está a caminho , podemos avançar amanhã de manhã . 
+1611	Wait a minute . 	- Espere lá ... 
+1612	Makes things simple . 	- Simplifica as coisas . 
+1613	Makes things simple . 	- Simplifica as coisas . 
+1614	We are not getting the kid . 	Não vão entregar- nos o miúdo . 
+1615	Yeah , I understand . 	Sim , eu percebo . 
+1616	We 're set . 	Estamos combinados . 
+1617	We can ignore the message we got this morning . 	Podemos ignorar a mensagem que recebemos esta manhã . 
+1618	What message ? 	Qual mensagem ? 
+1619	From the East Germans . 	Dos alemães de leste . 
+1620	They called the number I gave you . 	Ligaram para o número que lhe dei . 
+1621	They said they wanted to speak to you today . 	Disseram que queriam falar consigo hoje . 
+1622	Vogel called ? 	O Vogel ligou ? 
+1623	No , um ... 	Não . 
+1624	Office of , uh , Harald Ott , 	Foi do gabinete de Harald Ott , o procurador- geral da Alemanha de Leste . 
+1625	East German attorney general . 	Foi do gabinete de Harald Ott , o procurador- geral da Alemanha de Leste . 
+1626	Wanting what ? 	O que é que ele quer ? 
+1627	What does he want ? 	O que é que ele quer ? 
+1628	Well , to talk to you . 	Falar consigo . 
+1629	But it 's okay , I can 't ask you to go back there . 	Mas não faz mal , não posso pedir- lhe para voltar lá . 
+1630	And listen , you seem to be persona non grata to some elements , so we won 't push our luck . 	Ouça , parece que já é persona non grata para alguns elementos , por isso , não abusemos da nossa sorte . 
+1631	So he wants to see me . 	Então , ele quer encontrar- se comigo . 
+1632	What time ? 	A que horas ? 
+1633	Oh , no , no . 	Não , não . 
+1634	Now , listen . 	Escute ... 
+1635	You don 't need to go . 	Não precisa de ir . 
+1636	In fact , you shouldn 't go . 	Na verdade , não devia ir . 
+1637	In fact , you can 't go . 	Na verdade , não pode ir . 
+1638	We 're set with the Soviets . 	Estamos combinados com os soviéticos . 
+1639	We don 't want to screw it up . 	Não queremos lixar isso . 
+1640	I 'm not gonna screw it up . 	Não vou lixar nada . 
+1641	You 're not going ! 	Não vai até lá ! 
+1642	Don 't be a pain in the ass . 	Não seja chato . 
+1643	Oh , I ordered . 	Fui eu que pedi . 
+1644	Enjoy your big American breakfast . 	Saboreie o seu grande pequeno- almoço americano . 
+1645	I thought it should be negotiated at the highest level as a courtesy to you . 	Achei que a negociação devia ser feita ao mais alto ní vel , por respeito a si . 
+1646	I thank you , sir . 	Obrigado . 
+1647	I don 't know how things became so confused . 	Não sei como as coisas se tornaram tão confusas . 
+1648	Well , I guess sometimes they just do . 	Por vezes , acontece . 
+1649	For sake of clarity , 	Para que fique claro , estamos totalmente dispostos a trocar o alegado estudante Pryor por Rudolf Abel . 
+1650	I say we are fully prepared to exchange the so- called student , Pryor , for Rudolf Abel . 	Para que fique claro , estamos totalmente dispostos a trocar o alegado estudante Pryor por Rudolf Abel . 
+1651	I understand from Mr . 	Soube pelo Sr . 
+1652	Vogel that Pryor is very important to you . 	Vogel que o Pryor é muito importante para vocês . 
+1653	Yes , but ... 	Sim , mas ... 
+1654	Ah , we 'll do a memorandum to that effect . 	Elaboraremos um memorando para esse efeito . 
+1655	Oh , a memorandum . 	Um memorando ... 
+1656	Certainly , we commit to a bi- lateral exchange . 	Obviamente , comprometemo- nos com uma troca bilateral . 
+1657	Yes , yes , sure . 	Sim , claro . 
+1658	I 'm not sure what that means but ... 	Não sei bem o que isso significa , mas ... 
+1659	My country also insists on Francis Gary Powers . 	O meu paí s também insiste no Francis Gary Powers . 
+1660	No ! 	Não ! 
+1661	This is how things became so confused . 	Foi assim que as coisas se tornaram tão confusas . 
+1662	Powers . 	De que vos serve o Powers ? 
+1663	What use is he , sir ? 	De que vos serve o Powers ? 
+1664	You want him back for punitive reasons ? 	Querem- no de volta por razões punitivas ? 
+1665	What 's done is done . 	O que está feito está feito . 
+1666	He has divulged what he will divulge , as no doubt Abel has also . 	Ele já divulgou o que tinha para divulgar , como sem dúvida o Abel também . 
+1667	We are offering instead someone who you insist is innocent . 	Em vez disso , oferecemos alguém que insistem que é inocente . 
+1668	And this is right . 	E isso é correcto . É ele que devem resgatar . 
+1669	This is who you should retrieve . 	E isso é correcto . É ele que devem resgatar . 
+1670	The future . 	O futuro . 
+1671	Look to the future . 	Olhe para o futuro . 
+1672	Ott . 	Ott . 
+1673	Ott . 	Ott . 
+1674	I 'm sorry . 	Desculpe . 
+1675	If you could give me a moment , sir . 	Se puder dar- me licença por um instante ... 
+1676	I 'm very sorry , sir . 	Sinto muito , o procurador- geral lamenta , mas teve de sair devido a um assunto urgente . 
+1677	The attorney general regrets that he had to leave on urgent business . 	Sinto muito , o procurador- geral lamenta , mas teve de sair devido a um assunto urgente . 
+1678	He left ? 	Ele saiu ? 
+1679	Yes . 	Sim . 
+1680	Many apologies . 	Peço muita desculpa . 
+1681	I' ve been waiting for over an hour . 	Estou à espera há mais de uma hora . 
+1682	Very sorry , sir . 	Sinto muito . 
+1683	Young man . 	Jovem ... 
+1684	Come here . 	Venha cá . 
+1685	It 's all right . 	Está tudo bem . 
+1686	Come here . 	Venha cá . 
+1687	Uh ... 	
+1688	Take a seat . 	Sente- se . 
+1689	Oh , come on , come on . 	Vá lá , vá lá . 
+1690	Sit down . 	Sente- se . 
+1691	Do you like your job here ? 	Gosta do seu trabalho aqui ? É um trabalho muito bom . 
+1692	It 's a very good job , sir . 	Gosta do seu trabalho aqui ? É um trabalho muito bom . 
+1693	It must be . 	Deve ser . 
+1694	Must be interesting . 	Deve ser interessante . 
+1695	Oh , yes , sir . 	Sim . 
+1696	And important , too . 	E importante , também . 
+1697	And your English is ... 	E o seu inglês é bom . 
+1698	Is good . 	E o seu inglês é bom . 
+1699	Yes , I hesitate to say it 's excellent . 	Sim , hesito em dizer que é excelente , mas é excelente . Óptimo , óptimo . 
+1700	But it 's excellent , sir . 	Sim , hesito em dizer que é excelente , mas é excelente . Óptimo , óptimo . 
+1701	Good , good . 	Sim , hesito em dizer que é excelente , mas é excelente . Óptimo , óptimo . 
+1702	Good . 	Sabe , acabei de perder o meu parceiro de negociações e preciso de alguém com quem falar e parece- me um jovem sensato . 
+1703	See , I just lost my negotiating partner , and I need somebody to talk to , and you seem like a reasonable young man . 	Sabe , acabei de perder o meu parceiro de negociações e preciso de alguém com quem falar e parece- me um jovem sensato . 
+1704	Can I talk to you ? 	Posso falar consigo ? 
+1705	Uh ... 	
+1706	It 's all right . 	Não há problema . 
+1707	It 's all right . 	Não há problema . 
+1708	I just ... 	Não há problema . 
+1709	I just need you to give a message to your boss . 	Só preciso que passe uma mensagem ao seu chefe . 
+1710	But it has to be very , very , very clear . 	Mas tem de ser muito , muito clara . 
+1711	You understand ? 	Percebe ? 
+1712	Yes , sir . 	Sim . 
+1713	But perhaps you should wait until he ... 	Mas talvez deva esperar até ele ... 
+1714	No , no . 	Não . 
+1715	The thing is , I have this cold and I wanna get home and get in bed . 	Acontece que estou constipado e quero ir para casa meter- me na cama . 
+1716	Can you give him the message ? 	Pode passar- lhe uma mensagem ? 
+1717	Certainly . 	Certamente . 
+1718	Well , this is the message . 	A mensagem é esta : 
+1719	" There is no deal for Abel unless we get Powers and Pryor . " 	" Não há acordo pelo Abel , a menos que entreguem o Powers e o Pryor . " 
+1720	Do you understand ? 	Percebeu ? 
+1721	Yes , sir . 	Sim . 
+1722	It 's arranged for tomorrow morning . 	Está marcado para amanhã de manhã . 
+1723	It will not happen unless we get two men . 	Mas só se entregarem dois homens . 
+1724	Those two men . 	Esses dois homens . 
+1725	Two , two , two . 	- Dois , dois , dois . 
+1726	Yes , sir . 	- Dois , dois , dois . 
+1727	If there is no deal , your boss must tell the Soviets . 	- Certo . Se não houver acordo , o seu chefe tem de o dizer aos soviéticos . 
+1728	He has to tell the Soviets that they are not getting Rudolf Abel . 	Tem de dizer aos soviéticos que não vão receber o Rudolf Abel . 
+1729	Yes , sir . 	Certo . 
+1730	Oh , and tell him this . 	E diga- lhe mais isto ... 
+1731	That so far , Abel has been a good soldier , but he thinks he 's going home . 	Até agora , o Abel tem sido leal , mas ele pensa que vai para casa . 
+1732	If we had to tell him that he 's not going home , that the Soviets don 't even want him , that he 's never going home ... 	Se tivermos de lhe dizer que não vai para casa , que os soviéticos nem o querem , que nunca irá para casa , calculo que o comportamento dele possa mudar . 
+1733	Well , I imagine his behavior might change . 	Se tivermos de lhe dizer que não vai para casa , que os soviéticos nem o querem , que nunca irá para casa , calculo que o comportamento dele possa mudar . 
+1734	And who will be held responsible for that ? 	E quem será responsabilizado por isso ? 
+1735	That 's a long message . 	É uma mensagem longa . 
+1736	Uh , did you get it all ? 	Apanhou tudo ? 
+1737	Yes , sir . 	Sim , apanhei . Óptimo . 
+1738	Got it . 	Sim , apanhei . Óptimo . 
+1739	Good . 	Sim , apanhei . Óptimo . 
+1740	You 're a good man . 	Você é um bom homem . 
+1741	Oh ... 	
+1742	And also tell him there 's no deal unless we hear before the end of business today . 	E diga- lhe também que não há acordo se não tivermos notí cias hoje , até ao fim do horário de expediente . 
+1743	He has the number . 	Ele tem o número . 
+1744	If the exchange isn 't gonna happen , no reason for everybody to get up first thing in the morning . 	Se não houver troca , não haverá razão para toda a gente se levantar de manhã cedo . 
+1745	No , sir , that would be pointless . 	Pois , seria inútil . 
+1746	You 're kidding me ! 	Está a brincar comigo ! 
+1747	You 're kidding me ! 	Está a brincar comigo ! 
+1748	Not really . 	Nem por isso . 
+1749	I need some change . 	Preciso de trocos . 
+1750	This is exactly what you weren 't supposed to do . 	Era exactamente isso que não devia fazer . 
+1751	My instructions were to feel out the situation . 	As minhas instruções eram para avaliar a situação . 
+1752	Your instructions were to get Powers , not Pryor . 	As suas instruções eram para conseguir o Powers , não o Pryor . 
+1753	That was not the original deal . 	A ideia original não era essa . 
+1754	You fouled it all up ! 	Fez asneira ! 
+1755	How do you know ? 	Como é que sabe ? 
+1756	I feel pretty good about it . 	Até me sinto bem com o que fiz . 
+1757	You fucked it all up ! 	Só fez merda ! 
+1758	Oh , don 't worry . 	Não se preocupe . 
+1759	I think it 's gonna be fine . 	Acho que vai correr tudo bem . 
+1760	How do you know ? 	Como é que sabe ? 
+1761	You don 't know that . 	Como é que sabe ? 
+1762	United States . 	Estados Unidos , Nova Iorque . 
+1763	New York , New York . 	Estados Unidos , Nova Iorque . 
+1764	Danke . 	Danke . 
+1765	Look , this whole thing has been to feel me out . 	Ouça , tudo isto serviu para me tirarem as medidas . 
+1766	Would I swap one for one and which one ? 	Eu trocaria um por um ? 
+1767	But I said " No , two for one . " 	Mas eu disse : " Não , dois por um " . 
+1768	So they know where we stand . 	Então , eles sabem a nossa posição . 
+1769	Yeah , what if they think about it and say , uh ... 	E se eles pensarem no assunto e disserem : 
+1770	" Forget it ! 	" Esqueçam . 
+1771	You keep our guy , we keep your guys " ? 	Fiquem com o nosso homem e nós ficamos com os vossos dois " ? 
+1772	Well , then I have fucked it all up . 	Bem , então , fiz merda . 
+1773	Hey , honey ! 	Olá , querida . 
+1774	It 's me . 	Sou eu . 
+1775	Yeah . 	Sim . 
+1776	The fishing 's been great . 	A pesca tem sido óptima . 
+1777	I 'm in London , just for one more meeting , then I 'm on my way home . 	Estou em Londres para uma última reunião e depois vou para casa . 
+1778	Yeah , yeah , I remember that marmalade . 	Sim , lembro- me desse doce de laranja . É naquela loja mesmo junto a Regent 's Park . 
+1779	It 's that shop right by Regent 's Park . 	Sim , lembro- me desse doce de laranja . É naquela loja mesmo junto a Regent 's Park . 
+1780	All right , I will if I have the time . 	Está bem . Se tiver tempo , vou . 
+1781	Hey , can I say hi to Roger ? 	Posso falar com o Roger ? 
+1782	Could I say hi to the girls ? 	Posso falar com as miúdas ? 
+1783	Is anyone not busy ? 	Há alguém que não esteja ocupado ? 
+1784	Have they even noticed I 'm not around ? 	Deram sequer pela minha ausência ? 
+1785	We 're on . 	Vamos avançar . 
+1786	Two for one . 	Dois por um . 
+1787	Hot dog . 	Catita . 
+1788	Let 's have a drink . 	Vamos tomar um copo . 
+1789	One wrinkle . 	Há um senão . 
+1790	What is that ? 	Qual é ? 
+1791	They won 't release Pryor with Powers , not at the bridge . 	Não vão entregar o Pryor na ponte com o Powers . 
+1792	They 'll release him at the same time . 	Vão entregá- lo ao mesmo tempo . 
+1793	When the Russians give us Powers on the bridge , they 'll release Pryor over Checkpoint Charlie . 	Quando os russos nos derem o Powers na ponte , eles entregam o Pryor no Checkpoint Charlie . 
+1794	What does that mean ? 	O que é que isso significa ? 
+1795	I think it means , " We wanna have the last word . " 	Acho que significa : " Queremos ter a última palavra " . 
+1796	But they will do it . 	Mas vão mesmo fazê- lo ? 
+1797	You tell me . 	Diga- me você . 
+1798	You felt them out . 	Foi você que lhes tirou as medidas . 
+1799	Where are they ? 	Onde é que eles estão ? 
+1800	Where 's our guy ? 	Onde é que está o nosso homem ? 
+1801	Where 's our guy ? 	Onde é que está o nosso homem ? 
+1802	They 're late . 	Eles estão atrasados . 
+1803	Nobody 's late . 	Ninguém está atrasado . 
+1804	We 're early . 	Nós é que viemos cedo . 
+1805	May I ? 	Posso ? 
+1806	Yeah . 	Sim . 
+1807	Hoffman . 	Hoffman . 
+1808	Yeah ? 	Sim ? 
+1809	I think they have ... 	Acho que eles têm ... 
+1810	What ? ... snipers . 	O quê ? ... snipers . 
+1811	Well , I 'm sure they do . 	De certeza que têm . 
+1812	How are you sure they do ? 	Como é que tem a certeza disso ? 
+1813	Because we have snipers . 	Porque nós temos snipers . 
+1814	Step out , sir . 	Saia . 
+1815	Jim . 	Jim . 
+1816	Dear Jim . 	Caro Jim . 
+1817	How are you ? 	Como está ? 
+1818	Happy to see you . 	Contente por vê- lo . 
+1819	Have you arranged all this for me ? 	Tratou disto tudo por mim ? 
+1820	Well , let 's see what this is before I ... 	Vamos ver o que isto é , antes de eu ficar com os louros . 
+1821	I take credit for it . 	Vamos ver o que isto é , antes de eu ficar com os louros . 
+1822	Any word about Pryor from Checkpoint Charlie ? 	Já se sabe de alguma coisa sobre o Pryor no Checkpoint Charlie ? 
+1823	Nothing cooking yet . 	Ainda não se passa nada . 
+1824	Excuse me , sir . 	Com licença . 
+1825	This is Lieutenant Joe Murphy , United States Air Force , here to identify Powers . 	Este é o Tenente Joe Murphy , da Força Aérea dos Estados Unidos , que veio identificar o Powers . 
+1826	Lieutenant Murphy . 	Tenente Murphy . 
+1827	Sir . 	Senhor . 
+1828	There may be a slight glitch . 	Pode haver um ligeiro problema . 
+1829	I was a young man when I left . 	Eu era um jovem , quando parti . 
+1830	Who will they find to identify me ? 	Quem vão encontrar para identificar- me ? 
+1831	Well , I hope it 's not your East German family . 	Espero que não seja a sua famí lia da Alemanha de Leste . 
+1832	I doubt they could identify each other . 	Duvido que conseguissem identificar- se uns aos outros . 
+1833	Looks like our party . 	Parece o nosso grupo . 
+1834	Well , let 's go . 	Vamos lá . 
+1835	You can stay here , Donovan . 	Pode ficar aqui , Donovan . 
+1836	Not likely . 	Não creio . 
+1837	Open the gate . 	Abra o portão . 
+1838	What do you think will happen when you get home ? 	Que acha que vai acontecer quando voltar a casa ? 
+1839	Uh , I think ... 	Acho ... que vou beber uma vodka . 
+1840	I' ll have a vodka . 	Acho ... que vou beber uma vodka . 
+1841	Yeah . 	Pois . 
+1842	Yeah . 	Pois . 
+1843	But , Rudolf , is there not the possibility ... 	Mas , Rudolf , não existe a possibilidade ... 
+1844	That my people are going to shoot me ? 	De a minha gente me fuzilar ? 
+1845	Yes . 	Sim . 
+1846	You 're not worried ? 	Não está preocupado ? 
+1847	Would it help ? 	Isso ajudaria ? 
+1848	To answer your question , my friend , 	Para responder à sua pergunta , meu amigo , eu agi com honradez . 
+1849	I acted honorably . 	Para responder à sua pergunta , meu amigo , eu agi com honradez . 
+1850	I think they know that . 	Acho que eles sabem isso . 
+1851	But sometimes people think wrong . 	Mas , às vezes , as pessoas pensam mal . 
+1852	People are people . 	As pessoas são pessoas . 
+1853	Let 's see how they greet me . 	Vamos ver como me acolhem . 
+1854	What can I look for ? 	O que devo tentar ver ? 
+1855	If I 'm embraced or just shown the back seat . 	Se me abraçam ou se me indicam apenas o banco de trás . 
+1856	Da . 	
+1857	Take off the hat . 	Tire o chapéu . 
+1858	Hey , Powers . 	Olá , Powers . 
+1859	Hey , Murph . 	Olá , Murph . 
+1860	Yeah , that 's Powers . 	Sim , é o Powers . 
+1861	All right , Mr . 	Muito bem , Sr . 
+1862	Donovan . 	Donovan . 
+1863	We go now ! 	Vamos agora . 
+1864	Hang on . 	Espere . 
+1865	Believe me , I will tell you . 	Acredite , eu digo- lhe . 
+1866	There 's no one here . 	Não está aqui ninguém . 
+1867	They 're releasing another man at Checkpoint Charlie . 	Eles vão entregar outro homem no Checkpoint Charlie . 
+1868	We 're just confirming that he 's there . 	Estamos só a confirmar se ele está lá . 
+1869	Now ! 	Agora ! 
+1870	As per plan , if you please . 	Como planeado , por favor . 
+1871	Let 's go . 	Vamos lá . 
+1872	Pryor will show up or he won 't . 	O Pryor pode aparecer ou não . 
+1873	Let 's go . 	Vamos . 
+1874	They 're waiting to see if we 'll do it without him . 	Eles estão à espera para ver se o faremos sem ele . 
+1875	We just have to stand here , show them we won 't . 	Temos de ficar aqui parados e mostrar- lhes que não o faremos . 
+1876	I don 't give a shit what they want . 	Estou- me nas tintas para o que eles querem . 
+1877	We have our objective . 	Estou- me nas tintas para o que eles querem . 
+1878	Go ahead , Abel . 	Temos o nosso objectivo . 
+1879	Go ahead , sir . 	Avance . 
+1880	You can go . 	Pode ir . 
+1881	If it is not to plan , we go home . 	Se não seguirem o plano , vamos para casa . 
+1882	We exchange now or we go home ! 	Trocamos agora ou vamos para casa . 
+1883	You 're waiting for another man ? 	Estão à espera de outro homem ? 
+1884	Yup . 	Sim . 
+1885	You want him , too . 	Também o querem . 
+1886	I want him . 	Eu quero- o . 
+1887	Doesn 't matter what he wants , sir . 	Não interessa o que ele quer . 
+1888	I 'm in charge and you are free to go . 	Eu é que mando e o senhor pode ir . 
+1889	Please go . 	Vá , por favor . 
+1890	Walk across . 	Atravesse a ponte . 
+1891	I can wait . 	Posso esperar . 
+1892	It 's something . 	Vem aí alguém . 
+1893	I 'm not sure yet . 	Ainda não tenho a certeza . 
+1894	Hang on ! 	Esperem ! 
+1895	Let 's go . 	
+1896	We got him ! 	Já o temos connosco ! 
+1897	Uh , I , uh ... 	
+1898	I sent you a gift , Jim . 	Mandei- lhe um presente , Jim . 
+1899	It 's a ... 	
+1900	It 's a painting . 	É um quadro . 
+1901	I hope it has some meaning to you . 	Espero que tenha algum significado para si . 
+1902	I 'm sorry . 	Lamento , não me lembrei de lhe dar um presente . 
+1903	I didn 't think to get you a gift . 	Lamento , não me lembrei de lhe dar um presente . 
+1904	This is your gift . 	O seu presente é este . 
+1905	This is your gift . 	O seu presente é este . 
+1906	You okay ? 	
+1907	Let 's go , let 's go , let 's go ! 	Vamos , vamos , vamos ! 
+1908	Mr . 	Sr . 
+1909	Donovan . 	Donovan . 
+1910	Colonel Abel asked me to give this to you . 	O Coronel Abel pediu- me para lhe entregar isto . 
+1911	Pardon me , sir . 	Desculpe , senhor . 
+1912	Were you in charge of this thing , sir ? 	Dirigiu esta operação ? 
+1913	Yeah . 	Dirigiu esta operação ? 
+1914	Well , I gotta thank you . 	Sim . Tenho de lhe agradecer . 
+1915	I gotta thank somebody . 	Tenho de agradecer a alguém . 
+1916	I gave them nothing . 	Eu não lhes disse nada . 
+1917	I gave them nothing . 	Eu não lhes disse nada . 
+1918	It doesn 't matter . 	Não interessa . 
+1919	It doesn 't matter what people think . 	Não interessa o que as pessoas dizem . 
+1920	You know what you did . 	Você sabe o que fez . 
+1921	Welcome home . 	Bem- vindo a casa . 
+1922	What a trip . 	Que viagem ... 
+1923	Mmm . 	
+1924	Mmm . 	
+1925	You okay ? 	Estás bem ? 
+1926	Yeah , I 'm fine . 	Sim , estou óptimo . 
+1927	Did you get the marmalade ? 	Trouxeste o doce de laranja ? 
+1928	Yes , yes . 	Sim , sim . 
+1929	Yep . 	Sim , sim . 
+1930	Yep . 	Sim . 
+1931	I did . 	Sim . Sim . 
+1932	As ordered . 	Como pedido . 
+1933	Jim . 	Jim ... 
+1934	This is from Arno 's . 	- Este é do Arno 's . 
+1935	So ? 	- E então ? 
+1936	On the corner ! 	Na esquina ! 
+1937	Well , honey , I was busy . 	Querida , estive muito ocupado . 
+1938	I 'm sorry . 	Desculpa . 
+1939	We were so busy . 	Por amor de Deus ... 
+1940	Oh , for Pete 's sake . 	Por amor de Deus ... 
+1941	How 's Roger ? 	Como está o Roger ? 
+1942	Is he home ? 	Está em casa ? 
+1943	He 's home . 	Está em casa , tal como a Carol e a Peggy . 
+1944	Carol 's home , Peggy 's home . 	Está em casa , tal como a Carol e a Peggy . 
+1945	Everyone 's home . 	Estão todos em casa . 
+1946	Mom ! 	Mãe ! 
+1947	Come quick ! 	Anda depressa ! 
+1948	Look ! 	Anda depressa ! 
+1949	- Mom , come here ! 	- Mãe , anda cá ! 
+1950	- Mom , come here ! 	- Mãe , anda cá ! 
+1951	- Come see this ! 	Anda ver isto ! Olha ! 
+1952	Look ! 	Vê ! 
+1953	Watch ! 	Anda . 
+1954	- Come on ! 	Anda . 
+1955	Francis Gary Powers has been released from prison in the Soviet Union and turned over to American authorities early this morning in Berlin . 	Francis Gary Powers foi libertado da prisão na União Soviética e entregue às autoridades americanas ao iní cio da manhã , em Berlim . 
+1956	The President has commuted the sentence of Rudolf Abel . 	O Presidente comutou a sentença de Rudolf Abel . 
+1957	Mr . 	O Sr . 
+1958	Abel has been deported and has been released in Berlin . 	Abel foi deportado e libertado em Berlim . 
+1959	Efforts to obtain Mr . 	Os esforços para obter a libertação do Sr . 
+1960	Powers´ release had been underway for some time . 	Powers já decorriam há algum tempo . 
+1961	In recent efforts , the United States government has had the cooperation and assistance of Mr . 	Em esforços recentes , o governo dos Estados Unidos teve a cooperação e assistência do Sr . 
+1962	James B . 	James B . 
+1963	Donovan , a New York attorney . 	Donovan , um advogado de Nova Iorque . 
+1964	Frederic L . 	Frederic L . 
+1965	Pryor , an American student held by East German authorities since August of 1961 ... 	Pryor , um estudante americano , detido pelas autoridades da Alemanha de Leste desde Agosto de 1961 ... 
+1966	I thought Daddy was fishing . 	Pensava que o pai tinha ido pescar . 
+1967	For salmon . 	Salmão . 
+1968	Abel now has disappeared into the communist world . 	Abel desapareceu no interior do mundo comunista . 
+1969	Powers is here , answering questions . 	Powers está cá , a responder a perguntas . 
+1970	And Donovan has gone back to his law practice . 	E Donovan voltou ao exercí cio da advocacia . 
+1971	And now , here is George Fenneman , speaking for the Douglas Fir Plywood Association . 	E agora , temos George Fenneman , a falar pela Associação de Produtores de Contraplacado . 

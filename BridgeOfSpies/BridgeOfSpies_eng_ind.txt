@@ -1,0 +1,1971 @@
+1	The next stop is Broad Street . 	Pemberhentian berikutnya di Broad Street . 
+2	Broad Street will be next . 	Pemberhentian berikutnya di Broad Street . 
+3	Upstairs . 	
+4	This way . 	Ke atas . 
+5	He didn 't come up this way ? 	Dia tak lewat sini ? 
+6	Anything ? 	Dia tak lewat sini ? 
+7	He 's not up here . 	Tak ada tanda- tanda ? 
+8	Go back down . 	Dia tak di atas sini . 
+9	Excuse me . 	
+10	Excuse me . 	Permisi . 
+11	Go ahead and park around the corner . 	Terus ke depan dan parkir di pojok . 
+12	Visitors . 	Ada tamu . 
+13	Do you mind if I fetch my teeth ? 	Ada tamu . 
+14	Colonel , would you turn around , please ? 	Kalian keberatan kalau aku ambil gigi dulu ? 
+15	Sit down on the bed . 	
+16	Let 's go . 	Duduklah di tempat tidur . 
+17	Uh , they 're in the ... 	Gigi palsuku ada di wastafel . 
+18	The teeth are in the ... 	Gigi palsuku ada di wastafel . 
+19	On the sink . 	Gigi palsuku ada di wastafel . 
+20	Look at me . 	
+21	We are agents from the Federal Bureau of Investigation . 	Lihat saya . Kami adalah agen ... ... dari Biro Investigasi Federal . 
+22	Look at me ! 	Lihat saya ! 
+23	I 'm talking to you . 	Lihat saya ! 
+24	We 've received information concerning your involvement in espionage . 	Saya bicara pada anda . Kami menerima informasi ... ... terkait keterkaitan anda dengan mata- mata . 
+25	You can either cooperate with us right now , or you 'll be under arrest . 	Lebih baik anda bekerjasama dengan kami saat ini , ... ... atau anda akan ditahan . 
+26	Do you understand , Colonel ? 	Lebih baik anda bekerjasama dengan kami saat ini , ... ... atau anda akan ditahan . 
+27	No , not really . 	Anda paham , Kolonel ? 
+28	Why do you keep calling me " Colonel " ? 	Tidak , tidak terlalu paham . Kenapa kau terus memanggilku " Kolonel " ? 
+29	You need to get dressed . 	Anda harus berpakaian . 
+30	We have to search your apartment . 	Kami harus geledah apartmen anda . 
+31	Would you mind if I , uh , cleaned my palette ? 	Apa aku boleh membersihkan paletku ? 
+32	The paints , it 'll get ruined otherwise . 	Kalau tidak , catnya bisa merusak . 
+33	It 's just behind you there . 	Kalau tidak , catnya bisa merusak . 
+34	I have a cloth myself . 	Aku punya kain pembersihnya . 
+35	Thank you . 	Aku punya kain pembersihnya . 
+36	All right , start searching the place . 	Terimakasih . 
+37	Thank you . 	Baiklah , mulai geledah tempat ini . / Terima kasih . 
+38	All right , search the mattress , the bed , the floorboards , his chair . 	Geledah kasurnya , ... ... ranjangnya , alas lantainya , kursinya . 
+39	Would you put that in the ashtray on the windowsill there ? 	Bisa kau taruh ini di asbak di dekat jendela sana ? 
+40	Take a good look at that desk . 	Bisa kau taruh ini di asbak di dekat jendela sana ? 
+41	Let 's see the desk . 	Periksa mejanya . 
+42	Wouldn 't want to get this ruined . 	Aku tak mau palet ini jadi rusak . 
+43	Don 't say " my guy . " 	Jangan sebut " orangku . " 
+44	He 's not " my guy . " 	Dia bukan " orangku . " 
+45	Yes , he 's " your guy . " 	Dia bukan " orangku . " 
+46	Who are we talking about ? 	Dia " orangmu . " 
+47	We 're talking about a guy who was insured by my client . 	Siapa yang kita maksud ? Kita membicarakan orang yang diasuransikan oleh klienku . 
+48	So , don 't make him " my guy . " 	Jadi , jangan anggap dia " orangku . " 
+49	Okay , fine . 	Oke , baiklah . 
+50	My point is , the guy insured by your client , he doesn 't deny that any of these things happened . 	Intinya , orang yang diasuransikan oleh klienmu , ... ... dia tidak menyanggah semua hal ini telah terjadi . 
+51	" These ... 	Intinya , orang yang diasuransikan oleh klienmu , ... ... dia tidak menyanggah semua hal ini telah terjadi . 
+52	These things " ? 	" Semua ... hal ini " ? 
+53	Yes , these five things . 	Ya , lima hal ini . 
+54	Wait , hold it , hold it , hold it . 	Ya , lima hal ini . 
+55	Not five things . 	Tunggu , tahan dulu . 
+56	One thing . 	Bukan lima hal . Satu hal . 
+57	Clearly , it 's five things . 	Sudah jelas , ada lima hal . 
+58	Well , I 'm sorry , it 's not clear to me . 	Sudah jelas , ada lima hal . 
+59	Five things ? 	Maaf , ini tidak jelas bagiku . 
+60	Explain it to me . 	Lima hal ? 
+61	It 's self- evident . 	Jelaskan padaku . 
+62	Okay , then tell me what happened . 	Itu bukti diri . 
+63	Tell me the story in a way that makes sense for five things . 	Baiklah , ceritakan padaku kejadiannya . Jelaskan padaku cerita masuk akal hingga ada lima hal ini . 
+64	Fine , absolutely . 	Baik , tentu saja . 
+65	Your guy is ... 	Baik , tentu saja . 
+66	Not my guy . 	Orangmu ini ... 
+67	Insured by my client . 	Orangmu ini ... 
+68	The guy insured by your client is driving down State Highway 19 when he loses control of his car and hits my five guys , the five guys who hired me to represent them because you 're not honoring your claim . 	Bukan orangku . Yang diasuransikan oleh klienku . Orang yang diasuransikan oleh klienmu ... ... berkendara menuju State Highway 19 ... ... dia hilang kendali mobilnya dan menabrak lima orangku , ... ... lima orang yang menyewaku untuk membela mereka ... ... karena kau tidak menghormati klaim mu . 
+69	You mean my client is not honoring the claim , the insurance company ? 	Maksudmu , klienku tidak menghormati klaim , perusahaan asuransi ini ? 
+70	Mr . 	Maksudmu , klienku tidak menghormati klaim , perusahaan asuransi ini ? 
+71	Donovan , we 're all clear on who 's who , here . 	Tn . Donovan , kita sudah jelas tentang subjek pembicaraan di sini . 
+72	Except my client honors every claim . 	Kecuali klienku menghormati setiap klaim . 
+73	They do , Mr . 	Kecuali klienku menghormati setiap klaim . 
+74	Bates . 	Kecuali klienku menghormati setiap klaim . 
+75	Every single legitimate claim , up to the limit of their liability , which is $100, 000 per accident , in the case of this man 's policy . 	Itu benar , Tn . Bates . Setiap lembar , klaim yang sah , ... ... mencapai tanggungan tertingginya , ... ... yang mana 100 . 000 Dollar per kecelakaan ... ... sesuai tertera di polis orang ini . 
+76	And this is one claim . 	Dan ini satu klaim . 
+77	According to your description , " He hit my five guys . " 	Berdasarkan deskripsimu , " dia menabrak lima orangku . " 
+78	The guy insured by my client had one accident . 	Orang yang diasuransikan klienku mendapat satu kecelakaan . 
+79	One , one , one . 	Orang yang diasuransikan klienku mendapat satu kecelakaan . 
+80	Losing control of the car and hitting five motorcyclists . 	Satu , satu , satu . Kehilangan kendali mobilnya dan menabrak lima pengendara motor . 
+81	From their point of view , five things happened . 	Dari sudut pandang mereka , lima hal telah terjadi . 
+82	Well , look , Bob . 	Begini , Bob . 
+83	May I ? 	Begini , Bob . 
+84	Bob ? 	Boleh kupanggil Bob ? 
+85	" Jim . " 	" Jim . " 
+86	If I go bowling and I throw a strike , one thing happened . 	Jika aku bermain bowling dan melakukan strike , satu hal terjadi . 
+87	Ten things didn 't happen . 	Jika aku bermain bowling dan melakukan strike , satu hal terjadi . 
+88	Jim , my guys aren 't bowling pins , as much as your guy may have treated them as such . 	Bukan sepuluh hal yang terjadi . Jim , orang- orangku bukan balok bowling . 
+89	If ... 	Orangmu memperlakukan mereka seperti itu . 
+90	Let me finish . 	Orangmu memperlakukan mereka seperti itu . 
+91	Let me finish . 	Biar kuselesaikan dulu . 
+92	If your house is insured for $100, 000 and a tornado carries it away , it carried away one house . 	Biar kuselesaikan dulu . Jika rumahmu diasuransikan senilai 100 . 000 Dollar ... ... lalu angin tornado menyapu semuanya , ... ... angin itu menyapu satu rumah . 
+93	It didn 't pick up every stick of furniture and destroy it in a separate incident . 	Angin itu tidak memilih setiap perabotannya ... ... untuk dihancurkan di tempat berbeda . 
+94	If that is what you 're saying , well , then there is never any limit to our liability and that is the end of the insurance business . 	Jika itu yang kau maksud , ... ... berarti tidak ada batas dari tanggungan kami ... ... dan itu akhir dari bisnis asuransi . 
+95	And then , Bob , nobody is safe . 	Dan kemudian , Bob , tak seorang pun yang selamat . 
+96	Watters , Cowan and Donovan . 	Watters , Cowan & Donovan . 
+97	How may I direct your call ? 	Watters , Cowan & Donovan . 
+98	Morning , Mr . 	Bisa saya bantu ? 
+99	Donovan . 	Pagi , Pak Donovan . 
+100	Good morning , Alison . 	Pagi , Pak Donovan . 
+101	I moved your 9 : 00 a . m . with Prudential , sir . 	Selamat pagi , Alison . 
+102	Why did you do that ? 	Saya menggeser rapat dengan Prudential yang pukul 9 pagi , Pak . 
+103	I asked her to . 	Kenapa kau lakukan itu ? 
+104	Is everything all right , Tom ? 	Aku yang memintanya . Semua baik- baik saja , Tom ? 
+105	Why don 't you leave your stuff with Alison . 	Tinggalkan barangmu pada Alison . 
+106	Come on inside . 	Tinggalkan barangmu pada Alison . 
+107	Something pretty important has come up . 	Ada sesuatu hal yang penting . 
+108	Somebody 's here to see us . 	Ada sesuatu hal yang penting . 
+109	Natalie 's getting your coffee . 	Seseorang datang menemui kita . 
+110	Nescafe , cream , two lumps , right ? 	Natalie mengambilkan kopimu . Nescafe , krim , dua gula , bukan ? 
+111	That 's right . 	
+112	Thanks . 	Benar . 
+113	Lynn ! 	
+114	Jim ! 	Lynn ! / Jim ! 
+115	Nice to see you again . 	Lynn ! / Jim ! 
+116	How 's the family ? 	Senang berjumpa lagi . 
+117	Great , good . 	Bagaimana keluargamu ? 
+118	Thanks . 	Bagaimana keluargamu ? 
+119	How 's Annie ? 	Baik . Terimakasih . 
+120	Homicidal . 	Bagaimana Annie ? 
+121	We had the in- laws for the holiday . 	Di kasus pembunuhan . 
+122	Well , if she acts on it , she 'll have good representation . 	Kami punya urusan hukum saat liburan . Jika dia bertugas di sana , dia akan tampil bagus . 
+123	Now , what 's up ? 	Jadi , ada apa ? 
+124	Okay , here 's the thing . 	Baiklah , ini perihalnya . 
+125	The Soviet spy they caught , we want you to defend him . 	Mata- mata Soviet tertangkap , kami ingin kau membelanya . 
+126	Here 's the indictment . 	Mata- mata Soviet tertangkap , kami ingin kau membelanya . 
+127	Wow . 	Wow . 
+128	I 'm not sure I wanna pick that up . 	Aku ragu bisa menerimanya . 
+129	The accused doesn 't know any lawyers . 	Terdakwa tak mengenal pengacara mana pun . 
+130	The federal court tossed it into our lap . 	Terdakwa tak mengenal pengacara mana pun . 
+131	The Bar Committee took a vote . 	Komite Pengacara memungut suara . 
+132	You 're the unanimous choice . 	Komite Pengacara memungut suara . 
+133	It was important to us ... 	Dan kaulah yang terpilih . 
+134	It 's important to our country , Jim , that this man is seen as getting a fair shake . 	Sangat penting untuk kita ... Ini penting untuk negara kita , Jim , ... agar pria ini mendapat perlakuan adil . 
+135	American justice will be on trial . 	Pengadilan Amerika sedang diuji . 
+136	Well , of course , when you put it that way , it 's an honor to be asked . 	Tentu saja , jika kau menganggap seperti itu , ... ... ini suatu kehormatan . 
+137	But , Lynn , I 'm an insurance lawyer . 	Tentu saja , jika kau menganggap seperti itu , ... ... ini suatu kehormatan . 
+138	I haven 't done criminal work in years . 	Tapi , Lynn , aku pengacara asuransi . 
+139	It 's like riding a bike , isn 't it ? 	Aku sudah bertahun- tahun tidak menangani kasus kriminal . Ini seperti mengendarai sepeda motor , bukan ? 
+140	You distinguished yourself at Nuremberg . 	Kau menonjol di Nuremberg . 
+141	I was on the prosecution team . 	Kau menonjol di Nuremberg . 
+142	Not the point . 	Saat itu aku di tim jaksa penuntut . 
+143	You 're no stranger to criminal law . 	Bukan itu intinya . 
+144	Jim , look at the situation . 	Kau tak asing dengan hukum kriminal . Jim , lihatlah situasinya . 
+145	The man is publicly reviled . 	Pria ini dicerca publik . 
+146	And I will be , too . 	Pria ini dicerca publik . 
+147	Yes , in more ignorant quarters . 	Dan aku juga akan begitu . 
+148	But that 's exactly why this has to be done , and capably done . 	Ya , sebagai pihak belakang layar . Tapi seperti itulah tepatnya agar ini tuntas , ... ... dan tuntas secara elegan . 
+149	It can 't look like our justice system tosses people on the ash heap . 	Jangan sampai sistem peradilan kita dianggap ... ... melempar orang ke abu pembakaran . 
+150	Suppose I did , what 's the evidence look like ? 	Anggap aku terima , buktinya seperti apa ? 
+151	Pretty overwhelming . 	Cukup banyak . 
+152	Great . 	Cukup banyak . 
+153	Great . 	Bagus . 
+154	Everyone will hate me but at least I' ll lose . 	Bagus . Semua orang akan membenciku tapi paling tidak aku akan kalah . 
+155	Well , what do you think , Tom ? 	Bagaimana menurutmu , Tom ? 
+156	The firm will suffer . 	Bagaimana menurutmu , Tom ? 
+157	I have work here . 	Firma akan kesusahan . 
+158	I think it 's a patriotic duty . 	Aku ada pekerjaan di sini . Kupikir ini tugas patriotik . 
+159	It 's an important mission . 	Ini misi penting . 
+160	I told Lynn , the firm can 't say no , and you 'd have a tough time saying no , too . 	Sudah kubilang Lynn , firma tak bisa menolak , ... .. dan kau bisa berpikir untuk menolaknya juga . 
+161	I think you have to defend the son of a bitch . 	Kurasa kau harus membela si keparat ini . 
+162	So , you 're doing it ? 	Jadi , kau melakukannya ? 
+163	Doing what ? 	Jadi , kau melakukannya ? 
+164	Defending Abel , the Soviet spy . 	Melakukan apa ? Membela Abel , si mata- mata Soviet . 
+165	I may . 	
+166	I have to speak to ... 	Mungkin . 
+167	Wait , how do you know ? 	Aku harus bicara dulu pada ... 
+168	Did they post it on the bulletin board ? 	Tunggu . Tahu dari mana ? 
+169	No , I ... 	Apa ada di buletin kantor ? 
+170	I was talking to Richard Earl ... 	Tidak . 
+171	Look , if I do this , I 'm going to need your help . 	Aku tadi bicara dengan Richard Earl ... 
+172	Can you work tonight ? 	Kau bisa bekerja malam ini ? 
+173	Well , I have a dinner date , sir . 	Aku punya janji makan malam , Pak . 
+174	It 's Tuesday , right ? 	
+175	Yeah , no , I 'm free , completely free . 	Sekarang Selasa , bukan ? 
+176	Thank you , sir . 	Ya , tak ada , aku tak ada acara . 
+177	But it 's also an honor . 	Tapi itu juga suatu kehormatan . 
+178	And the Bar Association asked me because they want to show that even a spy gets a capable advocate . 	Dan asosiasi pengacara telah memintaku ... ... karena mereka ingin tunjukkan meski mata- mata sekalipun ... ... bisa mendapatkan pengacara handal . 
+179	Well , maybe it 's the kind of honor we could do without . 	Mungkin suatu kehormatan jika kita tak membelanya . 
+180	Hey , honey , what are you doing home ? 	Mungkin suatu kehormatan jika kita tak membelanya . 
+181	I got stood up . 	
+182	Well , that 's despicable . 	Itu sungguh kejam . 
+183	Who is this knot- head ? 	Itu sungguh kejam . 
+184	I 'd rather not say . 	Siapa begundal itu ? 
+185	Well , sit down . 	Lebih baik tidak kukatakan . 
+186	We just started . 	Duduklah . 
+187	People are scared . 	Kami baru saja mulai . 
+188	They 're building bomb shelters to protect themselves from people like this man . 	Orang- orang ketakutan . Mereka membangun bunker untuk perlindungan ... ... dari orang seperti mata- mata itu . 
+189	I go to the store , people are buying canned food and potassium tablets . 	Aku pergi ke toko , ... ... orang- orang membeli makanan kaleng dan tablet potasium . 
+190	It 's all about this man and what he represents . 	Semua membicarakan orang ini dan maksud jahatnya . 
+191	He 's a threat to all of us . 	Semua membicarakan orang ini dan maksud jahatnya . 
+192	A traitor . 	Dia ancaman bagi kita . 
+193	Who 's a traitor ? 	Seorang pengkhianat . 
+194	The Rosenbergs were traitors . 	Siapa yang pengkhianat ? 
+195	Who were they ? 	Para Rosenberg yang pengkhianat . 
+196	They gave atomic secrets to the Russians . 	Siapa mereka ? Mereka memberi rahasia bom atom pada Rusia . 
+197	They were Americans . 	
+198	They betrayed their country . 	Mereka orang Amerika . 
+199	You can 't accuse Abel of being a traitor . 	Mereka mengkhianati negaranya . Kau tak boleh menuduh Abel seorang pengkhianat . 
+200	He 's not an American . 	Dia bukan warga Amerika . 
+201	Oh , listen to yourself . 	Dia bukan warga Amerika . 
+202	You 're defending him already . 	Oh , dengarlah dirimu . 
+203	You 're rehearsing it on me . 	Kau sudah membelanya . 
+204	You said you were just thinking about taking it . 	Kau menjelaskannya padaku . Kau bilang kau hanya mempertimbangkan untuk membelanya . 
+205	I am just thinking about it , just very hard . 	Aku hanya memikirkannya , dengan sangat keras . 
+206	Everyone deserves a defense . 	Aku hanya memikirkannya , dengan sangat keras . 
+207	Every person matters . 	Setiap orang layak untuk dibela . 
+208	Jim , what do we deserve ? 	Orang manapun . 
+209	Do you know how people will look at us ? 	Jim , apa yang layak kita dapat ? 
+210	The family of a man trying to free a traitor ? 	Kau tahu bagaimana orang akan melihat kita ? Keluarga seorang pria yang membebaskan pengkhianat ? 
+211	He 's not a traitor , Mary . 	Dia bukan pengkhianat , Mary . / Ya , ya . 
+212	Yes , yes . 	Dia bukan pengkhianat , Mary . / Ya , ya . 
+213	Roger , get that ! 	Dia bukan pengkhianat , Mary . / Ya , ya . 
+214	He 's not a traitor ... 	Roger , coba lihat ke sana ! 
+215	Why do I have to do all the work ? 	Dia bukan pengkhianat ... 
+216	Oh ! 	Kenapa selalu aku ? 
+217	You wait till we say grace . 	Kenapa selalu aku ? 
+218	I 'm hungry ! 	Tunggu sampai doa dimulai . / Aku lapar ! 
+219	He 's about the most unpopular man in this country , and you 're trying to take second place ! 	Dia orang paling tidak populer di negara ini , ... ... dan kau berusaha menjadi yang ke- dua ! 
+220	Yeah , and I 'm third . 	Dia orang paling tidak populer di negara ini , ... ... dan kau berusaha menjadi yang ke- dua ! 
+221	Carol , you just dated the wrong guy . 	Ya , dan aku yang ke- tiga . 
+222	I wanna eat . 	Carol , kau cuma salah memilih pria . / Aku ingin makan . 
+223	Mary , don 't make this an argument when we 're not having an argument . 	Mary , jangan berargumen ... ... kita tidak sedang berargumen . 
+224	You 're against him , I 'm for him ? 	Mary , jangan berargumen ... ... kita tidak sedang berargumen . 
+225	No , I 'm not for him . 	Kau menentangnya , aku di pihaknya ? 
+226	I 'm not for the Russians spying on us . 	Bukan , aku tidak di pihaknya . 
+227	I 'm for his right to have a defense in a court of law , which is why they call it a court of law . 	Aku tidak setuju Rusia memata- matai kita . Aku membela haknya untuk untuk dapat pembelaan di peradilan , ... ... yang karena itulah , disebut peradilan hukum . 
+228	I didn 't mean to interrupt dinner . 	Aku tak bermaksud mengganggu makan malam . 
+229	A court of law ... 	Aku tak bermaksud mengganggu makan malam . 
+230	Hey , Doug . 	Sebuah peradilan hukum ... / Hei , Doug . 
+231	Oh , no , not at all . 	Sebuah peradilan hukum ... / Hei , Doug . 
+232	Hello , Doug . 	Oh , sama sekali tidak . 
+233	Jim was just flailing . 	Halo , Doug . 
+234	I 'm not flailing . 	Jim cuma berdebat . 
+235	Go ahead , Doug , you can join us for dinner . 	Aku tak mendebat . 
+236	We 're having meatloaf tonight . 	Ayo , Doug , bergabunglah . 
+237	So , you came over to help Jim think about whether he 's taking the case ? 	Jadi , kau datang untuk membantu Jim berpikir ... ... apa dia akan menerima kasus ini ? 
+238	Oh , we 're taking it ! 	Jadi , kau datang untuk membantu Jim berpikir ... ... apa dia akan menerima kasus ini ? 
+239	It 's exciting , isn 't it ? 	Oh , kami menerimanya ! 
+240	Lord , we thank thee for thy blessings we are about to receive . 	Berkatilah kami , O Tuhan , dari kelimpahan- Mu , ... ... dan berkat yang akan kami terima ... ... melalui Kristus Tuhan kami . 
+241	Thy bounty through Christ , our Lord . 	Berkatilah kami , O Tuhan , dari kelimpahan- Mu , ... ... dan berkat yang akan kami terima ... ... melalui Kristus Tuhan kami . 
+242	Amen . 	Amin . 
+243	Good morning , sir . 	
+244	My name is Jim Donovan . 	Selamat pagi , Pak . 
+245	These are my credentials . 	Saya Jim Donovan . Ini surat mandat saya . 
+246	I am a partner in Watters , Cowan and Donovan . 	Saya rekanan di Watters , Cowan and Donovan . 
+247	I was admitted to the New York Bar in 1941 . 	Saya sudah diakui oleh pengacara New York pada tahun 1941 . 
+248	You have been charged with three counts and 19 overt acts . 	Anda telah dituntut dengan tiga tuduhan dan 19 tindak kejahatan . 
+249	Conspiracy to transmit United States defense and atomic secrets to the Soviet Union , conspiracy to gather secrets , and failing to register as a foreign agent . 	Berkonspirasi untuk mengirim rahasia pertahanan ... ... dan bom atom Amrika , kepada Uni Soviet , ... ... konspirasi membagikan rahasia , ... ... dan tidak terdaftar sebagai agen asing . 
+250	Do many foreign agents register ? 	Apa ada agen asing yang terdaftar ? 
+251	If you don 't mind my asking , sir , since your arrest , where have you been ? 	Jika anda tak keberatan saya bertanya , Pak , ... ... karena anda ditahan , Anda dari mana saja ? 
+252	I couldn 't say for certain . 	Tak bisa kujelaskan lebih detil . 
+253	You don 't know ? 	
+254	They drove me to an airport and put me on a plane , took me off the plane . 	Mereka membawaku ke bandara ... ... dan dinaikkan ke pesawat , lalu diturunkan . 
+255	Somewhere hot . 	Di suatu tempat yang panas . 
+256	It 's hot here . 	Di sini panas . 
+257	Hotter , very humid . 	Lebih panas , sangat lembab . 
+258	They put me in a room . 	Lebih panas , sangat lembab . 
+259	Were you beaten ? 	Anda dipukuli ? 
+260	No . 	Tidak . 
+261	I was talked to . 	Aku diajak bicara . 
+262	Offers were made . 	Ada pengajuan penawaran . 
+263	What do you mean ? 	Ada pengajuan penawaran . 
+264	Offers of employment , to work for your government . 	Apa maksudmu ? Tawaran pekerjaan , bekerja pada pemerintahmu . 
+265	I was told if I cooperated , no further charges would be made against me . 	Dikatakan , jika aku bekerja sama , ... ... tak ada tuntutan lagi atas diriku . 
+266	And I would be given money . 	Dan aku akan diberi uang . 
+267	Hmm . 	
+268	And you declined ? 	Dan anda tolak ? 
+269	As you see . 	Seperti yang kau lihat . 
+270	Well , of course I can 't endorse that . 	Tentu saja saya tak bisa mengabsahkan itu . 
+271	I feel duty- bound to urge you to cooperate with the U . S . government . 	Saya merasa batasan tugas mendorong anda ... ... untuk bekerjasama dengan pemerintah A . S . 
+272	Well , I said no . 	Saya merasa batasan tugas mendorong anda ... ... untuk bekerjasama dengan pemerintah A . S . 
+273	Perhaps you could relay to your friends at the CIA that I meant it . 	Aku menolak . Mungkin bisa kau pastikan dengan rekan CIA mu bahwa aku berniat begitu . 
+274	No , no , no . 	Tidak . 
+275	I ... 	Tidak . 
+276	I don 't work for the agency . 	Saya tidak bekerja untuk agensi . 
+277	I don 't work for the government . 	Saya tidak bekerja untuk pemerintah . 
+278	I am here to offer my services as your legal counsel . 	Saya di sini menawarkan layanan sebagai pengacara anda . 
+279	If you accept them as such , 	Jika anda terima , ... saya akan bela anda . 
+280	I work for you . 	Jika anda terima , ... saya akan bela anda . 
+281	If I accept you ? 	Jika aku menerimamu ? 
+282	Are you good at what you do ? 	Kau pandai di bidangmu ? 
+283	Yeah . 	
+284	Yeah , I 'm pretty good . 	Ya . Aku cukup pandai . 
+285	Have you represented many accused spies ? 	Kau pernah membela terdakwa mata- mata ? 
+286	No , not yet . 	Belum pernah . 
+287	This will be a first for the both of us . 	Ini akan jadi pengalaman pertama untuk kita berdua . 
+288	Yes . 	Ya . 
+289	All right . 	Baik . 
+290	" All right " ? 	Baik . 
+291	You accept ? 	" Baik " ? 
+292	Yes , all right . 	Ya , aku terima . 
+293	Good , okay . 	Bagus . 
+294	Let 's start here . 	Bagus . 
+295	If you are firm in your resolve not to cooperate with the U . S . government ... 	Mari kita mulai di sini . Jika anda tetap teguh pada keputusan anda ... ... untuk tidak bekerja sama dengan pemerintah AS ... 
+296	I am . 	Aku tetap teguh . 
+297	Yeah . 	Aku tetap teguh . 
+298	Then do not talk to anybody else about your case , inside of government or out . 	Ya . Maka jangan bicarakan kasus anda pada siapapun , ... baik dalam atau luar pemerintah . 
+299	Except to me , to the extent that you trust me . 	Kecuali padaku , sebagai kepercayaan anda . 
+300	I have a mandate to serve you . 	Kecuali padaku , sebagai kepercayaan anda . 
+301	Nobody else does . 	Saya punya mandat untuk membela anda . 
+302	Quite frankly , everybody else has an interest in sending you to the electric chair . 	Tak ada orang lain . Yang jelas , semua orang lebih tertarik ... ... mengirimmu ke kursi listrik . 
+303	All right . 	
+304	You don 't seem alarmed . 	Anda tidak kaget . 
+305	Would it help ? 	Apa itu akan membantu ? 
+306	I ... 	
+307	I would like materials to draw with . 	Aku ingin peralatan menggambar . 
+308	That 's not possible . 	Aku ingin peralatan menggambar . 
+309	A pencil , a piece of paper . 	Pensil , secarik kertas . 
+310	Cigarettes . 	Pensil , secarik kertas . 
+311	Please ? 	Tolonglah ? 
+312	Mr . 	
+313	Donovan , you have men like me doing the same for your country . 	Tn . Donovan , negaramu juga punya orang sepertiku ... ... melakukan hal sama untuk negaranya . 
+314	If they were caught , 	Jika mereka tertangkap , ... aku yakin kau ingin mereka diperlakukan baik . 
+315	I 'm sure that you would wish them to be treated well . 	Jika mereka tertangkap , ... aku yakin kau ingin mereka diperlakukan baik . 
+316	What 's your name ? 	Siapa namamu ? 
+317	Francis Gary Powers . 	Siapa namamu ? 
+318	Rank , service ? 	Pangkat ? 
+319	First Lieutenant , United States Air Force . 	Penugasan ? Letnan Satu , Angkatan Udara AS . 
+320	Do you have any association with the Soviet Union , Lieutenant Powers ? 	Apa kau punya kaitan ... ... dengan Uni Soviet Letnan Powers ? 
+321	Kidding ? 	Apa kau punya kaitan ... ... dengan Uni Soviet Letnan Powers ? 
+322	Just answer the questions , Lieutenant . 	Kau bercanda ? 
+323	Yes , no , or as simply as you can . 	Cukup jawab pertanyaannya , Letnan . Ya , atau tidak atau sesingkat yang kau bisa . 
+324	Do you have any association with the Soviet Union ? 	Apa kau punya kaitan dengan Uni Soviet ? 
+325	Hell , no . 	Apa kau punya kaitan dengan Uni Soviet ? 
+326	Do you know why you 're here ? 	Kau tahu kenapa kau di sini ? 
+327	Mmm- mmm . 	Kau tahu kenapa kau di sini ? 
+328	Is that a no ? 	Mmm- mmm . Apa itu artinya tidak ? 
+329	Yes . 	
+330	I mean ... 	Ya . 
+331	No , it 's just " no . " 	Maksudku ... 
+332	Yes , I have absolutely no idea why I 'm here . 	Tidak , cukup " tidak . " Ya , aku jelas tak tahu kenapa aku di sini . 
+333	Eyes front , Lieutenant . 	Hadap ke depan , Letnan . 
+334	Yes , sir . 	Hadap ke depan , Letnan . 
+335	How 'd you do in there , Gary ? 	Bagaiman keadaanmu di sana , Gary ? 
+336	Pretty good . 	
+337	Think I got my name right . 	Cukup baik . 
+338	You probably outscored Shinn , then . 	Kurasa aku lulus . Kau mungkin dapat nilai lebih tinggi . 
+339	Who 's winning ? 	Siapa yang menang ? 
+340	Uh , that would be me . 	Siapa yang menang ? 
+341	Oh . 	Tentu saja aku . 
+342	Well , deal me in . 	Aku ikut . 
+343	So , these are all mine , then . 	Jadi , semua ini milikku . 
+344	I told you boys not to play with him . 	Jadi , semua ini milikku . 
+345	Okay , drivers , here 's the deal . 	Baiklah , pengemudi , ini kesepakatannya . 
+346	You 've been selected for a mission which you are not to discuss with anyone outside of this room . 	Kalian telah terpilih untuk sebuah misi ... ... yang tidak boleh kalian diskusikan ... ... dengan siapapun selain di ruangan ini . 
+347	No one . 	Kalian telah terpilih untuk sebuah misi ... ... yang tidak boleh kalian diskusikan ... ... dengan siapapun selain di ruangan ini . 
+348	I don 't care who you trust . 	Tanpa terkecuali . Aku tak peduli siapa yang kalian percayai . 
+349	Wife , mother , sweetheart . 	Istri , Ibu kekasih . 
+350	The good Lord when you pray at night . 	Tuhan tempat kalian berdoa . 
+351	You don 't tell any of them anything of what I 'm about to tell you . 	Kalian tidak mengatakan pada mereka apapun ... ... apa yang akan kuberitahu pada kalian . 
+352	Each of you drivers has met certain qualifications . 	Masing- masing kalian telah memenuhi kualifikasi . 
+353	High level security clearance . 	Sistem keamanan tingkat tinggi . 
+354	Exceptional pilot ratings in excess of the required hours flight time in a single- seat aircraft . 	Pilot handal ... ... yang sudah memiliki jam terbang tinggi ... ... di pesawat tempur . 
+355	We are engaged in a war . 	Kita sedang menghadapi perang . 
+356	This war does not , for the moment , involve men- at- arms . 	Perang ini tidak melibatkan pasukan . 
+357	It involves information . 	Perang ini tidak melibatkan pasukan . 
+358	You will be collecting information . 	Tapi melibatkan informasi . Kalian akan mengumpulkan informasi . 
+359	You will be gathering intelligence about the enemy . 	Kalian akan mengumpulkan teknologi musuh . 
+360	The intelligence you gather could give us the upper hand in a full thermonuclear exchange with the Soviet Union . 	Teknologi yang kalian kumpulkan memberi kita kendali ... ... pada pertukaran termonuklir dengan Uni Soviet . 
+361	Or it could prevent one . 	Atau , itupun bisa mencegahnya . 
+362	For public purposes , as far as your wife or mother or sweetheart or the good Lord above , your mission does not exist . 	Untuk tujuan publik , ... ... bahkan istri atau Ibu kalian ... ... atau kekasih , atau Tuhan yang di atas sana ... ... misi kalian tidak ada . 
+363	If it does not exist , you do not exist . 	Jika misi kalian tidak ada , kalian pun tidak ada . 
+364	You cannot be shot down . 	Jika misi kalian tidak ada , kalian pun tidak ada . 
+365	You cannot be captured . 	Kalian tidak bisa dilumpuhkan . 
+366	You work for the CIA now . 	Kini kalian bekerja untuk CIA . 
+367	So , Jim , I heard your guy is speaking with a phony accent . 	Jim , kudengar klienmu berbicara dengan aksen palsu . 
+368	Does he keep that up all the time ? 	Apa dia terus begitu sepanjang waktu ? 
+369	Actually , I 'm pretty sure that 's just the way he talks . 	Aku cukup yakin aksennya memang begitu . 
+370	He 's got the Russian name but a British passport . 	Dia memiliki nama Rusia , tapi berpaspor Inggris . 
+371	Well , I doubt that that 's genuine . 	Aku ragukan itu asli . 
+372	So , Jim , where are we ? 	Aku ragukan itu asli . 
+373	I see here ... 	Jadi Jim , kita sampai di mana ? 
+374	Yes , uh , Judge , you see , 	Kulihat di sini ... Ya , Pak Hakim , anda melihat , ... 
+375	I just don 't think that three weeks is going to do it , here . 	Kurasa waktu tiga minggu tidaklah cukup . 
+376	We ... 	Kurasa waktu tiga minggu tidaklah cukup . 
+377	We got a massive amount of evidence , as you know . 	Kami punya banyak barang bukti , sebagaimana anda ketahui . 
+378	You wanna postpone ? 	Kami punya banyak barang bukti , sebagaimana anda ketahui . 
+379	Six weeks . 	Kau ingin penundaan ? 
+380	I mean , there 's just myself and my associate , basically . 	Enam minggu . Hanya ada aku dan asistenku . 
+381	Jim , is this serious ? 	Jim , apa ini serius ? 
+382	Sir ? 	Jim , apa ini serius ? 
+383	Is this serious ? 	Ini serius ? 
+384	Yes . 	Ini serius ? 
+385	Yes , indeed , it is . 	Ya , ini serius . 
+386	You can see in the filing ... 	Ya , ini serius . 
+387	Jim , this man is a Soviet spy . 	Anda bisa lihat di berkasnya ... Jim , pria ini mata- mata Soviet . 
+388	Allegedly . 	
+389	Come on , Counselor ! 	Itu dugaan orang . / Ayolah , konsuler ! 
+390	Your Honor . 	Yang Mulia . 
+391	Of course , I salute you . 	Yang Mulia . 
+392	We all salute you for taking on a thankless task . 	Tentu saja , aku salut padamu . Kami semua salut kau menerima tugas tanpa pamrih . 
+393	This man has to have due process . 	Pria ini harus segera diproses . 
+394	But let 's not kid each other . 	Pria ini harus segera diproses . 
+395	He 'll receive a capable defense . 	Dia akan terima pembelaan yang layak . 
+396	And , God willing , he 'll be convicted . 	Dan , jika Tuhan berkehendak , dia akan dihukum . 
+397	Come on , Counselor . 	Dan , jika Tuhan berkehendak , dia akan dihukum . 
+398	Let 's not play games with this . 	Ayolah , konsuler . 
+399	Not in my courtroom . 	Jangan main- main dengan ini . Tidak di ruang sidangku . 
+400	We have a date and we 're going to trial . 	Tanggal sudah ditetapkan ... ... dan kita akan ke pengadilan . 
+401	Taxi ! 	Taksi ! 
+402	Taxi ! 	Taksi ! 
+403	I see your light on ! 	Taksi ! 
+404	Son of a bitch . 	Lampumu masih menyala . 
+405	Can 't wait to get back to Manhattan . 	Aku harus segera kembali ke Manhattan . 
+406	His light was on , right ? 	Aku harus segera kembali ke Manhattan . 
+407	Son of a bitch . 	Dasar keparat . 
+408	Against their level of comfort . 	Berlawanan dengan tingkat kenyamanan mereka . 
+409	The statute hasn 't changed . 	Berlawanan dengan tingkat kenyamanan mereka . 
+410	Oh , excuse me , sir . 	Undang- undang itu belum berubah . 
+411	Pardon me . 	Oh , maaf , Pak . 
+412	Sorry . 	Permisi . 
+413	Oh ! 	Permisi . 
+414	Mr . 	
+415	Donovan . 	Tn . 
+416	What ? 	Apa ? 
+417	What ? 	Apa ? 
+418	CIA . 	CIA . 
+419	Yeah . 	CIA . 
+420	I just wanted to chat . 	Ya . Aku hanya ingin mengobrol . 
+421	How 's the case going ? 	Bagaimana kelanjutan kasusnya ? 
+422	Case is going great . 	Bagaimana kelanjutan kasusnya ? 
+423	Couldn 't be better . 	Kasusnya berjalan baik . 
+424	Mmm- hmm . 	Cukup baik . 
+425	Has your guy talked ? 	Mmm- hmm . Orangmu sudah bicara ? 
+426	Excuse me . 	Maaf . 
+427	You met him . 	Maaf . 
+428	Has he talked ? 	Kau sudah bertemu dia . 
+429	Has he said anything yet ? 	Dia bicara ? 
+430	We 're not having this conversation . 	Kita tidak membicarakan ini . 
+431	No , of course not . 	Tidak . 
+432	No , I mean , we really are not having it . 	Tentu saja tidak . Tidak , maksudku , kita sungguh tidak membicarakannya . 
+433	You 're asking me to violate attorney- client privilege . 	Kau memintaku untuk menodai hak istimewa klien dan pengacara . 
+434	Oh , come on , Counselor . 	Kau memintaku untuk menodai hak istimewa klien dan pengacara . 
+435	You know , I wish people like you would quit saying " Oh , come on , Counselor . " 	Ayolah , konsuler . Aku harap orang seperti kalian ... ... berhenti mengucapkan " Oh , ayolah , konsuler . " 
+436	I didn 't like it the first time it happened today . 	Aku tidak menyukainya sejak awal itu diucapkan hari ini . 
+437	A judge said it to me twice . 	Aku tidak menyukainya sejak awal itu diucapkan hari ini . 
+438	And the more I hear it , the more I don 't like it . 	Hakim mengucapkan itu dua kali kepadaku . Dan semakin aku mendengarnya , semakin aku tak suka . 
+439	Okay , well , listen , I understand attorney- client privilege . 	Baik , dengar aku paham hak istimewa klien- pengacara . 
+440	I understand all the legal gamesmanship . 	Aku paham semua permainan di bidang hukum . 
+441	And I understand that 's how you make a living . 	Dan aku paham , itu adalah mata pencaharianmu . 
+442	But I 'm talking to you about something else . 	Tapi aku bicara padamu terkait hal lain . 
+443	The security of your country . 	Keamanan negaramu . 
+444	And I 'm sorry if the way I put it offends you . 	Dan aku minta maaf , andai caraku menyinggungmu . 
+445	But we need to know what Abel is telling you . 	Tapi kami perlu tahu apa yang Abel katakan kepadamu . 
+446	You understand me , Donovan ? 	Kau mengerti , Donovan ? 
+447	We need to know . 	Kami perlu tahu . 
+448	Don 't go " Boy Scout " on me . 	Kami perlu tahu . 
+449	We don 't have a rule book , here . 	Kita tak ada aturan di sini . 
+450	You 're Agent Hoffman , yeah ? 	Kau agen Hoffman , bukan ? 
+451	Yeah . 	Kau agen Hoffman , bukan ? 
+452	German extraction . 	Ya . Keturunan Jerman . 
+453	Yeah , so ? 	Ya , lalu ? 
+454	My name 's Donovan . 	Ya , lalu ? 
+455	Irish . 	Namaku Donovan . 
+456	Both sides , mother and father . 	Irlandia . Dari kedua orangtuaku . 
+457	I 'm Irish , you 're German . 	Aku Irlandia , kau Jerman . 
+458	But what makes us both Americans ? 	Tapi apa yang menjadikan kita warga Amerika ? 
+459	Just one thing . 	Hanya satu hal . 
+460	One , one , one . 	Hanya satu hal . 
+461	The rule book . 	
+462	We call it the Constitution and we agree to the rules , and that 's what makes us Americans . 	Kita menyebutnya institusi , ... ... dan kita setuju dengan aturan itu , ... ... dan itulah yang menjadikan kita warga Amerika . 
+463	It 's all that makes us Americans so don 't tell me there 's no rule book , and don 't nod at me like that , you son of a bitch . 	Itu semua yang menjadikan kita warga Amerika ... ... jadi jangan katakan tidak ada aturan , ... ... dan jangan mengangguk seperti itu kepadaku , keparat . 
+464	Do we need to worry about you ? 	Apa kami perlu mengkhawatirkanmu ? 
+465	Not if I 'm left alone to do my job . 	Tidak jika aku dibiarkan sendiri melakukan tugasku . 
+466	From this moment forward you will not refer to the U- 2 as a spy plane or reconnaissance aircraft . 	-- PANGKALAN UDARA PESHAWAR , PAKISTAN -- Mulai saat ini dan seterusnya ... ... kalian tidak menyebut Y- 2 sebagai pesawat mata- mata ... ... atau pesawat pengintai . 
+467	You will refer to it as " The Article . " 	Kalian menyebutnya dengan The article . 
+468	The Article has an 80- foot wingspan . 	The article memiliki rentang sayap 24 meter . 
+469	It 's powered by a single Pratt and Whitney J57 P- 37 engine . 	Dijalankan oleh satu mesin J57 P- 37 Pratt dan Whitney . 
+470	10, 000 pounds of thrust and a maximum speed of 430 miles an hour . 	Daya dorong 4 . 5 ton ... ... dan kecepatan maksimum 692 Km/ jam . 
+471	She may not be quick , but at your cruising altitude of 70, 000 feet , nothing will come close to you . 	Pesawat ini tidak kencang , ... ... tapi pada ketinggian jelajah di 70 . 000 kaki , ... ... tak akan ada yang bisa mendekati kalian . 
+472	70, 000 ? 	Pesawat ini tidak kencang , ... ... tapi pada ketinggian jelajah di 70 . 000 kaki , ... ... tak akan ada yang bisa mendekati kalian . 
+473	The idea is the enemy doesn 't even know you 're there . 	70 . 000 ? Tujuannya adalah musuh tak akan tahu kalian di sana . 
+474	It looks kind of flimsy . 	Ini terlihat tipis . 
+475	Every extra pound of weight costs a foot in altitude , and we need to accommodate the cameras . 	Tambahan berat berpengaruh pada daya jelajah ketinggian , ... ... dan kita perlu memasang kamera- kamera . 
+476	That 's a 4, 500- millimeter lens , times three . 	Itu lensa 4 . 500 milimeter , dikali tiga . 
+477	A pin- sharp panoramic camera four times as powerful as any aerial reconnaissance cameras we 've ever used . 	Kamera pencitraan tajam ... ... empat kali lebih tajam daripada kamera pngintai sebelumnya . 
+478	You 're gonna be taking pictures , lots of pictures . 	Kalian akan banyak memotret , banyak sekali potretan . 
+479	At 70, 000 feet , The Article can photograph 2, 000 square miles of territory in one pass . 	Pada ketinggian 70 . 000 kaki , the article mampu memotret ... ... 5 . 7 Km2 wilayah sekali jalan . 
+480	Now , drivers , give Agent Sumner your undivided attention . 	Sekarang , para pengemudi , ... ... tolong dengar penjelasan agen Summer . 
+481	The items you will need on your mission are over here . 	Peralatan yang diperlukan dalam misi kalian , ada di sebelah sini . 
+482	B camera , Revere 8 model 40 magazine , 	B camera , 40 magasin 8 model , ... ... Keystone Capri K- 25 , perak . 
+483	Keystone Capri K- 25 , silver . 	B camera , 40 magasin 8 model , ... ... Keystone Capri K- 25 , perak . 
+484	Hollow- handle shaving brush . 	Gagang alat cukur berongga . 
+485	Complete set of cipher tables on edible silver foil . 	Satu set tabel kode rahasia di atas kertas yang bisa dimakan . 
+486	Specialist photographic equipment . 	Satu set tabel kode rahasia di atas kertas yang bisa dimakan . 
+487	Yeah , we , uh ... 	Baiklah . 
+488	We get the idea . 	Kami sudah cukup dengan infonya , terimakasih . 
+489	Thank you . 	Kami sudah cukup dengan infonya , terimakasih . 
+490	Uh , excuse me , Agent , uh , Bosco . 	Maaf , Agen Bosco . 
+491	" Blasco . " 	Maaf , Agen Bosco . 
+492	Sir . 	" Blasco . " 
+493	There seems to be a subsection to this list here . 	Ya, Pak . Kelihatannya ada subseksi pada daftar di sini . 
+494	Well , most of this stuff came from his studio , but the rest is from the hotel room he was holed up in . 	Hampir semua barang- barang itu datang dari studionya ... ... tapi sisanya berasal dari kamar hotel dia ditangkap . 
+495	Where we found him . 	Hampir semua barang- barang itu datang dari studionya ... ... tapi sisanya berasal dari kamar hotel dia ditangkap . 
+496	The hotel room you searched ? 	Kamar hotel yang kalian geledah ? 
+497	Well , yeah . 	Kamar hotel yang kalian geledah ? 
+498	Can I see the warrant ? 	Ya . Boleh kulihat surat perintahnya ? 
+499	The what ? 	Apanya ? 
+500	Yeah , explain this to me . 	Ya , jelaskan ini kepadaku . 
+501	There was a warrant . 	Ya , jelaskan ini kepadaku . 
+502	There was a warrant . 	Saat itu ada surat perintah . 
+503	A civil detention writ for the arrest of an alien , but there was no search warrant for suspicion of criminal activity . 	Saat itu memang ada surat perintah . Yaitu surat perintah penahanan warga asing , ... ... tapi kala itu tidak ada surat perintah geledah ... ... untuk tuduhan tindak kriminal . 
+504	So , the search and the evidence that is the fruit of that search , that 's all tainted and should not be admitted . 	Jadi , penggeledahan dan bukti ... ... yang didapat dari penggeledahan itu , ... ... semuanya tidak sah dan tidak bisa diakui . 
+505	What protections is he due , Your Honor ? 	Jadi , penggeledahan dan bukti ... ... yang didapat dari penggeledahan itu , ... ... semuanya tidak sah dan tidak bisa diakui . 
+506	The man is not ... 	Hak perlindungan apa untuk dia , Yang Mulia ? 
+507	The man is what ? 	Pria itu bukanlah ... 
+508	He 's Rudolf Ivanovich Abel . 	Pria itu siapa ? 
+509	He is a Soviet citizen . 	Dia Rudolf Ivanovich Abel . 
+510	He 's not an American . 	Dia seorang warga Soviet . 
+511	1886 , Yick Wo v . 	Dia bukan warga Amerika . 1886 , Yick Wo V . 
+512	Hopkins . 	Hopkins . 
+513	The court held that even aliens , in that case Chinese immigrants , could not be held to answer for a crime without due process of law , including any alien that entered the country illegally . 	Di persidangan meskipun warga asing , kala itu imigran China , ... ... tidak boleh dituduh kriminal tanpa hak proses hukum , ... ... termasuk warga asing yang ilegal . 
+514	The Department of Justice has its first allegiance to the United States . 	Departmen Pengadilan Negeri ... ... memiliki kesetiaan utamanya pada Amerika Serikat . 
+515	I don 't see how an alien , if he 's here illegally , how he suffered deprivation of rights . 	Bagaimana mungkin warga asing yang masuk secara ilegal ... ... menerima pencabutan hak . 
+516	Rights as what ? 	Bagaimana mungkin warga asing yang masuk secara ilegal ... ... menerima pencabutan hak . 
+517	An American ? 	Hak sebagai apa ? 
+518	Rights as what , Counselor ? 	Sebagai warga Amerika ? Hak atas apa , konsuler ? 
+519	We 're in a battle for civilization . 	Kita di tengah perang peradaban . 
+520	This Russian spy came here to threaten our way of life . 	Mata- mata Rusia ini datang mengancam kelanjutan hidup kita . 
+521	Now , I have a courtroom of people waiting . 	Sekarang , ada persidangan yang menantiku . 
+522	Get out there , sit beside the Russian . 	Pergilah ke sana , dan duduk di sebelah orang Rusia itu . 
+523	Let 's get this over and done with . 	Mari kita bereskan ini . 
+524	And your motion is denied . 	Dan usulanmu ditolak . 
+525	He should take some insurance out on himself . 	Sebaiknya dia sudah punya asuransi untuk dirinya . 
+526	How did we do ? 	Sebaiknya dia sudah punya asuransi untuk dirinya . 
+527	In there ? 	Begaimana situasi kita ? 
+528	Uh ... 	
+529	Not too good . 	Tidak terlalu bagus . 
+530	Apparently , you 're not an American citizen . 	Kenyataanya , kau bukan warga Amerika . 
+531	That 's true . 	Kenyataanya , kau bukan warga Amerika . 
+532	And according to your boss , you 're not a Soviet citizen either . 	Itu benar . Dan menurut atasanmu ... ... kau juga bukan warga Soviet . 
+533	Well , the boss isn 't always right but he 's always the boss . 	Atasan , tidak selalu benar , ... ... tapi dia selalu menjadi atasan . 
+534	Do you never worry ? 	
+535	Would it help ? 	Apa itu akan membantu ? 
+536	All rise . 	
+537	" I pledge allegiance to the Flag 	" Saya berjanji untuk tetap setia untuk bendera ... " " ... Amerika Serikat , ... " " ... dan kepada Republik tempat berdirinya , ... " " ... satu negara di bawah kuasa Tuhan dan tidak dipisahkan , ... " " ... dengan kebebasan dan keadilan untuk semua " 
+538	" of the United States of America , 	" Saya berjanji untuk tetap setia untuk bendera ... " " ... Amerika Serikat , ... " " ... dan kepada Republik tempat berdirinya , ... " " ... satu negara di bawah kuasa Tuhan dan tidak dipisahkan , ... " " ... dengan kebebasan dan keadilan untuk semua " 
+539	" and to the Republic for which it stands , 	" Saya berjanji untuk tetap setia untuk bendera ... " " ... Amerika Serikat , ... " " ... dan kepada Republik tempat berdirinya , ... " " ... satu negara di bawah kuasa Tuhan dan tidak dipisahkan , ... " " ... dengan kebebasan dan keadilan untuk semua " 
+540	" one Nation under God , indivisible , 	
+541	" with liberty and justice for all . " 	
+542	First , you have to know what happens when an atomic bomb explodes . 	Pertama , kalian harus tahu apa yang terjadi ... ... saat bom atom meledak . 
+543	There is a bright flash , brighter than the sun . 	Ada kilatan cahaya , lebih terang daripada matahari . 
+544	It can smash in buildings , break windows all over town . 	Itu bisa menghancurkan bangunan , memecah jendela seluruh kota . 
+545	But if you duck and cover like Bert , you will be much safer . 	Tapi jika kalian membungkuk dan terlindungi seperti Bert , ... ... kalian akan lebih aman . 
+546	There are two kinds of attack , with warning and without any warning . 	Ada dua jenis serangan , ... ... dengan peringatan dan tanpa peringatan . 
+547	Mmm . 	
+548	What 's going on in here ? 	Ada apa ini ? 
+549	Okay , Dad , this is really important . 	Ada apa ini ? 
+550	When the war begins , the first thing they do is cut off all the water and all the electricity . 	Ayah , ini sangat penting . Saat perang tiba , hal pertama yang mereka lakukan ... ... adalah memutus jaringan air dan listrik . 
+551	So the first thing we should do is keep this filled , use the shower in your room , use the sink downstairs , the garden hose outside ... 	Jadi hal pertama yang kita lakukan adalah mengisi ini , ... ... gunakan shower di kamarmu , ... ... gunakan bak air di lantai atas , di kebun ... 
+552	Those are good ideas . 	Itu semua ide bagus . 
+553	But , Roger , I don 't see this as being something you ever have to worry about . 	Tapi , Roger , ayah rasa ini ... ... bukan hal yang harus kau khawatirkan . 
+554	Yeah , but when you hear the sirens , there may not be enough time to fill the tub and the sinks . 	Ya , tapi saat ayah dengar suara sirine ... ... tak cukup waktu untuk mengisi bak mandi dan bak cuci piring . 
+555	Not gonna be any sirens ... 	Tak akan ada sirine . 
+556	What is this ? 	Apa ini ? 
+557	When the bomb comes , the Reds will aim for the Empire State Building . 	Saat bom tiba , ... ... kendalinya akan mengarah ke Gedung Empire State . 
+558	But the bomb goes off at 10, 000 feet up . 	Tapi bom itu dilepaskan dari ketinggian 10 . 000 kaki . 
+559	In Life magazine , it 's called an airburst , and if the bomb is 50 megatons , the blast wave goes out and out and out and melts everything from here to here . 	Di majalah Life , itu dinamakan serangan udara , ... ... dan jika bom itu berbobot 50 megaton ... ... gelombang ledakannya akan menembus ... ... dan melelehkan semuanya dari sini hingga ke sini . 
+560	Including where we live . 	Di majalah Life , itu dinamakan serangan udara , ... ... dan jika bom itu berbobot 50 megaton ... ... gelombang ledakannya akan menembus ... ... dan melelehkan semuanya dari sini hingga ke sini . 
+561	Here . 	Termasuk tempat tinggal kita . 
+562	Yeah , right there . 	Ya , di sana . 
+563	But , you know , Roger , no one is dropping atomic bombs on us . 	Tapi , Roger , ... ... tak ada yang akan menjatuhkan bom atom pada kita . 
+564	But the Russians want to . 	Tapi , Roger , ... ... tak ada yang akan menjatuhkan bom atom pada kita . 
+565	You know that Russian guy you 're defending ? 	Tapi Rusia akan melakukan itu . 
+566	He 's here to get things ready for the guys who drop the bombs . 	Ayah tahu , orang Rusia yang Ayah bela ? Dia di sini untuk mempersiapkan semua hal ... ... untuk orang yang akan menjatuhkan bom itu . 
+567	No , no , he 's not ... 	Tidak , dia tidak ke sini untuk hal tersebut . 
+568	Not here for that . 	Tidak , dia tidak ke sini untuk hal tersebut . 
+569	He 's not even Russian . 	Tidak , dia tidak ke sini untuk hal tersebut . 
+570	He was born , we think , in Northern England . 	Dia bahkan bukan orang Rusia . Kami rasa dia lahir Inggris . 
+571	Yeah , but he 's a spy for Russia . 	Ya , tapi dia mata- mata Rusia . 
+572	I don 't even understand what you 're doing . 	Aku tak mengerti apa yang sedang Ayah lakukan . 
+573	You 're not a Communist , so why are you defending one ? 	Ayah bukan komunis , jadi kenapa ayah membela orang komunis ? 
+574	Well , because it 's my job . 	Karena itu tugas ayah . 
+575	It never used to be . 	Sebelumnya tidak pernah . 
+576	In the case of the United States of America versus Rudolf Abel , as to the first count in the indictment , how do you find the defendant ? 	Kasus antara Amerika Serikat ... ... dengan Rudolf Abel , ... ... sebagai keputusan pertama dalam dakwaan ini , ... ... apa keputusan anda terhadap terdakwa ? 
+577	Guilty or not guilty ? 	Bersalah atau tidak bersalah ? 
+578	Guilty . 	Bersalah atau tidak bersalah ? 
+579	As to the second count ? 	Keputusan kedua ? 
+580	Guilty . 	Bersalah . 
+581	As to the third count ? 	Keputusan ketiga ? 
+582	Guilty . 	Keputusan ketiga ? 
+583	Your Honor , I make a motion to set aside these guilty verdicts against the weight of evidence . 	Bersalah . Yang Mulia , saya mengajukan mosi untuk penundaan dakwaan bersalah ini ... ... untuk pengumpulan barang bukti . 
+584	Denied . 	Ditolak . 
+585	The jury is discharged . 	Ditolak . 
+586	Thank you all . 	Juri dipersilakan keluar . Terima kasih . 
+587	I would like to add that , if I were one of you , 	Aku ingin menambahkan , jika saya di sisi kalian , ... ... saya akan memutuskan hal sama . 
+588	I would 've reached the same verdict . 	Aku ingin menambahkan , jika saya di sisi kalian , ... ... saya akan memutuskan hal sama . 
+589	Sentencing will be 	Vonis akan ditetapkan ... ... pada 15 November . 
+590	November 15 . 	Vonis akan ditetapkan ... ... pada 15 November . 
+591	The death sentence is not a foregone conclusion . 	Hukuman mati bukanlah putusan awal . 
+592	Don 't worry . 	Hukuman mati bukanlah putusan awal . 
+593	I 'm not afraid to die , Mr . 	Aku tak takut mati , Tn . 
+594	Donovan . 	Aku tak takut mati , Tn . 
+595	Although it wouldn 't be my first choice . 	Meskipun begitu , ... itu bukan pilihan utamaku . 
+596	You left this behind . 	Kau ketinggalan ini . 
+597	Oh , thank you . 	Terima kasih . 
+598	Oh , thank you very much ! 	Terima kasih banyak ! 
+599	You 've never asked me if the charges were true . 	Kau tak pernah menanyakan apa tuduhan itu benar . 
+600	If I am indeed a spy . 	Apa aku memang seorang mata- mata . 
+601	This is how we do it . 	Ini cara kita melakukannya . 
+602	The case against you matters . 	Kasus terhadapmu , penting . 
+603	Making them prove it matters . 	Kasus terhadapmu , penting . 
+604	The fiction is ... 	Membuktikan pada mereka , itu penting . 
+605	Whether you did it or not doesn 't matter . 	Fiksinya adalah ... Apa kau melakukannya atau tidak , itu tidak penting . 
+606	The state has to prove it , that you 're a spy . 	Negara bagian harus membuktikan , bahwa kau ini mata- mata . 
+607	So you 're not curious ? 	Negara bagian harus membuktikan , bahwa kau ini mata- mata . 
+608	No , not really . 	Jadi kau tak curiga ? Tidak terlalu . 
+609	I always assumed you were an artist . 	Aku selalu beranggapan kau seorang seniman . 
+610	My wife , she 's the artist . 	Aku selalu beranggapan kau seorang seniman . 
+611	She 's a musician in the Children 's Orchestra of Moscow . 	Istriku , dia seorang seniman . Dia seorang musisi ... ... di orkestra anak- anak Moscow . 
+612	What instrument ? 	Alat musik apa ? 
+613	The harp . 	Alat musik apa ? 
+614	Oh . 	Harpa . 
+615	Then , she 's an angel . 	Berarti , dia seorang bidadari . 
+616	Standing there like that , you remind me of a man who used to come to our house when I was young . 	Berdiri di sana seperti itu , mengingatkanku pada seseorang , ... ... yang sering datang ke rumahku saat aku masih muda . 
+617	My father used to say , " Watch this man . " 	Ayahku sering bilang , " perhatikan pria ini . " 
+618	So I did , every time he came . 	Aku melakukannya , setiap dia datang . 
+619	And never once did he do anything remarkable . 	Dan tak sekalipun ... ... dia melakukan hal mengesankan . 
+620	And I remind you of him ? 	Aku mengingatkan kau padanya ? 
+621	This one time , I was about the age of your son . 	Suatu hari , saat aku masih seumuran putramu . 
+622	Our house was overrun by partisan border guards . 	Rumah kami dikepung oleh gerilyawan perbatasan . 
+623	Dozens of them . 	Mereka ada 12 orang . 
+624	My father was beaten , my mother was beaten , and this man , my father 's friend , he was beaten . 	Ayahku dipukuli , Ibuku dipukuli , ... ... dan pria ini , teman ayahku , dia juga dipukuli . 
+625	And I watched this man . 	Dan kuperhatikan dia . 
+626	Every time they hit him he stood back up again . 	Setiap kali mereka memukulinya ... ... dia berdiri kembali . 
+627	So they hit him harder . 	Maka mereka memukuli lebih keras . 
+628	Still , he got back to his feet . 	Tetap saja , dia beridir kembali . 
+629	I think because of this they stopped the beating . 	Kurasa karena itulah , mereka berhenti memukul . 
+630	They let him live . 	Kurasa karena itulah , mereka berhenti memukul . 
+631	I remember them saying it . 	Aku ingat mereka berkata ... 
+632	It sort of means , like , uh , " standing man . " 	Itu artinya , seperti ... " Pria yang gigih . " 
+633	Standing man . 	
+634	Hello , Jim ! 	
+635	Millie , you 're a vision . 	Halo , Jim ! / Millie , kau sungguh cantik . 
+636	Mortie 's busy getting kitted out . 	Mortie sibuk memasang dasinya . 
+637	But come on in . 	Mortie sibuk memasang dasinya . 
+638	Scotch , Jim ? 	
+639	Oh , yes , please . 	Mau scotch , Jim ? / Oh , ya . 
+640	Thank you . 	Mau scotch , Jim ? / Oh , ya . 
+641	Uh , just a drop of water . 	Terima kasih . 
+642	Your Honor . 	Yang Mulia . 
+643	Hello , Jim ! 	Yang Mulia . 
+644	Just going out . 	Halo , Jim ! 
+645	Got a few minutes though . 	Aku mau pergi . Cuma ada sedikit waktu . 
+646	March of Dimes thing . 	Acara arak- arakan . 
+647	Millie is active . 	Acara arak- arakan . 
+648	Well , thank you for seeing me . 	Terimakasih , bersedia menemuiku . 
+649	I just wanted to give you my two cents on the sentencing . 	Aku cuma menyampaikan pemikiranku terhadap vonis . 
+650	And I thought maybe I should pester you at home as not all of my points are narrowly legal . 	Jadi kupikir aku menemuimu di rumah . Karena beberapa maksudku agak sedikit keluar aturan . 
+651	Yeah , well , it 's that kind of case . 	Ya , ini kasus semacam itu . 
+652	I hope I wasn 't too scratchy during the trial but it 's exactly what you say . 	Kuharap aku tidak terlalu keras di sidang ... ... tapi itu seperti yang kaukatakan . 
+653	Nothing about this is narrowly legal . 	Kuharap aku tidak terlalu keras di sidang ... ... tapi itu seperti yang kaukatakan . 
+654	There are bigger issues . 	Ini kasus besar . 
+655	Bigger issues ! 	Kasus besar ! 
+656	Thank you , thank you . 	Terima kasih . 
+657	Uh ... 	Terima kasih . 
+658	Sir ... 	Pak ... 
+659	I think it could be considered in the best interests of the United States that Abel remain alive . 	Kurasa perlu dipertimbangkan ... ... demi kebaikan Amerika Serikat ... ... kalau Abel tetap dibiarkan hidup . 
+660	Why ? 	Kenapa ? 
+661	I 'm not saying I' ve made up my mind but if he was gonna cooperate , work with the government , he would 've done it already . 	Aku belum memutuskannya ... ... tapi jika ia dulu mau bekerjasama , ... ... bekerja dengan pemerintah , dia sudah bebas . 
+662	- True , but the issue here ... 	Aku belum memutuskannya ... ... tapi jika ia dulu mau bekerjasama , ... ... bekerja dengan pemerintah , dia sudah bebas . 
+663	- You can 't ... 	Aku belum memutuskannya ... ... tapi jika ia dulu mau bekerjasama , ... ... bekerja dengan pemerintah , dia sudah bebas . 
+664	Excuse me . 	Benar , tapi masalah di sini ... 
+665	You can 't say it 's in the best interest of the United States that he spend the rest of his days in a prison cell . 	Kau tak bisa mengatakan Amerika Serikat akan aman ... ... jika dia habiskan sisa hidupnya di penjara . 
+666	How is this the national interest ? 	Bagaimana bisa ini berdampak nasional ? 
+667	Not the incarceration itself , sir . 	Tidak secara langsung , Pak . 
+668	It is possible that , in the foreseeable future , an American of equivalent rank might be captured by Soviet Russia . 	Ini memungkinkan untuk kedepannya . Seorang warga Amerika dengan tugas sama ... ... ditangkap oleh Soviet Russia . 
+669	We might want to have someone to trade . 	Kita mungkin ingin memiliki seseorang untuk pertukaran . 
+670	Wow . 	Kita mungkin ingin memiliki seseorang untuk pertukaran . 
+671	That sounds like spinning what- ifs . 	Wow . Itu kedengaran seperti memutar kemungkinan . 
+672	You could do that till the cows come home . 	Kau bisa melakukan itu hingga ternakmu pulang . 
+673	It 's my business , what- ifs . 	Kau bisa melakukan itu hingga ternakmu pulang . 
+674	I 'm in insurance . 	Memutar kemungkinan sudah pekerjaanku . 
+675	And there 's nothing implausible about this one . 	Aku di asuransi . Dan tak ada yang perlu diragukan dalam hal ini . 
+676	It 's entirely in the realm of what could happen . 	Semua ini berada dalam cakupan aman . 
+677	It 's the kind of probability that people buy insurance for . 	Ini semacam alasan kenapa orang membeli asuransi . 
+678	If we send this guy to his death , we leave ourselves wide open . 	Jika kita vonis mati orang ini , maka kita akan terbuka . 
+679	No policy in our back pocket for the day the storm comes . 	Kita tak punya pegangan untuk cadangan ... ... di kala badai menghadang . 
+680	Nice speech . 	Pidato yang bagus . 
+681	Sir , there is also the humanitarian argument . 	Pak , selain itu juga ada alasan kemanusiaan . 
+682	Should he die for doing the job they sent him to do ? 	Haruskah dia mati hanya karena menjalankan tugasnya ? 
+683	All right , Counselor . 	Baiklah , konsuler . 
+684	I gotta run . 	Aku harus pergi . 
+685	Good seeing you , Jim . 	Senang bertemu denganmu , Jim . 
+686	I' ll walk you out . 	Kuantar kau keluar . 
+687	All rise . 	
+688	The United States District Court for the Eastern District of New York is now in session . 	Pengadilan wilayah Amerika Serikat ... ... wilayah Timur New York , dimulai . 
+689	The honorable Mortimer Byers presiding . 	Yang Mulia Mortimer Byers memasuki ruang sidang . 
+690	Be seated . 	Silakan duduk . 
+691	The defendant will please rise . 	Terdakwa harap berdiri . 
+692	In the measured judgment of this court the following sentence , based upon the jury 's verdict of guilty as to each count of the indictment , is believed to meet the test which has been stated . 	Dari pertimbangan pengadilan ini untuk vonis terkait , ... ... berdasarkan putusan bersalah dari juri ... ... dari masing- masing keputusan , ... ... yang diyakini telah mencapai kesepakatan . 
+693	Pursuant to the verdict of guilty as to all counts , the defendant is committed to the custody of the Attorney General of the United States for imprisonment in a federal institution to be selected by him for a period of 30 years . 	Menurut semua putusan bersalah yang ada , ... ... terdakwa dikenai hukuman ... ... oleh Jaksa Agung Amerika Serikat ... ... hukuman penjara di institusi federal ... ... yang dijatuhkan padanya selama 30 tahun . 
+694	Marshals , you may take the defendant into custody . 	Petugas , dipersilakan membawa terdakwa ke tahanan . 
+695	No ... 	Petugas , dipersilakan membawa terdakwa ke tahanan . 
+696	No electrocution ? 	Petugas , dipersilakan membawa terdakwa ke tahanan . 
+697	No . 	Tidak ada eksekusi listrik ? 
+698	No , no . 	Tidak ada eksekusi listrik ? 
+699	Why aren 't we hanging him ? 	Tidak . 
+700	In the name of God , why aren 't we hanging him ? 	Kenapa kita tak menggantungnya ? 
+701	Sit down , sir ! 	Demi Tuhan , mengapa dia tidak digantung ? 
+702	He 's a spy ! 	Duduklah , Pak ! 
+703	He 's killing us with his lies ! 	Dia mata- mata ! Dia membunuhku kita dengan kebohongan ! 
+704	In the name of God , why aren 't we hanging him ? 	Demi Tuhan , kenapa kita tidak menggantung dia ? 
+705	That 's right ! 	Demi Tuhan , kenapa kita tidak menggantung dia ? 
+706	He 's a spy ! 	Dia mata- mata ! 
+707	Mr . 	
+708	Donovan ! 	
+709	Mr . 	Tn . 
+710	Donovan ! 	Donovan ! 
+711	Just one question . 	Donovan ! 
+712	Just one question , sir . 	Satu pertanyaan saja , Pak . 
+713	My hat ! 	
+714	My hat ! 	Topiku ! 
+715	My hat ! 	Topiku ! 
+716	Nobody here has a comment . 	Tak ada yang bisa berkomentar . 
+717	Mr . and Mrs . 	Tak ada yang bisa berkomentar . 
+718	Donovan are not answering questions . 	Tak ada yang bisa berkomentar . 
+719	How do you feel now that this national nightmare is over ? 	Donovan tidak menjawab pertanyaan . Bagaimana perasaan anda sekarang ? 
+720	Mr . 	Apa ancaman nasional terlah berakhir ? 
+721	Donovan , are you happy with the verdict ? 	Apa ancaman nasional terlah berakhir ? 
+722	We 're ... 	Donovan , anda senang dengan putusan itu ? 
+723	We 're in firm ground on , uh , for a case on appeal . 	Kami punya cukup bukti kuat untuk mengajukan banding . 
+724	Appeal ? 	Kami punya cukup bukti kuat untuk mengajukan banding . 
+725	Appeal , yes . 	Kami punya cukup bukti kuat untuk mengajukan banding . 
+726	Jim , you did a great job . 	Jim , kau melakukan tugas dengan baik . 
+727	You fulfilled your mandate and then some . 	Kau memenuhi mandatmu . 
+728	But the man is a spy . 	Tapi orang ini seorang mata- mata . 
+729	The verdict is correct and there 's no reason to appeal it . 	Putusannya sudah benar dan tak ada alasan untuk banding . 
+730	There 's ample procedural reason . 	Putusannya sudah benar dan tak ada alasan untuk banding . 
+731	We know the search is tainted . 	Terdapat banyak alasan prosedur . 
+732	And Fourth Amendment issues will always weigh more heavily in an appellate forum . 	Kita tahu , penggeledahan itu tercemar . Dan amandemen keempat ... ... selalu memiliki bobot lebih banyak dalam forum banding . 
+733	We 've got a good shot . 	Kita punya kesempatan bagus . 
+734	What the goddamn hell are you talking about ? 	Apa yang kau bicarakan ? 
+735	We were supposed to show he had a capable defense , which we did . 	Kita seharusnya hanya menunjukkan dia layak mendapat pembelaan . 
+736	Why are you citing the goddamn Constitution at me ? 	Kenapa kau mengutip isi konstitusi padaku ? 
+737	Tom , if you look me in the eye and tell me we don 't have grounds for an appeal , I' ll drop it right now . 	Tom , pandang aku ... ... dan katakan kita tidak punya banyak bukti ... ... untuk naik banding , aku akan lepaskan ini sekarang . 
+738	I 'm not saying that . 	Tom , pandang aku ... ... dan katakan kita tidak punya banyak bukti ... ... untuk naik banding , aku akan lepaskan ini sekarang . 
+739	You know what I 'm saying . 	Aku tak katakan itu . 
+740	Tom is saying there 's a cost to these things . 	Kau tahu apa yang kukatakan . Tom merasa ini akan menimbulkan pengorbanan . 
+741	That 's right . 	Itu benar . 
+742	A cost to both your family and your firm . 	Pengorbanan pada keluarga dan firmamu . 
+743	I' ve missed music . 	Aku rindu dengan musik . 
+744	They checked the radio to make sure there was no transmitter in it . 	Mereka telah periksa radionya , memastikan tak ada pemancar di dalamnya . 
+745	I 'm sure they did . 	Mereka telah periksa radionya , memastikan tak ada pemancar di dalamnya . 
+746	Shostakovich . 	Shostakovich . 
+747	Mmm . 	Shostakovich . 
+748	That 's a very great artist , Shostakovich . 	Shostakovich , seorang seniman hebat . 
+749	Uh , I think our strongest grounds for reversal are constitutional . 	Kupikir ... ... pijakan terkuat kita untuk banding ... ... adalah konstitusional . 
+750	Our best chance is if the Supreme Court agrees to review our case . 	Peluang terbaik kita adalah jika pengadilan tinggi setuju meninjau kasus kita . 
+751	Jim ... 	Jim ... 
+752	You should be careful . 	Kau harus berhati- hati . 
+753	Careful . 	Hati- hati . 
+754	♪ 77 Sunset Strip 	
+755	Edward Byrnes . ♪ 77 Sunset Strip 	Edward byrnes . 
+756	And Richard Long . 	Dan Richard Long . 
+757	Good morning , Suzanne . 	Selamat pagi , Suzanne . 
+758	Good morning , Dick . 	Selamat pagi , Suzanne . 
+759	There is a special delivery letter here for you . 	Selamat pagi , Dick . 
+760	Oh , her . 	Oh , dia . 
+761	Mom ! 	
+762	What in God 's name happened ? 	Demi Tuhan , apa yang terjadi ? 
+763	Honey , are you all right ? 	Demi Tuhan , apa yang terjadi ? 
+764	Mom ! 	Sayang , kau baik saja ? 
+765	Are you hurt ? 	Ibu ! / Kau terluka ? 
+766	I' ve got her . 	Ibu ! / Kau terluka ? 
+767	Upstairs ! 	Ibu ! / Kau terluka ? 
+768	Are you all right ? 	
+769	I sat with my back against the wall , Dad ! 	Kalian baik saja ? / Aku duduk membelakangi dinding , Ayah ! 
+770	Are you okay ? 	Kalian baik saja ? / Aku duduk membelakangi dinding , Ayah ! 
+771	Are you all right ? 	Kau tak apa- apa ? 
+772	Dad , I sat with my back against the wall ! 	Kau baik- baik saja ? 
+773	Good , good . 	Ayah , aku duduk membelakangi dinding ! 
+774	Away from the windows ! 	Ayah , aku duduk membelakangi dinding ! 
+775	Good , good , good , good , good . 	Bagus , bagus . / Jauh dari jendela ! 
+776	Good boy , good boy , good boy . 	Bagus , bagus , bagus . Anak pintar . 
+777	It 's okay . 	
+778	It 's all right . 	Tak apa . 
+779	It 's all right , they 're gone , they 're gone . 	Semua baik saja . Tak apa . 
+780	They 're cowards . 	Mereka telah pergi . 
+781	They 're gone . 	Mereka pengecut . 
+782	We have detectives canvassing the neighborhood . 	Mereka telah pergi . Sudah ada detektif yang menanyai tetangga . 
+783	Maybe we 'll find a description of the car but I don 't think it 's very likely . 	Mungkin kita akan temukan ciri- ciri mobilnya ... ... tapi kurasa itu kurang jelas . 
+784	We 're gonna need protection . 	Mungkin kita akan temukan ciri- ciri mobilnya ... ... tapi kurasa itu kurang jelas . 
+785	Oh , I have instructions to leave two cars here . 	Kami butuh perlindungan . Saya sudah instruksikan dua kendaraan di sini . 
+786	It 'll be pretty obvious that this is a secure ... 	Sudah cukup jelas ... ... ini akan aman ... / Untuk berapa lama ? 
+787	For how long ? 	Sudah cukup jelas ... ... ini akan aman ... / Untuk berapa lama ? 
+788	I have to be in Washington later on this week . 	Aku harus ke Washington minggu ini . 
+789	What are you doing ? 	Aku harus ke Washington minggu ini . 
+790	What are you doing to your family ? 	Apa yang kau lakukan ? 
+791	Pardon me , Officer ? 	Apa yang kau lakukan pada keluargamu ? 
+792	You 're still defending this guy ? 	Maaf , opsir ? 
+793	I mean , what are you fighting for him for ? 	Kau masih membela orang itu ? 
+794	Okay , knock that off , Officer . 	Apa yang kau perjuangkan untuknya ? Baik , hentikan itu opsir . 
+795	I' ll knock off nothing . 	Aku tak akan berhenti . 
+796	I was in the third wave at Omaha Beach . 	Aku tak akan berhenti . 
+797	Hey , I did my time in the service . 	Aku di gelombang ketiga di pantai Omaha . 
+798	I was fighting these guys , and you 're defending them ? 	Hei , aku ikut wajib militer . 
+799	Why don 't you just do your job as an officer of the law ? 	Aku memerangi orang itu dan kau membelanya ? Kenapa tak kau lakukan tugasmu sebagai penegak hukum ? 
+800	Okay , I 'm sorry . 	
+801	Let 's go outside . 	Baiklah , maaf . 
+802	Come on . 	Baiklah , maaf . 
+803	You know what ? 	Ayo keluar . 
+804	Just forget him . 	Ayolah . Begini saja . 
+805	What am I not getting here ? 	Lupakan dia . 
+806	Outside , Officer . 	Kenapa aku tak boleh di sini ? Keluar opsir . 
+807	I 'm sorry . 	Maaf . 
+808	Defending a commie spy . 	Membela mata- mata komunis . 
+809	Jeez ! 	Membela mata- mata komunis . 
+810	Do you feel that you deserve this , sir ? 	Apa ini pantas untuk anda , Pak ? 
+811	Should it become necessary to abandon the aircraft over Soviet territory , then there 's a two- and- a- half pound explosive charge contained within the fuselage . 	Sangat perlu untuk meninggalkan pesawat di atas wilayah Soviet . Lalu di sana ada dua setengah pound muatan peledak ... ... yang dimuat di badan pesawat . 
+812	Now , first , you activate the circuits . 	Pertama , kalian harus aktifkan sirkuitnya . 
+813	But to start the 70- second timer , you need to flip the switch marked " Destruct . " 	Tapi untuk memulai hitung mundur 70 detik ... ... kalian perlu menarik tuas bertuliskan " hancurkan . " 
+814	It is imperative that these flights remain a secret and this equipment does not fall into enemy hands . 	Sangat penting membuat penerbangan ini tetap rahasia . Dan perlengkapannya tidak jatuh ke tangan musuh . 
+815	What about us ? 	Bagaimana dengan kita ? 
+816	I don 't know if you 're kidding , Lieutenant Powers . 	Aku tak tahu apa kau bercanda , Letnan Powers . 
+817	I 'm not . 	Aku tak tahu apa kau bercanda , Letnan Powers . 
+818	What you know about the plane is as secret as the plane itself . 	Apa yang kalian ketahui tentang pesawat ... ... sama rahasianya dengan pesawat itu sendiri . 
+819	If capture is a foregone conclusion , you go down with your plane . 	Jika gagal , keputusan awal kalian ... ikut turun bersama pesawat . 
+820	Now , if you think you can ditch and get away , if you 're close enough to a border , fine . 	Jika menurut kalian bisa mendarat di air dan kabur , ... ... dan kalian cukup dekat dengan perbatasan , silakan saja . 
+821	You know the ejection protocol . 	Jika menurut kalian bisa mendarat di air dan kabur , ... ... dan kalian cukup dekat dengan perbatasan , silakan saja . 
+822	But if you ditch , you bring the dollar with you . 	Tapi jika kalian hanya mendarat di air , ... ... kalian punya koin dollar . 
+823	All right , there 's a pin inside . 	Di dalamnya terdapat peniti . 
+824	You scratch your skin anywhere , it 's instantaneous . 	Goreskan ke kulit manapun di tubuh kalian , reaksinya akan cepat . 
+825	If you think you are about to be captured , you use it . 	Jika rasanya kalian akan tertangkap ... ... gunakanlah koin itu . 
+826	Drivers , you understand me ? 	Para pengemudi , kalian paham ? 
+827	Spend the dollar . 	Belanjakanlah dolarnya . 
+828	Mr . 	
+829	Chief Justice , and may it please the court . 	Tuan Hakim Agung , dan semoga penyampaian saya baik . 
+830	The " Cold War " is not just a phrase , Your Honor . 	Perang dingin bukan cuma sekedar uangkapan , Yang Mulia . 
+831	It 's not just a figure of speech . 	Itu bukan hanya kata kiasan . 
+832	Truly , a battle is being fought between two competing views of the world . 	Kenyataannya , perang telah berlangsung ... ... di antara dua pesaing di dunia . 
+833	I contend that Rudolf Ivanovich Abel , 	Saya berpendapat bahwa Rudolf Ivanovich Abel , ... ... atau dipanggil " Kolonel Abel , " ... ... bahkan oleh orang yang menangkapnya . ... adalah lawan kita dalam perang tersebut . 
+834	" Colonel Abel , " as he was called even by the men who arrested him , is our foe in that battle . 	Saya berpendapat bahwa Rudolf Ivanovich Abel , ... ... atau dipanggil " Kolonel Abel , " ... ... bahkan oleh orang yang menangkapnya . ... adalah lawan kita dalam perang tersebut . 
+835	Auxiliary power ? 	Saya berpendapat bahwa Rudolf Ivanovich Abel , ... ... atau dipanggil " Kolonel Abel , " ... ... bahkan oleh orang yang menangkapnya . ... adalah lawan kita dalam perang tersebut . 
+836	Connected and on . 	Daya bantu ? 
+837	Oxygen seat- pack supply ? 	Terhubung dan menyala . Persedian oksigen ? 
+838	Supply at 1, 800 psi . 	Tersedia pada 1 . 800 psi . 
+839	Inverter ? 	Tersedia pada 1 . 800 psi . 
+840	On , light out . 	Pembalik ? 
+841	He was treated as a combatant in that war until it no longer suited our government to so treat him . 	Menyala , lampu dimatikan . Dia diperlakukan sebagai seorang pejuang di perang itu ... ... hingga dia tak lagi layak untuk dipertahankan pemerintah kita . 
+842	Accordingly , he was not given the protections we give our own citizens . 	Oleh karena itu , ... ... dia tidak diberi perlindungan seperti layaknya warga kita . 
+843	He was subjected to treatment that , however appropriate for a suspected enemy , was not appropriate to a suspected criminal . 	Dia mendapat perlakuan itu ... ... seberapa layaknya untuk seorang tersangka musuh , ... ... tidaklah selayak tersangka kriminal . 
+844	Fuel transfer ? 	Dia mendapat perlakuan itu ... ... seberapa layaknya untuk seorang tersangka musuh , ... ... tidaklah selayak tersangka kriminal . 
+845	Transfer switch off . 	Aliran bahan bakar ? 
+846	Destructor ? 	Alirannya dimatikan . 
+847	Destructor safety . 	Penghancur ? 
+848	Climb data card . 	Penghancur aman . 
+849	Installed in aircraft . 	Kartu data pendakian . 
+850	I know this man . 	Saya kenal orang ini . 
+851	If the charge is true , he serves a foreign power but he serves it faithfully . 	Meski itu benar bahwa ia membela kekuatan asing , setidaknya ia setia . 
+852	If he is a soldier in the opposing army , he is a good soldier . 	Meski ia prajurit di pihak lawan , tapi ia seorang prajurit baik . 
+853	He has not fled the field of battle to save himself . 	Ia tidak kabur dari medan perang untuk menyelamatkan dirinya . 
+854	He has refused to serve his captor . 	Ia menolak untuk mengabdi pada musuhnya . 
+855	He has refused to betray his cause . 	Ia menolak untuk mengkhianati tujuannya . 
+856	He has refused to take the coward 's way out . 	Ia menolak untuk mengambil jalan pengecut . 
+857	The coward must abandon his dignity before he abandons the field of battle . 	Para pengecut akan melepas martabatnya ... ... sebelum dia kabur dari medan perang . 
+858	That , Rudolf Abel will never do . 	Itu , yang tak akan pernah dilakukan Rudolf Abel . 
+859	Shouldn 't we , by giving him the full benefit of the rights that define our system of government , show this man who we are ? 	Tidak seharusnya kah kita , ... ... dengan memberinya keuntungan penuh ... ... dari hak yang ditetapkan sistem pemerintahan kita , ... menunjukkan pada orang ini jati diri kita ? 
+860	Who we are . 	Jati diri kita . 
+861	Is that not the greatest weapon we have in this Cold War ? 	Bukankah itu senjata terbaik yang kita miliki di perang dingin ini ? 
+862	Will we stand by our cause less resolutely than he stands by his ? 	Apa kita mau kalah dalam mempertahankan prinsip ... ... dibandingkan dirinya ? 
+863	The President announced that a NASA weather plane disappeared four days ago north of Turkey . 	Presiden mengumumkan ... ... bahwa pesawat cuaca NASA menghilang di Turki empat hari lalu . 
+864	And the Space Administration fears that its pilot died in the crash . 	Dan administrasi luar angkasa menduga ... ... pilotnya tewas dalam kecelakaan itu . 
+865	Radar showed the plane wandering off course deep into Soviet territory before contact was lost , complicating any effort to recover it or the remains of the pilot . 	Radar menunjukkan pesawat itu kehilangan arah ... ... jatuh ke wilayah Soviet sebelum kehilangan kontak , ... Hal itu menyulitkan usaha pengejaran pesawat ... ... atau jenazah pilot tersebut . 
+866	Now to news out of Washington . 	Sekarang berita dari Washington . 
+867	In a close vote today , the Supreme Court affirmed the conviction of Russian spy Rudolf Ivanovich Abel , five votes to four . 	Pada pemungutan suara hari ini , ... ... Pengadilan Tinggi telah memastikan keputusan ... ... terhadap mata- mata Rusia Rudolf Ivanovich Abel , ... ... dengan lima berbanding empat suara . 
+868	The case presented civil liberties issues , according to the Russian 's lawyer , James B . 	Kasus ini mengangkat isu kebebasan sipil , ... ... berdasar pernyataan pengacara James B . 
+869	Donovan . 	Kasus ini mengangkat isu kebebasan sipil , ... ... berdasar pernyataan pengacara James B . 
+870	When asked how he felt about today 's loss , 	Donovan . Saat ditanya perihal kekalahannya , ... 
+871	Mr . 	
+872	Donovan simply said , " Tired . " 	Tn . Donovan menjawab dengan simpel , " lelah . " 
+873	I' ll have more news for you after this message . ♪ Styling tricks 	Saya akan kembali dengan berita lainnya setelan pesan berikut . 
+874	It 's over . ♪ See the new , exciting styling tricks ♪ You ... 	Telah berakhir . 
+875	Marty . 	Marty . 
+876	I' ll be damned if I can find the file on that Prudential case . 	Aku tak bisa temukan berkas kasus prudential . 
+877	I , uh , Mr . 	Aku tak bisa temukan berkas kasus prudential . 
+878	Watters had me move it over to Jack Elwes 's office along with the first draft of the appeal . 	Tn . Watters memintaku untuk memindahnya kekantor Jack Elwes . 
+879	He did ? 	Bersama dengan draf pertama banding . 
+880	Yeah , he redrafted and filed that last week while you were in Washington . 	Benarkah ? Ya , dia membaut draf ulang dan menyimpannya minggu lalu saat kau di Washington . 
+881	How long have we been together ? 	
+882	You act as if I' ve never closed a deal . 	Kita sudah kenal berapa lama ? Kau bersikap seakan aku tak bisa menyelesaikan kasus . 
+883	Set up a meeting . 	Aturlah pertemuan . 
+884	Someplace fancy . 	Aturlah pertemuan . 
+885	I 'm betting Mr . 	Di tempat yang mewah . 
+886	Young would like some of the finer things 	Aku yakin Tn . 
+887	New York has to offer . 	Young akan suka dengan barang bagus . 
+888	And I want you to give me the summary of ... 	New York harus memberi penawaran . Dan aku ingin kau memberiku rangkuman laporan ... 
+889	Do you know anyone from Leipzig ? 	Kau mengenal seseorang dari Leipzig ? 
+890	" Leipzig . " Am I getting hate mail from Germany now ? 	" Leipzig . " Sekarang aku dapat surat protes dari Jerman ? 
+891	From East Germany . 	" Leipzig . " Sekarang aku dapat surat protes dari Jerman ? 
+892	Is it your wife ? 	Itu istrimu ? 
+893	No . 	Itu istrimu ? 
+894	No , no , no , no . 	Bukan , bukan . 
+895	She pretends to be but it 's not even a good pretense . 	Dia berpura- pura , dan penyamarannya tidak bagus . 
+896	" I 'm taking this liberty to write to you 	" Aku memberanikan diri menyuratimu ... " " ... setelah membaca dari surat kabar ... " " ... mengenai sikap manusiawi- mu ... " " ... kepada suamiku tercinta , Rudolf Abel . " 
+897	" after having learned from the newspapers 	" Aku memberanikan diri menyuratimu ... " " ... setelah membaca dari surat kabar ... " " ... mengenai sikap manusiawi- mu ... " " ... kepada suamiku tercinta , Rudolf Abel . " 
+898	" about your most humane attitude 	" Aku memberanikan diri menyuratimu ... " " ... setelah membaca dari surat kabar ... " " ... mengenai sikap manusiawi- mu ... " " ... kepada suamiku tercinta , Rudolf Abel . " 
+899	" towards my beloved husband , Rudolf Abel . " 	
+900	And do I write back ? 	Apa perlu kubalas ? 
+901	Yeah , yeah , yeah . 	Ya , ya . 
+902	What 's the next move when you don 't know what the game is ? 	Apa rencanamu berikutnya , saat kau tak tahu apa permainannya ? 
+903	Francis Gary Powers ... 	Francis Gary powers ... 
+904	On the strength of Article Two of the U . S . S . R . law on criminal responsibility for state crimes to 10 years of confinement with the first three years to be served in prison . 	Berdasar kekuatan Pasal 2 , hukum Uni Soviet ... ... atas tindak kejahatan negara ... ... 10 tahun kurungan ... .. dengan tiga tahun pertama berada di penjara . 
+905	The term of the punishment , including preliminary detention , shall be counted from May first , nineteen hundred and sixty . 	Masa penghukuman , ... ... dipotong masa tahanan persiapan , ... ... akan dihitung dari tanggal 1 Mei 1960 . 
+906	Mr . 	
+907	Donovan , thank you so much for coming . 	Tn . Donovan , terima kasih sudah bersedia hadir . 
+908	It 's a pleasure to meet you , Mr . 	Senang bertemu anda , Tn . 
+909	Dulles . 	Senang bertemu anda , Tn . 
+910	It 's an honor , sir . 	Dulles . 
+911	Nescafe , cream , two lumps . 	Nescafe , dengan krim , dua gula . 
+912	Thank you . 	Terima kasih . 
+913	Okay , this letter you received . 	Baiklah , dari surat yang anda terima ini . 
+914	Seems pretty clear that the Soviets are making an overture here . 	Terlihat jelas Soviet ingin membuat penawaran . 
+915	They 're doing it through East Germany because they still don 't want to acknowledge Abel as a Soviet citizen , much less a Soviet spy . 	Mereka melakukan ini lewat Jerman Timur ... ... karena mereka masih tak mengakui bahwa Abel warga Soviet , ... ... apalagi mata- mata Soviet . 
+916	So ... 	Mereka melakukan ini lewat Jerman Timur ... ... karena mereka masih tak mengakui bahwa Abel warga Soviet , ... ... apalagi mata- mata Soviet . 
+917	Lot of fiction going on . 	Banyak rekaan yang terjadi . 
+918	Yes , sir , but to what end ? 	Benar . 
+919	They got our guy , our spy pilot . 	Tapi untuk tujuan apa ? Mereka mendapatkan orang kita , pilot mata- mata . 
+920	We 've got their guy . 	Kita dapat orang mereka . 
+921	Prisoner exchange , I think that 's what they 're after . 	Pertukaran tahanan , kurasa itu yang mereka incar . 
+922	Which could hardly be a surprise to you , Counselor . 	Saya yakin anda tidak terkejut , Konsuler . 
+923	It 's an eventuality that I think you foresaw . 	Ini adalah hal yang sudah anda perkirakan . 
+924	Yes , I sure did , and I 'm so rarely right . 	Ya , benar , dan aku merasa benar . 
+925	Well , congratulations . 	Ya , benar , dan aku merasa benar . 
+926	Red letter day . 	Ini hari penuh kenangan . 
+927	Now , we have our man over there . 	Sekarang , orang kita berada di sana . 
+928	Powers . 	Sekarang , orang kita berada di sana . 
+929	Good man , but with a head full of classified information . 	Powers . Orang baik , tapi menyimpan informasi rahasia . 
+930	Abel has a head full of classified information , too , but he hasn 't given us a lick . 	Abel juga menyimpan informasi rahasia . Tapi dia tak memberi kita sedikitpun . 
+931	And , sir , take it from me , he won 't . 	Dan , menurutku , dia tak akan mau . 
+932	Yes , we know that , but the Russians don 't . 	Ya , kita tahu itu . 
+933	They want their man back before he cracks . 	Tapi Rusia tidak tahu . Mereka ingin orang mereka kembali sebelum membocorkan . 
+934	And we want Powers back for the same reasons . 	Dan kita ingin Powers kembali dengan alasan sama . 
+935	I think you are saying , sir , that there might be a happy ending for everyone . 	Saya rasa maksud anda ... ... bahwa ini adalah akhir yang bagus untuk semua orang . 
+936	Yes , if we , um , indulge their fiction . 	Ya , jika kita ikuti rekayasa mereka . 
+937	We want you to negotiate the swap because you 're a private citizen , so it 's not governments talking . 	Kami ingin kau yang menegoisasikan pertukaran ... ... karena kau dari warga sipil , ... ... jadi bukan pemerintah yang bicara . 
+938	They don 't acknowledge Abel as a Soviet citizen , and we don 't acknowledge East Germany as a sovereign country . 	Mereka tak akui Abel sebagai warga Soviet , ... ... dan kita tidak aku Jerman Timur sebagai negara berdaulat . 
+939	We haven 't recognized East Berlin since it was annexed by the Soviets in ´45 . 	Kita belum mengela Berlin Timur ... ... sejak diduduki oleh Soviet tahun 1945 . 
+940	So I act as a negotiator , representing ... 	Jadi aku bertindak sebagai negosiator , mewakili ... 
+941	You 're not representing anybody . 	Jadi aku bertindak sebagai negosiator , mewakili ... 
+942	Not a government official . 	Kau tak mewakili siapapun . 
+943	You have no official standing . 	Bukan staf kepemerintahan . Kau tidak dalam posisi formil . 
+944	So , some fiction on our side as well . 	Berarti , kita juga merekayasa . 
+945	Correct . 	Berarti , kita juga merekayasa . 
+946	Which means , of course , you can 't rely on any acknowledgment or help if things go south . 	Tepat sekali . Yang berarti , kau tak bisa mengharapkan pengakuan ... ... atau bantuan apabila ini gagal . 
+947	CIA can 't be responsible . 	CIA tak bisa bertanggungjawab . 
+948	We can 't be embarrassed . 	CIA tak bisa bertanggungjawab . 
+949	Where do they want this negotiation to take place ? 	Di mana tempat negoisasi yang mereka inginkan ? 
+950	There . 	Di mana tempat negoisasi yang mereka inginkan ? 
+951	" There " ? 	Di sana . 
+952	East Berlin . 	" Di sana " ? 
+953	Well , isn 't East Berlin getting rather ... 	Bukankah Berlin Timur dalam situasi ... 
+954	Oh , yes , the place is getting complicated . 	Ya , situasi di sana mulai rumit . 
+955	Yeah , complicated . 	Ya , rumit . 
+956	The Soviet side has been setting up checkpoints for the past few months to try to stop people hemorrhaging to the Western sectors , and it hasn 't worked . 	Pihak Soviet telah mengatur titik pengawasan beberapa bulan terakhir ... ... berusaha menghentikan orang saling bunuh di sektor Barat , ... ... dan itu gagal . 
+957	We have intelligence to suggest that they may go one step further and wall off the entire Eastern sector . 	Kami punya agen yang memberi masukan ... ... bahwa mereka telah ambil tindakan ... ... membangun dinding di sektor Timur . 
+958	Okay , that 's it in a nutshell . 	Baiklah , intinya begitu . 
+959	The decision is entirely yours . 	Keputusan sepenuhnya berada di tanganmu . 
+960	You need time to kick it around . 	Kau butuh waktu untuk memutuskannya . 
+961	No . 	Tidak . 
+962	No , I don 't . 	Tidak . 
+963	Well , fine . 	Aku tidak butuh waktu . 
+964	Fine . 	Baiklah kalau begitu . 
+965	Best that this all remains confidential . 	Semua ini bersifat rahasia . 
+966	Let 's not discuss any of this with , uh , Mary or with anyone else . 	Jangan bicarakan dengan Mary atau siapa pun . 
+967	Share the correspondence only with us . 	Bagilah informasi hanya dengan kami . 
+968	Let us know what they want to do and when . 	Bagilah informasi hanya dengan kami . 
+969	I' ve got no client , no wife , no country . 	Beritahu kami apa tindakan mereka dan kapan . Aku tidak punya klien , istri dan negara . 
+970	Don 't know what I 'm doing or when or who for . 	Tak tahu apa yang kulakukan atau kapan atau untuk siapa . 
+971	You 're doing it for your country , but your country doesn 't know that yet . 	Kau melakukan ini untuk negaramu , ... ... tapi negaramu belum mengetahui itu . 
+972	What about my client , the other person in this equation ? 	Bagaiamana dengan klienku , orang lain di pertukaran ini ? 
+973	My guy ? 	Bagaiamana dengan klienku , orang lain di pertukaran ini ? 
+974	Your guy ? 	Bagaiamana dengan klienku , orang lain di pertukaran ini ? 
+975	You mean the Russian ? 	Orangku ? Orangmu ? 
+976	He 's not your guy anymore , Counselor . 	Maksudmu si Rusia ? 
+977	Your guy is Francis Gary Powers now . 	Dia bukan orangmu lagi , konsuler . Sekarang orangmu adalah Francis Gary Powers . 
+978	What do I tell Rudolf Abel ? 	Aku harus katakan apa pada Rudolf Abel ? 
+979	Tell him not to drop dead . 	Aku harus katakan apa pada Rudolf Abel ? 
+980	Professor ? 	Profesor ? 
+981	Professor ? 	Profesor ? 
+982	Papa went to university . 	Papa pergi ke kampus . 
+983	You shouldn 't be here , Frederic . 	Kau sebaiknya tak di sini , Frederic . 
+984	They 're having classes today ? 	Kau sebaiknya tak di sini , Frederic . 
+985	He went to see . 	Mereka ada kuliah hari ini ? 
+986	That 's where he goes . 	Dia pergi melihatnya . 
+987	What are you doing here ? 	Karena itulah dia pergi . 
+988	I came to get you and your father . 	Kenapa kau kemari ? Aku datang membawamu dan ayahmu . 
+989	You have to come with me . 	
+990	You might not get out tomorrow . 	Kau ikutlah denganku . 
+991	Just ... 	Kau mungkin tak bisa keluar besok . 
+992	Just leave ? 	Kau mungkin tak bisa keluar besok . 
+993	Yes . 	Pergi begitu saja ? 
+994	Yes , yes , yes , leave . 	Ya . 
+995	Right now . 	Ya , pergi . 
+996	Go back . 	Mundur . 
+997	Go back . 	Mundur . 
+998	I' ll be okay , I 'm American . 	Mundur . Aku tak apa , aku warga Amerika . 
+999	Go back . 	
+1000	Go back to your father 's . 	Mundurlah . 
+1001	We 'll find another way . 	Kembalilah ke rumah ayahmu . 
+1002	Go . 	Kita akan cari jalan lain . 
+1003	Hey ! 	Hei ! 
+1004	So , hi . 	Hei ! 
+1005	Papers , please . 	Tolong , surat- suratnya . 
+1006	Ich bin Student Frederic Pryor . 	Saya mahasiswa , Frederic Pryor . 
+1007	Yes , Student . 	Ya , mahasiswa . 
+1008	My name 's Frederic Pryor . 	Nama saya Frederic Pryor . 
+1009	I 'm an economics student . 	Nama saya Frederic Pryor . 
+1010	See ? 	
+1011	It 's my dissertation . 	Lihat ? Ini disertasi saya . 
+1012	My thesis . 	Tesis saya . 
+1013	You see ? 	
+1014	Look , look . 	Anda lihat ? 
+1015	Look " The foreign trade system of the European Communist nations . " Huh ? 	Lihatlah . Lihat , " Sistem Perdagangan Luar Negeri Negara Komunis Eropa . " 
+1016	It was a lot of work . 	Itu tugas yang banyak . 
+1017	No , that 's my only copy . 	Jangan , itu salinan satu- satunya . 
+1018	No ! 	Tidak ! 
+1019	Tell me something . 	Beritahulah sesuatu . 
+1020	It came up at the last minute . 	Ini mendadak . 
+1021	They have offices in London . 	Mereka punya kantor di London . 
+1022	These clients . 	Mereka punya kantor di London . 
+1023	Not my idea . 	Klien- klien ini . 
+1024	Scotland , this fishing expedition . 	Itu bukan ideku . Skotlandia , ekspedisi memancing . 
+1025	What kind of fishing trip , Jim ? 	Perjalanan memancing seperti apa , Jim ? 
+1026	Salmon fishing . 	Memancing salmon . 
+1027	Just tell me that you 're not gonna be in any danger , that this is just a routine business trip , and I won 't worry . 	Cukup katakan kau tidak dalam bahaya , ... ... bahwa ini hanya perjalanan bisnis rutin , ... ... dan aku tak akan khawatir . 
+1028	I need my passport . 	Aku butuh pasporku . 
+1029	Just give me something to hold on to . 	Katakanlah sesuatu untuk peganganku . 
+1030	I don 't even care if it 's the truth . 	Katakanlah sesuatu untuk peganganku . 
+1031	I 'm doing this for us . 	Aku melakukan ini untuk kita . 
+1032	Mr . 	
+1033	Michener , here , is your Berlin escort . 	Tn . 
+1034	He 's an attache with the U . S . embassy . 	Michener , adalah pengawalmu di Berlin . Dia seorang atase di kedutaan besar Amerika . 
+1035	- So , it 's gotten goddamn complicated . 	Jadi , ini semakin rumit . 
+1036	- Uh- huh . 	Jadi , ini semakin rumit . 
+1037	As you know , the last letter from Mrs . 	Jadi , ini semakin rumit . 
+1038	Abel , whoever she is , talks about a lawyer in East Berlin , 	Seperti kau ketahui , surat terakhir dari Ny . Abel , ... ... entah dia siapa , bicara tentang pengacara di Berlin Timur , ... ... Tn . 
+1039	Mr . 	
+1040	Vogel , whoever he is , representing her interests , she says . 	Vogel , entah dia siapa , uang menjadi perwakilan dia . 
+1041	Yeah , Vogel says he 's gone to the Russian embassy in East Berlin and they may be ready to trade Abel for Powers . 	Ya , Vogel mengatakan ... ... dia pergi ke Kedutaan Besar Rusia di Berlin Timur ... ... dan mereka mungkin siap untuk menukar Abel untuk Powers . 
+1042	But no one knows who 's who , but essentially they 're all Russian , right ? 	Tapi tak seorangpun tahu peran mereka , ... ... tapi jelas mereka semua warga Rusia , bukan ? 
+1043	Well , Soviet . 	Tapi tak seorangpun tahu peran mereka , ... ... tapi jelas mereka semua warga Rusia , bukan ? 
+1044	Well , we think so . 	Soviet . 
+1045	What do you mean ? 	Kurasa begitu . 
+1046	Could we turn up the heat in here ? 	Apa maksudmu ? 
+1047	There 's a wrinkle . 	Ada sedikit perubahan rencana . 
+1048	They might try to throw you a curveball . 	Mereka mungkin mencoba menyulitkanmu . 
+1049	Try and get you to accept another prisoner other than Powers . 	Mencoba menawarkanmu tahanan lain selain Powers . 
+1050	Another American ? 	Mencoba menawarkanmu tahanan lain selain Powers . 
+1051	The , uh , East German Stasi picked up an American student . 	Warga Amerika lainnya ? Tentara Jerman menangkap seorang mahasiswa Amerika . 
+1052	Frederic Pryor . 	Frederic Pryor . 
+1053	Uh , the kid they found on the wrong side of the Wall . 	Anak itu ditangkap di sisi dinding yang salah . 
+1054	He 's a grad student out of Yale . 	Anak itu ditangkap di sisi dinding yang salah . 
+1055	- Came over here to study economics . 	Dia mahasiswa lulusan Yale . 
+1056	- Mmm- hmm . 	Datang ke sini belajar Ekonomi . 
+1057	So , they 're making noises about trying this kid for espionage . 	Jadi , mereka coba memanasi akan menjadikan anak itu sebagai mata- mata . 
+1058	Grave offense , capital crime . 	Ancaman serius , kejahatan kapital . 
+1059	Well . 	Ancaman serius , kejahatan kapital . 
+1060	Vogel got in touch with us , said he represents Pryor . 	Vogel menghubungi kami , kataya dia mewakili Pryor . 
+1061	Wait a minute . 	Vogel menghubungi kami , kataya dia mewakili Pryor . 
+1062	Vogel represents Mrs . 	Tunggu dulu . 
+1063	Abel and this ... 	Vogel mewakili Ny . 
+1064	This kid ? 	Abel dan anak ini ? 
+1065	Yeah , he 's busy . 	Abel dan anak ini ? 
+1066	Well , so , what is he ? 	Jadi dia orang mana ? 
+1067	Vogel , is he , uh , East German or is he Russian ? 	Vogel , apa Jerman TImur atau Rusia ? 
+1068	Well , try to figure it out when you meet him . 	Cari tahu sendiri saat kau bertemu dia . 
+1069	At Russian embassy , East Berlin , noon tomorrow . 	Di kedutaan Rusia , Berlin Timur , besok siang . 
+1070	Hoffman will show you how to get there . 	Hoffman akan tunjukan jalan ke sana . 
+1071	Wait , show me how to get there ? 	Hoffman akan tunjukan jalan ke sana . 
+1072	I 'm gonna have an escort . 	Tunggu , menunjukkan jalan ke sana ? 
+1073	Right ? 	Aku perlu pengawalan . 
+1074	Well , that was the plan but like I said , there 's a wrinkle . 	Benar kan ? Itu rencana sebelumnya , tapi seperti kukatakan , ada sedikit perubahan . 
+1075	I won 't be taking you . 	Aku tak mengawalmu . 
+1076	Decision 's been made . 	Aku tak mengawalmu . 
+1077	No U . S . government personnel are to cross the border until further notice . 	Keputusan telah dibuat . Tak ada staf pemerintahan AS boleh melewati perbatasan . 
+1078	How come ? 	
+1079	It 's too dangerous . 	Kenapa ? / Itu terlalu bahaya . 
+1080	Yeah , the East Germans grabbed this kid . 	Kenapa ? / Itu terlalu bahaya . 
+1081	There 's a degree of impunity that we had not anticipated . 	Ya , Jerman Timur menangkap anak ini . Ada derajat kebebasan hukum yang tidak kita antisipasi . 
+1082	The point is that the East German agenda and the Russian agenda may not be the same thing . 	Intinya , agenda Jerman Timur dan Rusia ... ... mungkin tidaklah sama . 
+1083	Try and figure it out and act accordingly . 	Intinya , agenda Jerman Timur dan Rusia ... ... mungkin tidaklah sama . 
+1084	And try to make a deal . 	Cari tahulah dan bertindak secara normal . 
+1085	Powers for Abel . 	Dan cobalah buat kesepakatan . 
+1086	Well , what about this college kid , Pryor ? 	Powers untuk Abel . Bagaimana anak itu , Pryor ? 
+1087	Mmm- mmm . 	
+1088	Don 't fall for that . 	Jangan urusi itu . 
+1089	We can get him out another time . 	Jangan urusi itu . 
+1090	Powers is the whole ball game . 	Kita bisa keluarkan dia lain waktu . 
+1091	Where 's your room ? 	Di mana kamarmu ? 
+1092	I' ll be staying at the Hilton . 	Aku menginap di Hilton . 
+1093	It 's not far . 	
+1094	This is a number here in West Berlin . 	Ini adalah nomor di Berlin Barat . 
+1095	Memorize it and give it back to me . 	Ini adalah nomor di Berlin Barat . 
+1096	No , no . 	
+1097	I ... 	
+1098	I mean , now . 	Tidak . 
+1099	The Soviets keep cutting the international lines but local calls are okay . 	Soviets memutus jaringan internasional ... ... tapi jaringan lokal tidak masalah . 
+1100	Someone will pick up day and night . 	Soviets memutus jaringan internasional ... ... tapi jaringan lokal tidak masalah . 
+1101	Now , this docket attached to your passport will serve as your ticket into and out of the Eastern Soviet sector . 	Lampiran yang ada di paspormu , bisa digunakan sebagai tiket ... ... keluar masuk sektor Soviet Timur . 
+1102	The meeting with Vogel is set for noon tomorrow . 	Pertemuan dengan Vogel dijadwalkan besok siang . 
+1103	There are only a few routes left to the East . 	Hanya sedikit rute menuju ke Timur . 
+1104	You take the S- Bahn , the station we showed you on the way in . 	Kau ambil kalur S- Bahn , stasiun yang kami tunjukan saat ke sini . 
+1105	You 're gonna get off at the Friedrichstrasse station here and walk to the Soviet embassy on Unter den Linden here . 	Kau akan turun di Stasiun Friedrichstrasse di sini ... ... dan jalan kaki ke kedutaan Soviet di jalur ini . 
+1106	Look at the map now . 	Kau akan turun di Stasiun Friedrichstrasse di sini ... ... dan jalan kaki ke kedutaan Soviet di jalur ini . 
+1107	You shouldn 't take it with you . 	Lihatlah petanya sekarang . 
+1108	You 're looking at a map , you 're an American , you 're a spy . 	Kau tak bisa membawanya bersamamu . Kau lihat peta , dan kau warga Amerika , kau dianggap mata- mata . 
+1109	You could well be detained . 	Kau bisa ditangkap . 
+1110	Just avoid interacting with people generally . 	Hindari berbincang dengan penduduk setempat . 
+1111	You don 't ... 	Hindari berbincang dengan penduduk setempat . 
+1112	You don 't belong , so don 't stick out . 	Kau bukan orang sini , jadi jangan berlama- lama . 
+1113	Food is scarce over there and things have started to fall apart . 	Makanan mulai langka di sana dan situasi mulai rumit . 
+1114	There are gangs , and rule of law is less firmly established over there . 	Ada para geng ... ... dan hukum kurang berjalan baik di sana . 
+1115	And definitely stay away from the Wall . 	Dan menjauhlah dari dinding . 
+1116	On their side , there 's a line cleared of buildings along the Wall . 	Di sisi mereka ada garis ... ... membatasi gedung- gedung sepanjang dinding . 
+1117	They call it the " Death Line . " 	Di sisi mereka ada garis ... ... membatasi gedung- gedung sepanjang dinding . 
+1118	Cross it and you 'll be shot . 	Mereka menyebutnya " garis kematian . " 
+1119	Is there any outcome here where I 'm not either detained or shot ? 	Lewati itu dan kau akan ditembak . Apa ada jalan keluar dimana aku tak ditembak atau ditahan ? 
+1120	Don 't worry too much about what Michener said . 	Jangan cemaskan perkataan Michener . 
+1121	No , I 'm worried about what you 're saying . 	Tidak , aku justru mencemaskan perkataanmu . 
+1122	This kid , Pryor , that the East Germans have , how old is he ? 	Anak ini , Pryor , ... ... yang ditawan Jerman Timur , berapa usianya ? 
+1123	Twenty- five . 	Anak ini , Pryor , ... ... yang ditawan Jerman Timur , berapa usianya ? 
+1124	Why ? 	25 tahun . 
+1125	Same age as Dougie . 	Kenapa ? 
+1126	Who ? 	Siapa ? 
+1127	Eh , an associate of mine . 	Siapa ? 
+1128	Frederic Pryor . 	Frederic Pryor . 
+1129	Okay , okay , okay . 	Baik , baik . 
+1130	Danke . 	Terima kasih . 
+1131	So , we apologize if this offends . 	Kami minta maaf , kalau mengganggu . 
+1132	Uh ... 	
+1133	Coat ? 	Jas ? 
+1134	Okay . 	Baiklah . 
+1135	Do you understand English ? 	Kau paham bahasa Inggris ? / Ya , Pak . 
+1136	Yes , sir . 	Kau paham bahasa Inggris ? / Ya , Pak . 
+1137	I 'm James Donovan . 	Kau paham bahasa Inggris ? / Ya , Pak . 
+1138	I 'm here to meet a Mr . 	Aku James Donovan . 
+1139	Vogel . 	Aku ingin bertemu Tn . 
+1140	Mr . 	Aku ingin bertemu Tn . 
+1141	Vogel . 	Aku ingin bertemu Tn . 
+1142	He doesn 't work here . 	Vogel . Tn . Vogel . 
+1143	I 'm just supposed to meet him . 	Dia tidak bekerja di sini . 
+1144	That 's all I know . 	Aku seharusnya bertemu dia . 
+1145	Mr . 	
+1146	Donovan ! 	Tn . 
+1147	So we finally meet you . 	Donovan ! Akhirnya kami bertemu denganmu . 
+1148	I 'm Helen Abel . 	Aku Helen Abel . 
+1149	How is our husband ? 	Aku Helen Abel . 
+1150	Oh . 	Aku Helen Abel . 
+1151	He 's fine . 	Bagaimana kabar suamiku ? / Dia baik saja . 
+1152	How is my Rudolf ? 	Bagaimana kabar suamiku ? / Dia baik saja . 
+1153	As good as can be expected . 	Apa kabar Rudolf ku ? 
+1154	And we will get him back , yes ? 	Sebaik yang bisa diharapkan . Dan kami akan mendapatkan dia kembali , bukan ? 
+1155	This is our daughter . 	Ini puteri kami . / Apa kabarmu ? 
+1156	How do you do ? 	Ini puteri kami . / Apa kabarmu ? 
+1157	Lydia . 	Ini puteri kami . / Apa kabarmu ? 
+1158	Are you Mr . 	Lydia . 
+1159	Vogel ? 	Apa kau Tn . 
+1160	No , no , no ! 	Vogel ? Bukan , bukan ! 
+1161	I 'm not Vogel . 	Aku bukan Vogel . 
+1162	I 'm cousin Drews . 	Aku bukan Vogel . 
+1163	This is Rudolf 's beloved cousin Drews . 	Ini adalah sepupu kesayangan Rudolf . 
+1164	Yes , cousin Drews . 	Ini adalah sepupu kesayangan Rudolf . 
+1165	I am cousin Drews . 	Ya , sepupu Drews . 
+1166	Cousin Drews , yes . 	Aku sepupu Drews . 
+1167	I 'm Helen Abel . 	Sepupu Drews , ya . 
+1168	When will you see him ? 	Kapan kau akan bertemu dia ? 
+1169	When will your government release him ? 	Kapan pemerintah kalian akan membebaskannya ? 
+1170	I 'm a little , uh , lost here . 	Aku sedikit bingung . 
+1171	I 'm supposed to meet a Mr . 	Aku sedikit bingung . 
+1172	Vogel . 	Seharusnya aku bertemu Tn . 
+1173	Oh , Mr . 	Seharusnya aku bertemu Tn . 
+1174	Vogel is our lawyer . 	Vogel . Oh , Tn . 
+1175	We were supposed to negotiate , uh , the exchange . 	Vogel adalah pengacara kami . Kami seharusnya menegoisasikan pertukaran . 
+1176	To bring Rudolf here ? 	Untuk membawa Rudolf ke sini ? / Ya , untuk membawa dia ke sini . 
+1177	Yes , yes , to bring him here . 	Untuk membawa Rudolf ke sini ? / Ya , untuk membawa dia ke sini . 
+1178	But it doesn 't happen unilaterally , do you understand ? 	Tapi itu tidak terjadi secara unilateral , kau paham ? 
+1179	It has to be an exchange . 	Tapi itu tidak terjadi secara unilateral , kau paham ? 
+1180	Not here ? 	Tidak di sini ? 
+1181	Shh . 	
+1182	Shh . 	
+1183	Shh . 	
+1184	Mr . 	
+1185	Donovan ? 	Tn . 
+1186	Mr . 	Donovan ? 
+1187	Vogel . 	Donovan ? 
+1188	No , no , no . 	Tn . Vogel . 
+1189	Goodness . 	Bukan , bukan . 
+1190	My name is Schischkin . 	Ya Tuhan . 
+1191	Ivan Schischkin . 	Namaku Schischkin . 
+1192	I 'm the second secretary of the Soviet embassy . 	Ivan Schischkin . Aku wakil sekretaris di kedutaan Soviet . 
+1193	It wouldn 't be appropriate for Mr . 	Kurang pantas untuk Tn . 
+1194	Vogel to join us . 	Vogel bergabung dengan kita . 
+1195	He is a German national . 	Dia seorang Jerman Nasionalis . 
+1196	So you aren 't here to ... 	Jadi kau di sini untuk ... 
+1197	To facilitate this meeting . 	Untuk memfasilitasi pertemuan ini . 
+1198	Uh , perhaps Mrs . 	Barangkali Ny . 
+1199	Abel would like to compose herself privately ? 	Abel ... ... ingin menenangkan diri secara pribadi ? 
+1200	And let Mr . 	Abel ... ... ingin menenangkan diri secara pribadi ? 
+1201	Donovan and myself to talk ? 	Dan biarkan aku dan Tn . 
+1202	Thank you . 	Terima kasih . 
+1203	So , I 'm confused . 	Jadi , aku bingung . / Ya . 
+1204	Yes . 	Jadi , aku bingung . / Ya . 
+1205	Uh , I don 't care who I talk to if it 's about an exchange of personnel . 	Aku tak peduli akan bicara dengan siapa ... ... yang penting membahas tentang pertukaran . 
+1206	Are you the person to talk to ? 	Apa kau orangnya ? 
+1207	Yes , yes , yes , of course . 	Apa kau orangnya ? 
+1208	Uh , we should talk . 	Ya , ya , tentu saja . 
+1209	Please , have a seat , Mr . 	Kita sebaiknya bicara . 
+1210	Donovan . 	Silakan duduk Tn . 
+1211	Uh , how did you arrive to the Eastern sector ? 	Bagaimana kau bisa sampai di sektor Timur ? 
+1212	The train . 	Bagaimana kau bisa sampai di sektor Timur ? 
+1213	The S- Bahn . 	Bagaimana kau bisa sampai di sektor Timur ? 
+1214	Ah , and you were alone ? 	Naik kereta . Stasiun S- bahn . 
+1215	Yeah . 	Dan kau sendirian ? 
+1216	And you are credentialed ? 	Ya . Dan kau punya surat mandat ? 
+1217	Now , you must know about me , sir . 	Sekarang kau harus tahu tentang aku , Pak . 
+1218	I 'm a private citizen . 	Sekarang kau harus tahu tentang aku , Pak . 
+1219	I 'm a lawyer in Brooklyn in the United States , and I' ve taken time out of my busy schedule to help my client , Rudolf Abel . 	Aku seorang warga sipil . Aku pengacara di Brooklyn , Amerika Serikat , ... ... dan aku sudah korbankan jadwal padatku ... ... demi menolong klienku , Rudolf Abel . 
+1220	I 'm authorized to arrange an exchange of Abel for Francis Gary Powers . 	Aku dikuasakan untuk mengatur pertukaran Abel ... ... dengan Francis Gary Powers . 
+1221	This is a full pardon of Abel that will be signed when the exchange actually takes place . 	Ini surat grasi Abel ... ... itu akan ditandatangani ketika pertukaran telah dilakukan . 
+1222	This is the only reason I 'm here . 	Hanya ini alasanku kemari . 
+1223	I hope and expect to make this arrangement quickly . 	Aku berharap agar pengaturan ini berjalan cepat . 
+1224	Abel for Francis Gary Powers and Frederic Pryor . 	Abel untuk Francis Gary Powers ... ... dan Frederic Pryor . 
+1225	Mmm , we don 't have Pryor . 	Kami tak menahan Pryor . 
+1226	No ? 	Kami tak menahan Pryor . 
+1227	You don 't ? 	Tidak ? 
+1228	I' ve heard of Pryor , but he 's held by the German Democratic Republic , not by the Union of Soviet Socialist Republics . 	Aku sudah dengar tentang Pryor , tapi dia ditahan ... ... oleh Republik Demokrasi Jerman ... ... bukan oleh Republik Sosialis Soviet . 
+1229	Well , I' ll tell you the first problem . 	Akan kuberitahu kau masalah pertamanya . 
+1230	The names of your countries are too long . 	Nama negaramu terlalu panjang . 
+1231	Yes , yes . 	Ya , ya . 
+1232	If we release Powers , it is only to promote a goodwill between our countries . 	Jika kami lepaskan Powers , ... ... itu hanya untuk menunjukkan niat baik ... ... diantara negara kita . 
+1233	So , it cannot be an exchange . 	Jadi , itu tak bisa menjadi sebuah pertukaran . 
+1234	Perhaps ... 	Barangkali ... 
+1235	Perhaps you could release Abel as a token of goodwill to our friends in Germany , and then , some months later , we would release Powers . 	Barangkali kau bisa bebaskan Abel ... ... sebagai wujud niat baik untuk taman kami di Jerman ... ... dan beberapa bulan kemudian ... ... kami akan lepaskan Powers . 
+1236	There is an idea . 	Barangkali kau bisa bebaskan Abel ... ... sebagai wujud niat baik untuk taman kami di Jerman ... ... dan beberapa bulan kemudian ... ... kami akan lepaskan Powers . 
+1237	No . 	Barangkali kau bisa bebaskan Abel ... ... sebagai wujud niat baik untuk taman kami di Jerman ... ... dan beberapa bulan kemudian ... ... kami akan lepaskan Powers . 
+1238	That just won 't work for us at all . 	Ada sebuah ide . / Tidak . 
+1239	See , we need this to be an exchange . 	Itu tak bisa diterima buat kami . Kami perlu ini menjadi sebuah pertukaran . 
+1240	You can call it what you want , but an exchange it must be . 	Kau boleh sebut itu seperti yang kau mau , ... ... tapi intinya tetap pertukaran . 
+1241	We can have Abel here within 48 hours . 	Kami bisa bawa Abel ke sini dalam 48 jam . 
+1242	We need Powers at the same time we give you Abel . 	Kami butuh Powers di saat yang sama kami memberikan Abel . 
+1243	Hmm . 	
+1244	This is ... 	Ini adalah ... 
+1245	Can we call this the " impatient plan " ? 	Bisa kita sebut ini rencana tergesa- gesa ? 
+1246	Well , you can call it whatever you want . 	Bisa kita sebut ini rencana tergesa- gesa ? 
+1247	I can relay your impatient plan to Moscow , see what they say ... 	Aku bisa sampaikan rencana tergesa- gesa mu ke Moscow , .. ... kita tunggu pendapat mereka ... 
+1248	But they will wonder why so impatient . 	Tapi mereka akan bertanya kenapa begitu tergesa- gesa . 
+1249	Because I have a cold . 	Karena aku sudah flu . 
+1250	And I don 't live in Berlin and I want to go home . 	Karena aku sudah flu . 
+1251	They will think , 	Dan aku tidak tinggal di Berlin dan aku ingin pulang . Mereka akan berpikir , ... 
+1252	" Well , the Americans must have gotten 	" Orang Amerika itu pastinya telah memiliki ... " " ... semua informasi yang harus diberi Abel . " 
+1253	" all the information that Abel had to give . 	" Orang Amerika itu pastinya telah memiliki ... " " ... semua informasi yang harus diberi Abel . " 
+1254	" And now they 're impatient to trade him , 	" Dan kini mereka tergesa- gesa untuk menukarnya , ... " " ... berharap sebagai balasannya pria ini , Powers , ... " " ... yang , barangkali , belum memberikannya ... " " ... semua informasi yang harus diberikan . " 
+1255	" hoping to get in return this man , Powers , 	" Dan kini mereka tergesa- gesa untuk menukarnya , ... " " ... berharap sebagai balasannya pria ini , Powers , ... " " ... yang , barangkali , belum memberikannya ... " " ... semua informasi yang harus diberikan . " 
+1256	" that , perhaps , has not yet given up 	" Dan kini mereka tergesa- gesa untuk menukarnya , ... " " ... berharap sebagai balasannya pria ini , Powers , ... " " ... yang , barangkali , belum memberikannya ... " " ... semua informasi yang harus diberikan . " 
+1257	" all the information that he has to give . " 	
+1258	This is not an equitable trade , sir . 	Ini bukan pertukaran yang setara , Pak . 
+1259	But what you 're saying is , if Powers has given up everything he knows , then Moscow would trade ? 	Tapi yang kau maksud adalah ... ... jika Powers telah memberi tahu semua yang dia tahu , ... ... maka Moscow akan mau bertukar ? 
+1260	Why wouldn 't they ? 	Tapi yang kau maksud adalah ... ... jika Powers telah memberi tahu semua yang dia tahu , ... ... maka Moscow akan mau bertukar ? 
+1261	As for Abel , if he dies in an American prison , the next Russian operative who gets caught might think twice about keeping his mouth shut . 	Buat Abel , jika dia mati di penjara Amerika , ... ... mata- mata Rusia berikutnya yang tertangkap ... ... mungkin akan berpikir dua kali untuk tetap bungkam . 
+1262	And you never know . 	Buat Abel , jika dia mati di penjara Amerika , ... ... mata- mata Rusia berikutnya yang tertangkap ... ... mungkin akan berpikir dua kali untuk tetap bungkam . 
+1263	Abel might want to see the sky again and decide to trade Russian secrets for small American favors . 	Dan kau mungkin tak pernah tahu . Abel sangat ingin bebas lagi ... ... dan putuskan menukar rahasia Rusia dengan sedikit hadiah dari Amerika . 
+1264	How can we know this ? 	Bagaimana kami tahu ini ? 
+1265	We little men , we just do our jobs . 	Kita hanya orang kecil , kita hanya lakukan tugas kita . 
+1266	Like Lieutenant Powers . 	Kita hanya orang kecil , kita hanya lakukan tugas kita . 
+1267	He 's just a pilot . 	Seperti Letnan Powers . 
+1268	He was making photographs from 70, 000 feet when he was shot from the sky . 	Dia telah memotret dari ketinggian 70 . 000 kaki ... ... saat dia tertembak dari langit . 
+1269	People in my country consider this an act of war . 	Orang di negaraku menganggap ini ... ... sebuah tindakan perang . 
+1270	We have to get off this merry- go- round , sir . 	Kita harus berhenti berbalas ancaman , Pak . 
+1271	The next mistake our countries make could be the last one . 	Kesalahan berikut yang dilakukan negara kita ... ... bisa jadi itu yang terakhir . 
+1272	We need to have the conversation our governments can 't . 	Kita perlu berbincang ... ... yang tak bisa dilakukan pemerintah kita . 
+1273	I will ask Moscow . 	Aku akan minta Moscow . 
+1274	Who knows what they will say . 	Siapa yang tahu apa pendapat mereka . 
+1275	There are a lot of people , Mr . 	Ada banyak orang , Tn . 
+1276	Donovan , who doesn 't want this exchange to ever take place . 	Donovan , ... ... yang tak ingin pertukaran ini terjadi . 
+1277	Can you come back tomorrow to discuss their answer ? 	Bisakah kau datang besok untk mendiskusikan jawaban mereka ? 
+1278	Powers for Abel . 	Bisakah kau datang besok untk mendiskusikan jawaban mereka ? 
+1279	And Frederic Pryor . 	Powers untuk Abel . 
+1280	As I said , 	Dan Frederic Pryor . 
+1281	Pryor is in the hands of the organs of 	Seperti kataku , ... ... Pryor berada di tangan oraganisasi ... ... pasukan keamanan Republik Demokratis Jerman . 
+1282	State Security of the German Democratic Republic . 	Seperti kataku , ... ... Pryor berada di tangan oraganisasi ... ... pasukan keamanan Republik Demokratis Jerman . 
+1283	I 'm confident you can make arrangements . 	Aku percaya kau bisa mengaturnya . 
+1284	I am merely a secretary in the embassy of foreign power . 	Aku hanyalah sekretaris ... ... di kedutaan negara asing . 
+1285	Okay , okay . 	Aku hanyalah sekretaris ... ... di kedutaan negara asing . 
+1286	You have to see Mr . 	Baik , baik . 
+1287	Vogel . 	Kau harus temui Tn . 
+1288	I' ll give you his address . 	Vogel . 
+1289	There actually is a Mr . 	Akan kuberi kau alamatnya . Apa Tn . 
+1290	Vogel ? 	Vogel itu benar- benar ada ? 
+1291	Why would you imagine otherwise ? 	Kenapa kau berpikir begitu ? 
+1292	Uh , it 's a short cab ride . 	Kenapa kau berpikir begitu ? 
+1293	And please , Mr . 	Dan tolong Tn . 
+1294	Donovan , wear an overcoat in this weather . 	Donovan , ... ... pakailah jas tambahan di cuaca ini . 
+1295	I had mine stolen from me . 	Aku sudah punya , tapi dicuri . 
+1296	What do you expect ? 	Apa yang kau harapkan ? 
+1297	It was from Saks Fifth Avenue . 	Apa yang kau harapkan ? 
+1298	Wasn 't it ? 	
+1299	Mr . 	
+1300	Donovan . 	Tn . 
+1301	Mr . 	Donovan . 
+1302	Vogel . 	Donovan . 
+1303	Please come in . 	Tn . Vogel . Silakan masuk . 
+1304	Danke . 	Terima kasih . 
+1305	Sorry about the embassy . 	Maaf soal di kedutaan . 
+1306	But the Soviets decided not to host me . 	Tapi Soviet memutuskan untuk tidak mengundangku . 
+1307	Very irritating . 	Sangat mengganggu . 
+1308	I am still trying to grasp each party 's ... 	Aku masih mencoba menganut masing- masing status ... ... kepartaian ? 
+1309	Status ? 	Aku masih mencoba menganut masing- masing status ... ... kepartaian ? 
+1310	Yes . 	Aku masih mencoba menganut masing- masing status ... ... kepartaian ? 
+1311	And interest in the proceedings . 	Ya . Dan ketertarikan pada prosesnya . 
+1312	Oh . 	
+1313	It 's a new world . 	Ini dunia baru . 
+1314	All very disorienting , isn 't it ? 	Segalanya sangat di luar arah , bukan ? 
+1315	Let me tell you what I have to offer . 	Biar kuberitahu apa yang harus ku tawarkan . 
+1316	I 'm a good friend ... 	Aku teman yang baik ... 
+1317	" Friend . " 	Aku teman yang baik ... 
+1318	No , he 's older . 	" Teman . " 
+1319	" Protege " ? 	Bukan , itu terlalu tua . 
+1320	Of the attorney general of the German Democratic Republic . 	" Anak didik " ? Dari Jaksa Agung Republik Demokratik Jerman . 
+1321	Sit down , please . 	Silakan duduk . 
+1322	This unfortunate , 	Orang malang ini , ... ... Frederic Pryor , ... 
+1323	Frederic Pryor , he was in the wrong place at the wrong time . 	Orang malang ini , ... ... Frederic Pryor , ... 
+1324	But every accident , properly viewed , is an opportunity , isn 't it , Mr . 	Dia berada di tempat dan waktu yang salah . Tapi setiap kejadian , yang dipandang dengan layak , ... ... adalah sebuah peluang bukan , Tn . 
+1325	Donovan ? 	
+1326	Well ... 	
+1327	Your country refuses to recognize the German Democratic Republic . 	Donovan ? Negaramu menolak untuk mengakui ... ... Republik Demokratik Jerman . 
+1328	They prefer to make up stories that the GDR doesn 't exist , for instance . 	Mereka lebih memilih mengarang cerita ... ... bahwa RDJ tidak ada . 
+1329	Sorry . 	Maaf . 
+1330	As a means of forcing your government 's recognition of this real place , sir , in which you find yourself , the GDR , the attorney general is happy to negotiate with you as a representative of your government for Mr . 	Sebagai maksud untuk memaksa pemerintahmu mengakui ... ... bahwa negara ini ada , Pak , ... ... yang mana telah kau lihat sendiri , ... ... RDJ ( Republik Demokratik Jerman ) . Jaksa Agung senang untuk bernegosiasi denganmu ... ... sebagai perwakilan pemerintahmu ... ... untuk pemulangan Tn . Pryor . 
+1331	Pryor 's return . 	
+1332	Mr . 	
+1333	Vogel , I 'm not here as a representative of my government . 	Tn . Vogel , aku tidak di sini ... ... sebagai perwakilan pemerintahku . 
+1334	All right . 	
+1335	I think that 's childish , Mr . 	Kurasa itu kekanakan , Tn . 
+1336	Donovan . 	Kurasa itu kekanakan , Tn . 
+1337	Well , I ... 	Kurasa itu kekanakan , Tn . 
+1338	I have no official status . 	Donovan . Aku tak punya status resmi . 
+1339	Fine . 	Baiklah . 
+1340	You do not represent the USA , I do not represent the GDR . 	Kau tidak mewakili AS , aku tidak mewakili RDJ . 
+1341	My client is Lydia Abel , Rudolf 's wife . 	Klineku Lydia Abel , istrinya Rudolf . 
+1342	And I have also ... 	Klineku Lydia Abel , istrinya Rudolf . 
+1343	Lydia is the daughter . 	Dan aku juga ... 
+1344	Helen is the wife . 	Lydia , puterinya . 
+1345	Well ... 	
+1346	I am prepared to offer 	Aku ingin menawarkan ... ... pertukaran Frederic Pryor untuk Rudolf Abel . 
+1347	Frederic Pryor 's exchange for Rudolf Abel 's . 	Aku ingin menawarkan ... ... pertukaran Frederic Pryor untuk Rudolf Abel . 
+1348	Then let 's be clear . 	Kalau begitu mari kita perjelas . 
+1349	We will produce Rudolf Abel . 	Kami akan berikan Rudolf Abel . 
+1350	You will produce , at the same time , the student , Pryor . 	Kau akan berikan di saat yang sama , mahasiswa itu , Pryor . 
+1351	At the same time ? 	Di saat yang sama ? 
+1352	Absolutely . 	Di saat yang sama ? 
+1353	The exchange on offer is a Russian at the end of his life for an American student at the start of his . 	Tentu saja . Pertukaran ini menawarkan orang Rusia di masa akhir hidupnya ... ... dengan mahasiswa Amerika di masa awal hidupnya . 
+1354	Schischkin ? 	
+1355	He 's not an embassy secretary . 	Schischkin ? Dia bukan sekretaris kedutaan . 
+1356	Ivan Schischkin is the KGB 's chief in western Europe . 	Ivan Schischkin adalah kepala KGB di Eropa Barat . 
+1357	Well , whatever he is , he 's relaying our proposal to Moscow and they 'll decide . 	Siapapun dia ... ... dia akan mengirim proposal itu ke Moscow . Dan mereka akn putuskan . 
+1358	Could I borrow a coat ? 	Bisa kupinjam sebuah jas ? 
+1359	I lost mine . 	Bisa kupinjam sebuah jas ? 
+1360	How did you lose your coat ? 	Aku kehilangan punyaku . 
+1361	You know , spy stuff . 	Bagaimana kau bisa kehilangan ? 
+1362	I' ll get you another coat . 	Akan kucarikan kau jas lain . 
+1363	Good , because ... 	Akan kucarikan kau jas lain . 
+1364	So who is , uh ... 	Bagus , karena ... 
+1365	Who is this Vogel ? 	Jadi , siapa Vogel ini ? 
+1366	Him , we don 't know . 	Dia , kami tidak tahu . 
+1367	He might be what you said he said he is . 	Dia mungkin benar seperti yang dia katakan . 
+1368	Friend of the attorney general . 	Dia mungkin benar seperti yang dia katakan . 
+1369	Just some guy the GDR tapped to handle this . 	Teman dari Jaksa Agung . Hanya orang yang ditugaskan RDJ untuk menangani ini . 
+1370	Sounds like the East Germans are fighting for a place at our table . 	Kedengaran sepertinya Jerman Timur ... ... memperjuangkan pengakuan dari kita . 
+1371	The GDR gets Abel back for the Russians , winning their respect ... 	RDJ mendapatkan Abel untuk Rusia ... ... mendapat rasa hormat dari mereka ... 
+1372	And capturing the headlines for their cause . 	Dan merebut tajuk utama untuk prinsip mereka . 
+1373	Which , of course , puts East Germany on the map . 	Yang tentu saja , menempatkan Jerman Timur di dalam peta . 
+1374	But we don 't care about their map . 	Tapi kita tak peduli dengan peta itu . 
+1375	Stick with the Russians . 	Tapi kita tak peduli dengan peta itu . 
+1376	Stick with the Russians . 	Tetap fokus pada orang Rusia . 
+1377	It 's Powers for Abel . 	Tetap utamakan orang Rusia itu . 
+1378	So , does all this mean this might actually happen ? 	Ini adalah Power dengan Abel . Jadi , apa semua ini berarti mungkin terjadi ? 
+1379	Yeah , that 's what you seem to be telling me . 	Ya , itu seperti yang kau katakan pada kami . 
+1380	We 'll put Abel on a plane , he 'll be here Friday . 	Kami akan terbagkan Abel , dia akan ada di sini hari Jumat . 
+1381	So , if Schischkin gets the okay , all that 's left is the mechanics of the trade . 	Jadi , jika Schischkin dapat persetujuan , ... ... yang perlu dibahas adalah mekanisme pertukaran ini . 
+1382	How we swap our guy for their guy . 	Jadi , jika Schischkin dapat persetujuan , ... ... yang perlu dibahas adalah mekanisme pertukaran ini . 
+1383	Our " guys . " Two guys . 	Bagaiman kita menukar orang kita dengan orang mereka . Orang- orang kita . 
+1384	Powers and Pryor . 	Ada dua orang . Powers dan Pryor . 
+1385	No , now don 't go bleeding heart on me . 	Tidak , jangan bersikeras denganku . 
+1386	Powers is the whole ball game . 	Powers adalah tujuan utamanya . 
+1387	Forget this Ivy League boy , who obviously thought it was a good idea to study Soviet economics in Berlin in the middle of the Cold War . 	Lupakan saja mahasiswa ini . Yang berpikir adalah ide bagus ... ... untuk belajar Ekonomi Soviet di Berlin ... ... di tengah perang dingin . 
+1388	Powers is who we need . 	Powers lah yang kita butuhkan . 
+1389	You don 't even like Powers . 	Kau bahkan tak suka Powers . 
+1390	Everybody hates Powers . 	Semua kalian membenci Powers . 
+1391	He didn 't kill himself and he let the commies parade him on television . 	Dia tidak bunuh diri dan dia biarkan komunis membeberkan dirinya di TV . 
+1392	He 's the most hated man in America . 	Dia orang paling dibenci di Amerika . 
+1393	After Rudolf Abel , maybe . 	Setelah Rudolf Abel , mungkin . 
+1394	And me . 	Setelah Rudolf Abel , mungkin . 
+1395	Now wake up ! 	Bangunlah ! 
+1396	I gotta sleep . 	Aku perlu tidur . 
+1397	I just gotta sleep . 	Aku perlu tidur . 
+1398	I told you , you can sleep once we talk what we need to talk . 	Sudah kubilang , kau bisa tidur ... ... setelah kita bicarakan hal yang perlu kita bicarakan . 
+1399	You must focus on me . 	Kau harus fokus padaku . 
+1400	Your government doesn 't care about you . 	Kau harus fokus padaku . 
+1401	You know that . 	Pemerintahmu tak peduli padamu . 
+1402	Any of you . 	Kau paham itu . 
+1403	You know that twelve U- 2 pilots incurred brain damage ? 	Semua kalian . Kau tahu pilot Twelve U2 mengalami kerusakan otak ? 
+1404	They 're vegetables because of altitude , insufficient oxygen . 	Rusak karena ketinggian dan kehabisan oksigen . 
+1405	But they keep you flying , Gary . 	Tapi mereka tetap menyuruhmu terbang , Gary . 
+1406	You and your friends . 	Kau dan teman- temanmu . 
+1407	They gave you this . 	Kau dan teman- temanmu . 
+1408	A scratcher , yes ? 	Mereka memberi kalian ini . 
+1409	Potassium cyanide . 	Sebuah jarum kematian , bukan ? Potasium sianida . 
+1410	Does that look like they care about you ? 	Apa itu terlihat mereka peduli padamu ? 
+1411	What is the construction of the destructor unit ? 	Apa konstruksi dari unit penghancur ? 
+1412	By what means is this unit operated ? 	Dengan tujuan apa unit ini beroperasi ? 
+1413	With what explosives is the unit charged , and what destruction is it capable of ? 	Dengan peledak apa unit ini ditenagai , ... ... dan seberapa besar daya ledaknya ? 
+1414	I don 't know . 	Aku tak tahu . 
+1415	The pilots were never shown any of the equipment . 	Para pilot tak pernah ditunjukkan peralatan apa pun . 
+1416	How wide far can the radar map an area during an overflight ? 	Seberapa lebar kemampuan radar ... ... memetakan area selama penerbangan ? 
+1417	I don 't know , I don 't know ! 	Seberapa lebar kemampuan radar ... ... memetakan area selama penerbangan ? 
+1418	Were you making the overflight on April 9th over the industrial area and MiG bomber base at Baranovichi ? 	Aku tak tahu ! Apa kau yang terbang pada 9 April ... ... di atas area industri dan pusat penyimpanan bom ... ... di Baranovichi ? 
+1419	I was not . 	Bukan aku . 
+1420	This was my first overflight . 	Bukan aku . 
+1421	I need to know about engine- out to glide ratio . 	Ini penerbangan pertamaku . Aku perlu tahu tentang rasio pergerakan mulus pesawatnya . 
+1422	How the plane gets so high . 	Bagaimana pesawat itu bisa begitu tinggi . 
+1423	We know it reaches altitude of 70, 000 feet . 	Kami tahu itu mencapai 70 . 000 kaki . 
+1424	Gary , we know this . 	Kami tahu itu mencapai 70 . 000 kaki . 
+1425	And I need to know where the planes have flown . 	Gary , kami tahu ini . Dan aku ingin tahu kemana saja pesawat ini diterbangkan . 
+1426	Where they have flown , Gary . 	Ke mana saja mereka diterbangkan , Gary . 
+1427	And we must have this talk now . 	Ke mana saja mereka diterbangkan , Gary . 
+1428	Now . 	Sekarang . 
+1429	And then you can sleep a little . 	Lalu kau boleh tidur sebentar . 
+1430	Sir , wake up . 	Pak , bangunlah . 
+1431	Wake up , sir . 	
+1432	Sir , can you come with me , please ? 	Pak , bisa ikut aku ? / Ya . 
+1433	Yeah . 	Pak , bisa ikut aku ? / Ya . 
+1434	We gotta move . 	Pak , bisa ikut aku ? / Ya . 
+1435	Yeah , of course . 	Kita harus pergi . / Ya , tentu . 
+1436	Can you come with me , please ? 	Kita harus pergi . / Ya , tentu . 
+1437	Yeah . 	Kau bisa ikut aku ? / Ya . 
+1438	Okay . 	Kau bisa ikut aku ? / Ya . 
+1439	Got your glasses ? 	Perlu kacamatamu ? 
+1440	Uh- huh . 	Perlu kacamatamu ? 
+1441	What time is it ? 	Perlu kacamatamu ? 
+1442	It 's late , but we need to talk , and then we need to get on a plane , okay ? 	Pukul berapa sekarang ? / Masih larut , tapi kita perlu bicara . 
+1443	Yeah . 	
+1444	Yep . 	
+1445	Upsy- daisy ! 	Ya . Yep . 
+1446	Upsy- daisy . 	Upsy- Daisy ! 
+1447	That 's right . 	Upsy- Daisy . 
+1448	There we go . 	Itu benar . 
+1449	Keep it moving . 	Itu benar . 
+1450	Thank you . 	Benar begitu . Teruslah jalan . 
+1451	Other way , other way . 	Sebelah sana . 
+1452	There we go . 	Sebelah sana . 
+1453	You say a plane ? 	Benar . 
+1454	This way , please . 	Kau bilang pesawat ? 
+1455	Keep moving . 	Lewat sini . 
+1456	So , I received a favorable decision from Moscow on your proposal that we help our friends in the German Democratic Republic by exchanging 	Tetaplah jalan . Jadi , aku telah menerima keputusan ... ... dari Moscow atas proposalmu ... ... untuk membantu teman kita di Republik Demokratik Jerman ... ... dengan pertukaran . 
+1457	Mr . 	
+1458	Powers for Mr . 	Tn . 
+1459	Abel . 	Powers dengan Tn . 
+1460	That 's swell . 	Itu bagus . 
+1461	May I suggest the Glienicke Bridge as a place of a swap ? 	Boleh kusarankan jembatan Glienicke sebagai tempat pertukaran ? 
+1462	Why not Checkpoint Charlie ? 	Boleh kusarankan jembatan Glienicke sebagai tempat pertukaran ? 
+1463	We 're not looking for publicity . 	Kenapa bukan titik pertemuan Charlie ? Kami tak ingin publikasi . 
+1464	The Glienicke Bridge is very quiet , especially early in the morning . 	Jembatan Glienicke sangat sepi , ... ... terutama di pagi- pagi sekali . 
+1465	Glienicke Bridge . 	Jembatan Glienicke sangat sepi , ... ... terutama di pagi- pagi sekali . 
+1466	I' ll run that by our side . 	Jembatan Glienicke . 
+1467	We can have Abel here on Friday . 	Aku akan ke sana . 
+1468	So , Saturday morning ? 	Kami bisa bawa Abel ke sini hari Jumat . 
+1469	Always impatience , yeah ? 	Jadi , Sabtu pagi ? Selalu terburu- buru , ya ? 
+1470	I want to get home and get into bed . 	Aku ingin pulang dan tidur . 
+1471	So , Saturday morning ? 	Jadi , Sabtu pagi ? 
+1472	5 : 30 ? 	Jadi , Sabtu pagi ? 
+1473	All right . 	5 : 30 ? 
+1474	We 're done here . 	Baiklah . 
+1475	This is a number , in case anything should come up . 	Kita sudah selesai . Ini ada nomor , ... ... jikalau ada sesuatu masalah . 
+1476	All right . 	Baiklah . 
+1477	Someone will answer at any hour . 	Baiklah . 
+1478	I don 't expect to use it . 	Aku tak berharap menghubunginya . 
+1479	Shall we toast the arrangement ? 	Perlu kita rayakan kesepakatan ini ? 
+1480	Why not ? 	Perlu kita rayakan kesepakatan ini ? 
+1481	Armenian brandy . 	Brandy Armenia . 
+1482	Good bracer for your cold . 	Brandy Armenia . 
+1483	Thank you . 	Penghangat untuk flu mu . / Terima kasih . 
+1484	Would you mind ... 	Apa kau keberatan ... 
+1485	This is not part of our business but I 'd like to ask you a couple of questions . 	Ini bukan bagian dari kesepakatan ... ... tapi aku ingin menanyakanmu beberapa pertanyaan . 
+1486	You do not have to answer . 	Ini bukan bagian dari kesepakatan ... ... tapi aku ingin menanyakanmu beberapa pertanyaan . 
+1487	I shall answer what I know . 	Kau tak harus menjawabnya . 
+1488	I like this guy , your guy . 	Aku suka orang ini , orangmu . 
+1489	What happens to your guy when he gets home ? 	Apa yang terjadi pada orangmu sekembali dia ke rumah ? 
+1490	Well , we have to make a determination whether our guy is now your guy . 	Kita harus tetapkan terlebih dahulu ... ... bahwa orang kami ini sekarang adalah orangmu . 
+1491	Now , as I said to you before , he 's acted honorably . 	Seperti yang kukatakan padamu sebelumnya , ... ... dia bertindak dengan terhormat . 
+1492	He 's still your guy , believe me . 	Seperti yang kukatakan padamu sebelumnya , ... ... dia bertindak dengan terhormat . 
+1493	Of course you will say that if it were true and if it were not true . 	Dia masih orangmu , yakinlah padaku . Tentu saja kau akan katakan jika itu benar . Dan jika itu tak benar ? 
+1494	I guess it has come down to that , huh ? 	Kurasa , memang harus seperti itu , ya ? 
+1495	Well , forgive me for pushing , but is he in any danger if the determination is made ? 	Maaf kalau aku agak memaksa , ... ... tapi apakah dia dalam bahaya ... .... jika kesepakatan telah terlaksana ? 
+1496	Well , goodness . 	Sayangnya . 
+1497	As things are now , everyone is in danger . 	Seperti halnya sekarang ini , semua orang dalam bahaya . 
+1498	Cheers . 	Seperti halnya sekarang ini , semua orang dalam bahaya . 
+1499	Na zdorovie . 	Bersulang . 
+1500	There will be no exchange on Glienicke Bridge . 	Tak akan ada pertukaran di jembatan Glienicke . 
+1501	Excuse me , sir . 	Maaf , Pak . 
+1502	There will be no exchange . 	Tak akan ada pertukaran . 
+1503	Not for Frederic Pryor . 	Tidak untuk Frederic Pryor . 
+1504	Mr . 	Tidak untuk Frederic Pryor . 
+1505	Vogel , I thought yesterday we had agreed . 	Tn . Vogel , kupikir kemarin kita telah setuju . 
+1506	We agreed on an exchange , Abel for Pryor . 	Kita setuju atas pertukaran , Abel dengan Pryor . 
+1507	Now I learn you are a rug merchant selling the same rug to two customers . 	Kini aku baru pahami kau ini seperti pedagang tikar ... ... menjual tikar yang sama pada dua pembeli . 
+1508	Abel for Pryor you sell to us . 	Abel dengan Pryor kau jual pada kami . / Ya . 
+1509	Yeah . 	Abel dengan Pryor kau jual pada kami . / Ya . 
+1510	And Abel for Powers you sell to the Soviets . 	Dan Abel dengan Powers kau jual pada Soviet . 
+1511	I 'm not quite sure what the problem is if the arrangement satisfies two parties or three or four . 	Aku tak terlalu yakin apa masalahnya ... ... apakah kesepakatan ini memuaskan dua , tiga atau empat pihak . 
+1512	What difference does it make ? 	Aku tak terlalu yakin apa masalahnya ... ... apakah kesepakatan ini memuaskan dua , tiga atau empat pihak . 
+1513	The arrangement does not satisfy this party . 	Apa bedanya ? Kesepakatan itu tidak memuaskan pihak ini . 
+1514	Now , Mr . 	
+1515	Vogel , please ... 	Tn . 
+1516	Obviously you do not know who you are dealing with . 	Vogel , tolonglah ... Kau tak tahu berurusan dengan siapa . 
+1517	Here 's the interest of the German Democratic Republic . 	Ini demi kepentingan Republik Demokratik Jerman . 
+1518	To deal with , and to be seen to be dealing with another sovereign power , the United States . 	Untuk berkesepakatan , ... ... dan dapat dilihat melakukan kesepakatan dengan negara adidaya lain , ... ... Amerika Serikat . 
+1519	An equal power . 	Kekuatan yang setara . 
+1520	Instead you treat us as stooges for the Union of Soviet Socialist Republics . 	Kecuali kalian menganggap kami antek- antek ... ... Republik Sosialis Uni Soviet . 
+1521	Can we just call them the Russians ? 	Kecuali kalian menganggap kami antek- antek ... ... Republik Sosialis Uni Soviet . 
+1522	It 'll save time . 	Bisakah kita menyebutnya Rusia saja ? 
+1523	I have an appointment , sir . 	Aku ada janji temu . 
+1524	I think it 's you who are wasting time . 	Aku ada janji temu . 
+1525	Now , tell me if I am describing this wrong . 	Kurasa kaulah yang membuang waktuku . Beritahu jika aku salah . 
+1526	You have a kid , a university student , someone you know is not a spy , who 's no threat to you . 	Kau punya anak , mahasiswa universitas , ... ... seseorang yang kau yakini bukanlah mata- mata , ... ... orang yang bukan ancaman bagimu . 
+1527	And in exchange for this person who is worthless to you , you play an equal part in an exchange between the Russians and the Americans . 	Dan sebagai pertukarannya untuk orang ini ... ... seseorang yang tak berguna bagimu , ... ... kau mengharapkan pertukaran yang setara ... ... antara orang Rusia dan orang Amerika . 
+1528	And this is one transaction between us and the two of you . 	Dan ini salah satu transaksi antara kami dan kalian berdua . 
+1529	We 're not trying to do two things here , sir . 	Dan ini salah satu transaksi antara kami dan kalian berdua . 
+1530	We 're just doing one thing . 	Kami tidak bermaksud melakukan dua pertukaran . 
+1531	One , one , one . 	Kami cuma melakukan satu saja . 
+1532	It 's hard for me to see how the Republic of East German Democrats is being slighted . 	Satu , satu , dan satu . Aku tak yakin Republik Jerman Timur Demokrat sedang diremehkan . 
+1533	You agreed with the Soviets without consulting me . 	Kau berkesepakatan dengan Soviet tanpa berdiskusi denganku . 
+1534	Is this a negotiation or a conspiracy ? 	Kau berkesepakatan dengan Soviet tanpa berdiskusi denganku . 
+1535	For it to be a conspiracy , there would have to be harm to you , sir . 	Ini negoisasi atau konspirasi ? Jika ini konspirasi , ... ... tak akan ada kerugian padamu , Pak . 
+1536	There 's just benefits here . 	Malah ada keuntungan di sini . 
+1537	We 're of agreeing interests . 	Malah ada keuntungan di sini . 
+1538	No , you decide they agree . 	Kita pihak yang bersepakat . 
+1539	Where is your appointment , sir ? 	Pertemuan mu ada di mana , Pak ? 
+1540	In the West . 	Pertemuan mu ada di mana , Pak ? 
+1541	Ku' damm . 	Di Barat . 
+1542	Good . 	Ku' damm . 
+1543	Look around you . 	Lihat sekitarmu . 
+1544	How does the Eastern sector compare with the West ? 	Bagaimana perbandingan sektor Timur dengan Barat ? 
+1545	Hmm ? 	Bagaimana perbandingan sektor Timur dengan Barat ? 
+1546	Our Russian friends have decided that we should not rebuild our capital city . 	Teman Rusia kami telah memutuskan bahwa ... ... kami sebaiknya tidak membangun ulang ibukota kami . 
+1547	But we live in this ruin made by our Russian friends . 	Tapi kami hidup dalam kehancuran ini yang disebabkan oleh teman Rusia kami . 
+1548	Go ahead , make your deal with these Russians . 	Silakan saja , lakukan kesepakatanmu dengan orang- orang Rusia ini . 
+1549	We won 't be part of it . 	Silakan saja , lakukan kesepakatanmu dengan orang- orang Rusia ini . 
+1550	There is no deal without Pryor . 	Tak ada kesepakatan tanpa Pryor . 
+1551	We are not leaving him here . 	Tak ada kesepakatan tanpa Pryor . 
+1552	Is this your position or your government 's ? 	Kami tidak akan tinggalkan dia di sini . Ini permintaanmu atau pemerintahmu ? 
+1553	Sir , I 'm here . 	Aku ada di sini , aku sedang bicara padamu . 
+1554	I 'm talking to you . 	Aku ada di sini , aku sedang bicara padamu . 
+1555	But you are not a representative of your government . 	Aku ada di sini , aku sedang bicara padamu . 
+1556	You don 't know who you are . 	Tapi kau bukan perwakilan dari pemerintahmu . 
+1557	Neither do we . 	Kau tak tahu siapa dirimu . 
+1558	You should be careful . 	Begitu pula kami . 
+1559	This is not Brooklyn , Mr . 	Kau sebaiknya waspada . 
+1560	Donovan . 	Ini bukan Brooklyn Tn . 
+1561	Look , sir . 	Dengar , Pak . 
+1562	You must know that in every respect that matters , 	Dengar , Pak . 
+1563	I represent my government . 	Kau harus tahu bahwa di setiap hal kehormatan ... ... aku mewakili pemerintahku . 
+1564	You know who I am . 	Kau harus tahu bahwa di setiap hal kehormatan ... ... aku mewakili pemerintahku . 
+1565	Do I ? 	Benarkah ? 
+1566	Uh- oh . 	
+1567	Do you have the proper papers ? 	Kau punya surat- surat resmi ? 
+1568	Of course not . 	Kau punya surat- surat resmi ? 
+1569	It doesn 't matter . 	Tentu saja tidak . 
+1570	An American lawyer like you can talk your way out of anything . 	Itu tak masalah . Seorang pengacara Amerika sepertimu ... ... mampu mencari jalan keluar . 
+1571	Can 't you ? 	Bukankah begitu ? 
+1572	You go with him . 	Kau ikutlah dengannya . 
+1573	Why ? 	Kau ikutlah dengannya . 
+1574	It 's passport problem . 	Kenapa ? 
+1575	What ... 	Masalah paspor . 
+1576	What problem ? 	Masalah paspor . 
+1577	What 's the problem ? 	Apa , masalah apa ? 
+1578	You go with him . 	Ada masalah apa ? 
+1579	And remember , we control the fate of Frederic Pryor . 	Dan ingat , ... ... nasib Frederic Pryor di tangan kami . 
+1580	My God ! 	Ya Tuhan ! 
+1581	Yeah , I' ll start with some coffee , please . 	Ya , aku akan mulai dengan kopi . 
+1582	Then I' ll have the Hilton combo and the American breakfast . 	Lalu aku pesan Hilton combo ... ... dan sarapan ala Amerika . 
+1583	And coffee . 	Lalu aku pesan Hilton combo ... ... dan sarapan ala Amerika . 
+1584	Both breakfasts ? 	Dan kopi . 
+1585	Yeah , yeah . 	Kedua sarapannya ? 
+1586	One first or ... 	Ya , ya . 
+1587	Both first , both . 	Satu per satu atau ... 
+1588	Whenever they 're ready . 	Langsung dua- duanya . 
+1589	And coffee . 	Kapanpun siap . 
+1590	Hmm . 	Dan kopi . 
+1591	You shouldn 't be here . 	Kau seharusnya tak di sini . 
+1592	Well , sometimes in Germany , you just want a big American breakfast . 	Kadang di Jerman , ... ... kau hanya ingin sarapan besar ala Amerika . 
+1593	What happened ? 	
+1594	Where were you last night ? 	Apa yang terjadi ? 
+1595	Vogel arranged for me to spend some time in the East . 	Di mana kau tadi malam ? Vogel mengatur aku habiskan beberapa waktu di Timur . 
+1596	Oh , Jesus . 	Oh , Yesus . 
+1597	Frankly , it 's not that much worse than where you have me here in the West . 	Itu tak terlalu buruk ... ... dari pada tempat kau menempatkanku di Barat . 
+1598	So the Russians are fine with the exchange , but now Vogel is saying that the East Germans won 't do it . 	Jadi pihak Rusia seutju dengan pertukaran itu , ... ... tapi kini Vogel mengatakan bahwa Jerman Timur tak setuju . 
+1599	We 're not gonna get Pryor . 	Jadi pihak Rusia seutju dengan pertukaran itu , ... ... tapi kini Vogel mengatakan bahwa Jerman Timur tak setuju . 
+1600	Great , good . 	Bagus . 
+1601	So the Soviets are set . 	Bagus . 
+1602	We get Powers . 	Jadi Soivet setuju . 
+1603	We get Powers . 	Kita dapatkan Powers . 
+1604	Well done . 	Kita dapatkan Powers . Bagus . 
+1605	No , the East Germans won 't do it . 	Tidak , pihak Jerman Timur tak setuju . 
+1606	We won 't get Pryor , and that kid matters . 	Kita tak mendapatkan Pryor , dan anak itu penting . 
+1607	Every person matters . 	Kita tak mendapatkan Pryor , dan anak itu penting . 
+1608	Sure , that 's why you tried . 	Setiap orang itu penting . 
+1609	That 's why you tried . 	Tentu , karena itulah kau berusaha . 
+1610	Abel 's on his way , so we 're all set for tomorrow morning . 	Karena itu kau berusaha . Abel sudah di perjalanan , jadi kita sudah siap untuk besok pagi . 
+1611	Wait a minute . 	
+1612	Makes things simple . 	Tunggu sebentar . 
+1613	Makes things simple . 	Tunggu sebentar . 
+1614	We are not getting the kid . 	Buatlah ini sederhana . Kita tak mendapatkan anak itu . 
+1615	Yeah , I understand . 	Ya , kami mengerti . 
+1616	We 're set . 	Ya , kami mengerti . 
+1617	We can ignore the message we got this morning . 	Kita telah usai . 
+1618	What message ? 	Pesan apa ? 
+1619	From the East Germans . 	Pesan apa ? 
+1620	They called the number I gave you . 	Dari Jerman Timur . 
+1621	They said they wanted to speak to you today . 	Mereka menghubungi nomor telepon yang kuberi padamu . Mereka bilang ingin bicara denganmu hari ini . 
+1622	Vogel called ? 	Vogel menelepon ? 
+1623	No , um ... 	Vogel menelepon ? 
+1624	Office of , uh , Harald Ott , 	Bukan . 
+1625	East German attorney general . 	Kantor Harald Ott , ... Jaksa Agung Jerman Timur . 
+1626	Wanting what ? 	Kantor Harald Ott , ... Jaksa Agung Jerman Timur . 
+1627	What does he want ? 	Menginginkan apa ? 
+1628	Well , to talk to you . 	Apa yang dia mau ? 
+1629	But it 's okay , I can 't ask you to go back there . 	Untuk bicara denganmu . Tapi itu tak masalah . 
+1630	And listen , you seem to be persona non grata to some elements , so we won 't push our luck . 	Aku tak bisa memintamu kembali ke sana . Dan dengar , kau terlihat seperti sosok di luar perseteruan ... ... jadi kami tak akan memaksakan diri . 
+1631	So he wants to see me . 	Jadi dia ingin bertemu denganku . 
+1632	What time ? 	Jadi dia ingin bertemu denganku . 
+1633	Oh , no , no . 	Pukul berapa ? 
+1634	Now , listen . 	Jangan , jangan . 
+1635	You don 't need to go . 	Skearang dengarlah . 
+1636	In fact , you shouldn 't go . 	Kau tak perlu pergi . 
+1637	In fact , you can 't go . 	Jelas , kau tak perlu pergi . Faktanya , kau tak boleh pergi . 
+1638	We 're set with the Soviets . 	Kita telah sukses dengan Soviet . 
+1639	We don 't want to screw it up . 	Kita telah sukses dengan Soviet . 
+1640	I 'm not gonna screw it up . 	Kami tak ingin itu kacau lagi . 
+1641	You 're not going ! 	Aku tak akan kacaukan . / Kau tak boleh pergi . 
+1642	Don 't be a pain in the ass . 	Aku tak akan kacaukan . / Kau tak boleh pergi . 
+1643	Oh , I ordered . 	Jangan menyusahkan . 
+1644	Enjoy your big American breakfast . 	Aku sudah pesan . Nikmatilah sarapan besar ala Amerika mu . 
+1645	I thought it should be negotiated at the highest level as a courtesy to you . 	Kupikir ini seharusnya dinegoisasikan ... ... di level tertinggi untuk menghargaimu . 
+1646	I thank you , sir . 	Kupikir ini seharusnya dinegoisasikan ... ... di level tertinggi untuk menghargaimu . 
+1647	I don 't know how things became so confused . 	Aku tak tahu , hal ini jadi membingungkan . 
+1648	Well , I guess sometimes they just do . 	Yah , kadang memang seperti itu . 
+1649	For sake of clarity , 	Supaya lebih jelas , ... ... menurutku kita sudah bersiap untuk pertukaran ... ... antara mahasiswa Pryor dengan Rudolf Abel . 
+1650	I say we are fully prepared to exchange the so- called student , Pryor , for Rudolf Abel . 	Supaya lebih jelas , ... ... menurutku kita sudah bersiap untuk pertukaran ... ... antara mahasiswa Pryor dengan Rudolf Abel . 
+1651	I understand from Mr . 	Supaya lebih jelas , ... ... menurutku kita sudah bersiap untuk pertukaran ... ... antara mahasiswa Pryor dengan Rudolf Abel . 
+1652	Vogel that Pryor is very important to you . 	Aku tahu dari Tn . Vogel bahwa Pryor sangat penting buatmu . 
+1653	Yes , but ... 	Ya , tapi ... 
+1654	Ah , we 'll do a memorandum to that effect . 	Kami akan lakukan memorandum untuk aset itu . 
+1655	Oh , a memorandum . 	Sebuah memorandum . 
+1656	Certainly , we commit to a bi- lateral exchange . 	Lebih jelasnya , kami berkomitmen untuk pertukaran bilateral . 
+1657	Yes , yes , sure . 	Ya , ya tentu . 
+1658	I 'm not sure what that means but ... 	Aku tak terlalu paham apa maksudnya , tapi ... 
+1659	My country also insists on Francis Gary Powers . 	Negaraku juga bersikeras untuk Francis Gary powers . 
+1660	No ! 	Negaraku juga bersikeras untuk Francis Gary powers . 
+1661	This is how things became so confused . 	Inilah yang membuat hal semakin membingungkan . 
+1662	Powers . 	Inilah yang membuat hal semakin membingungkan . 
+1663	What use is he , sir ? 	Powers . 
+1664	You want him back for punitive reasons ? 	Apa kegunaan dia ? 
+1665	What 's done is done . 	Kau ingin dia kembali untuk alasan pidana ? 
+1666	He has divulged what he will divulge , as no doubt Abel has also . 	Semua sudah tuntas . Dia telah bocorkan rahasia itu , ... ... dan tak diragukan Abel juga begitu . 
+1667	We are offering instead someone who you insist is innocent . 	Kami menawarkan seseorang kecuali yang kau anggap tak bersalah . 
+1668	And this is right . 	Kami menawarkan seseorang kecuali yang kau anggap tak bersalah . 
+1669	This is who you should retrieve . 	Dan ini benar . 
+1670	The future . 	Inilah yang seharusnya kau dapatkan kembali . Masa depan . 
+1671	Look to the future . 	Liahtlah masa depan . 
+1672	Ott . 	Ott . 
+1673	Ott . 	Ott . 
+1674	I 'm sorry . 	
+1675	If you could give me a moment , sir . 	Maaf . 
+1676	I 'm very sorry , sir . 	
+1677	The attorney general regrets that he had to leave on urgent business . 	Mohon maaf , Pak . Jaksa Agung menyesal ... ... bahwa dia harus pergi ada urusan mendadak . 
+1678	He left ? 	
+1679	Yes . 	Dia pergi ? / Ya . 
+1680	Many apologies . 	Dia pergi ? / Ya . 
+1681	I' ve been waiting for over an hour . 	Mohon maaf . Aku sudah menunggu lebi satu jam . 
+1682	Very sorry , sir . 	Mohon maaf sekali , Pak . 
+1683	Young man . 	Anak muda . 
+1684	Come here . 	Kemarilah . 
+1685	It 's all right . 	
+1686	Come here . 	Tak apa . 
+1687	Uh ... 	
+1688	Take a seat . 	Duduklah . 
+1689	Oh , come on , come on . 	Ayolah , ayolah . 
+1690	Sit down . 	Ayolah , ayolah . 
+1691	Do you like your job here ? 	Kau suka pekerjaanmu di sini ? 
+1692	It 's a very good job , sir . 	Ini pekerjaan yang bagus , Pak . 
+1693	It must be . 	Ini pekerjaan yang bagus , Pak . 
+1694	Must be interesting . 	Tentu saja . 
+1695	Oh , yes , sir . 	Pasti menarik . 
+1696	And important , too . 	Ya , Pak . Dan juga penting . 
+1697	And your English is ... 	Dan bahasa Inggrismu bagus . 
+1698	Is good . 	Dan bahasa Inggrismu bagus . 
+1699	Yes , I hesitate to say it 's excellent . 	Ya , aku tak berani bilang istimewa . 
+1700	But it 's excellent , sir . 	Ya , aku tak berani bilang istimewa . 
+1701	Good , good . 	Tapi memang istimewa , Pak . 
+1702	Good . 	Bagus , bagus . 
+1703	See , I just lost my negotiating partner , and I need somebody to talk to , and you seem like a reasonable young man . 	Dengar , aku baru saja kehilangan rekan negoisasiku ... ... dan aku butuh seseorang untuk bicara . 
+1704	Can I talk to you ? 	Boleh aku bicara padamu ? 
+1705	Uh ... 	
+1706	It 's all right . 	Tak apa- apa . 
+1707	It 's all right . 	Tak apa- apa . 
+1708	I just ... 	Tak apa- apa . 
+1709	I just need you to give a message to your boss . 	Aku hanya ingin kau sampaikan pesanku pada atasanmu . 
+1710	But it has to be very , very , very clear . 	Tapi ini harus sangat jelas . 
+1711	You understand ? 	Kau mengerti ? 
+1712	Yes , sir . 	Kau mengerti ? 
+1713	But perhaps you should wait until he ... 	Ya , Pak . Tapi mungkin kau sebaiknya menunggu hingga ia ... 
+1714	No , no . 	
+1715	The thing is , I have this cold and I wanna get home and get in bed . 	Tidak , tidak . Masalahnya , aku terkena flu dan aku ingin pulang ... ... dan tidur . 
+1716	Can you give him the message ? 	Bisa kau sampaikan pesan itu ? 
+1717	Certainly . 	Bisa kau sampaikan pesan itu ? 
+1718	Well , this is the message . 	Ini pesannya . 
+1719	" There is no deal for Abel unless we get Powers and Pryor . " 	" Tak ada kesepakatan untuk Abel kecuali kami dapatkan Powers dan Pryor . " 
+1720	Do you understand ? 	Kau paham ? / Ya , Pak . 
+1721	Yes , sir . 	Kau paham ? / Ya , Pak . 
+1722	It 's arranged for tomorrow morning . 	Kau paham ? / Ya , Pak . 
+1723	It will not happen unless we get two men . 	Ini akan diadakan besok pagi . Itu tak akan terjadi kecuali kami dapatkan dua orang . 
+1724	Those two men . 	Dua orang itu . 
+1725	Two , two , two . 	Dua orang itu . 
+1726	Yes , sir . 	Dua , dua , dua . / Ya , Pak . 
+1727	If there is no deal , your boss must tell the Soviets . 	Jika tak ada kesepakatan , ... ... atasanmu harus beritahu Soviet . 
+1728	He has to tell the Soviets that they are not getting Rudolf Abel . 	Dia harus beritahu Soviet ... ... bahwa mereka tak akan dapatkan Rudolf Abel . 
+1729	Yes , sir . 	Ya , Pak . 
+1730	Oh , and tell him this . 	Dan beritahu dia . 
+1731	That so far , Abel has been a good soldier , but he thinks he 's going home . 	Selama ini , Abel bersikap seperti prajurit baik , ... ... tapi dia mengira dia akan pulang . 
+1732	If we had to tell him that he 's not going home , that the Soviets don 't even want him , that he 's never going home ... 	Jika kami harus beritahu dia bahwa dia tak akan pulang ... ... bahwa Soviet tak menginginkannya ... ... bahwa dia tak akan pulang ... 
+1733	Well , I imagine his behavior might change . 	Aku yakin perilakunya akan berubah . 
+1734	And who will be held responsible for that ? 	Dan siapa yang akan bertanggung jawab untuk itu ? 
+1735	That 's a long message . 	Itu pesan yang panjang . 
+1736	Uh , did you get it all ? 	Kau mengerti semuanya ? 
+1737	Yes , sir . 	Kau mengerti semuanya ? 
+1738	Got it . 	Ya , Pak , aku memahaminya . / Bagus . 
+1739	Good . 	Ya , Pak , aku memahaminya . / Bagus . 
+1740	You 're a good man . 	Kau orang baik . 
+1741	Oh ... 	
+1742	And also tell him there 's no deal unless we hear before the end of business today . 	Dan juga beritahu dia ... ... tak akan ada kesepakatan kecuali kami dengar ... ... sebelum akhir urusan hari ini . 
+1743	He has the number . 	Dan juga beritahu dia ... ... tak akan ada kesepakatan kecuali kami dengar ... ... sebelum akhir urusan hari ini . 
+1744	If the exchange isn 't gonna happen , no reason for everybody to get up first thing in the morning . 	Dia punya nomornya . Jika pertukaran ini gagal , ... ... maka besok belum tentu ada bagi setiap orang . 
+1745	No , sir , that would be pointless . 	Tidak , Pak , itu tak berdasar . 
+1746	You 're kidding me ! 	Tidak , Pak , itu tak berdasar . 
+1747	You 're kidding me ! 	Kau bergurau ! 
+1748	Not really . 	Kau bergurau ! 
+1749	I need some change . 	Tidak juga . 
+1750	This is exactly what you weren 't supposed to do . 	Aku butuh recehan . Ini yang seharusnya tak kau lakukan . 
+1751	My instructions were to feel out the situation . 	Isntruksiku adalah menjernihkan situasi . 
+1752	Your instructions were to get Powers , not Pryor . 	Instruksimu untuk dapatkan Powers , bukan Pryor . 
+1753	That was not the original deal . 	Instruksimu untuk dapatkan Powers , bukan Pryor . 
+1754	You fouled it all up ! 	Itu bukan ide awalnya . / Kau menggagalkannya ! 
+1755	How do you know ? 	Itu bukan ide awalnya . / Kau menggagalkannya ! 
+1756	I feel pretty good about it . 	Bagaimana kau tahu ? / Aku cukup yakin akan hal itu . 
+1757	You fucked it all up ! 	Bagaimana kau tahu ? / Aku cukup yakin akan hal itu . 
+1758	Oh , don 't worry . 	Kau mengacaukan semuanya ! 
+1759	I think it 's gonna be fine . 	Tak usah khawatir . Kurasa ini akan baik saja . 
+1760	How do you know ? 	
+1761	You don 't know that . 	Bagaimana bisa ? 
+1762	United States . 	
+1763	New York , New York . 	Amerika Serikat . 
+1764	Danke . 	New York , New York . 
+1765	Look , this whole thing has been to feel me out . 	Dengar , semua persoalan ini ... ... membuatku hilang kesabaran . 
+1766	Would I swap one for one and which one ? 	Akankah aku menukar satu untuk satu dan siapa yang kupilih ? 
+1767	But I said " No , two for one . " 	Tapi kubilang " todak , dua untuk satu . " 
+1768	So they know where we stand . 	Tapi kubilang " todak , dua untuk satu . " 
+1769	Yeah , what if they think about it and say , uh ... 	Jadi mereka tahu apa keinginan kita . Ya , bagaimana jika mereka berpikir ini dan mengatakan ... 
+1770	" Forget it ! 	
+1771	You keep our guy , we keep your guys " ? 	" Lupakan saja ! 
+1772	Well , then I have fucked it all up . 	Berarti aku memang mengacaukannya . 
+1773	Hey , honey ! 	Berarti aku memang mengacaukannya . 
+1774	It 's me . 	Hei , sayang ! 
+1775	Yeah . 	Ini aku . 
+1776	The fishing 's been great . 	Ya . Memancingnya menyenangkan . 
+1777	I 'm in London , just for one more meeting , then I 'm on my way home . 	Aku di London , ... ... satu pertemuan lagi , lalu aku pulang . 
+1778	Yeah , yeah , I remember that marmalade . 	Ya , aku ingat selai jeruk itu . 
+1779	It 's that shop right by Regent 's Park . 	Tokonya ada di dekat Taman Regent . 
+1780	All right , I will if I have the time . 	Baiklah , aku belikan , aku ada waktu . 
+1781	Hey , can I say hi to Roger ? 	Baiklah , aku belikan , aku ada waktu . 
+1782	Could I say hi to the girls ? 	Bisa kusapa puteriku ? 
+1783	Is anyone not busy ? 	Apa ada orang yang tidak sibuk ? 
+1784	Have they even noticed I 'm not around ? 	Apa mereka menyadari aku tidak di rumah ? 
+1785	We 're on . 	Kita bergerak . 
+1786	Two for one . 	Dua untuk satu . 
+1787	Hot dog . 	Hot dog . 
+1788	Let 's have a drink . 	Mari kita minum . 
+1789	One wrinkle . 	Mari kita minum . 
+1790	What is that ? 	Ada satu persyaratan . 
+1791	They won 't release Pryor with Powers , not at the bridge . 	Apa itu ? Mereka tidak melepas Pryor dengan Powers , tidak di jembatan itu . 
+1792	They 'll release him at the same time . 	Mereka akan melepasnya dalam waktu bersamaan . 
+1793	When the Russians give us Powers on the bridge , they 'll release Pryor over Checkpoint Charlie . 	Saat orang Rusia itu memberi kita Powers di jembatan , ... ... mereka akan melepas Pryor di titik pemeriksaan Charlie . 
+1794	What does that mean ? 	Saat orang Rusia itu memberi kita Powers di jembatan , ... ... mereka akan melepas Pryor di titik pemeriksaan Charlie . 
+1795	I think it means , " We wanna have the last word . " 	Apa maksudnya ? Kurasa itu artinya , " kita butuh kata terakhir . " 
+1796	But they will do it . 	Tapi mereka akan melakukannya . 
+1797	You tell me . 	Tapi mereka akan melakukannya . 
+1798	You felt them out . 	Kau yang tahu . 
+1799	Where are they ? 	Di mana mereka ? 
+1800	Where 's our guy ? 	Di mana mereka ? 
+1801	Where 's our guy ? 	Mana orang kita ? 
+1802	They 're late . 	Mana orang kita ? 
+1803	Nobody 's late . 	Mereka terlambat . 
+1804	We 're early . 	Tak ada yang terlambat . 
+1805	May I ? 	Kita terlalu cepat . 
+1806	Yeah . 	Bisa kupinjam ? / Ya . 
+1807	Hoffman . 	Hoffman . 
+1808	Yeah ? 	Hoffman . 
+1809	I think they have ... 	Ya ? 
+1810	What ? ... snipers . 	Kurasa mereka punya ... Apa ? 
+1811	Well , I 'm sure they do . 	Penembak jitu . 
+1812	How are you sure they do ? 	Tentu mereka punya . Kenapa kau yakin mereka punya ? 
+1813	Because we have snipers . 	Karena kita juga punya penembak jitu . 
+1814	Step out , sir . 	Silakan keluar , Pak . 
+1815	Jim . 	Jim . 
+1816	Dear Jim . 	
+1817	How are you ? 	Apa kabarmu ? 
+1818	Happy to see you . 	Senang bertemu denganmu . 
+1819	Have you arranged all this for me ? 	Senang bertemu denganmu . 
+1820	Well , let 's see what this is before I ... 	Kau mengatur semua ini untukku ? 
+1821	I take credit for it . 	Mari kita pastikan ini , sebelum berterima kasih padaku . 
+1822	Any word about Pryor from Checkpoint Charlie ? 	Ada kabar dari Pryor dari titik pemeriksaan Charlie ? 
+1823	Nothing cooking yet . 	Belum ada kabar . 
+1824	Excuse me , sir . 	Permisi , Pak . 
+1825	This is Lieutenant Joe Murphy , United States Air Force , here to identify Powers . 	Ini Letnan Joe Murphy , dari AU Amerika Serikat ... 
+1826	Lieutenant Murphy . 	Dia disini untuk mengenali Powers . 
+1827	Sir . 	Letnan Murphy . 
+1828	There may be a slight glitch . 	Mungkin ada sedikit halangan . 
+1829	I was a young man when I left . 	Aku masih muda saat dulu pergi . 
+1830	Who will they find to identify me ? 	Siapa yang mereka bawa untuk mengenaliku ? 
+1831	Well , I hope it 's not your East German family . 	Kuharap bukan keluargamu di Jerman Timur . 
+1832	I doubt they could identify each other . 	Kuharap bukan keluargamu di Jerman Timur . 
+1833	Looks like our party . 	Sepertinya tamu kita . 
+1834	Well , let 's go . 	Ayo jalan . 
+1835	You can stay here , Donovan . 	Ayo jalan . 
+1836	Not likely . 	Tidak bisa . 
+1837	Open the gate . 	Buka gerbangnya . 
+1838	What do you think will happen when you get home ? 	Apa yang terjadi jika kau tiba di rumah ? 
+1839	Uh , I think ... 	Kurasa ... 
+1840	I' ll have a vodka . 	Aku akan minum vodka . 
+1841	Yeah . 	Ya . 
+1842	Yeah . 	Ya . 
+1843	But , Rudolf , is there not the possibility ... 	Tapi , Rudolf , apa ada kemungkinan ... 
+1844	That my people are going to shoot me ? 	Bahwa orang- orangku akan menembakku ? 
+1845	Yes . 	Ya . 
+1846	You 're not worried ? 	Kau tak khawatir ? / Akankah itu membantu ? 
+1847	Would it help ? 	Kau tak khawatir ? / Akankah itu membantu ? 
+1848	To answer your question , my friend , 	Untuk menjawab pertanyaanmu , temanku , ... 
+1849	I acted honorably . 	Untuk menjawab pertanyaanmu , temanku , ... 
+1850	I think they know that . 	Aku sudah bersikap terhormat . 
+1851	But sometimes people think wrong . 	Tapi kadang orang berpikir keliru . 
+1852	People are people . 	Tapi kadang orang berpikir keliru . 
+1853	Let 's see how they greet me . 	Mari kita lihat bagaimana mereka menyambutku . 
+1854	What can I look for ? 	Apa tandanya ? 
+1855	If I 'm embraced or just shown the back seat . 	Apa aku dipeluk atau disuruh duduk di bangku belakang . 
+1856	Da . 	Da . 
+1857	Take off the hat . 	Lepaskan topi itu . 
+1858	Hey , Powers . 	Hei , Powers . 
+1859	Hey , Murph . 	Hei , Murph . 
+1860	Yeah , that 's Powers . 	Ya , itu Powers . 
+1861	All right , Mr . 	
+1862	Donovan . 	Baiklah , Tn . 
+1863	We go now ! 	Donovan . 
+1864	Hang on . 	Kita lakukan sekarang ! 
+1865	Believe me , I will tell you . 	Percayalah , aku akan beritahu . 
+1866	There 's no one here . 	Tak ada siapa- siapa di sini . 
+1867	They 're releasing another man at Checkpoint Charlie . 	Mereka melepas orang lain di titik pemeriksaan Charlie . 
+1868	We 're just confirming that he 's there . 	Kami tinggal memastikan di sudah di sana . 
+1869	Now ! 	Kami tinggal memastikan di sudah di sana . 
+1870	As per plan , if you please . 	Sekarang ! 
+1871	Let 's go . 	Ayo jalan . 
+1872	Pryor will show up or he won 't . 	Pryor akan muncul atau tidak . 
+1873	Let 's go . 	Pryor akan muncul atau tidak . 
+1874	They 're waiting to see if we 'll do it without him . 	Ayo jalan . Mereka menunggu apakah kita melakukannya tanpa Pryor . 
+1875	We just have to stand here , show them we won 't . 	Kita tetap di sini , tunjukkan kita tak akan melakukannya . 
+1876	I don 't give a shit what they want . 	Aku tak peduli apa mau mereka . 
+1877	We have our objective . 	Aku tak peduli apa mau mereka . 
+1878	Go ahead , Abel . 	Kita punya prioritas . 
+1879	Go ahead , sir . 	Ayo jalan , Pak . 
+1880	You can go . 	Ayo jalan , Pak . 
+1881	If it is not to plan , we go home . 	Kau bisa pergi . Jika tak sesuai rencana , kami kembali . 
+1882	We exchange now or we go home ! 	Kita bertukar sekarang atau kita pulang ! 
+1883	You 're waiting for another man ? 	Kau menunggu orang lain ? / Ya . 
+1884	Yup . 	Kau menunggu orang lain ? / Ya . 
+1885	You want him , too . 	Kau juga menginginkanya . 
+1886	I want him . 	Aku menginginkannya . 
+1887	Doesn 't matter what he wants , sir . 	Aku menginginkannya . 
+1888	I 'm in charge and you are free to go . 	Tak peduli apa mau dia Pak . 
+1889	Please go . 	Aku yang berwenang dan kau bebas untuk pergi . 
+1890	Walk across . 	Ayo jalan . 
+1891	I can wait . 	Aku bisa menunggu . 
+1892	It 's something . 	Ada yang datang . 
+1893	I 'm not sure yet . 	Ada yang datang . 
+1894	Hang on ! 	Tunggu ! 
+1895	Let 's go . 	
+1896	We got him ! 	Kami mendapatkannya ! 
+1897	Uh , I , uh ... 	Aku ... 
+1898	I sent you a gift , Jim . 	Mengirimimu hadiah , Jim . 
+1899	It 's a ... 	Mengirimimu hadiah , Jim . 
+1900	It 's a painting . 	Sebuah lukisan . 
+1901	I hope it has some meaning to you . 	Kuharap itu berarti buatmu . 
+1902	I 'm sorry . 	
+1903	I didn 't think to get you a gift . 	Maaf . 
+1904	This is your gift . 	Ini hadiah darimu . 
+1905	This is your gift . 	Ini hadiahmu . 
+1906	You okay ? 	
+1907	Let 's go , let 's go , let 's go ! 	Ayo jalan ! 
+1908	Mr . 	
+1909	Donovan . 	Tn . 
+1910	Colonel Abel asked me to give this to you . 	Donovan . 
+1911	Pardon me , sir . 	Permisi , Pak . 
+1912	Were you in charge of this thing , sir ? 	Apa anda yang memimpin misi ini , Pak ? 
+1913	Yeah . 	Apa anda yang memimpin misi ini , Pak ? 
+1914	Well , I gotta thank you . 	Ya . / Aku ingin berterima kasih . 
+1915	I gotta thank somebody . 	Aku harus berterima kasih pada seseorang . 
+1916	I gave them nothing . 	Aku tak beri mereka apapun . 
+1917	I gave them nothing . 	Aku tak beri mereka apapun . 
+1918	It doesn 't matter . 	Tak masalah . 
+1919	It doesn 't matter what people think . 	Tak masalah apa yang orang pikir . 
+1920	You know what you did . 	Tak masalah apa yang orang pikir . 
+1921	Welcome home . 	Selamat datang . 
+1922	What a trip . 	Perjalanan yang melelahkan . 
+1923	Mmm . 	
+1924	Mmm . 	
+1925	You okay ? 	Kau baik saja ? 
+1926	Yeah , I 'm fine . 	Aku baik saja . 
+1927	Did you get the marmalade ? 	Kau bawakan selai jeruknya ? / Ya , ya . 
+1928	Yes , yes . 	Kau bawakan selai jeruknya ? / Ya , ya . 
+1929	Yep . 	Kau bawakan selai jeruknya ? / Ya , ya . 
+1930	Yep . 	Ya . ya . 
+1931	I did . 	Aku membelikannya . 
+1932	As ordered . 	Sesuai pesanan . 
+1933	Jim . 	Jim . 
+1934	This is from Arno 's . 	Ini dari toko Arno . / Jadi ? 
+1935	So ? 	Ini dari toko Arno . / Jadi ? 
+1936	On the corner ! 	Ini dari toko Arno . / Jadi ? 
+1937	Well , honey , I was busy . 	Di sudut kota ! / Sayang , aku sibuk sekali . 
+1938	I 'm sorry . 	Di sudut kota ! / Sayang , aku sibuk sekali . 
+1939	We were so busy . 	Di sudut kota ! / Sayang , aku sibuk sekali . 
+1940	Oh , for Pete 's sake . 	Maafkan aku , aku sibuk sekali . 
+1941	How 's Roger ? 	Maafkan aku , aku sibuk sekali . 
+1942	Is he home ? 	Maafkan aku , aku sibuk sekali . 
+1943	He 's home . 	Apa kabar Roger ? 
+1944	Carol 's home , Peggy 's home . 	Dia di rumah ? / Dia di rumah . 
+1945	Everyone 's home . 	Carol di rumah , Peggy di rumah . 
+1946	Mom ! 	Semua orang di rumah . 
+1947	Come quick ! 	Ibu ! 
+1948	Look ! 	Kemarilah ! 
+1949	- Mom , come here ! 	Ibu , kemarilah ! 
+1950	- Mom , come here ! 	Ibu , kemarilah ! 
+1951	- Come see this ! 	Ibu , kemarilah ! 
+1952	Look ! 	Ayo lihat ini ! 
+1953	Watch ! 	Ayo lihat ini ! 
+1954	- Come on ! 	Ayo lihat ini ! 
+1955	Francis Gary Powers has been released from prison in the Soviet Union and turned over to American authorities early this morning in Berlin . 	Lihat ! / Ayo ! Francis Gary Powers ... telah dibebaskan dari penjara Uni Soviet ... ... dan diserahkan ke pihak Amerika ... ... pagi ini di Berlin . 
+1956	The President has commuted the sentence of Rudolf Abel . 	Presiden telah merubah vonis Rudolf Abel . 
+1957	Mr . 	Presiden telah merubah vonis Rudolf Abel . 
+1958	Abel has been deported and has been released in Berlin . 	Tn . Abel telah dideportasi ... ... dan telah dibebaskan di Berlin . 
+1959	Efforts to obtain Mr . 	Upaya pembebasan Tn . 
+1960	Powers´ release had been underway for some time . 	Powers ini ... ... berlangsung rahasia . 
+1961	In recent efforts , the United States government has had the cooperation and assistance of Mr . 	Untuk upaya ini , ... ... pemerintah Amerika Serikat memiliki ... ... kerjasama dan bantuan dari Tn . 
+1962	James B . 	James B . 
+1963	Donovan , a New York attorney . 	Donovan , ... ... seorang pengacara New York . 
+1964	Frederic L . 	Donovan , ... ... seorang pengacara New York . 
+1965	Pryor , an American student held by East German authorities since August of 1961 ... 	Frederic L . Pryor , seorang mahasiswa Amerika ... ... ditahan otoritas Jerman Timur ... ... sejak Agustus 1961 . 
+1966	I thought Daddy was fishing . 	Kupikir ayah pergi memancing . 
+1967	For salmon . 	Memancing salmon . 
+1968	Abel now has disappeared into the communist world . 	Abel sekarang menghilang ke dunia komunis . 
+1969	Powers is here , answering questions . 	Powers diberi beberapa pertanyaan . 
+1970	And Donovan has gone back to his law practice . 	Dan Donovan kembali ke praktek hukumnya . 
+1971	And now , here is George Fenneman , speaking for the Douglas Fir Plywood Association . 	Dan sekarang ada George Fenneman , ... ... berbicara untuk Asosiasi Plywood Douglas . 

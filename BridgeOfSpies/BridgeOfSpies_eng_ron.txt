@@ -1,0 +1,1971 @@
+1	The next stop is Broad Street . 	Următoarea oprire , Broad Street . 
+2	Broad Street will be next . 	Broad Street este următoarea oprire . 
+3	Upstairs . 	La etaj . 
+4	This way . 	Pe aici . 
+5	He didn 't come up this way ? 	Nu a venit pe aici ? 
+6	Anything ? 	Nu a venit pe aici ? 
+7	He 's not up here . 	Nu e aici . 
+8	Go back down . 	Înapoi la parter . 
+9	Excuse me . 	Scuză- mă . 
+10	Excuse me . 	Scuză- mă . 
+11	Go ahead and park around the corner . 	Mergi în faţă şi opreşte după colţ . 
+12	Visitors . 	Vizitatori . 
+13	Do you mind if I fetch my teeth ? 	Vă supăraţi dacă- mi iau dinţii ? 
+14	Colonel , would you turn around , please ? 	Dle colonel , vrei să te întorci , te rog ? 
+15	Sit down on the bed . 	Stai pe pat . 
+16	Let 's go . 	Stai pe pat . 
+17	Uh , they 're in the ... 	Am proteza în chiuvetă . 
+18	The teeth are in the ... 	Am proteza în chiuvetă . 
+19	On the sink . 	Am proteza în chiuvetă . 
+20	Look at me . 	Uită- te la mine . 
+21	We are agents from the Federal Bureau of Investigation . 	Suntem agenţi FBI . 
+22	Look at me ! 	Uită- te la mine ! 
+23	I 'm talking to you . 	Cu tine vorbesc . 
+24	We 've received information concerning your involvement in espionage . 	Am primit informaţii că eşti implicat în spionaj . 
+25	You can either cooperate with us right now , or you 'll be under arrest . 	Eşti de acord să cooperezi imediat cu noi , sau eşti arestat . 
+26	Do you understand , Colonel ? 	- Înţelegi , colonele ? 
+27	No , not really . 	- Mai mult sau mai puţin . 
+28	Why do you keep calling me " Colonel " ? 	De ce- mi tot spui " Colonel " ? 
+29	You need to get dressed . 	Trebuie să te îmbraci . 
+30	We have to search your apartment . 	Îţi vom percheziţiona apartamentul . 
+31	Would you mind if I , uh , cleaned my palette ? 	Vă supăraţi dacă- mi curăţ paleta ? 
+32	The paints , it 'll get ruined otherwise . 	Dacă nu , se strică pictura . 
+33	It 's just behind you there . 	Este în spatele tău . 
+34	I have a cloth myself . 	Am o cârpă pentru curăţare . 
+35	Thank you . 	Mulţumesc . 
+36	All right , start searching the place . 	- Începeţi să cercetaţi locul . 
+37	Thank you . 	- Mulţumesc . 
+38	All right , search the mattress , the bed , the floorboards , his chair . 	Cercetaţi salteaua , patul , podeaua ... 
+39	Would you put that in the ashtray on the windowsill there ? 	Vrei s- o pui în scrumieră ? 
+40	Take a good look at that desk . 	Acolo , pe pervazul ferestrei . 
+41	Let 's see the desk . 	Biroul . 
+42	Wouldn 't want to get this ruined . 	Nu vreau să se strice . 
+43	Don 't say " my guy . " 	Nu spune că e " omul meu . " 
+44	He 's not " my guy . " 	Nu e " omul meu . " Ba da , e omul tău . 
+45	Yes , he 's " your guy . " 	Despre cine vorbim ? 
+46	Who are we talking about ? 	Despre cine vorbim ? 
+47	We 're talking about a guy who was insured by my client . 	Vorbim despre tipul care a fost asigurat de clientul meu . 
+48	So , don 't make him " my guy . " 	Asta nu- l face " omul meu . " 
+49	Okay , fine . 	Bine , bine . 
+50	My point is , the guy insured by your client , he doesn 't deny that any of these things happened . 	Ideea e că , tipul asigurat de clientul tău , nu neagă faptul că lucrurile astea s- au întâmplat . 
+51	" These ... 	" Lucrurile astea " ? 
+52	These things " ? 	" Lucrurile astea " ? 
+53	Yes , these five things . 	Da , aceste cinci lucruri . 
+54	Wait , hold it , hold it , hold it . 	Stai , stai , opreşte- te . 
+55	Not five things . 	Nu cinci lucruri , un lucru . 
+56	One thing . 	Nu cinci lucruri , un lucru . 
+57	Clearly , it 's five things . 	E evident că sunt cinci lucruri . 
+58	Well , I 'm sorry , it 's not clear to me . 	Scuze , pentru mine nu e evident . 
+59	Five things ? 	Scuze , pentru mine nu e evident . 
+60	Explain it to me . 	Cinci lucruri ? Explică- mi . 
+61	It 's self- evident . 	Este incontestabil . 
+62	Okay , then tell me what happened . 	Bine . Spune- mi ce s- a întâmplat . 
+63	Tell me the story in a way that makes sense for five things . 	Spune- mi povestea în aşa fel încât să aibă sens , pentru cinci lucruri . 
+64	Fine , absolutely . 	Bine , desigur . 
+65	Your guy is ... 	Tipul tău ... 
+66	Not my guy . 	Nu e tipul meu . 
+67	Insured by my client . 	E asigurat de clientul meu . 
+68	The guy insured by your client is driving down State Highway 19 when he loses control of his car and hits my five guys , the five guys who hired me to represent them because you 're not honoring your claim . 	Asigurat de clientul tău , conducea pe autostrada 19 , a pierdut controlul maşinii şi a lovit cinci clienţi de- ai mei . Cinci tipi care m- au angajat să- i reprezint pentru că nu doriţi să plătiţi despăgubiri . 
+69	You mean my client is not honoring the claim , the insurance company ? 	Adică clientul meu nu vrea să plătească prin compania de asigurări ? 
+70	Mr . 	Dle Donovan , e destul de clar cine suntem aici . 
+71	Donovan , we 're all clear on who 's who , here . 	Dle Donovan , e destul de clar cine suntem aici . 
+72	Except my client honors every claim . 	Numai că clientul meu plăteşte toate cererile . 
+73	They do , Mr . 	Plătesc , domnule Bates . 
+74	Bates . 	Plătesc , domnule Bates . 
+75	Every single legitimate claim , up to the limit of their liability , which is $100, 000 per accident , in the case of this man 's policy . 	Fiecare cerere legală de a limita răspunderea sa , care este de 100 . 000 $ per accident , politica în cazul acestui om , şi este o singură cerere , în conformitate cu descrierea ta , " a lovit cinci clienţi de- ai mei . " 
+76	And this is one claim . 	Fiecare cerere legală de a limita răspunderea sa , care este de 100 . 000 $ per accident , politica în cazul acestui om , şi este o singură cerere , în conformitate cu descrierea ta , " a lovit cinci clienţi de- ai mei . " 
+77	According to your description , " He hit my five guys . " 	Fiecare cerere legală de a limita răspunderea sa , care este de 100 . 000 $ per accident , politica în cazul acestui om , şi este o singură cerere , în conformitate cu descrierea ta , " a lovit cinci clienţi de- ai mei . " 
+78	The guy insured by my client had one accident . 	Tipul asigurat de clientul meu a avut un accident . 
+79	One , one , one . 	Unul , unul . 
+80	Losing control of the car and hitting five motorcyclists . 	A pierdut controlul maşinii şi a lovit cinci motociclişti . 
+81	From their point of view , five things happened . 	Din punctul lor de vedere s- au întâmplat cinci lucruri . 
+82	Well , look , Bob . 	Ascultă , Bob . 
+83	May I ? 	Pot să- ţi spun Bob ? 
+84	Bob ? 	Pot să- ţi spun Bob ? 
+85	" Jim . " 	Sunt Jim . 
+86	If I go bowling and I throw a strike , one thing happened . 	Dacă mă duc la bowling şi dobor toate popicele , a fost o mişcare . 
+87	Ten things didn 't happen . 	Nu zece mişcări . 
+88	Jim , my guys aren 't bowling pins , as much as your guy may have treated them as such . 	Jim , clienţii mei nu sunt popice , deşi tipul tău i- a tratat ca atare . 
+89	If ... 	Lasă- mă să termin . 
+90	Let me finish . 	Lasă- mă să termin . 
+91	Let me finish . 	Lasă- mă să termin . 
+92	If your house is insured for $100, 000 and a tornado carries it away , it carried away one house . 	Dacă casa ta e asigurată pentru 100 . 000 $ şi o ia o tornadă , a luat o singură casă , nu a luat fiecare piesă de mobilier pe care a distrus- o în incidente separate . 
+93	It didn 't pick up every stick of furniture and destroy it in a separate incident . 	Dacă casa ta e asigurată pentru 100 . 000 $ şi o ia o tornadă , a luat o singură casă , nu a luat fiecare piesă de mobilier pe care a distrus- o în incidente separate . 
+94	If that is what you 're saying , well , then there is never any limit to our liability and that is the end of the insurance business . 	Dacă asta e ceea ce spui ... atunci depăşeşte limita responsabilităţii noastre , şi ăsta e sfârşitul asiguratorilor . 
+95	And then , Bob , nobody is safe . 	Şi atunci , Bob , nimeni nu e în siguranţă . 
+96	Watters , Cowan and Donovan . 	Watters , Cowan şi Donovan . 
+97	How may I direct your call ? 	Mă bucur că ne- aţi sunat . 
+98	Morning , Mr . 	- Bună dimineaţa , domnule Donovan . 
+99	Donovan . 	- Bună dimineaţa , domnule Donovan . 
+100	Good morning , Alison . 	- Bună dimineaţa , Alison . 
+101	I moved your 9 : 00 a . m . with Prudential , sir . 	- Am amânat întâlnirea cu Prudential , dle . 
+102	Why did you do that ? 	- De ce ai făcut asta ? 
+103	I asked her to . 	Eu i- am cerut- o . 
+104	Is everything all right , Tom ? 	E totul în regulă , Tom ? 
+105	Why don 't you leave your stuff with Alison . 	De ce nu- ţi laşi lucrurile la Alison şi să mergem înăuntru ? 
+106	Come on inside . 	De ce nu- ţi laşi lucrurile la Alison şi să mergem înăuntru ? 
+107	Something pretty important has come up . 	A apărut ceva foarte important . 
+108	Somebody 's here to see us . 	A venit cineva să te vadă . 
+109	Natalie 's getting your coffee . 	Natalie îţi aduce cafeaua . 
+110	Nescafe , cream , two lumps , right ? 	Nescafe cu frişcă , două cuburi de zahăr , nu ? 
+111	That 's right . 	Aşa e , mulţumesc . 
+112	Thanks . 	Aşa e , mulţumesc . 
+113	Lynn ! 	- Lynn ! 
+114	Jim ! 	- Jim ! 
+115	Nice to see you again . 	Mă bucur să te văd . 
+116	How 's the family ? 	Ce- ţi face familia ? 
+117	Great , good . 	Grozav . 
+118	Thanks . 	Mulţumesc . 
+119	How 's Annie ? 	Ce face Annie ? 
+120	Homicidal . 	E criminală . 
+121	We had the in- laws for the holiday . 	Au venit părinţii ei în vacanţă . 
+122	Well , if she acts on it , she 'll have good representation . 	Dacă a comis o infracţiune , veţi avea un avocat bun în apărare . 
+123	Now , what 's up ? 	Care- i treaba ? 
+124	Okay , here 's the thing . 	Bine , uite care- i treaba . 
+125	The Soviet spy they caught , we want you to defend him . 	Vrem să- l aperi pe spionul rus pe care l- au prins . 
+126	Here 's the indictment . 	Asta e plângerea . 
+127	Wow . 	
+128	I 'm not sure I wanna pick that up . 	Nu- s sigur că vreau s- o iau . 
+129	The accused doesn 't know any lawyers . 	Acuzatul nu cunoaşte niciun avocat . 
+130	The federal court tossed it into our lap . 	Curtea Federală ni l- a pus în poală . 
+131	The Bar Committee took a vote . 	Baroul a votat ... 
+132	You 're the unanimous choice . 	Ai fost alegerea unanimă . 
+133	It was important to us ... 	E important pentru noi ... 
+134	It 's important to our country , Jim , that this man is seen as getting a fair shake . 	E important pentru ţara noastră , Jim , ca omul ăsta să aibă un proces echitabil . 
+135	American justice will be on trial . 	Justiţia american va fi judecată . 
+136	Well , of course , when you put it that way , it 's an honor to be asked . 	Desigur , dacă o spui aşa , e o onoare de a fi ales . 
+137	But , Lynn , I 'm an insurance lawyer . 	Dar Lynn , sunt avocat de asigurări . 
+138	I haven 't done criminal work in years . 	N- am folosit legea penală de ani de zile . 
+139	It 's like riding a bike , isn 't it ? 	E ca mersul pe bicicletă , nu ? 
+140	You distinguished yourself at Nuremberg . 	Ai excelat la Nuremberg . 
+141	I was on the prosecution team . 	Am fost în echipa acuzării . 
+142	Not the point . 	Nu asta- i ideea . 
+143	You 're no stranger to criminal law . 	Nu eşti străin de dreptul penal . 
+144	Jim , look at the situation . 	Jim , să analizăm situaţia . 
+145	The man is publicly reviled . 	- Omul este insultat în public . 
+146	And I will be , too . 	- Voi fi şi eu . 
+147	Yes , in more ignorant quarters . 	Da , sunt mulţi reporteri ignoranţi . 
+148	But that 's exactly why this has to be done , and capably done . 	Tocmai de aceea trebuie făcut , şi făcut în mod competent . 
+149	It can 't look like our justice system tosses people on the ash heap . 	Nu poate părea că justiţia noastră condamnă fără un proces echitabil . 
+150	Suppose I did , what 's the evidence look like ? 	Să presupunem că sunt de acord cum arată dovezile ? 
+151	Pretty overwhelming . 	Sunt impresionante . 
+152	Great . 	Grozav . 
+153	Great . 	Grozav . 
+154	Everyone will hate me but at least I' ll lose . 	Toată lumea mă va urî , dar cel puţin voi pierde . 
+155	Well , what do you think , Tom ? 	Ce crezi , Tom ? 
+156	The firm will suffer . 	Compania va avea de suferit , lucrez aici . 
+157	I have work here . 	Compania va avea de suferit , lucrez aici . 
+158	I think it 's a patriotic duty . 	Cred că este o datorie patriotică . 
+159	It 's an important mission . 	Este o misiune importantă . 
+160	I told Lynn , the firm can 't say no , and you 'd have a tough time saying no , too . 	I- am spus lui Lynn , compania nu poate spune nu . Nici tu nu poţi refuza . 
+161	I think you have to defend the son of a bitch . 	Cred că trebuie să- l aperi pe nenorocit . 
+162	So , you 're doing it ? 	- Deci , o faci ? 
+163	Doing what ? 	- Ce să fac ? 
+164	Defending Abel , the Soviet spy . 	Să- l aperi pe Abel , spionul sovietic . 
+165	I may . 	S- ar putea . 
+166	I have to speak to ... 	Trebuie să vorbesc cu ... 
+167	Wait , how do you know ? 	De unde ştii ? 
+168	Did they post it on the bulletin board ? 	Au afişat la avizier ? 
+169	No , I ... 	Am vorbit cu Richard Earl ... 
+170	I was talking to Richard Earl ... 	Am vorbit cu Richard Earl ... 
+171	Look , if I do this , I 'm going to need your help . 	Ascultă , dacă voi face asta , voi avea nevoie de ajutorul tău . 
+172	Can you work tonight ? 	Poţi lucra în seara asta ? 
+173	Well , I have a dinner date , sir . 	Am o cină romantică , domnule . 
+174	It 's Tuesday , right ? 	E marţi , nu ? 
+175	Yeah , no , I 'm free , completely free . 	Nu , sunt complet liber . 
+176	Thank you , sir . 	Mulţumesc , domnule . 
+177	But it 's also an honor . 	Dar este şi o onoare . 
+178	And the Bar Association asked me because they want to show that even a spy gets a capable advocate . 	Şi Baroul m- a cerut pe mine , pentru că vor să arate că , chiar şi un spion poate avea un avocat competent . 
+179	Well , maybe it 's the kind of honor we could do without . 	Poate că e genul de onoare fără de care am putea trăi . 
+180	Hey , honey , what are you doing home ? 	Bună , scumpo , ce faci acasă ? 
+181	I got stood up . 	Am fost păcălită . 
+182	Well , that 's despicable . 	Asta- i de neconceput . 
+183	Who is this knot- head ? 	Cine este idiotul ăsta ? 
+184	I 'd rather not say . 	- Prefer să nu spun . 
+185	Well , sit down . 	- Ia loc , tocmai am început . 
+186	We just started . 	- Ia loc , tocmai am început . 
+187	People are scared . 	Oamenii se tem şi construiesc adăposturi pentru a se proteja de astfel de oameni . 
+188	They 're building bomb shelters to protect themselves from people like this man . 	Oamenii se tem şi construiesc adăposturi pentru a se proteja de astfel de oameni . 
+189	I go to the store , people are buying canned food and potassium tablets . 	Când mă duc la magazin , văd oameni care cumpără pastile conserve şi potasiu . 
+190	It 's all about this man and what he represents . 	Nu comentează decât despre acest om şi ce reprezintă el . 
+191	He 's a threat to all of us . 	E o ameninţare pentru noi toţi , un trădător . 
+192	A traitor . 	E o ameninţare pentru noi toţi , un trădător . 
+193	Who 's a traitor ? 	- Cine e trădătorul ? 
+194	The Rosenbergs were traitors . 	- Rosenberg au fost trădători . 
+195	Who were they ? 	Cine au fost ei ? 
+196	They gave atomic secrets to the Russians . 	Au dat ruşilor secrete atomice . 
+197	They were Americans . 	Erau americani . 
+198	They betrayed their country . 	Ei şi- au trădat ţara . 
+199	You can 't accuse Abel of being a traitor . 	Nu- l poţi acuza pe Abel că e trădător . 
+200	He 's not an American . 	Nu este american . 
+201	Oh , listen to yourself . 	Ascultă- te . 
+202	You 're defending him already . 	Îl aperi deja . 
+203	You 're rehearsing it on me . 	Ţi- au dau detalii . 
+204	You said you were just thinking about taking it . 	Ai spus doar că te vei gândi . 
+205	I am just thinking about it , just very hard . 	Mă gândesc , dar serios . 
+206	Everyone deserves a defense . 	Toată lumea merită o apărare . 
+207	Every person matters . 	Fiecare persoană e importantă . 
+208	Jim , what do we deserve ? 	Jim , noi ce merităm ? 
+209	Do you know how people will look at us ? 	Ştii cum se vor uita oamenii la noi ? 
+210	The family of a man trying to free a traitor ? 	Familia unui bărbat care încearcă să elibereze un trădător ? 
+211	He 's not a traitor , Mary . 	Nu e trădător , Mary . 
+212	Yes , yes . 	Nu e trădător , Mary . 
+213	Roger , get that ! 	Du- te şi răspunde la uşă . 
+214	He 's not a traitor ... 	Am înţeles , nu e trădător . 
+215	Why do I have to do all the work ? 	De ce trebuie să fac eu totul ? 
+216	Oh ! 	De ce trebuie să fac eu totul ? 
+217	You wait till we say grace . 	- Aşteaptă să spunem rugăciunea . 
+218	I 'm hungry ! 	- Mi- e foame ! 
+219	He 's about the most unpopular man in this country , and you 're trying to take second place ! 	E omul cel mai nepopular din această ţară şi faptul că- l vei apăra îţi va aduce locul 2 ! 
+220	Yeah , and I 'm third . 	- Da , şi eu sunt pe locul 3 . 
+221	Carol , you just dated the wrong guy . 	- Carol , te întâlneşti cu tipul nepotrivit . 
+222	I wanna eat . 	- Carol , te întâlneşti cu tipul nepotrivit . 
+223	Mary , don 't make this an argument when we 're not having an argument . 	Marie , nu începe cu cearta , nu vreau să ne certăm . 
+224	You 're against him , I 'm for him ? 	Eşti împotriva tipului ? 
+225	No , I 'm not for him . 	Nici eu nu sunt de acord , dar nici să ne spioneze ruşii . 
+226	I 'm not for the Russians spying on us . 	Nici eu nu sunt de acord , dar nici să ne spioneze ruşii . 
+227	I 'm for his right to have a defense in a court of law , which is why they call it a court of law . 	Sunt în favoarea dreptului de a avea apărare în instanţă , de aceea se numeşte instanţă . 
+228	I didn 't mean to interrupt dinner . 	- Nu vreau să vă întrerup cina . 
+229	A court of law ... 	- Instanţă . 
+230	Hey , Doug . 	Bună , Doug . 
+231	Oh , no , not at all . 	Nu ne deranjezi , Doug . 
+232	Hello , Doug . 	Nu ne deranjezi , Doug . 
+233	Jim was just flailing . 	Jim şi cu mine doar discutam . ... o instanţă periculoasă . 
+234	I 'm not flailing . 	Jim şi cu mine doar discutam . ... o instanţă periculoasă . 
+235	Go ahead , Doug , you can join us for dinner . 	Nu- s de acord . Doug , ia cina cu noi . 
+236	We 're having meatloaf tonight . 	Avem fleică în seara asta . 
+237	So , you came over to help Jim think about whether he 's taking the case ? 	Ai venit să- l ajuţi pe Jim să se gândească dacă acceptaţi sau nu ? 
+238	Oh , we 're taking it ! 	Vom accepta ! 
+239	It 's exciting , isn 't it ? 	Este interesant , nu ? 
+240	Lord , we thank thee for thy blessings we are about to receive . 	Doamne , îţi mulţumesc că binecuvântezi mâncarea pe care o primim prin Iisus Cristos , Domnul nostru . 
+241	Thy bounty through Christ , our Lord . 	Doamne , îţi mulţumesc că binecuvântezi mâncarea pe care o primim prin Iisus Cristos , Domnul nostru . 
+242	Amen . 	Amin . 
+243	Good morning , sir . 	Bună ziua , dle . 
+244	My name is Jim Donovan . 	Numele meu e Jim Donovan . 
+245	These are my credentials . 	Acestea sunt recomandările mele . 
+246	I am a partner in Watters , Cowan and Donovan . 	Sunt partener la Watters , Cowan şi Donovan . 
+247	I was admitted to the New York Bar in 1941 . 	Am fost primit în baroul New York , în 1941 . 
+248	You have been charged with three counts and 19 overt acts . 	Aţi fost acuzat de 3 infracţiuni şi de 19 acte evidente . 
+249	Conspiracy to transmit United States defense and atomic secrets to the Soviet Union , conspiracy to gather secrets , and failing to register as a foreign agent . 	Conspiraţie la transmiterea de secrete atomice şi de apărare a SUA , către URSS , conspiraţie pentru a aduna secrete , şi absenţa înregistrării ca agent străin . 
+250	Do many foreign agents register ? 	Sunt înregistraţi prea mulţi agenţi străini ? 
+251	If you don 't mind my asking , sir , since your arrest , where have you been ? 	Dacă nu te superi că întreb , domnule , de la arestarea ta , unde ai fost ? 
+252	I couldn 't say for certain . 	Nu pot spune cu siguranţă . 
+253	You don 't know ? 	Nu ştii ? 
+254	They drove me to an airport and put me on a plane , took me off the plane . 	M- au dus la un aeroport şi m- au urcat într- un avion , apoi m- au dat jos din el ... 
+255	Somewhere hot . 	Într- un loc cald ... ca aici . 
+256	It 's hot here . 	Într- un loc cald ... ca aici . 
+257	Hotter , very humid . 	Cald şi foarte umed . 
+258	They put me in a room . 	Am fost pus într- o cameră . 
+259	Were you beaten ? 	Ai fost bătut ? 
+260	No . 	Nu . 
+261	I was talked to . 	Mi s- a vorbit mult . 
+262	Offers were made . 	Au fost făcute oferte . 
+263	What do you mean ? 	- Ce vrei să spui ? 
+264	Offers of employment , to work for your government . 	- Oferte de muncă pentru guvernul vostru . 
+265	I was told if I cooperated , no further charges would be made against me . 	Mi- au spus că dacă cooperez , nu vor fi formulate acuzaţii împotriva mea . 
+266	And I would be given money . 	Şi voi primi bani . 
+267	Hmm . 	Şi voi primi bani . 
+268	And you declined ? 	Şi ai refuzat ? 
+269	As you see . 	După cum poţi vedea . 
+270	Well , of course I can 't endorse that . 	Desigur , nu pot subscrie la asta . 
+271	I feel duty- bound to urge you to cooperate with the U . S . government . 	Simt o obligaţie morală şi legală , insistând că cooperaţi cu guvernul SUA . 
+272	Well , I said no . 	Am spus , nu . 
+273	Perhaps you could relay to your friends at the CIA that I meant it . 	Poate ai putea povesti prietenilor tăi de la CIA că ... 
+274	No , no , no . 	Nu , nu , nu . 
+275	I ... 	
+276	I don 't work for the agency . 	Nu lucrez pentru CIA . 
+277	I don 't work for the government . 	Nu lucrez pentru guvern . 
+278	I am here to offer my services as your legal counsel . 	Sunt aici pentru a- mi oferi serviciile ca avocat al tău . 
+279	If you accept them as such , 	Dacă le accepţi aşa cum sunt , te voi apăra . 
+280	I work for you . 	Dacă le accepţi aşa cum sunt , te voi apăra . 
+281	If I accept you ? 	Dacă te accept ? 
+282	Are you good at what you do ? 	Eşti bun în ceea ce faci ? 
+283	Yeah . 	Da . 
+284	Yeah , I 'm pretty good . 	Sunt destul de bun . 
+285	Have you represented many accused spies ? 	Ai reprezentat mulţi spioni acuzaţi ? 
+286	No , not yet . 	Nu , nu încă . 
+287	This will be a first for the both of us . 	Va fi prima dată pentru amândoi . 
+288	Yes . 	Da . 
+289	All right . 	Bine . 
+290	" All right " ? 	" Bine " ? 
+291	You accept ? 	Accepţi ? 
+292	Yes , all right . 	Da , în regulă . 
+293	Good , okay . 	Bun , bine . 
+294	Let 's start here . 	Să începem . 
+295	If you are firm in your resolve not to cooperate with the U . S . government ... 	Dacă decizi să cooperezi cu guvernul SUA ... 
+296	I am . 	De acord . 
+297	Yeah . 	Da . 
+298	Then do not talk to anybody else about your case , inside of government or out . 	Atunci , nu vorbi cu nimeni despre cazul tău din interiorul sau din afara guvernului în afară de mine , şi- ţi cer să ai încredere în mine . 
+299	Except to me , to the extent that you trust me . 	Atunci , nu vorbi cu nimeni despre cazul tău din interiorul sau din afara guvernului în afară de mine , şi- ţi cer să ai încredere în mine . 
+300	I have a mandate to serve you . 	Am un mandat pentru a te servi şi nu- l are nimeni altcineva . 
+301	Nobody else does . 	Am un mandat pentru a te servi şi nu- l are nimeni altcineva . 
+302	Quite frankly , everybody else has an interest in sending you to the electric chair . 	Sincer , toată lumea este interesată să te trimită pe scaunul electric . 
+303	All right . 	Bine . 
+304	You don 't seem alarmed . 	Nu pari îngrijorat . 
+305	Would it help ? 	Asta ar ajuta ? 
+306	I ... 	
+307	I would like materials to draw with . 	Aş vrea să am materiale pentru desen . 
+308	That 's not possible . 	E imposibil . 
+309	A pencil , a piece of paper . 	Un creion , o foaie de hârtie ... ţigări . 
+310	Cigarettes . 	Un creion , o foaie de hârtie ... ţigări . 
+311	Please ? 	Te rog ? 
+312	Mr . 	Dle Donovan , aveţi oameni ca mine care fac acelaşi lucru pentru ţara ta . 
+313	Donovan , you have men like me doing the same for your country . 	Dle Donovan , aveţi oameni ca mine care fac acelaşi lucru pentru ţara ta . 
+314	If they were caught , 	Dacă ar fi prinşi , sunt sigur că ai vrea să fie trataţi bine . 
+315	I 'm sure that you would wish them to be treated well . 	Dacă ar fi prinşi , sunt sigur că ai vrea să fie trataţi bine . 
+316	What 's your name ? 	Cum te numeşti ? 
+317	Francis Gary Powers . 	Francis Gary Powers . 
+318	Rank , service ? 	Care ţi- e brevetul ? 
+319	First Lieutenant , United States Air Force . 	Locotenent în forţele aeriene americane . 
+320	Do you have any association with the Soviet Union , Lieutenant Powers ? 	Ai legături cu Uniunea Sovietică , locotenent Powers ? 
+321	Kidding ? 	- Glumeşti ? 
+322	Just answer the questions , Lieutenant . 	- Răspunde doar la întrebări , locotenent . 
+323	Yes , no , or as simply as you can . 	Da , sau nu , cât de simplu se poate . 
+324	Do you have any association with the Soviet Union ? 	Ai legături cu Uniunea Sovietică ? 
+325	Hell , no . 	Bineînţeles că nu . 
+326	Do you know why you 're here ? 	Ştii de ce eşti aici ? 
+327	Mmm- mmm . 	
+328	Is that a no ? 	Ăsta e un nu ? 
+329	Yes . 	Da . 
+330	I mean ... 	Adică ... 
+331	No , it 's just " no . " 	Nu , este doar " nu " . 
+332	Yes , I have absolutely no idea why I 'm here . 	Habar n- am de ce sunt aici . 
+333	Eyes front , Lieutenant . 	- Ochii înainte , locotenente . 
+334	Yes , sir . 	- Ochii înainte , locotenente . 
+335	How 'd you do in there , Gary ? 	Cum te- ai descurcat , Gary ? 
+336	Pretty good . 	Bine . 
+337	Think I got my name right . 	Cred că mi- au reţinut bine numele . 
+338	You probably outscored Shinn , then . 	Ar trebui să ai mai multe puncte decât Shinn , frate . 
+339	Who 's winning ? 	- Cine câştigă ? 
+340	Uh , that would be me . 	- Cine câştigă ? 
+341	Oh . 	- Eu . 
+342	Well , deal me in . 	Vreau să joc . 
+343	So , these are all mine , then . 	Deci totul e al meu . 
+344	I told you boys not to play with him . 	Ţi- am spus să nu joci cu el . 
+345	Okay , drivers , here 's the deal . 	Bine , băieţi , uitaţi care e treaba . 
+346	You 've been selected for a mission which you are not to discuss with anyone outside of this room . 	Aţi fost selectaţi pentru o misiune despre care nu puteţi vorbi cu nimeni din afara acestei camere . 
+347	No one . 	Cu nimeni . 
+348	I don 't care who you trust . 	Nu- mi pasă în cine aveţi încredere . 
+349	Wife , mother , sweetheart . 	Soţie , mamă , prieten . 
+350	The good Lord when you pray at night . 	Chiar şi Dumnezeu , când vă rugaţi noaptea , nu spuneţi nimănui nimic din ce vă voi spune . 
+351	You don 't tell any of them anything of what I 'm about to tell you . 	Chiar şi Dumnezeu , când vă rugaţi noaptea , nu spuneţi nimănui nimic din ce vă voi spune . 
+352	Each of you drivers has met certain qualifications . 	Fiecare dintre voi a ajuns la anumite calificări . 
+353	High level security clearance . 	Nivel de securitate ridicat . 
+354	Exceptional pilot ratings in excess of the required hours flight time in a single- seat aircraft . 	Aveţi evaluări excelente , la orele de zbor obligatorii pe un avion cu un singur scaun . 
+355	We are engaged in a war . 	Suntem angajaţi într- un război . 
+356	This war does not , for the moment , involve men- at- arms . 	Acest război nu implică pe moment trupe combatante , implică informaţii . 
+357	It involves information . 	Acest război nu implică pe moment trupe combatante , implică informaţii . 
+358	You will be collecting information . 	Veţi aduna informaţii . 
+359	You will be gathering intelligence about the enemy . 	Veţi aduna informaţii despre inamic . 
+360	The intelligence you gather could give us the upper hand in a full thermonuclear exchange with the Soviet Union . 	Informaţiile pe care le culegeţi ne pot face să înţelegem dacă urmează confruntarea termonucleară cu Uniunea Sovietică ... sau s- ar putea evita . 
+361	Or it could prevent one . 	Informaţiile pe care le culegeţi ne pot face să înţelegem dacă urmează confruntarea termonucleară cu Uniunea Sovietică ... sau s- ar putea evita . 
+362	For public purposes , as far as your wife or mother or sweetheart or the good Lord above , your mission does not exist . 	Pentru public , adică soţia , sau mama , sau prietena , sau Dumnezeu , această misiune nu există . 
+363	If it does not exist , you do not exist . 	Dacă nu există , nici voi nu existaţi . 
+364	You cannot be shot down . 	Nu puteţi fi doborâţi . 
+365	You cannot be captured . 	Nu puteţi fi capturaţi . 
+366	You work for the CIA now . 	Lucraţi pentru CIA acum . 
+367	So , Jim , I heard your guy is speaking with a phony accent . 	Deci Jim , am auzit că tipul tău vorbeşte cu accent . 
+368	Does he keep that up all the time ? 	E în stare să- şi transmită mesajul ? 
+369	Actually , I 'm pretty sure that 's just the way he talks . 	De fapt , sunt sigur că accentul e autentic . 
+370	He 's got the Russian name but a British passport . 	Are nume rusesc , dar paşaportul e britanic . 
+371	Well , I doubt that that 's genuine . 	Mă îndoiesc că e autentic . 
+372	So , Jim , where are we ? 	Deci , Jim , unde rămăsesem ? 
+373	I see here ... 	Deci , Jim , unde rămăsesem ? 
+374	Yes , uh , Judge , you see , 	Aici ... 
+375	I just don 't think that three weeks is going to do it , here . 	Da , dle judecător , ştiţi , nu cred că trei săptămâni sunt suficiente . 
+376	We ... 	Avem o mare cantitate de dovezi . 
+377	We got a massive amount of evidence , as you know . 	Avem o mare cantitate de dovezi . 
+378	You wanna postpone ? 	- Vrei o amânare ? 
+379	Six weeks . 	- De şase săptămâni . 
+380	I mean , there 's just myself and my associate , basically . 	Suntem doar eu şi asistentul meu . 
+381	Jim , is this serious ? 	- Jim , e serios ? 
+382	Sir ? 	- Jim , e serios ? 
+383	Is this serious ? 	E serios ? 
+384	Yes . 	Da , este , într- adevăr . 
+385	Yes , indeed , it is . 	Da , este , într- adevăr . 
+386	You can see in the filing ... 	Puteţi vedea în dosar ... 
+387	Jim , this man is a Soviet spy . 	Jim , acest om este spion sovietic . 
+388	Allegedly . 	- Aşa se spune . 
+389	Come on , Counselor ! 	- Haide , dle avocat ! 
+390	Your Honor . 	Domnule judecător ... 
+391	Of course , I salute you . 	Bineînţeles că respect , respectăm cu toţii , că ai acceptat o sarcină ingrată , pentru că are nevoie de un proces , dar nu trebuie să ne amăgim . 
+392	We all salute you for taking on a thankless task . 	Bineînţeles că respect , respectăm cu toţii , că ai acceptat o sarcină ingrată , pentru că are nevoie de un proces , dar nu trebuie să ne amăgim . 
+393	This man has to have due process . 	Bineînţeles că respect , respectăm cu toţii , că ai acceptat o sarcină ingrată , pentru că are nevoie de un proces , dar nu trebuie să ne amăgim . 
+394	But let 's not kid each other . 	
+395	He 'll receive a capable defense . 	Va primi o apărare competentă . 
+396	And , God willing , he 'll be convicted . 	Şi , cu voia Domnului , va fi condamnat . 
+397	Come on , Counselor . 	Haide , dle avocat , nu ne jucăm cu aşa ceva . 
+398	Let 's not play games with this . 	Haide , dle avocat , nu ne jucăm cu aşa ceva . 
+399	Not in my courtroom . 	Nu în tribunalul meu . 
+400	We have a date and we 're going to trial . 	Avem o dată , şi vom ajunge la proces . 
+401	Taxi ! 	Taxi ! 
+402	Taxi ! 	Taxi ! 
+403	I see your light on ! 	Văd că ai lumina aprinsă . 
+404	Son of a bitch . 	Nemernicule ! 
+405	Can 't wait to get back to Manhattan . 	Abia aşteptam să mă întorc în Manhattan . 
+406	His light was on , right ? 	Lumina era aprinsă , nu ? 
+407	Son of a bitch . 	Nemernicul . 
+408	Against their level of comfort . 	... comparativ cu nivelul lor de confort . 
+409	The statute hasn 't changed . 	Legea nu s- a schimbat . 
+410	Oh , excuse me , sir . 	Scuzaţi- mă , domnule . 
+411	Pardon me . 	Scuze . 
+412	Sorry . 	Scuzaţi- mă . 
+413	Oh ! 	Scuzaţi- mă . 
+414	Mr . 	Dle Donovan . 
+415	Donovan . 	Dle Donovan . 
+416	What ? 	Ce e ? 
+417	What ? 	Ce e ? 
+418	CIA . 	- CIA . 
+419	Yeah . 	- Da . 
+420	I just wanted to chat . 	Am vrut doar să vorbim . 
+421	How 's the case going ? 	Cum merge cazul ? 
+422	Case is going great . 	Merge grozav . 
+423	Couldn 't be better . 	Nu putea fi mai bine . 
+424	Mmm- hmm . 	
+425	Has your guy talked ? 	L- aţi făcut să vorbească ? 
+426	Excuse me . 	Pardon ? 
+427	You met him . 	L- aţi făcut să vorbească ? 
+428	Has he talked ? 	L- aţi făcut să vorbească ? 
+429	Has he said anything yet ? 	L- aţi făcut să vorbească ? 
+430	We 're not having this conversation . 	- Nu avem această conversaţie . 
+431	No , of course not . 	- Nu , bineînţeles că nu . 
+432	No , I mean , we really are not having it . 	Serios , această conversaţie nici măcar nu există . 
+433	You 're asking me to violate attorney- client privilege . 	Îmi ceri să încalc privilegiul avocat- client ? 
+434	Oh , come on , Counselor . 	Haide , dle avocat . 
+435	You know , I wish people like you would quit saying " Oh , come on , Counselor . " 	Oameni ca tine nu pot spune , " haide dle avocat . " 
+436	I didn 't like it the first time it happened today . 	Nu mi- a plăcut de când am auzit- o prima dată . 
+437	A judge said it to me twice . 	Un judecător a spus- o de două ori azi . 
+438	And the more I hear it , the more I don 't like it . 	Cu cât o aud mai mult , cu atât îmi place mai puţin . 
+439	Okay , well , listen , I understand attorney- client privilege . 	Bine , ascultă , înţeleg secretul profesional , înţeleg toate trucurile legale , înţeleg că aşa îţi câştigi traiul , dar vorbesc despre altceva . 
+440	I understand all the legal gamesmanship . 	Bine , ascultă , înţeleg secretul profesional , înţeleg toate trucurile legale , înţeleg că aşa îţi câştigi traiul , dar vorbesc despre altceva . 
+441	And I understand that 's how you make a living . 	Bine , ascultă , înţeleg secretul profesional , înţeleg toate trucurile legale , înţeleg că aşa îţi câştigi traiul , dar vorbesc despre altceva . 
+442	But I 'm talking to you about something else . 	
+443	The security of your country . 	De securitatea ţarii tale . 
+444	And I 'm sorry if the way I put it offends you . 	Şi îmi pare rău dacă modul cum o spun te ofensează , dar trebuie să ştim ce- ţi spune Abel . 
+445	But we need to know what Abel is telling you . 	Şi îmi pare rău dacă modul cum o spun te ofensează , dar trebuie să ştim ce- ţi spune Abel . 
+446	You understand me , Donovan ? 	Înţelegi , Donovan ? 
+447	We need to know . 	Trebuie să ştim . 
+448	Don 't go " Boy Scout " on me . 	Nu mă păcăli . 
+449	We don 't have a rule book , here . 	Nu avem o carte cu legi . 
+450	You 're Agent Hoffman , yeah ? 	- Eşti agent Hoffman , nu ? 
+451	Yeah . 	- Eşti agent Hoffman , nu ? 
+452	German extraction . 	- Da . Origine germană . 
+453	Yeah , so ? 	Da , şi ? 
+454	My name 's Donovan . 	Numele meu este Donovan . 
+455	Irish . 	Irlandez . 
+456	Both sides , mother and father . 	Din ambele părţi , mama şi tata . 
+457	I 'm Irish , you 're German . 	Eu sunt irlandez , tu eşti german . 
+458	But what makes us both Americans ? 	Dar ce ne face americani pe amândoi ? 
+459	Just one thing . 	Doar un singur lucru . 
+460	One , one , one . 	Unul . 
+461	The rule book . 	Cartea cu legi . 
+462	We call it the Constitution and we agree to the rules , and that 's what makes us Americans . 	Îi spunem Constituţia . Şi am fost de acord cu regulile , şi asta ne face americani . 
+463	It 's all that makes us Americans so don 't tell me there 's no rule book , and don 't nod at me like that , you son of a bitch . 	E tot ce ne face americani , aşa că nu- mi spune că nu există reguli , şi nu le nega aşa , nenorocitule . 
+464	Do we need to worry about you ? 	Trebuie să ne facem griji pentru tine ? 
+465	Not if I 'm left alone to do my job . 	Nu , atâta timp cât mă lăsaţi să- mi fac treaba . 
+466	From this moment forward you will not refer to the U- 2 as a spy plane or reconnaissance aircraft . 	De acum înainte , nu vă veţi referi la U- 2 ca la avion spion , sau avion de recunoaştere . 
+467	You will refer to it as " The Article . " 	Îi veţi spune " articol " . 
+468	The Article has an 80- foot wingspan . 	Articolul are 24 de metri anvergură a aripilor . 
+469	It 's powered by a single Pratt and Whitney J57 P- 37 engine . 	E propulsat de un singur motor Pratt and Whitney J57- P37 . 
+470	10, 000 pounds of thrust and a maximum speed of 430 miles an hour . 	4500 kg tracţiune , iar viteza maximă e de 700 km/ oră . 
+471	She may not be quick , but at your cruising altitude of 70, 000 feet , nothing will come close to you . 	S- ar putea să nu fie rapid , dar cu altitudinea de croazieră de 20 . 000 m , nimic nu se va apropia de voi . 
+472	70, 000 ? 	20 . 000 ? 
+473	The idea is the enemy doesn 't even know you 're there . 	Ideea e ca inamicul nici măcar să nu ştie că sunteţi acolo . 
+474	It looks kind of flimsy . 	Pare fragil . 
+475	Every extra pound of weight costs a foot in altitude , and we need to accommodate the cameras . 	Fiecare jumătate de kg în plus , costă 30 cm în altitudine . Poate vreţi să vedeţi aparatele foto . 
+476	That 's a 4, 500- millimeter lens , times three . 	Sunt trei , cu lentile de 4 . 500 mm . 
+477	A pin- sharp panoramic camera four times as powerful as any aerial reconnaissance cameras we 've ever used . 	O cameră panoramică de 4 ori mai puternică decât orice cameră de recunoaştere folosită . 
+478	You 're gonna be taking pictures , lots of pictures . 	Poate face fotografii , multe fotografii . 
+479	At 70, 000 feet , The Article can photograph 2, 000 square miles of territory in one pass . 	La 20 . 000 m , articolul poate acoperi 5000 km pătraţi de teritoriu , la o singură trecere . 
+480	Now , drivers , give Agent Sumner your undivided attention . 	Acum aviatori , acordaţi- i toată atenţia agentului Sumner . 
+481	The items you will need on your mission are over here . 	Elementele de care aveţi nevoie pentru misiune , sunt acolo . 
+482	B camera , Revere 8 model 40 magazine , 	Aparat foto Revere de 8 mm , magazie de 40 . 
+483	Keystone Capri K- 25 , silver . 	Keystone Capri K- 25 , argintiu . 
+484	Hollow- handle shaving brush . 	Pămătuf de ras . 
+485	Complete set of cipher tables on edible silver foil . 	Un set complet de hârtie comestibile . 
+486	Specialist photographic equipment . 	Echipament fotografic special . 
+487	Yeah , we , uh ... 	Da , am înţeles . 
+488	We get the idea . 	Da , am înţeles . 
+489	Thank you . 	Mulţumesc . 
+490	Uh , excuse me , Agent , uh , Bosco . 	- Scuză- mă , agent Bosco . 
+491	" Blasco . " 	Blasco . 
+492	Sir . 	- Domnule ? 
+493	There seems to be a subsection to this list here . 	Se pare că sunt lucruri în plus faţă de această listă de aici . 
+494	Well , most of this stuff came from his studio , but the rest is from the hotel room he was holed up in . 	Majoritatea lucrurilor au venit din studioul său , iar restul , din camera de hotel unde se ascundea . 
+495	Where we found him . 	Unde l- am găsit . 
+496	The hotel room you searched ? 	- Aţi percheziţionat camera de hotel ? 
+497	Well , yeah . 	- Aţi percheziţionat camera de hotel ? 
+498	Can I see the warrant ? 	Pot vedea mandatul ? 
+499	The what ? 	Ce să vedeţi ? 
+500	Yeah , explain this to me . 	Da , explică- mi , a fost un mandat . 
+501	There was a warrant . 	Da , explică- mi , a fost un mandat . 
+502	There was a warrant . 	A fost un mandat , mandatul de arestare a unui străin , dar nu a avut mandat de percheziţie pentru presupusa activitatea infracţională . 
+503	A civil detention writ for the arrest of an alien , but there was no search warrant for suspicion of criminal activity . 	A fost un mandat , mandatul de arestare a unui străin , dar nu a avut mandat de percheziţie pentru presupusa activitatea infracţională . 
+504	So , the search and the evidence that is the fruit of that search , that 's all tainted and should not be admitted . 	Deci , percheziţionarea şi dovezile strânse în urma acestei percheziţii , sunt contaminate şi nu pot fi acceptate . 
+505	What protections is he due , Your Honor ? 	Despre ce contaminare vorbeşte , dle judecător ? 
+506	The man is not ... 	Tipul e ... 
+507	The man is what ? 	Cine e tipul ? 
+508	He 's Rudolf Ivanovich Abel . 	Rudolf Ivanovici Abel . 
+509	He is a Soviet citizen . 	Este cetăţean sovietic . 
+510	He 's not an American . 	Nu este american . 
+511	1886 , Yick Wo v . 	1886 , Yick Wo contra lui Hopkins . 
+512	Hopkins . 	1886 , Yick Wo contra lui Hopkins . 
+513	The court held that even aliens , in that case Chinese immigrants , could not be held to answer for a crime without due process of law , including any alien that entered the country illegally . 	Curtea a decis că , chiar şi străinii , în acest caz , migranţii chinezi , nu pot fi reţinuţi pentru o infracţiune fără drept procedural . Inclusiv străinii care au intrat ilegal în ţară . 
+514	The Department of Justice has its first allegiance to the United States . 	Departamentul de Justiţie serveşte în primul rând Statele Unite . 
+515	I don 't see how an alien , if he 's here illegally , how he suffered deprivation of rights . 	Nu înţeleg cum un străin dacă e aici ilegal ar putea suferi o privare de drepturi . 
+516	Rights as what ? 	Ce drepturi ? 
+517	An American ? 	Un american ? 
+518	Rights as what , Counselor ? 	Drepturi , în calitate de ce , dle avocat ? 
+519	We 're in a battle for civilization . 	Suntem într- o luptă pentru civilizaţie . 
+520	This Russian spy came here to threaten our way of life . 	Spionul rus a venit aici ameninţând modul nostru de viaţă . 
+521	Now , I have a courtroom of people waiting . 	Acum , am un tribunal plin care mă aşteaptă . 
+522	Get out there , sit beside the Russian . 	Du- te şi sfătuieşte- l pe rus . 
+523	Let 's get this over and done with . 	Să terminăm cu asta . 
+524	And your motion is denied . 	Şi cererea ta , e refuzată . 
+525	He should take some insurance out on himself . 	Ţi- ar trebui o asigurare de viaţă . 
+526	How did we do ? 	Cum stăm ? 
+527	In there ? 	Acolo ? 
+528	Uh ... 	
+529	Not too good . 	Nu foarte bine . 
+530	Apparently , you 're not an American citizen . 	Desigur , nu eşti cetăţean american . 
+531	That 's true . 	E adevărat . 
+532	And according to your boss , you 're not a Soviet citizen either . 	Şi în conformitate cu şeful său , nu eşti nici cetăţean sovietic . 
+533	Well , the boss isn 't always right but he 's always the boss . 	Şeful nu are întotdeauna dreptate , dar este totuşi şef . 
+534	Do you never worry ? 	- Nu eşti îngrijorat . 
+535	Would it help ? 	- Nu eşti îngrijorat . 
+536	All rise . 	Ridicaţi- vă cu toţii . 
+537	" I pledge allegiance to the Flag 	Promit credinţă faţă de steagul 
+538	" of the United States of America , 	Statelor Unite ale Americii , şi al republicii pe care o reprezintă . 
+539	" and to the Republic for which it stands , 	Statelor Unite ale Americii , şi al republicii pe care o reprezintă . 
+540	" one Nation under God , indivisible , 	O naţiune în faţa lui Dumnezeu , indivizibilă cu libertăţi şi justiţie pentru toţi . 
+541	" with liberty and justice for all . " 	O naţiune în faţa lui Dumnezeu , indivizibilă cu libertăţi şi justiţie pentru toţi . 
+542	First , you have to know what happens when an atomic bomb explodes . 	Mai întâi , trebuie să ştiţi ce se întâmplă când explodează o bombă atomică . 
+543	There is a bright flash , brighter than the sun . 	Este un fulger mai puternic decât soarele . 
+544	It can smash in buildings , break windows all over town . 	Poate distruge clădiri şi zdrobi ferestre în întreg oraşul . 
+545	But if you duck and cover like Bert , you will be much safer . 	Dar dacă te ascunzi şi te acoperi , ca Bert , vei fi mult mai în siguranţă . 
+546	There are two kinds of attack , with warning and without any warning . 	Sunt două tipuri de atacuri : cu avertisment , şi fără niciun avertisment . 
+547	Mmm . 	
+548	What 's going on in here ? 	Ce se întâmplă aici ? 
+549	Okay , Dad , this is really important . 	Tată , e foarte important . 
+550	When the war begins , the first thing they do is cut off all the water and all the electricity . 	Când începe războiul , primul lucru ce trebuie făcut , e să economiseşti apa şi energie electrică . 
+551	So the first thing we should do is keep this filled , use the shower in your room , use the sink downstairs , the garden hose outside ... 	Primul lucru pe care ar trebui să- l facem e să o ţinem plină , să facem duş în cameră , să folosim chiuveta , furtunul din grădină ... 
+552	Those are good ideas . 	Sunt idei grozave , dar Roger , nu cred că ai de ce să- ţi faci griji . 
+553	But , Roger , I don 't see this as being something you ever have to worry about . 	Sunt idei grozave , dar Roger , nu cred că ai de ce să- ţi faci griji . 
+554	Yeah , but when you hear the sirens , there may not be enough time to fill the tub and the sinks . 	Dar când vor porni sirenele , nu va fi timp să umplem cada şi chiuveta . 
+555	Not gonna be any sirens ... 	Nu vor fi sirene . 
+556	What is this ? 	Ce- i asta ? 
+557	When the bomb comes , the Reds will aim for the Empire State Building . 	Când va sosi bomba , va viza Empire State Building . 
+558	But the bomb goes off at 10, 000 feet up . 	Dar bomba explodează la 3000 de metri înălţime . 
+559	In Life magazine , it 's called an airburst , and if the bomb is 50 megatons , the blast wave goes out and out and out and melts everything from here to here . 	În revista Life îi spune explozie aeriană , şi bomba are 50 de megatone . Explozia se răspândeşte în colo , în colo , şi , practic peste tot , de aici până aici , inclusiv unde locuim noi ... aici . 
+560	Including where we live . 	
+561	Here . 	
+562	Yeah , right there . 	Da , chiar aici . 
+563	But , you know , Roger , no one is dropping atomic bombs on us . 	Dar ştii , Roger , nu lansează nimeni bombe asupra noastră . 
+564	But the Russians want to . 	Ruşii vor să facă asta . 
+565	You know that Russian guy you 're defending ? 	Ştii , tipul pe care- l aperi ? 
+566	He 's here to get things ready for the guys who drop the bombs . 	E aici pentru a pregăti totul pentru băieţii care vor arunca bomba . 
+567	No , no , he 's not ... 	Nu , nu , nu e aici pentru asta . 
+568	Not here for that . 	Nu , nu , nu e aici pentru asta . 
+569	He 's not even Russian . 	Nici măcar nu e rus . 
+570	He was born , we think , in Northern England . 	Credem că s- a născut în nordul Angliei . 
+571	Yeah , but he 's a spy for Russia . 	Da , dar spionează pentru Rusia . 
+572	I don 't even understand what you 're doing . 	Nu înţeleg ce faci . 
+573	You 're not a Communist , so why are you defending one ? 	Nu eşti comunist , aşa că de ce îl aperi ? 
+574	Well , because it 's my job . 	Pentru că asta mi- e meseria . 
+575	It never used to be . 	Nu la asta se referă . 
+576	In the case of the United States of America versus Rudolf Abel , as to the first count in the indictment , how do you find the defendant ? 	Cazul Statele Unite ale Americii împotriva lui Rudolf Abel . În ceea ce priveşte prima acuzaţie , cum l- aţi găsit pe acuzat ? 
+577	Guilty or not guilty ? 	Vinovat sau nevinovat ? 
+578	Guilty . 	Vinovat . 
+579	As to the second count ? 	La al doilea cap de acuzare ? 
+580	Guilty . 	Vinovat . 
+581	As to the third count ? 	- La al treilea cap de acuzare ? 
+582	Guilty . 	- Vinovat . 
+583	Your Honor , I make a motion to set aside these guilty verdicts against the weight of evidence . 	Dle judecător , rog să respingeţi verdictele din lipsă de probe . 
+584	Denied . 	Se respinge . 
+585	The jury is discharged . 	Juriul este liber . 
+586	Thank you all . 	Vă mulţumesc tuturor . 
+587	I would like to add that , if I were one of you , 	Trebuie să adaug că , dacă aş fi fost unul dintre voi , aş fi ajuns la acelaşi verdict . 
+588	I would 've reached the same verdict . 	Trebuie să adaug că , dacă aş fi fost unul dintre voi , aş fi ajuns la acelaşi verdict . 
+589	Sentencing will be 	Sentinţa va fi anunţată ... pe 15 noiembrie . 
+590	November 15 . 	Sentinţa va fi anunţată ... pe 15 noiembrie . 
+591	The death sentence is not a foregone conclusion . 	Pedeapsa cu moartea nu este inevitabilă . 
+592	Don 't worry . 	Nu- ţi face griji . 
+593	I 'm not afraid to die , Mr . 	Nu mă tem de moarte , dle Donovan . 
+594	Donovan . 	Nu mă tem de moarte , dle Donovan . 
+595	Although it wouldn 't be my first choice . 	Deşi ... n- ar fi prima mea alegere . 
+596	You left this behind . 	Ai lăsat asta . 
+597	Oh , thank you . 	Mulţumesc . 
+598	Oh , thank you very much ! 	Mulţumesc frumos ! 
+599	You 've never asked me if the charges were true . 	Nu m- ai întrebat niciodată dacă acuzaţiile erau adevărate . 
+600	If I am indeed a spy . 	Dacă sunt într- adevăr spion . 
+601	This is how we do it . 	Aşa procedăm noi . 
+602	The case against you matters . 	Cazul împotriva ta contează . 
+603	Making them prove it matters . 	Să- i fac să dovedească , asta contează . 
+604	The fiction is ... 	Ideea de a spune ... dacă ai făcut- o sau nu , nu contează . 
+605	Whether you did it or not doesn 't matter . 	Ideea de a spune ... dacă ai făcut- o sau nu , nu contează . 
+606	The state has to prove it , that you 're a spy . 	Statul trebuie să dovedească faptul că eşti spion . 
+607	So you 're not curious ? 	Deci nu eşti curios ? 
+608	No , not really . 	Nu chiar . 
+609	I always assumed you were an artist . 	Întotdeauna am presupus că eşti un artist . 
+610	My wife , she 's the artist . 	Soţia mea este artistă . 
+611	She 's a musician in the Children 's Orchestra of Moscow . 	E muzician . În orchestră de copii din Moscova . 
+612	What instrument ? 	- La ce instrument cântă ? 
+613	The harp . 	- La harpă . 
+614	Oh . 	
+615	Then , she 's an angel . 	Deci , e un înger . 
+616	Standing there like that , you remind me of a man who used to come to our house when I was young . 	Stând aşa acolo , îmi aminteşti de un om care obişnuia să ne viziteze acasă când eram tânăr . 
+617	My father used to say , " Watch this man . " 	Tata obişnuia să spună , " Uită- te la acest om . " 
+618	So I did , every time he came . 	Şi l- am urmărit de fiecare dată când a venit . 
+619	And never once did he do anything remarkable . 	Şi în niciun moment nu a făcut ceva extraordinar . 
+620	And I remind you of him ? 	Şi- ţi amintesc de el ? 
+621	This one time , I was about the age of your son . 	Odată , cred că aveam vârstă fiului tău , casa noastră a fost invadată de poliţiştii de frontieră ai partidului . 
+622	Our house was overrun by partisan border guards . 	Odată , cred că aveam vârstă fiului tău , casa noastră a fost invadată de poliţiştii de frontieră ai partidului . 
+623	Dozens of them . 	Cu zecile . 
+624	My father was beaten , my mother was beaten , and this man , my father 's friend , he was beaten . 	Tata a fost bătut , mama a fost bătută , şi omul ăla , prietenul tatălui meu , a fost bătut . 
+625	And I watched this man . 	Şi m- am uitat la el . 
+626	Every time they hit him he stood back up again . 	De fiecare dată când îl loveau , se ridică din nou . 
+627	So they hit him harder . 	Aşa că l- au bătut mai tare . 
+628	Still , he got back to his feet . 	Dar el era din nou în picioare . 
+629	I think because of this they stopped the beating . 	Cred că de asta au oprit bătăile şi ne- au permis să plecăm . 
+630	They let him live . 	Cred că de asta au oprit bătăile şi ne- au permis să plecăm . 
+631	I remember them saying it . 	Îmi amintesc că asta le- a spus . 
+632	It sort of means , like , uh , " standing man . " 	Înseamnă cam ... " Om ce se ridică în picioare . " 
+633	Standing man . 	Om ce se ridică în picioare . 
+634	Hello , Jim ! 	- Bună , Jim ! 
+635	Millie , you 're a vision . 	- Millie , eşti aşa frumoasă . 
+636	Mortie 's busy getting kitted out . 	Mortie e ocupat să se gătească . 
+637	But come on in . 	Dar intră . 
+638	Scotch , Jim ? 	- Scotch , Jim ? 
+639	Oh , yes , please . 	- Da , te rog . 
+640	Thank you . 	Mulţumesc . 
+641	Uh , just a drop of water . 	Cu puţină apă . 
+642	Your Honor . 	Domnule judecător ! 
+643	Hello , Jim ! 	Bună , Jim ! 
+644	Just going out . 	Plecam . 
+645	Got a few minutes though . 	Am doar câteva minute . 
+646	March of Dimes thing . 	O cină de caritate . 
+647	Millie is active . 	Millie e voluntară . 
+648	Well , thank you for seeing me . 	Vă mulţumesc că m- aţi primit . 
+649	I just wanted to give you my two cents on the sentencing . 	Am vrut doar să vă dau analiza mea asupra pedepsei . 
+650	And I thought maybe I should pester you at home as not all of my points are narrowly legal . 	Şi m- am gândit că , poate ar trebui să vă deranjez acasă , deoarece nu toate argumentele mele sunt strict legale . 
+651	Yeah , well , it 's that kind of case . 	Da . E genul ăsta de caz . 
+652	I hope I wasn 't too scratchy during the trial but it 's exactly what you say . 	Sper că n- am fost prea dur la proces , dar e exact cum ai spus . 
+653	Nothing about this is narrowly legal . 	Nimic la asta nu e strict legal . 
+654	There are bigger issues . 	Sunt probleme mult mai mari . 
+655	Bigger issues ! 	Probleme mai mari . 
+656	Thank you , thank you . 	Mulţumesc . 
+657	Uh ... 	Mulţumesc . 
+658	Sir ... 	Domnule ... cred că ar trebui luat în considerare că ar fi în interesul Statelor Unite ca Abel să rămână în viaţă . 
+659	I think it could be considered in the best interests of the United States that Abel remain alive . 	Domnule ... cred că ar trebui luat în considerare că ar fi în interesul Statelor Unite ca Abel să rămână în viaţă . 
+660	Why ? 	De ce ? 
+661	I 'm not saying I' ve made up my mind but if he was gonna cooperate , work with the government , he would 've done it already . 	Nu spun că m- am hotărât , dar dacă avea de gând să coopereze şi să lucreze cu guvernul , ar fi făcut- o deja . 
+662	- True , but the issue here ... 	- Adevărat , dar problema aici ... 
+663	- You can 't ... 	- Adevărat , dar problema aici ... 
+664	Excuse me . 	- Adevărat , dar problema aici ... 
+665	You can 't say it 's in the best interest of the United States that he spend the rest of his days in a prison cell . 	Nu poţi spune că e în interesul Statelor Unite ca el să- şi petreacă restul zilelor într- o celulă . 
+666	How is this the national interest ? 	Cum e ăsta interes naţional ? 
+667	Not the incarceration itself , sir . 	Nu e vorba de încarcerarea în sine , dle . 
+668	It is possible that , in the foreseeable future , an American of equivalent rank might be captured by Soviet Russia . 	Este posibil ca în viitorul apropiat un echivalent american să poată fi capturat de Rusia Sovietică . 
+669	We might want to have someone to trade . 	Am putea avea pe cineva la schimb . 
+670	Wow . 	
+671	That sounds like spinning what- ifs . 	Sună a păcălire a publicului . 
+672	You could do that till the cows come home . 	Am putea- o face până la Sfântul Aşteaptă . 
+673	It 's my business , what- ifs . 	Lucrez cu posibilităţi , sunt în asigurări . 
+674	I 'm in insurance . 	Lucrez cu posibilităţi , sunt în asigurări . 
+675	And there 's nothing implausible about this one . 	Nu e nimic improbabil la acest caz . 
+676	It 's entirely in the realm of what could happen . 	Se poate întâmpla pe deplin . 
+677	It 's the kind of probability that people buy insurance for . 	E genul de probabilitate pentru care oamenii cumpără asigurări . 
+678	If we send this guy to his death , we leave ourselves wide open . 	Dacă îl vom trimite pe tipul ăsta la moarte vom fi fără apărare . 
+679	No policy in our back pocket for the day the storm comes . 	Fără o politică de rezervă când va veni furtuna . 
+680	Nice speech . 	Frumos discurs . 
+681	Sir , there is also the humanitarian argument . 	Domnule , e şi un argument umanitar . 
+682	Should he die for doing the job they sent him to do ? 	Va muri făcându- şi treaba pe care a fost trimis să o facă ? 
+683	All right , Counselor . 	Bine , dle avocat . 
+684	I gotta run . 	Trebuie să plec . 
+685	Good seeing you , Jim . 	Mă bucur că te- am văzut , Jim . 
+686	I' ll walk you out . 	Te voi conduce . 
+687	All rise . 	Ridicaţi- vă cu toţii . 
+688	The United States District Court for the Eastern District of New York is now in session . 	Tribunalul Statelor Unite pentru Districtul de Est din New York , este în sesiune sub preşedinţia Excelenţei Sale judecător Mortimer Byers . 
+689	The honorable Mortimer Byers presiding . 	Tribunalul Statelor Unite pentru Districtul de Est din New York , este în sesiune sub preşedinţia Excelenţei Sale judecător Mortimer Byers . 
+690	Be seated . 	Luaţi loc . 
+691	The defendant will please rise . 	Acuzatul să se ridice în picioare , vă rog . 
+692	In the measured judgment of this court the following sentence , based upon the jury 's verdict of guilty as to each count of the indictment , is believed to meet the test which has been stated . 	În judecata Curţii , s- a avut în vedere următoarea teză , pe baza verdictul " vinovat " dat de juraţi . Pentru fiecare cap de acuzare , a trebuit să statuez ce s- a hotărât . 
+693	Pursuant to the verdict of guilty as to all counts , the defendant is committed to the custody of the Attorney General of the United States for imprisonment in a federal institution to be selected by him for a period of 30 years . 	În conformitate cu verdictul de vinovat la toate capetele de acuzare , inculpatul este dat în custodia Procurorul General al Statelor Unite ... şi va fi încarcerat într- o instituţie federală aleasă de el , pentru o perioadă de 30 de ani . 
+694	Marshals , you may take the defendant into custody . 	Gărzile vor duce la îndeplinire sentinţa . 
+695	No ... 	- Electrocutare ? 
+696	No electrocution ? 	- Electrocutare ? 
+697	No . 	- Electrocutare ? 
+698	No , no . 	- Nu . 
+699	Why aren 't we hanging him ? 	De ce nu- l spânzurăm ? 
+700	In the name of God , why aren 't we hanging him ? 	Pentru numele lui Dumnezeu , de ce nu- l spânzurăm ? 
+701	Sit down , sir ! 	Stai jos , domnule ! 
+702	He 's a spy ! 	E un spion ! 
+703	He 's killing us with his lies ! 	Ne vor omorî cu minciunile lor ! 
+704	In the name of God , why aren 't we hanging him ? 	Pentru numele lui Dumnezeu , de ce nu- l spânzurăm ? 
+705	That 's right ! 	
+706	He 's a spy ! 	E spion ! 
+707	Mr . 	Dle Donovan ! 
+708	Donovan ! 	Dle Donovan ! 
+709	Mr . 	Dle Donovan ! 
+710	Donovan ! 	Dle Donovan ! 
+711	Just one question . 	Doar o întrebare . 
+712	Just one question , sir . 	Doar o întrebare , domnule . 
+713	My hat ! 	Pălăria mea ! 
+714	My hat ! 	Pălăria mea ! 
+715	My hat ! 	Pălăria mea ! 
+716	Nobody here has a comment . 	Nimeni nu va spune nimic . 
+717	Mr . and Mrs . 	Domnul şi doamnă Donovan nu vor răspunde la întrebări . 
+718	Donovan are not answering questions . 	Domnul şi doamnă Donovan nu vor răspunde la întrebări . 
+719	How do you feel now that this national nightmare is over ? 	Dle Donovan , sunteţi mulţumit de verdict ? 
+720	Mr . 	Dle Donovan , sunteţi mulţumit de verdict ? 
+721	Donovan , are you happy with the verdict ? 	Dle Donovan , sunteţi mulţumit de verdict ? 
+722	We 're ... 	Vom aştepta declararea recursului . 
+723	We 're in firm ground on , uh , for a case on appeal . 	Vom aştepta declararea recursului . 
+724	Appeal ? 	- Recurs ? 
+725	Appeal , yes . 	- Da , recursul . 
+726	Jim , you did a great job . 	Jim ai făcut o treabă grozavă . 
+727	You fulfilled your mandate and then some . 	Ţi- ai îndeplinit mandatul şi chiar mai mult . 
+728	But the man is a spy . 	Dar omul este spion . 
+729	The verdict is correct and there 's no reason to appeal it . 	Verdictul este corect şi nu trebuie să se ajungă la recurs . 
+730	There 's ample procedural reason . 	Este o mare motivare procedurală . 
+731	We know the search is tainted . 	Ştim că percheziţia a fost ilegală şi ne vom asigura că al patrulea amendament va cântări mai mult în al doilea proces . 
+732	And Fourth Amendment issues will always weigh more heavily in an appellate forum . 	Ştim că percheziţia a fost ilegală şi ne vom asigura că al patrulea amendament va cântări mai mult în al doilea proces . 
+733	We 've got a good shot . 	- Avem o şansă bună . 
+734	What the goddamn hell are you talking about ? 	- Ce naiba vrei să spui ? 
+735	We were supposed to show he had a capable defense , which we did . 	Trebuia să arătăm că are o apărare competentă , lucru pe care l- am făcut . 
+736	Why are you citing the goddamn Constitution at me ? 	De ce naibii îmi citezi Constituţia ? 
+737	Tom , if you look me in the eye and tell me we don 't have grounds for an appeal , I' ll drop it right now . 	Tom , dacă te uiţi în ochii mei şi- mi spui că nu avem motive pentru un recurs , renunţ imediat . 
+738	I 'm not saying that . 	Tom , dacă te uiţi în ochii mei şi- mi spui că nu avem motive pentru un recurs , renunţ imediat . 
+739	You know what I 'm saying . 	Nu spun asta . 
+740	Tom is saying there 's a cost to these things . 	Ştii ce spun . - Tom spune că există un preţ pentru astea . 
+741	That 's right . 	- Aşa e . 
+742	A cost to both your family and your firm . 	Un preţ pentru familia ta şi pentru firmă . 
+743	I' ve missed music . 	Mi- a lipsit muzica . 
+744	They checked the radio to make sure there was no transmitter in it . 	Au verificat radioul să vadă dacă nu are un emiţător . 
+745	I 'm sure they did . 	Sunt sigur c- au făcut- o . 
+746	Shostakovich . 	Şostakovici . 
+747	Mmm . 	
+748	That 's a very great artist , Shostakovich . 	Este un artist mare , Şostakovici . 
+749	Uh , I think our strongest grounds for reversal are constitutional . 	Cred că ... avem elemente puternice pentru recurs şi sunt constituţionale . 
+750	Our best chance is if the Supreme Court agrees to review our case . 	Cea mai bună şansă a noastră e ca , Curtea Supremă de Justiţie să fie de acord să revizuiască cazul tău . 
+751	Jim ... 	Jim ... 
+752	You should be careful . 	Ar trebui să fii atent . 
+753	Careful . 	Atent . 
+754	♪ 77 Sunset Strip 	
+755	Edward Byrnes . ♪ 77 Sunset Strip 	
+756	And Richard Long . 	
+757	Good morning , Suzanne . 	
+758	Good morning , Dick . 	
+759	There is a special delivery letter here for you . 	
+760	Oh , her . 	
+761	Mom ! 	Mamă ! 
+762	What in God 's name happened ? 	Dumnezeule , ce s- a întâmplat ? 
+763	Honey , are you all right ? 	Scumpo , eşti bine ? 
+764	Mom ! 	Eşti rănită ? 
+765	Are you hurt ? 	Eşti rănită ? 
+766	I' ve got her . 	Am eu grijă de ea . 
+767	Upstairs ! 	Am eu grijă de ea . 
+768	Are you all right ? 	Sunteţi bine ? 
+769	I sat with my back against the wall , Dad ! 	Sunteţi bine ? 
+770	Are you okay ? 	Eşti bine ? 
+771	Are you all right ? 	Eşti în regulă ? 
+772	Dad , I sat with my back against the wall ! 	Tată , m- am aşezat cu spatele la perete ! 
+773	Good , good . 	Tată , m- am aşezat cu spatele la perete ! 
+774	Away from the windows ! 	Departe de ferestre ! 
+775	Good , good , good , good , good . 	Bine , bine , bine . 
+776	Good boy , good boy , good boy . 	Bravo . Bravo , bravo . 
+777	It 's okay . 	
+778	It 's all right . 	Sunt laşi . 
+779	It 's all right , they 're gone , they 're gone . 	Sunt laşi . 
+780	They 're cowards . 	Sunt laşi . Au plecat . 
+781	They 're gone . 	Avem detectivi în cartier . 
+782	We have detectives canvassing the neighborhood . 	Avem detectivi în cartier . 
+783	Maybe we 'll find a description of the car but I don 't think it 's very likely . 	Poate vom avea o descriere a maşinii . Nu cred că e posibil . 
+784	We 're gonna need protection . 	Vom avea nevoie de protecţie . 
+785	Oh , I have instructions to leave two cars here . 	Am primit instrucţiuni să postez două maşini aici . 
+786	It 'll be pretty obvious that this is a secure ... 	- E destul de evident ... - Pentru cât timp ? 
+787	For how long ? 	
+788	I have to be in Washington later on this week . 	Trebuie să merg la Washington la sfârşitul săptămânii . 
+789	What are you doing ? 	Ce faci ? 
+790	What are you doing to your family ? 	Ce- i faci familiei tale ? 
+791	Pardon me , Officer ? 	Scuză- mă , dle ofiţer ? 
+792	You 're still defending this guy ? 	N- ar fi trebuit să- l aperi pe tipul ăsta , l- am fi spânzurat . 
+793	I mean , what are you fighting for him for ? 	N- ar fi trebuit să- l aperi pe tipul ăsta , l- am fi spânzurat . 
+794	Okay , knock that off , Officer . 	Bine , opreşte- te , dle ofiţer . 
+795	I' ll knock off nothing . 	Nu mă voi opri . 
+796	I was in the third wave at Omaha Beach . 	Am fost de trei ori la Omaha Beach . 
+797	Hey , I did my time in the service . 	Am făcut serviciul militar . 
+798	I was fighting these guys , and you 're defending them ? 	Ne confruntăm cu tipii ăştia , şi tu îi aperi ? 
+799	Why don 't you just do your job as an officer of the law ? 	De ce nu- ţi faci treaba ca ofiţer de poliţie ? 
+800	Okay , I 'm sorry . 	Bine , îmi pare rău . 
+801	Let 's go outside . 	Bine , îmi pare rău . 
+802	Come on . 	Să mergem . 
+803	You know what ? 	Las- o baltă . 
+804	Just forget him . 	Las- o baltă . 
+805	What am I not getting here ? 	De ce nu te înţeleg ? 
+806	Outside , Officer . 	Afară , dle ofiţer . Îmi pare rău . 
+807	I 'm sorry . 	A apărat un spion ordinar . 
+808	Defending a commie spy . 	A apărat un spion ordinar . 
+809	Jeez ! 	A apărat un spion ordinar . 
+810	Do you feel that you deserve this , sir ? 	
+811	Should it become necessary to abandon the aircraft over Soviet territory , then there 's a two- and- a- half pound explosive charge contained within the fuselage . 	Dacă este necesară abandonarea avionului pe teritoriul sovietic , este o încărcătură explozivă de mai mult de un kilogram ascunsă în interiorul fuselajului . 
+812	Now , first , you activate the circuits . 	Dar mai întâi , activaţi circuitele . 
+813	But to start the 70- second timer , you need to flip the switch marked " Destruct . " 	Dar pentru a porni cronometrul de 70 de secunde , trebuie să apăsaţi butonul marcat " Distruge " . 
+814	It is imperative that these flights remain a secret and this equipment does not fall into enemy hands . 	Este esenţial ca aceste avioane să rămână secrete şi ca acest echipament să nu cadă în mâinile inamicului . 
+815	What about us ? 	Cum rămâne cu noi ? 
+816	I don 't know if you 're kidding , Lieutenant Powers . 	Nu ştiu dacă glumeşti , locotenent Powers , dar eu nu glumesc . 
+817	I 'm not . 	Nu ştiu dacă glumeşti , locotenent Powers , dar eu nu glumesc . 
+818	What you know about the plane is as secret as the plane itself . 	Ceea ce ştiţi despre avion , e la fel de secret ca avionul . 
+819	If capture is a foregone conclusion , you go down with your plane . 	Dacă este inevitabilă capturarea , veţi urma planul . 
+820	Now , if you think you can ditch and get away , if you 're close enough to a border , fine . 	Acum , dacă credeţi că puteţi scăpa şi sunteţi aproape de graniţă , cunoaşteţi protocolul de extracţie . 
+821	You know the ejection protocol . 	Acum , dacă credeţi că puteţi scăpa şi sunteţi aproape de graniţă , cunoaşteţi protocolul de extracţie . 
+822	But if you ditch , you bring the dollar with you . 	Dar dacă picaţi , aveţi un dolar la voi . 
+823	All right , there 's a pin inside . 	Are înăuntru un ac . 
+824	You scratch your skin anywhere , it 's instantaneous . 	Zgâriaţi- vă pe piele oriunde , este instantaneu . 
+825	If you think you are about to be captured , you use it . 	Dacă credeţi că veţi fi capturaţi , folosiţi- l . 
+826	Drivers , you understand me ? 	Aviatori , m- aţi înţeles ? 
+827	Spend the dollar . 	Folosiţi dolarul . 
+828	Mr . 	Cu permisiunea Preşedintelui Curţii , războiul rece nu este doar o expresie , Onorată Instanţă . 
+829	Chief Justice , and may it please the court . 	Cu permisiunea Preşedintelui Curţii , războiul rece nu este doar o expresie , Onorată Instanţă . 
+830	The " Cold War " is not just a phrase , Your Honor . 	Cu permisiunea Preşedintelui Curţii , războiul rece nu este doar o expresie , Onorată Instanţă . 
+831	It 's not just a figure of speech . 	Nu este doar o figură de stil . 
+832	Truly , a battle is being fought between two competing views of the world . 	Sincer , o bătălie este o luptă între două modele concurente ale lumii . 
+833	I contend that Rudolf Ivanovich Abel , 	Susţin că Rudolf Ivanovici Abel , 
+834	" Colonel Abel , " as he was called even by the men who arrested him , is our foe in that battle . 	" Colonelul Abel , " aşa cum a fost numit chiar de oamenii care l- au arestat , este duşmanul nostru în această luptă . 
+835	Auxiliary power ? 	Forţa auxiliară ? 
+836	Connected and on . 	Conectată . 
+837	Oxygen seat- pack supply ? 	Oxigen de aprovizionare ? 
+838	Supply at 1, 800 psi . 	Furnizează 1800 psi . 
+839	Inverter ? 	Inversorul ? 
+840	On , light out . 	Pornit , lumina stinsă . 
+841	He was treated as a combatant in that war until it no longer suited our government to so treat him . 	El a fost tratat ca un combatant în războiul până când nu a mai fost convenabil pentru guvernul nostru să- l trateze astfel . 
+842	Accordingly , he was not given the protections we give our own citizens . 	De aceea , nu a primit protecţia pe care o oferim cetăţenilor noştri . 
+843	He was subjected to treatment that , however appropriate for a suspected enemy , was not appropriate to a suspected criminal . 	A fost supus unui tratament nepotrivit pentru un duşman presupus , şi mai nepotrivit pentru un presupus infractor . 
+844	Fuel transfer ? 	- Transferul de combustibil ? 
+845	Transfer switch off . 	- Transferul de combustibil ? 
+846	Destructor ? 	- Verificat , decuplat . 
+847	Destructor safety . 	- Siguranţa pentru Distrugere . 
+848	Climb data card . 	- Siguranţa pentru Distrugere . 
+849	Installed in aircraft . 	- Decuplată . Tot avionul verificat . 
+850	I know this man . 	Îl cunosc pe acest om . 
+851	If the charge is true , he serves a foreign power but he serves it faithfully . 	Dacă acuzaţia este adevărată , serveşte o putere străină , dar e fidel . 
+852	If he is a soldier in the opposing army , he is a good soldier . 	Dacă este un soldat al armatei inamice , este un soldat bun . 
+853	He has not fled the field of battle to save himself . 	Nu a părăsit câmpul de luptă pentru a se salva . 
+854	He has refused to serve his captor . 	A refuzat să se servească de capturarea sa . 
+855	He has refused to betray his cause . 	A refuzat să- şi trădeze cauza . 
+856	He has refused to take the coward 's way out . 	A refuzat să urmeze calea laşii . 
+857	The coward must abandon his dignity before he abandons the field of battle . 	Laşul trebuie să renunţe la demnitatea sa înainte de a părăsi câmpul de luptă . 
+858	That , Rudolf Abel will never do . 	Rudolf Abel nu va face asta . 
+859	Shouldn 't we , by giving him the full benefit of the rights that define our system of government , show this man who we are ? 	Nu ar trebui , oferindu- i din plin beneficiile drepturilor care definesc sistemul nostru de guvernare , să- i arătăm acestui om cine suntem ? 
+860	Who we are . 	Cine suntem ? 
+861	Is that not the greatest weapon we have in this Cold War ? 	Nu este cea mai importantă armă pe care o avem în acest război rece ? 
+862	Will we stand by our cause less resolutely than he stands by his ? 	Vom sprijini cauza noastră mai puţin decât o sprijină el pe a lui ? 
+863	The President announced that a NASA weather plane disappeared four days ago north of Turkey . 	Preşedintele a anunţat că un avion meteorologic al NASA a dispărut de patru zile în nordul Turciei . 
+864	And the Space Administration fears that its pilot died in the crash . 	Administraţia spaţială se teme că pilotul a murit în accident . 
+865	Radar showed the plane wandering off course deep into Soviet territory before contact was lost , complicating any effort to recover it or the remains of the pilot . 	Radarul a arătat aeronava părăsind cursul şi a pătruns în teritoriul rus înainte de a pierde contactul . Nu se va precupeţi niciun efort pentru a recupera rămăşiţele pilotului . 
+866	Now to news out of Washington . 	Noutăţi acum de la Washington . 
+867	In a close vote today , the Supreme Court affirmed the conviction of Russian spy Rudolf Ivanovich Abel , five votes to four . 	Într- un vot strâns astăzi , Curtea Supremă a confirmat condamnarea spionului rus Rudolf Ivanovici Abel , cu cinci voturi la patru . 
+868	The case presented civil liberties issues , according to the Russian 's lawyer , James B . 	Cazul prezenta probleme ale libertăţilor civile , potrivit avocatului rusului , James B . 
+869	Donovan . 	Donovan . 
+870	When asked how he felt about today 's loss , 	Când a fost întrebat cum se simte după înfrângerea de azi , dl Donovan a spus simplu : 
+871	Mr . 	Când a fost întrebat cum se simte după înfrângerea de azi , dl Donovan a spus simplu : 
+872	Donovan simply said , " Tired . " 	" Obosit " . 
+873	I' ll have more news for you after this message . ♪ Styling tricks 	Revin cu mai multe ştiri după reclamă . 
+874	It 's over . ♪ See the new , exciting styling tricks ♪ You ... 	S- a terminat . 
+875	Marty . 	Marty . 
+876	I' ll be damned if I can find the file on that Prudential case . 	Să fiu al naibii dacă găsesc dosarul cazului Prudential . 
+877	I , uh , Mr . 	
+878	Watters had me move it over to Jack Elwes 's office along with the first draft of the appeal . 	Domnul Watters mi- a spus să- l duc lui Jack Elwes în cameră pentru primul apel . 
+879	He did ? 	Da ? 
+880	Yeah , he redrafted and filed that last week while you were in Washington . 	Da , l- a scos şi l- a pus în faţa Curţii când eraţi la Washington . 
+881	How long have we been together ? 	De cât timp suntem împreună fără a ajunge la un acord ? 
+882	You act as if I' ve never closed a deal . 	De cât timp suntem împreună fără a ajunge la un acord ? 
+883	Set up a meeting . 	Organizaţi o întâlnire . 
+884	Someplace fancy . 	Într- un loc sofisticat . 
+885	I 'm betting Mr . 	Pun pariu că domnului Young îi place să se întâlnească în locuri mai rafinate decât în New York . 
+886	Young would like some of the finer things 	Pun pariu că domnului Young îi place să se întâlnească în locuri mai rafinate decât în New York . 
+887	New York has to offer . 	Pun pariu că domnului Young îi place să se întâlnească în locuri mai rafinate decât în New York . 
+888	And I want you to give me the summary of ... 	Şi vreau să- mi dai un rezumat al ... 
+889	Do you know anyone from Leipzig ? 	Cunoşti pe cineva din Lipstick ? 
+890	" Leipzig . " Am I getting hate mail from Germany now ? 	" Leipzig . " Primesc scrisori de ură din Germania acum ? 
+891	From East Germany . 	Din Germania de Est . 
+892	Is it your wife ? 	E soţia ta ? 
+893	No . 	Nu . 
+894	No , no , no , no . 	Nu , nu , nu . 
+895	She pretends to be but it 's not even a good pretense . 	Se pretinde a fi , dar nici nu pretinde bine . 
+896	" I 'm taking this liberty to write to you 	" Îmi iau libertatea de a vă scrie după ce am aflat din ziare despre atitudinea dvs umană faţă de iubitul meu soţ . " 
+897	" after having learned from the newspapers 	" Îmi iau libertatea de a vă scrie după ce am aflat din ziare despre atitudinea dvs umană faţă de iubitul meu soţ . " 
+898	" about your most humane attitude 	" Îmi iau libertatea de a vă scrie după ce am aflat din ziare despre atitudinea dvs umană faţă de iubitul meu soţ . " 
+899	" towards my beloved husband , Rudolf Abel . " 	
+900	And do I write back ? 	Vrei să- i răspunzi ? 
+901	Yeah , yeah , yeah . 	Da , da , da .. 
+902	What 's the next move when you don 't know what the game is ? 	Care este următorul pas când nu ştii cum este acest joc ? 
+903	Francis Gary Powers ... 	Francis Gary Powers , bazat pe articolul doi al legislaţiei Uniunii Sovietice pentru responsabilitate penală pentru crime împotriva statului , 10 ani de închisoare , dintre care primii trei ani , în izolare completă . 
+904	On the strength of Article Two of the U . S . S . R . law on criminal responsibility for state crimes to 10 years of confinement with the first three years to be served in prison . 	Francis Gary Powers , bazat pe articolul doi al legislaţiei Uniunii Sovietice pentru responsabilitate penală pentru crime împotriva statului , 10 ani de închisoare , dintre care primii trei ani , în izolare completă . 
+905	The term of the punishment , including preliminary detention , shall be counted from May first , nineteen hundred and sixty . 	Această perioadă include şi arestarea provizorie . Se ia în considerare de la 1 mai 1960 . 
+906	Mr . 	Dle Donovan , vă mulţumesc că aţi venit . 
+907	Donovan , thank you so much for coming . 	Dle Donovan , vă mulţumesc că aţi venit . 
+908	It 's a pleasure to meet you , Mr . 	E o plăcere să vă cunosc , domnule Dulles . 
+909	Dulles . 	E o plăcere să vă cunosc , domnule Dulles . 
+910	It 's an honor , sir . 	E o onoare , domnule . 
+911	Nescafe , cream , two lumps . 	Nescafé , frişcă , două de zahăr . 
+912	Thank you . 	Mulţumesc . 
+913	Okay , this letter you received . 	Scrisoarea pe care ai primit- o ... pare evident că sovieticii fac o propunere aici . 
+914	Seems pretty clear that the Soviets are making an overture here . 	Scrisoarea pe care ai primit- o ... pare evident că sovieticii fac o propunere aici . 
+915	They 're doing it through East Germany because they still don 't want to acknowledge Abel as a Soviet citizen , much less a Soviet spy . 	Ei folosesc Germania de Est pentru că vor să- l recunoască pe Abel ca cetăţean sovietic , şi mult mai puţin ca spion sovietic . 
+916	So ... 	Ei folosesc Germania de Est pentru că vor să- l recunoască pe Abel ca cetăţean sovietic , şi mult mai puţin ca spion sovietic . 
+917	Lot of fiction going on . 	Se întâmplă multe . 
+918	Yes , sir , but to what end ? 	Da , domnule , dar ne jucam mâna . 
+919	They got our guy , our spy pilot . 	L- au prins pe omul nostru , pilotul spion , noi îl avem pe omul lor . 
+920	We 've got their guy . 	L- au prins pe omul nostru , pilotul spion , noi îl avem pe omul lor . 
+921	Prisoner exchange , I think that 's what they 're after . 	Cred că vor un schimb de prizonieri . 
+922	Which could hardly be a surprise to you , Counselor . 	Ce nu te- ar surprinde , dle avocat , este eventualitatea pe care ai prezis- o . 
+923	It 's an eventuality that I think you foresaw . 	Ce nu te- ar surprinde , dle avocat , este eventualitatea pe care ai prezis- o . 
+924	Yes , I sure did , and I 'm so rarely right . 	Da , desigur , şi sunt încântat . 
+925	Well , congratulations . 	Felicitări . 
+926	Red letter day . 	Ce zi de neuitat . 
+927	Now , we have our man over there . 	Omul nostru de acolo , Powers , e un om bun , dar ştie numeroase informaţii confidenţiale . 
+928	Powers . 	Omul nostru de acolo , Powers , e un om bun , dar ştie numeroase informaţii confidenţiale . 
+929	Good man , but with a head full of classified information . 	Omul nostru de acolo , Powers , e un om bun , dar ştie numeroase informaţii confidenţiale . 
+930	Abel has a head full of classified information , too , but he hasn 't given us a lick . 	Şi Abel ştie informaţii confidenţiale dar nu ne spune nimic . 
+931	And , sir , take it from me , he won 't . 	Şi din ceea ce ştiu , nici nu va spune . 
+932	Yes , we know that , but the Russians don 't . 	Asta o ştim noi , dar ruşii n- o ştiu . 
+933	They want their man back before he cracks . 	Îşi vor omul înapoi înainte de a vorbi . 
+934	And we want Powers back for the same reasons . 	Şi noi îl vrem pe Powers din aceleaşi motive . 
+935	I think you are saying , sir , that there might be a happy ending for everyone . 	Cred că spuneţi , domnule , că ar putea fi un final fericit pentru toată lumea . 
+936	Yes , if we , um , indulge their fiction . 	Da , dacă le facem jocul . 
+937	We want you to negotiate the swap because you 're a private citizen , so it 's not governments talking . 	Vrem să negociezi schimbul . Pentru că eşti un cetăţean obişnuit şi nu va exista un dialog între guverne . 
+938	They don 't acknowledge Abel as a Soviet citizen , and we don 't acknowledge East Germany as a sovereign country . 	Ei nu- l recunosc pe Abel ca cetăţean sovietic şi noi nu recunoaştem Germania de Est ca ţară suverană . 
+939	We haven 't recognized East Berlin since it was annexed by the Soviets in ´45 . 	Noi recunoaştem că Berlinul de Est a fost încorporat de sovietici în ´45 . 
+940	So I act as a negotiator , representing ... 	Deci mă voi comporta ca un negociator ... reprezentând ... 
+941	You 're not representing anybody . 	Nu reprezinţi pe nimeni . 
+942	Not a government official . 	Nu ca un oficial al guvernului . 
+943	You have no official standing . 	Nu ai nico poziţie oficială . 
+944	So , some fiction on our side as well . 	- Deci , există un joc şi de partea noastră . 
+945	Correct . 	- Corect . 
+946	Which means , of course , you can 't rely on any acknowledgment or help if things go south . 	Evident , nu poţi conta pe nicio recunoaştere sau ajutor , în caz că ceva nu merge bine . 
+947	CIA can 't be responsible . 	CIA nu poate fi făcută responsabilă . 
+948	We can 't be embarrassed . 	Nu- i putem face de ruşine . 
+949	Where do they want this negotiation to take place ? 	- Unde vor să aibă loc negocierile ? 
+950	There . 	- Unde vor să aibă loc negocierile ? 
+951	" There " ? 	- Acolo . " Acolo " ? 
+952	East Berlin . 	În Berlinul de Est . 
+953	Well , isn 't East Berlin getting rather ... 	Dar Berlinul de Est a devenit mai degrabă ... 
+954	Oh , yes , the place is getting complicated . 	Da , locul este complicat . 
+955	Yeah , complicated . 	E complicat . 
+956	The Soviet side has been setting up checkpoints for the past few months to try to stop people hemorrhaging to the Western sectors , and it hasn 't worked . 	Partea sovietică a montat puncte de control în ultimele luni pentru a preveni infiltrarea persoanelor din sectorul de vest dar nu a funcţionat . 
+957	We have intelligence to suggest that they may go one step further and wall off the entire Eastern sector . 	Avem informaţii că ar putea face un pas mai departe şi să facă un zid în jurul întregului sector estic . 
+958	Okay , that 's it in a nutshell . 	Ei bine , pe scurt , asta e tot . 
+959	The decision is entirely yours . 	Decizia este în întregime a ta . 
+960	You need time to kick it around . 	Ai nevoie de timp să te gândeşti . 
+961	No . 	Nu . 
+962	No , I don 't . 	Nu , nu am nevoie de timp . 
+963	Well , fine . 	Bun . 
+964	Fine . 	Bun . 
+965	Best that this all remains confidential . 	E bine ca asta să rămână confidenţial . 
+966	Let 's not discuss any of this with , uh , Mary or with anyone else . 	Nu discuta toate acestea cu Mary sau cu altcineva . 
+967	Share the correspondence only with us . 	Împarţi totul doar cu noi . 
+968	Let us know what they want to do and when . 	Spune- ne ce să facem şi când . 
+969	I' ve got no client , no wife , no country . 	Nu am nici client , nici soţie , sau ţară . 
+970	Don 't know what I 'm doing or when or who for . 	Nu ştiu ce o să fac sau când sau pentru cine . 
+971	You 're doing it for your country , but your country doesn 't know that yet . 	O faci pentru ţara ta , dar ţara nu ştie încă . 
+972	What about my client , the other person in this equation ? 	Cum rămâne cu clientul meu , şi alte persoane din această ecuaţie ? Omul meu ? 
+973	My guy ? 	Omul tău ? 
+974	Your guy ? 	Omul tău ? 
+975	You mean the Russian ? 	Rusul ? 
+976	He 's not your guy anymore , Counselor . 	Nu mai e omul tău , dle avocat . 
+977	Your guy is Francis Gary Powers now . 	Omul tău este acum Francis Gary Powers . 
+978	What do I tell Rudolf Abel ? 	Ce- i spun lui Rudolf Abel ? 
+979	Tell him not to drop dead . 	Spune- i să nu moară . 
+980	Professor ? 	Profesore ! 
+981	Professor ? 	Profesore ? 
+982	Papa went to university . 	Tata a plecat la universitate . 
+983	You shouldn 't be here , Frederic . 	N- ar trebui să fii aici , Frederick . 
+984	They 're having classes today ? 	Are cursuri astăzi ? 
+985	He went to see . 	A vrut să vadă ceva . 
+986	That 's where he goes . 	Acolo s- a dus . 
+987	What are you doing here ? 	Tu ce faci aici ? 
+988	I came to get you and your father . 	Am venit să te iau pe tine şi pe tatăl tău . 
+989	You have to come with me . 	Trebuie să vii cu mine . 
+990	You might not get out tomorrow . 	S- ar putea ca mâine să nu mai poţi pleca . 
+991	Just ... 	- Să plec ? 
+992	Just leave ? 	- Să plec ? 
+993	Yes . 	- Da , să pleci , imediat . 
+994	Yes , yes , yes , leave . 	- Da , să pleci , imediat . 
+995	Right now . 	- Da , să pleci , imediat . 
+996	Go back . 	Du- te înapoi . 
+997	Go back . 	Întoarce- te . 
+998	I' ll be okay , I 'm American . 	Voi fi bine , sunt american . Întoarce- te . 
+999	Go back . 	Întoarce- te la tatăl tău . 
+1000	Go back to your father 's . 	Întoarce- te la tatăl tău . 
+1001	We 'll find another way . 	Vom găsi o altă cale . 
+1002	Go . 	Du- te . 
+1003	Hey ! 	
+1004	So , hi . 	Bună . 
+1005	Papers , please . 	Actele , te rog . 
+1006	Ich bin Student Frederic Pryor . 	Ich bin Student Frederic Pryor . 
+1007	Yes , Student . 	Student . 
+1008	My name 's Frederic Pryor . 	Numele meu este Frederic Pryor . 
+1009	I 'm an economics student . 	Studiez economia . 
+1010	See ? 	Vezi ? 
+1011	It 's my dissertation . 	Este teza mea . 
+1012	My thesis . 	Teza mea . 
+1013	You see ? 	
+1014	Look , look . 	Vezi ? 
+1015	Look " The foreign trade system of the European Communist nations . " Huh ? 	" Sistemul comercial internaţional în ţări comuniste din Europa . " 
+1016	It was a lot of work . 	E foarte multă muncă . 
+1017	No , that 's my only copy . 	Nu , e singura mea copie . 
+1018	No ! 	Nu ! 
+1019	Tell me something . 	Spune- mi ceva . 
+1020	It came up at the last minute . 	A intervenit în ultimul moment . 
+1021	They have offices in London . 	Au birouri în Londra . 
+1022	These clients . 	Clienţii ăştia ! 
+1023	Not my idea . 	Nu a fost ideea mea . 
+1024	Scotland , this fishing expedition . 	Scoţia , o partidă de pescuit . 
+1025	What kind of fishing trip , Jim ? 	- Ce fel de pescuit , Jim ? 
+1026	Salmon fishing . 	- Pescuit de somon . 
+1027	Just tell me that you 're not gonna be in any danger , that this is just a routine business trip , and I won 't worry . 	Spune- mi că nu vei fi în pericol , că e doar o călătorie de afaceri de rutină , şi nu- mi voi face griji . 
+1028	I need my passport . 	Îmi trebuie paşaportul . 
+1029	Just give me something to hold on to . 	Spune- mi să te aştept naibii , nu- mi pasă dacă e adevărat . 
+1030	I don 't even care if it 's the truth . 	Spune- mi să te aştept naibii , nu- mi pasă dacă e adevărat . 
+1031	I 'm doing this for us . 	O fac pentru noi . 
+1032	Mr . 	Dl Michener este ghidul dvs la Berlin . 
+1033	Michener , here , is your Berlin escort . 	Dl Michener este ghidul dvs la Berlin . 
+1034	He 's an attache with the U . S . embassy . 	Este ataşat la ambasada SUA . 
+1035	- So , it 's gotten goddamn complicated . 	A devenit complicat . 
+1036	- Uh- huh . 	A devenit complicat . 
+1037	As you know , the last letter from Mrs . 	După cum ştii , ultima scrisoare a dnei Abel , indiferent cine e ea , e avizată de dl Vogel , un avocat din Berlinul de Est , indiferent cine e , şi îi reprezintă interesele , după cum a spus ea . 
+1038	Abel , whoever she is , talks about a lawyer in East Berlin , 	După cum ştii , ultima scrisoare a dnei Abel , indiferent cine e ea , e avizată de dl Vogel , un avocat din Berlinul de Est , indiferent cine e , şi îi reprezintă interesele , după cum a spus ea . 
+1039	Mr . 	După cum ştii , ultima scrisoare a dnei Abel , indiferent cine e ea , e avizată de dl Vogel , un avocat din Berlinul de Est , indiferent cine e , şi îi reprezintă interesele , după cum a spus ea . 
+1040	Vogel , whoever he is , representing her interests , she says . 	
+1041	Yeah , Vogel says he 's gone to the Russian embassy in East Berlin and they may be ready to trade Abel for Powers . 	Da , Vogel spune că a fost la ambasada Rusiei din Berlinul de Est şi sunt gata să- l schimbe pe Abel cu Powers . 
+1042	But no one knows who 's who , but essentially they 're all Russian , right ? 	Dar nimeni nu ştie cine e cine , dar aşa sunt ruşi , nu ? 
+1043	Well , Soviet . 	Ei bine , sovieticii . 
+1044	Well , we think so . 	Ei bine , sovieticii . 
+1045	What do you mean ? 	Ce vrei să spui ? 
+1046	Could we turn up the heat in here ? 	Poţi da drumul la căldură ? 
+1047	There 's a wrinkle . 	Avem o problemă adevărată . 
+1048	They might try to throw you a curveball . 	Ei ar putea încerca să negocieze altfel . 
+1049	Try and get you to accept another prisoner other than Powers . 	Vor încerca să te facă să accepţi un alt prizonier în locul lui Powers . 
+1050	Another American ? 	Un alt american ? 
+1051	The , uh , East German Stasi picked up an American student . 	Stasi din Germania de Est a luat un student american , Frederic Pryor . 
+1052	Frederic Pryor . 	Stasi din Germania de Est a luat un student american , Frederic Pryor . 
+1053	Uh , the kid they found on the wrong side of the Wall . 	Băiatul a fost găsit de cealaltă parte a zidului . 
+1054	He 's a grad student out of Yale . 	Absolvent la Yale , a venit aici pentru a studia economia . 
+1055	- Came over here to study economics . 	Absolvent la Yale , a venit aici pentru a studia economia . 
+1056	- Mmm- hmm . 	Deci , fac gălăgie că puştiul încerca să facă spionaj . 
+1057	So , they 're making noises about trying this kid for espionage . 	Deci , fac gălăgie că puştiul încerca să facă spionaj . 
+1058	Grave offense , capital crime . 	Infracţiuni grave ce se pedepsesc cu moartea . 
+1059	Well . 	Infracţiuni grave ce se pedepsesc cu moartea . 
+1060	Vogel got in touch with us , said he represents Pryor . 	Vogel ne- a contactat şi a spus că- l reprezintă pe Pryor . 
+1061	Wait a minute . 	Stai puţin . 
+1062	Vogel represents Mrs . 	Vogel îi reprezintă pe doamna Abel şi pe acest copil ? 
+1063	Abel and this ... 	Vogel îi reprezintă pe doamna Abel şi pe acest copil ? 
+1064	This kid ? 	Vogel îi reprezintă pe doamna Abel şi pe acest copil ? 
+1065	Yeah , he 's busy . 	Da , e ocupat . 
+1066	Well , so , what is he ? 	Păi , el ce e ? 
+1067	Vogel , is he , uh , East German or is he Russian ? 	Vogel , e german , sau rus ? 
+1068	Well , try to figure it out when you meet him . 	Încercaţi să aflaţi când îl întâlniţi . 
+1069	At Russian embassy , East Berlin , noon tomorrow . 	Ambasada Rusiei , Berlinul de Est mâine la prânz . 
+1070	Hoffman will show you how to get there . 	Hoffman vă va arăta cum să ajungeţi acolo . 
+1071	Wait , show me how to get there ? 	Îmi va arăta cum să ajung acolo ? 
+1072	I 'm gonna have an escort . 	Am crezut că- mi va fi escortă . 
+1073	Right ? 	Corect ? 
+1074	Well , that was the plan but like I said , there 's a wrinkle . 	Ăsta a fost planul , dar cum am spus , există o problemă . 
+1075	I won 't be taking you . 	Nu voi fi lângă tine . 
+1076	Decision 's been made . 	Este deja hotărât . 
+1077	No U . S . government personnel are to cross the border until further notice . 	Niciun oficial american nu trece frontiera , până la noi ordine . 
+1078	How come ? 	- De ce ? 
+1079	It 's too dangerous . 	- E prea periculos . 
+1080	Yeah , the East Germans grabbed this kid . 	Dacă est germanii l- au luat pe băiat , există un grad de impunitate la care nu ne aşteptam . 
+1081	There 's a degree of impunity that we had not anticipated . 	Dacă est germanii l- au luat pe băiat , există un grad de impunitate la care nu ne aşteptam . 
+1082	The point is that the East German agenda and the Russian agenda may not be the same thing . 	Ideea este că , agenda Germaniei de Est şi a Rusiei s- ar putea să nu fie aceeaşi . 
+1083	Try and figure it out and act accordingly . 	Încercaţi să vă daţi seama şi să acţionaţi în mod corespunzător . 
+1084	And try to make a deal . 	Încercaţi să încheiaţi târgul , Powers pentru Abel . 
+1085	Powers for Abel . 	Încercaţi să încheiaţi târgul , Powers pentru Abel . 
+1086	Well , what about this college kid , Pryor ? 	Cum rămâne cu studentul ăsta , Pryor ? 
+1087	Mmm- mmm . 	Nu înţelegeţi greşit . 
+1088	Don 't fall for that . 	Nu înţelegeţi greşit . 
+1089	We can get him out another time . 	Îl putem salva altă dată . 
+1090	Powers is the whole ball game . 	Powers e cel care contează pentru noi . 
+1091	Where 's your room ? 	Unde e camera ta ? 
+1092	I' ll be staying at the Hilton . 	Voi sta la Hilton . 
+1093	It 's not far . 	Nu e departe . 
+1094	This is a number here in West Berlin . 	Ăsta- i unul din telefoanele noastre din Berlinul de Vest . 
+1095	Memorize it and give it back to me . 	Memorează- l şi dă- mi- l înapoi . 
+1096	No , no . 	Nu , vreau să spun , acum . 
+1097	I ... 	Nu , vreau să spun , acum . 
+1098	I mean , now . 	Nu , vreau să spun , acum . 
+1099	The Soviets keep cutting the international lines but local calls are okay . 	Sovieticii urmăresc liniile internaţionale , dar apelurile locale sunt în ordine . 
+1100	Someone will pick up day and night . 	Cineva va răspunde zi şi noapte . 
+1101	Now , this docket attached to your passport will serve as your ticket into and out of the Eastern Soviet sector . 	Acum , documentul ăsta ataşat la paşaport îţi va folosi ca bilet de intrare în sectorul estic sovietic . 
+1102	The meeting with Vogel is set for noon tomorrow . 	Întâlnirea cu Vogel e programată mâine la prânz . 
+1103	There are only a few routes left to the East . 	Sunt câteva drumuri spre est . 
+1104	You take the S- Bahn , the station we showed you on the way in . 	Foloseşte S- Bahn , staţia pe care ţi- am arătat- o când am venit . 
+1105	You 're gonna get off at the Friedrichstrasse station here and walk to the Soviet embassy on Unter den Linden here . 	Te dai jos la staţia Friedrichstrasse de aici , şi mergi pe jos la ambasada sovietică de pe Unter den Linden . 
+1106	Look at the map now . 	Uite pe hartă acum , nu o poţi lua cu tine . 
+1107	You shouldn 't take it with you . 	Uite pe hartă acum , nu o poţi lua cu tine . 
+1108	You 're looking at a map , you 're an American , you 're a spy . 	Dacă te uiţi pe hartă , fiind american , eşti considerat spion . 
+1109	You could well be detained . 	Ai putea fi arestat . 
+1110	Just avoid interacting with people generally . 	Evită să interacţionezi cu oamenii . 
+1111	You don 't ... 	Nu eşti de aici , aşa că fii discret . 
+1112	You don 't belong , so don 't stick out . 	Nu eşti de aici , aşa că fii discret . 
+1113	Food is scarce over there and things have started to fall apart . 	Hrana este insuficientă , aşa că lucrurile au început să se strice . 
+1114	There are gangs , and rule of law is less firmly established over there . 	Există bande , şi domnia legii nu e prea puternică acolo . 
+1115	And definitely stay away from the Wall . 	Şi stai departe de zid . 
+1116	On their side , there 's a line cleared of buildings along the Wall . 	Există o zonă goală de- a lungul zidului numită " Linia morţii . " 
+1117	They call it the " Death Line . " 	Există o zonă goală de- a lungul zidului numită " Linia morţii . " 
+1118	Cross it and you 'll be shot . 	Dacă o traversezi , eşti împuşcat . 
+1119	Is there any outcome here where I 'm not either detained or shot ? 	Mai este vreo cale de a fi arestat şi nu împuşcat ? 
+1120	Don 't worry too much about what Michener said . 	Nu- ţi face prea multe griji , cum a spus şi Michener . 
+1121	No , I 'm worried about what you 're saying . 	Sunt îngrijorat de ceea ce spui . 
+1122	This kid , Pryor , that the East Germans have , how old is he ? 	Puştiul ăsta , Pryor , pe care- l ţin est germanii , ce vârstă are ? 
+1123	Twenty- five . 	25 de ani . 
+1124	Why ? 	De ce ? 
+1125	Same age as Dougie . 	La fel ca Dougie . 
+1126	Who ? 	Ca cine ? 
+1127	Eh , an associate of mine . 	Un asociat de- al meu . 
+1128	Frederic Pryor . 	Frederic Pryor . 
+1129	Okay , okay , okay . 	Bine , bine . 
+1130	Danke . 	
+1131	So , we apologize if this offends . 	Îţi cerem scuze dacă te ofensăm . 
+1132	Uh ... 	
+1133	Coat ? 	Haina ? 
+1134	Okay . 	Bine . 
+1135	Do you understand English ? 	- Înţelegi engleza ? - Da , domnule . 
+1136	Yes , sir . 	Sunt James Donovan . 
+1137	I 'm James Donovan . 	Sunt James Donovan . 
+1138	I 'm here to meet a Mr . 	Am întâlnire cu un anumit domn Vogel . 
+1139	Vogel . 	Am întâlnire cu un anumit domn Vogel . 
+1140	Mr . 	Domnul Vogel . 
+1141	Vogel . 	Domnul Vogel . 
+1142	He doesn 't work here . 	Nu ştiu dacă lucrează aici . 
+1143	I 'm just supposed to meet him . 	Trebuia să ne întâlnim . 
+1144	That 's all I know . 	Asta e tot ce ştiu . 
+1145	Mr . 	Dle Donovan ! 
+1146	Donovan ! 	Dle Donovan ! 
+1147	So we finally meet you . 	În sfârşit vă întâlnesc . 
+1148	I 'm Helen Abel . 	Sunt Helen Abel . 
+1149	How is our husband ? 	- Cum se simte soţul nostru ? 
+1150	Oh . 	- Cum se simte soţul nostru ? 
+1151	He 's fine . 	- E bine . 
+1152	How is my Rudolf ? 	Ce face Rudolf al meu ? 
+1153	As good as can be expected . 	Cât se poate de bine . 
+1154	And we will get him back , yes ? 	Mai bine de atât ? 
+1155	This is our daughter . 	Ea e fiica noastră . 
+1156	How do you do ? 	Ce mai faci ? 
+1157	Lydia . 	Lydia . 
+1158	Are you Mr . 	Tu eşti domnul Vogel ? 
+1159	Vogel ? 	Tu eşti domnul Vogel ? 
+1160	No , no , no ! 	Nu , nu , nu ! 
+1161	I 'm not Vogel . 	Nu sunt Vogel . 
+1162	I 'm cousin Drews . 	Eu sunt vărul Drews . 
+1163	This is Rudolf 's beloved cousin Drews . 	- El e vărul iubit al lui Rudolf . 
+1164	Yes , cousin Drews . 	- Da , vărul Drews . 
+1165	I am cousin Drews . 	- Eu sunt vărul Drews . 
+1166	Cousin Drews , yes . 	- Vărul Drews , da . 
+1167	I 'm Helen Abel . 	Sunt Helen Abel . 
+1168	When will you see him ? 	Vino să stai jos . 
+1169	When will your government release him ? 	Când îl va elibera guvernul vostru ? 
+1170	I 'm a little , uh , lost here . 	Sunt un pic derutat aici . 
+1171	I 'm supposed to meet a Mr . 	Trebuia să mă întâlnesc cu domnul Vogel . 
+1172	Vogel . 	Dl Vogel este avocatul nostru . 
+1173	Oh , Mr . 	Dl Vogel este avocatul nostru . 
+1174	Vogel is our lawyer . 	Dl Vogel este avocatul nostru . 
+1175	We were supposed to negotiate , uh , the exchange . 	Trebuia să negociem schimbul . 
+1176	To bring Rudolf here ? 	Pentru a- l aduce pe Rudolf aici ? 
+1177	Yes , yes , to bring him here . 	Da , da , să- l aduc aici . 
+1178	But it doesn 't happen unilaterally , do you understand ? 	Dar nu se poate face unilateral , înţelegeţi ? 
+1179	It has to be an exchange . 	Ar trebui să fie un schimb . 
+1180	Not here ? 	Nu e aici ? 
+1181	Shh . 	
+1182	Shh . 	
+1183	Shh . 	
+1184	Mr . 	- Domnul Donovan ? 
+1185	Donovan ? 	- Domnul Donovan ? 
+1186	Mr . 	- Domnule Vogel . 
+1187	Vogel . 	- Domnule Vogel . 
+1188	No , no , no . 	Nu , nu , nu . 
+1189	Goodness . 	Nu , nu , nu . 
+1190	My name is Schischkin . 	Numele meu este Schischkin . 
+1191	Ivan Schischkin . 	Ivan Schischkin . 
+1192	I 'm the second secretary of the Soviet embassy . 	Sunt al doilea secretar al ambasadei sovietice . 
+1193	It wouldn 't be appropriate for Mr . 	N- ar fi potrivit pentru dl Vogel să apară , este cetăţean german . 
+1194	Vogel to join us . 	N- ar fi potrivit pentru dl Vogel să apară , este cetăţean german . 
+1195	He is a German national . 	N- ar fi potrivit pentru dl Vogel să apară , este cetăţean german . 
+1196	So you aren 't here to ... 	Deci nu eşti aici să ... 
+1197	To facilitate this meeting . 	Pentru a facilita această întâlnire . 
+1198	Uh , perhaps Mrs . 	Poate doamna Abel doreşte să se liniştească într- un loc privat şi să- l lase pe dl Donovan să discute cu mine ? 
+1199	Abel would like to compose herself privately ? 	Poate doamna Abel doreşte să se liniştească într- un loc privat şi să- l lase pe dl Donovan să discute cu mine ? 
+1200	And let Mr . 	Poate doamna Abel doreşte să se liniştească într- un loc privat şi să- l lase pe dl Donovan să discute cu mine ? 
+1201	Donovan and myself to talk ? 	
+1202	Thank you . 	Mulţumesc . 
+1203	So , I 'm confused . 	- Sunt confuz . 
+1204	Yes . 	- Da . 
+1205	Uh , I don 't care who I talk to if it 's about an exchange of personnel . 	Nu înţeleg cu cine vorbesc , se pare că- i un schimb de personal . 
+1206	Are you the person to talk to ? 	Dvs sunteţi persoana cu care să vorbesc ? 
+1207	Yes , yes , yes , of course . 	Da , da , desigur . 
+1208	Uh , we should talk . 	Ar trebui să vorbim . 
+1209	Please , have a seat , Mr . 	Vă rog să luaţi loc , dle Donovan . 
+1210	Donovan . 	Vă rog să luaţi loc , dle Donovan . 
+1211	Uh , how did you arrive to the Eastern sector ? 	Cum aţi ajuns aici , în sectorul estic ? 
+1212	The train . 	Cu trenul S- Bahn . 
+1213	The S- Bahn . 	Cu trenul S- Bahn . 
+1214	Ah , and you were alone ? 	Sunteţi singur ? 
+1215	Yeah . 	Da . 
+1216	And you are credentialed ? 	Aveţi acreditările ? 
+1217	Now , you must know about me , sir . 	Poate ştiţi deja despre mine , dle , sunt un cetăţean obişnuit . 
+1218	I 'm a private citizen . 	Poate ştiţi deja despre mine , dle , sunt un cetăţean obişnuit . 
+1219	I 'm a lawyer in Brooklyn in the United States , and I' ve taken time out of my busy schedule to help my client , Rudolf Abel . 	Sunt avocat în Brooklyn , Statele Unite . Şi mi- am făcut timp în programul meu ocupat pentru a- mi ajuta clientul , pe Rudolf Abel . 
+1220	I 'm authorized to arrange an exchange of Abel for Francis Gary Powers . 	Sunt autorizat să aranjez un schimb al lui Abel cu Francis Gary Powers . 
+1221	This is a full pardon of Abel that will be signed when the exchange actually takes place . 	Aceasta este iertarea completă pentru Abel , şi va fi semnată atunci când va avea loc schimbul . 
+1222	This is the only reason I 'm here . 	E singurul motiv pentru care sunt aici . 
+1223	I hope and expect to make this arrangement quickly . 	Sper şi mă aştept , ca această negociere să fie rapidă . 
+1224	Abel for Francis Gary Powers and Frederic Pryor . 	Abel pentru Francis Gary Powers . Şi Frederic Pryor . 
+1225	Mmm , we don 't have Pryor . 	Nu- l avem pe Pryor . 
+1226	No ? 	Nu ? 
+1227	You don 't ? 	Nu- l aveţi ? 
+1228	I' ve heard of Pryor , but he 's held by the German Democratic Republic , not by the Union of Soviet Socialist Republics . 	Ştiam de Pryor , dar el a fost arestat de Germania de Est , nu de Uniunea Republicilor Sovietice Socialiste . 
+1229	Well , I' ll tell you the first problem . 	Îţi spun prima problemă . 
+1230	The names of your countries are too long . 	Numele ţărilor voastre sunt prea lungi . 
+1231	Yes , yes . 	Da , da . 
+1232	If we release Powers , it is only to promote a goodwill between our countries . 	Dacă îl eliberăm pe Powers , e doar pentru a promova comerţul bun între ţările noastre . 
+1233	So , it cannot be an exchange . 	Deci ... nu poate fi un schimb . 
+1234	Perhaps ... 	Poate că îl puteţi elibera pe Abel , ca un simbol al bunăvoinţei faţă de prietenii noştri germani , şi apoi , câteva luni mai târziu , îl vom elibera pe Powers . 
+1235	Perhaps you could release Abel as a token of goodwill to our friends in Germany , and then , some months later , we would release Powers . 	Poate că îl puteţi elibera pe Abel , ca un simbol al bunăvoinţei faţă de prietenii noştri germani , şi apoi , câteva luni mai târziu , îl vom elibera pe Powers . 
+1236	There is an idea . 	Este posibil . 
+1237	No . 	
+1238	That just won 't work for us at all . 	Nu ne convine aşa . 
+1239	See , we need this to be an exchange . 	Trebuie să fie un schimb . 
+1240	You can call it what you want , but an exchange it must be . 	Spune- i cum vrei , dar trebuie să existe un schimb . 
+1241	We can have Abel here within 48 hours . 	Îl putem aduce pe Abel în 48 de ore . 
+1242	We need Powers at the same time we give you Abel . 	Avem nevoie de Powers simultan cu predarea lui Abel . 
+1243	Hmm . 	
+1244	This is ... 	Asta este ... 
+1245	Can we call this the " impatient plan " ? 	Putem numi ăsta " plan nerăbdător " ? 
+1246	Well , you can call it whatever you want . 	Spune- i cum vrei . 
+1247	I can relay your impatient plan to Moscow , see what they say ... 	Pot transmite planul tău nerăbdător la Moscova să văd ce spun ei , dar se vor întreba de ce eşti aşa de nerăbdător . 
+1248	But they will wonder why so impatient . 	Pot transmite planul tău nerăbdător la Moscova să văd ce spun ei , dar se vor întreba de ce eşti aşa de nerăbdător . 
+1249	Because I have a cold . 	Pot transmite planul tău nerăbdător la Moscova să văd ce spun ei , dar se vor întreba de ce eşti aşa de nerăbdător . 
+1250	And I don 't live in Berlin and I want to go home . 	Pentru că am răcit . Nu vreau să rămân la Berlin , vreau să merg acasă . 
+1251	They will think , 	Se vor gândi : 
+1252	" Well , the Americans must have gotten 	" Americanii or fi obţinut toate informaţiile pe care le avea Abel şi acum sunt dornici să- l schimbe sperând să- l obţină în schimb , pe Powers , care nu ne- a dat toate informaţiile pe care le cunoaşte . " 
+1253	" all the information that Abel had to give . 	" Americanii or fi obţinut toate informaţiile pe care le avea Abel şi acum sunt dornici să- l schimbe sperând să- l obţină în schimb , pe Powers , care nu ne- a dat toate informaţiile pe care le cunoaşte . " 
+1254	" And now they 're impatient to trade him , 	" Americanii or fi obţinut toate informaţiile pe care le avea Abel şi acum sunt dornici să- l schimbe sperând să- l obţină în schimb , pe Powers , care nu ne- a dat toate informaţiile pe care le cunoaşte . " 
+1255	" hoping to get in return this man , Powers , 	
+1256	" that , perhaps , has not yet given up 	
+1257	" all the information that he has to give . " 	
+1258	This is not an equitable trade , sir . 	Acesta nu- i un schimb corect , domnule . 
+1259	But what you 're saying is , if Powers has given up everything he knows , then Moscow would trade ? 	Dar spui că , dacă Powers ar fi spus tot ce ştie , Moscova ar face schimbul ? 
+1260	Why wouldn 't they ? 	De ce n- ar face- o ? 
+1261	As for Abel , if he dies in an American prison , the next Russian operative who gets caught might think twice about keeping his mouth shut . 	În ceea ce- l priveşte pe Abel , dacă moare într- o închisoare americană , următorul spion rus care e prins , s- ar putea să se răzgândească să- şi ţină gura . 
+1262	And you never know . 	Nu se ştie niciodată . 
+1263	Abel might want to see the sky again and decide to trade Russian secrets for small American favors . 	Abel poate că nu va dori să mai vadă cerul . Va decide să schimbe secrete ruseşti pe mici favoruri americane . 
+1264	How can we know this ? 	Cum putem şti asta ? 
+1265	We little men , we just do our jobs . 	Noi , oamenii simpli , ne facem doar slujba . 
+1266	Like Lieutenant Powers . 	Ca locotenentul Powers . 
+1267	He 's just a pilot . 	E doar un pilot . 
+1268	He was making photographs from 70, 000 feet when he was shot from the sky . 	Făcea poze la 21 . 000 m atunci când a fost doborât din cer . 
+1269	People in my country consider this an act of war . 	Oamenii din ţara mea consideră acest lucru , un act de război . 
+1270	We have to get off this merry- go- round , sir . 	Trebuie să ieşim din acest carusel , domnule . 
+1271	The next mistake our countries make could be the last one . 	Următoarea greşeală pe care o vor face ţările noastre , poate fi ultima . 
+1272	We need to have the conversation our governments can 't . 	Trebuie să avem un dialog pe care guvernele noastre nu- l pot avea . 
+1273	I will ask Moscow . 	Voi întreba Moscova . 
+1274	Who knows what they will say . 	Cine ştie ce vor spune ? 
+1275	There are a lot of people , Mr . 	Sunt mulţi oameni , domnule Donovan care nu vor ... ca acest schimb să aibă loc vreodată . 
+1276	Donovan , who doesn 't want this exchange to ever take place . 	Sunt mulţi oameni , domnule Donovan care nu vor ... ca acest schimb să aibă loc vreodată . 
+1277	Can you come back tomorrow to discuss their answer ? 	Puteţi reveni mâine pentru a discuta răspunsul lor ? 
+1278	Powers for Abel . 	Powers pentru Abel . 
+1279	And Frederic Pryor . 	Şi Frederic Pryor . 
+1280	As I said , 	După cum am spus , Pryor este în mâinile organelor securităţii statului 
+1281	Pryor is in the hands of the organs of 	După cum am spus , Pryor este în mâinile organelor securităţii statului 
+1282	State Security of the German Democratic Republic . 	Republicii Democrate Germane . 
+1283	I 'm confident you can make arrangements . 	Sunt sigur că poţi face aranjamentele . 
+1284	I am merely a secretary in the embassy of foreign power . 	Sunt doar un secretar de ambasadă al unei puteri străine . 
+1285	Okay , okay . 	Bine , bine . 
+1286	You have to see Mr . 	Trebuie să te întâlneşti cu domnul Vogel . 
+1287	Vogel . 	Trebuie să te întâlneşti cu domnul Vogel . 
+1288	I' ll give you his address . 	O să- ţi dau adresa lui . 
+1289	There actually is a Mr . 	Chiar există un domn Vogel ? 
+1290	Vogel ? 	Chiar există un domn Vogel ? 
+1291	Why would you imagine otherwise ? 	De ce ţi- ai imagina altfel ? 
+1292	Uh , it 's a short cab ride . 	E o cafenea mică . 
+1293	And please , Mr . 	Şi vă rog , domnule Donovan purtaţi un palton pe vremea asta . 
+1294	Donovan , wear an overcoat in this weather . 	Şi vă rog , domnule Donovan purtaţi un palton pe vremea asta . 
+1295	I had mine stolen from me . 	Mi- a fost furat . 
+1296	What do you expect ? 	La ce vă aşteptaţi ? 
+1297	It was from Saks Fifth Avenue . 	Nu eraţi la intersecţia cu Fifth Avenue . 
+1298	Wasn 't it ? 	Nu- i aşa ? 
+1299	Mr . 	Dle Donovan . 
+1300	Donovan . 	Dle Donovan . 
+1301	Mr . 	Dle Vogel . 
+1302	Vogel . 	Dle Vogel . 
+1303	Please come in . 	Intraţi , vă rog . 
+1304	Danke . 	
+1305	Sorry about the embassy . 	Îmi pare rău pentru treaba cu ambasada . 
+1306	But the Soviets decided not to host me . 	Dar sovieticii au decis să nu mă primească . 
+1307	Very irritating . 	Asta e plictisitor . 
+1308	I am still trying to grasp each party 's ... 	Încă încerc să înţeleg poziţia fiecăruia ... 
+1309	Status ? 	Poziţia ? Da . 
+1310	Yes . 	Şi sunt interesat de proceduri . 
+1311	And interest in the proceedings . 	Şi sunt interesat de proceduri . 
+1312	Oh . 	Este o lume nouă . 
+1313	It 's a new world . 	Este o lume nouă . 
+1314	All very disorienting , isn 't it ? 	Totul e foarte confuz , nu ? 
+1315	Let me tell you what I have to offer . 	Permiteţi- mi să spun ce am de oferit . 
+1316	I 'm a good friend ... 	Sunt un bun prieten ... 
+1317	" Friend . " 	" Prieten " . 
+1318	No , he 's older . 	Nu , e mai în vârstă . 
+1319	" Protege " ? 	" Protejat " ? al Procurorul General al Republicii Democrate Germane . 
+1320	Of the attorney general of the German Democratic Republic . 	" Protejat " ? al Procurorul General al Republicii Democrate Germane . 
+1321	Sit down , please . 	Stai jos , te rog . 
+1322	This unfortunate , 	Acest nefericit ... 
+1323	Frederic Pryor , he was in the wrong place at the wrong time . 	Frederic Pryor . A fost la locul nepotrivit , la momentul nepotrivit . 
+1324	But every accident , properly viewed , is an opportunity , isn 't it , Mr . 	Dar fiecare accident , tratat cum trebuie , este o oportunitate , nu- i aşa , dle Donovan ? 
+1325	Donovan ? 	Dar fiecare accident , tratat cum trebuie , este o oportunitate , nu- i aşa , dle Donovan ? 
+1326	Well ... 	Dar fiecare accident , tratat cum trebuie , este o oportunitate , nu- i aşa , dle Donovan ? 
+1327	Your country refuses to recognize the German Democratic Republic . 	Ţara ta refuză să recunoască Republica Democrată Germană . 
+1328	They prefer to make up stories that the GDR doesn 't exist , for instance . 	Preferă să inventeze poveşti de exemplu , că RDG nu există . 
+1329	Sorry . 	Scuze . 
+1330	As a means of forcing your government 's recognition of this real place , sir , in which you find yourself , the GDR , the attorney general is happy to negotiate with you as a representative of your government for Mr . 	Ca o modalitate de a obliga guvernul dvs să recunoască acest lucru , avem nevoie de ajutorul dvs cu RDG . Procurorul General e bucuros să negocieze cu dvs , ca reprezentant al guvernului , întoarcerea domnului Pryor . 
+1331	Pryor 's return . 	
+1332	Mr . 	Dle Vogel , nu sunt aici ca reprezentant al guvernului meu . 
+1333	Vogel , I 'm not here as a representative of my government . 	Dle Vogel , nu sunt aici ca reprezentant al guvernului meu . 
+1334	All right . 	Bine . 
+1335	I think that 's childish , Mr . 	Înţeleg , dle Donovan . 
+1336	Donovan . 	Înţeleg , dle Donovan . 
+1337	Well , I ... 	Nu am o poziţie oficială . 
+1338	I have no official status . 	Nu am o poziţie oficială . 
+1339	Fine . 	Bine . 
+1340	You do not represent the USA , I do not represent the GDR . 	Tu nu reprezinţi SUA , eu nu reprezintă RDG . 
+1341	My client is Lydia Abel , Rudolf 's wife . 	Clienta mea este Lydia Abel , soţia lui Rudolf . 
+1342	And I have also ... 	Şi , de asemenea , ... 
+1343	Lydia is the daughter . 	Lydia este fata . 
+1344	Helen is the wife . 	Helen este soţia . 
+1345	Well ... 	
+1346	I am prepared to offer 	Sunt gata să- l ofer pe Frederic Pryor în schimbul lui Rudolf Abel . 
+1347	Frederic Pryor 's exchange for Rudolf Abel 's . 	Sunt gata să- l ofer pe Frederic Pryor în schimbul lui Rudolf Abel . 
+1348	Then let 's be clear . 	Să fie clar . 
+1349	We will produce Rudolf Abel . 	Îl vom aduce pe Rudolf Abel , voi îl veţi aduce în acelaşi timp pe studentul Pryor . 
+1350	You will produce , at the same time , the student , Pryor . 	Îl vom aduce pe Rudolf Abel , voi îl veţi aduce în acelaşi timp pe studentul Pryor . 
+1351	At the same time ? 	- În acelaşi timp ? 
+1352	Absolutely . 	- Absolut . 
+1353	The exchange on offer is a Russian at the end of his life for an American student at the start of his . 	Schimbul propus este , un rus , la sfârşitul vieţii sale ... pentru un student american la începutul vieţii sale . 
+1354	Schischkin ? 	Schischkin ? 
+1355	He 's not an embassy secretary . 	E secretar al ambasadei . 
+1356	Ivan Schischkin is the KGB 's chief in western Europe . 	Ivan Schischkin e şeful KGB în Europa de Vest . 
+1357	Well , whatever he is , he 's relaying our proposal to Moscow and they 'll decide . 	Oricum , trimite propunerea noastră la Moscova şi ei vor decide . 
+1358	Could I borrow a coat ? 	Poţi să- mi împrumuţi un palton ? 
+1359	I lost mine . 	L- am pierdut pe al meu . 
+1360	How did you lose your coat ? 	Cum ţi- ai pierdut paltonul ? 
+1361	You know , spy stuff . 	Ştii , chestii de spionaj . 
+1362	I' ll get you another coat . 	Îţi aduc un palton nou . Bine , pentru că ... 
+1363	Good , because ... 	Cine e acest Vogel ? 
+1364	So who is , uh ... 	Cine e acest Vogel ? 
+1365	Who is this Vogel ? 	Cine e acest Vogel ? 
+1366	Him , we don 't know . 	El , nu ştim . 
+1367	He might be what you said he said he is . 	Poate că e cine spune că este . 
+1368	Friend of the attorney general . 	Prietenul Procurorului General . 
+1369	Just some guy the GDR tapped to handle this . 	Doar un tip din RDG angajat să se ocupe de asta . 
+1370	Sounds like the East Germans are fighting for a place at our table . 	Se pare că Germania de Est se luptă pentru un loc la masa noastră . 
+1371	The GDR gets Abel back for the Russians , winning their respect ... 	Neamţul Abel revine la ruşi , le câştigă respectul şi face titlurile din ziare pentru cauza lor . 
+1372	And capturing the headlines for their cause . 	Neamţul Abel revine la ruşi , le câştigă respectul şi face titlurile din ziare pentru cauza lor . 
+1373	Which , of course , puts East Germany on the map . 	Lucru care , desigur , pune Germania de Est pe hartă . 
+1374	But we don 't care about their map . 	Dar nu ne pasă de harta lor . 
+1375	Stick with the Russians . 	Rămâi cu ruşii . 
+1376	Stick with the Russians . 	Rămâi cu ruşii . 
+1377	It 's Powers for Abel . 	Ia- l pe Powers în locul lui Abel . 
+1378	So , does all this mean this might actually happen ? 	Îmi spui că într- adevăr se poate întâmpla ? 
+1379	Yeah , that 's what you seem to be telling me . 	Da , asta e ceea ce pare că- mi spui . 
+1380	We 'll put Abel on a plane , he 'll be here Friday . 	Îl urcăm pe Abel în avion , va ajunge vineri , şi dacă Schischkin primeşte aprobarea , nu vor rămâne decât detaliile schimbului . 
+1381	So , if Schischkin gets the okay , all that 's left is the mechanics of the trade . 	Îl urcăm pe Abel în avion , va ajunge vineri , şi dacă Schischkin primeşte aprobarea , nu vor rămâne decât detaliile schimbului . 
+1382	How we swap our guy for their guy . 	Omul nostru , pentru omul lor . 
+1383	Our " guys . " Two guys . 	Oamenii noştri . Doi tipi . 
+1384	Powers and Pryor . 	Powers şi Pryor . 
+1385	No , now don 't go bleeding heart on me . 	Nu , nu , nu face pe durul cu mine . 
+1386	Powers is the whole ball game . 	Powers e totul . 
+1387	Forget this Ivy League boy , who obviously thought it was a good idea to study Soviet economics in Berlin in the middle of the Cold War . 	Uită de băiatul ăla e evident că a avut o idee greşită . Studierea economiei sovietice la Berlin în mijlocul Războiului Rece . 
+1388	Powers is who we need . 	De Powers avem nevoie . 
+1389	You don 't even like Powers . 	Nici măcar nu- ţi place Powers . 
+1390	Everybody hates Powers . 	Toată lumea îl urăşte pe Powers . 
+1391	He didn 't kill himself and he let the commies parade him on television . 	Dacă se sinucide şi apar comentarii politicoase la televizor , este omul cel mai urât din America . 
+1392	He 's the most hated man in America . 	Dacă se sinucide şi apar comentarii politicoase la televizor , este omul cel mai urât din America . 
+1393	After Rudolf Abel , maybe . 	După Rudolf Abel , poate . 
+1394	And me . 	Şi după mine . 
+1395	Now wake up ! 	Trezeşte- te ! 
+1396	I gotta sleep . 	Am nevoie de somn . 
+1397	I just gotta sleep . 	Am nevoie de somn . 
+1398	I told you , you can sleep once we talk what we need to talk . 	Ţi- am spus că poţi dormi după ce vorbeşti . 
+1399	You must focus on me . 	Trebuie să te concentrezi la mine . 
+1400	Your government doesn 't care about you . 	Guvernului tău nu- i pasă de tine . 
+1401	You know that . 	Ştii asta . 
+1402	Any of you . 	De niciunul dintre voi . 
+1403	You know that twelve U- 2 pilots incurred brain damage ? 	Ştii de cei 12 piloţi de U- 2 care au avut leziuni ale creierului ? 
+1404	They 're vegetables because of altitude , insufficient oxygen . 	Sunt în stare vegetativă datorită altitudinii şi lipsei de oxigen . 
+1405	But they keep you flying , Gary . 	Dar vă ţin în aer , Gary . 
+1406	You and your friends . 	Pe tine şi prietenii tăi . 
+1407	They gave you this . 	V- au dat asta . 
+1408	A scratcher , yes ? 	Să vă omorâţi , da . 
+1409	Potassium cyanide . 	Cianură de potasiu . 
+1410	Does that look like they care about you ? 	Ţi se pare că le pasă de tine ? 
+1411	What is the construction of the destructor unit ? 	Care e structura unităţii de distrugere ? 
+1412	By what means is this unit operated ? 	Cum lucrează această unitate ? 
+1413	With what explosives is the unit charged , and what destruction is it capable of ? 	Cu ce explozibil e încărcată unitatea , şi care este capacitatea de distrugere ? 
+1414	I don 't know . 	Nu ştiu . 
+1415	The pilots were never shown any of the equipment . 	Piloţilor nu li se arată niciunul dintre echipamente . 
+1416	How wide far can the radar map an area during an overflight ? 	Care e dimensiunea spaţiului pe care îl poate mapa radarul ? 
+1417	I don 't know , I don 't know ! 	Nu ştiu , nu ştiu ! 
+1418	Were you making the overflight on April 9th over the industrial area and MiG bomber base at Baranovichi ? 	Ai mai făcut un zbor de ansamblu pe 9 aprilie deasupra zonei industriale şi a bazei bombardierelor MiG , Baranovichi ? 
+1419	I was not . 	Nu . 
+1420	This was my first overflight . 	A fost prima mea misiune . 
+1421	I need to know about engine- out to glide ratio . 	Trebuie să ştiu despre raportul de putere al motoarelor . 
+1422	How the plane gets so high . 	Cum de zboară avionul atât de sus . 
+1423	We know it reaches altitude of 70, 000 feet . 	Ştim că ajunge la altitudinea de 20 . 000 m . 
+1424	Gary , we know this . 	Gary , ştim asta . 
+1425	And I need to know where the planes have flown . 	Şi trebuie să ştiu unde se află baza de pe care au zburat , Gary . 
+1426	Where they have flown , Gary . 	Şi trebuie să ştiu unde se află baza de pe care au zburat , Gary . 
+1427	And we must have this talk now . 	Şi n- ai vorbit până acum . 
+1428	Now . 	Acum ... 
+1429	And then you can sleep a little . 	Apoi , poţi dormi . 
+1430	Sir , wake up . 	Domnule , treziţi- vă . 
+1431	Wake up , sir . 	Treziţi- vă , domnule . 
+1432	Sir , can you come with me , please ? 	- Mă puteţi urmări , vă rog ? 
+1433	Yeah . 	- Da . 
+1434	We gotta move . 	- Trebuie să mergem . 
+1435	Yeah , of course . 	- Da , desigur . 
+1436	Can you come with me , please ? 	- Vă puteţi ridica , vă rog ? 
+1437	Yeah . 	- Vă puteţi ridica , vă rog ? 
+1438	Okay . 	- Da . Bine . 
+1439	Got your glasses ? 	- Luaţi- vă ochelarii . 
+1440	Uh- huh . 	- Cât e ceasul ? 
+1441	What time is it ? 	- Cât e ceasul ? 
+1442	It 's late , but we need to talk , and then we need to get on a plane , okay ? 	Este târziu , dar trebuie să vorbim , apoi trebuie să prindem un avion , bine ? 
+1443	Yeah . 	Este târziu , dar trebuie să vorbim , apoi trebuie să prindem un avion , bine ? 
+1444	Yep . 	- Ridicaţi- vă . 
+1445	Upsy- daisy ! 	- Ridicaţi- vă . 
+1446	Upsy- daisy . 	Uşurel . 
+1447	That 's right . 	Aşa . 
+1448	There we go . 	Aşa . 
+1449	Keep it moving . 	Mergi . 
+1450	Thank you . 	Mulţumesc . 
+1451	Other way , other way . 	În cealaltă parte . 
+1452	There we go . 	Haide . 
+1453	You say a plane ? 	Ai spus , avion ? 
+1454	This way , please . 	Pe aici , vă rog . 
+1455	Keep moving . 	Continuaţi . 
+1456	So , I received a favorable decision from Moscow on your proposal that we help our friends in the German Democratic Republic by exchanging 	Am primit o decizie favorabilă de la Moscova la propunerea ta , de a- i ajuta pe prietenii noştri din Republica Democrată Germană , schimbându- l pe dl Powers pentru dl Abel . 
+1457	Mr . 	Am primit o decizie favorabilă de la Moscova la propunerea ta , de a- i ajuta pe prietenii noştri din Republica Democrată Germană , schimbându- l pe dl Powers pentru dl Abel . 
+1458	Powers for Mr . 	Am primit o decizie favorabilă de la Moscova la propunerea ta , de a- i ajuta pe prietenii noştri din Republica Democrată Germană , schimbându- l pe dl Powers pentru dl Abel . 
+1459	Abel . 	
+1460	That 's swell . 	Minunat . 
+1461	May I suggest the Glienicke Bridge as a place of a swap ? 	Pot sugera podul Glienicke pentru schimb ? 
+1462	Why not Checkpoint Charlie ? 	De ce nu la punctul de control Charlie ? 
+1463	We 're not looking for publicity . 	Nu vrem publicitate . 
+1464	The Glienicke Bridge is very quiet , especially early in the morning . 	Podul Glienicke este foarte liniştit , în special dimineaţa devreme . 
+1465	Glienicke Bridge . 	Podul Glienicke , vom avea grijă de el în partea noastră . 
+1466	I' ll run that by our side . 	Podul Glienicke , vom avea grijă de el în partea noastră . 
+1467	We can have Abel here on Friday . 	Îl putem aduce pe Abel vineri . 
+1468	So , Saturday morning ? 	Deci , sâmbătă dimineaţa ? 
+1469	Always impatience , yeah ? 	Eşti mereu nerăbdător , nu ? 
+1470	I want to get home and get into bed . 	Vreau să merg acasă şi să mă bag în pat . 
+1471	So , Saturday morning ? 	Deci sâmbătă dimineaţa ? 
+1472	5 : 30 ? 	La 05 : 30 ? 
+1473	All right . 	Bine . 
+1474	We 're done here . 	Am terminat . 
+1475	This is a number , in case anything should come up . 	Sună la acest număr dacă apare ceva . 
+1476	All right . 	Bine . 
+1477	Someone will answer at any hour . 	Va răspunde cineva , în orice moment . 
+1478	I don 't expect to use it . 	Nu mă aştept să- l folosesc . 
+1479	Shall we toast the arrangement ? 	- Toastam pentru acordul nostru ? 
+1480	Why not ? 	- Toastam pentru acordul nostru ? 
+1481	Armenian brandy . 	Coniac armean . O băutură bună pentru răceala ta . 
+1482	Good bracer for your cold . 	Mulţumesc . 
+1483	Thank you . 	Mulţumesc . 
+1484	Would you mind ... 	Te superi ... 
+1485	This is not part of our business but I 'd like to ask you a couple of questions . 	Nu face parte din afacerea noastră , dar aş dori să- ţi pun câteva întrebări . 
+1486	You do not have to answer . 	- Nu trebuie să răspunzi . 
+1487	I shall answer what I know . 	- Voi răspunde dacă ştiu . 
+1488	I like this guy , your guy . 	Îmi place tipul ăsta , omul vostru . 
+1489	What happens to your guy when he gets home ? 	Ce se va întâmpla cu omul vostru când va ajunge acasă ? 
+1490	Well , we have to make a determination whether our guy is now your guy . 	Va trebui să stabilim dacă omul nostru , este acum omul vostru . 
+1491	Now , as I said to you before , he 's acted honorably . 	Aşa cum ţi- am spus mai înainte , s- a comportat onorabil 
+1492	He 's still your guy , believe me . 	E încă omul vostru , crede- mă . 
+1493	Of course you will say that if it were true and if it were not true . 	Desigur , vei spune că ăsta- i adevărul chiar dacă n- ar fi adevărat . 
+1494	I guess it has come down to that , huh ? 	Rămânem concurenţi . 
+1495	Well , forgive me for pushing , but is he in any danger if the determination is made ? 	Iartă- mă dacă insist , dar este în pericol , dacă s- a luat decizia ? 
+1496	Well , goodness . 	Ei bine , ce pot să spun ? 
+1497	As things are now , everyone is in danger . 	După cum merg lucrurile , toată lumea e în pericol . 
+1498	Cheers . 	Noroc . 
+1499	Na zdorovie . 	
+1500	There will be no exchange on Glienicke Bridge . 	Nu va fi nici un schimb la podul Glienicke . 
+1501	Excuse me , sir . 	Ce vrei să spui , domnule ? 
+1502	There will be no exchange . 	Nu va fi niciun schimb . 
+1503	Not for Frederic Pryor . 	Nu pentru Frederic Pryor . 
+1504	Mr . 	Dle Vogel , am crezut că am fost de acord ieri . 
+1505	Vogel , I thought yesterday we had agreed . 	Dle Vogel , am crezut că am fost de acord ieri . 
+1506	We agreed on an exchange , Abel for Pryor . 	Am fost de acord cu un schimb Abel- Pryor . 
+1507	Now I learn you are a rug merchant selling the same rug to two customers . 	Acum am auzit că eşti un escroc , vinzi acelaşi produs la doi clienţi . 
+1508	Abel for Pryor you sell to us . 	Abel- Pryor , ni- l vinzi nouă . Da . 
+1509	Yeah . 	
+1510	And Abel for Powers you sell to the Soviets . 	Şi Abel pentru Powers îl vinzi sovieticilor . 
+1511	I 'm not quite sure what the problem is if the arrangement satisfies two parties or three or four . 	Nu- s sigur care- i problema dacă acordul satisface două , sau trei , sau patru părţi . 
+1512	What difference does it make ? 	Ce contează ? 
+1513	The arrangement does not satisfy this party . 	Acordul nu ne satisface . 
+1514	Now , Mr . 	- Ascultă , domnule Vogel ... 
+1515	Vogel , please ... 	- Ascultă , domnule Vogel ... 
+1516	Obviously you do not know who you are dealing with . 	- Evident , nu ştii cu cine ai de- a face . 
+1517	Here 's the interest of the German Democratic Republic . 	Uite care- i interesul Republicii Democrate Germane : 
+1518	To deal with , and to be seen to be dealing with another sovereign power , the United States . 	să negocieze şi să fie văzută negociind cu o altă putere suverană , Statele Unite . 
+1519	An equal power . 	O putere egală . 
+1520	Instead you treat us as stooges for the Union of Soviet Socialist Republics . 	Schimbul ne face clovni în fata Uniunii Republicilor Socialiste Sovietice . 
+1521	Can we just call them the Russians ? 	Nu vrei să le spunem ruşi ca să economisim timp ? 
+1522	It 'll save time . 	Nu vrei să le spunem ruşi ca să economisim timp ? 
+1523	I have an appointment , sir . 	Am o întâlnire , domnule . 
+1524	I think it 's you who are wasting time . 	Cred că tu eşti o pierdere de timp . 
+1525	Now , tell me if I am describing this wrong . 	Spune- mi dacă descriu corect . 
+1526	You have a kid , a university student , someone you know is not a spy , who 's no threat to you . 	Voi aveţi un puşti , un student , cineva care ştiţi că nu e spion , că nu e o ameninţare pentru voi . 
+1527	And in exchange for this person who is worthless to you , you play an equal part in an exchange between the Russians and the Americans . 	Şi în schimbul acestei persoane fără valoare pentru voi , jucaţi un rol egal într- un schimb între ruşi şi americani . 
+1528	And this is one transaction between us and the two of you . 	Şi asta este o tranzacţie între noi şi voi amândoi . 
+1529	We 're not trying to do two things here , sir . 	Noi nu încercăm să facem două lucruri , dle , facem doar unul . 
+1530	We 're just doing one thing . 	Noi nu încercăm să facem două lucruri , dle , facem doar unul . 
+1531	One , one , one . 	Unu la unu . 
+1532	It 's hard for me to see how the Republic of East German Democrats is being slighted . 	E greu pentru mine să înţeleg cum e neglijată Republica Democrata Germana . 
+1533	You agreed with the Soviets without consulting me . 	Ai fost de acord cu sovieticii fără să mă consulţi . 
+1534	Is this a negotiation or a conspiracy ? 	Asta- i o negociere sau o conspiraţie ? 
+1535	For it to be a conspiracy , there would have to be harm to you , sir . 	Dacă era conspiraţie , v- ar fi făcut rău , dle . 
+1536	There 's just benefits here . 	Sunt doar avantaje aici . 
+1537	We 're of agreeing interests . 	Suntem interesaţi într- un acord . 
+1538	No , you decide they agree . 	Nu , tu ai decis că există un acord . 
+1539	Where is your appointment , sir ? 	Unde aveţi întâlnire , domnule ? 
+1540	In the West . 	- În zona de vest . 
+1541	Ku' damm . 	- În zona de vest . 
+1542	Good . 	La Ku' damm . - Bun . 
+1543	Look around you . 	Priveşte în jurul tău . 
+1544	How does the Eastern sector compare with the West ? 	Cum se poate compara zona asta cu vestul ? 
+1545	Hmm ? 	
+1546	Our Russian friends have decided that we should not rebuild our capital city . 	Prietenii noştri ruşi au decis că nu trebuie să reconstruim capitala noastră . 
+1547	But we live in this ruin made by our Russian friends . 	Trăim în aceste ruine făcute de prietenii noştri ruşi . 
+1548	Go ahead , make your deal with these Russians . 	Haide , du- te şi fă- ţi înţelegerea cu ruşii ăştia . 
+1549	We won 't be part of it . 	Noi nu vom face parte din ea . 
+1550	There is no deal without Pryor . 	Nu există nici un acord fără Pryor . 
+1551	We are not leaving him here . 	Nu există nici un acord fără Pryor . 
+1552	Is this your position or your government 's ? 	Nu- l vom lăsa aici . Asta- i condiţia guvernului sau a ta ? 
+1553	Sir , I 'm here . 	Domnule , eu sunt aici . 
+1554	I 'm talking to you . 	Vorbesc cu tine . 
+1555	But you are not a representative of your government . 	Dar nu reprezinţi guvernul tău . 
+1556	You don 't know who you are . 	Nu ştii cine eşti . Nici noi nu ştim . 
+1557	Neither do we . 	Trebuie să fie atent , nu suntem în Brooklyn , dle Donovan . 
+1558	You should be careful . 	Trebuie să fie atent , nu suntem în Brooklyn , dle Donovan . 
+1559	This is not Brooklyn , Mr . 	Trebuie să fie atent , nu suntem în Brooklyn , dle Donovan . 
+1560	Donovan . 	
+1561	Look , sir . 	Ascultă , domnule . 
+1562	You must know that in every respect that matters , 	Trebuie să ştii că în toate aspectele ce contează , reprezint guvernul meu . 
+1563	I represent my government . 	Trebuie să ştii că în toate aspectele ce contează , reprezint guvernul meu . 
+1564	You know who I am . 	Ştii cine sunt . 
+1565	Do I ? 	Oare ? 
+1566	Uh- oh . 	
+1567	Do you have the proper papers ? 	Ai documentele necesare ? 
+1568	Of course not . 	Bineînţeles că nu . 
+1569	It doesn 't matter . 	Nu contează . 
+1570	An American lawyer like you can talk your way out of anything . 	Un avocat american după cum ştii îi convinge pe alţii să creadă în ceva . 
+1571	Can 't you ? 	Nu- i aşa ? 
+1572	You go with him . 	Urmează- l . 
+1573	Why ? 	- De ce ? 
+1574	It 's passport problem . 	- Probleme cu paşaportul . 
+1575	What ... 	Care- i problema ? 
+1576	What problem ? 	Care- i problema ? 
+1577	What 's the problem ? 	Care- i problema ? 
+1578	You go with him . 	Urmează- l . 
+1579	And remember , we control the fate of Frederic Pryor . 	Şi nu uita , noi îl controlăm pe Frederic Pryor . 
+1580	My God ! 	Dumnezeule ! 
+1581	Yeah , I' ll start with some coffee , please . 	Voi începe cu o cafea , te rog . 
+1582	Then I' ll have the Hilton combo and the American breakfast . 	Apoi , vreau combo Hilton şi mic dejun american . 
+1583	And coffee . 	Apoi , vreau combo Hilton şi mic dejun american . 
+1584	Both breakfasts ? 	Şi cafea . - Ambele mic dejunuri ? 
+1585	Yeah , yeah . 	- Da , da . 
+1586	One first or ... 	- Unul primul ... 
+1587	Both first , both . 	- Ambele . 
+1588	Whenever they 're ready . 	Când sunteţi gata . 
+1589	And coffee . 	Şi cafea . 
+1590	Hmm . 	
+1591	You shouldn 't be here . 	Nu ar trebui să fii aici . 
+1592	Well , sometimes in Germany , you just want a big American breakfast . 	Uneori în Germania , vreau un bun mic dejun american . 
+1593	What happened ? 	Ce s- a întâmplat ? 
+1594	Where were you last night ? 	Unde ai fost azi- noapte ? 
+1595	Vogel arranged for me to spend some time in the East . 	Vogel a găsit o modalitate de a- mi petrece timpul în est . 
+1596	Oh , Jesus . 	Iisuse ! 
+1597	Frankly , it 's not that much worse than where you have me here in the West . 	Sincer , nu e mult mai rău decât locul în care m- aţi dus ieri . 
+1598	So the Russians are fine with the exchange , but now Vogel is saying that the East Germans won 't do it . 	Ruşii au fost de acord să facă schimbul , dar acum Vogel spune că est germani n- o vor face . 
+1599	We 're not gonna get Pryor . 	Nu ni- l vor da pe Pryor . 
+1600	Great , good . 	Grozav . Bine . 
+1601	So the Soviets are set . 	Deci , sovieticii au fost de acord . 
+1602	We get Powers . 	Ni- l dă pe Powers . 
+1603	We get Powers . 	Ni- l dă pe Powers . 
+1604	Well done . 	Bravo . 
+1605	No , the East Germans won 't do it . 	Nu , est germani n- o vor face . 
+1606	We won 't get Pryor , and that kid matters . 	Nu ni- l dau pe Pryor şi este important . 
+1607	Every person matters . 	Fiecare persoană contează . 
+1608	Sure , that 's why you tried . 	Bineînţeles , de asta ai încercat . 
+1609	That 's why you tried . 	Ai încercat . 
+1610	Abel 's on his way , so we 're all set for tomorrow morning . 	Abel e pe drum , aşa că totul e aranjat pentru mâine dimineaţă . 
+1611	Wait a minute . 	- Stai puţin . 
+1612	Makes things simple . 	- Simplifică . 
+1613	Makes things simple . 	Simplifică . 
+1614	We are not getting the kid . 	Nu vom primi pustiul . 
+1615	Yeah , I understand . 	Da , am înţeles . 
+1616	We 're set . 	Suntem în regulă . 
+1617	We can ignore the message we got this morning . 	Nu putem ignora mesajul primit în această dimineaţa . 
+1618	What message ? 	Ce mesaj ? 
+1619	From the East Germans . 	De la est germani . 
+1620	They called the number I gave you . 	Au sunat la numărul pe care ţi l- am dat . 
+1621	They said they wanted to speak to you today . 	Au spus că vor să vorbească astăzi cu tine . 
+1622	Vogel called ? 	- A sunat Vogel ? 
+1623	No , um ... 	- Nu ... 
+1624	Office of , uh , Harald Ott , 	Ofiţerul Harald Ott , Procurorul General al Germaniei de Est . 
+1625	East German attorney general . 	Ofiţerul Harald Ott , Procurorul General al Germaniei de Est . 
+1626	Wanting what ? 	Pentru ? 
+1627	What does he want ? 	Ce vrea ? 
+1628	Well , to talk to you . 	Să vorbească cu tine . 
+1629	But it 's okay , I can 't ask you to go back there . 	E în regulă , am înţeles , dacă nu vrei să- l întâlneşti . 
+1630	And listen , you seem to be persona non grata to some elements , so we won 't push our luck . 	Eşti persona non grata pentru unele elemente aşa că n- o să- ţi forţam norocul . 
+1631	So he wants to see me . 	Deci vrea să mă vadă . 
+1632	What time ? 	La ce oră ? 
+1633	Oh , no , no . 	Nu , nu . 
+1634	Now , listen . 	Ascultă . 
+1635	You don 't need to go . 	Nu trebuie să te duci . 
+1636	In fact , you shouldn 't go . 	De fapt , nu ar trebui să te duci . 
+1637	In fact , you can 't go . 	De fapt , nu te poţi duce . 
+1638	We 're set with the Soviets . 	Am aranjat cu sovieticii , nu vrem s- o dai în bară . 
+1639	We don 't want to screw it up . 	Am aranjat cu sovieticii , nu vrem s- o dai în bară . 
+1640	I 'm not gonna screw it up . 	- N- o voi da în bară . 
+1641	You 're not going ! 	- Nu te duci ! 
+1642	Don 't be a pain in the ass . 	Nu fi o pacoste . 
+1643	Oh , I ordered . 	Am comandat eu . 
+1644	Enjoy your big American breakfast . 	Bucură- te de micul dejun american . 
+1645	I thought it should be negotiated at the highest level as a courtesy to you . 	Am crezut că ar trebui negociat la nivel înalt , ca o favoare pentru tine . 
+1646	I thank you , sir . 	Vă mulţumesc , domnule . 
+1647	I don 't know how things became so confused . 	Nu ştiu cum au ajuns lucrurile atât de confuz . 
+1648	Well , I guess sometimes they just do . 	Cred că , uneori , se întâmplă pur şi simplu . 
+1649	For sake of clarity , 	Doar pentru a clarifica , eu zic că suntem pe deplin pregătiţi pentru a- l schimba pe presupusul student Pryor , cu Rudolf Abel . 
+1650	I say we are fully prepared to exchange the so- called student , Pryor , for Rudolf Abel . 	Doar pentru a clarifica , eu zic că suntem pe deplin pregătiţi pentru a- l schimba pe presupusul student Pryor , cu Rudolf Abel . 
+1651	I understand from Mr . 	Am înţeles de la dl Vogel , că Pryor este foarte important pentru tine . 
+1652	Vogel that Pryor is very important to you . 	Am înţeles de la dl Vogel , că Pryor este foarte important pentru tine . 
+1653	Yes , but ... 	Da , dar ... 
+1654	Ah , we 'll do a memorandum to that effect . 	Vom face un memorandum în acest sens . 
+1655	Oh , a memorandum . 	Un memorandum . 
+1656	Certainly , we commit to a bi- lateral exchange . 	Cu siguranţă , suntem dedicaţi pentru schimburi la diferite niveluri . 
+1657	Yes , yes , sure . 	Da , da , desigur . 
+1658	I 'm not sure what that means but ... 	Nu sunt sigur ce înseamnă asta , dar ... 
+1659	My country also insists on Francis Gary Powers . 	Ţara mea insistă , de asemenea , pentru Francis Gary Powers . 
+1660	No ! 	Nu ! 
+1661	This is how things became so confused . 	Se pare că lucrurile sunt confuze . 
+1662	Powers . 	Powers . 
+1663	What use is he , sir ? 	Ce vreţi să spuneţi , dle ? 
+1664	You want him back for punitive reasons ? 	Îl vreţi înapoi în scopuri punitive . 
+1665	What 's done is done . 	Ce a fost a fost . 
+1666	He has divulged what he will divulge , as no doubt Abel has also . 	A dezvăluit ce trebuia să dezvăluie şi , probabil , Abel a făcut la fel . 
+1667	We are offering instead someone who you insist is innocent . 	Oferim în schimb , pe cineva care insişti că e nevinovat . 
+1668	And this is right . 	Şi ai dreptate . 
+1669	This is who you should retrieve . 	Asta trebuie să schimbăm . 
+1670	The future . 	Viitorul . 
+1671	Look to the future . 	Uită- te la viitor . 
+1672	Ott . 	Ott . 
+1673	Ott . 	Ott . 
+1674	I 'm sorry . 	Îmi pare rău . 
+1675	If you could give me a moment , sir . 	Mă scuzaţi un minut , domnule ? 
+1676	I 'm very sorry , sir . 	Îmi pare rău , domnule . 
+1677	The attorney general regrets that he had to leave on urgent business . 	Procurorul General regretă că a trebuit să plece de urgenţă . 
+1678	He left ? 	A plecat ? 
+1679	Yes . 	Da . 
+1680	Many apologies . 	Îmi pare rău . 
+1681	I' ve been waiting for over an hour . 	- Am aşteptat timp de o oră . 
+1682	Very sorry , sir . 	- Îmi pare rău , domnule . 
+1683	Young man . 	Tinere . 
+1684	Come here . 	Vino aici . 
+1685	It 's all right . 	E în regulă . 
+1686	Come here . 	Vino aici . 
+1687	Uh ... 	
+1688	Take a seat . 	Stai jos . 
+1689	Oh , come on , come on . 	Haide , vino . 
+1690	Sit down . 	Stai jos . 
+1691	Do you like your job here ? 	Îţi place slujba ta de aici ? 
+1692	It 's a very good job , sir . 	Este un loc de muncă grozav , dle . 
+1693	It must be . 	Trebuie să fie . 
+1694	Must be interesting . 	Ar trebui să fie interesant . 
+1695	Oh , yes , sir . 	- Da , domnule . 
+1696	And important , too . 	- Şi e şi important . 
+1697	And your English is ... 	Şi engleza ta e bună . 
+1698	Is good . 	Da , mă tem că nu vorbesc foarte bine , dar ... 
+1699	Yes , I hesitate to say it 's excellent . 	Da , mă tem că nu vorbesc foarte bine , dar ... 
+1700	But it 's excellent , sir . 	Da , mă tem că nu vorbesc foarte bine , dar ... 
+1701	Good , good . 	Bun , bun . 
+1702	Good . 	Bun , bun . 
+1703	See , I just lost my negotiating partner , and I need somebody to talk to , and you seem like a reasonable young man . 	Ştii , mi- am pierdut partenerul de negociere şi trebuie să vorbesc cu cineva , şi pari un tânăr sensibil . 
+1704	Can I talk to you ? 	Pot să vorbesc cu tine ? 
+1705	Uh ... 	
+1706	It 's all right . 	E în regulă . 
+1707	It 's all right . 	E în regulă . 
+1708	I just ... 	E în regulă . 
+1709	I just need you to give a message to your boss . 	Trebuie doar să transmiţi un mesaj şefului tău . 
+1710	But it has to be very , very , very clear . 	Dar trebuie să fie foarte , foarte clar . 
+1711	You understand ? 	Ai înţeles ? 
+1712	Yes , sir . 	Da , domnule . 
+1713	But perhaps you should wait until he ... 	Dar poate ar trebui să aşteptaţi până ... 
+1714	No , no . 	Nu , nu . 
+1715	The thing is , I have this cold and I wanna get home and get in bed . 	Ideea e că sunt răcit şi vreau să merg acasă . Să mă bag în pat . 
+1716	Can you give him the message ? 	Poţi transmite mesajul ? 
+1717	Certainly . 	Bineînţeles . 
+1718	Well , this is the message . 	Iată mesajul . 
+1719	" There is no deal for Abel unless we get Powers and Pryor . " 	" Nu există nici un acord pentru Abel decât dacă- i primim pe Pryor şi Powers . " 
+1720	Do you understand ? 	- Ai înţeles ? 
+1721	Yes , sir . 	- Da , domnule . 
+1722	It 's arranged for tomorrow morning . 	Întâlnirea programată pentru mâine dimineaţă nu va avea loc decât dacă- i primim pe ambii . 
+1723	It will not happen unless we get two men . 	Întâlnirea programată pentru mâine dimineaţă nu va avea loc decât dacă- i primim pe ambii . 
+1724	Those two men . 	Pe cei doi bărbaţi . 
+1725	Two , two , two . 	- Doi , doi . 
+1726	Yes , sir . 	- Da , domnule . 
+1727	If there is no deal , your boss must tell the Soviets . 	Dacă nu există niciun acord , şeful tău trebuie să- i informeze pe sovietici . 
+1728	He has to tell the Soviets that they are not getting Rudolf Abel . 	Trebuie să le spună sovieticilor că nu- l vor primi pe Rudolf Abel . 
+1729	Yes , sir . 	Da , domnule . 
+1730	Oh , and tell him this . 	Şi spune- i ... că până acum , Abel a fost un soldat bun , dar crede că se duce acasă . 
+1731	That so far , Abel has been a good soldier , but he thinks he 's going home . 	Şi spune- i ... că până acum , Abel a fost un soldat bun , dar crede că se duce acasă . 
+1732	If we had to tell him that he 's not going home , that the Soviets don 't even want him , that he 's never going home ... 	Dacă trebuie să- i spunem că nu va merge acasă , şi că sovieticii n- au vrut niciodată să se întoarcă acasă , îmi imaginez că i se poate schimba comportamentul . 
+1733	Well , I imagine his behavior might change . 	Dacă trebuie să- i spunem că nu va merge acasă , şi că sovieticii n- au vrut niciodată să se întoarcă acasă , îmi imaginez că i se poate schimba comportamentul . 
+1734	And who will be held responsible for that ? 	Cine va fi răspunzător pentru asta ? 
+1735	That 's a long message . 	Este un mesaj lung . 
+1736	Uh , did you get it all ? 	- Ai înţeles ? 
+1737	Yes , sir . 	- Da , domnule , am înţeles . 
+1738	Got it . 	- Da , domnule , am înţeles . 
+1739	Good . 	Bun . 
+1740	You 're a good man . 	Eşti un băiat bun . 
+1741	Oh ... 	
+1742	And also tell him there 's no deal unless we hear before the end of business today . 	Şi spune- i , că nu va fi un acord , dacă nu vorbim azi până la sfârşitul orelor de program . 
+1743	He has the number . 	Are numărul meu . 
+1744	If the exchange isn 't gonna happen , no reason for everybody to get up first thing in the morning . 	Dacă nu are loc schimbul , n- are rost să ne sculăm cu toţii mâine atât de devreme . 
+1745	No , sir , that would be pointless . 	Nu , domnule . Ar fi inutil . 
+1746	You 're kidding me ! 	Glumeşti ! 
+1747	You 're kidding me ! 	Glumeşti ! 
+1748	Not really . 	Ba nu . 
+1749	I need some change . 	Am nevoie de mărunţiş . 
+1750	This is exactly what you weren 't supposed to do . 	Asta e exact ce nu trebuia să faci . 
+1751	My instructions were to feel out the situation . 	Instrucţiunile mele au fost să rezolv situaţia . 
+1752	Your instructions were to get Powers , not Pryor . 	Instrucţiunile tale au fost să- l obţii pe Powers , nu pe Pryor . 
+1753	That was not the original deal . 	Acest lucru nu era în acordul iniţial . 
+1754	You fouled it all up ! 	Ai aruncat totul în aer ! 
+1755	How do you know ? 	De unde ştii ? 
+1756	I feel pretty good about it . 	Sunt optimist cu privire la asta . 
+1757	You fucked it all up ! 	- Ai aruncat totul în aer ! 
+1758	Oh , don 't worry . 	- M- am descurcat bine . 
+1759	I think it 's gonna be fine . 	Cred că va fi bine . 
+1760	How do you know ? 	De unde ştii ? 
+1761	You don 't know that . 	Nu ştii asta . 
+1762	United States . 	Statele Unite . 
+1763	New York , New York . 	New York , NY . 
+1764	Danke . 	Danke . 
+1765	Look , this whole thing has been to feel me out . 	Ascultă , toată această poveste e pentru a mă testa . 
+1766	Would I swap one for one and which one ? 	Dacă schimb unu la unu , care ar fi acela ? 
+1767	But I said " No , two for one . " 	Dar am spus , " Nu , doi la unu . " 
+1768	So they know where we stand . 	Aşa că ei ştiu care ne e poziţia . 
+1769	Yeah , what if they think about it and say , uh ... 	Da , şi dacă se gândesc şi spun , 
+1770	" Forget it ! 	" Lăsaţi- o baltă ! 
+1771	You keep our guy , we keep your guys " ? 	Ţineţi- ne omul , noi îl ţinem pe al vostru . " 
+1772	Well , then I have fucked it all up . 	Atunci voi fi cu sufletul la gură . 
+1773	Hey , honey ! 	Bună , iubito ! 
+1774	It 's me . 	Eu sunt ! 
+1775	Yeah . 	Da , pescuitul a fost minunat . 
+1776	The fishing 's been great . 	Da , pescuitul a fost minunat . 
+1777	I 'm in London , just for one more meeting , then I 'm on my way home . 	Sunt la Londra . Mai am o întâlnire şi apoi vin acasă . 
+1778	Yeah , yeah , I remember that marmalade . 	Da , îmi amintesc de marmelada aia . 
+1779	It 's that shop right by Regent 's Park . 	La magazinul ăla de lângă Regent Park . 
+1780	All right , I will if I have the time . 	Bine , o voi face dacă voi avea timp . 
+1781	Hey , can I say hi to Roger ? 	Pot vorbi cu Roger ? 
+1782	Could I say hi to the girls ? 	Le pot saluta pe fete ? 
+1783	Is anyone not busy ? 	E cineva care nu- i ocupat ? 
+1784	Have they even noticed I 'm not around ? 	Şi- au dat seama că nu sunt acasă ? 
+1785	We 're on . 	S- a făcut . 
+1786	Two for one . 	Doi pentru unul . 
+1787	Hot dog . 	Am reuşit . 
+1788	Let 's have a drink . 	Hai să bem ceva . 
+1789	One wrinkle . 	- E o problemă . 
+1790	What is that ? 	- Şi anume ? 
+1791	They won 't release Pryor with Powers , not at the bridge . 	Nu- l vor elibera pe Pryor cu Powers , nu pe pod . 
+1792	They 'll release him at the same time . 	Îl vor elibera în acelaşi timp . 
+1793	When the Russians give us Powers on the bridge , they 'll release Pryor over Checkpoint Charlie . 	Când ruşii vor veni cu Powers pe pod , ei îl vor elibera pe Pryor la punctul de control Charlie . 
+1794	What does that mean ? 	Ce înseamnă asta ? 
+1795	I think it means , " We wanna have the last word . " 	Cred că înseamnă că nu vom avea ultimul cuvânt . 
+1796	But they will do it . 	Dar sunt de acord . 
+1797	You tell me . 	Tu să- mi spui , tu ai tratat cu ei . 
+1798	You felt them out . 	Tu să- mi spui , tu ai tratat cu ei . 
+1799	Where are they ? 	Unde sunt ? 
+1800	Where 's our guy ? 	Cât e ora ? 
+1801	Where 's our guy ? 	Cât e ora ? 
+1802	They 're late . 	Au întârziat . 
+1803	Nobody 's late . 	N- a întârziat nimeni . 
+1804	We 're early . 	Am ajuns noi mai devreme . 
+1805	May I ? 	- Se poate ? 
+1806	Yeah . 	- Se poate ? 
+1807	Hoffman . 	- Hoffman ... 
+1808	Yeah ? 	- Hoffman ... 
+1809	I think they have ... 	Cred că au ... 
+1810	What ? ... snipers . 	Ce ? Lunetişti . 
+1811	Well , I 'm sure they do . 	Bineînţeles că au . 
+1812	How are you sure they do ? 	De ce " bineînţeles " ? 
+1813	Because we have snipers . 	Pentru că şi noi avem lunetişti . 
+1814	Step out , sir . 	Coborâţi , dle . 
+1815	Jim . 	Jim . 
+1816	Dear Jim . 	Dragă Jim . 
+1817	How are you ? 	Ce mai faci ? 
+1818	Happy to see you . 	Mă bucur să te văd . 
+1819	Have you arranged all this for me ? 	Ai aranjat toate astea pentru mine ? 
+1820	Well , let 's see what this is before I ... 	Să vedem cum merge înainte de a primi laude . 
+1821	I take credit for it . 	Să vedem cum merge înainte de a primi laude . 
+1822	Any word about Pryor from Checkpoint Charlie ? 	Vreo veste despre Pryor de la punctul de control Charlie ? 
+1823	Nothing cooking yet . 	Nu s- a întâmplat nimic încă . 
+1824	Excuse me , sir . 	Scuzaţi- mă , domnule . 
+1825	This is Lieutenant Joe Murphy , United States Air Force , here to identify Powers . 	Acesta este locotenentul Joe Murphy din forţele aeriene . A venit pentru a- l identifica pe Powers . 
+1826	Lieutenant Murphy . 	- Locotenent Murphy . 
+1827	Sir . 	- Locotenent Murphy . 
+1828	There may be a slight glitch . 	S- ar putea să fie o mică problemă . 
+1829	I was a young man when I left . 	Eram tânăr când am plecat . 
+1830	Who will they find to identify me ? 	Pe cine au găsit să mă identifice ? 
+1831	Well , I hope it 's not your East German family . 	Sper că nu e familia ta din Germania de Est . 
+1832	I doubt they could identify each other . 	Mă îndoiesc că vă puteţi identifica reciproc . 
+1833	Looks like our party . 	Se pare că au sosit . 
+1834	Well , let 's go . 	Ei bine , să mergem . 
+1835	You can stay here , Donovan . 	Poţi rămâne aici , dle Donovan . 
+1836	Not likely . 	În nici un caz . 
+1837	Open the gate . 	Deschideţi bariera . 
+1838	What do you think will happen when you get home ? 	Ce crezi că se întâmplă când ajungi acasă ? 
+1839	Uh , I think ... 	Cred că ... o să beau vodcă . 
+1840	I' ll have a vodka . 	Cred că ... o să beau vodcă . 
+1841	Yeah . 	
+1842	Yeah . 	
+1843	But , Rudolf , is there not the possibility ... 	Dar Rudolf , mai este o posibilitate . 
+1844	That my people are going to shoot me ? 	Ca oamenii mei să mă împuşte ? 
+1845	Yes . 	Da . 
+1846	You 're not worried ? 	- Nu eşti îngrijorat . 
+1847	Would it help ? 	- Nu eşti îngrijorat . 
+1848	To answer your question , my friend , 	Pentru a răspunde la întrebarea ta , prietene , am acţionat onorabil . 
+1849	I acted honorably . 	Pentru a răspunde la întrebarea ta , prietene , am acţionat onorabil . 
+1850	I think they know that . 	Cred că ei o ştiu . 
+1851	But sometimes people think wrong . 	Dar , uneori , oamenii înţeleg greşit . 
+1852	People are people . 	Oamenii sunt oameni . 
+1853	Let 's see how they greet me . 	Să vedem cum mă vor primi . 
+1854	What can I look for ? 	La ce să mă uit ? 
+1855	If I 'm embraced or just shown the back seat . 	Dacă sunt îmbrăţişat , sau pus pe bancheta din spate . 
+1856	Da . 	
+1857	Take off the hat . 	Dă- ţi jos căciula . 
+1858	Hey , Powers . 	Salut , Powers . 
+1859	Hey , Murph . 	Salut , Murph . 
+1860	Yeah , that 's Powers . 	Da , e Powers . 
+1861	All right , Mr . 	Bine , domnule Donovan . 
+1862	Donovan . 	Bine , domnule Donovan . 
+1863	We go now ! 	Pornim acum ! 
+1864	Hang on . 	Aşteptaţi . 
+1865	Believe me , I will tell you . 	Crede- mă , o să- ţi spun . 
+1866	There 's no one here . 	Nu e nimeni aici . 
+1867	They 're releasing another man at Checkpoint Charlie . 	Vor elibera un alt bărbat la punctul de control Charlie . 
+1868	We 're just confirming that he 's there . 	Tocmai mi- a confirmat că nu e acolo . 
+1869	Now ! 	Acum ! 
+1870	As per plan , if you please . 	După cum s- a convenit , vă rog . 
+1871	Let 's go . 	Să mergem . 
+1872	Pryor will show up or he won 't . 	Pryor va apărea sau nu . 
+1873	Let 's go . 	Să mergem . 
+1874	They 're waiting to see if we 'll do it without him . 	Aşteaptă să vadă dacă plecăm fără el . 
+1875	We just have to stand here , show them we won 't . 	Vom rămâne aici să le arătăm că nu o vom face . 
+1876	I don 't give a shit what they want . 	Nu- mi pasă ce vor . 
+1877	We have our objective . 	Avem obiectivul nostru . 
+1878	Go ahead , Abel . 	Avem obiectivul nostru . 
+1879	Go ahead , sir . 	Dă- i drumul , domnule . 
+1880	You can go . 	Poţi pleca . 
+1881	If it is not to plan , we go home . 	Dacă n- o facem , plecăm acasă . 
+1882	We exchange now or we go home ! 	Facem schimbul acum , sau mergem acasă . 
+1883	You 're waiting for another man ? 	- Aşteptăm un alt bărbat ? 
+1884	Yup . 	- Aşteptăm un alt bărbat ? 
+1885	You want him , too . 	Şi îl vrei tu . 
+1886	I want him . 	Îl vreau . 
+1887	Doesn 't matter what he wants , sir . 	Nu contează ce vrea el , domnule . 
+1888	I 'm in charge and you are free to go . 	Eu sunt şeful , şi eşti liber să pleci . 
+1889	Please go . 	Plecaţi , vă rog . 
+1890	Walk across . 	Traversaţi podul . 
+1891	I can wait . 	Pot aştepta . 
+1892	It 's something . 	Văd ceva . 
+1893	I 'm not sure yet . 	Încă nu sunt sigur . 
+1894	Hang on ! 	Aşteptaţi ! 
+1895	Let 's go . 	
+1896	We got him ! 	E la noi ! 
+1897	Uh , I , uh ... 	
+1898	I sent you a gift , Jim . 	Ţi- am trimis un cadou , Jim . 
+1899	It 's a ... 	
+1900	It 's a painting . 	E un tablou . 
+1901	I hope it has some meaning to you . 	Sper să- ţi placă . 
+1902	I 'm sorry . 	Îmi pare rău , nu m- am gândit să- ţi iau un cadou . 
+1903	I didn 't think to get you a gift . 	Îmi pare rău , nu m- am gândit să- ţi iau un cadou . 
+1904	This is your gift . 	Ăsta e cadoul tău . 
+1905	This is your gift . 	Ăsta e cadoul tău . 
+1906	You okay ? 	
+1907	Let 's go , let 's go , let 's go ! 	Hai , hai , hai . 
+1908	Mr . 	Dle Donovan . 
+1909	Donovan . 	Dle Donovan . 
+1910	Colonel Abel asked me to give this to you . 	Colonelul Abel mi- a cerut să- ţi dau asta . 
+1911	Pardon me , sir . 	Scuzaţi- mă , domnule . 
+1912	Were you in charge of this thing , sir ? 	Sunt responsabil pentru asta , domnule ? 
+1913	Yeah . 	Da . 
+1914	Well , I gotta thank you . 	Trebuie să vă mulţumesc . 
+1915	I gotta thank somebody . 	Trebuie să mulţumesc cuiva . 
+1916	I gave them nothing . 	N- am spus nimic . 
+1917	I gave them nothing . 	Nu le- am spus nimic . 
+1918	It doesn 't matter . 	Nu contează . 
+1919	It doesn 't matter what people think . 	Indiferent ce cred oamenii , ştii ce ai făcut . 
+1920	You know what you did . 	Indiferent ce cred oamenii , ştii ce ai făcut . 
+1921	Welcome home . 	Bine ai venit . 
+1922	What a trip . 	Călătoria asta ... 
+1923	Mmm . 	
+1924	Mmm . 	
+1925	You okay ? 	Ţi- a trecut răceală ? 
+1926	Yeah , I 'm fine . 	Da , sunt bine . 
+1927	Did you get the marmalade ? 	Ai adus marmeladă ? 
+1928	Yes , yes . 	Am adus , desigur . 
+1929	Yep . 	Am adus , desigur . 
+1930	Yep . 	Da ... am adus . 
+1931	I did . 	Da ... am adus . 
+1932	As ordered . 	După cum ai comandat . 
+1933	Jim . 	Jim . 
+1934	This is from Arno 's . 	- E de la Arno . - Şi ce ? 
+1935	So ? 	
+1936	On the corner ! 	De la colţ ! 
+1937	Well , honey , I was busy . 	Scumpo , am fost ocupat . 
+1938	I 'm sorry . 	Îmi pare rău . 
+1939	We were so busy . 	Nu se poate . 
+1940	Oh , for Pete 's sake . 	Ce face Roger ? 
+1941	How 's Roger ? 	Ce face Roger ? 
+1942	Is he home ? 	E acasă ? 
+1943	He 's home . 	E acasă . 
+1944	Carol 's home , Peggy 's home . 	Carol şi Peggy , sunt şi ele acasă . 
+1945	Everyone 's home . 	Carol şi Peggy , sunt şi ele acasă . 
+1946	Mom ! 	Mamă ! 
+1947	Come quick ! 	Vino repede ! 
+1948	Look ! 	Uite ! 
+1949	- Mom , come here ! 	Mamă , vino aici ! 
+1950	- Mom , come here ! 	Mamă , vino aici ! 
+1951	- Come see this ! 	Vino să vezi asta ! Uită- te ! 
+1952	Look ! 	Haide ! 
+1953	Watch ! 	Haide ! 
+1954	- Come on ! 	Haide ! 
+1955	Francis Gary Powers has been released from prison in the Soviet Union and turned over to American authorities early this morning in Berlin . 	Francis Gary Powers a fost eliberat din închisoarea din Uniunea Sovietică şi a fost transferat în custodia SUA în această dimineaţă , la Berlin . 
+1956	The President has commuted the sentence of Rudolf Abel . 	Preşedintele a comutat condamnarea lui Rudolf Abel . 
+1957	Mr . 	Domnul Abel a fost expulzat şi eliberat în Berlin . 
+1958	Abel has been deported and has been released in Berlin . 	Domnul Abel a fost expulzat şi eliberat în Berlin . 
+1959	Efforts to obtain Mr . 	Încercările de eliberare a domnului Powers erau în curs de desfăşurare de ceva timp . 
+1960	Powers´ release had been underway for some time . 	Încercările de eliberare a domnului Powers erau în curs de desfăşurare de ceva timp . 
+1961	In recent efforts , the United States government has had the cooperation and assistance of Mr . 	În acest efort , guvernul SUA a avut cooperarea şi sprijinul domnului James B . 
+1962	James B . 	În acest efort , guvernul SUA a avut cooperarea şi sprijinul domnului James B . 
+1963	Donovan , a New York attorney . 	În acest efort , guvernul SUA a avut cooperarea şi sprijinul domnului James B . 
+1964	Frederic L . 	Frederic L . 
+1965	Pryor , an American student held by East German authorities since August of 1961 ... 	Pryor , un student american , deţinut de autorităţile est germane din august 1961 ... 
+1966	I thought Daddy was fishing . 	Am crezut că tata era la pescuit . 
+1967	For salmon . 	La somon . 
+1968	Abel now has disappeared into the communist world . 	Abel a dispărut acum în lumea comunistă . 
+1969	Powers is here , answering questions . 	Powers este aici pentru a răspunde la întrebări şi Donovan s- a întors ... 
+1970	And Donovan has gone back to his law practice . 	
+1971	And now , here is George Fenneman , speaking for the Douglas Fir Plywood Association . 	

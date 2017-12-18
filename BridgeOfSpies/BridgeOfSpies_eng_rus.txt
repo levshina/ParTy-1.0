@@ -1,0 +1,1971 @@
+1	The next stop is Broad Street . 	Следующая остановка - Брод- стрит . 
+2	Broad Street will be next . 	Брод- стрит - следующая остановка . 
+3	Upstairs . 	Наверх . 
+4	This way . 	Сюда . 
+5	He didn 't come up this way ? 	Он не поднялся здесь ? 
+6	Anything ? 	Он не поднялся здесь ? 
+7	He 's not up here . 	Здесь его нет . 
+8	Go back down . 	Вернемся вниз . 
+9	Excuse me . 	- Простите . 
+10	Excuse me . 	- Простите . 
+11	Go ahead and park around the corner . 	Остановитесь за углом . 
+12	Visitors . 	Гости . 
+13	Do you mind if I fetch my teeth ? 	Можно взять мои вставные зубы ? 
+14	Colonel , would you turn around , please ? 	Полковник , можете развернуться ? 
+15	Sit down on the bed . 	- Сядьте на кровать . 
+16	Let 's go . 	- Сядьте на кровать . 
+17	Uh , they 're in the ... 	Они ... 
+18	The teeth are in the ... 	Зубы на раковине . 
+19	On the sink . 	Зубы на раковине . 
+20	Look at me . 	Смотрите на меня . 
+21	We are agents from the Federal Bureau of Investigation . 	Мы агенты Федерального бюро расследований . 
+22	Look at me ! 	Смотрите на меня ! 
+23	I 'm talking to you . 	Я с вами разговариваю . 
+24	We 've received information concerning your involvement in espionage . 	Мы получили информацию о вашей шпионской деятельности . 
+25	You can either cooperate with us right now , or you 'll be under arrest . 	Либо начнете сотрудничать с нами , либо будете арестованы . 
+26	Do you understand , Colonel ? 	Вы понимаете , полковник ? 
+27	No , not really . 	Нет , не очень . 
+28	Why do you keep calling me " Colonel " ? 	Почему вы называете меня полковником ? 
+29	You need to get dressed . 	Вам нужно одеться . 
+30	We have to search your apartment . 	Мы должны обыскать ваш номер . 
+31	Would you mind if I , uh , cleaned my palette ? 	Можно очистить мою палитру ? 
+32	The paints , it 'll get ruined otherwise . 	Там краска . Палитра испортится . 
+33	It 's just behind you there . 	Она у вас за спиной . 
+34	I have a cloth myself . 	У меня есть тряпка . 
+35	Thank you . 	Спасибо . 
+36	All right , start searching the place . 	Начинайте обыск . 
+37	Thank you . 	Спасибо . 
+38	All right , search the mattress , the bed , the floorboards , his chair . 	Ищите в матрасе , в кровати , под полом , в кресле . 
+39	Would you put that in the ashtray on the windowsill there ? 	Положите это в пепельницу 
+40	Take a good look at that desk . 	- на подоконнике ? 
+41	Let 's see the desk . 	Проверим стол . 
+42	Wouldn 't want to get this ruined . 	Не хочу испортить палитру . 
+43	Don 't say " my guy . " 	Не говорите " мой клиент " . 
+44	He 's not " my guy . " 	Он не мой клиент . Он ваш клиент . 
+45	Yes , he 's " your guy . " 	О ком же еще речь ? 
+46	Who are we talking about ? 	О ком же еще речь ? 
+47	We 're talking about a guy who was insured by my client . 	Речь о человеке , которого застраховал мой клиент . 
+48	So , don 't make him " my guy . " 	Это не значит , что он мой клиент . 
+49	Okay , fine . 	Ну хорошо . 
+50	My point is , the guy insured by your client , he doesn 't deny that any of these things happened . 	Суть в том , что человек , застрахованный вашим клиентом , не отрицает своего участия в этих происшествиях . 
+51	" These ... 	" В этих происшествиях " ? 
+52	These things " ? 	" В этих происшествиях " ? 
+53	Yes , these five things . 	Да , в пяти происшествиях . 
+54	Wait , hold it , hold it , hold it . 	Постойте . 
+55	Not five things . 	Не в пяти . 
+56	One thing . 	В одном . 
+57	Clearly , it 's five things . 	Очевидно , что в пяти . 
+58	Well , I 'm sorry , it 's not clear to me . 	Простите , но мне это не очевидно . 
+59	Five things ? 	Пять происшествий ? 
+60	Explain it to me . 	Объясните . 
+61	It 's self- evident . 	Это само собой разумеется . 
+62	Okay , then tell me what happened . 	Ладно , расскажите , что произошло . 
+63	Tell me the story in a way that makes sense for five things . 	Объясните , почему речь идет о пяти происшествиях . 
+64	Fine , absolutely . 	Прекрасно . 
+65	Your guy is ... 	Ваш клиент ... 
+66	Not my guy . 	Не мой . 
+67	Insured by my client . 	Застрахован моим клиентом . 
+68	The guy insured by your client is driving down State Highway 19 when he loses control of his car and hits my five guys , the five guys who hired me to represent them because you 're not honoring your claim . 	Клиент вашего клиента ехал по автостраде 1 9 , не справился с управлением и сбил пять моих клиентов , которые попросили меня представлять их интересы , так как вы не возмещаете ущерб по иску . 
+69	You mean my client is not honoring the claim , the insurance company ? 	Мой клиент не возмещает ущерб ? Страховая компания ? 
+70	Mr . 	М- р Донован , мы же понимаем , кто есть кто . 
+71	Donovan , we 're all clear on who 's who , here . 	М- р Донован , мы же понимаем , кто есть кто . 
+72	Except my client honors every claim . 	Но мой клиент всегда возмещает ущерб . 
+73	They do , Mr . 	Это так , м- р Бейтс . 
+74	Bates . 	Это так , м- р Бейтс . 
+75	Every single legitimate claim , up to the limit of their liability , which is $100, 000 per accident , in the case of this man 's policy . 	По каждому законному иску в пределах его ответственности , что в случае со страховкой этого человека составляет по 1 00 тысяч на аварию . И это один иск . 
+76	And this is one claim . 	
+77	According to your description , " He hit my five guys . " 	Как вы сами сказали , " он сбил пять человек " . 
+78	The guy insured by my client had one accident . 	Человек , застрахованный моим клиентом , попал в одну аварию . 
+79	One , one , one . 	Одну , одну , одну . 
+80	Losing control of the car and hitting five motorcyclists . 	Он не справился с управлением и сбил пять мотоциклистов . 
+81	From their point of view , five things happened . 	С их точки зрения , произошло пять происшествий . 
+82	Well , look , Bob . 	Послушайте , Боб . 
+83	May I ? 	Можно так ? 
+84	Bob ? 	Можно так ? 
+85	" Jim . " 	" Джим " . 
+86	If I go bowling and I throw a strike , one thing happened . 	Если я пойду в боулинг и выбью страйк , это одно происшествие . 
+87	Ten things didn 't happen . 	А не десять . 
+88	Jim , my guys aren 't bowling pins , as much as your guy may have treated them as such . 	Джим , мои клиенты - не кегли в боулинге , пусть ваш клиент и обошелся с ними как с кеглями . 
+89	If ... 	Позвольте закончить . 
+90	Let me finish . 	Позвольте закончить . 
+91	Let me finish . 	Позвольте закончить . 
+92	If your house is insured for $100, 000 and a tornado carries it away , it carried away one house . 	Если ваш дом застрахован на 1 00 тысяч , и его унес смерч , то он унес один дом . 
+93	It didn 't pick up every stick of furniture and destroy it in a separate incident . 	Он не забрал каждый предмет мебели и не разрушил их по отдельности . 
+94	If that is what you 're saying , well , then there is never any limit to our liability and that is the end of the insurance business . 	Если вы утверждаете обратное , значит , нет предела нашей ответственности , и это означает конец страхового бизнеса . 
+95	And then , Bob , nobody is safe . 	И тогда никто ни от чего не застрахован . 
+96	Watters , Cowan and Donovan . 	" Уоттерс , Коуэн и Донован " . 
+97	How may I direct your call ? 	С кем вас соединить ? 
+98	Morning , Mr . 	Доброе утро , м- р Донован . 
+99	Donovan . 	Доброе утро , м- р Донован . 
+100	Good morning , Alison . 	Доброе утро , Элисон . 
+101	I moved your 9 : 00 a . m . with Prudential , sir . 	Я перенесла вашу встречу с " Пруденшл " , сэр . 
+102	Why did you do that ? 	Почему вы это сделали ? 
+103	I asked her to . 	Я попросил ее . 
+104	Is everything all right , Tom ? 	Том , все в порядке ? 
+105	Why don 't you leave your stuff with Alison . 	Оставь свои бумаги у Элисон . 
+106	Come on inside . 	Зайди ко мне . 
+107	Something pretty important has come up . 	Произошло нечто важное . 
+108	Somebody 's here to see us . 	К нам пришли . 
+109	Natalie 's getting your coffee . 	Натали сделает тебе кофе . 
+110	Nescafe , cream , two lumps , right ? 	" Нескафе " , сливки , два кусочка сахара , так ? 
+111	That 's right . 	Правильно . 
+112	Thanks . 	Спасибо . 
+113	Lynn ! 	- Линн ! 
+114	Jim ! 	- Джим ! 
+115	Nice to see you again . 	Рад тебя видеть . 
+116	How 's the family ? 	Как семья ? 
+117	Great , good . 	Хорошо , спасибо . 
+118	Thanks . 	Хорошо , спасибо . 
+119	How 's Annie ? 	Как Энни ? 
+120	Homicidal . 	Поубивать всех готова . 
+121	We had the in- laws for the holiday . 	У нас гостили ее родители . 
+122	Well , if she acts on it , she 'll have good representation . 	Если она это сделает , у нее будет хорошая защита . 
+123	Now , what 's up ? 	Что нового ? 
+124	Okay , here 's the thing . 	Итак , дело вот в чем . 
+125	The Soviet spy they caught , we want you to defend him . 	Мы хотим , чтобы ты защищал задержанного советского шпиона . 
+126	Here 's the indictment . 	Вот обвинительный акт . 
+127	Wow . 	
+128	I 'm not sure I wanna pick that up . 	Не уверен , что хочу за это браться . 
+129	The accused doesn 't know any lawyers . 	Обвиняемый не знает ни одного адвоката . 
+130	The federal court tossed it into our lap . 	Федеральный суд подбросил это дело нам . 
+131	The Bar Committee took a vote . 	Проголосовала коллегия адвокатов . 
+132	You 're the unanimous choice . 	Тебя выбрали единогласно . 
+133	It was important to us ... 	Для нас было важно ... 
+134	It 's important to our country , Jim , that this man is seen as getting a fair shake . 	Джим , для нашей страны важно , чтобы его судили по справедливости . 
+135	American justice will be on trial . 	Это испытание для американского правосудия . 
+136	Well , of course , when you put it that way , it 's an honor to be asked . 	С такой формулировкой это предложение - большая честь . 
+137	But , Lynn , I 'm an insurance lawyer . 	Но , Линн , я страховой адвокат . 
+138	I haven 't done criminal work in years . 	Давно не брался за уголовные дела . 
+139	It 's like riding a bike , isn 't it ? 	Это ведь как ездить на велосипеде , верно ? 
+140	You distinguished yourself at Nuremberg . 	Ты замечательно выступил в Нюрнберге . 
+141	I was on the prosecution team . 	Я был в команде обвинения . 
+142	Not the point . 	Суть не в этом . 
+143	You 're no stranger to criminal law . 	Ты знаком с уголовным правом . 
+144	Jim , look at the situation . 	Подумай над ситуацией . 
+145	The man is publicly reviled . 	Его публично осыпают бранью . 
+146	And I will be , too . 	И меня тоже будут . 
+147	Yes , in more ignorant quarters . 	Да , самая невежественная публика . 
+148	But that 's exactly why this has to be done , and capably done . 	Но именно поэтому за это нужно взяться , причем как следует . 
+149	It can 't look like our justice system tosses people on the ash heap . 	Наша система правосудия не должна выглядеть беспринципной . 
+150	Suppose I did , what 's the evidence look like ? 	Допустим , я возьмусь . Что с доказательствами ? 
+151	Pretty overwhelming . 	Их предостаточно . 
+152	Great . 	Прекрасно . 
+153	Great . 	Прекрасно . 
+154	Everyone will hate me but at least I' ll lose . 	Меня будут ненавидеть , но зато я проиграю . 
+155	Well , what do you think , Tom ? 	Что скажешь , Том ? 
+156	The firm will suffer . 	Фирма пострадает . 
+157	I have work here . 	Здесь моя работа . 
+158	I think it 's a patriotic duty . 	Думаю , это патриотический долг . 
+159	It 's an important mission . 	Это важное поручение . 
+160	I told Lynn , the firm can 't say no , and you 'd have a tough time saying no , too . 	Я сказал Линну , что фирма не может отказаться , и тебе тоже было бы трудно отказаться . 
+161	I think you have to defend the son of a bitch . 	Думаю , ты должен защищать этого сукина сына . 
+162	So , you 're doing it ? 	Значит , вы согласились ? 
+163	Doing what ? 	На что ? 
+164	Defending Abel , the Soviet spy . 	Защищать Абеля , советского шпиона . 
+165	I may . 	Возможно . 
+166	I have to speak to ... 	Нужно поговорить ... 
+167	Wait , how do you know ? 	Стой , как ты узнал ? 
+168	Did they post it on the bulletin board ? 	Прочитал на доске объявлений ? 
+169	No , I ... 	Нет , я говорил с Ричардом Эрлом ... 
+170	I was talking to Richard Earl ... 	Нет , я говорил с Ричардом Эрлом ... 
+171	Look , if I do this , I 'm going to need your help . 	Если я возьмусь за это , мне понадобится твоя помощь . 
+172	Can you work tonight ? 	Можешь работать сегодня вечером ? 
+173	Well , I have a dinner date , sir . 	У меня свидание , сэр . 
+174	It 's Tuesday , right ? 	Сегодня вторник , да ? 
+175	Yeah , no , I 'm free , completely free . 	Нет , я совершенно свободен . 
+176	Thank you , sir . 	Спасибо , сэр . 
+177	But it 's also an honor . 	Но это еще и большая честь . 
+178	And the Bar Association asked me because they want to show that even a spy gets a capable advocate . 	Коллегия адвокатов попросила меня , чтобы показать , что даже шпионам дают хороших адвокатов . 
+179	Well , maybe it 's the kind of honor we could do without . 	Возможно , эта большая честь нам ни к чему . 
+180	Hey , honey , what are you doing home ? 	Дорогая , что ты делаешь дома ? 
+181	I got stood up . 	Меня продинамили . 
+182	Well , that 's despicable . 	Это омерзительно . 
+183	Who is this knot- head ? 	Кто этот болван ? 
+184	I 'd rather not say . 	Не хочу говорить . 
+185	Well , sit down . 	Садись . 
+186	We just started . 	Мы только сели за ужин . 
+187	People are scared . 	Люди напуганы . 
+188	They 're building bomb shelters to protect themselves from people like this man . 	Они строят бомбоубежища , чтобы прятаться от таких , как он . 
+189	I go to the store , people are buying canned food and potassium tablets . 	Я иду в магазин , а там все покупают консервы и таблетки с йодистым калием . 
+190	It 's all about this man and what he represents . 	Из- за этого человека и всего того , что он воплощает . 
+191	He 's a threat to all of us . 	Угрозу для всех нас . 
+192	A traitor . 	Он предатель . 
+193	Who 's a traitor ? 	- Кто предатель ? 
+194	The Rosenbergs were traitors . 	- Розенберги были предателями . 
+195	Who were they ? 	Кто это ? 
+196	They gave atomic secrets to the Russians . 	Они выдали русским наши атомные секреты . 
+197	They were Americans . 	Они были американцами и предали свою страну . 
+198	They betrayed their country . 	Они были американцами и предали свою страну . 
+199	You can 't accuse Abel of being a traitor . 	Но Абеля нельзя называть предателем . 
+200	He 's not an American . 	Он не американец . 
+201	Oh , listen to yourself . 	Послушай себя . 
+202	You 're defending him already . 	Ты уже его защищаешь . 
+203	You 're rehearsing it on me . 	Упражняешься на мне . 
+204	You said you were just thinking about taking it . 	Ты сказал , что лишь подумаешь над этим . 
+205	I am just thinking about it , just very hard . 	А я пока только думаю , просто очень напряженно . 
+206	Everyone deserves a defense . 	Каждый имеет право на защиту . 
+207	Every person matters . 	Каждый человек важен . 
+208	Jim , what do we deserve ? 	Джим , а мы на что имеем право ? 
+209	Do you know how people will look at us ? 	Ты знаешь , как на нас будут смотреть ? 
+210	The family of a man trying to free a traitor ? 	На родных того , кто хочет освободить предателя . 
+211	He 's not a traitor , Mary . 	- Он не предатель , Мэри . 
+212	Yes , yes . 	- Да , да . 
+213	Roger , get that ! 	- Роджер , открой ! 
+214	He 's not a traitor ... 	- Почему я должен все делать ? 
+215	Why do I have to do all the work ? 	- Почему я должен все делать ? 
+216	Oh ! 	- Не ешь до молитвы . 
+217	You wait till we say grace . 	- Не ешь до молитвы . 
+218	I 'm hungry ! 	- Хочу есть ! 
+219	He 's about the most unpopular man in this country , and you 're trying to take second place ! 	Он самый непопулярный человек в стране , а ты будешь вторым после него ! 
+220	Yeah , and I 'm third . 	Да , а я третьей . 
+221	Carol , you just dated the wrong guy . 	Кэрол , тебе просто не повезло с парнем . 
+222	I wanna eat . 	Кэрол , тебе просто не повезло с парнем . 
+223	Mary , don 't make this an argument when we 're not having an argument . 	Мэри , давай не будем спорить , если спора нет . 
+224	You 're against him , I 'm for him ? 	Ты против него , а я за него ? 
+225	No , I 'm not for him . 	Я не за него . 
+226	I 'm not for the Russians spying on us . 	Я против того , чтобы русские за нами шпионили . 
+227	I 'm for his right to have a defense in a court of law , which is why they call it a court of law . 	Я за его право на защиту в суде , ведь именно поэтому он называется судом . 
+228	I didn 't mean to interrupt dinner . 	Я не хотел помешать ужину . 
+229	A court of law ... 	Привет , Даг . 
+230	Hey , Doug . 	Привет , Даг . 
+231	Oh , no , not at all . 	Вовсе нет . Привет , Даг . 
+232	Hello , Doug . 	Джим просто разглагольствует . 
+233	Jim was just flailing . 	Джим просто разглагольствует . 
+234	I 'm not flailing . 	Я не разглагольствую . 
+235	Go ahead , Doug , you can join us for dinner . 	Даг , поужинай с нами . 
+236	We 're having meatloaf tonight . 	У нас мясной рулет . 
+237	So , you came over to help Jim think about whether he 's taking the case ? 	Ты пришел помочь Джиму подумать , браться ли за это дело ? 
+238	Oh , we 're taking it ! 	Мы беремся за него ! 
+239	It 's exciting , isn 't it ? 	Это интересно , не так ли ? 
+240	Lord , we thank thee for thy blessings we are about to receive . 	Господи , благодарю тебя за твои дары , которые ты послал . 
+241	Thy bounty through Christ , our Lord . 	За твою щедрость . 
+242	Amen . 	Аминь . 
+243	Good morning , sir . 	Доброе утро , сэр . 
+244	My name is Jim Donovan . 	Меня зовут Джим Донован . 
+245	These are my credentials . 	Это мои документы . 
+246	I am a partner in Watters , Cowan and Donovan . 	Я партнер в фирме " Уоттерс , Коуэн и Донован " . 
+247	I was admitted to the New York Bar in 1941 . 	Принят в ассоциацию адвокатов Нью- Йорка в 1 941 году . 
+248	You have been charged with three counts and 19 overt acts . 	Вас обвиняют по трем пунктам и 1 9 случаям преступных действий . 
+249	Conspiracy to transmit United States defense and atomic secrets to the Soviet Union , conspiracy to gather secrets , and failing to register as a foreign agent . 	В заговоре с целью передачи СССР атомных и оборонных секретов США , в сборе секретной информации и в отсутствии регистрации как иностранного агента . 
+250	Do many foreign agents register ? 	Много иностранных агентов регистрируется ? 
+251	If you don 't mind my asking , sir , since your arrest , where have you been ? 	Если позволите спросить , сэр , где вы находились после вашего ареста ? 
+252	I couldn 't say for certain . 	Точно сказать не могу . 
+253	You don 't know ? 	Вы не знаете ? 
+254	They drove me to an airport and put me on a plane , took me off the plane . 	Меня отвезли в аэропорт , посадили в самолет , вывели из самолета . 
+255	Somewhere hot . 	В каком- то жарком месте . 
+256	It 's hot here . 	Здесь жарко . 
+257	Hotter , very humid . 	В жарком и душном . 
+258	They put me in a room . 	Меня отвели в комнату . 
+259	Were you beaten ? 	Вас били ? 
+260	No . 	Нет . 
+261	I was talked to . 	Со мной говорили . 
+262	Offers were made . 	Мне делали предложения . 
+263	What do you mean ? 	Что это значит ? 
+264	Offers of employment , to work for your government . 	Предлагали работать на ваше правительство . 
+265	I was told if I cooperated , no further charges would be made against me . 	Сказали , что если буду сотрудничать , против меня не выдвинут обвинений . 
+266	And I would be given money . 	И дадут деньги . 
+267	Hmm . 	
+268	And you declined ? 	И вы отказались ? 
+269	As you see . 	Как видите . 
+270	Well , of course I can 't endorse that . 	Разумеется , я не могу это одобрить . 
+271	I feel duty- bound to urge you to cooperate with the U . S . government . 	По долгу службы обязан посоветовать вам сотрудничать с правительством США . 
+272	Well , I said no . 	Ну , я отказался . 
+273	Perhaps you could relay to your friends at the CIA that I meant it . 	Можете передать вашим друзьям из ЦРУ , что я говорил серьезно . 
+274	No , no , no . 	Нет- нет . 
+275	I ... 	Я не работаю на ЦРУ . 
+276	I don 't work for the agency . 	Я не работаю на ЦРУ . 
+277	I don 't work for the government . 	Я не работаю на правительство . 
+278	I am here to offer my services as your legal counsel . 	Я пришел предложить свои услуги в качестве адвоката . 
+279	If you accept them as such , 	Если вы примете мое предложение , я буду работать на вас . 
+280	I work for you . 	Если вы примете мое предложение , я буду работать на вас . 
+281	If I accept you ? 	Если я приму ваше предложение ? 
+282	Are you good at what you do ? 	А вы хороший адвокат ? 
+283	Yeah . 	Да . 
+284	Yeah , I 'm pretty good . 	Весьма хороший . 
+285	Have you represented many accused spies ? 	Вы часто защищали обвиненных в шпионаже ? 
+286	No , not yet . 	Нет , пока нет . 
+287	This will be a first for the both of us . 	Это будет первый опыт для нас обоих . 
+288	Yes . 	Да . 
+289	All right . 	Американская ассоциация адвокатов Хорошо . 
+290	" All right " ? 	" Хорошо " ? 
+291	You accept ? 	Вы согласны ? 
+292	Yes , all right . 	Да , хорошо . 
+293	Good , okay . 	Хорошо . 
+294	Let 's start here . 	Давайте начнем . 
+295	If you are firm in your resolve not to cooperate with the U . S . government ... 	Если вы твердо решили не сотрудничать с правительством США ... 
+296	I am . 	Да . 
+297	Yeah . 	Ясно . 
+298	Then do not talk to anybody else about your case , inside of government or out . 	Ни с кем не обсуждайте свое дело , будь то люди из правительства , или нет . 
+299	Except to me , to the extent that you trust me . 	Только со мной , в зависимости от степени вашего доверия . 
+300	I have a mandate to serve you . 	Мне поручено защищать вас . 
+301	Nobody else does . 	Больше никому . 
+302	Quite frankly , everybody else has an interest in sending you to the electric chair . 	Честно говоря , все остальные хотят отправить вас на электрический стул . 
+303	All right . 	Понятно . 
+304	You don 't seem alarmed . 	Не похоже , что вы беспокоитесь . 
+305	Would it help ? 	А это бы помогло ? 
+306	I ... 	
+307	I would like materials to draw with . 	Я хотел бы попросить материалы для рисования . 
+308	That 's not possible . 	Это невозможно . 
+309	A pencil , a piece of paper . 	Карандаш , лист бумаги . 
+310	Cigarettes . 	Сигареты . 
+311	Please ? 	Пожалуйста . 
+312	Mr . 	М- р Донован , люди вроде меня делают то же самое для вашей страны . 
+313	Donovan , you have men like me doing the same for your country . 	М- р Донован , люди вроде меня делают то же самое для вашей страны . 
+314	If they were caught , 	М- р Донован , люди вроде меня делают то же самое для вашей страны . 
+315	I 'm sure that you would wish them to be treated well . 	Если бы их поймали , уверен , что вам бы хотелось хорошего отношения к ним . 
+316	What 's your name ? 	Как вас зовут ? 
+317	Francis Gary Powers . 	Фрэнсис Гэри Пауэрс . 
+318	Rank , service ? 	Звание , род войск . 
+319	First Lieutenant , United States Air Force . 	Первый лейтенант , военно- воздушные силы США . 
+320	Do you have any association with the Soviet Union , Lieutenant Powers ? 	Вас что- либо связывает с Советским Союзом , лейтенант Пауэрс ? 
+321	Kidding ? 	Вы шутите ? 
+322	Just answer the questions , Lieutenant . 	Просто отвечайте на вопросы , лейтенант . 
+323	Yes , no , or as simply as you can . 	Да , нет , или как можно проще . 
+324	Do you have any association with the Soviet Union ? 	Вас что- либо связывает с Советским Союзом ? 
+325	Hell , no . 	Нет , черт возьми . 
+326	Do you know why you 're here ? 	Вы знаете , почему вы здесь ? 
+327	Mmm- mmm . 	
+328	Is that a no ? 	Это " нет " ? 
+329	Yes . 	Да . 
+330	I mean ... 	То есть ... 
+331	No , it 's just " no . " 	Нет , ответ " нет " . 
+332	Yes , I have absolutely no idea why I 'm here . 	Я совершенно не представляю , почему я здесь . 
+333	Eyes front , Lieutenant . 	- Смотрите прямо , лейтенант . 
+334	Yes , sir . 	- Смотрите прямо , лейтенант . 
+335	How 'd you do in there , Gary ? 	Как у тебя прошло , Гэри ? 
+336	Pretty good . 	Неплохо . 
+337	Think I got my name right . 	Смог произнести мое имя . 
+338	You probably outscored Shinn , then . 	Значит , лучше , чем у Шинна . 
+339	Who 's winning ? 	- Кто выигрывает ? 
+340	Uh , that would be me . 	- Я выигрываю . 
+341	Oh . 	- Я выигрываю . 
+342	Well , deal me in . 	Сдай на меня . 
+343	So , these are all mine , then . 	Значит , это все мое . 
+344	I told you boys not to play with him . 	Я говорил вам не играть с ним . 
+345	Okay , drivers , here 's the deal . 	Дело вот какое , летчики . 
+346	You 've been selected for a mission which you are not to discuss with anyone outside of this room . 	Вас выбрали для задания , которое вы не можете обсуждать ни с кем за пределами этой комнаты . 
+347	No one . 	Ни с кем . 
+348	I don 't care who you trust . 	Мне неважно , кому вы доверяете . 
+349	Wife , mother , sweetheart . 	Будь то жена , мать или любимая . 
+350	The good Lord when you pray at night . 	Или сам Господь Бог , когда вы молитесь . 
+351	You don 't tell any of them anything of what I 'm about to tell you . 	Вы не скажете никому из них ни слова о том , что я вам сейчас скажу . 
+352	Each of you drivers has met certain qualifications . 	Каждый из вас соответствует определенным требованиям . 
+353	High level security clearance . 	Допуск к секретной информации . 
+354	Exceptional pilot ratings in excess of the required hours flight time in a single- seat aircraft . 	Незаурядная летная квалификация с превышением нормы налета в одноместном самолете . 
+355	We are engaged in a war . 	Мы ведем войну . 
+356	This war does not , for the moment , involve men- at- arms . 	На данный момент эта война не затрагивает войска . 
+357	It involves information . 	Эта война затрагивает информацию . 
+358	You will be collecting information . 	Вы будете собирать информацию . 
+359	You will be gathering intelligence about the enemy . 	Вы будете собирать разведывательные данные о враге . 
+360	The intelligence you gather could give us the upper hand in a full thermonuclear exchange with the Soviet Union . 	Данные , которые вы соберете , могут дать нам преимущество в полномасштабном термоядерном конфликте с Советским Союзом . 
+361	Or it could prevent one . 	Или предотвратить такой конфликт . 
+362	For public purposes , as far as your wife or mother or sweetheart or the good Lord above , your mission does not exist . 	Для общественности , для вашей жены , матери , любимой или Господа Бога вашего задания не существует . 
+363	If it does not exist , you do not exist . 	Раз не существует задания , то и вас не существует . 
+364	You cannot be shot down . 	Вас не могут сбить . 
+365	You cannot be captured . 	Вас не могут взять в плен . 
+366	You work for the CIA now . 	Теперь вы работаете на ЦРУ . 
+367	So , Jim , I heard your guy is speaking with a phony accent . 	Джим , я слышал , ваш клиент говорит с фальшивым акцентом . 
+368	Does he keep that up all the time ? 	Он все время так делает ? 
+369	Actually , I 'm pretty sure that 's just the way he talks . 	Вообще- то , он говорит как мы с вами . 
+370	He 's got the Russian name but a British passport . 	У него русское имя , но британский паспорт . 
+371	Well , I doubt that that 's genuine . 	Сомневаюсь , что он настоящий . 
+372	So , Jim , where are we ? 	Итак , Джим , что там у нас ? 
+373	I see here ... 	Я вижу ... 
+374	Yes , uh , Judge , you see , 	Да , судья , понимаете ... 
+375	I just don 't think that three weeks is going to do it , here . 	Я не думаю , что для подготовки хватит трех недель . 
+376	We ... 	Как вам известно , у нас масса материалов . 
+377	We got a massive amount of evidence , as you know . 	Как вам известно , у нас масса материалов . 
+378	You wanna postpone ? 	- Хотите перенести суд ? 
+379	Six weeks . 	- На шесть недель . 
+380	I mean , there 's just myself and my associate , basically . 	Этим занимаюсь только я и мой коллега . 
+381	Jim , is this serious ? 	Джим , это серьезно ? 
+382	Sir ? 	Джим , это серьезно ? 
+383	Is this serious ? 	Это серьезно ? 
+384	Yes . 	Да , вполне . 
+385	Yes , indeed , it is . 	Да , вполне . 
+386	You can see in the filing ... 	Как вы видите в прошении ... 
+387	Jim , this man is a Soviet spy . 	Джим , этот человек - советский шпион . 
+388	Allegedly . 	- Предположительно . 
+389	Come on , Counselor ! 	- Бросьте , адвокат ! 
+390	Your Honor . 	Ваша честь . 
+391	Of course , I salute you . 	Разумеется , я вас уважаю . 
+392	We all salute you for taking on a thankless task . 	Мы уважаем вас за то , что вы взялись за неблагодарное дело . 
+393	This man has to have due process . 	Его нужно судить как положено . 
+394	But let 's not kid each other . 	Но не будем заблуждаться . 
+395	He 'll receive a capable defense . 	У него будет достойная защита . 
+396	And , God willing , he 'll be convicted . 	И , даст Бог , его осудят . 
+397	Come on , Counselor . 	Бросьте , адвокат . 
+398	Let 's not play games with this . 	Не будем играть в игры . 
+399	Not in my courtroom . 	Только не в моем суде . 
+400	We have a date and we 're going to trial . 	Дата назначена , и процесс начнется вовремя . 
+401	Taxi ! 	Такси ! 
+402	Taxi ! 	Такси ! 
+403	I see your light on ! 	Я видел , что табличка горит ! 
+404	Son of a bitch . 	Сукин сын . 
+405	Can 't wait to get back to Manhattan . 	Ему не терпится вернуться на Манхэттен . 
+406	His light was on , right ? 	Табличка горела , правда ? 
+407	Son of a bitch . 	Сукин сын . 
+408	Against their level of comfort . 	Не устраивает уровень удобств . 
+409	The statute hasn 't changed . 	Устав не изменился . 
+410	Oh , excuse me , sir . 	Простите , сэр . 
+411	Pardon me . 	Прошу прощения . 
+412	Sorry . 	Прошу прощения . 
+413	Oh ! 	Прошу прощения . 
+414	Mr . 	М- р Донован . 
+415	Donovan . 	М- р Донован . 
+416	What ? 	Что ? 
+417	What ? 	Что ? 
+418	CIA . 	ЦРУ . 
+419	Yeah . 	Да . 
+420	I just wanted to chat . 	Просто хотел поговорить . 
+421	How 's the case going ? 	Как продвигается дело ? 
+422	Case is going great . 	Прекрасно . 
+423	Couldn 't be better . 	Лучше не бывает . 
+424	Mmm- hmm . 	
+425	Has your guy talked ? 	Ваш клиент заговорил ? 
+426	Excuse me . 	Прошу прощения ? 
+427	You met him . 	Вы с ним встречались . 
+428	Has he talked ? 	Вы с ним встречались . 
+429	Has he said anything yet ? 	Он заговорил ? 
+430	We 're not having this conversation . 	Мы ведь это не обсуждаем . 
+431	No , of course not . 	Ну конечно . 
+432	No , I mean , we really are not having it . 	Нет , мы правда это не обсуждаем . 
+433	You 're asking me to violate attorney- client privilege . 	Вы просите меня нарушить адвокатскую тайну . 
+434	Oh , come on , Counselor . 	Бросьте , адвокат . 
+435	You know , I wish people like you would quit saying " Oh , come on , Counselor . " 	Вот бы вы все перестали говорить : 
+436	I didn 't like it the first time it happened today . 	" Бросьте , адвокат " . Сегодня мне это уже один раз не понравилось . 
+437	A judge said it to me twice . 	Судья сказал это дважды . 
+438	And the more I hear it , the more I don 't like it . 	Чем больше это слышу , тем больше мне это не нравится . 
+439	Okay , well , listen , I understand attorney- client privilege . 	Слушайте , я знаю , что такое адвокатская тайна . 
+440	I understand all the legal gamesmanship . 	Я все понимаю про легальные приемчики . 
+441	And I understand that 's how you make a living . 	Я понимаю , что так вы зарабатываете на жизнь . 
+442	But I 'm talking to you about something else . 	Но сейчас речь идет о другом . 
+443	The security of your country . 	О безопасности вашей страны . 
+444	And I 'm sorry if the way I put it offends you . 	Простите , если моя формулировка обидела вас . 
+445	But we need to know what Abel is telling you . 	Но мы должны знать , что рассказывает Абель . 
+446	You understand me , Donovan ? 	Вы понимаете , Донован ? 
+447	We need to know . 	Мы должны это знать . 
+448	Don 't go " Boy Scout " on me . 	Не ведите себя как бойскаут . 
+449	We don 't have a rule book , here . 	У нас тут нет свода правил . 
+450	You 're Agent Hoffman , yeah ? 	Вас зовут агент Хоффман , верно ? 
+451	Yeah . 	Да . 
+452	German extraction . 	Немецкого происхождения . 
+453	Yeah , so ? 	Да , и ? 
+454	My name 's Donovan . 	Моя фамилия Донован . 
+455	Irish . 	Ирландская . 
+456	Both sides , mother and father . 	По обеим линиям , отцовской и материнской . 
+457	I 'm Irish , you 're German . 	Я ирландец , вы немец . 
+458	But what makes us both Americans ? 	Но благодаря чему мы с вами американцы ? 
+459	Just one thing . 	Благодаря одной вещи . 
+460	One , one , one . 	Одной , одной , одной . 
+461	The rule book . 	Своду правил . 
+462	We call it the Constitution and we agree to the rules , and that 's what makes us Americans . 	Он называется конституцией , мы согласились на эти правила , и поэтому мы американцы . 
+463	It 's all that makes us Americans so don 't tell me there 's no rule book , and don 't nod at me like that , you son of a bitch . 	Лишь поэтому . 
+464	Do we need to worry about you ? 	ЦРУ следует беспокоиться за вас ? 
+465	Not if I 'm left alone to do my job . 	Нет , если мне дадут спокойно работать . 
+466	From this moment forward you will not refer to the U- 2 as a spy plane or reconnaissance aircraft . 	Нет , если мне дадут спокойно работать . 
+467	You will refer to it as " The Article . " 	Вы будете называть его " Изделием " . 
+468	The Article has an 80- foot wingspan . 	Размах крыла Изделия - 24 метра . 
+469	It 's powered by a single Pratt and Whitney J57 P- 37 engine . 	У него один двигатель - " Пратт и Уитни Джей- 57 Пи- 37 " . 
+470	10, 000 pounds of thrust and a maximum speed of 430 miles an hour . 	Сила тяги - 4 500 кг , максимальная скорость - 700 кмч . 
+471	She may not be quick , but at your cruising altitude of 70, 000 feet , nothing will come close to you . 	Он не слишком быстрый , но на крейсерской высоте в 21 км никто к вам не приблизится . 
+472	70, 000 ? 	21 км ? 
+473	The idea is the enemy doesn 't even know you 're there . 	По идее , противник даже не узнает , что вы в небе . 
+474	It looks kind of flimsy . 	Выглядит хлипковато . 
+475	Every extra pound of weight costs a foot in altitude , and we need to accommodate the cameras . 	Каждый лишний килограмм веса стоит больше полметра высоты , а еще нужно установить фотокамеры . 
+476	That 's a 4, 500- millimeter lens , times three . 	3 объектива с фокусным расстоянием 4 500 мм . 
+477	A pin- sharp panoramic camera four times as powerful as any aerial reconnaissance cameras we 've ever used . 	Очень четкая панорамная фотокамера , в четыре раза мощнее любой предыдущей разведывательной камеры . 
+478	You 're gonna be taking pictures , lots of pictures . 	Вы будете делать фотографии , много фотографий . 
+479	At 70, 000 feet , The Article can photograph 2, 000 square miles of territory in one pass . 	На высоте в 21 км изделие может фотографировать по 5 200 кв . км . за один облет . 
+480	Now , drivers , give Agent Sumner your undivided attention . 	Парни , внимательно выслушайте агента Самнера . 
+481	The items you will need on your mission are over here . 	Это предметы , которые понадобятся на задании . 
+482	B camera , Revere 8 model 40 magazine , 	" Би Камера Ревере модель 40 " , 
+483	Keystone Capri K- 25 , silver . 	" Кистоун Капри Кей- 25 Сильвер " . 
+484	Hollow- handle shaving brush . 	Полая кисть для бритья . 
+485	Complete set of cipher tables on edible silver foil . 	Набор шифровальных таблиц на съедобной серебряной фольге . 
+486	Specialist photographic equipment . 	Специальное фотографическое оборудование . 
+487	Yeah , we , uh ... 	Да , мы понимаем . 
+488	We get the idea . 	Да , мы понимаем . 
+489	Thank you . 	Спасибо . 
+490	Uh , excuse me , Agent , uh , Bosco . 	Простите , агент Боско . 
+491	" Blasco . " 	Бласко . 
+492	Sir . 	Сэр . 
+493	There seems to be a subsection to this list here . 	Похоже , в этом списке есть подраздел . 
+494	Well , most of this stuff came from his studio , but the rest is from the hotel room he was holed up in . 	Большая часть вещей была в его студии , а остальное - из номера гостиницы , где он прятался . 
+495	Where we found him . 	Где мы его нашли . 
+496	The hotel room you searched ? 	В номере , который вы обыскали ? 
+497	Well , yeah . 	Да . 
+498	Can I see the warrant ? 	Можете показать ордер на обыск ? 
+499	The what ? 	Что ? 
+500	Yeah , explain this to me . 	Да , объясните это . 
+501	There was a warrant . 	Был ордер . 
+502	There was a warrant . 	Был ордер . 
+503	A civil detention writ for the arrest of an alien , but there was no search warrant for suspicion of criminal activity . 	Был ордер на арест иностранца , но без ордера на обыск по подозрению в преступной деятельности . 
+504	So , the search and the evidence that is the fruit of that search , that 's all tainted and should not be admitted . 	Значит , обыск и улики , полученные в его результате , не соответствуют норме и не должны быть признаны . 
+505	What protections is he due , Your Honor ? 	Как его нужно защищать , Ваша честь ? 
+506	The man is not ... 	Этот человек не ... 
+507	The man is what ? 	Как там ? 
+508	He 's Rudolf Ivanovich Abel . 	Рудольф Иванович Абель . 
+509	He is a Soviet citizen . 	Он советский гражданин . 
+510	He 's not an American . 	Он не американец . 
+511	1886 , Yick Wo v . 	Он не американец . 
+512	Hopkins . 	Он не американец . 
+513	The court held that even aliens , in that case Chinese immigrants , could not be held to answer for a crime without due process of law , including any alien that entered the country illegally . 	Суд решил , что даже иностранцы - в том случае китайские иммигранты - не могут быть судимы без надлежащей правовой процедуры , включая людей , проникших в страну незаконно . 
+514	The Department of Justice has its first allegiance to the United States . 	Суд решил , что даже иностранцы - в том случае китайские иммигранты - не могут быть судимы без надлежащей правовой процедуры , включая людей , проникших в страну незаконно . 
+515	I don 't see how an alien , if he 's here illegally , how he suffered deprivation of rights . 	Не понимаю , каким образом иностранец , если он здесь нелегально , пострадал от лишения прав . 
+516	Rights as what ? 	Каких прав ? 
+517	An American ? 	Прав американца ? 
+518	Rights as what , Counselor ? 	Каких прав , адвокат ? 
+519	We 're in a battle for civilization . 	Мы сражаемся за цивилизацию . 
+520	This Russian spy came here to threaten our way of life . 	Этот русский шпион ставит под угрозу наш образ жизни . 
+521	Now , I have a courtroom of people waiting . 	Меня ждут люди в зале суда . 
+522	Get out there , sit beside the Russian . 	Ступайте и сядьте рядом с русским . 
+523	Let 's get this over and done with . 	Давайте закончим с этим . 
+524	And your motion is denied . 	Ваше ходатайство отклонено . 
+525	He should take some insurance out on himself . 	Ему стоит себя застраховать . 
+526	How did we do ? 	Как наши успехи ? 
+527	In there ? 	Там ? 
+528	Uh ... 	
+529	Not too good . 	Не слишком хорошо . 
+530	Apparently , you 're not an American citizen . 	Оказывается , вы не гражданин США . 
+531	That 's true . 	Это верно . 
+532	And according to your boss , you 're not a Soviet citizen either . 	А ваше начальство утверждает , что вы не советский гражданин . 
+533	Well , the boss isn 't always right but he 's always the boss . 	Начальство не всегда право , но все же это начальство . 
+534	Do you never worry ? 	Вы никогда не волнуетесь ? 
+535	Would it help ? 	Это помогло бы ? 
+536	All rise . 	Всем встать . 
+537	" I pledge allegiance to the Flag 	Обязуюсь хранить верность флагу 
+538	" of the United States of America , 	Соединенных Штатов Америки и Республике , которую он олицетворяет , единой нации перед Богом , неделимой , свободной и справедливой для всех . 
+539	" and to the Republic for which it stands , 	Соединенных Штатов Америки и Республике , которую он олицетворяет , единой нации перед Богом , неделимой , свободной и справедливой для всех . 
+540	" one Nation under God , indivisible , 	Соединенных Штатов Америки и Республике , которую он олицетворяет , единой нации перед Богом , неделимой , свободной и справедливой для всех . 
+541	" with liberty and justice for all . " 	
+542	First , you have to know what happens when an atomic bomb explodes . 	Во- первых , вы должны знать , что бывает при взрыве атомной бомбы . 
+543	There is a bright flash , brighter than the sun . 	Появляется яркая вспышка . Ярче солнца . 
+544	It can smash in buildings , break windows all over town . 	Разрушаются дома , бьются стекла по всему городу . 
+545	But if you duck and cover like Bert , you will be much safer . 	Но если вы пригнетесь и прикроетесь как Берт , так будет куда безопаснее . 
+546	There are two kinds of attack , with warning and without any warning . 	Есть два вида нападения : с предупреждением и без предупреждения . 
+547	Mmm . 	
+548	What 's going on in here ? 	Что здесь происходит ? 
+549	Okay , Dad , this is really important . 	Папа , это очень важно . 
+550	When the war begins , the first thing they do is cut off all the water and all the electricity . 	Когда начнется война , они первым делом перережут электричество и воду . 
+551	So the first thing we should do is keep this filled , use the shower in your room , use the sink downstairs , the garden hose outside ... 	Значит , мы должны наполнить ванну , включить душ в твоей комнате , наполнить раковину внизу , садовый шланг ... 
+552	Those are good ideas . 	Отличная идея . 
+553	But , Roger , I don 't see this as being something you ever have to worry about . 	Но , Роджер , я не думаю , что тебе придется волноваться об этом . 
+554	Yeah , but when you hear the sirens , there may not be enough time to fill the tub and the sinks . 	Но когда мы услышим сирены , у нас не будет времени наполнить ванну и раковины . 
+555	Not gonna be any sirens ... 	Не будет никаких сирен ... 
+556	What is this ? 	Что это ? 
+557	When the bomb comes , the Reds will aim for the Empire State Building . 	Когда Советы будут бросать бомбу , то будут метить в Эмпайр- Стейт- Билдинг . 
+558	But the bomb goes off at 10, 000 feet up . 	Но бомба взрывается на высоте 3 км . 
+559	In Life magazine , it 's called an airburst , and if the bomb is 50 megatons , the blast wave goes out and out and out and melts everything from here to here . 	В журнале " Лайф " пишут " воздушный разрыв " . При мощности в 50 мегатонн взрывная волна идет все дальше , уничтожая все отсюда досюда . 
+560	Including where we live . 	В том числе наш дом . 
+561	Here . 	Вот тут . 
+562	Yeah , right there . 	Да , вот тут . 
+563	But , you know , Roger , no one is dropping atomic bombs on us . 	Но , Роджер , никто не будет сбрасывать на нас бомбы . 
+564	But the Russians want to . 	Но русские хотят . 
+565	You know that Russian guy you 're defending ? 	Как тот русский , которого ты защищаешь . 
+566	He 's here to get things ready for the guys who drop the bombs . 	Он готовил здесь все для тех , кто сбросит бомбы . 
+567	No , no , he 's not ... 	Нет , он здесь не для этого . 
+568	Not here for that . 	Нет , он здесь не для этого . 
+569	He 's not even Russian . 	Он даже не русский . 
+570	He was born , we think , in Northern England . 	Мы считаем , что он родился в Северной Ирландии . 
+571	Yeah , but he 's a spy for Russia . 	Но он русский шпион . 
+572	I don 't even understand what you 're doing . 	Я даже не понимаю , что ты делаешь . 
+573	You 're not a Communist , so why are you defending one ? 	Ты не коммунист , так зачем его защищаешь ? 
+574	Well , because it 's my job . 	Это моя работа . 
+575	It never used to be . 	Раньше такого не было . 
+576	In the case of the United States of America versus Rudolf Abel , as to the first count in the indictment , how do you find the defendant ? 	По делу " Соединенные Штаты Америки против Рудольфа Абеля " , что решили присяжные в отношении обвиняемого по первому пункту обвинений ? 
+577	Guilty or not guilty ? 	Виновен или невиновен ? 
+578	Guilty . 	Виновен . 
+579	As to the second count ? 	По второму пункту ? 
+580	Guilty . 	Виновен . 
+581	As to the third count ? 	По третьему ? 
+582	Guilty . 	Виновен . 
+583	Your Honor , I make a motion to set aside these guilty verdicts against the weight of evidence . 	Ваша честь , прошу отложить вынесение вердикта в силу совокупности доказательств . 
+584	Denied . 	Отказано . 
+585	The jury is discharged . 	Присяжные свободны . 
+586	Thank you all . 	Благодарю всех . 
+587	I would like to add that , if I were one of you , 	Добавлю , что будь я на вашем месте , я бы принял такое же решение . 
+588	I would 've reached the same verdict . 	Добавлю , что будь я на вашем месте , я бы принял такое же решение . 
+589	Sentencing will be 	Приговор будет оглашен 
+590	November 15 . 	1 5 ноября . 
+591	The death sentence is not a foregone conclusion . 	Смертный приговор еще не предрешен . 
+592	Don 't worry . 	Не беспокойтесь . 
+593	I 'm not afraid to die , Mr . 	Я не боюсь смерти , м- р Донован . 
+594	Donovan . 	Я не боюсь смерти , м- р Донован . 
+595	Although it wouldn 't be my first choice . 	Вместе с тем , это не самый предпочтительный вариант . 
+596	You left this behind . 	Вместе с тем , это не самый предпочтительный вариант . 
+597	Oh , thank you . 	Вместе с тем , это не самый предпочтительный вариант . 
+598	Oh , thank you very much ! 	Большое спасибо ! 
+599	You 've never asked me if the charges were true . 	Вы ни разу не спросили , обоснованы ли обвинения . 
+600	If I am indeed a spy . 	Действительно ли я шпион . 
+601	This is how we do it . 	Такова наша работа . 
+602	The case against you matters . 	Важна сущность вашего дела . 
+603	Making them prove it matters . 	Важно заставить их доказать правоту . 
+604	The fiction is ... 	А домыслы ... 
+605	Whether you did it or not doesn 't matter . 	О том , виноваты вы или нет , неважны . 
+606	The state has to prove it , that you 're a spy . 	Государство должно доказать , что вы шпион . 
+607	So you 're not curious ? 	Значит , вы не любопытны ? 
+608	No , not really . 	Не очень . 
+609	I always assumed you were an artist . 	Я всегда считал , что вы человек искусства . 
+610	My wife , she 's the artist . 	Моя жена человек искусства . 
+611	She 's a musician in the Children 's Orchestra of Moscow . 	Она музыкант , играет в московском оркестре . 
+612	What instrument ? 	На каком инструменте ? 
+613	The harp . 	На арфе . 
+614	Oh . 	
+615	Then , she 's an angel . 	Значит , она ангел . 
+616	Standing there like that , you remind me of a man who used to come to our house when I was young . 	Когда вы стоите вот так , я вспоминаю о человеке , приходившем к нам домой , когда я был ребенком . 
+617	My father used to say , " Watch this man . " 	Мой отец говорил : " Смотри на этого человека " . 
+618	So I did , every time he came . 	И я смотрел всякий раз , когда он приходил . 
+619	And never once did he do anything remarkable . 	И он ни разу не сделал что- либо выдающееся . 
+620	And I remind you of him ? 	Я напоминаю вам его ? 
+621	This one time , I was about the age of your son . 	Однажды , когда мне было , как вашему сыну , в наш дом ворвались партизаны . 
+622	Our house was overrun by partisan border guards . 	Однажды , когда мне было , как вашему сыну , в наш дом ворвались партизаны . 
+623	Dozens of them . 	Их были десятки . 
+624	My father was beaten , my mother was beaten , and this man , my father 's friend , he was beaten . 	Моего отца избивали , мою мать избивали , и этого человека , друга отца , тоже избивали . 
+625	And I watched this man . 	И я смотрел на него . 
+626	Every time they hit him he stood back up again . 	После каждого удара он опять вставал на ноги . 
+627	So they hit him harder . 	Тогда его били сильнее . 
+628	Still , he got back to his feet . 	Но он все равно вставал на ноги . 
+629	I think because of this they stopped the beating . 	Думаю , поэтому они перестали его бить . 
+630	They let him live . 	Они оставили его в живых . 
+631	I remember them saying it . 	Я помню , как они это сказали . 
+632	It sort of means , like , uh , " standing man . " 	Так называют несгибаемых людей . 
+633	Standing man . 	Несгибаемый . 
+634	Hello , Jim ! 	- Здравствуйте , Джим . 
+635	Millie , you 're a vision . 	- Милли , вы шикарны . 
+636	Mortie 's busy getting kitted out . 	Морти одевается . 
+637	But come on in . 	Но вы проходите . 
+638	Scotch , Jim ? 	- Шотландского виски ? 
+639	Oh , yes , please . 	- Шотландского виски ? 
+640	Thank you . 	- Да , пожалуйста . 
+641	Uh , just a drop of water . 	Спасибо . С капелькой воды . 
+642	Your Honor . 	Ваша честь . 
+643	Hello , Jim ! 	Здравствуйте , Джим . 
+644	Just going out . 	Мы как раз уходим . 
+645	Got a few minutes though . 	Но у меня есть пара минут . 
+646	March of Dimes thing . 	Благотворительный вечер . 
+647	Millie is active . 	Милли активная участница . 
+648	Well , thank you for seeing me . 	Спасибо , что приняли меня . 
+649	I just wanted to give you my two cents on the sentencing . 	Я просто хотел кое- что сказать по поводу приговора . 
+650	And I thought maybe I should pester you at home as not all of my points are narrowly legal . 	Я решил побеспокоить вас дома , поскольку не все мои доводы относятся к юриспруденции . 
+651	Yeah , well , it 's that kind of case . 	Да , такое уж это дело . 
+652	I hope I wasn 't too scratchy during the trial but it 's exactly what you say . 	Надеюсь , я выражался не слишком резко на процессе , но вы сами все сказали . 
+653	Nothing about this is narrowly legal . 	Это дело совсем из другой области . 
+654	There are bigger issues . 	Есть более важные вещи . 
+655	Bigger issues ! 	Более важные ! 
+656	Thank you , thank you . 	Спасибо . 
+657	Uh ... 	Спасибо . 
+658	Sir ... 	Сэр , я думаю , что в интересах Соединенных Штатов было бы лучше оставить Абеля в живых . 
+659	I think it could be considered in the best interests of the United States that Abel remain alive . 	Сэр , я думаю , что в интересах Соединенных Штатов было бы лучше оставить Абеля в живых . 
+660	Why ? 	Почему ? 
+661	I 'm not saying I' ve made up my mind but if he was gonna cooperate , work with the government , he would 've done it already . 	Я не говорю , что уже принял решение , но если бы он сотрудничал с правительством , то точно остался бы жив . 
+662	- True , but the issue here ... 	Верно , но дело в том ... 
+663	- You can 't ... 	Верно , но дело в том ... 
+664	Excuse me . 	Прошу прощения . 
+665	You can 't say it 's in the best interest of the United States that he spend the rest of his days in a prison cell . 	Нельзя говорить , что в интересах Соединенных Штатов посадить его за решетку до конца дней . 
+666	How is this the national interest ? 	Нельзя говорить , что в интересах Соединенных Штатов посадить его за решетку до конца дней . 
+667	Not the incarceration itself , sir . 	Нельзя говорить , что в интересах Соединенных Штатов посадить его за решетку до конца дней . 
+668	It is possible that , in the foreseeable future , an American of equivalent rank might be captured by Soviet Russia . 	Возможно , в обозримом будущем американец соответствующего звания попадет в плен к русским . 
+669	We might want to have someone to trade . 	Возможно , мы захотим обменять его на кого- нибудь . 
+670	Wow . 	Ого . 
+671	That sounds like spinning what- ifs . 	Слишком много условностей . 
+672	You could do that till the cows come home . 	Этим можно заниматься до бесконечности . 
+673	It 's my business , what- ifs . 	Условности - моя работа . 
+674	I 'm in insurance . 	Я занимаюсь страхованием . 
+675	And there 's nothing implausible about this one . 	И в этом нет ничего невозможного . 
+676	It 's entirely in the realm of what could happen . 	Это вполне реальная возможность . 
+677	It 's the kind of probability that people buy insurance for . 	Ради таких случаев людям и нужна страховка . 
+678	If we send this guy to his death , we leave ourselves wide open . 	Если мы отправим Абеля на смерть , то поставим себя под удар . 
+679	No policy in our back pocket for the day the storm comes . 	У нас не будет страхового полиса на тот день , когда грянет буря . 
+680	Nice speech . 	Хорошая речь . 
+681	Sir , there is also the humanitarian argument . 	Сэр , кроме того существует гуманитарный аспект . 
+682	Should he die for doing the job they sent him to do ? 	Он должен умереть из- за работы , на которую его послали ? 
+683	All right , Counselor . 	Хорошо , адвокат . 
+684	I gotta run . 	Мне пора бежать . 
+685	Good seeing you , Jim . 	Был рад вас видеть , Джим . 
+686	I' ll walk you out . 	Я провожу вас . 
+687	All rise . 	Всем встать . 
+688	The United States District Court for the Eastern District of New York is now in session . 	Окружной суд восточного округа Нью- Йорка начинает заседание . 
+689	The honorable Mortimer Byers presiding . 	Председатель суда - достопочтенный Мортимер Байерс . 
+690	Be seated . 	Прошу садиться . 
+691	The defendant will please rise . 	Прошу обвиняемого встать . 
+692	In the measured judgment of this court the following sentence , based upon the jury 's verdict of guilty as to each count of the indictment , is believed to meet the test which has been stated . 	Нижеследующий приговор этого суда является взвешенным , основанным на вердикте жюри присяжных , признавшего вину подсудимого по всем пунктам , и , по нашему убеждению , соответствует важности данного дела . 
+693	Pursuant to the verdict of guilty as to all counts , the defendant is committed to the custody of the Attorney General of the United States for imprisonment in a federal institution to be selected by him for a period of 30 years . 	Принимая во внимание вердикт присяжных , обвиняемый передается под надзор генерального прокурора Соединенных Штатов и будет заключен в федеральную тюрьму , выбранную генеральным прокурором , на срок в 30 лет . 
+694	Marshals , you may take the defendant into custody . 	Судебные исполнители , уведите обвиняемого . 
+695	No ... 	Электрического стула не будет ? 
+696	No electrocution ? 	Электрического стула не будет ? 
+697	No . 	Нет . 
+698	No , no . 	Нет . 
+699	Why aren 't we hanging him ? 	Почему его не повесят ? 
+700	In the name of God , why aren 't we hanging him ? 	Во имя Бога , почему его не повесят ? 
+701	Sit down , sir ! 	Сядьте , сэр ! 
+702	He 's a spy ! 	Он шпион ! 
+703	He 's killing us with his lies ! 	Он убивает нас своей ложью . 
+704	In the name of God , why aren 't we hanging him ? 	Во имя всего святого , почему его не повесят ? 
+705	That 's right ! 	Он прав ! 
+706	He 's a spy ! 	Он шпион ! 
+707	Mr . 	М- р Донован ! 
+708	Donovan ! 	М- р Донован ! 
+709	Mr . 	М- р Донован ! 
+710	Donovan ! 	М- р Донован ! 
+711	Just one question . 	Только один вопрос . 
+712	Just one question , sir . 	Один вопрос , сэр . 
+713	My hat ! 	Моя шляпа ! 
+714	My hat ! 	Моя шляпа ! 
+715	My hat ! 	Моя шляпа ! 
+716	Nobody here has a comment . 	Комментариев не будет . 
+717	Mr . and Mrs . 	М- р и миссис Донован не будут отвечать на вопросы . 
+718	Donovan are not answering questions . 	М- р и миссис Донован не будут отвечать на вопросы . 
+719	How do you feel now that this national nightmare is over ? 	Что вы чувствуете сейчас , когда этот всеобщий кошмар позади ? 
+720	Mr . 	М- р Донован , вы довольны приговором ? 
+721	Donovan , are you happy with the verdict ? 	М- р Донован , вы довольны приговором ? 
+722	We 're ... 	У нас есть веские основания для апелляции . 
+723	We 're in firm ground on , uh , for a case on appeal . 	У нас есть веские основания для апелляции . 
+724	Appeal ? 	- Апелляции ? 
+725	Appeal , yes . 	- Да , апелляции . 
+726	Jim , you did a great job . 	Джим , отличная работа . 
+727	You fulfilled your mandate and then some . 	Ты выполнил порученную тебе работу . 
+728	But the man is a spy . 	Но этот человек шпион . 
+729	The verdict is correct and there 's no reason to appeal it . 	Приговор справедлив , и нет оснований для апелляции . 
+730	There 's ample procedural reason . 	Есть процессуальные основания . 
+731	We know the search is tainted . 	Мы знаем , что обыск был незаконен . 
+732	And Fourth Amendment issues will always weigh more heavily in an appellate forum . 	Четвертая поправка всегда имеет вес в апелляционном суде . 
+733	We 've got a good shot . 	У нас хорошие шансы . 
+734	What the goddamn hell are you talking about ? 	Черт возьми , о чем ты говоришь ? 
+735	We were supposed to show he had a capable defense , which we did . 	Мы хотели показать , что у него достойная защита , и сделали это . 
+736	Why are you citing the goddamn Constitution at me ? 	Зачем ты цитируешь мне чертову конституцию ? 
+737	Tom , if you look me in the eye and tell me we don 't have grounds for an appeal , I' ll drop it right now . 	Том , если ты посмотришь мне в глаза и скажешь , что нет оснований для апелляции , я откажусь . Я этого не сказал . 
+738	I 'm not saying that . 	
+739	You know what I 'm saying . 	Ты знаешь , о чем я говорю . 
+740	Tom is saying there 's a cost to these things . 	Том говорит , что такие вещи вызывают последствия . 
+741	That 's right . 	Вот именно . 
+742	A cost to both your family and your firm . 	Для твоей семьи и для фирмы . 
+743	I' ve missed music . 	Мне не хватало музыки . 
+744	They checked the radio to make sure there was no transmitter in it . 	Радио проверили на предмет передатчиков . 
+745	I 'm sure they did . 	Не сомневаюсь . 
+746	Shostakovich . 	Шостакович . 
+747	Mmm . 	
+748	That 's a very great artist , Shostakovich . 	Он был великим музыкантом . 
+749	Uh , I think our strongest grounds for reversal are constitutional . 	Я думаю , что лучшие основания для отмены приговора - конституционные . 
+750	Our best chance is if the Supreme Court agrees to review our case . 	Лучше всего , если Верховный суд согласится пересмотреть дело . 
+751	Jim ... 	Джим , 
+752	You should be careful . 	вы должны быть осторожны . 
+753	Careful . 	Осторожны . 
+754	♪ 77 Sunset Strip 	
+755	Edward Byrnes . ♪ 77 Sunset Strip 	
+756	And Richard Long . 	
+757	Good morning , Suzanne . 	
+758	Good morning , Dick . 	
+759	There is a special delivery letter here for you . 	
+760	Oh , her . 	
+761	Mom ! 	Мама ! 
+762	What in God 's name happened ? 	Что случилось , ради всего святого ? 
+763	Honey , are you all right ? 	Милая , ты цела ? 
+764	Mom ! 	- Мама ! 
+765	Are you hurt ? 	- Ты ранена ? 
+766	I' ve got her . 	Я держу ее . 
+767	Upstairs ! 	Наверх ! 
+768	Are you all right ? 	Вы целы ? 
+769	I sat with my back against the wall , Dad ! 	Вы целы ? 
+770	Are you okay ? 	Ты в порядке ? 
+771	Are you all right ? 	Ты цела ? 
+772	Dad , I sat with my back against the wall ! 	Папа , я сел на пол спиной к стене ! 
+773	Good , good . 	Далеко от окон ! 
+774	Away from the windows ! 	Далеко от окон ! 
+775	Good , good , good , good , good . 	Хорошо , хорошо . 
+776	Good boy , good boy , good boy . 	Молодец , молодец . 
+777	It 's okay . 	Все хорошо . 
+778	It 's all right . 	Спокойно . 
+779	It 's all right , they 're gone , they 're gone . 	Все хорошо , они ушли . 
+780	They 're cowards . 	Они трусы . 
+781	They 're gone . 	Они ушли . 
+782	We have detectives canvassing the neighborhood . 	Детективы опрашивают соседей . 
+783	Maybe we 'll find a description of the car but I don 't think it 's very likely . 	Возможно , мы получим описание машины , но это маловероятно . 
+784	We 're gonna need protection . 	Нам понадобится защита . 
+785	Oh , I have instructions to leave two cars here . 	У меня инструкции оставить здесь две машины . 
+786	It 'll be pretty obvious that this is a secure ... 	- Будет ясно , что это безопасно ... 
+787	For how long ? 	- Надолго ? 
+788	I have to be in Washington later on this week . 	На этой неделе я должен ехать в Вашингтон . 
+789	What are you doing ? 	Что вы делаете ? 
+790	What are you doing to your family ? 	Что вы делаете со своей семьей ? 
+791	Pardon me , Officer ? 	Прошу прощения ? 
+792	You 're still defending this guy ? 	Вы все еще защищаете его ? 
+793	I mean , what are you fighting for him for ? 	Почему вы его защищаете ? 
+794	Okay , knock that off , Officer . 	Так , прекратите это . 
+795	I' ll knock off nothing . 	Не прекращу . 
+796	I was in the third wave at Omaha Beach . 	Я участвовал в высадке в Нормандии . 
+797	Hey , I did my time in the service . 	Я тоже служил в армии . 
+798	I was fighting these guys , and you 're defending them ? 	Я сражался против них , а вы их защищаете ? 
+799	Why don 't you just do your job as an officer of the law ? 	Может , будете выполнять свою работу служителя закона ? 
+800	Okay , I 'm sorry . 	Простите . 
+801	Let 's go outside . 	Выйдем наружу . 
+802	Come on . 	Выйдем наружу . 
+803	You know what ? 	Не обращайте внимания . 
+804	Just forget him . 	Не обращайте внимания . 
+805	What am I not getting here ? 	Что я упускаю ? 
+806	Outside , Officer . 	Наружу , офицер . Простите . 
+807	I 'm sorry . 	Защищает шпиона коммунистов . 
+808	Defending a commie spy . 	Защищает шпиона коммунистов . 
+809	Jeez ! 	Черт возьми ! 
+810	Do you feel that you deserve this , sir ? 	Вам не кажется , что вы это заслужили , сэр ? 
+811	Should it become necessary to abandon the aircraft over Soviet territory , then there 's a two- and- a- half pound explosive charge contained within the fuselage . 	Если возникнет необходимость покинуть борт над советской территорией , в фюзеляже содержится полтора килограмма взрывчатого вещества . 
+812	Now , first , you activate the circuits . 	Во- первых , нужно активировать цепь . 
+813	But to start the 70- second timer , you need to flip the switch marked " Destruct . " 	Чтобы запустить таймер , установленный на 70 секунд , нужно переключить тумблер на " уничтожение " . 
+814	It is imperative that these flights remain a secret and this equipment does not fall into enemy hands . 	Крайне важно , чтобы эти полеты остались в тайне и чтобы это оборудование не попало в руки врага . 
+815	What about us ? 	А что с нами ? 
+816	I don 't know if you 're kidding , Lieutenant Powers . 	Не знаю , шутите ли вы , лейтенант Пауэрс . 
+817	I 'm not . 	Я не шучу . 
+818	What you know about the plane is as secret as the plane itself . 	Ваши знания о самолете - такая же тайна , как и сам самолет . 
+819	If capture is a foregone conclusion , you go down with your plane . 	Если попадание в плен предрешено , вы должны упасть с самолетом . 
+820	Now , if you think you can ditch and get away , if you 're close enough to a border , fine . 	Если вы считаете , что сможете скрыться , если вы близко к границе , отлично . 
+821	You know the ejection protocol . 	Вам знаком процесс катапультирования . 
+822	But if you ditch , you bring the dollar with you . 	Но если решите скрываться , возьмите с собой доллар . 
+823	All right , there 's a pin inside . 	Внутри него иголка . 
+824	You scratch your skin anywhere , it 's instantaneous . 	Одна царапина в любом месте - и смерть наступит моментально . 
+825	If you think you are about to be captured , you use it . 	Если вы видите , что попадете в плен , используйте его . 
+826	Drivers , you understand me ? 	Если вы видите , что попадете в плен , используйте его . 
+827	Spend the dollar . 	Потратьте доллар . 
+828	Mr . 	Господин председатель и многоуважаемый суд . 
+829	Chief Justice , and may it please the court . 	Господин председатель и многоуважаемый суд . 
+830	The " Cold War " is not just a phrase , Your Honor . 	" Холодная война " - это не просто слова , Ваша честь . 
+831	It 's not just a figure of speech . 	Это не просто образное выражение . 
+832	Truly , a battle is being fought between two competing views of the world . 	Без сомнения , сейчас идет борьба между двумя различными взглядами на мир . 
+833	I contend that Rudolf Ivanovich Abel , 	Я утверждаю , что Рудольф Иванович Абель , 
+834	" Colonel Abel , " as he was called even by the men who arrested him , is our foe in that battle . 	" полковник Абель " , по выражению людей , которые его арестовали , является нашим противником в этой борьбе . 
+835	Auxiliary power ? 	Дополнительное питание ? 
+836	Connected and on . 	Подключено . 
+837	Oxygen seat- pack supply ? 	Подача кислорода из сиденья ? 
+838	Supply at 1, 800 psi . 	1 26 кг на кв . см . 
+839	Inverter ? 	Инвертер ? 
+840	On , light out . 	Есть , свет выключен . 
+841	He was treated as a combatant in that war until it no longer suited our government to so treat him . 	К нему относились как к участнику этой войны , пока это не перестало устраивать наше правительство . 
+842	Accordingly , he was not given the protections we give our own citizens . 	Таким образом , ему не была предоставлена защита , которая полагается нашим гражданам . 
+843	He was subjected to treatment that , however appropriate for a suspected enemy , was not appropriate to a suspected criminal . 	Обращение с ним , которое уместно в отношении предполагаемого врага , не было уместно в отношении подозреваемого в преступлении . 
+844	Fuel transfer ? 	- Подача топлива ? 
+845	Transfer switch off . 	- Выключено . 
+846	Destructor ? 	Самоликвидатор ? 
+847	Destructor safety . 	На предохранителе . 
+848	Climb data card . 	Карта данных набора высоты . 
+849	Installed in aircraft . 	Установлена . 
+850	I know this man . 	Я знаю этого человека . 
+851	If the charge is true , he serves a foreign power but he serves it faithfully . 	Если обвинения верны , он служит иностранной державе и служит преданно . 
+852	If he is a soldier in the opposing army , he is a good soldier . 	Если обвинения верны , он служит иностранной державе и служит преданно . 
+853	He has not fled the field of battle to save himself . 	Если обвинения верны , он служит иностранной державе и служит преданно . 
+854	He has refused to serve his captor . 	Он отказался служить тем , кто схватил его . 
+855	He has refused to betray his cause . 	Он отказался предать свое дело . 
+856	He has refused to take the coward 's way out . 	Он отказался поступить как трус . 
+857	The coward must abandon his dignity before he abandons the field of battle . 	Чтобы покинуть поле битвы , трус должен забыть о достоинстве . 
+858	That , Rudolf Abel will never do . 	Рудольф Абель никогда так не поступит . 
+859	Shouldn 't we , by giving him the full benefit of the rights that define our system of government , show this man who we are ? 	Разве мы не должны наделить его всеми правами , определяющими наше государственное устройство , и показать ему , кто мы такие ? 
+860	Who we are . 	Кто мы такие . 
+861	Is that not the greatest weapon we have in this Cold War ? 	Разве не это наше лучшее оружие в этой Холодной войне ? 
+862	Will we stand by our cause less resolutely than he stands by his ? 	Мы будем защищать свое дело менее решительно , чем он - свое ? 
+863	The President announced that a NASA weather plane disappeared four days ago north of Turkey . 	Президент сообщил о пропаже к северу от Турции метеорологического самолета НАСА . 
+864	And the Space Administration fears that its pilot died in the crash . 	Космическое агентство опасается , что пилот погиб при крушении . 
+865	Radar showed the plane wandering off course deep into Soviet territory before contact was lost , complicating any effort to recover it or the remains of the pilot . 	По данным радаров , самолет сбился с курса и углубился вглубь советской территории еще до потери связи , что затрудняет любые попытки поиска самолета или останков пилота . 
+866	Now to news out of Washington . 	Теперь к новостям из Вашингтона . 
+867	In a close vote today , the Supreme Court affirmed the conviction of Russian spy Rudolf Ivanovich Abel , five votes to four . 	При почти равном голосовании , Верховный суд оставил в силе приговор русскому шпиону Рудольфу Ивановичу Абелю пятью голосами против четырех . 
+868	The case presented civil liberties issues , according to the Russian 's lawyer , James B . 	Это дело затрагивает вопросы гражданских прав , заявил адвокат русского Джеймс Б . 
+869	Donovan . 	Донован . 
+870	When asked how he felt about today 's loss , 	На вопрос о том , что он чувствует после этой неудачи , м- р Донован просто сказал : 
+871	Mr . 	На вопрос о том , что он чувствует после этой неудачи , м- р Донован просто сказал : 
+872	Donovan simply said , " Tired . " 	" Усталость " . 
+873	I' ll have more news for you after this message . ♪ Styling tricks 	После рекламной паузы выпуск новостей продолжится . Все позади . 
+874	It 's over . ♪ See the new , exciting styling tricks ♪ You ... 	
+875	Marty . 	Марти . 
+876	I' ll be damned if I can find the file on that Prudential case . 	Черт побери , я не могу найти дело " Пруденшл " . 
+877	I , uh , Mr . 	
+878	Watters had me move it over to Jack Elwes 's office along with the first draft of the appeal . 	М- р Уоттерс попросил меня передать это Джеку Элвесу , вместе с первым черновиком апелляции . 
+879	He did ? 	Серьезно ? 
+880	Yeah , he redrafted and filed that last week while you were in Washington . 	Да , он переписал его и подал на той неделе , пока вы были в Вашингтоне . 
+881	How long have we been together ? 	Сколько времени мы вместе ? 
+882	You act as if I' ve never closed a deal . 	Ты ведешь себя так , словно я не заключал сделок . 
+883	Set up a meeting . 	Устройте встречу . 
+884	Someplace fancy . 	В шикарном ресторане . 
+885	I 'm betting Mr . 	Уверен , что м- р Янг по достоинству оценит лучшее , что есть в Нью- Йорке . 
+886	Young would like some of the finer things 	Уверен , что м- р Янг по достоинству оценит лучшее , что есть в Нью- Йорке . 
+887	New York has to offer . 	Уверен , что м- р Янг по достоинству оценит лучшее , что есть в Нью- Йорке . 
+888	And I want you to give me the summary of ... 	И передай мне резюме ... 
+889	Do you know anyone from Leipzig ? 	Вы знаете кого- нибудь из Липцига ? 
+890	" Leipzig . " Am I getting hate mail from Germany now ? 	Из Лейпцига . Теперь мне пишут гневные письма из Германии ? 
+891	From East Germany . 	Из Восточной Германии . 
+892	Is it your wife ? 	Это от вашей жены ? 
+893	No . 	Нет . 
+894	No , no , no , no . 	Нет , нет , нет . 
+895	She pretends to be but it 's not even a good pretense . 	Она притворяется ею , но выходит плохо . 
+896	" I 'm taking this liberty to write to you 	" Я взяла на себя смелость написать вам , когда узнала из газет о вашем высокогуманном отношении к моему дорогому мужу Рудольфу Абелю " . 
+897	" after having learned from the newspapers 	" Я взяла на себя смелость написать вам , когда узнала из газет о вашем высокогуманном отношении к моему дорогому мужу Рудольфу Абелю " . 
+898	" about your most humane attitude 	" Я взяла на себя смелость написать вам , когда узнала из газет о вашем высокогуманном отношении к моему дорогому мужу Рудольфу Абелю " . 
+899	" towards my beloved husband , Rudolf Abel . " 	
+900	And do I write back ? 	Я должен ответить ? 
+901	Yeah , yeah , yeah . 	Да , да . 
+902	What 's the next move when you don 't know what the game is ? 	Какой ход сделать , если не знаешь , что это за игра ? 
+903	Francis Gary Powers ... 	Фрэнсис Гэри Пауэрс , на основании статьи второй закона СССР об уголовной ответственности за государственные преступления приговаривается к 1 0 годам лишения свободы с отбыванием первых трех лет в тюрьме . 
+904	On the strength of Article Two of the U . S . S . R . law on criminal responsibility for state crimes to 10 years of confinement with the first three years to be served in prison . 	Фрэнсис Гэри Пауэрс , на основании статьи второй закона СССР об уголовной ответственности за государственные преступления приговаривается к 1 0 годам лишения свободы с отбыванием первых трех лет в тюрьме . 
+905	The term of the punishment , including preliminary detention , shall be counted from May first , nineteen hundred and sixty . 	Срок отбытия наказания осужденным с учетом предварительного заключения исчисляется с первого мая шестидесятого года . 
+906	Mr . 	М- р Донован , спасибо , что пришли . 
+907	Donovan , thank you so much for coming . 	М- р Донован , спасибо , что пришли . 
+908	It 's a pleasure to meet you , Mr . 	Рад познакомиться , м- р Даллес . 
+909	Dulles . 	Рад познакомиться , м- р Даллес . 
+910	It 's an honor , sir . 	Это большая честь , сэр . 
+911	Nescafe , cream , two lumps . 	" Нескафе " , сливки , два кусочка сахара . 
+912	Thank you . 	Спасибо . 
+913	Okay , this letter you received . 	Так , значит , вы получили письмо . 
+914	Seems pretty clear that the Soviets are making an overture here . 	Очевидно , что Советы пытаются прощупать почву . 
+915	They 're doing it through East Germany because they still don 't want to acknowledge Abel as a Soviet citizen , much less a Soviet spy . 	И делают это через Восточную Германию , поскольку до сих пор не признают , что Абель - советский гражданин , и уж тем более , что он советский шпион . 
+916	So ... 	И делают это через Восточную Германию , поскольку до сих пор не признают , что Абель - советский гражданин , и уж тем более , что он советский шпион . 
+917	Lot of fiction going on . 	В этом деле много фикции . 
+918	Yes , sir , but to what end ? 	Да , сэр , но с какой целью ? 
+919	They got our guy , our spy pilot . 	У них наш пилот самолета- разведчика . 
+920	We 've got their guy . 	У нас их человек . 
+921	Prisoner exchange , I think that 's what they 're after . 	Думаю , они хотят устроить обмен пленными . 
+922	Which could hardly be a surprise to you , Counselor . 	Это вряд ли станет для вас сюрпризом , адвокат . 
+923	It 's an eventuality that I think you foresaw . 	Вы предвидели такую возможность . 
+924	Yes , I sure did , and I 'm so rarely right . 	Да , действительно . И я редко бываю прав . 
+925	Well , congratulations . 	Что ж , поздравляю . 
+926	Red letter day . 	Красный день календаря . 
+927	Now , we have our man over there . 	Итак , наш человек у них . 
+928	Powers . 	Пауэрс . 
+929	Good man , but with a head full of classified information . 	Хороший человек , но обладающий секретной информацией . 
+930	Abel has a head full of classified information , too , but he hasn 't given us a lick . 	Абель тоже знает много секретной информации , но он ничего нам не рассказал . 
+931	And , sir , take it from me , he won 't . 	Сэр , поверьте , и не расскажет . 
+932	Yes , we know that , but the Russians don 't . 	Да , мы это знаем , но русские не знают . 
+933	They want their man back before he cracks . 	Они хотят вернуть своего человека , пока он не раскололся . 
+934	And we want Powers back for the same reasons . 	И мы хотим вернуть Пауэрса по тем же причинам . 
+935	I think you are saying , sir , that there might be a happy ending for everyone . 	Мне кажется , вы говорите , что не исключен благоприятный исход для всех . 
+936	Yes , if we , um , indulge their fiction . 	Да , если мы подыграем их фикции . 
+937	We want you to negotiate the swap because you 're a private citizen , so it 's not governments talking . 	Мы хотим , чтобы вы вели переговоры по обмену . Вы частное лицо , и они не будут официальными . 
+938	They don 't acknowledge Abel as a Soviet citizen , and we don 't acknowledge East Germany as a sovereign country . 	Русские не признают , что Абель - советский гражданин , а мы не признаем Восточную Германию суверенным государством . 
+939	We haven 't recognized East Berlin since it was annexed by the Soviets in ´45 . 	Мы не признаем Восточный Берлин после его аннексии Советами в 45 году . 
+940	So I act as a negotiator , representing ... 	Значит , я веду переговоры от имени ... 
+941	You 're not representing anybody . 	Ни от чьего имени . 
+942	Not a government official . 	Вы не государственный служащий . 
+943	You have no official standing . 	У вас нет официального статуса . 
+944	So , some fiction on our side as well . 	Значит , фикция работает и на нас . 
+945	Correct . 	Верно . 
+946	Which means , of course , you can 't rely on any acknowledgment or help if things go south . 	А , значит , пойди что не так , вы не можете рассчитывать ни на какое содействие . 
+947	CIA can 't be responsible . 	ЦРУ не несет ответственности . 
+948	We can 't be embarrassed . 	Мы не можем оступиться . 
+949	Where do they want this negotiation to take place ? 	Где они хотят вести переговоры ? 
+950	There . 	Там . 
+951	" There " ? 	" Там " ? 
+952	East Berlin . 	В Восточном Берлине . 
+953	Well , isn 't East Berlin getting rather ... 	Разве в Восточном Берлине не становится ... 
+954	Oh , yes , the place is getting complicated . 	Да , ситуация там осложняется . 
+955	Yeah , complicated . 	Да , осложняется . 
+956	The Soviet side has been setting up checkpoints for the past few months to try to stop people hemorrhaging to the Western sectors , and it hasn 't worked . 	В последнее время советская сторона сооружает КПП , чтобы прекратить бегство людей в западные секторы , но это не помогает . 
+957	We have intelligence to suggest that they may go one step further and wall off the entire Eastern sector . 	По нашим данным , они могут сделать следующий шаг и оградить стеной весь восточный сектор . 
+958	Okay , that 's it in a nutshell . 	По нашим данным , они могут сделать следующий шаг и оградить стеной весь восточный сектор . 
+959	The decision is entirely yours . 	Итак , это вкратце . Решение принимать только вам . 
+960	You need time to kick it around . 	Вам нужно время , чтобы все обдумать . 
+961	No . 	Нет . 
+962	No , I don 't . 	Не нужно . 
+963	Well , fine . 	Что ж , прекрасно . 
+964	Fine . 	Прекрасно . 
+965	Best that this all remains confidential . 	Прошу , чтобы этот разговор остался между нами . 
+966	Let 's not discuss any of this with , uh , Mary or with anyone else . 	Не надо обсуждать это с Мэри и ни с кем другим . 
+967	Share the correspondence only with us . 	Ведите переписку только с нами . 
+968	Let us know what they want to do and when . 	Сообщите , что они хотят сделать и когда . 
+969	I' ve got no client , no wife , no country . 	У меня нет ни клиента , ни жены , ни страны . 
+970	Don 't know what I 'm doing or when or who for . 	Не знаю , что я делаю , когда и для кого . 
+971	You 're doing it for your country , but your country doesn 't know that yet . 	Вы делаете это для вашей страны , но она этого еще не знает . 
+972	What about my client , the other person in this equation ? 	А что с моим клиентом , другой частью этого уравнения ? 
+973	My guy ? 	Ваш клиент ? 
+974	Your guy ? 	Ваш клиент ? 
+975	You mean the Russian ? 	Вы про русского ? 
+976	He 's not your guy anymore , Counselor . 	Он уже не ваш клиент , адвокат . 
+977	Your guy is Francis Gary Powers now . 	Ваш клиент - Фрэнсис Гэри Пауэрс . 
+978	What do I tell Rudolf Abel ? 	Что мне сказать Рудольфу Абелю ? 
+979	Tell him not to drop dead . 	Попросите его не сыграть в ящик . 
+980	Professor ? 	ВОСТОЧНЫЙ БЕРЛИН 
+981	Professor ? 	Профессор ? 
+982	Papa went to university . 	Папа пошел в университет . 
+983	You shouldn 't be here , Frederic . 	Фредерик , ты не должен сюда приходить . 
+984	They 're having classes today ? 	У них сегодня занятия ? 
+985	He went to see . 	Он пошел посмотреть . 
+986	That 's where he goes . 	Он туда ходит . 
+987	What are you doing here ? 	Что ты здесь делаешь ? 
+988	I came to get you and your father . 	Я пришел за тобой и твоим отцом . 
+989	You have to come with me . 	Вы должны пойти со мной . 
+990	You might not get out tomorrow . 	Завтра , возможно , не получится . 
+991	Just ... 	Просто уйти ? 
+992	Just leave ? 	Просто уйти ? 
+993	Yes . 	Да , уйти . 
+994	Yes , yes , yes , leave . 	Да , уйти . 
+995	Right now . 	Прямо сейчас . 
+996	Go back . 	Назад . 
+997	Go back . 	Назад . 
+998	I' ll be okay , I 'm American . 	Меня не тронут . Я американец . 
+999	Go back . 	Назад . 
+1000	Go back to your father 's . 	Вернись к своему отцу . 
+1001	We 'll find another way . 	Найдем другой способ . Иди . 
+1002	Go . 	
+1003	Hey ! 	
+1004	So , hi . 	Привет . 
+1005	Papers , please . 	Документы , пожалуйста . 
+1006	Ich bin Student Frederic Pryor . 	Я студент Фредерик Прайор . 
+1007	Yes , Student . 	Да , студент . 
+1008	My name 's Frederic Pryor . 	Меня зовут Фредерик Прайор . 
+1009	I 'm an economics student . 	Я изучаю экономику . 
+1010	See ? 	Видите ? 
+1011	It 's my dissertation . 	Это моя диссертация . 
+1012	My thesis . 	Это моя диссертация . 
+1013	You see ? 	
+1014	Look , look . 	Смотрите . 
+1015	Look " The foreign trade system of the European Communist nations . " Huh ? 	" Иностранная торговля в коммунистических странах Европы " . 
+1016	It was a lot of work . 	Это большая работа . 
+1017	No , that 's my only copy . 	Нет , это единственный экземпляр . 
+1018	No ! 	Нет ! 
+1019	Tell me something . 	Расскажи хоть что- нибудь . 
+1020	It came up at the last minute . 	Это возникло в последний момент . 
+1021	They have offices in London . 	У них офисы в Лондоне . 
+1022	These clients . 	Все эти клиенты . 
+1023	Not my idea . 	Это не моя идея . 
+1024	Scotland , this fishing expedition . 	Шотландия , поездка на рыбалку . 
+1025	What kind of fishing trip , Jim ? 	Что вы будете делать , Джим ? 
+1026	Salmon fishing . 	Ловить лосося . 
+1027	Just tell me that you 're not gonna be in any danger , that this is just a routine business trip , and I won 't worry . 	Просто скажи , что тебе ничего не грозит , и это просто рабочая поездка , и я успокоюсь . 
+1028	I need my passport . 	Мне нужен паспорт . 
+1029	Just give me something to hold on to . 	Хотя бы просто обнадежь меня . 
+1030	I don 't even care if it 's the truth . 	Мне плевать , если это неправда . 
+1031	I 'm doing this for us . 	Я делаю это ради нас . 
+1032	Mr . 	М- р Мичнер будет сопровождать вас в Берлине . 
+1033	Michener , here , is your Berlin escort . 	М- р Мичнер будет сопровождать вас в Берлине . 
+1034	He 's an attache with the U . S . embassy . 	Он атташе посольства США . 
+1035	- So , it 's gotten goddamn complicated . 	Итак , ситуация очень осложнилась . 
+1036	- Uh- huh . 	Итак , ситуация очень осложнилась . 
+1037	As you know , the last letter from Mrs . 	Как вы знаете , так называемая миссис Абель писала об адвокате в Восточном Берлине , так называемом м- ре Фогеле , который представляет ее интересы . 
+1038	Abel , whoever she is , talks about a lawyer in East Berlin , 	Как вы знаете , так называемая миссис Абель писала об адвокате в Восточном Берлине , так называемом м- ре Фогеле , который представляет ее интересы . 
+1039	Mr . 	Как вы знаете , так называемая миссис Абель писала об адвокате в Восточном Берлине , так называемом м- ре Фогеле , который представляет ее интересы . 
+1040	Vogel , whoever he is , representing her interests , she says . 	
+1041	Yeah , Vogel says he 's gone to the Russian embassy in East Berlin and they may be ready to trade Abel for Powers . 	Фогель говорит , что был в русском посольстве в Восточном Берлине , и , возможно , они готовы обменять Абеля на Пауэрса . 
+1042	But no one knows who 's who , but essentially they 're all Russian , right ? 	Никто не знает , кто есть кто , но все они русские , так ? 
+1043	Well , Soviet . 	- Советские . 
+1044	Well , we think so . 	- Мы так считаем . 
+1045	What do you mean ? 	Что вы имеете в виду ? 
+1046	Could we turn up the heat in here ? 	Можно включить печку ? 
+1047	There 's a wrinkle . 	Есть загвоздка . 
+1048	They might try to throw you a curveball . 	Они могут сделать неожиданный ход . 
+1049	Try and get you to accept another prisoner other than Powers . 	Попытаться всучить вам другого заключенного вместо Пауэрса . 
+1050	Another American ? 	Другого американца ? 
+1051	The , uh , East German Stasi picked up an American student . 	Восточногерманская разведка задержала студента из Америки . 
+1052	Frederic Pryor . 	Фредерика Прайора . 
+1053	Uh , the kid they found on the wrong side of the Wall . 	Он оказался не с той стороны стены . 
+1054	He 's a grad student out of Yale . 	Он оказался не с той стороны стены . 
+1055	- Came over here to study economics . 	Он оказался не с той стороны стены . 
+1056	- Mmm- hmm . 	Он аспирант в Йеле , приехал изучать экономику . 
+1057	So , they 're making noises about trying this kid for espionage . 	Они намекают , что будут судить его за шпионаж . 
+1058	Grave offense , capital crime . 	Тяжкое преступление , грозящее смертной казнью . 
+1059	Well . 	Тяжкое преступление , грозящее смертной казнью . 
+1060	Vogel got in touch with us , said he represents Pryor . 	Фогель связался с нами и сказал , что он адвокат Прайора . 
+1061	Wait a minute . 	Минутку . 
+1062	Vogel represents Mrs . 	Фогель - адвокат миссис Абель и этого парнишки ? 
+1063	Abel and this ... 	Фогель - адвокат миссис Абель и этого парнишки ? 
+1064	This kid ? 	Фогель - адвокат миссис Абель и этого парнишки ? 
+1065	Yeah , he 's busy . 	Да , он деятельный . 
+1066	Well , so , what is he ? 	Так кто он ? 
+1067	Vogel , is he , uh , East German or is he Russian ? 	Фогель - восточный немец или русский ? 
+1068	Well , try to figure it out when you meet him . 	Попробуйте понять , когда встретитесь с ним . 
+1069	At Russian embassy , East Berlin , noon tomorrow . 	Русское посольство в Восточном Берлине , завтра в полдень . 
+1070	Hoffman will show you how to get there . 	Хоффман покажет вам , как туда добраться . 
+1071	Wait , show me how to get there ? 	Покажет , как добраться ? 
+1072	I 'm gonna have an escort . 	У меня будет сопровождающий . 
+1073	Right ? 	Так ? 
+1074	Well , that was the plan but like I said , there 's a wrinkle . 	Таков был план , но как я сказал , есть загвоздка . 
+1075	I won 't be taking you . 	Я не смогу отвести вас . 
+1076	Decision 's been made . 	Принято решение . 
+1077	No U . S . government personnel are to cross the border until further notice . 	Правительственным служащим США пока что запрещено пересекать границу . 
+1078	How come ? 	- Почему ? 
+1079	It 's too dangerous . 	- Слишком опасно . 
+1080	Yeah , the East Germans grabbed this kid . 	Восточные немцы задержали этого парня . 
+1081	There 's a degree of impunity that we had not anticipated . 	Мы не ожидали такой вопиющей безнаказанности . 
+1082	The point is that the East German agenda and the Russian agenda may not be the same thing . 	Суть в том , что планы восточных немцев и планы русских могут не совпадать . 
+1083	Try and figure it out and act accordingly . 	Попробуйте выяснить это и действуйте соответственно . 
+1084	And try to make a deal . 	Попробуйте договориться об обмене . 
+1085	Powers for Abel . 	Попробуйте договориться об обмене . 
+1086	Well , what about this college kid , Pryor ? 	Пауэрс на Абеля . А что же с этим студентом , Прайором ? 
+1087	Mmm- mmm . 	Не клюйте на это . 
+1088	Don 't fall for that . 	Не клюйте на это . 
+1089	We can get him out another time . 	Мы можем вытащить его позднее . 
+1090	Powers is the whole ball game . 	Сейчас нас интересует Пауэрс . 
+1091	Where 's your room ? 	Где вы живете ? 
+1092	I' ll be staying at the Hilton . 	Я остановлюсь в " Хилтоне " . 
+1093	It 's not far . 	Это недалеко . 
+1094	This is a number here in West Berlin . 	Это телефонный номер в Западном Берлине . 
+1095	Memorize it and give it back to me . 	Запомните его и верните мне бумажку . 
+1096	No , no . 	Нет . 
+1097	I ... 	Нет . 
+1098	I mean , now . 	Сейчас . 
+1099	The Soviets keep cutting the international lines but local calls are okay . 	Советы отключают международные линии , но местные звонки проходят . 
+1100	Someone will pick up day and night . 	У телефона всегда кто- то дежурит . 
+1101	Now , this docket attached to your passport will serve as your ticket into and out of the Eastern Soviet sector . 	Этот вкладыш в паспорте будет служить пропуском в советский сектор и из него . 
+1102	The meeting with Vogel is set for noon tomorrow . 	Встреча с Фогелем назначена на завтрашний полдень . 
+1103	There are only a few routes left to the East . 	Осталось лишь несколько путей на восток . 
+1104	You take the S- Bahn , the station we showed you on the way in . 	Сядете на " S- Ваhn " , мы показывали вам станцию . 
+1105	You 're gonna get off at the Friedrichstrasse station here and walk to the Soviet embassy on Unter den Linden here . 	Сойдете на станции " Фридрихштрассе " и дойдете до советского посольства на Унтер- ден- Линден . Изучите карту сейчас . 
+1106	Look at the map now . 	
+1107	You shouldn 't take it with you . 	Вы не должны брать ее с собой . 
+1108	You 're looking at a map , you 're an American , you 're a spy . 	Смотрите на карту , значит , вы американец и шпион . 
+1109	You could well be detained . 	Вас могут задержать . 
+1110	Just avoid interacting with people generally . 	Не общайтесь с людьми . 
+1111	You don 't ... 	Вы не местный , так что не высовывайтесь . 
+1112	You don 't belong , so don 't stick out . 	Вы не местный , так что не высовывайтесь . 
+1113	Food is scarce over there and things have started to fall apart . 	Там недостаток еды , и начинает царить хаос . 
+1114	There are gangs , and rule of law is less firmly established over there . 	Появились банды , и закон не всегда соблюдается . 
+1115	And definitely stay away from the Wall . 	И ни за что не подходите к Стене . 
+1116	On their side , there 's a line cleared of buildings along the Wall . 	С той стороны вдоль Стены идет линия без домов . 
+1117	They call it the " Death Line . " 	Ее называют " Полосой смерти " . 
+1118	Cross it and you 'll be shot . 	Пересечете ее - могут застрелить . 
+1119	Is there any outcome here where I 'm not either detained or shot ? 	Есть ли вариант , при котором меня не задержат и не застрелят ? 
+1120	Don 't worry too much about what Michener said . 	Не беспокойтесь о том , что сказал Мичнер . 
+1121	No , I 'm worried about what you 're saying . 	Нет , меня беспокоит то , что сказали вы . 
+1122	This kid , Pryor , that the East Germans have , how old is he ? 	Этому задержанному парнишке , Прайору , сколько лет ? 
+1123	Twenty- five . 	25 , а что ? 
+1124	Why ? 	25 , а что ? 
+1125	Same age as Dougie . 	Ровесник Даги . 
+1126	Who ? 	Кого ? 
+1127	Eh , an associate of mine . 	Моего ассистента . 
+1128	Frederic Pryor . 	Фредерик Прайор . 
+1129	Okay , okay , okay . 	Хорошо , хорошо . 
+1130	Danke . 	
+1131	So , we apologize if this offends . 	Мы извиняемся , если обидели . 
+1132	Uh ... 	
+1133	Coat ? 	Пальто . 
+1134	Okay . 	Хорошо . 
+1135	Do you understand English ? 	Вы говорите по- английски ? Да , сэр . 
+1136	Yes , sir . 	Я Джеймс Донован . 
+1137	I 'm James Donovan . 	Я Джеймс Донован . 
+1138	I 'm here to meet a Mr . 	Пришел на встречу с м- ром Фогелем . 
+1139	Vogel . 	Пришел на встречу с м- ром Фогелем . 
+1140	Mr . 	С м- ром Фогелем . 
+1141	Vogel . 	С м- ром Фогелем . 
+1142	He doesn 't work here . 	Он тут не работает . 
+1143	I 'm just supposed to meet him . 	Мы должны здесь встретиться . 
+1144	That 's all I know . 	Это все , что я знаю . 
+1145	Mr . 	М- р Донован ! 
+1146	Donovan ! 	М- р Донован ! 
+1147	So we finally meet you . 	Все- таки мы встретились с вами . 
+1148	I 'm Helen Abel . 	Я Хелен Абель . 
+1149	How is our husband ? 	- Как мой муж ? 
+1150	Oh . 	- Прекрасно . 
+1151	He 's fine . 	- Прекрасно . 
+1152	How is my Rudolf ? 	Как там мой Рудольф ? 
+1153	As good as can be expected . 	Хорошо , учитывая обстоятельства . 
+1154	And we will get him back , yes ? 	И мы получим его назад , правда ? 
+1155	This is our daughter . 	Это наша дочь . 
+1156	How do you do ? 	Как поживаете ? 
+1157	Lydia . 	Лидия . 
+1158	Are you Mr . 	Вы м- р Фогель ? 
+1159	Vogel ? 	Вы м- р Фогель ? 
+1160	No , no , no ! 	Нет , нет , нет ! 
+1161	I 'm not Vogel . 	Я не Фогель . 
+1162	I 'm cousin Drews . 	Я кузен Дрюс . 
+1163	This is Rudolf 's beloved cousin Drews . 	Это Дрюс , дорогой кузен Рудольфа . 
+1164	Yes , cousin Drews . 	Да , кузен Дрюс . 
+1165	I am cousin Drews . 	Я кузен Дрюс . 
+1166	Cousin Drews , yes . 	Да , кузен Дрюс . 
+1167	I 'm Helen Abel . 	Я Хелен Абель . 
+1168	When will you see him ? 	Когда вы с ним встретитесь ? 
+1169	When will your government release him ? 	Когда ваше правительство его отпустит ? 
+1170	I 'm a little , uh , lost here . 	Я немного запутался . 
+1171	I 'm supposed to meet a Mr . 	Я должен был встретиться с м- ром Фогелем . 
+1172	Vogel . 	Я должен был встретиться с м- ром Фогелем . 
+1173	Oh , Mr . 	М- р Фогель - наш адвокат . 
+1174	Vogel is our lawyer . 	М- р Фогель - наш адвокат . 
+1175	We were supposed to negotiate , uh , the exchange . 	Мы должны были договориться об обмене . 
+1176	To bring Rudolf here ? 	Чтобы привезти Рудольфа ? 
+1177	Yes , yes , to bring him here . 	Да , чтобы привезти его . 
+1178	But it doesn 't happen unilaterally , do you understand ? 	Но не в одностороннем порядке , понимаете ? 
+1179	It has to be an exchange . 	Это должен быть обмен . 
+1180	Not here ? 	Не здесь ? 
+1181	Shh . 	
+1182	Shh . 	
+1183	Shh . 	
+1184	Mr . 	М- р Донован ? 
+1185	Donovan ? 	М- р Донован ? 
+1186	Mr . 	М- р Фогель . 
+1187	Vogel . 	М- р Фогель . 
+1188	No , no , no . 	Нет , нет , нет . 
+1189	Goodness . 	Вы что . 
+1190	My name is Schischkin . 	Моя фамилия Шишкин . 
+1191	Ivan Schischkin . 	Иван Шишкин . 
+1192	I 'm the second secretary of the Soviet embassy . 	Я второй секретарь советского посольства . 
+1193	It wouldn 't be appropriate for Mr . 	Было бы неуместно пригласить сюда м- ра Фогеля . 
+1194	Vogel to join us . 	Было бы неуместно пригласить сюда м- ра Фогеля . 
+1195	He is a German national . 	Он гражданин Германии . 
+1196	So you aren 't here to ... 	Значит , вы не пришли , чтобы ... 
+1197	To facilitate this meeting . 	Способствовать этой встрече . 
+1198	Uh , perhaps Mrs . 	Возможно , миссис Абель лучше выйти и успокоиться ? 
+1199	Abel would like to compose herself privately ? 	Возможно , миссис Абель лучше выйти и успокоиться ? 
+1200	And let Mr . 	И позволить нам с м- ром Донованом поговорить . 
+1201	Donovan and myself to talk ? 	И позволить нам с м- ром Донованом поговорить . 
+1202	Thank you . 	Спасибо . 
+1203	So , I 'm confused . 	Я в замешательстве . 
+1204	Yes . 	Да . 
+1205	Uh , I don 't care who I talk to if it 's about an exchange of personnel . 	Мне неважно , с кем говорить по поводу обмена пленными . 
+1206	Are you the person to talk to ? 	Я буду обсуждать это с вами ? 
+1207	Yes , yes , yes , of course . 	Да , разумеется . 
+1208	Uh , we should talk . 	Мы должны поговорить . 
+1209	Please , have a seat , Mr . 	Прошу вас , присядьте , м- р Донован . 
+1210	Donovan . 	Прошу вас , присядьте , м- р Донован . 
+1211	Uh , how did you arrive to the Eastern sector ? 	Как вы попали в восточный сектор ? 
+1212	The train . 	На поезде . 
+1213	The S- Bahn . 	" S- Ваhn " . 
+1214	Ah , and you were alone ? 	Вы были один ? 
+1215	Yeah . 	Да . 
+1216	And you are credentialed ? 	У вас есть документы ? 
+1217	Now , you must know about me , sir . 	Вы должны знать обо мне . 
+1218	I 'm a private citizen . 	Я частное лицо . 
+1219	I 'm a lawyer in Brooklyn in the United States , and I' ve taken time out of my busy schedule to help my client , Rudolf Abel . 	Я адвокат в Бруклине , Соединенные Штаты . Уделил время , чтобы помочь моему клиенту , Рудольфу Абелю . 
+1220	I 'm authorized to arrange an exchange of Abel for Francis Gary Powers . 	Я уполномочен организовать обмен Абеля на Фрэнсиса Гэри Пауэрса . 
+1221	This is a full pardon of Abel that will be signed when the exchange actually takes place . 	Это документ о помиловании Абеля , который будет подписан , когда состоится обмен . 
+1222	This is the only reason I 'm here . 	Я здесь исключительно по этому делу . 
+1223	I hope and expect to make this arrangement quickly . 	Я надеюсь быстро договориться об обмене . 
+1224	Abel for Francis Gary Powers and Frederic Pryor . 	Обмен Абеля на Фрэнсиса Гэри Пауэрса и Фредерика Прайора . 
+1225	Mmm , we don 't have Pryor . 	У нас нет Прайора . 
+1226	No ? 	Нет ? 
+1227	You don 't ? 	Правда ? 
+1228	I' ve heard of Pryor , but he 's held by the German Democratic Republic , not by the Union of Soviet Socialist Republics . 	Я слышал о Прайоре , но он задержан Германской Демократической Республикой , а не Союзом Советских Социалистических Республик . 
+1229	Well , I' ll tell you the first problem . 	Знаете , в чем первая проблема ? 
+1230	The names of your countries are too long . 	У ваших стран очень длинные названия . 
+1231	Yes , yes . 	Да , да . 
+1232	If we release Powers , it is only to promote a goodwill between our countries . 	Если мы отпустим Пауэрса , то лишь ради доброй воли в отношениях между нашими странами . 
+1233	So , it cannot be an exchange . 	Это не может быть обменом . 
+1234	Perhaps ... 	Может быть , вы отпустите Абеля , в знак доброй воли по отношению к нашим немецким друзьям , а потом , через несколько месяцев , мы отпустим Пауэрса . 
+1235	Perhaps you could release Abel as a token of goodwill to our friends in Germany , and then , some months later , we would release Powers . 	Может быть , вы отпустите Абеля , в знак доброй воли по отношению к нашим немецким друзьям , а потом , через несколько месяцев , мы отпустим Пауэрса . 
+1236	There is an idea . 	Есть такой вариант . 
+1237	No . 	Есть такой вариант . 
+1238	That just won 't work for us at all . 	Нет . 
+1239	See , we need this to be an exchange . 	Это нам совсем не подходит . Нам нужен обмен . 
+1240	You can call it what you want , but an exchange it must be . 	Можете называть это как хотите , но это должен быть обмен . 
+1241	We can have Abel here within 48 hours . 	Мы можем доставить сюда Абеля в течение 48 часов . 
+1242	We need Powers at the same time we give you Abel . 	Нам нужен Пауэрс в тот момент , когда вы получите Абеля . 
+1243	Hmm . 	
+1244	This is ... 	Это ... 
+1245	Can we call this the " impatient plan " ? 	Можно назвать это " нетерпеливым планом " ? 
+1246	Well , you can call it whatever you want . 	Можете называть это как хотите . 
+1247	I can relay your impatient plan to Moscow , see what they say ... 	Я передам ваш нетерпеливый план в Москву , но им будет интересно , почему вы так нетерпеливы . 
+1248	But they will wonder why so impatient . 	Я передам ваш нетерпеливый план в Москву , но им будет интересно , почему вы так нетерпеливы . 
+1249	Because I have a cold . 	Потому что я простыл . 
+1250	And I don 't live in Berlin and I want to go home . 	Я не живу в Берлине и хочу поехать домой . 
+1251	They will think , 	Они подумают : 
+1252	" Well , the Americans must have gotten 	" Видимо , американцы выудили всю информацию , которая была у Абеля . 
+1253	" all the information that Abel had to give . 	" Видимо , американцы выудили всю информацию , которая была у Абеля . 
+1254	" And now they 're impatient to trade him , 	Теперь они хотят побыстрее обменять его , в надежде вернуть своего человека , Пауэрса , который , возможно , еще не выдал всю информацию , которой владеет " . 
+1255	" hoping to get in return this man , Powers , 	Теперь они хотят побыстрее обменять его , в надежде вернуть своего человека , Пауэрса , который , возможно , еще не выдал всю информацию , которой владеет " . 
+1256	" that , perhaps , has not yet given up 	Теперь они хотят побыстрее обменять его , в надежде вернуть своего человека , Пауэрса , который , возможно , еще не выдал всю информацию , которой владеет " . 
+1257	" all the information that he has to give . " 	
+1258	This is not an equitable trade , sir . 	Это не равноценный обмен , сэр . 
+1259	But what you 're saying is , if Powers has given up everything he knows , then Moscow would trade ? 	Вы хотите сказать , если Пауэрс рассказал все , что знает , то Москва согласна на обмен ? 
+1260	Why wouldn 't they ? 	Почему бы им не согласиться ? 
+1261	As for Abel , if he dies in an American prison , the next Russian operative who gets caught might think twice about keeping his mouth shut . 	Что касается Абеля , если он умрет в американской тюрьме , то следующий пойманный русский агент задумается , стоит ли ему молчать . Кто знает . 
+1262	And you never know . 	Возможно , Абель захочет снова увидеть небо и решит обменять русские тайны на американское снисхождение . 
+1263	Abel might want to see the sky again and decide to trade Russian secrets for small American favors . 	Возможно , Абель захочет снова увидеть небо и решит обменять русские тайны на американское снисхождение . 
+1264	How can we know this ? 	Откуда нам это знать ? 
+1265	We little men , we just do our jobs . 	Мы маленькие люди , просто выполняем нашу работу . 
+1266	Like Lieutenant Powers . 	Как и лейтенант Пауэрс . 
+1267	He 's just a pilot . 	Он просто пилот . 
+1268	He was making photographs from 70, 000 feet when he was shot from the sky . 	Когда его самолет сбили , он делал фотографии с высоты 21 км . 
+1269	People in my country consider this an act of war . 	В моей стране это считается военной агрессией . 
+1270	We have to get off this merry- go- round , sir . 	Нужно сойти с этой карусели , сэр . 
+1271	The next mistake our countries make could be the last one . 	Следующая ошибка наших стран может стать последней . 
+1272	We need to have the conversation our governments can 't . 	Мы можем вести разговор , который не могут вести наши правительства . 
+1273	I will ask Moscow . 	Я спрошу у Москвы . 
+1274	Who knows what they will say . 	Кто знает , что там скажут . 
+1275	There are a lot of people , Mr . 	М- р Донован , многие люди не хотят , чтобы этот обмен состоялся . 
+1276	Donovan , who doesn 't want this exchange to ever take place . 	М- р Донован , многие люди не хотят , чтобы этот обмен состоялся . 
+1277	Can you come back tomorrow to discuss their answer ? 	Вы можете вернуться завтра , чтобы обсудить ответ Москвы ? 
+1278	Powers for Abel . 	Пауэрса на Абеля . 
+1279	And Frederic Pryor . 	И Фредерика Прайора . 
+1280	As I said , 	Как я сказал , Прайор находится у органов госбезопасности 
+1281	Pryor is in the hands of the organs of 	Как я сказал , Прайор находится у органов госбезопасности 
+1282	State Security of the German Democratic Republic . 	Германской Демократической Республики . 
+1283	I 'm confident you can make arrangements . 	Я уверен , что вы можете договориться . 
+1284	I am merely a secretary in the embassy of foreign power . 	Я лишь секретарь в посольстве иностранной державы . 
+1285	Okay , okay . 	Хорошо . 
+1286	You have to see Mr . 	Вы должны встретиться с м- ром Фогелем . 
+1287	Vogel . 	Вы должны встретиться с м- ром Фогелем . 
+1288	I' ll give you his address . 	Я дам вам его адрес . 
+1289	There actually is a Mr . 	М- р Фогель на самом деле существует ? 
+1290	Vogel ? 	М- р Фогель на самом деле существует ? 
+1291	Why would you imagine otherwise ? 	А как же иначе ? 
+1292	Uh , it 's a short cab ride . 	На такси это недалеко . 
+1293	And please , Mr . 	Прошу вас , м- р Донован , в такую погоду носите пальто . 
+1294	Donovan , wear an overcoat in this weather . 	Прошу вас , м- р Донован , в такую погоду носите пальто . 
+1295	I had mine stolen from me . 	Мое пальто украли . 
+1296	What do you expect ? 	А чего вы ожидали ? 
+1297	It was from Saks Fifth Avenue . 	Его купили в " Саксе " на Пятой авеню . 
+1298	Wasn 't it ? 	Разве нет ? 
+1299	Mr . 	М- р Донован . 
+1300	Donovan . 	М- р Донован . 
+1301	Mr . 	М- р Фогель . 
+1302	Vogel . 	М- р Фогель . 
+1303	Please come in . 	Прошу , входите . 
+1304	Danke . 	
+1305	Sorry about the embassy . 	Простите за отсутствие в посольстве . 
+1306	But the Soviets decided not to host me . 	Русские решили не пускать меня . 
+1307	Very irritating . 	Это очень раздражает . 
+1308	I am still trying to grasp each party 's ... 	Я все еще пытаюсь понять , какая у каждой из сторон ... 
+1309	Status ? 	Позиция ? Да . 
+1310	Yes . 	И интерес в процедуре обмена . 
+1311	And interest in the proceedings . 	И интерес в процедуре обмена . 
+1312	Oh . 	Это новый мир . 
+1313	It 's a new world . 	Это новый мир . 
+1314	All very disorienting , isn 't it ? 	Все очень запутанно , верно ? 
+1315	Let me tell you what I have to offer . 	Я скажу вам , что могу предложить . 
+1316	I 'm a good friend ... 	Я хороший друг ... 
+1317	" Friend . " 	" Друг " . Нет . 
+1318	No , he 's older . 	Он старше . 
+1319	" Protege " ? 	" Протеже " ? 
+1320	Of the attorney general of the German Democratic Republic . 	Генерального прокурора Германской Демократической Республики . 
+1321	Sit down , please . 	Присядьте , пожалуйста . 
+1322	This unfortunate , 	Этот бедняга 
+1323	Frederic Pryor , he was in the wrong place at the wrong time . 	Фредерик Прайор оказался в неподходящем месте в неподходящее время . 
+1324	But every accident , properly viewed , is an opportunity , isn 't it , Mr . 	Но под правильным углом зрения , любой случай - это хороший шанс , верно ? 
+1325	Donovan ? 	
+1326	Well ... 	
+1327	Your country refuses to recognize the German Democratic Republic . 	Ваша страна отказывается признать Германскую Демократическую Республику . 
+1328	They prefer to make up stories that the GDR doesn 't exist , for instance . 	Они предпочитают выдумывать истории о том , что ГДР не существует . 
+1329	Sorry . 	Простите . 
+1330	As a means of forcing your government 's recognition of this real place , sir , in which you find yourself , the GDR , the attorney general is happy to negotiate with you as a representative of your government for Mr . 	Для того , чтобы заставить ваше правительство признать эту страну , в которой вы находитесь , ГДР , генпрокурор с радостью обсудит с вами , представителем вашего правительства , освобождение м- ра Прайора . 
+1331	Pryor 's return . 	Для того , чтобы заставить ваше правительство признать эту страну , в которой вы находитесь , ГДР , генпрокурор с радостью обсудит с вами , представителем вашего правительства , освобождение м- ра Прайора . 
+1332	Mr . 	Для того , чтобы заставить ваше правительство признать эту страну , в которой вы находитесь , ГДР , генпрокурор с радостью обсудит с вами , представителем вашего правительства , освобождение м- ра Прайора . 
+1333	Vogel , I 'm not here as a representative of my government . 	М- р Фогель , я здесь не в качестве представителя моего правительства . 
+1334	All right . 	Хорошо . 
+1335	I think that 's childish , Mr . 	Думаю , это несерьезно , м- р Донован . 
+1336	Donovan . 	Думаю , это несерьезно , м- р Донован . 
+1337	Well , I ... 	У меня нет официального статуса . 
+1338	I have no official status . 	У меня нет официального статуса . 
+1339	Fine . 	Прекрасно . 
+1340	You do not represent the USA , I do not represent the GDR . 	Вы не представляете США . Я не представляю ГДР . 
+1341	My client is Lydia Abel , Rudolf 's wife . 	Мой клиент - Лидия Абель , жена Рудольфа . 
+1342	And I have also ... 	И у меня также ... 
+1343	Lydia is the daughter . 	Дочь зовут Лидия . 
+1344	Helen is the wife . 	Хелен - жена . 
+1345	Well ... 	
+1346	I am prepared to offer 	Я готов обменять Фредерика Прайора на Рудольфа Абеля . 
+1347	Frederic Pryor 's exchange for Rudolf Abel 's . 	Я готов обменять Фредерика Прайора на Рудольфа Абеля . 
+1348	Then let 's be clear . 	Тогда внесем ясность . 
+1349	We will produce Rudolf Abel . 	Мы предъявим Рудольфа Абеля . 
+1350	You will produce , at the same time , the student , Pryor . 	Вы в это же время предъявите Прайора . 
+1351	At the same time ? 	В это же время . 
+1352	Absolutely . 	Разумеется . 
+1353	The exchange on offer is a Russian at the end of his life for an American student at the start of his . 	Предлагается обмен русского на закате жизни на американского студента на заре жизни . 
+1354	Schischkin ? 	Шишкин ? 
+1355	He 's not an embassy secretary . 	Он не секретарь посольства . 
+1356	Ivan Schischkin is the KGB 's chief in western Europe . 	Иван Шишкин - глава КГБ в Западной Европе . 
+1357	Well , whatever he is , he 's relaying our proposal to Moscow and they 'll decide . 	Как бы там ни было , он передаст наше предложение Москве , и они примут решение . 
+1358	Could I borrow a coat ? 	Не одолжите пальто ? 
+1359	I lost mine . 	Я лишился моего . 
+1360	How did you lose your coat ? 	Как вы его лишились ? 
+1361	You know , spy stuff . 	Шпионские дела , понимаете ли . 
+1362	I' ll get you another coat . 	Я найду вам пальто . Хорошо , а то ... 
+1363	Good , because ... 	Так кто такой этот Фогель ? 
+1364	So who is , uh ... 	Так кто такой этот Фогель ? 
+1365	Who is this Vogel ? 	Так кто такой этот Фогель ? 
+1366	Him , we don 't know . 	Мы не знаем . 
+1367	He might be what you said he said he is . 	Возможно , он тот , кем назвался . 
+1368	Friend of the attorney general . 	Другом генерального прокурора . 
+1369	Just some guy the GDR tapped to handle this . 	Человек , которому ГДР поручила это дело . 
+1370	Sounds like the East Germans are fighting for a place at our table . 	Похоже , Восточная Германия борется за место под солнцем . 
+1371	The GDR gets Abel back for the Russians , winning their respect ... 	ГДР заполучит Абеля для русских и заслужит их уважение , и одновременно привлечет внимание к своей цели . 
+1372	And capturing the headlines for their cause . 	ГДР заполучит Абеля для русских и заслужит их уважение , и одновременно привлечет внимание к своей цели . 
+1373	Which , of course , puts East Germany on the map . 	А именно - нанести ГДР на карту мира . 
+1374	But we don 't care about their map . 	Их карта нас не интересует . 
+1375	Stick with the Russians . 	Говорите с русскими . 
+1376	Stick with the Russians . 	Говорите с русскими . 
+1377	It 's Powers for Abel . 	Пауэрс на Абеля . 
+1378	So , does all this mean this might actually happen ? 	Это значит , что это действительно возможно ? 
+1379	Yeah , that 's what you seem to be telling me . 	Да , это то , что вы мне говорите . 
+1380	We 'll put Abel on a plane , he 'll be here Friday . 	Мы посадим Абеля на самолет , и он будет тут в пятницу . 
+1381	So , if Schischkin gets the okay , all that 's left is the mechanics of the trade . 	Если Шишкин получит разрешение , останется лишь продумать детали обмена . 
+1382	How we swap our guy for their guy . 	Нашего человека на их человека . 
+1383	Our " guys . " Two guys . 	Наших людей . Двоих . 
+1384	Powers and Pryor . 	Пауэрса и Прайора . 
+1385	No , now don 't go bleeding heart on me . 	Нет , только без сентиментальностей . 
+1386	Powers is the whole ball game . 	Нас интересует Пауэрс . 
+1387	Forget this Ivy League boy , who obviously thought it was a good idea to study Soviet economics in Berlin in the middle of the Cold War . 	Забудьте про этого студента , которому полюбилась идея изучать советскую экономику в Берлине в разгар Холодной войны . 
+1388	Powers is who we need . 	Нам нужен Пауэрс . 
+1389	You don 't even like Powers . 	Вам даже не нравится Пауэрс . 
+1390	Everybody hates Powers . 	Все ненавидят Пауэрса . 
+1391	He didn 't kill himself and he let the commies parade him on television . 	Он не покончил с жизнью и дал русским выставить себя напоказ на телевидении . 
+1392	He 's the most hated man in America . 	Он самый ненавидимый человек в Америке . 
+1393	After Rudolf Abel , maybe . 	Наверное , после Рудольфа Абеля . 
+1394	And me . 	И меня . 
+1395	Now wake up ! 	Просыпайся ! 
+1396	I gotta sleep . 	Мне нужно поспать . 
+1397	I just gotta sleep . 	Мне нужно поспать . 
+1398	I told you , you can sleep once we talk what we need to talk . 	Я сказал , что ты поспишь , когда расскажешь то , что нам нужно . 
+1399	You must focus on me . 	Слушай меня . 
+1400	Your government doesn 't care about you . 	Твоему правительству плевать на тебя . 
+1401	You know that . 	Ты это знаешь . 
+1402	Any of you . 	На всех вас . 
+1403	You know that twelve U- 2 pilots incurred brain damage ? 	Ты знаешь , что у двенадцати пилотов У- 2 повреждения мозга ? 
+1404	They 're vegetables because of altitude , insufficient oxygen . 	Из- за недостатка кислорода на высоте они стали живыми трупами . 
+1405	But they keep you flying , Gary . 	Но они отправляют вас в воздух , Гэри . 
+1406	You and your friends . 	Тебя и твоих друзей . 
+1407	They gave you this . 	Они дали вам это . 
+1408	A scratcher , yes ? 	Булавка , так ? 
+1409	Potassium cyanide . 	Цианистый калий . 
+1410	Does that look like they care about you ? 	Похоже , что им есть до вас дело ? 
+1411	What is the construction of the destructor unit ? 	Как устроен самоликвидатор ? 
+1412	By what means is this unit operated ? 	Каким образом он управляется ? 
+1413	With what explosives is the unit charged , and what destruction is it capable of ? 	Какие там взрывные вещества и какая мощность ? 
+1414	I don 't know . 	Не знаю . 
+1415	The pilots were never shown any of the equipment . 	Пилотам никогда не показывали оборудование . 
+1416	How wide far can the radar map an area during an overflight ? 	Какую площадь может сфотографировать самолет за один облет ? 
+1417	I don 't know , I don 't know ! 	Я не знаю . Я не знаю ! 
+1418	Were you making the overflight on April 9th over the industrial area and MiG bomber base at Baranovichi ? 	9 апреля ты пролетал над индустриальной зоной и базой бомбардировщиков МиГ в Барановичах ? 
+1419	I was not . 	Нет . 
+1420	This was my first overflight . 	Это мой первый вылет . 
+1421	I need to know about engine- out to glide ratio . 	Расскажи о дальности планирования при неработающем двигателе . 
+1422	How the plane gets so high . 	Как самолет поднимается так высоко . 
+1423	We know it reaches altitude of 70, 000 feet . 	Мы знаем , что его летный потолок - 21 км . 
+1424	Gary , we know this . 	Гэри , мы это знаем . 
+1425	And I need to know where the planes have flown . 	Я хочу знать , где летали эти самолеты . 
+1426	Where they have flown , Gary . 	Где они летали , Гэри . 
+1427	And we must have this talk now . 	И мы должны поговорить об этом сейчас . 
+1428	Now . 	Сейчас . 
+1429	And then you can sleep a little . 	И потом ты сможешь немного поспать . 
+1430	Sir , wake up . 	Сэр , просыпайтесь . 
+1431	Wake up , sir . 	Просыпайтесь , сэр . 
+1432	Sir , can you come with me , please ? 	Сэр , вы можете пройти со мной ? Да . 
+1433	Yeah . 	
+1434	We gotta move . 	- Нам нужно идти . 
+1435	Yeah , of course . 	- Хорошо . 
+1436	Can you come with me , please ? 	- Можете пройти со мной ? 
+1437	Yeah . 	- Можете пройти со мной ? 
+1438	Okay . 	- Да . Хорошо . 
+1439	Got your glasses ? 	Взяли очки ? 
+1440	Uh- huh . 	Который сейчас час ? 
+1441	What time is it ? 	Который сейчас час ? 
+1442	It 's late , but we need to talk , and then we need to get on a plane , okay ? 	Поздний , но нам нужно поговорить , а потом сесть на самолет , ясно ? 
+1443	Yeah . 	Да . 
+1444	Yep . 	Да . 
+1445	Upsy- daisy ! 	Опаньки ! 
+1446	Upsy- daisy . 	- Опаньки . 
+1447	That 's right . 	- Верно . 
+1448	There we go . 	Вот так . 
+1449	Keep it moving . 	Пойдем . 
+1450	Thank you . 	Спасибо . 
+1451	Other way , other way . 	В другую сторону . 
+1452	There we go . 	Вот так . 
+1453	You say a plane ? 	Вы сказали " самолет " ? 
+1454	This way , please . 	Сюда , пожалуйста . 
+1455	Keep moving . 	Идем . 
+1456	So , I received a favorable decision from Moscow on your proposal that we help our friends in the German Democratic Republic by exchanging 	Я получил согласие Москвы на ваше предложение помочь нашим друзьям из Германской Демократической Республики и обменять м- ра Пауэрса на м- ра Абеля . 
+1457	Mr . 	Я получил согласие Москвы на ваше предложение помочь нашим друзьям из Германской Демократической Республики и обменять м- ра Пауэрса на м- ра Абеля . 
+1458	Powers for Mr . 	Я получил согласие Москвы на ваше предложение помочь нашим друзьям из Германской Демократической Республики и обменять м- ра Пауэрса на м- ра Абеля . 
+1459	Abel . 	
+1460	That 's swell . 	Прекрасно . 
+1461	May I suggest the Glienicke Bridge as a place of a swap ? 	Могу предложить Глиникский мост в качестве места обмена ? 
+1462	Why not Checkpoint Charlie ? 	Почему не КПП " Чарли " ? 
+1463	We 're not looking for publicity . 	Мы не хотим лишней огласки . 
+1464	The Glienicke Bridge is very quiet , especially early in the morning . 	На Глиникском мосту очень тихо , особенно рано утром . 
+1465	Glienicke Bridge . 	Глиникский мост . 
+1466	I' ll run that by our side . 	Я спрошу у своих . 
+1467	We can have Abel here on Friday . 	Мы можем доставить Абеля в пятницу . 
+1468	So , Saturday morning ? 	Субботнее утро подойдет ? 
+1469	Always impatience , yeah ? 	Вы всегда нетерпеливы , да ? 
+1470	I want to get home and get into bed . 	Хочу вернуться домой и лечь в постель . 
+1471	So , Saturday morning ? 	Значит , в субботу утром ? 
+1472	5 : 30 ? 	В 5 . 30 ? 
+1473	All right . 	Хорошо . 
+1474	We 're done here . 	Договорились . 
+1475	This is a number , in case anything should come up . 	Это телефонный номер , на всякий случай . 
+1476	All right . 	Хорошо . 
+1477	Someone will answer at any hour . 	У телефона дежурят круглосуточно . 
+1478	I don 't expect to use it . 	Надеюсь , звонить не придется . 
+1479	Shall we toast the arrangement ? 	Выпьем за договоренность ? 
+1480	Why not ? 	Почему бы и нет ? 
+1481	Armenian brandy . 	Армянский бренди . 
+1482	Good bracer for your cold . 	Лучшее средство от простуды . 
+1483	Thank you . 	Спасибо . 
+1484	Would you mind ... 	Позвольте мне ... 
+1485	This is not part of our business but I 'd like to ask you a couple of questions . 	Это не имеет отношения к делу , но я хотел бы задать пару вопросов . 
+1486	You do not have to answer . 	Вы не обязаны отвечать . 
+1487	I shall answer what I know . 	Я отвечу , если смогу . 
+1488	I like this guy , your guy . 	Мне нравится этот человек . Ваш человек . 
+1489	What happens to your guy when he gets home ? 	Что с ним будет , когда он вернется домой ? 
+1490	Well , we have to make a determination whether our guy is now your guy . 	Нам придется проверить , не стал ли он вашим человеком . 
+1491	Now , as I said to you before , he 's acted honorably . 	Как я уже сказал , он вел себя безупречно . 
+1492	He 's still your guy , believe me . 	Он все еще ваш человек , поверьте . 
+1493	Of course you will say that if it were true and if it were not true . 	Разумеется , вы будете так говорить , будь это правда или нет . 
+1494	I guess it has come down to that , huh ? 	Думаю , все сводится к этому . 
+1495	Well , forgive me for pushing , but is he in any danger if the determination is made ? 	Простите за настойчивость , но грозит ли ему опасность , если будет сделан такой вывод ? 
+1496	Well , goodness . 	Что тут сказать . 
+1497	As things are now , everyone is in danger . 	В нынешней ситуации все мы в опасности . 
+1498	Cheers . 	Ваше здоровье . 
+1499	Na zdorovie . 	
+1500	There will be no exchange on Glienicke Bridge . 	На Глиникском мосту обмена не будет . 
+1501	Excuse me , sir . 	Прошу прощения , сэр ? 
+1502	There will be no exchange . 	Обмена не будет . 
+1503	Not for Frederic Pryor . 	Для Фредерика Прайора . 
+1504	Mr . 	М- р Фогель , мы же вчера договорились . 
+1505	Vogel , I thought yesterday we had agreed . 	М- р Фогель , мы же вчера договорились . 
+1506	We agreed on an exchange , Abel for Pryor . 	Мы договорились обменять Абеля на Прайора . 
+1507	Now I learn you are a rug merchant selling the same rug to two customers . 	Но я узнал , что вы нечестный торговец , продающий один товар двум покупателям . Нам предлагаете обмен Абеля на Прайора . 
+1508	Abel for Pryor you sell to us . 	Да . 
+1509	Yeah . 	Да . 
+1510	And Abel for Powers you sell to the Soviets . 	А Советам - обмен Абеля на Пауэрса . 
+1511	I 'm not quite sure what the problem is if the arrangement satisfies two parties or three or four . 	Я не знаю , в чем проблема , если эта сделка удовлетворяет две , три или четыре стороны . 
+1512	What difference does it make ? 	Какая разница ? 
+1513	The arrangement does not satisfy this party . 	Эта сделка не устраивает нашу сторону . 
+1514	Now , Mr . 	Послушайте , м- р Фогель ... 
+1515	Vogel , please ... 	Послушайте , м- р Фогель ... 
+1516	Obviously you do not know who you are dealing with . 	Очевидно , вы не понимаете , с кем имеете дело . 
+1517	Here 's the interest of the German Democratic Republic . 	У Германской Демократической Республики есть свои интересы . 
+1518	To deal with , and to be seen to be dealing with another sovereign power , the United States . 	Открыто договариваться с другой суверенной державой - Соединенными Штатами . 
+1519	An equal power . 	На равных . 
+1520	Instead you treat us as stooges for the Union of Soviet Socialist Republics . 	Но вы относитесь к нам , как к марионетке Советского Союза . 
+1521	Can we just call them the Russians ? 	Можно называть их русскими ? 
+1522	It 'll save time . 	Сэкономим время . 
+1523	I have an appointment , sir . 	У меня встреча , сэр . 
+1524	I think it 's you who are wasting time . 	Это вы теряете время . 
+1525	Now , tell me if I am describing this wrong . 	Объясните , если я выражаюсь неправильно . 
+1526	You have a kid , a university student , someone you know is not a spy , who 's no threat to you . 	У вас паренек , студент университета , и вы знаете , что он не шпион и не угрожает вам . 
+1527	And in exchange for this person who is worthless to you , you play an equal part in an exchange between the Russians and the Americans . 	В обмен на этого человека , который вам совершенно ни к чему , вы на равных ведете диалог с русскими и американцами . 
+1528	And this is one transaction between us and the two of you . 	Это одна сделка между нами и вашими странами . 
+1529	We 're not trying to do two things here , sir . 	Мы не занимаемся двумя сделками . 
+1530	We 're just doing one thing . 	Это одна сделка . 
+1531	One , one , one . 	Одна , одна , одна . 
+1532	It 's hard for me to see how the Republic of East German Democrats is being slighted . 	Я не вижу пренебрежения Германской Демократической Республикой . 
+1533	You agreed with the Soviets without consulting me . 	Вы заключили сделку с Советами без моего ведома . 
+1534	Is this a negotiation or a conspiracy ? 	Это переговоры или сговор ? 
+1535	For it to be a conspiracy , there would have to be harm to you , sir . 	Будь это сговор , он бы нес для вас угрозу , сэр . 
+1536	There 's just benefits here . 	У вас же лишь выгода . 
+1537	We 're of agreeing interests . 	Наши интересы совпадают . 
+1538	No , you decide they agree . 	Нет , это вы решили , что они совпадают . 
+1539	Where is your appointment , sir ? 	Где ваша встреча , сэр ? 
+1540	In the West . 	В западной части . 
+1541	Ku' damm . 	Курфюрстендамм . 
+1542	Good . 	Хорошо . 
+1543	Look around you . 	Посмотрите вокруг . 
+1544	How does the Eastern sector compare with the West ? 	Сравните восточный сектор с западным . 
+1545	Hmm ? 	
+1546	Our Russian friends have decided that we should not rebuild our capital city . 	Наши русские друзья решили , что нам не нужно восстанавливать столицу . 
+1547	But we live in this ruin made by our Russian friends . 	Но мы живем в этих развалинах , созданных нашими русскими друзьями . 
+1548	Go ahead , make your deal with these Russians . 	Действуйте , заключайте сделку с русскими . 
+1549	We won 't be part of it . 	Мы не будем в этом участвовать . 
+1550	There is no deal without Pryor . 	Без Прайора сделки не будет . 
+1551	We are not leaving him here . 	Мы его не бросим . 
+1552	Is this your position or your government 's ? 	Это ваша позиция или вашего правительства ? 
+1553	Sir , I 'm here . 	Сэр , я здесь . 
+1554	I 'm talking to you . 	Я говорю с вами . 
+1555	But you are not a representative of your government . 	Но вы не представитель вашего правительства . 
+1556	You don 't know who you are . 	Вы не знаете , кто вы такой . Мы тоже . 
+1557	Neither do we . 	Будьте осторожны . 
+1558	You should be careful . 	Будьте осторожны . 
+1559	This is not Brooklyn , Mr . 	Это не Бруклин , м- р Донован . 
+1560	Donovan . 	Это не Бруклин , м- р Донован . 
+1561	Look , sir . 	Послушайте , сэр . 
+1562	You must know that in every respect that matters , 	Вы знаете , что во всех важных вопросах я представляю свое правительство . 
+1563	I represent my government . 	Вы знаете , что во всех важных вопросах я представляю свое правительство . 
+1564	You know who I am . 	Вы знаете , кто я . 
+1565	Do I ? 	Правда ? 
+1566	Uh- oh . 	
+1567	Do you have the proper papers ? 	У вас есть нужные документы ? 
+1568	Of course not . 	Конечно нет . 
+1569	It doesn 't matter . 	Это неважно . 
+1570	An American lawyer like you can talk your way out of anything . 	Американский адвокат вроде вас может выпутаться из любой ситуации . 
+1571	Can 't you ? 	Разве нет ? 
+1572	You go with him . 	Идите с ним . 
+1573	Why ? 	Почему ? 
+1574	It 's passport problem . 	Проблема с паспортом . 
+1575	What ... 	Проблема с паспортом . 
+1576	What problem ? 	Что ? 
+1577	What 's the problem ? 	Какая проблема ? 
+1578	You go with him . 	Идите с ним . 
+1579	And remember , we control the fate of Frederic Pryor . 	И помните , судьба Фредерика Прайора в наших руках . 
+1580	My God ! 	Боже ! 
+1581	Yeah , I' ll start with some coffee , please . 	Сначала кофе , пожалуйста . 
+1582	Then I' ll have the Hilton combo and the American breakfast . 	Потом завтрак " Хилтон " и американский завтрак . 
+1583	And coffee . 	Потом завтрак " Хилтон " и американский завтрак . 
+1584	Both breakfasts ? 	И кофе . Оба завтрака ? 
+1585	Yeah , yeah . 	Да . 
+1586	One first or ... 	Сначала первый или ... 
+1587	Both first , both . 	Оба сразу . 
+1588	Whenever they 're ready . 	Как только будут готовы . 
+1589	And coffee . 	И кофе . 
+1590	Hmm . 	
+1591	You shouldn 't be here . 	Вы не должны сюда приходить . 
+1592	Well , sometimes in Germany , you just want a big American breakfast . 	Иногда в Германии хочется большого американского завтрака . 
+1593	What happened ? 	Что случилось ? 
+1594	Where were you last night ? 	Где вы были вчера вечером ? 
+1595	Vogel arranged for me to spend some time in the East . 	Благодаря Фогелю я провел некоторое время на Востоке . 
+1596	Oh , Jesus . 	Боже . 
+1597	Frankly , it 's not that much worse than where you have me here in the West . 	Если честно , там не намного хуже , чем в моем жилье на Западе . 
+1598	So the Russians are fine with the exchange , but now Vogel is saying that the East Germans won 't do it . 	Русские согласны на обмен , но теперь Фогель говорит , что восточные немцы не согласны . 
+1599	We 're not gonna get Pryor . 	Мы не получим Прайора . 
+1600	Great , good . 	Ладно , хорошо . 
+1601	So the Soviets are set . 	Значит , Советы согласны . 
+1602	We get Powers . 	Мы получим Пауэрса . 
+1603	We get Powers . 	Мы получим Пауэрса . 
+1604	Well done . 	Отличная работа . 
+1605	No , the East Germans won 't do it . 	Нет , восточные немцы не согласны . 
+1606	We won 't get Pryor , and that kid matters . 	Мы не получим Прайора , а этот парнишка важен . 
+1607	Every person matters . 	Каждый человек важен . 
+1608	Sure , that 's why you tried . 	Конечно , поэтому вы попытались . 
+1609	That 's why you tried . 	Поэтому вы и пытались . 
+1610	Abel 's on his way , so we 're all set for tomorrow morning . 	Абель летит сюда , так что все готово для завтрашнего обмена . 
+1611	Wait a minute . 	- Минутку . 
+1612	Makes things simple . 	- Все просто . 
+1613	Makes things simple . 	Все просто . 
+1614	We are not getting the kid . 	Нам не отдадут студента . 
+1615	Yeah , I understand . 	Да , я понимаю . 
+1616	We 're set . 	Все готово . 
+1617	We can ignore the message we got this morning . 	Проигнорируем сообщение , полученное сегодня утром . 
+1618	What message ? 	Какое сообщение ? 
+1619	From the East Germans . 	От восточных немцев . 
+1620	They called the number I gave you . 	Они позвонили по телефону , который я вам дал . 
+1621	They said they wanted to speak to you today . 	Сказали , что хотят поговорить с вами сегодня . 
+1622	Vogel called ? 	Фогель позвонил ? 
+1623	No , um ... 	Нет . 
+1624	Office of , uh , Harald Ott , 	Из офиса Гаральда Отта . 
+1625	East German attorney general . 	Генпрокурора Восточной Германии . 
+1626	Wanting what ? 	Зачем ? 
+1627	What does he want ? 	Что он хочет ? 
+1628	Well , to talk to you . 	Поговорить с вами . 
+1629	But it 's okay , I can 't ask you to go back there . 	Но ничего . Я не могу просить вас вернуться туда . 
+1630	And listen , you seem to be persona non grata to some elements , so we won 't push our luck . 	Для некоторых вы " персона нон грата " , так что не будем испытывать судьбу . 
+1631	So he wants to see me . 	Значит , он хочет со мной встретиться . 
+1632	What time ? 	Когда ? Нет , нет . 
+1633	Oh , no , no . 	Послушайте . 
+1634	Now , listen . 	
+1635	You don 't need to go . 	Вы не обязаны туда идти . 
+1636	In fact , you shouldn 't go . 	Вы не обязаны туда идти . 
+1637	In fact , you can 't go . 	Более того , не должны . Более того , не можете . 
+1638	We 're set with the Soviets . 	Мы договорились с Советами . 
+1639	We don 't want to screw it up . 	Нельзя все испортить . 
+1640	I 'm not gonna screw it up . 	Я ничего не испорчу . 
+1641	You 're not going ! 	Вы не поедете туда ! 
+1642	Don 't be a pain in the ass . 	Не причиняйте хлопот ! 
+1643	Oh , I ordered . 	Это я заказал . 
+1644	Enjoy your big American breakfast . 	Наслаждайтесь большим американским завтраком . 
+1645	I thought it should be negotiated at the highest level as a courtesy to you . 	В знак уважения к вам я решил , что нужно вести переговоры на высшем уровне . 
+1646	I thank you , sir . 	Благодарю , сэр . 
+1647	I don 't know how things became so confused . 	Не знаю , как все так запуталось . 
+1648	Well , I guess sometimes they just do . 	Думаю , иногда это просто происходит . 
+1649	For sake of clarity , 	Чтобы внести ясность , скажу , что мы полностью готовы обменять так называемого студента Прайора на Рудольфа Абеля . 
+1650	I say we are fully prepared to exchange the so- called student , Pryor , for Rudolf Abel . 	Чтобы внести ясность , скажу , что мы полностью готовы обменять так называемого студента Прайора на Рудольфа Абеля . 
+1651	I understand from Mr . 	Насколько я понимаю , Прайор очень важен для вас . 
+1652	Vogel that Pryor is very important to you . 	Насколько я понимаю , Прайор очень важен для вас . 
+1653	Yes , but ... 	Да , но ... 
+1654	Ah , we 'll do a memorandum to that effect . 	Мы подготовим меморандум об этом . 
+1655	Oh , a memorandum . 	Меморандум . 
+1656	Certainly , we commit to a bi- lateral exchange . 	Разумеется , мы согласны на билатеральный обмен . 
+1657	Yes , yes , sure . 	Да , конечно . 
+1658	I 'm not sure what that means but ... 	Не уверен , что это значит , но ... 
+1659	My country also insists on Francis Gary Powers . 	Моя страна также настаивает на освобождении Фрэнсиса Гэри Пауэрса . 
+1660	No ! 	Нет ! 
+1661	This is how things became so confused . 	Вот как все становится таким запутанным . 
+1662	Powers . 	Пауэрс . 
+1663	What use is he , sir ? 	Зачем он нужен , сэр ? 
+1664	You want him back for punitive reasons ? 	Чтобы наказать его ? 
+1665	What 's done is done . 	Что сделано , то сделано . 
+1666	He has divulged what he will divulge , as no doubt Abel has also . 	Он рассказал то , что рассказал и , несомненно , Абель тоже . 
+1667	We are offering instead someone who you insist is innocent . 	Мы же предлагаем человека , который , по вашему мнению , невиновен . 
+1668	And this is right . 	И это правильно . 
+1669	This is who you should retrieve . 	Вот кого вы должны забрать . 
+1670	The future . 	Будущее . 
+1671	Look to the future . 	Смотрите в будущее . 
+1672	Ott . 	Отт . 
+1673	Ott . 	Отт . 
+1674	I 'm sorry . 	Простите . 
+1675	If you could give me a moment , sir . 	Я должен поговорить наедине . 
+1676	I 'm very sorry , sir . 	Прошу прощения , сэр . 
+1677	The attorney general regrets that he had to leave on urgent business . 	Генеральный прокурор сожалеет , что пришлось уйти по срочному делу . 
+1678	He left ? 	Он ушел ? 
+1679	Yes . 	Да . 
+1680	Many apologies . 	Премного извиняюсь . 
+1681	I' ve been waiting for over an hour . 	Я жду больше часа . 
+1682	Very sorry , sir . 	Мне очень жаль , сэр . 
+1683	Young man . 	Молодой человек . 
+1684	Come here . 	Подойдите . 
+1685	It 's all right . 	Не бойтесь . 
+1686	Come here . 	Подойдите . 
+1687	Uh ... 	
+1688	Take a seat . 	Присядьте . 
+1689	Oh , come on , come on . 	Ну же . 
+1690	Sit down . 	Присядьте . 
+1691	Do you like your job here ? 	Вам нравится работать здесь ? 
+1692	It 's a very good job , sir . 	Это очень хорошая работа , сэр . 
+1693	It must be . 	Наверняка . 
+1694	Must be interesting . 	Наверняка интересная . 
+1695	Oh , yes , sir . 	Да , сэр . 
+1696	And important , too . 	И важная . 
+1697	And your English is ... 	И вы хорошо говорите по- английски . 
+1698	Is good . 	Осмелюсь сказать , превосходно . 
+1699	Yes , I hesitate to say it 's excellent . 	Осмелюсь сказать , превосходно . 
+1700	But it 's excellent , sir . 	Но я правда говорю превосходно . 
+1701	Good , good . 	Хорошо . 
+1702	Good . 	Хорошо . 
+1703	See , I just lost my negotiating partner , and I need somebody to talk to , and you seem like a reasonable young man . 	Понимаете ли , я лишился партнера по переговорам , и мне нужно с кем- то поговорить , а вы , кажется , разумный молодой человек . 
+1704	Can I talk to you ? 	Понимаете ли , я лишился партнера по переговорам , и мне нужно с кем- то поговорить , а вы , кажется , разумный молодой человек . 
+1705	Uh ... 	
+1706	It 's all right . 	Не волнуйтесь . 
+1707	It 's all right . 	Не волнуйтесь . 
+1708	I just ... 	Не волнуйтесь . 
+1709	I just need you to give a message to your boss . 	Я просто хочу попросить вас передать послание вашему начальнику . 
+1710	But it has to be very , very , very clear . 	Но оно должно быть предельно ясным . 
+1711	You understand ? 	Вы понимаете ? 
+1712	Yes , sir . 	Да , сэр . 
+1713	But perhaps you should wait until he ... 	Но , может , вам лучше дождаться его ... 
+1714	No , no . 	Нет . 
+1715	The thing is , I have this cold and I wanna get home and get in bed . 	Знаете ли , я простыл и хочу вернуться домой и лечь в постель . 
+1716	Can you give him the message ? 	Вы можете передать ему сообщение ? 
+1717	Certainly . 	Разумеется . 
+1718	Well , this is the message . 	Сообщение вот какое . 
+1719	" There is no deal for Abel unless we get Powers and Pryor . " 	" По Абелю сделки не будет , если мы не получим Пауэрса и Прайора " . 
+1720	Do you understand ? 	Вы понимаете ? 
+1721	Yes , sir . 	Да , сэр . 
+1722	It 's arranged for tomorrow morning . 	Мы договорились на завтрашнее утро . 
+1723	It will not happen unless we get two men . 	Все отменяется , если нам не отдадут их . 
+1724	Those two men . 	Этих двоих . 
+1725	Two , two , two . 	- Двоих , двоих . 
+1726	Yes , sir . 	- Двоих , двоих . 
+1727	If there is no deal , your boss must tell the Soviets . 	Если обмен не состоится , ваш начальник должен будет сообщить Советам . 
+1728	He has to tell the Soviets that they are not getting Rudolf Abel . 	Он должен сказать Советам , что они не получат Рудольфа Абеля . 
+1729	Yes , sir . 	Да , сэр . 
+1730	Oh , and tell him this . 	И скажите ему вот что . 
+1731	That so far , Abel has been a good soldier , but he thinks he 's going home . 	Пока что Абель - хороший солдат , но он думает , что возвращается домой . 
+1732	If we had to tell him that he 's not going home , that the Soviets don 't even want him , that he 's never going home ... 	Пока что Абель - хороший солдат , но он думает , что возвращается домой . 
+1733	Well , I imagine his behavior might change . 	Если мы скажем ему , что он не вернется домой , что он не нужен Советам , что он никогда не вернется , то , возможно , его поведение изменится . 
+1734	And who will be held responsible for that ? 	И на кого возложат ответственность за это ? 
+1735	That 's a long message . 	Это длинное сообщение . 
+1736	Uh , did you get it all ? 	Вы все запомнили ? 
+1737	Yes , sir . 	Да , сэр . 
+1738	Got it . 	Запомнил . 
+1739	Good . 	Хорошо . 
+1740	You 're a good man . 	Вы хороший человек . 
+1741	Oh ... 	
+1742	And also tell him there 's no deal unless we hear before the end of business today . 	И еще скажите ему , что сделки не будет , если мы не получим ответ до сегодняшнего вечера . 
+1743	He has the number . 	У него есть номер телефона . 
+1744	If the exchange isn 't gonna happen , no reason for everybody to get up first thing in the morning . 	Если обмена не будет , то никому не нужно просыпаться рано утром . 
+1745	No , sir , that would be pointless . 	Да , сэр . Это было бы бессмысленно . 
+1746	You 're kidding me ! 	Вы шутите ! 
+1747	You 're kidding me ! 	Вы шутите ! 
+1748	Not really . 	Вовсе нет . 
+1749	I need some change . 	Мне нужна мелочь . 
+1750	This is exactly what you weren 't supposed to do . 	Это то , чего вы не должны были делать . 
+1751	My instructions were to feel out the situation . 	Мне наказали разобраться в ситуации . 
+1752	Your instructions were to get Powers , not Pryor . 	Вам наказали вернуть Пауэрса , а не Прайора . 
+1753	That was not the original deal . 	Сделка не была так задумана . 
+1754	You fouled it all up ! 	Вы все испортили ! 
+1755	How do you know ? 	Откуда вам знать ? 
+1756	I feel pretty good about it . 	У меня хорошие предчувствия . 
+1757	You fucked it all up ! 	Вы все испортили ! 
+1758	Oh , don 't worry . 	Не волнуйтесь . 
+1759	I think it 's gonna be fine . 	Думаю , все будет хорошо . 
+1760	How do you know ? 	Откуда вам знать ? 
+1761	You don 't know that . 	Вы не можете этого знать . 
+1762	United States . 	Соединенные Штаты . 
+1763	New York , New York . 	Нью- Йорк , Нью- Йорк . 
+1764	Danke . 	Данке . 
+1765	Look , this whole thing has been to feel me out . 	Послушайте , они затеяли все это , чтобы проверить меня . 
+1766	Would I swap one for one and which one ? 	Соглашусь ли я на обмен одного на одного и на какой обмен ? 
+1767	But I said " No , two for one . " 	Но я сказал : " Нет , двоих на одного " . 
+1768	So they know where we stand . 	Это наша позиция . 
+1769	Yeah , what if they think about it and say , uh ... 	Да , а что если они подумают и скажут : 
+1770	" Forget it ! 	" Забудьте ! 
+1771	You keep our guy , we keep your guys " ? 	Вы оставляйте себе нашего человека , а мы себе ваших " ? 
+1772	Well , then I have fucked it all up . 	Что ж , значит , я все испортил . 
+1773	Hey , honey ! 	Привет , дорогая ! 
+1774	It 's me . 	Привет , дорогая ! 
+1775	Yeah . 	Это я . Да ! 
+1776	The fishing 's been great . 	Рыбалка отличная . 
+1777	I 'm in London , just for one more meeting , then I 'm on my way home . 	Я в Лондоне , осталась одна встреча , и я вернусь домой . Да , помню тот джем . 
+1778	Yeah , yeah , I remember that marmalade . 	В том магазине у Риджент- Парка . 
+1779	It 's that shop right by Regent 's Park . 	В том магазине у Риджент- Парка . 
+1780	All right , I will if I have the time . 	Хорошо , куплю , если будет время . 
+1781	Hey , can I say hi to Roger ? 	Могу передать привет Роджеру ? 
+1782	Could I say hi to the girls ? 	Передать привет девочкам ? 
+1783	Is anyone not busy ? 	Хоть кто- нибудь не занят ? 
+1784	Have they even noticed I 'm not around ? 	Они хоть заметили мое отсутствие ? 
+1785	We 're on . 	Обмен состоится . 
+1786	Two for one . 	Двоих на одного . 
+1787	Hot dog . 	Порядок ! 
+1788	Let 's have a drink . 	Давайте выпьем . 
+1789	One wrinkle . 	Есть загвоздка . 
+1790	What is that ? 	В чем дело ? 
+1791	They won 't release Pryor with Powers , not at the bridge . 	Они не выпустят Прайора на мосту вместе с Пауэрсом . 
+1792	They 'll release him at the same time . 	Они отпустят его в тот же момент . 
+1793	When the Russians give us Powers on the bridge , they 'll release Pryor over Checkpoint Charlie . 	Когда русские отдадут нам Пауэрса на мосту , немцы отпустят Прайора на КПП " Чарли " . 
+1794	What does that mean ? 	Что это значит ? 
+1795	I think it means , " We wanna have the last word . " 	Думаю , это значит : " Последнее слово за нами " . 
+1796	But they will do it . 	Но они это сделают . 
+1797	You tell me . 	Это вы скажите . 
+1798	You felt them out . 	Вы разобрались в ситуации . 
+1799	Where are they ? 	Где они ? 
+1800	Where 's our guy ? 	Где наш человек ? 
+1801	Where 's our guy ? 	Где наш человек ? 
+1802	They 're late . 	Они опаздывают . 
+1803	Nobody 's late . 	Никто не опаздывает . 
+1804	We 're early . 	Мы приехали рано . 
+1805	May I ? 	Можно ? 
+1806	Yeah . 	Да . 
+1807	Hoffman . 	Хоффман . 
+1808	Yeah ? 	Да ? 
+1809	I think they have ... 	Мне кажется , у них там ... 
+1810	What ? ... snipers . 	Что ? ... снайперы . Не сомневаюсь . 
+1811	Well , I 'm sure they do . 	
+1812	How are you sure they do ? 	Почему не сомневаетесь ? 
+1813	Because we have snipers . 	Потому что у нас тоже снайперы . 
+1814	Step out , sir . 	Выходите , сэр . 
+1815	Jim . 	Джим . 
+1816	Dear Jim . 	Дорогой Джим . 
+1817	How are you ? 	Как вы ? 
+1818	Happy to see you . 	Рад вас видеть . 
+1819	Have you arranged all this for me ? 	Вы устроили все это для меня ? 
+1820	Well , let 's see what this is before I ... 	Давайте проверим что выйдет , а хвалить потом будете . 
+1821	I take credit for it . 	Давайте проверим что выйдет , а хвалить потом будете . 
+1822	Any word about Pryor from Checkpoint Charlie ? 	Что слышно о Прайоре на КПП " Чарли " ? 
+1823	Nothing cooking yet . 	Пока что все тихо . 
+1824	Excuse me , sir . 	Простите , сэр . 
+1825	This is Lieutenant Joe Murphy , United States Air Force , here to identify Powers . 	Лейтенант Джо Мерфи , военно- воздушные силы США , прибыл опознать Пауэрса . 
+1826	Lieutenant Murphy . 	Лейтенант Мерфи . 
+1827	Sir . 	Сэр . 
+1828	There may be a slight glitch . 	Может возникнуть проблемка . 
+1829	I was a young man when I left . 	Я уехал молодым . 
+1830	Who will they find to identify me ? 	Кто сможет опознать меня ? 
+1831	Well , I hope it 's not your East German family . 	Надеюсь , не ваша восточногерманская семья . 
+1832	I doubt they could identify each other . 	Сомневаюсь , что они друг друга узнают . 
+1833	Looks like our party . 	Похоже , наши гости . 
+1834	Well , let 's go . 	Ну , пойдем . 
+1835	You can stay here , Donovan . 	Вы можете остаться здесь , Донован . 
+1836	Not likely . 	Вряд ли . 
+1837	Open the gate . 	Откройте ворота . 
+1838	What do you think will happen when you get home ? 	Что , по- вашему , будет , когда вы вернетесь домой ? 
+1839	Uh , I think ... 	Думаю , я выпью водки . 
+1840	I' ll have a vodka . 	Думаю , я выпью водки . 
+1841	Yeah . 	Да . 
+1842	Yeah . 	Да . 
+1843	But , Rudolf , is there not the possibility ... 	Но , Рудольф , разве не может случиться ... 
+1844	That my people are going to shoot me ? 	Что в моей стране меня расстреляют ? 
+1845	Yes . 	Да . 
+1846	You 're not worried ? 	Вы не волнуетесь ? 
+1847	Would it help ? 	Это помогло бы ? 
+1848	To answer your question , my friend , 	Что касается вашего вопроса , друг мой , я вел себя безупречно и , думаю , они это знают . 
+1849	I acted honorably . 	Что касается вашего вопроса , друг мой , я вел себя безупречно и , думаю , они это знают . 
+1850	I think they know that . 	Что касается вашего вопроса , друг мой , я вел себя безупречно и , думаю , они это знают . 
+1851	But sometimes people think wrong . 	Но иногда люди думают неправильно . 
+1852	People are people . 	Люди есть люди . 
+1853	Let 's see how they greet me . 	Посмотрим , как они меня встретят . 
+1854	What can I look for ? 	На что обратить внимание ? 
+1855	If I 'm embraced or just shown the back seat . 	Обнимут меня или просто посадят в машину . 
+1856	Da . 	
+1857	Take off the hat . 	Снимите шапку . 
+1858	Hey , Powers . 	Эй , Пауэрс . 
+1859	Hey , Murph . 	Эй , Мерфи . 
+1860	Yeah , that 's Powers . 	Да , это Пауэрс . 
+1861	All right , Mr . 	Хорошо , м- р Донован . 
+1862	Donovan . 	Хорошо , м- р Донован . 
+1863	We go now ! 	Отпускаем ! 
+1864	Hang on . 	Постойте . 
+1865	Believe me , I will tell you . 	Поверьте , я скажу . 
+1866	There 's no one here . 	Здесь никого нет . 
+1867	They 're releasing another man at Checkpoint Charlie . 	Они отпускают другого человека на КПП " Чарли " . 
+1868	We 're just confirming that he 's there . 	Мы просто проверяем , что он там . 
+1869	Now ! 	Сейчас ! 
+1870	As per plan , if you please . 	Будем действовать по плану , если не возражаете . 
+1871	Let 's go . 	Идем . 
+1872	Pryor will show up or he won 't . 	Прайора или приведут , или нет . 
+1873	Let 's go . 	Идем . 
+1874	They 're waiting to see if we 'll do it without him . 	Они хотят проверить , проведем ли бы обмен без Прайора . 
+1875	We just have to stand here , show them we won 't . 	Нужно просто стоять здесь и показать , что мы не согласны . 
+1876	I don 't give a shit what they want . 	Мне плевать , что они хотят . 
+1877	We have our objective . 	Мы получили что хотели . 
+1878	Go ahead , Abel . 	Идите , Абель . 
+1879	Go ahead , sir . 	Идите , сэр . 
+1880	You can go . 	Можете идти . 
+1881	If it is not to plan , we go home . 	Если план не выполняется , мы едем домой . 
+1882	We exchange now or we go home ! 	Обмениваемся сейчас или мы идем домой ! 
+1883	You 're waiting for another man ? 	Вы ждете еще одного человека ? 
+1884	Yup . 	Да . 
+1885	You want him , too . 	Он тоже вам нужен . 
+1886	I want him . 	Он мне нужен . 
+1887	Doesn 't matter what he wants , sir . 	Неважно , что ему нужно , сэр . 
+1888	I 'm in charge and you are free to go . 	Я здесь главный , вы свободны . 
+1889	Please go . 	Прошу вас . 
+1890	Walk across . 	Идите туда . 
+1891	I can wait . 	Я могу подождать . 
+1892	It 's something . 	Кто- то приехал . 
+1893	I 'm not sure yet . 	Еще не уверен . 
+1894	Hang on ! 	Подождите ! 
+1895	Let 's go . 	
+1896	We got him ! 	Это он ! 
+1897	Uh , I , uh ... 	
+1898	I sent you a gift , Jim . 	Я отправил вам подарок , Джим . 
+1899	It 's a ... 	
+1900	It 's a painting . 	Картину . 
+1901	I hope it has some meaning to you . 	Надеюсь , он будет для вас что- то значить . 
+1902	I 'm sorry . 	Простите . 
+1903	I didn 't think to get you a gift . 	Не догадался сделать вам подарок . 
+1904	This is your gift . 	Это ваш подарок . 
+1905	This is your gift . 	Это ваш подарок . 
+1906	You okay ? 	
+1907	Let 's go , let 's go , let 's go ! 	Поехали , поехали ! 
+1908	Mr . 	М- р Донован . 
+1909	Donovan . 	М- р Донован . 
+1910	Colonel Abel asked me to give this to you . 	Полковник Абель попросил меня передать это вам . 
+1911	Pardon me , sir . 	Прошу прощения , сэр . 
+1912	Were you in charge of this thing , sir ? 	Это вы занимались организацией обмена ? 
+1913	Yeah . 	Да . 
+1914	Well , I gotta thank you . 	Я должен поблагодарить вас . 
+1915	I gotta thank somebody . 	Кого- то я должен поблагодарить . 
+1916	I gave them nothing . 	Я ничего им не сказал . 
+1917	I gave them nothing . 	Ничего не сказал . 
+1918	It doesn 't matter . 	Это неважно . 
+1919	It doesn 't matter what people think . 	Неважно , что думают люди . 
+1920	You know what you did . 	Вы знаете правду . 
+1921	Welcome home . 	С возвращением . 
+1922	What a trip . 	Ну и поездка . 
+1923	Mmm . 	
+1924	Mmm . 	
+1925	You okay ? 	Ты в порядке ? 
+1926	Yeah , I 'm fine . 	Да , все хорошо . 
+1927	Did you get the marmalade ? 	Ты привез джем ? 
+1928	Yes , yes . 	Да , да . 
+1929	Yep . 	Да , да . 
+1930	Yep . 	Да . 
+1931	I did . 	Привез . 
+1932	As ordered . 	Как было наказано . 
+1933	Jim . 	" Арнос " 32 цента Джим . 
+1934	This is from Arno 's . 	- Он из " Арноса " . 
+1935	So ? 	- И что ? 
+1936	On the corner ! 	Магазина на углу ! 
+1937	Well , honey , I was busy . 	Дорогая , я был занят . 
+1938	I 'm sorry . 	Прости . 
+1939	We were so busy . 	Как же так ! 
+1940	Oh , for Pete 's sake . 	Как же так ! 
+1941	How 's Roger ? 	Как Роджер ? 
+1942	Is he home ? 	Он дома ? 
+1943	He 's home . 	Он дома . 
+1944	Carol 's home , Peggy 's home . 	Кэрол дома . Пегги дома . 
+1945	Everyone 's home . 	Все дома . 
+1946	Mom ! 	Мама ! 
+1947	Come quick ! 	Иди сюда ! 
+1948	Look ! 	Смотри ! 
+1949	- Mom , come here ! 	- Мама , иди сюда ! 
+1950	- Mom , come here ! 	- Мама , иди сюда ! 
+1951	- Come see this ! 	Смотри ! Смотри ! 
+1952	Look ! 	Быстрее ! 
+1953	Watch ! 	Быстрее ! 
+1954	- Come on ! 	Быстрее ! 
+1955	Francis Gary Powers has been released from prison in the Soviet Union and turned over to American authorities early this morning in Berlin . 	Фрэнсис Гэри Пауэрс был освобожден из советской тюрьмы и передан американским властям сегодня рано утром в Берлине . 
+1956	The President has commuted the sentence of Rudolf Abel . 	Президент смягчил приговор Рудольфу Абелю . 
+1957	Mr . 	М- р Абель был депортирован и освобожден в Берлине . 
+1958	Abel has been deported and has been released in Berlin . 	М- р Абель был депортирован и освобожден в Берлине . 
+1959	Efforts to obtain Mr . 	Попытки организовать освобождение м- ра Пауэрса продолжались уже некоторое время . 
+1960	Powers´ release had been underway for some time . 	Попытки организовать освобождение м- ра Пауэрса продолжались уже некоторое время . 
+1961	In recent efforts , the United States government has had the cooperation and assistance of Mr . 	Правительству Соединенных Штатов помогал и содействовал м- р Джеймс Б . Донован , адвокат из Нью- Йорка . 
+1962	James B . 	
+1963	Donovan , a New York attorney . 	Фредерик Л . 
+1964	Frederic L . 	Фредерик Л . 
+1965	Pryor , an American student held by East German authorities since August of 1961 ... 	Прайор , американский студент , которого удерживали в Восточной Германии с августа 1 961 года ... 
+1966	I thought Daddy was fishing . 	Я думала , что папа на рыбалке . 
+1967	For salmon . 	Ловил лосося . 
+1968	Abel now has disappeared into the communist world . 	Абель растворился в коммунистическом мире . 
+1969	Powers is here , answering questions . 	Пауэрс дома и отвечает на вопросы . 
+1970	And Donovan has gone back to his law practice . 	А Донован вернулся к своей адвокатской практике . 
+1971	And now , here is George Fenneman , speaking for the Douglas Fir Plywood Association . 	А теперь Джордж Феннеман расскажет об ассоциации " Даглас Фир " . 

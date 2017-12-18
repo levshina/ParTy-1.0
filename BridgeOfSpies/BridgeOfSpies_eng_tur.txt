@@ -1,0 +1,1971 @@
+1	The next stop is Broad Street . 	Sıradaki istasyon Broad Sokağı Bir dahaki durak Broad Sokağı 
+2	Broad Street will be next . 	Sıradaki istasyon Broad Sokağı Bir dahaki durak Broad Sokağı 
+3	Upstairs . 	Üst kata . Bu taraftan . 
+4	This way . 	
+5	He didn 't come up this way ? 	Bu tarafa gelmedi mi ? 
+6	Anything ? 	Burada değil . 
+7	He 's not up here . 	Burada değil . 
+8	Go back down . 	Aşağı dönün . 
+9	Excuse me . 	- Pardon . - Pardon . 
+10	Excuse me . 	
+11	Go ahead and park around the corner . 	Devam edip köşede dur . 
+12	Visitors . 	Ziyaretçilerimiz varmış . 
+13	Do you mind if I fetch my teeth ? 	- İzin verirseniz dişlerimi alabilir miyim ? 
+14	Colonel , would you turn around , please ? 	- Lütfen arkanı döner misin Albay ? 
+15	Sit down on the bed . 	- Yatağa otur . 
+16	Let 's go . 	- Hadi . 
+17	Uh , they 're in the ... 	Onlar ... 
+18	The teeth are in the ... 	Dişler lavaboda . 
+19	On the sink . 	Bana bak ! 
+20	Look at me . 	Bana bak ! 
+21	We are agents from the Federal Bureau of Investigation . 	Biz Federal Soruşturma Bürosu ajanlarıyız . 
+22	Look at me ! 	Bana bak ! 
+23	I 'm talking to you . 	Seninle konuşuyorum . 
+24	We 've received information concerning your involvement in espionage . 	Hakkında casusluk faaliyetlerine bulaştığına dair ihbar aldık . 
+25	You can either cooperate with us right now , or you 'll be under arrest . 	Ya bizimle şimdi işbirliği yaparsın ya da tutuklanırsın . - Anladın mı Albay ? 
+26	Do you understand , Colonel ? 	- Hayır , anlamadım aslında . 
+27	No , not really . 	- Hayır , anlamadım aslında . 
+28	Why do you keep calling me " Colonel " ? 	Neden bana sürekli " Albay " diyorsunuz ? 
+29	You need to get dressed . 	Üstünü giymelisin . 
+30	We have to search your apartment . 	Daireni aramamız gerekiyor . 
+31	Would you mind if I , uh , cleaned my palette ? 	Mahzuru yoksa paletimi temizleyebilir miyim ? 
+32	The paints , it 'll get ruined otherwise . 	Aksi halde boyalar onu mahveder . 
+33	It 's just behind you there . 	Hemen arkanızda . 
+34	I have a cloth myself . 	Kendim bezle temizlerim . 
+35	Thank you . 	Teşekkür ederim . 
+36	All right , start searching the place . 	- Daireyi aramaya başlayın . - Teşekkür ederim . 
+37	Thank you . 	Yatağı , döşeği , döşemeyi arayın . 
+38	All right , search the mattress , the bed , the floorboards , his chair . 	Yatağı , döşeği , döşemeyi arayın . 
+39	Would you put that in the ashtray on the windowsill there ? 	- Şunu küllüğe koyar mısınız ? - Koltuğunu da arayın . 
+40	Take a good look at that desk . 	- Orada , pencerenin önünde . 
+41	Let 's see the desk . 	Masaya bakalım . 
+42	Wouldn 't want to get this ruined . 	Bunun mahvolmasını istemem . 
+43	Don 't say " my guy . " 	" Adamın " deme . 
+44	He 's not " my guy . " 	Benim adamım değil . Evet , senin adamın . 
+45	Yes , he 's " your guy . " 	Kimden bahsediyoruz ? 
+46	Who are we talking about ? 	Kimden bahsediyoruz ? 
+47	We 're talking about a guy who was insured by my client . 	Müvekkilim tarafından sigortalanmış bir adamdan bahsediyoruz . 
+48	So , don 't make him " my guy . " 	Bu yüzden benim adamım yapma . 
+49	Okay , fine . 	İyi , tamam . 
+50	My point is , the guy insured by your client , he doesn 't deny that any of these things happened . 	Önemli olan nokta , müvekkilin tarafından sigortalanan adam ... ... bu olayların hiçbirini inkâr etmiyor . 
+51	" These ... 	Olaylar ... 
+52	These things " ? 	Olaylar mı ? 
+53	Yes , these five things . 	- Evet , bu beş olayı . - Bir dakika . 
+54	Wait , hold it , hold it , hold it . 	Dur orada . 
+55	Not five things . 	Beş olay değil , bir olay . 
+56	One thing . 	Beş olay değil , bir olay . 
+57	Clearly , it 's five things . 	Açıkça beş olay var . 
+58	Well , I 'm sorry , it 's not clear to me . 	Özür dilerim . Bana pek açık gelmedi . 
+59	Five things ? 	Beş olay mı ? 
+60	Explain it to me . 	Açıkla bakalım . Apaçık ortada . 
+61	It 's self- evident . 	Tamam , neler olduğunu anlat o halde . 
+62	Okay , then tell me what happened . 	Tamam , neler olduğunu anlat o halde . 
+63	Tell me the story in a way that makes sense for five things . 	Şu hikâyeyi , beş olayı mantıklı gösterecek şekilde anlat bakalım . 
+64	Fine , absolutely . 	Tamam . Adamın - 
+65	Your guy is ... 	Adamım değil . 
+66	Not my guy . 	Müvekkilimin sigortaladığı kişi . 
+67	Insured by my client . 	Müvekkilimin sigortaladığı kişi . 
+68	The guy insured by your client is driving down State Highway 19 when he loses control of his car and hits my five guys , the five guys who hired me to represent them because you 're not honoring your claim . 	Müvekkilinin sigortaladığı adam 19 . Anayol 'da giderken ... ... aracının kontrolünü kaybediyor ve beş adamıma çarpıyor . Bu beş kişi kendilerini temsil etmem için beni tuttular . 
+69	You mean my client is not honoring the claim , the insurance company ? 	Yani müvekkilimin poliçeye uymadığını mı ima ediyorsun ? Sigorta firmasının mı ? 
+70	Mr . 	Bay Donovan , hepimiz kimin kim olduğunu biliyoruz . 
+71	Donovan , we 're all clear on who 's who , here . 	Bay Donovan , hepimiz kimin kim olduğunu biliyoruz . 
+72	Except my client honors every claim . 	Yalnız müvekkilim poliçelerinin şartlarını yerine getirir . 
+73	They do , Mr . 	Getirirler Bay Bates . 
+74	Bates . 	Her meşru talep karşısında yükümlülüklerini sonuna kadar yerine getirirler . 
+75	Every single legitimate claim , up to the limit of their liability , which is $100, 000 per accident , in the case of this man 's policy . 	Bu adamın poliçesine göre de bu rakam kaza başı 100 bin dolar . 
+76	And this is one claim . 	Bu sadece bir vaka . 
+77	According to your description , " He hit my five guys . " 	Sen ise " beş adamıma çarptı " ifadesini kullanıyorsun . 
+78	The guy insured by my client had one accident . 	Müvekkilimin sigortaladığı adam bir kaza geçirdi . 
+79	One , one , one . 	Bir , bir , bir . 
+80	Losing control of the car and hitting five motorcyclists . 	Aracının kontrolünü kaybetti ve beş motosikletçiye çarptı . 
+81	From their point of view , five things happened . 	Onların baktığı açıdan beş olay yaşandı . 
+82	Well , look , Bob . 	Dinle Bob . İzin verirsen ... 
+83	May I ? 	
+84	Bob ? 	Bob . 
+85	" Jim . " 	Jim . 
+86	If I go bowling and I throw a strike , one thing happened . 	Bowlinge gidip bir tam isabet yaptığımda sadece bir şey olmuştur . 
+87	Ten things didn 't happen . 	On şey değil . 
+88	Jim , my guys aren 't bowling pins , as much as your guy may have treated them as such . 	Jim , müşterilerim bowling kukası değil . Her ne kadar müşterin onlara bu muameleyi yapmış olsa da . 
+89	If ... 	Bırak bitireyim . 
+90	Let me finish . 	Bırak bitireyim . 
+91	Let me finish . 	Bırak bitireyim . 
+92	If your house is insured for $100, 000 and a tornado carries it away , it carried away one house . 	Evin 100 bin dolarla sigortalansa ve bir hortum onu alıp götürse ... ... sadece bir evi götürmüş olur . 
+93	It didn 't pick up every stick of furniture and destroy it in a separate incident . 	Her bir mobilyayı götürüp ... ... ayrı ayrı parçalamış olmaz . 
+94	If that is what you 're saying , well , then there is never any limit to our liability and that is the end of the insurance business . 	Eğer dediğin buysa ... ... bu sorumluluğumuzun üst limiti yok anlamına gelir ki ... ... bu da sigortacılık mesleğinin sonu demektir . 
+95	And then , Bob , nobody is safe . 	İşte o zaman kimse güvende olmaz Bob . 
+96	Watters , Cowan and Donovan . 	Watters , Cowan ve Donovan . 
+97	How may I direct your call ? 	Nasıl yardımcı olabilirim ? 
+98	Morning , Mr . 	- Günaydın Bay Donovan . 
+99	Donovan . 	- Günaydın Alison . 
+100	Good morning , Alison . 	- Günaydın Alison . 
+101	I moved your 9 : 00 a . m . with Prudential , sir . 	Dokuzdaki Prudential görüşmenizi erteledim efendim . 
+102	Why did you do that ? 	Niye yaptın ki bunu ? 
+103	I asked her to . 	Yapmasını ben istedim . 
+104	Is everything all right , Tom ? 	Her şey yolunda mı Tom ? 
+105	Why don 't you leave your stuff with Alison . 	Eşyalarını Alison 'a bırakır mısın ? 
+106	Come on inside . 	İçeri geçelim . 
+107	Something pretty important has come up . 	Çok önemli bir gelişme var . 
+108	Somebody 's here to see us . 	Birisi bizi görmeye geldi . 
+109	Natalie 's getting your coffee . 	Natalie kahveni getirecek . 
+110	Nescafe , cream , two lumps , right ? 	Neskafe , kremalı ve iki şekerli , değil mi ? Aynen öyle . 
+111	That 's right . 	Teşekkürler . 
+112	Thanks . 	
+113	Lynn ! 	- Lynn ! - Jim ! 
+114	Jim ! 	Seni gördüğüme sevindim . 
+115	Nice to see you again . 	Seni gördüğüme sevindim . 
+116	How 's the family ? 	Ailen nasıl ? 
+117	Great , good . 	Çok iyiler , sağ ol . 
+118	Thanks . 	Annie nasıl ? 
+119	How 's Annie ? 	Cinayete meyilli . 
+120	Homicidal . 	Cinayete meyilli . 
+121	We had the in- laws for the holiday . 	Hısımlar tatil için buradaydı . 
+122	Well , if she acts on it , she 'll have good representation . 	Azmettirici sebep bu olursa iyi temsil edilecektir . 
+123	Now , what 's up ? 	Hayırdır ? 
+124	Okay , here 's the thing . 	Pekâlâ , durum şu ; 
+125	The Soviet spy they caught , we want you to defend him . 	Bir Sovyet casusu yakalanmış . Senin savunmanı istiyoruz . 
+126	Here 's the indictment . 	İşte iddianâme . 
+127	Wow . 	
+128	I 'm not sure I wanna pick that up . 	Bunu almak istediğimden emin değilim . 
+129	The accused doesn 't know any lawyers . 	Sanığın tanıdığı avukat yok . 
+130	The federal court tossed it into our lap . 	Federal mahkeme de bizim kucağımıza attı . 
+131	The Bar Committee took a vote . 	Baro oylamaya sundu . 
+132	You 're the unanimous choice . 	Oybirliğiyle seni seçtiler . 
+133	It was important to us ... 	Bizim için çok önemli ... 
+134	It 's important to our country , Jim , that this man is seen as getting a fair shake . 	Bu adamın adil bir şekilde yargılanması ülkemiz için çok öenmeli Jim . 
+135	American justice will be on trial . 	Amerikan adalet sistemi de yargılanacak . 
+136	Well , of course , when you put it that way , it 's an honor to be asked . 	Siz böyle söyleyince bunu benden istediğiniz için şeref duydum . 
+137	But , Lynn , I 'm an insurance lawyer . 	Lâkin Lynn , ben sigorta avukatıyım . 
+138	I haven 't done criminal work in years . 	Yıllardır ceza hukuku çalışmadım . 
+139	It 's like riding a bike , isn 't it ? 	Bisiklet sürmek gibi , değil mi ? 
+140	You distinguished yourself at Nuremberg . 	Nuremberg 'de oldukça başarılıydın . 
+141	I was on the prosecution team . 	- Orada savcılık tarafındaydım . 
+142	Not the point . 	- Ne önemi var ? 
+143	You 're no stranger to criminal law . 	Ceza hukukuna yabancı değilsin . 
+144	Jim , look at the situation . 	Jim , durumu iyi anla . 
+145	The man is publicly reviled . 	- Halkın gözü adamın üstünde olacak . 
+146	And I will be , too . 	- Benim de . 
+147	Yes , in more ignorant quarters . 	Evet , cahil cühelanın gözü . 
+148	But that 's exactly why this has to be done , and capably done . 	Ama yapılması gereken işte tam da bu , ustaca yapılmalı . 
+149	It can 't look like our justice system tosses people on the ash heap . 	Yargı sistemimizin insanları izmarit gibi kül tablasına attığı izlenimi oluşmamalı . 
+150	Suppose I did , what 's the evidence look like ? 	Diyelim ki kabul ettim , kanıtlar nasıl ? 
+151	Pretty overwhelming . 	Epey kuvvetli . 
+152	Great . 	Harika . 
+153	Great . 	Harika . 
+154	Everyone will hate me but at least I' ll lose . 	Herkes benden nefret edecek ama en azından kaybetmiş olacağım . 
+155	Well , what do you think , Tom ? 	Ne düşünüyorsun Tom ? 
+156	The firm will suffer . 	Burada işlerim var , şirket de etkilenecek . 
+157	I have work here . 	Bence bu vatani bir görev . 
+158	I think it 's a patriotic duty . 	Bence bu vatani bir görev . 
+159	It 's an important mission . 	Önemli bir görev . 
+160	I told Lynn , the firm can 't say no , and you 'd have a tough time saying no , too . 	Lynn 'e şirketin hayır diyemeyeceğini söyledim . Senin de hayır demek için düşünmene gerek yok . 
+161	I think you have to defend the son of a bitch . 	Bence bu şerefsizi savunmak zorundasın . 
+162	So , you 're doing it ? 	Demek kabul ettin ? Neyi kabul ettim ? 
+163	Doing what ? 	Abel 'ı savunmayı . 
+164	Defending Abel , the Soviet spy . 	Sovyet casusunu . Edebilirim . 
+165	I may . 	Önce onunla konuşmalıyım . 
+166	I have to speak to ... 	Önce onunla konuşmalıyım . 
+167	Wait , how do you know ? 	Sen nereden biliyorsun ? 
+168	Did they post it on the bulletin board ? 	İlan panosuna mı asmışlar ? 
+169	No , I ... 	Hayır , Richard Earl ile konuşuyordum da ... 
+170	I was talking to Richard Earl ... 	Hayır , Richard Earl ile konuşuyordum da ... 
+171	Look , if I do this , I 'm going to need your help . 	Bunu yapacaksam yardımına ihtiyacım olacak . 
+172	Can you work tonight ? 	Bu akşam çalışabilir misin ? 
+173	Well , I have a dinner date , sir . 	Akşam yemeğine randevum var efendim . 
+174	It 's Tuesday , right ? 	Bugün Salı , değil mi ? 
+175	Yeah , no , I 'm free , completely free . 	Evet , tamamen boşum . 
+176	Thank you , sir . 	Teşekkür ederim efendim . 
+177	But it 's also an honor . 	Bu aynı zamanda bir şeref . 
+178	And the Bar Association asked me because they want to show that even a spy gets a capable advocate . 	Baro da özellikle beni istedi ... ... çünkü bir casusun bile kalifiye avukatla temsil edilebileceğini göstermek istediler . 
+179	Well , maybe it 's the kind of honor we could do without . 	Belki de bu , onsuz da yapabileceğimiz türden bir şereftir . 
+180	Hey , honey , what are you doing home ? 	Tatlım , sen ne yapıyorsun evde ? 
+181	I got stood up . 	Ekildim . 
+182	Well , that 's despicable . 	Rezalet bir şey . 
+183	Who is this knot- head ? 	Kimmiş bu ahmak ? 
+184	I 'd rather not say . 	Söylememeyi tercih ederim . 
+185	Well , sit down . 	Otur kızım . 
+186	We just started . 	Yeni başlamıştık . 
+187	People are scared . 	İnsanlar korkuyorlar . 
+188	They 're building bomb shelters to protect themselves from people like this man . 	Böyle insanlardan korunmak için sığınaklar inşa ediyorlar . 
+189	I go to the store , people are buying canned food and potassium tablets . 	Markete gittiğimde konserve yiyecek ve potasyum tablet alan insanlar görüyorum . 
+190	It 's all about this man and what he represents . 	Mesele bu adamın neyi temsil ettiği . 
+191	He 's a threat to all of us . 	Hepimiz için bir tehdit . O bir hain . 
+192	A traitor . 	- Kim hain ? 
+193	Who 's a traitor ? 	- Rosenberg 'ler haindi . 
+194	The Rosenbergs were traitors . 	- Rosenberg 'ler haindi . 
+195	Who were they ? 	Onlar kim ? 
+196	They gave atomic secrets to the Russians . 	Atomik sırlarımızı Ruslara verdiler . 
+197	They were Americans . 	Amerikan vatandaşıydılar . 
+198	They betrayed their country . 	Ülkelerine ihanet ettiler . 
+199	You can 't accuse Abel of being a traitor . 	Abel 'ı hainlikle suçlayamazsın . 
+200	He 's not an American . 	Amerikan vatandaşı değil . 
+201	Oh , listen to yourself . 	Ağzından çıkanı duysana . 
+202	You 're defending him already . 	Şimdiden savunmaya başlamışsın . 
+203	You 're rehearsing it on me . 	Üstümde prova yapıyorsun . 
+204	You said you were just thinking about taking it . 	Sadece düşünüyorum demiştin . 
+205	I am just thinking about it , just very hard . 	Sadece düşünüyorum . Bu çok zor sadece . 
+206	Everyone deserves a defense . 	Herkes savunulmayı hak eder . 
+207	Every person matters . 	Her insan önemlidir . 
+208	Jim , what do we deserve ? 	Peki Jim , biz neyi hak ediyoruz ? 
+209	Do you know how people will look at us ? 	İnsanların bize hangi gözle bakacağını biliyor musun ? 
+210	The family of a man trying to free a traitor ? 	Bir haini aklamaya çalışan adamın ailesi . 
+211	He 's not a traitor , Mary . 	- Adam hain değil Mary . - Evet , evet . 
+212	Yes , yes . 	- Roger , kapıya bak . 
+213	Roger , get that ! 	- Roger , kapıya bak . 
+214	He 's not a traitor ... 	Hain değilmiş . 
+215	Why do I have to do all the work ? 	- Niye bütün işi ben yapıyorum ? 
+216	Oh ! 	- Şükran duasına kadar bekle . 
+217	You wait till we say grace . 	- Şükran duasına kadar bekle . 
+218	I 'm hungry ! 	Adam bu ülkedeki en nefret edilen kişi . 
+219	He 's about the most unpopular man in this country , and you 're trying to take second place ! 	Sen de ikinciliğe yerleşmeye çalışıyorsun ! 
+220	Yeah , and I 'm third . 	Evet , ben de üçüncülüğe . 
+221	Carol , you just dated the wrong guy . 	- Carol , sadece yanlış kişiyle çıkıyorsun . - Yemek yemek istiyorum . 
+222	I wanna eat . 	Mary bunu tartışmaya çevirme . 
+223	Mary , don 't make this an argument when we 're not having an argument . 	Tartışmıyoruz burada . 
+224	You 're against him , I 'm for him ? 	Sen karşısın da ben taraftar mıyım ? 
+225	No , I 'm not for him . 	Hayır , savunmuyorum onu . 
+226	I 'm not for the Russians spying on us . 	Rusların bizi gözetlemesini ben de istemiyorum . 
+227	I 'm for his right to have a defense in a court of law , which is why they call it a court of law . 	Sadece mahkemede savunma haklarının olması taraftarıyım . Bu yüzden adına mahkeme diyorlar . 
+228	I didn 't mean to interrupt dinner . 	Yemeğinizi bölmek istememiştim . Mahkemede ... 
+229	A court of law ... 	Merhaba , Doug . 
+230	Hey , Doug . 	Hayır , bölmedin , Doug . 
+231	Oh , no , not at all . 	Hayır , bölmedin , Doug . 
+232	Hello , Doug . 	Jim de öylesine konuşuyordu işte . 
+233	Jim was just flailing . 	Jim de öylesine konuşuyordu işte . 
+234	I 'm not flailing . 	Öylesine konuşmuyorum . 
+235	Go ahead , Doug , you can join us for dinner . 	Doug , masaya otursana . 
+236	We 're having meatloaf tonight . 	Yemekte köfte var . 
+237	So , you came over to help Jim think about whether he 's taking the case ? 	Buraya Jim 'in davayı alıp almamaya karar vermesinde yardımcı olmak için mi geldin ? 
+238	Oh , we 're taking it ! 	Karar mı ? Aldık bile . 
+239	It 's exciting , isn 't it ? 	Heyecan verici , değil mi ? 
+240	Lord , we thank thee for thy blessings we are about to receive . 	Efendim , bize bahşettiğin bu nimetler için teşekkür ederiz . 
+241	Thy bounty through Christ , our Lord . 	Efendimiz İsa Mesih 'in cömertliği için . Âmin . 
+242	Amen . 	
+243	Good morning , sir . 	Günaydın efendim . 
+244	My name is Jim Donovan . 	Adım Jim Donovan . 
+245	These are my credentials . 	Referanslarım bu dosyada . 
+246	I am a partner in Watters , Cowan and Donovan . 	Watters , Cowan ve Donovan şirketinin ortaklarından biriyim . 
+247	I was admitted to the New York Bar in 1941 . 	New York Barosu 'na 1941 yılında kabul edildim . 
+248	You have been charged with three counts and 19 overt acts . 	Üç suçu on dokuz kez açık bir şekilde işlemekle itham ediliyorsunuz . 
+249	Conspiracy to transmit United States defense and atomic secrets to the Soviet Union , conspiracy to gather secrets , and failing to register as a foreign agent . 	Birleşik Devletler 'in savunma gücü ve atomik bilgilerini Sovyetler Birliği 'ne iletmek ... ... gizli bilgileri toplamak ... ... ve yabancı ajan olarak kendinizi kaydettirmemek . 
+250	Do many foreign agents register ? 	Yabancı ajanların çoğu kayıt ettiriyor mu ? 
+251	If you don 't mind my asking , sir , since your arrest , where have you been ? 	Sormamda bir mahzur yoksa ... ... tutuklanmanızdan beri neredeydiniz ? 
+252	I couldn 't say for certain . 	Kesin olarak söyleyemem . 
+253	You don 't know ? 	Bilmiyor musunuz ? 
+254	They drove me to an airport and put me on a plane , took me off the plane . 	Beni havaalanına götürüp bir uçağa bindirdiler , sonra o uçaktan indirdiler . 
+255	Somewhere hot . 	Sıcak bir yerdi . 
+256	It 's hot here . 	- Burası da sıcak . 
+257	Hotter , very humid . 	- Daha sıcak ve nemliydi . 
+258	They put me in a room . 	Beni bir odaya koydular . 
+259	Were you beaten ? 	Dövüldünüz mü ? 
+260	No . 	Hayır . 
+261	I was talked to . 	Benimle konuştular . 
+262	Offers were made . 	Teklifler yaptılar . 
+263	What do you mean ? 	Nasıl yani ? 
+264	Offers of employment , to work for your government . 	İş teklifi , ülkeniz adına çalışmam için . 
+265	I was told if I cooperated , no further charges would be made against me . 	Eğer konuşacak olursam bana karşı hiçbir suçlama yapılmayacağı söylendi . 
+266	And I would be given money . 	Para da vereceklerdi . 
+267	Hmm . 	- Ret mi ettiniz ? 
+268	And you declined ? 	- Ret mi ettiniz ? 
+269	As you see . 	- Gördüğünüz gibi . 
+270	Well , of course I can 't endorse that . 	Elbette bunu onaylamam mümkün değil . 
+271	I feel duty- bound to urge you to cooperate with the U . S . government . 	Hem ahlaki hem de yasal yükümlüğüm gereği ABD hükümeti ile anlaşmanızı öneririm . 
+272	Well , I said no . 	Cevabım hayır . 
+273	Perhaps you could relay to your friends at the CIA that I meant it . 	Belki CIA' deki dostlarınıza bu konuda ciddi olduğumu iletirsiniz . 
+274	No , no , no . 	Hayır , hayır . 
+275	I ... 	Ben teşkilat için çalışmıyorum . 
+276	I don 't work for the agency . 	Ben teşkilat için çalışmıyorum . 
+277	I don 't work for the government . 	Devlet için de çalışmıyorum . 
+278	I am here to offer my services as your legal counsel . 	Avukatınız olarak hizmetimi sunmak için buradayım . 
+279	If you accept them as such , 	Siz de bunu kabul ederseniz , sizin için çalışacağım . 
+280	I work for you . 	Siz de bunu kabul ederseniz , sizin için çalışacağım . 
+281	If I accept you ? 	Kabul edersem mi ? 
+282	Are you good at what you do ? 	Yaptığınız işte iyi misiniz ? 
+283	Yeah . 	Evet , oldukça iyiyim . 
+284	Yeah , I 'm pretty good . 	Evet , oldukça iyiyim . 
+285	Have you represented many accused spies ? 	Daha önce casuslukla suçlanmış kimseleri savundunuz mu ? 
+286	No , not yet . 	Hayır , henüz savunmadım . 
+287	This will be a first for the both of us . 	Bu ikimiz için de bir ilk olacak . 
+288	Yes . 	Evet . 
+289	All right . 	Pekâlâ . Pekâlâ mı ? 
+290	" All right " ? 	Kabul ediyor musunuz ? 
+291	You accept ? 	Kabul ediyor musunuz ? 
+292	Yes , all right . 	- Evet . Pekâlâ . 
+293	Good , okay . 	- İyi , tamam . 
+294	Let 's start here . 	Başlangıç olarak Amerikan Hükümeti ile işbirliği yapmama konusunda kararlı - 
+295	If you are firm in your resolve not to cooperate with the U . S . government ... 	Başlangıç olarak Amerikan Hükümeti ile işbirliği yapmama konusunda kararlı - 
+296	I am . 	- Kararlıyım . 
+297	Yeah . 	- Peki . 
+298	Then do not talk to anybody else about your case , inside of government or out . 	Dava dosyanız hakkında kimse ile konuşmayın , hükümet görevlisi olsun veya olmasın . 
+299	Except to me , to the extent that you trust me . 	Ben hariç , bana güveninizin bir parçası olarak . 
+300	I have a mandate to serve you . 	Benim sizi temsile yetkim var , başkalarının yok . 
+301	Nobody else does . 	Açık konuşmak gerekirse geriye kalan herkes elektrikli sandalyeye gitmeni istiyor . 
+302	Quite frankly , everybody else has an interest in sending you to the electric chair . 	Açık konuşmak gerekirse geriye kalan herkes elektrikli sandalyeye gitmeni istiyor . 
+303	All right . 	Tamam . 
+304	You don 't seem alarmed . 	Hiç kaygılanmışa benzemiyorsunuz . 
+305	Would it help ? 	Bir faydası olur mu ? 
+306	I ... 	Çizim yapabilecek malzemelerim olsa iyi olurdu . 
+307	I would like materials to draw with . 	Çizim yapabilecek malzemelerim olsa iyi olurdu . 
+308	That 's not possible . 	Bu mümkün değil . 
+309	A pencil , a piece of paper . 	Kalem , bir kâğıt parçası . 
+310	Cigarettes . 	Sigara . 
+311	Please ? 	Lütfen ? 
+312	Mr . 	Bay Donovan , sizin de benim gibi ülkesi için aynı görevi yapan adamlarınız var . 
+313	Donovan , you have men like me doing the same for your country . 	Bay Donovan , sizin de benim gibi ülkesi için aynı görevi yapan adamlarınız var . 
+314	If they were caught , 	Yakalandıkları zaman ... ... eminim onlara iyi davranılmasını isterdiniz . 
+315	I 'm sure that you would wish them to be treated well . 	Yakalandıkları zaman ... ... eminim onlara iyi davranılmasını isterdiniz . 
+316	What 's your name ? 	- Adın ne ? 
+317	Francis Gary Powers . 	- Francis Gary Powers . 
+318	Rank , service ? 	Rütbe , vazife ? 
+319	First Lieutenant , United States Air Force . 	Üsteğmen , ABD Hava Kuvvetleri . 
+320	Do you have any association with the Soviet Union , Lieutenant Powers ? 	Sovyetler Birliği ile herhangi bir ilişiğin var mı Teğmen Powers ? 
+321	Kidding ? 	- Şaka mı yapıyorsunuz ? 
+322	Just answer the questions , Lieutenant . 	- Sadece soruya cevap ver Teğmen . 
+323	Yes , no , or as simply as you can . 	Evet veya hayır . Elinden geldiğince basit . 
+324	Do you have any association with the Soviet Union ? 	Sovyetler Birliği ile herhangi bir ilişiğin var mı ? 
+325	Hell , no . 	Kesinlikle hayır . 
+326	Do you know why you 're here ? 	Neden burada olduğunu biliyor musun ? 
+327	Mmm- mmm . 	
+328	Is that a no ? 	Hayır mı demek istedin ? 
+329	Yes . 	Evet , yani ... 
+330	I mean ... 	Hayır . 
+331	No , it 's just " no . " 	Sadece hayır . 
+332	Yes , I have absolutely no idea why I 'm here . 	Evet , kesinlikle neden burada olduğumu bilmiyorum . 
+333	Eyes front , Lieutenant . 	- Önüne bak Teğmen . 
+334	Yes , sir . 	- Emredersiniz . 
+335	How 'd you do in there , Gary ? 	Nasıl gitti Gary ? 
+336	Pretty good . 	Gayet iyi . 
+337	Think I got my name right . 	Sanırım ismimi doğru öğrendiler . 
+338	You probably outscored Shinn , then . 	O halde Shinn 'i geçmişsindir . 
+339	Who 's winning ? 	- Kim kazanıyor ? 
+340	Uh , that would be me . 	- Ben . 
+341	Oh . 	Bana da dağıt . 
+342	Well , deal me in . 	Bana da dağıt . 
+343	So , these are all mine , then . 	- Bunların hepsi benim . 
+344	I told you boys not to play with him . 	- Ona karşı oynamayın demiştim . 
+345	Okay , drivers , here 's the deal . 	Pekâlâ havacılar , olay şu ; 
+346	You 've been selected for a mission which you are not to discuss with anyone outside of this room . 	Bu oda dışında kimseye bahsedemeyeceğiniz bir görev için seçildiniz . 
+347	No one . 	Hiç kimseye . 
+348	I don 't care who you trust . 	Kime güvendiğiniz umurumda değil . 
+349	Wife , mother , sweetheart . 	Eşiniz , anneniz , sevgiliniz . 
+350	The good Lord when you pray at night . 	Veya geceleri dua ettiğiniz Tanrı 'nız . 
+351	You don 't tell any of them anything of what I 'm about to tell you . 	Birazdan söyleyeceklerimi hiçbirine söyleyemezsiniz . 
+352	Each of you drivers has met certain qualifications . 	Hepiniz belli vasıflara sahip olduğunuzu kanıtladınız . 
+353	High level security clearance . 	Üst düzey güvenilirlik . 
+354	Exceptional pilot ratings in excess of the required hours flight time in a single- seat aircraft . 	Fevkalâde uçuş puanlarınız var . Bunun yanı sıra tek koltuklu uçak ile zorunlu uçuş saatini fazlasıyla geçmişsiniz . 
+355	We are engaged in a war . 	Bir savaşın içindeyiz . 
+356	This war does not , for the moment , involve men- at- arms . 	Bu savaşta şimdilik silahlı güçler yok , istihbarat var sadece . 
+357	It involves information . 	Bu savaşta şimdilik silahlı güçler yok , istihbarat var sadece . 
+358	You will be collecting information . 	Bilgi toplayacaksınız . 
+359	You will be gathering intelligence about the enemy . 	Düşman hakkında istihbarat toplayacaksınız . 
+360	The intelligence you gather could give us the upper hand in a full thermonuclear exchange with the Soviet Union . 	Toplayacağınız istihbarat Sovyetler Birliği 'ne karşı ... ... nükleer takasta elimizi güçlendirecektir . 
+361	Or it could prevent one . 	Ya da engellememizde . 
+362	For public purposes , as far as your wife or mother or sweetheart or the good Lord above , your mission does not exist . 	Kamu yararı için ... ... isterse anneniz , eşiniz , kızınız veya yukarıdaki Tanrı 'nız olsun ... ... böyle bir görev yok . 
+363	If it does not exist , you do not exist . 	Görev yoksa siz de yoksunuz demektir . 
+364	You cannot be shot down . 	Düşürülemezsiniz . 
+365	You cannot be captured . 	Yakalanamazsınız . 
+366	You work for the CIA now . 	Artık CIA için çalışıyorsunuz . 
+367	So , Jim , I heard your guy is speaking with a phony accent . 	Jim , duyduğuma göre adamın yabancı aksanla konuşuyormuş . 
+368	Does he keep that up all the time ? 	Devamlı öyle mi konuşuyor ? 
+369	Actually , I 'm pretty sure that 's just the way he talks . 	Aslında normal konuşması olduğundan oldukça eminim . 
+370	He 's got the Russian name but a British passport . 	Adamın ismi Rus ismi ama pasaportu İngiliz pasaportu . 
+371	Well , I doubt that that 's genuine . 	Gerçek olduğundan şüpheliyim . 
+372	So , Jim , where are we ? 	Pekâlâ Jim , ne durumdayız ? 
+373	I see here ... 	Burada diyor ki - 
+374	Yes , uh , Judge , you see , 	Evet , Hâkim Bey , anlayacağınız ... ... üç haftanın yeterli olacağını sanmıyorum . 
+375	I just don 't think that three weeks is going to do it , here . 	Evet , Hâkim Bey , anlayacağınız ... ... üç haftanın yeterli olacağını sanmıyorum . 
+376	We ... 	- Bildiğiniz gibi çok sayıda delil var . 
+377	We got a massive amount of evidence , as you know . 	- Bildiğiniz gibi çok sayıda delil var . 
+378	You wanna postpone ? 	- Erteletmek mi istiyorsun ? 
+379	Six weeks . 	- Altı hafta . 
+380	I mean , there 's just myself and my associate , basically . 	- Sadece ben ve yardımcım varız . 
+381	Jim , is this serious ? 	- Jim , ciddi misin sen ? 
+382	Sir ? 	Efendim ? 
+383	Is this serious ? 	- Ciddi mi konuşuyorsun ? 
+384	Yes . 	- Evet , ciddiyim . 
+385	Yes , indeed , it is . 	- Evet , ciddiyim . 
+386	You can see in the filing ... 	- Dosyada da göreceğiniz gibi - - Jim , bu adam Sovyet casusu . 
+387	Jim , this man is a Soviet spy . 	- Dosyada da göreceğiniz gibi - - Jim , bu adam Sovyet casusu . 
+388	Allegedly . 	- İddia ediliyor . 
+389	Come on , Counselor ! 	- Hadi Avukat Bey . 
+390	Your Honor . 	Sayın Hâkim . 
+391	Of course , I salute you . 	Elbette sana saygı duyuyorum . 
+392	We all salute you for taking on a thankless task . 	Hepimiz bu ağır görevi aldığın için sana saygı duyuyoruz . 
+393	This man has to have due process . 	Bu adam yasal süreçten geçmeli . 
+394	But let 's not kid each other . 	Ama birbirimiz kandırmayalım . 
+395	He 'll receive a capable defense . 	Adam yeterli şekilde savunulacak . 
+396	And , God willing , he 'll be convicted . 	Tanrı 'nın izniyle de suçlu bulunacak . 
+397	Come on , Counselor . 	Hadi Avukat Bey . 
+398	Let 's not play games with this . 	Boşuna oyun oynamayalım . 
+399	Not in my courtroom . 	Benim mahkeme salonumda olmaz . 
+400	We have a date and we 're going to trial . 	Tarih belli ... ... ve o gün duruşma olacak . 
+401	Taxi ! 	Taksi ! 
+402	Taxi ! 	Taksi ! 
+403	I see your light on ! 	Işıklarının açık olduğunu gördüm ! 
+404	Son of a bitch . 	Şerefsiz ! 
+405	Can 't wait to get back to Manhattan . 	Manhattan 'a geri dönmek için sabırsızlanıyorum . 
+406	His light was on , right ? 	Işıkları yanıyordu , değil mi ? 
+407	Son of a bitch . 	Şerefsiz ! 
+408	Against their level of comfort . 	Onların refah düzeyine karşı . 
+409	The statute hasn 't changed . 	Kanun henüz değişmedi . 
+410	Oh , excuse me , sir . 	Affedersiniz beyefendi . 
+411	Pardon me . 	Pardon . 
+412	Sorry . 	Pardon . 
+413	Oh ! 	Pardon . 
+414	Mr . 	Bay Donovan ? 
+415	Donovan . 	Bay Donovan ? 
+416	What ? 	Ne var ? 
+417	What ? 	Ne ? 
+418	CIA . 	- CIA . 
+419	Yeah . 	- Evet . 
+420	I just wanted to chat . 	Sadece konuşmak istiyordum . 
+421	How 's the case going ? 	Dava nasıl gidiyor ? 
+422	Case is going great . 	Dava çok iyi gidiyor . 
+423	Couldn 't be better . 	Daha iyi olamazdı . 
+424	Mmm- hmm . 	
+425	Has your guy talked ? 	Adamın konuştu mu ? 
+426	Excuse me . 	Efendim ? Adamla tanıştın . 
+427	You met him . 	
+428	Has he talked ? 	Konuştu mu ? 
+429	Has he said anything yet ? 	Hiçbir şey söyledi mi ? 
+430	We 're not having this conversation . 	- Bu konuşmayı yapmıyoruz . 
+431	No , of course not . 	- Hayır , tabii ki yapmıyoruz . Hayır , ciddiyim . 
+432	No , I mean , we really are not having it . 	Bu konuşmayı yapmayacağız . 
+433	You 're asking me to violate attorney- client privilege . 	Benden avukat müvekkil gizliliğini ihlal etmemi istiyorsun . 
+434	Oh , come on , Counselor . 	Hadi Avukat Bey . 
+435	You know , I wish people like you would quit saying " Oh , come on , Counselor . " 	Keşke sizin gibi insanlar " Hadi Avukat Bey " demekten vazgeçseler . 
+436	I didn 't like it the first time it happened today . 	Bugün ilk duyduğumda da hoşuma gitmemişti . 
+437	A judge said it to me twice . 	Hâkimin biri iki kez söyledi . 
+438	And the more I hear it , the more I don 't like it . 	Duydukça daha çok hazzetmiyorum . 
+439	Okay , well , listen , I understand attorney- client privilege . 	Pekâlâ , dinle , avukat müvekkil gizliliğini anlıyorum . 
+440	I understand all the legal gamesmanship . 	Uyulması gereken yasal mevzuları da anlıyorum . 
+441	And I understand that 's how you make a living . 	Geçimini bundan sağladığını da biliyorum . 
+442	But I 'm talking to you about something else . 	Fakat sana başka bir şeyden bahsediyorum . 
+443	The security of your country . 	Ülkenin güvenliğinden . 
+444	And I 'm sorry if the way I put it offends you . 	Söyleyiş tarzım seni gücendirdiyse özür dilerim . 
+445	But we need to know what Abel is telling you . 	Lâkin Abel 'ın sana anlattığı şeyleri bilmeliyiz . 
+446	You understand me , Donovan ? 	Beni anlıyor musun Donovan ? 
+447	We need to know . 	Bilmek zorundayız . 
+448	Don 't go " Boy Scout " on me . 	Bana izci ayaklarına yatma . 
+449	We don 't have a rule book , here . 	Burada bir kural kitabımız yok . 
+450	You 're Agent Hoffman , yeah ? 	- Ajan Hoffman 'dı , değil mi ? 
+451	Yeah . 	- Evet . 
+452	German extraction . 	- Alman asıllısın ? 
+453	Yeah , so ? 	- Evet , ne olmuş ? 
+454	My name 's Donovan . 	Benim adım Donovan . İrlandalıyım . 
+455	Irish . 	İki taraftan da . 
+456	Both sides , mother and father . 	Hem annem hem babam . 
+457	I 'm Irish , you 're German . 	Ben İrlandalıyım , sen Almansın . 
+458	But what makes us both Americans ? 	Peki bizi Amerikan yapan şey ne ? 
+459	Just one thing . 	Sadece bir şey . 
+460	One , one , one . 	Tek bir şey . 
+461	The rule book . 	Kural kitabımız . 
+462	We call it the Constitution and we agree to the rules , and that 's what makes us Americans . 	Ona Anayasa diyoruz . Ve bu kurallarda hemfikiriz . Bizi Amerikan yapan şey de bu . 
+463	It 's all that makes us Americans so don 't tell me there 's no rule book , and don 't nod at me like that , you son of a bitch . 	Bizi Amerikan yapan tek şey bu . Bu yüzden kural kitabı yok deme bana ... ... ve öyle kafa sallayıp durma lan şerefsiz . 
+464	Do we need to worry about you ? 	Senin için endişelenmeli miyiz ? 
+465	Not if I 'm left alone to do my job . 	Rahat bırakılıp işimi yapmama izin verilirse hayır . 
+466	From this moment forward you will not refer to the U- 2 as a spy plane or reconnaissance aircraft . 	Şu andan itibaren U- 2´ya casus uçağı veya keşif uçağı demeyeceksiniz . 
+467	You will refer to it as " The Article . " 	Ona artık " Nesne " diyeceksiniz . 
+468	The Article has an 80- foot wingspan . 	Nesnenin kanat açıklığı 25 metre . 
+469	It 's powered by a single Pratt and Whitney J57 P- 37 engine . 	Pratt ve Whitney J57 P- 37 modeli , 4, 5 tonluk itme gücü olan ... ... bir tekli motorla donatılmış . 
+470	10, 000 pounds of thrust and a maximum speed of 430 miles an hour . 	Saatte maksimum 430 mil hıza ulaşabiliyor . 
+471	She may not be quick , but at your cruising altitude of 70, 000 feet , nothing will come close to you . 	Çok hızlı olmayabilir ama 20 bin metre irtifada seyrederken ... ... yanınıza kimse yaklaşamaz . 
+472	70, 000 ? 	- 20 bin metre mi ? 
+473	The idea is the enemy doesn 't even know you 're there . 	- Amaç düşmanın orada olduğunuzu bilmemesi . 
+474	It looks kind of flimsy . 	Çok zayıf gözüküyor . 
+475	Every extra pound of weight costs a foot in altitude , and we need to accommodate the cameras . 	Her fazladan ağırlık irtifa kaybına sebep oluyor . Ve kameraları yerleştirmemiz gerekiyordu . 
+476	That 's a 4, 500- millimeter lens , times three . 	4500 mm lensleri var , üçer tane . 
+477	A pin- sharp panoramic camera four times as powerful as any aerial reconnaissance cameras we 've ever used . 	Çözünürlüğü çok yüksek panoramik kameralar . Daha önce hava keşiflerinde kullandıklarımızdan dört kat daha güçlüler . 
+478	You 're gonna be taking pictures , lots of pictures . 	Fotoğraf çekeceksiniz . Bol bol fotoğraf çekeceksiniz . 
+479	At 70, 000 feet , The Article can photograph 2, 000 square miles of territory in one pass . 	Nesne 20 bin metre irtifada ... ... bir çekimde 5000 kilometrekarelik alanın fotoğrafını çekebilir . 
+480	Now , drivers , give Agent Sumner your undivided attention . 	Pekâlâ havacılar , Ajan Sunders 'ı bütün dikkatinizle dinleyin . 
+481	The items you will need on your mission are over here . 	Görevinizde ihtiyaç duyacağınız malzemeler burada . 
+482	B camera , Revere 8 model 40 magazine , 	B kamera , Revere marka 40 adet poz . 
+483	Keystone Capri K- 25 , silver . 	Keystone Capri K- 25 gümüş . 
+484	Hollow- handle shaving brush . 	Oyma saplı tıraş fırçası . 
+485	Complete set of cipher tables on edible silver foil . 	Yenilebilir gümüş folyolu şifre tablosu seti . 
+486	Specialist photographic equipment . 	Uzman fotoğrafçılık ekipmanları . 
+487	Yeah , we , uh ... 	Tamam , anladık . 
+488	We get the idea . 	Teşekkür ederiz . 
+489	Thank you . 	Teşekkür ederiz . 
+490	Uh , excuse me , Agent , uh , Bosco . 	- Affedersiniz Ajan Bosco ... 
+491	" Blasco . " 	Blosco - Evet . 
+492	Sir . 	Blosco - Evet . 
+493	There seems to be a subsection to this list here . 	Bu listede ayrı bir kısım daha görünüyor . 
+494	Well , most of this stuff came from his studio , but the rest is from the hotel room he was holed up in . 	Eşyaların çoğu stüdyosundan alındı . Geri kalanı ise kaldığı otel odasından alınanlar . 
+495	Where we found him . 	Onu bulduğumuz yerden . 
+496	The hotel room you searched ? 	- Aradığınız otel odası mı ? 
+497	Well , yeah . 	- Evet . 
+498	Can I see the warrant ? 	- Arama emrini görebilir miyim ? 
+499	The what ? 	- Neyi ? 
+500	Yeah , explain this to me . 	Evet , bunu açıkla bakalım . 
+501	There was a warrant . 	Arama emri vardı . 
+502	There was a warrant . 	Yabancı uyruklu birini yakalamak için arama emri vardı . 
+503	A civil detention writ for the arrest of an alien , but there was no search warrant for suspicion of criminal activity . 	Fakat ne arama emri vardı ne de hakkında bir suç duyurusu vardı . 
+504	So , the search and the evidence that is the fruit of that search , that 's all tainted and should not be admitted . 	Yani hem arama hem de aramada bulunan deliller bozulmuştur ve kabul edilemezler . 
+505	What protections is he due , Your Honor ? 	Hangi yasayla korunuyor Sayın Hâkim ? Bu adam ... 
+506	The man is not ... 	Bu adam neci ? 
+507	The man is what ? 	Rudolf Ivanovich Abel . 
+508	He 's Rudolf Ivanovich Abel . 	Rudolf Ivanovich Abel . 
+509	He is a Soviet citizen . 	Bir Sovyet vatandaşı . 
+510	He 's not an American . 	Amerikan değil . 
+511	1886 , Yick Wo v . 	1886 yılı . Yick Wov , Hopkins davası . 
+512	Hopkins . 	Mahkeme yabancı uyrukluların bile ki bu dosyada Çinli göçmenler oluyor ... ... bir mahkeme süreci olmadan herhangi bir suçtan sorumlu olmayacağına karar verdi . 
+513	The court held that even aliens , in that case Chinese immigrants , could not be held to answer for a crime without due process of law , including any alien that entered the country illegally . 	Mahkeme yabancı uyrukluların bile ki bu dosyada Çinli göçmenler oluyor ... ... bir mahkeme süreci olmadan herhangi bir suçtan sorumlu olmayacağına karar verdi . 
+514	The Department of Justice has its first allegiance to the United States . 	Adalet Bakanlığı öncelikle Amerika Birleşik Devletleri 'ne hizmet eder . 
+515	I don 't see how an alien , if he 's here illegally , how he suffered deprivation of rights . 	Benim anlamadığım yabancı biri , burada illegal olarak bulunuyorsa ... ... nasıl hak mahrumiyetinden şikayetçi olabilir . 
+516	Rights as what ? 	Ne hakkı ? 
+517	An American ? 	Amerikan mı ? 
+518	Rights as what , Counselor ? 	Ne hakkı Avukat Bey ? 
+519	We 're in a battle for civilization . 	Burada uygarlık savaşı vermiyoruz . 
+520	This Russian spy came here to threaten our way of life . 	Bu Rus casusunun buraya geliş sebebi yaşam tarzımızı tehdit etmek . 
+521	Now , I have a courtroom of people waiting . 	İçeride bir salon dolusu insan bekliyor . 
+522	Get out there , sit beside the Russian . 	Şimdi git ve o Rus 'un yanına otur . 
+523	Let 's get this over and done with . 	Hadi şu işi bitirelim . 
+524	And your motion is denied . 	Teklifiniz de reddedildi . 
+525	He should take some insurance out on himself . 	Kendisini de sigortalamalı . 
+526	How did we do ? 	- Nasıldık ? 
+527	In there ? 	- İçeride mi ? 
+528	Uh ... 	Pek iyi sayılmaz . 
+529	Not too good . 	Pek iyi sayılmaz . 
+530	Apparently , you 're not an American citizen . 	Görünüşe göre Amerikan vatandaşı değilsin . 
+531	That 's true . 	Doğru . 
+532	And according to your boss , you 're not a Soviet citizen either . 	Patronuna göre Rus vatandaşı da değilsin . 
+533	Well , the boss isn 't always right but he 's always the boss . 	Patron her zaman haklı değildir ama her zaman patrondur . 
+534	Do you never worry ? 	- Hiç endişelenmez misin ? 
+535	Would it help ? 	- Bir faydası olur mu ? 
+536	All rise . 	Herkes kalksın . 
+537	" I pledge allegiance to the Flag 	" Ant içiyorum ! 
+538	" of the United States of America , 	" Amerika Birleşik Devletleri 'nin bayrağına 
+539	" and to the Republic for which it stands , 	" Ve o bayrağın simgelediği cumhuriyete 
+540	" one Nation under God , indivisible , 	" Tanrı 'nın gözetiminde , bölünmez tek bir millete 
+541	" with liberty and justice for all . " 	" Ve herkes için özgürlük ve adalete 
+542	First , you have to know what happens when an atomic bomb explodes . 	İlk olarak bir atom bombası patladığında neler olduğunu bilmelisiniz . 
+543	There is a bright flash , brighter than the sun . 	Parlak bir ışık olur , güneş ışığından daha parlak . 
+544	It can smash in buildings , break windows all over town . 	Binalar yıkılır , şehirdeki bütün pencereler parçalanır . 
+545	But if you duck and cover like Bert , you will be much safer . 	Eğer siz de Bert gibi çömelip korunacak olursanız çok daha güvenli olur . 
+546	There are two kinds of attack , with warning and without any warning . 	İki tip saldırı vardır , uyararak ve uyarmadan . 
+547	Mmm . 	
+548	What 's going on in here ? 	- Ne oluyor burada ? 
+549	Okay , Dad , this is really important . 	- Dinle baba , bu gerçekten çok önemli . 
+550	When the war begins , the first thing they do is cut off all the water and all the electricity . 	Savaş başladığında ilk yaptıkları şey , elektriği ve suyu kesmek . 
+551	So the first thing we should do is keep this filled , use the shower in your room , use the sink downstairs , the garden hose outside ... 	Bu yüzden öncelikle yapmamız gereken bunu dolu tutup ... ... senin odandaki duşu ... ... alt kattaki küveti ve dışarıdaki bahçe hortumunu kullanmak olmalı . 
+552	Those are good ideas . 	Güzel fikirler bunlar . 
+553	But , Roger , I don 't see this as being something you ever have to worry about . 	Fakat Roger , bunların endişelenmen gereken şeyler olduğunu düşünmüyorum . 
+554	Yeah , but when you hear the sirens , there may not be enough time to fill the tub and the sinks . 	Evet ama sirenleri duyduğumuzda ... ... banyo teknesini ve küvetleri dolduracak zaman olmayabilir . 
+555	Not gonna be any sirens ... 	Siren falan çalmayacak . 
+556	What is this ? 	O ne ? 
+557	When the bomb comes , the Reds will aim for the Empire State Building . 	Bomba atıldığında Kızıllar Empire State binasını hedef alacaklar . 
+558	But the bomb goes off at 10, 000 feet up . 	Fakat bomba 3 bin metre yükseklikte patlıyor . 
+559	In Life magazine , it 's called an airburst , and if the bomb is 50 megatons , the blast wave goes out and out and out and melts everything from here to here . 	Life dergisinde buna havada infilâk demişler . Eğer bomba 50 megatonluk bir bomba ise bu çember gittikçe genişler ... ... buradan buraya kadar her şeyi imha eder . 
+560	Including where we live . 	Buna yaşadığımız yer de dâhil . 
+561	Here . 	Burası . 
+562	Yeah , right there . 	Evet , orası . 
+563	But , you know , Roger , no one is dropping atomic bombs on us . 	Fakat Roger , kimse bize atom bombası atmayacak ki . 
+564	But the Russians want to . 	Ruslar atmak istiyorlar . 
+565	You know that Russian guy you 're defending ? 	Savunduğun Rus casusu var ya ... ... buraya bombayı atacak kişilere bilgi sağlamak için gelmiş . 
+566	He 's here to get things ready for the guys who drop the bombs . 	Savunduğun Rus casusu var ya ... ... buraya bombayı atacak kişilere bilgi sağlamak için gelmiş . 
+567	No , no , he 's not ... 	Hayır , hayır . Onun için burada değil . 
+568	Not here for that . 	Adam Rus bile değil . 
+569	He 's not even Russian . 	Adam Rus bile değil . 
+570	He was born , we think , in Northern England . 	Kuzey İngiltere 'de doğduğunu düşünüyoruz . 
+571	Yeah , but he 's a spy for Russia . 	Ama Rusya için casusluk yapıyordu . 
+572	I don 't even understand what you 're doing . 	Niye yaptığını anlamıyorum bile . 
+573	You 're not a Communist , so why are you defending one ? 	Komünist de değilsin , ne diye savunuyorsun ki ? 
+574	Well , because it 's my job . 	Çünkü benim işim bu . 
+575	It never used to be . 	Eskiden değildi . 
+576	In the case of the United States of America versus Rudolf Abel , as to the first count in the indictment , how do you find the defendant ? 	Amerika Birleşik Devletleri , Rudolf Abel davası . Birinci suçlama için sanık hakkında ne karar verdiniz ? 
+577	Guilty or not guilty ? 	Suçlu mu , suçsuz mu ? 
+578	Guilty . 	Suçlu . 
+579	As to the second count ? 	İkinci suçlamadan ? 
+580	Guilty . 	Suçlu ? 
+581	As to the third count ? 	Üçüncü suçlamadan ? 
+582	Guilty . 	Suçlu . 
+583	Your Honor , I make a motion to set aside these guilty verdicts against the weight of evidence . 	Sayın Hâkim , delil etkisi sebebiyle jüri kararının göz ardı edilmesini öneriyorum . 
+584	Denied . 	Reddedildi . 
+585	The jury is discharged . 	Jüri dağılabilir . 
+586	Thank you all . 	Hepinize teşekkür ederim . 
+587	I would like to add that , if I were one of you , 	Şunu da eklemek isterim ki içinizden biri olsaydım aynı kararı verirdim . 
+588	I would 've reached the same verdict . 	Şunu da eklemek isterim ki içinizden biri olsaydım aynı kararı verirdim . 
+589	Sentencing will be 	Hüküm ... ... 15 Kasım 'da verilecektir . 
+590	November 15 . 	Hüküm ... ... 15 Kasım 'da verilecektir . 
+591	The death sentence is not a foregone conclusion . 	İdam cezası önlenemeyecek bir şey değil . 
+592	Don 't worry . 	Endişe etme . 
+593	I 'm not afraid to die , Mr . 	Ölmekten korkmuyorum Bay Donovan . 
+594	Donovan . 	Ölmekten korkmuyorum Bay Donovan . 
+595	Although it wouldn 't be my first choice . 	Yine de ilk tercihim olmazdı . 
+596	You left this behind . 	Bunu arkanda bırakmışsın . 
+597	Oh , thank you . 	Teşekkür ederim . 
+598	Oh , thank you very much ! 	Çok teşekkür ederim . 
+599	You 've never asked me if the charges were true . 	Suçlamaların doğru olup olmadığını hiç sormadın . 
+600	If I am indeed a spy . 	Casus olup olmadığımı ? 
+601	This is how we do it . 	Hep böyle yaparız . 
+602	The case against you matters . 	Önemli olan dava dosyasıdır . 
+603	Making them prove it matters . 	Onları kanıtlamaya zorlamak önemlidir . 
+604	The fiction is ... 	Senin hakkındaki gerçek , yapıp yapmadığın önemli değildir . 
+605	Whether you did it or not doesn 't matter . 	Senin hakkındaki gerçek , yapıp yapmadığın önemli değildir . 
+606	The state has to prove it , that you 're a spy . 	Senin casus olduğunu ispatlamak zorunda olan savcılık makamı . 
+607	So you 're not curious ? 	Yani merak etmiyorsun ? 
+608	No , not really . 	Hayır , etmiyorum aslında . 
+609	I always assumed you were an artist . 	Hep senin sanatçı olduğunu farz ettim . 
+610	My wife , she 's the artist . 	Sanatçı olan eşim . 
+611	She 's a musician in the Children 's Orchestra of Moscow . 	Kendisi müzisyendir . Moskova Çocuk Orkestrası 'nda . 
+612	What instrument ? 	Hangi enstrüman ? 
+613	The harp . 	Harp . 
+614	Oh . 	
+615	Then , she 's an angel . 	Demek bir melek . 
+616	Standing there like that , you remind me of a man who used to come to our house when I was young . 	Öyle ayakta durunca küçükken evimize gelen bir adamı hatırlattın bana . 
+617	My father used to say , " Watch this man . " 	Babam bana " Bu adamı izle . " derdi . 
+618	So I did , every time he came . 	Ben de izlerdim . Her gelişinde . 
+619	And never once did he do anything remarkable . 	Bir kez bile kayda değer bir şey yapmadı . 
+620	And I remind you of him ? 	Sana onu mu hatırlatıyorum ? 
+621	This one time , I was about the age of your son . 	Bir keresinde , muhtemelen oğlunun yaşlarındaydım . 
+622	Our house was overrun by partisan border guards . 	Evimiz partizan sınır muhafızları tarafından basılmıştı . 
+623	Dozens of them . 	Düzinelerce . 
+624	My father was beaten , my mother was beaten , and this man , my father 's friend , he was beaten . 	Babamı dövdüler , annemi dövdüler , babamın arkadaşı olan adamı da dövdüler . 
+625	And I watched this man . 	Ben de o adamı izledim . 
+626	Every time they hit him he stood back up again . 	Ona her vurduklarında ... ... tekrar ayağa kalkıyordu . 
+627	So they hit him harder . 	Bu yüzden daha sert vurdular . 
+628	Still , he got back to his feet . 	Yine de ayağa kalkıyordu . 
+629	I think because of this they stopped the beating . 	Sanırım bu yüzden dövmeyi bırakıp yaşamasına izin verdiler . 
+630	They let him live . 	Sanırım bu yüzden dövmeyi bırakıp yaşamasına izin verdiler . 
+631	I remember them saying it . 	Böyle dediklerini hatırlıyorum . 
+632	It sort of means , like , uh , " standing man . " 	Anlamı aşağı yukarı ; Direnen adam . 
+633	Standing man . 	Direnen adam . 
+634	Hello , Jim ! 	- Merhaba Jim . 
+635	Millie , you 're a vision . 	- Millie , harika görünüyorsun . 
+636	Mortie 's busy getting kitted out . 	Mortie kendine çeki düzen vermekle meşgul . 
+637	But come on in . 	İçeri gelsene . 
+638	Scotch , Jim ? 	- Viski Jim ? 
+639	Oh , yes , please . 	- Evet , lütfen . 
+640	Thank you . 	Teşekkürler . 
+641	Uh , just a drop of water . 	Bir damla su ekleyin sadece . 
+642	Your Honor . 	Sayın Hâkim . 
+643	Hello , Jim ! 	Merhaba Jim . 
+644	Just going out . 	Çıkmak üzereydim . 
+645	Got a few minutes though . 	Birkaç dakikam var ama . 
+646	March of Dimes thing . 	March of Dimes hayır yemeği . 
+647	Millie is active . 	Millie zorluyor . 
+648	Well , thank you for seeing me . 	Benimle görüştüğünüz için teşekkür ederim . 
+649	I just wanted to give you my two cents on the sentencing . 	Hüküm hakkındaki düşüncelerimi aktarmak istemiştim sadece . 
+650	And I thought maybe I should pester you at home as not all of my points are narrowly legal . 	Ve belki evde görüşsem daha iyi olur diye düşündüm . Düşüncelerimin hepsi meşru değil de . 
+651	Yeah , well , it 's that kind of case . 	Ne yapalım , bu dava da öyle bir dava . 
+652	I hope I wasn 't too scratchy during the trial but it 's exactly what you say . 	Duruşma sırasında fazla dobra olmayacaktım ama aynen senin de dediğin gibi işte . 
+653	Nothing about this is narrowly legal . 	Bu davada her şey meşru değil . 
+654	There are bigger issues . 	Daha önemli meseleler var . 
+655	Bigger issues ! 	Önemli meseleler . 
+656	Thank you , thank you . 	Teşekkür ederim . 
+657	Uh ... 	Sağ olun . 
+658	Sir ... 	Efendim ... ... bana göre Abel 'ın hayatta kalmasının Amerika için daha yararlı olacağını ... ... göz önüne alınmalı . 
+659	I think it could be considered in the best interests of the United States that Abel remain alive . 	Efendim ... ... bana göre Abel 'ın hayatta kalmasının Amerika için daha yararlı olacağını ... ... göz önüne alınmalı . 
+660	Why ? 	Niye ? 
+661	I 'm not saying I' ve made up my mind but if he was gonna cooperate , work with the government , he would 've done it already . 	Kararımı verdim demiyorum ama hükümetle işbirliği yapacak ... ... ve devlet için çalışacak olsaydı , şimdiye kadar çoktan yapardı . Doğru . 
+662	- True , but the issue here ... 	Fakat asıl konu - 
+663	- You can 't ... 	Fakat asıl konu - 
+664	Excuse me . 	Özür dilerim . 
+665	You can 't say it 's in the best interest of the United States that he spend the rest of his days in a prison cell . 	Geri kalan günlerini hapishane odasında geçirmesinin ... ... Amerika yararına olacağını söyleyemezsin . 
+666	How is this the national interest ? 	Ulusal çıkar bunun neresinde ? 
+667	Not the incarceration itself , sir . 	Hapse yollamak değil efendim . 
+668	It is possible that , in the foreseeable future , an American of equivalent rank might be captured by Soviet Russia . 	Yakın bir zamanda eşit rütbede bir Amerikan’ ın ... ... Sovyet Rusya 'sında yakalanması olası bir durum . 
+669	We might want to have someone to trade . 	Elimizde takas için birinin olmasını isteyebiliriz . 
+670	Wow . 	Olasılıkları zorlamak gibi geliyor kulağa . 
+671	That sounds like spinning what- ifs . 	Olasılıkları zorlamak gibi geliyor kulağa . 
+672	You could do that till the cows come home . 	Bu olana kadar balık kavağa çıkar . 
+673	It 's my business , what- ifs . 	Olasılık benim işim . Sigorta işindeyim . 
+674	I 'm in insurance . 	Ve bunda imkânsız görünen bir şey yok . 
+675	And there 's nothing implausible about this one . 	Ve bunda imkânsız görünen bir şey yok . 
+676	It 's entirely in the realm of what could happen . 	Tamamen ihtimaller dairesinde olan bir şey . 
+677	It 's the kind of probability that people buy insurance for . 	İnsanları sigorta yaptırmaya teşvik eden ihtimallerden birine benziyor . 
+678	If we send this guy to his death , we leave ourselves wide open . 	Bu adamı ölüme gönderirsek kendimizi ortada bırakmış oluruz . 
+679	No policy in our back pocket for the day the storm comes . 	Fırtınanın kopacağı gün için cebimizde tedbirimiz olmaz . 
+680	Nice speech . 	İyi konuşmaydı . 
+681	Sir , there is also the humanitarian argument . 	Efendim , bu aynı zamanda insanî bir konu . 
+682	Should he die for doing the job they sent him to do ? 	İfâ etmesi için gönderildiği görevi yapıyor diye ölmeli mi ? 
+683	All right , Counselor . 	Pekâlâ , Avukat Bey . 
+684	I gotta run . 	Gitmem gerek . 
+685	Good seeing you , Jim . 	Seni görmek güzeldi Jim . 
+686	I' ll walk you out . 	Seni kapıya kadar geçireyim . 
+687	All rise . 	Herkes kalksın . 
+688	The United States District Court for the Eastern District of New York is now in session . 	New York Doğu Bölgesi , Birleşik Devletler yerel mahkemesi şu an oturuma başlamıştır . 
+689	The honorable Mortimer Byers presiding . 	Sayın Hâkim Mortimer Byers başkanlık edecektir . 
+690	Be seated . 	Oturun . 
+691	The defendant will please rise . 	Savunma lütfen ayağa kalksın . 
+692	In the measured judgment of this court the following sentence , based upon the jury 's verdict of guilty as to each count of the indictment , is believed to meet the test which has been stated . 	Bu mahkemenin adil yargılamasında ... ... jürinin her bir suçlamadan sanığı suçlu bulmasına binâen ... ... verilecek hüküm , belirtilen eylemlerin gerektirdiği cezayı karşılayacaktır . 
+693	Pursuant to the verdict of guilty as to all counts , the defendant is committed to the custody of the Attorney General of the United States for imprisonment in a federal institution to be selected by him for a period of 30 years . 	Sanığın , jürinin bütün suçlamalardan suçlu bulmasına bağlı olarak ... ... Birleşik Devletler Başsavcılığı nezâretine teslim edilerek ... ... onun için seçilen federal hapishanede otuz yıl hapis kalmasına karar verilmiştir . 
+694	Marshals , you may take the defendant into custody . 	Refakatçiler , sanığı nezârete götürebilirsiniz . 
+695	No ... 	- Elektrikli sandalye yok mu ? 
+696	No electrocution ? 	- Elektrikli sandalye yok mu ? 
+697	No . 	- Elektrikli sandalye yok mu ? 
+698	No , no . 	- Hayır , yok . 
+699	Why aren 't we hanging him ? 	Neden asmıyoruz ? 
+700	In the name of God , why aren 't we hanging him ? 	Tanrı aşkına , neden onu asmıyoruz ? 
+701	Sit down , sir ! 	Oturun , bayım ! 
+702	He 's a spy ! 	Adam casus ! 
+703	He 's killing us with his lies ! 	Yalanlarıyla öldürüyor bizi ! 
+704	In the name of God , why aren 't we hanging him ? 	Tanrı aşkına , neden onu asmıyoruz ? 
+705	That 's right ! 	- Evet ! 
+706	He 's a spy ! 	- Casus o ! 
+707	Mr . 	Bay Donovan ! 
+708	Donovan ! 	Bay Donovan ! 
+709	Mr . 	Bay Donovan ! 
+710	Donovan ! 	Sadece bir soru efendim . 
+711	Just one question . 	Sadece bir soru efendim . 
+712	Just one question , sir . 	Sadece bir soru . 
+713	My hat ! 	Şapkam ! 
+714	My hat ! 	Şapkam ! 
+715	My hat ! 	Şapkam ! 
+716	Nobody here has a comment . 	Kimse yorum yapmayacak . 
+717	Mr . and Mrs . 	Bay ve Bayan Donovan sorulara cevap vermeyecek . 
+718	Donovan are not answering questions . 	Bay ve Bayan Donovan sorulara cevap vermeyecek . 
+719	How do you feel now that this national nightmare is over ? 	Bu ulusal kâbusun sona ermesi size ne hissettiriyor ? 
+720	Mr . 	Bay Donovan , karardan memnun musunuz ? 
+721	Donovan , are you happy with the verdict ? 	Bay Donovan , karardan memnun musunuz ? 
+722	We 're ... 	Davayı temyize hazırlamak için iyi nedenlerimiz var . 
+723	We 're in firm ground on , uh , for a case on appeal . 	Davayı temyize hazırlamak için iyi nedenlerimiz var . 
+724	Appeal ? 	- Temyiz mi ? 
+725	Appeal , yes . 	- Temyiz , evet . 
+726	Jim , you did a great job . 	Jim , büyük iş başardın . 
+727	You fulfilled your mandate and then some . 	Görevini fazlasıyla yerine getirdin . 
+728	But the man is a spy . 	Ama adam bir casus . 
+729	The verdict is correct and there 's no reason to appeal it . 	Hakkındaki hüküm doğru . Temyize götürmeye gerek yok . 
+730	There 's ample procedural reason . 	Bir yasal sebebimiz var ama . Arama emrinin yasal olmadığını biliyoruz . 
+731	We know the search is tainted . 	Dördüncü Düzenleme konuları her zaman temyiz mahkemelerinde önem arz eden konulardır . 
+732	And Fourth Amendment issues will always weigh more heavily in an appellate forum . 	Dördüncü Düzenleme konuları her zaman temyiz mahkemelerinde önem arz eden konulardır . 
+733	We 've got a good shot . 	Elimizde çok iyi bir şans var . 
+734	What the goddamn hell are you talking about ? 	Sen neden bahsediyorsun ya ? 
+735	We were supposed to show he had a capable defense , which we did . 	Tek yapmamız gereken adamın iyi bir şekilde savunulduğunu göstermek ki gösterdik . 
+736	Why are you citing the goddamn Constitution at me ? 	Ne demeye kahrolası Anayasa 'dan alıntı yapıyorsun bana ? 
+737	Tom , if you look me in the eye and tell me we don 't have grounds for an appeal , I' ll drop it right now . 	Tom , gözlerime bakıp temyiz için ... ... elimizde yeterli sebep olmadığını söylersen anında bırakırım . 
+738	I 'm not saying that . 	Bunu söylemiyorum . 
+739	You know what I 'm saying . 	Ne söylediğimi biliyorsun . 
+740	Tom is saying there 's a cost to these things . 	- Tom bunun bedeli olduğunu söylüyor . 
+741	That 's right . 	- Aynen öyle . 
+742	A cost to both your family and your firm . 	Hem ailen hem de şirketin için bedeli . 
+743	I' ve missed music . 	Müziği özledim . 
+744	They checked the radio to make sure there was no transmitter in it . 	Radyoyu inceleyip verici olup olmadığına baktılar . 
+745	I 'm sure they did . 	Eminim yapmışlardır . 
+746	Shostakovich . 	Shostakovich . 
+747	Mmm . 	
+748	That 's a very great artist , Shostakovich . 	Shostakovich büyük bir sanatçı . 
+749	Uh , I think our strongest grounds for reversal are constitutional . 	Düşünüyorum da ... Temyiz için elimizdeki en güçlü dayanak anayasayla ilgili olanlar . 
+750	Our best chance is if the Supreme Court agrees to review our case . 	Temyiz Mahkemesi dosyayı gözden geçirmeye karar verirse elimizdeki en iyi koz bu . 
+751	Jim ... 	Jim . 
+752	You should be careful . 	Dikkatli olmalısın . 
+753	Careful . 	Dikkatli . 
+754	♪ 77 Sunset Strip 	77 Sunset Strip 
+755	Edward Byrnes . ♪ 77 Sunset Strip 	Edward Byrnes . 77 Sunset Strip 
+756	And Richard Long . 	Ve Richard Long . 
+757	Good morning , Suzanne . 	Günaydın , Suzanne . 
+758	Good morning , Dick . 	Günaydın , Dick . 
+759	There is a special delivery letter here for you . 	Size özel bir mektup var . 
+760	Oh , her . 	Oymuş . 
+761	Mom ! 	Anne ! 
+762	What in God 's name happened ? 	Aman Tanrım ! Ne oldu ? 
+763	Honey , are you all right ? 	İyi misin , canım ? - Anne ! 
+764	Mom ! 	- Yaralandın mı ? 
+765	Are you hurt ? 	- Yaralandın mı ? 
+766	I' ve got her . 	Ben ilgilenirim ! 
+767	Upstairs ! 	Üst kata bak ! 
+768	Are you all right ? 	- İyi misiniz ? 
+769	I sat with my back against the wall , Dad ! 	- Baba , sırtımı duvara yasladım . 
+770	Are you okay ? 	İyi misiniz ? 
+771	Are you all right ? 	Baba , sırtımı duvara yasladım . 
+772	Dad , I sat with my back against the wall ! 	Baba , sırtımı duvara yasladım . 
+773	Good , good . 	Pencerelerden uzak durdum ! 
+774	Away from the windows ! 	Pencerelerden uzak durdum ! 
+775	Good , good , good , good , good . 	İyi , iyi , iyi . 
+776	Good boy , good boy , good boy . 	Aferin oğlum . Aferin . 
+777	It 's okay . 	Geçti hepsi . 
+778	It 's all right . 	Geçti artık , gittiler . 
+779	It 's all right , they 're gone , they 're gone . 	Geçti artık , gittiler . 
+780	They 're cowards . 	Korkaklar . Gittiler . 
+781	They 're gone . 	Detektifler muhiti kolaçan ediyorlar . 
+782	We have detectives canvassing the neighborhood . 	Detektifler muhiti kolaçan ediyorlar . 
+783	Maybe we 'll find a description of the car but I don 't think it 's very likely . 	Pek ihtimal vermiyorum ama belki aracın tarifini öğrenebiliriz . 
+784	We 're gonna need protection . 	Korumaya ihtiyacımız olacak . 
+785	Oh , I have instructions to leave two cars here . 	Buraya iki araba koyma talimatı aldım . 
+786	It 'll be pretty obvious that this is a secure ... 	- Evin güvenliğinden - - Ne kadar süreliğine ? 
+787	For how long ? 	- Evin güvenliğinden - - Ne kadar süreliğine ? 
+788	I have to be in Washington later on this week . 	Bu hafta sonu Washington 'da olmam gerekiyor . 
+789	What are you doing ? 	Ne yapıyorsun ? 
+790	What are you doing to your family ? 	Ailene ne yapıyorsun ? 
+791	Pardon me , Officer ? 	Anlamadım Memur Bey ? O adamı savunuyorsun . 
+792	You 're still defending this guy ? 	Niye onun için mücadele ediyorsun ki ? 
+793	I mean , what are you fighting for him for ? 	Niye onun için mücadele ediyorsun ki ? 
+794	Okay , knock that off , Officer . 	Tamam . Kes artık Memur Bey . 
+795	I' ll knock off nothing . 	Kesmeyeceğim . 
+796	I was in the third wave at Omaha Beach . 	Omaha sahilinde üçüncü çıkarmadaydım . 
+797	Hey , I did my time in the service . 	Ben de orduda görev yaptım . 
+798	I was fighting these guys , and you 're defending them ? 	Ben bu adamlarla savaşıyordum , sen de savunuyor musun ? 
+799	Why don 't you just do your job as an officer of the law ? 	Neden bir kanun adamı olarak görevini yapmıyorsun ? Özür dilerim . 
+800	Okay , I 'm sorry . 	Hadi dışarı çıkalım . 
+801	Let 's go outside . 	Hadi dışarı çıkalım . 
+802	Come on . 	Boş ver onu . 
+803	You know what ? 	Boş ver onu . 
+804	Just forget him . 	- Neyi kaçırıyorum ben ? 
+805	What am I not getting here ? 	- Neyi kaçırıyorum ben ? 
+806	Outside , Officer . 	- Dışarı Memur Bey . Özür dilerim . 
+807	I 'm sorry . 	Komünist casusu savunuyor . 
+808	Defending a commie spy . 	Komünist casusu savunuyor . 
+809	Jeez ! 	Komünist casusu savunuyor . 
+810	Do you feel that you deserve this , sir ? 	Bunu hakettiniz mi sizce ? 
+811	Should it become necessary to abandon the aircraft over Soviet territory , then there 's a two- and- a- half pound explosive charge contained within the fuselage . 	Uçağı Sovyet hava sahasında terk etmek zorunda kalma ihtimali olduğundan ... ... uçağın gövdesinin içine 1, 1 kilo ağırlığında patlayıcı yerleştirildi . 
+812	Now , first , you activate the circuits . 	İlk olarak kolu çevireceksiniz . 
+813	But to start the 70- second timer , you need to flip the switch marked " Destruct . " 	70 saniyelik geri sayımı başlatmak için anahtarı " imha " konumuna getirmelisiniz . 
+814	It is imperative that these flights remain a secret and this equipment does not fall into enemy hands . 	Bu uçuşların gizli kalması ... ... ve ekipmanların düşmanın eline geçmemesi hayati önem arz ediyor . 
+815	What about us ? 	Ya biz ? 
+816	I don 't know if you 're kidding , Lieutenant Powers . 	Şaka mı yapıyorsun bilmiyorum ama ben yapmıyorum Teğmen Powers . 
+817	I 'm not . 	Şaka mı yapıyorsun bilmiyorum ama ben yapmıyorum Teğmen Powers . 
+818	What you know about the plane is as secret as the plane itself . 	Uçak hakkında bildiğiniz şeyler aynı uçak gibi gizlidir . 
+819	If capture is a foregone conclusion , you go down with your plane . 	Eğer yakalanmak kaçınılmaz akıbet ise ... ... uçağınızla birlikte düşeceksiniz . 
+820	Now , if you think you can ditch and get away , if you 're close enough to a border , fine . 	Eğer sınıra yakınsanız ve fırlatmayla kurtulacağınızı düşünüyorsanız olur . 
+821	You know the ejection protocol . 	Fırlatma protokolünü biliyorsunuz . 
+822	But if you ditch , you bring the dollar with you . 	Fakat eğer fırlatma yapacaksanız doları da yanınıza alacaksınız . 
+823	All right , there 's a pin inside . 	İçinde bir iğne var . 
+824	You scratch your skin anywhere , it 's instantaneous . 	Cildinizin herhangi bir yerini çizin , anında etki eder . 
+825	If you think you are about to be captured , you use it . 	Yakalanacağınızı düşünüyorsanız kullanın . 
+826	Drivers , you understand me ? 	Havacılar , beni anladınız mı ? 
+827	Spend the dollar . 	Doları harcayın . 
+828	Mr . 	Sayın Mahkeme Reisi , mahkemenin izni olursa ... 
+829	Chief Justice , and may it please the court . 	Sayın Mahkeme Reisi , mahkemenin izni olursa ... 
+830	The " Cold War " is not just a phrase , Your Honor . 	Soğuk Savaş sadece bir ifadeden ibaret değil Sayın Hâkimler . 
+831	It 's not just a figure of speech . 	Sözün gelişi söylenmiş bir şey değil . 
+832	Truly , a battle is being fought between two competing views of the world . 	Dünyadaki iki farklı bakış açısının birbiriyle mücadele ettiği bir savaş . 
+833	I contend that Rudolf Ivanovich Abel , 	Rudolf Ivanovich Abel 'ın ... ... onu tutuklayan adamların ifadesiyle Albay Abel 'ın ... ... bu savaşta düşmanımız olduğuna katılıyorum . 
+834	" Colonel Abel , " as he was called even by the men who arrested him , is our foe in that battle . 	Rudolf Ivanovich Abel 'ın ... ... onu tutuklayan adamların ifadesiyle Albay Abel 'ın ... ... bu savaşta düşmanımız olduğuna katılıyorum . 
+835	Auxiliary power ? 	- İlave güç ? 
+836	Connected and on . 	- Bağlandı ve devreye alındı . 
+837	Oxygen seat- pack supply ? 	- Koltuk oksijen stoğu ? 
+838	Supply at 1, 800 psi . 	- 124 bar . 
+839	Inverter ? 	- İnvertör ? 
+840	On , light out . 	- Devrede , ışıklar söndü . 
+841	He was treated as a combatant in that war until it no longer suited our government to so treat him . 	Devletimiz tarafından uygun görülmeyene kadar ... ... ona bu savaştaki bir asker muamelesi yapılıyordu . 
+842	Accordingly , he was not given the protections we give our own citizens . 	Bundan dolayı kendi vatandaşlarımıza sağladığımız korumayı onun için sağlamadık . 
+843	He was subjected to treatment that , however appropriate for a suspected enemy , was not appropriate to a suspected criminal . 	Onun maruz kaldığı muamele ancak bir düşman zanlısına uygundu ... ... suç işlediği sanılan bir zanlıya uygun değildi . 
+844	Fuel transfer ? 	- Yakıt transferi ? 
+845	Transfer switch off . 	- Düğme kapalı . 
+846	Destructor ? 	- Patlatıcı ? 
+847	Destructor safety . 	- Patlatıcı hazır . 
+848	Climb data card . 	- Muhtıra Kartı . 
+849	Installed in aircraft . 	- Uçağın içine yerleştirildi . 
+850	I know this man . 	Bu adamı tanıyorum . 
+851	If the charge is true , he serves a foreign power but he serves it faithfully . 	Suçlamalar doğruysa ... ... yabancı bir güce hizmet ediyor . Fakat sadakatle hizmet ediyor . 
+852	If he is a soldier in the opposing army , he is a good soldier . 	Düşman ordusunun askeri ise de iyi bir asker . 
+853	He has not fled the field of battle to save himself . 	Canını kurtarmak için savaş alanını terk etmedi . 
+854	He has refused to serve his captor . 	Onu yakalayanlara hizmet etmeyi reddetti . 
+855	He has refused to betray his cause . 	Davasına ihanet etmeyi kabul etmedi . 
+856	He has refused to take the coward 's way out . 	Korkakların yolundan gitmeyi reddetti . 
+857	The coward must abandon his dignity before he abandons the field of battle . 	Korkak biri savaş alanını terk etmeden önce kendine olan saygısını terk eder . 
+858	That , Rudolf Abel will never do . 	Rudolf Abel böyle bir şeyi katiyen yapmaz . 
+859	Shouldn 't we , by giving him the full benefit of the rights that define our system of government , show this man who we are ? 	Bu adama devlet sistemimizin sağladığı hakları tamamıyla verecek olursak ... ... ona aslında ne olduğumuzu göstermiş olmaz mıyız ? 
+860	Who we are . 	Kim olduğumuzu . 
+861	Is that not the greatest weapon we have in this Cold War ? 	Bu Soğuk Savaş 'ta elimizdeki en güçlü silah bu değil mi ? 
+862	Will we stand by our cause less resolutely than he stands by his ? 	Davamıza onun kendi davasına sahip çıktığından daha mı az sahip çıkacağız ? 
+863	The President announced that a NASA weather plane disappeared four days ago north of Turkey . 	Başkan , NASA 'ya ait bir meteoroloji uçağının ... ... dört gün önce Türkiye 'nin kuzeyinde kaybolduğunu açıkladı . 
+864	And the Space Administration fears that its pilot died in the crash . 	Uzay Dairesi pilotun kaza sırasında ölmüş olabileceğini söyledi . 
+865	Radar showed the plane wandering off course deep into Soviet territory before contact was lost , complicating any effort to recover it or the remains of the pilot . 	Radar , uçakla temas kesilmeden önce , uçağın rotadan çıktığı ... ... ve Sovyet hava sahasına girdiğini gösteriyor . Bu da uçağı bulmak veya pilota ulaşmak için yapılan çalışmaları zorlaştırıyor . 
+866	Now to news out of Washington . 	Şimdi Washington haberleri . 
+867	In a close vote today , the Supreme Court affirmed the conviction of Russian spy Rudolf Ivanovich Abel , five votes to four . 	Temyiz Mahkemesi , bugün yapılan kapalı oylamada beşe karşı dört oyla ... ... Rus casusu Rudolf Ivanovich Abel 'ın tutukluluğunun devamına karar verdi . 
+868	The case presented civil liberties issues , according to the Russian 's lawyer , James B . 	Rus ajanının avukatı James B . Donovan 'a göre ... ... dava sivil hak sorunlarını ortaya koymuştur . 
+869	Donovan . 	Bugünkü kayıp sorulduğunda Bay Donovan sadece " yorgunum " dedi . 
+870	When asked how he felt about today 's loss , 	Bugünkü kayıp sorulduğunda Bay Donovan sadece " yorgunum " dedi . 
+871	Mr . 	Bugünkü kayıp sorulduğunda Bay Donovan sadece " yorgunum " dedi . 
+872	Donovan simply said , " Tired . " 	Okuyacağım mesajdan sonra haberlere devam edeceğiz . 
+873	I' ll have more news for you after this message . ♪ Styling tricks 	Okuyacağım mesajdan sonra haberlere devam edeceğiz . 
+874	It 's over . ♪ See the new , exciting styling tricks ♪ You ... 	Bitti . 
+875	Marty . 	Marty . 
+876	I' ll be damned if I can find the file on that Prudential case . 	Prudential dosyalarını bulabiliyorsam ne olayım . 
+877	I , uh , Mr . 	
+878	Watters had me move it over to Jack Elwes 's office along with the first draft of the appeal . 	Bay Watters onları Jack Elwes 'in odasına götürmemi söyledi . Temyiz dosyanın kaba taslağıyla birlikte . 
+879	He did ? 	Öyle mi ? 
+880	Yeah , he redrafted and filed that last week while you were in Washington . 	Evet , sanırım geçen hafta siz Washington 'dayken redakte etti . 
+881	How long have we been together ? 	Ne zamandır beraberiz ? 
+882	You act as if I' ve never closed a deal . 	Sanki daha önce hiç anlaşma kapatmamışız gibi davranıyorsun . 
+883	Set up a meeting . 	Bir toplantı ayarla . 
+884	Someplace fancy . 	Lüks bir yer olsun . 
+885	I 'm betting Mr . 	Eminim Bay Young New York 'un sunacağı bazı şeylerden hoşlanacaktır . 
+886	Young would like some of the finer things 	Eminim Bay Young New York 'un sunacağı bazı şeylerden hoşlanacaktır . 
+887	New York has to offer . 	Eminim Bay Young New York 'un sunacağı bazı şeylerden hoşlanacaktır . 
+888	And I want you to give me the summary of ... 	Ayrıca senden her şeyin - 
+889	Do you know anyone from Leipzig ? 	Leipzig 'den tanıdığınız var mı ? Leipzig . 
+890	" Leipzig . " Am I getting hate mail from Germany now ? 	Artık Almanya 'dan da mı nefret mektubu alıyorum ? 
+891	From East Germany . 	Doğu Almanya 'dan . 
+892	Is it your wife ? 	- Eşiniz mi ? 
+893	No . 	- Hayır . 
+894	No , no , no , no . 	Hayır , hayır . 
+895	She pretends to be but it 's not even a good pretense . 	Eşimmiş gibi rol yapıyor , lâkin pek de iyi rol yapamıyor . 
+896	" I 'm taking this liberty to write to you 	" Gazetelerde sevgili eşim Rudolf Abel 'a göstermiş olduğunuz ... ... insancıl muameleyi okuyunca size bu mektubu yazma ihtiyacı hissettim . " 
+897	" after having learned from the newspapers 	" Gazetelerde sevgili eşim Rudolf Abel 'a göstermiş olduğunuz ... ... insancıl muameleyi okuyunca size bu mektubu yazma ihtiyacı hissettim . " 
+898	" about your most humane attitude 	" Gazetelerde sevgili eşim Rudolf Abel 'a göstermiş olduğunuz ... ... insancıl muameleyi okuyunca size bu mektubu yazma ihtiyacı hissettim . " 
+899	" towards my beloved husband , Rudolf Abel . " 	
+900	And do I write back ? 	Peki cevap yazayım mı ? 
+901	Yeah , yeah , yeah . 	Olur , olur . 
+902	What 's the next move when you don 't know what the game is ? 	Oyunun ne olduğunu bilmiyorsan sıradaki hamle ne olabilir ki ? 
+903	Francis Gary Powers ... 	Francis Gary Powers ... ... Sovyet Anayasası İkinci Maddesi gereğince ... ... devlete karşı işlediği suçtan dolayı ... ... 3 yılı hücrede geçmesi koşuluyla 10 yıllık hapis cezasına çarptırılmıştır . 
+904	On the strength of Article Two of the U . S . S . R . law on criminal responsibility for state crimes to 10 years of confinement with the first three years to be served in prison . 	Francis Gary Powers ... ... Sovyet Anayasası İkinci Maddesi gereğince ... ... devlete karşı işlediği suçtan dolayı ... ... 3 yılı hücrede geçmesi koşuluyla 10 yıllık hapis cezasına çarptırılmıştır . 
+905	The term of the punishment , including preliminary detention , shall be counted from May first , nineteen hundred and sixty . 	Gözaltı süresi dahil hakkındaki hükmün infazı ... ... 1 Mayıs 1960 tarihi itibariyle uygulanacaktır . 
+906	Mr . 	Bay Donovan , geldiğiniz için çok teşekkür ederim . 
+907	Donovan , thank you so much for coming . 	Bay Donovan , geldiğiniz için çok teşekkür ederim . 
+908	It 's a pleasure to meet you , Mr . 	Tanıştığımıza sevindim Bay Dulles . 
+909	Dulles . 	Benim için bir şeref efendim . 
+910	It 's an honor , sir . 	Benim için bir şeref efendim . 
+911	Nescafe , cream , two lumps . 	Neskafe , krema , iki şeker . 
+912	Thank you . 	Teşekkürler . 
+913	Okay , this letter you received . 	Sana yolladıkları mektup . 
+914	Seems pretty clear that the Soviets are making an overture here . 	Apaçık görünüyor ki Sovyetler bir girizgâh yapıyorlar . 
+915	They 're doing it through East Germany because they still don 't want to acknowledge Abel as a Soviet citizen , much less a Soviet spy . 	Doğu Almanya 'dan yolluyorlar ... ... çünkü hala Abel 'ın bırak Sovyet ajanı , Sovyet vatandaşı olduğunu bile ... ... kabul etmek istemiyorlar . 
+916	So ... 	Doğu Almanya 'dan yolluyorlar ... ... çünkü hala Abel 'ın bırak Sovyet ajanı , Sovyet vatandaşı olduğunu bile ... ... kabul etmek istemiyorlar . 
+917	Lot of fiction going on . 	Bir sürü hikâye dönüyor . 
+918	Yes , sir , but to what end ? 	Evet , efendim . Ama ne için ? 
+919	They got our guy , our spy pilot . 	Ellerinde adamımız var , casus pilotumuz . 
+920	We 've got their guy . 	Bizde de onların adamı var . 
+921	Prisoner exchange , I think that 's what they 're after . 	Mahkûm değişimi . Sanırım bunun peşindeler . 
+922	Which could hardly be a surprise to you , Counselor . 	Senin için sürpriz olduğunu sanmıyorum Avukat Bey . 
+923	It 's an eventuality that I think you foresaw . 	Çünkü bu öngördüğünüz bir ihtimal . 
+924	Yes , I sure did , and I 'm so rarely right . 	Evet , doğru . Nadiren de olsa haklı çıktım . 
+925	Well , congratulations . 	Tebrikler . 
+926	Red letter day . 	Tarihi bir gün . 
+927	Now , we have our man over there . 	Ellerindeki adamımız , Powers . 
+928	Powers . 	Ellerindeki adamımız , Powers . 
+929	Good man , but with a head full of classified information . 	İyi bir asker . Ama kafası gizli bilgilerle dolu . 
+930	Abel has a head full of classified information , too , but he hasn 't given us a lick . 	Abel 'ın da kafası gizli bilgilerle dolu . Ama bize bir bilgi kırıntısı bile vermedi . 
+931	And , sir , take it from me , he won 't . 	Bana söylediğine bakılırsa vermeyecek de . 
+932	Yes , we know that , but the Russians don 't . 	Evet , bunu biz biliyoruz ama Ruslar bilmiyor . 
+933	They want their man back before he cracks . 	Çözülmeden önce adamlarını geri almak istiyorlar . 
+934	And we want Powers back for the same reasons . 	Ve biz de Powers 'ı aynı nedenlerden ötürü geri istiyoruz . 
+935	I think you are saying , sir , that there might be a happy ending for everyone . 	Sanırım herkes için mutlu bir son olabileceğini söylüyorsunuz . 
+936	Yes , if we , um , indulge their fiction . 	Evet , onların hikâyesine uyarsak . 
+937	We want you to negotiate the swap because you 're a private citizen , so it 's not governments talking . 	Değiş tokuş için pazarlıkları senin yürütmeni istiyoruz . Çünkü devlet memuru değilsin , hükümet adına konuşmuş olmazsın . 
+938	They don 't acknowledge Abel as a Soviet citizen , and we don 't acknowledge East Germany as a sovereign country . 	Onlar Abel 'ı Sovyet vatandaşı olarak kabul etmiyorlar . Biz de Doğu Almanya 'yı bağımsız bir devlet olarak tanımıyoruz . 
+939	We haven 't recognized East Berlin since it was annexed by the Soviets in ´45 . 	Doğu Berlin 'i , 45´te Rusların topraklarına katmalarından beri tanımıyoruz . 
+940	So I act as a negotiator , representing ... 	Yani arabuluculuk görevi yapacağım . Temsilen ... 
+941	You 're not representing anybody . 	Kimseyi temsil etmiyorsun . 
+942	Not a government official . 	Bu ne resmi bir devlet görevi , ne de sen resmi görevlisin . 
+943	You have no official standing . 	Bu ne resmi bir devlet görevi , ne de sen resmi görevlisin . 
+944	So , some fiction on our side as well . 	Yani bir hikâye de bizim tarafta dönüyor . 
+945	Correct . 	Doğru . 
+946	Which means , of course , you can 't rely on any acknowledgment or help if things go south . 	Bu da demek oluyor ki işler kötü giderse ... ... ne seni kabul etmelerini ne de sana yardım etmelerini bekleyebilirsin . 
+947	CIA can 't be responsible . 	CIA sorumlu olamaz . 
+948	We can 't be embarrassed . 	Mahcup olamayız . 
+949	Where do they want this negotiation to take place ? 	Bu pazarlıkların nerede yürütülmesini istiyorlar ? 
+950	There . 	Orada . 
+951	" There " ? 	- Orada mı ? 
+952	East Berlin . 	- Doğu Berlin . 
+953	Well , isn 't East Berlin getting rather ... 	Doğu Berlin 'de işler - 
+954	Oh , yes , the place is getting complicated . 	Evet , işler gittikçe kızışıyor . 
+955	Yeah , complicated . 	Evet , kızışıyor . 
+956	The Soviet side has been setting up checkpoints for the past few months to try to stop people hemorrhaging to the Western sectors , and it hasn 't worked . 	Sovyet tarafı insanların Batı tarafına geçmelerini önlemek için ... ... son aylarda kontrol noktaları kurmaya başladı . Fakat bu işe yaramadı . 
+957	We have intelligence to suggest that they may go one step further and wall off the entire Eastern sector . 	Elimizde bunu bir adım daha da ileriye götürüp ... ... bütün doğu yakasını duvarla ayıracağına dair istihbarat var . 
+958	Okay , that 's it in a nutshell . 	Pekâlâ , işin özeti bu . 
+959	The decision is entirely yours . 	Tamamen senin kararın . 
+960	You need time to kick it around . 	Düşünmek için vaktin var . 
+961	No . 	Hayır . 
+962	No , I don 't . 	- Hayır . 
+963	Well , fine . 	Gerek yok . 
+964	Fine . 	- İyi , iyi . 
+965	Best that this all remains confidential . 	Bunun gizli kalması en iyisi . 
+966	Let 's not discuss any of this with , uh , Mary or with anyone else . 	Hiç kimseye bahsedemezsin . Ne Mary 'ye , ne de başkasına . 
+967	Share the correspondence only with us . 	Yazışmayı sadece bizimle paylaşacaksın . 
+968	Let us know what they want to do and when . 	Neyi , ne zaman yapmak istediklerini bize bildir . 
+969	I' ve got no client , no wife , no country . 	Müvekkilim yok , karım yok , ülkem yok . 
+970	Don 't know what I 'm doing or when or who for . 	Ne yaptığımı , ne zaman ve kimin için yaptığımı bilmiyorum . 
+971	You 're doing it for your country , but your country doesn 't know that yet . 	Ülken için yapıyorsun . Yalnız ülken henüz bunu bilmiyor . Ya müvekkilim ? 
+972	What about my client , the other person in this equation ? 	Bu denklemdeki diğer kişi . Benim adamım . 
+973	My guy ? 	Adamın mı ? 
+974	Your guy ? 	Rusu mu kastediyorsun ? 
+975	You mean the Russian ? 	Rusu mu kastediyorsun ? 
+976	He 's not your guy anymore , Counselor . 	O artık adamın değil , Avukat Bey . 
+977	Your guy is Francis Gary Powers now . 	Senin adamın Francis Gary Powers . 
+978	What do I tell Rudolf Abel ? 	Peki Rudolf Abel 'a ne diyeceğim ? 
+979	Tell him not to drop dead . 	Söyle sakın ölmesin . 
+980	Professor ? 	Profesör ? 
+981	Professor ? 	Profesör ? 
+982	Papa went to university . 	Babam üniversiteye gitti . 
+983	You shouldn 't be here , Frederic . 	Burada olmamalısın , Frederic . 
+984	They 're having classes today ? 	Bugün dersleri mi vardı ? 
+985	He went to see . 	Görmeye gitti . 
+986	That 's where he goes . 	Hep oraya gider . 
+987	What are you doing here ? 	- Burada ne arıyorsun ? 
+988	I came to get you and your father . 	- Seni ve babanı almaya geldim . 
+989	You have to come with me . 	Benimle gelmelisiniz . 
+990	You might not get out tomorrow . 	Yarın çıkamayabilirsiniz . 
+991	Just ... 	- Öylece gidecek miyiz ? 
+992	Just leave ? 	- Öylece gidecek miyiz ? 
+993	Yes . 	- Öylece gidecek miyiz ? 
+994	Yes , yes , yes , leave . 	- Evet , gideceğiz . 
+995	Right now . 	Şimdi . 
+996	Go back . 	Geri dön . 
+997	Go back . 	Geri dön . 
+998	I' ll be okay , I 'm American . 	Bana bir şey olmaz . Ben Amerikan’ ım . 
+999	Go back . 	Babanın yanına dön . 
+1000	Go back to your father 's . 	Babanın yanına dön . 
+1001	We 'll find another way . 	Başka bir yolunu buluruz . Git hadi . 
+1002	Go . 	
+1003	Hey ! 	
+1004	So , hi . 	Merhaba . 
+1005	Papers , please . 	Belgeleriniz , lütfen . 
+1006	Ich bin Student Frederic Pryor . 	Ich bin Student Frederic Pryor . 
+1007	Yes , Student . 	Evet , öğrenci . 
+1008	My name 's Frederic Pryor . 	Adım Frederic Pryor . 
+1009	I 'm an economics student . 	Ekonomi öğrencisiyim . 
+1010	See ? 	Gördünüz mü ? 
+1011	It 's my dissertation . 	İşte çalışma tezim . 
+1012	My thesis . 	İşte çalışma tezim . 
+1013	You see ? 	
+1014	Look , look . 	Bakın . 
+1015	Look " The foreign trade system of the European Communist nations . " Huh ? 	Avrupa Komünist Toplumların Uluslararası Ticari Sistemleri . 
+1016	It was a lot of work . 	Çok emek var orada . 
+1017	No , that 's my only copy . 	Elimdeki tek kopya o . 
+1018	No ! 	Hayır ! 
+1019	Tell me something . 	Söyle bakalım . 
+1020	It came up at the last minute . 	Son anda çıktı . 
+1021	They have offices in London . 	Londra 'da da şubeleri var . 
+1022	These clients . 	Müşterilerimiz . 
+1023	Not my idea . 	Benim fikrim değil . 
+1024	Scotland , this fishing expedition . 	İskoçya 'ya balık tutmaya gidiyoruz . 
+1025	What kind of fishing trip , Jim ? 	- Ne balığı avına gidiyorsunuz ? 
+1026	Salmon fishing . 	- Somon balığı . 
+1027	Just tell me that you 're not gonna be in any danger , that this is just a routine business trip , and I won 't worry . 	Bunun normal bir seyahat olduğunu ... ... tehlikeli olmadığını söyle ki endişelenmeyim . 
+1028	I need my passport . 	Pasaportum lazım . 
+1029	Just give me something to hold on to . 	Bana elle tutunacak bir şey söyle . 
+1030	I don 't even care if it 's the truth . 	Doğru olup olmaması umurumda değil . 
+1031	I 'm doing this for us . 	Bunu bizim için yapıyorum . 
+1032	Mr . 	Berlin 'de sana eşlik edecek kişi Bay Mitchener . 
+1033	Michener , here , is your Berlin escort . 	Berlin 'de sana eşlik edecek kişi Bay Mitchener . 
+1034	He 's an attache with the U . S . embassy . 	Amerikan elçiliğinde ataşe görevi yapıyor . 
+1035	- So , it 's gotten goddamn complicated . 	İyice karışık bir hale geldi . 
+1036	- Uh- huh . 	Bildiğin üzere artık her kimse Bayan Abel son mektubunda ... ... Bay Vogel diye tanımadığımız Doğu Berlinli bir avukatın ... ... kendisini temsil edeceğini söylüyor . 
+1037	As you know , the last letter from Mrs . 	Bildiğin üzere artık her kimse Bayan Abel son mektubunda ... ... Bay Vogel diye tanımadığımız Doğu Berlinli bir avukatın ... ... kendisini temsil edeceğini söylüyor . 
+1038	Abel , whoever she is , talks about a lawyer in East Berlin , 	Bildiğin üzere artık her kimse Bayan Abel son mektubunda ... ... Bay Vogel diye tanımadığımız Doğu Berlinli bir avukatın ... ... kendisini temsil edeceğini söylüyor . 
+1039	Mr . 	
+1040	Vogel , whoever he is , representing her interests , she says . 	
+1041	Yeah , Vogel says he 's gone to the Russian embassy in East Berlin and they may be ready to trade Abel for Powers . 	Evet , Vogel Doğu Berlin 'deki Rus elçiliğine gideceğini ... ... belki onların Abel 'ı Powers ile takas edebileceklerini söyledi . 
+1042	But no one knows who 's who , but essentially they 're all Russian , right ? 	Kimin kim olduğu belli olmasa da sonuçta Ruslar , değil mi ? 
+1043	Well , Soviet . 	- Sovyetler . 
+1044	Well , we think so . 	- Böyle düşünüyoruz . Nasıl yani ? 
+1045	What do you mean ? 	Sıcaklığı biraz artırabilir miyiz ? 
+1046	Could we turn up the heat in here ? 	Sıcaklığı biraz artırabilir miyiz ? 
+1047	There 's a wrinkle . 	Bir karışıklık var . 
+1048	They might try to throw you a curveball . 	Seni oltaya getirmek isteyecekler . 
+1049	Try and get you to accept another prisoner other than Powers . 	Powers 'ı değil de başka bir mahkûmu kabul ettirmeye çalışacaklar . 
+1050	Another American ? 	Başka bir Amerikan mı ? 
+1051	The , uh , East German Stasi picked up an American student . 	Doğu Alman Stasi askerleri bir Amerikalı öğrenciyi alıkoymuşlar . 
+1052	Frederic Pryor . 	Frederic Pryor . 
+1053	Uh , the kid they found on the wrong side of the Wall . 	Çocuk duvarın yanlış tarafında yakalanmış . 
+1054	He 's a grad student out of Yale . 	Yale Üniversitesi mezunu , buraya ekonomi tezi için gelen bir öğrenci . 
+1055	- Came over here to study economics . 	Yale Üniversitesi mezunu , buraya ekonomi tezi için gelen bir öğrenci . 
+1056	- Mmm- hmm . 	Çocuğu casuslukla yaftalamak için ortalığı velveleye veriyorlar . 
+1057	So , they 're making noises about trying this kid for espionage . 	Çocuğu casuslukla yaftalamak için ortalığı velveleye veriyorlar . 
+1058	Grave offense , capital crime . 	Büyük bir suç , idam cezası . 
+1059	Well . 	Büyük bir suç , idam cezası . 
+1060	Vogel got in touch with us , said he represents Pryor . 	Vogel bizimle temasa geçti , Pryor 'ı temsil ettiğini söyledi . 
+1061	Wait a minute . 	Bir dakika , Vogel hem Bayan Abel 'ı hem de bu çocuğu mu temsil ediyor ? 
+1062	Vogel represents Mrs . 	Bir dakika , Vogel hem Bayan Abel 'ı hem de bu çocuğu mu temsil ediyor ? 
+1063	Abel and this ... 	Bir dakika , Vogel hem Bayan Abel 'ı hem de bu çocuğu mu temsil ediyor ? 
+1064	This kid ? 	
+1065	Yeah , he 's busy . 	Evet , çok yoğun . 
+1066	Well , so , what is he ? 	Peki kim bu Vogel ? 
+1067	Vogel , is he , uh , East German or is he Russian ? 	Doğu Almanyalı mı , Rus mu ? 
+1068	Well , try to figure it out when you meet him . 	Tanıştığında anlamaya çalışırsın . 
+1069	At Russian embassy , East Berlin , noon tomorrow . 	Doğu Berlin , Rus Elçiliği . Yarın öğlen . 
+1070	Hoffman will show you how to get there . 	Hoffman oraya nasıl gideceğini söyler . 
+1071	Wait , show me how to get there ? 	Nasıl gideceğimi niye söylüyor ? 
+1072	I 'm gonna have an escort . 	Bana eşlik edilecek . 
+1073	Right ? 	Değil mi ? 
+1074	Well , that was the plan but like I said , there 's a wrinkle . 	Öyle planlamıştık . Dedim ya bir karışıklık var diye . 
+1075	I won 't be taking you . 	Seni götürmeyeceğim . 
+1076	Decision 's been made . 	Karar verildi . 
+1077	No U . S . government personnel are to cross the border until further notice . 	Yeni bir bildiriye kadar hiçbir ABD resmi görevlisi sınırın öbür tarafına geçemez . - Neden ? 
+1078	How come ? 	- Çok tehlikeli . 
+1079	It 's too dangerous . 	- Çok tehlikeli . 
+1080	Yeah , the East Germans grabbed this kid . 	Doğu Almanların elinde bu çocuk var . 
+1081	There 's a degree of impunity that we had not anticipated . 	Beklemediğimiz bir dokunulmazlık durumu var . 
+1082	The point is that the East German agenda and the Russian agenda may not be the same thing . 	Asıl nokta , Doğu Berlin 'in planlarıyla Rusların planları aynı olmayabilir . 
+1083	Try and figure it out and act accordingly . 	Anlamaya çalış ve ona göre davran . 
+1084	And try to make a deal . 	Anlaşmaya çalış . 
+1085	Powers for Abel . 	Abel 'a karşılık Powers . 
+1086	Well , what about this college kid , Pryor ? 	Ya üniversiteli çocuk ? Pryor ? 
+1087	Mmm- mmm . 	Sakın o oltaya gelme . 
+1088	Don 't fall for that . 	Sakın o oltaya gelme . 
+1089	We can get him out another time . 	Onu başka zaman da alabiliriz . 
+1090	Powers is the whole ball game . 	Şu an önemli olan Powers . 
+1091	Where 's your room ? 	Senin odan neresi ? 
+1092	I' ll be staying at the Hilton . 	Ben Hilton 'da kalacağım . 
+1093	It 's not far . 	Çok uzak değil . 
+1094	This is a number here in West Berlin . 	Burada Batı Berlin 'e ait bir numara var . 
+1095	Memorize it and give it back to me . 	Ezberle ve bana geri ver . 
+1096	No , no . 	Hayır , hayır . 
+1097	I ... 	Hayır , hayır . 
+1098	I mean , now . 	Şimdi demek istedim . 
+1099	The Soviets keep cutting the international lines but local calls are okay . 	Ruslar uluslararası hatları devamlı kesip duruyorlar ... ... ama yerel hatlar çalışır durumda . 
+1100	Someone will pick up day and night . 	Gece veya gündüz , birisi açacaktır . 
+1101	Now , this docket attached to your passport will serve as your ticket into and out of the Eastern Soviet sector . 	Pasaportuna iliştirilen bu belge ... ... sana Doğu Rus bölgesine giriş çıkış imkanı sağlayacaktır . 
+1102	The meeting with Vogel is set for noon tomorrow . 	Vogel ile görüşme yarın öğleye ayarlandı . 
+1103	There are only a few routes left to the East . 	Doğuya giden sadece birkaç yol kaldı . S - Bahn ile gideceksin . 
+1104	You take the S- Bahn , the station we showed you on the way in . 	Gelirken gösterdiğimiz istasyon . 
+1105	You 're gonna get off at the Friedrichstrasse station here and walk to the Soviet embassy on Unter den Linden here . 	Friedrichstrasse istasyonunda ineceksin ... ... ve Unter den Linden bulvarından yürüyerek Sovyet Büyükelçiliği 'ne gideceksin . 
+1106	Look at the map now . 	Haritaya iyi bak . 
+1107	You shouldn 't take it with you . 	Yanında götüremezsin . 
+1108	You 're looking at a map , you 're an American , you 're a spy . 	Hem haritaya bakıyor hem de Amerikan isen casussundur . 
+1109	You could well be detained . 	Anında tutuklanabilirsin . 
+1110	Just avoid interacting with people generally . 	İnsanlarla iletişimden genellikle uzak dur . 
+1111	You don 't ... 	Oraya ait değilsin , bu yüzden dikkat çekme . 
+1112	You don 't belong , so don 't stick out . 	Oraya ait değilsin , bu yüzden dikkat çekme . 
+1113	Food is scarce over there and things have started to fall apart . 	Orada yemekler çok kötü ve her şey darmadağın olmaya başladı . 
+1114	There are gangs , and rule of law is less firmly established over there . 	Çeteler yol kesiyor ve bir kanun nizamı kurulamamış durumda . 
+1115	And definitely stay away from the Wall . 	Bir de duvardan muhakkak uzak dur . 
+1116	On their side , there 's a line cleared of buildings along the Wall . 	Onların tarafta duvar boyunca uzanan binalardan temizlenmiş bir hat var . 
+1117	They call it the " Death Line . " 	Adına ölüm hattı diyorlar . 
+1118	Cross it and you 'll be shot . 	Geçersen vurulursun . 
+1119	Is there any outcome here where I 'm not either detained or shot ? 	Sonunda tutuklanmadığım veya vurulmadığım bir senaryo var mı hiç ? 
+1120	Don 't worry too much about what Michener said . 	Mitchener 'in söylediği şeylerden fazla endişelenme . 
+1121	No , I 'm worried about what you 're saying . 	Senin söylediklerinden endişeleniyorum . 
+1122	This kid , Pryor , that the East Germans have , how old is he ? 	Doğu Almanların elinde bulunan çocuk , Pryor , kaç yaşında ? 
+1123	Twenty- five . 	Yirmi beş . Niye sordun ? 
+1124	Why ? 	Dougie ile aynı yaşta . 
+1125	Same age as Dougie . 	Dougie ile aynı yaşta . 
+1126	Who ? 	Kim ? 
+1127	Eh , an associate of mine . 	Bir yardımcım . 
+1128	Frederic Pryor . 	Frederic Pryor . 
+1129	Okay , okay , okay . 	Tamam , tamam . 
+1130	Danke . 	
+1131	So , we apologize if this offends . 	Özür dileriz seni kırdıysak . 
+1132	Uh ... 	
+1133	Coat ? 	Palto ? 
+1134	Okay . 	Tamam . 
+1135	Do you understand English ? 	- İngilizce biliyor musunuz ? - Evet , efendim . 
+1136	Yes , sir . 	Adım Jim Donovan . 
+1137	I 'm James Donovan . 	Adım Jim Donovan . 
+1138	I 'm here to meet a Mr . 	Bay Vogel ile görüşmeye geldim . 
+1139	Vogel . 	Bay Vogel ile görüşmeye geldim . 
+1140	Mr . 	Bay Vogel . 
+1141	Vogel . 	Bay Vogel . 
+1142	He doesn 't work here . 	Burada çalışmıyor . 
+1143	I 'm just supposed to meet him . 	Onunla burada buluşacakmışım . 
+1144	That 's all I know . 	Tek bildiğim bu . 
+1145	Mr . 	Bay Donovan ! 
+1146	Donovan ! 	Bay Donovan ! 
+1147	So we finally meet you . 	Sonunda tanışmak nasip oldu . 
+1148	I 'm Helen Abel . 	Ben Helen Abel . 
+1149	How is our husband ? 	- Kocamız nasıl ? 
+1150	Oh . 	- İyi . 
+1151	He 's fine . 	- İyi . 
+1152	How is my Rudolf ? 	- Rudolf 'um nasıl ? 
+1153	As good as can be expected . 	- Beklenileceği kadar iyi . 
+1154	And we will get him back , yes ? 	Onu geri alacağız , değil mi ? 
+1155	This is our daughter . 	- Bu kızımız . 
+1156	How do you do ? 	- Merhaba . 
+1157	Lydia . 	Lydia . 
+1158	Are you Mr . 	Siz Bay Vogel mısınız ? 
+1159	Vogel ? 	Siz Bay Vogel mısınız ? 
+1160	No , no , no ! 	Hayır , hayır , hayır . 
+1161	I 'm not Vogel . 	Ben Vogel değilim . 
+1162	I 'm cousin Drews . 	Ben kuzen Drews . 
+1163	This is Rudolf 's beloved cousin Drews . 	- Rudolf 'un sevgili kuzeni Drews . 
+1164	Yes , cousin Drews . 	- Evet , kuzen Drews . 
+1165	I am cousin Drews . 	- Ben kuzen Drews . 
+1166	Cousin Drews , yes . 	- Kuzen Drews , evet . 
+1167	I 'm Helen Abel . 	Ben Helen Abel . 
+1168	When will you see him ? 	Onu ne zaman göreceğiz ? 
+1169	When will your government release him ? 	Devletiniz onu ne zaman bırakacak ? 
+1170	I 'm a little , uh , lost here . 	Biraz kafam karıştı . 
+1171	I 'm supposed to meet a Mr . 	Burada Bay Vogel ile buluşacaktım . 
+1172	Vogel . 	Bay Vogel bizim avukatımız . 
+1173	Oh , Mr . 	Bay Vogel bizim avukatımız . 
+1174	Vogel is our lawyer . 	Bay Vogel bizim avukatımız . 
+1175	We were supposed to negotiate , uh , the exchange . 	Onunla takası konuşacaktık . 
+1176	To bring Rudolf here ? 	- Rudolf 'u buraya getirmek için mi ? 
+1177	Yes , yes , to bring him here . 	- Evet , evet , buraya getirmek için . 
+1178	But it doesn 't happen unilaterally , do you understand ? 	Fakat tek taraflı olmuyor . Anlıyor musunuz ? 
+1179	It has to be an exchange . 	Bir değiş tokuş olmak zorunda . 
+1180	Not here ? 	Burada değil mi ? 
+1181	Shh . 	
+1182	Shh . 	
+1183	Shh . 	
+1184	Mr . 	- Bay Donovan . 
+1185	Donovan ? 	- Bay Donovan . 
+1186	Mr . 	- Bay Vogel . 
+1187	Vogel . 	- Bay Vogel . 
+1188	No , no , no . 	Hayır , hayır . 
+1189	Goodness . 	Hayır , hayır . 
+1190	My name is Schischkin . 	Adım Schischkin . 
+1191	Ivan Schischkin . 	Ivan Schischkin . 
+1192	I 'm the second secretary of the Soviet embassy . 	Sovyet Elçiliği 'nin ikinci kâtibiyim . 
+1193	It wouldn 't be appropriate for Mr . 	Bay Vogel 'ın burada bulunması uygun olmazdı . 
+1194	Vogel to join us . 	Bay Vogel 'ın burada bulunması uygun olmazdı . 
+1195	He is a German national . 	Kendisi Alman vatandaşı . 
+1196	So you aren 't here to ... 	Peki siz ne için - 
+1197	To facilitate this meeting . 	Bu buluşmaya yardımcı olmak için . 
+1198	Uh , perhaps Mrs . 	Acaba Bayan Abel kendini toparlamak için yalnız kalıp ... ... Bay Donovan ile konuşmamıza izin verir mi ? 
+1199	Abel would like to compose herself privately ? 	Acaba Bayan Abel kendini toparlamak için yalnız kalıp ... ... Bay Donovan ile konuşmamıza izin verir mi ? 
+1200	And let Mr . 	Acaba Bayan Abel kendini toparlamak için yalnız kalıp ... ... Bay Donovan ile konuşmamıza izin verir mi ? 
+1201	Donovan and myself to talk ? 	
+1202	Thank you . 	Teşekkürler . 
+1203	So , I 'm confused . 	- Kafam karıştı . 
+1204	Yes . 	- Öyle mi ? 
+1205	Uh , I don 't care who I talk to if it 's about an exchange of personnel . 	Personel takası hakkında olsun da kiminle konuştuğum önemli değil . 
+1206	Are you the person to talk to ? 	Konuşacağım kişi siz misiniz ? 
+1207	Yes , yes , yes , of course . 	Evet , evet , tabii ki . 
+1208	Uh , we should talk . 	Konuşmamız gerekiyor . 
+1209	Please , have a seat , Mr . 	Lütfen oturun , Bay Donovan . 
+1210	Donovan . 	Lütfen oturun , Bay Donovan . 
+1211	Uh , how did you arrive to the Eastern sector ? 	- Doğu yakasına nasıl geldiniz ? 
+1212	The train . 	- Trenle , S- Bahn . 
+1213	The S- Bahn . 	- Trenle , S- Bahn . 
+1214	Ah , and you were alone ? 	- Yalnız mıydınız ? 
+1215	Yeah . 	- Evet . 
+1216	And you are credentialed ? 	Peki yetkili misiniz ? 
+1217	Now , you must know about me , sir . 	Beni tanımanız gerekiyor efendim . 
+1218	I 'm a private citizen . 	Amerikan vatandaşıyım . 
+1219	I 'm a lawyer in Brooklyn in the United States , and I' ve taken time out of my busy schedule to help my client , Rudolf Abel . 	Amerika 'da , Brooklyn 'de avukatlık yapıyorum . Müvekkilim Rudolf Abel 'a yardım etmek için yoğun programımda zaman ayırabildim . 
+1220	I 'm authorized to arrange an exchange of Abel for Francis Gary Powers . 	Abel 'ın Francis Gary Powers ile ... ... takasını ayarlamak için yetkilendirildim . 
+1221	This is a full pardon of Abel that will be signed when the exchange actually takes place . 	İşte takas ayarlandığı zaman imzalanacak Abel adına düzenlenmiş af belgesi . 
+1222	This is the only reason I 'm here . 	Burada olmamın tek sebebi bu . 
+1223	I hope and expect to make this arrangement quickly . 	Umudum ve beklentim bu anlaşmanın bir an önce yapılması . 
+1224	Abel for Francis Gary Powers and Frederic Pryor . 	Abel 'a karşılık Francis Gary Powers . Ve Frederic Pryor . 
+1225	Mmm , we don 't have Pryor . 	- Pryor elimizde değil . 
+1226	No ? 	- Pryor elimizde değil . 
+1227	You don 't ? 	- Değil mi ? 
+1228	I' ve heard of Pryor , but he 's held by the German Democratic Republic , not by the Union of Soviet Socialist Republics . 	Pryor 'ı duydum ama o Demokratik Almanya Cumhuriyeti tarafından tutuklandı . Sovyet Sosyalist Cumhuriyetler Birliği tarafından değil . 
+1229	Well , I' ll tell you the first problem . 	Size en büyük sorunu söyleyeyim . 
+1230	The names of your countries are too long . 	Ülkelerinizin isimleri çok uzun . 
+1231	Yes , yes . 	Evet , evet . 
+1232	If we release Powers , it is only to promote a goodwill between our countries . 	Powers 'ı salıverirsek ... ... bunun tek nedeni ülkelerimiz arasındaki iyi niyeti artırmak olacaktır . 
+1233	So , it cannot be an exchange . 	Bu yüzden bir takas olamaz . 
+1234	Perhaps ... 	Belki Doğu Almanya 'daki dostlarımıza ... ... iyi niyet göstergesi olarak öncelikle siz Abel 'ı bırakırsınız ... ... ardından da birkaç ay sonra biz Powers 'ı salıveririz . 
+1235	Perhaps you could release Abel as a token of goodwill to our friends in Germany , and then , some months later , we would release Powers . 	Belki Doğu Almanya 'daki dostlarımıza ... ... iyi niyet göstergesi olarak öncelikle siz Abel 'ı bırakırsınız ... ... ardından da birkaç ay sonra biz Powers 'ı salıveririz . 
+1236	There is an idea . 	İyi bir fikir gibi . 
+1237	No . 	
+1238	That just won 't work for us at all . 	Hayır , bizim için bu işe yaramaz . 
+1239	See , we need this to be an exchange . 	Bunun bir değiş tokuş olması gerekiyor . 
+1240	You can call it what you want , but an exchange it must be . 	Adına ne dersen de , ama değiş tokuş olmak zorunda . 
+1241	We can have Abel here within 48 hours . 	Abel 'ı 48 saat içinde buraya getirebiliriz . 
+1242	We need Powers at the same time we give you Abel . 	Size Abel 'ı verdiğimiz anda Powers 'ı almamız gerekiyor . 
+1243	Hmm . 	
+1244	This is ... 	Buna ... ... aceleci bir plan diyebiliriz miyiz ? 
+1245	Can we call this the " impatient plan " ? 	Buna ... ... aceleci bir plan diyebiliriz miyiz ? 
+1246	Well , you can call it whatever you want . 	Buna ... ... aceleci bir plan diyebiliriz miyiz ? 
+1247	I can relay your impatient plan to Moscow , see what they say ... 	Ne diyeceklerini görmek için bu aceleci planınızı Moskova 'ya iletebilirim ... ... lâkin neden bu kadar aceleci davrandığınızı sorgulayacaklardır . 
+1248	But they will wonder why so impatient . 	Ne diyeceklerini görmek için bu aceleci planınızı Moskova 'ya iletebilirim ... ... lâkin neden bu kadar aceleci davrandığınızı sorgulayacaklardır . 
+1249	Because I have a cold . 	Çünkü üşüttüm ve Berlin 'de yaşamıyorum . 
+1250	And I don 't live in Berlin and I want to go home . 	Eve gitmek istiyorum . 
+1251	They will think , 	Düşüneceklerdir . 
+1252	" Well , the Americans must have gotten 	Amerikalılar Abel 'ın sahip olduğu bütün bilgileri öğrendiler ... ... ve şimdi Powers denen adamı alma ümidiyle ... ... takas etmek için sabırsızlanıyorlar . 
+1253	" all the information that Abel had to give . 	Amerikalılar Abel 'ın sahip olduğu bütün bilgileri öğrendiler ... ... ve şimdi Powers denen adamı alma ümidiyle ... ... takas etmek için sabırsızlanıyorlar . 
+1254	" And now they 're impatient to trade him , 	Amerikalılar Abel 'ın sahip olduğu bütün bilgileri öğrendiler ... ... ve şimdi Powers denen adamı alma ümidiyle ... ... takas etmek için sabırsızlanıyorlar . 
+1255	" hoping to get in return this man , Powers , 	Belki de henüz vermesi gereken bütün bilgileri vermemiştir . 
+1256	" that , perhaps , has not yet given up 	Belki de henüz vermesi gereken bütün bilgileri vermemiştir . 
+1257	" all the information that he has to give . " 	Belki de henüz vermesi gereken bütün bilgileri vermemiştir . 
+1258	This is not an equitable trade , sir . 	Bu adil bir değiş tokuş değil beyefendi . 
+1259	But what you 're saying is , if Powers has given up everything he knows , then Moscow would trade ? 	Yani diyorsun ki Powers bildiği her şeyi söylemiş olsaydı Moskova takas ederdi ? 
+1260	Why wouldn 't they ? 	Neden etmesinler ki ? 
+1261	As for Abel , if he dies in an American prison , the next Russian operative who gets caught might think twice about keeping his mouth shut . 	Abel 'a gelince de , eğer Amerikan hapishanesinde ölecek olursa ... ... bir dahaki yakalanacak Rus ajanı çenesini kapalı tutmadan önce iki defa düşünür . 
+1262	And you never know . 	Ve hiç bilemezsin belki Abel gökyüzünü tekrar görmek isteyebilir ... ... ve gizli Rus bilgilerini küçük Amerikan hediyeleri için vermeye karar verebilir . 
+1263	Abel might want to see the sky again and decide to trade Russian secrets for small American favors . 	Ve hiç bilemezsin belki Abel gökyüzünü tekrar görmek isteyebilir ... ... ve gizli Rus bilgilerini küçük Amerikan hediyeleri için vermeye karar verebilir . 
+1264	How can we know this ? 	Nasıl bilebiliriz ki ? 
+1265	We little men , we just do our jobs . 	Biz küçük adamlarız . Sadece işimizi yapıyoruz . 
+1266	Like Lieutenant Powers . 	Teğmen Powers gibi . 
+1267	He 's just a pilot . 	Basit bir pilot sadece . 
+1268	He was making photographs from 70, 000 feet when he was shot from the sky . 	Havada vurulduğu sırada , 20 bin metre irtifada fotoğraflar çekiyordu . 
+1269	People in my country consider this an act of war . 	Ülkemdeki insanlar bunu savaş sebebi sayarlar . 
+1270	We have to get off this merry- go- round , sir . 	Bu atlıkarıncadan inmeliyiz efendim . 
+1271	The next mistake our countries make could be the last one . 	Ülkelerimizin yapacağı bir sonraki hata belki son hataları olabilir . 
+1272	We need to have the conversation our governments can 't . 	Ülkelerimizin yapamadığı karşılıklı konuşmayı biz yapabiliriz . 
+1273	I will ask Moscow . 	Moskova 'ya ileteceğim . 
+1274	Who knows what they will say . 	Kim bilir ne söyleyecekler . 
+1275	There are a lot of people , Mr . 	Bu takasın yapılmasını istemeyen bir sürü insan var Bay Donovan . 
+1276	Donovan , who doesn 't want this exchange to ever take place . 	Bu takasın yapılmasını istemeyen bir sürü insan var Bay Donovan . 
+1277	Can you come back tomorrow to discuss their answer ? 	Verdikleri cevabı konuşmak için yarın tekrar gelebilir misiniz ? 
+1278	Powers for Abel . 	- Powers 'a karşılık Abel . 
+1279	And Frederic Pryor . 	- Ve Frederic Pryor . 
+1280	As I said , 	Dediğim gibi Pryor Demokratik Almanya Cumhuriyeti yetkililerinin elinde . 
+1281	Pryor is in the hands of the organs of 	Dediğim gibi Pryor Demokratik Almanya Cumhuriyeti yetkililerinin elinde . 
+1282	State Security of the German Democratic Republic . 	Dediğim gibi Pryor Demokratik Almanya Cumhuriyeti yetkililerinin elinde . 
+1283	I 'm confident you can make arrangements . 	Bir çözümünü bulacağınıza eminim . 
+1284	I am merely a secretary in the embassy of foreign power . 	Ben sadece yabancı elçilik kâtibiyim . 
+1285	Okay , okay . 	Pekâlâ . 
+1286	You have to see Mr . 	Siz Bay Vogel ile görüşmelisiniz . 
+1287	Vogel . 	Siz Bay Vogel ile görüşmelisiniz . 
+1288	I' ll give you his address . 	Adresini vereyim . 
+1289	There actually is a Mr . 	- Bay Vogel diye biri var mı gerçekten ? 
+1290	Vogel ? 	- Bay Vogel diye biri var mı gerçekten ? 
+1291	Why would you imagine otherwise ? 	- Niye aksini düşündün ki ? 
+1292	Uh , it 's a short cab ride . 	Kestirme yol . 
+1293	And please , Mr . 	Ve lütfen Bay Donovan , bu havada bir palto giyin . 
+1294	Donovan , wear an overcoat in this weather . 	Ve lütfen Bay Donovan , bu havada bir palto giyin . 
+1295	I had mine stolen from me . 	Vardı da çalındı . 
+1296	What do you expect ? 	Ne bekliyordun ki ? 
+1297	It was from Saks Fifth Avenue . 	Saks Fifth Avenue 'dan alınmış . 
+1298	Wasn 't it ? 	Değil mi ? 
+1299	Mr . 	Bay Donovan . 
+1300	Donovan . 	Bay Donovan . 
+1301	Mr . 	- Bay Vogel . 
+1302	Vogel . 	- Bay Vogel . 
+1303	Please come in . 	- Lütfen içeri gelin . 
+1304	Danke . 	
+1305	Sorry about the embassy . 	Elçilikteki durum için özür dilerim . 
+1306	But the Soviets decided not to host me . 	Fakat Sovyetler beni ağırlamak istemedi . 
+1307	Very irritating . 	Sinir bozucu bir şey . 
+1308	I am still trying to grasp each party 's ... 	- Hâlâ anlamaya çalıştığım şey - - Konumlar mı ? 
+1309	Status ? 	- Hâlâ anlamaya çalıştığım şey - - Konumlar mı ? 
+1310	Yes . 	Evet . 
+1311	And interest in the proceedings . 	Ve kimin ne çıkarı olduğunu . 
+1312	Oh . 	Yeni bir dünya . 
+1313	It 's a new world . 	Yeni bir dünya . 
+1314	All very disorienting , isn 't it ? 	Ne kadar kafa karıştırıcı , değil mi ? 
+1315	Let me tell you what I have to offer . 	Size teklif etmek zorunda olduğum şeyi söyleyeyim . 
+1316	I 'm a good friend ... 	İyi bir arkadaşı ... 
+1317	" Friend . " 	Arkadaş ? 
+1318	No , he 's older . 	Hayır , yaşlı o . 
+1319	" Protege " ? 	Kolladığı ? 
+1320	Of the attorney general of the German Democratic Republic . 	Demokratik Almanya Cumhuriyeti Başsavcılığı 'nın . 
+1321	Sit down , please . 	Lütfen oturun . 
+1322	This unfortunate , 	Talihsiz Frederic Pryor . 
+1323	Frederic Pryor , he was in the wrong place at the wrong time . 	Yanlış zamanda yanlış yerdeydi . 
+1324	But every accident , properly viewed , is an opportunity , isn 't it , Mr . 	Fakat her olay doğru açıdan bakıldığında bir fırsattır , öyle değil mi Bay Donovan ? 
+1325	Donovan ? 	
+1326	Well ... 	
+1327	Your country refuses to recognize the German Democratic Republic . 	Devletiniz Demokratik Alman Cumhuriyeti 'ni tanımayı kabul etmiyor . 
+1328	They prefer to make up stories that the GDR doesn 't exist , for instance . 	DAC 'ni tanımamak için hikâyeler uydurmayı tercih ediyorlar örneğin . 
+1329	Sorry . 	Özür dilerim . 
+1330	As a means of forcing your government 's recognition of this real place , sir , in which you find yourself , the GDR , the attorney general is happy to negotiate with you as a representative of your government for Mr . 	Hükümetinizi buradaki gerçek devleti tanımaya zorlamak adına ... ... ki siz de şahit oldunuz , DAC ... ... Başsavcı , Bay Pryor 'ın size iade edilmesi için ... ... hükümetinizi temsil eden birisi olarak ... ... sizinle görüşecek . 
+1331	Pryor 's return . 	Hükümetinizi buradaki gerçek devleti tanımaya zorlamak adına ... ... ki siz de şahit oldunuz , DAC ... ... Başsavcı , Bay Pryor 'ın size iade edilmesi için ... ... hükümetinizi temsil eden birisi olarak ... ... sizinle görüşecek . 
+1332	Mr . 	Bay Vogel , burada hükümetimi temsilen bulunmuyorum . 
+1333	Vogel , I 'm not here as a representative of my government . 	Bay Vogel , burada hükümetimi temsilen bulunmuyorum . 
+1334	All right . 	Pekâlâ . 
+1335	I think that 's childish , Mr . 	Bence bu çocukça bir davranış Bay Donovan . 
+1336	Donovan . 	Bence bu çocukça bir davranış Bay Donovan . 
+1337	Well , I ... 	- Resmi bir görevim yok . 
+1338	I have no official status . 	- Resmi bir görevim yok . 
+1339	Fine . 	- Peki . 
+1340	You do not represent the USA , I do not represent the GDR . 	Sen ABD 'yi temsil etmiyorsun , ben DAC 'ni temsil etmiyorum . 
+1341	My client is Lydia Abel , Rudolf 's wife . 	Müvekkilim Lydia Abel , Rudolf 'un karısı ... ... ve ayrıca - - Lydia kızı . 
+1342	And I have also ... 	Müvekkilim Lydia Abel , Rudolf 'un karısı ... ... ve ayrıca - - Lydia kızı . 
+1343	Lydia is the daughter . 	Helen karısı . 
+1344	Helen is the wife . 	Helen karısı . 
+1345	Well ... 	
+1346	I am prepared to offer 	Rudolf Abel 'a karşılık Frederic Pryor 'ı teklif etmekle mükellefim . 
+1347	Frederic Pryor 's exchange for Rudolf Abel 's . 	Rudolf Abel 'a karşılık Frederic Pryor 'ı teklif etmekle mükellefim . 
+1348	Then let 's be clear . 	O halde açıklığa kavuşturalım . 
+1349	We will produce Rudolf Abel . 	Biz Rudolf 'u getireceğiz . 
+1350	You will produce , at the same time , the student , Pryor . 	Siz de aynı anda Pryor 'ı getireceksiniz . 
+1351	At the same time ? 	- Aynı anda mı ? 
+1352	Absolutely . 	- Kesinlikle . 
+1353	The exchange on offer is a Russian at the end of his life for an American student at the start of his . 	Hayatının son demlerini yaşayan bir Rus 'a karşılık ... ... hayatının baharında bir Amerikan öğrenci . 
+1354	Schischkin ? 	Schischkin mi ? 
+1355	He 's not an embassy secretary . 	O elçilik kâtibi değil . 
+1356	Ivan Schischkin is the KGB 's chief in western Europe . 	Ivan Schischkin KGB 'nin Batı Avrupa şefi . 
+1357	Well , whatever he is , he 's relaying our proposal to Moscow and they 'll decide . 	Artık her kimse , teklifimizi Moskova 'ya iletecek . Ve onlar da karar verecek . 
+1358	Could I borrow a coat ? 	Ödünç bir palto alabilir miyim ? 
+1359	I lost mine . 	Benimkini kaybettim de . 
+1360	How did you lose your coat ? 	- Paltonu nasıl kaybettin ? 
+1361	You know , spy stuff . 	- Bilirsin , casusluk işte . 
+1362	I' ll get you another coat . 	- Sana başka bir palto bulurum . 
+1363	Good , because ... 	- İyi , çünkü ... 
+1364	So who is , uh ... 	Peki kim bu Vogel ? 
+1365	Who is this Vogel ? 	Peki kim bu Vogel ? 
+1366	Him , we don 't know . 	Onu tanımıyoruz . 
+1367	He might be what you said he said he is . 	Belki de söylediği kişidir . 
+1368	Friend of the attorney general . 	Başsavcının arkadaşı . 
+1369	Just some guy the GDR tapped to handle this . 	DAC 'nin bu iş için görevlendirdiği alelade biri . 
+1370	Sounds like the East Germans are fighting for a place at our table . 	Anlaşılan Doğu Almanlar masamıza oturmanın mücadelesini veriyorlar . 
+1371	The GDR gets Abel back for the Russians , winning their respect ... 	DAC , Abel 'ı Ruslara verip onların saygısını kazanmak ... ... ve davaları için manşetleri süslemek istiyor . 
+1372	And capturing the headlines for their cause . 	DAC , Abel 'ı Ruslara verip onların saygısını kazanmak ... ... ve davaları için manşetleri süslemek istiyor . 
+1373	Which , of course , puts East Germany on the map . 	Bu da tabii ki Doğu Almanya 'nın haritada yer edinmesi demek . 
+1374	But we don 't care about their map . 	Fakat onların haritası umurumuzda değil . 
+1375	Stick with the Russians . 	Ruslarla devam et sen . 
+1376	Stick with the Russians . 	Ruslarla devam et . 
+1377	It 's Powers for Abel . 	Abel 'a karşılık Powers . 
+1378	So , does all this mean this might actually happen ? 	Yani bunun gerçekleşebileceğini mi söylüyorsun ? 
+1379	Yeah , that 's what you seem to be telling me . 	Evet , bana söylediklerinden bu anlaşılıyor . 
+1380	We 'll put Abel on a plane , he 'll be here Friday . 	Abel 'ı uçağa bindirirsek Cuma günü burada olur . 
+1381	So , if Schischkin gets the okay , all that 's left is the mechanics of the trade . 	Böylece Schischkin onayı alacak olursa geriye sadece çarkı döndürmek kalacak . 
+1382	How we swap our guy for their guy . 	Bizim adamımıza karşılık onların adamı . 
+1383	Our " guys . " Two guys . 	Adamlarımız . İki adam . 
+1384	Powers and Pryor . 	Powers ve Pryor . 
+1385	No , now don 't go bleeding heart on me . 	Hayır , yufka yürekliliğin sırası değil . 
+1386	Powers is the whole ball game . 	Önemli olan Powers . 
+1387	Forget this Ivy League boy , who obviously thought it was a good idea to study Soviet economics in Berlin in the middle of the Cold War . 	Soğuk Savaş 'ın ortasında , Berlin 'de Sovyet Ekonomisi okumayı ... ... iyi fikir sanan bu Ivy League çocuğunu unut . 
+1388	Powers is who we need . 	Bize lazım olan Powers . 
+1389	You don 't even like Powers . 	Powers 'ı sevmiyorsunuz bile . 
+1390	Everybody hates Powers . 	Herkes Powers’ tan nefret ediyor . 
+1391	He didn 't kill himself and he let the commies parade him on television . 	Kendini öldürmedi ve komünistlerin televizyonda gösteriş yapmasına izin verdi . 
+1392	He 's the most hated man in America . 	Amerika 'da en çok nefret edilen kişi o . 
+1393	After Rudolf Abel , maybe . 	Belki Rudolf Abel 'dan sonra gelir . 
+1394	And me . 	Ve benden . 
+1395	Now wake up ! 	Kalk ! 
+1396	I gotta sleep . 	Uyumalıyım . 
+1397	I just gotta sleep . 	Uyumam gerekiyor . 
+1398	I told you , you can sleep once we talk what we need to talk . 	Konuşmamız gerekenleri konuştuktan sonra uyuyabilirsin dedim sana . 
+1399	You must focus on me . 	Sadece bana odaklanmalısın . 
+1400	Your government doesn 't care about you . 	Hükümetiniz sizi umursamıyor . Bunu biliyorsunuz . 
+1401	You know that . 	
+1402	Any of you . 	Hepiniz . 
+1403	You know that twelve U- 2 pilots incurred brain damage ? 	12 U- 2 pilotunun her birinin beyin hasarı yaşadığını biliyor musun ? 
+1404	They 're vegetables because of altitude , insufficient oxygen . 	Hepsi irtifadan dolayı bitkisel hayatta , oksijen yetersizliğinden . 
+1405	But they keep you flying , Gary . 	Yine de sizi uçurmaya devam ettiler Gary . 
+1406	You and your friends . 	Seni ve arkadaşlarını . 
+1407	They gave you this . 	Size bunu verdiler . 
+1408	A scratcher , yes ? 	Bir çizik yeterli , değil mi ? 
+1409	Potassium cyanide . 	Potasyum siyanür . 
+1410	Does that look like they care about you ? 	Size önem veriyorlarmış gibi mi görünüyor ? 
+1411	What is the construction of the destructor unit ? 	İmha mekanizmasının yapısı nasıl ? 
+1412	By what means is this unit operated ? 	Ve bu mekanizma ne sebeple kuruldu ? 
+1413	With what explosives is the unit charged , and what destruction is it capable of ? 	Mekanizmada hangi tip patlayıcılar vardı ve tahrip gücü neydi ? 
+1414	I don 't know . 	Bilmiyorum . 
+1415	The pilots were never shown any of the equipment . 	Pilotlara hiçbir zaman ekipmanlar gösterilmedi . 
+1416	How wide far can the radar map an area during an overflight ? 	Bir uçuşta radar ne kadar genişliğin haritasını çıkarabiliyordu ? 
+1417	I don 't know , I don 't know ! 	Bilmiyorum ! Bilmiyorum ! 
+1418	Were you making the overflight on April 9th over the industrial area and MiG bomber base at Baranovichi ? 	9 Nisan 'da , Baranovichi 'deki MİG uçak fabrikası ... ... ve sanayi bölgesi üzerinde uçuş yapan sen miydin ? 
+1419	I was not . 	Ben değildim . 
+1420	This was my first overflight . 	Bu ilk uçuşumdu . 
+1421	I need to know about engine- out to glide ratio . 	Motorun durup planörle uçuşa geçtiği zamanı bilmem gerekiyor . 
+1422	How the plane gets so high . 	Uçak nasıl o kadar yükseğe çıkabildi ? 
+1423	We know it reaches altitude of 70, 000 feet . 	Uçağın 20 bin metre yükseklikte seyredebildiğini biliyoruz . 
+1424	Gary , we know this . 	Gary , biliyoruz bunu . 
+1425	And I need to know where the planes have flown . 	Ayrıca uçakların nerede uçtuğunu bilmeliyim . 
+1426	Where they have flown , Gary . 	Uçaklar nerelerde uçtular Gary ? 
+1427	And we must have this talk now . 	Bu konuşmayı şimdi yapmalıyız . 
+1428	Now . 	Şimdi . 
+1429	And then you can sleep a little . 	Sonra biraz uyuyabilirsin . 
+1430	Sir , wake up . 	Bayım , uyanın . 
+1431	Wake up , sir . 	Uyanın , bayım . 
+1432	Sir , can you come with me , please ? 	- Benimle gelir misin lütfen . 
+1433	Yeah . 	- Tamam . 
+1434	We gotta move . 	- Gitmemiz gerekiyor . 
+1435	Yeah , of course . 	- Tamam . 
+1436	Can you come with me , please ? 	- Benimle gelir misin lütfen ? 
+1437	Yeah . 	- Benimle gelir misin lütfen ? 
+1438	Okay . 	- Evet . Tamam . 
+1439	Got your glasses ? 	Gözlüğünü aldın mı ? 
+1440	Uh- huh . 	- Saat kaç ? 
+1441	What time is it ? 	- Geç ama konuşmamız gerekiyor . 
+1442	It 's late , but we need to talk , and then we need to get on a plane , okay ? 	Ardından uçağa binmek zorundayız . Tamam mı ? 
+1443	Yeah . 	- Tamam . 
+1444	Yep . 	- Hoppala ! 
+1445	Upsy- daisy ! 	- Hoppala ! 
+1446	Upsy- daisy . 	- Hoppala ! 
+1447	That 's right . 	- Aynen öyle . 
+1448	There we go . 	Hadi . 
+1449	Keep it moving . 	Devam et . 
+1450	Thank you . 	Teşekkür ederim . 
+1451	Other way , other way . 	Diğer taraftan . 
+1452	There we go . 	Diğer taraftan . 
+1453	You say a plane ? 	- Uçakla mı demiştin ? 
+1454	This way , please . 	- Bu taraftan lütfen . 
+1455	Keep moving . 	Devam et . 
+1456	So , I received a favorable decision from Moscow on your proposal that we help our friends in the German Democratic Republic by exchanging 	Teklifiniz için Moskova 'dan , Bay Powers 'ı Bay Abel 'a karşılık değiştirerek ... ... Demokratik Alman Cumhuriyeti 'ndeki dostlarımıza yardım edebileceğimizi ... ... söyleyen olumlu bir yanıt aldım . 
+1457	Mr . 	Teklifiniz için Moskova 'dan , Bay Powers 'ı Bay Abel 'a karşılık değiştirerek ... ... Demokratik Alman Cumhuriyeti 'ndeki dostlarımıza yardım edebileceğimizi ... ... söyleyen olumlu bir yanıt aldım . 
+1458	Powers for Mr . 	Teklifiniz için Moskova 'dan , Bay Powers 'ı Bay Abel 'a karşılık değiştirerek ... ... Demokratik Alman Cumhuriyeti 'ndeki dostlarımıza yardım edebileceğimizi ... ... söyleyen olumlu bir yanıt aldım . 
+1459	Abel . 	
+1460	That 's swell . 	Harika . 
+1461	May I suggest the Glienicke Bridge as a place of a swap ? 	Takas için Glienicke Köprüsü 'nü önerebilir miyim ? 
+1462	Why not Checkpoint Charlie ? 	Charlie Kontrol Noktası olmaz mı ? 
+1463	We 're not looking for publicity . 	Hayır , hayır . Halkın dikkatini çekmek istemiyoruz . 
+1464	The Glienicke Bridge is very quiet , especially early in the morning . 	Glienicke Köprüsü çok sakin , özellikle de sabahın erken saatlerinde . 
+1465	Glienicke Bridge . 	Glienicke Köprüsü . 
+1466	I' ll run that by our side . 	Bizim tarafa söylerim . 
+1467	We can have Abel here on Friday . 	Abel 'ı buraya Cuma günü getiririz . 
+1468	So , Saturday morning ? 	O halde Cumartesi sabahı ? 
+1469	Always impatience , yeah ? 	Hep sabırsızsınız , değil mi ? 
+1470	I want to get home and get into bed . 	Evime gidip yatağıma yatmak istiyorum . 
+1471	So , Saturday morning ? 	Cumartesi sabahı mı ? 
+1472	5 : 30 ? 	5 : 30 nasıl ? 
+1473	All right . 	Pekâlâ , burada işimiz bitti . 
+1474	We 're done here . 	Pekâlâ , burada işimiz bitti . 
+1475	This is a number , in case anything should come up . 	Olur da bir terslik olursa diye size bu numarayı veriyorum . 
+1476	All right . 	Pekâlâ . 
+1477	Someone will answer at any hour . 	Hangi saatte ararsanız arayın , birisi cevap verecektir . 
+1478	I don 't expect to use it . 	Kullanmayı beklemiyorum ama . 
+1479	Shall we toast the arrangement ? 	Anlaşmayı kutlayalım mı ? 
+1480	Why not ? 	Neden olmasın ? 
+1481	Armenian brandy . 	Ermeni birendisi . 
+1482	Good bracer for your cold . 	Üşütmenize iyi gelir . 
+1483	Thank you . 	Teşekkürler . 
+1484	Would you mind ... 	Acaba ... 
+1485	This is not part of our business but I 'd like to ask you a couple of questions . 	Görevimin bir parçası değil ama size birkaç soru sormak istiyorum . 
+1486	You do not have to answer . 	- Cevaplamak zorunda değilsiniz . 
+1487	I shall answer what I know . 	- Biliyorsam cevaplayabilirim . 
+1488	I like this guy , your guy . 	Bu adamı sevdim , adamınızı . 
+1489	What happens to your guy when he gets home ? 	Ülkesine döndüğünde adamınıza ne olacak ? 
+1490	Well , we have to make a determination whether our guy is now your guy . 	Adamımızın artık sizin adamınız olup olmadığını belirlemek zorundayız . 
+1491	Now , as I said to you before , he 's acted honorably . 	Daha önce de söylediğim gibi , şerefli davrandı . 
+1492	He 's still your guy , believe me . 	Hâlâ sizin adamınız , inanın bana . 
+1493	Of course you will say that if it were true and if it were not true . 	Elbette böyle diyeceksiniz . Doğru olsa da ... ... olmasa da . 
+1494	I guess it has come down to that , huh ? 	Bu şekilde sonuçlanmalı , ha ? 
+1495	Well , forgive me for pushing , but is he in any danger if the determination is made ? 	Israrcı oluyorsam özür dilerim ... ... fakat hakkındaki karar verilirse hayatı tehlikeye girecek mi ? 
+1496	Well , goodness . 	Nasıl söylesem ? 
+1497	As things are now , everyone is in danger . 	İçinde bulunduğumuz koşullarda herkesin hayatı tehlikede . 
+1498	Cheers . 	Şerefe . 
+1499	Na zdorovie . 	
+1500	There will be no exchange on Glienicke Bridge . 	Glienicke Köprüsü 'nde takas falan olmayacak . 
+1501	Excuse me , sir . 	Anlamadım efendim . 
+1502	There will be no exchange . 	Takas olmayacak . 
+1503	Not for Frederic Pryor . 	Frederic Pryor için olmayacak . 
+1504	Mr . 	Bay Vogel , dün anlaştığımızı sanıyordum . 
+1505	Vogel , I thought yesterday we had agreed . 	Bay Vogel , dün anlaştığımızı sanıyordum . 
+1506	We agreed on an exchange , Abel for Pryor . 	Pryor 'a karşılık Abel takası için anlaşmıştık . 
+1507	Now I learn you are a rug merchant selling the same rug to two customers . 	Şimdi öğrendim ki aynı halıyı iki farklı müşteriye satan bir halı tüccarıymışsın . 
+1508	Abel for Pryor you sell to us . 	- Bize Pryor 'a karşılık Abel 'ı . 
+1509	Yeah . 	- Evet . 
+1510	And Abel for Powers you sell to the Soviets . 	Ve yine Abel 'ı Powers´a karşılık Ruslara satıyorsunuz . 
+1511	I 'm not quite sure what the problem is if the arrangement satisfies two parties or three or four . 	Anlaşmanın iki , üç veya dört farklı tarafı tatmin etmesinde sorun ne anlayamadım . 
+1512	What difference does it make ? 	Ne fark eder ki ? 
+1513	The arrangement does not satisfy this party . 	Anlaşma bu tarafı memnun etmiyor . 
+1514	Now , Mr . 	Bay Vogel , lütfen - 
+1515	Vogel , please ... 	Bay Vogel , lütfen - 
+1516	Obviously you do not know who you are dealing with . 	Belli ki kiminle uğraştığınızı bilmiyorsunuz . 
+1517	Here 's the interest of the German Democratic Republic . 	Demokratik Alman Cumhuriyeti 'nin istediği şeyi söyleyeyim . 
+1518	To deal with , and to be seen to be dealing with another sovereign power , the United States . 	Pazarlık yapılan bir ülke olmak ... ... ve başka bir bağımsız güç olan Amerika tarafından muhatap alınmak . 
+1519	An equal power . 	Denk bir güç tarafından . 
+1520	Instead you treat us as stooges for the Union of Soviet Socialist Republics . 	Siz ise sanki Sovyet Sosyalist Cumhuriyetler Birliği 'nin ... ... kuklasıymışız gibi davranıyorsunuz . 
+1521	Can we just call them the Russians ? 	Şuna kısaca Ruslar desek olmaz mı ? 
+1522	It 'll save time . 	Vakit kazanırız . 
+1523	I have an appointment , sir . 	İşim var beyefendi . 
+1524	I think it 's you who are wasting time . 	Bence boşa zaman harcayan sizsiniz . 
+1525	Now , tell me if I am describing this wrong . 	Yanlış anlatıyorsam söyleyin lütfen . 
+1526	You have a kid , a university student , someone you know is not a spy , who 's no threat to you . 	Elinizde casus olmadığını , size tehdit oluşturmadığını bildiğiniz ... ... üniversite öğrencisi bir çocuk var . 
+1527	And in exchange for this person who is worthless to you , you play an equal part in an exchange between the Russians and the Americans . 	Yine de sizin için değersiz olan bu çocuğu takas etmeniz ... ... size Ruslarla Birleşik Devletler arasında yapılacak takasta eşit rol üstlendirecek . 
+1528	And this is one transaction between us and the two of you . 	Bizimle siz iki taraf arasında bir anlaşma olacak sadece . 
+1529	We 're not trying to do two things here , sir . 	Burada iki farklı şey yapmaya çalışmıyoruz efendim . 
+1530	We 're just doing one thing . 	Sadece bir şey . 
+1531	One , one , one . 	Bir , bir , bir . 
+1532	It 's hard for me to see how the Republic of East German Democrats is being slighted . 	Doğu Alman Cumhuriyeti 'nin bu kadar hafife alındığını görmek zoruma gidiyor . 
+1533	You agreed with the Soviets without consulting me . 	Bana danışmadan Sovyetlerle anlaşmaya vardınız . 
+1534	Is this a negotiation or a conspiracy ? 	Bu bir anlaşma mı yoksa komplo mu ? 
+1535	For it to be a conspiracy , there would have to be harm to you , sir . 	Komplo olması için bundan zarar görmeniz gerekirdi efendim . 
+1536	There 's just benefits here . 	Burada sadece menfaat var . 
+1537	We 're of agreeing interests . 	Çıkarlarımıza göre anlaşma yapıyoruz . 
+1538	No , you decide they agree . 	Hayır , anlaşmaya sen karar verdin . 
+1539	Where is your appointment , sir ? 	- Görüşmeniz nerede ? 
+1540	In the West . 	- Batı tarafında . 
+1541	Ku' damm . 	Kudamm . 
+1542	Good . 	Güzel . 
+1543	Look around you . 	Etrafına baksana . 
+1544	How does the Eastern sector compare with the West ? 	Nasıl doğu tarafını batı tarafıyla kıyaslayabilirsin ki ? 
+1545	Hmm ? 	
+1546	Our Russian friends have decided that we should not rebuild our capital city . 	Rus dostlarımız başkentimizi yeniden inşa etmemiz gerekmediğine karar verdiler . 
+1547	But we live in this ruin made by our Russian friends . 	Rus dostlarımız tarafından yapılan bu harabelerde yaşıyoruz . 
+1548	Go ahead , make your deal with these Russians . 	Hiç durma , git Ruslarla anlaş . 
+1549	We won 't be part of it . 	Bunun bir parçası olmayacağız . 
+1550	There is no deal without Pryor . 	Pryor olmadan anlaşma da olmaz . 
+1551	We are not leaving him here . 	Onu burada bırakmayacağız . 
+1552	Is this your position or your government 's ? 	Bu senin mi kararın yoksa devletinin mi ? 
+1553	Sir , I 'm here . 	Ben buradayım . 
+1554	I 'm talking to you . 	Sizinle konuşuyorum . 
+1555	But you are not a representative of your government . 	Hükümetini temsilen burada değilsin . 
+1556	You don 't know who you are . 	Kim olduğunu bilmiyorsun . Biz de bilmiyoruz . 
+1557	Neither do we . 	Dikkatli olmalısınız . 
+1558	You should be careful . 	Dikkatli olmalısınız . 
+1559	This is not Brooklyn , Mr . 	Burası Brooklyn değil Bay Donovan . 
+1560	Donovan . 	Burası Brooklyn değil Bay Donovan . 
+1561	Look , sir . 	Bakın , şunu bilmelisiniz ki önem arz eden bütün konularda hükümetimi temsil ediyorum . 
+1562	You must know that in every respect that matters , 	Bakın , şunu bilmelisiniz ki önem arz eden bütün konularda hükümetimi temsil ediyorum . 
+1563	I represent my government . 	Bakın , şunu bilmelisiniz ki önem arz eden bütün konularda hükümetimi temsil ediyorum . 
+1564	You know who I am . 	Kim olduğumu biliyorsunuz . 
+1565	Do I ? 	Acaba ? 
+1566	Uh- oh . 	
+1567	Do you have the proper papers ? 	Yanında belgelerin var mı ? 
+1568	Of course not . 	Elbette yok . 
+1569	It doesn 't matter . 	Ne önemi var ki ? 
+1570	An American lawyer like you can talk your way out of anything . 	Sizin gibi bir Amerikan avukat her şeyi konuşarak halledebilir . 
+1571	Can 't you ? 	Öyle değil mi ? 
+1572	You go with him . 	Onunla gideceksiniz . - Neden ? 
+1573	Why ? 	- Pasaportunuzla ilgili bir sorun var . 
+1574	It 's passport problem . 	- Pasaportunuzla ilgili bir sorun var . 
+1575	What ... 	Ne ... 
+1576	What problem ? 	Ne ... 
+1577	What 's the problem ? 	Ne sorunu ? Sorun ne ? 
+1578	You go with him . 	Onunla git . 
+1579	And remember , we control the fate of Frederic Pryor . 	Unutma . Frederic Pryor 'ın kaderi bizim elimizde . 
+1580	My God ! 	Aman Tanrım ! 
+1581	Yeah , I' ll start with some coffee , please . 	Evet , önden bir kahve alayım lütfen . 
+1582	Then I' ll have the Hilton combo and the American breakfast . 	Ardından da Amerikan kahvaltısı ve Hilton karışık menüsü alacağım . 
+1583	And coffee . 	Ardından da Amerikan kahvaltısı ve Hilton karışık menüsü alacağım . 
+1584	Both breakfasts ? 	Ve kahve . - İki kahvaltı menüsünü de mi ? 
+1585	Yeah , yeah . 	- Evet , evet . 
+1586	One first or ... 	Önce birini mi almak - 
+1587	Both first , both . 	Önce . Beraber . 
+1588	Whenever they 're ready . 	Ne zaman hazır olurlarsa . 
+1589	And coffee . 	Ve kahve lütfen . 
+1590	Hmm . 	
+1591	You shouldn 't be here . 	Burada olmaman gerekiyor . 
+1592	Well , sometimes in Germany , you just want a big American breakfast . 	Bazen Almanya 'da , insanın canı Amerikan kahvaltısı çekiyor . 
+1593	What happened ? 	Ne oldu ? 
+1594	Where were you last night ? 	Dün gece neredeydin ? 
+1595	Vogel arranged for me to spend some time in the East . 	Vogel Doğu tarafında biraz zaman geçirmem için ayarlama yaptı . 
+1596	Oh , Jesus . 	Tanrım . 
+1597	Frankly , it 's not that much worse than where you have me here in the West . 	Açıkçası bana burada , Batı tarafında ayarladığın yerden daha kötü değildi . 
+1598	So the Russians are fine with the exchange , but now Vogel is saying that the East Germans won 't do it . 	Ruslar takası kabul etti . Fakat şimdi de Vogel Doğu Almanya 'nın kabul etmeyeceğini söyledi . 
+1599	We 're not gonna get Pryor . 	Pryor 'ı alamayacağız . 
+1600	Great , good . 	Harika . Çok güzel . 
+1601	So the Soviets are set . 	Yani Sovyetler hazır . 
+1602	We get Powers . 	Powers 'ı alacağız . 
+1603	We get Powers . 	Powers 'ı alacağız . 
+1604	Well done . 	Aferin . 
+1605	No , the East Germans won 't do it . 	Hayır , Almanlar razı olmuyor . 
+1606	We won 't get Pryor , and that kid matters . 	Pryor 'ı alamayacağız ve o çocuk önemli . 
+1607	Every person matters . 	- Her birey önem arz eder . 
+1608	Sure , that 's why you tried . 	- Aynen . 
+1609	That 's why you tried . 	Bu yüzden çabaladın . 
+1610	Abel 's on his way , so we 're all set for tomorrow morning . 	Abel şu an yolda . Yarın sabah için her şey hazır . 
+1611	Wait a minute . 	- Bir dakika . 
+1612	Makes things simple . 	- Böyle çok daha kolay . 
+1613	Makes things simple . 	Daha basit . 
+1614	We are not getting the kid . 	- Çocuğu almayacağız . 
+1615	Yeah , I understand . 	- Evet , anlıyorum . 
+1616	We 're set . 	Biz hazırız . 
+1617	We can ignore the message we got this morning . 	Bu sabah gelen mesajı göz ardı edebiliriz . 
+1618	What message ? 	- Ne mesajı ? 
+1619	From the East Germans . 	- Doğu Almanlardan . 
+1620	They called the number I gave you . 	Sana verdiğim numarayı aradılar . 
+1621	They said they wanted to speak to you today . 	Seninle bugün konuşmak istediklerini söylediler . 
+1622	Vogel called ? 	- Vogel mı aradı ? 
+1623	No , um ... 	- Hayır . 
+1624	Office of , uh , Harald Ott , 	Herald Ott . 
+1625	East German attorney general . 	Doğu Almanya Başsavcısı . 
+1626	Wanting what ? 	- Ne istiyormuş ? 
+1627	What does he want ? 	- Ne istiyormuş ? 
+1628	Well , to talk to you . 	- Seninle konuşmak . 
+1629	But it 's okay , I can 't ask you to go back there . 	Sorun değil , senden oraya tekrar dönmeni isteyemem . 
+1630	And listen , you seem to be persona non grata to some elements , so we won 't push our luck . 	Ve anlaşılan bazı kişiler tarafından istenmiyorsun . Bu yüzden şansımızı zorlamayacağız . 
+1631	So he wants to see me . 	Demek beni görmek istiyor . 
+1632	What time ? 	Ne zaman ? 
+1633	Oh , no , no . 	Hayır , hayır , hayır . 
+1634	Now , listen . 	Beni dinle . 
+1635	You don 't need to go . 	Gitmek zorunda değilsin . 
+1636	In fact , you shouldn 't go . 	Gitmek zorunda değilsin . 
+1637	In fact , you can 't go . 	Aslında gitmemelisin . Gidemezsin hatta . 
+1638	We 're set with the Soviets . 	Sovyetlerle anlaştık . 
+1639	We don 't want to screw it up . 	Bunu berbat etmek istemiyoruz . 
+1640	I 'm not gonna screw it up . 	- Berbat etmeyeceğim . 
+1641	You 're not going ! 	- Gitmiyorsun . 
+1642	Don 't be a pain in the ass . 	- Başa bela olma . 
+1643	Oh , I ordered . 	- Ben sipariş etmiştim . 
+1644	Enjoy your big American breakfast . 	Büyük Amerikan kahvaltısının tadını çıkar . 
+1645	I thought it should be negotiated at the highest level as a courtesy to you . 	Pazarlıkları , en yüksek rütbedeki kişiyle yapman ... ... nezaketen daha iyi olur diye düşündüm . 
+1646	I thank you , sir . 	Teşekkür ederim , efendim . 
+1647	I don 't know how things became so confused . 	- İşler nasıl böyle sarpa sardı anlamadım . 
+1648	Well , I guess sometimes they just do . 	- Sanırım bazen böyle şeyler oluyor . 
+1649	For sake of clarity , 	Açıklığa kavuşması için söylemek isterim ki bu sözde öğrenci Pryor 'ı ... ... Rudolf 'a karşılık takas etmeye tamamıyla hazırız . 
+1650	I say we are fully prepared to exchange the so- called student , Pryor , for Rudolf Abel . 	Açıklığa kavuşması için söylemek isterim ki bu sözde öğrenci Pryor 'ı ... ... Rudolf 'a karşılık takas etmeye tamamıyla hazırız . 
+1651	I understand from Mr . 	Bay Vogel 'dan öğrendiğim kadarıyla , Pryor senin için oldukça önemliymiş . 
+1652	Vogel that Pryor is very important to you . 	Bay Vogel 'dan öğrendiğim kadarıyla , Pryor senin için oldukça önemliymiş . 
+1653	Yes , but ... 	Evet , ama - 
+1654	Ah , we 'll do a memorandum to that effect . 	Bu noktayı tezkereye yazalım hemen . 
+1655	Oh , a memorandum . 	Tezkere demek . 
+1656	Certainly , we commit to a bi- lateral exchange . 	Elbette çift yanlı değiş tokuş istiyoruz . 
+1657	Yes , yes , sure . 	Evet , evet . 
+1658	I 'm not sure what that means but ... 	Ne olduğunu bilmiyorum ama ... 
+1659	My country also insists on Francis Gary Powers . 	Hükümetim aynı zamanda Francis Gary Powers 'ı da istiyor . 
+1660	No ! 	Hayır ! 
+1661	This is how things became so confused . 	Bu yüzden işler sarpa sarıyor işte . 
+1662	Powers . 	Powers ne işinize yarar ki ? 
+1663	What use is he , sir ? 	Powers ne işinize yarar ki ? 
+1664	You want him back for punitive reasons ? 	Onu cezalandırmak için istiyorsunuz . 
+1665	What 's done is done . 	Olan olmuş . 
+1666	He has divulged what he will divulge , as no doubt Abel has also . 	O zaten konuşacağını konuşmuştur bile . Aynı şekilde şüphesiz Abel da . 
+1667	We are offering instead someone who you insist is innocent . 	Size ısrarla masum olduğunu söylediğiniz bir kişiyi teklif ediyoruz . 
+1668	And this is right . 	Ve doğru olan da bu . 
+1669	This is who you should retrieve . 	Kurtarmanız gereken tam da bu . 
+1670	The future . 	İstikbâl . 
+1671	Look to the future . 	İstikbâle odaklan . 
+1672	Ott . 	Ott . 
+1673	Ott . 	Ott . 
+1674	I 'm sorry . 	Özür dilerim , biraz müsaade eder misiniz efendim ? 
+1675	If you could give me a moment , sir . 	Özür dilerim , biraz müsaade eder misiniz efendim ? 
+1676	I 'm very sorry , sir . 	Çok özür dilerim efendim . 
+1677	The attorney general regrets that he had to leave on urgent business . 	Başsavcı üzülerek acil bir işi için gitmek zorunda kaldığını söyledi . 
+1678	He left ? 	- Gitti mi ? 
+1679	Yes . 	- Evet , çok üzgünüm . 
+1680	Many apologies . 	- Evet , çok üzgünüm . 
+1681	I' ve been waiting for over an hour . 	- Bir saatten fazladır bekliyorum burada . 
+1682	Very sorry , sir . 	- Özür dilerim efendim . 
+1683	Young man . 	Delikanlı ? 
+1684	Come here . 	Buraya gel . 
+1685	It 's all right . 	Gel buraya . 
+1686	Come here . 	Gel buraya . 
+1687	Uh ... 	
+1688	Take a seat . 	Otursana . 
+1689	Oh , come on , come on . 	Hadi hadi , otur . 
+1690	Sit down . 	Hadi hadi , otur . 
+1691	Do you like your job here ? 	Buradaki işinden memnun musun ? 
+1692	It 's a very good job , sir . 	Çok iyi bir iş efendim . 
+1693	It must be . 	Öyle olmalı . 
+1694	Must be interesting . 	Heyecan verici olmalı . 
+1695	Oh , yes , sir . 	Evet , öyle efendim . 
+1696	And important , too . 	Önemli de . 
+1697	And your English is ... 	İngilizcen de oldukça iyi . 
+1698	Is good . 	Mükemmel demekten çekiniyorum ama mükemmel efendim . 
+1699	Yes , I hesitate to say it 's excellent . 	Mükemmel demekten çekiniyorum ama mükemmel efendim . 
+1700	But it 's excellent , sir . 	Mükemmel demekten çekiniyorum ama mükemmel efendim . 
+1701	Good , good . 	İyi , iyi . 
+1702	Good . 	İyi , iyi . 
+1703	See , I just lost my negotiating partner , and I need somebody to talk to , and you seem like a reasonable young man . 	Pazarlıktaki muhatabımı kaybettim ... ... ve biriyle konuşmam gerekiyor ... Sen de akıllı bir delikanlıya benziyorsun . 
+1704	Can I talk to you ? 	Seninle konuşabilir miyim ? 
+1705	Uh ... 	
+1706	It 's all right . 	Sorun değil . 
+1707	It 's all right . 	Sorun değil . 
+1708	I just ... 	Sadece ... 
+1709	I just need you to give a message to your boss . 	Sadece patronuna bir mesaj iletmeni istiyorum . 
+1710	But it has to be very , very , very clear . 	Ama gayet net olmalı . 
+1711	You understand ? 	Anlıyor musun ? 
+1712	Yes , sir . 	Evet efendim . 
+1713	But perhaps you should wait until he ... 	Ama patron gelene kadar - 
+1714	No , no . 	Hayır , hayır . 
+1715	The thing is , I have this cold and I wanna get home and get in bed . 	Açıkçası üşüttüm ve evime gitmek istiyorum . Ve yatağıma yatmak . 
+1716	Can you give him the message ? 	- Mesajı iletir misin ? 
+1717	Certainly . 	- Kesinlikle . 
+1718	Well , this is the message . 	Mesaj şu ; 
+1719	" There is no deal for Abel unless we get Powers and Pryor . " 	Powers ve Pryor 'ı beraber almazsak Abel için anlaşma olmayacak . 
+1720	Do you understand ? 	- Anladın mı ? 
+1721	Yes , sir . 	- Evet , efendim . 
+1722	It 's arranged for tomorrow morning . 	Yarın sabahki takas iki adamı da almazsak gerçekleşmeyecek . 
+1723	It will not happen unless we get two men . 	Yarın sabahki takas iki adamı da almazsak gerçekleşmeyecek . 
+1724	Those two men . 	O iki adamı . 
+1725	Two , two , two . 	- İki , iki , iki . 
+1726	Yes , sir . 	- Anladım efendim . 
+1727	If there is no deal , your boss must tell the Soviets . 	Anlaşma olmayacaksa da ... ... bunu Sovyetlere patronun söylemek zorunda . 
+1728	He has to tell the Soviets that they are not getting Rudolf Abel . 	Sovyetlere Rudolf Abel 'ı alamadıklarını söylemek zorunda kalacak olan o . 
+1729	Yes , sir . 	Anladım efendim . 
+1730	Oh , and tell him this . 	Ona şunu da söyle ; 
+1731	That so far , Abel has been a good soldier , but he thinks he 's going home . 	Abel bugüne kadar iyi bir askerdi , fakat evine döneceğini sanıyor . 
+1732	If we had to tell him that he 's not going home , that the Soviets don 't even want him , that he 's never going home ... 	Ona evine dönmeyeceğini ... ... Rusların onu istemediğini ve asla evine dönemeyeceğini söylersek ... ... sanırım bu tavrı değişecektir . 
+1733	Well , I imagine his behavior might change . 	Ona evine dönmeyeceğini ... ... Rusların onu istemediğini ve asla evine dönemeyeceğini söylersek ... ... sanırım bu tavrı değişecektir . 
+1734	And who will be held responsible for that ? 	Ve bundan kim sorumlu tutulacak ? 
+1735	That 's a long message . 	Uzun bir mesaj oldu . 
+1736	Uh , did you get it all ? 	- Hepsini anladın mı ? 
+1737	Yes , sir . 	- Evet , efendim . 
+1738	Got it . 	Anladım . 
+1739	Good . 	İyi . 
+1740	You 're a good man . 	Sen iyi birisin . 
+1741	Oh ... 	
+1742	And also tell him there 's no deal unless we hear before the end of business today . 	Ayrıca ona de ki ... ... bugünkü konuşmanın neticesini duymadıkça değiş tokuş olmayacak . 
+1743	He has the number . 	Numaramız onda var . 
+1744	If the exchange isn 't gonna happen , no reason for everybody to get up first thing in the morning . 	Eğer takas olmayacaksa sabahın köründe kalkmanın âlemi yok . 
+1745	No , sir , that would be pointless . 	Aynen efendim . Anlamsız olurdu . 
+1746	You 're kidding me ! 	Dalga geçiyorsun ! 
+1747	You 're kidding me ! 	Benimle dalga geçiyorsun ! 
+1748	Not really . 	Hayır , aslında . 
+1749	I need some change . 	Bana bozuk para lazım . 
+1750	This is exactly what you weren 't supposed to do . 	Tam da yapmaman gereken şeydi bu . 
+1751	My instructions were to feel out the situation . 	Bana verilen talimat duruma göre davranmaktı . 
+1752	Your instructions were to get Powers , not Pryor . 	Sana verilen talimat Powers 'ı almak , Pryor 'ı değil . 
+1753	That was not the original deal . 	Başlangıçta o yoktu . 
+1754	You fouled it all up ! 	Her şeyi batırdın . 
+1755	How do you know ? 	Nereden biliyorsun ? 
+1756	I feel pretty good about it . 	Bence oldukça iyiydim . 
+1757	You fucked it all up ! 	- Her şeyi mahvettin ! 
+1758	Oh , don 't worry . 	- Endişe etme . 
+1759	I think it 's gonna be fine . 	- Bence her şey iyi olacak . 
+1760	How do you know ? 	- Nereden biliyorsun ? 
+1761	You don 't know that . 	Bilmiyorsun bunu . 
+1762	United States . 	Birleşik Devletler , New York , New York . 
+1763	New York , New York . 	Birleşik Devletler , New York , New York . 
+1764	Danke . 	Danke . 
+1765	Look , this whole thing has been to feel me out . 	Baksana , bütün bu yapılanlar beni ölçmek içindi . 
+1766	Would I swap one for one and which one ? 	Bire bir kabul edip etmeyeceğimi ve hangisini isteyeceğimi görmek için . 
+1767	But I said " No , two for one . " 	Fakat ben " Olmaz , bire iki . " dedim . 
+1768	So they know where we stand . 	Yani ne istediğimizi biliyorlar . 
+1769	Yeah , what if they think about it and say , uh ... 	Ya düşünüp ... ... " Unutun ! 
+1770	" Forget it ! 	Ya düşünüp ... ... " Unutun ! 
+1771	You keep our guy , we keep your guys " ? 	Ya düşünüp ... ... " Unutun ! 
+1772	Well , then I have fucked it all up . 	Öyleyse her şeyi mahvetmişim demektir . 
+1773	Hey , honey ! 	Selam tatlım . 
+1774	It 's me . 	Benim . 
+1775	Yeah . 	Evet , balık avı harika gidiyor . 
+1776	The fishing 's been great . 	Evet , balık avı harika gidiyor . 
+1777	I 'm in London , just for one more meeting , then I 'm on my way home . 	Londra 'dayım . Bir toplantı daha kaldı , sonra eve döneceğim . 
+1778	Yeah , yeah , I remember that marmalade . 	Evet , evet , o marmeladı hatırlıyorum . 
+1779	It 's that shop right by Regent 's Park . 	Regent 's Park´ın oradaki dükkân . 
+1780	All right , I will if I have the time . 	Tamam , vaktim olursa alırım . 
+1781	Hey , can I say hi to Roger ? 	Roger 'a merhaba diyebilir miyim ? 
+1782	Could I say hi to the girls ? 	Kızlara merhaba diyebilir miyim ? 
+1783	Is anyone not busy ? 	Meşgul olmayan biri yok mu ? 
+1784	Have they even noticed I 'm not around ? 	Orada olmadığımı fark ettiler mi bari ? 
+1785	We 're on . 	Tamamdır . 
+1786	Two for one . 	Bire iki . 
+1787	Hot dog . 	İşte bu ! 
+1788	Let 's have a drink . 	Kutlayalım haydi . 
+1789	One wrinkle . 	- Yalnız bir sorun var . 
+1790	What is that ? 	- Neymiş o ? 
+1791	They won 't release Pryor with Powers , not at the bridge . 	Pryor 'ı Powers ile birlikte bırakmayacaklar . Köprüde değil . 
+1792	They 'll release him at the same time . 	Aynı anda bırakacaklar . 
+1793	When the Russians give us Powers on the bridge , they 'll release Pryor over Checkpoint Charlie . 	Ruslar köprüde Powers’ ı bırakırken ... ... onlar da Pryor 'ı Charlie Kontrol Noktası 'nda bırakacaklar . 
+1794	What does that mean ? 	Ne anlama geliyor bu ? 
+1795	I think it means , " We wanna have the last word . " 	Sanırım son sözü biz söylemek istiyoruz anlamına geliyor . 
+1796	But they will do it . 	- Ama yapacaklar . 
+1797	You tell me . 	- Sen söyle . 
+1798	You felt them out . 	Onlarla konuşan sensin . 
+1799	Where are they ? 	Neredeler ? Adamımız nerede ? 
+1800	Where 's our guy ? 	Adamımız nerede ? 
+1801	Where 's our guy ? 	Adamımız nerede ? 
+1802	They 're late . 	Geç kaldılar . 
+1803	Nobody 's late . 	Kimse geç kalmadı . 
+1804	We 're early . 	Erken geldik . 
+1805	May I ? 	- Alabilir miyim ? 
+1806	Yeah . 	- Alabilir miyim ? 
+1807	Hoffman . 	- Hoffman ? 
+1808	Yeah ? 	- Efendim ? 
+1809	I think they have ... 	- Sanırım ... 
+1810	What ? ... snipers . 	- Ne ? ... keskin nişancıları var . 
+1811	Well , I 'm sure they do . 	- Eminim vardır . 
+1812	How are you sure they do ? 	Nasıl emin olabiliyorsun ? 
+1813	Because we have snipers . 	Çünkü bizim de keskin nişancılarımız var . 
+1814	Step out , sir . 	İnin bayım . 
+1815	Jim . 	Jim . 
+1816	Dear Jim . 	Sevgili Jim . 
+1817	How are you ? 	- Nasılsın ? 
+1818	Happy to see you . 	- Seni gördüğüme sevindim . 
+1819	Have you arranged all this for me ? 	Bunları benim için mi yaptın ? 
+1820	Well , let 's see what this is before I ... 	Kendime pay biçmeden önce nasıl netilenecek bir görelim . 
+1821	I take credit for it . 	Kendime pay biçmeden önce nasıl netilenecek bir görelim . 
+1822	Any word about Pryor from Checkpoint Charlie ? 	Charlie Kontrol Noktası 'ndan Pryor ile ilgili haber var mı ? 
+1823	Nothing cooking yet . 	Henüz bir ses yok . 
+1824	Excuse me , sir . 	Affedersiniz efendim . 
+1825	This is Lieutenant Joe Murphy , United States Air Force , here to identify Powers . 	ABD Hava Kuvvetleri 'nden Teğmen John Murphy . Powers 'ı teşhis etmek için geldi . 
+1826	Lieutenant Murphy . 	- Teğmen Murphy . 
+1827	Sir . 	- Efendim . 
+1828	There may be a slight glitch . 	Ufak bir sorun olabilir . 
+1829	I was a young man when I left . 	Ülkemden ayrıldığımda gençtim . 
+1830	Who will they find to identify me ? 	Beni teşhis etmesi için kimi bulacaklar ? 
+1831	Well , I hope it 's not your East German family . 	Umarım Doğu Almanya 'daki aileni getirmezler . 
+1832	I doubt they could identify each other . 	Onların birbirlerini tanıyacaklarından bile şüpheliyim . 
+1833	Looks like our party . 	Bizim gruba benziyor . 
+1834	Well , let 's go . 	Hadi gidelim . 
+1835	You can stay here , Donovan . 	Burada bekleyebilirsin Donovan . 
+1836	Not likely . 	Olmaz öyle şey . 
+1837	Open the gate . 	Kapıyı açın . 
+1838	What do you think will happen when you get home ? 	Eve döndüğünde ne olacak sence ? 
+1839	Uh , I think ... 	Sanırım ... ... votka içeceğim . 
+1840	I' ll have a vodka . 	Sanırım ... ... votka içeceğim . 
+1841	Yeah . 	Evet . 
+1842	Yeah . 	Evet . 
+1843	But , Rudolf , is there not the possibility ... 	Ama Rudolf , acaba bir ihtimal - 
+1844	That my people are going to shoot me ? 	Bizimkiler beni kurşuna dizerler mi ? 
+1845	Yes . 	Evet . 
+1846	You 're not worried ? 	- Endişelenmiyorsun mu ? 
+1847	Would it help ? 	- Bir faydası olur mu ? 
+1848	To answer your question , my friend , 	Soruna gelince dostum . 
+1849	I acted honorably . 	Şerefli davrandım . 
+1850	I think they know that . 	Sanırım bunu biliyorlar . 
+1851	But sometimes people think wrong . 	Fakat bazen insanlar yanlış düşünebilirler . 
+1852	People are people . 	İnsanlardır nihayetinde . 
+1853	Let 's see how they greet me . 	Bakalım beni nasıl karşılayacaklar . 
+1854	What can I look for ? 	Neye bakabilirim ? 
+1855	If I 'm embraced or just shown the back seat . 	Kucaklayacaklar mı yoksa direkt arka koltuğa mı oturtacaklar . 
+1856	Da . 	
+1857	Take off the hat . 	Şapkayı çıkar . 
+1858	Hey , Powers . 	Selam Powers . 
+1859	Hey , Murph . 	Selam Murph . 
+1860	Yeah , that 's Powers . 	Evet , bu Powers . 
+1861	All right , Mr . 	Pekâlâ , Bay Donovan , devam edelim . 
+1862	Donovan . 	Pekâlâ , Bay Donovan , devam edelim . 
+1863	We go now ! 	Pekâlâ , Bay Donovan , devam edelim . 
+1864	Hang on . 	Bekleyin ! 
+1865	Believe me , I will tell you . 	İnanın , söylerim . 
+1866	There 's no one here . 	Burada kimse yok . 
+1867	They 're releasing another man at Checkpoint Charlie . 	Charlie Kontrol Noktası 'nda bir kişiyi daha bırakacaklardı . 
+1868	We 're just confirming that he 's there . 	Gelip gelmediğini kontrol ediyoruz . 
+1869	Now ! 	Şimdi ! 
+1870	As per plan , if you please . 	Planladığımız gibi lütfen . 
+1871	Let 's go . 	Hadi . 
+1872	Pryor will show up or he won 't . 	Pryor gelir veya gelmez . 
+1873	Let 's go . 	Gidelim . 
+1874	They 're waiting to see if we 'll do it without him . 	Onsuz razı olacak mıyız görmek istiyorlar . 
+1875	We just have to stand here , show them we won 't . 	Burada öylece durup yapmayacağımızı göstermeliyiz sadece . 
+1876	I don 't give a shit what they want . 	Ne istedikleri umurumda değil . 
+1877	We have our objective . 	Biz amacımıza ulaştık . 
+1878	Go ahead , Abel . 	Yürü Abel . 
+1879	Go ahead , sir . 	Devam edin efendim . 
+1880	You can go . 	Gidebilirsiniz . 
+1881	If it is not to plan , we go home . 	Plana uymayacaksanız dönüyoruz . 
+1882	We exchange now or we go home ! 	Takas olmayacaksa evimize dönüyoruz . 
+1883	You 're waiting for another man ? 	- Başka birini mi bekliyorsunuz ? 
+1884	Yup . 	- Başka birini mi bekliyorsunuz ? 
+1885	You want him , too . 	Onu sen de mi istiyorsun ? 
+1886	I want him . 	Onu istiyorum . 
+1887	Doesn 't matter what he wants , sir . 	Onun ne istediği önemli değil . 
+1888	I 'm in charge and you are free to go . 	Burada yetkili benim , gitmekte serbestsiniz . 
+1889	Please go . 	Lütfen yürüyün . 
+1890	Walk across . 	Karşıya geçin . 
+1891	I can wait . 	Bekleyebilirim . 
+1892	It 's something . 	Bir gelişme var . 
+1893	I 'm not sure yet . 	Henüz emin değilim . 
+1894	Hang on ! 	Bekleyin ! 
+1895	Let 's go . 	
+1896	We got him ! 	Onu aldık ! 
+1897	Uh , I , uh ... 	
+1898	I sent you a gift , Jim . 	Sana bir hediye gönderdim Jim . 
+1899	It 's a ... 	
+1900	It 's a painting . 	Bir tablo . 
+1901	I hope it has some meaning to you . 	Umarım senin için bir anlamı olur . 
+1902	I 'm sorry . 	Özür dilerim , ben sana hediye almayı düşünemedim . 
+1903	I didn 't think to get you a gift . 	Özür dilerim , ben sana hediye almayı düşünemedim . 
+1904	This is your gift . 	Senin hediyen bu . 
+1905	This is your gift . 	Senin hediyen bu . 
+1906	You okay ? 	
+1907	Let 's go , let 's go , let 's go ! 	Hadi , hadi , hadi . 
+1908	Mr . 	Bay Donovan . 
+1909	Donovan . 	Albay Abel bunu size vermemi istedi . 
+1910	Colonel Abel asked me to give this to you . 	Albay Abel bunu size vermemi istedi . 
+1911	Pardon me , sir . 	Affedersiniz efendim . 
+1912	Were you in charge of this thing , sir ? 	- Bu işte yetkili siz miydiniz ? 
+1913	Yeah . 	- Bu işte yetkili siz miydiniz ? 
+1914	Well , I gotta thank you . 	- Evet . Size teşekkür etmeliyim . 
+1915	I gotta thank somebody . 	Birine teşekkür etmeliyim . 
+1916	I gave them nothing . 	Onlara hiçbir şey söylemedim . 
+1917	I gave them nothing . 	Onlara hiçbir şey söylemedim . 
+1918	It doesn 't matter . 	Önemli değil . 
+1919	It doesn 't matter what people think . 	İnsanların ne düşündüğü önemli değil . 
+1920	You know what you did . 	Ne yaptığını biliyorsun . 
+1921	Welcome home . 	Eve hoş geldin . 
+1922	What a trip . 	Ne yolculuktu be . 
+1923	Mmm . 	
+1924	Mmm . 	
+1925	You okay ? 	- İyi misin ? 
+1926	Yeah , I 'm fine . 	- Evet , iyiyim . 
+1927	Did you get the marmalade ? 	- Marmeladı aldın mı ? 
+1928	Yes , yes . 	- Marmeladı aldın mı ? 
+1929	Yep . 	- Evet , evet . 
+1930	Yep . 	Evet , aldım . 
+1931	I did . 	Evet , aldım . 
+1932	As ordered . 	Sipariş ettiğin gibi . 
+1933	Jim . 	Jim . 
+1934	This is from Arno 's . 	- Bunu Arno 'nun yerinden almışsın . 
+1935	So ? 	- Yani ? 
+1936	On the corner ! 	Köşedeki dükkândan ! 
+1937	Well , honey , I was busy . 	Hayatım , meşguldüm . 
+1938	I 'm sorry . 	Özür dilerim . 
+1939	We were so busy . 	Yapma ya ! 
+1940	Oh , for Pete 's sake . 	Yapma ya ! 
+1941	How 's Roger ? 	Çok yoğunduk . Roger nasıl ? 
+1942	Is he home ? 	Evde mi ? 
+1943	He 's home . 	Evde . 
+1944	Carol 's home , Peggy 's home . 	Carol ve Peggy de . 
+1945	Everyone 's home . 	Herkes evde . 
+1946	Mom ! 	Anne ! 
+1947	Come quick ! 	Çabuk gel , baksana . 
+1948	Look ! 	Çabuk gel , baksana . 
+1949	- Mom , come here ! 	- Anne , buraya gelsene ! 
+1950	- Mom , come here ! 	- Buraya gel anne ! 
+1951	- Come see this ! 	- Şuna baksana ! 
+1952	Look ! 	- Şuna baksana ! 
+1953	Watch ! 	- Şuna baksana ! 
+1954	- Come on ! 	- Hadi ! 
+1955	Francis Gary Powers has been released from prison in the Soviet Union and turned over to American authorities early this morning in Berlin . 	Francis Gary Powers Sovyetler Birliği 'ndeki hapishaneden çıkarılarak ... ... bu sabahın erken saatlerinde Berlin 'deki Amerikan yetkililerine teslim edildi . 
+1956	The President has commuted the sentence of Rudolf Abel . 	Başkan Rudolf Abel 'ın cezasını hafifletti . 
+1957	Mr . 	Bay Abel sınır dışı edildi ve ardından da Berlin 'de serbest bırakıldı . 
+1958	Abel has been deported and has been released in Berlin . 	Bay Abel sınır dışı edildi ve ardından da Berlin 'de serbest bırakıldı . 
+1959	Efforts to obtain Mr . 	Bay Powers 'ı kurtarma çabaları bir süredir devam ediyordu . 
+1960	Powers´ release had been underway for some time . 	Bay Powers 'ı kurtarma çabaları bir süredir devam ediyordu . 
+1961	In recent efforts , the United States government has had the cooperation and assistance of Mr . 	Birleşik Devletler hükümetinin son çabaları ... ... New Yorklu bir avukat olan James Donovan 'ın işbirliği ve yardımıyla ... ... nihayete ulaşmıştır . 
+1962	James B . 	Birleşik Devletler hükümetinin son çabaları ... ... New Yorklu bir avukat olan James Donovan 'ın işbirliği ve yardımıyla ... ... nihayete ulaşmıştır . 
+1963	Donovan , a New York attorney . 	Birleşik Devletler hükümetinin son çabaları ... ... New Yorklu bir avukat olan James Donovan 'ın işbirliği ve yardımıyla ... ... nihayete ulaşmıştır . 
+1964	Frederic L . 	Frederic L . 
+1965	Pryor , an American student held by East German authorities since August of 1961 ... 	Pryor Ağustos 1961´den beri ... Doğu Alman otoriteleri tarafından alıkonulmaktaydı ... 
+1966	I thought Daddy was fishing . 	Babam balık tutmaya gitti sanıyordum . 
+1967	For salmon . 	Somon balığı . 
+1968	Abel now has disappeared into the communist world . 	Abel komünist coğrafyasında ortadan kayboldu . 
+1969	Powers is here , answering questions . 	Powers burada soruları cevaplandırıyor . 
+1970	And Donovan has gone back to his law practice . 	Ve Donovan da avukatlık işine geri döndü . 
+1971	And now , here is George Fenneman , speaking for the Douglas Fir Plywood Association . 	
