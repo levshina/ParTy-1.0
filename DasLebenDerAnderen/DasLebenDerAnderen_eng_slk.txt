@@ -1,0 +1,1349 @@
+0	TEMPORARY DETENTION CENTER MINISTRY FOR STATE SECURITY 	
+1	Stand still . 	Stoj ! 
+2	Eyes to the floor . 	Glej v tla ! 
+3	Walk on . 	Naprej ! 
+4	TEMPORARY DETENTION CENTER MINISTRY FOR STATE SECURITY 	
+5	Address him as ´Captain ! ' 	Ogovarjajte ga z g . kapetan . 
+6	Enter . 	Naprej ! 
+7	Sit down . 	Roke pod stegna , dlani navzdol . 
+8	Hands under your thighs , palms down . 	Roke pod stegna , dlani navzdol . 
+9	What do you have to tell us ? 	Kaj nam imate povedati ? 
+10	I' ve done nothing . 	Nič nisem naredil . 
+11	I know nothing . 	Nič ne vem . 
+12	You 've done nothing , know nothing ... 	Nič ne veste in nič niste naredili ? 
+13	You think we imprison people on a whim ? 	Res mislite , da kar tako zapiramo ? 
+14	No ... 	Ne . 
+15	If you think our humanistic system capable of such a thing , that alone would justify your arrest . 	- Če mislite , da smo sposobni česa takega , smo vas upravičeno prijeli . 
+16	We 'd like to jog your memory , prisoner no . 	Radi bi vam malo osvežili spomin , zapornik št . 
+17	227 . 	Radi bi vam malo osvežili spomin , zapornik št . 
+18	On September 28th , Dieter Pirmasens , your friend and neighbor , fled to the West . 	227 . 28 . 9 . je Dieter Pirmasens , vaš prijatelj in sosed , prebegnil na Zahod . 
+19	We believe that he had help . 	Domnevamo , da je imel pomoč . 
+20	I know nothing . 	Nič ne vem . 
+21	He didn 't even tell me he wanted to leave . 	Nič ni rekel , da želi pobegniti . 
+22	I first heard about it at work . 	Za to sem slišal šele v službi . 
+23	Please recount what you did on September 28th . 	Prosim , povejte , kaj ste delali 28 . 9 . 
+24	- It 's in my statement . 	Vse piše v moji izjavi . 
+25	- Tell me again . 	- Se enkrat povejte . 
+26	I was at Treptow Park memorial with my children . 	Z otroki sem bil v parku Treptow . 
+27	Where I met my old friend Max Kirchner . 	Tam sem srečal sošolca Maxa Kirchnerja . 
+28	We went to his place and listened to music until late . 	Šli smo k njemu domov in poslušali glasbo . 
+29	He has a telephone , you can call him to confirm this . 	Telefon ima , lahko ga pokličete in vprašate . 
+30	I can give you the number . 	Lahko vam dam številko . 
+31	The enemies of our state are arrogant . 	Sovražniki naše države so arogantni . 
+32	Remember that . 	Zapomni si ! 
+33	It takes patience . 	Potrpežljiv je treba biti . 
+34	About 40 hours worth . 	Potrpežljiv je treba biti . 
+35	( STASI COLLEGE , POTSDAM- EICHE ) 	Okoli 40 ur traja . 
+36	Fast forward ... 	Šola Stasi , Potsdam- Eiche 
+37	I want to sleep . 	Rad bi spal . 
+38	Please , let me sleep ! 	Pustite me spati ! 
+39	Hands under your thighs . 	Roke pod stegna . 
+40	Tell me again what you did on September 28th . 	Ponovite , kaj ste delali 28 . septembra . 
+41	Please , just one hour , just a little ... a little sleep . 	Prosim vas , samo eno uro . Samo malo bi spal . 
+42	Tell me again what you did on that day . 	Ponovite , kaj ste delali tega dne . 
+43	Why keep him awake for so long ? 	Zakaj mu tako dolgo ne pustite spati ? 
+44	It 's ... inhuman . 	To je nečloveško . 
+45	An innocent prisoner will become more angry by the hour , due to the injustice suffered . 	Nedolžni zapornik bo iz ure v uro bolj besen zaradi krivice , ki jo trpi . 
+46	He will shout and rage . 	Vpil bo in divjal . 
+47	A guilty prisoner becomes more calm and quiet ... 	Če je kriv , postaja vse bolj miren ali joče . 
+48	Or he cries . 	Če je kriv , postaja vse bolj miren ali joče . 
+49	He knows he 's there for a reason . 	Ve , da je tam upravičeno . 
+50	The best way to establish guilt or innocence is non- stop interrogation . ... school friend Max Kirchner . 	Ali je človek kriv ali ne , je najlažje ugotoviti , če ga zaslišujete do onemoglosti . 
+51	We went to his place ... and listened to music until late . 	Sošolec Max Kirchner ... Šli smo k njemu in pozno v noč poslušali glasbo . Telefon ima . 
+52	He has a telephone , you can call him to confirm this . 	Lahko ga pokličete , potrdil bo . 
+53	Do you notice anything about his statement ? 	Vas je kaj zbodlo v oči ? 
+54	It 's the same as at the beginning . 	Njegova izjava je enaka kot na začetku . 
+55	Exactly the same . 	Povsem enaka . 
+56	Word for word . 	Dobesedno . 
+57	People who tell the truth can re- formulate things , and they do . 	Ljudje , ki ne lažejo , besede ponavadi obračajo . 
+58	A liar has prepared sentences , which he falls back on when under pressure . 	Lažnivec ima pa vse naštudirano in se pod pritiskom zlomi . 
+59	227 is lying . 	227 laže . 
+60	We have two important indicators , and can increase the intensity . 	Pokazatelja sta dva . Lahko povečamo pritisk . 
+61	If you don 't give names , 	Če ne poveste imena , bomo aretirali vašo ženo . 
+62	We 'll have to arrest your wife . 	Če ne poveste imena , bomo aretirali vašo ženo . 
+63	Jan and Nadja will be put into state care . 	Jana in Nadjo bomo strpali v dom . 
+64	Is that what you want ? 	Bi to radi ? 
+65	Who was the person who helped him flee ? 	Kdo mu je pomagal pri begu ? 
+66	- Glaske ... 	Gläske . 
+67	- Again ! 	Gläske . 
+68	Speak clearly ! 	Gläske . 
+69	Glaske ... 	Werner Gläske . 
+70	Werner Glaske . 	- Werner ... 
+71	Werner ... 	Gläske . 
+72	Glaske . 	Gläske . 
+73	Quiet ! 	Mir ! 
+74	Quiet ! 	Mir ! 
+75	Listen ! 	Mir ! 
+76	Does anyone know what that is ? 	Morda kdo ve , kaj je to ? 
+77	It 's the odor sample for the dogs . 	Vzorec vonja za pse . 
+78	It must be collected at every interrogation . 	Vzamemo ga na vsakem zaslišanju . 
+79	Never forget it ! 	Ne pozabite . 
+80	Your subjects are enemies of Socialism . 	Delate s sovražniki socializma . 
+81	Never forget that ! 	Tega nikoli ne pozabite . 
+82	Goodbye . 	Na svidenje . 
+83	That was good , really good . 	To je bilo pa res dobro . 
+84	You remember how we sat there 20 years ago ? 	Se spomniš , kako sva pred 20- imi leti tu skupaj sedela ? 
+85	They 've offered me a professorship . 	Ponudili so mi službo profesorja . 
+86	Life 's not about good grades , though mine weren 't that bad , thanks to you . 	Niso pomembne ocene , čeprav moje niso bile slabe . 
+87	So what 's up ? 	Kaj je ? 
+88	Why do you always think I 'm scheming ? 	Zakaj misliš , da imam vedno kaj za bregom ? 
+89	- I wanted to invite you to the theater . 	Bi šel v gledališče ? 
+90	- The theater ? 	Bi šel v gledališče ? 
+91	I heard that Minister Hempf is going . 	- V gledališče ? Menda gre tudi minister Bruno Hempf . 
+92	As head of the Culture Department , I should show my face . 	Kot vodja Oddelka za kulturo moram biti tam . 
+93	It starts at 7 p . m . 	Začne se ob 19 : 00 . 
+94	We should get going . 	Iti bi morala . 
+95	THE LIVES OF OTHERS 	ŽIVLJENJE DRUGIH 
+96	Minister Hempf at one o' clock . 	Minister Hempf , tam spredaj . 
+97	He used to be in State Security , you know . 	V Državni varnosti je bil . Prav dobro je počistil gledališko sceno . 
+98	He really cleaned up the theater scene . 	
+99	Georg Dreyman , the writer . 	Georg Dreyman , pisatelj . 
+100	An arrogant type , the kind I warn my students about . 	Ravno pred takimi arogantneži svarim študente . 
+101	But he 's loyal . 	Ampak on je zvest stranki . 
+102	If they were all like him , I 'd be out of a job . 	Če bi bili vsi taki kot on , bi ostal brez dela . 
+103	He 's our only non- subversive writer who is also read in the West . 	Naš edini neoporečni avtor je , ki ga berejo tudi na Zahodu . 
+104	He thinks the GDR is the greatest country on earth . 	Naš edini neoporečni avtor je , ki ga berejo tudi na Zahodu . 
+105	It starts . 	Boš videl . 
+106	What 's wrong , my child ? 	Ljubi otrok , kaj ti je ? 
+107	A new vision ? 	Novo videnje ? 
+108	Speak , Marta ! 	- Marta , povej ! 
+109	Speak ! 	Povej ! 
+110	Your Arthur ... is dead . 	Tvoj Arthur ne živi več . 
+111	Arthur ? 	- Arthur ! 
+112	Can 't you be wrong , just this once ? 	Zakaj se vsaj tokrat ne motiš ? 
+113	No , sister . 	Zakaj se vsaj tokrat ne motiš ? 
+114	Believe me . 	Sestra , verjemi mi . 
+115	He fell to his death . 	Vzela ga je smrt . 
+116	Crushed by the mighty wheel . 	Zmlelo ga je veliko kolo . 
+117	I see it , though I 'd rather see any other horror . 	To vidim , čeprav bi raje videla kakšno drugo grozoto . 
+118	Why am I not spared these visions ? 	Zakaj moram imeti videnja ? 
+119	Elena ! 	Elena ! 
+120	Go home ... and mourn . 	Elena ! 
+121	I' ll finish your shift . 	Pojdi domov žalovat . 
+122	Did you like it ? 	Ti je bilo všeč ? 
+123	Dreyman 's good , eh ? 	Dober , tale Dreyman , kaj ? 
+124	I 'd have him monitored . 	- Dal ga bom nadzorovati . 
+125	Monitored ? 	Nadzorovati ? 
+126	All that teaching is ruining your instincts . 	Poučevanje kvari tvoj instinkt . 
+127	I could oversee it myself . 	Sam ga bom nadzoroval . 
+128	He 's clean , I tell you . 	- Cist je , verjemi . 
+129	Even Hempf likes him . 	- Cist je , verjemi . 
+130	We 'd be shooting ourselves in the foot . 	Celo Hempfu je všeč , škodili si bomo . 
+131	I 'm going down . 	Dol grem . 
+132	" Faces of Love " 	Obrazi ljubezni 
+133	I hear a lot about your work . 	Veliko slišim o vašem delu . 
+134	They say culture 's in good hands . 	Pravijo , da je kultura v dobrih rokah . 
+135	Your name is mentioned in Party circles . 	V Partiji vas pogosto omenjajo . 
+136	We 're the Party 's ´shield and sword ' . 	Mi smo ščit in meč Partije . 
+137	I 'm aware of that at all times . 	Tega se dobro zavedam . 
+138	What do you make of him ? 	Kaj si mislite o njem ? 
+139	Of Georg Dreyman ? 	O Georgu Dreymanu ? 
+140	Maybe ... 	Mogoče ... 
+141	Maybe what ? 	Kaj mogoče ? 
+142	Maybe he 's not as clean as he seems . 	Mogoče ni tako cist , kot se zdi . 
+143	Grubitz ! 	Grubitz ! 
+144	That 's why you and I are on top . 	Zato sva se vzpela na vrh . 
+145	Your average Stasi chump would have said , 	Povprečen Stasijevec bi rekel : 
+146	" One of our best ! 	Povprečen Stasijevec bi rekel : 
+147	So loyal ! " etc . 	Eden najboljših je , zvest Partiji itn . 
+148	But we can see more . 	Eden najboljših je , zvest Partiji itn . 
+149	You 're heading to the very top , Grubitz . 	A midva vidiva več . 
+150	There 's something fishy about him . 	Nekam sumljiv je . 
+151	I can feel it in my gut . 	Tak občutek imam . 
+152	Dreyman 's having a party next week . 	Dreyman bo imel prihodnji torek zabavo . 
+153	Some dubious types are going , Hauser and that rabble . 	Sumljivi tipi pridejo , Hauser in podobni . 
+154	Try to wire the place discreetly by then . 	Neopazno namestite prisluškovalne naprave , ukrep A in B , v njegovih prostorih . 
+155	Measures A and B . 	Neopazno namestite prisluškovalne naprave , ukrep A in B , v njegovih prostorih . 
+156	Only in his rooms . 	Neopazno namestite prisluškovalne naprave , ukrep A in B , v njegovih prostorih . 
+157	Nothing conspicuous . 	Diskretno . 
+158	He has powerful friends . 	Močne prijatelje ima . 
+159	No one is to know about this until we 've found something . 	Nihče ne sme izvedeti za to , dokler česa ne najdeva . 
+160	But if you get something on him , you 'll have a good friend in the Central Committee . 	A če kaj najdete , boste imeli dobrega prijatelja v Centralnem komiteju . 
+161	You understand what I 'm saying ? 	Razumete ? 
+162	Have a nice evening , Comrade Minister . 	Tovariš minister , lep večer vam želim . 
+163	Why is he staring at us ? 	Zakaj bulji v naju ? 
+164	What 's he doing here , anyway ? 	Kaj sploh počne tukaj ? 
+165	I think he 's got a crush on you . 	Po moje se je zatrapal vate . 
+166	I can 't let the evening pass without raising a toast to our artists . 	Nikakor ne smemo pozabiti na zdravico našim umetnikom . 
+167	A great Socialist , I can 't recall who it was , once said : 	Velik socialist , ne spomnim se , kdo , je nekoč rekel : 
+168	Writers are engineers of the soul . 	Pisatelji so inženirji duš . 
+169	So Georg Dreyman is one of our country 's greatest engineers . 	Georg Dreyman je eden naših največjih inženirjev . 
+170	- What charming bed- fellows you have . 	Očarljive prijatelje imaš . - Nehaj ! 
+171	- Paul ! 	
+172	And to Christa- Maria Sieland , the loveliest pearl of the GDR . 	In na Christo- Marie Sieland , najlepši biser Vzhodne Nemčije . 
+173	I believe that nobody contradict my opinion . 	Dvignimo kozarce v čast Christi- Marie Sieland . 
+174	Let 's raise our glasses to Christa- Maria Sieland : 	Dvignimo kozarce v čast Christi- Marie Sieland . 
+175	Three cheers to her . 	Na zdravje ! 
+176	Someone like him doesn 't even deserve to address you . 	Kako si upa nazdraviti tebi ? 
+177	Stay with me ! 	- Ostani z mano . 
+178	And now something for the soul ... 	Zdaj pa nekaj za dušo ... 
+179	May I ? 	Saj smem ? 
+180	- How did you like my speech ? 	Vam je bil všeč moj nagovor ? 
+181	- Many thanks . 	- Najlepša vam hvala . 
+182	I liked your play too . 	Tudi vaša drama mi je bila všeč . 
+183	Really , it was good . 	Res je dobra . 
+184	" Engineers of the soul . " 	Inženirji duš . 
+185	That was a Stalin quote . 	Stalina je citiral . 
+186	Really ? 	- Res ? 
+187	I , too , like to provoke , Mr . 	Tudi jaz rad kdaj provociram , g . 
+188	Hauser . 	Hauser . 
+189	But unlike you , I know how far I can go . 	A za razliko od vas vem , kako daleč smem . 
+190	I 'm more like our dear Dreyman . 	Tak sem kot naš Dreyman . 
+191	He knows that the Party needs artists , but that artists need the Party even more . 	Ve , da Partija rabi umetnike , umetniki pa Partijo še bolj . 
+192	If you 're going to talk politics , I' ll find another dance partner . 	Ne bi o politiki , z drugim grem plesat . 
+193	- I 'm willing . 	Pripravljen sem ... 
+194	- Too late ! 	- Prepozno . 
+195	I follow our theater with interest . 	Gledališču že dolgo z zanimanjem sledim . 
+196	It used to be theater people ... 	Včasih je bil to tako ali tako vaš poklic . 
+197	- Paul ! 	Včasih je bil to tako ali tako vaš poklic . 
+198	- It 's okay , 	Paul ! - Je že v redu . 
+199	I' ve known Mr . 	G . 
+200	Hauser for years . 	Hauserja že dolgo poznam . 
+201	Comrade Schwalber ! 	Schwalber ! 
+202	You did a good job tonight too . 	Tudi vi ste nocoj opravili veliko delo . 
+203	Dreyman , I 'm glad you 're working with such directors . 	Veseli me , da delate s takimi režiserji . 
+204	It wasn 't always so . 	Ni bilo vedno tako . 
+205	You 're referring to Jerska ? 	- O Jerski govorite ? 
+206	I think you judged him too harshly . 	Mislim , da ste prestrogi z njim . 
+207	Sure , he went too far in what he said . 	V svoji izjavi je šel res predaleč . 
+208	Without a doubt . 	Nedvomno . 
+209	But put yourself in his shoes for a moment . 	A postavite se v njegovo kožo . 
+210	You , as a man of honor . 	A postavite se v njegovo kožo . 
+211	He can 't remove his name from that statement . 	Njegovo ime bo vedno povezano z njegovo izjavo . 
+212	He could work for any theater in the West . 	Delal bi lahko za katero koli zahodno gledališče . 
+213	But he wants to stay here . 	A želi ostati tu , ker verjame v socializem in to deželo . 
+214	Because he believes in Socialism and in this country . 	A želi ostati tu , ker verjame v socializem in to deželo . 
+215	- His black- listing is ... 	Prepoved opravljanja poklica ... - Prepoved ? 
+216	- Black- listing ? 	Prepoved opravljanja poklica ... - Prepoved ? 
+217	We don 't do that here ! 	Mi ničesar ne prepovedujemo . 
+218	You should choose your words more carefully . 	Pazite , kaj govorite . 
+219	Comrade Hempf , just between us : 	Tovariš Hempf , med nama rečeno , moje igre ne prenesejo Schwalbergove režije . 
+220	My plays are not strong enough to survive Schwalber 's direction . 	Tovariš Hempf , med nama rečeno , moje igre ne prenesejo Schwalbergove režije . 
+221	I need Jerska , and I think you judged him too harshly . 	Jersko potrebujem . Prestrogi ste z njim . 
+222	Well , I don 't . 	Ne strinjam se . 
+223	But that 's what we all love about your plays . 	Zato imamo radi vaše drame . 
+224	Your love for mankind ... your belief that people can change . 	Ta vaša ljubezen do ljudi , to prepričanje , da se lahko spremenijo . 
+225	Dreyman , no matter how often you say it in your plays , people do not change ! 	Ni pomembno , kolikokrat boste to napisali , ljudje se ne spremenijo . 
+226	How is he , by the way ? 	Kako mu gre sicer ? 
+227	He hopes that his black - ... that he can work again soon . 	Upa , da bo kmalu lahko spet začel delati . 
+228	Is he right in hoping ? 	Lahko upa ? 
+229	Of course he is . 	- Seveda lahko . 
+230	As long as he lives , and even longer . 	Dokler je živ in še dlje . 
+231	Because as you know , Dreyman , hope always dies last . 	Saj veste , da upanje umre zadnje . 
+232	The team will be ready to wire the place as of tomorrow . 	Ekipa lahko že jutri namesti prisluškovalne naprave . 
+233	It needs to be finished by Thursday . 	Do četrtka mora biti opravljeno . 
+234	You should plan everything carefully . 	Do četrtka mora biti opravljeno . 
+235	Think you can do it ? 	Misliš , da bo šlo ? 
+236	Good night . 	Lahko noč . 
+237	I' ll get in trouble if I don 't go . 	Gor moram , če ne , bo huda . 
+238	- With who ? 	Gor moram , če ne , bo huda . 
+239	- My girlfriend . 	- Kdo ? 
+240	Twenty minutes . 	20 minut . 
+241	Yes ? 	Ja ? 
+242	Frau Meineke ... 	- Ga . 
+243	One word of this to anyone , and Masha loses her spot at the university . 	Meineke , samo besedo komu , pa vaša Maša leti z medicinske fakultete . 
+244	Is that understood ? 	Ste razumeli ? 
+245	Yes . 	- Ja . 
+246	Send Mrs . 	Ge . 
+247	Meineke a gift for her cooperation . 	Meineke pošljite darilo v zahvalo za molk . 
+248	It must be Thursday again . 	Je že spet četrtek ? 
+249	Time passes so quickly ... 	Čas pa res leti . 
+250	Perhaps that 's a good thing . 	Saj je prav tako . 
+251	- How are you ? 	Kako si ? 
+252	- Not bad . 	- Kar v redu . 
+253	It 's not always this noisy . 	Ni vedno tako hrupno . 
+254	Only on Thursdays , I know . 	Vem , samo ob četrtkih . 
+255	Yes . 	Ja . 
+256	We missed you at the premiere . 	Na premieri smo te pogrešali . 
+257	Did Schwalber do a good job ? 	Je Schwalber dobro opravil svoje ? 
+258	His good bits were stolen from you . 	Kar je dobrega , je ukradel tebi . 
+259	That keeps my ideas alive . 	- Vsaj tako ostajam živ . 
+260	Don 't bear it . 	Ne prenesem več teh debelih nališpancev na premierah . 
+261	I can 't bear those fat , dressed- up people at premieres anymore . 	Ne prenesem več teh debelih nališpancev na premierah . 
+262	Doesn 't sound like me , does it ? 	To mi ni podobno , kaj ? 
+263	But maybe this is the real me , not the old Jerska . 	Mogoče sem v resnici tak in ne tak , kot sem bil . 
+264	He was friendly and caring , nourished by success ... all thanks to the grace of the bigwigs . 	Prijazen in družaben , pijan od uspeha , in vse to po milosti visokih živin . 
+265	But I won 't complain much longer . 	Ne bom več dolgo tožil . 
+266	In my next life , I' ll simply be an author . 	V naslednjem življenju bom pisatelj , srečen pisatelj , ki lahko piše , kar hoče . 
+267	A happy author who can write whenever he wants . 	V naslednjem življenju bom pisatelj , srečen pisatelj , ki lahko piše , kar hoče . 
+268	Like you . 	Kot ti . 
+269	What is a director if he can 't direct ? 	Kaj naj režiser , ki ne sme režirati ? 
+270	He 's a projectionist without a film , a miller without corn . 	Tak je , kot kinooperater brez filma , mlin brez moke . 
+271	He is nothing . 	Tak je , kot kinooperater brez filma , mlin brez moke . 
+272	Nothing at all . 	Prav nič . 
+273	Albert , the Minister was at the premiere . 	Albert , na premieri je bil minister Hempf . 
+274	Minister Hempf . 	
+275	I spoke to him about your blacklisting . 	Govoril sem z njim o tvoji prepovedi . 
+276	It looks promising . 	Dobro kaže . 
+277	He gave me hope , concrete hope . 	Vzbudil mi je upanje . Prav konkretno . 
+278	Literally . 	
+279	Really ? 	Res ? 
+280	That 's great . 	Lepo . 
+281	Cheap Georgian wine . 	Ceneno gruzinsko vino . 
+282	Chateau Jerska . 	Ceneno gruzinsko vino . 
+283	So is our holy drinker coming ? 	Znamke Jerska . Naš sveti pijanec pride ? 
+284	I forgot to ask him . 	Pozabil sem ga vprašati . 
+285	You 're strong and forceful . 	Močan in vpliven si . 
+286	That 's how I need you . 	Takega te potrebujem . 
+287	Don 't let this blackness into your life . 	Ne pogrezni se še ti v temo . 
+288	- Albert is my friend . 	Albert je moj prijatelj . 
+289	- And you 're my boyfriend . 	Albert je moj prijatelj . 
+290	Looks like a 50th . 	Ti si pa moj fant . - Kot bi bil star 50 let . 
+291	But I 'm going to be 40 , right ? 	Pa bom šele 40 . 
+292	Don 't forget , you promised to wear a tie for your birthday . 	- Obljubil si , da boš imel kravato . 
+293	I would , but I don 't have one . 	Saj bi jo imel , pa na žalost nimam niti ene . 
+294	Bon anniversaire ! 	Vse najboljše ! 
+295	Atie ? 	Kravata ? 
+296	You said you didn 't want any books . 	- Saj si rekel . 
+297	Or can 't you tie a tie , you old working- class poet ? 	Si ne znaš zavezati kravate , ti pesnik delavskega razreda ? 
+298	What ? 	Si ne znaš zavezati kravate , ti pesnik delavskega razreda ? 
+299	I was born wearing a tie ! 	Rodil sem se s kravato ! 
+300	I had to " fight my way out of my middle- class fetters " . 	Sam sem se rešil teh okovov srednjega razreda . 
+301	Then put those fetters on again , just for me . 	Nadeni si jih zame . 
+302	Alright ... 	Prav . 
+303	It 's no big deal to tie a tie . 	Kravate ni težko zavezati . 
+304	Frau Meineke , would you come in for a moment ! 	Ga . Meineke , lahko za trenutek pridete sem ? 
+305	Can you tie a tie ? 	Saj znate zavezati kravato ? 
+306	You 've no idea how thankful I am . 	Ne veste , kako sem vam hvaležen . 
+307	- Are you feeling unwell ? 	Se slabo počutite ? 
+308	- No ... 	Ne , v redu sem . 
+309	I 'm feeling fine . 	Ne , v redu sem . 
+310	Finished ? 	Je že ? 
+311	Wonderful . 	Odlično , super . 
+312	It 's perfect . 	Odlično , super . 
+313	It couldn 't be better . 	Ne bi moglo biti bolje . 
+314	It 'll be our secret . 	Naj bo to najina skrivnost . 
+315	You can keep a secret , right ? 	Saj znate molčati ? 
+316	Of course . 	Znam . 
+317	I' ll be damned ! 	Ti , strela ! 
+318	And I thought you couldn 't do it . 	Pa sem mislila , da ne znaš . 
+319	You don 't normally hide your talents . 	Običajno ne skrivaš svojih talentov . 
+320	You 've no idea of the things I can do ! 	Pojma nimaš , kaj vse znam . 
+321	The first guest . 	Prvi gost ! 
+322	Our dear neighbors locked the main door again . 	Dragi sosedje so spet zaklenili vhod . 
+323	- Can you go ? 	Dragi sosedje so spet zaklenili vhod . 
+324	- Yes , I 'm going . 	Boš ti ? 
+325	Maestro ! 	Maestro , najino skromno darilo . 
+326	Our humble offerings . 	Maestro , najino skromno darilo . 
+327	- I expressly said no books ! 	Rekel sem , da nočem knjig . 
+328	- But thanks . 	Hvala . 
+329	Would you like a drink ? 	Bi kaj spila ? 
+330	- A soda . 	- Mineralno vodo . 
+331	- Vodka for me . 	- Mineralno vodo . 
+332	I' ll get it . 	Jaz bi vodko . 
+333	Why the hell 's Albert sitting all alone ? 	Zakaj je Albert sam ? 
+334	He won 't talk to us . 	- Noče govoriti z nami . 
+335	He sent us all away . 	Vse je spodil stran . 
+336	I brought you something too . 	Tudi jaz imam nekaj zate . 
+337	- Did you really come here to read ? 	Res si prišel sem brat . 
+338	- It is Brecht ! 	Brecht je le Brecht ! 
+339	I feel like a fraud among these people . 	Med temi ljudmi se počutim kot goljuf . 
+340	A fraud ? 	Goljuf ? 
+341	Come off it , Albert ! 	Daj no , Albert . 
+342	You 're losing your grip on reality . 	Izgubljaš stik z realnostjo . 
+343	You know how we admire you , how everybody admires you . 	Veš , kako te vsi občudujemo . 
+344	For something I did 10 years ago ... and could probably never do again . 	Zaradi tega , kar sem naredil pred 10- imi leti . In verjetno sploh ne bi več znal . 
+345	My favorite director ! 	Moj najljubši režiser , nekaj bi te vprašal . 
+346	Wait ! 	Moj najljubši režiser , nekaj bi te vprašal . 
+347	I need to talk to you a moment . 	Čakaj , čakaj , čakaj . 
+348	Tell me again how you got into this position . 	Čakaj , čakaj , čakaj . 
+349	Pure talent . 	Razloži mi , kako si to dosegel ? 
+350	Of course ! 	S talentom . 
+351	But what else did you have to do ? 	Seveda . A kaj si moral še narediti ? 
+352	Everyone knows you 're with the Stasi ! 	Vsi vejo , da si Stasijev . 
+353	- What an outrageous insinuation ! 	Kakšno grdo podtikanje ! 
+354	- Don 't forget it ! 	Kakšno grdo podtikanje ! 
+355	- Paul ! 	Kakšno grdo podtikanje ! 
+356	- What ? 	Paul ! 
+357	Excuse my friend , he 's had too much to drink . 	- Kaj je ? Ne zamerite mu . Prevec je pil . 
+358	But you know he 's with the Stasi ! 	Saj veš , da je Stasijev . 
+359	No , Paul . 	- Ne , Paul . 
+360	I don 't know that . 	Ne vem . 
+361	You 're such an idealist that you 're almost a bigwig . 	Tak idealist si , da si zato visoko prilezel . 
+362	It was informers and conformists like that who ruined Albert . 	Ravno taki so uničili Jersko . 
+363	Spy , betrayer ! 	Špiclji in konformisti . 
+364	If you don 't take a stand , you 're not human ! 	Opredeliti se boš moral , če ne , nisi človek . 
+365	If you ever want to take action , call . 	Če bi rad kaj ukrenil , se mi javi . 
+366	If not , we don 't have to meet again . 	Drugače je vseeno , če se ne vidiva več . 
+367	Your friends don 't have much taste . 	Tvoji prijatelji nimajo okusa . 
+368	That 's really unfair . 	- Nisi fer . 
+369	Here ! 	Poglej ! 
+370	Look at this beautiful backscratcher . 	Recimo praskalo za hrbet . 
+371	That 's a salad fork ! 	- To so vilice za solato . 
+372	Still , it 's beautiful ... 	Krasne so . 
+373	And look at this . 	Krasne so . 
+374	I' ll write my new play with this . 	In poglej to . S tem bom napisal novo dramo . 
+375	You have no taste either ! 	- Tudi ti si brez okusa . 
+376	I do in some things . 	Glede nekaterih stvari ne . 
+377	- It 's from Jerska . 	Jerskin je . 
+378	- So he did give you a book ! 	Knjiga , kaj pa drugega . 
+379	" Sonata for a Good Man " 	Sonata o dobrem človeku 
+380	" ' Lazlo´ and CMS unwrap presents , then presumably have intercourse . " 	Lazlo in CMS odpirata darila . Nato imata spolni odnos . 
+381	You 're late . 	Zamujate . 
+382	Sorry , Captain . 	Oprostite , kapetan . 
+383	Those red lights made me lose all of four minutes . 	Na rdeči val sem naletel . Takoj izgubiš štiri minute . 
+384	You know how it is . 	Saj veste , kako je to . 
+385	They 're already at it ! 	Sta že pri delu ! Neverjetno ! 
+386	Unbelievable ! 	Ti umetniki , vedno je tako ! 
+387	These artists ! 	Ti umetniki , vedno je tako ! 
+388	They 're always at it ! 	Zato raje nadziram njih kot duhovnike . 
+389	That 's why I prefer monitoring artists to priests or peace activists . 	Zato raje nadziram njih kot duhovnike . 
+390	See you tomorrow at 11 a . m . 	Se vidimo jutri ob 11h . 
+391	Albert Jerska , operation ´Engerling ' . 	Albert Jerska , operacija Engerling . 
+392	Systematic as usual , Wiesler . 	Wiesler , sistematičen kot vedno . 
+393	The files will be sent . 	Wiesler , sistematičen kot vedno . 
+394	Let 's have lunch . 	Dosjeje bom dal poiskati . 
+395	The BSG Volleyball team will meet at 7 p . m . 	Odbojkarska ekipa se dobi ob 19 : 00 . 
+396	Did you forget ? 	Dolgo te ni bilo tu . 
+397	Bosses sit over there . 	Dolgo te ni bilo tu . 
+398	Socialism must start somewhere . 	Socializem se mora nekje začeti . 
+399	About the license plate of the car that brought Ms . 	Limuzina , ki je sinoči pripeljala domov go . 
+400	Sieland home ... 	Sieland , je last ministra Hempfa . 
+401	It 's Minister Hempf 's car . 	Sieland , je last ministra Hempfa . 
+402	Wiesler , we can 't monitor top officials . 	Wiesler , ne smemo nadzirati funkcionarjev . Umaknil sem iz poročila . 
+403	I removed the entry in your report . 	
+404	Nothing written from now on , just oral ! 	Tega ne zapisujte , poročajte ustno . 
+405	So we 're helping a Committee member get a rival out of the way . 	Članu CK bova pomagala spraviti s poti tekmeca . 
+406	You know what this could mean for my career . 	Saj veš , kaj pomeni za najini karieri , če kaj najdeva . 
+407	And for yours . 	Saj veš , kaj pomeni za najini karieri , če kaj najdeva . 
+408	If we find something ... 	Saj veš , kaj pomeni za najini karieri , če kaj najdeva . 
+409	Is that why we joined ? 	Sva se zato včlanila ? 
+410	You remember the oath we took ? 	Se spomniš zaprisege ? 
+411	" We are the Party 's shield and sword . " 	Da bomo ščit Partije . 
+412	What is the Party , if not its members ? 	- Partija so njeni člani . 
+413	And if those members are highly influential , all the better ! 	Bolj so vplivni , bolje je . 
+414	I' ve got a new one . 	Nov vic vem . 
+415	Honecker comes into his office , opens the window , sees the sun , and says ... 	Honecker pride v urad , odpre okno , zagleda sonce in reče ... 
+416	What 's wrong ? 	Honecker pride v urad , odpre okno , zagleda sonce in reče ... 
+417	Oh , excuse me ... 	Se opravičujem . 
+418	I just ... 	Samo ... 
+419	No , carry on , colleague ! 	Kar nadaljujte , prosim vas . 
+420	No harm in laughing about the Party Chairman , is there . 	Na račun šefa Partije se pa res lahko smejemo . 
+421	I probably know the joke anyway . 	Sicer pa vic verjetno že poznam . 
+422	Come on , tell us ! 	Dajte , povejte ga . 
+423	Well ... 	Torej , Honecker ... 
+424	Honecker ... 	Tovariš generalsekretar vidi sonce in reče : 
+425	I mean , the Comrade General Secretary sees the sun and says , 	Tovariš generalsekretar vidi sonce in reče : 
+426	- " Good morning , dear sun ! " 	Dobro jutro , drago sonce . 
+427	- More like , " Good morning , dear sun ! " 	Dobro jutro , drago sonce . 
+428	The sun replies , " Good morning , dear Erich ! " 	In sonce odgovori : Dobro jutro , dragi Erich . 
+429	And at noon , Erich goes to the window and says , 	Opoldne Erich spet odpre okno in reče : 
+430	" Good day , dear sun ! " 	Dober dan , drago sonce . 
+431	The sun replies , " Good day , dear Erich ! " 	In sonce odgovori : 
+432	In the evening , Erich says again , 	Dober dan , dragi Erich . Zvečer Erich spet pravi : 
+433	" Good evening , dear sun ! " and the sun doesn 't reply . 	Dober večer , drago sonce . A sonce je tiho . 
+434	" Good evening , dear sun ... " 	Dober večer , drago sonce . 
+435	" What 's wrong ? " he asks . 	Dober večer , drago sonce . 
+436	And the sun replies , 	Kaj ti je , vpraša . 
+437	" Screw you , I 'm in the West now ! " 	In sonce odgovori : 
+438	Name ? 	Ime ? 
+439	Rank ? 	Ime ? 
+440	Department ? 	Cin ? 
+441	Me ? 	Oddelek ? Jaz ? 
+442	Stigler . 	Stigler . 
+443	2nd Lieutenant Axel Stigler . 	Podporočnik Axel Stigler . 
+444	Dept . 	Oddelek M . 
+445	M . 	Oddelek M . 
+446	I don 't have to tell you what this means for your career . 	Ni mi treba razlagati , kaj bo z vašo kariero . 
+447	Please , Comrade Lieutenant Colonel , I was just ... 	Prosim , tovariš podpolkovnik . Saj sem samo ... 
+448	You were just deriding the Party ! 	Samo iz Partije ste se norčevali . 
+449	That 's incitement , and likely just the tip of the iceberg ! 	To je hujskanje in gotovo le vrh ledene gore . 
+450	I will report this to the Minister 's office . 	To je hujskanje in gotovo le vrh ledene gore . 
+451	Just kidding ! 	Šalil sem se . 
+452	Good one , huh ? 	Dober štos , kaj ? 
+453	But yours was good too . 	Ampak vaš je bil boljši . 
+454	I know a better one though . 	Kakšna je razlika med Honeckerjem in plaščem ? 
+455	What 's the difference between Honecker and a phone ? 	Kakšna je razlika med Honeckerjem in plaščem ? 
+456	None at all . 	Ni je , obesiš ga in pozabiš nanj . 
+457	Hang up , try again ! 	Ni je , obesiš ga in pozabiš nanj . 
+458	- No , I have to get home . 	Adijo . 
+459	- Bye . 	Adijo . 
+460	Cold ? 	Te zebe ? 
+461	Christa , you forgot our meeting on Thursday . 	Pozabila si na najin četrtkov zmenek . 
+462	Or did your poet have two birthdays in a row ? 	Je imel tvoj pesnik še eno praznovanje ? 
+463	Come on , get in . 	Vstopi . 
+464	Get in ! 	Vstopi . 
+465	You don 't know what 's good for you . 	Ne veš , kaj je dobro zate . 
+466	Don 't worry . 	Ne skrbi . 
+467	I 'm looking after you . 	Jaz bom pazil nate . 
+468	Tell me you don 't need it too . 	Reci , da ti ni do tega . 
+469	Just say so , and I' ll let you go . 	Reci , pa takoj neham . 
+470	I 'm meeting someone . 	Dogovorjena sem . 
+471	Where do you think we 're going ? 	Kaj misliš , kam greva ? 
+472	I 'm taking you to him ! 	K njemu te peljem . 
+473	You 'll be there even quicker . 	Še prej boš tam . 
+474	Time for some bitter truths . 	Čas za grenko resnico . 
+475	Yes ? 	Ja ! 
+476	Those idiots ! 	Idioti ! 
+477	Next Thursday at the Metropol . 	Prihodnji četrtek v Metropolu ! 
+478	Drive ! 	Pelji . 
+479	Christa ? 	Christa ? 
+480	Just hold me . 	Samo objemi me . 
+481	Good evening , comrade ! 	Dober večer , tovariš . 
+482	You 're 5 minutes late again . 	Spet pet minut zamujate . 
+483	Evening . 	Dober večer . 
+484	11th floor , right corridor . 	11 . nadstropje , desni hodnik . 
+485	I 'm already up here . 	Sem že tu . 
+486	How did you get into the building ? 	Kako ste prišli noter ? 
+487	A bunch of you guys live here . 	Tudi drugi fantje živijo tu . 
+488	I don 't think I' ve been here before . 	Pri tebi pa še nisem bila . 
+489	No , I don 't think you have . 	Mislim , da res ne . 
+490	Well ? 	Ti je dobro delo ? 
+491	Was that nice ? 	Ti je dobro delo ? 
+492	- Stay awhile . 	Ostani še malo . 
+493	- I can 't , my next customer is at half- past . 	Ne morem , ob pol imam drugo stranko . 
+494	I work on a schedule . 	Urnik imam . 
+495	At one- thirty ? 	Ob pol dveh ? 
+496	You won 't make it . 	Ne bo šlo . 
+497	Sure I will . 	- Seveda bo , ne skrbi . 
+498	Don 't you worry . 	
+499	Book me for longer next time . 	Drugič me naroči za dlje časa . 
+500	Bye . 	Adijo . 
+501	Georg ? 	Georg ? 
+502	Did you hear about Hauser ? 	Si slišal za Hauserja ? 
+503	No , what happened ? 	- Ne , kaj pa je ? 
+504	He can 't get a travel permit for his lectures in the West . 	Ne dovolijo mu predavat na Zahod . 
+505	Are you surprised ? 	Si presenečena ? 
+506	If he acts so arrogantly , he should expect it . 	Ni čudno , ko je tako aroganten . 
+507	Would you let him go , if you were in their position ? 	Bi ga ti na njihovem mestu pustila ? 
+508	" CMS comes home . 	CMS pride domov . 
+509	´Lazlo´ approves of Hauser 's foreign travel ban . " 	Lazlo zagovarja prepoved , izrečeno Hauserju . 
+510	Have you seen my Brecht book ? 	Si kje videla mojega Brechta ? 
+511	- What ? 	Kaj ? 
+512	- My Brecht book . 	- Mojega Brechta . 
+513	I don 't know where it is . 	Ne vem , kje je . 
+514	Strange . 	Čudno , prisegel bi ... 
+515	I could 've sworn ... 	Čudno , prisegel bi ... 
+516	One day in blue- moon September , silent under a plum tree , 	Bilo je v svetlem , mesecu septembru , pod mlado slivo , v senci gostih vej , v rokah sem držal jo , ljubezen bledo kot sanje , milo , kot nikoli prej . 
+517	I held her , my silent pale love , in my arms like a fair and lovely dream . 	Bilo je v svetlem , mesecu septembru , pod mlado slivo , v senci gostih vej , v rokah sem držal jo , ljubezen bledo kot sanje , milo , kot nikoli prej . 
+518	Above us in the summer skies was a cloud that caught my eye . 	Bilo je v svetlem , mesecu septembru , pod mlado slivo , v senci gostih vej , v rokah sem držal jo , ljubezen bledo kot sanje , milo , kot nikoli prej . 
+519	It was white and so high up . 	Nad nama , daleč , čez nebo poletno je plul oblak . Pogledal sem v nebo : 
+520	And when I looked up , it was no longer there . 	Oblak je bil ves bel in silno daleč . Že hip nato pa ga ni več bilo . 
+521	- Yes ? 	Ja ? 
+522	- Georg ? 	- Georg ? 
+523	Wallner here . 	Tu Wallner . 
+524	What 's up ? 	Kaj je ? 
+525	Georg , it 's about Jerska . 	Georg , zaradi Jerske klicem . 
+526	He hanged himself last night . 	Sinoči se je obesil . 
+527	Georg ? 	Georg ? 
+528	I 'm going to hang up , okay ? 	Prekinil bom . 
+529	" Sonata for a Good Man " 	Sonata o dobrem človeku 
+530	You know what Lenin said about Beethoven 's ´Appassionata ' . 	Lenin je o Beethovnovi Appassionati rekel : 
+531	" If I keep listening to it , 	Če jo bom poslušal , bo revolucije konec . 
+532	I won 't finish the revolution . " 	Če jo bom poslušal , bo revolucije konec . 
+533	Can anyone who has heard this music , 	Je lahko kdo , ki je poslušal kaj takega , zares poslušal , slab človek ? 
+534	I mean truly heard it , really be a bad person ? 	Je lahko kdo , ki je poslušal kaj takega , zares poslušal , slab človek ? 
+535	Are you really with the Stasi ? 	Si res v Stasiju ? 
+536	Do you even know what the Stasi is ? 	Sploh veš , kaj je Stasi ? 
+537	Yes . 	Ja , Stasi so hudobneži , ki zapirajo ljudi . 
+538	They 're bad men who put people in prison , says my dad . 	Ja , Stasi so hudobneži , ki zapirajo ljudi . 
+539	I see . 	To pravi moj oče . 
+540	What 's the name of your ... 	A , tako . Kako je ime ... 
+541	My what ? 	Komu ? 
+542	Ball ! 	Tvoji žogi . 
+543	What 's the name of your ball ? 	Tvoji žogi . 
+544	You 're funny ! 	Kako ji je ime ? 
+545	Balls don 't have names . 	Si pa res smešen . Žoge nimajo imen . 
+546	It 's all in place , Minister . 	Vse je pripravljeno , minister . 
+547	The latest technology . 	Najnovejša tehnologija . 
+548	Behind every light switch , even in the toilet . 	Za vsakim stikalom , celo na stranišču . 
+549	- Measure C in the hall ... 	Na hodniku ukrep C . 
+550	- You said you 'd find something ! 	Na hodniku ukrep C . 
+551	Find something ! 	- Obljubili ste ! 
+552	I 'd advise even my worst enemy not to disappoint me . 	Najdite kaj ! Še najhujšemu sovražniku bi odsvetoval , da me razočara . 
+553	Now get out of here ! 	Poberite se . 
+554	Nowack , you 're to watch Christa- Maria . 	Nowack , nadzorujte Christo- Mario . 
+555	You 'll report on every minute that she 's not with me . 	Poročajte mi o vsakem njenem koraku . 
+556	We revoked Hauser 's travel permit for the culture conference . 	Hauserju smo prepovedali iti na konferenco . 
+557	Maybe that 'll lead to something . 	Morda nama bo to pomagalo . 
+558	The two of them are very close . 	Precej blizu sta si . 
+559	How 's it going between CMS and the Minister ? 	Kako gre ministru in Christi- Marie ? 
+560	They 're meeting tomorrow night , I think . 	Jutri se dobita , se mi zdi . 
+561	That 's good ! 	- Odlično . 
+562	Very good ! 	- Odlično . 
+563	We have a lot to gain from this love story . 	Res odlično . Ta romanca nama bo v veliko korist . 
+564	Or a lot to lose . 	Ali škodo . 
+565	Don 't forget that . 	Ali škodo . 
+566	I used to be afraid of just two things : 	Včasih sem se bal samo dveh stvari . 
+567	Being alone , and not being able to write . 	Samote in da ne bi mogel pisati . 
+568	Since Albert 's death , I don 't care about writing or about other people . 	Od Albertove smrti me ne briga nič . 
+569	All I 'm afraid of now is losing you . 	Bojim se le , da bi izgubil tebe . 
+570	You needn 't be afraid tonight . 	Nocoj se ti ni treba bati . 
+571	I 'm just going out for a few hours . 	Samo nekaj ur me ne bo . 
+572	Where to ? 	- Kam pa greš ? 
+573	An old classmate 's in town . 	Nekdanja sošolka je v mestu . 
+574	Really , Christa ? 	Res , Christa ? 
+575	- Really ? 	Res ? 
+576	- How dare you ! 	Kaj ti pa je ? 
+577	I know . 	Vem . 
+578	I know where you 're going . 	Vem , kam greš . 
+579	And I 'm asking you not to go . 	Prosim te , ne hodi . 
+580	You don 't need him . 	Ne potrebuješ ga . 
+581	You don 't need him . 	Ne potrebuješ ga . 
+582	I know about your medication too . 	Vem tudi , da jemlješ zdravila . 
+583	And how little faith you have in your talent . 	In vem , kako malo zaupaš vase . 
+584	Have faith in me , at least . 	Vsaj vame zaupaj . 
+585	Christa- Maria . 	Christa- Maria , velika umetnica si . 
+586	You are a great artist . 	Christa- Maria , velika umetnica si . 
+587	I know that . 	Jaz to vem . 
+588	And your audience knows it too . 	In tudi publika ve . 
+589	You don 't need him . 	Ne potrebuješ ga . 
+590	You don 't need him . 	Ne potrebuješ ga . 
+591	Stay here . 	Ostani tu . 
+592	Don 't go to him . 	Ne hodi k njemu . 
+593	No ? 	Ne ? 
+594	Don 't I need him ? 	Ne potrebujem ga ? 
+595	Don 't I need this whole system ? 	Ne rabim tega sistema ? 
+596	What about you ? 	Pa ti ? 
+597	Then you don 't need it either . 	Torej ga tudi ti ne potrebuješ . 
+598	Or need it even less . 	Torej ga tudi ti ne potrebuješ . 
+599	But you get in bed with them too . 	Sploh ne . A se jim vseeno prodajaš ? 
+600	Why do you do it ? 	Zakaj to počneš ? 
+601	Because they can destroy you too , despite your talent and your faith . 	Tudi tebe lahko uničijo , ne glede na tvoj talent . 
+602	Because they decide what we play , who is to act , and who can direct . 	Oni odločajo , kaj bo na sporedu , kdo bo igral in režiral . 
+603	You don 't want to end up like Jerska . 	Nočeš končati kot Jerska . 
+604	And neither do I . 	In jaz tudi ne . 
+605	That 's why I 'm going now . 	Zato zdaj grem . 
+606	You 're right about so many things , and I want to change so much . 	Glede marsičesa imaš prav , marsikaj bi rad naredil drugače . 
+607	But I ask you , 	Ampak prosim te , rotim te , ne hodi . 
+608	I implore you : 	Ampak prosim te , rotim te , ne hodi . 
+609	Don 't go ! 	Ampak prosim te , rotim te , ne hodi . 
+610	Well , boss , am I on time ? 	Šef , sem točen ? 
+611	Let me guess what those two are doing ... 	Naj uganem , kaj počneta . 
+612	Come on , I' ll take over . 	Dajte , jaz bom prevzel . 
+613	I don 't want you to do overtime because of me . 	Nočem , da zaradi mene delate nadure . 
+614	" Don 't go through that door . " 	Ne hodi . 
+615	Where 's she going ? 	Kam pa gre ? 
+616	To meet an old classmate . 	Z nekdanjo sošolko je dogovorjena . 
+617	You 'll have my detailed report tomorrow . 	Jutri lahko preberete natančno poročilo . 
+618	I can manage . 	Jutri lahko preberete natančno poročilo . 
+619	Good night . 	Lahko noč . 
+620	What are you staring at ? 	Kaj pa buljiš ? 
+621	Soda water . 	Mineralno vodo . 
+622	No , uh ... 	Ne . 
+623	Vodka . 	Vodko . 
+624	Double . 	Vodko . 
+625	Another one . 	Še enkrat . 
+626	Can I have a cognac , please ? 	Konjak , prosim . 
+627	Madam ? 	Gospa . 
+628	Go away , I want to be alone . 	Pustite me , rada bi bila sama . 
+629	Ms . 	Pustite me , rada bi bila sama . 
+630	Sieland . 	Gospa Sieland ? 
+631	Do we know each other ? 	Se poznava ? 
+632	You don 't know me , but I know you . 	Vi mene ne , jaz vas . 
+633	Many people love you for who you are . 	Veliko ljudi vas obožuje , ker ste , kar ste . 
+634	- Actors are never ´who they are . ' 	Igralec ni nikoli , kar je . - Vi ste . 
+635	- You are . 	
+636	I' ve seen you on stage . 	Videl sem vas igrati . 
+637	You were more who you are ... 	Takrat ste si bili bolj podobni kot zdaj . 
+638	than you are now . 	
+639	So you know what I 'm like . 	Torej veste , kakšna sem ? 
+640	I 'm your audience . 	Vaše občinstvo sem . 
+641	- I have to go . 	Iti moram . 
+642	- Where to ? 	Kam pa ? 
+643	I 'm meeting an old classmate . 	Z nekdanjo sošolko sem dogovorjena . 
+644	I ... 	
+645	You see ? 	Vidite , to pa sploh niste vi . 
+646	Just now you weren 't being yourself . 	Vidite , to pa sploh niste vi . 
+647	No ? 	Ne ? 
+648	No . 	Ne . 
+649	So you know her well , this Christa- Maria Sieland . 	Torej dobro poznate to Christo- Mario Sieland ? 
+650	What do you think ... 	Kaj pravite ? 
+651	Would she hurt someone who loves her above all else ? 	Bi prizadela nekoga , ki jo ljubi bolj kot vse ? 
+652	Would she sell herself for art ? 	Bi se prodala za umetnost ? 
+653	For art ? 	- Za umetnost ? 
+654	You already have art . 	Saj jo že ima . 
+655	That 'd be a bad deal . 	To bi bila slaba kupčija . 
+656	You are a great artist . 	Velika umetnica ste . 
+657	Don 't you know that ? 	Ne veste tega ? 
+658	And you are a good man . 	Vi ste pa dober človek . 
+659	" When I begin my shift , ´Lazlo´ and CMS are arguing about whether CMS should meet her classmate . 	Ko začenjam , se Lazlo in Christa- Marie prerekata , ali naj se CMS dobi s sošolko . 
+660	Eventually , she leaves . 	Na koncu ona odide . 
+661	' Lazlo´ seems unhappy about this . 	Lazlo je zelo nesrečen . 
+662	But after about 20 minutes , CMS returns , to ´Lazlo´s ' surprise , and mine . 	Čez 20 minut se CMS vrne , na njegovo in moje presenečenje . 
+663	He seems very happy about this . 	Strašno je je vesel . 
+664	Vigorous acts of intimacy follow . 	Sledijo strastni izlivi ljubezni . 
+665	She says she 'll never leave again . 	Pravi , da nikoli več ne bo odšla . 
+666	He says repeatedly : 	On ponavlja : 
+667	´Now I' ll have the strength , now I' ll do something . ' 	Zdaj bom imel moč , da kaj naredim . 
+668	This likely refers to writing a new stage play . 	Verjetno govori o pisanju nove drame . 
+669	In recent weeks , ´Lazlo´s ' playwriting had been plagued by difficulties . 	V zadnjem času je Lazlovo delo precej trpelo . 
+670	What she means by her statement is unclear . 	Ni pa jasno , kaj je mislila ona . 
+671	Perhaps she intends to take better care of his household . 	Mogoče , da bo bolj skrbela za Lazlovo gospodinjstvo . 
+672	The rest of the night was peaceful . " 	Preostanek noči je bil miren . 
+673	Oh , comrade ... uh ... 	Tovariš ... 
+674	It 's just because ... 	To je zato , ker ... 
+675	He 's sleeping too ... 	Tudi on spi . 
+676	Good report . 	Dobro poročilo . 
+677	Really ? 	Res ? 
+678	I didn 't know he was in such a bad way . 	Nisem vedel , da je z njim tako hudo . 
+679	Neither did I . 	Jaz tudi ne . 
+680	" On One Who Made it to the Other Side : 	O nekom , ki je uspel priti na drugo stran 
+681	The statistics office on Hans Beimler Street counts everything , knows everything . 	Statistični urad na Beimlerjevi ulici vse zabeleži in vse ve . 
+682	How many shoes I buy a year : 	Koliko čevljev kupim letno ( 2, 3 ) . 
+683	2 . 3 . 	Koliko čevljev kupim letno ( 2, 3 ) . 
+684	How many books I read a year : 	Koliko knjig preberem ( 3, 2 ) . 
+685	3 . 2 . 	Koliko knjig preberem ( 3, 2 ) . 
+686	And how many pupils graduate with straight A 's every year : 	Koliko učencev je odličnih letno ( 6347 ) . 
+687	6347 . 	Koliko učencev je odličnih letno ( 6347 ) . 
+688	But there is one thing they don 't count , maybe because even bureaucrats find it painful , and that 's suicides . 	A nečesa ne zapišejo . Morda se še birokratom zdi bolno . In to so samomori . 
+689	If you call Beimler Street to ask how many people between the Elbe and the Oder , between the Baltic Sea and the Ore Mountains despair drove to their death , our numbers oracle is silent . 	Če pokličete na Beimlerjevo in vprašate , koliko ljudi med Elbo , Odro , Baltikom in Ceškim rudogorjem je obup pognal v samomor , bo orakelj molčal in si verjetno zapisal vaše ime za Državno varnost , tiste sive gospode , ki skrbijo za varnost in našo srečo . 
+690	But it may just note your name for State Security ... 	Če pokličete na Beimlerjevo in vprašate , koliko ljudi med Elbo , Odro , Baltikom in Ceškim rudogorjem je obup pognal v samomor , bo orakelj molčal in si verjetno zapisal vaše ime za Državno varnost , tiste sive gospode , ki skrbijo za varnost in našo srečo . 
+691	Those grey men who ensure safety in our land ... and happiness . 	Če pokličete na Beimlerjevo in vprašate , koliko ljudi med Elbo , Odro , Baltikom in Ceškim rudogorjem je obup pognal v samomor , bo orakelj molčal in si verjetno zapisal vaše ime za Državno varnost , tiste sive gospode , ki skrbijo za varnost in našo srečo . 
+692	In 1977 , our country stopped counting suicides . 	Naša država je samomore nehala šteti leta 1977 . 
+693	They called them ´self- murderers ' . 	Samomorilci jim pravijo . 
+694	But it has nothing to do with murder . 	Čeprav samomor nima prav nič z umorom . 
+695	It knows no bloodlust , no heated passion , it knows only death , the death of all hope . 	Ne pozna žeje po krvi , nobene strasti , pozna le smrt , smrt vseh upov . 
+696	When we stopped counting , only one country in Europe drove more people to their death : 	Ko smo prenehali šteti , je le ena evropska država v smrt pognala več ljudi . 
+697	Hungary . 	Madžarska . 
+698	We came next , the land of ' Real Existing Socialism ' . 	Mi smo bili drugi . Država socialističnega realizma . 
+699	One of the uncounted is Albert Jerska , the great director . 	Med nepreštetimi je Jerska , veliki režiser . 
+700	It 's him I want to talk about today ... " 	Danes bom govoril o njem . 
+701	I tried to get statistics that show ... ... that State Security operates more effectively than we think ! 	Poskusil sem dobiti podatke ... 
+702	I foolishly rehearsed 	Ki bi pokazali , da je Državna varnost bolj učinkovita , kot mislimo . 
+703	my speech for the West in here . 	Cepec sem tukaj vadil govor za konferenco . 
+704	Since then , I' ve become very musical . 	Od takrat sem postal zelo muzikaličen . 
+705	We can meet at my place . 	Lahko se dobiva pri meni . 
+706	" 3 p . m . , Pankow Memorial " 	Ob 1 5h , spomenik Pankow 
+707	Well ? 	Je tu dovolj varno ? 
+708	Is this safe enough ? 	Je tu dovolj varno ? 
+709	My own ´bodyguard ' . 	Moj telesni čuvaj , Rolf mu pravim . 
+710	I call him Rolf . 	Moj telesni čuvaj , Rolf mu pravim . 
+711	That 's probably his name , too . 	Sicer je pa verjetno res Rolf . 
+712	Fire away . 	Povej . 
+713	Here . 	Na . 
+714	You want to publish this ? 	To bi rad objavil ? 
+715	In the West , with your help . 	Na Zahodu , s tvojo pomočjo . 
+716	Will you help ? 	Si povedal Christi ? 
+717	Have you told Christa ? 	Si povedal Christi ? 
+718	No . 	Ne . 
+719	I' ll help you , as long as you don 't tell her anything . 	Pomagal ti bom , če ji ne poveš . 
+720	What ? 	Kaj ? 
+721	Georg , it 's for her own protection . 	- Georg , za njeno varnost gre . 
+722	This could be right for the ´Spiegel ' . 	To bi bilo za Spiegel . 
+723	I 'm friends with an editor there . 	Nekega urednika poznam . 
+724	Gregor Hessenstein . 	Nekega urednika poznam . 
+725	Know him ? 	Gregorja Hessensteina . 
+726	Not personally . 	Gregorja Hessensteina . 
+727	You have to meet him . 	Poznaš ? Ne osebno . 
+728	But you can 't publish using your real name . 	- Moraš ga spoznati . A ne smeš objaviti pod pravim imenom . 
+729	Unless your idea of fun is a 48- hour interrogation . 	Razen , če se ti zdi 48- urno zaslišanje zabavno . 
+730	I 'm cold ! 	Zebe me . 
+731	We could go to my place ? 	Gremo k meni ? 
+732	There 's no State Security at my place ! 	Pri meni ni Državne varnosti . 
+733	A friend of Margot Honecker , winner of the National Award ... 	Prijatelj Margot Honecker . Dobitnik nacionalne nagrade . 
+734	Second class ! 	Drugi razred . 
+735	My apartment is clean , I tell you ! 	- Moje stanovanje je cisto ! 
+736	If only we could be sure ... 	Ko bi zagotovo vedeli . 
+737	I have an idea how we can check your apartment . 	Že vem , kako lahko preverimo , če je res . 
+738	You know my uncle Frank , who visits from West Berlin every Saturday , with his big gold Mercedes . 	Saj poznata strica Franka , ki ob sobotah pride na obisk iz Zahodnega Berlina v svojem zlatem mercedesu . 
+739	It seems a bit risky to me , Mr . 	Saj poznata strica Franka , ki ob sobotah pride na obisk iz Zahodnega Berlina v svojem zlatem mercedesu . 
+740	Hauser . 	Hauser , precej tvegano se mi zdi . 
+741	Yes , I agree with Georg . 	Georg ima prav . 
+742	Hiding your nephew under the back seat ? 	Da bi nečaka skrili pod zadnje sedeže ... 
+743	I 'm really not sure . 	Res ne vem . 
+744	Come on , they won 't search under the seats . 	- Verjemita , fanta . 
+745	They 'll look under the axles , tap the exhaust , then I' ll be across . 	Tam ne bodo iskali . Pogledali bodo pod premi , okoli izpušne cevi in čez bova . 
+746	Paul too . 	
+747	The border guards aren 't very bright . 	Jaz in Paul . 
+748	You 've got the wrong idea there . 	Graničarji niso ravno med najbolj bistrimi . 
+749	- Which border will you cross ? 	Nobenega problema ni . Čez kateri prehod hodite ? 
+750	- Heinrich- Heine Street . 	Na Heinejevi , vedno na Heinejevi . 
+751	Good old Henrich Heine . 	Na Heinejevi , vedno na Heinejevi . 
+752	They know me and my gold Mercedes . 	Fantje me že dobro poznajo . 
+753	I 'm friends with the guards . 	Z graničarji smo prijatelji . 
+754	Trust me , I' ll call you in 2 hours , a Schultheiss beer in my hand , and report the news : 	Verjemite . Čez dve uri vas poklicem , s pivom v roki , da je Paul na drugi strani . 
+755	Paul 's across . 	Ne ! 
+756	No ! 	Ne ! 
+757	What about Paul 's Stasi man ? 	Kaj pa Paulov Stasijevec ? 
+758	Rolf ! 	Kaj pa Paulov Stasijevec ? 
+759	Rolfy , Rolfy ... 	- Rolf ? 
+760	He 'll think that Paul 's at home . 	Rolfek rolfasti ... Mislil bo , da je Pavelček doma . 
+761	Okay , I have to go . 	Zdaj pa moram iti , da se fant ne zaduši . 
+762	We wouldn 't want him to suffocate , would we ? 	Zdaj pa moram iti , da se fant ne zaduši . 
+763	Another beer ? 	Še eno pivo ? 
+764	Border control , Heinrich- Heine Street . 	Mejna kontrola , ulica Heinricha Heineja . 
+765	Who is this ? 	Kdo je ? 
+766	Who is this ? 	Kdo je ? 
+767	No reply . 	Ne oglasi se . 
+768	Just this once , my friend . 	Samo tokrat , prijateljček . 
+769	- Dreyman . 	Dreyman . 
+770	- Okay , 	- V redu . 
+771	Paul 's plan worked ! 	Paul bi prišel čez . 
+772	No border control at all ? 	Ni bilo kontrole ? 
+773	No , no special checks . 	- Nobene posebne . Fantje niso tako slabi . 
+774	Those boys aren 't so bad . 	Torej , čez bi prišel . 
+775	It worked as planned . 	Torej , čez bi prišel . 
+776	Thanks for doing this , Mr . 	Hvala , da ste nam pomagali . 
+777	Hauser . 	Hvala , da ste nam pomagali . 
+778	Forget it , it wasn 't all that dangerous . 	Malenkost . Sploh ni bilo tako nevarno . 
+779	- Yeah , true . 	Res je . 
+780	- Yeah . 	Res je . 
+781	See you soon , and thanks a lot . 	Se vidimo . Najlepša hvala . 
+782	Bye . 	
+783	What do we do if they ask what we 're doing together ? 	Kaj , če vprašajo , kaj počneva skupaj ? 
+784	Then ... we 'll say 	Rekla bova ... 
+785	We 'll say we 're writing a stage play together . 	Rekla bova , da skupaj piševa dramo . 
+786	For the GDR 's 40th anniversary . 	Za 40 . obletnico NDR . 
+787	Yes ! 	Ja . 
+788	And it 's kind of true . 	Saj je blizu resnici . 
+789	Who 'd have thought our State Security was so incompetent ? 	Neverjetno , da je Državna varnost tako nesposobna . 
+790	Who 'd have thought they were such idiots ? 	Kdo bi si mislil , da so taki cepci ? 
+791	Just you wait ... 	Boš že videl . 
+792	" 7 . 32 p . m . 	19 : 32 . 
+793	No further noteworthy incidents . " 	Nobenih omembe vrednih dogodkov več . 
+794	Hello , comrade . 	Dober dan , tovariš . 
+795	Listen to this here ! 	Dober dan , tovariš . 
+796	Sure , in 1967 there were many suicides . 	Logično , da je bilo l . 1967 največ samomorov . 
+797	But why in 1977 ? 	A zakaj l . 
+798	You must explain . 	A zakaj l . 
+799	You must describe the social conditions more clearly . 	1977 ? Osvetliti morate družbene razmere . 
+800	It should remain literature , not political agitation . 	Za književnost gre , ne hujskaški spis . 
+801	The text is great . 	Tekst je odličen . 
+802	I just want to be sure people understand it in the West . 	Rad bi le , da ga razume tudi Zahod . 
+803	It 'll cause a sensation either way . 	V vsakem primeru bo bomba . 
+804	- That 's Hauser ! 	To je Hauser . 
+805	- Of course it 's Hauser . 	- Kdo pa drug ? 
+806	He 's not in the West ! 	Sploh ni na Zahodu . 
+807	They 're writing a play together . 	Skupaj pišeta igro . 
+808	For the 40th anniversary . 	Za 40 . obletnico . 
+809	It doesn 't sound like a play to me . 	Meni se ne zdi ravno igra . 
+810	No ? 	Kaj pa ? 
+811	Then what ? 	Kaj pa ? 
+812	I don 't know ... but not a play . 	Ne vem , a ni drama . 
+813	You think a lot , Sergeant Leye . 	Prevec razmišljate , štabni vodnik Leye . 
+814	You 're not an intellectual , are you ? 	Saj niste intelektualec , kajne ? 
+815	Me ? 	Saj niste intelektualec , kajne ? 
+816	No ... 	Saj niste intelektualec , kajne ? 
+817	I 'm not one of those . 	- Jaz ? Ne . To pa že nisem . 
+818	Then don 't behave like one . 	- Torej se ne obnašajte tako . 
+819	I chose you because you know the equipment and don 't ask questions . 	Izbral sem vas , ker se spoznate in ne sprašujete . 
+820	Leave the thinking to your superiors . 	Razmišljanje prepustite nadrejenim . 
+821	Yes , Captain . 	Razmišljanje prepustite nadrejenim . 
+822	I' ll be off , then . 	- Razumem . Zdaj pa grem . 
+823	Have a nice day ... of work ... 	Dobro delajte . Reci hočem , da uživajte pri delu . 
+824	I mean , I hope you enjoy your work . 	
+825	Maybe I can re- write this part . 	To bi morda lahko predelal . 
+826	I' ll send you all the material we have . 	Poslal vam bom vse , kar imava . 
+827	Can you do it in two weeks ? 	Bi lahko napisali v dveh tednih ? 
+828	Then I could run it as a cover story for the first week in March . 	Objavil bi v prvi marčni številki , kot glavno temo . 
+829	It 's Christa . 	Christa je . 
+830	Georg ? 	Christa je . 
+831	Christa , this is Gregor Hessenstein . 	Christa , to je Gregor Hessenstein . 
+832	- Christa Sieland . 	Christa Sieland . 
+833	- Of course , I know that ! 	Christa Sieland . 
+834	So , what conspiracy are you cooking up ? 	Kakšno zaroto kujete ? 
+835	Hauser and I are writing a play for the GDR 's 40th anniversary . 	S Hauserjem piševa dramo ob 40 . obletnici NDR . 
+836	Together ? 	Skupaj ? 
+837	The ´Spiegel´ may do an article on it . 	Mogoče bo Spiegel objavil članek o njej . 
+838	- And who 'll play the lead role ? 	Kdo bo igral glavno vlogo ? 
+839	- We planned to ask you . 	Kdo bo igral glavno vlogo ? 
+840	Christa , who would you rather play : 	- Bi jo ti ? 
+841	Lenin or his dear old mother ? 	Bi raje igrala Lenina ali njegovo ljubo mamo ? 
+842	You can choose . 	Lahko izbiraš . 
+843	I see I 'm not welcome here . 	Vidim , da nisem dobrodošla . 
+844	I' ll go for a nap . 	Počivat grem . 
+845	Your caution is praiseworthy . 	Krasno , da ste tako previdni . 
+846	The fewer people know , the better . 	Manj ljudi ve za ta projekt , bolje je . 
+847	The Stasi is not to be toyed with . 	Manj ljudi ve za ta projekt , bolje je . 
+848	On that note , I brought something for you . 	Nekaj sem vam prinesel , ko smo že pri tem . 
+849	I 'd have preferred the whole pie . 	Raje bi imel torto . 
+850	I already have a typewriter . 	Pisalni stroj že imam . 
+851	The Stasi can identify its typeface . 	Stasi bi lahko prepoznal font . 
+852	If they intercepted the text at the border , for your typewriter using , you 'd end up in Hohenschonhausen . 	Če bi tekst prestregli na meji , bi pristali v zaporu . 
+853	And that 's no fun , as Paul can confirm , right ? 	Kar ni ravno zabavno , Paul že ve . 
+854	I 'm afraid I could only get a red ink ribbon for this model . 	Žal mi je v tem formatu uspelo najti le rdeč trak . 
+855	Do you mind writing it in red ? 	Vas bo motilo , če boste pisali rdeče ? 
+856	That won 't be a problem . 	- Niti najmanj . 
+857	Is there somewhere you can hide it ? 	Lahko stroj kam skrijete ? 
+858	- Yes , I' ll find a place . 	Se bom že česa domislil . 
+859	- Don 't take it lightly . 	- Ni tako nenevarno . 
+860	I don 't want my next article to be about your disappearance ! 	Nočem , da bi moral pisati članek o vašem izginotju . 
+861	Nobody may know that this typewriter exists ! 	Za ta stroj lahko vemo le mi trije . 
+862	Is this apartment really safe ? 	Je to stanovanje zagotovo varno ? 
+863	Yes . 	Je to stanovanje zagotovo varno ? 
+864	It 's the only place left in the GDR where I can say what I want . 	Samo tu še lahko govorim vse , kar hočem . 
+865	Fine , then let 's drink to that ! 	Odlično . Pijmo na to . 
+866	This is the real stuff . 	Pristen je . 
+867	To you ! 	Na vas ! 
+868	To letting all of Germany see the true face of the GDR ! 	Naj vsa Nemčija vidi pravi obraz NDR . 
+869	Cheers . 	Živeli ! 
+870	It 's better than the Russian stuff ! 	Boljši je od tistega ruskega zvarka . 
+871	To your success ! 	Boljši je od tistega ruskega zvarka . 
+872	I must see Comrade Grubitz . 	K tovarišu Grubitzu moram , nujno je . 
+873	Tomorrow at 2 . 30 p . m ... 	Veste , koliko smo vložili ? - Ne prej kot jutri ob 14 : 30 . 
+874	Tell him that if he blows the cover , we 'll shut down the entire parish ! 	Reci mu , da mu bomo zaprli cerkev , če ga razkrije . 
+875	It 's easy ! 	Pa naj se potem pritoži papežu . 
+876	He can call the Pope and complain ! 	Pa naj se potem pritoži papežu . 
+877	Okay , I' ve spent enough time on this nonsense . 	Dovolj časa sem zabil za te bedarije . 
+878	Wiesler , I 'm glad you 're here . 	Wiesler , fino , da si prišel . 
+879	I have to show you something . 	Nekaj ti moram pokazati . 
+880	" Prison Conditions for Subversive Artists Based on Character Profile . " 	Zaporniški pogoji za subverzivne umetnike glede na značaj . 
+881	Pretty scientific , eh ? 	Precej znanstveno , kajne ? 
+882	And look at this : 	Super , kajne ? 
+883	" Dissertation supervisor : 	Sicer sem mu ocenil s štiri , ne smejo misliti , da je pri meni tako lahko uspeti . 
+884	A . 	Sicer sem mu ocenil s štiri , ne smejo misliti , da je pri meni tako lahko uspeti . 
+885	Grubitz . " 	Sicer sem mu ocenil s štiri , ne smejo misliti , da je pri meni tako lahko uspeti . 
+886	That 's great , isn 't it ? 	
+887	I only gave him a B ... 	Ampak tole je enkratno . 
+888	They shouldn 't think getting a doctorate with me is easy . 	Ampak tole je enkratno . 
+889	But this is first- class . 	
+890	Did you know that there are just 5 types of artists ? 	Si vedel , da je le 5 različnih tipov umetnikov ? 
+891	Your guy , Dreyman , is a type 4 . 	Vaš Dreyman , je četrti . 
+892	A " hysterical anthropocentrist . " 	Histerični antropocentrik . 
+893	Can 't bear being alone , always talking , needing friends . 	Ne prenese samote , ves čas govori , potrebuje prijatelje . 
+894	That type should never be brought to trial . 	Taki ne smejo na sodišče . 
+895	They thrive on that . 	To je njihov element . 
+896	Temporary detention is the best way to deal with them . 	Zanje je najprimernejši preiskovalni zapor . 
+897	Complete isolation and no set release date . 	Popolna izolacija , ne ve , kdaj bo izpuščen . 
+898	No human contact the whole time , not even with the guards . 	Nobenih stikov , niti s stražarji ne . 
+899	Good treatment , no harassment , no abuse , no scandals ... nothing they could write about later . 	Odličen postopek , brez trpinčenja , šikaniranja . Brez škandala . Pozneje nima o čem pisati . 
+900	After 10 months , we release . 	Čez 10 mesecev ga izpustimo . 
+901	Suddenly . 	In ne bo nam več delal težav . 
+902	That guy won 't cause us any more trouble . 	In ne bo nam več delal težav . 
+903	Know what the best part is ? 	In veš , kaj je pri tem najboljše ? 
+904	Most type 4s we 've processed in this way never write anything again ! 	Večina teh pozneje sploh ne piše , ne slika več , ali karkoli umetniki pač počnejo . 
+905	Or paint anything , or whatever artists do ... 	Večina teh pozneje sploh ne piše , ne slika več , ali karkoli umetniki pač počnejo . 
+906	And that without any use of force ... 	In to brez uporabe sile . 
+907	Just like that ! 	Kar tako . 
+908	Kind of ... 	Za povrhu . 
+909	like a present . 	Zakaj si tu ? 
+910	What brings you here ? 	Se z Dreymanom kaj dogaja ? 
+911	Developments with Dreyman ? 	Se z Dreymanom kaj dogaja ? 
+912	That 's why I 'm here . 	O njem sem se hotel pogovoriti . 
+913	I think the time has come ... 	Čas bi že bil ... 
+914	For what ? 	Za kaj ? 
+915	For us to slim down the operation . 	Da zmanjšamo obseg dela . 
+916	I don 't want to run day and night shifts for such an uncertain case . 	Ne bi rad noč in dan delal na tako negotovem primeru . 
+917	Uncertain , eh ? 	Torej za ministra ne bova našla ničesar ? 
+918	You don 't think we 'll find anything for the Minister ? 	Torej za ministra ne bova našla ničesar ? 
+919	Maybe if we 're more flexible ... 	Mogoče , če bomo bolj fleksibilni . 
+920	If we watch ´Lazlo´ outside his own four walls . 	Če bi Lazla opazovali tudi zunaj doma . 
+921	Shall I give the case to Udo ? 	Naj predam primer Udu ? 
+922	I 'd like to continue it myself . 	Rad bi ga vodil sam . 
+923	Why ? 	Zakaj ? 
+924	It could produce results . 	- Mogoče se bo kaj pokazalo . 
+925	I just need to plan more flexibly , when I come and go , days and nights ... 	A bolj fleksibilen moram biti , kar se tiče mojih prihodov in odhodov . 
+926	Maybe he 's up to something outside . 	Mogoče počne kaj drugje . 
+927	Something doesn 't feel right here . 	Nekaj mi pri tem ni všeč . 
+928	There 's something you 're hiding . 	Nekaj mi prikrivaš . 
+929	Alright , I' ll take Udo off the case . 	Prav , Uda bom vzel s primera . 
+930	I can use him for this church case . 	Koristil mi bo pri cerkveni zadevi . 
+931	Give me a request in writing . 	Oddaj pisni zahtevek . 
+932	Write as a reason : " Lack of suspicious acts . " 	Napiši Pomanjkanje sumljivih dejanj . 
+933	And , Wiesler ! 	Wiesler , še nasvet ! 
+934	A piece of advice for you : 	Wiesler , še nasvet ! 
+935	We 're not at school anymore . 	Nisva več v šoli . 
+936	Projects aren 't about grades , but success . 	Niso pomembne ocene , temveč uspeh . 
+937	" The state statistics office counts everything , knows everything . 	Statistični urad vse beleži in vse ve . 
+938	How many shoes I buy a year : 	Koliko čevljev kupim letno ( 2, 3 ) . 
+939	2 . 3 . 	Koliko čevljev kupim letno ( 2, 3 ) . 
+940	How many books I read a year : 	Koliko knjig preberem letno ( 3, 2 ) . 
+941	3 . 2 . 	Koliko knjig preberem letno ( 3, 2 ) . 
+942	And how many pupils graduate with straight A 's every year : 	Koliko učencev je odličnih letno ( 6347 ) . 
+943	6347 . " 	
+944	" 5 p . m . 	17 : 00 . 
+945	Lazlo reads the first act of his anniversary play to Hauser and Wallner . " 	Lazlo bere prvo dejanje svoje drame Hauserju in Wallnerju . 
+946	DENTAL PRACTICE 	
+947	We 're not writing a play , Christa . 	Ne piševa drame , Christa . 
+948	You don 't have to tell me . 	- Ni mi treba povedati . 
+949	But I want to . 	Pa bi ti rad . 
+950	It 's a text ... 	Pišem o ... 
+951	Don 't tell me . 	- Ne govori . 
+952	Maybe I am as unreliable as your friends say . 	Mogoče sem res nezanesljiva , kot pravijo tvoji prijatelji . 
+953	But I ... 	A zdaj sem s tabo , ne glede na vse . 
+954	I 'm with you now ... 	A zdaj sem s tabo , ne glede na vse . 
+955	No matter what . 	A zdaj sem s tabo , ne glede na vse . 
+956	Minister Riesenhuber , author of the report , said there is no quick fix for saving damaged forests . 	Minister Reisenhuber , avtor poročila , je poudaril , da ni hitrega recepta za rešitev uničenih gozdov . 
+957	East- West German relations under strain . 	Odnosi med Nemčijama so napeti . 
+958	' Spiegel´ magazine today published a text by an unnamed East German author about suicide in the German Democratic Republic . 	Spiegel je danes objavil besedilo neimenovanega vzhodnonemškega avtorja o samomorih v Vzhodni Nemčiji . 
+959	This follows a series of suicides by prominent 	Povod je bil niz samomorov uglednih umetnikov , zadnji A . 
+960	East- Berlin artists , the latest being Albert Jerska . 	Povod je bil niz samomorov uglednih umetnikov , zadnji A . 
+961	After being blacklisted for 7 years , 	Jerska se je ubil po sedmih letih prepovedi ustvarjanja . 
+962	Jerska committed suicide on January 5th . 	Jerska se je ubil po sedmih letih prepovedi ustvarjanja . 
+963	In 1977 , the GDR ceased publishing any data relating to suicides . 	1977 je NDR nehala objavljati podatke o samomorih . 
+964	That year , Hungary was the only country in Europe with a higher suicide rate . 	Le Madžarska je imela takrat več samomorov . 
+965	Yes , Sir ... 	Le Madžarska je imela takrat več samomorov . 
+966	But we ... 	Odpovedali ste na celi črti , nesposobneži ! 
+967	General , our man at the ´Spiegel´ got us a photostat of the original . 	Tovariš , naš človek na Spieglu nam je dal original . 
+968	Congratulations ! 	Čestitam . 
+969	So who wrote it ? 	Kdo je avtor ? 
+970	He doesn 't know , but using the typeface , we 'll ... 	Ne vem , a po fontu bomo ... 
+971	You 're hopeless ! 	Nesposobni ste ! 
+972	Get me names ! 	Imena hočem ! 
+973	I will , as soon as we get the results . 	Takoj ko dobimo rezultate . 
+974	If not , you 'll be put against the wall . 	Upam , sicer vas bom dal ustreliti . 
+975	Andrea , where 's the graphologist ? 	Andrea , kje je grafolog ? 
+976	Thus I conclude that it is a domestic typewriter produced for export , most likely a ´Kolibri´ travel model , made by the VEB Groma . 	Zato domnevam , da gre za stroj za izvoz domače proizvodnje , najverjetneje model Kolibri , ki jih izdeluje VEB Groma . 
+977	If the ink were black , I could be more precise . 	Če bi bil trak črn , bi vedel več . 
+978	Who owns such a typewriter ? 	Kdo ima tak stroj ? 
+979	There are none registered in the GDR . 	- V NDR jih ni . 
+980	What does that mean ? 	Kaj to pomeni ? 
+981	What does Hauser use ? 	Kaj uporablja Hauser ? 
+982	Paul Hauser uses a ´Valentino´ typewriter , made by Olivetti . 	- Hauser uporablja Valentina , Olivettijev . 
+983	- That model has a more horizontal ... 	Ta model ima bolj ... 
+984	- Yes , yes ! 	Ta model ima bolj ... 
+985	And Wallner ? 	Kaj pa Wallner ? 
+986	He writes on an Optima ´Elite ' . 	On piše na Optima Elite . 
+987	Georg Dreyman ? 	Georg Dreyman ? 
+988	He writes his first drafts by hand , then types them up on a Wanderer ´Torpedo ' . 	- Drame napiše na roke , nato pa jih pretipka na Wandererjev Torpedo . 
+989	He 's never used anything else . 	Ni še pisal s cim drugim . 
+990	How big is this ´Kolibri´ typewriter ? 	Kako velik je Kolibri ? 
+991	It 's one of the smallest available : 	Med najmanjšimi stroji je . 
+992	19 . 5cm x 99cm x 19 . 55cm . 	19, 5 cm x 9 cm x 19, 5 . 
+993	So it 's as easy to smuggle as a book . 	Torej ga ni težko spraviti čez mejo . 
+994	Thank you . 	Hvala , lahko greste . 
+995	You may go . 	Hvala , lahko greste . 
+996	Goodbye , comrade . 	Na svidenje , tovariš . 
+997	" The Secret Suicide Statistics " 	Tajni statistični podatki o samomorih 
+998	Andrea , put me through to Wiesler . 	Andrea , pokličite Wieslerja . 
+999	" 4 p . m . 	16 : 00 . 
+1000	The group is exhausted from so much writing . " 	Skupina je utrujena od pisanja . 
+1001	- Yes ? 	Prosim ? 
+1002	- Have you heard about this article ? 	- Si slišal za ta članek v Spieglu ? 
+1003	- In the ´Spiegel ' ? 	Ja . 
+1004	Yes . 	- Od kod pa ? 
+1005	- How so ? 	- Od kod pa ? 
+1006	Hauser called Dreyman and told him about it . 	Hauser je poklical Dreymana in mu povedal . 
+1007	Wiesler , this is very important . 	Wiesler , to je pomembno . 
+1008	Both for my career and for yours . 	Za najini karieri . 
+1009	Did he mention who may be behind it ? 	Je kaj omenil , kdo je za tem ? 
+1010	Or do you have any ideas ? 	Se mogoče tebi kaj sanja ? 
+1011	I don 't think he mentioned anything . 	Nič ni rekel . 
+1012	No ... nothing at all . 	Prav nič . 
+1013	A ´Spiegel´ editor crossed the border using a false name on the 27th , and spent four hours here . 	Spieglov urednik je bil 27 . tu pod lažnim imenom , zadržal se je 4 ure . Pravo ime : 
+1014	Dept . 	Gregor Hessenstein . 
+1015	VI followed him to Prenzlauer Berg , then lost his trail . 	Nekaj časa smo mu sledili , a smo ga izgubili . 
+1016	Did he have contact with Dreyman ? 	Se je oglasil Dreymanu ? 
+1017	- Wouldn 't I have noted it in the report ? 	Ne bi tega omenil v poročilu ? 
+1018	- Yes , of course . 	- Seveda . 
+1019	But I smell a writer behind this text . 	A zdi se mi , da je avtor teksta pisatelj . 
+1020	I 'd be astonished if I 'm wrong . 	Dvomim , da se motim . 
+1021	So keep your ears open ! 	Našpiči ušesa . 
+1022	Shit ! 	Sranje ! 
+1023	Get in . 	Vstopite . 
+1024	If one of your staff deceives you , you punish him , right ? 	Če vas prevara kdo od vaših , ga strogo kaznujete , kajne ? 
+1025	Sure , sure ! 	Če vas prevara kdo od vaših , ga strogo kaznujete , kajne ? 
+1026	Even a woman ? 	Tudi če je ženska ? 
+1027	Right ? 	Ali ne ? 
+1028	But of course ! 	- Seveda . 
+1029	Isn 't everyone who serves a great man part of his staff ? 	Ni vsak , ki služi pomembnemu človeku , del ekipe ? 
+1030	You could see it like that ... 	Lahko bi se tako reklo . 
+1031	Indeed , you 'd have to see it like that . 	Pravzaprav je tako . 
+1032	This is where she gets her illegal medication . 	Tam dobiva svoja nezakonita zdravila . 
+1033	Christa- Maria Sieland . 	Christa- Maria Sieland . 
+1034	You should know this , it 's your department . 	Vedeti bi morali . Vaše področje je . 
+1035	It 's up to you whether you ruin her or not , but I never want to see her on a German stage again . 	Od vas je odvisno , ali jo boste uničili , vem pa , da je ne želim več videti na odru . 
+1036	Now get out . 	Zdaj se pa poberite . 
+1037	Shut the door ! 	Zaprite ! 
+1038	Ms . 	Ga . 
+1039	Sieland ? 	Sieland ? 
+1040	Please follow us . 	Prosim , pridite . 
+1041	We have some questions . 	Nekaj bi radi razjasnili . 
+1042	Come along . 	Pridite . 
+1043	So ... 	Tovarišica Sieland , konec krasne kariere , kaj ? 
+1044	Comrade Sieland , a beautiful career you had , hm ? 	Tovarišica Sieland , konec krasne kariere , kaj ? 
+1045	A pity really . 	Škoda , res ste bili dobri . 
+1046	You were good . 	Škoda , res ste bili dobri . 
+1047	You were very good indeed . 	Celo zelo dobri . 
+1048	Just too short- lived . 	A žal ni dolgo trajalo . 
+1049	Do have a seat . 	Sedite vendar . 
+1050	What do actors do when they can 't act anymore ? 	Kaj počnejo igralci , ko ne igrajo več ? 
+1051	Please ... 	Prosim . 
+1052	Isn 't there anything I can do for you ? 	Lahko karkoli naredim za vas ? 
+1053	- For ... 	Za Državno varnost ? 
+1054	State Security ? 	Za Državno varnost ? 
+1055	- It 's a little late for that . 	Prepozno je . 
+1056	I know nearly all our artists . 	Vse naše umetnike poznam . 
+1057	I could find out a lot . 	Marsikaj lahko izvem . 
+1058	I believe you . 	Marsikaj lahko izvem . 
+1059	But it won 't help you now . 	- Verjamem . A to vam ne pomaga več . 
+1060	Maybe there 's something else I could do ? 	Lahko naredim kaj drugega ? 
+1061	Something we might both find agreeable . 	Kaj , kar bi bilo prijetno za oba ? 
+1062	Unfortunately , you 've made an enemy of a very powerful man . 	Žal ste si za sovražnika nakopali mogočnega človeka . 
+1063	Therefore , I have less freedom than would normally be the case . 	Zato imam manj svobode kot običajno . 
+1064	Is there no way I can save myself ? 	Torej zame ni rešitve ? 
+1065	I 'm sorry , madam . 	Žal mi je , gospa . 
+1066	There is one possibility . 	Le nekaj bi pomagalo . 
+1067	Since you spend so much time with writers and artists ... 	Glede na to , da se veliko družite s pisatelji in umetniki ... 
+1068	You don 't know anything about an article from this week 's ´Spiegel ' , do you ? 	Ste slišali za članek v najnovejšem Spieglu ? 
+1069	An article about suicide . 	O samomorih . 
+1070	State Security ! 	Državna varnost ! 
+1071	Open the door ! 	Državna varnost ! 
+1072	Open up ! 	Odprite ! 
+1073	He 's turned on the light in his study . 	Prižgal je luč v delovni sobi . 
+1074	Go in before he destroys any evidence . 	Vdrite , preden uniči dokaze . 
+1075	Crowbar ! 	Lomilko ! 
+1076	I don 't think that 'll be necessary . 	Mislim , da ne bo potrebno . 
+1077	- What 's the matter , comrades ? 	Kaj pa je , tovariši ? 
+1078	- We have a warrant to search the premises . 	Nalog za preiskavo stanovanja imamo . 
+1079	Warrant is here . 	Nalog za preiskavo stanovanja imamo . 
+1080	- What are you looking for ? 	Kaj pa iščete ? 
+1081	- It 's confidential . 	- Zaupna zadeva . 
+1082	Boysen , Muller : bedroom . 	Boysen , Müller , spalnica , veža . 
+1083	Greska : kitchen , bathroom , hall . 	Greska , kuhinja , kopalnica , hodniki . 
+1084	Heise and Thomas : living room , study . 	Heise , Thomas , dnevna in delovna soba . 
+1085	Go ! 	Heise , Thomas , dnevna in delovna soba . 
+1086	What do you burn in here ? 	Kaj sežigate tu ? 
+1087	Substandard texts . 	Slaba besedila . 
+1088	A lot of Western literature , eh ? 	Zahodna literatura , kaj ? 
+1089	That book was a gift from Margot Honecker . 	To mi je podarila Margot Honecker . 
+1090	- Status ? 	Poročajte . 
+1091	- All according to plan . 	- Vse gre po načrtu . 
+1092	We found nothing , except Western books and newspapers . 	Našli smo samo zahodnjaške knjige in časopise . 
+1093	- No trace to be found ! 	Ničesar nismo našli . 
+1094	- Did you search thoroughly ? 	Ničesar nismo našli . 
+1095	Yes , Comrade ! 	Ste preiskali temeljito ? 
+1096	What 's our next move ? 	Smo , tovariš . 
+1097	- Comrade ? 	Tovariš ? 
+1098	- Pull out your men ! 	Umaknite svoje može . 
+1099	In the unlikely event that damage has occurred , you may claim compensation . 	Če je nastala kakšna škoda , lahko zahtevate povračilo . 
+1100	I 'm sure everything 's in perfect order . 	Prepričan sem , da je vse v redu . 
+1101	Yes ? 	Prosim ? 
+1102	Wiesler , I' ll be expecting you in Hohenschonhausen at 9 a . m . tomorrow . 	Wiesler , jutri ob 9h pridi v Hohenschünhausen . 
+1103	Okay , I' ll say what we 're all thinking : 	Povedal ti bom , kaj mislimo . 
+1104	It was Christa- Maria . 	Christa- Maria je bila . 
+1105	The Stasi got her , and she ratted on you . 	Stasi jo je ujel , pa te je izdala . 
+1106	It wasn 't her . 	Ni bila ona . 
+1107	How can you be so sure ? 	Kako veš ? 
+1108	You yourself said she wasn 't home last night . 	Sam si rekel , da sinoči ni bila pri tebi . 
+1109	She knows the hiding place . 	Ona ve , kam sem skril stroj . 
+1110	Yes , she knows . 	Ona ve , kam sem skril stroj . 
+1111	So if you 're right , and the search was due to her , then she 's our guardian angel . 	Če imaš torej prav in so prišli zaradi nje , je bila naš angel varuh . 
+1112	I 'm here to see Lt . 	K podpolkovniku Grubitzu grem . 
+1113	Col . 	K podpolkovniku Grubitzu grem . 
+1114	Grubitz . 	K podpolkovniku Grubitzu grem . 
+1115	Captain Wiesler . 	Kapetan Wiesler . 
+1116	Interrogation room 76 . 	Soba za zaslišanje 76 
+1117	Yes ! 	Ja . 
+1118	Come in . 	Naprej ! 
+1119	Sit down . 	Sedi . 
+1120	So ? 	Torej ? 
+1121	What was that about ? 	Kaj se greš ? 
+1122	You 're asking me what that was about ? 	Kaj se grem ? 
+1123	What do you suspect Dreyman of ? 	Česa sumiš Dreymana ? 
+1124	He wrote the ´Spiegel´ article . 	On je avtor besedila v Spieglu . 
+1125	Who alleges that ? 	Kdo to pravi ? 
+1126	Come with me ! 	Pridi z mano . 
+1127	Here . 	Na . 
+1128	I don 't know how you could be so sloppy as to miss all of this ! 	Ne vem , kako ti je lahko vse to ušlo . 
+1129	But I know you differently , especially as an interrogator . 	Ampak vem , da zaslišuješ temeljito . 
+1130	So I 'm giving you one last chance . 	Še zadnjo možnost ti dam . 
+1131	Bring in prisoner 662 , now ! 	Pripeljite zapornico 662 . 
+1132	Are you still on the right side ? 	Si še na pravi strani ? 
+1133	Yes . 	Ja . 
+1134	Then don 't screw it up again . 	- Potem nikar spet ne zamoči . 
+1135	Shall I restrain the prisoner ? 	Naj zapornico vklenem ? 
+1136	No , she 's an informant now . 	Ne , zdaj je neuradna sodelavka . 
+1137	You may go . 	Ne , zdaj je neuradna sodelavka . 
+1138	So you 're my commanding officer ? 	Torej ste zdaj vi moj šef ? 
+1139	Write . 	Pišite . 
+1140	Then command me . 	Torej mi ukazujte . 
+1141	In another 10 hours ... 	Čez 10 ur ... 
+1142	No , in 9 and a half , 	Ne , čez 9 in pol vas bo Roessling občinstvu opravičil ; zaradi zdravstvenih razlogov . 
+1143	Mr . 	Ne , čez 9 in pol vas bo Roessling občinstvu opravičil ; zaradi zdravstvenih razlogov . 
+1144	Roessing will tell the audience that you , for health reasons , cannot appear . 	Ne , čez 9 in pol vas bo Roessling občinstvu opravičil ; zaradi zdravstvenih razlogov . 
+1145	And that will be your last mention in the acting world . 	Zadnja omemba vašega imena v javnosti . 
+1146	Is that what you want ? 	Bi res to radi ? 
+1147	Tell us where the evidence is hidden . 	Povejte , kje skriva dokaze ? 
+1148	There is no evidence , and no typewriter . 	Nobenih dokazov ni . Niti pisalnega stroja . 
+1149	I made it all up . 	Izmislila sem si . 
+1150	I hope not . 	Izmislila sem si . 
+1151	If so , we 'll have to keep you here . 	Drugače vas bomo zadržali . 
+1152	A false statement is perjury , which carries around 2 years in prison . 	Lažno pričanje je krivoprisežništvo , dve leti zapora dobite . 
+1153	Dreyman will go to prison anyway , on account of your statement ... and the material we 've already found in the apartment . 	Dreyman bo moral tako ali tako v zapor . Na podlagi vaše izjave in materiala , ki smo ga našli v stanovanju . 
+1154	Save yourself , at least . 	Vsaj sebe rešite . 
+1155	You have no idea how many people are in jail here for senseless heroics . 	Pojma nimate , koliko ljudi je v zaporu , ker so se šli junake . 
+1156	Don 't forget your audience . 	Ne pozabite občinstva . 
+1157	" Don 't forget your audience ! " 	Ne pozabite občinstva ! 
+1158	He has some funny ideas ! 	Ta pa ima ideje . 
+1159	Don 't forget what the state has done for you ... 	Pomislite , kaj je za vas naredila država . 
+1160	Your whole life long . 	Odkar ste se rodili . 
+1161	Now you can do something for the state . 	Zdaj lahko vi nekaj naredite zanjo . 
+1162	And it will thank you . 	Hvaležna vam bo . 
+1163	Tell me where the typewriter 's hidden . 	Povejte , kje je skrit pisalni stroj . 
+1164	Dreyman will never find out . 	Dreyman ne bo nikoli izvedel . 
+1165	I' ll let you go immediately , and we 'll strike only after you 're back with him . 	Takoj vas bomo izpustili in prišli , ko boste tam . 
+1166	You 'll manage to feign surprise , I 'm sure . 	Gotovo znate zaigrati presenečenje . 
+1167	And tonight you 'll be back on stage . 	In nocoj boste spet na odru . 
+1168	In your element . 	V svojem elementu . 
+1169	In front of your audience . 	Pred svojim občinstvom . 
+1170	Tell me where the documents are . 	Povejte , kje so dokumenti . 
+1171	Where are they ? 	Kje so ? 
+1172	They 're in the apartment ... 	V stanovanju . 
+1173	Under the doorsill , between the living room and the hallway . 	Pod pragom , med dnevno sobo in hodnikom . 
+1174	You can remove it . 	Sneti se ga da . 
+1175	Is this where you mean ? 	Tukaj ? 
+1176	Mark the exact place with a cross . 	S križcem označite točno mesto . 
+1177	You look worn out . 	Zdelani ste videti . 
+1178	Remember , you 're an informant now . 	Zdaj ste naša sodelavka . 
+1179	That means responsibilities , like conspiracy and confidentiality , but also privileges ... 	Imate dolžnosti , konspirativnost in molčečnost . 
+1180	Guard ! 	Stražar ! 
+1181	Call Wiesler for me ! 	Pokličite Wieslerja . 
+1182	Col . 	Pokličite Wieslerja . 
+1183	Wiesler has left the premises , comrade . 	Odšel je že , tovariš . 
+1184	I see ! 	- A , tako . 
+1185	Alright . 	Prav , lahko greste . 
+1186	Stand down . 	Prav , lahko greste . 
+1187	What does a rider do when he 's thrown ? 	Kaj naredi jezdec , ko pade s konja ? 
+1188	He gets back on again . 	Kaj naredi jezdec , ko pade s konja ? 
+1189	Go inside . 	Skoči nazaj nanj . 
+1190	Sleep it off . 	Pojdi se naspat . 
+1191	What happened has nothing to do with the house . 	Kar se je zgodilo , nima zveze s hišo . 
+1192	No , but with the whole country . 	Ima pa z vso državo . 
+1193	Christa ! 	Christa ! 
+1194	Stop , I was at Kerschner 's and they had no water . 	- Nehaj ! Pri Kerschnerju nimajo vode . 
+1195	I need a shower . 	Oprhati se moram . 
+1196	You were in a hurry to get here ! 	Se ti je pa mudilo oditi . 
+1197	- Operation ´Lazlo´ is still in progress ! 	Operacija Lazlo še traja . 
+1198	- Are they both inside ? 	Operacija Lazlo še traja . 
+1199	Yes . 	Sta oba notri ? 
+1200	Here 's today´s report . 	Današnje poročilo . 
+1201	The last report for Operation ´Lazlo ' . 	Zadnje poročilo za operacijo Lazlo . 
+1202	Why didn 't you call me ? 	Zakaj me nisi poklicala ? 
+1203	What ? 	Zakaj me nisi poklicala ? 
+1204	Why didn 't you call me ? 	Zakaj nisi poklicala ? 
+1205	I was out in the country . 	- Na vasi sem bila . 
+1206	Can you hand me the nail brush ? 	Mi daš krtačko za nohte ? 
+1207	The Stasi was here . 	Stasi je bil tu . 
+1208	They searched the apartment . 	Stasi je bil tu . 
+1209	Who was here ? 	Preiskali so stanovanje . 
+1210	State Security ! 	Državna varnost ! 
+1211	Open up ! 	Državna varnost ! 
+1212	Stay here . 	Ostani tu . 
+1213	Hello , Comrade Dreyman . 	Dober dan . 
+1214	I 'm Lt . 	Dober dan . 
+1215	Col . 	
+1216	Grubitz from State Security . 	Podpolkovnik Grubitz , Državna varnost . 
+1217	I just wanted to make sure they did a thorough job last night . 	Preverjam , ali so sinoči dobro opravili . 
+1218	Your study ? 	Delovna soba ? 
+1219	We 'll start there . 	Delovna soba ? 
+1220	Men , search carefully for notes hidden in the books . 	Pozorno prelistajte vse knjige . 
+1221	Oh , what do we have here ? 	Kaj je pa to ? 
+1222	This doorsill doesn 't look kosher to me . 	S tem pragom nekaj ni v redu . 
+1223	Could it be ... a secret compartment ? 	Bi bil lahko skrivališče ? 
+1224	Let her go . 	Pustite jo , ona ni osumljena . 
+1225	She 's not a suspect . 	Pustite jo , ona ni osumljena . 
+1226	The actress ... 	Igralka . 
+1227	I was too weak . 	Prešibka sem bila . 
+1228	I can never put right what I' ve done wrong . 	Ne morem popraviti , kar sem naredila . 
+1229	There 's nothing to put right ! 	Ničesar ni treba popraviti . 
+1230	You understand ? 	Ničesar ni treba popraviti . 
+1231	Nothing . 	
+1232	I moved the ty ... 	Razumeš ? Ničesar . Odnesel sem ... 
+1233	Forgive me , forgive me ... 	Odpusti mi . Odpusti mi . 
+1234	Forgive me , forgive me ... 	
+1235	Take your men back to headquarters . 	Z možmi pojdite nazaj v centralo . 
+1236	This mission is over . 	Naloga je opravljena . 
+1237	I' ve concluded the mission , Comrade Dreyman . 	Tovariš Dreyman , opravil sem svoje . 
+1238	We must have received an erroneous tip- off . 	Očitno je bil namig napačen . 
+1239	Sorry . 	Oprostite . 
+1240	Come on . 	Gremo . 
+1241	There 's one thing you should understand , Wiesler . 	Nekaj naj ti bo jasno . 
+1242	Your career is over . 	Tvoje kariere je konec . 
+1243	Even if you were too smart to leave any traces . 	Tudi če nisi pustil nobenih sledi . 
+1244	You 'll end up in some cellar , steam- opening letters until you retire . 	Do pokoja boš v kakšni luknji odpiral pisma . 
+1245	That means the next 20 years . 	Naslednjih 20 let . 
+1246	20 years ! 	Dvajset let ! 
+1247	That 's a long time . 	Dolga doba . 
+1248	" Mikhail Gorbachev elected as leader of the Soviet Union 's Communist Party . " 	Mihail Gorbačov novi generalni sekretar Sovjetske Zveze 
+1249	4 YEARS AND 7 MONTHS LATER 	4 leta in 7 mesecev pozneje 
+1250	The Wall has come down ! 	Zid je padel . 
+1251	Yes , the Wall has come down ! 	Res , zid je padel ! 
+1252	The border guards have opened the gates . 	Graničarji so odprli vrata . 
+1253	The excitement is enormous ! 	Ljudje so cisto iz sebe . 
+1254	People are streaming out in thousands ! 	Na stotine se jih zliva sem . 
+1255	It 's unbelievable ! 	Prav neverjetno . 
+1256	Dear listeners , November 9th , 1989 , will go down in history ! 	Dragi poslušalci , 9 . 11 . 1989 je zgodovinski dan ! 
+1257	TWO YEARS LATER 	Dve leti pozneje 
+1258	What 's wrong , my child ? 	Kaj je , otrok moj ? 
+1259	Your Arthur is dead . 	Tvoj Arthur je mrtev . 
+1260	Arthur ... 	Arthur ... 
+1261	Can 't you be wrong , just this once ? 	Zakaj se vsaj tokrat ne motiš ? 
+1262	I saw him this morning ! 	Zjutraj sem ga videla . 
+1263	No , sister . 	Zjutraj sem ga videla . 
+1264	Believe me . 	Ne , sestra , verjemi mi . 
+1265	He fell to his death . 	Ne , sestra , verjemi mi . 
+1266	The loyal men surround him , as you do me , and despite the high sun , cast seven shadows on his noble dead body . 	Smrt ga je vzela . Okrog sebe ima vdane može , tako kot jaz vas . Kljub žarkemu soncu mečejo sence na njegovo truplo , ki ga je zmlelo kolo . 
+1267	Crushed by the mighty wheel . 	
+1268	I see it , though I 'd rather see any other horror . 	Vidim to , čeprav bi raje videla kakšno drugo grozoto . 
+1269	Why am I not spared these visions ? 	Zakaj moram imeti videnja ? 
+1270	Elena ! 	Elena ! 
+1271	Go home and mourn . 	Pojdi žalovat . 
+1272	I will finish your shift . 	Dokončala bom tvojo izmeno . 
+1273	Too many memories , eh ? 	Prevec spominov , kaj ? 
+1274	I couldn 't stay in there either . 	Tudi jaz sem moral ven . 
+1275	But what 's this I hear ? 	Kaj slišim ? 
+1276	You 've not written since the Wall fell ? 	Nič niste napisali , odkar je padel zid ? 
+1277	That 's not good . 	To ni dobro . 
+1278	After all our country invested in you . 	Po vsem , kar smo vložili v vas . 
+1279	Although I understand you , Dreyman . 	Čeprav vas razumem . 
+1280	What is there to write about in this new Germany ? 	O čem bi pisali v tej novi Nemčiji ? 
+1281	Nothing to believe in , nothing to rebel against ... 	V nič več ne verjamemo , ni se čemu upirati . 
+1282	Life was good in our little Republic . 	V naši mali republiki je bilo lepo . 
+1283	Many people only realize that now . 	Mnogim je to jasno šele zdaj . 
+1284	- There is one thing I do need to ask you . 	Nekaj vas moram vprašati . 
+1285	- Whatever you want . 	- Kar vprašajte . 
+1286	Why was I never under surveillance ? 	Zakaj me niso nadzorovali ? 
+1287	Everyone else was . 	Vse druge ste . 
+1288	Why not me ? 	Vse druge ste . 
+1289	You were under full surveillance ! 	Saj smo vas nadzorovali . 
+1290	We knew everything about you . 	Vse smo vedeli o vas . 
+1291	Full surveillance ? 	- Nadzorovali ste me ? 
+1292	Every inch was bugged . 	Povsod so bile prisluškovalne naprave . 
+1293	The full program . 	Povsod so bile prisluškovalne naprave . 
+1294	Impossible ! 	Cel program . 
+1295	Take a look behind your light switches . 	Poglejte za stikala . 
+1296	We knew everything . 	Vse smo vedeli . 
+1297	We knew that you couldn 't give our little Christa what she needed . 	Vedeli smo celo , da najine male Christe niste mogli potešiti . 
+1298	To think that people like you once ruled a country ... 	Kako so lahko taki vladali naši državi ? 
+1299	RESEARCH SITE AND MEMORIAL 	Spominski center 
+1300	It 'll be a moment , there should be more than one file in your case . 	V vašem primeru je gotovo več dosjejev . 
+1301	I ordered them chronologically . 	Kronološko so urejeni . 
+1302	Old ones at the top , and the newer ones underneath . 	Stari so na vrhu , novi tu spodaj . 
+1303	My respects ! 	Vsa čast . 
+1304	Operation ´Lazlo ' . 	Operacija Lazlo , objekt Georg Dreyman , skrivno ime Lazlo . 
+1305	Operation ´Lazlo ' , subject : 	Operacija Lazlo , objekt Georg Dreyman , skrivno ime Lazlo . 
+1306	Georg Dreyman , code- name ´Lazlo ' , is launched . 	Operacija Lazlo , objekt Georg Dreyman , skrivno ime Lazlo . 
+1307	The lead came from Minister Bruno Hempf . 	Ovadil ga je minister Bruno Hempf . 
+1308	' Lazlo´ takes delivery of a daily Western newspaper without official permission . 	Lazlo vsak dan prejme Frankfurter Allgemeine brez uradnega dovoljenja . 
+1309	I suggest not taking any action so as not to arouse suspicion of surveillance . 	Predlagam , da se ne ukrepa , lahko bi posumil , da ga nadzorujemo . 
+1310	' Lazlo´ and CMS unwrap presents , then presumably have intercourse . 	Lazlo in Christa odpirata darila . Potem imata spolni odnos . 
+1311	The visitor was Paul Hauser 's uncle from West Berlin . 	Obišče ju Hauserjev stric iz Zahodnega Berlina . 
+1312	They tell him about a play that Hauser and ´Lazlo´ will write for the GDR 's 40th anniversary . 	Povesta mu za dramo , ki jo Hauser in Lazlo pišeta za 40 . obletnico NDR . 
+1313	We expect further information on the play , a plot summary etc . 	Čakamo nadaljnje podatke o drami . Vsebino in podobno . 
+1314	Contents of act 1 : 	Vsebina prvega dejanja : 
+1315	Lenin is in constant danger . 	Lenin je nenehno v nevarnosti . 
+1316	Despite increasing external pressure , he sticks to his revolutionary plans . 	Kljub vse večjemu pritisku od zunaj se drži načrta . 
+1317	Lenin is exhausted . 	Lenin je izčrpan . 
+1318	HGW ... 	HGW ... 
+1319	HGW XX- 7 ... 	HGWXX/ 7 
+1320	I , Christa- Maria Sieland , freely commit myself to work unofficially for State Security . 	Jaz , Christa- Maria Sieland , se prostovoljno obvežem , da bom neuradna sodelavka Službe za državno varnost . 
+1321	This decision is the result of my conviction that ... 	Tako sem se odločila , ker sem prepričana ... 
+1322	Georg Dreyman wrote the ´Spiegel´ article " One Who Made it to the Other Side . " 	G . Dreyman je avtor članka v Spieglu : 
+1323	His accomplices were the journalist Paul Hauser ... 	O nekom , ki je uspel priti na drugo stran . Njegovi sodelavci so novinar Paul Hauser ... 
+1324	Christa Sieland was arrested on March 10th for drug abuse , on Minister Hempf 's indication . 	Sielandovo 10 . 3 . primejo zaradi zlorabe drog , naznanil jo je minister Hempf . 
+1325	She was released at 1 . 50 p . m . on March 11th , having revealed ´Lazlo´s hiding place and signing up as informant ´Marta ' . 	Izpustijo jo 11 . 3 . ob 13 : 50 , po tem , ko je razkrila Lazla in pristala , da bo sodelovala pod imenom Marta . 
+1326	1 . 50 p . m ... 	13 : 50 . 
+1327	So when did she ... 	Kdaj ji je ... 
+1328	After the unsuccessful house search of March 11 , 1985 , and ´Marta´s ' fatal accident , 	Po neuspešni preiskavi hiše 11 . 3 . 
+1329	Operation ´Lazlo´ was terminated . 	1985 , in nesreči , v kateri je Marta umrla , je operacija Lazlo zaključena . 
+1330	Note : 	Zabeležka : prepove se napredovanje HGW . 
+1331	HGW 's promotion ban takes effect immediately . 	Zabeležka : prepove se napredovanje HGW . 
+1332	Transfer to Dept . 	Premešcen je drugam in priporoceno je , da se mu ne odreja nalog , ki bi jih opravljal sam . 
+1333	M , with the recommendation not to entrust him with missions under his sole responsibility . 	Premešcen je drugam in priporoceno je , da se mu ne odreja nalog , ki bi jih opravljal sam . 
+1334	10 : 50 a . m . : 	10 : 50 . 
+1335	Resume surveillance outside ´Lazlo´s ' house . 	Prevzem opazovanja Lazlovega vhoda . 
+1336	At 3 . 10 p . m . , ´Marta´ comes directly from Hohenschonhausen to his apartment . 	Ob 1 5 : 10 Marta pride k njemu naravnost iz zapora . 
+1337	House search and report to follow . 	Sledi preiskava hiše . 
+1338	End of Operation ´Lazlo ' . 	Konec operacije Lazlo . HGW . 
+1339	HGW , 3 . 15 p . m . 	15 : 15 . 
+1340	Who is HGW XX- 7 ? 	Kdo je HGW XX/ 7 ? 
+1341	Stop . 	Stoj ! 
+1342	Back to Hufeland Street . 	Nazaj na Hufelandsko . 
+1343	TWO YEARS LATER 	Dve leti pozneje 
+1344	" Georg Dreyman " " Sonata for a Good Man " 	Georg Dreyman Sonata o dobrem človeku 
+1345	" A Novel " " Dedicated to HGW XX- 7 , in gratitude . " 	Posveceno HGWXX/ 7 , s hvaležnostjo . 
+1346	29, 80 . 	29, 80 . 
+1347	Shall I gift- wrap it ? 	Zavijem kot darilo ? 
+1348	No , it 's for me . 	Ne , zame je . 

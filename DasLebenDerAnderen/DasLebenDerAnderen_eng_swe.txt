@@ -1,0 +1,1349 @@
+0	TEMPORARY DETENTION CENTER MINISTRY FOR STATE SECURITY 	
+1	Stand still . 	Stanna , titta ner . 
+2	Eyes to the floor . 	Stanna , titta ner . 
+3	Walk on . 	Fortsätt . 
+4	TEMPORARY DETENTION CENTER MINISTRY FOR STATE SECURITY 	Häktet vid Ministeriet för statssäkerthet , Stasi . 
+5	Address him as ´Captain ! ' 	Tilltala honom med Kapten . 
+6	Enter . 	Kom in . 
+7	Sit down . 	Sätt dig . 
+8	Hands under your thighs , palms down . 	Händerna under låren , ändan mot stolen . 
+9	What do you have to tell us ? 	Vad har ni att berätta ? 
+10	I' ve done nothing . 	Jag har inte gjort något . 
+11	I know nothing . 	Jag vet inte . 
+12	You 've done nothing , know nothing ... 	Att ni inte har gjort något , stämmer inte . 
+13	You think we imprison people on a whim ? 	Ni tror alltså att vi spärrar in vanliga människor ? 
+14	No ... 	Nä , jag menar inte så . 
+15	If you think our humanistic system capable of such a thing , that alone would justify your arrest . 	När ni ifrågasätter vårt system har vi rätt att arrestera er , - - även om ni inte har gjort något . 
+16	We 'd like to jog your memory , prisoner no . 	Jag skall hjälpa dig att minnas . 
+17	227 . 	Jag skall hjälpa dig att minnas . 
+18	On September 28th , Dieter Pirmasens , your friend and neighbor , fled to the West . 	Din vän och granne flydde till Förbundsrepubliken den 28 September . 
+19	We believe that he had help . 	Vi har bevis på att ni hjälpe honom . 
+20	I know nothing . 	Jag vet ingenting om det . 
+21	He didn 't even tell me he wanted to leave . 	Han berättade aldrig om sina planer . 
+22	I first heard about it at work . 	Jag trodde att han var på affärsresa . 
+23	Please recount what you did on September 28th . 	Berätta vad ni gjorde den 28 September . 
+24	- It 's in my statement . 	- Det har ni redan antecknat . 
+25	- Tell me again . 	- Jag vill höra det igen . 
+26	I was at Treptow Park memorial with my children . 	Jag gick med ungarna i parken , - 
+27	Where I met my old friend Max Kirchner . 	- där träffade jag min gamla skolkamrat Max Kirchner . 
+28	We went to his place and listened to music until late . 	Vi gick hem till honom , lyssnade på musik till sent på kvällen . 
+29	He has a telephone , you can call him to confirm this . 	Ni kan ringa honom och bekräfta det . 
+30	I can give you the number . 	Jag kan ge er hans nummer . 
+31	The enemies of our state are arrogant . 	Han beter sig självsäkert och arrogant . 
+32	Remember that . 	Han beter sig självsäkert och arrogant . 
+33	It takes patience . 	Märker ni det ? Vi måste ha tålamod med honom . 
+34	About 40 hours worth . 	Förhöra honom mer än 40 timmar . 
+35	( STASI COLLEGE , POTSDAM- EICHE ) 	Förhöra honom mer än 40 timmar . 
+36	Fast forward ... 	Vi spolar framåt . 
+37	I want to sleep . 	Jag måste sova , låt mig sova . 
+38	Please , let me sleep ! 	Jag måste sova , låt mig sova . 
+39	Hands under your thighs . 	Händerna under låren . 
+40	Tell me again what you did on September 28th . 	Berätta igen vad ni gjorde den 28 September . 
+41	Please , just one hour , just a little ... a little sleep . 	Snälla , låt mig sova . Bara sova en timme . 
+42	Tell me again what you did on that day . 	Berätta återigen vad ni gjorde den dagen . 
+43	Why keep him awake for so long ? 	Varför håller ni honom vaken så länge ? 
+44	It 's ... inhuman . 	Jag menar ... Det är ju omänskligt 
+45	An innocent prisoner will become more angry by the hour , due to the injustice suffered . 	Om en oskyldig man blir förhörd såhär länge för något han inte gjort , 
+46	He will shout and rage . 	- blir han antingen rasande , eller begår självmord . 
+47	A guilty prisoner becomes more calm and quiet ... 	En skyldig person blir ofta lugn , håller tyst eller gråter . 
+48	Or he cries . 	En skyldig person blir ofta lugn , håller tyst eller gråter . 
+49	He knows he 's there for a reason . 	Han vet precis varför han sitter där . 
+50	The best way to establish guilt or innocence is non- stop interrogation . ... school friend Max Kirchner . 	Bästa sättet att ta reda på om en han är skyldig är förhör tills han erkänner . 
+51	We went to his place ... and listened to music until late . 	Vi träffade Max Kirchner - - och gick tillsammans hem till honom , - - lyssnade på musik och var uppe länge . 
+52	He has a telephone , you can call him to confirm this . 	Jag har hans nummer , ni kan ringa och bekräfta att det jag har sagt är sant . 
+53	Do you notice anything about his statement ? 	Hörde ni något speciellt i hans berättelse ? 
+54	It 's the same as at the beginning . 	Han säger samma sak hela tiden . 
+55	Exactly the same . 	Han ändrar knappt ett ord . 
+56	Word for word . 	Han ändrar knappt ett ord . 
+57	People who tell the truth can re- formulate things , and they do . 	Berättelsen förändras inte av hur man beskriver det . 
+58	A liar has prepared sentences , which he falls back on when under pressure . 	Kom ihåg det . En lögnare kan ha tränat in berättelsen , men under förhör håller det inte länge . 
+59	227 is lying . 	Han ljuger alltså , vi har två viktiga bevis och vi kan höra hans intensitet . 
+60	We have two important indicators , and can increase the intensity . 	Han ljuger alltså , vi har två viktiga bevis och vi kan höra hans intensitet . 
+61	If you don 't give names , 	Om ni berättar vem som hjälpte till , så kan ni gå hem till er fru ikväll . 
+62	We 'll have to arrest your wife . 	Om ni berättar vem som hjälpte till , så kan ni gå hem till er fru ikväll . 
+63	Jan and Nadja will be put into state care . 	Om det inte är så att ni vill hamna i fängelset . 
+64	Is that what you want ? 	Vill ni det ? 
+65	Who was the person who helped him flee ? 	Vad heter medhjälparen ? 
+66	- Glaske ... 	Vem var det ? 
+67	- Again ! 	- Glesker . 
+68	Speak clearly ! 	- Glesker . 
+69	Glaske ... 	- Glesker . 
+70	Werner Glaske . 	Werner Glesker . 
+71	Werner ... 	Werner Glesker . 
+72	Glaske . 	- Werner Glesker . 
+73	Quiet ! 	Tystnad . 
+74	Quiet ! 	Tystnad . 
+75	Listen ! 	Tystnad . 
+76	Does anyone know what that is ? 	Vem vet vad det är för ljud ? 
+77	It 's the odor sample for the dogs . 	Det är spårlukt till hundarna . 
+78	It must be collected at every interrogation . 	Det samlas in vid varje förhör och förvaras för alltid . 
+79	Never forget it ! 	Det samlas in vid varje förhör och förvaras för alltid . 
+80	Your subjects are enemies of Socialism . 	Förhörsarbete är viktigt för att bekämpa anti- socialism . 
+81	Never forget that ! 	Glöm inte det . 
+82	Goodbye . 	Hej då . 
+83	That was good , really good . 	Bra ! 
+84	You remember how we sat there 20 years ago ? 	Vi har inte gått ut på ... 20 år ? 
+85	They 've offered me a professorship . 	Hur går det med din professur ? 
+86	Life 's not about good grades , though mine weren 't that bad , thanks to you . 	Du ser ut att må bra , i alla fall bättre en mig . 
+87	So what 's up ? 	Vad står på ? 
+88	Why do you always think I 'm scheming ? 	Varför tror du jag vill ha något ? 
+89	- I wanted to invite you to the theater . 	- Jag ville bjuda dig på teater . 
+90	- The theater ? 	- Teater ? 
+91	I heard that Minister Hempf is going . 	Jag har hört att även kulturminister Bruno Hempf kommer . 
+92	As head of the Culture Department , I should show my face . 	För att visa regeringens inställning till artisten , tror jag . 
+93	It starts at 7 p . m . 	Det börjar klockan 7 ikväll . 
+94	We should get going . 	Vi pratar om det senare . 
+95	THE LIVES OF OTHERS 	De andras liv . 
+96	Minister Hempf at one o' clock . 	Minister Bruno Hempf , klockan ett , parketten . 
+97	He used to be in State Security , you know . 	Du vet väll att han var en nolla , innan han började jobba på kulturministeriet . 
+98	He really cleaned up the theater scene . 	Han är helt ointresserad av teater . 
+99	Georg Dreyman , the writer . 	Georg Dreyman , en poet . 
+100	An arrogant type , the kind I warn my students about . 	Han är lika arrogant som några av mina studenter . 
+101	But he 's loyal . 	Också Västvänlig . 
+102	If they were all like him , I 'd be out of a job . 	Men han förlorar snart sitt jobb . 
+103	He 's our only non- subversive writer who is also read in the West . 	Vi misstänker att några författare har kontakter med Väst . 
+104	He thinks the GDR is the greatest country on earth . 	Han är en av dem . Men DDR är ju världens bästa land . 
+105	It starts . 	Det börjar . 
+106	What 's wrong , my child ? 	Mitt kära barn , vad är det ? 
+107	A new vision ? 	Mitt kära barn , vad är det ? 
+108	Speak , Marta ! 	Berätta Marta , berätta ! 
+109	Speak ! 	Berätta Marta , berätta ! 
+110	Your Arthur ... is dead . 	Han lever inte längre . 
+111	Arthur ? 	Otto ? 
+112	Can 't you be wrong , just this once ? 	Hur kan du säga något sådant ? 
+113	No , sister . 	Nej syster , lita på mig . 
+114	Believe me . 	Nej syster , lita på mig . 
+115	He fell to his death . 	Han är död . 
+116	Crushed by the mighty wheel . 	Det finns rädsla i hans målningar . 
+117	I see it , though I 'd rather see any other horror . 	Jag kan se det - - den hemska kärleken . 
+118	Why am I not spared these visions ? 	Varför besparades jag inte från synen . 
+119	Elena ! 	Elena , kom så går vi . 
+120	Go home ... and mourn . 	Elena , kom så går vi . 
+121	I' ll finish your shift . 	Elena , kom så går vi . 
+122	Did you like it ? 	Vad tror du ? 
+123	Dreyman 's good , eh ? 	Är du med ? 
+124	I 'd have him monitored . 	Jag skall övervaka honom . 
+125	Monitored ? 	Övervaka ? 
+126	All that teaching is ruining your instincts . 	Det är skillnad mot att undervisa . 
+127	I could oversee it myself . 	- Vi kan använda de främsta metoderna . 
+128	He 's clean , I tell you . 	- Vi kan använda de främsta metoderna . 
+129	Even Hempf likes him . 	- Du sätter din karriär på spel . 
+130	We 'd be shooting ourselves in the foot . 	Men om du misslyckas är du körd . 
+131	I 'm going down . 	Jag går ner ett tag . 
+132	" Faces of Love " 	
+133	I hear a lot about your work . 	Vi har mycket att göra , se till att kulturen inte är i fel händer . 
+134	They say culture 's in good hands . 	Vi har mycket att göra , se till att kulturen inte är i fel händer . 
+135	Your name is mentioned in Party circles . 	Vilket parti tillhör ni ? 
+136	We 're the Party 's ´shield and sword ' . 	Jag tror inte det spelar någon roll , herr Minister . 
+137	I 'm aware of that at all times . 	Utan , viljan . 
+138	What do you make of him ? 	Vad vet ni om honom ? 
+139	Of Georg Dreyman ? 	Georg Dreyman ? 
+140	Maybe ... 	Kanske ... 
+141	Maybe what ? 	Kanske vad ? 
+142	Maybe he 's not as clean as he seems . 	Han är kanske inte så svår som han verkar . 
+143	Grubitz ! 	
+144	That 's why you and I are on top . 	Som en man med era kvaliteter . 
+145	Your average Stasi chump would have said , 	Jag hoppas att ni kan utarbeta en plan . 
+146	" One of our best ! 	Jag hoppas att ni kan utarbeta en plan . 
+147	So loyal ! " etc . 	Vi kan prata om det senare . 
+148	But we can see more . 	Vi kan prata om det senare . 
+149	You 're heading to the very top , Grubitz . 	De har höga förväntningar på dig . 
+150	There 's something fishy about him . 	Det blir svårt . 
+151	I can feel it in my gut . 	Poeten vet också hur man gömmer sig . 
+152	Dreyman 's having a party next week . 	Nästa Tisdag skall de ha en fest hos Dreyman . 
+153	Some dubious types are going , Hauser and that rabble . 	Det är många som kommer - 
+154	Try to wire the place discreetly by then . 	- bland annat regeringskritikern Hauser , och några andra . 
+155	Measures A and B . 	Ni måste planera noga . Använd dina gamla knep , kanske avlyssning . 
+156	Only in his rooms . 	Men försiktigt , han har mäktiga vänner . 
+157	Nothing conspicuous . 	Men försiktigt , han har mäktiga vänner . 
+158	He has powerful friends . 	Men försiktigt , han har mäktiga vänner . 
+159	No one is to know about this until we 've found something . 	Och rapportera inte förrän ni har samlat in alla bevis . 
+160	But if you get something on him , you 'll have a good friend in the Central Committee . 	När vi väl har bevis mot honom är han borta . 
+161	You understand what I 'm saying ? 	Förstår ni vad jag menar ? 
+162	Have a nice evening , Comrade Minister . 	God natt , herr Minister . 
+163	Why is he staring at us ? 	Varför tittar han på oss ? 
+164	What 's he doing here , anyway ? 	Vad vill han ? 
+165	I think he 's got a crush on you . 	Kanske en beundrare ? 
+166	I can 't let the evening pass without raising a toast to our artists . 	Ursäkta att jag avbryter . Det är en underbar kväll för våra kulturarbetare . 
+167	A great Socialist , I can 't recall who it was , once said : 	Men en stor socialist har en gång sagt : 
+168	Writers are engineers of the soul . 	" En poet är en ingenjör i Paradiset " 
+169	So Georg Dreyman is one of our country 's greatest engineers . 	Och Georg Treiman är bland de bästa ingenjörerna i DDR . 
+170	- What charming bed- fellows you have . 	- Vad är det med honom ? - Paul , lyssna . 
+171	- Paul ! 	
+172	And to Christa- Maria Sieland , the loveliest pearl of the GDR . 	Och naturligtvis Christa- Maria Sieland den vackraste pärlan i DDR , utan tvekan . 
+173	I believe that nobody contradict my opinion . 	Och naturligtvis Christa- Maria Sieland den vackraste pärlan i DDR , utan tvekan . 
+174	Let 's raise our glasses to Christa- Maria Sieland : 	Så vi höjer vi glasen för Christa- Maria Sieland , hon leve , hurra , hurra , hurra . 
+175	Three cheers to her . 	Så vi höjer vi glasen för Christa- Maria Sieland , hon leve , hurra , hurra , hurra . 
+176	Someone like him doesn 't even deserve to address you . 	Du behöver inte ta hans ord på allvar . 
+177	Stay with me ! 	Du behöver inte ta hans ord på allvar . 
+178	And now something for the soul ... 	Du var verkligen bra ikväll . 
+179	May I ? 	Får jag lov ? 
+180	- How did you like my speech ? 	Dina pjäser är alltid lika bra . 
+181	- Many thanks . 	Tack så mycket . 
+182	I liked your play too . 	Denna var också mycket bra . 
+183	Really , it was good . 	Det var verkligen bra . 
+184	" Engineers of the soul . " 	Ingenjör i Paradiset ? 
+185	That was a Stalin quote . 	Förstår ni vad det betyder ? 
+186	Really ? 	Självklart . 
+187	I , too , like to provoke , Mr . 	Han är bra på att provocera , Hauser . 
+188	Hauser . 	Han är bra på att provocera , Hauser . 
+189	But unlike you , I know how far I can go . 	Men han vet ändå var gränsen går . 
+190	I 'm more like our dear Dreyman . 	Jag är stolt över Dreyman . 
+191	He knows that the Party needs artists , but that artists need the Party even more . 	Han vet vad partiet vill , och vad det gör för honom . 
+192	If you 're going to talk politics , I' ll find another dance partner . 	När ni börjar prata politik , går jag helst någon annan stans . 
+193	- I 'm willing . 	- Jag är redo . 
+194	- Too late ! 	- För sent , för sent . 
+195	I follow our theater with interest . 	- Jag har följt din teaterkarriär länge . 
+196	It used to be theater people ... 	- Brydde ni er inte om kultur tidigare ? 
+197	- Paul ! 	- Paul ! 
+198	- It 's okay , 	- Jag har känt Hauser länge . 
+199	I' ve known Mr . 	- Jag har känt Hauser länge . 
+200	Hauser for years . 	- Jag har känt Hauser länge . 
+201	Comrade Schwalber ! 	Schweiber . 
+202	You did a good job tonight too . 	Man ser att ni arbetar mycket . 
+203	Dreyman , I 'm glad you 're working with such directors . 	Dreyman , jag är glad att ni fått arbeta med en så duktig regissör . 
+204	It wasn 't always so . 	Dreyman , jag är glad att ni fått arbeta med en så duktig regissör . 
+205	You 're referring to Jerska ? 	Ni pratar om Jerska . 
+206	I think you judged him too harshly . 	Jag tycker att han blir för hårt behandlad . 
+207	Sure , he went too far in what he said . 	Speciellt med förbudet mot att låta honom fortsätta . 
+208	Without a doubt . 	Speciellt med förbudet mot att låta honom fortsätta . 
+209	But put yourself in his shoes for a moment . 	Försök att sätta dig in i hans situation . Han kan inte acceptera förklaringen han fått . Och Hempf , han skulle kunna arbeta i vilken teater som helst , i Väst . 
+210	You , as a man of honor . 	
+211	He can 't remove his name from that statement . 	
+212	He could work for any theater in the West . 	
+213	But he wants to stay here . 	
+214	Because he believes in Socialism and in this country . 	Han tror inte på socialismen , utan på landet . 
+215	- His black- listing is ... 	- Förbudet är helt åt ... 
+216	- Black- listing ? 	- Ni riskerar också ett förbud . 
+217	We don 't do that here ! 	Det är inte i våra händer , ni får vara försiktigare i framtiden . 
+218	You should choose your words more carefully . 	Det är inte i våra händer , ni får vara försiktigare i framtiden . 
+219	Comrade Hempf , just between us : 	Okej , då har jag en sak att säga till dig . 
+220	My plays are not strong enough to survive Schwalber 's direction . 	Mitt stycke är inte så bra att jag klarar det själv . 
+221	I need Jerska , and I think you judged him too harshly . 	Jag behöver Jerska . - Och jag tror att ni kan hjälpa honom . 
+222	Well , I don 't . 	- Och jag tror inte det . 
+223	But that 's what we all love about your plays . 	Hoppet förändras aldrig . 
+224	Your love for mankind ... your belief that people can change . 	Kärleken till de goda människorna , - 
+225	Dreyman , no matter how often you say it in your plays , people do not change ! 	- man tror att man kan förändra något . Jag tror nog att ni klarar att skriva själv . Människor förändras inte . 
+226	How is he , by the way ? 	- Hur går det då ? 
+227	He hopes that his black - ... that he can work again soon . 	- Vi hoppas på att vi får in någon sång . Det är det vi behöver jobba på . 
+228	Is he right in hoping ? 	- Förhoppningsvis . 
+229	Of course he is . 	- Förhoppningsvis . 
+230	As long as he lives , and even longer . 	- Såklart skall ni hoppas på det . 
+231	Because as you know , Dreyman , hope always dies last . 	Ni borde veta att , hoppet är det sista som lämnar en . 
+232	The team will be ready to wire the place as of tomorrow . 	Imorgon förbereder vi ljudsystemet så att det fungerar som det skall . 
+233	It needs to be finished by Thursday . 	Det är viktigt att vi inte har apparater i lägenheten . 
+234	You should plan everything carefully . 	Annars har du fria händer . 
+235	Think you can do it ? 	Förstått ? 
+236	Good night . 	God natt . 
+237	I' ll get in trouble if I don 't go . 	Jag måste vidare , mina vänner . 
+238	- With who ? 	Jag måste vidare , mina vänner . 
+239	- My girlfriend . 	Jag måste vidare , mina vänner . 
+240	Twenty minutes . 	20 minuter . 
+241	Yes ? 	Fru Meineke . 
+242	Frau Meineke ... 	Fru Meineke . 
+243	One word of this to anyone , and Masha loses her spot at the university . 	Ett ord till någon , så åker ni in häktet . 
+244	Is that understood ? 	Har ni förstått ? 
+245	Yes . 	Ja . 
+246	Send Mrs . 	Gör en anteckning om fru Meineke . 
+247	Meineke a gift for her cooperation . 	Gör en anteckning om fru Meineke . 
+248	It must be Thursday again . 	Härliga Torsdag . 
+249	Time passes so quickly ... 	Så tiden flyger iväg ! 
+250	Perhaps that 's a good thing . 	Härligt att se dig igen . 
+251	- How are you ? 	- Hur har du det ? 
+252	- Not bad . 	- Hur har du det ? 
+253	It 's not always this noisy . 	- De väsnas inte alltid . 
+254	Only on Thursdays , I know . 	- Jag vet , bara på Torsdagar . 
+255	Yes . 	Ja . 
+256	We missed you at the premiere . 	- Jag saknar det förflutna . 
+257	Did Schwalber do a good job ? 	- Det låter inte som en bra början . 
+258	His good bits were stolen from you . 	- Jag har haft en märklig känsla sedan gårdagens premiär . 
+259	That keeps my ideas alive . 	Det håller dig skärpt . 
+260	Don 't bear it . 	Jag står inte ut i detta landet , där vi saknar uttrycksfrihet och rättigheter . 
+261	I can 't bear those fat , dressed- up people at premieres anymore . 	Jag står inte ut i detta landet , där vi saknar uttrycksfrihet och rättigheter . 
+262	Doesn 't sound like me , does it ? 	Hela systemet gör mig galen . 
+263	But maybe this is the real me , not the old Jerska . 	Men å andra sidan , var det kanske samma system som inspirerade oss att skriva - 
+264	He was friendly and caring , nourished by success ... all thanks to the grace of the bigwigs . 	- om hur människorna lever i detta landet , riktiga liv . Om inte poesin skulle förlama oss så . 
+265	But I won 't complain much longer . 	Men det är för sent för mig . 
+266	In my next life , I' ll simply be an author . 	I mitt nästa liv hoppas jag att jag är författare igen , en lycklig författare . 
+267	A happy author who can write whenever he wants . 	I mitt nästa liv hoppas jag att jag är författare igen , en lycklig författare . 
+268	Like you . 	En som alltid kan skriva . Som du . 
+269	What is a director if he can 't direct ? 	Vad skulle en regissör göra - - om han inte längre fick göra sina egna filmer längre . 
+270	He 's a projectionist without a film , a miller without corn . 	Vad skulle en regissör göra - - om han inte längre fick göra sina egna filmer längre . 
+271	He is nothing . 	
+272	Nothing at all . 	Inte längre . 
+273	Albert , the Minister was at the premiere . 	Albert , efter premiären pratade jag med Ministern , Minister Hempf . 
+274	Minister Hempf . 	Albert , efter premiären pratade jag med Ministern , Minister Hempf . 
+275	I spoke to him about your blacklisting . 	Han pratade om att förbjuda min verksamhet . 
+276	It looks promising . 	Det ser inte bra ut eller ? 
+277	He gave me hope , concrete hope . 	Jag vet inte vad jag skulle göra . 
+278	Literally . 	Jag vet inte vad jag skulle göra . 
+279	Really ? 	Verkligen ? 
+280	That 's great . 	Verkligen ? 
+281	Cheap Georgian wine . 	Jag har köpt fina viner . 
+282	Chateau Jerska . 	Jag har köpt fina viner . 
+283	So is our holy drinker coming ? 	Hur är det med vår vinälskare ? 
+284	I forgot to ask him . 	Det glömde jag fråga . 
+285	You 're strong and forceful . 	Du har styrka och livskraft . 
+286	That 's how I need you . 	Jag behöver dig . 
+287	Don 't let this blackness into your life . 	- Även om de förstör våra liv . 
+288	- Albert is my friend . 	- Han är min vän . 
+289	- And you 're my boyfriend . 	- Och du är min . 
+290	Looks like a 50th . 	- Då har vi 50 år till . 
+291	But I 'm going to be 40 , right ? 	Eller kanske 40 ? 
+292	Don 't forget , you promised to wear a tie for your birthday . 	Jag hoppas att du inte glömt att du lovade att ha slips på din födelsedag . 
+293	I would , but I don 't have one . 	Det har jag inte glömt , men jag har ingen . 
+294	Bon anniversaire ! 	Var så god . 
+295	Atie ? 	- En slips ? 
+296	You said you didn 't want any books . 	- Du sa att du inte önskade dig böcker . 
+297	Or can 't you tie a tie , you old working- class poet ? 	Men jag tvivlar på att du kan knyta den . 
+298	What ? 	Jag kan knyta slipsar , sen jag föddes . 
+299	I was born wearing a tie ! 	Jag kan knyta slipsar , sen jag föddes . 
+300	I had to " fight my way out of my middle- class fetters " . 	Du vill alltså tvinga mig att kämpa med slipsen själv . 
+301	Then put those fetters on again , just for me . 	Du får knyta den för min skull . 
+302	Alright ... 	
+303	It 's no big deal to tie a tie . 	Kvinnor ! Detta går inte . 
+304	Frau Meineke , would you come in for a moment ! 	Fru Meineke , kan du komma hit ett tag ? 
+305	Can you tie a tie ? 	Skulle ni kunna knyta min slips ? 
+306	You 've no idea how thankful I am . 	Jag står i skuld till dig , resten av mitt liv . 
+307	- Are you feeling unwell ? 	- Är allt bra ? 
+308	- No ... 	- Ja , jag mår bra . 
+309	I 'm feeling fine . 	- Ja , jag mår bra . 
+310	Finished ? 	- Färdig ? 
+311	Wonderful . 	Fantastiskt ! 
+312	It 's perfect . 	Det är perfekt . 
+313	It couldn 't be better . 	Det får mig att framstå ordinär 
+314	It 'll be our secret . 	Kan ni bevara en hemlighet ? 
+315	You can keep a secret , right ? 	En hemlighet mellan oss . 
+316	Of course . 	
+317	I' ll be damned ! 	Vackert . 
+318	And I thought you couldn 't do it . 	Jag trodde inte att inte kunde . 
+319	You don 't normally hide your talents . 	Du är full av överraskningar . 
+320	You 've no idea of the things I can do ! 	Du gissar aldrig vad jag kan mer . 
+321	The first guest . 	Första gästen är här . 
+322	Our dear neighbors locked the main door again . 	Vår kära ringklocka är trasig igen . 
+323	- Can you go ? 	Kan du gå ner ? 
+324	- Yes , I 'm going . 	Ja , visst . 
+325	Maestro ! 	- Här är vår present . 
+326	Our humble offerings . 	- Här är vår present . 
+327	- I expressly said no books ! 	- Som du sa , inga böcker . 
+328	- But thanks . 	Tack . 
+329	Would you like a drink ? 	- Vill ni ha något att dricka ? 
+330	- A soda . 	- Vill ni ha något att dricka ? 
+331	- Vodka for me . 	- Ja , gärna . 
+332	I' ll get it . 	Jag hämtar några drinkar . 
+333	Why the hell 's Albert sitting all alone ? 	Vad står på ? Varför sitter Albert ensam ? 
+334	He won 't talk to us . 	Han ville inte följa med , vi fick tvinga hit honom . 
+335	He sent us all away . 	Han ville inte följa med , vi fick tvinga hit honom . 
+336	I brought you something too . 	Detta är min present . 
+337	- Did you really come here to read ? 	- Kom du hit bara för att läsa ? 
+338	- It is Brecht ! 	- Det är Brecht . 
+339	I feel like a fraud among these people . 	Jag känner mig så liten med alla dessa människor . 
+340	A fraud ? 	Jag känner mig så liten med alla dessa människor . 
+341	Come off it , Albert ! 	Nej , Du vet ju att de beundrar dig . 
+342	You 're losing your grip on reality . 	Nej , Du vet ju att de beundrar dig . 
+343	You know how we admire you , how everybody admires you . 	Hur alla beundrar dig . 
+344	For something I did 10 years ago ... and could probably never do again . 	Ja , för något de gjort för 10 år sedan . Och som de inte kan göra mer . 
+345	My favorite director ! 	Min favoritregissör . 
+346	Wait ! 	Vänta så kan vi prata . 
+347	I need to talk to you a moment . 	Vänta så kan vi prata . 
+348	Tell me again how you got into this position . 	Förklara för mig hur du fått ditt jobb . 
+349	Pure talent . 	Förklara för mig hur du fått ditt jobb . 
+350	Of course ! 	Kontakter ? Såklart . 
+351	But what else did you have to do ? 	Såklart , men vad har du själv gjort ? 
+352	Everyone knows you 're with the Stasi ! 	Att du inte har kontakter med Stasi stämmer inte . 
+353	- What an outrageous insinuation ! 	- Du har helt fel ... 
+354	- Don 't forget it ! 	- Nej ! 
+355	- Paul ! 	- Lögn ! 
+356	- What ? 	- Vad är det ? 
+357	Excuse my friend , he 's had too much to drink . 	Schweiber , ursäkta . 
+358	But you know he 's with the Stasi ! 	Vad är det ? Du vet ju att han arbetar för Stasi . 
+359	No , Paul . 	Nej , Paul - Det är bara spekulationer . 
+360	I don 't know that . 	Nej , Paul - Det är bara spekulationer . 
+361	You 're such an idealist that you 're almost a bigwig . 	Du är en vanlig jävla idealist . Vet du det ? 
+362	It was informers and conformists like that who ruined Albert . 	Han har förstört dig . De här människorna . 
+363	Spy , betrayer ! 	Du har gett vika och anpassat dig . 
+364	If you don 't take a stand , you 're not human ! 	Någon gång måste ifrågasätta det , annars är du ingen människa . 
+365	If you ever want to take action , call . 	Om du inte visar din åsikt , kan vi sluta träffas . 
+366	If not , we don 't have to meet again . 	Trots att jag behöver dig . 
+367	Your friends don 't have much taste . 	- Tycker dina vänner inte om dig ? 
+368	That 's really unfair . 	- Du är verkligen orättvist . 
+369	Here ! 	Som den här . 
+370	Look at this beautiful backscratcher . 	Är den inte vacker ? 
+371	That 's a salad fork ! 	Det är en salladsgaffel . 
+372	Still , it 's beautiful ... 	Trots det , är den vacker . 
+373	And look at this . 	Trots det , är den vacker . 
+374	I' ll write my new play with this . 	Titta här . Med den skall jag skriva mitt nästa kapitel . 
+375	You have no taste either ! 	Du har inte heller någon smak . 
+376	I do in some things . 	Den är ändå vacker . 
+377	- It 's from Jerska . 	- Den är från Jerska . 
+378	- So he did give you a book ! 	- Han gav givetvis också en present . 
+379	" Sonata for a Good Man " 	
+380	" ' Lazlo´ and CMS unwrap presents , then presumably have intercourse . " 	23 : 04 Laszlo och CMS öppnade presenterna . Sedan hade de sex . 
+381	You 're late . 	Ni är sen . 
+382	Sorry , Captain . 	Ursäkta , tunnelbanan var försenad 4 minuter . 
+383	Those red lights made me lose all of four minutes . 	Ursäkta , tunnelbanan var försenad 4 minuter . 
+384	You know how it is . 	Det är därför . 
+385	They 're already at it ! 	Detta är min grej . 
+386	Unbelievable ! 	Dessa konstnärer - 
+387	These artists ! 	- när de väl kör igång . 
+388	They 're always at it ! 	- när de väl kör igång . 
+389	That 's why I prefer monitoring artists to priests or peace activists . 	Inte konstigt att de vill bevaka dem . 
+390	See you tomorrow at 11 a . m . 	Vi ses imorgon klockan 11 . 
+391	Albert Jerska , operation ´Engerling ' . 	Albert Jerska . 
+392	Systematic as usual , Wiesler . 	Albert Jerska . 
+393	The files will be sent . 	Albert Jerska . 
+394	Let 's have lunch . 	Vi går på lunch , kom . 
+395	The BSG Volleyball team will meet at 7 p . m . 	Vollyboll ikväll klockan 19 . 
+396	Did you forget ? 	Vad gör vi här , de andra är där borta . 
+397	Bosses sit over there . 	Vad gör vi här , de andra är där borta . 
+398	Socialism must start somewhere . 	Oavsett var , måste socialismen låta oss äta . 
+399	About the license plate of the car that brought Ms . 	En sak om bilen som hämtade fru Sieland . 
+400	Sieland home ... 	En sak om bilen som hämtade fru Sieland . 
+401	It 's Minister Hempf 's car . 	Bilen tillhör Minister Hempf . 
+402	Wiesler , we can 't monitor top officials . 	Wiesler , vi har inte alla detaljerna ännu . Du behöver inte rapportera skriftligen . 
+403	I removed the entry in your report . 	
+404	Nothing written from now on , just oral ! 	Bara om han träffar någon , då muntligen . 
+405	So we 're helping a Committee member get a rival out of the way . 	Vi har alltså att göra med en förrädare och rival . 
+406	You know what this could mean for my career . 	Du måste förstå att den informationen är känslig för min karriär , och för din . 
+407	And for yours . 	Du måste förstå att den informationen är känslig för min karriär , och för din . 
+408	If we find something ... 	Om vi får fram något . 
+409	Is that why we joined ? 	Har vi fått det i uppdrag ? 
+410	You remember the oath we took ? 	Står det under vår erlagda ed , - 
+411	" We are the Party 's shield and sword . " 	- att ljuga och lura partiet ? 
+412	What is the Party , if not its members ? 	- Partiet väljer själv sina ledare . 
+413	And if those members are highly influential , all the better ! 	Ju större sammanslutning de har , desto bättre . 
+414	I' ve got a new one . 	Jag har en ny . 
+415	Honecker comes into his office , opens the window , sees the sun , and says ... 	På morgonen går Honecker till sitt kontor . Han öppnar sitt fönstret , ser solen och säger . 
+416	What 's wrong ? 	Vad är det ? 
+417	Oh , excuse me ... 	Ursäkta ... Det var ... 
+418	I just ... 	Jag skulle ... 
+419	No , carry on , colleague ! 	Nej , det är ingen fara , kamrat . 
+420	No harm in laughing about the Party Chairman , is there . 	Skämta om våra ledare , få höra . 
+421	I probably know the joke anyway . 	Jag kan en hel del själv . 
+422	Come on , tell us ! 	Kom igen , fortsätt . 
+423	Well ... 	Honec .. 
+424	Honecker ... 	Alltså , vår partichef - - ser solen och säger " God morgon kära sol " . 
+425	I mean , the Comrade General Secretary sees the sun and says , 	Alltså , vår partichef - - ser solen och säger " God morgon kära sol " . 
+426	- " Good morning , dear sun ! " 	Alltså , vår partichef - - ser solen och säger " God morgon kära sol " . 
+427	- More like , " Good morning , dear sun ! " 	" God morgon kära sol " sa han ? 
+428	The sun replies , " Good morning , dear Erich ! " 	Och solen svarade , " God morgon kära Erich " 
+429	And at noon , Erich goes to the window and says , 	Vid lunchtid går Erich till fönstret och säger igen , " God dag kära sol " . 
+430	" Good day , dear sun ! " 	Vid lunchtid går Erich till fönstret och säger igen , " God dag kära sol " . 
+431	The sun replies , " Good day , dear Erich ! " 	Och solen svarar , " God dag kära Erich " . 
+432	In the evening , Erich says again , 	Och på kvällen säger han igen , - " God kväll kära sol " . 
+433	" Good evening , dear sun ! " and the sun doesn 't reply . 	Men solen svarar inte . 
+434	" Good evening , dear sun ... " 	Så han frågar igen , " God kväll kära sol , var är du ? " 
+435	" What 's wrong ? " he asks . 	Så han frågar igen , " God kväll kära sol , var är du ? " 
+436	And the sun replies , 	Och då säger solen , " Låt mig vara , jag är i Väst " 
+437	" Screw you , I 'm in the West now ! " 	Och då säger solen , " Låt mig vara , jag är i Väst " 
+438	Name ? 	Namn ? 
+439	Rank ? 	ID ? 
+440	Department ? 	Avdelning ? 
+441	Me ? 	Jag ? 
+442	Stigler . 	Stigler . 
+443	2nd Lieutenant Axel Stigler . 	Fänrik Axel Stigler , Avdelning M . 
+444	Dept . 	Fänrik Axel Stigler , Avdelning M . 
+445	M . 	Fänrik Axel Stigler , Avdelning M . 
+446	I don 't have to tell you what this means for your career . 	Jag behöver väll inte säga hur mycket ni skadat er karriär , eller ? 
+447	Please , Comrade Lieutenant Colonel , I was just ... 	- Det var bara ... jag ville bara ... 
+448	You were just deriding the Party ! 	- Ville bara vad ? 
+449	That 's incitement , and likely just the tip of the iceberg ! 	Vad ville ni med vårt parti ? Jag har bara hört toppen på isberget . 
+450	I will report this to the Minister 's office . 	Varför berättar ni inte skämtet till Ministern själv ? 
+451	Just kidding ! 	Det var roligt . 
+452	Good one , huh ? 	Den var bra , men jag kan en bättre . 
+453	But yours was good too . 	Den var bra , men jag kan en bättre . 
+454	I know a better one though . 	Den var bra , men jag kan en bättre . 
+455	What 's the difference between Honecker and a phone ? 	Vad är det för skillnad mellan Erich och en telefon ? 
+456	None at all . 	Ingen , lägg på och försök igen . 
+457	Hang up , try again ! 	Ingen , lägg på och försök igen . 
+458	- No , I have to get home . 	- Vart skall du ? - Hem . 
+459	- Bye . 	
+460	Cold ? 	Kallt ? 
+461	Christa , you forgot our meeting on Thursday . 	Du har väll inte glömt våra träffar varje Torsdag ? 
+462	Or did your poet have two birthdays in a row ? 	Eller har din poet födelsedag igen ? 
+463	Come on , get in . 	Kom , hoppa in . 
+464	Get in ! 	Kom , hoppa in . 
+465	You don 't know what 's good for you . 	Jag antar att du förstår vad som är bäst för dig . 
+466	Don 't worry . 	Så oskyldigt . 
+467	I 'm looking after you . 	Det passar dig . 
+468	Tell me you don 't need it too . 	Om du inte vill att jag slutar , så skall jag hjälpa dig . 
+469	Just say so , and I' ll let you go . 	Om du inte vill att jag slutar , så skall jag hjälpa dig . 
+470	I 'm meeting someone . 	Jag vill inte . 
+471	Where do you think we 're going ? 	Var tror du att du hamnar ? 
+472	I 'm taking you to him ! 	Jag försöker ge dig en chans . 
+473	You 'll be there even quicker . 	Jag försöker ge dig en chans . 
+474	Time for some bitter truths . 	Nu skall vi se här . 
+475	Yes ? 	Ja . 
+476	Those idiots ! 	Idiot ! 
+477	Next Thursday at the Metropol . 	Då ses vi nästa torsdag . 
+478	Drive ! 	Då ses vi nästa torsdag . 
+479	Christa ? 	Christa . 
+480	Just hold me . 	Håll om mig . 
+481	Good evening , comrade ! 	Nu är jag här . 
+482	You 're 5 minutes late again . 	Ni är 5 minuter försenad igen . 
+483	Evening . 	Elfte våningen , högra dörren . 
+484	11th floor , right corridor . 	Elfte våningen , högra dörren . 
+485	I 'm already up here . 	Öppna dörren . 
+486	How did you get into the building ? 	- Hur kom du upp hit ? 
+487	A bunch of you guys live here . 	- Jag vet vem du är . 
+488	I don 't think I' ve been here before . 	Men jag antar att du inte gör detsamma . 
+489	No , I don 't think you have . 	Nej . 
+490	Well ? 	Var det bra ? 
+491	Was that nice ? 	Var det bra ? 
+492	- Stay awhile . 	- Stanna här i natt . 
+493	- I can 't , my next customer is at half- past . 	- Jag kan inte . Jag har en ny kund om en halvtimme . 
+494	I work on a schedule . 	Jag jobbar på beställning . 
+495	At one- thirty ? 	Halv två , jag trodde inte att det var fler nu . 
+496	You won 't make it . 	Halv två , jag trodde inte att det var fler nu . 
+497	Sure I will . 	Det har jag visst , men det är inte dina bekymmer . 
+498	Don 't you worry . 	Det har jag visst , men det är inte dina bekymmer . 
+499	Book me for longer next time . 	Du kan boka längre tid nästa gång , 
+500	Bye . 	Hejdå . 
+501	Georg ? 	Georg , har du hört det om Hauser ? 
+502	Did you hear about Hauser ? 	Georg , har du hört det om Hauser ? 
+503	No , what happened ? 	Nej , vad då ? 
+504	He can 't get a travel permit for his lectures in the West . 	De tog hans pass , han fick inte åka på företagsresa till Väst . 
+505	Are you surprised ? 	Är du förvånad ? 
+506	If he acts so arrogantly , he should expect it . 	Om man beter sig så arrogant får man räkna med det . 
+507	Would you let him go , if you were in their position ? 	Kände du till att han skulle resa iväg ? 
+508	" CMS comes home . 	' Lazlo´ Höll med om att förbjuda Hauser att lämna landet 
+509	´Lazlo´ approves of Hauser 's foreign travel ban . " 	' Lazlo´ Höll med om att förbjuda Hauser att lämna landet 
+510	Have you seen my Brecht book ? 	- Har du sett min poesibok ? 
+511	- What ? 	- Vad ? 
+512	- My Brecht book . 	Boken . 
+513	I don 't know where it is . 	Är det inte där ? 
+514	Strange . 	Det var märkligt . 
+515	I could 've sworn ... 	Det var märkligt . 
+516	One day in blue- moon September , silent under a plum tree , 	Den dagen , i blå månens September . Där , tyst under ett ungt plommonträd - 
+517	I held her , my silent pale love , in my arms like a fair and lovely dream . 	- höll jag henne , den stilla , bleka kärleken . Med min arm , som i en dröm . 
+518	Above us in the summer skies was a cloud that caught my eye . 	Ovanför i den underbara sommarhimlen , fanns ett moln jag såg på länge . 
+519	It was white and so high up . 	Det var väldigt vitt och ofantligt högt . 
+520	And when I looked up , it was no longer there . 	Och när jag tittade på det , var det inte längre där . 
+521	- Yes ? 	- Ja ? 
+522	- Georg ? 	- Georg ? 
+523	Wallner here . 	Det är Wallner . 
+524	What 's up ? 	Vad är det ? 
+525	Georg , it 's about Jerska . 	- Har du hört ? 
+526	He hanged himself last night . 	- Jerska är död , han hängde sig . 
+527	Georg ? 	Georg ? 
+528	I 'm going to hang up , okay ? 	Jag är också ledsen . 
+529	" Sonata for a Good Man " 	
+530	You know what Lenin said about Beethoven 's ´Appassionata ' . 	Jag har tänkt på det som Lenin sa till Sonaten . 
+531	" If I keep listening to it , 	Jag kan inte höra det , och det får inte slut på revolutionen . 
+532	I won 't finish the revolution . " 	Jag kan inte höra det , och det får inte slut på revolutionen . 
+533	Can anyone who has heard this music , 	Jag föreställer mig att han hörde denna musiken , att han verkligen hörde den . 
+534	I mean truly heard it , really be a bad person ? 	Jag föreställer mig att han hörde denna musiken , att han verkligen hörde den . 
+535	Are you really with the Stasi ? 	Arbetar du verkligen för Stasi ? 
+536	Do you even know what the Stasi is ? 	Vet du vad det är , Stasi ? 
+537	Yes . 	Ja . 
+538	They 're bad men who put people in prison , says my dad . 	Det är män som spärrar in andra människor , säger min pappa . 
+539	I see . 	Jasså ? 
+540	What 's the name of your ... 	Vad heter din ... ? 
+541	My what ? 	Min vad ? 
+542	Ball ! 	Min vad ? 
+543	What 's the name of your ball ? 	Boll . Vad heter din boll ? 
+544	You 're funny ! 	Du är rolig , bollar har inga namn . 
+545	Balls don 't have names . 	Du är rolig , bollar har inga namn . 
+546	It 's all in place , Minister . 	Allt är ordnat , herr Minister . 
+547	The latest technology . 	I alla fall den tekniska biten . 
+548	Behind every light switch , even in the toilet . 	Du har dem i dina klor . 
+549	- Measure C in the hall ... 	- Jag minns en gång när ... 
+550	- You said you 'd find something ! 	- Du måste få fram något . 
+551	Find something ! 	Få fram något , annars är det kört . 
+552	I 'd advise even my worst enemy not to disappoint me . 	Få fram något , annars är det kört . 
+553	Now get out of here ! 	Hoppa ut . 
+554	Nowack , you 're to watch Christa- Maria . 	Var försiktig när du övervakar Christa- Maria . 
+555	You 'll report on every minute that she 's not with me . 	Rapportera allt till mig . 
+556	We revoked Hauser 's travel permit for the culture conference . 	Vi fick inte tillstånd att införa ett förbud mot Hauser än . 
+557	Maybe that 'll lead to something . 	Som om jag inte skulle ha tillräckliga problem redan . 
+558	The two of them are very close . 	Som om jag inte skulle ha tillräckliga problem redan . 
+559	How 's it going between CMS and the Minister ? 	- Och , något nytt om Ministern ? 
+560	They 're meeting tomorrow night , I think . 	De träffades imorse igen . 
+561	That 's good ! 	Bra , mycket bra . 
+562	Very good ! 	Vi måste vinna den här kärlekshistorian . 
+563	We have a lot to gain from this love story . 	Vi måste vinna den här kärlekshistorian . 
+564	Or a lot to lose . 	Eller förlora . 
+565	Don 't forget that . 	Glöm inte det . 
+566	I used to be afraid of just two things : 	Förr var jag alltid rädd för två saker . 
+567	Being alone , and not being able to write . 	Att vara bli ensam , och att inte kunna skriva mer . 
+568	Since Albert 's death , I don 't care about writing or about other people . 	Men sen hans död spelar skrivandet ingen roll . Och inte människorna heller . 
+569	All I 'm afraid of now is losing you . 	Jag är rädd för mig själv . 
+570	You needn 't be afraid tonight . 	Du måste fortsätta för hans skull 
+571	I 'm just going out for a few hours . 	- Jag måste gå ut ett tag . 
+572	Where to ? 	- Vart ? 
+573	An old classmate 's in town . 	Jag skall träffa en klasskamrat . 
+574	Really , Christa ? 	- Och vi ... 
+575	- Really ? 	- Verkligen ? 
+576	- How dare you ! 	- Vad menar du ? 
+577	I know . 	Jag vet ... 
+578	I know where you 're going . 	Jag vet vart du går . 
+579	And I 'm asking you not to go . 	Och jag ber dig att inte gå . 
+580	You don 't need him . 	Du behöver inte . 
+581	You don 't need him . 	Du behöver inte . 
+582	I know about your medication too . 	Jag vet varför du gör det . 
+583	And how little faith you have in your talent . 	Och hur mycket du älskar din konst . 
+584	Have faith in me , at least . 	Lita på mig . 
+585	Christa- Maria . 	Christa Maria . 
+586	You are a great artist . 	Du är en stor konstnärska . 
+587	I know that . 	Jag vet det , publiken vet det . 
+588	And your audience knows it too . 	Jag vet det , publiken vet det . 
+589	You don 't need him . 	Du behöver inte . 
+590	You don 't need him . 	Du behöver inte . 
+591	Stay here . 	Stanna . 
+592	Don 't go to him . 	För min skull . 
+593	No ? 	Nej , jag behöver inte det . 
+594	Don 't I need him ? 	Nej , jag behöver inte det . 
+595	Don 't I need this whole system ? 	Jag behöver inte detta konstsystemet . 
+596	What about you ? 	Och du ? 
+597	Then you don 't need it either . 	Du behöver inte heller det . 
+598	Or need it even less . 	Annars står du inte ut . 
+599	But you get in bed with them too . 	Men du ligger ändå med någon i sängen . 
+600	Why do you do it ? 	Varför klagar du då ? 
+601	Because they can destroy you too , despite your talent and your faith . 	Om det stör dig så mycket . 
+602	Because they decide what we play , who is to act , and who can direct . 	När han bestämmer vem som får spela . Spelar vi med och tiger . 
+603	You don 't want to end up like Jerska . 	Du vill väll inte råka ut för samma sak som Jerska ? 
+604	And neither do I . 	Det vill inte jag heller . 
+605	That 's why I 'm going now . 	Så jag måste gå nu . 
+606	You 're right about so many things , and I want to change so much . 	Du har så rätt . Jag skall göra saker annorlunda . 
+607	But I ask you , 	Men jag ber dig . 
+608	I implore you : 	Stanna , gå inte . 
+609	Don 't go ! 	Stanna , gå inte . 
+610	Well , boss , am I on time ? 	Chefen , helt punkligt . 
+611	Let me guess what those two are doing ... 	Får jag gissa vad de gör ? 
+612	Come on , I' ll take over . 	Kom igen , jag tar över . 
+613	I don 't want you to do overtime because of me . 	Jag vill ju inte att du får övertid . 
+614	" Don 't go through that door . " 	Vart skall du gå ? 
+615	Where 's she going ? 	Vart skall du gå ? 
+616	To meet an old classmate . 	Träffa en gamma klasskamrat . 
+617	You 'll have my detailed report tomorrow . 	Oroa dig inte för morgondagens rapport . 
+618	I can manage . 	Jag lämnar in den . 
+619	Good night . 	God natt . 
+620	What are you staring at ? 	Det är öppet . 
+621	Soda water . 	Mineralvatten . 
+622	No , uh ... 	Nej , eller . 
+623	Vodka . 	Vodka . 
+624	Double . 	Ja . 
+625	Another one . 	En till . 
+626	Can I have a cognac , please ? 	Kan jag få en Konjak . 
+627	Madam ? 	Hur mår ni ? 
+628	Go away , I want to be alone . 	Snälla , stör inte mig . Jag vill vara ensam . 
+629	Ms . 	Fru Sieland ? 
+630	Sieland . 	Fru Sieland ? 
+631	Do we know each other ? 	- Känner vi varandra ? 
+632	You don 't know me , but I know you . 	- Ni känner inte mig , men jag känner er . 
+633	Many people love you for who you are . 	Det är många som beundrar er . För att ni är som ni är . 
+634	- Actors are never ´who they are . ' 	- En skådespelerska är inte som jag . 
+635	- You are . 	- En skådespelerska är inte som jag . 
+636	I' ve seen you on stage . 	Jag har sett er på scenen . 
+637	You were more who you are ... 	Ni var precis som ni är nu . 
+638	than you are now . 	Som ni sitter nu . 
+639	So you know what I 'm like . 	- Ni vet vem jag är ? 
+640	I 'm your audience . 	- Jag sitter i publiken . 
+641	- I have to go . 	- Jag måste gå . 
+642	- Where to ? 	- Vart skall du gå ? 
+643	I 'm meeting an old classmate . 	Jag skall träffa en gammal klasskamrat . 
+644	I ... 	Skall ni ? 
+645	You see ? 	Skall ni ? 
+646	Just now you weren 't being yourself . 	Då var ni ändå inte er själv . 
+647	No ? 	- Inte ? 
+648	No . 	- Nej . 
+649	So you know her well , this Christa- Maria Sieland . 	Ni känner alltså denna , Christa- Maria Sieland väl ? 
+650	What do you think ... 	Vad menar ni ? 
+651	Would she hurt someone who loves her above all else ? 	Skulle ni såra en människa som ni älskar över allt annat ? 
+652	Would she sell herself for art ? 	Skulle ni kunna sälja er för konsten ? 
+653	For art ? 	Sälja mig för konsten ? 
+654	You already have art . 	Det är en dålig affär . 
+655	That 'd be a bad deal . 	Det är en dålig affär . 
+656	You are a great artist . 	Ni är en stor konstnärska . 
+657	Don 't you know that ? 	Vet ni inte det själv ? 
+658	And you are a good man . 	Ni är en bra människa . 
+659	" When I begin my shift , ´Lazlo´ and CMS are arguing about whether CMS should meet her classmate . 	Laszlo och CMS diskuterar , om CMS skall gå till mötet med sin klasskamrat . 
+660	Eventually , she leaves . 	Tillslut går hon . 
+661	' Lazlo´ seems unhappy about this . 	Lazlo verkar besvärad . 
+662	But after about 20 minutes , CMS returns , to ´Lazlo´s ' surprise , and mine . 	Efter 20 minuter kommer CMS tillbaka , till både hans och min förvåning . 
+663	He seems very happy about this . 	Han strålar av lycka . 
+664	Vigorous acts of intimacy follow . 	Han strålar av lycka . 
+665	She says she 'll never leave again . 	Hon säger att hon inte skall gå mer . 
+666	He says repeatedly : 	Han säger han skall kraft att stå emot . 
+667	´Now I' ll have the strength , now I' ll do something . ' 	Han säger han skall kraft att stå emot . 
+668	This likely refers to writing a new stage play . 	Han menar antagligen att han skall skriva ett nytt teaterstycke . 
+669	In recent weeks , ´Lazlo´s ' playwriting had been plagued by difficulties . 	Lazlo plågades nämligen de senaste veckorna med svårigheter att skriva . 
+670	What she means by her statement is unclear . 	Vad hon menade är osäkert . 
+671	Perhaps she intends to take better care of his household . 	Kanske att hon skall stötta Lazlo mer än tidigare . 
+672	The rest of the night was peaceful . " 	Natten förlöper fridfullt . 
+673	Oh , comrade ... uh ... 	Jag , menar ... 
+674	It 's just because ... 	De sov ju så jag tänkte ... 
+675	He 's sleeping too ... 	De sov ju så jag tänkte ... 
+676	Good report . 	Bra rapport . 
+677	Really ? 	Är det ? 
+678	I didn 't know he was in such a bad way . 	Jag har aldrig känt mig så kraftlös i hela mitt liv . 
+679	Neither did I . 	Inte jag heller . 
+680	" On One Who Made it to the Other Side : 	En övermakt . 
+681	The statistics office on Hans Beimler Street counts everything , knows everything . 	Den statliga Statistiska centralbyrån , räknar allt , vet allt . 
+682	How many shoes I buy a year : 	Hur många skor jag köper per år , 2, 3 . 
+683	2 . 3 . 	Hur många böcker jag läser , 3, 2 
+684	How many books I read a year : 	Hur många böcker jag läser , 3, 2 
+685	3 . 2 . 	Och hur många studenter som får 1, 0 i betyg varje år , 6, 347 . 
+686	And how many pupils graduate with straight A 's every year : 	Och hur många studenter som får 1, 0 i betyg varje år , 6, 347 . 
+687	6347 . 	
+688	But there is one thing they don 't count , maybe because even bureaucrats find it painful , and that 's suicides . 	Men det finns en sak som inte räknas . Kanske skulle det talet få byråkraterna på fall . Nämligen självmord . 
+689	If you call Beimler Street to ask how many people between the Elbe and the Oder , between the Baltic Sea and the Ore Mountains despair drove to their death , our numbers oracle is silent . 	Om du skulle ringa till byrån och fråga - - hur många människor , från öst till väst norr till söder , som begått självmord - - då tiger vår statsmakt . 
+690	But it may just note your name for State Security ... 	Och frågar antagligen vad du heter . 
+691	Those grey men who ensure safety in our land ... and happiness . 	Allt för rikets säkerhet . Alla de som kämpar för friheten , men misslyckas . 
+692	In 1977 , our country stopped counting suicides . 	1977 slutade DDR att räkna självmorden . 
+693	They called them ´self- murderers ' . 	Självmord , så kallar de dem . 
+694	But it has nothing to do with murder . 	Det är egentligen mord , de utsätts för . 
+695	It knows no bloodlust , no heated passion , it knows only death , the death of all hope . 	De känner inget hopp , de känner ingen kärlek . De kan bara dö . Döden är deras hopp . 
+696	When we stopped counting , only one country in Europe drove more people to their death : 	9 år efter att vi slutade räkna har bara ett land fler självmord än Östtyskland . 
+697	Hungary . 	Ungern . 
+698	We came next , the land of ' Real Existing Socialism ' . 	Det vi har gemensamt är vårt mål , nämligen Socialism . 
+699	One of the uncounted is Albert Jerska , the great director . 	En av dessa oräknade är Albert Jerska , - - den stora regissören . 
+700	It 's him I want to talk about today ... " 	Det är om honom jag skall berätta . 
+701	I tried to get statistics that show ... ... that State Security operates more effectively than we think ! 	- Jag har fått statistiken , siffor på ... - Siffror på hur effektiv vår polis är . 
+702	I foolishly rehearsed 	
+703	my speech for the West in here . 	Min lägenhet är inte säker . 
+704	Since then , I' ve become very musical . 	Så jag har blivit väldigt musikalisk . 
+705	We can meet at my place . 	Skall vi gå till mig ? 
+706	" 3 p . m . , Pankow Memorial " 	Klockan 15 , Chrenmal Pankow . 
+707	Well ? 	Nu är det säkert . 
+708	Is this safe enough ? 	Nu är det säkert . 
+709	My own ´bodyguard ' . 	- Där är en agent . 
+710	I call him Rolf . 	- Bjud hit honom . 
+711	That 's probably his name , too . 	- Bjud hit honom . 
+712	Fire away . 	Vad har du skrivit ? 
+713	Here . 	Här . 
+714	You want to publish this ? 	Vill du publicera detta ? 
+715	In the West , with your help . 	I Väst , med din hjälp . 
+716	Will you help ? 	Har du berättat detta för Christa ? 
+717	Have you told Christa ? 	Har du berättat detta för Christa ? 
+718	No . 	Nej . 
+719	I' ll help you , as long as you don 't tell her anything . 	Bra , jag hjälper dig . På villkoret att du inte berättar om det för någon . 
+720	What ? 	Vad ? 
+721	Georg , it 's for her own protection . 	Georg , det är för hennes egna säkerhet . 
+722	This could be right for the ´Spiegel ' . 	Jag skall kontakta tidningen " Der Spiegel " . 
+723	I 'm friends with an editor there . 	Jag är vän med en redaktör , Gregor Hessenstein . 
+724	Gregor Hessenstein . 	Känner du honom ? 
+725	Know him ? 	Känner du honom ? 
+726	Not personally . 	- Inte personligen . 
+727	You have to meet him . 	- Du måste träffa honom . 
+728	But you can 't publish using your real name . 	Men du kan inte publicera det med ditt eget namn . 
+729	Unless your idea of fun is a 48- hour interrogation . 	Får de reda på att det är du , tar de in dig på förhör i 48 timmar . 
+730	I 'm cold ! 	Det är kallt . 
+731	We could go to my place ? 	Hem till mig ? 
+732	There 's no State Security at my place ! 	Det finns ingen Stasi agent där . 
+733	A friend of Margot Honecker , winner of the National Award ... 	
+734	Second class ! 	Min lägenhet är säker . 
+735	My apartment is clean , I tell you ! 	Min lägenhet är säker . 
+736	If only we could be sure ... 	Ja , men man vet ju aldrig ... 
+737	I have an idea how we can check your apartment . 	Jag har ett idé hur vi skall kunna testa om din lägenhet är säker eller ej . 
+738	You know my uncle Frank , who visits from West Berlin every Saturday , with his big gold Mercedes . 	Jag skall fråga min farbror Frank . Varje Söndag besöker han mig från Västberlin . Med sin feta gyllene Mercedes . 
+739	It seems a bit risky to me , Mr . 	Att gömma allt här känns för riskabelt . 
+740	Hauser . 	Att gömma allt här känns för riskabelt . 
+741	Yes , I agree with Georg . 	Ja , jag håller med . 
+742	Hiding your nephew under the back seat ? 	Det är svårt att gömma något här . 
+743	I 'm really not sure . 	Jag har ingen aning om vad vi kan göra . 
+744	Come on , they won 't search under the seats . 	Oroa dig inte för det . 
+745	They 'll look under the axles , tap the exhaust , then I' ll be across . 	Jag tar hand om det , och gömmer på ett säkert ställe . 
+746	Paul too . 	Jag tar hand om det , och gömmer på ett säkert ställe . 
+747	The border guards aren 't very bright . 	Säkerheten vid gränsstationen är verkligen inte så bra som den ser ut . 
+748	You 've got the wrong idea there . 	Säkerheten vid gränsstationen är verkligen inte så bra som den ser ut . 
+749	- Which border will you cross ? 	- Var skall du smuggla över det ? 
+750	- Heinrich- Heine Street . 	- Gränsen vid Heinrish- Heine Strasse . 
+751	Good old Henrich Heine . 	Ja , Heinrish- Heine Strasse . 
+752	They know me and my gold Mercedes . 	Det fixar vi , jag och min gyllene Merca . 
+753	I 'm friends with the guards . 	Det fixar vi , jag och min gyllene Merca . 
+754	Trust me , I' ll call you in 2 hours , a Schultheiss beer in my hand , and report the news : 	Lita på mig , om två timmar ringer jag er när jag kommit över - och ger då klartecken om Paul är övervakad eller inte . 
+755	Paul 's across . 	Lita på mig , om två timmar ringer jag er när jag kommit över - och ger då klartecken om Paul är övervakad eller inte . 
+756	No ! 	Varför skulle Paul vara övervakad ? 
+757	What about Paul 's Stasi man ? 	Varför skulle Paul vara övervakad ? 
+758	Rolf ! 	De är vargar , vargar . 
+759	Rolfy , Rolfy ... 	De är vargar , vargar . 
+760	He 'll think that Paul 's at home . 	Vi får anta att Paul är övervakad . 
+761	Okay , I have to go . 	Nu måste jag iväg . 
+762	We wouldn 't want him to suffocate , would we ? 	Det vore synd att låta ungdomarna vänta , eller hur ? 
+763	Another beer ? 	En öl ? 
+764	Border control , Heinrich- Heine Street . 	Gränsövergång Heinrish- Heine Strasse . 
+765	Who is this ? 	Någon där ? 
+766	Who is this ? 	Någon där ? 
+767	No reply . 	Konstigt . 
+768	Just this once , my friend . 	Du driver med mig . 
+769	- Dreyman . 	- Dreyman - Det är lugnt , vi överreagerade . 
+770	- Okay , 	- Dreyman - Det är lugnt , vi överreagerade . 
+771	Paul 's plan worked ! 	- Dreyman - Det är lugnt , vi överreagerade . 
+772	No border control at all ? 	Sökte ingen igenom dig ? 
+773	No , no special checks . 	Nej , ingen sådan kontroll , så smarta är de inte . 
+774	Those boys aren 't so bad . 	Nej , ingen sådan kontroll , så smarta är de inte . 
+775	It worked as planned . 	- Tack så mycket att du hjälpte oss . 
+776	Thanks for doing this , Mr . 	- Tack så mycket att du hjälpte oss . 
+777	Hauser . 	- Tack så mycket att du hjälpte oss . 
+778	Forget it , it wasn 't all that dangerous . 	- Ingen orsak , min insats var inte stor . 
+779	- Yeah , true . 	
+780	- Yeah . 	- Okej , vi hörs . 
+781	See you soon , and thanks a lot . 	- Okej , vi hörs . 
+782	Bye . 	- Hej 
+783	What do we do if they ask what we 're doing together ? 	Vad skall vi säga om någon frågar vad vi gör tillsammans ? 
+784	Then ... we 'll say 	Vi säger ... att .. 
+785	We 'll say we 're writing a stage play together . 	Vi säger att vi skriver ett teatermanus . 
+786	For the GDR 's 40th anniversary . 	För att fira 40 år med DDR . 
+787	Yes ! 	Ja . 
+788	And it 's kind of true . 	Och det stämmer egentligen också . 
+789	Who 'd have thought our State Security was so incompetent ? 	Jag trodde att Stasi kunde göra något . 
+790	Who 'd have thought they were such idiots ? 	Jag trodde aldrig att de var sådana idioter . 
+791	Just you wait ... 	Vänta bara . 
+792	" 7 . 32 p . m . 	19 : 32 Inget att rapportera . 
+793	No further noteworthy incidents . " 	19 : 32 Inget att rapportera . 
+794	Hello , comrade . 	Lyssna på detta . 
+795	Listen to this here ! 	Lyssna på detta . 
+796	Sure , in 1967 there were many suicides . 	Det är förståligt men du måste förklara de sociala omständigheterna . 
+797	But why in 1977 ? 	Det är förståligt men du måste förklara de sociala omständigheterna . 
+798	You must explain . 	Det är förståligt men du måste förklara de sociala omständigheterna . 
+799	You must describe the social conditions more clearly . 	
+800	It should remain literature , not political agitation . 	Det skall bli ett litterärt verk . - Ingen journalistisk artikel . 
+801	The text is great . 	- Texten är storartad . 
+802	I just want to be sure people understand it in the West . 	Men jag vill att de verkligen skall förstå detta . 
+803	It 'll cause a sensation either way . 	Kan du inte kompromissa lite ? 
+804	- That 's Hauser ! 	- Det är Hauser . 
+805	- Of course it 's Hauser . 	- Såklart är det Hauser . 
+806	He 's not in the West ! 	Vad vet du ? 
+807	They 're writing a play together . 	De skriver en ny teaterpjäs . 
+808	For the 40th anniversary . 	För jubileumet , till 40 års dagen . 
+809	It doesn 't sound like a play to me . 	Jag tyckte inte att det lät som en pjäs . 
+810	No ? 	Vad tyckte du det lät som ? 
+811	Then what ? 	Vad tyckte du det lät som ? 
+812	I don 't know ... but not a play . 	Jag vet inte , inte som en teaterpjäs . 
+813	You think a lot , Sergeant Leye . 	Ni drar många slutsatser av det ni hör . 
+814	You 're not an intellectual , are you ? 	Tror ni att ni är smart på något sätt ? 
+815	Me ? 	- Jag ? 
+816	No ... 	Nä , det ... det är jag inte . 
+817	I 'm not one of those . 	Nä , det ... det är jag inte . 
+818	Then don 't behave like one . 	- Förhasta dig då inte igen . 
+819	I chose you because you know the equipment and don 't ask questions . 	Ni är här för att sköta tekniken och inte ställa massa frågor . 
+820	Leave the thinking to your superiors . 	Gör inte om det igen . 
+821	Yes , Captain . 	Ursäkta , det skall jag inte göra igen . 
+822	I' ll be off , then . 	Ursäkta , det skall jag inte göra igen . 
+823	Have a nice day ... of work ... 	Goddag , jobba på . Eller .. jag menar , lycka till . 
+824	I mean , I hope you enjoy your work . 	Och jobba på . 
+825	Maybe I can re- write this part . 	Då måste jag skriva om det . 
+826	I' ll send you all the material we have . 	Jag skall se om vi kan få tag i mer material . 
+827	Can you do it in two weeks ? 	Två veckor , klarar du det ? 
+828	Then I could run it as a cover story for the first week in March . 	Då kan du också få in den på förstasidan . I alla fall titeln . 
+829	It 's Christa . 	Det är Christa . 
+830	Georg ? 	Georg ? 
+831	Christa , this is Gregor Hessenstein . 	Christa , detta är Gregor Hessenstein . 
+832	- Christa Sieland . 	- Christa Sieland . 
+833	- Of course , I know that ! 	- Det vet jag redan . 
+834	So , what conspiracy are you cooking up ? 	Vad gör ni här då ? 
+835	Hauser and I are writing a play for the GDR 's 40th anniversary . 	Vi var här hemma och arbetade på en pjäs till DDR : s 40 års dag . 
+836	Together ? 	- Tillsammans ? 
+837	The ´Spiegel´ may do an article on it . 	- Vi diskuterar upplägget med rollerna . 
+838	- And who 'll play the lead role ? 	- Och vem har huvudrollen ? 
+839	- We planned to ask you . 	- Det vill vi också veta . 
+840	Christa , who would you rather play : 	Christa , vem vill du spela ? 
+841	Lenin or his dear old mother ? 	Lenin eller hans kära mor ? 
+842	You can choose . 	Du får välja själv . 
+843	I see I 'm not welcome here . 	Trevligt att ses , jag börjar bli trött . 
+844	I' ll go for a nap . 	Jag går och sover . 
+845	Your caution is praiseworthy . 	Jag uppskattar er försiktighet . 
+846	The fewer people know , the better . 	Ju färre som känner till detta , desto bättre . 
+847	The Stasi is not to be toyed with . 	Stasi är inte särskilt vänliga . 
+848	On that note , I brought something for you . 	Till denna tillställning har jag tagit med något . 
+849	I 'd have preferred the whole pie . 	- En tårta bakad med kärlek . 
+850	I already have a typewriter . 	- Jag har redan en skrivmaskin . 
+851	The Stasi can identify its typeface . 	- En som är registrerad av Stasi . 
+852	If they intercepted the text at the border , for your typewriter using , you 'd end up in Hohenschonhausen . 	Om de förstorar pappret , ser de att texten kommer från samma maskin , din . 
+853	And that 's no fun , as Paul can confirm , right ? 	Och det är inte särskilt roligt , det kan Paul intyga . 
+854	I 'm afraid I could only get a red ink ribbon for this model . 	Tyvärr har jag bara lyckats få tag i röd färg , så kan du skriva med rött ? 
+855	Do you mind writing it in red ? 	Tyvärr har jag bara lyckats få tag i röd färg , så kan du skriva med rött ? 
+856	That won 't be a problem . 	Det spelar ingen roll . 
+857	Is there somewhere you can hide it ? 	Du måste gömma den när du inte använder den . 
+858	- Yes , I' ll find a place . 	- Ja , jag skall försöka . 
+859	- Don 't take it lightly . 	- Ta inte så lätt på det . 
+860	I don 't want my next article to be about your disappearance ! 	Jag vill inte skriva i nästa artikel om att ingen vet var Georg Dreyman är . 
+861	Nobody may know that this typewriter exists ! 	Ingen annan vet att denna maskinen överhuvudtaget existerar . 
+862	Is this apartment really safe ? 	- Är lägenheten veklingen säker ? 
+863	Yes . 	- Är lägenheten veklingen säker ? 
+864	It 's the only place left in the GDR where I can say what I want . 	Detta är den sista lägenheten i DDR där jag skulle vara orolig . 
+865	Fine , then let 's drink to that ! 	Bra , då är det dags att fira . 
+866	This is the real stuff . 	Flaskan är nämligen äkta . 
+867	To you ! 	Skål för ett enat Tyskland , utan DDR . 
+868	To letting all of Germany see the true face of the GDR ! 	Skål för ett enat Tyskland , utan DDR . 
+869	Cheers . 	- Skål , det var bättre än jag trodde . 
+870	It 's better than the Russian stuff ! 	- Skål , det var bättre än jag trodde . 
+871	To your success ! 	Jag önskar dig all lycka . 
+872	I must see Comrade Grubitz . 	Jag måste träffa Robert , det är brådskande . 
+873	Tomorrow at 2 . 30 p . m ... 	Ni måste boka tid , och först lediga är imorgon ... 14 : 30 ... 
+874	Tell him that if he blows the cover , we 'll shut down the entire parish ! 	Och om han inte vill ansvara för församlingen så stänger vi hela kyrkan . 
+875	It 's easy ! 	Så enkelt är det . 
+876	He can call the Pope and complain ! 	Vi kan ju arrestera prästen . 
+877	Okay , I' ve spent enough time on this nonsense . 	Försvinn nu , jag har fått nog av detta . 
+878	Wiesler , I 'm glad you 're here . 	Undrar ni vem det var ? 
+879	I have to show you something . 	Skall jag visa ? 
+880	" Prison Conditions for Subversive Artists Based on Character Profile . " 	" Studier om politisk- ideologiska idéer för karakterisering av konstprofiler . " 
+881	Pretty scientific , eh ? 	Är det vetenskapligt ? 
+882	And look at this : 	Lyssna här . 
+883	" Dissertation supervisor : 	Situationen blir svårare för professor Antol Rubis . 
+884	A . 	Situationen blir svårare för professor Antol Rubis . 
+885	Grubitz . " 	Situationen blir svårare för professor Antol Rubis . 
+886	That 's great , isn 't it ? 	Det måste vara storleken ? 
+887	I only gave him a B ... 	Jag har själv skrivit paragraf 202 . 
+888	They shouldn 't think getting a doctorate with me is easy . 	Jag har själv skrivit paragraf 202 . 
+889	But this is first- class . 	Det är verkligen förstklassigt . 
+890	Did you know that there are just 5 types of artists ? 	Visste du tillexempel att man kan dela upp konstnärerna i fem kategorier ? 
+891	Your guy , Dreyman , is a type 4 . 	Till exempel Dreyman , han är typ fyra . 
+892	A " hysterical anthropocentrist . " 	Hysterisks antropocentriker . 
+893	Can 't bear being alone , always talking , needing friends . 	En som aldrig kan vara ensam , utan måste hela tiden ha vänner runt omkring sig . 
+894	That type should never be brought to trial . 	Med ett sådant fall kommer man ingen vart utan att tålamod . 
+895	They thrive on that . 	Med ett sådant fall kommer man ingen vart utan att tålamod . 
+896	Temporary detention is the best way to deal with them . 	Det går mycket snabbare om man håller övervakningen hemlig . 
+897	Complete isolation and no set release date . 	Annars finns det risk att man skrämmer iväg honom . 
+898	No human contact the whole time , not even with the guards . 	Ingen kontakt med honom under hela tiden . 
+899	Good treatment , no harassment , no abuse , no scandals ... nothing they could write about later . 	Man måst behandla honom väl , inga hot inga skandaler . Inget som han senare kan skriva om . 
+900	After 10 months , we release . 	Efter 7 månader - - slår vi till . 
+901	Suddenly . 	
+902	That guy won 't cause us any more trouble . 	Så få vi inga problem med honom mer . 
+903	Know what the best part is ? 	Och vet du vad det bästa är ? 
+904	Most type 4s we 've processed in this way never write anything again ! 	De flesta från kategori fyra , som arbetat så fritt . Får aldrig skriva , eller måla eller göra något konstnärligt . 
+905	Or paint anything , or whatever artists do ... 	
+906	And that without any use of force ... 	Och det är som en drog för dem . 
+907	Just like that ! 	Eller som .. .. ett gift . 
+908	Kind of ... 	Eller som .. .. ett gift . 
+909	like a present . 	Eller som .. .. ett gift . 
+910	What brings you here ? 	Vad gör du här ? 
+911	Developments with Dreyman ? 	Något nytt om Dreyman ? 
+912	That 's why I 'm here . 	Det var det jag ville prata om . 
+913	I think the time has come ... 	Jag tror att det är dags . 
+914	For what ? 	Dags för vad ? 
+915	For us to slim down the operation . 	Att vi blir mer diskreta . 
+916	I don 't want to run day and night shifts for such an uncertain case . 	Vi kan inte ha två skift för ett sådant , .. osäkert fall . 
+917	Uncertain , eh ? 	Osäkert , jaha ? 
+918	You don 't think we 'll find anything for the Minister ? 	Du tror alltså att du inte får fram något , om Ministern ? 
+919	Maybe if we 're more flexible ... 	Jo , kanske om färre arbetar med fallet . 
+920	If we watch ´Lazlo´ outside his own four walls . 	Om vi inte sätter så stor press Lazlo . 
+921	Shall I give the case to Udo ? 	Vi kanske skulle överge fallet . 
+922	I 'd like to continue it myself . 	Jag fortsätter gärna själv . 
+923	Why ? 	Varför det ? 
+924	It could produce results . 	Jag tror att jag kan få fram något . 
+925	I just need to plan more flexibly , when I come and go , days and nights ... 	Jag behöver friare tyglar . Så att jag kan komma och gå när jag vill , dag som natt . 
+926	Maybe he 's up to something outside . 	Han kanske gör något i sin lägenhet . 
+927	Something doesn 't feel right here . 	Det spelat ingen roll för mig , - - så länge du får fram något . 
+928	There 's something you 're hiding . 	Det spelat ingen roll för mig , - - så länge du får fram något . 
+929	Alright , I' ll take Udo off the case . 	Okej , fortsätt . 
+930	I can use him for this church case . 	Jag är upptagen med kyrkhistorian . 
+931	Give me a request in writing . 	Lämna in din rapport skriftligt . 
+932	Write as a reason : " Lack of suspicious acts . " 	Så skall jag 
+933	And , Wiesler ! 	Vänta . 
+934	A piece of advice for you : 	En sak till . 
+935	We 're not at school anymore . 	Detta är ingen skola , här handlar det inte om betyg . 
+936	Projects aren 't about grades , but success . 	Utan om mitt folk . 
+937	" The state statistics office counts everything , knows everything . 	Statistiska centralbyrån räknar allt , vet allt . 
+938	How many shoes I buy a year : 	Hur många skor jag köper per år : 
+939	2 . 3 . 	2, 3 . 
+940	How many books I read a year : 	Hur många böcker jag läser : 3, 2 
+941	3 . 2 . 	
+942	And how many pupils graduate with straight A 's every year : 	Och hur många studenter som får 1, 0 i betyg varje år : 6, 347 . 
+943	6347 . " 	
+944	" 5 p . m . 	17 . 00 ´Lazlo´ läser först akten för Hauser och Wallner ur jubileumsstycket . 
+945	Lazlo reads the first act of his anniversary play to Hauser and Wallner . " 	17 . 00 ´Lazlo´ läser först akten för Hauser och Wallner ur jubileumsstycket . 
+946	DENTAL PRACTICE 	" Tandläkare " 
+947	We 're not writing a play , Christa . 	- Det är inget teatermanus vi skriver . 
+948	You don 't have to tell me . 	- Du behöver inte förklara . 
+949	But I want to . 	- Men jag måste förklara för dig . 
+950	It 's a text ... 	- Men jag måste förklara för dig . 
+951	Don 't tell me . 	- Det spelar ingen roll . 
+952	Maybe I am as unreliable as your friends say . 	Jag kanske ändå är skadlig för dig , som din vän sa . 
+953	But I ... 	Men jag står ändå bakom dig . 
+954	I 'm with you now ... 	Men jag står ändå bakom dig . 
+955	No matter what . 	Oavsett vad . 
+956	Minister Riesenhuber , author of the report , said there is no quick fix for saving damaged forests . 	
+957	East- West German relations under strain . 	Spänningar i DDR ... 
+958	' Spiegel´ magazine today published a text by an unnamed East German author about suicide in the German Democratic Republic . 	Tidskriften ´Der Spiegel´ publicerade en artikel av en anonym Östtysk skribent - - om självmorden i DDR . 
+959	This follows a series of suicides by prominent 	Detta , som ett svar på dödsfallen bland flera Östberlinska konstnärer . 
+960	East- Berlin artists , the latest being Albert Jerska . 	Senast nu , teaterregissören Albert Jerska . 
+961	After being blacklisted for 7 years , 	Jerska fick ett 7 års konstförbud . 
+962	Jerska committed suicide on January 5th . 	Den femte Januari i år , tog han sitt liv . 
+963	In 1977 , the GDR ceased publishing any data relating to suicides . 	Sedan 1977 har DDR vägrat offentliggöra sin självmordsstatistik . 
+964	That year , Hungary was the only country in Europe with a higher suicide rate . 	Detta år hade bara Ungern , som det enda europeiska land högre självmordssiffror . 
+965	Yes , Sir ... 	Ja , det har vi ... 
+966	But we ... 	
+967	General , our man at the ´Spiegel´ got us a photostat of the original . 	Vi har en kontakt i Hamburg , som fått tag på en orginalkopia . 
+968	Congratulations ! 	
+969	So who wrote it ? 	Vi vet inte heller varifrån den kommer . 
+970	He doesn 't know , but using the typeface , we 'll ... 	Vi vet inte heller varifrån den kommer . 
+971	You 're hopeless ! 	Men enligt skrivmaskinsexperten kan vi .. 
+972	Get me names ! 	
+973	I will , as soon as we get the results . 	Jag håller med , herr General . 
+974	If not , you 'll be put against the wall . 	Men det går inte . 
+975	Andrea , where 's the graphologist ? 	Andrea , var är skrivmaksinsexperten ? 
+976	Thus I conclude that it is a domestic typewriter produced for export , most likely a ´Kolibri´ travel model , made by the VEB Groma . 	Vi har kommit fram till att det rör sig om en utländsk skrivmaskin och att det - - rör sig om en ´Kolibri´ och ingen kontorsmaskin . 
+977	If the ink were black , I could be more precise . 	Det är lite svårt att avgöra , eftersom svart färg inte har använts . 
+978	Who owns such a typewriter ? 	- Och vem har en sådan maskin ? 
+979	There are none registered in the GDR . 	- Ingen i vår republik . 
+980	What does that mean ? 	Vad skriver tillexempel Hauser med ? 
+981	What does Hauser use ? 	Vad skriver tillexempel Hauser med ? 
+982	Paul Hauser uses a ´Valentino´ typewriter , made by Olivetti . 	Journalisten Paul Hauser skriver med modellen ´Valentino´så vitt vi vet . 
+983	- That model has a more horizontal ... 	- Men den här modellens träffvinkel V ... 
+984	- Yes , yes ! 	- Det räcker . 
+985	And Wallner ? 	Wallner då ? 
+986	He writes on an Optima ´Elite ' . 	En inhemsk " Optima Elite " . 
+987	Georg Dreyman ? 	- Och Georg Dreyman ? 
+988	He writes his first drafts by hand , then types them up on a Wanderer ´Torpedo ' . 	- Georg Dreyman skriver med ´EoD´ och - - vid renskrivning en ´Wanderer- Torpedo ' . 
+989	He 's never used anything else . 	Han har aldrig använt något annat . 
+990	How big is this ´Kolibri´ typewriter ? 	Hur stor är denna , ´Kolibri ' - maskinen ? 
+991	It 's one of the smallest available : 	Det är en av de minsta i världen . 
+992	19 . 5cm x 99cm x 19 . 55cm . 	9, 5 cm gånger 19 cm gånger 19, 5 cm . 
+993	So it 's as easy to smuggle as a book . 	Alltså inte större än en bok . 
+994	Thank you . 	Okej , ni kan gå . 
+995	You may go . 	Okej , ni kan gå . 
+996	Goodbye , comrade . 	Hejdå . 
+997	" The Secret Suicide Statistics " 	DDR : s hemliga självmordsstatestik . 
+998	Andrea , put me through to Wiesler . 	Andrea , koppla mig till Hauptmann G . Wiesler . 
+999	" 4 p . m . 	16 : 00 : 
+1000	The group is exhausted from so much writing . " 	Gruppen är trötta efter mycket skrivande . 
+1001	- Yes ? 	Wiesler , har du hört något om självmordsartikeln ? 
+1002	- Have you heard about this article ? 	Wiesler , har du hört något om självmordsartikeln ? 
+1003	- In the ´Spiegel ' ? 	I ´Der Speigel ' , ja . 
+1004	Yes . 	Hur visste du det ? 
+1005	- How so ? 	Hur visste du det ? 
+1006	Hauser called Dreyman and told him about it . 	Hauser ringde Dreyman och berättade om det . 
+1007	Wiesler , this is very important . 	Det är väldigt viktigt , för min karriär och för din karriär - 
+1008	Both for my career and for yours . 	Det är väldigt viktigt , för min karriär och för din karriär - 
+1009	Did he mention who may be behind it ? 	- att får reda på vem som ligger bakom . Eller har du några idéer ? 
+1010	Or do you have any ideas ? 	
+1011	I don 't think he mentioned anything . 	Jag tron inte att han anar något , nej han anar inget . 
+1012	No ... nothing at all . 	Jag tron inte att han anar något , nej han anar inget . 
+1013	A ´Spiegel´ editor crossed the border using a false name on the 27th , and spent four hours here . 	Der Spiegel redaktören sågs passera med förtäckt namn över gränsövergången - - på Holmerstrasse . Där sågs han med Georg Hessenstein 
+1014	Dept . 	Grupp 6 förföljde dem men förlorade dem . 
+1015	VI followed him to Prenzlauer Berg , then lost his trail . 	Grupp 6 förföljde dem men förlorade dem . 
+1016	Did he have contact with Dreyman ? 	Hade han någon kontakt med Georg Dreyman ? 
+1017	- Wouldn 't I have noted it in the report ? 	- Skrev jag inte om det i rapporten ? 
+1018	- Yes , of course . 	- Jo , naturligtvis . 
+1019	But I smell a writer behind this text . 	Vem skev i så fall artikeln ? 
+1020	I 'd be astonished if I 'm wrong . 	Den gör mig vansinnig . 
+1021	So keep your ears open ! 	Jag ringer dig senare . 
+1022	Shit ! 	Skit . 
+1023	Get in . 	Stig in . 
+1024	If one of your staff deceives you , you punish him , right ? 	När en medarbetare går bakom ryggen skall han väll straffas ? - Eller ? 
+1025	Sure , sure ! 	- Jo , jovisst . 
+1026	Even a woman ? 	Han har en fru , övervaknar ni henne också ? 
+1027	Right ? 	Han har en fru , övervaknar ni henne också ? 
+1028	But of course ! 	- Självklart . 
+1029	Isn 't everyone who serves a great man part of his staff ? 	Han är alltså inte en sån stor man han verkar . 
+1030	You could see it like that ... 	Det kan man säga . 
+1031	Indeed , you 'd have to see it like that . 	Det måste man säga . 
+1032	This is where she gets her illegal medication . 	Ta in henne på förhör . Christa- Maria Sieland . 
+1033	Christa- Maria Sieland . 	
+1034	You should know this , it 's your department . 	Hon måste ju veta något . 
+1035	It 's up to you whether you ruin her or not , but I never want to see her on a German stage again . 	Oavsett om ni får fram något eller inte , så sätter ni press på henne . Vi kan i alla fall vara säkra på att hon inte kommer spela mer . 
+1036	Now get out . 	Du kan gå . 
+1037	Shut the door ! 	Stäng dörren ! 
+1038	Ms . 	Fru Sieland ? 
+1039	Sieland ? 	Fru Sieland ? 
+1040	Please follow us . 	Följ med oss . 
+1041	We have some questions . 	
+1042	Come along . 	Kommer du ? 
+1043	So ... 	Skynda . 
+1044	Comrade Sieland , a beautiful career you had , hm ? 	Sieland , ni har haft en bra karriär . 
+1045	A pity really . 	Vad synd , ni var ju så bra . 
+1046	You were good . 	Vad synd , ni var ju så bra . 
+1047	You were very good indeed . 	Ni var väldigt bra . 
+1048	Just too short- lived . 	Lite sorgligt . 
+1049	Do have a seat . 	Sätt dig . 
+1050	What do actors do when they can 't act anymore ? 	Vad gör en skådespelerska , som aldrig mer får spela ? 
+1051	Please ... 	Snälla . 
+1052	Isn 't there anything I can do for you ? 	Finns det inget jag kan göra för er ? 
+1053	- For ... 	- För rikets säkerhet ? 
+1054	State Security ? 	- För rikets säkerhet ? 
+1055	- It 's a little late for that . 	- Det är för sent . 
+1056	I know nearly all our artists . 	Jag känner nästan alla konstnärer . 
+1057	I could find out a lot . 	Jag kan få fram information . 
+1058	I believe you . 	Det tror jag nog att ni kan , men det behövs inte . 
+1059	But it won 't help you now . 	Det tror jag nog att ni kan , men det behövs inte . 
+1060	Maybe there 's something else I could do ? 	Det finns kanske något annat jag kan göra ? 
+1061	Something we might both find agreeable . 	Någonting ingen av oss har något emot . 
+1062	Unfortunately , you 've made an enemy of a very powerful man . 	Tyvärr har ni , hur skall jag säga ... En mäktig man där hemma . 
+1063	Therefore , I have less freedom than would normally be the case . 	Tyvärr har han en inte lika stark fru . 
+1064	Is there no way I can save myself ? 	Finns det inget jag kan göra ? 
+1065	I 'm sorry , madam . 	Tyvärr inte . 
+1066	There is one possibility . 	Det finns en sak . 
+1067	Since you spend so much time with writers and artists ... 	När du ni träffar så många författare och konstnärer - - så känner ni kanske till en artikel i ´Der Spiegel ' ? 
+1068	You don 't know anything about an article from this week 's ´Spiegel ' , do you ? 	När du ni träffar så många författare och konstnärer - - så känner ni kanske till en artikel i ´Der Spiegel ' ? 
+1069	An article about suicide . 	En artikel om självmord . 
+1070	State Security ! 	Stasi , öppna dörren ! 
+1071	Open the door ! 	Stasi , öppna dörren ! 
+1072	Open up ! 	Öppna ! 
+1073	He 's turned on the light in his study . 	Det är dags att sätta igång . 
+1074	Go in before he destroys any evidence . 	Öppna dörren innan han hinner gömma något . 
+1075	Crowbar ! 	Öppna . 
+1076	I don 't think that 'll be necessary . 	Jag tror inte att det behövs 
+1077	- What 's the matter , comrades ? 	- Vad har hänt ? 
+1078	- We have a warrant to search the premises . 	- Vi måste söka igenom lägenheten . 
+1079	Warrant is here . 	- Vi måste söka igenom lägenheten . 
+1080	- What are you looking for ? 	Sök då . 
+1081	- It 's confidential . 	Sök då . 
+1082	Boysen , Muller : bedroom . 	Bose , Müller , sovrum och korridor . 
+1083	Greska : kitchen , bathroom , hall . 	Greskar , Kücher , badrum och balkong . 
+1084	Heise and Thomas : living room , study . 	Heis och Thomas , arbetsrum , vardagsrum . 
+1085	Go ! 	Sätt igång . 
+1086	What do you burn in here ? 	- Vad bränner ni här ? 
+1087	Substandard texts . 	- Dåliga texter . 
+1088	A lot of Western literature , eh ? 	Är detta Västlitteratur , eller ? 
+1089	That book was a gift from Margot Honecker . 	Det är en present från en släkting . 
+1090	- Status ? 	- Hur går det ? 
+1091	- All according to plan . 	- Allt enligt planen . 
+1092	We found nothing , except Western books and newspapers . 	Inget , förutom böcker och tidningar från väst . 
+1093	- No trace to be found ! 	- Vi har sökt igenom allt . 
+1094	- Did you search thoroughly ? 	- Har ni sökt grundligt ? 
+1095	Yes , Comrade ! 	Ja , det har vi . 
+1096	What 's our next move ? 	Hur skall vi fortsätta ? 
+1097	- Comrade ? 	- Vad är det ? 
+1098	- Pull out your men ! 	- Kom ner med era män . 
+1099	In the unlikely event that damage has occurred , you may claim compensation . 	Här är adressen till myndigheten , om ni har något att klaga på . 
+1100	I 'm sure everything 's in perfect order . 	Allt är nog i sin ordning . 
+1101	Yes ? 	Ja , tack . 
+1102	Wiesler , I' ll be expecting you in Hohenschonhausen at 9 a . m . tomorrow . 	Wiesler , jag väntar på dig imorgon klockan 9 vid " Hohenschönhausen " 
+1103	Okay , I' ll say what we 're all thinking : 	Bra , då säger jag väll det vi alla tror , om Christa- Maria . 
+1104	It was Christa- Maria . 	Bra , då säger jag väll det vi alla tror , om Christa- Maria . 
+1105	The Stasi got her , and she ratted on you . 	Stasi pressade henne , så hon förrådde dig . 
+1106	It wasn 't her . 	Hon visste inget . 
+1107	How can you be so sure ? 	Hur vet du det ? 
+1108	You yourself said she wasn 't home last night . 	Du har själv sagt att du inte litar på henne . 
+1109	She knows the hiding place . 	Hon skulle aldrig prata . 
+1110	Yes , she knows . 	Det skulle hon inte . 
+1111	So if you 're right , and the search was due to her , then she 's our guardian angel . 	Om du har rätt och hon kommer tillbaka själv . Så tar jag hand om det . 
+1112	I 'm here to see Lt . 	Jag skall träffa löjtnant Grubitz . 
+1113	Col . 	Jag skall träffa löjtnant Grubitz . 
+1114	Grubitz . 	Jag skall träffa löjtnant Grubitz . 
+1115	Captain Wiesler . 	- Haupman Wiesler . 
+1116	Interrogation room 76 . 	- Förhör 76 . 
+1117	Yes ! 	Ja , kom in . 
+1118	Come in . 	Ja , kom in . 
+1119	Sit down . 	Sätt dig . 
+1120	So ? 	Och ? 
+1121	What was that about ? 	Vad är det ? 
+1122	You 're asking me what that was about ? 	Och det frågar du mig ? 
+1123	What do you suspect Dreyman of ? 	Misstänker du Dreyman ? 
+1124	He wrote the ´Spiegel´ article . 	Han är vår enda misstänkta . 
+1125	Who alleges that ? 	Varifrån har du fått bevis ? 
+1126	Come with me ! 	Följ med . 
+1127	Here . 	
+1128	I don 't know how you could be so sloppy as to miss all of this ! 	Jag vet inte om jag kan tro på allt kvinnan säger . 
+1129	But I know you differently , especially as an interrogator . 	Men vi kan prova något annat . En annan utfrågare . 
+1130	So I 'm giving you one last chance . 	Jag ger dig en sista chans . 
+1131	Bring in prisoner 662 , now ! 	Hämta ut fånge 667 . 
+1132	Are you still on the right side ? 	Är du fortfarande kvar på vår sida ? 
+1133	Yes . 	- Gör ett sista försök då . 
+1134	Then don 't screw it up again . 	
+1135	Shall I restrain the prisoner ? 	- Skall jag vakta fången ? 
+1136	No , she 's an informant now . 	- Hon är ingen fånge här , ni kan gå . 
+1137	You may go . 	- Hon är ingen fånge här , ni kan gå . 
+1138	So you 're my commanding officer ? 	- Ni är alltså min förhörsledare ? 
+1139	Write . 	- Skriv det . 
+1140	Then command me . 	Pressa mig då . 
+1141	In another 10 hours ... 	10 timmar . 
+1142	No , in 9 and a half , 	Nej , egentligen 9, 5 . 
+1143	Mr . 	Vill ni att publikan skall vara utan föreställning idag , på grund av er ? 
+1144	Roessing will tell the audience that you , for health reasons , cannot appear . 	Vill ni att publikan skall vara utan föreställning idag , på grund av er ? 
+1145	And that will be your last mention in the acting world . 	Och det blir sista gången någon på teatern pratat om dig . 
+1146	Is that what you want ? 	Vill ni det ? 
+1147	Tell us where the evidence is hidden . 	Berätta var bevismaterialen är . 
+1148	There is no evidence , and no typewriter . 	Det finns inga bevis . Det finns ingen skrivmaskin , det har jag bara hittat på . 
+1149	I made it all up . 	
+1150	I hope not . 	Det hoppas jag inte . 
+1151	If so , we 'll have to keep you here . 	Då måste vi kontrollera det . 
+1152	A false statement is perjury , which carries around 2 years in prison . 	Att ljuga under förhör ger 2 års fängelse . 
+1153	Dreyman will go to prison anyway , on account of your statement ... and the material we 've already found in the apartment . 	Dreyman hamnar också i fängelse . Även utan din berättelse . Vi har redan hittat tillräckliga bevis i lägenheten . 
+1154	Save yourself , at least . 	Tänk på dig själv . 
+1155	You have no idea how many people are in jail here for senseless heroics . 	Ni anar inte hur många som suttit här , hamnat i fängelse . 
+1156	Don 't forget your audience . 	- Tänker ni inte på publiken ? 
+1157	" Don 't forget your audience ! " 	- Tänker ni inte på publiken . Bara han skulle säga något sådant . 
+1158	He has some funny ideas ! 	
+1159	Don 't forget what the state has done for you ... 	Tänk på allt Staten har gjort för dig . 
+1160	Your whole life long . 	Hela ditt liv . 
+1161	Now you can do something for the state . 	Det är dags att ni gör något för Staten . 
+1162	And it will thank you . 	Det är dags att ni gör något för Staten . 
+1163	Tell me where the typewriter 's hidden . 	Berätta var skrivmaskinen är . 
+1164	Dreyman will never find out . 	Dreyman skulle inte få reda på det . 
+1165	I' ll let you go immediately , and we 'll strike only after you 're back with him . 	Jag släpper dig sen . Vi slår till först när ni är hos honom . 
+1166	You 'll manage to feign surprise , I 'm sure . 	Helt oväntat , så att han inte misstänker något . 
+1167	And tonight you 'll be back on stage . 	Och ikväll kan ni vara på teatern igen . 
+1168	In your element . 	På scenen . 
+1169	In front of your audience . 	Och hos publiken . 
+1170	Tell me where the documents are . 	Berätta var den är . 
+1171	Where are they ? 	Var ? 
+1172	They 're in the apartment ... 	Den är i lägenheten . 
+1173	Under the doorsill , between the living room and the hallway . 	Under gaveln , mellan vardagsrummet och hallen . 
+1174	You can remove it . 	Man kan lyfta upp den . 
+1175	Is this where you mean ? 	Menar ni här ? 
+1176	Mark the exact place with a cross . 	Markera det . 
+1177	You look worn out . 	Vi håller ett öga på dig , så att ni inte flyr , eller gör något annat dumt . 
+1178	Remember , you 're an informant now . 	Vi håller ett öga på dig , så att ni inte flyr , eller gör något annat dumt . 
+1179	That means responsibilities , like conspiracy and confidentiality , but also privileges ... 	Men såklart följer det också med massa privilegier . 
+1180	Guard ! 	Veramder . 
+1181	Call Wiesler for me ! 	Har ni sett Wiesler ? 
+1182	Col . 	Hauptmann Wiesler har redan gått ut . 
+1183	Wiesler has left the premises , comrade . 	Hauptmann Wiesler har redan gått ut . 
+1184	I see ! 	Jaha ? 
+1185	Alright . 	Bra , ni kan gå . 
+1186	Stand down . 	Bra , ni kan gå . 
+1187	What does a rider do when he 's thrown ? 	Vad gör en riddare när han är förföljd ? 
+1188	He gets back on again . 	Han fortsätter bara . 
+1189	Go inside . 	Förlåta och acceptera ? 
+1190	Sleep it off . 	Förlåta och acceptera ? 
+1191	What happened has nothing to do with the house . 	Det är inget personligt , det som har hänt . 
+1192	No , but with the whole country . 	Nej , utan med hela landet . 
+1193	Christa ! 	- På landet hade de inget vatten , - 
+1194	Stop , I was at Kerschner 's and they had no water . 	- På landet hade de inget vatten , - 
+1195	I need a shower . 	- så jag måste duscha . 
+1196	You were in a hurry to get here ! 	- Åkte du hit direkt från häktet ? - Jag var tvungen att se till Lazlo . 
+1197	- Operation ´Lazlo´ is still in progress ! 	- Är båda i lägenheten ? 
+1198	- Are they both inside ? 	- Är båda i lägenheten ? 
+1199	Yes . 	- Ja . 
+1200	Here 's today´s report . 	Här är dagens rapport . 
+1201	The last report for Operation ´Lazlo ' . 	Förhoppningsvis är det sista dagen med Lazlo . 
+1202	Why didn 't you call me ? 	Varför ringde du inte mig ? 
+1203	What ? 	
+1204	Why didn 't you call me ? 	- Varför har du inte ringt ? 
+1205	I was out in the country . 	Vi åkte ut på landet . 
+1206	Can you hand me the nail brush ? 	Kan jag få tvålen . 
+1207	The Stasi was here . 	Stasi var här , de sökte igenom lägenheten . 
+1208	They searched the apartment . 	Stasi var här , de sökte igenom lägenheten . 
+1209	Who was here ? 	Vem var här ? 
+1210	State Security ! 	Stasi , öppna dörren ! 
+1211	Open up ! 	
+1212	Stay here . 	Stanna här . 
+1213	Hello , Comrade Dreyman . 	Goddag herr Dreyman , vi kommer från säkerhetspolisen . 
+1214	I 'm Lt . 	Goddag herr Dreyman , vi kommer från säkerhetspolisen . 
+1215	Col . 	Goddag herr Dreyman , vi kommer från säkerhetspolisen . 
+1216	Grubitz from State Security . 	Jag vill påminna dig om att arbete på natten är strängeligen förbjudet . 
+1217	I just wanted to make sure they did a thorough job last night . 	Jag vill påminna dig om att arbete på natten är strängeligen förbjudet . 
+1218	Your study ? 	Arbetsrummet ? 
+1219	We 'll start there . 	
+1220	Men , search carefully for notes hidden in the books . 	Titta igenom all böcker . 
+1221	Oh , what do we have here ? 	Vad är det här ? 
+1222	This doorsill doesn 't look kosher to me . 	Gaveln ser lös ut . 
+1223	Could it be ... a secret compartment ? 	Kan det vara en tillfällighet ? 
+1224	Let her go . 	Det gör inget , hon är inte misstänkt . 
+1225	She 's not a suspect . 	Det gör inget , hon är inte misstänkt . 
+1226	The actress ... 	Vilken lögnerska . 
+1227	I was too weak . 	Förlåt mig , jag förrådde honom . 
+1228	I can never put right what I' ve done wrong . 	Förlåt mig , jag förrådde honom . 
+1229	There 's nothing to put right ! 	Det är bra , allt är bra . 
+1230	You understand ? 	Det är bra , allt är bra . 
+1231	Nothing . 	Jag flyttade skriv ... 
+1232	I moved the ty ... 	Jag flyttade skriv ... 
+1233	Forgive me , forgive me ... 	Förlåt mig , förlåt mig . 
+1234	Forgive me , forgive me ... 	Förlåt mig , förlåt mig . 
+1235	Take your men back to headquarters . 	Samla ihop alla , det är över . 
+1236	This mission is over . 	Samla ihop alla , det är över . 
+1237	I' ve concluded the mission , Comrade Dreyman . 	Herr Dreyman , vi har gjort ett misstag . 
+1238	We must have received an erroneous tip- off . 	Vi tog fel . 
+1239	Sorry . 	Jag ber om ursäkt . 
+1240	Come on . 	Kom . 
+1241	There 's one thing you should understand , Wiesler . 	Du har gjort ett stort misstag , Wiesler . 
+1242	Your career is over . 	Din karriär är över här . 
+1243	Even if you were too smart to leave any traces . 	Jag skickar dig tillbaka till skolan . 
+1244	You 'll end up in some cellar , steam- opening letters until you retire . 	Du får sitta en källare och läsa brev . 
+1245	That means the next 20 years . 	Där har du dina kommande 20 år . 
+1246	20 years ! 	20 år . 
+1247	That 's a long time . 	En lång tid . 
+1248	" Mikhail Gorbachev elected as leader of the Soviet Union 's Communist Party . " 	
+1249	4 YEARS AND 7 MONTHS LATER 	4 år och 7 månader senare . 
+1250	The Wall has come down ! 	Muren är öppen ! 
+1251	Yes , the Wall has come down ! 	Muren är öppen ! 
+1252	The border guards have opened the gates . 	Här vi gränsövergången är glädjen enorm , hör alla jublande människor när - 
+1253	The excitement is enormous ! 	Här vi gränsövergången är glädjen enorm , hör alla jublande människor när - 
+1254	People are streaming out in thousands ! 	- tusentals människor strömmar till . Det är otroligt . 
+1255	It 's unbelievable ! 	Från Berlin , det är den 9 : de November 1989 . 
+1256	Dear listeners , November 9th , 1989 , will go down in history ! 	Ett historiskt ögonblick . 
+1257	TWO YEARS LATER 	2 år senare . 
+1258	What 's wrong , my child ? 	Mitt kära barn , vad är det ? 
+1259	Your Arthur is dead . 	Min älskade lever inte mer . 
+1260	Arthur ... 	Älskade ? 
+1261	Can 't you be wrong , just this once ? 	Är du säker , jag såg honom imorse . 
+1262	I saw him this morning ! 	Är du säker , jag såg honom imorse . 
+1263	No , sister . 	Nej syster , lita på mig . 
+1264	Believe me . 	Han är död , de stupade männen står mellan honnom och mig . 
+1265	He fell to his death . 	Han är död , de stupade männen står mellan honnom och mig . 
+1266	The loyal men surround him , as you do me , and despite the high sun , cast seven shadows on his noble dead body . 	Och öppnar upp solen . Som deras egna , döda liv . 
+1267	Crushed by the mighty wheel . 	Den starka rädslan i målningarna . 
+1268	I see it , though I 'd rather see any other horror . 	Jag ser den , och den hemska kärleken . 
+1269	Why am I not spared these visions ? 	Varför har jag inte blivit besparad alla dessa hemskheterna ? 
+1270	Elena ! 	Elena , gå hem och sörj . 
+1271	Go home and mourn . 	Elena , gå hem och sörj . 
+1272	I will finish your shift . 	
+1273	Too many memories , eh ? 	Får många minnen , eller ? 
+1274	I couldn 't stay in there either . 	Jag måste erkänna att jag känner detsamma . 
+1275	But what 's this I hear ? 	Hur är det nuförtiden ? 
+1276	You 've not written since the Wall fell ? 	Nu när ni kan skriva vad ni vill . 
+1277	That 's not good . 	Är det inte bra ? 
+1278	After all our country invested in you . 	Är det inte bra ? 
+1279	Although I understand you , Dreyman . 	Men jag kan förstå dig Dreyman . 
+1280	What is there to write about in this new Germany ? 	Vad finns det att skriva om nuförtiden ? 
+1281	Nothing to believe in , nothing to rebel against ... 	Inget man kan tro på , inget man kan motstånd mot . 
+1282	Life was good in our little Republic . 	Det var trevligt i vår lilla republik . 
+1283	Many people only realize that now . 	- Förstår ni det nu ? - Det finns en ska jag måste fråga om . 
+1284	- There is one thing I do need to ask you . 	Allt . Dreayman , allt . 
+1285	- Whatever you want . 	Varför blev jag aldrig förhörd ? 
+1286	Why was I never under surveillance ? 	Varför blev jag aldrig förhörd ? 
+1287	Everyone else was . 	Jag var ju inte ens övervakad . 
+1288	Why not me ? 	Varför inte jag ? 
+1289	You were under full surveillance ! 	Ni var totalt övervakad . 
+1290	We knew everything about you . 	Vi bevakade alla . 
+1291	Full surveillance ? 	Totalt övervakad , säger ni ? 
+1292	Every inch was bugged . 	Fullständig övervakad , allt 
+1293	The full program . 	Fullständig övervakad , allt 
+1294	Impossible ! 	Det är omöjligt . 
+1295	Take a look behind your light switches . 	Vi hade koll på hela ditt liv . 
+1296	We knew everything . 	Vi visste allt . 
+1297	We knew that you couldn 't give our little Christa what she needed . 	Vi ville inte att vår kära Christa skulle göra några dummheter . 
+1298	To think that people like you once ruled a country ... 	Det är ni som är den verkliga landsförrädaren . 
+1299	RESEARCH SITE AND MEMORIAL 	
+1300	It 'll be a moment , there should be more than one file in your case . 	Ni får sitta ner och vänta lite , så plockar vi fram alla dokument . 
+1301	I ordered them chronologically . 	Jag har lagt dem i kronologiskt , de äldsta är överst och de nyaste nederst . 
+1302	Old ones at the top , and the newer ones underneath . 	Jag har lagt dem i kronologiskt , de äldsta är överst och de nyaste nederst . 
+1303	My respects ! 	Alla dokument . 
+1304	Operation ´Lazlo ' . 	Operation " Lazlo " , på Georg Dreyman . 
+1305	Operation ´Lazlo ' , subject : 	Med täcknamn " Lazlo " är öppen . 
+1306	Georg Dreyman , code- name ´Lazlo ' , is launched . 	På begäran av Minister , Bruno Hempf . 
+1307	The lead came from Minister Bruno Hempf . 	På begäran av Minister , Bruno Hempf . 
+1308	' Lazlo´ takes delivery of a daily Western newspaper without official permission . 	" Lazlo " hjälper en kurir med införsel av tidningen " Der Allgemeine Zeitung " . 
+1309	I suggest not taking any action so as not to arouse suspicion of surveillance . 	Då tidningen är förbjuden inleds övervakning på både Lazlo och kuriren . 
+1310	' Lazlo´ and CMS unwrap presents , then presumably have intercourse . 	Lazlo och CMS packar upp presenter . På natten har de förmodligen sex . 
+1311	The visitor was Paul Hauser 's uncle from West Berlin . 	Lägenheten får besök av Paul Hauser och hans farbror från Västberlin . 
+1312	They tell him about a play that Hauser and ´Lazlo´ will write for the GDR 's 40th anniversary . 	Han berättar om en teaterpjäs till firandet av DDR : s 40 års dag . 
+1313	We expect further information on the play , a plot summary etc . 	Han diskuterar upplägget i pjäsen , innehåll och så vidare . 
+1314	Contents of act 1 : 	Innehåll i första akten : 
+1315	Lenin is in constant danger . 	Lenin är ständigt i fara . 
+1316	Despite increasing external pressure , he sticks to his revolutionary plans . 	Trots hot och förtryck håller han fast vid sina planer om en revolution . 
+1317	Lenin is exhausted . 	Lenin är väldigt skarpsynt . 
+1318	HGW ... 	
+1319	HGW XX- 7 ... 	HGW XX/ 7 ? 
+1320	I , Christa- Maria Sieland , freely commit myself to work unofficially for State Security . 	Jag , Christa- Maria Sieland - - förpliktar mig härmed frivilligt , att samarbeta med Stasi . 
+1321	This decision is the result of my conviction that ... 	Detta godkännande grundar sig på den - - övertygelsen om att göra allt för detta landet ... 
+1322	Georg Dreyman wrote the ´Spiegel´ article " One Who Made it to the Other Side . " 	Georg Dreyman är en lansförrädare - 
+1323	His accomplices were the journalist Paul Hauser ... 	- och hans medhjälpare , journalisten Paul Hauser . 
+1324	Christa Sieland was arrested on March 10th for drug abuse , on Minister Hempf 's indication . 	Christa- Maria Sieland gick den 10 : e Mars 1985 till minister Hempf från apoteket . Och den 11 : e Mars 13 : 50 kördes hon tillbaka . 
+1325	She was released at 1 . 50 p . m . on March 11th , having revealed ´Lazlo´s hiding place and signing up as informant ´Marta ' . 	Detta enligt övervakningsanteckningar från Lazlo , och förhör med " Marta " . 
+1326	1 . 50 p . m ... 	13 : 50 ? 
+1327	So when did she ... 	Det var då .. 
+1328	After the unsuccessful house search of March 11 , 1985 , and ´Marta´s ' fatal accident , 	Efter en genomsökning av lägenheten den 11 : e Mars 1985 . Och dödsolyckan med " Marta " blev Lazlo friad från alla misstankar . 
+1329	Operation ´Lazlo´ was terminated . 	
+1330	Note : 	Arbetsförbudet för agent HGW XX/ 7 verkställdes . 
+1331	HGW 's promotion ban takes effect immediately . 	Arbetsförbudet för agent HGW XX/ 7 verkställdes . 
+1332	Transfer to Dept . 	Förflyttning till avdelning M där endast förebyggande uppgifter utföres . 
+1333	M , with the recommendation not to entrust him with missions under his sole responsibility . 	Förflyttning till avdelning M där endast förebyggande uppgifter utföres . 
+1334	10 : 50 a . m . : 	10 : 55 , övervakningsutrustningen togs bort från Lazlos hus 
+1335	Resume surveillance outside ´Lazlo´s ' house . 	10 : 55 , övervakningsutrustningen togs bort från Lazlos hus 
+1336	At 3 . 10 p . m . , ´Marta´ comes directly from Hohenschonhausen to his apartment . 	15 : 10 , Kom " Marta " hem direkt från ´Hohenschönhausen´ 
+1337	House search and report to follow . 	Genomsökning av lägenheten genomfördes . 
+1338	End of Operation ´Lazlo ' . 	Övervakningen på Lazlo avslutades 15 : 15 . 
+1339	HGW , 3 . 15 p . m . 	
+1340	Who is HGW XX- 7 ? 	Vem är HGW XX/ 7 ? 
+1341	Stop . 	Stanna . 
+1342	Back to Hufeland Street . 	Tillbaka till Rufe- Lang Strasse " 
+1343	TWO YEARS LATER 	2 år senare . " Georg Dreyman : 
+1344	" Georg Dreyman " " Sonata for a Good Man " 	" Georg Dreyman : 
+1345	" A Novel " " Dedicated to HGW XX- 7 , in gratitude . " 	" lakttagelser av HGW XX/ 7 " 
+1346	29, 80 . 	29 . 8 Euro . 
+1347	Shall I gift- wrap it ? 	En present ? 
+1348	No , it 's for me . 	Nej , den är till mig . 

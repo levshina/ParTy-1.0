@@ -1,0 +1,1349 @@
+0	TEMPORARY DETENTION CENTER MINISTRY FOR STATE SECURITY 	
+1	Stand still . 	Seis . 
+2	Eyes to the floor . 	Katse lattiaan . 
+3	Walk on . 	Menkää . 
+4	TEMPORARY DETENTION CENTER MINISTRY FOR STATE SECURITY 	TUTKINTAVANKILA 
+5	Address him as ´Captain ! ' 	Puhuttelu : herra kapteeni . 
+6	Enter . 	Sisään . 
+7	Sit down . 	Istukaa . 
+8	Hands under your thighs , palms down . 	Kädet reisien alle , kämmenet alas . 
+9	What do you have to tell us ? 	Mitä voitte kertoa ? 
+10	I' ve done nothing . 	En ole tehnyt mitään . 
+11	I know nothing . 	En tiedä mitään . 
+12	You 've done nothing , know nothing ... 	Ette ole tehnyt mitään , ettekä tiedä mitään . 
+13	You think we imprison people on a whim ? 	Pidätämmekö siis syyttömiä ? 
+14	No ... 	- Ei ... 
+15	If you think our humanistic system capable of such a thing , that alone would justify your arrest . 	Jos uskotte niin järjestelmästämme on se jo syy pidättää . 
+16	We 'd like to jog your memory , prisoner no . 	Autamme muistianne , vanki 227 . 
+17	227 . 	Autamme muistianne , vanki 227 . 
+18	On September 28th , Dieter Pirmasens , your friend and neighbor , fled to the West . 	Naapurinne ja ystävänne Dieter Permasens pakeni länteen 28 . 9 . 
+19	We believe that he had help . 	Uskomme , että hän sai apua . 
+20	I know nothing . 	Uskomme , että hän sai apua . 
+21	He didn 't even tell me he wanted to leave . 	- En tiedä . En edes tiennyt , että hän halusi paeta . 
+22	I first heard about it at work . 	Kuulin siitä töissä . 
+23	Please recount what you did on September 28th . 	Kertokaa , mitä teitte 28 . 9 . 
+24	- It 's in my statement . 	Olen kertonut jo . 
+25	- Tell me again . 	- Kertokaa vielä . 
+26	I was at Treptow Park memorial with my children . 	Olin lasten kanssa puistossa , missä tapasin ystäväni Max Kirchenerin . 
+27	Where I met my old friend Max Kirchner . 	Olin lasten kanssa puistossa , missä tapasin ystäväni Max Kirchenerin . 
+28	We went to his place and listened to music until late . 	Menimme hänen luokseen . Kuuntelimme musiikkia myöhään . 
+29	He has a telephone , you can call him to confirm this . 	Hän voi vahvistaa tämän puhelimitse . 
+30	I can give you the number . 	Voin antaa numeron . 
+31	The enemies of our state are arrogant . 	Valtion viholliset ovat ylimielisiä . 
+32	Remember that . 	Valtion viholliset ovat ylimielisiä . 
+33	It takes patience . 	Se vaatii pitkän pinnan . 
+34	About 40 hours worth . 	Se vaatii pitkän pinnan . 
+35	( STASI COLLEGE , POTSDAM- EICHE ) 	Se vaatii pitkän pinnan . 
+36	Fast forward ... 	Kelaan eteenpäin . 
+37	I want to sleep . 	Antakaa minun nukkua . 
+38	Please , let me sleep ! 	Antakaa minun nukkua . 
+39	Hands under your thighs . 	Kädet reisien alle . 
+40	Tell me again what you did on September 28th . 	Kertokaa taas , mitä teitte 28 . 9 . 
+41	Please , just one hour , just a little ... a little sleep . 	Antakaa minun nukkua edes tunti . 
+42	Tell me again what you did on that day . 	- Kertokaa mitä teitte tuona päivänä . 
+43	Why keep him awake for so long ? 	Miksi pitää valvottaa ? 
+44	It 's ... inhuman . 	Eikö se ole julmaa ? 
+45	An innocent prisoner will become more angry by the hour , due to the injustice suffered . 	Syytön muuttuu ajan myötä vihaiseksi , koska kokee vääryyttä . 
+46	He will shout and rage . 	Hän alkaa huutaa ja raivota . 
+47	A guilty prisoner becomes more calm and quiet ... 	Syyllinen rauhoittuu ja hiljenee tai itkee . 
+48	Or he cries . 	Syyllinen rauhoittuu ja hiljenee tai itkee . 
+49	He knows he 's there for a reason . 	Hän tietää pidätyksensä syyn . 
+50	The best way to establish guilt or innocence is non- stop interrogation . ... school friend Max Kirchner . 	Syyllisyys selviää parhaiten kuulustelulla ilman taukoja . ... ystäväni Max Kirchnerin . 
+51	We went to his place ... and listened to music until late . 	Menimme hänen luokseen . Kuuntelimme musiikkia myöhään . 
+52	He has a telephone , you can call him to confirm this . 	Hän voi vahvistaa asian puhelimitse . 
+53	Do you notice anything about his statement ? 	Huomaatteko mitään lausunnosta ? 
+54	It 's the same as at the beginning . 	Se on sama kuin alussa . 
+55	Exactly the same . 	Se on sama kuin alussa . 
+56	Word for word . 	- Sanasta sanaan . 
+57	People who tell the truth can re- formulate things , and they do . 	Todenpuhuja voi vaihdella sanamuotoa ja tekee niin . 
+58	A liar has prepared sentences , which he falls back on when under pressure . 	Valehtelija turvaa ennalta opeteltuun . 
+59	227 is lying . 	227 valehtelee . 
+60	We have two important indicators , and can increase the intensity . 	Siitä on 2 osoitusta . Kuulustelua voi koventaa . 
+61	If you don 't give names , 	Jos ette puhu , pidätämme vaimonne . 
+62	We 'll have to arrest your wife . 	Jos ette puhu , pidätämme vaimonne . 
+63	Jan and Nadja will be put into state care . 	Jan ja Nadja joutuvat laitokseen . 
+64	Is that what you want ? 	Sitäkö haluatte ? 
+65	Who was the person who helped him flee ? 	Kuka auttoi paossa ? 
+66	- Glaske ... 	Gläske ... - Selkeämmin ! 
+67	- Again ! 	Gläske ... - Selkeämmin ! 
+68	Speak clearly ! 	Gläske ... - Selkeämmin ! 
+69	Glaske ... 	Werner Gläske ... - Werner ... ... Gläske . 
+70	Werner Glaske . 	Werner Gläske ... - Werner ... ... Gläske . 
+71	Werner ... 	Werner Gläske ... - Werner ... ... Gläske . 
+72	Glaske . 	
+73	Quiet ! 	Rauhoittukaa . 
+74	Quiet ! 	Rauhoittukaa ja kuunelkaa . 
+75	Listen ! 	Rauhoittukaa ja kuunelkaa . 
+76	Does anyone know what that is ? 	Tietääkö joku , mikä se on ? 
+77	It 's the odor sample for the dogs . 	Hajunäyte koirille . 
+78	It must be collected at every interrogation . 	Se otetaan aina kuulusteltavilta . 
+79	Never forget it ! 	Se otetaan aina kuulusteltavilta . 
+80	Your subjects are enemies of Socialism . 	Kuulustelette sosialismin vihollisia . 
+81	Never forget that ! 	Älkää unohtako sitä . 
+82	Goodbye . 	Hyvää päivänjatkoa . 
+83	That was good , really good . 	Oikein hyvä . 
+84	You remember how we sat there 20 years ago ? 	Muistatko , kun istuimme täällä 20 vuotta sitten ? 
+85	They 've offered me a professorship . 	Minulle tarjotaan professuuria . 
+86	Life 's not about good grades , though mine weren 't that bad , thanks to you . 	Elämä ei ole pelkkiä arvosanoja , tosin ansiostasi minun olivat hyviä . 
+87	So what 's up ? 	Mitä nyt ? 
+88	Why do you always think I 'm scheming ? 	- Miksi minulla olisi taka- ajatuksia ? 
+89	- I wanted to invite you to the theater . 	Kutsuisin sinut vain teatteriin . 
+90	- The theater ? 	Kutsuisin sinut vain teatteriin . 
+91	I heard that Minister Hempf is going . 	Ministeri Hempfkin tulee . 
+92	As head of the Culture Department , I should show my face . 	Kulttuurivastaavana haluan näyttäytyä . 
+93	It starts at 7 p . m . 	Se alkaa kello 19 . 
+94	We should get going . 	Lähdetään heti . 
+95	THE LIVES OF OTHERS 	MUIDEN ELÄMÄ 
+96	Minister Hempf at one o' clock . 	Ministeri Hempf kello yhdessä . 
+97	He used to be in State Security , you know . 	Hän oli ennen turvallisuusministeriössä . 
+98	He really cleaned up the theater scene . 	Hän on puhdistanut teatterin . 
+99	Georg Dreyman , the writer . 	Georg Dreyman . Kirjoittaja . 
+100	An arrogant type , the kind I warn my students about . 	Pöyhkeä . Heistä varoitan oppilaitani . 
+101	But he 's loyal . 	Hän on uskollinen . 
+102	If they were all like him , I 'd be out of a job . 	Hän on uskollinen . 
+103	He 's our only non- subversive writer who is also read in the West . 	Häntä luetaan lännessäkin . 
+104	He thinks the GDR is the greatest country on earth . 	Hänestä DDR on paras maa . 
+105	It starts . 	Katso itse . 
+106	What 's wrong , my child ? 	Mikä hätänä ? 
+107	A new vision ? 	Uusi näkykö ? 
+108	Speak , Marta ! 	- Puhu , Marta ! 
+109	Speak ! 	- Puhu , Marta ! 
+110	Your Arthur ... is dead . 	Sinun Arthurisi on kuollut . 
+111	Arthur ? 	
+112	Can 't you be wrong , just this once ? 	Voit erehtyä . 
+113	No , sister . 	- En , sisar . 
+114	Believe me . 	- En , sisar . 
+115	He fell to his death . 	Hän syöksyi kuolemaan . 
+116	Crushed by the mighty wheel . 	Iso pyörä murskasi hänet . 
+117	I see it , though I 'd rather see any other horror . 	Näen sen - vaikka näkisin mielelläni muun kauhun . 
+118	Why am I not spared these visions ? 	Miksi en säästy näyiltä ? 
+119	Elena ! 	Elena ! 
+120	Go home ... and mourn . 	Elena ! 
+121	I' ll finish your shift . 	Mene kotiin . 
+122	Did you like it ? 	Mitä pidit ? 
+123	Dreyman 's good , eh ? 	Dreyman on hyvä . 
+124	I 'd have him monitored . 	- Panisin seurantaan . 
+125	Monitored ? 	- Panisin seurantaan . 
+126	All that teaching is ruining your instincts . 	Opetustyö tärvelee vaistosi . 
+127	I could oversee it myself . 	Hoidan sen itse . 
+128	He 's clean , I tell you . 	- Hän on puhdas . 
+129	Even Hempf likes him . 	Hempf pitää hänestä . 
+130	We 'd be shooting ourselves in the foot . 	Ampuisimme itseämme jalkaan . 
+131	I 'm going down . 	Menen alas . 
+132	" Faces of Love " 	Rakkauden kasvot 
+133	I hear a lot about your work . 	Olen kuullut työstänne . 
+134	They say culture 's in good hands . 	Kulttuuri on osaavissa käsissä . 
+135	Your name is mentioned in Party circles . 	Nimenne mainitaan puoluepiireissä . 
+136	We 're the Party 's ´shield and sword ' . 	Nimenne mainitaan puoluepiireissä . 
+137	I 'm aware of that at all times . 	- Olemmekin puolueen kilpi ja miekka . 
+138	What do you make of him ? 	Mitä pidätte hänestä ? 
+139	Of Georg Dreyman ? 	Georg Dreymanistako ? 
+140	Maybe ... 	Ehkä ... 
+141	Maybe what ? 	- Ehkä mitä ? 
+142	Maybe he 's not as clean as he seems . 	Ehkä hän ei olekaan niin puhdas . 
+143	Grubitz ! 	Kovitz ! 
+144	That 's why you and I are on top . 	Siksi meidänlaisemme ovat huipulla . 
+145	Your average Stasi chump would have said , 	Tavallinen stasilainen kehuisi miestä , pitäisi uskollisena . 
+146	" One of our best ! 	Tavallinen stasilainen kehuisi miestä , pitäisi uskollisena . 
+147	So loyal ! " etc . 	Tavallinen stasilainen kehuisi miestä , pitäisi uskollisena . 
+148	But we can see more . 	Me näemme enemmän . 
+149	You 're heading to the very top , Grubitz . 	Pääsette vielä pitkälle , Grubitz . 
+150	There 's something fishy about him . 	Jokin siinä miehessä mättää . 
+151	I can feel it in my gut . 	Jokin siinä miehessä mättää . 
+152	Dreyman 's having a party next week . 	Dreyman pitää juhlat viikolla . 
+153	Some dubious types are going , Hauser and that rabble . 	Vieraat ovat epäilyttäviä . 
+154	Try to wire the place discreetly by then . 	Kuunnelkaa asuntoa , huomaamatta . 
+155	Measures A and B . 	Kuunnelkaa asuntoa , huomaamatta . 
+156	Only in his rooms . 	Toimenpiteet A ja B . 
+157	Nothing conspicuous . 	Hänellä on vaikutusvaltaisia ystäviä . 
+158	He has powerful friends . 	Hänellä on vaikutusvaltaisia ystäviä . 
+159	No one is to know about this until we 've found something . 	Kukaan ei saa tietää asiasta ennen kuin jotain selviää . 
+160	But if you get something on him , you 'll have a good friend in the Central Committee . 	Jos selviää jotain teillä on ystävä keskuskomiteassa . 
+161	You understand what I 'm saying ? 	Jos selviää jotain teillä on ystävä keskuskomiteassa . 
+162	Have a nice evening , Comrade Minister . 	Hyvää illanjatkoa , herra ministeri . 
+163	Why is he staring at us ? 	Miksi hän tuijottaa ? 
+164	What 's he doing here , anyway ? 	Miksi hän tuli ? 
+165	I think he 's got a crush on you . 	Ihailee kai sinua . 
+166	I can 't let the evening pass without raising a toast to our artists . 	Täytyyhän minun kohottaa malja kulttuurinluojillemme . 
+167	A great Socialist , I can 't recall who it was , once said : 	Muuan suuri sosialisti on sanonut : 
+168	Writers are engineers of the soul . 	Runoilijat ovat sielun insinöörejä . 
+169	So Georg Dreyman is one of our country 's greatest engineers . 	Georg Dreyman on maamme insinöörivalioita . 
+170	- What charming bed- fellows you have . 	Viehättäviä ystäviä sinulla . - Paul . 
+171	- Paul ! 	Lopeta . 
+172	And to Christa- Maria Sieland , the loveliest pearl of the GDR . 	Christa- Maria Sieland puolestaan on epäilemättä DDR : n kaunein helmi . 
+173	I believe that nobody contradict my opinion . 	Christa- Maria Sieland puolestaan on epäilemättä DDR : n kaunein helmi . 
+174	Let 's raise our glasses to Christa- Maria Sieland : 	Kohotetaan malja hänelle . 
+175	Three cheers to her . 	Eläköön ! 
+176	Someone like him doesn 't even deserve to address you . 	Kehtaakin puhutella sinua . 
+177	Stay with me ! 	- Älä lähde . 
+178	And now something for the soul ... 	Nyt mielenpiristystä . 
+179	May I ? 	Saanko ? 
+180	- How did you like my speech ? 	Mitä piditte puheestani ? 
+181	- Many thanks . 	- Kiitos . 
+182	I liked your play too . 	Pidin näytelmästänne . 
+183	Really , it was good . 	Oikein todella . 
+184	" Engineers of the soul . " 	- " Sielun insinöörejä . " 
+185	That was a Stalin quote . 	Se oli Stalin . 
+186	Really ? 	- Niinkö ? 
+187	I , too , like to provoke , Mr . 	Minäkin provosoin mielelläni , Hauser . 
+188	Hauser . 	Minäkin provosoin mielelläni , Hauser . 
+189	But unlike you , I know how far I can go . 	Toisin kuin te , tunnen rajani . 
+190	I 'm more like our dear Dreyman . 	Dreymankin tietää - että puolue tarvitsee taiteilijoita ja taiteilijat puoluetta . 
+191	He knows that the Party needs artists , but that artists need the Party even more . 	Dreymankin tietää - että puolue tarvitsee taiteilijoita ja taiteilijat puoluetta . 
+192	If you 're going to talk politics , I' ll find another dance partner . 	Jos puhutte politiikkaa , etsin muuta tanssiseuraa . 
+193	- I 'm willing . 	Jos puhutte politiikkaa , etsin muuta tanssiseuraa . 
+194	- Too late ! 	Jos puhutte politiikkaa , etsin muuta tanssiseuraa . 
+195	I follow our theater with interest . 	Olen seurannut teatteria jo kauan . 
+196	It used to be theater people ... 	Jo ammatin puolesta . 
+197	- Paul ! 	Jo ammatin puolesta . 
+198	- It 's okay , 	- Paul ... 
+199	I' ve known Mr . 	Ei hätää . 
+200	Hauser for years . 	Tunnen Hauserin . 
+201	Comrade Schwalber ! 	Tunnen Hauserin . 
+202	You did a good job tonight too . 	Schwalber ! Hyvää työtä . 
+203	Dreyman , I 'm glad you 're working with such directors . 	Käytätte hyviä ohjaajia , Dreyman . 
+204	It wasn 't always so . 	Aina ei ole ollut niin . 
+205	You 're referring to Jerska ? 	Viittaatte Jerskaan . 
+206	I think you judged him too harshly . 	Tuomitsette hänet ankarasti . 
+207	Sure , he went too far in what he said . 	Olihan hänen lausuntonsa ilman muuta liikaa - mutta asettukaa hänen asemaansa . 
+208	Without a doubt . 	Olihan hänen lausuntonsa ilman muuta liikaa - mutta asettukaa hänen asemaansa . 
+209	But put yourself in his shoes for a moment . 	Te , kunnianmiehenä . 
+210	You , as a man of honor . 	Te , kunnianmiehenä . 
+211	He can 't remove his name from that statement . 	Ei hän voi vetää nimeään julistuksesta . 
+212	He could work for any theater in the West . 	Hän saisi työtä lännen teattereista . 
+213	But he wants to stay here . 	Hän vain ei halua lähteä . 
+214	Because he believes in Socialism and in this country . 	Hän uskoo sosialismiin ja tähän maahan . 
+215	- His black- listing is ... 	Hänen työkieltonsa ... 
+216	- Black- listing ? 	Hänen työkieltonsa ... 
+217	We don 't do that here ! 	- Työkielto ? Ei meillä ole sellaisia . 
+218	You should choose your words more carefully . 	Valikoikaa sananne . 
+219	Comrade Hempf , just between us : 	Toveri Hempf , näin meidän kesken : 
+220	My plays are not strong enough to survive Schwalber 's direction . 	Näytelmäni ovat kehnoja Schwalberille . 
+221	I need Jerska , and I think you judged him too harshly . 	Tarvitsen Jerskaa . 
+222	Well , I don 't . 	Siksi pidämmekin töistänne . 
+223	But that 's what we all love about your plays . 	Siksi pidämmekin töistänne . 
+224	Your love for mankind ... your belief that people can change . 	Uskotte ihmisen voivan muuttua . 
+225	Dreyman , no matter how often you say it in your plays , people do not change ! 	Vaikka sanotte sen miten monta kertaa , ihmiset eivät muutu . 
+226	How is he , by the way ? 	Mitä hänelle muuten kuuluu ? 
+227	He hopes that his black - ... that he can work again soon . 	Hän toivoo , että työ ... Että hän voi taas työskennellä . 
+228	Is he right in hoping ? 	Onko hänellä toivoa ? 
+229	Of course he is . 	Onko hänellä toivoa ? 
+230	As long as he lives , and even longer . 	- Totta kai . Kun on elämää , on toivoa . 
+231	Because as you know , Dreyman , hope always dies last . 	Toivo kuolee viimeisenä . 
+232	The team will be ready to wire the place as of tomorrow . 	Kuunteluryhmä on valmis huomenna . 
+233	It needs to be finished by Thursday . 	Se pitää hoitaa torstaihin mennessä . 
+234	You should plan everything carefully . 	Se pitää hoitaa torstaihin mennessä . 
+235	Think you can do it ? 	Pystytkö siihen ? 
+236	Good night . 	Hyvää yötä . 
+237	I' ll get in trouble if I don 't go . 	Pitää mennä , tai naisystävä suuttuu . 
+238	- With who ? 	Pitää mennä , tai naisystävä suuttuu . 
+239	- My girlfriend . 	Pitää mennä , tai naisystävä suuttuu . 
+240	Twenty minutes . 	20 minuuttia . 
+241	Yes ? 	Niin ? 
+242	Frau Meineke ... 	- Rouva Meineke , sanakin tästä - niin tyttärenne menettää opiskelupaikan . 
+243	One word of this to anyone , and Masha loses her spot at the university . 	- Rouva Meineke , sanakin tästä - niin tyttärenne menettää opiskelupaikan . 
+244	Is that understood ? 	Oletteko ymmärtänyt ? 
+245	Yes . 	- Olen . 
+246	Send Mrs . 	Lähettäkää Meinekelle kiitoslahja . 
+247	Meineke a gift for her cooperation . 	Lähettäkää Meinekelle kiitoslahja . 
+248	It must be Thursday again . 	On taas kai torstai . 
+249	Time passes so quickly ... 	Aika kuluu äkkiä . 
+250	Perhaps that 's a good thing . 	Ehkä niin on hyväkin . 
+251	- How are you ? 	Miten menee ? 
+252	- Not bad . 	- Ei huonommin . 
+253	It 's not always this noisy . 	Ei täällä aina ole meteliä . 
+254	Only on Thursdays , I know . 	Ei täällä aina ole meteliä . 
+255	Yes . 	
+256	We missed you at the premiere . 	Et ollut ensi- illassa . 
+257	Did Schwalber do a good job ? 	- Pärjäsikö Schwalber ? 
+258	His good bits were stolen from you . 	Sinua matkien . 
+259	That keeps my ideas alive . 	- Niin pysyn elossa . 
+260	Don 't bear it . 	En enää kestä nähdä niitä ihmisiä . 
+261	I can 't bear those fat , dressed- up people at premieres anymore . 	En enää kestä nähdä niitä ihmisiä . 
+262	Doesn 't sound like me , does it ? 	Eikö kuulosta minulta ? 
+263	But maybe this is the real me , not the old Jerska . 	Ehkä se entinen Jerska olikin väärä . 
+264	He was friendly and caring , nourished by success ... all thanks to the grace of the bigwigs . 	Ihmisystävällinen menestyksen voimalla . Isojen kihojen armosta . 
+265	But I won 't complain much longer . 	Mutta en valita pitkään . 
+266	In my next life , I' ll simply be an author . 	Seuraavassa elämässäni minustakin tulee kirjailija - joka kirjoittaa , milloin haluaa , kuten sinä . 
+267	A happy author who can write whenever he wants . 	Seuraavassa elämässäni minustakin tulee kirjailija - joka kirjoittaa , milloin haluaa , kuten sinä . 
+268	Like you . 	Seuraavassa elämässäni minustakin tulee kirjailija - joka kirjoittaa , milloin haluaa , kuten sinä . 
+269	What is a director if he can 't direct ? 	Mitä on ohjaaja , joka ei saa ohjata ? 
+270	He 's a projectionist without a film , a miller without corn . 	Mylläri ilman jauhoja . Ei mitään . 
+271	He is nothing . 	
+272	Nothing at all . 	Ei mitään . 
+273	Albert , the Minister was at the premiere . 	Esityksessä oli ministeri Hempf . 
+274	Minister Hempf . 	Esityksessä oli ministeri Hempf . 
+275	I spoke to him about your blacklisting . 	Puhuimme työkiellosta . 
+276	It looks promising . 	Näyttää hyvältä . 
+277	He gave me hope , concrete hope . 	Hän antoi konkreettista toivoa . 
+278	Literally . 	Hän antoi konkreettista toivoa . 
+279	Really ? 	Todellako ? 
+280	That 's great . 	Sehän kiva . 
+281	Cheap Georgian wine . 	Halpaa georgialaisviiniä merkkiä Jerska . 
+282	Chateau Jerska . 	Halpaa georgialaisviiniä merkkiä Jerska . 
+283	So is our holy drinker coming ? 	Tuleeko pyhä juomarimme ? 
+284	I forgot to ask him . 	Unohdin kysyä häneltä . 
+285	You 're strong and forceful . 	Olet vahva . 
+286	That 's how I need you . 	Siksi tarvitsen sinua . 
+287	Don 't let this blackness into your life . 	Älä synkisty . 
+288	- Albert is my friend . 	- Albert on ystäväni . 
+289	- And you 're my boyfriend . 	Ja sinä minun . 
+290	Looks like a 50th . 	- Viideskymmeneskö ? 
+291	But I 'm going to be 40 , right ? 	Enkö minä täytäkään neljäkymmentä ? 
+292	Don 't forget , you promised to wear a tie for your birthday . 	Lupasit pitää solmiota syntymäpäivänä . 
+293	I would , but I don 't have one . 	Ei ole sellaista . 
+294	Bon anniversaire ! 	Bon anniversaire . 
+295	Atie ? 	Solmioko ? 
+296	You said you didn 't want any books . 	- Et halunnut kirjoja . 
+297	Or can 't you tie a tie , you old working- class poet ? 	Osaatko solmia sen , työläisrunoilija ? 
+298	What ? 	
+299	I was born wearing a tie ! 	Synnyin solmio kaulassa . 
+300	I had to " fight my way out of my middle- class fetters " . 	Vapautin itseni keskiluokan kahleista . 
+301	Then put those fetters on again , just for me . 	Laita kahleet nyt vielä kerran . 
+302	Alright ... 	Solmion sitominen ... 
+303	It 's no big deal to tie a tie . 	Solmion sitominen ... 
+304	Frau Meineke , would you come in for a moment ! 	Rouva Meineke , tulkaa käymään . 
+305	Can you tie a tie ? 	Osaatteko sitoa solmion ? 
+306	You 've no idea how thankful I am . 	Ette tiedä , miten kiitollinen olen . 
+307	- Are you feeling unwell ? 	Voitteko huonosti ? 
+308	- No ... 	Voitteko huonosti ? 
+309	I 'm feeling fine . 	- En toki . 
+310	Finished ? 	Onko se valmis ? 
+311	Wonderful . 	Loistavaa . 
+312	It 's perfect . 	Parempaa ei olisi voinut tulla . 
+313	It couldn 't be better . 	Parempaa ei olisi voinut tulla . 
+314	It 'll be our secret . 	Osaattehan pitää tämän salaisuutena ? 
+315	You can keep a secret , right ? 	Osaattehan pitää tämän salaisuutena ? 
+316	Of course . 	- Tietysti . 
+317	I' ll be damned ! 	Hitto ! 
+318	And I thought you couldn 't do it . 	Luulin oikeasti , ettet osaa . 
+319	You don 't normally hide your talents . 	Et yleensä salaa kykyjäsi . 
+320	You 've no idea of the things I can do ! 	- Et tiedäkään , mitä osaan . 
+321	The first guest . 	Ensimmäinen vieras . 
+322	Our dear neighbors locked the main door again . 	Naapurit sulkivat alaoven . 
+323	- Can you go ? 	Naapurit sulkivat alaoven . 
+324	- Yes , I 'm going . 	Menetkö ? 
+325	Maestro ! 	Maestro , lahjamme . 
+326	Our humble offerings . 	Maestro , lahjamme . 
+327	- I expressly said no books ! 	Pyysin , ettei kirjoja . 
+328	- But thanks . 	Mutta kiitos . 
+329	Would you like a drink ? 	Juotavaa ? 
+330	- A soda . 	- Kivennäisvesi . 
+331	- Vodka for me . 	- Kivennäisvesi . 
+332	I' ll get it . 	Minulle votka . 
+333	Why the hell 's Albert sitting all alone ? 	Miksi Albert istuu yksin ? 
+334	He won 't talk to us . 	- Hän ei enää puhu kanssamme . 
+335	He sent us all away . 	- Hän ei enää puhu kanssamme . 
+336	I brought you something too . 	Toin sinulle jotain . 
+337	- Did you really come here to read ? 	Tulitko tänne lukemaan ? 
+338	- It is Brecht ! 	- Se on Brechtiä . 
+339	I feel like a fraud among these people . 	Tunnen itseni teeskentelijäksi täällä . 
+340	A fraud ? 	Älä viitsi . 
+341	Come off it , Albert ! 	Kadotat otteen todellisuudesta . 
+342	You 're losing your grip on reality . 	Kadotat otteen todellisuudesta . 
+343	You know how we admire you , how everybody admires you . 	Tiedät , että me kaikki ihailemme sinua . 
+344	For something I did 10 years ago ... and could probably never do again . 	Jostain , mitä tein 10 vuotta sitten . Ja johon tuskin enää pystyn . 
+345	My favorite director ! 	Lempikirjailijani , minulla on kysymys . 
+346	Wait ! 	Lempikirjailijani , minulla on kysymys . 
+347	I need to talk to you a moment . 	Lempikirjailijani , minulla on kysymys . 
+348	Tell me again how you got into this position . 	Miten pääsit asemaasi ? 
+349	Pure talent . 	Miten pääsit asemaasi ? 
+350	Of course ! 	Toki lahjakkuuden takia , mutta mitä muuta teit ? 
+351	But what else did you have to do ? 	Toki lahjakkuuden takia , mutta mitä muuta teit ? 
+352	Everyone knows you 're with the Stasi ! 	Olet Stasissa ! Kaikki sen tietävät ! 
+353	- What an outrageous insinuation ! 	- Törkeä väite ! 
+354	- Don 't forget it ! 	- Törkeä väite ! 
+355	- Paul ! 	Paul ! 
+356	- What ? 	Paul ! 
+357	Excuse my friend , he 's had too much to drink . 	- No ? Ystäväni on juonut liikaa . 
+358	But you know he 's with the Stasi ! 	Tiedät , että hän on Stasissa . 
+359	No , Paul . 	- Ei , Paul . 
+360	I don 't know that . 	En tiedä . 
+361	You 're such an idealist that you 're almost a bigwig . 	Olet niin pirun idealisti . 
+362	It was informers and conformists like that who ruined Albert . 	Hänenlaisensa tuhosivat Albertin . 
+363	Spy , betrayer ! 	Kielijät ja mukautujat . 
+364	If you don 't take a stand , you 're not human ! 	Ota kantaa . Muuten et ole ihminen . 
+365	If you ever want to take action , call . 	Jos haluat toimia , soita . 
+366	If not , we don 't have to meet again . 	Muuten meidän on turha tavata . 
+367	Your friends don 't have much taste . 	Ystävilläsi on huono maku . 
+368	That 's really unfair . 	- Tuo on epäreilua . 
+369	Here ! 	- Tuo on epäreilua . 
+370	Look at this beautiful backscratcher . 	Hyvä selänraaputin . 
+371	That 's a salad fork ! 	- Se on salaattihaarukka . 
+372	Still , it 's beautiful ... 	Hieno silti . 
+373	And look at this . 	Hieno silti . 
+374	I' ll write my new play with this . 	Katso . Kirjoitan tällä uuden näytelmäni . 
+375	You have no taste either ! 	Sinullakaan ei ole makua . 
+376	I do in some things . 	- Joissakin asioissa on . 
+377	- It 's from Jerska . 	Jerskalta . 
+378	- So he did give you a book ! 	- Kirja tietysti . 
+379	" Sonata for a Good Man " 	" Sonaatti hyvälle ihmiselle " 
+380	" ' Lazlo´ and CMS unwrap presents , then presumably have intercourse . " 	" Lazlo ja CMS avaavat lahjoja . " " Oletettavasti seuraa yhdyntä . " 
+381	You 're late . 	Olette myöhässä . 
+382	Sorry , Captain . 	Anteeksi . 
+383	Those red lights made me lose all of four minutes . 	Juutuin punaisiin valoihin . 
+384	You know how it is . 	Juutuin punaisiin valoihin . 
+385	They 're already at it ! 	Pääsivät jo asiaan ! 
+386	Unbelievable ! 	Taiteilijat hässivät jatkuvasti . 
+387	These artists ! 	Taiteilijat hässivät jatkuvasti . 
+388	They 're always at it ! 	Siksi heitä on kivempi seurata kuin pappeja . 
+389	That 's why I prefer monitoring artists to priests or peace activists . 	Siksi heitä on kivempi seurata kuin pappeja . 
+390	See you tomorrow at 11 a . m . 	Huomiseen kello 11 . 
+391	Albert Jerska , operation ´Engerling ' . 	" Albert Jerska . " Järjestelmällistä . 
+392	Systematic as usual , Wiesler . 	" Albert Jerska . " Järjestelmällistä . 
+393	The files will be sent . 	Lähetän nuo sinulle . 
+394	Let 's have lunch . 	Mennään syömään . 
+395	The BSG Volleyball team will meet at 7 p . m . 	Lentopallojoukkue kokoontuu kello 19 . 
+396	Did you forget ? 	Esimiesten pöytä on tuolla . 
+397	Bosses sit over there . 	Esimiesten pöytä on tuolla . 
+398	Socialism must start somewhere . 	- Jostain sosialismin on alettava . 
+399	About the license plate of the car that brought Ms . 	Se auto , jolla Sieland tuotiin öisin ... 
+400	Sieland home ... 	Se auto , jolla Sieland tuotiin öisin ... 
+401	It 's Minister Hempf 's car . 	Se on ministeri Hempfin . 
+402	Wiesler , we can 't monitor top officials . 	Emme voi seurata johtavia tovereita . Poistin sen raportistasi . 
+403	I removed the entry in your report . 	Tulevaisuudessa tuollaiset vain suullisesti minulle . 
+404	Nothing written from now on , just oral ! 	Tulevaisuudessa tuollaiset vain suullisesti minulle . 
+405	So we 're helping a Committee member get a rival out of the way . 	Autamme siis keskuskomitealaista . 
+406	You know what this could mean for my career . 	Tiedät , mitä se voi merkitä uralleni ja sinun urallesi . 
+407	And for yours . 	Tiedät , mitä se voi merkitä uralleni ja sinun urallesi . 
+408	If we find something ... 	Jos löydämme jotain ... 
+409	Is that why we joined ? 	Siksikö liityimme ? 
+410	You remember the oath we took ? 	Muistatko valamme ? 
+411	" We are the Party 's shield and sword . " 	" Puolueen kilpi . " 
+412	What is the Party , if not its members ? 	Puolue on yhtä kuin jäsenensä . 
+413	And if those members are highly influential , all the better ! 	Jos heillä on valtaa , sen parempi . 
+414	I' ve got a new one . 	Tiedän uuden . 
+415	Honecker comes into his office , opens the window , sees the sun , and says ... 	Honecker tuli toimistoon . Hän näki ikkunasta auringon ja sanoi ... 
+416	What 's wrong ? 	Mitä nyt ? 
+417	Oh , excuse me ... 	Suokaa anteeksi . 
+418	I just ... 	Minä vain ... 
+419	No , carry on , colleague ! 	Jatkakaa toki . 
+420	No harm in laughing about the Party Chairman , is there . 	Saahan puoluejohtajalle nauraa . 
+421	I probably know the joke anyway . 	Varmaan tiedänkin jo vitsin . 
+422	Come on , tell us ! 	Kertokaa vain . 
+423	Well ... 	Honecker ... 
+424	Honecker ... 	Toveri puoluejohtaja sanoi : 
+425	I mean , the Comrade General Secretary sees the sun and says , 	" Huomenta , aurinko . " 
+426	- " Good morning , dear sun ! " 	" Huomenta , aurinko . " 
+427	- More like , " Good morning , dear sun ! " 	" Huomenta , aurinko . " Jestas . 
+428	The sun replies , " Good morning , dear Erich ! " 	Aurinko vastasi : " Huomenta , Erich . " 
+429	And at noon , Erich goes to the window and says , 	Keskipäivällä Honecker sanoi saman . 
+430	" Good day , dear sun ! " 	Keskipäivällä Honecker sanoi saman . 
+431	The sun replies , " Good day , dear Erich ! " 	Aurinko vastasi . 
+432	In the evening , Erich says again , 	Illallakin hän sanoi : 
+433	" Good evening , dear sun ! " and the sun doesn 't reply . 	" Iltaa , aurinko . " Aurinko ei vastannut . 
+434	" Good evening , dear sun ... " 	Uudestaan : 
+435	" What 's wrong ? " he asks . 	" Iltaa , aurinko . Mikä nyt ? " 
+436	And the sun replies , 	Aurinko vastasi : 
+437	" Screw you , I 'm in the West now ! " 	" Olen nyt lännessä . " 
+438	Name ? 	Nimi ? 
+439	Rank ? 	Osasto ? 
+440	Department ? 	Osasto ? 
+441	Me ? 	Minunko ? 
+442	Stigler . 	Stigler , aliluutnantti , osasto M . 
+443	2nd Lieutenant Axel Stigler . 	Stigler , aliluutnantti , osasto M . 
+444	Dept . 	
+445	M . 	
+446	I don 't have to tell you what this means for your career . 	Tiedätte , miten urallenne nyt käy . 
+447	Please , Comrade Lieutenant Colonel , I was just ... 	Toveri eversti , minä vain ... 
+448	You were just deriding the Party ! 	Pilkkasitte puoluetta . 
+449	That 's incitement , and likely just the tip of the iceberg ! 	Se on kiihotusta . Tuo oli varmaankin jäävuoren huippu . 
+450	I will report this to the Minister 's office . 	Ilmoitan ministerin kansliaan . 
+451	Just kidding ! 	Se oli vitsi . 
+452	Good one , huh ? 	Aika hyvä . 
+453	But yours was good too . 	Teidänkin oli . 
+454	I know a better one though . 	Tiedän paremman . 
+455	What 's the difference between Honecker and a phone ? 	Mikä on Honeckerin ja puhelimen ero ? 
+456	None at all . 	Ei mikään . 
+457	Hang up , try again ! 	Uudelleenvalinta korjaa . 
+458	- No , I have to get home . 	Tuletko ? - Lähden kotiin . 
+459	- Bye . 	Hei . 
+460	Cold ? 	Onko kylmä ? 
+461	Christa , you forgot our meeting on Thursday . 	Christa , unohdit torstain tapaamisemme . 
+462	Or did your poet have two birthdays in a row ? 	Vai oliko runoilijalla kahdet synttärit ? 
+463	Come on , get in . 	Tule sisään . 
+464	Get in ! 	Sisään ! 
+465	You don 't know what 's good for you . 	Et ymmärrä parastasi . 
+466	Don 't worry . 	Älä huoli . 
+467	I 'm looking after you . 	Huolehdin sinusta . 
+468	Tell me you don 't need it too . 	Sano , ettet tarvitse sitä . 
+469	Just say so , and I' ll let you go . 	Sitten päästän sinut . 
+470	I 'm meeting someone . 	Minulla on tapaaminen . 
+471	Where do you think we 're going ? 	Mihin luulet meidän ajavan ? 
+472	I 'm taking you to him ! 	Vien sinut sinne . 
+473	You 'll be there even quicker . 	Pääset nopeammin . 
+474	Time for some bitter truths . 	On katkeran totuuden aika . 
+475	Yes ? 	Niin ? 
+476	Those idiots ! 	Ääliöt . 
+477	Next Thursday at the Metropol . 	Torstaina Metropolissa . 
+478	Drive ! 	Ajakaa . 
+479	Christa ? 	Christa ... 
+480	Just hold me . 	Ota minut syliin . 
+481	Good evening , comrade ! 	Iltaa , toveri kapteeni . 
+482	You 're 5 minutes late again . 	- Olette taas 5 minuuttia myöhässä . 
+483	Evening . 	Iltaa . 
+484	11th floor , right corridor . 	11 . kerros . Oikea käytävä . 
+485	I 'm already up here . 	- Olen jo ylhäällä . 
+486	How did you get into the building ? 	Miten pääsitte rakennukseen ? 
+487	A bunch of you guys live here . 	- Täällä asuu monia teikäläisiä . 
+488	I don 't think I' ve been here before . 	En usko , että olen käynyt sinun luonasi . 
+489	No , I don 't think you have . 	En minäkään . 
+490	Well ? 	
+491	Was that nice ? 	Tuntuiko hyvältä ? 
+492	- Stay awhile . 	Jää vielä . - En voi . 
+493	- I can 't , my next customer is at half- past . 	Puolelta on toinen asiakas . 
+494	I work on a schedule . 	Minulla on aikataulu . 
+495	At one- thirty ? 	Puoli kahdeltako ? 
+496	You won 't make it . 	Et ehdi . 
+497	Sure I will . 	- Älä siitä huoli . 
+498	Don 't you worry . 	
+499	Book me for longer next time . 	Varaa minut pidemmäksi aikaa . 
+500	Bye . 	Heippa . 
+501	Georg ? 	Georg ? 
+502	Did you hear about Hauser ? 	Oletko kuullut Hauserista ? 
+503	No , what happened ? 	Oletko kuullut Hauserista ? 
+504	He can 't get a travel permit for his lectures in the West . 	Hän ei saa luentomatkalupaa länteen . 
+505	Are you surprised ? 	Onko ihme ? 
+506	If he acts so arrogantly , he should expect it . 	Hän esiintyy ylimielisesti . 
+507	Would you let him go , if you were in their position ? 	Antaisitko sinä hänen lähteä ? 
+508	" CMS comes home . 	" CMS tulee kotiin . 
+509	´Lazlo´ approves of Hauser 's foreign travel ban . " 	´Lazlo´ hyväksyy Hauserin matkustuskiellon . " 
+510	Have you seen my Brecht book ? 	Oletko nähnyt keltaista Brecht- kirjaani ? 
+511	- What ? 	Oletko nähnyt keltaista Brecht- kirjaani ? 
+512	- My Brecht book . 	Oletko nähnyt keltaista Brecht- kirjaani ? 
+513	I don 't know where it is . 	En tiedä , missä se on . 
+514	Strange . 	En tiedä , missä se on . 
+515	I could 've sworn ... 	- Kumma . 
+516	One day in blue- moon September , silent under a plum tree , 	" Eräänä päivänä sinikuisena syyskuuna . " " Hiljaisuus luumupuun alla . " 
+517	I held her , my silent pale love , in my arms like a fair and lovely dream . 	" Siinä pidin hiljaista kalpeaa rakasta käsissäni kuin ihanaa unta . " 
+518	Above us in the summer skies was a cloud that caught my eye . 	" Yllämme kauniilla kesätaivaalla oli pilvi , jota katselin pitkään . " 
+519	It was white and so high up . 	" Se oli valkoinen ja hirveän korkealla . " 
+520	And when I looked up , it was no longer there . 	" Kun katsahdin ylös , se oli poissa . " 
+521	- Yes ? 	Niin ? 
+522	- Georg ? 	- Wellner tässä . 
+523	Wallner here . 	- Wellner tässä . 
+524	What 's up ? 	Mitä nyt ? 
+525	Georg , it 's about Jerska . 	- Asia koskee Jerskaa . 
+526	He hanged himself last night . 	Hän on hirttäytynyt . 
+527	Georg ? 	Georg ? 
+528	I 'm going to hang up , okay ? 	Minä suljen nyt puhelimen . 
+529	" Sonata for a Good Man " 	Sonaatti hyvälle ihmiselle 
+530	You know what Lenin said about Beethoven 's ´Appassionata ' . 	Tiedätkö , mitä Lenin sanoi Beethovenin Appassionatasta ? 
+531	" If I keep listening to it , 	" Jos kuuntelen sitä , kumous ei lopu . " 
+532	I won 't finish the revolution . " 	" Jos kuuntelen sitä , kumous ei lopu . " 
+533	Can anyone who has heard this music , 	Jos on kuullut tätä musiikkia , voiko olla paha ihminen ? 
+534	I mean truly heard it , really be a bad person ? 	Jos on kuullut tätä musiikkia , voiko olla paha ihminen ? 
+535	Are you really with the Stasi ? 	Oletko oikeasti Stasista ? 
+536	Do you even know what the Stasi is ? 	Tiedätkö edes , mikä se on ? 
+537	Yes . 	Tiedätkö edes , mikä se on ? 
+538	They 're bad men who put people in prison , says my dad . 	He vievät ihmisiä vankilaan , sanoi isä . 
+539	I see . 	Niinkö ? 
+540	What 's the name of your ... 	Minkä niminen se sinun ... 
+541	My what ? 	Mikä ? 
+542	Ball ! 	Minkä niminen pallosi on ? 
+543	What 's the name of your ball ? 	Minkä niminen pallosi on ? 
+544	You 're funny ! 	- Ei palloilla ole nimiä . 
+545	Balls don 't have names . 	- Ei palloilla ole nimiä . 
+546	It 's all in place , Minister . 	Uusin tekniikka on käytössä , ministeri . 
+547	The latest technology . 	Uusin tekniikka on käytössä , ministeri . 
+548	Behind every light switch , even in the toilet . 	Valokatkaisijoiden takana . 
+549	- Measure C in the hall ... 	Vessassakin . 
+550	- You said you 'd find something ! 	Toimenpide C ... 
+551	Find something ! 	- Löytäkää jotain . 
+552	I 'd advise even my worst enemy not to disappoint me . 	En neuvo vihamiestäkään pettämään minua . 
+553	Now get out of here ! 	Häipykää nyt . 
+554	Nowack , you 're to watch Christa- Maria . 	Nowack , tarkkailkaa Christa- Mariaa . 
+555	You 'll report on every minute that she 's not with me . 	Joka hetki , kun hän ei ole kanssani . 
+556	We revoked Hauser 's travel permit for the culture conference . 	Peruimme Hauserin matkustusluvan . 
+557	Maybe that 'll lead to something . 	Ehkä se poikii jotain . 
+558	The two of them are very close . 	He ovat läheisiä . 
+559	How 's it going between CMS and the Minister ? 	Entä CMS ja ministeri ? 
+560	They 're meeting tomorrow night , I think . 	Tapaavat huomenna . 
+561	That 's good ! 	- Hyvä . 
+562	Very good ! 	Voitamme sillä rakkaustarinalla paljon . 
+563	We have a lot to gain from this love story . 	Voitamme sillä rakkaustarinalla paljon . 
+564	Or a lot to lose . 	Tai häviämme . 
+565	Don 't forget that . 	Älä unohda sitä . 
+566	I used to be afraid of just two things : 	Ennen pelkäsin kahta asiaa : yksinoloa ja että en voi kirjoittaa . 
+567	Being alone , and not being able to write . 	Ennen pelkäsin kahta asiaa : yksinoloa ja että en voi kirjoittaa . 
+568	Since Albert 's death , I don 't care about writing or about other people . 	Albertin kuoltua kirjoittaminen on samantekevää . 
+569	All I 'm afraid of now is losing you . 	Nyt pelkään , että jään ilman sinua . 
+570	You needn 't be afraid tonight . 	- Tänä iltana sinun ei tarvitse . 
+571	I 'm just going out for a few hours . 	Käyn ulkona . 
+572	Where to ? 	- Missä ? 
+573	An old classmate 's in town . 	Tapaan vanhan koulukaverin . 
+574	Really , Christa ? 	- Tosiaanko ? 
+575	- Really ? 	Oikeastiko ? 
+576	- How dare you ! 	- Mitä sinä nyt ? 
+577	I know . 	Minä tiedän . 
+578	I know where you 're going . 	Tiedän , mihin menet . 
+579	And I 'm asking you not to go . 	Pyydän , älä mene . 
+580	You don 't need him . 	Et tarvitse häntä . 
+581	You don 't need him . 	Et tarvitse häntä . 
+582	I know about your medication too . 	Tiedän lääkkeistäkin ja sen miten vähän uskot taitoihisi . 
+583	And how little faith you have in your talent . 	Tiedän lääkkeistäkin ja sen miten vähän uskot taitoihisi . 
+584	Have faith in me , at least . 	Luota edes minuun . 
+585	Christa- Maria . 	Christa- Maria . 
+586	You are a great artist . 	Olet suuri taiteilija . 
+587	I know that . 	Minä tiedän sen . 
+588	And your audience knows it too . 	Yleisösikin tietää sen . 
+589	You don 't need him . 	Et tarvitse häntä . 
+590	You don 't need him . 	Et tarvitse häntä . 
+591	Stay here . 	Jää tänne . 
+592	Don 't go to him . 	Älä lähde hänen luokseen . 
+593	No ? 	Enkö ? 
+594	Don 't I need him ? 	Enkö tarvitse häntä ? 
+595	Don 't I need this whole system ? 	Enkö tarvitse koko järjestelmää ? 
+596	What about you ? 	Entä sinä ? 
+597	Then you don 't need it either . 	Sitten sinäkään et tarvitse sitä . 
+598	Or need it even less . 	Sitten sinäkään et tarvitse sitä . 
+599	But you get in bed with them too . 	Miksi sinäkin olet heidän petikaverinsa ? 
+600	Why do you do it ? 	Miksi sinäkin olet heidän petikaverinsa ? 
+601	Because they can destroy you too , despite your talent and your faith . 	Koska he voivat tuhota sinut lahjakkuudestasi huolimatta . 
+602	Because they decide what we play , who is to act , and who can direct . 	He päättävät , mitä esitetään , kuka esittää ja kuka ohjaa . 
+603	You don 't want to end up like Jerska . 	Et halua , että sinun käy kuin Jerskan . 
+604	And neither do I . 	Enkä minä . 
+605	That 's why I 'm going now . 	Siksi lähden nyt . 
+606	You 're right about so many things , and I want to change so much . 	Olet oikeassa paljossa . Haluan muuttaa niin paljon . 
+607	But I ask you , 	Pyydän ja anon sinulta : älä mene . 
+608	I implore you : 	Pyydän ja anon sinulta : älä mene . 
+609	Don 't go ! 	Pyydän ja anon sinulta : älä mene . 
+610	Well , boss , am I on time ? 	Pomo , tulinko ajoissa ? 
+611	Let me guess what those two are doing ... 	Voin arvata , mitä ne kaksi tekevät . 
+612	Come on , I' ll take over . 	Voin tulla kuuntelemaan . 
+613	I don 't want you to do overtime because of me . 	Ettei teillä mene ylitöiksi . 
+614	" Don 't go through that door . " 	" Älä mene . " Mihin nainen lähtee ? 
+615	Where 's she going ? 	" Älä mene . " Mihin nainen lähtee ? 
+616	To meet an old classmate . 	Koulukaveria tapaamaan . 
+617	You 'll have my detailed report tomorrow . 	Laadin yksityiskohtaisen raportin . 
+618	I can manage . 	Laadin yksityiskohtaisen raportin . 
+619	Good night . 	Hyvät yöt . 
+620	What are you staring at ? 	Mitä mulkoilet ? 
+621	Soda water . 	Kivennäisvesi . 
+622	No , uh ... 	Tai ei ... 
+623	Vodka . 	Votka . 
+624	Double . 	Tuplana . 
+625	Another one . 	Toinen vielä . 
+626	Can I have a cognac , please ? 	Saisinko konjakin ? 
+627	Madam ? 	Neiti ? 
+628	Go away , I want to be alone . 	- Saisinko olla yksin ? 
+629	Ms . 	Neiti Sieland ? 
+630	Sieland . 	Neiti Sieland ? 
+631	Do we know each other ? 	Tunnemmeko me ? 
+632	You don 't know me , but I know you . 	- Minä tunnen teidät . 
+633	Many people love you for who you are . 	Moni rakastaa teitä omana itsenänne . 
+634	- Actors are never ´who they are . ' 	Näyttelijä ei ole itsensä . 
+635	- You are . 	- Te olette . 
+636	I' ve seen you on stage . 	Näin teidät näyttämöllä . 
+637	You were more who you are ... 	Olitte enemmän itsenne kuin ... 
+638	than you are now . 	Kuin nyt . 
+639	So you know what I 'm like . 	Tiedättekö , millainen olen ? 
+640	I 'm your audience . 	Tiedättekö , millainen olen ? 
+641	- I have to go . 	Minun täytyy mennä . 
+642	- Where to ? 	- Mihin ? 
+643	I 'm meeting an old classmate . 	Tapaan koulukaverin . 
+644	I ... 	- Juuri nyt ette ollut itsenne . 
+645	You see ? 	- Juuri nyt ette ollut itsenne . 
+646	Just now you weren 't being yourself . 	- Juuri nyt ette ollut itsenne . 
+647	No ? 	Enkö ? 
+648	No . 	- Ette . 
+649	So you know her well , this Christa- Maria Sieland . 	Tunnette hyvin Christa- Maria Sielandin . 
+650	What do you think ... 	Mitä luulette ? 
+651	Would she hurt someone who loves her above all else ? 	Loukkaisiko hän rakasta ihmistä ? 
+652	Would she sell herself for art ? 	Myisikö hän itsensä taiteesta ? 
+653	For art ? 	Teillä on jo se . 
+654	You already have art . 	Se olisi huono kauppa . 
+655	That 'd be a bad deal . 	Se olisi huono kauppa . 
+656	You are a great artist . 	Olette suuri taiteilija . 
+657	Don 't you know that ? 	Ettekö tiedä sitä ? 
+658	And you are a good man . 	Te olette hyvä ihminen . 
+659	" When I begin my shift , ´Lazlo´ and CMS are arguing about whether CMS should meet her classmate . 	" Lazlo ja CMS riitelevät . CMS lähtisi tapaamaan koulukaveria ( ? ) . " 
+660	Eventually , she leaves . 	" Lopulta hän lähtee . 
+661	' Lazlo´ seems unhappy about this . 	Lazlo ei pidä siitä . " 
+662	But after about 20 minutes , CMS returns , to ´Lazlo´s ' surprise , and mine . 	" 20 minuutin päästä CMS jo palaa . Lazlon ja minun yllätykseksi . " 
+663	He seems very happy about this . 	" Lazlo vaikuttaa tyytyväiseltä . 
+664	Vigorous acts of intimacy follow . 	Seuraa hyvin intiimi kohtaus . " 
+665	She says she 'll never leave again . 	" CMS lupaa , ettei enää lähde pois . " 
+666	He says repeatedly : 	" Lazlo sanoo : 
+667	´Now I' ll have the strength , now I' ll do something . ' 	' Nyt jaksan tehdä jotain . " ' 
+668	This likely refers to writing a new stage play . 	" Se viitannee uuteen näytelmään . " 
+669	In recent weeks , ´Lazlo´s ' playwriting had been plagued by difficulties . 	" Lazlon kirjoittaminen on takkuillut . " 
+670	What she means by her statement is unclear . 	" CMS : n lausunnon tarkoitus on epäselvä . " 
+671	Perhaps she intends to take better care of his household . 	" Ehkä hän aikoo hoitaa Lazlon kotia . 
+672	The rest of the night was peaceful . " 	Loppuyö sujuu rauhallisesti . " 
+673	Oh , comrade ... uh ... 	Toveri kapteeni ... 
+674	It 's just because ... 	Siksi vain kun ... 
+675	He 's sleeping too ... 	Mieskin nukkuu . 
+676	Good report . 	Hyvä raportti . 
+677	Really ? 	Todellako ? 
+678	I didn 't know he was in such a bad way . 	En tiennyt , että hän voi niin huonosti . 
+679	Neither did I . 	En minäkään . 
+680	" On One Who Made it to the Other Side : 	Yhdestä , joka pääsi toiselle puolelle . 
+681	The statistics office on Hans Beimler Street counts everything , knows everything . 	Tilastokeskus laskee ja tietää kaiken . 
+682	How many shoes I buy a year : 	Monetko kengät ostan vuodessa : 2, 3 . 
+683	2 . 3 . 	Montako kirjaa luen vuosittain : 
+684	How many books I read a year : 	Montako kirjaa luen vuosittain : 
+685	3 . 2 . 	3, 2 . 
+686	And how many pupils graduate with straight A 's every year : 	Moniko ylioppilas saa parhaan arvosanan : 6347 . 
+687	6347 . 	Yhtä laskettavaa asiaa ei lasketa . 
+688	But there is one thing they don 't count , maybe because even bureaucrats find it painful , and that 's suicides . 	Ehkä luvut kirpaisisivat byrokraatteja . Itsemurhia . 
+689	If you call Beimler Street to ask how many people between the Elbe and the Oder , between the Baltic Sea and the Ore Mountains despair drove to their death , our numbers oracle is silent . 	Jos tilastokeskukselta kysyy - kuinka monen epätoivo ajaa kuolemaan , oraakkelimme vaikenee . 
+690	But it may just note your name for State Security ... 	Nimi välitetään turvaviranomaisille . 
+691	Those grey men who ensure safety in our land ... and happiness . 	He huolehtivat maamme turvallisuudesta . Ja onnesta . 
+692	In 1977 , our country stopped counting suicides . 	1977 lakattiin tilastoimasta itsemurhia . 
+693	They called them ´self- murderers ' . 	" Itsemurhaajia " . 
+694	But it has nothing to do with murder . 	Vaikka teko ei ole murha . 
+695	It knows no bloodlust , no heated passion , it knows only death , the death of all hope . 	Siinä ei ole verenhimoa eikä kiihkoa . Se on vain toivon kuolema . 
+696	When we stopped counting , only one country in Europe drove more people to their death : 	1977 oli vain yksi Euroopan maa - jossa itsemurha oli yleisempi . 
+697	Hungary . 	1977 oli vain yksi Euroopan maa - jossa itsemurha oli yleisempi . 
+698	We came next , the land of ' Real Existing Socialism ' . 	Sitten tulimme me , reaalisosialismin maa . 
+699	One of the uncounted is Albert Jerska , the great director . 	Yksi lukemattomista on Albert Jerska . 
+700	It 's him I want to talk about today ... " 	Hänestä haluan kertoa tänään . 
+701	I tried to get statistics that show ... ... that State Security operates more effectively than we think ! 	Yritin saada tilastoja ... ... turvallisuusviranomaisten tehokkuudesta . 
+702	I foolishly rehearsed 	Yritin saada tilastoja ... ... turvallisuusviranomaisten tehokkuudesta . 
+703	my speech for the West in here . 	Harjoittelin puhettani täällä . 
+704	Since then , I' ve become very musical . 	Sen jälkeen olen pitänyt musiikista . 
+705	We can meet at my place . 	Tavataan minun asunnossani . 
+706	" 3 p . m . , Pankow Memorial " 	KLO 15 , PANKOW- MUISTOMERKILLÄ 
+707	Well ? 	Onko nyt kyllin turvallista ? 
+708	Is this safe enough ? 	Onko nyt kyllin turvallista ? 
+709	My own ´bodyguard ' . 	" Henkivartijani . " 
+710	I call him Rolf . 	Nimesin " Rolfiksi " . 
+711	That 's probably his name , too . 	Nimesin " Rolfiksi " . 
+712	Fire away . 	Anna tulla . 
+713	Here . 	- Tässä . 
+714	You want to publish this ? 	Aiotko julkaista ? 
+715	In the West , with your help . 	- Lännessä , avullasi . Autatko ? 
+716	Will you help ? 	Oletko kertonut Christalle ? 
+717	Have you told Christa ? 	Oletko kertonut Christalle ? 
+718	No . 	- En . 
+719	I' ll help you , as long as you don 't tell her anything . 	Autan sillä ehdolla , että et kerro . 
+720	What ? 	Mitä ? 
+721	Georg , it 's for her own protection . 	- Hänen omaksi turvakseen . 
+722	This could be right for the ´Spiegel ' . 	Tunnen Spiegelin toimittajan . 
+723	I 'm friends with an editor there . 	Tunnen Spiegelin toimittajan . 
+724	Gregor Hessenstein . 	Gregor Hessensteinin . 
+725	Know him ? 	Tunnetko ? 
+726	Not personally . 	- En . 
+727	You have to meet him . 	Tapaa hänet . 
+728	But you can 't publish using your real name . 	Et voi julkaista omalla nimelläsi . 
+729	Unless your idea of fun is a 48- hour interrogation . 	Ellei 48 tunnin kuulustelu huvita . 
+730	I 'm cold ! 	On kylmä . 
+731	We could go to my place ? 	Mennäänkö meille ? 
+732	There 's no State Security at my place ! 	Siellä ei ole turvallisuusviranomaisia . 
+733	A friend of Margot Honecker , winner of the National Award ... 	Olen Margot Honeckerin ystävä ja kirjapalkinnon saaja . 
+734	Second class ! 	- II luokan . 
+735	My apartment is clean , I tell you ! 	Asuntoni on puhdas . 
+736	If only we could be sure ... 	- Voisimmepa olla varmoja . 
+737	I have an idea how we can check your apartment . 	Voisimme tutkia asuntosi . 
+738	You know my uncle Frank , who visits from West Berlin every Saturday , with his big gold Mercedes . 	Frank- setä kyläilee Länsi- Berliinistä - Frank- setä kyläilee Länsi- Berliinistä - kultaisella Mersullaan . 
+739	It seems a bit risky to me , Mr . 	Tuntuu kyllä riskaapelilta . 
+740	Hauser . 	Tuntuu kyllä riskaapelilta . 
+741	Yes , I agree with Georg . 	- Totta . 
+742	Hiding your nephew under the back seat ? 	Veljenpoikanne piilotus takapenkin alle . 
+743	I 'm really not sure . 	Enpä tiedä ... 
+744	Come on , they won 't search under the seats . 	Eivät he tutki istuinten alusia . 
+745	They 'll look under the axles , tap the exhaust , then I' ll be across . 	He katsovat akselien alle . Sitten pääsen yli . 
+746	Paul too . 	Paul myös . 
+747	The border guards aren 't very bright . 	Rajavartijoilla ei juuri säteile . 
+748	You 've got the wrong idea there . 	
+749	- Which border will you cross ? 	Mikä rajanylityspaikka ? 
+750	- Heinrich- Heine Street . 	- Heinrich- Heine- kadun . 
+751	Good old Henrich Heine . 	
+752	They know me and my gold Mercedes . 	Ne tuntevat Mersuni . 
+753	I 'm friends with the guards . 	Olen kaveria rajavartioiden kanssa . 
+754	Trust me , I' ll call you in 2 hours , a Schultheiss beer in my hand , and report the news : 	Parin tunnin päästä soitan olut kädessä : " Paul pääsi yli . " - Ei ! 
+755	Paul 's across . 	
+756	No ! 	Entä Paulin Stasi- mies ? 
+757	What about Paul 's Stasi man ? 	Entä Paulin Stasi- mies ? 
+758	Rolf ! 	- " Rolf . " 
+759	Rolfy , Rolfy ... 	Rolle luulee , että Paul on kotona . 
+760	He 'll think that Paul 's at home . 	Rolle luulee , että Paul on kotona . 
+761	Okay , I have to go . 	Minun täytyy lähteä , ettei poika tukehdu kärryyni . 
+762	We wouldn 't want him to suffocate , would we ? 	Minun täytyy lähteä , ettei poika tukehdu kärryyni . 
+763	Another beer ? 	Toinen olut ? 
+764	Border control , Heinrich- Heine Street . 	Rajanylitys , Heinrich- Heinen katu . 
+765	Who is this ? 	Kuka siellä ? 
+766	Who is this ? 	
+767	No reply . 	Ei sano mitään . 
+768	Just this once , my friend . 	Vain tämän kerran , ystävä . 
+769	- Dreyman . 	Dreyman . 
+770	- Okay , 	- Kuten luvattu , Paul pääsi yli . 
+771	Paul 's plan worked ! 	- Kuten luvattu , Paul pääsi yli . 
+772	No border control at all ? 	Eikö ollut tarkastusta ? 
+773	No , no special checks . 	- Ei erityistä . Tavallinen vain . 
+774	Those boys aren 't so bad . 	Paul pääsi yli . 
+775	It worked as planned . 	- Kiitän teitä , herra Hauser . 
+776	Thanks for doing this , Mr . 	- Kiitän teitä , herra Hauser . 
+777	Hauser . 	Mitä tuosta . 
+778	Forget it , it wasn 't all that dangerous . 	Ei vaara ollut paha - Niin . 
+779	- Yeah , true . 	Ei vaara ollut paha - Niin . 
+780	- Yeah . 	Kuulemiin ja kiitos . 
+781	See you soon , and thanks a lot . 	Kuulemiin ja kiitos . 
+782	Bye . 	
+783	What do we do if they ask what we 're doing together ? 	Entä jos kysytään , mitä teemme yhdessä ? 
+784	Then ... we 'll say 	
+785	We 'll say we 're writing a stage play together . 	Sanotaan , että autatte minua näytelmän kirjoittamisessa . 
+786	For the GDR 's 40th anniversary . 	DDR : n 40- vuotispäiväksi . 
+787	Yes ! 	Tavallaan se on tottakin . 
+788	And it 's kind of true . 	Tavallaan se on tottakin . 
+789	Who 'd have thought our State Security was so incompetent ? 	Olipas turvakoneisto epäpätevä . 
+790	Who 'd have thought they were such idiots ? 	He olivat täysiä idiootteja ! 
+791	Just you wait ... 	Odota vain ... 
+792	" 7 . 32 p . m . 	" Klo 19 . 32 . 
+793	No further noteworthy incidents . " 	Ei merkille pantavaa . " 
+794	Hello , comrade . 	Toveri kapteeni , kuunnelkaapa . 
+795	Listen to this here ! 	Toveri kapteeni , kuunnelkaapa . 
+796	Sure , in 1967 there were many suicides . 	Vuoden - 67 korkeat luvut eivät yllätä . 
+797	But why in 1977 ? 	Vuoden - 77 vastaavat pitää selittää . 
+798	You must explain . 	Vuoden - 77 vastaavat pitää selittää . 
+799	You must describe the social conditions more clearly . 	Selventäkää sosiaalisia oloja . 
+800	It should remain literature , not political agitation . 	Tekstin on pysyttävä kirjallisena . 
+801	The text is great . 	Se onkin mainio . 
+802	I just want to be sure people understand it in the West . 	Haluan vain , että se ymmärretään meillä . 
+803	It 'll cause a sensation either way . 	Se herättää kyllä huomiota . 
+804	- That 's Hauser ! 	Hauser ! 
+805	- Of course it 's Hauser . 	- Tietenkin . 
+806	He 's not in the West ! 	Hän ei olekaan länn ... 
+807	They 're writing a play together . 	He laativat teatterinäytelmää . 
+808	For the 40th anniversary . 	DDR : n juhlavuodeksi . 
+809	It doesn 't sound like a play to me . 	Minusta se ei kuulosta näytelmältä . 
+810	No ? 	Miltä sitten ? 
+811	Then what ? 	Miltä sitten ? 
+812	I don 't know ... but not a play . 	- En tiedä . Ei näytelmältä . 
+813	You think a lot , Sergeant Leye . 	Mietitte paljon , Leye . 
+814	You 're not an intellectual , are you ? 	Oletteko intellektuelli ? 
+815	Me ? 	Oletteko intellektuelli ? 
+816	No ... 	Oletteko intellektuelli ? 
+817	I 'm not one of those . 	- No en . 
+818	Then don 't behave like one . 	Älkää sitten käyttäytykö niin . 
+819	I chose you because you know the equipment and don 't ask questions . 	Valitsin teidät tähän , koska osaatte tekniikan , ettekä kysele . 
+820	Leave the thinking to your superiors . 	Jättäkää ajattelu esimiehille . 
+821	Yes , Captain . 	- Kyllä . 
+822	I' ll be off , then . 	Minä tästä lähden . 
+823	Have a nice day ... of work ... 	Hyvää päivänjatkoa . Hyvää työtä ... 
+824	I mean , I hope you enjoy your work . 	Hyvää työniloa . 
+825	Maybe I can re- write this part . 	Voinen kirjoittaa tämän uudestaan . 
+826	I' ll send you all the material we have . 	Lähetän teille aineistomme . 
+827	Can you do it in two weeks ? 	Ehdittekö 2 viikossa ? 
+828	Then I could run it as a cover story for the first week in March . 	Marraskuun numeroon . Ehkä kanteen . 
+829	It 's Christa . 	Se on Christa . 
+830	Georg ? 	- Georg ? 
+831	Christa , this is Gregor Hessenstein . 	Christa , tässä on Gregor Hessenstein . 
+832	- Christa Sieland . 	Christa Sieland . 
+833	- Of course , I know that ! 	- Tiedän toki . 
+834	So , what conspiracy are you cooking up ? 	Mitä te juonitte täällä ? 
+835	Hauser and I are writing a play for the GDR 's 40th anniversary . 	Kirjoitamme näytelmän DDR : n vuosipäiväksi . 
+836	Together ? 	- Yhdessäkö ? 
+837	The ´Spiegel´ may do an article on it . 	Spiegel tekee ehkä jutun siitä . 
+838	- And who 'll play the lead role ? 	Kuka esittää pääosan ? 
+839	- We planned to ask you . 	Kuka esittää pääosan ? 
+840	Christa , who would you rather play : 	- Vaikka sinä . 
+841	Lenin or his dear old mother ? 	Esitätkö Leniniä vai hänen äitiään ? 
+842	You can choose . 	Esitätkö Leniniä vai hänen äitiään ? 
+843	I see I 'm not welcome here . 	Minua ei siis kaivata . 
+844	I' ll go for a nap . 	Menen nukkumaan . 
+845	Your caution is praiseworthy . 	Varovaisuutenne on kiitettävää . 
+846	The fewer people know , the better . 	Stasin kanssa ei leikitä . 
+847	The Stasi is not to be toyed with . 	Stasin kanssa ei leikitä . 
+848	On that note , I brought something for you . 	Sitä ajatellen toinkin teille jotain . 
+849	I 'd have preferred the whole pie . 	Minulla on jo kirjoituskone . 
+850	I already have a typewriter . 	- Stasi tuntee kirjasintyypin . 
+851	The Stasi can identify its typeface . 	- Stasi tuntee kirjasintyypin . 
+852	If they intercepted the text at the border , for your typewriter using , you 'd end up in Hohenschonhausen . 	Jos tekstinne löytyy , teidät pidätetään . 
+853	And that 's no fun , as Paul can confirm , right ? 	Se ei ole kivaa , kuten Paul tietää . 
+854	I 'm afraid I could only get a red ink ribbon for this model . 	Minulla on vain punaista mustetta . 
+855	Do you mind writing it in red ? 	Voitteko kirjoittaa punaisella ? 
+856	That won 't be a problem . 	Ei se siihen kaadu . 
+857	Is there somewhere you can hide it ? 	Saako koneen kätkettyä ? 
+858	- Yes , I' ll find a place . 	Keksin paikan . 
+859	- Don 't take it lightly . 	- Suhtautukaa vakavasti . 
+860	I don 't want my next article to be about your disappearance ! 	En halua laatia artikkelia Dreymanin katoamisesta . 
+861	Nobody may know that this typewriter exists ! 	Kirjoituskoneen on pysyttävä salassa . 
+862	Is this apartment really safe ? 	Onko asuntonne turvallinen ? 
+863	Yes . 	- On . 
+864	It 's the only place left in the GDR where I can say what I want . 	Ainoa DDR : n kolkka , missä voin puhua . 
+865	Fine , then let 's drink to that ! 	Juodaan sille . 
+866	This is the real stuff . 	Tämä on laatujuomaa . 
+867	To you ! 	Saksa saa nähdä DDR : n oikeat kasvot . 
+868	To letting all of Germany see the true face of the GDR ! 	Saksa saa nähdä DDR : n oikeat kasvot . 
+869	Cheers . 	Terveydeksi . 
+870	It 's better than the Russian stuff ! 	Parempaa kuin venäläinen . 
+871	To your success ! 	Onnea . 
+872	I must see Comrade Grubitz . 	Asiaa toveri Grubitzille . 
+873	Tomorrow at 2 . 30 p . m ... 	Vapaita aikoja on vasta huomenna ... 
+874	Tell him that if he blows the cover , we 'll shut down the entire parish ! 	Jos mies paljastaa asian , koko kirkko suljetaan . 
+875	It 's easy ! 	
+876	He can call the Pope and complain ! 	Valittakoon vaikka Paaville . 
+877	Okay , I' ve spent enough time on this nonsense . 	Nyt minulle riittää tämä . 
+878	Wiesler , I 'm glad you 're here . 	Hyvä , että tulit . 
+879	I have to show you something . 	Näytän jotain . 
+880	" Prison Conditions for Subversive Artists Based on Character Profile . " 	" Pidätysolot toisinajattelijoille luonneprofiilin mukaan . " Tiedettä . 
+881	Pretty scientific , eh ? 	" Pidätysolot toisinajattelijoille luonneprofiilin mukaan . " Tiedettä . 
+882	And look at this : 	Ja katsopa tätä . 
+883	" Dissertation supervisor : 	" Hyväksyjä : A . Grubitz . " 
+884	A . 	Mitä sanot ? 
+885	Grubitz . " 	Mitä sanot ? 
+886	That 's great , isn 't it ? 	Eikö ole hienoa ? 
+887	I only gave him a B ... 	Annoin arvosanaksi vain 2 , etteivät luule - että hyväksyn väitökset helposti . 
+888	They shouldn 't think getting a doctorate with me is easy . 	Annoin arvosanaksi vain 2 , etteivät luule - että hyväksyn väitökset helposti . 
+889	But this is first- class . 	Annoin arvosanaksi vain 2 , etteivät luule - että hyväksyn väitökset helposti . 
+890	Did you know that there are just 5 types of artists ? 	Työ on tosin ensiluokkainen . Taiteilijoita on vain viittä tyyppiä . 
+891	Your guy , Dreyman , is a type 4 . 	Dreyman on tyyppiä neljä . 
+892	A " hysterical anthropocentrist . " 	" Antroposentrikko . " 
+893	Can 't bear being alone , always talking , needing friends . 	Ei kestä olla yksin . 
+894	That type should never be brought to trial . 	Heitä ei päästetä oikeuteen loistamaan . 
+895	They thrive on that . 	Heitä ei päästetä oikeuteen loistamaan . 
+896	Temporary detention is the best way to deal with them . 	Tilapäinen pidätys tepsii heihin . 
+897	Complete isolation and no set release date . 	Eristys epämääräisen ajan . 
+898	No human contact the whole time , not even with the guards . 	Ei ihmiskontaktia vartijoihinkaan . 
+899	Good treatment , no harassment , no abuse , no scandals ... nothing they could write about later . 	Ei pahoinpitelyä tai simputusta . Ei mitään kirjoittamisen aihetta . 
+900	After 10 months , we release . 	10 kk : n päästä vapautamme hänet , eikä äijä aiheuta enää ongelmia . 
+901	Suddenly . 	10 kk : n päästä vapautamme hänet , eikä äijä aiheuta enää ongelmia . 
+902	That guy won 't cause us any more trouble . 	10 kk : n päästä vapautamme hänet , eikä äijä aiheuta enää ongelmia . 
+903	Know what the best part is ? 	Tiedätkö , mikä on parasta ? 
+904	Most type 4s we 've processed in this way never write anything again ! 	Useimmat siten käsitellyt - eivät enää kirjoita tai maalaa tai ... 
+905	Or paint anything , or whatever artists do ... 	Ihan ilman voimankäyttöä . 
+906	And that without any use of force ... 	Ihan ilman voimankäyttöä . 
+907	Just like that ! 	
+908	Kind of ... 	
+909	like a present . 	Kuin lahjana . 
+910	What brings you here ? 	Mikä sinut tänne toi ? 
+911	Developments with Dreyman ? 	Dreymanko ? 
+912	That 's why I 'm here . 	- Siitä halusin puhua . 
+913	I think the time has come ... 	Minusta on aika ... 
+914	For what ? 	Aika mille ? 
+915	For us to slim down the operation . 	- Operaation pienentämiselle . 
+916	I don 't want to run day and night shifts for such an uncertain case . 	Tapaus on sen verran epävarma . - Epävarma ? 
+917	Uncertain , eh ? 	
+918	You don 't think we 'll find anything for the Minister ? 	Emmekö löydä mitään ministerille ? 
+919	Maybe if we 're more flexible ... 	- Ehkä , jos pienennämme toimia . 
+920	If we watch ´Lazlo´ outside his own four walls . 	Jos voimme seurata Lazloa ulkonakin . 
+921	Shall I give the case to Udo ? 	Annanko jutun Udon hoitoon ? 
+922	I 'd like to continue it myself . 	- Jatkaisin itse . 
+923	Why ? 	Miksi ? 
+924	It could produce results . 	- Se voi tuottaa jotain . 
+925	I just need to plan more flexibly , when I come and go , days and nights ... 	Suunnittelisin vain vapaammin milloin tulen ja lähden . 
+926	Maybe he 's up to something outside . 	Ehkä mies tekee jotain ulkopuolella . 
+927	Something doesn 't feel right here . 	Tässä mättää nyt jokin . 
+928	There 's something you 're hiding . 	Jätät jotakin sanomatta . 
+929	Alright , I' ll take Udo off the case . 	Hyvä on . Siirrän Udon muualle . 
+930	I can use him for this church case . 	Kirkkojuttuun . 
+931	Give me a request in writing . 	Tee kirjallinen anomus . 
+932	Write as a reason : " Lack of suspicious acts . " 	Perusteluna " vähäinen epäiltävyys " . 
+933	And , Wiesler ! 	Wiesler ! 
+934	A piece of advice for you : 	Pieni neuvo : emme ole enää koulussa . 
+935	We 're not at school anymore . 	Pieni neuvo : emme ole enää koulussa . 
+936	Projects aren 't about grades , but success . 	Tärkeintä ei ole arvosana vaan menestys . 
+937	" The state statistics office counts everything , knows everything . 	" Tilastokeskus tietää ja laskee kaiken . " 
+938	How many shoes I buy a year : 	" Monetko kengät ostan vuodessa : 
+939	2 . 3 . 	2, 3 . 
+940	How many books I read a year : 	Montako kirjaa luen vuodessa : 
+941	3 . 2 . 	3, 2 . " 
+942	And how many pupils graduate with straight A 's every year : 	" Moniko ylioppilas saa hyvän arvosanan . " 
+943	6347 . " 	
+944	" 5 p . m . 	" Klo 17 . 
+945	Lazlo reads the first act of his anniversary play to Hauser and Wallner . " 	Lazlo lukee näytelmäänsä Hauserille ja Wallnerille . " 
+946	DENTAL PRACTICE 	HAMMASLÄÄKÄRI 
+947	We 're not writing a play , Christa . 	Emme tee näytelmää . 
+948	You don 't have to tell me . 	- Älä kerro . 
+949	But I want to . 	Haluaisin kertoa . 
+950	It 's a text ... 	Teksti ... 
+951	Don 't tell me . 	- Älä kerro . 
+952	Maybe I am as unreliable as your friends say . 	Ehkä tosiaan olen epäluotettava . 
+953	But I ... 	Olen nyt kanssasi , oli mikä oli . 
+954	I 'm with you now ... 	Olen nyt kanssasi , oli mikä oli . 
+955	No matter what . 	Olen nyt kanssasi , oli mikä oli . 
+956	Minister Riesenhuber , author of the report , said there is no quick fix for saving damaged forests . 	Ministeri korosti , että metsä - tuhoihin ei ole patenttiratkaisua . 
+957	East- West German relations under strain . 	Saksojen suhteissa on jännitystä . 
+958	' Spiegel´ magazine today published a text by an unnamed East German author about suicide in the German Democratic Republic . 	Spiegel - lehti julkisti tänään - tuntemattoman itäkirjailijan tekstin itsemurhista DDR : ssä . 
+959	This follows a series of suicides by prominent 	Viimeisin itsemurhan tehnyt taiteilija oli Albert Jerska . 
+960	East- Berlin artists , the latest being Albert Jerska . 	Viimeisin itsemurhan tehnyt taiteilija oli Albert Jerska . 
+961	After being blacklisted for 7 years , 	Hän oli ollut työkiellossa seitsemän vuotta . 
+962	Jerska committed suicide on January 5th . 	Hän oli ollut työkiellossa seitsemän vuotta . 
+963	In 1977 , the GDR ceased publishing any data relating to suicides . 	1977 DDR lakkasi julkistamasta itsemurhatilastoja . 
+964	That year , Hungary was the only country in Europe with a higher suicide rate . 	Tuolloin vain Unkarin luku oli suurempi . 
+965	Yes , Sir ... 	Toveri kenraali ... 
+966	But we ... 	- Epäonnistuitte . 
+967	General , our man at the ´Spiegel´ got us a photostat of the original . 	Senkin amatööri . Saimme Spiegelin mieheltämme originaalin . 
+968	Congratulations ! 	- Kuka on tekijä ? 
+969	So who wrote it ? 	Hän ei tiedä . 
+970	He doesn 't know , but using the typeface , we 'll ... 	Kirjasintyypistä ... 
+971	You 're hopeless ! 	- Haluan nimiäl 
+972	Get me names ! 	- Haluan nimiäl 
+973	I will , as soon as we get the results . 	Tulokset tulevat pian . 
+974	If not , you 'll be put against the wall . 	- Syytä olisil 
+975	Andrea , where 's the graphologist ? 	Missä tekstiasiantuntija on ? 
+976	Thus I conclude that it is a domestic typewriter produced for export , most likely a ´Kolibri´ travel model , made by the VEB Groma . 	Kirjoituskone on kotimainen ja tehty vientiin . Ehkä Kolibri VEB . 
+977	If the ink were black , I could be more precise . 	Musta värinauha varmentaisi asian . 
+978	Who owns such a typewriter ? 	- Kenellä niitä on ? 
+979	There are none registered in the GDR . 	Niitä ei saa maastamme . - Eli mitä ? 
+980	What does that mean ? 	Millä Hauser kirjoittaa ? 
+981	What does Hauser use ? 	Millä Hauser kirjoittaa ? 
+982	Paul Hauser uses a ´Valentino´ typewriter , made by Olivetti . 	Olivettin Valentinolla . 
+983	- That model has a more horizontal ... 	Siinä on horisontaalisempi ... 
+984	- Yes , yes ! 	Entä Wallner ? 
+985	And Wallner ? 	Entä Wallner ? 
+986	He writes on an Optima ´Elite ' . 	- Kotimaisella Optiman Elitellä . 
+987	Georg Dreyman ? 	Dreyman ? 
+988	He writes his first drafts by hand , then types them up on a Wanderer ´Torpedo ' . 	- Ensiversion käsin . Sitten puhtaaksi Wanderer Torpedolla . 
+989	He 's never used anything else . 	
+990	How big is this ´Kolibri´ typewriter ? 	Miten iso se Kolibri on ? 
+991	It 's one of the smallest available : 	Yksi pienimmistä . 
+992	19 . 5cm x 99cm x 19 . 55cm . 	19, 5 x 9 x 19, 5 cm . 
+993	So it 's as easy to smuggle as a book . 	Sen voisi salakuljettaa kirjana . 
+994	Thank you . 	Kiitos . 
+995	You may go . 	Voitte mennä . 
+996	Goodbye , comrade . 	Näkemiin , toveri . 
+997	" The Secret Suicide Statistics " 	DDR : n salatut itsemurhatilastot 
+998	Andrea , put me through to Wiesler . 	Andrea , yhdistäkää Wieslerille . 
+999	" 4 p . m . 	" Klo 16 . 
+1000	The group is exhausted from so much writing . " 	Ryhmä uupuu kirjoittamisesta . " 
+1001	- Yes ? 	- Kuulitko itsemurha- artikkelista ? 
+1002	- Have you heard about this article ? 	- Kuulitko itsemurha- artikkelista ? 
+1003	- In the ´Spiegel ' ? 	Spiegelin vai ? Kyllä . 
+1004	Yes . 	- Mistä ? 
+1005	- How so ? 	- Mistä ? 
+1006	Hauser called Dreyman and told him about it . 	Hauser kertoi Dreymanille puhelimitse . 
+1007	Wiesler , this is very important . 	Tämä on nyt tärkeää meidän molempien uralle . 
+1008	Both for my career and for yours . 	Tämä on nyt tärkeää meidän molempien uralle . 
+1009	Did he mention who may be behind it ? 	Mainitsiko hän tekijöitä ? 
+1010	Or do you have any ideas ? 	
+1011	I don 't think he mentioned anything . 	Hän ei maininnut ketään . 
+1012	No ... nothing at all . 	
+1013	A ´Spiegel´ editor crossed the border using a false name on the 27th , and spent four hours here . 	" 27 . päivä Spiegelin " toimittaja ylitti rajan väärällä nimellä . Hän oli täällä 4 tuntia . G . 
+1014	Dept . 	Osasto VI seurasi häntä jonkin aikaa . 
+1015	VI followed him to Prenzlauer Berg , then lost his trail . 	Osasto VI seurasi häntä jonkin aikaa . 
+1016	Did he have contact with Dreyman ? 	Oliko hän yhteydessä Dreymaniin ? 
+1017	- Wouldn 't I have noted it in the report ? 	Enkö olisi maininnut raportissa ? 
+1018	- Yes , of course . 	- Toki . 
+1019	But I smell a writer behind this text . 	Jutun takana on kirjailija . 
+1020	I 'd be astonished if I 'm wrong . 	Jutun takana on kirjailija . 
+1021	So keep your ears open ! 	Korvat auki . 
+1022	Shit ! 	Saatana . 
+1023	Get in . 	Sisään . 
+1024	If one of your staff deceives you , you punish him , right ? 	Jos työtoveri pettää , rankaisetteko ? 
+1025	Sure , sure ! 	Kyllä toki . 
+1026	Even a woman ? 	- Naistakin ? 
+1027	Right ? 	Vai ettekö ? 
+1028	But of course ! 	- Ilman muuta . 
+1029	Isn 't everyone who serves a great man part of his staff ? 	Jokainen suurta miestä palvelevahan on tämän työtoveri ? 
+1030	You could see it like that ... 	- Niin voi sanoa . 
+1031	Indeed , you 'd have to see it like that . 	Pitääkin sanoa . 
+1032	This is where she gets her illegal medication . 	Hän saa laittomia lääkkeitä täältä . 
+1033	Christa- Maria Sieland . 	Christa- Maria Sieland . 
+1034	You should know this , it 's your department . 	Asia kuuluu toimialaanne . 
+1035	It 's up to you whether you ruin her or not , but I never want to see her on a German stage again . 	Päättäkää itse tuhoatteko hänet - mutta en halua häntä enää näyttämölle . 
+1036	Now get out . 	Nyt häipykää . 
+1037	Shut the door ! 	Ovi kiinni ! 
+1038	Ms . 	Sieland ? 
+1039	Sieland ? 	Sieland ? 
+1040	Please follow us . 	Tulkaa mukaamme . 
+1041	We have some questions . 	Tulkaa mukaamme . 
+1042	Come along . 	Mennään . 
+1043	So ... 	Jaa- a . 
+1044	Comrade Sieland , a beautiful career you had , hm ? 	Hienon uran loppu . 
+1045	A pity really . 	Vahinko . 
+1046	You were good . 	Olitte hyvä . 
+1047	You were very good indeed . 	Todella hyvä . 
+1048	Just too short- lived . 	Mutta lyhytaikaisesti . 
+1049	Do have a seat . 	Istukaa . 
+1050	What do actors do when they can 't act anymore ? 	Entä kun näyttelijä ei voi näytellä ? 
+1051	Please ... 	Minä pyydän ... 
+1052	Isn 't there anything I can do for you ? 	Enkö voisi tehdä jotain ? 
+1053	- For ... 	Valtion turvallisuuden hyväksi ? 
+1054	State Security ? 	Valtion turvallisuuden hyväksi ? 
+1055	- It 's a little late for that . 	Se on nyt myöhäistä . 
+1056	I know nearly all our artists . 	- Tunnen taiteilijoita . 
+1057	I could find out a lot . 	Saisin tietää asioita . 
+1058	I believe you . 	- Uskon , mutta se ei auta teitä enää . 
+1059	But it won 't help you now . 	- Uskon , mutta se ei auta teitä enää . 
+1060	Maybe there 's something else I could do ? 	Ehkä voin tehdä jotain muuta ? 
+1061	Something we might both find agreeable . 	Jotain , mikä miellyttäisi molempia . 
+1062	Unfortunately , you 've made an enemy of a very powerful man . 	Valitettavasti olette , miten sanoisi ... Olette hankkinut mahtavan vihamiehen . 
+1063	Therefore , I have less freedom than would normally be the case . 	Se rajoittaa nyt toimivapauttani . 
+1064	Is there no way I can save myself ? 	Enkö voi auttaa itseäni ? 
+1065	I 'm sorry , madam . 	- Valitan . 
+1066	There is one possibility . 	On yksi asia . 
+1067	Since you spend so much time with writers and artists ... 	Tunnette kirjoittajia . Taiteilijoita . 
+1068	You don 't know anything about an article from this week 's ´Spiegel ' , do you ? 	Tiedättekö sattumoisin - Spiegelin itsemurha- artikkelista ? 
+1069	An article about suicide . 	
+1070	State Security ! 	Turvallisuuspoliisi . 
+1071	Open the door ! 	Avatkaa ! 
+1072	Open up ! 	Avatkaa ! 
+1073	He 's turned on the light in his study . 	Hän sytytti työhuoneen valon . 
+1074	Go in before he destroys any evidence . 	Estäkää näytön hävittäminen . 
+1075	Crowbar ! 	- Sorkkarauta . 
+1076	I don 't think that 'll be necessary . 	Tuo ei liene tarpeen . Mitä nyt ? 
+1077	- What 's the matter , comrades ? 	- Meillä on kotietsintälupa . 
+1078	- We have a warrant to search the premises . 	- Meillä on kotietsintälupa . 
+1079	Warrant is here . 	
+1080	- What are you looking for ? 	Mitä etsitte ? 
+1081	- It 's confidential . 	- En voi sanoa . 
+1082	Boysen , Muller : bedroom . 	Boysen , Müller : makuuhuone . 
+1083	Greska : kitchen , bathroom , hall . 	Greska : keittiö ... 
+1084	Heise and Thomas : living room , study . 	Heise , Thomas : olohuone , työhuone . 
+1085	Go ! 	
+1086	What do you burn in here ? 	Mitä poltatte tässä ? 
+1087	Substandard texts . 	- Huonoja tekstejä . 
+1088	A lot of Western literature , eh ? 	Paljon länsikirjallisuutta . 
+1089	That book was a gift from Margot Honecker . 	Sain sen Margot Honeckerilta . 
+1090	- Status ? 	Mikä tilanne ? 
+1091	- All according to plan . 	- Suunnitelmien mukainen . 
+1092	We found nothing , except Western books and newspapers . 	Löytyi vain lännen kirjoja ja lehtiä . 
+1093	- No trace to be found ! 	Kohdetta ei löydy . 
+1094	- Did you search thoroughly ? 	Olitteko perusteellisia ? 
+1095	Yes , Comrade ! 	- Kyllä , eversti . 
+1096	What 's our next move ? 	Miten jatkamme ? 
+1097	- Comrade ? 	Toveri eversti ? 
+1098	- Pull out your men ! 	- Tulkaa pois . 
+1099	In the unlikely event that damage has occurred , you may claim compensation . 	Jos aiheutimme vahinkoa , voitte hakea korvausta täältä . 
+1100	I 'm sure everything 's in perfect order . 	Kaikki on varmaan kunnossa . 
+1101	Yes ? 	- Tule aamulla kello 9 tutkintavankilaan . 
+1102	Wiesler , I' ll be expecting you in Hohenschonhausen at 9 a . m . tomorrow . 	- Tule aamulla kello 9 tutkintavankilaan . 
+1103	Okay , I' ll say what we 're all thinking : 	Epäilemme kaikki Christa- Mariaa . 
+1104	It was Christa- Maria . 	Epäilemme kaikki Christa- Mariaa . 
+1105	The Stasi got her , and she ratted on you . 	Stasi nappasi , ja hän kieli sinusta . 
+1106	It wasn 't her . 	Ei se ollut hän . 
+1107	How can you be so sure ? 	- Mistä tiedät ? 
+1108	You yourself said she wasn 't home last night . 	Hänhän ei ollut eilen kotona . 
+1109	She knows the hiding place . 	Hän tietää piilon . 
+1110	Yes , she knows . 	Hän tietää sen . 
+1111	So if you 're right , and the search was due to her , then she 's our guardian angel . 	Jos hän aiheutti etsinnän , hän on suojelusenkelimme . 
+1112	I 'm here to see Lt . 	Tulin tapaamaan eversti Grubitzia . 
+1113	Col . 	Tulin tapaamaan eversti Grubitzia . 
+1114	Grubitz . 	Tulin tapaamaan eversti Grubitzia . 
+1115	Captain Wiesler . 	Kapteeni Wiesler . 
+1116	Interrogation room 76 . 	Kuulusteluhuone 76 . 
+1117	Yes ! 	Sisään ! 
+1118	Come in . 	
+1119	Sit down . 	Istu . 
+1120	So ? 	No ? 
+1121	What was that about ? 	Mistä on kyse ? 
+1122	You 're asking me what that was about ? 	- Kysytkö minulta ? 
+1123	What do you suspect Dreyman of ? 	Mistä epäilet Dreymania ? 
+1124	He wrote the ´Spiegel´ article . 	- Hän kirjoitti Spiegelin artikkelin . 
+1125	Who alleges that ? 	Kuka niin väittää ? 
+1126	Come with me ! 	Tule . 
+1127	Here . 	Tuolla . 
+1128	I don 't know how you could be so sloppy as to miss all of this ! 	Miten et huomannut mitään ? 
+1129	But I know you differently , especially as an interrogator . 	Mutta tunnen sinut kuulustelijana . 
+1130	So I 'm giving you one last chance . 	Saat viimeisen mahdollisuuden . 
+1131	Bring in prisoner 662 , now ! 	Tuokaa vanki 662 . 
+1132	Are you still on the right side ? 	Oletko vielä oikealla puolella ? 
+1133	Yes . 	Olen . 
+1134	Then don 't screw it up again . 	- Älä sitten tyri enää . 
+1135	Shall I restrain the prisoner ? 	Laitanko vangin rautoihin ? 
+1136	No , she 's an informant now . 	Hän on nyt tiedonantaja . 
+1137	You may go . 	Voitte mennä . 
+1138	So you 're my commanding officer ? 	Oletteko nyt esimieheni ? 
+1139	Write . 	Kirjaa . 
+1140	Then command me . 	Komentakaa sitten . 
+1141	In another 10 hours ... 	10 tunnin päästä ... 
+1142	No , in 9 and a half , 	Ei , vaan 9, 5 tunnin päästä - 
+1143	Mr . 	Roessing kertoo teidän sairastuneen ja lopettaneen työt . 
+1144	Roessing will tell the audience that you , for health reasons , cannot appear . 	Roessing kertoo teidän sairastuneen ja lopettaneen työt . 
+1145	And that will be your last mention in the acting world . 	Sitten teitä ei enää mainita . 
+1146	Is that what you want ? 	Sitäkö tahdotte ? 
+1147	Tell us where the evidence is hidden . 	Sanokaa , mihin todiste on kätketty . 
+1148	There is no evidence , and no typewriter . 	Ei ole mitään kirjoituskonetta . 
+1149	I made it all up . 	Minä keksin sen . 
+1150	I hope not . 	Toivottavasti ette , sillä silloin teidät täytyy pitää täällä . 
+1151	If so , we 'll have to keep you here . 	Toivottavasti ette , sillä silloin teidät täytyy pitää täällä . 
+1152	A false statement is perjury , which carries around 2 years in prison . 	Väärästä lausunnosta tulee 2 vuotta . 
+1153	Dreyman will go to prison anyway , on account of your statement ... and the material we 've already found in the apartment . 	Dreymankin joutuu vankilaan . Lausuntonne riittää siihen . Asunnosta löytyi myös raskauttavaa materiaalia . 
+1154	Save yourself , at least . 	Pelastakaa edes itsenne . 
+1155	You have no idea how many people are in jail here for senseless heroics . 	Vankilassa istuu monta sankaria . 
+1156	Don 't forget your audience . 	Ajatelkaa yleisöänne . 
+1157	" Don 't forget your audience ! " 	" Ajatelkaa yleisöänne . " Kaikkea ... 
+1158	He has some funny ideas ! 	
+1159	Don 't forget what the state has done for you ... 	Ajatelkaa mitä valtio on tehnyt hyväksenne . 
+1160	Your whole life long . 	Koko ikänne . 
+1161	Now you can do something for the state . 	Nyt voitte auttaa valtiota . 
+1162	And it will thank you . 	Se kiittää . 
+1163	Tell me where the typewriter 's hidden . 	Sanokaa , missä kirjoituskone on . 
+1164	Dreyman will never find out . 	Dreyman ei saa tietää . 
+1165	I' ll let you go immediately , and we 'll strike only after you 're back with him . 	Iskemme vasta , kun olette hänen luonaan . 
+1166	You 'll manage to feign surprise , I 'm sure . 	Osaatte esittää hämmästynyttä . 
+1167	And tonight you 'll be back on stage . 	Illalla olette jo teatterissa - elementissänne - yleisönne edessä . 
+1168	In your element . 	Illalla olette jo teatterissa - elementissänne - yleisönne edessä . 
+1169	In front of your audience . 	Illalla olette jo teatterissa - elementissänne - yleisönne edessä . 
+1170	Tell me where the documents are . 	Sanokaa , missä dokumentit ovat . 
+1171	Where are they ? 	Missä ne ovat ? 
+1172	They 're in the apartment ... 	Ne ovat asunnossa . 
+1173	Under the doorsill , between the living room and the hallway . 	Kynnyksen alla . Olohuoneen ja eteisen välissä . 
+1174	You can remove it . 	Sen saa nostettua . 
+1175	Is this where you mean ? 	Merkitkää paikka rastilla . 
+1176	Mark the exact place with a cross . 	Merkitkää paikka rastilla . 
+1177	You look worn out . 	Näytätte väsyneeltä . 
+1178	Remember , you 're an informant now . 	Muistakaa : olette tiedonantaja . 
+1179	That means responsibilities , like conspiracy and confidentiality , but also privileges ... 	Se merkitsee velvollisuuksia , mutta myös etuja . 
+1180	Guard ! 	Vartija , kutsukaa Wiesler . 
+1181	Call Wiesler for me ! 	- Kapteeni Wiesler on jo poistunut . 
+1182	Col . 	- Kapteeni Wiesler on jo poistunut . 
+1183	Wiesler has left the premises , comrade . 	- Kapteeni Wiesler on jo poistunut . 
+1184	I see ! 	Vai niin . 
+1185	Alright . 	Asia selvä . 
+1186	Stand down . 	
+1187	What does a rider do when he 's thrown ? 	Satulasta pudonnut nousee taas satulaan . 
+1188	He gets back on again . 	Satulasta pudonnut nousee taas satulaan . 
+1189	Go inside . 	Mene nukkumaan . 
+1190	Sleep it off . 	Mene nukkumaan . 
+1191	What happened has nothing to do with the house . 	Se ei liity talon tapahtumiin . 
+1192	No , but with the whole country . 	- Ei , vaan koko maan . 
+1193	Christa ! 	Christa ! 
+1194	Stop , I was at Kerschner 's and they had no water . 	- Älä tule . Haluan suihkuun . 
+1195	I need a shower . 	
+1196	You were in a hurry to get here ! 	Lähdit kiireellä . - Operaatio on kesken . 
+1197	- Operation ´Lazlo´ is still in progress ! 	Onko kumpikin sisällä ? 
+1198	- Are they both inside ? 	Onko kumpikin sisällä ? 
+1199	Yes . 	- On . 
+1200	Here 's today´s report . 	Päivän raportti . 
+1201	The last report for Operation ´Lazlo ' . 	Operaatio Lazlon viimeinen . 
+1202	Why didn 't you call me ? 	Mikset soittanut ? 
+1203	What ? 	- Mitä ? 
+1204	Why didn 't you call me ? 	Miksi et soittanut ? 
+1205	I was out in the country . 	- Olin maaseudulla . 
+1206	Can you hand me the nail brush ? 	Annatko kynsiharjan ? 
+1207	The Stasi was here . 	Stasi tutki asunnon . 
+1208	They searched the apartment . 	Stasi tutki asunnon . 
+1209	Who was here ? 	- Ai kuka ? 
+1210	State Security ! 	Turvallisuuspoliisi ! 
+1211	Open up ! 	Avatkaa ! 
+1212	Stay here . 	- Pysy täällä . 
+1213	Hello , Comrade Dreyman . 	Toveri Dreyman , olen eversti Grubitz . 
+1214	I 'm Lt . 	Toveri Dreyman , olen eversti Grubitz . 
+1215	Col . 	Toveri Dreyman , olen eversti Grubitz . 
+1216	Grubitz from State Security . 	Halusin jatkaa eilistä etsintää . 
+1217	I just wanted to make sure they did a thorough job last night . 	Halusin jatkaa eilistä etsintää . 
+1218	Your study ? 	Työhuoneko ? 
+1219	We 'll start there . 	Aloitetaan siitä . 
+1220	Men , search carefully for notes hidden in the books . 	Etsikää lappuja kirjoista . 
+1221	Oh , what do we have here ? 	Mitäs täällä on ? 
+1222	This doorsill doesn 't look kosher to me . 	Kynnys näyttää oudolta . 
+1223	Could it be ... a secret compartment ? 	Olisiko siinä salalokero ? 
+1224	Let her go . 	Antakaa mennä . 
+1225	She 's not a suspect . 	Naista ei epäillä . 
+1226	The actress ... 	Se näyttelijätär ... 
+1227	I was too weak . 	Olin heikko . 
+1228	I can never put right what I' ve done wrong . 	En voi hyvittää tekoani . 
+1229	There 's nothing to put right ! 	Ei ole hyvitettävää . 
+1230	You understand ? 	Ei ole hyvitettävää . 
+1231	Nothing . 	Siirsin koneen ... 
+1232	I moved the ty ... 	Siirsin koneen ... 
+1233	Forgive me , forgive me ... 	Anna minulle anteeksi . Anna anteeksi . 
+1234	Forgive me , forgive me ... 	Anna anteeksi ... 
+1235	Take your men back to headquarters . 	Viekää miehenne pois . 
+1236	This mission is over . 	Päätämme tehtävän . 
+1237	I' ve concluded the mission , Comrade Dreyman . 	Toveri , päätän tehtävän . 
+1238	We must have received an erroneous tip- off . 	Saimme väärää tietoa . 
+1239	Sorry . 	Pahoitteluni . 
+1240	Come on . 	Tule . 
+1241	There 's one thing you should understand , Wiesler . 	Älä kuvittele turhia . 
+1242	Your career is over . 	Urasi on ohi . 
+1243	Even if you were too smart to leave any traces . 	Vaikka osasit olla jättämättä jälkiä . 
+1244	You 'll end up in some cellar , steam- opening letters until you retire . 	Avaat kellarissa kirjeitä lopun uraasi . 
+1245	That means the next 20 years . 	Seuraavat 20 vuotta . 
+1246	20 years ! 	20 vuotta ! 
+1247	That 's a long time . 	Se on pitkä aika . 
+1248	" Mikhail Gorbachev elected as leader of the Soviet Union 's Communist Party . " 	Gorbatshov valittiin NL : n johtoon 
+1249	4 YEARS AND 7 MONTHS LATER 	4 VUOTTA 7 KK MYÖHEMMIN 
+1250	The Wall has come down ! 	Muuri on avattu . 
+1251	Yes , the Wall has come down ! 	Muuri on avattu . 
+1252	The border guards have opened the gates . 	Vartijat avasivat portit . Riemu on rajatonta . 
+1253	The excitement is enormous ! 	Kuuletteko juhlinna ? 
+1254	People are streaming out in thousands ! 	Ihmisiä tulee tuhansittain . 
+1255	It 's unbelievable ! 	Ihmisiä tulee tuhansittain . 
+1256	Dear listeners , November 9th , 1989 , will go down in history ! 	11 . 1989 jää historiaan . 
+1257	TWO YEARS LATER 	2 VUOTTA MYÖHEMMIN 
+1258	What 's wrong , my child ? 	Mikä nyt on , rakas lapsi ? 
+1259	Your Arthur is dead . 	Arthurisi on kuollut . 
+1260	Arthur ... 	Arthur ... 
+1261	Can 't you be wrong , just this once ? 	Ehkä erehdyt . 
+1262	I saw him this morning ! 	Näin hänet aamulla . En . 
+1263	No , sister . 	Hän syöksyi kuolemaan . 
+1264	Believe me . 	Hän syöksyi kuolemaan . 
+1265	He fell to his death . 	Hän syöksyi kuolemaan . 
+1266	The loyal men surround him , as you do me , and despite the high sun , cast seven shadows on his noble dead body . 	Uskolliset ympärillä , kuten sinä minun . Heidän varjonsa osuvat ruumiiseen . 
+1267	Crushed by the mighty wheel . 	Suuren pyörän murskaama . 
+1268	I see it , though I 'd rather see any other horror . 	Näen sen - vaikka näkisin mieluusti muun kauhun . 
+1269	Why am I not spared these visions ? 	Miksen säästy näyiltäni ? 
+1270	Elena ! 	Elena ! 
+1271	Go home and mourn . 	Mene kotiin . 
+1272	I will finish your shift . 	Hoidan työvuorosi loppuun . 
+1273	Too many memories , eh ? 	Liikaa muistojako ? 
+1274	I couldn 't stay in there either . 	Minunkin täytyi päästä sieltä ulos . 
+1275	But what 's this I hear ? 	Mitä olen kuullut ? 
+1276	You 've not written since the Wall fell ? 	Ette kirjoita enää . 
+1277	That 's not good . 	Se ei ole hyvä se . 
+1278	After all our country invested in you . 	Maamme panosti teihin . 
+1279	Although I understand you , Dreyman . 	Vaikka ymmärrän kyllä . 
+1280	What is there to write about in this new Germany ? 	Mitä vastaan voisi kapinoida uudessa Saksassa ? 
+1281	Nothing to believe in , nothing to rebel against ... 	Ei ole vääryyttä . 
+1282	Life was good in our little Republic . 	Elämä oli hyvää tasavallassamme . 
+1283	Many people only realize that now . 	Moni oivaltaa sen vasta nyt . Yhtä kysyisin . 
+1284	- There is one thing I do need to ask you . 	- Mitä tahansa . 
+1285	- Whatever you want . 	Miksi minua ei salakuunneltu ? 
+1286	Why was I never under surveillance ? 	Miksi minua ei salakuunneltu ? 
+1287	Everyone else was . 	Kaikkia muita kyllä . Miksi ei minua ? 
+1288	Why not me ? 	
+1289	You were under full surveillance ! 	Te olitte täydessä seurannassa . 
+1290	We knew everything about you . 	Tiesimme teistä kaiken . 
+1291	Full surveillance ? 	- Täydessä seurannassa ? 
+1292	Every inch was bugged . 	Joka paikassa oli kuuntelulaite . 
+1293	The full program . 	Joka paikassa oli kuuntelulaite . 
+1294	Impossible ! 	- Ei voi olla ! 
+1295	Take a look behind your light switches . 	Katsokaa valonkatkaisijoiden taakse . 
+1296	We knew everything . 	Tiesimme kaiken . 
+1297	We knew that you couldn 't give our little Christa what she needed . 	Senkin , mitä Christa ei saanut teiltä . 
+1298	To think that people like you once ruled a country ... 	On siinäkin johtaja ... 
+1299	RESEARCH SITE AND MEMORIAL 	
+1300	It 'll be a moment , there should be more than one file in your case . 	Odottakaa . Tapauksestanne lienee useita kansioita . 
+1301	I ordered them chronologically . 	Vanhimmat ovat päällimmäisinä ja uudemmat alimpana . 
+1302	Old ones at the top , and the newer ones underneath . 	Vanhimmat ovat päällimmäisinä ja uudemmat alimpana . 
+1303	My respects ! 	Kunnioitukseni . 
+1304	Operation ´Lazlo ' . 	Operaatio Georg Dreymania vastaan koodinimellä Lazlo aloitettu . 
+1305	Operation ´Lazlo ' , subject : 	Operaatio Georg Dreymania vastaan koodinimellä Lazlo aloitettu . 
+1306	Georg Dreyman , code- name ´Lazlo ' , is launched . 	Operaatio Georg Dreymania vastaan koodinimellä Lazlo aloitettu . 
+1307	The lead came from Minister Bruno Hempf . 	Vihje tuli ministeri Hempfiltä . 
+1308	' Lazlo´ takes delivery of a daily Western newspaper without official permission . 	Kuriiri tuo Lazlolle luvattomasti " Frankfurter Allgemeine Zeitungin . " 
+1309	I suggest not taking any action so as not to arouse suspicion of surveillance . 	Ehdotan , että ei puututa jotta emme herätä seurantaepäilyjä . 
+1310	' Lazlo´ and CMS unwrap presents , then presumably have intercourse . 	Lazlo ja CMS avaavat lahjoja . Oletettavasti seuraa yhdyntä . 
+1311	The visitor was Paul Hauser 's uncle from West Berlin . 	Vierailija on Paul Hauserin setä . 
+1312	They tell him about a play that Hauser and ´Lazlo´ will write for the GDR 's 40th anniversary . 	He kertovat tälle näytelmästä , jota laativat DDR : n vuosipäiväksi . 
+1313	We expect further information on the play , a plot summary etc . 	Odotamme tietoja juhlanäytelmästä . Sisällön ja muun osalta . 
+1314	Contents of act 1 : 	1 . näytöksen sisältö : 
+1315	Lenin is in constant danger . 	Lenin on alituisessa vaarassa . 
+1316	Despite increasing external pressure , he sticks to his revolutionary plans . 	Ulkoisesta paineesta huolimatta hän pysyy vallankumouksen tiellä . 
+1317	Lenin is exhausted . 	Lenin on uupunut . 
+1318	HGW ... 	HGW ... 
+1319	HGW XX- 7 ... 	HGW XX/ 7 ... 
+1320	I , Christa- Maria Sieland , freely commit myself to work unofficially for State Security . 	Minä , Christa- Maria Sieland ryhdyn - omasta halustani tiedonhankkijaksi valtion turvallisuusministeriölle . 
+1321	This decision is the result of my conviction that ... 	Päätökseni pohjaa vakaumukseeni ... 
+1322	Georg Dreyman wrote the ´Spiegel´ article " One Who Made it to the Other Side . " 	Georg Dreyman teki artikkelin " Yksi joka pääsi toiselle puolelle . " 
+1323	His accomplices were the journalist Paul Hauser ... 	Apuna oli journalisti Paul Hauser ... 
+1324	Christa Sieland was arrested on March 10th for drug abuse , on Minister Hempf 's indication . 	Christa- Maria Sieland pidätettiin - ministeri Hempfin vihjeestä huumeiden väärinkäytöstä . 11 . 3 . 
+1325	She was released at 1 . 50 p . m . on March 11th , having revealed ´Lazlo´s hiding place and signing up as informant ´Marta ' . 	13 . 50 hänet tuotiin kaupunkiin hänen paljastettuaan Lazlon piilon . Hän otti peitenimekseen Marta . 
+1326	1 . 50 p . m ... 	13 . 50 ... 
+1327	So when did she ... 	Milloin hän sitten ... 11 . 03 . 85 suoritetun epäonnistuneen kotietsinnän - ja Martan menehtymisen jälkeen operaatio Lazlo lopetettiin . 
+1328	After the unsuccessful house search of March 11 , 1985 , and ´Marta´s ' fatal accident , 	Milloin hän sitten ... 11 . 03 . 85 suoritetun epäonnistuneen kotietsinnän - ja Martan menehtymisen jälkeen operaatio Lazlo lopetettiin . 
+1329	Operation ´Lazlo´ was terminated . 	Milloin hän sitten ... 11 . 03 . 85 suoritetun epäonnistuneen kotietsinnän - ja Martan menehtymisen jälkeen operaatio Lazlo lopetettiin . 
+1330	Note : 	HGW : n ylennyskielto alkaa heti . 
+1331	HGW 's promotion ban takes effect immediately . 	HGW : n ylennyskielto alkaa heti . 
+1332	Transfer to Dept . 	Hänet siirretään osasto M : lle . 
+1333	M , with the recommendation not to entrust him with missions under his sole responsibility . 	Hän ei saa vastata yksin tehtävistä . 
+1334	10 : 50 a . m . : 	Lazlon talon seuranta ulkoa jatkuu . 
+1335	Resume surveillance outside ´Lazlo´s ' house . 	Lazlon talon seuranta ulkoa jatkuu . 
+1336	At 3 . 10 p . m . , ´Marta´ comes directly from Hohenschonhausen to his apartment . 	15 . 10 Marta tulee vankilasta Lazlolle . 
+1337	House search and report to follow . 	Seuraa kotietsintä ja raportti . 
+1338	End of Operation ´Lazlo ' . 	Operaatio Lazlo päättynyt . 
+1339	HGW , 3 . 15 p . m . 	HGW 15 . 15 . 
+1340	Who is HGW XX- 7 ? 	Kuka on HGW XX/ 7 ? 
+1341	Stop . 	Seis . 
+1342	Back to Hufeland Street . 	Takaisin Hufelandkadulle . 
+1343	TWO YEARS LATER 	2 VUOTTA MYÖHEMMIN 
+1344	" Georg Dreyman " " Sonata for a Good Man " 	Dreyman : Sonaatti hyvälle ihmiselle 
+1345	" A Novel " " Dedicated to HGW XX- 7 , in gratitude . " 	Omistettu HWG XX/ 7 : lle kiitollisuudella 
+1346	29, 80 . 	29, 80 . 
+1347	Shall I gift- wrap it ? 	Pannaanko lahjapakettiin ? 
+1348	No , it 's for me . 	Se tulee itselleni . 

@@ -1,0 +1,1349 @@
+0	TEMPORARY DETENTION CENTER MINISTRY FOR STATE SECURITY 	
+1	Stand still . 	Спрете , погледнете надолу ! 
+2	Eyes to the floor . 	Спрете , погледнете надолу ! 
+3	Walk on . 	Вървете ! 
+4	TEMPORARY DETENTION CENTER MINISTRY FOR STATE SECURITY 	СЛЕДСТВЕН ЗАТВОР НА МИНИСТЕРСТВОТО ЗА ДЪРЖАВНА СИГУРНОСТ 
+5	Address him as ´Captain ! ' 	Обръщайте се с " господин капитан " . 
+6	Enter . 	Влезте ! 
+7	Sit down . 	Седнете ! 
+8	Hands under your thighs , palms down . 	Ръцете под бедрата с дланите надолу . 
+9	What do you have to tell us ? 	Какво имате да ни кажете ? 
+10	I' ve done nothing . 	Нищо не съм направил . 
+11	I know nothing . 	Не знам нищо . 
+12	You 've done nothing , know nothing ... 	Не сте сторили нищо и не знаете нищо ? 
+13	You think we imprison people on a whim ? 	Мислите , че арестуваме невинни граждани просто ей така ли ? 
+14	No ... 	Не . 
+15	If you think our humanistic system capable of such a thing , that alone would justify your arrest . 	Ако мислите , че нашата човечна система е способна на нещо подобно , може да Ви задържиме дори и нищо да няма . 
+16	We 'd like to jog your memory , prisoner no . 	Нека Ви припомня , 227- ми : 
+17	227 . 	Нека Ви припомня , 227- ми : 
+18	On September 28th , Dieter Pirmasens , your friend and neighbor , fled to the West . 	На 28- ми септември вашият приятел и съсед напуска нелегално страната . 
+19	We believe that he had help . 	Имаме основания да смятаме , че Вие сте му помогнали . 
+20	I know nothing . 	Не знам нищо за това . 
+21	He didn 't even tell me he wanted to leave . 	Не ми е споделял плана си . 
+22	I first heard about it at work . 	Узнах едва по- късно в работата . 
+23	Please recount what you did on September 28th . 	Разкажете , моля , какво правихте на 28 септември . 
+24	- It 's in my statement . 	Вече го записаха . 
+25	- Tell me again . 	- Моля , още веднъж . 
+26	I was at Treptow Park memorial with my children . 	Заведох децата на разходка в парка . 
+27	Where I met my old friend Max Kirchner . 	Случайно се натъкнах на един приятел от гимназията . 
+28	We went to his place and listened to music until late . 	С него отидохме у тях и слушахме музика докъсно . 
+29	He has a telephone , you can call him to confirm this . 	Може да му се обадите , той ще потвърди . 
+30	I can give you the number . 	Ще Ви дам номера на телефона му . 
+31	The enemies of our state are arrogant . 	Предателите на държавата ни са арогантни . 
+32	Remember that . 	Запомнете го . 
+33	It takes patience . 	Нужно е търпение . 
+34	About 40 hours worth . 	Нужно е търпение . 
+35	( STASI COLLEGE , POTSDAM- EICHE ) 	40 часово търпение . 
+36	Fast forward ... 	АКАДЕМИЯ НА ДЪРЖАВНА СИГУРНОСТ Потсдам- Айхе 
+37	I want to sleep . 	АКАДЕМИЯ НА ДЪРЖАВНА СИГУРНОСТ Потсдам- Айхе 
+38	Please , let me sleep ! 	Искам да спя , Моля , оставете ме да спя ... 
+39	Hands under your thighs . 	Ръцете под бедрата ! 
+40	Tell me again what you did on September 28th . 	Опишете ми отново какво правихте на 28- ми септември . 
+41	Please , just one hour , just a little ... a little sleep . 	Моля Ви , искам само един час сън ... 
+42	Tell me again what you did on that day . 	Разкажете какво правихте тоя ден ! 
+43	Why keep him awake for so long ? 	Защо трябва толкова дълго да се държи буден ? 
+44	It 's ... inhuman . 	Струва ми се нечовешко . 
+45	An innocent prisoner will become more angry by the hour , due to the injustice suffered . 	Невинният , след всеки изминал час , става раздразнителен заради несправедливото обвинение . 
+46	He will shout and rage . 	Невинният , след всеки изминал час , става раздразнителен заради несправедливото обвинение . 
+47	A guilty prisoner becomes more calm and quiet ... 	Крещи и се гневи . Виновният става все по- кротък и мълчалив . 
+48	Or he cries . 	Или се разплаква . 
+49	He knows he 's there for a reason . 	Той знае , защо седи там . 
+50	The best way to establish guilt or innocence is non- stop interrogation . ... school friend Max Kirchner . 	За да разберете дали някой е виновен или не , няма по- добро средство от това да го разпитвате до изнемощяване . ... съученикът ми Макс Кирхнер . 
+51	We went to his place ... and listened to music until late . 	Отидохме заедно у тях и слушахме музика до късно . 
+52	He has a telephone , you can call him to confirm this . 	Обадете му се и той ще потвърди всичко . 
+53	Do you notice anything about his statement ? 	Забелязахте ли нещо в неговото изказване ? 
+54	It 's the same as at the beginning . 	Повтаря казаното в началото . 
+55	Exactly the same . 	Казва абсолютно същото , както в началото . 
+56	Word for word . 	Казва абсолютно същото , както в началото . 
+57	People who tell the truth can re- formulate things , and they do . 	Дума по дума . Който казва истината , може свободно да я перифразира . 
+58	A liar has prepared sentences , which he falls back on when under pressure . 	И го прави . Лъжецът си е наизустил изречения , за които се държи при психическо натоварване . 
+59	227 is lying . 	227 лъже . 
+60	We have two important indicators , and can increase the intensity . 	Имаме две важни доказателства и може да повишиме интензивността . 
+61	If you don 't give names , 	Ако не ни кажете кой е помагача , тая вечер жена Ви ще бъде арестувана , а децата ви отиват във възпитателен дом . 
+62	We 'll have to arrest your wife . 	Ако не ни кажете кой е помагача , тая вечер жена Ви ще бъде арестувана , а децата ви отиват във възпитателен дом . 
+63	Jan and Nadja will be put into state care . 	Ако не ни кажете кой е помагача , тая вечер жена Ви ще бъде арестувана , а децата ви отиват във възпитателен дом . 
+64	Is that what you want ? 	Това ли желате ? 
+65	Who was the person who helped him flee ? 	Кой е помагачът ? 
+66	- Glaske ... 	
+67	- Again ! 	Глеске . 
+68	Speak clearly ! 	- Още веднъж , по- ясно ! 
+69	Glaske ... 	Вернер Глеске . 
+70	Werner Glaske . 	Вернер Глеске . 
+71	Werner ... 	Вернер Глеске . 
+72	Glaske . 	Вернер Глеске . 
+73	Quiet ! 	Тишина ! 
+74	Quiet ! 	Тишина ! 
+75	Listen ! 	Слушайте ! 
+76	Does anyone know what that is ? 	Някой знае ли какво е това ? 
+77	It 's the odor sample for the dogs . 	Консервата за миризма . 
+78	It must be collected at every interrogation . 	За кучетата . Трябва да се прибира след всеки разпит и да не се забравя . 
+79	Never forget it ! 	
+80	Your subjects are enemies of Socialism . 	При разпити работите с врагове на социализма . 
+81	Never forget that ! 	Не го забравяйте ! 
+82	Goodbye . 	Приятен ден ! 
+83	That was good , really good . 	Много добре ! 
+84	You remember how we sat there 20 years ago ? 	Помниш ли , когато седяхме тука заедно преди 20 години ? 
+85	They 've offered me a professorship . 	Знаеш ли , предложиха ми да стана професор . 
+86	Life 's not about good grades , though mine weren 't that bad , thanks to you . 	Виждаш ли , добрите оценки нямат значение , макар че моите не бяха чак толкова лоши . 
+87	So what 's up ? 	Виждаш ли , добрите оценки нямат значение , макар че моите не бяха чак толкова лоши . 
+88	Why do you always think I 'm scheming ? 	Какви са ти плановете ? Защо винаги смяташ , че крия нещо ? 
+89	- I wanted to invite you to the theater . 	Просто исках да те поканя на театър . 
+90	- The theater ? 	Просто исках да те поканя на театър . 
+91	I heard that Minister Hempf is going . 	Чух , че и министър Хемпф също ще бъде там тая вечер . 
+92	As head of the Culture Department , I should show my face . 	Трябва да присъствам като началник на Културния отдел . 
+93	It starts at 7 p . m . 	Започва в 19 часа . 
+94	We should get going . 	Ние трябва да сме там . 
+95	THE LIVES OF OTHERS 	ЖИВОТЪТ НА ДРУГИТЕ 
+96	Minister Hempf at one o' clock . 	Министър Бруно Хемпф е на един часът . 
+97	He used to be in State Security , you know . 	Работеше за Министерството , преди да го извикат в Културния отдел на ЦК . 
+98	He really cleaned up the theater scene . 	Поразчисти театралните среди тогава . 
+99	Georg Dreyman , the writer . 	Георг Драйман , поетът . 
+100	An arrogant type , the kind I warn my students about . 	Точно като арогантните типове , за които предупреждавам студентите ми . 
+101	But he 's loyal . 	Арогантен , но верен на партията . 
+102	If they were all like him , I 'd be out of a job . 	Ако всички бяха като него , щях да съм безработен . 
+103	He 's our only non- subversive writer who is also read in the West . 	Той е нашият единствен неподозрителен автор , които дори е четен на Запад . 
+104	He thinks the GDR is the greatest country on earth . 	Той е нашият единствен неподозрителен автор , които дори е четен на Запад . 
+105	It starts . 	Започва . 
+106	What 's wrong , my child ? 	Какво ти е , мило дете ? 
+107	A new vision ? 	Какво ти е , мило дете ? 
+108	Speak , Marta ! 	Ново видение ? 
+109	Speak ! 	Марта , моля те , кажи ми ... 
+110	Your Arthur ... is dead . 	Твоят Артур е мъртъв . 
+111	Arthur ? 	Твоят Артур е мъртъв . 
+112	Can 't you be wrong , just this once ? 	Артур ? Да не би да грешиш ? 
+113	No , sister . 	Не , сестрици , повярвайте ми . 
+114	Believe me . 	Не , сестрици , повярвайте ми . 
+115	He fell to his death . 	Той умря . 
+116	Crushed by the mighty wheel . 	Голямото колело го смаза . 
+117	I see it , though I 'd rather see any other horror . 	Виждам го . От всеки ужас бих предпочела друг . 
+118	Why am I not spared these visions ? 	Защо не ми е спестено това видение ? 
+119	Elena ! 	
+120	Go home ... and mourn . 	Елена ! 
+121	I' ll finish your shift . 	Елена ! 
+122	Did you like it ? 	Хареса ли ти ? 
+123	Dreyman 's good , eh ? 	Добър е Драйман , нали ? 
+124	I 'd have him monitored . 	Искам да бъде следен . 
+125	Monitored ? 	Искам да бъде следен . 
+126	All that teaching is ruining your instincts . 	Следен ? Преподаването ти е развалило инстинктите , Визлер . 
+127	I could oversee it myself . 	УПК ще се заеме с него . 
+128	He 's clean , I tell you . 	- Казах ти , той е по- бистър от сълза . 
+129	Even Hempf likes him . 	- Казах ти , той е по- бистър от сълза . 
+130	We 'd be shooting ourselves in the foot . 	Дори Хемпф лично е дошъл на премерата му . 
+131	I 'm going down . 	Да следиш някой като него , е като да режеш от собственото си месо . 
+132	" Faces of Love " 	" Лица на любовта " от Георг Драйман 
+133	I hear a lot about your work . 	Чувам добри отзиви за Вас . 
+134	They say culture 's in good hands . 	Казват , че културата ни е в добри ръце . 
+135	Your name is mentioned in Party circles . 	Името Ви често се споменава в партията . 
+136	We 're the Party 's ´shield and sword ' . 	Ние сме щитът и мечът на партията , другарю министър . 
+137	I 'm aware of that at all times . 	Съзнаваме това . 
+138	What do you make of him ? 	Какво мислите за него ? 
+139	Of Georg Dreyman ? 	Георг Драйман ? 
+140	Maybe ... 	Може би , че ... 
+141	Maybe what ? 	Може би , че ... 
+142	Maybe he 's not as clean as he seems . 	Може би , че не е толкова чист , колкото изглежда . 
+143	Grubitz ! 	
+144	That 's why you and I are on top . 	Грубиц , затова хора като нас са на върха . 
+145	Your average Stasi chump would have said , 	Някой тиквеник от Щази би казал , че той е един от най- доверените на партията , най- лоялния и т . н . бози . 
+146	" One of our best ! 	Някой тиквеник от Щази би казал , че той е един от най- доверените на партията , най- лоялния и т . н . бози . 
+147	So loyal ! " etc . 	Някой тиквеник от Щази би казал , че той е един от най- доверените на партията , най- лоялния и т . н . бози . 
+148	But we can see more . 	
+149	You 're heading to the very top , Grubitz . 	Но ние виждаме надалече . 
+150	There 's something fishy about him . 	Грубиц , Вие можете да се издигнете съвсем нависоко . 
+151	I can feel it in my gut . 	Трябва да се съмняваме . Усещам го в корема си , а той не ме лъже . 
+152	Dreyman 's having a party next week . 	Следващият четвъртък има празненство у Драйман . 
+153	Some dubious types are going , Hauser and that rabble . 	Някои съмнителни ще присъстват . 
+154	Try to wire the place discreetly by then . 	Хаузер и разни други гадове . 
+155	Measures A and B . 	Опитайте дотогава да организирате нещо малко и дискретно , процедури А и Б . 
+156	Only in his rooms . 	Опитайте дотогава да организирате нещо малко и дискретно , процедури А и Б . 
+157	Nothing conspicuous . 	Само в апартамента му . 
+158	He has powerful friends . 	Без показност . Той има влиятелни приятели . 
+159	No one is to know about this until we 've found something . 	Никой не трябва да разбере , преди да сме открили нещо . 
+160	But if you get something on him , you 'll have a good friend in the Central Committee . 	И когато намерите нещо срещу него , имаме важна клечка в ЦК . 
+161	You understand what I 'm saying ? 	И когато намерите нещо срещу него , имаме важна клечка в ЦК . 
+162	Have a nice evening , Comrade Minister . 	Другарю министър , приятна вечер ! 
+163	Why is he staring at us ? 	Защо ни зяпа ? 
+164	What 's he doing here , anyway ? 	Какво изобщо прави той тука ? 
+165	I think he 's got a crush on you . 	Мисля , че те бройка . 
+166	I can 't let the evening pass without raising a toast to our artists . 	Не мога да пропусна да не отправя тост тая вечер към нашите културни дейци . 
+167	A great Socialist , I can 't recall who it was , once said : 	Един голям социалист беше казал , че поетът е инженер на душата . 
+168	Writers are engineers of the soul . 	Един голям социалист беше казал , че поетът е инженер на душата . 
+169	So Georg Dreyman is one of our country 's greatest engineers . 	А Георг Драйман е един от най- големите инженери на нашето време . 
+170	- What charming bed- fellows you have . 	Очарователен другар . 
+171	- Paul ! 	- Паул , престани ! 
+172	And to Christa- Maria Sieland , the loveliest pearl of the GDR . 	И разбира се Криста- Мария Зиланд . Тя е най- прелестната перла на ГДР . 
+173	I believe that nobody contradict my opinion . 	Никой не може да го отрече . 
+174	Let 's raise our glasses to Christa- Maria Sieland : 	Моля , нека вдигнеме наздравица за Криста- Мария Зиланд . 
+175	Three cheers to her . 	Моля , нека вдигнеме наздравица за Криста- Мария Зиланд . 
+176	Someone like him doesn 't even deserve to address you . 	Изобщо не бива да му се дава думата . 
+177	Stay with me ! 	- Остани с мене , моля те ! 
+178	And now something for the soul ... 	А сега още нещо за всички вас . 
+179	May I ? 	А сега още нещо за всички вас . 
+180	- How did you like my speech ? 	Как Ви се стори краткото ми приветствие ? 
+181	- Many thanks . 	Как Ви се стори краткото ми приветствие ? 
+182	I liked your play too . 	- Много благодаря ! И на мене ми хареса Вашата пиеса . 
+183	Really , it was good . 	
+184	" Engineers of the soul . " 	Наистина , беше добра . 
+185	That was a Stalin quote . 	" Инженер на душата " ? 
+186	Really ? 	Цитирахте Сталин . 
+187	I , too , like to provoke , Mr . 	Така ли ? 
+188	Hauser . 	Е , провокирам чувството Ви за хумор , Хаузе . 
+189	But unlike you , I know how far I can go . 	Но от друга страна знам къде да спра . 
+190	I 'm more like our dear Dreyman . 	Приличам повече на нашия любим Драйман . 
+191	He knows that the Party needs artists , but that artists need the Party even more . 	Той знае , че партията се нуждае от хората на изкуството , но че хората на изкуството се нуждят много повече от партията . 
+192	If you 're going to talk politics , I' ll find another dance partner . 	Той знае , че партията се нуждае от хората на изкуството , но че хората на изкуството се нуждят много повече от партията . 
+193	- I 'm willing . 	Ако ще говорите за политика , ще трябва да си намеря друг танцьор . 
+194	- Too late ! 	Ако ще говорите за политика , ще трябва да си намеря друг танцьор . 
+195	I follow our theater with interest . 	Отдавна следя развитието на нашия театър ... 
+196	It used to be theater people ... 	Навремето професионално сте го следели , нали ? ! 
+197	- Paul ! 	Навремето професионално сте го следели , нали ? ! 
+198	- It 's okay , 	Паул ! 
+199	I' ve known Mr . 	- Остави го . 
+200	Hauser for years . 	Познаваме се отдавна . 
+201	Comrade Schwalber ! 	Познаваме се отдавна . 
+202	You did a good job tonight too . 	Господин Швайбер ! И Вие добре сте поработили днес . 
+203	Dreyman , I 'm glad you 're working with such directors . 	Драйман , доволен съм , че работите с такива режисьори . 
+204	It wasn 't always so . 	Драйман , доволен съм , че работите с такива режисьори . 
+205	You 're referring to Jerska ? 	Говорите за Йерска , нали ? 
+206	I think you judged him too harshly . 	Смятам , че го осъдихте прекалено строго . 
+207	Sure , he went too far in what he said . 	Наистина с изказванията си прескочи границата . 
+208	Without a doubt . 	Наистина с изказванията си прескочи границата . 
+209	But put yourself in his shoes for a moment . 	Но поставете се на негово място за минутка . 
+210	You , as a man of honor . 	Но поставете се на негово място за минутка . 
+211	He can 't remove his name from that statement . 	Той не може да изтрие подписа под манифеста си . 
+212	He could work for any theater in the West . 	Другарю Хемпф , Йерска би могъл да работи в който и да е театър на Запад . 
+213	But he wants to stay here . 	Другарю Хемпф , Йерска би могъл да работи в който и да е театър на Запад . 
+214	Because he believes in Socialism and in this country . 	Но не иска . Той твърдо вярва в социализма и в държавата . 
+215	- His black- listing is ... 	Възбраната му е напълно ... 
+216	- Black- listing ? 	- Кой говори за възбрана ? 
+217	We don 't do that here ! 	Такова нещо при нас няма . 
+218	You should choose your words more carefully . 	Трябва да внимавате какви думи използвате . 
+219	Comrade Hempf , just between us : 	Другарю Хемпф , ще кажа само на Вас . 
+220	My plays are not strong enough to survive Schwalber 's direction . 	Пиесите ми не са толкова добри , че Швайбер да ги поставя . 
+221	I need Jerska , and I think you judged him too harshly . 	Трябва ми Йерска . Мисля , че сте го осъдили прекалено строго 
+222	Well , I don 't . 	Вижте , не смятам така . 
+223	But that 's what we all love about your plays . 	Но това обичаме във Вашите пиеси . 
+224	Your love for mankind ... your belief that people can change . 	Любовта към хората , добрите люде ... увереността , че може да се промениме . 
+225	Dreyman , no matter how often you say it in your plays , people do not change ! 	Дрaйман , няма значение колко често го включвате това в пиесите си . Хората не се променят . 
+226	How is he , by the way ? 	Иначе той как е ? 
+227	He hopes that his black - ... that he can work again soon . 	- Надява се , че неговата възбра ... ... че скоро ще може отново да работи . 
+228	Is he right in hoping ? 	Трябва ли да се надява ? 
+229	Of course he is . 	Трябва ли да се надява ? 
+230	As long as he lives , and even longer . 	Разбира се , докато е жив . Дори и след това . 
+231	Because as you know , Dreyman , hope always dies last . 	Това го знаете , Драйман . Надеждата умира последна . 
+232	The team will be ready to wire the place as of tomorrow . 	Техническата група ще е готова утре сутрин за микрофоните . 
+233	It needs to be finished by Thursday . 	Важното е до четвъртък всичко да е готово и си ти на ход . 
+234	You should plan everything carefully . 	Важното е до четвъртък всичко да е готово и си ти на ход . 
+235	Think you can do it ? 	Ще се оправиш ли ? 
+236	Good night . 	Лека нощ ! 
+237	I' ll get in trouble if I don 't go . 	Трябва да се качвам , иначе ще ми се карат . 
+238	- With who ? 	Трябва да се качвам , иначе ще ми се карат . 
+239	- My girlfriend . 	Трябва да се качвам , иначе ще ми се карат . 
+240	Twenty minutes . 	20 минути . 
+241	Yes ? 	
+242	Frau Meineke ... 	Госпожо Майнеке , една дума и Вашата Маша изхвърча от Медицинската академия . 
+243	One word of this to anyone , and Masha loses her spot at the university . 	Госпожо Майнеке , една дума и Вашата Маша изхвърча от Медицинската академия . 
+244	Is that understood ? 	Разбрахте ли ? 
+245	Yes . 	Разбрахте ли ? 
+246	Send Mrs . 	
+247	Meineke a gift for her cooperation . 	Изпратете на г- жа Майнеке подарък като благодарност за мълчанието й . 
+248	It must be Thursday again . 	Всеки четвъртък идваш . 
+249	Time passes so quickly ... 	Как лети времето ! 
+250	Perhaps that 's a good thing . 	Как лети времето ! 
+251	- How are you ? 	- Как си ? 
+252	- Not bad . 	- Не се оплаквам . 
+253	It 's not always this noisy . 	Не винаги са толкова шумни . 
+254	Only on Thursdays , I know . 	- Знам , само четвъртъците . 
+255	Yes . 	Да . 
+256	We missed you at the premiere . 	Липсваше ми на премиерата . 
+257	Did Schwalber do a good job ? 	Липсваше ми на премиерата . 
+258	His good bits were stolen from you . 	Каквото беше добро , го беше отмъкнал от тебе . 
+259	That keeps my ideas alive . 	Каквото беше добро , го беше отмъкнал от тебе . 
+260	Don 't bear it . 	Не ме мисли за зъл , но не ги издържам тия дебели и натруфени хора по премиерите . 
+261	I can 't bear those fat , dressed- up people at premieres anymore . 	Не ме мисли за зъл , но не ги издържам тия дебели и натруфени хора по премиерите . 
+262	Doesn 't sound like me , does it ? 	Това не ми подхожда . 
+263	But maybe this is the real me , not the old Jerska . 	Но пък може би това ми подхожда ... 
+264	He was friendly and caring , nourished by success ... all thanks to the grace of the bigwigs . 	Може би предишният Йерска беше фалшивият ... приятелски настроеният и доброжелателният , посветен на своя успех . Успех , който дължа на милосърдието на важните клечки . 
+265	But I won 't complain much longer . 	Няма да се оплаквам повече , Драйман . 
+266	In my next life , I' ll simply be an author . 	В следващия си живот искам отново да съм писател . 
+267	A happy author who can write whenever he wants . 	Щастлив писател , който винаги може да пише . 
+268	Like you . 	Като тебе . 
+269	What is a director if he can 't direct ? 	За какво е режисьорът , ако не му е позволено да поставя ? 
+270	He 's a projectionist without a film , a miller without corn . 	Като прожекционист без филми или като мелничар без брашно . 
+271	He is nothing . 	
+272	Nothing at all . 	Нищо повече няма ... 
+273	Albert , the Minister was at the premiere . 	Алберт , на премиерата беше и министърът на културата - Хемпф . 
+274	Minister Hempf . 	Алберт , на премиерата беше и министърът на културата - Хемпф . 
+275	I spoke to him about your blacklisting . 	Говорих с него за възбраната ти . 
+276	It looks promising . 	Има шанс . 
+277	He gave me hope , concrete hope . 	Обнадежди ме устно , съвсем конкретно . 
+278	Literally . 	Обнадежди ме устно , съвсем конкретно . 
+279	Really ? 	
+280	That 's great . 	Това е добре . 
+281	Cheap Georgian wine . 	Йерска , познавачът на виното . 
+282	Chateau Jerska . 	Йерска , познавачът на виното . 
+283	So is our holy drinker coming ? 	И как е нашият пияч ? 
+284	I forgot to ask him . 	Забравих да го питам . 
+285	You 're strong and forceful . 	Ти си силен и енергичен , нуждая се от тебе . 
+286	That 's how I need you . 	Ти си силен и енергичен , нуждая се от тебе . 
+287	Don 't let this blackness into your life . 	Не се набърквай в тоя прекършен живот . 
+288	- Albert is my friend . 	Не се набърквай в тоя прекършен живот . 
+289	- And you 're my boyfriend . 	- Алберт ми е приятел . А ти си мой . 
+290	Looks like a 50th . 	- Изглежда като за 50- ият . 
+291	But I 'm going to be 40 , right ? 	А аз ставам на 40 , нали ? 
+292	Don 't forget , you promised to wear a tie for your birthday . 	Не збравяй , обещал си ми на рождения си ден да си с вратовръзка . 
+293	I would , but I don 't have one . 	Бих си сложил , но нямам нито една . 
+294	Bon anniversaire ! 	Вече имаш . 
+295	Atie ? 	Вратовръзка ли ? 
+296	You said you didn 't want any books . 	- Каза никакви книги . 
+297	Or can 't you tie a tie , you old working- class poet ? 	Но се съмнявам , че можеш да я вържеш , стари поете . 
+298	What ? 	Но се съмнявам , че можеш да я вържеш , стари поете . 
+299	I was born wearing a tie ! 	Мога да връзвам възел . Във възел съм роден . 
+300	I had to " fight my way out of my middle- class fetters " . 	Не забравяй , че трябваше сам да се освободя от оковите на еснафството . 
+301	Then put those fetters on again , just for me . 	Тогава окови се заради мене само още веднъж . 
+302	Alright ... 	
+303	It 's no big deal to tie a tie . 	Така , възел на вратовръзка . Дреболия . 
+304	Frau Meineke , would you come in for a moment ! 	Г- жо Майнеке , моля Ви , елате за секунда . 
+305	Can you tie a tie ? 	Бихте ли ми вързали вратовръзката ? 
+306	You 've no idea how thankful I am . 	Нямате представа колко съм Ви благодарен . 
+307	- Are you feeling unwell ? 	Нещо не е наред ли ? 
+308	- No ... 	Нещо не е наред ли ? 
+309	I 'm feeling fine . 	- Не , не . Всичко е наред . 
+310	Finished ? 	Готово ли е ? 
+311	Wonderful . 	
+312	It 's perfect . 	Прекрасно ! 
+313	It couldn 't be better . 	Прекрасно ! 
+314	It 'll be our secret . 	Но това ще бъде нашата тайна . 
+315	You can keep a secret , right ? 	Но това ще бъде нашата тайна . 
+316	Of course . 	Можете ли да пазите тайна ? 
+317	I' ll be damned ! 	Не вярвах , че ще се справиш . 
+318	And I thought you couldn 't do it . 	Не вярвах , че ще се справиш . 
+319	You don 't normally hide your talents . 	
+320	You 've no idea of the things I can do ! 	Не знаеш , че мога почти всичко . 
+321	The first guest . 	Първият ни гост ... 
+322	Our dear neighbors locked the main door again . 	Скъпите ни съседи пак са заключили долу . 
+323	- Can you go ? 	Скъпите ни съседи пак са заключили долу . 
+324	- Yes , I 'm going . 	Ще отидеш ли да отвориш ? 
+325	Maestro ! 	Това е подаръкът от нас . 
+326	Our humble offerings . 	Това е подаръкът от нас . 
+327	- I expressly said no books ! 	Горещо помолих никакви книги . 
+328	- But thanks . 	Мерси ! 
+329	Would you like a drink ? 	Нещо за пиене ? 
+330	- A soda . 	- Разбира се , един зелцер . 
+331	- Vodka for me . 	- Разбира се , един зелцер . 
+332	I' ll get it . 	Водка за мене . - Ще ги донеса . 
+333	Why the hell 's Albert sitting all alone ? 	Какво става ? Защо Алберт седи съвсем сам ? 
+334	He won 't talk to us . 	Не иска да говори с нас . 
+335	He sent us all away . 	Обърнал ни е гръб . 
+336	I brought you something too . 	Донесох ти това . 
+337	- Did you really come here to read ? 	Дойде тук само за да четеш ли ? 
+338	- It is Brecht ! 	- Но това е Брехт . 
+339	I feel like a fraud among these people . 	Чувствам се като измамник сред тия хора . 
+340	A fraud ? 	Чувствам се като измамник сред тия хора . 
+341	Come off it , Albert ! 	Моля ти се . 
+342	You 're losing your grip on reality . 	Губиш връзка с реалността . 
+343	You know how we admire you , how everybody admires you . 	Знаеш , че всички ти се възхищаваме . Всички . 
+344	For something I did 10 years ago ... and could probably never do again . 	Да , за нещо , което направих преди 10 години . И вероятно никога повече не бих могъл да повторя . 
+345	My favorite director ! 	Я , любимият ми режисьор . 
+346	Wait ! 	Почакай , трябва да говоря с него . 
+347	I need to talk to you a moment . 	Почакай , трябва да говоря с него . 
+348	Tell me again how you got into this position . 	Човече , обясни ми точно как те взеха на тая длъжност ? 
+349	Pure talent . 	Човече , обясни ми точно как те взеха на тая длъжност ? 
+350	Of course ! 	С талант , разбира се . Ясно е . 
+351	But what else did you have to do ? 	Но какво друго направи ? А ? 
+352	Everyone knows you 're with the Stasi ! 	Всички знаят , че си некадърник от Щази . 
+353	- What an outrageous insinuation ! 	Това не е верно ... 
+354	- Don 't forget it ! 	Това не е верно ... 
+355	- Paul ! 	Паул ! 
+356	- What ? 	- Какво ? 
+357	Excuse my friend , he 's had too much to drink . 	Швайбер , извини приятеля ми . Пийнал е повечко . 
+358	But you know he 's with the Stasi ! 	Какво ти става ? Знаеш , че е от Щази . 
+359	No , Paul . 	Не , Паул . 
+360	I don 't know that . 	Не знам . 
+361	You 're such an idealist that you 're almost a bigwig . 	Ти си нафталинено- идеалистичен до снобизъм ! 
+362	It was informers and conformists like that who ruined Albert . 	Кой съсипа Йерска ? Хора като оня . 
+363	Spy , betrayer ! 	Шпиони , предатели и нагаждачи . 
+364	If you don 't take a stand , you 're not human ! 	Все някога трябва да вземеш отношение , иначе не си човек ! 
+365	If you ever want to take action , call . 	Ако все пак искаш да предприемеш нещо , обади ми се . 
+366	If not , we don 't have to meet again . 	Иначе няма защо да се виждаме повече . 
+367	Your friends don 't have much taste . 	Нямат много вкус твойте приятели . 
+368	That 's really unfair . 	- Не , това наистина е несправедливо . 
+369	Here ! 	Ето например тая вилица . 
+370	Look at this beautiful backscratcher . 	Ето например тая вилица . 
+371	That 's a salad fork ! 	Това е просто вилица за салата . 
+372	Still , it 's beautiful ... 	Без значение , прекрасна е . 
+373	And look at this . 	Без значение , прекрасна е . 
+374	I' ll write my new play with this . 	Виж ! Ще напиша следващата си пиеса с него . 
+375	You have no taste either ! 	И ти също нямаш вкус . 
+376	I do in some things . 	За някои неща имам . 
+377	- It 's from Jerska . 	Това е от Йерска . 
+378	- So he did give you a book ! 	- Вероятно и той ти е подарил книга . 
+379	" Sonata for a Good Man " 	" Соната за добрия човек " 
+380	" ' Lazlo´ and CMS unwrap presents , then presumably have intercourse . " 	23 : 04 ч . " Ласло " и КМЗ разопаковаха подаръците . След това вероятен полов акт . 
+381	You 're late . 	Закъснявате . 
+382	Sorry , Captain . 	Извинете , другарю капитан . 
+383	Those red lights made me lose all of four minutes . 	Попаднах на червена вълна и изгубих около 4 минути . 
+384	You know how it is . 	Знаете как е . 
+385	They 're already at it ! 	Ха , те вече са напипали същността на нещата . 
+386	Unbelievable ! 	Ха , те вече са напипали същността на нещата . 
+387	These artists ! 	Знаете ли колега , затова предпочитам да следя артистите пред свещениците и тия , миротворците . 
+388	They 're always at it ! 	Знаете ли колега , затова предпочитам да следя артистите пред свещениците и тия , миротворците . 
+389	That 's why I prefer monitoring artists to priests or peace activists . 	Знаете ли колега , затова предпочитам да следя артистите пред свещениците и тия , миротворците . 
+390	See you tomorrow at 11 a . m . 	До утре в единайсет . 
+391	Albert Jerska , operation ´Engerling ' . 	Алберт Йерска , досието " Енгерлинг " . 
+392	Systematic as usual , Wiesler . 	Алберт Йерска , досието " Енгерлинг " . 
+393	The files will be sent . 	Визлер , колко си систематичен . 
+394	Let 's have lunch . 	Остави досиетата . 
+395	The BSG Volleyball team will meet at 7 p . m . 	Волейболен мач в 19 ч . 
+396	Did you forget ? 	Отдавна не си бил тука . 
+397	Bosses sit over there . 	Офицерската маса е там . 
+398	Socialism must start somewhere . 	Социализмът все отнякъде би трябвало да започне . 
+399	About the license plate of the car that brought Ms . 	По въпроса ти за колата , която снощи е докарала г- жа Зиланд у дома ... 
+400	Sieland home ... 	По въпроса ти за колата , която снощи е докарала г- жа Зиланд у дома ... 
+401	It 's Minister Hempf 's car . 	Лимузината е била на министър Хемпф . 
+402	Wiesler , we can 't monitor top officials . 	Визлер , не е позволено да следиме видни другари . 
+403	I removed the entry in your report . 	Визлер , не е позволено да следиме видни другари . 
+404	Nothing written from now on , just oral ! 	В бъдеще ако има нещо подобно - само устно на мене . 
+405	So we 're helping a Committee member get a rival out of the way . 	Помагаме на нашия член на ЦК да отстрани противника си . 
+406	You know what this could mean for my career . 	Що се отнася до тая информация , няма нужда да споменавам какво означава тя за моята кариера . 
+407	And for yours . 	Що се отнася до тая информация , няма нужда да споменавам какво означава тя за моята кариера . 
+408	If we find something ... 	Ако откриеме нещо ... 
+409	Is that why we joined ? 	Затова ли постъпихме ? 
+410	You remember the oath we took ? 	Помниш ли клетвата ни някога да сме меч и щит на партията ? 
+411	" We are the Party 's shield and sword . " 	Помниш ли клетвата ни някога да сме меч и щит на партията ? 
+412	What is the Party , if not its members ? 	Какво е партията без членовете си ? 
+413	And if those members are highly influential , all the better ! 	Колкото по- силни стават , толкова по- добре . 
+414	I' ve got a new one . 	Чуйте новия виц : 
+415	Honecker comes into his office , opens the window , sees the sun , and says ... 	Една сутрин Хонекер влиза в кабинета си . Отваря прозореца , вижда слънцето и казва : 
+416	What 's wrong ? 	Какво има ? 
+417	Oh , excuse me ... 	Извинете ме , аз просто ... 
+418	I just ... 	Извинете ме , аз просто ... 
+419	No , carry on , colleague ! 	Всичко е наред , другарю . 
+420	No harm in laughing about the Party Chairman , is there . 	Няма нищо лошо да се шегувате с държавния глава . 
+421	I probably know the joke anyway . 	Тоя може и да го знам . 
+422	Come on , tell us ! 	Продължете ! 
+423	Well ... 	Значи , Хонекер ... т . е . другарят главен секретар вижда слънцето и му казва : 
+424	Honecker ... 	Значи , Хонекер ... т . е . другарят главен секретар вижда слънцето и му казва : 
+425	I mean , the Comrade General Secretary sees the sun and says , 	Значи , Хонекер ... т . е . другарят главен секретар вижда слънцето и му казва : 
+426	- " Good morning , dear sun ! " 	" Добро утро , мило слънце ! " 
+427	- More like , " Good morning , dear sun ! " 	" Добро утро , мило слънце ! " 
+428	The sun replies , " Good morning , dear Erich ! " 	И слънцето отговорило : " Добро утро , мили Ерих ! " 
+429	And at noon , Erich goes to the window and says , 	На обед той пак отворил процореца и казал : 
+430	" Good day , dear sun ! " 	" Добър ден , мило слънце ! " 
+431	The sun replies , " Good day , dear Erich ! " 	И слънцето пак му отговорило . 
+432	In the evening , Erich says again , 	Вечерта , след работа Ерих отново поздравил : 
+433	" Good evening , dear sun ! " and the sun doesn 't reply . 	" Добър вечер , мило слънце ! " Но тоя път то не промълвило . 
+434	" Good evening , dear sun ... " 	Затова той отново опитал : 
+435	" What 's wrong ? " he asks . 	Затова той отново опитал : 
+436	And the sun replies , 	" Добър вечер , какво става ? " Слънцето казало : 
+437	" Screw you , I 'm in the West now ! " 	" Цуни не отзад , вече съм на Запад ! " 
+438	Name ? 	Името Ви ? 
+439	Rank ? 	Името Ви ? 
+440	Department ? 	Номер ? 
+441	Me ? 	Аз ли ? 
+442	Stigler . 	Казвам се Щиглер . 
+443	2nd Lieutenant Axel Stigler . 	Младши лейтенант Аксел Щиглер от Отдел М . 
+444	Dept . 	Младши лейтенант Аксел Щиглер от Отдел М . 
+445	M . 	Младши лейтенант Аксел Щиглер от Отдел М . 
+446	I don 't have to tell you what this means for your career . 	Няма нужда да Ви казвам какво означава това за кариерата Ви . 
+447	Please , Comrade Lieutenant Colonel , I was just ... 	Моля Ви , другарю подполковник , аз само ... 
+448	You were just deriding the Party ! 	- Вие само се подиграхте с партията ни . 
+449	That 's incitement , and likely just the tip of the iceberg ! 	И със сигурност това е само върхът на айсберга . 
+450	I will report this to the Minister 's office . 	Ще съобщя това в канцеларията на министъра . 
+451	Just kidding ! 	Майтап , бе ! 
+452	Good one , huh ? 	Беше добър , нали ? 
+453	But yours was good too . 	Но и Вашият също беше добър . 
+454	I know a better one though . 	Но и Вашият също беше добър . 
+455	What 's the difference between Honecker and a phone ? 	Знам един по- добър . Каква е разликата между Ерих Хонекер и телефона ? 
+456	None at all . 	Никаква . 
+457	Hang up , try again ! 	Затваряш и избираш наново ! 
+458	- No , I have to get home . 	- Отивам си у дома . 
+459	- Bye . 	Лека нощ ! 
+460	Cold ? 	Студено ли Ви е ? 
+461	Christa , you forgot our meeting on Thursday . 	Криста , забравихте за нашата уговорка за четвъртък . 
+462	Or did your poet have two birthdays in a row ? 	Или твоят поет пак ще си празнува рождения ден ? 
+463	Come on , get in . 	Хайде , влез в колата ! 
+464	Get in ! 	Хайде , влез в колата ! 
+465	You don 't know what 's good for you . 	Ти не разбираш кое е добро за тебе . 
+466	Don 't worry . 	Не се притеснявай . 
+467	I 'm looking after you . 	Ще се съм внимателен . 
+468	Tell me you don 't need it too . 	Не ми казвай , че не се нуждаеш . 
+469	Just say so , and I' ll let you go . 	Не ми казвай , че не се нуждаеш . 
+470	I 'm meeting someone . 	Сгодена съм . 
+471	Where do you think we 're going ? 	Къде мислиш , че те карам ? 
+472	I 'm taking you to him ! 	Водя те при него . 
+473	You 'll be there even quicker . 	Така ще стигнеш по- бързо . 
+474	Time for some bitter truths . 	Време е за горчичата истина . 
+475	Yes ? 	
+476	Those idiots ! 	Тия идиоти . 
+477	Next Thursday at the Metropol . 	До следващия четвъртък в Метропол . 
+478	Drive ! 	
+479	Christa ? 	Криста ? 
+480	Just hold me . 	Моля те , прегърни ме ! 
+481	Good evening , comrade ! 	Добър вечер , другарю капитан ! 
+482	You 're 5 minutes late again . 	Пак закъсняхте с пет минути . 
+483	Evening . 	Добър вечер . 
+484	11th floor , right corridor . 	Единадесети етаж , дясната врата . 
+485	I 'm already up here . 	Вече съм горе . 
+486	How did you get into the building ? 	Как успяхте да влезете ? 
+487	A bunch of you guys live here . 	- В блока живеят и други от министерството . 
+488	I don 't think I' ve been here before . 	Мисля , че при тебе все още не съм идвала . 
+489	No , I don 't think you have . 	Мисля , че при тебе все още не съм идвала . 
+490	Well ? 	
+491	Was that nice ? 	Хареса ли ти ? 
+492	- Stay awhile . 	Моля те , остани още малко . 
+493	- I can 't , my next customer is at half- past . 	- Не мога . В 1 . 30 имам друг клиент . 
+494	I work on a schedule . 	Работя по поръчка . 
+495	At one- thirty ? 	Вече е 1 . 30 . 
+496	You won 't make it . 	Няма да стигнете на време . 
+497	Sure I will . 	Няма да стигнете на време . 
+498	Don 't you worry . 	Оставете , не се грижете . 
+499	Book me for longer next time . 	Другия път поръчайте за по- дълго . 
+500	Bye . 	Другия път поръчайте за по- дълго . 
+501	Georg ? 	
+502	Did you hear about Hauser ? 	Георг , чу ли за Хаузер ? 
+503	No , what happened ? 	Георг , чу ли за Хаузер ? 
+504	He can 't get a travel permit for his lectures in the West . 	Какво за него ? Пропада му научното пътуване на Запад . 
+505	Are you surprised ? 	Няма паспорт . 
+506	If he acts so arrogantly , he should expect it . 	- Това учудва ли те ? Щом се държи толкова арогантно , можеше да се очаква нещо подобно . 
+507	Would you let him go , if you were in their position ? 	Щеше ли да му позволиш да излезе в чужбина , ако беше на тяхно място ? 
+508	" CMS comes home . 	" Ласло " подкрепя забраната за Хаузер . 
+509	´Lazlo´ approves of Hauser 's foreign travel ban . " 	
+510	Have you seen my Brecht book ? 	Виждала ли си някъде жълтото томче на Брехт ? 
+511	- What ? 	Виждала ли си някъде жълтото томче на Брехт ? 
+512	- My Brecht book . 	- Какво ? 
+513	I don 't know where it is . 	Не знам къде е . 
+514	Strange . 	Не знам къде е . 
+515	I could 've sworn ... 	Странно , не мога да я намеря . 
+516	One day in blue- moon September , silent under a plum tree , 	През оня ден на синьолунния септември тихо под младото ябълково дърво я държах кротката оловнобяла любов в ръцете ми като в прелестен сън . 
+517	I held her , my silent pale love , in my arms like a fair and lovely dream . 	През оня ден на синьолунния септември тихо под младото ябълково дърво я държах кротката оловнобяла любов в ръцете ми като в прелестен сън . 
+518	Above us in the summer skies was a cloud that caught my eye . 	А над нас в лятното небе плаваше облак , който дълго гледах . 
+519	It was white and so high up . 	Той беше бял и извисен във висините . 
+520	And when I looked up , it was no longer there . 	А когато вдигнах поглед , от него ни следа . 
+521	- Yes ? 	
+522	- Georg ? 	- Да ? 
+523	Wallner here . 	- Георг ? 
+524	What 's up ? 	Аз съм Валнер . 
+525	Georg , it 's about Jerska . 	Става дума за Йерска . 
+526	He hanged himself last night . 	Мъртъв е . 
+527	Georg ? 	Георг ? 
+528	I 'm going to hang up , okay ? 	Затварям ... 
+529	" Sonata for a Good Man " 	
+530	You know what Lenin said about Beethoven 's ´Appassionata ' . 	Мислех си за това , което казва Ленин за " Апасионата " на Бетовен : 
+531	" If I keep listening to it , 	" Не бива да я слушам . 
+532	I won 't finish the revolution . " 	" Не бива да я слушам . 
+533	Can anyone who has heard this music , 	Може ли някой , който е обичал такава музика , да бъде лош човек ? 
+534	I mean truly heard it , really be a bad person ? 	Може ли някой , който е обичал такава музика , да бъде лош човек ? 
+535	Are you really with the Stasi ? 	Наистина ли работиш за Щази ? 
+536	Do you even know what the Stasi is ? 	Знаеш ли какво е Щази ? 
+537	Yes . 	Знаеш ли какво е Щази ? 
+538	They 're bad men who put people in prison , says my dad . 	Да . Тате каза , че те са лоши хора и само преследват другите хора . 
+539	I see . 	
+540	What 's the name of your ... 	Така ли ? Как е името на твоя ... ? 
+541	My what ? 	На кое ? 
+542	Ball ! 	На кое ? 
+543	What 's the name of your ball ? 	На твоята топка . 
+544	You 're funny ! 	Как се казва тя ? 
+545	Balls don 't have names . 	Странен си . 
+546	It 's all in place , Minister . 	Прави се всичко възможно , другарю министър . 
+547	The latest technology . 	Прави се всичко възможно , другарю министър . 
+548	Behind every light switch , even in the toilet . 	С най- новата оперативна техника , поставена под всеки контакт , дори и в тоалетната . 
+549	- Measure C in the hall ... 	С най- новата оперативна техника , поставена под всеки контакт , дори и в тоалетната . 
+550	- You said you 'd find something ! 	Всички мерки са предприети ... 
+551	Find something ! 	- Казахте , че ще намерите нещо . 
+552	I 'd advise even my worst enemy not to disappoint me . 	Намерете нещо . Не бих желал да ме разочаровате по тоя случай . 
+553	Now get out of here ! 	Обирайте си крушите . 
+554	Nowack , you 're to watch Christa- Maria . 	Новак , започвате да следите Криста- Мария . 
+555	You 'll report on every minute that she 's not with me . 	За всяка минута , която не е с мене , ще ми съобщавате . 
+556	We revoked Hauser 's travel permit for the culture conference . 	Забранихме на Хаузер да участва на конференцията за културното споразумение . 
+557	Maybe that 'll lead to something . 	Забранихме на Хаузер да участва на конференцията за културното споразумение . 
+558	The two of them are very close . 	Може от това да излезе нещо , двамата са доста близки . 
+559	How 's it going between CMS and the Minister ? 	Е , как върви между Криста- Мария и министъра ? 
+560	They 're meeting tomorrow night , I think . 	- Ако съм разбрал правилно , утре вечер ще излизат . 
+561	That 's good ! 	- Ако съм разбрал правилно , утре вечер ще излизат . 
+562	Very good ! 	Много добре . 
+563	We have a lot to gain from this love story . 	От тая любовна история може да спечелиме много . 
+564	Or a lot to lose . 	Или да изгубиме ... 
+565	Don 't forget that . 	Или да изгубиме ... 
+566	I used to be afraid of just two things : 	Преди ме беше страх само от две неща . 
+567	Being alone , and not being able to write . 	Да не съм сам и да не мога да пиша . 
+568	Since Albert 's death , I don 't care about writing or about other people . 	След смъртта на Алберт писането ми е безразлично , другите хора също . 
+569	All I 'm afraid of now is losing you . 	Сега само не е страх да не остана без тебе . 
+570	You needn 't be afraid tonight . 	Сега само не е страх да не остана без тебе . 
+571	I 'm just going out for a few hours . 	Излизам само за час . 
+572	Where to ? 	- Къде отиваш ? 
+573	An old classmate 's in town . 	Имам среща с една съученичка в центъра . 
+574	Really , Christa ? 	Наистина ли , Криста ? 
+575	- Really ? 	Това истината ли е ? 
+576	- How dare you ! 	Това истината ли е ? 
+577	I know . 	Знам всичко . 
+578	I know where you 're going . 	Знам къде отиваш . 
+579	And I 'm asking you not to go . 	И те умолявам да не го правиш . 
+580	You don 't need him . 	Той не ти е нужен . 
+581	You don 't need him . 	Той не ти е нужен . 
+582	I know about your medication too . 	Знам и за лекарствата . 
+583	And how little faith you have in your talent . 	И колко малко вярваш в изкуството си . 
+584	Have faith in me , at least . 	Но поне имай доверие в мене . 
+585	Christa- Maria . 	Но поне имай доверие в мене . 
+586	You are a great artist . 	Криста- Мария , ти си прекрасна актриса . 
+587	I know that . 	Знам го . 
+588	And your audience knows it too . 	Твоята публика също . 
+589	You don 't need him . 	Той не ти е нужен . 
+590	You don 't need him . 	Не ти трябва . 
+591	Stay here . 	Не ти трябва . 
+592	Don 't go to him . 	Остани тука . Не отивай при него . 
+593	No ? 	
+594	Don 't I need him ? 	Не ми е нужен . 
+595	Don 't I need this whole system ? 	Не ми е изтрябвала тая скандална система . 
+596	What about you ? 	Ами ти ? 
+597	Then you don 't need it either . 	Ами ти ? 
+598	Or need it even less . 	И на тебе не ти трябва . 
+599	But you get in bed with them too . 	Но и ти си лягаш с него . 
+600	Why do you do it ? 	Но и ти си лягаш с него . 
+601	Because they can destroy you too , despite your talent and your faith . 	Защо го правиш ? Защото знаеш , че могат да те унищожат , въпреки таланта ти , в който още не са се усъмнили . 
+602	Because they decide what we play , who is to act , and who can direct . 	Те решават кой да играе и кой да поставя . 
+603	You don 't want to end up like Jerska . 	Не искаш да си като Йерска . 
+604	And neither do I . 	И аз не го искам . 
+605	That 's why I 'm going now . 	Затова сега отивам . 
+606	You 're right about so many things , and I want to change so much . 	За повечето работи си права . 
+607	But I ask you , 	Но те моля , умолявам те , не отивай . 
+608	I implore you : 	Но те моля , умолявам те , не отивай . 
+609	Don 't go ! 	Но те моля , умолявам те , не отивай . 
+610	Well , boss , am I on time ? 	Шефе , навреме ли съм ? 
+611	Let me guess what those two are doing ... 	Нека да позная тия какво правят . 
+612	Come on , I' ll take over . 	Хайде , мой ред е . 
+613	I don 't want you to do overtime because of me . 	Не мога да поема отново отговорността за извънредния Ви труд . 
+614	" Don 't go through that door . " 	" Не излизай оттука . " 
+615	Where 's she going ? 	Та къде да отива ? 
+616	To meet an old classmate . 	На среща с една стара съученичка . 
+617	You 'll have my detailed report tomorrow . 	Подробния доклад може да прочетете утре сутринта . 
+618	I can manage . 	Подробния доклад може да прочетете утре сутринта . 
+619	Good night . 	Лека нощ ! 
+620	What are you staring at ? 	Какво зяпаш ? 
+621	Soda water . 	Един зелцер . 
+622	No , uh ... 	А , не ... 
+623	Vodka . 	А , не ... 
+624	Double . 	Една водка . Голяма . 
+625	Another one . 	Още едно . 
+626	Can I have a cognac , please ? 	Един коняк , моля ! 
+627	Madam ? 	
+628	Go away , I want to be alone . 	Драга госпожо ... Моля , оставете ме на мира , искам да съм сама . 
+629	Ms . 	
+630	Sieland . 	Г- жо Зиланд ... 
+631	Do we know each other ? 	Познаваме ли се ? 
+632	You don 't know me , but I know you . 	Вие не ме познавате , но аз Ви познавам . 
+633	Many people love you for who you are . 	Много хора Ви обичат , защото сте истинска . 
+634	- Actors are never ´who they are . ' 	Актрисите не са това , което са . 
+635	- You are . 	Актрисите не са това , което са . 
+636	I' ve seen you on stage . 	Виждал съм Ви на сцената и Вие бяхте много повече себе си , отколото ... 
+637	You were more who you are ... 	Виждал съм Ви на сцената и Вие бяхте много повече себе си , отколото ... 
+638	than you are now . 	отколкото сте сега . 
+639	So you know what I 'm like . 	Мислите , че ме познавате ? 
+640	I 'm your audience . 	Мислите , че ме познавате ? 
+641	- I have to go . 	Трябва да вървя . 
+642	- Where to ? 	- Къде отивате ? 
+643	I 'm meeting an old classmate . 	Да се видя със стара съученичка . 
+644	I ... 	Да се видя със стара съученичка . 
+645	You see ? 	Да се видя със стара съученичка . 
+646	Just now you weren 't being yourself . 	Знаете ли , в това не бяхте истинска . 
+647	No ? 	
+648	No . 	Така ли ? 
+649	So you know her well , this Christa- Maria Sieland . 	Значи познавате добре Криста- Мария Зиланд . 
+650	What do you think ... 	
+651	Would she hurt someone who loves her above all else ? 	Как мислите , дали тя би наранила един човек , който я обича повече от всичко ? 
+652	Would she sell herself for art ? 	Би ли се продала заради изкуството ? 
+653	For art ? 	Да се продаде заради изкуството ? 
+654	You already have art . 	Да се продаде заради изкуството ? 
+655	That 'd be a bad deal . 	Защо , след като го има . 
+656	You are a great artist . 	Това би било лоша сделка . 
+657	Don 't you know that ? 	Вие сте прекрасна актриса . 
+658	And you are a good man . 	А Вие сте добър човек . 
+659	" When I begin my shift , ´Lazlo´ and CMS are arguing about whether CMS should meet her classmate . 	При застъпването ми на смяна се караха за това дали КМС да излезе със съученичката си . 
+660	Eventually , she leaves . 	При застъпването ми на смяна се караха за това дали КМС да излезе със съученичката си . 
+661	' Lazlo´ seems unhappy about this . 	Въпросителна . В крайна сметка тя излезе , а Ласло остана огорчен от това . 
+662	But after about 20 minutes , CMS returns , to ´Lazlo´s ' surprise , and mine . 	След около 20 минути тя се върна , за негова и моя изненада . 
+663	He seems very happy about this . 	След около 20 минути тя се върна , за негова и моя изненада . 
+664	Vigorous acts of intimacy follow . 	Той остана много щастлив . 
+665	She says she 'll never leave again . 	Тя каза , че повече няма да го напуска . 
+666	He says repeatedly : 	Тя каза , че повече няма да го напуска . 
+667	´Now I' ll have the strength , now I' ll do something . ' 	Той повтори няколко пъти : " Сега имам силата и ще направя нещо " . 
+668	This likely refers to writing a new stage play . 	Това вероятно означава , че той ще пише нова пиеса . 
+669	In recent weeks , ´Lazlo´s ' playwriting had been plagued by difficulties . 	През последните седмици работата му не му спореше . 
+670	What she means by her statement is unclear . 	Какво означава казаното от нея е неясно . 
+671	Perhaps she intends to take better care of his household . 	Може би , че ще се грижи повече за домакинството на Ласло от преди . 
+672	The rest of the night was peaceful . " 	Може би , че ще се грижи повече за домакинството на Ласло от преди . 
+673	Oh , comrade ... uh ... 	Остатъкът от нощта мина спокойно . 
+674	It 's just because ... 	Другарю капитан , аз ... 
+675	He 's sleeping too ... 	Той също спи . 
+676	Good report . 	
+677	Really ? 	
+678	I didn 't know he was in such a bad way . 	Не знаех , че преживява толкова тежък момент . 
+679	Neither did I . 	
+680	" On One Who Made it to the Other Side : 	От Преминалия в отвъдното . 
+681	The statistics office on Hans Beimler Street counts everything , knows everything . 	" Главното управление по статистика брои всичко , знае всичко . 
+682	How many shoes I buy a year : 	Колко обувки купувам годишно - 2, 3 ; колко книги чета годишно - 3, 2 ; и колко ученици годишно завършват с пълно отличие - 6, 347 . 
+683	2 . 3 . 	Колко обувки купувам годишно - 2, 3 ; колко книги чета годишно - 3, 2 ; и колко ученици годишно завършват с пълно отличие - 6, 347 . 
+684	How many books I read a year : 	Колко обувки купувам годишно - 2, 3 ; колко книги чета годишно - 3, 2 ; и колко ученици годишно завършват с пълно отличие - 6, 347 . 
+685	3 . 2 . 	
+686	And how many pupils graduate with straight A 's every year : 	
+687	6347 . 	
+688	But there is one thing they don 't count , maybe because even bureaucrats find it painful , and that 's suicides . 	Но едно измеримо нещо не е включено . Може би защото подобни числа карат и самите бюрократи да страдат . 
+689	If you call Beimler Street to ask how many people between the Elbe and the Oder , between the Baltic Sea and the Ore Mountains despair drove to their death , our numbers oracle is silent . 	И това е броят на самоубийствата . Ако се обадите на Баймлерова улица и попитате колко хора между Елба и Одер , между Балтийско море и планината Херц са смъртта си от отчаяние , замлъкват оракулите на числата , а само внимателно си записват името ви ... 
+690	But it may just note your name for State Security ... 	
+691	Those grey men who ensure safety in our land ... and happiness . 	За Държавната сигурност . Ония сиви господа , които се грижат за нашата сигурност и щастие . 
+692	In 1977 , our country stopped counting suicides . 	От 1977 г . нашата държава не брои самоубийствата . 
+693	They called them ´self- murderers ' . 	От 1977 г . нашата държава не брои самоубийствата . 
+694	But it has nothing to do with murder . 	Така се наричат . Но това деяние няма нищо общо със смъртта . 
+695	It knows no bloodlust , no heated passion , it knows only death , the death of all hope . 	То не познава кръвожадността , не познава страстта . То познава само умирането . Умирането на надеждата . 
+696	When we stopped counting , only one country in Europe drove more people to their death : 	Когато преди 9 години спряхме да броиме , имаше само една страна в Европа , с по- голям брой самоубийства : 
+697	Hungary . 	Когато преди 9 години спряхме да броиме , имаше само една страна в Европа , с по- голям брой самоубийства : 
+698	We came next , the land of ' Real Existing Socialism ' . 	Унгария . Веднага след нея сме ние - държавата на реално съществуващия социализъм . 
+699	One of the uncounted is Albert Jerska , the great director . 	Един от непреброените е Алберт Йерска , големият режисьор . 
+700	It 's him I want to talk about today ... " 	Един от непреброените е Алберт Йерска , големият режисьор . 
+701	I tried to get statistics that show ... ... that State Security operates more effectively than we think ! 	Опитах се да се добера до данни , които показват ... ... колко по- ефективно от предполаганото работи Държавна сигурност . 
+702	I foolishly rehearsed 	Опитах се да се добера до данни , които показват ... ... колко по- ефективно от предполаганото работи Държавна сигурност . 
+703	my speech for the West in here . 	Глупако , тука четох на глас доклада за конференцията . 
+704	Since then , I' ve become very musical . 	Оттогава станах много музикален . 
+705	We can meet at my place . 	
+706	" 3 p . m . , Pankow Memorial " 	" 15 ч . на Еренмал Панко ' . " 
+707	Well ? 	
+708	Is this safe enough ? 	Достатъчно ли е безопасно ? 
+709	My own ´bodyguard ' . 	
+710	I call him Rolf . 	Личният ми телохранител . 
+711	That 's probably his name , too . 	Личният ми телохранител . 
+712	Fire away . 	
+713	Here . 	Какво се получи ? 
+714	You want to publish this ? 	
+715	In the West , with your help . 	Искаш да го публикуваш ? Ще ми помогнете ли ? 
+716	Will you help ? 	
+717	Have you told Christa ? 	Криста знае ли за това ? 
+718	No . 	Криста знае ли за това ? 
+719	I' ll help you , as long as you don 't tell her anything . 	Не . Добре , ще ти помогна . Но не й казвай нищо ! 
+720	What ? 	
+721	Georg , it 's for her own protection . 	Какво ? 
+722	This could be right for the ´Spiegel ' . 	Ще се свържа с редактора на " Шпигел " . 
+723	I 'm friends with an editor there . 	Ако някой друг разбере , ще си навлека неприятности . 
+724	Gregor Hessenstein . 	Ако някой друг разбере , ще си навлека неприятности . 
+725	Know him ? 	Ако някой друг разбере , ще си навлека неприятности . 
+726	Not personally . 	Познаваш ли Хесенщайн ? 
+727	You have to meet him . 	Само съм чувал името му . 
+728	But you can 't publish using your real name . 	Ще се срещнете . 
+729	Unless your idea of fun is a 48- hour interrogation . 	Ще го публикуваш , но анонимно . 
+730	I 'm cold ! 	Много е студено ! 
+731	We could go to my place ? 	Много е студено ! 
+732	There 's no State Security at my place ! 	При мене няма Щази . 
+733	A friend of Margot Honecker , winner of the National Award ... 	Личен приятел съм на Маргот Хонекер и съм носител на Държавната награда , ако смея да ви припомня . 
+734	Second class ! 	Второкласен . 
+735	My apartment is clean , I tell you ! 	Казвам ви , апартаментът ми е чист . 
+736	If only we could be sure ... 	Де да можехме да сме сигурни ... 
+737	I have an idea how we can check your apartment . 	Имам една идея как бихме могли да провериме апартамента ти . 
+738	You know my uncle Frank , who visits from West Berlin every Saturday , with his big gold Mercedes . 	Знаете чичо ми Франк от Западен Берлин , дето идва всяка събота с лъскавия си мерцедес . 
+739	It seems a bit risky to me , Mr . 	Струва ми се доста рисковано , г- н Хаузер . 
+740	Hauser . 	Струва ми се доста рисковано , г- н Хаузер . 
+741	Yes , I agree with Georg . 	Да , Георг е прав . 
+742	Hiding your nephew under the back seat ? 	Просто да махнеме седалките и да го скриеме под тях ... 
+743	I 'm really not sure . 	Не знам , наистина не знам . 
+744	Come on , they won 't search under the seats . 	Повярвайте ми , момчета , те не гледат там . 
+745	They 'll look under the axles , tap the exhaust , then I' ll be across . 	Преглеждат под гумите , около ауспуха и минавам . 
+746	Paul too . 	Преглеждат под гумите , около ауспуха и минавам . 
+747	The border guards aren 't very bright . 	Тия на границата не са от най- лошите . 
+748	You 've got the wrong idea there . 	Тия на границата не са от най- лошите . 
+749	- Which border will you cross ? 	През кой КПП ще минете ? 
+750	- Heinrich- Heine Street . 	- На ул . Хайнрих Хайне . 
+751	Good old Henrich Heine . 	Винаги през КПП Хайнрих Хайне . 
+752	They know me and my gold Mercedes . 	Там граничарите ме знаят със златистия ми мерцедес . 
+753	I 'm friends with the guards . 	Там граничарите ме знаят със златистия ми мерцедес . 
+754	Trust me , I' ll call you in 2 hours , a Schultheiss beer in my hand , and report the news : 	Наистина сме добри приятели . Вярвайте ми , след 2 часа ще ви се обадя с бутилка Шултхайс в ръка и ще ви съобщя добрата новина , че Паул е минал . 
+755	Paul 's across . 	Не ! 
+756	No ! 	Не ! 
+757	What about Paul 's Stasi man ? 	А какво стана с агента , който го следи ? 
+758	Rolf ! 	А какво стана с агента , който го следи ? 
+759	Rolfy , Rolfy ... 	Кой , Ролф ? 
+760	He 'll think that Paul 's at home . 	Ролфи ... Той си мисли , че Паул си е у дома . 
+761	Okay , I have to go . 	Е , хайде , аз ще тръгвам . 
+762	We wouldn 't want him to suffocate , would we ? 	Иначе момчето ще се задуши в колата . 
+763	Another beer ? 	Още една бира ? 
+764	Border control , Heinrich- Heine Street . 	КПП ул . Хайнрих Хайне . 
+765	Who is this ? 	
+766	Who is this ? 	Ало ? 
+767	No reply . 	Няма никой . 
+768	Just this once , my friend . 	Само тоя път , приятелче . 
+769	- Dreyman . 	Драйман . 
+770	- Okay , 	Драйман . 
+771	Paul 's plan worked ! 	- Както обещах , " Паул мина " . 
+772	No border control at all ? 	Нямаше ли проверка ? 
+773	No , no special checks . 	Нищо ? Нищо , освен обичайното . 
+774	Those boys aren 't so bad . 	Изобщо не са лоши момчетата . 
+775	It worked as planned . 	Изобщо не са лоши момчетата . 
+776	Thanks for doing this , Mr . 	Така че той мина . 
+777	Hauser . 	- Благодаря Ви , че го направихте за нас . 
+778	Forget it , it wasn 't all that dangerous . 	Не берете грижа . Фасулска работа . 
+779	- Yeah , true . 	Да , така е . 
+780	- Yeah . 	Да , така е . 
+781	See you soon , and thanks a lot . 	Добре , мерси и до скоро . 
+782	Bye . 	Добре , мерси и до скоро . 
+783	What do we do if they ask what we 're doing together ? 	Какво ще кажеме , ако някой попита какво правиме заедно ? 
+784	Then ... we 'll say 	Ще кажеме ... 
+785	We 'll say we 're writing a stage play together . 	Ще кажеме , че ми помагате да напиша пиеса . 
+786	For the GDR 's 40th anniversary . 	За 40- та годишнина на ГДР . 
+787	Yes ! 	Да . 
+788	And it 's kind of true . 	Както всъщност си е . 
+789	Who 'd have thought our State Security was so incompetent ? 	Кой би помислил , че нашата Държавна сигурност е толкова некадърна . 
+790	Who 'd have thought they were such idiots ? 	Кой би помислил , че са такива идиоти ! 
+791	Just you wait ... 	Чакай малко . 
+792	" 7 . 32 p . m . 	
+793	No further noteworthy incidents . " 	19 : 32 ч . Без повече значими събития . 
+794	Hello , comrade . 	Добър ден , другарю капитан ! 
+795	Listen to this here ! 	Добър ден , другарю капитан ! 
+796	Sure , in 1967 there were many suicides . 	Защо случаите са ю толкова много през 1967 г . , за нас на Запад е разбираемо . 
+797	But why in 1977 ? 	Защо случаите са ю толкова много през 1967 г . , за нас на Запад е разбираемо . 
+798	You must explain . 	Защо случаите са ю толкова много през 1967 г . , за нас на Запад е разбираемо . 
+799	You must describe the social conditions more clearly . 	Но през 1977 г ... 
+800	It should remain literature , not political agitation . 	Трябва да го обясните и да посочите социалните причини . Това е литературен текст , а не журналистически памфлет . 
+801	The text is great . 	Статията е чудесна сама по себе си ! 
+802	I just want to be sure people understand it in the West . 	Просто искам да се уверя , че ще бъде добре разбрана и у нас . 
+803	It 'll cause a sensation either way . 	Просто искам да се уверя , че ще бъде добре разбрана и у нас . 
+804	- That 's Hauser ! 	Така или иначе тя ще направи фурор . 
+805	- Of course it 's Hauser . 	Това е Хузер . - Разбира се , че е Хузер . 
+806	He 's not in the West ! 	Значи той не е в Зап ... 
+807	They 're writing a play together . 	Пишат заедно пиеса . 
+808	For the 40th anniversary . 	За 40- та годишнина на ГДР . 
+809	It doesn 't sound like a play to me . 	Ами , на мене не ми звучи като пиеса . 
+810	No ? 	Ами , на мене не ми звучи като пиеса . 
+811	Then what ? 	А като какво Ви звучи ? 
+812	I don 't know ... but not a play . 	Не знам , ама не на пиеса ... 
+813	You think a lot , Sergeant Leye . 	Много мислите , сержант Лайер . 
+814	You 're not an intellectual , are you ? 	Нали не сте интелектуалец ? 
+815	Me ? 	Нали не сте интелектуалец ? 
+816	No ... 	Нали не сте интелектуалец ? 
+817	I 'm not one of those . 	Аз ? Не , изобщо не съм . 
+818	Then don 't behave like one . 	Тогава не се дръжте като такъв . 
+819	I chose you because you know the equipment and don 't ask questions . 	Избрах Ви , защото познавате техниката , а не за да задавате въпроси . 
+820	Leave the thinking to your superiors . 	Избрах Ви , защото познавате техниката , а не за да задавате въпроси . 
+821	Yes , Captain . 	Оставете мисленето на висшестоящите . 
+822	I' ll be off , then . 	Извинете , другарю капитан , аз , такова ... 
+823	Have a nice day ... of work ... 	Мерси и приятен ден . 
+824	I mean , I hope you enjoy your work . 	Приятна работа , т . е . нали ... 
+825	Maybe I can re- write this part . 	Мога да го пренапиша . 
+826	I' ll send you all the material we have . 	Ще Ви изпратя още от материалите , които имаме по темата . 
+827	Can you do it in two weeks ? 	За две седмици ще се справите ли ? 
+828	Then I could run it as a cover story for the first week in March . 	Така ще влезете в първия мартенски брой , вероятно на корицата . 
+829	It 's Christa . 	Това е Криста . 
+830	Georg ? 	Георг ? 
+831	Christa , this is Gregor Hessenstein . 	Криста , това е Грегор Хесенщайн . 
+832	- Christa Sieland . 	Криста , това е Грегор Хесенщайн . 
+833	- Of course , I know that ! 	Криста Зиланд . 
+834	So , what conspiracy are you cooking up ? 	И какво правите така потайно ? 
+835	Hauser and I are writing a play for the GDR 's 40th anniversary . 	Хаузер и аз ще пишеме пиеса за 40- та годишнина на Републиката . 
+836	Together ? 	Хаузер и аз ще пишеме пиеса за 40- та годишнина на Републиката . 
+837	The ´Spiegel´ may do an article on it . 	Пиеса от двама автори ? " Шпигел " вероятно ще го отбележи . 
+838	- And who 'll play the lead role ? 	Може би . 
+839	- We planned to ask you . 	И кой ще играе главната роля ? 
+840	Christa , who would you rather play : 	- Точно за това искахме да те питаме . 
+841	Lenin or his dear old mother ? 	Криста , коя роля би предпочела , на Ленин или на добрата му стара майка ? 
+842	You can choose . 	Криста , коя роля би предпочела , на Ленин или на добрата му стара майка ? 
+843	I see I 'm not welcome here . 	Можеш да си избереш . Е , виждам , че не съм желана тука . 
+844	I' ll go for a nap . 	Отивам да поспя . 
+845	Your caution is praiseworthy . 	Препоръчвам Ви предпазливост . 
+846	The fewer people know , the better . 	Колкото по- малко хора знаят , толкова по- добре . 
+847	The Stasi is not to be toyed with . 	Колкото по- малко хора знаят , толкова по- добре . 
+848	On that note , I brought something for you . 	В тая връзка съм Ви донесъл нещо . 
+849	I 'd have preferred the whole pie . 	Бихме предпочели тортата . 
+850	I already have a typewriter . 	Бихме предпочели тортата . 
+851	The Stasi can identify its typeface . 	Имам пишеща машина . - Нейният шрифт е известен на Щази . 
+852	If they intercepted the text at the border , for your typewriter using , you 'd end up in Hohenschonhausen . 	Ако текстът бъде заловен на границата , написан на Вашата машина , още на следващия ден ще Ви изпратят в Хоеншонхаузен . 
+853	And that 's no fun , as Paul can confirm , right ? 	А там никак не е приятно , което Паул може да потвърди . 
+854	I 'm afraid I could only get a red ink ribbon for this model . 	За съжаление имам само червена лента за писане . 
+855	Do you mind writing it in red ? 	За съжаление имам само червена лента за писане . 
+856	That won 't be a problem . 	Притеснява ли Ви да напишете сатията с червено мастило ? 
+857	Is there somewhere you can hide it ? 	Няма никаква пречка . Има ли къде да криете машината след всяко писане ? 
+858	- Yes , I' ll find a place . 	Ще намеря нещо - Не подценявайте въпроса . 
+859	- Don 't take it lightly . 	Ще намеря нещо - Не подценявайте въпроса . 
+860	I don 't want my next article to be about your disappearance ! 	Не искам в следващата ми статия да пише как никой не знае къде е и зчезнал Георг Драйман . 
+861	Nobody may know that this typewriter exists ! 	Не искам в следващата ми статия да пише как никой не знае къде е и зчезнал Георг Драйман . 
+862	Is this apartment really safe ? 	Никой освен нас тримата не бива да знае , че такава машина изобщо съществува . 
+863	Yes . 	Жилището напълно сигурно ли е ? 
+864	It 's the only place left in the GDR where I can say what I want . 	Това е последното място в ГДР , където мога безнаказано да казвам , каквото мисля . 
+865	Fine , then let 's drink to that ! 	Добре . 
+866	This is the real stuff . 	Бутилката е истинска . 
+867	To you ! 	
+868	To letting all of Germany see the true face of the GDR ! 	Пия за показването на истинския лик на ГДР пред цяла Германия . 
+869	Cheers . 	Наздраве ! 
+870	It 's better than the Russian stuff ! 	По- добро е от руското . 
+871	To your success ! 	Успех ! 
+872	I must see Comrade Grubitz . 	Трябва да се видя с другаря Грубиц . 
+873	Tomorrow at 2 . 30 p . m ... 	Съжалявам , но можете най- рано утре в 14 : 30 ... 
+874	Tell him that if he blows the cover , we 'll shut down the entire parish ! 	Щом информаторът ни е разкрит , забранете им събранията и затворете църквата . 
+875	It 's easy ! 	Щом информаторът ни е разкрит , забранете им събранията и затворете църквата . 
+876	He can call the Pope and complain ! 	Извикайте Папата и се жалвайте пред него . 
+877	Okay , I' ve spent enough time on this nonsense . 	Стига ! Достатъчно сте ме занимавали с тая глупост . 
+878	Wiesler , I 'm glad you 're here . 	Визлер , радвам се да те видя . 
+879	I have to show you something . 	Да ти покажа ли нещо ? 
+880	" Prison Conditions for Subversive Artists Based on Character Profile . " 	" Условия за арест на политико- иеологически диверсанти от художествено- творческатата интелигенция според профила им " 
+881	Pretty scientific , eh ? 	" Условия за арест на политико- иеологически диверсанти от художествено- творческатата интелигенция според профила им " 
+882	And look at this : 	Виж това . 
+883	" Dissertation supervisor : 	Научен ръководител - проф . 
+884	A . 	Научен ръководител - проф . 
+885	Grubitz . " 	Научен ръководител - проф . 
+886	That 's great , isn 't it ? 	Антон Грубиц . Как ти се струва ? 
+887	I only gave him a B ... 	Писах им петици , та да не си мислят , че при мене се минава лесно , но работата им е направо превъзходна . 
+888	They shouldn 't think getting a doctorate with me is easy . 	Писах им петици , та да не си мислят , че при мене се минава лесно , но работата им е направо превъзходна . 
+889	But this is first- class . 	Писах им петици , та да не си мислят , че при мене се минава лесно , но работата им е направо превъзходна . 
+890	Did you know that there are just 5 types of artists ? 	Знаеш ли , че сред артистите има само различни 5 типа ? 
+891	Your guy , Dreyman , is a type 4 . 	Например Драйман е тип 4 - истеричен антропоцентрик . 
+892	A " hysterical anthropocentrist . " 	Например Драйман е тип 4 - истеричен антропоцентрик . 
+893	Can 't bear being alone , always talking , needing friends . 	Не може да остава сам , винаги трябва да има приятели около себе си . 
+894	That type should never be brought to trial . 	Не може да остава сам , винаги трябва да има приятели около себе си . 
+895	They thrive on that . 	Такъв не бива да се изправя пред съда , там направо ще разцъфти . 
+896	Temporary detention is the best way to deal with them . 	Както съветва книгата , всичко трябва да е при закрити врата . 
+897	Complete isolation and no set release date . 	Пълна изолация , без да знае докога ще бъде държан . 
+898	No human contact the whole time , not even with the guards . 	Никакъв контакт с никой , дори и с пазачите . 
+899	Good treatment , no harassment , no abuse , no scandals ... nothing they could write about later . 	Най- добра тактика към него е без разследване , без мъчения или скандали . 
+900	After 10 months , we release . 	Нищо , за което по- късно би могъл да пише . След 10 месеца го пускаме изнанадващо . 
+901	Suddenly . 	И повече никакви проблеми с него . 
+902	That guy won 't cause us any more trouble . 	И повече никакви проблеми с него . 
+903	Know what the best part is ? 	И знаеш ли кое е най- доброто ? 
+904	Most type 4s we 've processed in this way never write anything again ! 	Повечето от тоя тип , така обработени , не пишат повече , не рисуват или там каквото правят хората на изкуството . 
+905	Or paint anything , or whatever artists do ... 	Повечето от тоя тип , така обработени , не пишат повече , не рисуват или там каквото правят хората на изкуството . 
+906	And that without any use of force ... 	И всичко това , без да им се оказва натиск , просто от самосебе си . 
+907	Just like that ! 	
+908	Kind of ... 	
+909	like a present . 	Така да се каже , съдба . 
+910	What brings you here ? 	Какво те води при мене ? 
+911	Developments with Dreyman ? 	Развитие при Драйман ? 
+912	That 's why I 'm here . 	Затова исках да говоря с тебе . 
+913	I think the time has come ... 	Мисля , че е време ... 
+914	For what ? 	Време за какво ? 
+915	For us to slim down the operation . 	... за ограничаване на операцията . 
+916	I don 't want to run day and night shifts for such an uncertain case . 	Не искам дневни и нощни смени за един толкова несигурен случай . 
+917	Uncertain , eh ? 	Несигурен , а ? 
+918	You don 't think we 'll find anything for the Minister ? 	Значи мислиш , че нищо няма да свършиме за министъра ? 
+919	Maybe if we 're more flexible ... 	Може да намалиме ресурсите и по- ефективно да ги използваме , като разкриеме Ласло и извън апартамента му . 
+920	If we watch ´Lazlo´ outside his own four walls . 	Може да намалиме ресурсите и по- ефективно да ги използваме , като разкриеме Ласло и извън апартамента му . 
+921	Shall I give the case to Udo ? 	Да предам ли случая на Удо ? 
+922	I 'd like to continue it myself . 	Бих желал аз да го продължа . 
+923	Why ? 	Защо ? 
+924	It could produce results . 	Все пак все нещо може да излезе . 
+925	I just need to plan more flexibly , when I come and go , days and nights ... 	Искам да имам свобода кога да идвам и кога да си отивам , денем и нощем . 
+926	Maybe he 's up to something outside . 	Mоже би той прави нещо извън жилището си . 
+927	Something doesn 't feel right here . 	Нещо не ми харесва . 
+928	There 's something you 're hiding . 	Нещо не ми казваш . 
+929	Alright , I' ll take Udo off the case . 	Добре , ще изтегля Удо . 
+930	I can use him for this church case . 	Мога да го ползвам за случая с църквата . 
+931	Give me a request in writing . 	Напиши молба , а като основание - " липса на уличаващи факти " . 
+932	Write as a reason : " Lack of suspicious acts . " 	Напиши молба , а като основание - " липса на уличаващи факти " . 
+933	And , Wiesler ! 	И Визлер , един съвет : 
+934	A piece of advice for you : 	И Визлер , един съвет : 
+935	We 're not at school anymore . 	И Визлер , един съвет : 
+936	Projects aren 't about grades , but success . 	Не сме в университета . 
+937	" The state statistics office counts everything , knows everything . 	" На ул . 
+938	How many shoes I buy a year : 	Ханс Баймлер броят всичко : колко обувки купувам годишно : 
+939	2 . 3 . 	Ханс Баймлер броят всичко : колко обувки купувам годишно : 
+940	How many books I read a year : 	2, 3 ; ... колко книги чета годишно : 
+941	3 . 2 . 	2, 3 ; ... колко книги чета годишно : 
+942	And how many pupils graduate with straight A 's every year : 	3, 2 ; ... и колко ученици завършват матура с 6 . 00 : 
+943	6347 . " 	6, 347 ... 
+944	" 5 p . m . 	
+945	Lazlo reads the first act of his anniversary play to Hauser and Wallner . " 	17 : 00 : ´Ласло´ чете първо действие на пиесата пред Хузер и Валнер . 
+946	DENTAL PRACTICE 	
+947	We 're not writing a play , Christa . 	Не пишеме пиеса , Криста - Не си длъжен да ми казваш . 
+948	You don 't have to tell me . 	Не пишеме пиеса , Криста - Не си длъжен да ми казваш . 
+949	But I want to . 	Не пишеме пиеса , Криста - Не си длъжен да ми казваш . 
+950	It 's a text ... 	Искам да ти разкажа . 
+951	Don 't tell me . 	Текстът е за ... - Не ми казвай . 
+952	Maybe I am as unreliable as your friends say . 	Може би наистина съм толкова несигурна , колкото смятат приятелите ти . 
+953	But I ... 	Може би наистина съм толкова несигурна , колкото смятат приятелите ти . 
+954	I 'm with you now ... 	
+955	No matter what . 	На твоя страна съм . 
+956	Minister Riesenhuber , author of the report , said there is no quick fix for saving damaged forests . 	
+957	East- West German relations under strain . 	Напрежение между ФРГ и ГДР . 
+958	' Spiegel´ magazine today published a text by an unnamed East German author about suicide in the German Democratic Republic . 	Списание " Шпигел " публикува на първа страница статия на неназован източногермански автор за самоубиствата в Германската демократична република . 
+959	This follows a series of suicides by prominent 	Поводът е поредицата от самоубийства на известни хора на изкуството , последеното от които бе на театралния режисьор Алберт Йерска . 
+960	East- Berlin artists , the latest being Albert Jerska . 	Поводът е поредицата от самоубийства на известни хора на изкуството , последеното от които бе на театралния режисьор Алберт Йерска . 
+961	After being blacklisted for 7 years , 	Йерска се самоуби на 05 . 01 . т . г . след 7 годишна забрана за работа . 
+962	Jerska committed suicide on January 5th . 	Йерска се самоуби на 05 . 01 . т . г . след 7 годишна забрана за работа . 
+963	In 1977 , the GDR ceased publishing any data relating to suicides . 	От 1977 г . насам ГДР не публикува данни за броя на самоубийствата . 
+964	That year , Hungary was the only country in Europe with a higher suicide rate . 	Тогава Унгария е единствената европейска държава с по- голям брой такива случаи . 
+965	Yes , Sir ... 	Тъй верно , другарю генерал , имаме ... 
+966	But we ... 	Да , имаме ... 
+967	General , our man at the ´Spiegel´ got us a photostat of the original . 	Получихме копие на оригинала от нашия информатор в " Шпигел " . - Получили ? ! 
+968	Congratulations ! 	А разбрахте ли кой е написал тая боза ? 
+969	So who wrote it ? 	И той не е знаел , кой е авторът . 
+970	He doesn 't know , but using the typeface , we 'll ... 	Но на базата на шрифта можеме ... - Не ме интесува . 
+971	You 're hopeless ! 	Искам имена . 
+972	Get me names ! 	При първа възможност , другарю генерал . 
+973	I will , as soon as we get the results . 	- Надявам се , иначе ще Ви разстрелям . 
+974	If not , you 'll be put against the wall . 	- Надявам се , иначе ще Ви разстрелям . 
+975	Andrea , where 's the graphologist ? 	Андреа , къде е графологът ? 
+976	Thus I conclude that it is a domestic typewriter produced for export , most likely a ´Kolibri´ travel model , made by the VEB Groma . 	Машината може да само е една от предназначените за износ наши преносими машини . Много вероятно това е Колибри . Ако оригиналът беше с черно мастило , щеше да е съвсем сигурно , че е Колибри . 
+977	If the ink were black , I could be more precise . 	И кой има такава машина ? 
+978	Who owns such a typewriter ? 	- Такива машини не се ползват в нашата страна . 
+979	There are none registered in the GDR . 	Какво означава това ? 
+980	What does that mean ? 	Каква машина има Хаузер например ? 
+981	What does Hauser use ? 	Каква машина има Хаузер например ? 
+982	Paul Hauser uses a ´Valentino´ typewriter , made by Olivetti . 	Журналистът Паул Хаузер ползва модела Валентино на Оливети . 
+983	- That model has a more horizontal ... 	При тоя модел имаме .... 
+984	- Yes , yes ! 	- Да , да . 
+985	And Wallner ? 	А Валнер ? 
+986	He writes on an Optima ´Elite ' . 	Пише на нашата Оптимал Елите . 
+987	Georg Dreyman ? 	Георг Драйман ? 
+988	He writes his first drafts by hand , then types them up on a Wanderer ´Torpedo ' . 	- Той пише на ръка черновите си . Беловите пише на Вандерер Торпедо . Никога не е писал на нещо друго . 
+989	He 's never used anything else . 	
+990	How big is this ´Kolibri´ typewriter ? 	Колко голямо е това Колибри ? 
+991	It 's one of the smallest available : 	Тя е една от най- малките , произвеждани някога . 
+992	19 . 5cm x 99cm x 19 . 55cm . 	19 . 5 x 9 x 19 . 5 cм . 
+993	So it 's as easy to smuggle as a book . 	Значи не е трудно да се пренесе все едно е книга ? 
+994	Thank you . 	Благодаря Ви , свободен сте . 
+995	You may go . 	Благодаря Ви , свободен сте . 
+996	Goodbye , comrade . 	Довиждане , другарю подполковник . 
+997	" The Secret Suicide Statistics " 	Тайната статистика на самоубийствата " 
+998	Andrea , put me through to Wiesler . 	Свържете ме , моля , с кап . Визлер . 16 : 00 ч . 
+999	" 4 p . m . 	Групата е изтощена от писане . 
+1000	The group is exhausted from so much writing . " 	
+1001	- Yes ? 	- Визлер , чу ли за оная статия за самоубийствата ? 
+1002	- Have you heard about this article ? 	- Визлер , чу ли за оная статия за самоубийствата ? 
+1003	- In the ´Spiegel ' ? 	В " Шпигел " , да . 
+1004	Yes . 	Откъде ? 
+1005	- How so ? 	Откъде ? 
+1006	Hauser called Dreyman and told him about it . 	Хаузер се обади на Драйман и му разказа за нея . 
+1007	Wiesler , this is very important . 	Това е изключително важно както за твоята , така и за моята кариера . 
+1008	Both for my career and for yours . 	Това е изключително важно както за твоята , така и за моята кариера . 
+1009	Did he mention who may be behind it ? 	Той спомена ли нещо подозрително ? 
+1010	Or do you have any ideas ? 	А ти имаш ли идеи ? 
+1011	I don 't think he mentioned anything . 	Мисля , че нищо не спомена . Не , нищо не спомена . 
+1012	No ... nothing at all . 	
+1013	A ´Spiegel´ editor crossed the border using a false name on the 27th , and spent four hours here . 	Един от редакторите на " Шпигел " е минал под фалшиво име през КПП Борнхолмер на 27- ми и е останал 4 часа в страната . Казва се Грегор Хесенщайн . От 6- отдел са го проследили до Пренцлауер берг . 
+1014	Dept . 	
+1015	VI followed him to Prenzlauer Berg , then lost his trail . 	Имал ли е някакви контакти с Георг Драйман ? 
+1016	Did he have contact with Dreyman ? 	Имал ли е някакви контакти с Георг Драйман ? 
+1017	- Wouldn 't I have noted it in the report ? 	Щях ли да го пропусна в доклада си ? 
+1018	- Yes , of course . 	- Не , разбира се . 
+1019	But I smell a writer behind this text . 	Tоя текст мирише на писател . Ще съм много изненадан , ако греша . 
+1020	I 'd be astonished if I 'm wrong . 	Добре , бъди нащрек . 
+1021	So keep your ears open ! 	Добре , бъди нащрек . 
+1022	Shit ! 	Мамка му . 
+1023	Get in . 	Качвайте се . 
+1024	If one of your staff deceives you , you punish him , right ? 	Ако служителите Ви мамят , ги наказвате сурово , нали ? Да , да . 
+1025	Sure , sure ! 	И жените също , нали ? 
+1026	Even a woman ? 	И жените също , нали ? 
+1027	Right ? 	Разбира се . 
+1028	But of course ! 	Защото не всеки се подчинява на висшестоящия ... 
+1029	Isn 't everyone who serves a great man part of his staff ? 	Защото не всеки се подчинява на висшестоящия ... 
+1030	You could see it like that ... 	Може да се каже така . 
+1031	Indeed , you 'd have to see it like that . 	Дори трябва да се каже така . 
+1032	This is where she gets her illegal medication . 	Оттам получава незаконни психотропни лекарства . 
+1033	Christa- Maria Sieland . 	Криста- Мария Зиланд . 
+1034	You should know this , it 's your department . 	Мисля , че трябва да го знаете . Това е във Вашата област . 
+1035	It 's up to you whether you ruin her or not , but I never want to see her on a German stage again . 	Дали ще й счупите врата , или не оставям на Вас . Във всеки случай не искам да я виждам повече на театралната сцена . 
+1036	Now get out . 	Сега изчезвайте . 
+1037	Shut the door ! 	
+1038	Ms . 	Госпожо Зиланд , последвайте ни . 
+1039	Sieland ? 	Госпожо Зиланд , последвайте ни . 
+1040	Please follow us . 	
+1041	We have some questions . 	
+1042	Come along . 	
+1043	So ... 	Е , другарко Зиланд ... 
+1044	Comrade Sieland , a beautiful career you had , hm ? 	Като че ли това ще е краят на кариерата Ви . 
+1045	A pity really . 	Бяхте добра . 
+1046	You were good . 	Бяхте дори доста добра . 
+1047	You were very good indeed . 	Бяхте дори доста добра . 
+1048	Just too short- lived . 	Само малко за кратко , нали ? 
+1049	Do have a seat . 	Заповядайте , седнете ! 
+1050	What do actors do when they can 't act anymore ? 	Какво прави една актриса , която повече не играе ? 
+1051	Please ... 	Моля Ви . 
+1052	Isn 't there anything I can do for you ? 	Няма ли нещо , което да мога да направя за Вас ? 
+1053	- For ... 	
+1054	State Security ? 	За Държавна сигурност ? 
+1055	- It 's a little late for that . 	- Малко е късно за това . 
+1056	I know nearly all our artists . 	Познавам почти всички наши творци . 
+1057	I could find out a lot . 	Мога много да ви донеса за тях . 
+1058	I believe you . 	Вярвам Ви , но това няма да Ви помогне . 
+1059	But it won 't help you now . 	Вярвам Ви , но това няма да Ви помогне . 
+1060	Maybe there 's something else I could do ? 	Тогава може би има нещо друго , което мога да направя за Вас . 
+1061	Something we might both find agreeable . 	Нещо , което и на двама ни няма да бъде неприятно . 
+1062	Unfortunately , you 've made an enemy of a very powerful man . 	За съжаление ... как да го кажа ... Спечелихте си един властен мъж за неприятел . 
+1063	Therefore , I have less freedom than would normally be the case . 	Затова съм толкова строг , иначе щеше да е друго . 
+1064	Is there no way I can save myself ? 	Има ли тогава нещо , с което мога да се спася ? 
+1065	I 'm sorry , madam . 	Съжалявам , но не . 
+1066	There is one possibility . 	Всъщност има една работа ... 
+1067	Since you spend so much time with writers and artists ... 	След като сте така обградена от писатели и литератори , дали не знаете случайно нещо за оная статия в " Шпигел " от миналата седмица ? 
+1068	You don 't know anything about an article from this week 's ´Spiegel ' , do you ? 	След като сте така обградена от писатели и литератори , дали не знаете случайно нещо за оная статия в " Шпигел " от миналата седмица ? 
+1069	An article about suicide . 	Статията за самоубийствата ... 
+1070	State Security ! 	Държавна сигурност ! 
+1071	Open the door ! 	Отворете вратата ! 
+1072	Open up ! 	Отворете ! 
+1073	He 's turned on the light in his study . 	Запали лампата в кабинета си . 
+1074	Go in before he destroys any evidence . 	Разбийте вратата , преди да е унищожил доказателствения материал . 
+1075	Crowbar ! 	Дайте лоста . 
+1076	I don 't think that 'll be necessary . 	Не мисля , че е необходимо . Какво има , другари ? 
+1077	- What 's the matter , comrades ? 	- Имаме заповед да претърсиме апартамента Ви . 
+1078	- We have a warrant to search the premises . 	- Имаме заповед да претърсиме апартамента Ви . 
+1079	Warrant is here . 	Ето заповедта . 
+1080	- What are you looking for ? 	Какво търсите ? 
+1081	- It 's confidential . 	- Тайни материали . 
+1082	Boysen , Muller : bedroom . 	Болс и Мюлер : спалнята и коридорите . 
+1083	Greska : kitchen , bathroom , hall . 	Реске : кухнята и спалнята . 
+1084	Heise and Thomas : living room , study . 	Хайзер и Томас : хола и кабинета . Хайде ! 
+1085	Go ! 	
+1086	What do you burn in here ? 	Какво сте горили ? 
+1087	Substandard texts . 	Ненужните текстове . 
+1088	A lot of Western literature , eh ? 	Това е западна литература , нали ? 
+1089	That book was a gift from Margot Honecker . 	Това е книга , подарена ми от Маргот Хонекер . 
+1090	- Status ? 	Какво е положението ? 
+1091	- All according to plan . 	- Всичко върви по плана . 
+1092	We found nothing , except Western books and newspapers . 	Нищо не окрихме . Само няколо тома западна литература и западни вестници . 
+1093	- No trace to be found ! 	Нито следа от търсеното . 
+1094	- Did you search thoroughly ? 	- Претърсихте ли основно ? 
+1095	Yes , Comrade ! 	Тъй верно , другарю подполковник . 
+1096	What 's our next move ? 	Тъй верно , другарю подполковник . 
+1097	- Comrade ? 	Другарю подполковник ? 
+1098	- Pull out your men ! 	- Изтеглете екипа . 
+1099	In the unlikely event that damage has occurred , you may claim compensation . 	Ето адреса на министерството . Ако има нещо счупено , можете да поискате обезщетение . 
+1100	I 'm sure everything 's in perfect order . 	Сигурен съм , че всичко е наред . 
+1101	Yes ? 	Да , моля ? 
+1102	Wiesler , I' ll be expecting you in Hohenschonhausen at 9 a . m . tomorrow . 	Визлер , чакам те утре в 9 ч . в Хоеншонхаузен . 
+1103	Okay , I' ll say what we 're all thinking : 	Ще ти кажа какво смятаме всички ние . 
+1104	It was Christa- Maria . 	Била е Криста- Мария . 
+1105	The Stasi got her , and she ratted on you . 	От Щази са я спипали и тя те е предала . 
+1106	It wasn 't her . 	Не е била тя . 
+1107	How can you be so sure ? 	Откъде знаеш ? 
+1108	You yourself said she wasn 't home last night . 	Сам каза , че снощи не е била с тебе . 
+1109	She knows the hiding place . 	Тя знае скривалището . 
+1110	Yes , she knows . 	Да , знае го . 
+1111	So if you 're right , and the search was due to her , then she 's our guardian angel . 	Ако си прав , че претърсването е било заради нея , тя е нашият най- голям ангел- хранител . 
+1112	I 'm here to see Lt . 	При подполковник Грубиц . 
+1113	Col . 	При подполковник Грубиц . 
+1114	Grubitz . 	
+1115	Captain Wiesler . 	Капитан Визлер . 
+1116	Interrogation room 76 . 	Разпитна номер 76 
+1117	Yes ! 	Да ! 
+1118	Come in . 	Влез ! 
+1119	Sit down . 	Седни . 
+1120	So ? 	Е ? 
+1121	What was that about ? 	Какво означава това ? 
+1122	You 're asking me what that was about ? 	Какво означава ли ? Мене ли питаш ? ! 
+1123	What do you suspect Dreyman of ? 	За какво подозираш Драйман ? 
+1124	He wrote the ´Spiegel´ article . 	Той е авторът на статията в " Шпигел " . 
+1125	Who alleges that ? 	Кой твърди това ? 
+1126	Come with me ! 	Ела . 
+1127	Here . 	
+1128	I don 't know how you could be so sloppy as to miss all of this ! 	Не знам поради каква немарливост всичко това е минало покрай ушите ви . 
+1129	But I know you differently , especially as an interrogator . 	Познавам те и различен ... Като добър разпитвач . 
+1130	So I 'm giving you one last chance . 	Затова ти давам последна възможност . 
+1131	Bring in prisoner 662 , now ! 	Доведете 662 . Веднага . 
+1132	Are you still on the right side ? 	Още ли си на наша страна ? 
+1133	Yes . 	- Тогава не се резили повече . 
+1134	Then don 't screw it up again . 	- Тогава не се резили повече . 
+1135	Shall I restrain the prisoner ? 	Да завържа ли затворничката ? 
+1136	No , she 's an informant now . 	Тя не е повече затворничка , а информатор . 
+1137	You may go . 	Излезте ! 
+1138	So you 're my commanding officer ? 	Значи Вие сте моят командващ офицер ? 
+1139	Write . 	
+1140	Then command me . 	Тогава командвайте ме . 
+1141	In another 10 hours ... 	Още 10 часа . 
+1142	No , in 9 and a half , 	Не , 9, 5 часа всъщност ... 
+1143	Mr . 	
+1144	Roessing will tell the audience that you , for health reasons , cannot appear . 	След което г- н Рьосинг ще излезе пред публиката и ще съобщи , че няма да играете по болест . 
+1145	And that will be your last mention in the acting world . 	И това ще бъде последният път , в който театралните среди говорят за Вас . 
+1146	Is that what you want ? 	Желаете ли това ? 
+1147	Tell us where the evidence is hidden . 	Кажете ни къде е скрит доказателственият материал . 
+1148	There is no evidence , and no typewriter . 	Няма доказаталства . Няма никава пишеща машина . Измислих си го . 
+1149	I made it all up . 	
+1150	I hope not . 	Надявам се , че не . 
+1151	If so , we 'll have to keep you here . 	Защото в такъв случай трябва да задържиме Вас . 
+1152	A false statement is perjury , which carries around 2 years in prison . 	За фалшиви показания при разпит се полагат до 2 години затвор . 
+1153	Dreyman will go to prison anyway , on account of your statement ... and the material we 've already found in the apartment . 	Драйман при всички положения отива в затвора . Затова са достатъчни показанията , които дадохте и материалите , които намерихме в жилището ви . 
+1154	Save yourself , at least . 	Спасете поне себе си . 
+1155	You have no idea how many people are in jail here for senseless heroics . 	Не бихте повярвали колко хора гният в затвора от ненужен героизъм . 
+1156	Don 't forget your audience . 	Помислете за публиката си . 
+1157	" Don 't forget your audience ! " 	" Помислете за публиката си . " 
+1158	He has some funny ideas ! 	Сигурно се шегува . 
+1159	Don 't forget what the state has done for you ... 	Помислете какво е направила държавата за Вас . 
+1160	Your whole life long . 	През целия Ви живот . 
+1161	Now you can do something for the state . 	Сега Вие може да направите нещо за държавата , а тя ще Ви се отблагодари . 
+1162	And it will thank you . 	Сега Вие може да направите нещо за държавата , а тя ще Ви се отблагодари . 
+1163	Tell me where the typewriter 's hidden . 	Кажете ми къде е скрита машината . 
+1164	Dreyman will never find out . 	Драйман никога няма да научи . 
+1165	I' ll let you go immediately , and we 'll strike only after you 're back with him . 	А аз веднага Ви пускам . Ние ще го арестуваме , едва след като се приберете при него . 
+1166	You 'll manage to feign surprise , I 'm sure . 	Знаете как да се направите на изненадана . 
+1167	And tonight you 'll be back on stage . 	А довечера отново сте в театъра ... 
+1168	In your element . 	... в стихията си ... пред Вашата публика . 
+1169	In front of your audience . 	... в стихията си ... пред Вашата публика . 
+1170	Tell me where the documents are . 	Кажете ми къде са документите . 
+1171	Where are they ? 	Къде са ? 
+1172	They 're in the apartment ... 	В апартамента . 
+1173	Under the doorsill , between the living room and the hallway . 	Под прага между хола и антрето . 
+1174	You can remove it . 	Можете да ги вземете . 
+1175	Is this where you mean ? 	Имате предвид тука ? 
+1176	Mark the exact place with a cross . 	Отбележете правилното място . 
+1177	You look worn out . 	Изглеждате изтощена . 
+1178	Remember , you 're an informant now . 	Не забравяйте , че сега Вие сте информатор . 
+1179	That means responsibilities , like conspiracy and confidentiality , but also privileges ... 	Това означава поемането на задължения като тайнственост и конспиративност , но и привилегии . 
+1180	Guard ! 	
+1181	Call Wiesler for me ! 	Повикайте Визлер . 
+1182	Col . 	Капитан Визлер напусна обекта , другарю подполковник . 
+1183	Wiesler has left the premises , comrade . 	Капитан Визлер напусна обекта , другарю подполковник . 
+1184	I see ! 	Така ли ... 
+1185	Alright . 	Добре . 
+1186	Stand down . 	Вие също сте свободен . 
+1187	What does a rider do when he 's thrown ? 	Какво прави рицарят , когато падне от коня ? 
+1188	He gets back on again . 	Яхва го отново . 
+1189	Go inside . 	Прибери се и се наспи . 
+1190	Sleep it off . 	Прибери се и се наспи . 
+1191	What happened has nothing to do with the house . 	Случилото се не се отнася за личния ти живот . 
+1192	No , but with the whole country . 	Не , но отнася се за цялата страна . 
+1193	Christa ! 	Криста ? 
+1194	Stop , I was at Kerschner 's and they had no water . 	Не ме доближавай . Бях у Каршнер и нямаше вода . 
+1195	I need a shower . 	Трябва да се изкъпя . 
+1196	You were in a hurry to get here ! 	Тръгна си доста бързо . - Случаят " Ласло " продължава . 
+1197	- Operation ´Lazlo´ is still in progress ! 	- Двамата в апартамета ли са ? 
+1198	- Are they both inside ? 	- Двамата в апартамета ли са ? 
+1199	Yes . 	- Да . 
+1200	Here 's today´s report . 	Днешният доклад . 
+1201	The last report for Operation ´Lazlo ' . 	Последният доклад по случая " Ласло " . 
+1202	Why didn 't you call me ? 	Защо не ми се обади ? 
+1203	What ? 	Какво ? 
+1204	Why didn 't you call me ? 	Защо не ми звънна ? 
+1205	I was out in the country . 	Бях на село . 
+1206	Can you hand me the nail brush ? 	Подай ми четчицата за нокти . 
+1207	The Stasi was here . 	От Щази бяха тука , претърсиха апартамента . 
+1208	They searched the apartment . 	От Щази бяха тука , претърсиха апартамента . 
+1209	Who was here ? 	Кой е бил тука ? 
+1210	State Security ! 	Държавна сигурност ! Отворете вратата ! 
+1211	Open up ! 	
+1212	Stay here . 	Стой тука . 
+1213	Hello , Comrade Dreyman . 	Добър ден , другарю Драйман . 
+1214	I 'm Lt . 	Добър ден , другарю Драйман . 
+1215	Col . 	Добър ден , другарю Драйман . 
+1216	Grubitz from State Security . 	Подполковник Грубиц от Държавна сигурност . 
+1217	I just wanted to make sure they did a thorough job last night . 	Искам да проверя дали снощи работата е била добре свършена . 
+1218	Your study ? 	Кабинетът Ви ? 
+1219	We 'll start there . 	Да отидеме там , моля . 
+1220	Men , search carefully for notes hidden in the books . 	Прегледайте книгите лист по лист за бележки . 
+1221	Oh , what do we have here ? 	Какво има тука ? 
+1222	This doorsill doesn 't look kosher to me . 	Прагът не ми изглежда съвсем в ред . 
+1223	Could it be ... a secret compartment ? 	Възможно ли е това да е скривалище ? 
+1224	Let her go . 	Оставете я . 
+1225	She 's not a suspect . 	Тя не е заподозряна . 
+1226	The actress ... 	Тая актриса ... 
+1227	I was too weak . 	Бях прекалено слаба . 
+1228	I can never put right what I' ve done wrong . 	Никога не успях да направя нещо добро , както Вие . 
+1229	There 's nothing to put right ! 	Няма какво добро да се направи , разбираш ли . 
+1230	You understand ? 	Няма какво добро да се направи , разбираш ли . 
+1231	Nothing . 	Няма какво добро да се направи , разбираш ли . 
+1232	I moved the ty ... 	Няма . У мене е маши ... 
+1233	Forgive me , forgive me ... 	Прости ми , прости ми ... 
+1234	Forgive me , forgive me ... 	Прости ми , прости ми ... 
+1235	Take your men back to headquarters . 	Прибирайте се в централата . 
+1236	This mission is over . 	Мисията приключи . 
+1237	I' ve concluded the mission , Comrade Dreyman . 	Другарю Драйман , прекратих мисията . 
+1238	We must have received an erroneous tip- off . 	Бяхме получили неверни данни . 
+1239	Sorry . 	Бяхме получили неверни данни . 
+1240	Come on . 	Ела . 
+1241	There 's one thing you should understand , Wiesler . 	Не си прави илюзии , Визлер . 
+1242	Your career is over . 	С кариерата ти е свършено , дори и да излезе достатъчно хитър , за да не оставиш следи . 
+1243	Even if you were too smart to leave any traces . 	С кариерата ти е свършено , дори и да излезе достатъчно хитър , за да не оставиш следи . 
+1244	You 'll end up in some cellar , steam- opening letters until you retire . 	Сега ще разпечатваш пликове в някое мазе до пенсиониране . 
+1245	That means the next 20 years . 	И това през идните 20 години . 
+1246	20 years ! 	20 години . 
+1247	That 's a long time . 	Доста дълго време . 
+1248	" Mikhail Gorbachev elected as leader of the Soviet Union 's Communist Party . " 	Михаил Горбачов избран за Генерален секретар на ЦК на КПСС 
+1249	4 YEARS AND 7 MONTHS LATER 	4 години и 7 месеца по- късно 
+1250	The Wall has come down ! 	Стената е отворена . 
+1251	Yes , the Wall has come down ! 	
+1252	The border guards have opened the gates . 	Границата е отворена . Радостта е неизмерима . 
+1253	The excitement is enormous ! 	Хиляди хора преминават . 
+1254	People are streaming out in thousands ! 	Хиляди хора преминават . 
+1255	It 's unbelievable ! 	Невероятно е . 
+1256	Dear listeners , November 9th , 1989 , will go down in history ! 	Уважаеми слушатели , 9 ноември 1989 ще влезе в историята ... 
+1257	TWO YEARS LATER 	2 години по- късно 
+1258	What 's wrong , my child ? 	Мило дете , какво ти е ? 
+1259	Your Arthur is dead . 	Твоят Артур е мъртъв . 
+1260	Arthur ... 	Твоят Артур е мъртъв . 
+1261	Can 't you be wrong , just this once ? 	Артур ? Да на би да се лъжеш ? 
+1262	I saw him this morning ! 	Сутринта го видях . 
+1263	No , sister . 	
+1264	Believe me . 	Не , сестрици , вярвайте ми . 
+1265	He fell to his death . 	Не , сестрици , вярвайте ми . 
+1266	The loyal men surround him , as you do me , and despite the high sun , cast seven shadows on his noble dead body . 	Доверените хора са около него , както вие около мене , ... и гледат към високото слънце , което хвърля само 7 къси сенки около мъртвото му тяло . 
+1267	Crushed by the mighty wheel . 	Голямото мощно колело го размаза . 
+1268	I see it , though I 'd rather see any other horror . 	Виждам го ... и предпочитам всеки друг ужас пред тоя . 
+1269	Why am I not spared these visions ? 	Но защо това видение не ми е спестено ? 
+1270	Elena ! 	Елена , отивай си в траур . 
+1271	Go home and mourn . 	Елена , отивай си в траур . 
+1272	I will finish your shift . 	Аз ще довърша смяната ти . 
+1273	Too many memories , eh ? 	Много спомени , а ? 
+1274	I couldn 't stay in there either . 	И с мене е така , затова трябваше да изляза . 
+1275	But what 's this I hear ? 	Но какво чувам за Вас ? 
+1276	You 've not written since the Wall fell ? 	Не сте написали нищо след промените . 
+1277	That 's not good . 	Не е добре . 
+1278	After all our country invested in you . 	След всичко , което страната ни вложи във Вас . 
+1279	Although I understand you , Dreyman . 	Като цяло Ви разбирам , Драйман . 
+1280	What is there to write about in this new Germany ? 	Какво има да пишеме в това ФРГ ? 
+1281	Nothing to believe in , nothing to rebel against ... 	Нищо , в което вярваме , нищо , против което да се бориме . 
+1282	Life was good in our little Republic . 	Беше си хубаво в нашата малка република . 
+1283	Many people only realize that now . 	Много го разбират едва сега . 
+1284	- There is one thing I do need to ask you . 	Едно нещо трябва да Ви питам . 
+1285	- Whatever you want . 	- Всичко , скъпи Драйман , всичко . 
+1286	Why was I never under surveillance ? 	Защо не ме подсушвахте ? 
+1287	Everyone else was . 	Всички следяхте . 
+1288	Why not me ? 	А мене защо не ? 
+1289	You were under full surveillance ! 	Вие бяхте изцяло следен . 
+1290	We knew everything about you . 	Знаехме всичко за Вас . 
+1291	Full surveillance ? 	Изцяло следен ли ? 
+1292	Every inch was bugged . 	Целият в " бълхи " , пълна програма . 
+1293	The full program . 	Целият в " бълхи " , пълна програма . 
+1294	Impossible ! 	Не е възможно . 
+1295	Take a look behind your light switches . 	Когато имате възможност , погледнете зад контактите . 
+1296	We knew everything . 	Знаехме всичко ... 
+1297	We knew that you couldn 't give our little Christa what she needed . 	Знаехме дори , че не можете да се погрижите както трябва за нашата малка Криста . 
+1298	To think that people like you once ruled a country ... 	И хора като Вас са ръководили страната ми ... 
+1299	RESEARCH SITE AND MEMORIAL 	Изследователски и възпоменателен център 
+1300	It 'll be a moment , there should be more than one file in your case . 	
+1301	I ordered them chronologically . 	Хронологично са подредени . 
+1302	Old ones at the top , and the newer ones underneath . 	Старите са отгоре , по- новите - отдолу . 
+1303	My respects ! 	Шапка Ви свалям . 
+1304	Operation ´Lazlo ' . 	Оперативна програма " Ласло " срещу Георг Драйман с кодово име " Ласло " . 
+1305	Operation ´Lazlo ' , subject : 	Оперативна програма " Ласло " срещу Георг Драйман с кодово име " Ласло " . 
+1306	Georg Dreyman , code- name ´Lazlo ' , is launched . 	
+1307	The lead came from Minister Bruno Hempf . 	Основания за подозрение , дадени от министър Бруно Хемпф . 
+1308	' Lazlo´ takes delivery of a daily Western newspaper without official permission . 	" Ласло " получава всекидневно без официално разрешение " Франкфуртер Алгемайне Цайтунг " . 
+1309	I suggest not taking any action so as not to arouse suspicion of surveillance . 	Предлагам куриерът и " Ласло " да се оставят необезпокоявани , за да не се предизвикат съмнения . 
+1310	' Lazlo´ and CMS unwrap presents , then presumably have intercourse . 	" Ласло " и КМС разопаковат подаръците . След това вероятен полов акт . 
+1311	The visitor was Paul Hauser 's uncle from West Berlin . 	Посещението е от чичото на Паул Хаузер от Западен Берлин . 
+1312	They tell him about a play that Hauser and ´Lazlo´ will write for the GDR 's 40th anniversary . 	Tе му разказват за пиесата , която Хаузер и " Ласло " подготвят за 40- та годишнина на Републиката . 
+1313	We expect further information on the play , a plot summary etc . 	Очакваме точни планове на подготвяната пиеса : съдържание и т . н . 
+1314	Contents of act 1 : 	Съдържание на Първо действие : 
+1315	Lenin is in constant danger . 	Ленин е в постоянна опасност . 
+1316	Despite increasing external pressure , he sticks to his revolutionary plans . 	Въпреки нарастващото напрежение , той преследва своите революционни планове . 
+1317	Lenin is exhausted . 	Ленин е изтощен . 
+1318	HGW ... 	ХГВ ХХ/ 7 
+1319	HGW XX- 7 ... 	ХГВ XX/ 7 
+1320	I , Christa- Maria Sieland , freely commit myself to work unofficially for State Security . 	Аз , Криста- Мария Зиланд доброволно се съгласявам да работя неофициално за Министерството за държавна сигурност . 
+1321	This decision is the result of my conviction that ... 	Това решение се основава на убедеността ми , че посредством ... 
+1322	Georg Dreyman wrote the ´Spiegel´ article " One Who Made it to the Other Side . " 	Георг Драйман е авторът на статията в " Шпигел " . 
+1323	His accomplices were the journalist Paul Hauser ... 	Съавтори са журналистът Паул Хаузер , Карл Валнер ... 
+1324	Christa Sieland was arrested on March 10th for drug abuse , on Minister Hempf 's indication . 	Криста- Мария Зиланд беше задържана по указание на министър Хемпф на 10 март в 21 ч . заради злоупотреба с психотропни вещества и освободена на 11 март в 13 : 50 ч . , след като посочи , къде са скрити документите на Ласло и стана информатор с прякор " Марта " . 
+1325	She was released at 1 . 50 p . m . on March 11th , having revealed ´Lazlo´s hiding place and signing up as informant ´Marta ' . 	Криста- Мария Зиланд беше задържана по указание на министър Хемпф на 10 март в 21 ч . заради злоупотреба с психотропни вещества и освободена на 11 март в 13 : 50 ч . , след като посочи , къде са скрити документите на Ласло и стана информатор с прякор " Марта " . 
+1326	1 . 50 p . m ... 	13 : 50 ч . ? 
+1327	So when did she ... 	Как тогава е успяла ... ? 
+1328	After the unsuccessful house search of March 11 , 1985 , and ´Marta´s ' fatal accident , 	След неуспешното претърсване на 11 . 03 . 1985 и пътният инцидент , отнел живота на " Марта " , оперативаната разработка " Ласло " беше прекратена . 
+1329	Operation ´Lazlo´ was terminated . 	След неуспешното претърсване на 11 . 03 . 1985 и пътният инцидент , отнел живота на " Марта " , оперативаната разработка " Ласло " беше прекратена . 
+1330	Note : 	
+1331	HGW 's promotion ban takes effect immediately . 	Бележка под линия : Моментална забрана за повишение на ХГВ . 
+1332	Transfer to Dept . 	Премества се в Отдел М . 
+1333	M , with the recommendation not to entrust him with missions under his sole responsibility . 	Заедно с това се предлага оттук насетне да не му се поверяват отговорни задачи . 
+1334	10 : 50 a . m . : 	10 : 50 ч . 
+1335	Resume surveillance outside ´Lazlo´s ' house . 	Предаване на контролния пост на жилището на " Ласло " . 
+1336	At 3 . 10 p . m . , ´Marta´ comes directly from Hohenschonhausen to his apartment . 	В 15 : 10 ч . " Марта " се прибира от Хоеншонхаузен . 
+1337	House search and report to follow . 	Следва претърсване на апартамента . 
+1338	End of Operation ´Lazlo ' . 	Край на разработка " Ласло " . 
+1339	HGW , 3 . 15 p . m . 	Край на разработка " Ласло " . 
+1340	Who is HGW XX- 7 ? 	Кой е ХГВ XX/ 7 ? 
+1341	Stop . 	Спрете ! 
+1342	Back to Hufeland Street . 	Обратно към ул . Уферланд . 
+1343	TWO YEARS LATER 	2 години по- късно 
+1344	" Georg Dreyman " " Sonata for a Good Man " 	Георг Драйман " Соната за добрия човек " 
+1345	" A Novel " " Dedicated to HGW XX- 7 , in gratitude . " 	Посветена на ХГВ XX/ 7 , с благодарност . 
+1346	29, 80 . 	
+1347	Shall I gift- wrap it ? 	29, 80 
+1348	No , it 's for me . 	Желаете ли опаковъчна хартия ? Не , това е за мене . 

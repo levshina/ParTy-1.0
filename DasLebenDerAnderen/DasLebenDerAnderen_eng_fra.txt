@@ -1,0 +1,1349 @@
+0	TEMPORARY DETENTION CENTER MINISTRY FOR STATE SECURITY 	
+1	Stand still . 	Stop . 
+2	Eyes to the floor . 	Baissez le regard . 
+3	Walk on . 	Continuez à marcher . 
+4	TEMPORARY DETENTION CENTER MINISTRY FOR STATE SECURITY 	Prison d' Interrogation du Ministère de la Sécurité de l' État . 
+5	Address him as ´Captain ! ' 	Adressez- vous à lui en tant que as Capitaine . 
+6	Enter . 	Rentrez . 
+7	Sit down . 	Asseyez- vous . 
+8	Hands under your thighs , palms down . 	Mains sous vos cuisses , paumes vers le bas . 
+9	What do you have to tell us ? 	Qu' avez- vous à nous raconter ? 
+10	I' ve done nothing . 	Je n' ai rien fait . 
+11	I know nothing . 	Je ne sais rien . 
+12	You 've done nothing , know nothing ... 	Vous n' avez rien fait , vous ne savez rien . 
+13	You think we imprison people on a whim ? 	Vous pensez que nous arrêtons d' innocents citoyens juste sur un caprice ? 
+14	No ... 	Non , pas ... 
+15	If you think our humanistic system capable of such a thing , that alone would justify your arrest . 	Si vous pensez que notre système humain est capable de quelque chose comme ça , ... ce serait suffisant pour vous arrêter . 
+16	We 'd like to jog your memory , prisoner no . 	Nous voulons mettre votre mémoire à l' essai , Prisonnier 227 : 
+17	227 . 	Nous voulons mettre votre mémoire à l' essai , Prisonnier 227 : 
+18	On September 28th , Dieter Pirmasens , your friend and neighbor , fled to the West . 	Votre ami et voisin a fui la République le 28 septembre . 
+19	We believe that he had help . 	Et nous avons des raisons de penser qu 'il a été aidé . 
+20	I know nothing . 	Je n' en sais rien . 
+21	He didn 't even tell me he wanted to leave . 	Il ne m 'a jamais dit qu 'il voulait s' en aller J' en ai entendu la première fois au travail . 
+22	I first heard about it at work . 	Il ne m 'a jamais dit qu 'il voulait s' en aller J' en ai entendu la première fois au travail . 
+23	Please recount what you did on September 28th . 	Décrivez ce que vous avez fait le 28 septembre . 
+24	- It 's in my statement . 	- C' est déjà enregistré . 
+25	- Tell me again . 	- Encore une fois s' il vous plaît . 
+26	I was at Treptow Park memorial with my children . 	J' ai emmené mes enfants au parc pour marcher , ... rencontré un vieux copain de classe là- bas , Max Kirchner , ... suis allé chez lui et nous avons écouté de la musique jusqu 'à tard dans la nuit . 
+27	Where I met my old friend Max Kirchner . 	J' ai emmené mes enfants au parc pour marcher , ... rencontré un vieux copain de classe là- bas , Max Kirchner , ... suis allé chez lui et nous avons écouté de la musique jusqu 'à tard dans la nuit . 
+28	We went to his place and listened to music until late . 	J' ai emmené mes enfants au parc pour marcher , ... rencontré un vieux copain de classe là- bas , Max Kirchner , ... suis allé chez lui et nous avons écouté de la musique jusqu 'à tard dans la nuit . 
+29	He has a telephone , you can call him to confirm this . 	Il a le téléphone . Vous pouvez l' appeler . Il corroborera tout . 
+30	I can give you the number . 	Je peux heureusement vous donner le numéro . 
+31	The enemies of our state are arrogant . 	L' ennemi de notre État est arrogant . 
+32	Remember that . 	Rappelez- vous en . 
+33	It takes patience . 	Nous devons être patient avec lui , 40 heures de patience .. 
+34	About 40 hours worth . 	Nous devons être patient avec lui , 40 heures de patience .. 
+35	( STASI COLLEGE , POTSDAM- EICHE ) 	Nous devons être patient avec lui , 40 heures de patience .. 
+36	Fast forward ... 	Je passerai rapidement sur certaines parties . 
+37	I want to sleep . 	Je veux dormir . 
+38	Please , let me sleep ! 	Laissez- moi dormir s' il vous plaît . 
+39	Hands under your thighs . 	Mains sous vos cuisses . 
+40	Tell me again what you did on September 28th . 	Veuillez ré expliquer ce que vous faisiez le 28 septembre . 
+41	Please , just one hour , just a little ... a little sleep . 	S' il vous plaît , juste une heure , juste un petit ... juste un petit somme ... 
+42	Tell me again what you did on that day . 	Ré expliquez- moi ce que vous faisiez ce jour- ci 
+43	Why keep him awake for so long ? 	Pourquoi aviez- vous à le garder éveillé si longtemps ? 
+44	It 's ... inhuman . 	Je veux dire , c' est inhumain . 
+45	An innocent prisoner will become more angry by the hour , due to the injustice suffered . 	Un prisonnier innocent se fâche plus chaque heure qu 'il est gardé ici , ... a cause de l' injustice qui lui est faite . 
+46	He will shout and rage . 	Il crie et râle . 
+47	A guilty prisoner becomes more calm and quiet ... 	Un coupable se calme , ne dit plus rien ... ... ou commence à pleurer . 
+48	Or he cries . 	Un coupable se calme , ne dit plus rien ... ... ou commence à pleurer . 
+49	He knows he 's there for a reason . 	Il sait qu 'il est ici à sa place . 
+50	The best way to establish guilt or innocence is non- stop interrogation . ... school friend Max Kirchner . 	Si vous voulez savoir si quelqu 'un est coupable ou pas , ... le meilleur moyen est de continuer à leur demander jusqu 'à ce qu 'il n´en puisse plus . ... copain de classe Max Kirchner . 
+51	We went to his place ... and listened to music until late . 	Nous sommes allés chez lui ... et nous avons écouté de la musique jusqu 'à tard dans la nuit . 
+52	He has a telephone , you can call him to confirm this . 	Il a le téléphone . Vous pouvez l' appeler . Il corroborera tout . 
+53	Do you notice anything about his statement ? 	Quelqu 'un repère quelque chose sur ces propos ? 
+54	It 's the same as at the beginning . 	Il dit presque la même chose 
+55	Exactly the same . 	Il dit exactement la même chose , mot pour mot . 
+56	Word for word . 	Il dit exactement la même chose , mot pour mot . 
+57	People who tell the truth can re- formulate things , and they do . 	Ceux qui disent la vérité peuvent paraphraser n' importe quand . Et ils le font . 
+58	A liar has prepared sentences , which he falls back on when under pressure . 	Un menteur a des phrases particulières sur lesquelles ils revient dans des états de stress aggravé . 
+59	227 is lying . 	227 ment . 
+60	We have two important indicators , and can increase the intensity . 	Nous avons 2 indications importantes , et pouvons donc augmenter l' intensité . 
+61	If you don 't give names , 	Si vous ne me dites pas le nom de la personne qui a aidé , votre femme sera arrêtée ce soir ... ... et vos enfants seront mis dans un centre d' état d´éducation surveillée . 
+62	We 'll have to arrest your wife . 	Si vous ne me dites pas le nom de la personne qui a aidé , votre femme sera arrêtée ce soir ... ... et vos enfants seront mis dans un centre d' état d´éducation surveillée . 
+63	Jan and Nadja will be put into state care . 	Si vous ne me dites pas le nom de la personne qui a aidé , votre femme sera arrêtée ce soir ... ... et vos enfants seront mis dans un centre d' état d´éducation surveillée . 
+64	Is that what you want ? 	Est- ce- que vous voulez ? 
+65	Who was the person who helped him flee ? 	Quel est le nom de la personne ? 
+66	- Glaske ... 	- Glaesker . 
+67	- Again ! 	- Glaesker . 
+68	Speak clearly ! 	- Encore , plus fort . 
+69	Glaske ... 	Glaesker . 
+70	Werner Glaske . 	Werner Glaesker . 
+71	Werner ... 	Werner ... Glaesker . 
+72	Glaske . 	Werner ... Glaesker . 
+73	Quiet ! 	Silence . 
+74	Quiet ! 	Silence ! 
+75	Listen ! 	Écoutez 
+76	Does anyone know what that is ? 	Est- ce- que quelqu 'un peut me dire ce que c' est ? 
+77	It 's the odor sample for the dogs . 	Les odeurs préservées pour les chiens . 
+78	It must be collected at every interrogation . 	Il faut les retirer après chaque interrogatoire , ne jamais les laisser . 
+79	Never forget it ! 	Il faut les retirer après chaque interrogatoire , ne jamais les laisser . 
+80	Your subjects are enemies of Socialism . 	En interrogatoire , vous travaillez avec des ennemis du Socialisme . 
+81	Never forget that ! 	Ne l' oubliez pas . 
+82	Goodbye . 	Bonne journée . 
+83	That was good , really good . 	C' était bon ! C' était vraiment bon . 
+84	You remember how we sat there 20 years ago ? 	C' était comment , ... lorsque nous étions assis ensemble ici il y a 20ans ? 
+85	They 've offered me a professorship . 	Tu sais , ils m' ont proposé un travail de prof . 
+86	Life 's not about good grades , though mine weren 't that bad , thanks to you . 	Tu vois , les notes n' ont que peu d' importance dans le vrai monde , même si les miennes n' étaient pas si mal . 
+87	So what 's up ? 	Quel est ton ordre du jour ? 
+88	Why do you always think I 'm scheming ? 	Pourquoi dois- tu toujours penser que j' ai un ordre du jour caché ? 
+89	- I wanted to invite you to the theater . 	- Je voulais juste t' inviter au théâtre - Au théâtre ? 
+90	- The theater ? 	- Je voulais juste t' inviter au théâtre - Au théâtre ? 
+91	I heard that Minister Hempf is going . 	J' ai entendu que le Ministre Bruno Hempf sera là- bas ce soir . 
+92	As head of the Culture Department , I should show my face . 	Je dois y aller en tant que chef du Département de la Culture . 
+93	It starts at 7 p . m . 	Ça commence à 19h . 
+94	We should get going . 	On devrait y aller . 
+95	THE LIVES OF OTHERS 	La Vie des autres 
+96	Minister Hempf at one o' clock . 	Ministre Bruno Hempf , à 1h . 
+97	He used to be in State Security , you know . 	Il travaillait pour le Ministère , avant d' être appelé au Comité Central . 
+98	He really cleaned up the theater scene . 	Il a nettoyé le plancher de la scène théâtrale dans le temps . 
+99	Georg Dreyman , the writer . 	Georg Dreyman , le poète . 
+100	An arrogant type , the kind I warn my students about . 	C' est le genre d' homme arrogant dont je préviens mes étudiants . 
+101	But he 's loyal . 	Arrogant , mais loyal . 
+102	If they were all like him , I 'd be out of a job . 	Si tout le monde était comme lui , je serais au chômage 
+103	He 's our only non- subversive writer who is also read in the West . 	C' est notre seul auteur sans soupçons , et il est toujours lu à l' ouest . 
+104	He thinks the GDR is the greatest country on earth . 	Pour lui , la DDR est le meilleur pays du monde . 
+105	It starts . 	Fais- toi ta propre idée . 
+106	What 's wrong , my child ? 	Ma pauvre , que ce passe- t- il ? 
+107	A new vision ? 	Une nouvelle vision ? 
+108	Speak , Marta ! 	Dis quelque chose , Martha ! 
+109	Speak ! 	Dis quelque chose , Martha ! 
+110	Your Arthur ... is dead . 	S' il te plaît ! Ton Arthur ... ... ne vis plus . 
+111	Arthur ? 	Arthur ? 
+112	Can 't you be wrong , just this once ? 	Ne serait- ce pas possible que tu te trompes cette fois- ci ? 
+113	No , sister . 	Non , mes soeurs , croyez- moi . 
+114	Believe me . 	Non , mes soeurs , croyez- moi . 
+115	He fell to his death . 	Il est mort . 
+116	Crushed by the mighty wheel . 	La roue puissante l 'a fait entrer en terre . 
+117	I see it , though I 'd rather see any other horror . 	Je le vois , ... et préférerai voir n' importe quelle autre horreur . 
+118	Why am I not spared these visions ? 	Pourquoi ne suis- je pas épargnée de cette vision ? 
+119	Elena ! 	Elena , rentre à la maison . 
+120	Go home ... and mourn . 	Elena , rentre à la maison . 
+121	I' ll finish your shift . 	Elena , rentre à la maison . 
+122	Did you like it ? 	Alors , t' as aimé ? 
+123	Dreyman 's good , eh ? 	Dreyman est bon , non ? 
+124	I 'd have him monitored . 	Je vais le faire surveiller . 
+125	Monitored ? 	Surveiller ? 
+126	All that teaching is ruining your instincts . 	Ton cours corrompt tes instincts , Wiesler . 
+127	I could oversee it myself . 	Ce sera même l' homme principal . 
+128	He 's clean , I tell you . 	Je te dis qu 'il est plus propre que propre . 
+129	Even Hempf likes him . 	Même Hempf est venu à sa première . 
+130	We 'd be shooting ourselves in the foot . 	Si tu surveille quelqu 'un comme lui , tu mords la main qui nourrit . 
+131	I 'm going down . 	Je descends pour une seconde . 
+132	" Faces of Love " 	" Visages d' Amour " 
+133	I hear a lot about your work . 	J' entends beaucoup parler de votre travail . 
+134	They say culture 's in good hands . 	Ils disent " notre culture est entre de bonne mains " . 
+135	Your name is mentioned in Party circles . 	Votre nom est souvent mentionné au parti . 
+136	We 're the Party 's ´shield and sword ' . 	Nous sommes " le bouclier et l' épée du parti " , Ministre 
+137	I 'm aware of that at all times . 	Nous en sommes conscients à tous moments . 
+138	What do you make of him ? 	Que pensez- vous de lui ? 
+139	Of Georg Dreyman ? 	Georg Dreyman ? 
+140	Maybe ... 	Peut- être ... 
+141	Maybe what ? 	Peut- être quoi ? 
+142	Maybe he 's not as clean as he seems . 	Peut- être qu 'il n´est pas ... aussi propre qu 'il en a l' air . 
+143	Grubitz ! 	Grubitz , c' est pour cela que des gens comme vous et moi sont au sommet . 
+144	That 's why you and I are on top . 	Grubitz , c' est pour cela que des gens comme vous et moi sont au sommet . 
+145	Your average Stasi chump would have said , 	Le schnock standard de la Stasi aurait dit : 
+146	" One of our best ! 	" C' est l´un des meilleurs de ce pays , loyal " , toute cette merde ... mais nous voyons plus . 
+147	So loyal ! " etc . 	" C' est l´un des meilleurs de ce pays , loyal " , toute cette merde ... mais nous voyons plus . 
+148	But we can see more . 	" C' est l´un des meilleurs de ce pays , loyal " , toute cette merde ... mais nous voyons plus . 
+149	You 're heading to the very top , Grubitz . 	Vous pourriez monter l' échelle , Grubitz . 
+150	There 's something fishy about him . 	Il y a quelque chose de louche chez lui , je le sens dans mes entrailles , et ça ne ment pas . 
+151	I can feel it in my gut . 	Il y a quelque chose de louche chez lui , je le sens dans mes entrailles , et ça ne ment pas . 
+152	Dreyman 's having a party next week . 	La semaine prochaine , jeudi , il y a une fête chez Dreyman . 
+153	Some dubious types are going , Hauser and that rabble . 	Quelques personnes louches y vont , Hauser et toute cette vermine . 
+154	Try to wire the place discreetly by then . 	Essayez d' organiser quelque chose d' ici là , ... quelque chose de petit et discret , procédures A et B . 
+155	Measures A and B . 	Essayez d' organiser quelque chose d' ici là , ... quelque chose de petit et discret , procédures A et B . 
+156	Only in his rooms . 	Juste son appartement , rien de flashy . 
+157	Nothing conspicuous . 	Juste son appartement , rien de flashy . 
+158	He has powerful friends . 	Il a des amis puissants . 
+159	No one is to know about this until we 've found something . 	Personne ne doit rien en savoir avant que nous n' ayons trouvé quelque chose . 
+160	But if you get something on him , you 'll have a good friend in the Central Committee . 	Et quand vous aurez trouvé quelque chose contre lui , vous aurez un ami important au Comité Central . 
+161	You understand what I 'm saying ? 	Vous voyez ce que je veux dire ? 
+162	Have a nice evening , Comrade Minister . 	Ministre , passez une bonne soirée . 
+163	Why is he staring at us ? 	Pourquoi est- il encore en train de regarder ? 
+164	What 's he doing here , anyway ? 	Que fait- il ici de toute façon ? 
+165	I think he 's got a crush on you . 	Je pense qu 'il t´aime bien . 
+166	I can 't let the evening pass without raising a toast to our artists . 	J' insiste pour proposer un toast ce soir à notre communauté culturelle . 
+167	A great Socialist , I can 't recall who it was , once said : 	Un socialiste connu a dit une fois : 
+168	Writers are engineers of the soul . 	" Le poète est l' ingénieur de l' âme . " 
+169	So Georg Dreyman is one of our country 's greatest engineers . 	Et Georg Dreyman est un des ingénieurs les plus importants de notre pays . 
+170	- What charming bed- fellows you have . 	- Camarades charmants . - Paul ! Arrête ça . 
+171	- Paul ! 	
+172	And to Christa- Maria Sieland , the loveliest pearl of the GDR . 	Et bien sûr Christa- Maria Sieland . Elle est la plus jolie perle de la DDR . 
+173	I believe that nobody contradict my opinion . 	Je n' accepterai aucune objection à cela . 
+174	Let 's raise our glasses to Christa- Maria Sieland : 	Donc , veuillez s' il vous plaît lever vos verres et porter un toast à Christa- Maria Sieland . 
+175	Three cheers to her . 	Vivez longtemps ! 
+176	Someone like him doesn 't even deserve to address you . 	- Le fait que quelque comme lui puisse parler de toi .. 
+177	Stay with me ! 	- S' il te plaît , reste ici . 
+178	And now something for the soul ... 	Et maintenant , un autre numéro qui bouge 
+179	May I ? 	Puis- je ? 
+180	- How did you like my speech ? 	- Comment avez- vous apprécié mon petit speech ? 
+181	- Many thanks . 	- Merci beaucoup . 
+182	I liked your play too . 	J' ai apprécié votre pièce aussi . 
+183	Really , it was good . 	Vraiment , c' était bon . 
+184	" Engineers of the soul . " 	" Ingénieur de l' âme . " 
+185	That was a Stalin quote . 	C' était Staline que vous citiez . 
+186	Really ? 	Ah vraiment ? 
+187	I , too , like to provoke , Mr . 	Bien , j' aime provoquer de temps en temps , Hauser . 
+188	Hauser . 	Bien , j' aime provoquer de temps en temps , Hauser . 
+189	But unlike you , I know how far I can go . 	Mais de l' autre côté , je sais jusqu 'à où je peux aller . 
+190	I 'm more like our dear Dreyman . 	Dans ce sens , je suis plus comme notre cher Dreyman . 
+191	He knows that the Party needs artists , but that artists need the Party even more . 	Il sait que le parti a besoin de l' artiste , mais que l' artiste a besoin du parti encore plus . 
+192	If you 're going to talk politics , I' ll find another dance partner . 	Si vous voulez parler de politique , je dois aller chercher quelqu 'un d´autre pour danser 
+193	- I 'm willing . 	- Je suis prêt . 
+194	- Too late ! 	- Trop tard , trop tard . 
+195	I follow our theater with interest . 	J' ai suivi la progression de votre théâtre depuis un certain temps . 
+196	It used to be theater people ... 	- Vous ne les avez pas suivi professionnellement auparavant ? 
+197	- Paul ! 	- Vous ne les avez pas suivi professionnellement auparavant ? 
+198	- It 's okay , 	- Paul ! C' est bon , Herr Dreyman . 
+199	I' ve known Mr . 	On se connaît depuis un certain temps . 
+200	Hauser for years . 	On se connaît depuis un certain temps . 
+201	Comrade Schwalber ! 	Herr Schweiber . 
+202	You did a good job tonight too . 	Vous avez fait un beau boulot ce soir aussi . 
+203	Dreyman , I 'm glad you 're working with such directors . 	Dreyman , je suis content que vous travailliez avec de tels directeurs maintenant . 
+204	It wasn 't always so . 	Il y avait d' autres époque où ... 
+205	You 're referring to Jerska ? 	Vous voulez parler de Jerska ? 
+206	I think you judged him too harshly . 	Je pense que vous l' avez condamné trop sévèrement . 
+207	Sure , he went too far in what he said . 	Bien sur . Sa déclaration a dépassé la ligne . 
+208	Without a doubt . 	Pas de doutes . 
+209	But put yourself in his shoes for a moment . 	Mais ... ... mettez- vous à sa position pour une minute , vous en tant qu' homme de votre parole . 
+210	You , as a man of honor . 	Mais ... ... mettez- vous à sa position pour une minute , vous en tant qu' homme de votre parole . 
+211	He can 't remove his name from that statement . 	Il ne peut retirer sa signature de cette déclaration . 
+212	He could work for any theater in the West . 	Camarade Hempf , cet homme pourrait travailler dans n' importe quel théâtre à l' ouest . 
+213	But he wants to stay here . 	Mais il ne veut pas partir , car il croit fermement au Socialisme et à ce pays . 
+214	Because he believes in Socialism and in this country . 	Mais il ne veut pas partir , car il croit fermement au Socialisme et à ce pays . 
+215	- His black- listing is ... 	- Son interdiction de carrière est absolument ... 
+216	- Black- listing ? 	- Qui a dit quelque chose à propos d' une interdiction de carrière ? 
+217	We don 't do that here ! 	Cela n' existe pas ici . 
+218	You should choose your words more carefully . 	Vous devriez choisir vos mots plus soigneusement . 
+219	Comrade Hempf , just between us : 	Camarade Hempf , je vous le dit maintenant : 
+220	My plays are not strong enough to survive Schwalber 's direction . 	Mes représentations ne sont pas aussi bonne au point que quelqu 'un tel que Schweiber puisse les diriger . 
+221	I need Jerska , and I think you judged him too harshly . 	J' ai besoin de Jerska . - Et je pense que vous l' avez condamné trop fortement ... 
+222	Well , I don 't . 	- Voyez . Je ne pense pas . 
+223	But that 's what we all love about your plays . 	Mais c' est ce que nous aimons tous à propos de vos pièces . 
+224	Your love for mankind ... your belief that people can change . 	L' amour de l' homme , les bonnes personnes , ... qui croient que quelqu 'un peut changer . 
+225	Dreyman , no matter how often you say it in your plays , people do not change ! 	Dreyman ... ... peut importe combien de fois vous écrivez ça dans vos pièces , ... les gens ne changent pas . 
+226	How is he , by the way ? 	Comment va- t- il d' ailleurs ? 
+227	He hopes that his black - ... that he can work again soon . 	Il espérait que son interdiction de car ... ... qu 'il serait bientôt autorisé à retravailler . 
+228	Is he right in hoping ? 	- Peut- il espérer ? 
+229	Of course he is . 	- Bien sûr . 
+230	As long as he lives , and even longer . 	Aussi longtemps qu 'il vive , et même plus longtemps 
+231	Because as you know , Dreyman , hope always dies last . 	Comme vous le savez Dreyman , " L' espoir est la dernière chose à mourir . " 
+232	The team will be ready to wire the place as of tomorrow . 	L' équipe technique sera prête demain matin pour la pose des écoutes . 
+233	It needs to be finished by Thursday . 	C' est important que tout soit fait pour jeudi . 
+234	You should plan everything carefully . 	Tout dépend de vous . 
+235	Think you can do it ? 	Vous y arriverez ? 
+236	Good night . 	Bonne nuit . 
+237	I' ll get in trouble if I don 't go . 	Je dois y aller , sinon j' aurais des ennuis . 
+238	- With who ? 	Je dois y aller , sinon j' aurais des ennuis . 
+239	- My girlfriend . 	- Par qui ? 
+240	Twenty minutes . 	20 minutes . 
+241	Yes ? 	Oui ? 
+242	Frau Meineke ... 	Frau Meineke , un mot à n' importe qui ... ... et votre Marscha perd son acceptation à l' école médicale 
+243	One word of this to anyone , and Masha loses her spot at the university . 	Frau Meineke , un mot à n' importe qui ... ... et votre Marscha perd son acceptation à l' école médicale 
+244	Is that understood ? 	On se comprends ? 
+245	Yes . 	Oui . 
+246	Send Mrs . 	Envoyez Frau Meineke un cadeau de remerciement pour son silence . 
+247	Meineke a gift for her cooperation . 	Envoyez Frau Meineke un cadeau de remerciement pour son silence . 
+248	It must be Thursday again . 	Déjà jeudi . 
+249	Time passes so quickly ... 	Le temps va trop vite . 
+250	Perhaps that 's a good thing . 	C' est mieux ainsi . 
+251	- How are you ? 	- Comment vas- tu ? 
+252	- Not bad . 	- Pas trop mal . 
+253	It 's not always this noisy . 	Ce n' est pas toujours aussi bruyant . 
+254	Only on Thursdays , I know . 	Je sais , juste les jeudis . 
+255	Yes . 	Ouais . 
+256	We missed you at the premiere . 	- Tu nous a manqué à la première . 
+257	Did Schwalber do a good job ? 	- Schweiber a une bonne épiphanie ? 
+258	His good bits were stolen from you . 	- Ce qui était bon , il te l 'a volé . 
+259	That keeps my ideas alive . 	- C' est comme ça que mes idées restent vivantes . 
+260	Don 't bear it . 	Ne me prends pas mal , mais je ne peux supporter la vision des ces gros à une telle première . 
+261	I can 't bear those fat , dressed- up people at premieres anymore . 	Ne me prends pas mal , mais je ne peux supporter la vision des ces gros à une telle première . 
+262	Doesn 't sound like me , does it ? 	Ça ne me ressemble pas , non ? 
+263	But maybe this is the real me , not the old Jerska . 	Mais peut- être que si après tout . 
+264	He was friendly and caring , nourished by success ... all thanks to the grace of the bigwigs . 	Peut- être que ce n' était pas le vrai moi avant ... amical et gentil avec les gens en dehors du succès , ... à cause duquel je suis redevable aux grands pontes pour leur pitié . 
+265	But I won 't complain much longer . 	Mais je vais arrêter de me plaindre . 
+266	In my next life , I' ll simply be an author . 	Dans ma prochaine vie , je veux être un écrivain , un écrivain heureux qui peut écrire tout le temps . 
+267	A happy author who can write whenever he wants . 	Dans ma prochaine vie , je veux être un écrivain , un écrivain heureux qui peut écrire tout le temps . 
+268	Like you . 	Comme toi . 
+269	What is a director if he can 't direct ? 	Qu 'a un directeur s' il n´est pas autorisé à diriger ? 
+270	He 's a projectionist without a film , a miller without corn . 	Rien de plus qu 'un projectionniste sans films , un meunier sans farine . Il ne lui reste rien . 
+271	He is nothing . 	
+272	Nothing at all . 	Reste rien ... 
+273	Albert , the Minister was at the premiere . 	Albert , le Ministre était aussi à la première . 
+274	Minister Hempf . 	Ministre Hempf . 
+275	I spoke to him about your blacklisting . 	Je lui ai parlé à propos de ton interdiction . 
+276	It looks promising . 	Ça a l' air bien . 
+277	He gave me hope , concrete hope . 	Il m 'a donné un peu d' espoir , il était très littéral , très spécifique . 
+278	Literally . 	Il m 'a donné un peu d' espoir , il était très littéral , très spécifique . 
+279	Really ? 	Vraiment ? 
+280	That 's great . 	C' est gentil . 
+281	Cheap Georgian wine . 	Jerska , le connaisseur de vins . 
+282	Chateau Jerska . 	Jerska , le connaisseur de vins . 
+283	So is our holy drinker coming ? 	Et comment va notre sacré buveur ? Il vient ? 
+284	I forgot to ask him . 	J' ai oublié de lui demander . 
+285	You 're strong and forceful . 	Tu es vigoureux et fort . 
+286	That 's how I need you . 	Et j' ai besoin de toi . 
+287	Don 't let this blackness into your life . 	- Ne ramène pas ce cycle destructif dans notre vie . 
+288	- Albert is my friend . 	- Albert est mon ami . 
+289	- And you 're my boyfriend . 	- Et tu es le mien aussi . 
+290	Looks like a 50th . 	Ça ressemble à quelque chose pour un anniversaire de 50 ans . 
+291	But I 'm going to be 40 , right ? 	Je n' ai que 40 , non ? 
+292	Don 't forget , you promised to wear a tie for your birthday . 	N' oublie pas . Tu as promis de porter une cravate pour ton anniversaire . 
+293	I would , but I don 't have one . 	Je devrais , mais je n' en ai pas . 
+294	Bon anniversaire ! 	Bon anniversaire ! 
+295	Atie ? 	- Une cravate ? 
+296	You said you didn 't want any books . 	- Tu avais dit que tu ne voulais pas de livres . 
+297	Or can 't you tie a tie , you old working- class poet ? 	Ou tu ne sais pas nouer de cravate , vieux poète travailleur ? 
+298	What ? 	Tu pense que je ne sais pas nouer une cravate ? 
+299	I was born wearing a tie ! 	Je suis né avec une cravate . 
+300	I had to " fight my way out of my middle- class fetters " . 	Tu as oublié , je devais me libérer de cette chaîne de la classe moyenne . 
+301	Then put those fetters on again , just for me . 	Alors ré- attache- y toi juste une fois pour moi . 
+302	Alright ... 	
+303	It 's no big deal to tie a tie . 	Nouer une cravate Un détail mineur . 
+304	Frau Meineke , would you come in for a moment ! 	Frau Meineke , venez ici pour une seconde . 
+305	Can you tie a tie ? 	Vous savez nouer une cravate ? 
+306	You 've no idea how thankful I am . 	Vous ne pouvez imaginer à quel point je vous suis reconnaissant . 
+307	- Are you feeling unwell ? 	- Quelque chose ne va pas ? 
+308	- No ... 	- Quelque chose ne va pas ? 
+309	I 'm feeling fine . 	- Non , je vais bien . 
+310	Finished ? 	Fini ? 
+311	Wonderful . 	Bien ! 
+312	It 's perfect . 	C' est parfait . 
+313	It couldn 't be better . 	Ça ne pourrait pas être mieux . 
+314	It 'll be our secret . 	Mais cela doit rester notre secret . 
+315	You can keep a secret , right ? 	Vous pouvez garder un secret , non ? 
+316	Of course . 	Oui . 
+317	I' ll be damned ! 	Ouh ! 
+318	And I thought you couldn 't do it . 	Je ne croyais vraiment pas que tu pouvais le faire . 
+319	You don 't normally hide your talents . 	Tu ne dis pas tout quand à ce que tu sais faire . 
+320	You 've no idea of the things I can do ! 	Tu ne savais simplement pas que je peux faire pratiquement tout . 
+321	The first guest . 	Notre premier invité . 
+322	Our dear neighbors locked the main door again . 	Nos chers voisins ont fermé la porte en bas . 
+323	- Can you go ? 	- Tu peux y aller ? 
+324	- Yes , I 'm going . 	- Je suis en route . 
+325	Maestro ! 	Maître ? 
+326	Our humble offerings . 	Notre cadeau . 
+327	- I expressly said no books ! 	J' avais spécifié , pas de livres . 
+328	- But thanks . 	Merci . 
+329	Would you like a drink ? 	Vous voulez boire quelque chose ? 
+330	- A soda . 	- Oui . 
+331	- Vodka for me . 	Un seltzer . - Vodka pour moi . 
+332	I' ll get it . 	J 'y vais . 
+333	Why the hell 's Albert sitting all alone ? 	Qu' est ce qui se passe . Pourquoi Albert est- il assis tout seul ? 
+334	He won 't talk to us . 	Il ne veut pas nous parler . 
+335	He sent us all away . 	Il vient de nous renvoyer . 
+336	I brought you something too . 	Je t' ai amené quelque chose moi aussi . 
+337	- Did you really come here to read ? 	- T' es vraiment venu ici pour lire - C' est du Brecht de toute manière . 
+338	- It is Brecht ! 	- T' es vraiment venu ici pour lire - C' est du Brecht de toute manière . 
+339	I feel like a fraud among these people . 	Je me sens comme un imposteur au milieu de toutes ces personnes . 
+340	A fraud ? 	Imposteur Allez Albert . 
+341	Come off it , Albert ! 	Imposteur Allez Albert . 
+342	You 're losing your grip on reality . 	Tu perd la vision de la réalité . 
+343	You know how we admire you , how everybody admires you . 	Tu sais qu 'on t´admire . Tout le monde t' admire . 
+344	For something I did 10 years ago ... and could probably never do again . 	Ouais , pour quelque chose que j' ai fait il y a 10 ans ... ... et que je ne pourrai probablement jamais refaire . 
+345	My favorite director ! 	Ah . Mon directeur favori . 
+346	Wait ! 	Attendez une seconde , je dois vous parler . 
+347	I need to talk to you a moment . 	Attendez une seconde , je dois vous parler . 
+348	Tell me again how you got into this position . 	Allez mec , explique moi comment tu as fait pour avoir ce job . 
+349	Pure talent . 	Allez mec , explique moi comment tu as fait pour avoir ce job . 
+350	Of course ! 	Ton talent , naturellement . Bien sûr ! 
+351	But what else did you have to do ? 	Mais quoi d' autre as- tu fait ? Hmmm ? 
+352	Everyone knows you 're with the Stasi ! 	Tout le monde sait , tu es de la Stasi , traître . 
+353	- What an outrageous insinuation ! 	- C' est une allégation incroyable . 
+354	- Don 't forget it ! 	- N' oublie pas que ... 
+355	- Paul ! 	- Paul ! 
+356	- What ? 	- Quoi ? 
+357	Excuse my friend , he 's had too much to drink . 	Schweiber , excuse mon ami . Il a trop bu . 
+358	But you know he 's with the Stasi ! 	Que ce passe- t- il avec toi ? Tu sais qu 'il est de la Stasi . 
+359	No , Paul . 	Non , Paul . 
+360	I don 't know that . 	Je ne le sais pas .. 
+361	You 're such an idealist that you 're almost a bigwig . 	T' es tellement un idéaliste misérable , t' es presque un grand ponte . 
+362	It was informers and conformists like that who ruined Albert . 	Qu' est ce que tu pense qui a foutu Jerska si mal ? Des personnes comme ça . 
+363	Spy , betrayer ! 	Narks , traîtres et conformistes . 
+364	If you don 't take a stand , you 're not human ! 	Tu dois choisir ton camps à un moment , sinon tu n' es pas un être humain . 
+365	If you ever want to take action , call . 	Si tu veux y faire quelque chose , appelle- moi . 
+366	If not , we don 't have to meet again . 	Sinon on n 'a plus à se voir . 
+367	Your friends don 't have much taste . 	- Vos amis n' ont que peu de goût , non ? 
+368	That 's really unfair . 	- C' est vraiment injuste . 
+369	Here ! 	Le grattoir pour le dos , par exemple . 
+370	Look at this beautiful backscratcher . 	Le grattoir pour le dos , par exemple . 
+371	That 's a salad fork ! 	C' est magnifique . C' est une cuillère à salade . 
+372	Still , it 's beautiful ... 	Qu' importe . 
+373	And look at this . 	Magnifique . 
+374	I' ll write my new play with this . 	Regarde ça . J' écrirai ma prochaine pièce avec ça . 
+375	You have no taste either ! 	Tu n' as pas de goût non plus . 
+376	I do in some things . 	Pour certaines choses , j' en ai . 
+377	- It 's from Jerska . 	- De la part de Jerska . 
+378	- So he did give you a book ! 	- Il t' as sûrement donné un livre . 
+379	" Sonata for a Good Man " 	" Sonate pour un homme bon " 
+380	" ' Lazlo´ and CMS unwrap presents , then presumably have intercourse . " 	23 : 04 : " Lazlo " et CMS ont déballé des cadeaux Après prob . rapports sexuels . 
+381	You 're late . 	Tu es en retard . 
+382	Sorry , Captain . 	Excusez- moi , Capitaine . 
+383	Those red lights made me lose all of four minutes . 	J' ai été bloqué à un feu rouge , j' ai perdu au moins 4 minutes là- bas . 
+384	You know how it is . 	Vous savez comment c' est . 
+385	They 're already at it ! 	Déjà en train , eh ? J 'y crois pas . 
+386	Unbelievable ! 	Ces artistes ! 
+387	These artists ! 	Ils n' arrêtent pas . 
+388	They 're always at it ! 	Vous savez , collègue , c' est pour ça que je préfère surveiller des artistes plutôt que des prêtres ou des pacifistes . 
+389	That 's why I prefer monitoring artists to priests or peace activists . 	Vous savez , collègue , c' est pour ça que je préfère surveiller des artistes plutôt que des prêtres ou des pacifistes . 
+390	See you tomorrow at 11 a . m . 	A demain , 11h . 
+391	Albert Jerska , operation ´Engerling ' . 	Albert Jerska , le dossier " Engerling " . 
+392	Systematic as usual , Wiesler . 	Wiesler . Systématique comme d' habitude . 
+393	The files will be sent . 	Enlève ton manteau On va dîner 
+394	Let 's have lunch . 	Enlève ton manteau On va dîner 
+395	The BSG Volleyball team will meet at 7 p . m . 	" Volley à 19h ce soir . " 
+396	Did you forget ? 	Tu n' as pas été ici depuis une éternité . 
+397	Bosses sit over there . 	La table des officiers est là- bas . 
+398	Socialism must start somewhere . 	Le socialisme doit bien commencer quelque part . 
+399	About the license plate of the car that brought Ms . 	A propos de ta question sur la limousine qui a ramené Frau Sieland à la maison l' autre soir ... 
+400	Sieland home ... 	A propos de ta question sur la limousine qui a ramené Frau Sieland à la maison l' autre soir ... 
+401	It 's Minister Hempf 's car . 	C' est la voiture de Ministre Hempf . 
+402	Wiesler , we can 't monitor top officials . 	Wiesler , tu n' as pas le droit d' enregistrer des camarades seniors J' ai supprimé la citation de ton rapport . 
+403	I removed the entry in your report . 	Wiesler , tu n' as pas le droit d' enregistrer des camarades seniors J' ai supprimé la citation de ton rapport . 
+404	Nothing written from now on , just oral ! 	La prochaine fois qu 'il y a quelque chose comme ça , fais moi un rapport personnellement , pas par écrit . 
+405	So we 're helping a Committee member get a rival out of the way . 	Nous aidons notre membre du Comité à se débarrasser de son rival . 
+406	You know what this could mean for my career . 	A la lumière de cette nouvelle information , je n' ai pas besoin de te dire ce que ça signifie pour ma carrière . 
+407	And for yours . 	Et pour la tienne . 
+408	If we find something ... 	Si on trouve quelque chose . 
+409	Is that why we joined ? 	C' est pour ça que nous nous sommes engagés ? 
+410	You remember the oath we took ? 	Tu te rappelles de ce que nous avons juré ? 
+411	" We are the Party 's shield and sword . " 	- D' être " le bouclier et l' épée du parti . " 
+412	What is the Party , if not its members ? 	- Et qu' est ce que le parti sinon ses membres . 
+413	And if those members are highly influential , all the better ! 	S' ils ont beaucoup d' influence , tant mieux . 
+414	I' ve got a new one . 	J' en ai une nouvelle . 
+415	Honecker comes into his office , opens the window , sees the sun , and says ... 	Donc , Honecker arrive dans son bureau le matin ... ouvre la fenêtre , regarde le soleil , et dit ... ... eh , qu' est ce qu 'il y a ? 
+416	What 's wrong ? 	Donc , Honecker arrive dans son bureau le matin ... ouvre la fenêtre , regarde le soleil , et dit ... ... eh , qu' est ce qu 'il y a ? 
+417	Oh , excuse me ... 	Oh , excusez moi . C' était ... 
+418	I just ... 	Je suis juste ... 
+419	No , carry on , colleague ! 	Je ... Non , s' il vous plaît , collègue . 
+420	No harm in laughing about the Party Chairman , is there . 	Nous pouvons encore rire de nos officiels . Ne vous inquiétez pas . 
+421	I probably know the joke anyway . 	Je la connais sûrement déjà . 
+422	Come on , tell us ! 	Allez . Racontez- là . 
+423	Well ... 	Bon , Honecker , je veux dire le Secrétaire Général ... voit le soleil et dit : 
+424	Honecker ... 	Bon , Honecker , je veux dire le Secrétaire Général ... voit le soleil et dit : 
+425	I mean , the Comrade General Secretary sees the sun and says , 	Bon , Honecker , je veux dire le Secrétaire Général ... voit le soleil et dit : 
+426	- " Good morning , dear sun ! " 	" Bonjour , cher soleil . " 
+427	- More like , " Good morning , dear sun ! " 	" Bonjour , cher soleil . " 
+428	The sun replies , " Good morning , dear Erich ! " 	Et le soleil répond : " Bonjour , cher Erich . " 
+429	And at noon , Erich goes to the window and says , 	A midi , Erich le voit encore et dit : 
+430	" Good day , dear sun ! " 	" Bonne journée , cher soleil . " 
+431	The sun replies , " Good day , dear Erich ! " 	Et le soleil dit ; " Bonne journée , cher Erich . " 
+432	In the evening , Erich says again , 	Après le travail , Honecker retourne à la fenêtre et dit : 
+433	" Good evening , dear sun ! " and the sun doesn 't reply . 	" Bonsoir , cher soleil . " Mais le soleil ne répond pas . 
+434	" Good evening , dear sun ... " 	Alors il re- dit : 
+435	" What 's wrong ? " he asks . 	" Bonsoir , cher soleil . Que ce passe- t- il ? " 
+436	And the sun replies , 	Et le soleil répond : 
+437	" Screw you , I 'm in the West now ! " 	" Oh fais pas chier , je suis à l' Ouest maintenant . " 
+438	Name ? 	Nom ? 
+439	Rank ? 	Rang ? 
+440	Department ? 	Département ? 
+441	Me ? 	Moi ? 
+442	Stigler . 	Stiegler . 
+443	2nd Lieutenant Axel Stigler . 	Second Lieut . Axel Stiegler . Département M . 
+444	Dept . 	
+445	M . 	
+446	I don 't have to tell you what this means for your career . 	Ne pensez pas que j' ai besoin de dire ce que cela signifie pour votre carrière , ce que vous venez juste de faire . 
+447	Please , Comrade Lieutenant Colonel , I was just ... 	S' il vous plaît ... Lieutenant Colonel ... J' ai juste ... 
+448	You were just deriding the Party ! 	Vous venez juste de vous moquer de notre parti . 
+449	That 's incitement , and likely just the tip of the iceberg ! 	C' était de l' agitation politique . Sûrement juste la partie visible de l' iceberg . 
+450	I will report this to the Minister 's office . 	Je vais faire mon rapport au bureau du Ministre . 
+451	Just kidding ! 	J' étais en train de rigoler ! 
+452	Good one , huh ? 	Plutôt bon , non ? 
+453	But yours was good too . 	La votre était bonne aussi . 
+454	I know a better one though . 	Mais j' en ai une meilleure . 
+455	What 's the difference between Honecker and a phone ? 	Quelle est la différence entre Erich Honecker et un téléphone ? 
+456	None at all . 	Rien . 
+457	Hang up , try again ! 	Raccroche et ré- essaye . 
+458	- No , I have to get home . 	- Hé je dois rentrer à la maison . A plus ! 
+459	- Bye . 	- Bonne nuit . 
+460	Cold ? 	Froid ? 
+461	Christa , you forgot our meeting on Thursday . 	Christa , Christa . Tu as oublié notre rendez- vous de jeudi . 
+462	Or did your poet have two birthdays in a row ? 	Ou ton poète avait deux anniversaires d' affiliée ? 
+463	Come on , get in . 	Allez . 
+464	Get in ! 	Rentre . 
+465	You don 't know what 's good for you . 	Tu ne sais pas ce qui est bon pour toi . 
+466	Don 't worry . 	Ne t' inquiète pas . 
+467	I 'm looking after you . 	Je prendrai bien soin de toi . 
+468	Tell me you don 't need it too . 	Ne me dis pas que tu n' en as pas besoin toi aussi . 
+469	Just say so , and I' ll let you go . 	Juste dis le mot et je te laisse partir tout de suite . 
+470	I 'm meeting someone . 	Je suis déjà occupée . 
+471	Where do you think we 're going ? 	Où crois- tu que je t' amène ? 
+472	I 'm taking you to him ! 	Je t' amène à lui . 
+473	You 'll be there even quicker . 	Tu y seras plus rapidement . 
+474	Time for some bitter truths . 	C' est le moment pour un peu de vérité amère . 
+475	Yes ? 	Ouais ? 
+476	Those idiots ! 	Ces idiots . 
+477	Next Thursday at the Metropol . 	A jeudi prochain . 
+478	Drive ! 	Roule . 
+479	Christa ? 	Christa ? 
+480	Just hold me . 	Serre- moi fort . 
+481	Good evening , comrade ! 	Bonsoir Capitaine . 
+482	You 're 5 minutes late again . 	Vous avez encore 5 minutes de retard . 
+483	Evening . 	Bonsoir . 
+484	11th floor , right corridor . 	11ème étage . Sur la droite . 
+485	I 'm already up here . 	Je suis déjà là . 
+486	How did you get into the building ? 	- Comment êtes- vous rentrée dans le bâtiment ? 
+487	A bunch of you guys live here . 	- Il y a d' autres personnes du Ministère qui habitent ici . 
+488	I don 't think I' ve been here before . 	Je ne pense pas être jamais venue ici . 
+489	No , I don 't think you have . 	Je ne pense pas non plus . 
+490	Well ? 	C' était bon ? 
+491	Was that nice ? 	C' était bon ? 
+492	- Stay awhile . 	- S' il vous plaît , restez encore un peu . 
+493	- I can 't , my next customer is at half- past . 	- Je ne peux pas . J' ai un autre client à 1 : 30 . 
+494	I work on a schedule . 	Je travaille sur rendez- vous . 
+495	At one- thirty ? 	1 : 30 . 
+496	You won 't make it . 	Vous n 'y serez jamais à l' heure . 
+497	Sure I will . 	Si j 'y serais . 
+498	Don 't you worry . 	Ne vous inquiétez pas . 
+499	Book me for longer next time . 	La prochaine fois , réservez pour plus longtemps . 
+500	Bye . 	Au revoir . 
+501	Georg ? 	Georg , vous avez entendu à propos de Hauser ? 
+502	Did you hear about Hauser ? 	Georg , vous avez entendu à propos de Hauser ? 
+503	No , what happened ? 	Non . Quoi ? 
+504	He can 't get a travel permit for his lectures in the West . 	Sa tournée de conférence à l' ouest a été annulée . Il n 'a pas eu son permis de voyager . 
+505	Are you surprised ? 	Tu es surpris ? 
+506	If he acts so arrogantly , he should expect it . 	S' il se comporte de manière si arrogante , il devrait s' attendre à ce que quelque chose de la sorte lui arrive . 
+507	Would you let him go , if you were in their position ? 	Tu l' autoriserai à voyager , si tu étais à leur place ? 
+508	" CMS comes home . 	" ' Lazlo´ soutient l' interdiction de voyage à l' étranger de Hauser . " 
+509	´Lazlo´ approves of Hauser 's foreign travel ban . " 	" ' Lazlo´ soutient l' interdiction de voyage à l' étranger de Hauser . " 
+510	Have you seen my Brecht book ? 	- As- tu vu mon livre jaune de Brecht ? 
+511	- What ? 	- As- tu vu mon livre jaune de Brecht ? 
+512	- My Brecht book . 	- Quoi ? Mon livre de Brecht . 
+513	I don 't know where it is . 	Je ne sais pas où il est . 
+514	Strange . 	Bizarre . 
+515	I could 've sworn ... 	Je n' arrive pas à le trouver . 
+516	One day in blue- moon September , silent under a plum tree , 	" Ce jour de lune bleue de septembre , tranquille sous un jeune prunier , " 
+517	I held her , my silent pale love , in my arms like a fair and lovely dream . 	" Je la tenais là , cet amour silencieux et pale , dans mes bras comme un rêve gracieux " 
+518	Above us in the summer skies was a cloud that caught my eye . 	" Et au dessus de nous dans le ciel d' été , un nuage que je voyais pour la première fois . " 
+519	It was white and so high up . 	" Au dessus blanc et énorme . 
+520	And when I looked up , it was no longer there . 	Et je regardais , mais il n 'y avait aucun signe . " 
+521	- Yes ? 	- Oui ? 
+522	- Georg ? 	- Georg ? 
+523	Wallner here . 	C' est Wallner . 
+524	What 's up ? 	Qu 'y a- t' il ? 
+525	Georg , it 's about Jerska . 	Georg , c' est à propos de Jerska . 
+526	He hanged himself last night . 	Il est mort . Il s' est pendu la nuit dernière . 
+527	Georg ? 	Georg ? 
+528	I 'm going to hang up , okay ? 	Je vais raccrocher , ok ? 
+529	" Sonata for a Good Man " 	
+530	You know what Lenin said about Beethoven 's ´Appassionata ' . 	Je pense à ce qu' avait dit Lenine à propos de l ' " Appassionata " de Beethoven . 
+531	" If I keep listening to it , 	" Je ne peux pas l' écouter , sinon je ne pourrais pas finir la révolution . " 
+532	I won 't finish the revolution . " 	" Je ne peux pas l' écouter , sinon je ne pourrais pas finir la révolution . " 
+533	Can anyone who has heard this music , 	Est- ce- que quelqu 'un qui a écouté cette musique ... vraiment écouté ... encore être une mauvaise personne ? 
+534	I mean truly heard it , really be a bad person ? 	Est- ce- que quelqu 'un qui a écouté cette musique ... vraiment écouté ... encore être une mauvaise personne ? 
+535	Are you really with the Stasi ? 	Tu travaille vraiment pour la Stasi ? 
+536	Do you even know what the Stasi is ? 	Tu sais ce que c' est ? La Stasi ? 
+537	Yes . 	Oui . 
+538	They 're bad men who put people in prison , says my dad . 	Mon papa dit que c' est des méchants hommes qui enferment les gens . 
+539	I see . 	Je vois . 
+540	What 's the name of your ... 	Quel est le nom de ton ... ? 
+541	My what ? 	Mon quoi ? 
+542	Ball ! 	Ton ballon . 
+543	What 's the name of your ball ? 	Quel est le nom de ton ballon ? 
+544	You 're funny ! 	T' es bizarre toi . 
+545	Balls don 't have names . 	Les ballons n' ont pas de nom . 
+546	It 's all in place , Minister . 	Tout arrive , Ministre . 
+547	The latest technology . 	Technologie à la pointe ... sous chaque interrupteur de lumière , même dans les toilettes . 
+548	Behind every light switch , even in the toilet . 	Technologie à la pointe ... sous chaque interrupteur de lumière , même dans les toilettes . 
+549	- Measure C in the hall ... 	- Le foyer est surveillé par la procédure C ... 
+550	- You said you 'd find something ! 	- Vous aviez dit , vous trouveriez quelque chose . 
+551	Find something ! 	Trouvez déjà quelque chose . 
+552	I 'd advise even my worst enemy not to disappoint me . 	Je ne voudrais pas que mon pire ennemi me déçoive . 
+553	Now get out of here ! 	Sortez d' ici . 
+554	Nowack , you 're to watch Christa- Maria . 	Nowack , vous allez surveiller Christa- Maria . 
+555	You 'll report on every minute that she 's not with me . 	Rapportez chaque minute qu' elle n´est pas avec moi . Compris ? 
+556	We revoked Hauser 's travel permit for the culture conference . 	Nous avons interdit le permis de voyage de Hauser . 
+557	Maybe that 'll lead to something . 	Peut- être que ça nous ramènera quelque chose . 
+558	The two of them are very close . 	Ces deux là sont plutôt proches . 
+559	How 's it going between CMS and the Minister ? 	Comment ça se passe entre CMS et le Ministre ? 
+560	They 're meeting tomorrow night , I think . 	Ils se voient demain soir , si j' ai bien saisi leur rythme . 
+561	That 's good ! 	Bien . 
+562	Very good ! 	Nous avons tous les deux beaucoup à gagner de leur histoire d' amour . 
+563	We have a lot to gain from this love story . 	Nous avons tous les deux beaucoup à gagner de leur histoire d' amour . 
+564	Or a lot to lose . 	Ou beaucoup à perdre . 
+565	Don 't forget that . 	Ne l' oublie pas . 
+566	I used to be afraid of just two things : 	Par le passé , j' avais peur de seulement 2 choses : 
+567	Being alone , and not being able to write . 	Être seul et ne pas être capable d' écrire . 
+568	Since Albert 's death , I don 't care about writing or about other people . 	Depuis la mort d' Albert , je m' en fiche d' écrire . Ou des autres personnes . 
+569	All I 'm afraid of now is losing you . 	Maintenant j' ai juste peur d' être sans toi . 
+570	You needn 't be afraid tonight . 	N' aie pas peur de me perdre ce soir . 
+571	I 'm just going out for a few hours . 	- Je sors juste pour une heure . 
+572	Where to ? 	- Je sors juste pour une heure . 
+573	An old classmate 's in town . 	J' ai rendez- vous avec une copine de classe . 
+574	Really , Christa ? 	Vraiment Christa ? 
+575	- Really ? 	- Vraiment ? 
+576	- How dare you ! 	- Qu' est- ce- que tu fais ? 
+577	I know . 	Je sais . 
+578	I know where you 're going . 	Je sais où tu veux aller . 
+579	And I 'm asking you not to go . 	Et je te demande , n 'y vas pas . 
+580	You don 't need him . 	Tu n' as pas besoin de lui . 
+581	You don 't need him . 	Tu n' as pas besoin de lui . 
+582	I know about your medication too . 	Je sais à propos des médicaments , aussi . 
+583	And how little faith you have in your talent . 	Et combien tu ne fais pas confiance à ton art . 
+584	Have faith in me , at least . 	Au moins , fais moi confiance . 
+585	Christa- Maria . 	Christa- Maria ... 
+586	You are a great artist . 	Tu es une grande artiste . 
+587	I know that . 	Je le sais . 
+588	And your audience knows it too . 	Et ton auditoire le sais aussi . 
+589	You don 't need him . 	Tu n' as pas besoin de lui . 
+590	You don 't need him . 	Tu n' as pas besoin de lui . 
+591	Stay here . 	Reste ici . 
+592	Don 't go to him . 	Ne vas pas vers lui . 
+593	No ? 	Non , je n' ai pas besoin de lui , pas besoin de ce système scandaleux . 
+594	Don 't I need him ? 	Non , je n' ai pas besoin de lui , pas besoin de ce système scandaleux . 
+595	Don 't I need this whole system ? 	Non , je n' ai pas besoin de lui , pas besoin de ce système scandaleux . 
+596	What about you ? 	Et toi ? 
+597	Then you don 't need it either . 	Tu n' en as pas besoin non plus , encore moins que moi . 
+598	Or need it even less . 	Tu n' en as pas besoin non plus , encore moins que moi . 
+599	But you get in bed with them too . 	Mais tu es dans le lit avec lui aussi . 
+600	Why do you do it ? 	Pourquoi ? 
+601	Because they can destroy you too , despite your talent and your faith . 	Parce qu' ils peuvent te détruire toi aussi , malgré le talent dont tu n' as encore jamais douté . 
+602	Because they decide what we play , who is to act , and who can direct . 	Parce qu' ils peuvent décider de qui peut jouer et diriger . 
+603	You don 't want to end up like Jerska . 	Tu ne veux pas terminer comme Jerska . 
+604	And neither do I . 	Et je ne le veux pas non plus . 
+605	That 's why I 'm going now . 	Et c' est pour ça que j 'y vais . 
+606	You 're right about so many things , and I want to change so much . 	Tu as raison à propos de beaucoup de choses , je veux faire les choses différemment . 
+607	But I ask you , 	Mais je te demande . 
+608	I implore you : 	Je t' en prie . 
+609	Don 't go ! 	N 'y vas pas .. 
+610	Well , boss , am I on time ? 	Alors chef . A l' heure ? 
+611	Let me guess what those two are doing ... 	Laissez- moi deviner ce qu' ils sont en train de faire . 
+612	Come on , I' ll take over . 	Allez , je vous relève . 
+613	I don 't want you to do overtime because of me . 	Je ne peux pas être tenu responsable que vous fassiez des heures sup à cause de moi . 
+614	" Don 't go through that door . " 	" Ne passe pas cette porte . " 
+615	Where 's she going ? 	Où vas- t- elle ? 
+616	To meet an old classmate . 	Rencontrer une ancienne amie d' école . 
+617	You 'll have my detailed report tomorrow . 	Vous pourrez lire le rapport détaillé demain . 
+618	I can manage . 	Je m' en chargerai . 
+619	Good night . 	Bonne nuit . 
+620	What are you staring at ? 	Tu regardes quoi ? 
+621	Soda water . 	Seltzer . 
+622	No , uh ... 	Non , euh . 
+623	Vodka . 	Vodka . 
+624	Double . 	2 shots . 
+625	Another one . 	Un autre shot . 
+626	Can I have a cognac , please ? 	Amenez- moi un cognac , s' il vous plaît . 
+627	Madam ? 	Ma 'am ? 
+628	Go away , I want to be alone . 	Laissez- moi s' il vous plaît . Je veux être seule . 
+629	Ms . 	Frau Sieland . 
+630	Sieland . 	Frau Sieland . 
+631	Do we know each other ? 	On se connaît ? 
+632	You don 't know me , but I know you . 	Vous ne me connaissez pas , mais moi je vous connais . 
+633	Many people love you for who you are . 	Il y a beaucoup de gens qui vous aiment ... ... parce que vous êtes comme vous êtes . 
+634	- Actors are never ´who they are . ' 	- Jouer , ce n' est par réel . 
+635	- You are . 	- Avec vous ça l' est . 
+636	I' ve seen you on stage . 	Je vous ai vu en scène 
+637	You were more who you are ... 	Vous étiez plus vous même alors , que .. 
+638	than you are now . 	... que vous comme vous êtes maintenant . 
+639	So you know what I 'm like . 	Alors , vous savez comment je suis ? 
+640	I 'm your audience . 	Je suis votre auditoire . 
+641	- I have to go . 	- Je dois y aller . 
+642	- Where to ? 	- Vous allez où ? 
+643	I 'm meeting an old classmate . 	Je rencontre une vieille amie d' école . 
+644	I ... 	Je .. 
+645	You see ? 	Vous voyez ? 
+646	Just now you weren 't being yourself . 	Vous n' étiez pas vous même juste là ? 
+647	No ? 	Non ? 
+648	No . 	Non . 
+649	So you know her well , this Christa- Maria Sieland . 	Vous connaissez cette Christa- Maria Sieland bien . 
+650	What do you think ... 	Vous pensez quoi ? 
+651	Would she hurt someone who loves her above all else ? 	Blesserait- elle quelqu 'un qui l' aime complètement ? 
+652	Would she sell herself for art ? 	Se vendrait- elle pour l' art ? 
+653	For art ? 	Vendre elle- même pour l' art ? 
+654	You already have art . 	Mais elle a l' art déjà . 
+655	That 'd be a bad deal . 	Ça serait un terrible marché . 
+656	You are a great artist . 	vous êtes une grande artiste . 
+657	Don 't you know that ? 	Vous ne le savez pas ? 
+658	And you are a good man . 	Et vous êtes une bonne personne . 
+659	" When I begin my shift , ´Lazlo´ and CMS are arguing about whether CMS should meet her classmate . 	" Quand j' ai repris , ´Lazlo´ et CMS étaient en train de se disputer si CMS devait rejoindre son amie d' école ( point d' interrogation ) . " 
+660	Eventually , she leaves . 	" Au final , elle y est allée . 
+661	' Lazlo´ seems unhappy about this . 	' Lazlo´ ne semblait pas content à propos de cela . " 
+662	But after about 20 minutes , CMS returns , to ´Lazlo´s ' surprise , and mine . 	" Après environ 20 minutes , CMS est retournée à ´Lazlo ' ... " " ... à sa et ma surprise . " 
+663	He seems very happy about this . 	" Il semblait content . 
+664	Vigorous acts of intimacy follow . 	Suivi de l' intimité intense . " 
+665	She says she 'll never leave again . 	" Elle a dit qu' elle ne le quitterai plus jamais . " 
+666	He says repeatedly : 	" Il a répété plusieurs fois : 
+667	´Now I' ll have the strength , now I' ll do something . ' 	" J' ai la force maintenant . Je vais faire quelque chose . " 
+668	This likely refers to writing a new stage play . 	" On suppose ici qu 'il va écrire une nouvelle pièce . " 
+669	In recent weeks , ´Lazlo´s ' playwriting had been plagued by difficulties . 	" La production de pièces de ´Lazlso´ a été difficile ces dernières semaines . " 
+670	What she means by her statement is unclear . 	" Ce que signifie son commentaire est incertain : " 
+671	Perhaps she intends to take better care of his household . 	" Peut- être qu' elle veux s' occuper du foyer de ´Lazlo´ plus qu' auparavant . " 
+672	The rest of the night was peaceful . " 	" Le reste de la nuit fut paisible . " 
+673	Oh , comrade ... uh ... 	Capitaine ... 
+674	It 's just because ... 	C' était juste , euh ... 
+675	He 's sleeping too ... 	C' était juste , euh ... 
+676	Good report . 	Bon rapport . 
+677	Really ? 	Vraiment ? 
+678	I didn 't know he was in such a bad way . 	Je ne savais pas qu 'il allait si mal . 
+679	Neither did I . 	Moi non plus . 
+680	" On One Who Made it to the Other Side : 	" De quelqu 'un qui est passé de l' autre côté : " 
+681	The statistics office on Hans Beimler Street counts everything , knows everything . 	Le bureau supérieur des statistiques de l' état sur la rue Beimler ... compte tout , sais tout : combien de chaussures j' achète par année : 2, 3 ... combien de livres je lis en une année : 
+682	How many shoes I buy a year : 	
+683	2 . 3 . 	
+684	How many books I read a year : 	
+685	3 . 2 . 	
+686	And how many pupils graduate with straight A 's every year : 	3, 2 ... et combien d' étudiants ont leur Abitur [ Bac ] avec une moyenne de 1, 0 : 
+687	6347 . 	3, 2 ... et combien d' étudiants ont leur Abitur [ Bac ] avec une moyenne de 1, 0 : 
+688	But there is one thing they don 't count , maybe because even bureaucrats find it painful , and that 's suicides . 	6 347 . Mais il y a un nombre qui n' est pas comptabilisé , ... peut- être parce qu 'un tel nombre fait mal même aux bureaucrates : les suicides . 
+689	If you call Beimler Street to ask how many people between the Elbe and the Oder , between the Baltic Sea and the Ore Mountains despair drove to their death , our numbers oracle is silent . 	Si vous appeliez le bureau de la rue Beimler et demandiez " Combien de personnes entre les rivières de l' Elbe et l' Oder , " ... entre la mer Baltique et les montagnes à minerai sont poussés à la mort par désespoir ? " 
+690	But it may just note your name for State Security ... 	Notre oracle des nombre reste silencieux , ... et note probablement votre nom complet . ... pour la Sûreté d' Etat , ... ces hommes gris qui s' occupent de la sécurité et du bonheur de notre pays . 
+691	Those grey men who ensure safety in our land ... and happiness . 	Notre oracle des nombre reste silencieux , ... et note probablement votre nom complet . ... pour la Sûreté d' Etat , ... ces hommes gris qui s' occupent de la sécurité et du bonheur de notre pays . 
+692	In 1977 , our country stopped counting suicides . 	Depuis 1977 notre pays à cessé de compter les cas de suicide . 
+693	They called them ´self- murderers ' . 	" Auto- meurtre " . C' est comme ça qu' ils appellent ça . 
+694	But it has nothing to do with murder . 	Cet acte n 'a rien à voir avec le meurtre . 
+695	It knows no bloodlust , no heated passion , it knows only death , the death of all hope . 	Il ne connaît pas l' attrait du sang< . Il ne connaît pas de passion . / i> Il ne connaît que mourir , mourir d' espoir . 
+696	When we stopped counting , only one country in Europe drove more people to their death : 	Il y a 9 ans , lorsque nous avons arrêté de compter les suicides , un seul pays européen avait des taux de suicides plus importants : 
+697	Hungary . 	La Hongrie . 
+698	We came next , the land of ' Real Existing Socialism ' . 	Après eux , c' était nous , le pays du socialisme vivant et respirant . 
+699	One of the uncounted is Albert Jerska , the great director . 	Un de ces non- comptés est Albert Jerska , ... le grand directeur . 
+700	It 's him I want to talk about today ... " 	Aujourd 'hui , je voudrais vous parler de lui . 
+701	I tried to get statistics that show ... ... that State Security operates more effectively than we think ! 	- J' essaie d´avoir quelques statistiques sur ... 
+702	I foolishly rehearsed 	- ... à quel point notre Sûreté d' Etat est plus efficace , comme on le crois généralement . 
+703	my speech for the West in here . 	Je suis bête , je me suis entraîné pour mes conférences ici . 
+704	Since then , I' ve become very musical . 	Depuis lors j' ai acquis un certain goût de la musique . 
+705	We can meet at my place . 	On devrait se voir chez moi ? 
+706	" 3 p . m . , Pankow Memorial " 	" 15 : 00 , Ehrenmal Pankow " 
+707	Well ? 	C' est assez sûr ici ? 
+708	Is this safe enough ? 	C' est assez sûr ici ? 
+709	My own ´bodyguard ' . 	Mon garde du corps personnel . 
+710	I call him Rolf . 	Je l' appelle Rolf . 
+711	That 's probably his name , too . 	C' est d´ailleurs probablement son nom . 
+712	Fire away . 	C' est d´ailleurs probablement son nom . Envoie . 
+713	Here . 	Voilà . 
+714	You want to publish this ? 	Tu veux publier ça ? 
+715	In the West , with your help . 	A l' Ouest . Avec ton aide . Tu m' aideras ? 
+716	Will you help ? 	T' en a parlé à Christa ? 
+717	Have you told Christa ? 	T' en a parlé à Christa ? 
+718	No . 	Non . 
+719	I' ll help you , as long as you don 't tell her anything . 	Bien , je t' aiderai ... à la condition que tu continues à garder ça secret . 
+720	What ? 	Quoi ? 
+721	Georg , it 's for her own protection . 	Georg , c' est pour sa protection . 
+722	This could be right for the ´Spiegel ' . 	C' est quelque chose pour le magazine " Der Spiegel " . 
+723	I 'm friends with an editor there . 	Je suis un bon ami de l' un des directeurs , Gregor Hessenstein . 
+724	Gregor Hessenstein . 	Je suis un bon ami de l' un des directeurs , Gregor Hessenstein . 
+725	Know him ? 	Tu le connais ? 
+726	Not personally . 	- Pas personnellement - Tu dois le rencontrer . 
+727	You have to meet him . 	- Pas personnellement - Tu dois le rencontrer . 
+728	But you can 't publish using your real name . 	Mais publier sous ton nom est totalement impossible . 
+729	Unless your idea of fun is a 48- hour interrogation . 	Sauf si la perspective de 48h d' interrogatoire te semble intéressante . 
+730	I 'm cold ! 	Ouh , il fait froid . 
+731	We could go to my place ? 	Bon , chez moi alors ? 
+732	There 's no State Security at my place ! 	Il n 'y a pas de Stasis qui me surveille . 
+733	A friend of Margot Honecker , winner of the National Award ... 	Si je peux vous rappeler , je suis un ami personnel de Margot Honecker , et un gagnant du Prix National . 
+734	Second class ! 	Gagnant de seconde classe . 
+735	My apartment is clean , I tell you ! 	Je vous dis , chez moi c' est sûr . 
+736	If only we could be sure ... 	Ouais , si on avait un moyen d' en être sûr ... 
+737	I have an idea how we can check your apartment . 	J' ai une idée pour vérifier ton appartement . 
+738	You know my uncle Frank , who visits from West Berlin every Saturday , with his big gold Mercedes . 	Vous savez que mon oncle Frank viens tous les samedis de Berlin Ouest avec sa grosse Mercedes dorée . 
+739	It seems a bit risky to me , Mr . 	Pour Herr Hauser , ça semble plutôt risqué . 
+740	Hauser . 	Pour Herr Hauser , ça semble plutôt risqué . 
+741	Yes , I agree with Georg . 	Ouais , Georg a raison . 
+742	Hiding your nephew under the back seat ? 	Juste démonter le siège arrière et cacher ton neveu en dessous . 
+743	I 'm really not sure . 	Je sais pas , je sais vraiment pas . 
+744	Come on , they won 't search under the seats . 	Croyez- moi les gars , il ne regarderont pas là . 
+745	They 'll look under the axles , tap the exhaust , then I' ll be across . 	Un petit regard sous l' axe , une petite tape sur le pot d' échappement , et c' est bon , je suis passé , et Paul aussi . 
+746	Paul too . 	Un petit regard sous l' axe , une petite tape sur le pot d' échappement , et c' est bon , je suis passé , et Paul aussi . 
+747	The border guards aren 't very bright . 	C' est vraiment pas les plus intelligents à la frontière . 
+748	You 've got the wrong idea there . 	C' est vraiment pas les plus intelligents à la frontière . 
+749	- Which border will you cross ? 	- Tu parle de quelle passage ? 
+750	- Heinrich- Heine Street . 	- La rue Heinrich- Heine . 
+751	Good old Henrich Heine . 	Toujours la rue Heinrich- Heine . 
+752	They know me and my gold Mercedes . 	Les gars me connaissent là- bas , moi et ma Benz dorée . 
+753	I 'm friends with the guards . 	Je suis un bon ami des gardes- frontières . 
+754	Trust me , I' ll call you in 2 hours , a Schultheiss beer in my hand , and report the news : 	Croyez- moi , j' appellerai dans 2 heures avec une bouteille de Schultheiss dans les mains . ... et je vous donnerai le bon message : 
+755	Paul 's across . 	Paul est passé . 
+756	No ! 	
+757	What about Paul 's Stasi man ? 	Et quoi du gars de la Stasi de Paul ? 
+758	Rolf ! 	Rolf , Rolfy ... 
+759	Rolfy , Rolfy ... 	Rolf , Rolfy ... 
+760	He 'll think that Paul 's at home . 	Il croit que Paul est à la maison . 
+761	Okay , I have to go . 	Allez , je dois y aller . 
+762	We wouldn 't want him to suffocate , would we ? 	Sinon mon gars vas suffoquer dans la voiture . Là j' aurais vraiment des soucis , non ? 
+763	Another beer ? 	Tu veux une autre bière ? 
+764	Border control , Heinrich- Heine Street . 	Checkpoint de la rue Heinrich- Heine . 
+765	Who is this ? 	Abonné ? 
+766	Who is this ? 	Abonné ? 
+767	No reply . 	Peu importe . 
+768	Just this once , my friend . 	Juste cette fois- ci , mon ami . 
+769	- Dreyman . 	- Dreyman . 
+770	- Okay , 	- Ok , comme promis , " Paul est passé " . 
+771	Paul 's plan worked ! 	- Ok , comme promis , " Paul est passé " . 
+772	No border control at all ? 	Pas de vérifications ? 
+773	No , no special checks . 	Rien ? Non , rien en dehors de l' ordinaire . 
+774	Those boys aren 't so bad . 	C' est pas des mauvais gars . 
+775	It worked as planned . 	- Donc il est passé . 
+776	Thanks for doing this , Mr . 	- Merci d' avoir fait ça pour nous . 
+777	Hauser . 	- Merci d' avoir fait ça pour nous . 
+778	Forget it , it wasn 't all that dangerous . 	C' est rien . C' était pas si dangereux . 
+779	- Yeah , true . 	Ouais , je suppose que non . 
+780	- Yeah . 	- Ouais bon , merci alors . 
+781	See you soon , and thanks a lot . 	- Ouais bon , merci alors . 
+782	Bye . 	A plus . - A plus . 
+783	What do we do if they ask what we 're doing together ? 	Qu' est ce qu 'on dit , si quelqu 'un nous demande ce qu 'on fait ensemble ? 
+784	Then ... we 'll say 	On dira ..... 
+785	We 'll say we 're writing a stage play together . 	On dira que tu m' aides à écrire une pièce . 
+786	For the GDR 's 40th anniversary . 	Pour le 40ème anniversaire de la DDR . 
+787	Yes ! 	Ouais . 
+788	And it 's kind of true . 	C' est plus ou moins vrai . 
+789	Who 'd have thought our State Security was so incompetent ? 	Qui aurait pensé que notre Sûreté d' Etat était aussi inapte . 
+790	Who 'd have thought they were such idiots ? 	Qui aurait même pensé que de tels idiots existent ! 
+791	Just you wait ... 	Attends voir . 
+792	" 7 . 32 p . m . 	" 19 : 31 : 
+793	No further noteworthy incidents . " 	Plus d' autres incidents notables . " 
+794	Hello , comrade . 	Bonjour Capitaine . 
+795	Listen to this here ! 	Écoutez voir ça . 
+796	Sure , in 1967 there were many suicides . 	Pour ceux à l' Ouest , on sait pourquoi le taux est au maximum en ´67 . 
+797	But why in 1977 ? 	Mais en 1977 , il faut expliquer , clarifier les conditions sociales . 
+798	You must explain . 	Mais en 1977 , il faut expliquer , clarifier les conditions sociales . 
+799	You must describe the social conditions more clearly . 	Mais en 1977 , il faut expliquer , clarifier les conditions sociales . 
+800	It should remain literature , not political agitation . 	Ça doit rester littéraire , pas un pamphlet journalistique ardent . 
+801	The text is great . 	L' article est très bien comme il est maintenant . 
+802	I just want to be sure people understand it in the West . 	Je veux juste être sûr qu 'il sera bien compris de notre côté . 
+803	It 'll cause a sensation either way . 	Ça va faire du remous de toute façon . 
+804	- That 's Hauser ! 	- C' est Hauser . 
+805	- Of course it 's Hauser . 	- Bien sûr que c' est Hauser . 
+806	He 's not in the West ! 	Alors il est pas à l' Oue ... 
+807	They 're writing a play together . 	Ils sont en train d' écrire une pièce ensemble . 
+808	For the 40th anniversary . 	Pour le 40ème anniversaire . 
+809	It doesn 't sound like a play to me . 	Bein , ça me semble pas être une pièce . 
+810	No ? 	A quoi ça ressemble , d' après vous ? 
+811	Then what ? 	A quoi ça ressemble , d' après vous ? 
+812	I don 't know ... but not a play . 	J' en sais rien , mais pas à une pièce . 
+813	You think a lot , Sergeant Leye . 	Vous pensez pas mal , 1er sergent Leier . 
+814	You 're not an intellectual , are you ? 	Êtes- vous un intellectuel ? 
+815	Me ? 	Moi ? 
+816	No ... 	Moi ? 
+817	I 'm not one of those . 	Non . Je suis pas comme ça . 
+818	Then don 't behave like one . 	Alors ne vous comportez pas comme ça . 
+819	I chose you because you know the equipment and don 't ask questions . 	Je vous ai choisi pour cette tâche pour vos compétences techniques , pas pour poser des questions . 
+820	Leave the thinking to your superiors . 	Laissez vos supérieurs faire la réflection . 
+821	Yes , Captain . 	Désolé Capitaine , je vais juste ... euh .. 
+822	I' ll be off , then . 	Désolé Capitaine , je vais juste ... euh .. 
+823	Have a nice day ... of work ... 	Passez une bonne journée , euh très bonne journée . Bon travail . Je veux dire ... 
+824	I mean , I hope you enjoy your work . 	Bonne chance pour le travail . 
+825	Maybe I can re- write this part . 	Je peux sûrement réecire ça . 
+826	I' ll send you all the material we have . 	Je t' enverrai alors ce que j' ai sur ces sujets . 
+827	Can you do it in two weeks ? 	Deux semaines . Ça va ? 
+828	Then I could run it as a cover story for the first week in March . 	Alors je peux mettre ça dans celui de mars , peut- être même en couverture . 
+829	It 's Christa . 	C' est Christa . 
+830	Georg ? 	Georg ? 
+831	Christa , this is Gregor Hessenstein . 	Christa , voici Gregor Hessenstein . 
+832	- Christa Sieland . 	- Christa Sieland . 
+833	- Of course , I know that ! 	- Bien sûr , je sais . 
+834	So , what conspiracy are you cooking up ? 	Alors , vous conspirez quoi les gars ? 
+835	Hauser and I are writing a play for the GDR 's 40th anniversary . 	Hauser et moi voulions écrire une pièce ensemble pour le 40ème anniversaire de la République . 
+836	Together ? 	Écrite à deux ? 
+837	The ´Spiegel´ may do an article on it . 	" Der Spiegel " pourrait faire une revue dessus . Peut- être . 
+838	- And who 'll play the lead role ? 	- Et qui joue le personnage principal ? 
+839	- We planned to ask you . 	- On voulait te le demander . 
+840	Christa , who would you rather play : 	Christa , quel rôle tu préférerai , Lenine ou sa vieille mère ? 
+841	Lenin or his dear old mother ? 	Christa , quel rôle tu préférerai , Lenine ou sa vieille mère ? 
+842	You can choose . 	Tu peux choisir . 
+843	I see I 'm not welcome here . 	Je peux voir que je dérange . 
+844	I' ll go for a nap . 	Je vais faire une sieste . 
+845	Your caution is praiseworthy . 	J' apprécie ta discrétion . 
+846	The fewer people know , the better . 	Moins de personnes sont au courant à propos de ce projet , le mieux c' est . 
+847	The Stasi is not to be toyed with . 	La Stasi ne sont pas des gens avec qui tu veux avoir des problèmes . 
+848	On that note , I brought something for you . 	En parlant de ça , je t' ai amené quelque chose . 
+849	I 'd have preferred the whole pie . 	J' aurais préféré la tarte . 
+850	I already have a typewriter . 	- J' ai déjà une machine à écrire . 
+851	The Stasi can identify its typeface . 	- Qui est documentée par la Stasi . 
+852	If they intercepted the text at the border , for your typewriter using , you 'd end up in Hohenschonhausen . 	Si ce texte est écrit sur ta machine et interceptée à la frontière , ... alors tu seras jeté à Hohenschoenhausen le jour suivant . 
+853	And that 's no fun , as Paul can confirm , right ? 	Et ça c' est pas super . Paul peut te dire , non ? 
+854	I 'm afraid I could only get a red ink ribbon for this model . 	Malheureusement , tout ce que j' ai dans ce mini format est en rouge . 
+855	Do you mind writing it in red ? 	Ça te gène ? D' écrire l´article en rouge ? 
+856	That won 't be a problem . 	Ça devrait pas être un problème . 
+857	Is there somewhere you can hide it ? 	Tu as un endroit où cacher la machine après l' avoir utilisée ? 
+858	- Yes , I' ll find a place . 	- Je suis sûr que je trouverai quelque chose . 
+859	- Don 't take it lightly . 	- Ne prends pas ça à la légère . 
+860	I don 't want my next article to be about your disappearance ! 	Je ne veux pas que le prochain article soit : " Mais où est passé Georg Dreyman ? " . 
+861	Nobody may know that this typewriter exists ! 	Personne d' autre que nous ne sait que cette machine existe . 
+862	Is this apartment really safe ? 	L' appartement est vraiment sûr ? 
+863	Yes . 	Ouais . 
+864	It 's the only place left in the GDR where I can say what I want . 	Cet appartement est le dernier endroit en DDR où je peux dire ce que je veux sans me faire punir . 
+865	Fine , then let 's drink to that ! 	Bien . Alors buvons à ça . 
+866	This is the real stuff . 	La bouteille est vraie . 
+867	To you ! 	A la votre , pour montrer à toute l' Allemagne le vrai visage de la DDR . 
+868	To letting all of Germany see the true face of the GDR ! 	A la votre , pour montrer à toute l' Allemagne le vrai visage de la DDR . 
+869	Cheers . 	A la votre ! 
+870	It 's better than the Russian stuff ! 	C' est meilleur que ceux des Russes . 
+871	To your success ! 	A un grand succès . 
+872	I must see Comrade Grubitz . 	Je dois voir le camarade Grubitz . C' est urgent . 
+873	Tomorrow at 2 . 30 p . m ... 	Je suis désolée , mais le créneau le plus proche est demain à 14 : 30 ... 
+874	Tell him that if he blows the cover , we 'll shut down the entire parish ! 	Si votre informateur est exposé , alors on se débarrassera de toute la congrégation , fermera toute l' église 
+875	It 's easy ! 	C' est aussi simple que ça . 
+876	He can call the Pope and complain ! 	Il a qu 'à appeler le Pape pour se plaindre à lui . 
+877	Okay , I' ve spent enough time on this nonsense . 	Allez , c' est assez . J' en ai assez de tout ce bazar . 
+878	Wiesler , I 'm glad you 're here . 	Wiesler , je suis content que tu sois là . 
+879	I have to show you something . 	J' ai quelque chose à te montrer . 
+880	" Prison Conditions for Subversive Artists Based on Character Profile . " 	" Conditions d' emprisonnement pour des dissidents de Politiques/ Idéologiques de la scène artistique , selon des profils de personnalité " 
+881	Pretty scientific , eh ? 	Plutôt académique , non ? 
+882	And look at this : 	Regarde ça . 
+883	" Dissertation supervisor : 	Dissertation du Professeur Anton Grubitz . 
+884	A . 	Dissertation du Professeur Anton Grubitz . 
+885	Grubitz . " 	Dissertation du Professeur Anton Grubitz . 
+886	That 's great , isn 't it ? 	T' en penses quoi ? 
+887	I only gave him a B ... 	Je leur ai mis un B . 
+888	They shouldn 't think getting a doctorate with me is easy . 	Il ne doivent pas penser qu' obtenir leur doctorat avec moi est facile . ... mais c' est vraiment du très bon boulot . 
+889	But this is first- class . 	Il ne doivent pas penser qu' obtenir leur doctorat avec moi est facile . ... mais c' est vraiment du très bon boulot . 
+890	Did you know that there are just 5 types of artists ? 	Tu savais par exemple qu 'il y a seulement 5 types d' artistes ? 
+891	Your guy , Dreyman , is a type 4 . 	Par exemple , Dreyman . Il est du type 4 : 
+892	A " hysterical anthropocentrist . " 	Anthropocentrique Hystérique 
+893	Can 't bear being alone , always talking , needing friends . 	Peut pas être seul , a toujours le besoin de parler , a des amis partout autour de lui . 
+894	That type should never be brought to trial . 	Tu voudrais pas mettre quelqu 'un comme ça au tribunal . 
+895	They thrive on that . 	Il s 'y épanouirai 
+896	Temporary detention is the best way to deal with them . 	Tout doit être fait comme dans le livre , à l' abri de l' oeil du public . On en a fini plus rapidement comme ça avec lui . 
+897	Complete isolation and no set release date . 	Isolation complète sans lui dire combien de temps il va passer ici . 
+898	No human contact the whole time , not even with the guards . 	Aucun contact , pas même avec les gardes . 
+899	Good treatment , no harassment , no abuse , no scandals ... nothing they could write about later . 	Meilleure façon de traiter avec lui : pas de persécutions , mauvais traitements ou scandales . Rien qu 'il puisse écrire plus tard . 
+900	After 10 months , we release . 	Après 10 mois , on le laisser partir . 
+901	Suddenly . 	A sa surprise . 
+902	That guy won 't cause us any more trouble . 	Ne nous cause plus aucun problèmes . 
+903	Know what the best part is ? 	Tu sais ce qui est le meilleur ? 
+904	Most type 4s we 've processed in this way never write anything again ! 	La plupart de ces Type 4 dont on s' est occupés n' écrivent plus maintenant , ... ou peignent , ou peu importe ce que font les artistes . 
+905	Or paint anything , or whatever artists do ... 	La plupart de ces Type 4 dont on s' est occupés n' écrivent plus maintenant , ... ou peignent , ou peu importe ce que font les artistes . 
+906	And that without any use of force ... 	Et ça sans qu 'on leur mette la pression . 
+907	Just like that ! 	C' est juste .. ... comme on dirait ... leur sort . 
+908	Kind of ... 	C' est juste .. ... comme on dirait ... leur sort . 
+909	like a present . 	C' est juste .. ... comme on dirait ... leur sort . 
+910	What brings you here ? 	Que voulais- tu ? 
+911	Developments with Dreyman ? 	Des nouvelles de Dreyman ? 
+912	That 's why I 'm here . 	Je voulais t' en parler . 
+913	I think the time has come ... 	Je pense que c' est le moment ... 
+914	For what ? 	Moment pour quoi ? ... qu 'on réduise la taille de l' opération . 
+915	For us to slim down the operation . 	Moment pour quoi ? ... qu 'on réduise la taille de l' opération . 
+916	I don 't want to run day and night shifts for such an uncertain case . 	Je ne pense pas que des surveillances jour et nuit sont nécessaires pour une affaire incertaine comme celle- là . 
+917	Uncertain , eh ? 	Incertaine , euh ? 
+918	You don 't think we 'll find anything for the Minister ? 	Donc tu ne penses pas qu 'on trouvera quelque chose pour le Ministre ? 
+919	Maybe if we 're more flexible ... 	Peut- être si l' opération était plus petite et plus mobile , ... si on pouvais trouver des choses sur " Lazlo " en dehors de son appartement . 
+920	If we watch ´Lazlo´ outside his own four walls . 	Peut- être si l' opération était plus petite et plus mobile , ... si on pouvais trouver des choses sur " Lazlo " en dehors de son appartement . 
+921	Shall I give the case to Udo ? 	Je devrais donner le dossier à Udo ? 
+922	I 'd like to continue it myself . 	Je préférerai le prendre moi- même . 
+923	Why ? 	Pourquoi ? 
+924	It could produce results . 	Je pourrais encore trouver quelque chose . je dois pouvoir ... ... entrer et sortir comme je veux , de jour comme de nuit . 
+925	I just need to plan more flexibly , when I come and go , days and nights ... 	Je pourrais encore trouver quelque chose . je dois pouvoir ... ... entrer et sortir comme je veux , de jour comme de nuit . 
+926	Maybe he 's up to something outside . 	Peut- être qu 'il fait quelque chose en dehors de son appartement . 
+927	Something doesn 't feel right here . 	Quelque chose me gène dans cette histoire . 
+928	There 's something you 're hiding . 	Tu ne me dis pas tout . 
+929	Alright , I' ll take Udo off the case . 	Bien , je vais retirer Udo . 
+930	I can use him for this church case . 	Je pourrais en fait l' utiliser dans cette histoire d' Eglise . 
+931	Give me a request in writing . 	Fais- moi la demande par écrit , ... et met " manque de faits suspicieux " comme raison . 
+932	Write as a reason : " Lack of suspicious acts . " 	Fais- moi la demande par écrit , ... et met " manque de faits suspicieux " comme raison . 
+933	And , Wiesler ! 	Et Wiesler ? 
+934	A piece of advice for you : 	Un conseil : 
+935	We 're not at school anymore . 	On n' est plus à l' école maintenant . 
+936	Projects aren 't about grades , but success . 	En projets , ce n' est pas à propos des notes ici , ... mais du succès . 
+937	" The state statistics office counts everything , knows everything . 	la rue Hans Beimler compte tout , sait tout : combien de chaussures j' achète par année : 
+938	How many shoes I buy a year : 	la rue Hans Beimler compte tout , sait tout : combien de chaussures j' achète par année : 
+939	2 . 3 . 	la rue Hans Beimler compte tout , sait tout : combien de chaussures j' achète par année : 
+940	How many books I read a year : 	2, 3 ... combien de livres je lis en une année : 
+941	3 . 2 . 	2, 3 ... combien de livres je lis en une année : 
+942	And how many pupils graduate with straight A 's every year : 	3, 2 ... et combien d' étudiants ont leur Abitur [ Bac ] avec une moyenne de 1, 0 : 6 347 . 
+943	6347 . " 	
+944	" 5 p . m . 	" 17 : 00 : 
+945	Lazlo reads the first act of his anniversary play to Hauser and Wallner . " 	´Lazlo´ lit le premier acte de la pièce anniversaire à Hauser et Wallner . " 
+946	DENTAL PRACTICE 	" Bureau du dentiste 
+947	We 're not writing a play , Christa . 	- On n' est pas en train d' écrire une pièce , Christa . 
+948	You don 't have to tell me . 	- Tu n' as pas à me le dire . 
+949	But I want to . 	- Mais je veux . 
+950	It 's a text ... 	C' est une pièce sur ... 
+951	Don 't tell me . 	- Tu n' as pas à me le dire . 
+952	Maybe I am as unreliable as your friends say . 	Peut- être que je suis aussi peu fiable que le disent tes amis . 
+953	But I ... 	Je suis de ton côté . 
+954	I 'm with you now ... 	Je suis de ton côté . 
+955	No matter what . 	Peu importe ce qui se passe . 
+956	Minister Riesenhuber , author of the report , said there is no quick fix for saving damaged forests . 	
+957	East- West German relations under strain . 	Friction dans les relations Allemandes/ Allemandes . 
+958	' Spiegel´ magazine today published a text by an unnamed East German author about suicide in the German Democratic Republic . 	" Der Spiegel " a publié aujourd 'hui un article d' un auteur anonyme de l' Allemagne de l' Est sur les suicides en DDR . 
+959	This follows a series of suicides by prominent 	Il a été poussé par un certain nombre de suicides d' artistes de Berlin Est , ... le dernier étant le directeur de théâtre Albert Jerska . 
+960	East- Berlin artists , the latest being Albert Jerska . 	Il a été poussé par un certain nombre de suicides d' artistes de Berlin Est , ... le dernier étant le directeur de théâtre Albert Jerska . 
+961	After being blacklisted for 7 years , 	Jerska s' est ôté la vie le 5 janvier de cette année , après une interdiction de carrière de 7 ans . 
+962	Jerska committed suicide on January 5th . 	Jerska s' est ôté la vie le 5 janvier de cette année , après une interdiction de carrière de 7 ans . 
+963	In 1977 , the GDR ceased publishing any data relating to suicides . 	Depuis 1977 , la DDR a arrêté de publier le nombre de suicides . 
+964	That year , Hungary was the only country in Europe with a higher suicide rate . 	En cette année , la Hongrie est le seul pays Européen avec un nombre de suicides plus élevé . 
+965	Yes , Sir ... 	Oui Général , nous avons ... 
+966	But we ... 	Oui , nous avons ... 
+967	General , our man at the ´Spiegel´ got us a photostat of the original . 	Général , nous avons un informateur à " der Spiegel " qui a obtenu une copie originale de l' article . 
+968	Congratulations ! 	- Obtenu ? C' est pas une façon de contrôler les choses . 
+969	So who wrote it ? 	Qui a écrit ce brûlot ? 
+970	He doesn 't know , but using the typeface , we 'll ... 	Il ne savait pas qui est l' auteur . A cause de la police de la machine à écrire , nous pouvons ... 
+971	You 're hopeless ! 	- Vous ne pouvez rien faire . 
+972	Get me names ! 	Donnez- moi des noms . 
+973	I will , as soon as we get the results . 	Général , je le ferai dès que j' aurais trouvé quelque chose . 
+974	If not , you 'll be put against the wall . 	- Je l' espère . Sinon , je vous tuerai moi- même . 
+975	Andrea , where 's the graphologist ? 	Andréa , où est l' expert d´écriture ? 
+976	Thus I conclude that it is a domestic typewriter produced for export , most likely a ´Kolibri´ travel model , made by the VEB Groma . 	En conclusion , la machine à écrire ne peut- être que de type portable . C' est plus que probablement un Colibri 
+977	If the ink were black , I could be more precise . 	Si l' original était en noir , je pourrais le certifier à 100 % . 
+978	Who owns such a typewriter ? 	- Et qui a une machine de ce type ? 
+979	There are none registered in the GDR . 	- C' est très peu utilisé dans notre république . 
+980	What does that mean ? 	Ça veut dire quoi ? 
+981	What does Hauser use ? 	Qu' utilise Hauser , par exemple ? 
+982	Paul Hauser uses a ´Valentino´ typewriter , made by Olivetti . 	Le journaliste Paul Hauser utilise le modèle Valentino . 
+983	- That model has a more horizontal ... 	- Mais ce modèle a ... 
+984	- Yes , yes ! 	- Ouais , ouais . 
+985	And Wallner ? 	Et Wallner ? 
+986	He writes on an Optima ´Elite ' . 	Il utilise le modèle domestique Optimal Elite . 
+987	Georg Dreyman ? 	- Georg Dreyman ? 
+988	He writes his first drafts by hand , then types them up on a Wanderer ´Torpedo ' . 	- Il écrit toujours le premier jet à la main ... et le final sur une Wanderer Torpedo . Il n 'a jamais écrit sur autre chose . 
+989	He 's never used anything else . 	
+990	How big is this ´Kolibri´ typewriter ? 	Quelle taille aurait cette machine Colibri ? 
+991	It 's one of the smallest available : 	C' est l´une des plus petites produites . 
+992	19 . 5cm x 99cm x 19 . 55cm . 	19 . 5 x 9 x 19 . 5 cm 
+993	So it 's as easy to smuggle as a book . 	Donc , pas difficile à faire passer dans un livre ? 
+994	Thank you . 	Merci , vous pouvez y aller . 
+995	You may go . 	Merci , vous pouvez y aller . 
+996	Goodbye , comrade . 	Au revoir , camarade . 
+997	" The Secret Suicide Statistics " 	DDR : Les statistiques secrètes du suicide 
+998	Andrea , put me through to Wiesler . 	Andrea , passez- moi le Capitaine Wiesler . 
+999	" 4 p . m . 	" 16 : 00 : 
+1000	The group is exhausted from so much writing . " 	Le groupe est fatigué d' avoir trop écrit . " 
+1001	- Yes ? 	- Oui ? 
+1002	- Have you heard about this article ? 	- Wiesler , vous avez entendu à propos de l' article sur le suicide ? 
+1003	- In the ´Spiegel ' ? 	Dans " der Spiegel " , ouais . 
+1004	Yes . 	D' où vous savez ça ? 
+1005	- How so ? 	D' où vous savez ça ? 
+1006	Hauser called Dreyman and told him about it . 	Hauser à appelé Dreyman et lui a dit . 
+1007	Wiesler , this is very important . 	Wiesler , ceci est extrêmement important pour ma carrière et la votre : 
+1008	Both for my career and for yours . 	Wiesler , ceci est extrêmement important pour ma carrière et la votre : 
+1009	Did he mention who may be behind it ? 	As- t' il mentionné quoi que ce soit de suspect ? 
+1010	Or do you have any ideas ? 	Ou avez- vous une idée ? 
+1011	I don 't think he mentioned anything . 	Je ne pense pas qu 'il ait mentionné quoi que ce soit . 
+1012	No ... nothing at all . 	Non il n 'a rien dit . 
+1013	A ´Spiegel´ editor crossed the border using a false name on the 27th , and spent four hours here . 	Le 27 , un éditeur du " Spiegel " utilisant un faux nom a traversé la frontière au Checkpoint de la rue Bornholmer . ... et est resté là pour 4 heures , Gregor Hessenstein . 
+1014	Dept . 	La 6ème division l 'a suivie , à Prenzlauer Berg , puis l 'a perdu . 
+1015	VI followed him to Prenzlauer Berg , then lost his trail . 	La 6ème division l 'a suivie , à Prenzlauer Berg , puis l 'a perdu . 
+1016	Did he have contact with Dreyman ? 	As- t' il eu un contact avec Dreyman ? 
+1017	- Wouldn 't I have noted it in the report ? 	- Je ne l' aurais pas reporté ? 
+1018	- Yes , of course . 	- Oui , bien sûr . 
+1019	But I smell a writer behind this text . 	Ce texte à " Poète " écrit partout . 
+1020	I 'd be astonished if I 'm wrong . 	Je serais surpris d' avoir tort . 
+1021	So keep your ears open ! 	Bien , gardez vos oreilles ouvertes . 
+1022	Shit ! 	Merde . 
+1023	Get in . 	Rentrez . 
+1024	If one of your staff deceives you , you punish him , right ? 	Si un employé vous trompe , il est sévèrement puni ? 
+1025	Sure , sure ! 	Oui , oui , il l' est . 
+1026	Even a woman ? 	Une femme aussi ? 
+1027	Right ? 	Ou pas ? 
+1028	But of course ! 	Bien sûr . 
+1029	Isn 't everyone who serves a great man part of his staff ? 	Quelqu 'un qui sert un plus puissant ne devrait- il pas coopérer ? 
+1030	You could see it like that ... 	Vous pourriez dire ça . 
+1031	Indeed , you 'd have to see it like that . 	Ou vous devriez le dire . 
+1032	This is where she gets her illegal medication . 	Voici où Christa- Maria Sieland reçoit ses médicaments antipsychotiques illégaux . 
+1033	Christa- Maria Sieland . 	Voici où Christa- Maria Sieland reçoit ses médicaments antipsychotiques illégaux . 
+1034	You should know this , it 's your department . 	Je pense que vous deviez le savoir , c' est dans votre division . 
+1035	It 's up to you whether you ruin her or not , but I never want to see her on a German stage again . 	Que vous lui tordiez le coup ou pas , je laisse ça à votre décision . Quoi qu 'il se passe , je ne veux plus jamais la voir sur une scène allemande . 
+1036	Now get out . 	Sortez de là maintenant . 
+1037	Shut the door ! 	Fermez la porte ! 
+1038	Ms . 	Frau Sieland , venez avec nous pour clarifier cette situation . 
+1039	Sieland ? 	Frau Sieland , venez avec nous pour clarifier cette situation . 
+1040	Please follow us . 	Frau Sieland , venez avec nous pour clarifier cette situation . 
+1041	We have some questions . 	
+1042	Come along . 	Venez . 
+1043	So ... 	Bien ... 
+1044	Comrade Sieland , a beautiful career you had , hm ? 	Camarade Sieland , cela ressemble bien à la fin de votre carrière . 
+1045	A pity really . 	C' est trop dommage . 
+1046	You were good . 	Vous étiez bonne . 
+1047	You were very good indeed . 	Très bonne . 
+1048	Just too short- lived . 	Un peu trop courte , vous ne pensez pas ? 
+1049	Do have a seat . 	Asseyez- vous . 
+1050	What do actors do when they can 't act anymore ? 	Alors , que fait une actrice sans travail ? 
+1051	Please ... 	S' il vous plaît 
+1052	Isn 't there anything I can do for you ? 	N 'y a t' il rien que je puisse faire pour vous ? 
+1053	- For ... 	
+1054	State Security ? 	- Pour la Sécurité d' Etat ? 
+1055	- It 's a little late for that . 	- C' est un peu trop tard pour ça . 
+1056	I know nearly all our artists . 	Je connais presque tous nos artistes . 
+1057	I could find out a lot . 	Je pourrais trouver bcp de choses pour vous . 
+1058	I believe you . 	Je vous crois mais cela ne vous aiderait pas . 
+1059	But it won 't help you now . 	Je vous crois mais cela ne vous aiderait pas . 
+1060	Maybe there 's something else I could do ? 	Peut- être qu 'il y a quelque chose d' autre que je pourrais faire pour vous ... quelque chose qui ne serait déplaisant pour aucun de nous deux . 
+1061	Something we might both find agreeable . 	Peut- être qu 'il y a quelque chose d' autre que je pourrais faire pour vous ... quelque chose qui ne serait déplaisant pour aucun de nous deux . 
+1062	Unfortunately , you 've made an enemy of a very powerful man . 	Malheureusement vous avez ... comment devrai- je dire ? Fait d' un homme puissant votre ennemi . 
+1063	Therefore , I have less freedom than would normally be the case . 	C' est pour cela que je suis plus restreint que d' habitude . 
+1064	Is there no way I can save myself ? 	Y a t' il quelque chose qui puisse me sauver ? 
+1065	I 'm sorry , madam . 	Je suis désolé . Non . 
+1066	There is one possibility . 	Il y a une chose ... ... vu que vous êtes autour de pas mal d' auteurs et artistes . 
+1067	Since you spend so much time with writers and artists ... 	Il y a une chose ... ... vu que vous êtes autour de pas mal d' auteurs et artistes . 
+1068	You don 't know anything about an article from this week 's ´Spiegel ' , do you ? 	Vous ne sauriez par hasard rien sur un article la semaine dernière dans le " Spiegel " ? 
+1069	An article about suicide . 	Un article sur le suicide ? 
+1070	State Security ! 	Sécurité d' Etat . 
+1071	Open the door ! 	Ouvrez la porte . 
+1072	Open up ! 	Ouvrez ! 
+1073	He 's turned on the light in his study . 	La lumière du bureau est allumée . 
+1074	Go in before he destroys any evidence . 	Cassez la porte avant qu 'il ne détruise de preuves . 
+1075	Crowbar ! 	Pied de biche . 
+1076	I don 't think that 'll be necessary . 	Je ne pense pas que ce soit nécessaire . 
+1077	- What 's the matter , comrades ? 	- Que ce passe- t' il camarades ? 
+1078	- We have a warrant to search the premises . 	- Nous avons ordre de fouiller votre appartement . 
+1079	Warrant is here . 	Voici l' ordre . 
+1080	- What are you looking for ? 	- Que cherchez- vous ? 
+1081	- It 's confidential . 	- Des choses relatives à la Sécurité . 
+1082	Boysen , Muller : bedroom . 	Bols et Muehler : chambre à coucher , corridors Reske : cuisine , salle de bain , couloirs . 
+1083	Greska : kitchen , bathroom , hall . 	Bols et Muehler : chambre à coucher , corridors Reske : cuisine , salle de bain , couloirs . 
+1084	Heise and Thomas : living room , study . 	Heiser et Thomas : salon , bureau . 
+1085	Go ! 	Allez- y . 
+1086	What do you burn in here ? 	Qu' avez- vous brûlé ? 
+1087	Substandard texts . 	De mauvais textes . 
+1088	A lot of Western literature , eh ? 	C' est de la littérature de l' Ouest , non ? 
+1089	That book was a gift from Margot Honecker . 	Ce livre est un cadeau de Margot Honecker . 
+1090	- Status ? 	- Comment ça se passe ? 
+1091	- All according to plan . 	- Tout comme prévu . 
+1092	We found nothing , except Western books and newspapers . 	Rien de spécial . Juste quelque livres et journaux de l' Ouest . 
+1093	- No trace to be found ! 	- Pas de signe de la cible . 
+1094	- Did you search thoroughly ? 	- Vous avez bien cherché ? 
+1095	Yes , Comrade ! 	Oui monsieur . 
+1096	What 's our next move ? 	Que devons- nous faire ? 
+1097	- Comrade ? 	- Lieutenant Colonel ? 
+1098	- Pull out your men ! 	- Faites sortir vos hommes . 
+1099	In the unlikely event that damage has occurred , you may claim compensation . 	Voici l' adresse du Ministère . Si quelque chose à été endommagé , vous pouvez demander un dédommagement 
+1100	I 'm sure everything 's in perfect order . 	Je suis sûr que tout est bien . 
+1101	Yes ? 	Oui ? 
+1102	Wiesler , I' ll be expecting you in Hohenschonhausen at 9 a . m . tomorrow . 	Wiesler , je vous attends à Hohenschoenhausen demain à 9h . 
+1103	Okay , I' ll say what we 're all thinking : 	Bien , je vais dire ce que nous pensons tous . 
+1104	It was Christa- Maria . 	C' était Christa- Maria . 
+1105	The Stasi got her , and she ratted on you . 	La Stasi l 'a attrapée , et elle t 'a donné . 
+1106	It wasn 't her . 	Ce n' était pas elle . 
+1107	How can you be so sure ? 	Comment le sais- tu ? 
+1108	You yourself said she wasn 't home last night . 	Tu l' as dit toi même , elle n' était pas avec toi la nuit dernière . 
+1109	She knows the hiding place . 	Elle connaît la cachette . 
+1110	Yes , she knows . 	Ouais , elle connaît 
+1111	So if you 're right , and the search was due to her , then she 's our guardian angel . 	Si tu as raison , et la recherche remonte à elle , ... alors c' est notre ange gardien . 
+1112	I 'm here to see Lt . 	Je vois le Lieutenant Colonel Grubitz . 
+1113	Col . 	Je vois le Lieutenant Colonel Grubitz . 
+1114	Grubitz . 	Je vois le Lieutenant Colonel Grubitz . 
+1115	Captain Wiesler . 	Capitaine Wiesler . 
+1116	Interrogation room 76 . 	Chambre d' Interrogation # 76 
+1117	Yes ! 	Ouais ? 
+1118	Come in . 	Rentre . 
+1119	Sit down . 	Assis- toi . 
+1120	So ? 	Et ? 
+1121	What was that about ? 	C' est à propos de quoi tout ça ? 
+1122	You 're asking me what that was about ? 	" A propos de quoi ? " Tu me demandes ? ! 
+1123	What do you suspect Dreyman of ? 	Tu pense que Dreyman est qui ? 
+1124	He wrote the ´Spiegel´ article . 	C' est l´auteur de l' article du " Spiegel " . 
+1125	Who alleges that ? 	Qui a dit ça ? 
+1126	Come with me ! 	Viens . 
+1127	Here . 	
+1128	I don 't know how you could be so sloppy as to miss all of this ! 	Je n' arrive pas à savoir comment tu as pu faire de l' aussi mauvais travail et rater ça , ... mais je sais que tu est différent , particulièrement en interrogatoire . 
+1129	But I know you differently , especially as an interrogator . 	Je n' arrive pas à savoir comment tu as pu faire de l' aussi mauvais travail et rater ça , ... mais je sais que tu est différent , particulièrement en interrogatoire . 
+1130	So I 'm giving you one last chance . 	Alors je te donne une dernière chance . 
+1131	Bring in prisoner 662 , now ! 	Amenez- moi le Prisonnier 662 . Immédiatement 
+1132	Are you still on the right side ? 	Est- tu toujours du bon côté ? 
+1133	Yes . 	- Oui . 
+1134	Then don 't screw it up again . 	- Alors ne fous pas tout en l' air cette fois- ci . 
+1135	Shall I restrain the prisoner ? 	Dois- je attacher la prisonnière ? 
+1136	No , she 's an informant now . 	Ce n' est plus une prisonnière , c' est une informatrice maintenant . 
+1137	You may go . 	Vous pouvez y aller . 
+1138	So you 're my commanding officer ? 	Alors vous êtes l' officier en charge ? 
+1139	Write . 	
+1140	Then command me . 	Alors prenez- moi en charge . 
+1141	In another 10 hours ... 	Il reste 10 heures . 
+1142	No , in 9 and a half , 	9 et demie , exactement .. ... avant que Herr Roessing dise à l' audience que vous ne pouviez être présente pour cause de maladie . 
+1143	Mr . 	9 et demie , exactement .. ... avant que Herr Roessing dise à l' audience que vous ne pouviez être présente pour cause de maladie . 
+1144	Roessing will tell the audience that you , for health reasons , cannot appear . 	9 et demie , exactement .. ... avant que Herr Roessing dise à l' audience que vous ne pouviez être présente pour cause de maladie . 
+1145	And that will be your last mention in the acting world . 	Et ce sera la dernière fois que le monde du théâtre parlera de vous . 
+1146	Is that what you want ? 	C' est ça que vous voulez ? 
+1147	Tell us where the evidence is hidden . 	Dites- nous ou les preuves sont . 
+1148	There is no evidence , and no typewriter . 	Il n 'y a pas de preuves . Il n 'y a pas de machine à écrire , j' ai inventé tout ça . 
+1149	I made it all up . 	
+1150	I hope not . 	J' espère que non . 
+1151	If so , we 'll have to keep you here . 	Alors on devra vous garder ici . 
+1152	A false statement is perjury , which carries around 2 years in prison . 	Mentir mène à une peine d' au moins 2 années de prison . 
+1153	Dreyman will go to prison anyway , on account of your statement ... and the material we 've already found in the apartment . 	Dreyman va en prison quoi qu 'il se passe . Votre déposition s' en est occupée ... et avec les preuves que nous avons déjà trouvées dans l' appartement . 
+1154	Save yourself , at least . 	Sauvez- vous au moins . 
+1155	You have no idea how many people are in jail here for senseless heroics . 	Vous ne croiriez pas combien de personnes sont ici à cause d' héroïsme futile . 
+1156	Don 't forget your audience . 	Pensez à votre public . 
+1157	" Don 't forget your audience ! " 	" Pensez à votre public . " 
+1158	He has some funny ideas ! 	Il doit être en train de rigoler . 
+1159	Don 't forget what the state has done for you ... 	Pensez à ce qu 'a fait l' Etat pour vous ... votre vie entière . 
+1160	Your whole life long . 	Pensez à ce qu 'a fait l' Etat pour vous ... votre vie entière . 
+1161	Now you can do something for the state . 	Maintenant vous pouvez faire quelque chose pour l' Etat . 
+1162	And it will thank you . 	Il vous en sera reconnaissant . 
+1163	Tell me where the typewriter 's hidden . 	Dites- moi où se trouve la machine à écrire . 
+1164	Dreyman will never find out . 	Dreyman ne le sauras jamais . 
+1165	I' ll let you go immediately , and we 'll strike only after you 're back with him . 	Je vous laisserai partir tout de suite . Nous n' irons pas tant que vous n' êtes pas avec lui . 
+1166	You 'll manage to feign surprise , I 'm sure . 	Vous savez comment jouer la surprise . 
+1167	And tonight you 'll be back on stage . 	Et ce soir vous serez de retour sur la scène ... ... dans votre élément . 
+1168	In your element . 	Et ce soir vous serez de retour sur la scène ... ... dans votre élément . 
+1169	In front of your audience . 	... devant votre public . 
+1170	Tell me where the documents are . 	Dîtes- moi où sont le documents . 
+1171	Where are they ? 	Où sont- ils ? 
+1172	They 're in the apartment ... 	Dans l' appartement . 
+1173	Under the doorsill , between the living room and the hallway . 	Sous le pas de la porte entre le salon et le couloir . 
+1174	You can remove it . 	Vous pouvez le retirer . 
+1175	Is this where you mean ? 	Vous voulez dire ici ? 
+1176	Mark the exact place with a cross . 	Marquez le bon endroit . 
+1177	You look worn out . 	Vous avez l' air un peu exténuée . 
+1178	Remember , you 're an informant now . 	N' oubliez pas , vous êtes un informateur maintenant . 
+1179	That means responsibilities , like conspiracy and confidentiality , but also privileges ... 	Viennent des responsabilités comme la conspiration , le secret , mais aussi des privilèges . 
+1180	Guard ! 	Serhabla . 
+1181	Call Wiesler for me ! 	Appelez Wiesler pour moi . 
+1182	Col . 	Le Capitaine Wiesler est déjà parti , Lieutenant Colonel . 
+1183	Wiesler has left the premises , comrade . 	Le Capitaine Wiesler est déjà parti , Lieutenant Colonel . 
+1184	I see ! 	Je vois . 
+1185	Alright . 	Très bien . 
+1186	Stand down . 	Vous pouvez y aller . 
+1187	What does a rider do when he 's thrown ? 	Que fais un chevalier , quand il tombe de son cheval ? 
+1188	He gets back on again . 	Il remonte en selle . 
+1189	Go inside . 	Rentre et dors dessus . 
+1190	Sleep it off . 	Rentre et dors dessus . 
+1191	What happened has nothing to do with the house . 	Ce qui s' est passé n 'a rien à voir avec ta situation à la maison . 
+1192	No , but with the whole country . 	Non , mais avec tout le pays . 
+1193	Christa ! 	Christa ? 
+1194	Stop , I was at Kerschner 's and they had no water . 	Ne m' approche pas . J' étais chez Karschner et il n 'y avait pas d' eau . Je dois prendre une douche . 
+1195	I need a shower . 	
+1196	You were in a hurry to get here ! 	- T' est parti plutôt rapidement . 
+1197	- Operation ´Lazlo´ is still in progress ! 	- Bein , l' affaire " Lazlo " est toujours en cours . 
+1198	- Are they both inside ? 	- Ils sont tous les deux dans l' appartement ? 
+1199	Yes . 	- Ouais . 
+1200	Here 's today´s report . 	Le rapport d´aujourd´hui . 
+1201	The last report for Operation ´Lazlo ' . 	Le dernier rapport de l' affaire " Lazlo " . 
+1202	Why didn 't you call me ? 	Pourquoi tu ne m' as pas appelé ? 
+1203	What ? 	Quoi ? 
+1204	Why didn 't you call me ? 	Pourquoi tu ne m' as pas appelé ? 
+1205	I was out in the country . 	J' étais à la campagne . 
+1206	Can you hand me the nail brush ? 	Donne moi la brosse à ongles . 
+1207	The Stasi was here . 	La Stasi était ici , ils on cherché l' appartement . 
+1208	They searched the apartment . 	La Stasi était ici , ils on cherché l' appartement . 
+1209	Who was here ? 	Qui était ici ? 
+1210	State Security ! 	Sécurité d' Etat , ouvrez la porte ! 
+1211	Open up ! 	Sécurité d' Etat , ouvrez la porte ! 
+1212	Stay here . 	Reste ici . 
+1213	Hello , Comrade Dreyman . 	Bonjour Camarade Dreyman . 
+1214	I 'm Lt . 	Lieutenant Colonel . 
+1215	Col . 	Lieutenant Colonel . 
+1216	Grubitz from State Security . 	Grubitz de la Sécurité d' Etat . 
+1217	I just wanted to make sure they did a thorough job last night . 	Je voulais juste m' assurer que le travail d' hier soir avait bien été fait . 
+1218	Your study ? 	Le bureau ? 
+1219	We 'll start there . 	Nous y allons . 
+1220	Men , search carefully for notes hidden in the books . 	Regardez dans chaque livre , page par page . 
+1221	Oh , what do we have here ? 	Bien bien , qu' avons- nous là ? 
+1222	This doorsill doesn 't look kosher to me . 	Ce pas de porte ne me semble pas trop casher . 
+1223	Could it be ... a secret compartment ? 	Serait- ce un compartiment secret ? 
+1224	Let her go . 	Laissez- la , ce n' est pas un suspect . 
+1225	She 's not a suspect . 	Laissez- la , ce n' est pas un suspect . 
+1226	The actress ... 	Cette actrice . 
+1227	I was too weak . 	J' étais trop faible . 
+1228	I can never put right what I' ve done wrong . 	Je ne pourrais jamais réparer ce que j' ai fait . 
+1229	There 's nothing to put right ! 	Il n 'y a rien à réparer . 
+1230	You understand ? 	Tu comprends ? 
+1231	Nothing . 	Tu comprends ? 
+1232	I moved the ty ... 	Rien . J' ai la machine à écr ... 
+1233	Forgive me , forgive me ... 	Pardonne- moi , pardonne- moi ... 
+1234	Forgive me , forgive me ... 	
+1235	Take your men back to headquarters . 	Ramenez vos homme au QG . 
+1236	This mission is over . 	La mission est finie . 
+1237	I' ve concluded the mission , Comrade Dreyman . 	Camarade Dreyman , j' ai fait arrêter les recherches Nous avons reçu de mauvaises informations . 
+1238	We must have received an erroneous tip- off . 	Camarade Dreyman , j' ai fait arrêter les recherches Nous avons reçu de mauvaises informations . 
+1239	Sorry . 	Je suis désolé . 
+1240	Come on . 	Venez . 
+1241	There 's one thing you should understand , Wiesler . 	Ne vous faites pas d' illusions , Wiesler . 
+1242	Your career is over . 	Votre carrière est finie ... ... même si vous étiez assez intelligent pour couvrir vos traces . 
+1243	Even if you were too smart to leave any traces . 	Votre carrière est finie ... ... même si vous étiez assez intelligent pour couvrir vos traces . 
+1244	You 'll end up in some cellar , steam- opening letters until you retire . 	Au mieux vous serez coincé dans un trou de cave , à ouvrir du courrier jusqu 'à votre retraite . 
+1245	That means the next 20 years . 	C' est dans 20 ans . 
+1246	20 years ! 	20 ans . 
+1247	That 's a long time . 	C' est long . 
+1248	" Mikhail Gorbachev elected as leader of the Soviet Union 's Communist Party . " 	" Gorbatchev élu Secrétaire Général du Comité Central " 
+1249	4 YEARS AND 7 MONTHS LATER 	4 ans et 7 mois plus tard 
+1250	The Wall has come down ! 	Le Mur est ouvert . 
+1251	Yes , the Wall has come down ! 	Le Mur est ouvert . 
+1252	The border guards have opened the gates . 	Les gardes frontières ont ouvert la porte . 
+1253	The excitement is enormous ! 	La joie est énorme . 
+1254	People are streaming out in thousands ! 	Des milliers sont en train de passer . 
+1255	It 's unbelievable ! 	C' est incroyable 
+1256	Dear listeners , November 9th , 1989 , will go down in history ! 	Et oui auditeurs . Le 9 novembre 1989 et un tournant historique ... 
+1257	TWO YEARS LATER 	2 ans plus tard 
+1258	What 's wrong , my child ? 	Ma pauvre , que ce passe- t- il ? 
+1259	Your Arthur is dead . 	Ton Arthur ne vis plus . 
+1260	Arthur ... 	Arthur ? 
+1261	Can 't you be wrong , just this once ? 	Ne serait- ce pas possible que tu te trompes cette fois- ci ? 
+1262	I saw him this morning ! 	Ne serait- ce pas possible que tu te trompes cette fois- ci ? 
+1263	No , sister . 	Non , mes soeurs , croyez- moi . 
+1264	Believe me . 	Non , mes soeurs , croyez- moi . 
+1265	He fell to his death . 	Il est tombé 
+1266	The loyal men surround him , as you do me , and despite the high sun , cast seven shadows on his noble dead body . 	Les hommes de foi se tiennent autour de lui , comme vous autour de moi , ... a cause du soleil , seulement 7 petites ombres sont projetés sur son noble corps mort . 
+1267	Crushed by the mighty wheel . 	La roue puissante l 'a fait entrer en terre . 
+1268	I see it , though I 'd rather see any other horror . 	Je le vois , ... et préférerai voir n' importe quelle autre horreur . 
+1269	Why am I not spared these visions ? 	Pourquoi ne suis- je pas épargnée de cette vision ? 
+1270	Elena ! 	Elena , rentre à la maison et fais ton deuil . 
+1271	Go home and mourn . 	Elena , rentre à la maison et fais ton deuil . 
+1272	I will finish your shift . 	Je finirai ton quart . 
+1273	Too many memories , eh ? 	Trop de souvenirs , hein ? 
+1274	I couldn 't stay in there either . 	Pareil pour moi . Je devais partir aussi . 
+1275	But what 's this I hear ? 	Mais qu' est ce qui se passe pour toi ? 
+1276	You 've not written since the Wall fell ? 	Tu n' as pas écrit depuis la chute du mur . 
+1277	That 's not good . 	C' est mauvais . 
+1278	After all our country invested in you . 	Après tout , notre pays a investi en toi . 
+1279	Although I understand you , Dreyman . 	Mais je te comprends au fond , Dreyman . 
+1280	What is there to write about in this new Germany ? 	Qu 'y a t' il à écrire sur cette République fédérale ? 
+1281	Nothing to believe in , nothing to rebel against ... 	Plus rien à quoi croire , contre quoi se rebeller . 
+1282	Life was good in our little Republic . 	C' était bien dans notre petite République Les gens le comprennent maintenant . 
+1283	Many people only realize that now . 	C' était bien dans notre petite République Les gens le comprennent maintenant . 
+1284	- There is one thing I do need to ask you . 	- J' ai une chose à vous demander . - Tout , mon cher Dreyman . 
+1285	- Whatever you want . 	Tout . 
+1286	Why was I never under surveillance ? 	Pourquoi n' ai- je jamais été mis sous écoutes ? 
+1287	Everyone else was . 	Vous avez surveillé tout le monde . 
+1288	Why not me ? 	Pourquoi pas moi ? 
+1289	You were under full surveillance ! 	Vous étiez complètement surveillé . 
+1290	We knew everything about you . 	On savait tout sur vous . 
+1291	Full surveillance ? 	J' étais complètement surveillé ? 
+1292	Every inch was bugged . 	Complètement sous écoutes . 
+1293	The full program . 	Tout le programme . 
+1294	Impossible ! 	C' est impossible . 
+1295	Take a look behind your light switches . 	Quand vous aurez le temps , regardez sous les interrupteurs . 
+1296	We knew everything . 	Savait tout ... 
+1297	We knew that you couldn 't give our little Christa what she needed . 	Nous savions même que vous ne pouviez pas vraiment satisfaire notre petite Christa . 
+1298	To think that people like you once ruled a country ... 	De penser que des gens comme vous mènent mon pays ... 
+1299	RESEARCH SITE AND MEMORIAL 	Centre de Recherche et Mémorial Rue Normannen . 
+1300	It 'll be a moment , there should be more than one file in your case . 	Patientez juste un peu . Votre dossier est dans plusieurs dossiers . 
+1301	I ordered them chronologically . 	J' ai rangé les dossiers par ordre chronologique . 
+1302	Old ones at the top , and the newer ones underneath . 	Les anciens au dessus , les récents en dessous . 
+1303	My respects ! 	Bonne chance . 
+1304	Operation ´Lazlo ' . 	Dossier opérationnel Lazlo " ouvert , contre Georg Dreyman , nom de code " Lazlo " . 
+1305	Operation ´Lazlo ' , subject : 	Dossier opérationnel Lazlo " ouvert , contre Georg Dreyman , nom de code " Lazlo " . 
+1306	Georg Dreyman , code- name ´Lazlo ' , is launched . 	Dossier opérationnel Lazlo " ouvert , contre Georg Dreyman , nom de code " Lazlo " . 
+1307	The lead came from Minister Bruno Hempf . 	Soupçons donnés par me Ministre Bruno Hempf . 
+1308	' Lazlo´ takes delivery of a daily Western newspaper without official permission . 	" Lazlo " reçoit quotidiennement le journal " Frankfurter Allgemeine Zeitung " par un coursier sans autorisation officielle . 
+1309	I suggest not taking any action so as not to arouse suspicion of surveillance . 	Suggérons de laisser le coursier et " Lazlo " tranquille , pour ne pas éveiller de soupçons de surveillance . 
+1310	' Lazlo´ and CMS unwrap presents , then presumably have intercourse . 	" Lazlo " et CMS ont déballé des cadeaux Après prob . rapports sexuels . 
+1311	The visitor was Paul Hauser 's uncle from West Berlin . 	L' oncle de Paul Hauser rend visite depuis Berlin Ouest . 
+1312	They tell him about a play that Hauser and ´Lazlo´ will write for the GDR 's 40th anniversary . 	Ils lui parlent de la pièce que Hauser et " Lazlo " veulent écrire pour le 40ème anniversaire de la République . 
+1313	We expect further information on the play , a plot summary etc . 	Nous attendons des informations détaillées sur la pièce anniversaire prévue : contenu , etc . 
+1314	Contents of act 1 : 	Contenu du premier acte : 
+1315	Lenin is in constant danger . 	Lenine est en danger constant . 
+1316	Despite increasing external pressure , he sticks to his revolutionary plans . 	Malgré la pression montante de l' extérieur , il garde ses plans révolutionnaires . 
+1317	Lenin is exhausted . 	Lenine est très fatigué . 
+1318	HGW ... 	HGW 
+1319	HGW XX- 7 ... 	HGW XX/ 7 
+1320	I , Christa- Maria Sieland , freely commit myself to work unofficially for State Security . 	Moi , Christa- Maria Sieland ... m' attache de mon propre vouloir à travailler non officiellement pour la Sécurité d' Etat . 
+1321	This decision is the result of my conviction that ... 	Cette décision est prise sur la conviction que je ... 
+1322	Georg Dreyman wrote the ´Spiegel´ article " One Who Made it to the Other Side . " 	Georg Dreyman est l' auteur de l' article du " Spiegel " , " De quelqu 'un qui est passé de l' autre côté " . 
+1323	His accomplices were the journalist Paul Hauser ... 	Les complices sont le journaliste Paul Hauser , Karl Warn ... 
+1324	Christa Sieland was arrested on March 10th for drug abuse , on Minister Hempf 's indication . 	Sur des faits donnés par le Ministre Hempf , Christa- Maria Sieland a été incarcérée le 10 mars pour abus de substances ... et ramenée en ville le 11 mars à 13h50 , ... après avoir confessée la cachette des documents de " Lazlo " ... et accepté les devoirs d' informatrice , nom de code " Martha " . 
+1325	She was released at 1 . 50 p . m . on March 11th , having revealed ´Lazlo´s hiding place and signing up as informant ´Marta ' . 	Sur des faits donnés par le Ministre Hempf , Christa- Maria Sieland a été incarcérée le 10 mars pour abus de substances ... et ramenée en ville le 11 mars à 13h50 , ... après avoir confessée la cachette des documents de " Lazlo " ... et accepté les devoirs d' informatrice , nom de code " Martha " . 
+1326	1 . 50 p . m ... 	13h50 ? 
+1327	So when did she ... 	Mais alors comment as- t- elle ... ? 
+1328	After the unsuccessful house search of March 11 , 1985 , and ´Marta´s ' fatal accident , 	Après une recherche infructueuse le 11 mars et l' accident de voiture qui a tué l' informatrice " Martha " ... le dossier opérationnel sur " Lazlo " a été clos . 
+1329	Operation ´Lazlo´ was terminated . 	Après une recherche infructueuse le 11 mars et l' accident de voiture qui a tué l' informatrice " Martha " ... le dossier opérationnel sur " Lazlo " a été clos . 
+1330	Note : 	Note de pied de page : 
+1331	HGW 's promotion ban takes effect immediately . 	La suspension de promotion de HGW prend effet aujourd 'hui . 
+1332	Transfer to Dept . 	Devoirs transférés au Dept . 
+1333	M , with the recommendation not to entrust him with missions under his sole responsibility . 	M . Il est maintenant recommandé de ne plus lui donner de nouvelles missions . 
+1334	10 : 50 a . m . : 	10h50 : 
+1335	Resume surveillance outside ´Lazlo´s ' house . 	Début du poste de contrôle devant l' appartement de " Lazlo " 
+1336	At 3 . 10 p . m . , ´Marta´ comes directly from Hohenschonhausen to his apartment . 	15h10 : " Martha rentre directement à la maison depuis Hohenschoenhausen . 
+1337	House search and report to follow . 	Suit le rapport de la recherche de l' appartement . 
+1338	End of Operation ´Lazlo ' . 	Fin du dossier " Lazlo " . 
+1339	HGW , 3 . 15 p . m . 	HGW , 15h15 . 
+1340	Who is HGW XX- 7 ? 	Qui est HGW XX/ 7 ? 
+1341	Stop . 	Arrêtez- vous ici . 
+1342	Back to Hufeland Street . 	A la rue Uferland . 
+1343	TWO YEARS LATER 	2 années plus tard 
+1344	" Georg Dreyman " " Sonata for a Good Man " 	Georg Dreyman " Sonate pour un homme bon " 
+1345	" A Novel " " Dedicated to HGW XX- 7 , in gratitude . " 	Dédié à HGW XX/ 7 , pour ma gratitude . 
+1346	29, 80 . 	29, 80 . 
+1347	Shall I gift- wrap it ? 	Vous voulez que je l' emballe ? 
+1348	No , it 's for me . 	Non , c' est pour moi . 
