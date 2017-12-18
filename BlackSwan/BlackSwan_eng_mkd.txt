@@ -1,0 +1,985 @@
+0		
+1	I had the craziest dream last night . 	Синоќа сонував неверојатен сон ! 
+2	I was dancing the White Swan . 	Го танцував Белиот лебед . 
+3	It was different choreography , though . 	Додуша , беше поинаква кореографија . 
+4	It was more like the Bolshoi 's . 	Личеше на Бојшовис . 
+5	It was the prologue , when Rothbart casts his spell . 	Беше тоа пролог . Кога Ротбарт ја фрли својата магија . 
+6	Look how pink . 	Види како е голем ! 
+7	So pretty ... 	Така убав . 
+8	Pretty ! 	Убав . - Убав ! 
+9	- You 're in a good mood . 	Добро си расположена . 
+10	- He promised to feature me more this season . 	- Да , вети дека повеќе ќе ме става оваа сезона . 
+11	Well , he certainly should . 	Секако дека би требало . 
+12	You 've been there long enough , and you 're the most dedicated dancer in the company . 	Таму си доволно долго . И најнапредна танчерка си во групата . 
+13	Up . 	Стани ! 
+14	- What 's that ? 	Што е тоа ? 
+15	- What ? 	- Што ? 
+16	There . 	- Ова ! 
+17	Nothing . 	Ништо . 
+18	You 're sure you don 't want me to come with you ? 	Сигурно не сакаш да дојдам со тебе ? 
+19	You 're a sweet girl . 	Драга девојко . 
+20	Did you see Beth today ? 	Си ја видела денеска Бет ? 
+21	I can 't believe she 's back . 	Не верувам дека се вратила ! 
+22	- Of course she 's back . 	Секако дека се вратила . 
+23	- What , she can 't take a hint ? 	- Што , не сфаќа ? 
+24	The company is broke . 	Групата е шворц , никој веќе не доаѓа да ја види . 
+25	No one comes to see her anymore . 	Групата е шворц , никој веќе не доаѓа да ја види . 
+26	Oh , nobody actually comes to see ballet full stop . 	Никој не доаѓа на балет . И крај . 
+27	That 's not true . 	- Не е вистина . 
+28	I heard The Royal had one of their best seasons yet . 	Слушнав дека Ројал имала најдобра сезона . 
+29	He just needs to try something new . 	- Мораме да пробаме нешто ново . 
+30	That 's all . 	Не , некој нов . 
+31	No , someone new . 	Не , некој нов . 
+32	- Like who ? 	- Некој на кого не му се ближи менопауза . 
+33	- Like someone who 's not approaching menopause . 	- Некој на кого не му се ближи менопауза . 
+34	It 's sad . 	Тажно е . 
+35	What 's sad ? 	- Што е тажно ? 
+36	Beth 's such a beautiful dancer . 	Бет преубаво танцува . 
+37	Yeah , so is my grandmother . 	- Да , како и баба ми . 
+38	- Well Fonteyn danced into her fifties . 	Па Фин Тан танцуваше до своите 50- ти . 
+39	- Yeah , we know . 	- Да , знаеме . 
+40	Great . 	Одлично ! 
+41	Thought I 'd fucking missed my stop . 	Ја промашив станицата . 
+42	It 's a hell- fit all the way from 79th . 	Морав да трчам од 79 улица . 
+43	Beautiful as always , Nina . 	Праубаво како и секогаш , Нина . 
+44	Relax . 	Опушти се . 
+45	And one , and two , and three , and four . 	1 , 2 , 3 , 4 ... 
+46	Stop , John . 	Застани , Џон ! 
+47	One second . 	Само момент ! 
+48	Okay , take position . 	Добро , завземете позиција . 
+49	And one , and two , and three , and up . 	1 , 2 ... 
+50	And one , and two , and three , and four . 	
+51	Hello , dear . 	
+52	We all know the story . 	Сите ја знаеме приказната ! 
+53	Virginal girl , pure and sweet , trapped in the body of a swan . 	Девица , чиста и слатка . Заробена во тело на лебед . 
+54	She desires freedom that only true love can break the spell . 	Копнее за слобода , ама само вистинската љубов може да ја тргне магијата . 
+55	Her wish is nearly granted in the form of a Prince . 	Желбата скоро и се исполнува кога ќе го сретне принцот . 
+56	But before he can declare his love , 	Ама пред тој да и објави љубов , лошата близначка , Црниот Лебед , го измамува и го заведува . 
+57	The lustful twin , the Black Swan , tricks and seduces him . 	Ама пред тој да и објави љубов , лошата близначка , Црниот Лебед , го измамува и го заведува . 
+58	Devastated , the White Swan leaps off a cliff , killing herself . 	Уништена , Белиот Лебед скока од карпа . 
+59	And in death ... finds freedom . 	Се убива , ама во смртта ... ја пронаоѓа слободата ! 
+60	- Good morning , company . 	Добро утро , групо ! 
+61	- Good morning . 	- Добро утро ! 
+62	We will open our season with Swan Lake . 	Ја отвараме сезоната со Лебедово Езеро . 
+63	Done to death , I know . 	Знам , изведено безброј пати , но не вака . 
+64	But not like this . 	Знам , изведено безброј пати , но не вака . 
+65	We strip it down , make it visceral and real . 	Ќе го направиме , ќе биде инстиктивно и реално . 
+66	A new production needs a new Swan Queen . 	На новата продукција и треба нова Лебедова кралица . 
+67	A fresh face to present to the world . 	Свежо лице кое ќе го претставиме на светот . 
+68	But ... 	Ама ... 
+69	Which of you can embody both Swans ? 	Која од вас може да биде и двата лебеди ? 
+70	The White , and the Black . 	Белиот и Црниот . 
+71	All the soloists I tapped : 	Сите солистки кои ги допрев одите на редовни проби попладне . 
+72	Go to your scheduled rehearsals this afternoon . 	Сите солистки кои ги допрев одите на редовни проби попладне . 
+73	And the girls I didn 't tap : 	А девојките кои не ги допрев ... ќе се најдеме во главното студио во 5 часот . 
+74	Meet me in the principals´ studio at 5 : 00 . 	А девојките кои не ги допрев ... ќе се најдеме во главното студио во 5 часот . 
+75	Thank you . 	Фала . 
+76	All right . 	Добро , да продолжиме каде застанавме . 
+77	- Let 's go . 	Добро , да продолжиме каде застанавме . 
+78	Did we do left side ? 	Добро , да продолжиме каде застанавме . 
+79	- Yes , mistress . 	Уште еднаш . 
+80	Fuck ! 	
+81	Fuck ! 	
+82	What ? 	Што е ? ! 
+83	If I was only casting the White Swan , she 'd be yours . 	Да го барав само Белиот Лебед , ти ќе ја добиеше улогата . 
+84	But I 'm not . 	Ама не го барам . 
+85	Maestro , Odile 's coda , please . 	Маестро , Одилино код , ве молам . 
+86	Now show me your Black Swan , Nina . 	Покажи му го својот Црн Лебед , Нина . 
+87	Not so controlled . 	Немој толку да контролираш ! 
+88	Seduce us . 	Заведи не нас ! 
+89	Not just the Prince , but the court , the audience , the entire world . 	Не само принцот , туку и дворот , публиката , целиот свет ! 
+90	Come on , like a spider spinning a web . 	Ајде ! Твојата нога е оган која гори ! 
+91	Attack it , attack it ! 	Нападни ! Нападни ! 
+92	Come on ! 	Ајде ! 
+93	Well ... 	Убаво што ни се придружи . 
+94	- Good of you to join us . 	Убаво што ни се придружи . 
+95	- Sorry ... 	- Извинете . 
+96	Girls , this is Lily . 	- Девојки , ова е Лили . 
+97	Straight off the plane from San Francisco . 	Директно со авион од Сан Франциско , ја заменува Ребека . 
+98	She 's filling Rebecca 's old spot . 	Директно со авион од Сан Франциско , ја заменува Ребека . 
+99	- Hey . 	Директно со авион од Сан Франциско , ја заменува Ребека . 
+100	- Get warmed up . 	Загреј се . 
+101	No , it 's okay . 	- Во ред е . 
+102	I 'm good . 	Не ми треба . 
+103	Should I go again ? 	Да одиграм повторно ? 
+104	No , thanks , Nina . 	Не , фала , Нина . 
+105	I' ve seen enough . 	Видов доволно . 
+106	Veronica , the White Swan variation . 	Добро , Вероника , варијација на Белиот Лебед . 
+107	Come on , come on , come on , please . 	Ајде , ајде , те молам . 
+108	All right , Maestro . 	Добро , маестро . 
+109	Two , three ... 	2 , 3 ... 
+110	So how 'd it go ? 	Како помина ? 
+111	You were late , so I called Susie in the office . 	Доцнеше па и се јавив на Суси во канцеларијата . 
+112	An audition ! 	Аудиција . 
+113	I can 't believe he just sprang that on you . 	Не можам да верувам дека тоа на вас само така ви го нафрлиле . 
+114	So ? 	Тогаш ? 
+115	It was fine . 	- Беше добро . - Само добро ? 
+116	Just fine ? 	
+117	Oh , sweetheart ... 	Душо . 
+118	You tell me about it . 	Кажи ми . 
+119	Nina , everything all right ? 	Нина , дали си добро ? 
+120	I 'm fine . 	- Добро сум ! 
+121	Almost done . 	Скоро па готово . 
+122	You 're working yourself too hard . 	Премногу се трошиш . 
+123	- We all have off days . 	Сите имаме слободно . 
+124	- That girl , um , barged in . 	- Онаа девојка имаше дамка од барот . 
+125	I 'm sure she didn 't mean to . 	- Онаа девојка имаше дамка од барот . 
+126	For a starter , if I hadn 't taken you to each of your classes , you 'd have been completely lost . 	Се сеќаваш кога почна ? Да не те носев на секоја проба потполно би се изгубила . 
+127	I 'm going to talk to him tomorrow . 	Ќе зборувам со него утре . 
+128	I 'm going to tell him I finished it . 	Ќе му кажам дека јас завршив . 
+129	You don 't need to lie . 	Не мораш да лажеш . 
+130	You won 't convince him one way or the other . 	Ќе го увериш вака или онака . 
+131	Oh , sweetheart . 	Душо ... 
+132	I know it 's disappointing . 	Знам дека е разочарувачки . 
+133	When you start getting older , there 's all this ridiculous pressure . 	Како што старееш се појавува тој луд притисок . Го рабирам тоа . 
+134	God knows I understand . 	
+135	But it 's all right . 	Ама се е во ред . 
+136	No matter what . 	Без обзир на се . 
+137	You 'll probably get to dance the part of the cat again . 	Веројатно ќе ја играш улогата на Кетрин . 
+138	That 's such a wonderful part . 	Таа е преубава . 
+139	Or maybe he 'll make you a big swan . 	Или можеби ќе те постави за Големиот Лебед . 
+140	Either way , you 'll shine . 	Како и да е , ќе засјаеш ! 
+141	You know ... 	Знам . 
+142	Everything will be better in the morning . 	- Се ќе биде подобро , наутро . 
+143	It always is . 	Секогаш е . 
+144	Sweet girl . 	Слатка девојко . 
+145	Yes , Nina ? 	Да , Нина ? 
+146	Do you have a minute ? 	- Имате ли момент ? 
+147	- Now 's not a good time . 	Ако сега не е згодно ... 
+148	I get it . 	- Не , совршено е . 
+149	- Now is perfect . 	- Не , совршено е . 
+150	I just wanted to tell you that 	Сакам да кажам дека го вежбав кодот синоќа . 
+151	I practiced the coda last night and 	Сакам да кажам дека го вежбав кодот синоќа . 
+152	I finished . 	Завршив . 
+153	I thought you should know . 	Мислев дека би требало да знаете . 
+154	Okay , Nina , listen . 	- Нина , слушај . 
+155	Honestly , I don 't care about your technique . 	Искрено , гајле ми е за твојата техника . 
+156	- You should know that by now . 	Си требала тоа да го знаеш до сега . 
+157	- Yeah , but yesterday ... 	- Да , ама вчера ... 
+158	No . 	- Да , ама вчера ... 
+159	Anyway ... 	Но , веќе ја избрав Вероника . 
+160	I' ve already chosen Veronica . 	Но , веќе ја избрав Вероника . 
+161	Sorry . 	Но , веќе ја избрав Вероника . 
+162	Sorry . 	Жал ми е . 
+163	Okay , thank you . 	Добро , фала . 
+164	That 's it ? 	Тоа е тоа ? 
+165	You 're not going to try and change my mind ? 	Нема да се обидеш ни да го промениш мислењето ? 
+166	You must have thought it was possible . 	Сигурно си мислела дека е можно . 
+167	Otherwise , what are you doing here all dolled up ? 	Што тогаш правиш овде така средена ? 
+168	I came to ask for the part . 	Дојдов да барам улога . 
+169	The truth is ... 	Искрено , кога ќе те погледнам се што гледам е Белиот Лебед . 
+170	When I look at you , all I see is the White Swan . 	Искрено , кога ќе те погледнам се што гледам е Белиот Лебед . 
+171	Yes , you 're beautiful , fearful , fragile . 	Да , преубава си , плашлива , кревка . 
+172	Ideal casting . 	Идеална за таа улога . 
+173	But the Black Swan ? 	Ама Црниот Лебед . 
+174	It 's a hard fucking job to dance both . 	Ебено е тешко да ги танцуваш и двата . 
+175	I can dance the Black Swan , too . 	Можам да го танцувам и Црниот Лебед . 
+176	Really ? 	- Навистина ? 
+177	In four years , every time you dance , 	Во четири години , секој пат во танцување гледав како опседнато се обидуваш да го направиш секој потег совршено , ама никогаш не сум те видел препуштена ! 
+178	I see obsess getting each and every move perfectly right , but I never see you lose yourself . 	Во четири години , секој пат во танцување гледав како опседнато се обидуваш да го направиш секој потег совршено , ама никогаш не сум те видел препуштена ! 
+179	Ever . 	Никогаш ! 
+180	All that discipline for what ? 	Цела дисциплина е за што ? 
+181	- I just want to be perfect . 	Само сакам да бидам совршена . 
+182	- You what ? 	Само сакам да бидам совршена . 
+183	I want to be perfect . 	- Сакам да бидам совршена . 
+184	Perfection is not just about control . 	Совршенството не е поврзано само во контролата . 
+185	It 's also about letting go . 	Исто така е врзано и со опуштањето . 
+186	Surprise yourself so you can surprise the audience . 	Изненади се себе да можеш да ја изненадиш публиката . 
+187	Transcendence . 	Трансцендентност . 
+188	And very few have it in them . 	А малку од неа има во тебе . 
+189	I think I do have it in me . 	Мислам дека ја имам . Не знам ... 
+190	You bit me ? 	Ме гризна ? 
+191	I can 't believe you bit me ! 	Не можам да верувам дека ме гризна ! 
+192	I 'm sorry . 	- Извинете . 
+193	Man , that fucking hurt ! 	Тоа болеше . 
+194	What ? 	Зашто гледа во мене ? 
+195	Why 's she always staring at me ? 	Зашто гледа во мене ? 
+196	Hey , it 's been posted . 	Објавено е ! 
+197	Hey , it 's up ! 	Објавија ! 
+198	Veronica . 	Вероника ... 
+199	Congratulations . 	Честитам . 
+200	Why would you say that ? 	Зашто тоа би го рекла ? 
+201	Your idea of some sick joke ? 	Така замислуваш болесни шали ? ! 
+202	What ? 	Што ? 
+203	Fuck you . 	- Еби се ! 
+204	Hey , Nina ! 	Нина , честитам ! 
+205	Congratulations ! 	Нина , честитам ! 
+206	Congratulations . 	
+207	You 're so beautiful . 	
+208	Congratulations . 	
+209	- Hello ? 	Ало ? 
+210	- Hi . 	- Здраво . 
+211	What is it ? 	- Здраво . 
+212	What 's wrong ? 	Што е душо ? 
+213	I 'm fine . 	- Добро сум . 
+214	He picked me , Mom . 	Ме избра , мамо . 
+215	Do you hear me ? 	Ме слушаш ? 
+216	- For Swan Lake ? 	- За Лебедово Езеро ? 
+217	- I 'm going to be Swan Queen ! 	- Ќе бидам Лебедовата кралица . 
+218	Mom ! 	Брзо ќе дојдам дома , само сакав да ти јавам ! 
+219	I' ll be home soon . 	Брзо ќе дојдам дома , само сакав да ти јавам ! 
+220	I just wanted to let you know . 	Брзо ќе дојдам дома , само сакав да ти јавам ! 
+221	- I love you . 	Те сакам и јас тебе ! 
+222	- I love you , too . 	Те сакам и јас тебе ! 
+223	Mom ? 	Мамо ? 
+224	Mom , are you in your room ? 	Мамо , во соба си ? 
+225	Nina ? 	Нина , дома ли си ? 
+226	Are you home ? 	Нина , дома ли си ? 
+227	Nina , when you get out I 'm in the kitchen . 	Нина , кога ќе излезеш ви кујна сум ! 
+228	Come on , sweetie . 	Дојди , душо . 
+229	My daughter , the Swan Queen . 	Мојата ќерка , Лебедова Кралица ! 
+230	It 's our favorite . 	Таа ни е омилена . 
+231	Vanilla with strawberry filling . 	Ванила полнета со јагоди . 
+232	Oh , Mom , not too big . 	Мамо , немој премногу . 
+233	Oh , that 's way , way too much . 	Тоа е навистина премногу . 
+234	- It 's a celebration . 	- Славиме . 
+235	It 's just this once . 	Само овој пат . 
+236	- Mom ... 	Само овој пат . 
+237	My stomach 's still in knots . 	Желудникот ми е сеуште запетлен . 
+238	Fine . 	Добро . 
+239	Fine . 	Тогаш е ѓубре . 
+240	Then it 's garbage ! 	- Мамо , немој ! 
+241	No , Mom , don 't . 	Жал ми е ! 
+242	I 'm sorry . 	
+243	I 'm just ... 	Само ... 
+244	I 'm just so proud of you . 	Само многу се гордеам со тебе . 
+245	It looks so yummy . 	- Изгледа така вкусно . 
+246	Okay , okay . 	Добро , добро , фала ! 
+247	Thank you . 	Добро , добро , фала ! 
+248	Thank you . 	Добро , добро , фала ! 
+249	Thank you , Nina . 	Фала , Нина . 
+250	That 's very nice . 	Беше убаво . 
+251	Very nice . 	
+252	But I knew the White Swan wouldn 't be a problem . 	Ама знаев дека Белиот Лебед нема да биде проблем . 
+253	The real work will your metamorphosis into her evil twin . 	Правата работа ќе биде твојата преобразба во нејзината зла близначка . 
+254	And I know I saw a flash of her yesterday . 	Знам дека вчера видов дел од неа . 
+255	So get ready to give me more of that bite . 	Спреми се да ми го дадеш она гризање . 
+256	Excellent . 	Одлично . 
+257	That evil force is pulling you that you can 't escape . 	Таа зла сила те влече и неможеш да избегаш ! 
+258	That 's just out of your control . 	Надвор од твоја контрола е ! 
+259	So you sense it , you get aware of it more : 	Ја чуствуваш . 
+260	" It 's taking me , it 's taking me . " 	Стануваш свесна за тоа и те носи ... 
+261	A little bit more desperate . 	Малку очајнички . 
+262	Right , and you can maybe go up a little bit and then come down , and then ... 	Можеш да отидеш малку горе и да се спуштиш ... Така е . 
+263	That 's it . 	
+264	Watch the way she moves . 	Види како се движи . 
+265	Imprecise , but effortless . 	Непрецизно , ама без труд . 
+266	She 's not faking it . 	Не лажира . 
+267	Gorgeous ! 	Преубаво ! 
+268	Okay , that 's beautiful . 	Добро , преубаво . 
+269	Let 's start again from the beginning . 	Ајде од почеток . 
+270	You 'll room with Beth from now on , so be considerate . 	Од сега собата на Бети е твоја , затоа , биди внимателна . 
+271	Thanks , Susie . 	Фала , Сузи . 
+272	Those are for you , from Mr . 	- Тоа ти го остави г- дин Лерој . 
+273	Leroy . 	- Тоа ти го остави г- дин Лерој . 
+274	They 're beautiful . 	Преубаво е . 
+275	I' ll be back in a second . 	Одма се враќам . 
+276	Let me come back to you , please . 	Ќе се вратам . 
+277	Let 's go . 	Одиме . 
+278	Ready to be thrown to the wolves ? 	Спремна си да бидеш фрлена на волците ? 
+279	We need our cash , so please don 't forget to smile . 	Ни требаат нам нивните пари , затоа немој да заборавиш да се смееш . 
+280	Ladies and gentlemen , please , may I have your attention ? 	Дами и господа , молам за вашето внимание ! 
+281	Good evening . 	Добра вечер ! 
+282	Let me make this very important announcement . 	Дозволете да објаснам многу важна вест . 
+283	You all had had the chance and the privilege to be enchanted , transported , and even sometimes devastated , by the performances of this true artist of our company . 	Сите имавте прилика и чест да бидете маѓепсани , пренесени и некогаш опустошени од изведвата на овие вистински уметници . 
+284	She 's been a crucial inspiration to my work . 	Она е главната инспирација на мојата работа . 
+285	A role model to all dancers , and even more than that , a deeply appreciated presence on our stage . 	Модел за сите танци и дури повеќе од тоа . Длабоко ценета присутност во нашата група . 
+286	You all know who I am talking about . 	Сите знаете за кого зборувам . 
+287	Ladies and gentlemen , Beth Macintyre . 	Дами и господа , Бет Макинтајр . 
+288	But as we all know , every great career has to come to an end . 	Ама како што сите знаеме , секоја голема кариера има свој крај . 
+289	Beth is retiring at the end of season . 	Бет заминува во пензија на крајот на сезоната . 
+290	She will be giving her farewell performance as Melpomene , the role she originated in my first ballet . 	Својот опроштален наспта ќе го има како Мел Помани . Улога која ја доби во мојот прв балет . 
+291	My little princess , we honor you . 	Моја мала принцеза . Ти одаваме чест . 
+292	You will be greatly missed , and never forgotten . 	Ќе ни недостасуваш и никогаш нема да те заборавиме ! 
+293	But as we bid adieu to one star , we welcome another . 	Ама , како се поздравуваме со една ѕвезда , дочекуваме нова ! 
+294	We 're opening our season with my new version of Swan Lake . 	Ја отвараме сезоната со мојата нова верзија на Лебедово Езеро . 
+295	Taking the role of our new Swan Queen , the exquisite Nina Sayers . 	Ја завзема улогата на нашата нова Лебедова Кралица , извонредната Нина Сајерс . 
+296	You 'll soon have the pleasure of seeing her perform , but right now , let 's please raise a glass : 	Наскоро ќе имате можност да ја видите како настапува , ама сега ве молам да ги подигнеме чашите за сите нас , за Бет , за Нина , за убавината . 
+297	To all of us . 	Наскоро ќе имате можност да ја видите како настапува , ама сега ве молам да ги подигнеме чашите за сите нас , за Бет , за Нина , за убавината . 
+298	To Beth . 	Наскоро ќе имате можност да ја видите како настапува , ама сега ве молам да ги подигнеме чашите за сите нас , за Бет , за Нина , за убавината . 
+299	To Nina . 	
+300	To beauty . 	
+301	Just a second . 	Само момент . 
+302	Just a second ! 	Само момент ! 
+303	Come on ! 	Ајде , ќе повратам ! 
+304	I 'm about to burst ! 	Ајде , ќе повратам ! 
+305	Hey , it 's you ! 	Еј , тоа си ти ! 
+306	I don 't think we ever officially met . 	Мислам дека не се запознавме официјално . 
+307	- I 'm Lily . 	Мислам дека не се запознавме официјално . 
+308	- Hi , I 'm Nina . 	Јас сум Лили . Здраво , јас сум Нина . 
+309	Yes , our new Swan Queen . 	- Да , нашата нова Лебедова Кралица ! 
+310	- Here , hold this . 	Придржи го ова . 
+311	- Yeah , sure . 	Придржи го ова . 
+312	You must be so excited . 	Сигурно си многу возбудена ! 
+313	Are you freaking out ? 	Лудуваш ? 
+314	- Yeah ... - Yeah ? 	- Да . 
+315	Oh , it 's okay . 	Во ред е . 
+316	Oh , I 'd be losing my mind . 	И јас би го изгубила разумот ! 
+317	I should get back ... 	Би требало да се вратам . 
+318	No , no , no , come on , stay . 	- Не , остани ! 
+319	Keep me company . 	Прави ми друштво . 
+320	Excuse me . 	Извини ме . 
+321	Oh , there you are . 	Тука си ! 
+322	Come on . 	Дојди ! 
+323	Hey . 	
+324	They tried to eat you alive , but here you are . 	Се обидоа да те изедат жива , ама еве те . 
+325	You did well . 	Добра беше . 
+326	- Really ? 	- Навистина ? 
+327	- Mm- hmm . 	- Навистина ? 
+328	Where are you going ? 	Каде ќе одиш ? 
+329	Upper west side . 	- Горната Западна страна . 
+330	Stop at my place for a drink . 	- Ќе дојдеш кај мене на пијалок ? 
+331	It 's on the way . 	- Ќе дојдеш кај мене на пијалок ? 
+332	Thomas , you need to say hello to Karen Holloway . 	Томас , мораш да ја поздравиш Карен Халовеј . 
+333	A minute more of ass- kissing . 	Уште една минута улизување . 
+334	I' ll be back . 	Уште една минута улизување . 
+335	Wait for me here , all right ? 	Ќе се вратам брзо . 
+336	Hello , Karen ! 	Здраво , Карен . 
+337	Beth ! 	Бет . 
+338	I 'm so sorry to hear you 're leaving the company . 	Жал ми е што ја напушташ групата . 
+339	What did you do to get this role ? 	Што направи за оваа улога ? 
+340	He always said you were such a frigid little girl . 	Секогаш зборуваше дека си фригидна девојка . 
+341	What did you do to make him change his mind ? 	Што направи за да го смени мислењето ? 
+342	Did you suck his cock ? 	Дали му го пушеше ? - Не мораме се тоа да го правиме ! 
+343	Not all of us have to . 	
+344	You fucking whore ! 	Ебена курво ! 
+345	You 're a fucking little whore ! 	Ебена мала курво ! - Што се случува овде ? 
+346	Whoa , what 's going on here ? 	
+347	Hey , I need to talk to you . 	Морам да разговарам со тебе . 
+348	- You 're drunk . 	- Пијана си . 
+349	You should go home . 	Би требало да одиш дома ! 
+350	- I need to talk to you . 	Би требало да одиш дома ! 
+351	No ! 	- Не ! 
+352	Don 't you do that ! 	Немој тоа да го правиш . 
+353	Don 't you dismiss me like that ! 	Немој да ме отфрлиш туку така ! 
+354	My little princess , please . 	Моја мала принцезо , те молам , прибери се . 
+355	Pull it together . 	Моја мала принцезо , те молам , прибери се . 
+356	- Come . 	Ќе дојдам подоцна . 
+357	- I 'm coming by later . 	Ќе дојдам подоцна . 
+358	I have something for you . 	Имам нешто за тебе . 
+359	It 's a token of my appreciation . 	Знак на мојата благодарност ! 
+360	- Right . 	Искорсти најмногу што можеш , Нина ! 
+361	- You make the most of it , Nina . 	Искорсти најмногу што можеш , Нина ! 
+362	Don 't worry . 	Не се грижи , тоа е типично . 
+363	It 's typical . 	Не се грижи , тоа е типично . 
+364	Please . 	Мислев дека ќе биде добро да разговараме за улогата . 
+365	I thought it 'd be good to talk about the role . 	Мислев дека ќе биде добро да разговараме за улогата . 
+366	Drown this a little . 	Да не зближи . 
+367	I don 't want there to be any boundaries between us . 	Не сакам никакви граници помеѓу нас . 
+368	- No , me neither . 	- Ни јас исто . - Добро . 
+369	- Good . 	Тогаш ... 
+370	So ... 	Тогаш ... 
+371	You got a boyfriend ? 	Имаш дечко ? 
+372	No . 	
+373	Have you had many in the past ? 	Дали си имала многу порано ? 
+374	A few . 	- Неколку , ама ништо сериозно . 
+375	But no one serious . 	- Неколку , ама ништо сериозно . 
+376	You 're not a virgin are you ? 	Не се девица , зар не ? 
+377	No . 	Не . 
+378	So there 's nothing to be embarrassed about . 	Тогаш нема од што да се срамиш . 
+379	And you enjoy making love ? 	Уживаш ли во водење љубов ? 
+380	Excuse me ? 	- Дај , секс ? 
+381	Come on , sex . 	Уживаш ли во него ? 
+382	Do you enjoy it ? 	
+383	We need to be able to talk about this . 	Мораме без проблем да разговараме за тоа . 
+384	I' ve got a little homework assignment for you . 	Имам мала задача за тебе . 
+385	Go home and touch yourself . 	Оди дома и допирај се . 
+386	Live a little . 	Живеј малку . 
+387	Well it 's late . 	Многу работа имаме утре . 
+388	Lots of work tomorrow . 	Многу работа имаме утре . 
+389	The doorman will find a cab for you . 	Вратарот ќе ти викне такси . 
+390	Sounds like quite an evening . 	Звучи како голема вечер . Сакам да можев да бидам таму . 
+391	I wish I could have been there . 	Знаеш дека прашав . 
+392	You know I asked . 	Знаеш дека прашав . 
+393	I know you did . 	- Знам . Сусие ми рече . 
+394	Susie told me . 	Изгледа дека те сакал само за себе . 
+395	Guess he wanted you all to himself . 	Изгледа дека те сакал само за себе . 
+396	But why ? 	- Не знам зашто . 
+397	Don 't blame him . 	- Не го кривам . 
+398	Where 'd you get these ? 	Од каде ти се обетките ? 
+399	They 're fake . 	- Лажни се . 
+400	Fooled me . 	Мене ме излажаа . 
+401	I can do it . 	Можам сама . 
+402	He must have been by your side all night . 	Сигурно бил покрај тебе цела вечер . 
+403	Showing you off . 	Те покажувал . 
+404	- Oh , Nina ... - It 's just a rash . 	- Тоа е само осип ! - За што зборуваш ! 
+405	Rash ? 	- Беше полошо пред неколку дена . 
+406	What are you talking about ? 	- Беше полошо пред неколку дена . 
+407	It was worse a few days ago . 	Сега е добро . 
+408	It 's fine already . 	Сега е добро . 
+409	- You 've been scratching yourself again . 	- Пак се чешаш . 
+410	- No I haven 't . 	- Не се чешам ! 
+411	Mom ! 	Мамо ! 
+412	This disgusting habit ... 	- Мораш да престанеш со таа одвратна навика . 
+413	Jesus Christ , I thought you were done with this , Nina . 	Исусе , мислев дека престана , Нина ! 
+414	Shrugs . 	Болеро , ќе носиш болеро . 
+415	You 'll keep wearing the shrugs . 	Седни ! 
+416	Sit down . 	Имаш бел и розев . 
+417	You have the white one , and the pink one . 	Имаш бел и розев . 
+418	And that 'll hide it . 	Така ќе го сокриеш . 
+419	And then I' ll dig out that expensive coverup . 	Тогаш ќе ставам од онаа скапа пудра . 
+420	We still have some . 	Сеуште имаме малку . 
+421	No one will see it . 	Никој нема да види . 
+422	Mom , please , 	- Мамо , те молам . 
+423	It 's the role , isn 't it ? 	Лерој , зар не ? 
+424	It 's all this pressure . 	Цел тој притисок ! 
+425	I knew it 'd be too much . 	Знаев дека ќе ти биде премногу . 
+426	I knew it . 	Знаев дека ќе ти биде премногу . 
+427	You 're all right . 	Добро си . 
+428	You 'll be all right . 	Се ќе биде во ред . 
+429	Beth 's in the hospital . 	- Бет е во болница ! 
+430	She had an accident . 	Имаше незгода . 
+431	Oh no ! 	
+432	Beth ? 	
+433	What happened ? 	Што се случило ? 
+434	She walked into the street and got hit by a car . 	Ја преминувала улицата и ја удрила кола . 
+435	You know what ? 	Знаеш што ? 
+436	I 'm almost sure she did it on purpose . 	Скоро сум сигурен дека тоа го направила намерно . 
+437	How do you know ? 	Од каде знаеш ? 
+438	Because everything Beth does comes from within , from some dark impulse . 	- Бидејќи се што прави Бет доаѓа одвнатре , од некој мрачен импулс ! 
+439	I guess that 's what makes her so thrilling to watch . 	Затоа веројатно е такво возбудување да гледаш . 
+440	So dangerous . 	Така опасно . 
+441	Even perfect at times . 	Понекогаш и совршено . 
+442	But also so damned destructive . 	Ама исто така и многу уништувачки . 
+443	Was it right after we saw her ? 	Дали тоа беше откако ја видовме ? 
+444	Wait , wait , wait . 	Чекај , ова нема никаква врска со тебе . 
+445	This has nothing to do with you . 	Чекај , ова нема никаква врска со тебе . 
+446	It 's not your problem , so don 't let yourself be distracted . 	Тоа не е твој проблем , затоа немој да се вознемируваш ! 
+447	This is your moment , Nina . 	Ова е твој момент , Нина ! 
+448	Don 't let it go . 	Немој да го пуштиш . 
+449	What are you doing ? 	Што правите ? 
+450	Nina ? 	Нина ? 
+451	Sweetie , are you ready for me ? 	Душо , се молиш за мене ? 
+452	And ... 	И ... 
+453	Come on ! 	Ајде ! Заборавија контролата , Нина ! 
+454	Forget about control , Nina . 	Сакам да видам страст ! 
+455	I want to see passion . 	Сакам да видам страст ! 
+456	Come on . 	Ајде ! Досегни ! Уште ! 
+457	Stiff like a dead corpse . 	Како труп ! Препушти се ! 
+458	Let it go . 	Препушти се ! 
+459	Let it go . 	
+460	Let it go . 	И повторно ! 
+461	And again . 	И повторно ! 
+462	Feels like you have your diaphragm is in a bit of a contraction ? 	Изгледа како дијафрагмата да не ти функционира добро . 
+463	I 'm okay . 	
+464	Breathe in to this hand . 	Сакам да дишеш во рака . Диши во рака . 
+465	Breathe in to this hand . 	Издиши , издиш . 
+466	Breathe in , all the way . 	Целосно ! Добро е ! 
+467	Good . 	
+468	And exhale . 	И издиши . 
+469	Does it feel jammed in the front every time you plie ? 	Чуствуваш ли како да е укочено напред секогаш кога танцуваш ? 
+470	Sometimes , not always . 	Понекогаш , не секогаш . 
+471	- One more pull , okay ? 	Уште еднаш ќе повлечам , може ? 
+472	- Okay . 	Уште еднаш ќе повлечам , може ? 
+473	- Is that okay ? 	Дали е добро ? 
+474	- Yeah . 	Дали е добро ? 
+475	David , can I ask you a question ? 	Дејвид , може нешто да те прашам ? 
+476	Honestly , would you fuck that girl ? 	Искрено , би ја ебел оваа девојка ? 
+477	No . 	Никој не би ја ебел ! 
+478	No one would . 	Никој не би ја ебел ! 
+479	Nina ... 	Нина , твоето танцување е фригидно како и ... 
+480	Your dancing is just as frigid ... 	Нина , твоето танцување е фригидно како и ... 
+481	Fuck ! 	Да ти ебам ! 
+482	We 're still working here , please . 	Сеуште работиме овде ! 
+483	Lights ! 	Ве молам светлата ! 
+484	The lights ! 	Ве молам светлата ! 
+485	Thank you ! 	Фала ! 
+486	Okay , guys , you can go . 	Добро , дечки , можете да одите . 
+487	Thanks for your patience . 	Фала на трпение . 
+488	No , no , you stay . 	Не , ти остани ! 
+489	You stay . 	Не , ти остани ! 
+490	Have fun , you two . 	Забавувајте се вие двајца . 
+491	Okay . 	Добро , дојди . 
+492	Come here . 	Дојди , дојди , дојди ! 
+493	Come , come , come , come . 	Дојди , дојди , дојди ! 
+494	I' ll be the Prince . 	Јас ќе бидам принц . 
+495	Let it go . 	Препушти се , препушти се . 
+496	Let it go . 	Препушти се , препушти се . 
+497	Feel my touch . 	Осети го мојот допир . 
+498	Respond to it . 	Реагирај на него . 
+499	Come on . 	
+500	Open your mouth . 	Отвори ја устата ! 
+501	Open it . 	Отвори , отвори ! 
+502	Open up . 	Отвори , отвори ! 
+503	That was me seducing you , when it needs to be the other way around . 	Јас те заведов тебе . Требаше да биде обратно . 
+504	Please ... 	Те молам ! 
+505	Who is that ? 	Кој е тоа ? 
+506	Hey . 	
+507	You okay ? 	Добро си ? 
+508	You can 't smoke in here . 	Не можеш да пушиш овде . 
+509	Well , I won 't tell if you won 't . 	Нема да кажам ако ти не кажеш . 
+510	So ... 	Па , големиот ден се ближи и ближи ? 
+511	The big day 's getting closer and closer , huh ? 	Па , големиот ден се ближи и ближи ? 
+512	Well , I can 't wait . 	Едвај чекам . 
+513	I think you 're going to be amazing . 	Мислам дека ќе бидеш неверојатна ! 
+514	Thanks . 	Фала . 
+515	So ... 	
+516	Do you want to talk about it ? 	Сакаш да разговараме за тоа ? 
+517	It 's that hard to . 	Толку е тешко . 
+518	Leroy playing a little too rough for you ? 	Лирој е премногу груб спрема тебе ? 
+519	Come on , Nina . 	Дај , Нина , он е гад ! 
+520	He 's a prick . 	Дај , Нина , он е гад ! 
+521	He 's brilliant . 	Тој е исклучителен ! 
+522	Sure , but it 's not like he 's all warm and fuzzy . 	Секако , ама не е баш пријатен и драг . 
+523	What you don 't know is ... 	Не го познаваш . 
+524	Someone 's hot for teacher ! 	Некој се пали на учителот ! 
+525	Oh , come on , it 's okay . 	Дај , во ред е . Не те кривам . 
+526	I don 't blame you . 	- Морам да одам дома . 
+527	I should go home . 	- Морам да одам дома . 
+528	Nina , come on . 	Нина , само се зезам . 
+529	I 'm just playing around . 	Нина , само се зезам . 
+530	Nina ! 	Нина ? 
+531	Sweetie ? 	Душо ? 
+532	What are you doing in there ? 	Што правиш ? 
+533	Again . 	Повторно ! 
+534	Again . 	Повторно ! 
+535	Do you have any corrections ? 	Имаш ли некои исправки ? 
+536	Lily told me that she saw you crying . 	Лили ми рече дека те видела како плачеш . 
+537	That you were very upset and that I should take it easy on you . 	Дека си била многу вознемирена и да не те оптеретувам . 
+538	I didn 't tell her that . 	Не сум и го рекла тоа . 
+539	Maybe you need a little break . 	Можеби ти треба мала пауза . 
+540	A day or two . 	Можеби ти треба мала пауза . 
+541	Or maybe a month . 	Ден или два . - Томас . 
+542	What do you think ? 	- Или месец ? 
+543	She shouldn 't have said anything . 	Не требаше ништо да каже ! 
+544	No , you shouldn 't be whining in the first place . 	- Не , ти не требаше да кукаш ! 
+545	I didn 't . 	- Не , ти не требаше да кукаш ! 
+546	You could be brilliant . 	Можеше да бидеш извонредна ! 
+547	But you 're a coward . 	Ама си кукавица ! 
+548	Sorry . 	Жал ми е . 
+549	No , stop saying that ! 	- Престани тоа да го зборуваш ! 
+550	That 's exactly what I 'm talking about . 	За тоа ти зборувам ! 
+551	Stop being so fucking weak . 	Престани да бидеш ебен слабак ! 
+552	Again ! 	Повторно ! 
+553	Lily ... 	- Види кој одлучил да не почести со своето присуство . 
+554	Oh , look who 's decided to grace us with her presence . 	- Види кој одлучил да не почести со своето присуство . 
+555	I need to talk to you . 	Морам да разговарам со тебе . 
+556	Okay . 	Морам да разговарам со тебе . 
+557	Now . 	- Добро . Одма ! 
+558	Shut up . 	- Замолчи ! 
+559	Come on . 	
+560	What 's up ? 	- Си му рекла на Томас за синоќа ? 
+561	You told Thomas about last night ? 	- Си му рекла на Томас за синоќа ? 
+562	Oh , yeah . 	Да , налетав на него утрово и рече дека имате проблеми . 
+563	I ran into him in the morning and he said you guys were having some trouble . 	Да , налетав на него утрово и рече дека имате проблеми . 
+564	Why would he talk to you ? 	Зашто би разговарал со тебе ? 
+565	Oh , excuse me , your highness . 	- Извинете , Ваше Величество . 
+566	I just told him you 're working your ass off and I think you 'll be great . 	Му реков дека се трудиш како коњ и дека ќе бидеш одлична . 
+567	Well you shouldn 't have . 	- Не си требала ! 
+568	Okay . 	Добро . 
+569	Has he tried anything with you ? 	Дали пробал нешто со тебе ? 
+570	He has a reputation . 	Има углед . 
+571	I have a right to be concerned , Nina . 	Имам право да се грижам , НИна . 
+572	You 've been staying late so many nights . 	Остануваш така доцна навечер . 
+573	Rehearsing . 	Остануваш така доцна навечер . 
+574	I just hope he isn 't taking advantage , that 's all . 	Се обидуваш . Се надевам дека не го искористува тоа . 
+575	He 's not . 	- Не го искористува ! 
+576	Good . 	Добро . 
+577	I just don 't want you to make the same mistake I did . 	Не сакам да ја направиш истата грешка како и јас . 
+578	Thanks . 	Фала . 
+579	Not like that . 	- Не мислев така . 
+580	I just mean as far as my career was concerned . 	Мислев на својата кариера . 
+581	What career ? 	Кариера . 
+582	The one I gave up to have you . 	Онаа од која се одреков за да те одгледам тебе . 
+583	I 'm twenty- eight . 	Си имала 28 години . 
+584	So ? 	- Па што ? 
+585	Only that ... 	Само ... 
+586	Only what ? 	- Само што ? 
+587	Nothing . 	Ништо . 
+588	- What ? 	- Што ? 
+589	- Nothing . 	- Ништо ! 
+590	How is your skin ? 	Како ти е кожата ? 
+591	Fine . 	- Добро . 
+592	- Are you leaving it alone ? 	Не ја допираше ? 
+593	- Mm- hmm . 	Не ја допираше ? 
+594	Let me see . 	Да видам . 
+595	- Take off your shirt . 	Соблечи ја маицата . 
+596	- No . 	Соблечи ја маицата . 
+597	Can I help you ? 	Може да ви помогнам . 
+598	Who was that ? 	Кој беше ? 
+599	It was no one . 	- Никој . 
+600	It was no one . 	Никој ! 
+601	Hello ? 	Здраво . 
+602	What are you doing here ? 	Што правиш овде ? 
+603	I just came by to apologize . 	- Само дојдов да се извинам . 
+604	You 're right . 	Имаше право , не требаше да му кажам за тебе . 
+605	I should have never spoken to him about you . 	Имаше право , не требаше да му кажам за тебе . 
+606	- Sweetheart . 	Душо . 
+607	- Give me a second . 	- Дај ми момент . 
+608	- Your dinner ... - Mom , please . 	- Вечера . 
+609	Oh , she 's a trip . 	Баш е убава . 
+610	How do you know where I live ? 	- Како знаеш каде живеам ? 
+611	I have my ways . 	Имам свои начини . 
+612	Jesus , relax . 	Ја добив адресата од Суси од канцеларијата ! 
+613	I got it from Susie in the office . 	Ја добив адресата од Суси од канцеларијата ! 
+614	Look , I feel really shitty about what I did , and I really want to make it up to you . 	Се чуствувам баш безврска поради она што го направив . 
+615	So how about I take you out to dinner ? 	Сакам да ти се искупам , затоа , што велиш за вечера ? 
+616	- I don 't think ... - Okay , that 's fine . 	Не ... - Добро , во ред , што велиш за ... пијалок ? 
+617	What about drinks ? 	Не ... - Добро , во ред , што велиш за ... пијалок ? 
+618	Sweetie , you need to rest . 	Душо , мораш да се одмориш . 
+619	- Jesus . 	Душо , мораш да се одмориш . 
+620	- Wait . 	- Исусе . - Чекај ! 
+621	What are you doing ? 	Што правиш ? 
+622	I 'm going out . 	Излегувам . - Што ? 
+623	What ? 	- Одиме по скалите . 
+624	Nina ! 	- Одиме по скалите . 
+625	You 're on the stage tomorrow . 	Нина ? Утре настапуваш ! 
+626	I can 't believe he calls her that . 	Не можам да верувам дека така ја вика . 
+627	- It 's so gross . 	Одвратно ! 
+628	- I think it 's sweet . 	- Мислам дека е убаво . 
+629	Little Princess ? 	" Мала принцеза " ? ! 
+630	- He probably calls every girl that . 	Веројатно секоја девојка така ја вика . 
+631	- No way . 	- Нема шанси ! 
+632	That 's just for Beth . 	Тоа е само за Бет . 
+633	Well , I bet he 'll be calling you Little Princess any day now . 	Ама се кладам дека многу брзо тебе ќе те вика така . 
+634	I don 't know about that . 	Не знам баш . 
+635	Oh , sure he will . 	- Сигурно ! 
+636	Just got to let him lick your pussy . 	Само дај му да ти ја полиже пичката . 
+637	Cheeseburger , extra bloody . 	Чизбургер , пресан ! 
+638	Mmm , dankeschin . 	- Фала многу ! 
+639	Let me know if that 's juicy enough for you . 	Јавете ми ако тоа ви е доволно сласно . 
+640	Oh , I will . 	Јавете ми ако тоа ви е доволно сласно . 
+641	You have enough cheese ? 	Имате доволно сирење ? 
+642	No , but you do . 	- Не , ама ти имаш . 
+643	Enjoy . 	Уживајте . 
+644	All right . 	
+645	Wanna spruce up ? 	Сакаш да се скоцкаш ? 
+646	What , I carry a spare in case I wake up somewhere unexpected . 	Носам резерва ! Во случај да се разбудам некаде неочекувано . 
+647	So how is he ? 	Тогаш , како ве ? 
+648	Thomas . 	Томас ? 
+649	I wouldn 't know . 	Не би знаела . 
+650	- Oh , come on . 	- Дај . 
+651	- I really don 't want to talk about that . 	Навистина не сакам да зборувам за тоа ! 
+652	Okay . 	Добро . 
+653	You really need to relax . 	Навистина мораш да се опуштиш . 
+654	One for you , one for me . 	Една за тебе , една за мене . 
+655	Oh , and don 't worry . 	Не се грижи , чисто е , ветувам . 
+656	It 's pure , I promise . 	Не се грижи , чисто е , ветувам . 
+657	I brought it with me straight from San Francisco . 	Ги донесов од Сан Франциско . 
+658	What is it ? 	Што е тоа ? 
+659	Are you kidding ? 	- Ме зезаш ? 
+660	You 've never rolled ? 	Никогаш не си земала екстази ? 
+661	Oh , relax . 	Малку ќе те опушти , ослободи . 
+662	Here . 	Малку ќе те опушти , ослободи . 
+663	It 'll loosen you up . 	Малку ќе те опушти , ослободи . 
+664	Wait till you see the night sky . 	Да можеш да го видиш ноќното небо . 
+665	How long does it last ? 	Колку трае ? 
+666	A couple hours , tops . 	- 2 часа , најмногу ! 
+667	It 's okay . 	Во ред е . 
+668	Okay . 	- Добро . 
+669	Nina , hi ! 	Мислев јас и ти да испиеме неколку пијачки ! 
+670	I thought we could use some company . 	Мислев јас и ти да испиеме неколку пијачки ! 
+671	So this is Tom and this is Jerry . 	Ова е Том , а ова е Џери . 
+672	- Actually it 's Andrew . 	- Всушност сум Андру . 
+673	- Tom . 	Морам да одам . 
+674	- I have to go ... - Oh , no you can 't go . 	- Не можеш да одиш , веќе нарачав пијачки . 
+675	I just got us some drinks . 	- Не можеш да одиш , веќе нарачав пијачки . 
+676	I shouldn 't ... 	Не би смеела . 
+677	We 're on the stage tomorrow . 	Одиме на сцената утре . - Што ќе правиш ? 
+678	So what are you going to do ? 	Ќе одиш кај мајка ти дома ? 
+679	Go home to Mommy ? 	Ќе одиш кај мајка ти дома ? 
+680	Come on , live a little . 	Дај , живеј малку ! 
+681	It 's just a couple hours , right ? 	Само 2 часа , зар не ? 
+682	Tops . 	- Најмногу ! 
+683	Cheers . 	Живели ! 
+684	You haven 't told me who you are . 	Не рече која си . 
+685	I 'm a dancer . 	- Танчарка сум . 
+686	No , I mean your name . 	Мислев на твоето име . 
+687	- Oh . 	- Вие две сте сестри ? 
+688	Nina . 	- Вие две сте сестри ? 
+689	- So are you two sisters ? 	- Вие две сте сестри ? 
+690	- Yes . 	- Не ! 
+691	- No . 	- Не ! 
+692	- Blood sisters . 	- Да ! Како сестри . 
+693	- We dance in the same company . 	- Танцуваме во иста група . 
+694	Ah , ballerinas . 	Балерини ! 
+695	No wonder you two look alike . 	Не е ни чудно што си личите . 
+696	I see now . 	Том и Џери се геј љубовници . 
+697	Tom and Jerry here are gay lovers . 	Том и Џери се геј љубовници . 
+698	- Very funny . 	- Многу смешно ! 
+699	- I like to amuse myself . 	Никогаш не сум одел на балет . 
+700	I' ve never been to the ballet . 	Никогаш не сум одел на балет . 
+701	Then you are definitely not gay . 	- Навистина ? - Тогаш ти не си геј . 
+702	I mean , it 's kind of boring , isn 't it ? 	Сигурно е досадно , зар не ? 
+703	- Be honest . 	Сигурно е досадно , зар не ? 
+704	- No it 's not . 	- Не е ! 
+705	You know what ? 	- Знаеш , не е баш за секој . 
+706	It 's just not for everyone . 	- Знаеш , не е баш за секој . 
+707	You should come sometime . 	Би требало да дојдете некогаш . 
+708	I can comp you tickets whenever you want . 	Можам да ви набавам карти . 
+709	Yeah . 	Можам да ви набавам карти . 
+710	Yeah . 	- Да ! 
+711	- Yeah , that would be neat . 	Тоа би било супер . 
+712	Thanks . 	- Мислам дека е време за уште една рунда . 
+713	- Okay well ... 	- Мислам дека е време за уште една рунда . 
+714	I think it 's time for another round . 	- Мислам дека е време за уште една рунда . 
+715	Bottoms up . 	На една голтка ! 
+716	So what are you guys working on now ? 	- На што работите сега ? 
+717	Sorry . 	Извини . 
+718	Swan Lake . 	Лебедово Езеро . 
+719	Yeah ? 	- Добро . Да ! 
+720	You know it ? 	Знаеш за него ? 
+721	No , not really . 	- Не . 
+722	Heard of it . 	Сум слушнал . 
+723	What 's it about ? 	За што се работи ? 
+724	It 's about a girl who gets turned into a swan , and she needs love to break the spell . 	За девојка која се претвора во лебед . И треба љубов за да ја поништи магијата . 
+725	But her prince falls for the wrong girl , and so she kills herself . 	Ама нејзиниот принц се заљубува во погрешна девојка , па се убива . 
+726	It 's not a happy ending then . 	Не е баш среќен крај . 
+727	It 's beautiful , actually . 	Преубаво е . 
+728	Like you . 	Како и ти . 
+729	Huh ? 	
+730	I said you 're beautiful . 	Реков дека си преубава . 
+731	That 's funny ? 	Смешно е . 
+732	Looks like someone might be rolling . 	Изгледа дека некој е издрогиран . 
+733	All right , come on . 	Добро , одиме . 
+734	Come on , it 's time to go dance . 	Време е за танцување . 
+735	Nina ! 	Еј , Нина ? ! 
+736	Hey , what the fuck ? 	Еј , кој кур ? 
+737	Where you going ? 	Каде ќе одиш ? 
+738	Nina ! 	Нина , каде ќе одиш ? 
+739	Where are you going ? 	Нина , каде ќе одиш ? 
+740	Do you have any idea what time it is ? 	Знаеш ли колку е воопшто часот ? 
+741	Late ? 	Доцна ? 
+742	Where have you been ? 	Каде беше ? 
+743	To the moon and back . 	- На Месечината и назад . 
+744	- You 've been drinking . 	Си пиела ! 
+745	- Ding ding ding ding ding ! 	Си пиела ! 
+746	- What else ? 	Што уште ? 
+747	- Hmm ? 	- А ? 
+748	What else have you been doing ? 	- Што уште правеше ? 
+749	Oh , you want to know their names ? 	Сакаш да знаеш како се вика ? 
+750	- You need to sleep this off . 	Морам да го преспијам ова ! 
+751	- There were two . 	- Не , беа двајца . 
+752	Tom and Jerry . 	Том и Џери ! 
+753	- Be quiet , Nina . 	- Тишина ! 
+754	- And I fucked them both . 	И со двајцата се ебев . 
+755	Shut your mouth ! 	- Замолчи ! 
+756	- Don 't come in here . 	Не влегувај ! 
+757	- What 's this ? 	- Што е ова ? ! 
+758	It 's called privacy . 	Тоа се вика приватност ! 
+759	I 'm not twelve anymore . 	Немам веќе 12 години ! 
+760	- You 're not my Nina right now ... - Leave me alone ! 	Не си моја Нина ! - Остави ме на мира ! 
+761	Sweat girl . 	Драга девојко . 
+762	Why didn 't you wake me up ? 	Зашто не ме разбуди ? 
+763	I 'm moving out . 	Се селам . 
+764	My music ! 	Мојата музика . 
+765	Thomas , I am so sorry . 	Томас , навистина ми е жал . 
+766	Keep on going . 	- Продолжете ! 
+767	Go get warmed up . 	Оди да се загрееш . 
+768	That was good . 	Тоа беше добро . 
+769	Actually , really good . 	Многу добро . 
+770	Okay , let 's take ten . 	Да се одмориме за 10 минути . 
+771	Look , he just wanted to mark it and asked me to step up , okay ? 	Само побара некој и ме праша дали јас . 
+772	I overslept . 	Преспав . 
+773	Oops . 	Барем убаво си помина , зар не ? 
+774	But hey , at least you had a good time , right ? 	Барем убаво си помина , зар не ? 
+775	You put something in my drink . 	- Ми стави нешто во пијалокот . 
+776	Yeah . 	Да . 
+777	And then you just took off in the morning . 	- Само си отиде наутро ? 
+778	In the morning ? 	Наутро ? 
+779	Yeah , you slept over . 	- Да , преспа . 
+780	Um , no . 	Не . 
+781	Unless your name 's Tom and you had a dick . 	Единствено ако се викаш Том и имаш кур . Ама ние сме ... 
+782	What , Nina ? 	- Што сме , Нина ? 
+783	Did you have some sort of lesbian wet dream about me ? 	Дали имаше некаков лезбејски мокар сон со мене ? 
+784	- Stop . 	- Престани ! 
+785	- Oh my God ! 	Боже мој ! Да ! 
+786	Oh my God , you did ! 	Си сонувала за мене ! 
+787	You fantasized about me ! 	Замолчи ! 
+788	- Shut up ! 	- Добра ли бев ? 
+789	- Was I good ? 	- Добра ли бев ? 
+790	The final act . 	Последен чин ! Твојот последен танц ! 
+791	You 're trying to dance . 	
+792	You 've tasted your dream ! 	Го осети твојот сон . 
+793	Touched it ! 	Го допре ! 
+794	Only to have it crushed ! 	Ама он не се сруши ! 
+795	Your heart is broken , wounded . 	Срцето ти е скршено ! Рането . 
+796	Your life force fading . 	Животот ти исчезнува . 
+797	The blood drips . 	Крвта капе ! 
+798	The Black Swan stole your love . 	Црниот лебед ти ја украде љубовта ! 
+799	There is only one way to end the pain . 	Единствен начин е болката ! 
+800	You are not fearful , but filled with acceptance . 	Не си плашлива туку исполнета со прифаќање ! 
+801	And you look down at Rothbart , and then at the Prince , and then , yes , at the audience . 	Погледнуваш према Рутбарт . Потоа во принцот ! Потоа , да , во публуката ! 
+802	And then you jump . 	Потоа скокаш ! 
+803	Go ahead . 	Ајде , скокни ! 
+804	Jump . 	Скокни ! 
+805	Jump ! 	Скокни ! 
+806	Okay , everybody get a drink of water , then it 's notes . 	Добро , сите напијте се вода , потоа преминуваме на ноти . 
+807	You lost weight . 	Си ослабнала . 
+808	Take off your shrug , please . 	Соблечи го болерото , те молам . 
+809	Very good . 	Многу добро . 
+810	Face front . 	Сврти се напред , скоро сме готови . 
+811	We 're almost done . 	Сврти се напред , скоро сме готови . 
+812	And that 's it . 	Добро , тоа е тоа . 
+813	Okay . 	Готови сме , фала многу . 
+814	We 're done . 	Готови сме , фала многу . 
+815	Thank you very much . 	Готови сме , фала многу . 
+816	Georgina , I 'm Lily . 	Јас сум Лили . 
+817	Thomas sent me ... 	- Морам да те измерам за костимот на Лебедова кралица . 
+818	Yes , we have to get you measured for the Swan Queen costumes . 	- Морам да те измерам за костимот на Лебедова кралица . 
+819	What 's she doing here ? 	Што она прави овде ? 
+820	He made me your alternate . 	Ме зема за твоја замена . 
+821	Look , it 's just in case . 	За секој случај ! 
+822	Thomas . 	Томас ? Томас ? ! 
+823	Thomas . 	- Да ? ! 
+824	- Thomas . 	- Да ? ! 
+825	- Yes ? 	Не може да биде она . 
+826	It can 't be her . 	Не може да биде она . 
+827	It can 't be her . 	Не може она ! 
+828	Okay , why don 't you just go . 	Оди ти , ќе те стигнам . 
+829	I' ll catch up later . 	Оди ти , ќе те стигнам . 
+830	What 's going on ? 	Што се случува ? 
+831	Lily ... 	- Лили ! 
+832	You made her my alternate ? 	Си ја зел за моја замена . 
+833	There 's always an alternate . 	Секогаш постои замена . Лили е најдобар избор . 
+834	Lily is the best choice . 	Не , она ја сака мојата улога . 
+835	No , she wants my role . 	Не , она ја сака мојата улога . 
+836	Every dancer in the world wants your role . 	- Секоја танчерка на светот тоа го сака . Ова е поинаку ! 
+837	No , this is different . 	Ме прогонува ! 
+838	She is after me . 	Се обидува да ме замени ! 
+839	- She is trying to replace me . 	Никој не те прогонува . 
+840	- Nobody is after you . 	- Те молам , верувај ми ! 
+841	- No , please believe me ... 	
+842	I know it 's been a struggle . 	Знам дека беше тешко . 
+843	But you just had a breakthrough this morning . 	Ама утрово научи помалку . 
+844	Tomorrow is yours . 	Само нека биде одлична изведба и не мораш да се грижиш за Лили ниту за никој друг ! 
+845	Just give a great performance and you won 't have to worry about Lily or anybody else . 	Само нека биде одлична изведба и не мораш да се грижиш за Лили ниту за никој друг ! 
+846	Now go home and rest . 	Сега оди дома и одмори се . 
+847	From the vision again . 	Повторно визија . 
+848	What happened ? 	Што се случило ? 
+849	I' ve got a life . don 't work too hard . 	Имам и јас живот . Немој да претеруваш . 
+850	It 's a big day tomorrow . 	Утре е голем ден . 
+851	I 'm still working in here . 	Сеуште вежбам . 
+852	Could you please turn the lights back on ? 	Ве молам , можете ли да ги запалите светлата ? 
+853	Hello ? 	Има ли некој ? 
+854	What are you doing here ? 	Што правиш овде ? 
+855	I 'm so sorry . 	- Жал ми е . 
+856	I 'm so sorry . 	Многу ми е жал ! 
+857	I know how it feels now . 	Знам сега какво е тоа чуство ! 
+858	She 's trying to replace me . 	Се обидува да ме замени ! 
+859	What do I do ? 	Што да правам ? 
+860	You stole my things ? 	Ми ги украде работите . 
+861	I was just trying to be perfect , like you . 	- Се обидов да бидам совршена , како тебе ! 
+862	Perfect ? 	Совршена ? 
+863	I 'm not perfect . 	Јас не сум совршена . 
+864	I 'm nothing . 	Јас сум ништо . 
+865	Nothing ! 	Ништо ! Ништо ! 
+866	Nothing , nothing ! 	Ништо ! 
+867	Sweet girl . 	Слатка девојко . 
+868	Mommy ? 	Мамо ? 
+869	Sweet girl . 	Слатка девојко ! 
+870	Sweet girl . 	Мој ред ! 
+871	Stop ! 	Престанете ! 
+872	What are you doing ? 	Што правиш ? 
+873	Sweetie ? 	Душо ? 
+874	Nina ? 	Нина ? 
+875	Nina ! 	Нина ? 
+876	Go away ! £ ¡ Open the door ! 	Излези ! Отвори ја вратата ! 
+877	Go away ! 	- Оди си ! 
+878	Open the door , Nina ! 	Отвори ја вратата , Нина ! 
+879	Nina ! 	Отвори ја вратата , Нина ! 
+880	Get out ! 	Излези надвор ! 
+881	- What 's wrong with you ? 	- Што ти е ? - Излези надвор ! 
+882	- Get out ! 	
+883	- Get out ! 	- Болна си ! 
+884	- What do you see ? 	- Излези ! 
+885	Get out ! 	
+886	It 's okay . 	Во ред е . 
+887	I 'm here . 	Овде сум . 
+888	You were scratching all night . 	Се чешаше цела ноќ . 
+889	Where 's my clock ? 	Каде ми е часовникот ? 
+890	- Don 't worry about that . 	- Не се грижи за тоа . 
+891	- What time is it ? 	- Колку е часот ? 
+892	- The show is tonight , I have to ... - No , no , no , no . 	Настапот ми е вечерва . 
+893	Don 't worry . 	Морам ... - Не , не , не се грижи . 
+894	I called the theater and I told them you aren 't feeling well . 	Се јавив во театарот и им реков дека не се чуствуваш добро . 
+895	I have to go ! 	Морам да одам ! 
+896	- No . 	Морам да одам ! 
+897	No , you don 't . 	- Не легни ! 
+898	- Let go of me . 	- Пушти ме ! 
+899	You 're staying in here until you feel better . 	Ќе останеш овде додека не се чуствуваш подобро . 
+900	Where is it ? 	Каде е ? 
+901	This role is destroying you . 	- Тој свет те уништува . 
+902	- Move . 	Тргни се ! - Нина ! 
+903	Move ! 	- Тргни се ! 
+904	- Nina ... ! 	- Тргни се ! 
+905	- What happened to my sweet girl ? 	- Што и се случило на мојата слатка девојка ? 
+906	- She 's gone ! 	Ја нема повеќе ! 
+907	Nina ! 	
+908	Oh , Nina ! 	
+909	No , please ! 	Не , те молам , не си добро ! 
+910	- You 're not well ! 	Не , те молам , не си добро ! 
+911	- Let go of me ! 	- Пушти ме ! 
+912	You can 't handle this . 	Не можеш да го поднесеш тоа ! 
+913	I can 't ? 	Не можеш да го поднесеш тоа ! 
+914	I 'm the Swan Queen . 	Јас сум Лебедова Кралица , ти си таа која никогаш ништо не постигнала ! 
+915	You 're the one who never left the corps . 	Јас сум Лебедова Кралица , ти си таа која никогаш ништо не постигнала ! 
+916	Nina ! 	- Нина ! 
+917	What are you doing here ? 	Што правиш овде ? 
+918	Nina ? 	- Нина ? 
+919	She was supposed to be sick . 	- Требаше да биде болна ! 
+920	Give us a minute . 	Дај ни момент . 
+921	Are you okay ? 	Добро си ? 
+922	I 'm fine . 	- Да . 
+923	Nina . 	Нина ... 
+924	Nina . 	Нина ? 
+925	What ? 	- Што е ? 
+926	I' ve already asked Lily . 	Веќе ја земав Лили . 
+927	Have you announced it ? 	Објави ли ? 
+928	After Beth , do you really need another controversy ? 	После Бет ти треба ли уште една полемика ? 
+929	I 'm here , Thomas . 	Јас сум овде , Томас . 
+930	I 'm doing it . 	Ќе танцувам . 
+931	The only person standing in your way is you . 	Единствена личност која ти стои на патот си ти . 
+932	It 's time to let it go . 	Време е да ја пуштиш . 
+933	Lose yourself . 	Препушти се ! 
+934	White Swan , up in ten . 	Бел лебед , излегуваш за 10 минути . 
+935	What are you doing ? 	Што правиш ? 
+936	You need to be upstage . 	Мораш да бидеш горе . 
+937	You suck . 	Бев грозна ! 
+938	Okay , Nina . 	Добро , Нина . 
+939	What the fuck ? 	Што по ѓаволите ? 
+940	- Are you okay ? 	Добро си ? 
+941	- Nina , are you okay ? 	- Добро си , што се случи ? 
+942	Can you tell me what the fuck happened ? 	Можете ли да ми кажете кој кур беше тоа ? 
+943	- It wasn 't my fault . 	Не сум јас крива ! 
+944	He dropped me . 	Ме испушти ! 
+945	- This is a fucking disaster . 	- Ебена катастрофа ! 
+946	Rough start , huh ? 	Тежок почеток , а ? 
+947	Must have been pretty humiliating . 	Сигурно беше понижувачки . 
+948	Get out of my room . 	Излези од мојата соба ! 
+949	I 'm worried about the next act . 	- Се грижам поради следниот чин . 
+950	I 'm just not sure you 're feeling up to it . 	Не сум сигурна дека си дорасната за тоа . 
+951	Stop . 	- Престани ! 
+952	Please stop . 	
+953	How about I dance the Black Swan for you ? 	Што велиш ... јас да го отанцувам Црниот лебед наместо тебе ? 
+954	Leave me alone ! 	Остави ме на мира ! 
+955	My turn ! 	Мој ред е ! 
+956	My turn ! 	Мој ред ! 
+957	My turn ! 	
+958	It 's my turn ! 	Мој ред е ! 
+959	Black Swan , places in five . 	Црн лебед , на место за 5 минути . 
+960	Come on . 	
+961	Good job . 	Одлична изведба ! 
+962	Fifteen to the last act . 	15 минути до последниот чин . 
+963	Hey . 	
+964	You were amazing . 	Беше неверојатна ! 
+965	Seriously , I know that things got a little messed up between us , but I mean , holy shit , you completely blew me away ! 	Знам дека стана малку зезнато помеѓу нас , ама ... Да ти ебам , тотално ме воодушеви ! 
+966	Okay , well I guess that 's it . 	Веројатно тоа е се . 
+967	So I' ll let you finish . 	Ќе те оставам да завршиш . 
+968	Bye . 	Ќе те оставам да завршиш . 
+969	Can you hear them ? 	Слушаш ли ? 
+970	They love you ! 	Те сакаат , те сакаат ! 
+971	My little princess , I always knew you had it in you . 	Моја мала принцезо ! Секогаш знаев дека го имаш тоа во себе ! 
+972	Come on . 	Ајде , дојди да се потпреш . 
+973	Let 's take you out . 	Ајде , дојди да се потпреш . 
+974	Go get some help . 	Одите по помош ! 
+975	Go get some help ! 	Одите по помош ! 
+976	What did you do ? 	Што направи ? 
+977	What did you do ? 	Што направи ? 
+978	- I felt it . 	Почуствував . 
+979	- What ? 	- Што ? 
+980	I felt perfect . 	Совршена сум . 
+981	I was perfect . 	Беше совршено . 
+982	Nina ! 	Превод и обработка : 
+983	Nina ! 	Ѓорѓи .. :: dzolerc@ hotmail . com :: .. 
+984	Nina ! 	Ѓорѓи .. :: dzolerc@ hotmail . com :: .. 

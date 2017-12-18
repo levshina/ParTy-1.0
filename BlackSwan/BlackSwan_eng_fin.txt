@@ -1,0 +1,985 @@
+0		Tekstityksen versionumero : 1 . 2 Päiväys : 25 . 12 . 2010 
+1	I had the craziest dream last night . 	Näin viime yönä hullua unta . 
+2	I was dancing the White Swan . 	Tanssin Valkoista joutsenta . 
+3	It was different choreography , though . 	Koreografia oli erilainen . 
+4	It was more like the Bolshoi 's . 	Enemmän Bolshoin tyyppinen . 
+5	It was the prologue , when Rothbart casts his spell . 	Se oli prologi . Kun Rothbart langettaa loitsun . 
+6	Look how pink . 	Katso , miten vaaleanpunainen ja kaunis . 
+7	So pretty ... 	Katso , miten vaaleanpunainen ja kaunis . 
+8	Pretty ! 	Kaunis . 
+9	- You 're in a good mood . 	- Sinä olet hyvällä tuulella . 
+10	- He promised to feature me more this season . 	- Hän lupasi enemmän esityksiä tällä kaudella . 
+11	Well , he certainly should . 	Niin hänen pitäisikin . 
+12	You 've been there long enough , and you 're the most dedicated dancer in the company . 	Olet ollut siellä kyllin kauan . Ja olet seurueen omistautunein tanssija . 
+13	Up . 	Ylös . 
+14	- What 's that ? 	- Mikä tuo tuossa on ? 
+15	- What ? 	- Mikä tuo tuossa on ? 
+16	There . 	- Mikä tuo tuossa on ? 
+17	Nothing . 	Ei mikään . 
+18	You 're sure you don 't want me to come with you ? 	Oletko varma , ettet halua minua mukaasi ? 
+19	You 're a sweet girl . 	Tyttökulta . 
+20	Did you see Beth today ? 	Näitkö Bethiä tänään ? 
+21	I can 't believe she 's back . 	En voi uskoa , että hän palasi . 
+22	- Of course she 's back . 	- Totta kai hän palasi . 
+23	- What , she can 't take a hint ? 	- Eikö hän ymmärrä vihjettä ? 
+24	The company is broke . 	Seurue on vararikossa . 
+25	No one comes to see her anymore . 	Kukaan ei käy enää katsomassa häntä . 
+26	Oh , nobody actually comes to see ballet full stop . 	Kukaan ei käy enää baletissa . Piste . Tuo ei ole totta . 
+27	That 's not true . 	Kuulin , että Royalilla on yksi parhaista kausistaan . 
+28	I heard The Royal had one of their best seasons yet . 	Kuulin , että Royalilla on yksi parhaista kausistaan . 
+29	He just needs to try something new . 	Hänen pitäisi koittaa jotain uutta . 
+30	That 's all . 	Hänen pitäisi koittaa jotain uutta . 
+31	No , someone new . 	- Ei , jotakuta uutta . 
+32	- Like who ? 	- Ketä ? 
+33	- Like someone who 's not approaching menopause . 	Jotakuta , joka ei lähesty vaihdevuosia . 
+34	It 's sad . 	- Se on surullista . 
+35	What 's sad ? 	- Mikä on surullista ? 
+36	Beth 's such a beautiful dancer . 	- Beth on niin hieno tanssija . 
+37	Yeah , so is my grandmother . 	- Niin on isoäitinikin . 
+38	- Well Fonteyn danced into her fifties . 	La Fontaine tanssi vielä viisissäkymmenissä . 
+39	- Yeah , we know . 	Me tiedämme . 
+40	Great . 	Hienoa . 
+41	Thought I 'd fucking missed my stop . 	Ajoin pysäkkini ohi . 
+42	It 's a hell- fit all the way from 79th . 	Minun piti juosta 79 . kadulta saakka . 
+43	Beautiful as always , Nina . 	Kaunista , kuten aina , Nina . 
+44	Relax . 	Rentoudu . 
+45	And one , and two , and three , and four . 	Yksi , kaksi , kolme , neljä . 
+46	Stop , John . 	Hetkinen . 
+47	One second . 	Hetkinen . 
+48	Okay , take position . 	Hyvä on , ottakaa paikkanne . 
+49	And one , and two , and three , and up . 	Yksi ... Yksi , kaksi , kolme . 
+50	And one , and two , and three , and four . 	Ja ylös . 
+51	Hello , dear . 	- Miten voit ? 
+52	We all know the story . 	Kaikki tunnemme tarinan . 
+53	Virginal girl , pure and sweet , trapped in the body of a swan . 	Neitseellinen tyttö , puhdas ja suloinen - vangittuna joutsenen ruumiiseen . 
+54	She desires freedom that only true love can break the spell . 	Hän halajaa vapautta , - mutta vain aito rakkaus voi murtaa lumouksen . 
+55	Her wish is nearly granted in the form of a Prince . 	Hänen toiveensa lähes toteutuu - prinssin hahmossa . 
+56	But before he can declare his love , 	Mutta ennen kuin hän julistaa rakkautensa , - himokas kaksonen , Musta joutsen - huiputtaa ja viettelee prinssin . 
+57	The lustful twin , the Black Swan , tricks and seduces him . 	Mutta ennen kuin hän julistaa rakkautensa , - himokas kaksonen , Musta joutsen - huiputtaa ja viettelee prinssin . 
+58	Devastated , the White Swan leaps off a cliff , killing herself . 	Murtuneena - Valkoinen joutsen hyppää kalliolta - tappaen itsensä - ja löytäen vapauden kuolemassa . 
+59	And in death ... finds freedom . 	
+60	- Good morning , company . 	- Hyvää huomenta , seurue . 
+61	- Good morning . 	- Hyvää huomenta . 
+62	We will open our season with Swan Lake . 	Avaamme kautemme Joutsenlammella . 
+63	Done to death , I know . 	Tiedän , että sitä on esitetty uuvuksiin asti , mutta ei tällä tavalla . 
+64	But not like this . 	Tiedän , että sitä on esitetty uuvuksiin asti , mutta ei tällä tavalla . 
+65	We strip it down , make it visceral and real . 	Riisumme sen , teemme siitä tunteisiin vetoavan ja todellisen . 
+66	A new production needs a new Swan Queen . 	Uusi tuotanto tarvitsee uuden Joutsenkuningattaren . 
+67	A fresh face to present to the world . 	Tuoreet kasvot maailmalle esiteltäväksi . 
+68	But ... 	Mutta kuka teistä voi ilmentää molempia Joutsenia ? 
+69	Which of you can embody both Swans ? 	Mutta kuka teistä voi ilmentää molempia Joutsenia ? 
+70	The White , and the Black . 	Valkoista ja Mustaa . 
+71	All the soloists I tapped : 	Kaikki solistit , joita kosketin - menkää iltapäivällä normaaleihin harjoituksiinne . 
+72	Go to your scheduled rehearsals this afternoon . 	Kaikki solistit , joita kosketin - menkää iltapäivällä normaaleihin harjoituksiinne . 
+73	And the girls I didn 't tap : 	Tytöt , joita en koskettanut ... 
+74	Meet me in the principals´ studio at 5 : 00 . 	Me tapaamme päästudiossa kello 17 . 
+75	Thank you . 	Me tapaamme päästudiossa kello 17 . 
+76	All right . 	- Tehdään se edellinen uudelleen . 
+77	- Let 's go . 	- Tehdään se edellinen uudelleen . 
+78	Did we do left side ? 	- Kyllä , opettaja . 
+79	- Yes , mistress . 	- Kyllä , opettaja . 
+80	Fuck ! 	Vittu ! 
+81	Fuck ! 	Vittu ! 
+82	What ? 	Mitä ? 
+83	If I was only casting the White Swan , she 'd be yours . 	Mikäli valitsisin vain Valkoista joutsenta , rooli kuuluisi sinulle . 
+84	But I 'm not . 	Mutta , en tee sitä . 
+85	Maestro , Odile 's coda , please . 	Maestro , Odilen kooda , ole hyvä . 
+86	Now show me your Black Swan , Nina . 	Esitä nyt Musta joutsen , Nina . 
+87	Not so controlled . 	Ei niin hallitusti . 
+88	Seduce us . 	Viettelevästi . 
+89	Not just the Prince , but the court , the audience , the entire world . 	Älä tanssi vain prinssille , vaan koko seurueelle , yleisölle , maailmalle . 
+90	Come on , like a spider spinning a web . 	Ole nopea kuin hämähäkki pyörisi ilmassa . 
+91	Attack it , attack it ! 	Iskien ! 
+92	Come on ! 	Anna mennä ! 
+93	Well ... 	Hauska , että liityit seuraamme . 
+94	- Good of you to join us . 	Hauska , että liityit seuraamme . 
+95	- Sorry ... 	Hauska , että liityit seuraamme . 
+96	Girls , this is Lily . 	Tytöt , tässä on Lily . 
+97	Straight off the plane from San Francisco . 	Hän lensi San Franciscosta ja täyttää Rebeccan paikan . 
+98	She 's filling Rebecca 's old spot . 	Hän lensi San Franciscosta ja täyttää Rebeccan paikan . 
+99	- Hey . 	- Lämmittele . 
+100	- Get warmed up . 	- Lämmittele . 
+101	No , it 's okay . 	- Ei tarvitse . 
+102	I 'm good . 	Olen valmis . 
+103	Should I go again ? 	Pitäisikö minun aloittaa uudestaan ? 
+104	No , thanks , Nina . 	Ei , näin jo ihan tarpeeksi . 
+105	I' ve seen enough . 	Ei , näin jo ihan tarpeeksi . 
+106	Veronica , the White Swan variation . 	Veronica , Valkoisen joutsenen variaatiot . 
+107	Come on , come on , come on , please . 	Vauhtia . 
+108	All right , Maestro . 	Maestro , kaksi , kolme . 
+109	Two , three ... 	Maestro , kaksi , kolme . 
+110	So how 'd it go ? 	Miten meni ? 
+111	You were late , so I called Susie in the office . 	Sinulla meni myöhään , joten soitin Susielle toimistoon . 
+112	An audition ! 	En voi uskoa , että he yllättivät sinut esiintymiskokeella . 
+113	I can 't believe he just sprang that on you . 	En voi uskoa , että he yllättivät sinut esiintymiskokeella . 
+114	So ? 	
+115	It was fine . 	- Se meni hyvin . 
+116	Just fine ? 	- Pelkästään hyvinkö ? 
+117	Oh , sweetheart ... 	Kultapieni . 
+118	You tell me about it . 	Kerro siitä . 
+119	Nina , everything all right ? 	- Nina , onko kaikki hyvin ? 
+120	I 'm fine . 	- Olen kunnossa . 
+121	Almost done . 	Melkein valmista . 
+122	You 're working yourself too hard . 	Rasitat itseäsi liikaa . 
+123	- We all have off days . 	- Meillä kaikilla on huonoja päiviä . 
+124	- That girl , um , barged in . 	- Jos se tyttö ei olisi rynnännyt sisään . 
+125	I 'm sure she didn 't mean to . 	Olen varma , ettei hän tarkoittanut sitä . 
+126	For a starter , if I hadn 't taken you to each of your classes , you 'd have been completely lost . 	Jos en olisi vienyt sinua alkuaikoina tunneillesi , olisit ollut täysin hukassa . 
+127	I 'm going to talk to him tomorrow . 	Puhun hänelle huomenna ja sanon , että pääsin sen loppuun . 
+128	I 'm going to tell him I finished it . 	Puhun hänelle huomenna ja sanon , että pääsin sen loppuun . 
+129	You don 't need to lie . 	Ei sinun tarvitse valehdella . 
+130	You won 't convince him one way or the other . 	Se ei vaikuta heitä puoleen eikä toiseen . 
+131	Oh , sweetheart . 	Kultapieni . 
+132	I know it 's disappointing . 	Tiedän , että se on ikävää . 
+133	When you start getting older , there 's all this ridiculous pressure . 	Kun alat vanheta , - tulee kaikenlaisia paineita . 
+134	God knows I understand . 	Kun alat vanheta , - tulee kaikenlaisia paineita . 
+135	But it 's all right . 	Kun alat vanheta , - tulee kaikenlaisia paineita . 
+136	No matter what . 	Kävi miten kävi - sinä luultavasti saat tanssia taas Pas de quatres 'n . 
+137	You 'll probably get to dance the part of the cat again . 	Kävi miten kävi - sinä luultavasti saat tanssia taas Pas de quatres 'n . 
+138	That 's such a wonderful part . 	Se on mahtava rooli . 
+139	Or maybe he 'll make you a big swan . 	Ehkä hän tekee sinusta Ison joutsenen . 
+140	Either way , you 'll shine . 	Kummin tahansa , sinä loistat . 
+141	You know ... 	- Tiedän . 
+142	Everything will be better in the morning . 	- Kaikki on paremmin aamulla . 
+143	It always is . 	Kuten aina . 
+144	Sweet girl . 	Suloinen tyttöni . 
+145	Yes , Nina ? 	- Mitä , Nina ? 
+146	Do you have a minute ? 	- Onko sinulla hetki aikaa ? 
+147	- Now 's not a good time . 	- Tämä ei taida olla hyvä hetki . 
+148	I get it . 	- Tämä ei taida olla hyvä hetki . 
+149	- Now is perfect . 	- Juuri hyvä hetki . 
+150	I just wanted to tell you that 	Halusin vain kertoa , - harjoittelin sitä koodaa eilen illalla ja pääsin sen loppuun . 
+151	I practiced the coda last night and 	Halusin vain kertoa , - harjoittelin sitä koodaa eilen illalla ja pääsin sen loppuun . 
+152	I finished . 	Halusin vain kertoa , - harjoittelin sitä koodaa eilen illalla ja pääsin sen loppuun . 
+153	I thought you should know . 	- Ajattelin , että sinun pitäisi tietää . 
+154	Okay , Nina , listen . 	- Kuulehan , Nina . 
+155	Honestly , I don 't care about your technique . 	Rehellisesti puhuen en piittaa tekniikastasi . 
+156	- You should know that by now . 	- Sinun pitäisi tietää se jo nyt . 
+157	- Yeah , but yesterday ... 	- Mutta eilen ... 
+158	No . 	Olen jo valinnut Veronican . 
+159	Anyway ... 	Olen jo valinnut Veronican . 
+160	I' ve already chosen Veronica . 	Olen jo valinnut Veronican . 
+161	Sorry . 	
+162	Sorry . 	- Olen pahoillani . 
+163	Okay , thank you . 	- Olen pahoillani . 
+164	That 's it ? 	Siinäkö kaikki ? 
+165	You 're not going to try and change my mind ? 	Etkö yritä muuttaa mieltäni ? 
+166	You must have thought it was possible . 	Ajattelit varmasti sen olevan mahdollista . 
+167	Otherwise , what are you doing here all dolled up ? 	Miksi muuten olisit tullut tänne noin tällättynä ? 
+168	I came to ask for the part . 	Tulin pyytämään roolia . 
+169	The truth is ... 	Totuus on , että kun katson sinua , - näen vain Valkoisen joutsenen . 
+170	When I look at you , all I see is the White Swan . 	Totuus on , että kun katson sinua , - näen vain Valkoisen joutsenen . 
+171	Yes , you 're beautiful , fearful , fragile . 	Olet kaunis , pelokas ja hento . 
+172	Ideal casting . 	Ihanteellinen roolitettava . 
+173	But the Black Swan ? 	Musta joutsen ... 
+174	It 's a hard fucking job to dance both . 	On helvetin vaikeaa tanssia niitä molempia . 
+175	I can dance the Black Swan , too . 	- Voin tanssia Mustan joutsenenkin . 
+176	Really ? 	- Voin tanssia Mustan joutsenenkin . 
+177	In four years , every time you dance , 	- Niinkö ? 
+178	I see obsess getting each and every move perfectly right , but I never see you lose yourself . 	Neljän vuoden aikana olen nähnyt pakkomielteesi tehdä joka liikkeen oikein , - mutta en ole koskaan nähnyt sinun uppoutuvan tarinaan . 
+179	Ever . 	Neljän vuoden aikana olen nähnyt pakkomielteesi tehdä joka liikkeen oikein , - mutta en ole koskaan nähnyt sinun uppoutuvan tarinaan . 
+180	All that discipline for what ? 	Minkä takia kaikki se harjoitteleminen ? 
+181	- I just want to be perfect . 	- Haluan olla täydellinen . 
+182	- You what ? 	- Haluan olla täydellinen . 
+183	I want to be perfect . 	Olla täydellinen . 
+184	Perfection is not just about control . 	Täydellisyys ei ole pelkkää hallintaa . 
+185	It 's also about letting go . 	Siinä on kyse myös antautumisesta . 
+186	Surprise yourself so you can surprise the audience . 	Yllätä itsesi , niin yllätät yleisön . 
+187	Transcendence . 	Tanssi hurmiossa . 
+188	And very few have it in them . 	- Hyvin harvassa on hurmiota . 
+189	I think I do have it in me . 	- Luulen minussa olevan ... 
+190	You bit me ? 	Puritko sinä minua ? 
+191	I can 't believe you bit me ! 	Uskomatonta , että purit minua . 
+192	I 'm sorry . 	- Olen pahoillani . 
+193	Man , that fucking hurt ! 	- Se sattui niin perkeleesti . 
+194	What ? 	Miksi hän katselee minua aina ? 
+195	Why 's she always staring at me ? 	Miksi hän katselee minua aina ? 
+196	Hey , it 's been posted . 	Roolijako on taululla . 
+197	Hey , it 's up ! 	Se on esillä . 
+198	Veronica . 	Veronica . 
+199	Congratulations . 	Onneksi olkoon . 
+200	Why would you say that ? 	Miksi sanoit niin ? 
+201	Your idea of some sick joke ? 	- Oliko se joku sairas vitsi ? 
+202	What ? 	- Oliko se joku sairas vitsi ? 
+203	Fuck you . 	Haista vittu . 
+204	Hey , Nina ! 	Nina , onneksi olkoon . 
+205	Congratulations ! 	Nina , onneksi olkoon . 
+206	Congratulations . 	Onnea . 
+207	You 're so beautiful . 	Olet niin kaunis . 
+208	Congratulations . 	
+209	- Hello ? 	- Haloo . 
+210	- Hi . 	- Terve . 
+211	What is it ? 	- Terve . 
+212	What 's wrong ? 	- Mitä nyt ? 
+213	I 'm fine . 	Mitä kuuluu ? - Hyvää . 
+214	He picked me , Mom . 	Leroy valitsi minut , äiti . 
+215	Do you hear me ? 	Kuulitko , mitä sanoin ? 
+216	- For Swan Lake ? 	Minut valittiin Joutsenkuningattareksi . 
+217	- I 'm going to be Swan Queen ! 	Minut valittiin Joutsenkuningattareksi . 
+218	Mom ! 	- Halusin vain kertoa sinulle . 
+219	I' ll be home soon . 	- Halusin vain kertoa sinulle . 
+220	I just wanted to let you know . 	- Minä rakastan sinua . 
+221	- I love you . 	- Niin minäkin sinua . 
+222	- I love you , too . 	- Niin minäkin sinua . 
+223	Mom ? 	Äiti . 
+224	Mom , are you in your room ? 	Oletko huoneessasi ? 
+225	Nina ? 	Nina , oletko kotona ? 
+226	Are you home ? 	Nina , oletko kotona ? 
+227	Nina , when you get out I 'm in the kitchen . 	Olen keittiössä , kun tulet pois . 
+228	Come on , sweetie . 	Tule , kultaseni . 
+229	My daughter , the Swan Queen . 	Tyttäreni , Joutsenkuningatar . 
+230	It 's our favorite . 	Se on suosikkiamme . 
+231	Vanilla with strawberry filling . 	Vaniljaa mansikkatäytteellä . 
+232	Oh , Mom , not too big . 	Ei liian isoa palaa . 
+233	Oh , that 's way , way too much . 	Siinä on ihan liikaa . 
+234	- It 's a celebration . 	Nyt on juhlahetki . 
+235	It 's just this once . 	Vain tämän kerran . 
+236	- Mom ... 	Vain tämän kerran . 
+237	My stomach 's still in knots . 	Vatsani on vielä sekaisin . 
+238	Fine . 	Selvä . 
+239	Fine . 	- Se on siis jätettä . 
+240	Then it 's garbage ! 	- Se on siis jätettä . 
+241	No , Mom , don 't . 	- Älä . 
+242	I 'm sorry . 	Olen pahoillani . 
+243	I 'm just ... 	Olen vain ... 
+244	I 'm just so proud of you . 	Olen tosi ylpeä sinusta . 
+245	It looks so yummy . 	Se näyttää tosi herkulliselta . 
+246	Okay , okay . 	Kiitos , riittää . 
+247	Thank you . 	Kiitos , riittää . 
+248	Thank you . 	Kiitos , riittää . 
+249	Thank you , Nina . 	Kiitos , Nina . 
+250	That 's very nice . 	Se oli oikein hienoa . 
+251	Very nice . 	Todella hienoa . 
+252	But I knew the White Swan wouldn 't be a problem . 	Tiesin , ettei Valkoinen joutsen tuottaisi ongelmia . 
+253	The real work will your metamorphosis into her evil twin . 	Todellinen haasteesi on muodonmuutos pahaksi kaksoseksi . 
+254	And I know I saw a flash of her yesterday . 	Tiedän nähneeni eilen väläyksen siitä . 
+255	So get ready to give me more of that bite . 	Valmistaudu siis näyttämään eilistä tulisuuttasi . 
+256	Excellent . 	Loistavaa . 
+257	That evil force is pulling you that you can 't escape . 	Pahat voimat vetävät sinua etkä voi paeta niitä . 
+258	That 's just out of your control . 	Tilanne ei ole hallinnassasi . 
+259	So you sense it , you get aware of it more : 	Aistit sen ja tiedostat sen paremmin . 
+260	" It 's taking me , it 's taking me . " 	Se saa minut valtaani . 
+261	A little bit more desperate . 	Hieman epätoivoisemmin . 
+262	Right , and you can maybe go up a little bit and then come down , and then ... 	Voit ehkä hieman kohottaa ja laskea käsiäsi . 
+263	That 's it . 	Juuri noin . 
+264	Watch the way she moves . 	Katso miten Lily liikkuu . 
+265	Imprecise , but effortless . 	Improvisoidusti , - mutta vaivattomasti . 
+266	She 's not faking it . 	Lily ei teeskentele . 
+267	Gorgeous ! 	Upeaa . 
+268	Okay , that 's beautiful . 	Se oli kaunista . 
+269	Let 's start again from the beginning . 	Aloitetaan alusta . 
+270	You 'll room with Beth from now on , so be considerate . 	- Jaat huoneen Bethin kanssa . Huomioi se . 
+271	Thanks , Susie . 	- Kiitos , Susie . 
+272	Those are for you , from Mr . 	- Ruusut ovat herra Leroylta . 
+273	Leroy . 	- Ruusut ovat herra Leroylta . 
+274	They 're beautiful . 	- Ne ovat kauniita . 
+275	I' ll be back in a second . 	Palaan tuossa tuokiossa . 
+276	Let me come back to you , please . 	Palataan asiaan hetken kuluttua . 
+277	Let 's go . 	Mennään . 
+278	Ready to be thrown to the wolves ? 	Oletko valmis susille heitettäväksi ? 
+279	We need our cash , so please don 't forget to smile . 	Tarvitsemme heidän rahojaan , joten muista hymyillä . 
+280	Ladies and gentlemen , please , may I have your attention ? 	Hyvät naiset ja herrat . Saisinko huomionne ? 
+281	Good evening . 	Hyvää iltaa . 
+282	Let me make this very important announcement . 	Minulla on tärkeä ilmoitus . 
+283	You all had had the chance and the privilege to be enchanted , transported , and even sometimes devastated , by the performances of this true artist of our company . 	Teillä kaikilla on ollut mahdollisuus ja etuoikeus haltioitua , - sekä joskus jopa murtua seurueemme loisteliaan artistin kanssa . 
+284	She 's been a crucial inspiration to my work . 	Hän on ollut tärkeä muusa työlleni ja kaikkien balettitanssijoiden roolimalli . 
+285	A role model to all dancers , and even more than that , a deeply appreciated presence on our stage . 	Vielä enemmänkin . Todella kunnioitettu esiintyjä lavoillamme . 
+286	You all know who I am talking about . 	Tiedätte kaikki , kenestä puhun . 
+287	Ladies and gentlemen , Beth Macintyre . 	Naiset ja herrat : Beth Macintyre . 
+288	But as we all know , every great career has to come to an end . 	Kuten kaikki tiedämme , loistavankin uran on joskus päätyttävä . 
+289	Beth is retiring at the end of season . 	Beth jää eläkkeelle kauden loputtua . 
+290	She will be giving her farewell performance as Melpomene , the role she originated in my first ballet . 	Hänen jäähyväisesityksensä on Melpomeneena , - roolissa , joka hänellä oli alun perin ensimmäisessä baletissani . 
+291	My little princess , we honor you . 	Pikkuprinsessani . Kunnioitamme sinua . 
+292	You will be greatly missed , and never forgotten . 	Sinua jäädään kaipaamaan . Emme koskaan unohda sinua . 
+293	But as we bid adieu to one star , we welcome another . 	Kun hyvästelemme yhden tähden , esittelemme myös uuden . 
+294	We 're opening our season with my new version of Swan Lake . 	Avaamme kauden uudella versiollani Joutsenlammesta . 
+295	Taking the role of our new Swan Queen , the exquisite Nina Sayers . 	Uutta Joutsenkuningatarta esittää ihastuttava Nina Sayers . 
+296	You 'll soon have the pleasure of seeing her perform , but right now , let 's please raise a glass : 	- Saatte pian ilon nähdä hänen esiintyvän , - - Olen pahoillani . mutta nostakaamme nyt malja meille kaikille ; 
+297	To all of us . 	- Saatte pian ilon nähdä hänen esiintyvän , - - Olen pahoillani . mutta nostakaamme nyt malja meille kaikille ; 
+298	To Beth . 	Bethille , Ninalle - ja kauneudelle . 
+299	To Nina . 	Bethille , Ninalle - ja kauneudelle . 
+300	To beauty . 	Bethille , Ninalle - ja kauneudelle . 
+301	Just a second . 	Hetkinen . 
+302	Just a second ! 	Hetkinen . 
+303	Come on ! 	Vauhtia nyt . 
+304	I 'm about to burst ! 	Minulla on hätä . 
+305	Hey , it 's you ! 	Se olet sinä . 
+306	I don 't think we ever officially met . 	Emme ole tainneet tavata virallisesti . 
+307	- I 'm Lily . 	Olen Lily . 
+308	- Hi , I 'm Nina . 	- Hei . Olen Nina . 
+309	Yes , our new Swan Queen . 	- Aivan . Uusi Joutsenkuningatar . 
+310	- Here , hold this . 	Pitäisitkö tätä ? 
+311	- Yeah , sure . 	Pitäisitkö tätä ? 
+312	You must be so excited . 	Taidat olla todella innoissasi . 
+313	Are you freaking out ? 	- Jännittääkö ? 
+314	- Yeah ... - Yeah ? 	- Jännittää . 
+315	Oh , it 's okay . 	Ei se mitään . 
+316	Oh , I 'd be losing my mind . 	Minä menisin päästäni sekaisin . 
+317	I should get back ... 	- Minä tästä menen . 
+318	No , no , no , come on , stay . 	- Älä . Jää tänne . 
+319	Keep me company . 	Pidä minulle seuraa . 
+320	Excuse me . 	Anteeksi . 
+321	Oh , there you are . 	Siinähän sinä olet . 
+322	Come on . 	Siinähän sinä olet . 
+323	Hey . 	He yrittivät syödä sinut elävältä , mutta siinä sinä olet . 
+324	They tried to eat you alive , but here you are . 	He yrittivät syödä sinut elävältä , mutta siinä sinä olet . 
+325	You did well . 	- Selvisit hyvin . 
+326	- Really ? 	- Selvisit hyvin . 
+327	- Mm- hmm . 	- Niinkö ? 
+328	Where are you going ? 	- Mihin olet menossa ? 
+329	Upper west side . 	- Keskuspuiston länsipuolelle . 
+330	Stop at my place for a drink . 	Pysähdy matkalla luokseni drinkille . 
+331	It 's on the way . 	Pysähdy matkalla luokseni drinkille . 
+332	Thomas , you need to say hello to Karen Holloway . 	Thomas , sinun pitää tervehtiä Karen Haldewayta . 
+333	A minute more of ass- kissing . 	Nuoleskelen vielä hetken . 
+334	I' ll be back . 	Palaan pian . 
+335	Wait for me here , all right ? 	Palaan pian . 
+336	Hello , Karen ! 	Hei , Karen . 
+337	Beth ! 	Beth . 
+338	I 'm so sorry to hear you 're leaving the company . 	Ikävä kuulla , että jätät seurueen . 
+339	What did you do to get this role ? 	Mitä teit saadaksesi tämän roolin ? 
+340	He always said you were such a frigid little girl . 	Thomas sanoi sinua aina frigidiksi pikkutytöksi . 
+341	What did you do to make him change his mind ? 	Miten sait hänet muuttamaan mieltään ? 
+342	Did you suck his cock ? 	- Imitkö hänen kulliaan ? 
+343	Not all of us have to . 	- Kaikkien ei tarvitse . 
+344	You fucking whore ! 	Senkin huora . 
+345	You 're a fucking little whore ! 	Helvetin pikkuhuora ! 
+346	Whoa , what 's going on here ? 	- Mitä täällä tapahtuu ? 
+347	Hey , I need to talk to you . 	- Minulla on asiaa sinulle . 
+348	- You 're drunk . 	- Minulla on asiaa sinulle . 
+349	You should go home . 	- Olet humalassa . 
+350	- I need to talk to you . 	- Olet humalassa . 
+351	No ! 	Sinun pitäisi mennä kotiin . 
+352	Don 't you do that ! 	Sinun pitäisi mennä kotiin . 
+353	Don 't you dismiss me like that ! 	- Ei ! Älä väheksy minua noin . 
+354	My little princess , please . 	Pikkuprinsessani , yritä pysyä kasassa . 
+355	Pull it together . 	Pikkuprinsessani , yritä pysyä kasassa . 
+356	- Come . 	Tulen käymään myöhemmin . 
+357	- I 'm coming by later . 	Tulen käymään myöhemmin . 
+358	I have something for you . 	Minä esitän sinulle kiitollisuuteni . 
+359	It 's a token of my appreciation . 	Minä esitän sinulle kiitollisuuteni . 
+360	- Right . 	Nauti vielä , kun voit , Nina . 
+361	- You make the most of it , Nina . 	Nauti vielä , kun voit , Nina . 
+362	Don 't worry . 	Älä huoli . 
+363	It 's typical . 	Se on tyypillistä . 
+364	Please . 	Mielestäni olisi hyvä puhua roolista , pohjustaa sitä hieman . 
+365	I thought it 'd be good to talk about the role . 	Mielestäni olisi hyvä puhua roolista , pohjustaa sitä hieman . 
+366	Drown this a little . 	Mielestäni olisi hyvä puhua roolista , pohjustaa sitä hieman . 
+367	I don 't want there to be any boundaries between us . 	- En halua , että välillämme on mitään rajoja . 
+368	- No , me neither . 	- En minäkään . 
+369	- Good . 	Hyvä . 
+370	So ... 	Joten ... 
+371	You got a boyfriend ? 	- Onko sinulla poikaystävää ? 
+372	No . 	- Onko sinulla poikaystävää ? 
+373	Have you had many in the past ? 	Onko niitä ollut monia ? 
+374	A few . 	Muutama , mutta ei mitään vakavaa . 
+375	But no one serious . 	Muutama , mutta ei mitään vakavaa . 
+376	You 're not a virgin are you ? 	Ethän ole neitsyt ? 
+377	No . 	- En . 
+378	So there 's nothing to be embarrassed about . 	- Sitten ei tarvitse hävetä mitään . 
+379	And you enjoy making love ? 	Nautitko rakastelemisesta ? 
+380	Excuse me ? 	- Anteeksi ? 
+381	Come on , sex . 	- Älä viitsi . Seksistä . 
+382	Do you enjoy it ? 	Nautitko siitä ? 
+383	We need to be able to talk about this . 	Meidän täytyy pystyä puhumaan tästä . 
+384	I' ve got a little homework assignment for you . 	Minulla on pieni kotitehtävä sinulle . 
+385	Go home and touch yourself . 	Mene kotiisi ja koskettele itseäsi . 
+386	Live a little . 	Elä vähän . 
+387	Well it 's late . 	On myöhä . 
+388	Lots of work tomorrow . 	Huomenna on paljon tehtävää . 
+389	The doorman will find a cab for you . 	Ovimies hankkii sinulle taksin . 
+390	Sounds like quite an evening . 	Vaikuttaa melkoiselta illalta . 
+391	I wish I could have been there . 	Kunpa olisin päässyt sinne . 
+392	You know I asked . 	- Pyysin kyllä . 
+393	I know you did . 	- Tiedän . 
+394	Susie told me . 	Susie kertoi . 
+395	Guess he wanted you all to himself . 	- Thomas halusi kai sinut itselleen . 
+396	But why ? 	- Miksi ? 
+397	Don 't blame him . 	En syytä häntä . 
+398	Where 'd you get these ? 	- Mistä sait nämä ? 
+399	They 're fake . 	- Ne eivät ole aitoja . 
+400	Fooled me . 	Huijasivat minua . 
+401	I can do it . 	Voin tehdä sen itsekin . 
+402	He must have been by your side all night . 	Hän kai oli vierelläsi koko illan . 
+403	Showing you off . 	Esitteli sinua . 
+404	- Oh , Nina ... - It 's just a rash . 	- Voi , Nina . - Se on vain ihottumaa . 
+405	Rash ? 	
+406	What are you talking about ? 	- Mitä tarkoitat ? 
+407	It was worse a few days ago . 	- Se tuli pari päivää sitten ja on kunnossa . 
+408	It 's fine already . 	- Se tuli pari päivää sitten ja on kunnossa . 
+409	- You 've been scratching yourself again . 	- Olet taas raapinut itseäsi . 
+410	- No I haven 't . 	- Olet taas raapinut itseäsi . 
+411	Mom ! 	- Enkä ole . - Äiti . 
+412	This disgusting habit ... 	- Sinun pitää lopettaa tämä inhottava tapa . 
+413	Jesus Christ , I thought you were done with this , Nina . 	Luoja . Luulin tämän olevan jo ohi , Nina . 
+414	Shrugs . 	Käytät peittäviä vaatteita . 
+415	You 'll keep wearing the shrugs . 	Käytät peittäviä vaatteita . 
+416	Sit down . 	Istu alas . 
+417	You have the white one , and the pink one . 	Käytä valkoisia ja vaaleanpunaisia . 
+418	And that 'll hide it . 	Käytä valkoisia ja vaaleanpunaisia . 
+419	And then I' ll dig out that expensive coverup . 	Ne piilottavat sen . 
+420	We still have some . 	Sitten etsin sitä kallista peitevoidetta , jota on vielä jäljellä . 
+421	No one will see it . 	- Kukaan ei saa nähdä sitä . 
+422	Mom , please , 	- Kukaan ei saa nähdä sitä . 
+423	It 's the role , isn 't it ? 	- Äiti , pyydän . Eikö tämä johdukin roolista ? 
+424	It 's all this pressure . 	Tästä paineesta . 
+425	I knew it 'd be too much . 	Tiesin , että se olisi liikaa . 
+426	I knew it . 	Tiesin , että se olisi liikaa . 
+427	You 're all right . 	Olet kunnossa . 
+428	You 'll be all right . 	Olet kunnossa . 
+429	Beth 's in the hospital . 	- Mitä tapahtui ? - Beth on sairaalassa . 
+430	She had an accident . 	- Hän oli onnettomuudessa . 
+431	Oh no ! 	- Voi ei ! 
+432	Beth ? 	
+433	What happened ? 	Mitä tapahtui ? 
+434	She walked into the street and got hit by a car . 	Beth käveli kadulle ja jäi auton alle . 
+435	You know what ? 	Arvaa mitä ? 
+436	I 'm almost sure she did it on purpose . 	Olen varma , että hän teki sen tarkoituksella . 
+437	How do you know ? 	- Mistä tiedät ? 
+438	Because everything Beth does comes from within , from some dark impulse . 	- Beth tekee kaiken pimeistä mielijohteista . 
+439	I guess that 's what makes her so thrilling to watch . 	Sen vuoksi se onkin niin jännittävää katseltavaa . 
+440	So dangerous . 	Niin vaarallista . 
+441	Even perfect at times . 	Ajoittain se on ollut täydellistä . 
+442	But also so damned destructive . 	Kuitenkin myös hemmetin tuhoisaa . 
+443	Was it right after we saw her ? 	Tapahtuiko se tapaamisemme jälkeen ? 
+444	Wait , wait , wait . 	Hetkinen . 
+445	This has nothing to do with you . 	Tämä ei liity sinuun . 
+446	It 's not your problem , so don 't let yourself be distracted . 	Se ei ole ongelmasi . Älä anna sen häiritä itseäsi . 
+447	This is your moment , Nina . 	Tämä on hetkesi , Nina . 
+448	Don 't let it go . 	Älä päästä sitä karkuun . 
+449	What are you doing ? 	Mitä teette ? 
+450	Nina ? 	Nina ? 
+451	Sweetie , are you ready for me ? 	Oletko valmis , kulta ? 
+452	And ... 	Alkaa . 
+453	Come on ! 	Unohda hallinta , Nina . 
+454	Forget about control , Nina . 	Unohda hallinta , Nina . 
+455	I want to see passion . 	Haluan nähdä intohimoa . 
+456	Come on . 	Kurota . 
+457	Stiff like a dead corpse . 	Olet jäykkä kuin ruumis . 
+458	Let it go . 	Olet jäykkä kuin ruumis . 
+459	Let it go . 	Vapaantuneemmin . 
+460	Let it go . 	Vapaantuneemmin . 
+461	And again . 	Uudestaan . 
+462	Feels like you have your diaphragm is in a bit of a contraction ? 	Tuntuu siltä , että palleassasi on lihassupistus . 
+463	I 'm okay . 	Selvä . 
+464	Breathe in to this hand . 	Hengitä tähän käteen . 
+465	Breathe in to this hand . 	Hengitä tähän käteen . 
+466	Breathe in , all the way . 	Loppuun asti . 
+467	Good . 	Loppuun asti . 
+468	And exhale . 	Hyvä . Hengitä ulos . 
+469	Does it feel jammed in the front every time you plie ? 	Tuntuuko se olevan jumissa , kun teet plién ? 
+470	Sometimes , not always . 	Joskus , muttei aina . 
+471	- One more pull , okay ? 	- Vielä yksi veto . 
+472	- Okay . 	- Vielä yksi veto . 
+473	- Is that okay ? 	Onko hyvä ? 
+474	- Yeah . 	Onko hyvä ? 
+475	David , can I ask you a question ? 	David , voinko esittää kysymyksen ? 
+476	Honestly , would you fuck that girl ? 	Panisitko tuota tyttöä ? 
+477	No . 	Et . 
+478	No one would . 	Ei kukaan panisi . 
+479	Nina ... 	Nina , tanssimisesi on yhä kylmää . 
+480	Your dancing is just as frigid ... 	Nina , tanssimisesi on yhä kylmää . 
+481	Fuck ! 	Helvetti ! 
+482	We 're still working here , please . 	Työskentelemme täällä yhä ! 
+483	Lights ! 	Työskentelemme täällä yhä ! 
+484	The lights ! 	Työskentelemme täällä yhä ! 
+485	Thank you ! 	Kiitos ! 
+486	Okay , guys , you can go . 	Voitte lähteä . 
+487	Thanks for your patience . 	Kiitos kärsivällisyydestänne . 
+488	No , no , you stay . 	Sinä jäät . 
+489	You stay . 	Sinä jäät . 
+490	Have fun , you two . 	- Pitäkää hauskaa . 
+491	Okay . 	No niin . 
+492	Come here . 	Tule tänne . 
+493	Come , come , come , come . 	Tule , tule . 
+494	I' ll be the Prince . 	Olen prinssi . 
+495	Let it go . 	Vapautuneemmin . 
+496	Let it go . 	Vapautuneemmin . 
+497	Feel my touch . 	Tunne kosketukseni . 
+498	Respond to it . 	Tunne kosketukseni . 
+499	Come on . 	Vastaa siihen . 
+500	Open your mouth . 	Avaa suusi . 
+501	Open it . 	Avaa suusi . 
+502	Open up . 	Avaa se . 
+503	That was me seducing you , when it needs to be the other way around . 	Minä viettelin tuossa sinua , vaikka sen pitäisi olla toisinpäin . 
+504	Please ... 	Pyydän . 
+505	Who is that ? 	- Kuka siellä on ? 
+506	Hey . 	- Kuka siellä on ? 
+507	You okay ? 	Oletko kunnossa ? 
+508	You can 't smoke in here . 	- Täällä ei saa polttaa . 
+509	Well , I won 't tell if you won 't . 	- No , - minä en kerro kenellekään , jos et sinäkään . 
+510	So ... 	
+511	The big day 's getting closer and closer , huh ? 	Suuri päivä vain lähestyy . 
+512	Well , I can 't wait . 	En malta odottaa . 
+513	I think you 're going to be amazing . 	Olet varmasti hämmästyttävä . 
+514	Thanks . 	Kiitos . 
+515	So ... 	
+516	Do you want to talk about it ? 	Haluatko puhua siitä ? 
+517	It 's that hard to . 	Se satuttaa . 
+518	Leroy playing a little too rough for you ? 	Oliko Leroy sinulle liian kova ? 
+519	Come on , Nina . 	Nina , hän on mulkero . 
+520	He 's a prick . 	Nina , hän on mulkero . 
+521	He 's brilliant . 	- Hän on loistava . 
+522	Sure , but it 's not like he 's all warm and fuzzy . 	- Varmasti . Ei hän kuitenkaan mukava ole . 
+523	What you don 't know is ... 	Et tunne häntä . 
+524	Someone 's hot for teacher ! 	Onko joku ihastunut opettajaan ? 
+525	Oh , come on , it 's okay . 	Ei se haittaa . 
+526	I don 't blame you . 	En syytä sinua . 
+527	I should go home . 	- Minun pitäisi mennä kotiin . 
+528	Nina , come on . 	- Minun pitäisi mennä kotiin . 
+529	I 'm just playing around . 	- Älä viitsi . Minä vain pelleilen . 
+530	Nina ! 	Nina ! 
+531	Sweetie ? 	Kulta ? 
+532	What are you doing in there ? 	Mitä teet siellä ? 
+533	Again . 	Uudelleen . 
+534	Again . 	Uudelleen . 
+535	Do you have any corrections ? 	Onko sinulla korjausehdotuksia ? 
+536	Lily told me that she saw you crying . 	Lily kertoi nähneensä sinun itkevän . 
+537	That you were very upset and that I should take it easy on you . 	Hänestä olit tolaltasi , enkä saisi olla tiukka sinulle . 
+538	I didn 't tell her that . 	En sanonut sitä hänelle . 
+539	Maybe you need a little break . 	Ehkä tarvitset parin päivän tauon . 
+540	A day or two . 	Ehkä tarvitset parin päivän tauon . 
+541	Or maybe a month . 	Mitä sanoisit kuukaudesta ? 
+542	What do you think ? 	Mitä sanoisit kuukaudesta ? 
+543	She shouldn 't have said anything . 	- Hänen ei olisi pitänyt sanoa mitään . 
+544	No , you shouldn 't be whining in the first place . 	- Sinun ei olisi pitänyt valittaa . 
+545	I didn 't . 	En valittanutkaan . 
+546	You could be brilliant . 	Voisit olla loistava , mutta olet pelkuri . 
+547	But you 're a coward . 	Voisit olla loistava , mutta olet pelkuri . 
+548	Sorry . 	- Olen pahoillani . 
+549	No , stop saying that ! 	- Olen pahoillani . 
+550	That 's exactly what I 'm talking about . 	- Lopeta tuo . Tuota tarkoitankin . 
+551	Stop being so fucking weak . 	Älä ole noin helvetin heikko . 
+552	Again ! 	Uudelleen . 
+553	Lily ... 	- Lily ? 
+554	Oh , look who 's decided to grace us with her presence . 	- Kuka suokaan meille läsnäolonsa . 
+555	I need to talk to you . 	- Meidän on puhuttava . 
+556	Okay . 	- Meidän on puhuttava . 
+557	Now . 	- Hyvä on . - Nyt . 
+558	Shut up . 	- Ole hiljaa . 
+559	Come on . 	Tule . 
+560	What 's up ? 	- Mitä nyt ? 
+561	You told Thomas about last night ? 	- Kerroitko Thomas 'lle eilisillasta ? 
+562	Oh , yeah . 	Törmäsin häneen aamulla ja kerroin teillä olevan ongelmia . 
+563	I ran into him in the morning and he said you guys were having some trouble . 	Törmäsin häneen aamulla ja kerroin teillä olevan ongelmia . 
+564	Why would he talk to you ? 	- Miksi hän puhuisi kanssasi ? 
+565	Oh , excuse me , your highness . 	- Anteeksi vain , teidän korkeutenne . 
+566	I just told him you 're working your ass off and I think you 'll be great . 	- Sanoin , että raadat ja pärjäät hyvin . 
+567	Well you shouldn 't have . 	- Sinun ei olisi pitänyt . 
+568	Okay . 	Selvä . 
+569	Has he tried anything with you ? 	Onko hän yrittänyt mitään ? 
+570	He has a reputation . 	Hänellä on sellainen maine . 
+571	I have a right to be concerned , Nina . 	Minulla on oikeus olla huolissani , Nina . 
+572	You 've been staying late so many nights . 	Olet viipynyt harjoituksissa myöhään . 
+573	Rehearsing . 	Olet viipynyt harjoituksissa myöhään . 
+574	I just hope he isn 't taking advantage , that 's all . 	- Toivon , ettei hän käytä sinua hyväkseen . 
+575	He 's not . 	- Toivon , ettei hän käytä sinua hyväkseen . 
+576	Good . 	- Ei käytä . Hyvä . 
+577	I just don 't want you to make the same mistake I did . 	En halua , että teet samoja virheitä kuin minä . 
+578	Thanks . 	- Kiitos . 
+579	Not like that . 	- En tarkoittanut sitä sillä tavalla . 
+580	I just mean as far as my career was concerned . 	- Kun urani oli kyseessä ... 
+581	What career ? 	- Mikä ura ? 
+582	The one I gave up to have you . 	Se , josta luovuin sinut saadakseni . 
+583	I 'm twenty- eight . 	- Olit 28- vuotias . 
+584	So ? 	- Entä sitten ? 
+585	Only that ... 	Vain ... 
+586	Only what ? 	- Vain mitä ? 
+587	Nothing . 	- Ei mitään . 
+588	- What ? 	- Mitä ? 
+589	- Nothing . 	- Ei mitään . 
+590	How is your skin ? 	- Kuinka ihosi voi ? 
+591	Fine . 	- Kuinka ihosi voi ? 
+592	- Are you leaving it alone ? 	- Hyvin . 
+593	- Mm- hmm . 	Jätätkö sen rauhaan ? 
+594	Let me see . 	Näytä . 
+595	- Take off your shirt . 	- Ota paita päältäsi . 
+596	- No . 	- Ota paita päältäsi . 
+597	Can I help you ? 	- Voinko olla avuksi ? 
+598	Who was that ? 	- Kuka se oli ? 
+599	It was no one . 	- Ei kukaan . 
+600	It was no one . 	Siellä ei ollut ketään . 
+601	Hello ? 	Päivää . 
+602	What are you doing here ? 	- Mitä teet täällä ? 
+603	I just came by to apologize . 	- Tulin pyytämään anteeksi . 
+604	You 're right . 	En olisi saanut puhua hänelle sinusta . 
+605	I should have never spoken to him about you . 	En olisi saanut puhua hänelle sinusta . 
+606	- Sweetheart . 	- Kulta , ruokasi jäähtyy . 
+607	- Give me a second . 	- Kulta , ruokasi jäähtyy . 
+608	- Your dinner ... - Mom , please . 	- Odota hetki . Ole kiltti . 
+609	Oh , she 's a trip . 	- Hän on aikamoinen . 
+610	How do you know where I live ? 	- Miten tiedät osoitteeni ? 
+611	I have my ways . 	Minulla on omat keinoni . 
+612	Jesus , relax . 	Rauhoitu . 
+613	I got it from Susie in the office . 	Sain sen Susielta toimistosta . 
+614	Look , I feel really shitty about what I did , and I really want to make it up to you . 	Tunsin syyllisyyttä teostani ja haluan korvata tekoni , - joten voisin viedä sinut illalliselle . 
+615	So how about I take you out to dinner ? 	Tunsin syyllisyyttä teostani ja haluan korvata tekoni , - joten voisin viedä sinut illalliselle . 
+616	- I don 't think ... - Okay , that 's fine . 	- En usko ... - Ei haittaa . 
+617	What about drinks ? 	Entä drinkille ? 
+618	Sweetie , you need to rest . 	- Sinun on levättävä , kulta . 
+619	- Jesus . 	- Sinun on levättävä , kulta . 
+620	- Wait . 	- Jessus . 
+621	What are you doing ? 	- Mitä sinä teet ? 
+622	I 'm going out . 	- Menen ulos . 
+623	What ? 	Mitä ? 
+624	Nina ! 	Esiinnyt huomenna , Nina . 
+625	You 're on the stage tomorrow . 	Esiinnyt huomenna , Nina . 
+626	I can 't believe he calls her that . 	En voi uskoa , että hän kutsuu Bethiä siksi . 
+627	- It 's so gross . 	Todella iljettävää . 
+628	- I think it 's sweet . 	- Minusta se on suloista . 
+629	Little Princess ? 	- " Pikkuprinsessako ? " 
+630	- He probably calls every girl that . 	Hän kai kutsuu jokaista tyttöä sillä nimellä . 
+631	- No way . 	Hän kai kutsuu jokaista tyttöä sillä nimellä . 
+632	That 's just for Beth . 	Vain Bethiä . 
+633	Well , I bet he 'll be calling you Little Princess any day now . 	Lyön vetoa , että hän kutsuu sinua pikkuprinsessaksi pian . 
+634	I don 't know about that . 	- Enpä tiedä . 
+635	Oh , sure he will . 	- Totta kai . 
+636	Just got to let him lick your pussy . 	Anna hänen vain nuolla tussuasi . 
+637	Cheeseburger , extra bloody . 	- Juustopurilainen , erityisen verinen . 
+638	Mmm , dankeschin . 	- Kiitoksia . 
+639	Let me know if that 's juicy enough for you . 	- Kerro , jos se on tarpeeksi mehevä . 
+640	Oh , I will . 	- Kerron kyllä . 
+641	You have enough cheese ? 	- Onko juustoa tarpeeksi ? 
+642	No , but you do . 	- Sinulla ainakin on . 
+643	Enjoy . 	Nauttikaa . 
+644	All right . 	
+645	Wanna spruce up ? 	Haluatko laittautua ? 
+646	What , I carry a spare in case I wake up somewhere unexpected . 	Kannan ylimääräistä siltä varalta , jos herään odottamattomassa paikassa . 
+647	So how is he ? 	Millainen hän on ? 
+648	Thomas . 	Thomas ? 
+649	I wouldn 't know . 	- Mistä minä tietäisin ? 
+650	- Oh , come on . 	- Älä viitsi . 
+651	- I really don 't want to talk about that . 	En haluaisi puhua siitä . 
+652	Okay . 	Hyvä on . 
+653	You really need to relax . 	Sinun on rentouduttava . 
+654	One for you , one for me . 	Yksi sinulle , yksi minulle . 
+655	Oh , and don 't worry . 	Älä huoli . 
+656	It 's pure , I promise . 	Se on varmasti puhdasta . 
+657	I brought it with me straight from San Francisco . 	Toin sen mukanani San Franciscosta . 
+658	What is it ? 	- Mitä se on ? 
+659	Are you kidding ? 	- Oletko tosissasi ? 
+660	You 've never rolled ? 	Etkö ole kokeillut ekstaasia ? 
+661	Oh , relax . 	Se rentouttaa ja rauhoittaa . 
+662	Here . 	Se rentouttaa ja rauhoittaa . 
+663	It 'll loosen you up . 	Se rentouttaa ja rauhoittaa . 
+664	Wait till you see the night sky . 	Kuin katsoisi tähtitaivasta . 
+665	How long does it last ? 	- Kuinka kauan se kestää ? 
+666	A couple hours , tops . 	- Enintään pari tuntia . 
+667	It 's okay . 	En tarvitse . 
+668	Okay . 	Selvä . 
+669	Nina , hi ! 	
+670	I thought we could use some company . 	- Ajattelin , että tarvitsemme pari kaveria . - Olen lähdössä . 
+671	So this is Tom and this is Jerry . 	Tässä on Tom ja tässä Jerry . 
+672	- Actually it 's Andrew . 	- Oikeasti nimeni on Andrew . 
+673	- Tom . 	- Tom . 
+674	- I have to go ... - Oh , no you can 't go . 	- Minun on mentävä . - Älä mene . 
+675	I just got us some drinks . 	Tilasin meille juuri juotavaa . 
+676	I shouldn 't ... 	Minun ei pitäisi juoda . 
+677	We 're on the stage tomorrow . 	Meillä on esitys huomenna . 
+678	So what are you going to do ? 	Menetkö kotiin äitisi luokse ? 
+679	Go home to Mommy ? 	Menetkö kotiin äitisi luokse ? 
+680	Come on , live a little . 	Hei , nauttisit elämästä . 
+681	It 's just a couple hours , right ? 	Sekö vaikuttaa vain pari tuntia ? 
+682	Tops . 	Enintään . 
+683	Cheers . 	- Kippis . 
+684	You haven 't told me who you are . 	Et ole kertonut , kuka olet . 
+685	I 'm a dancer . 	- Olen tanssija . 
+686	No , I mean your name . 	- Ei . Tarkoitin nimeäsi . 
+687	- Oh . 	- Olen Nina . 
+688	Nina . 	- Oletteko siskoksia ? 
+689	- So are you two sisters ? 	- Oletteko siskoksia ? 
+690	- Yes . 	- Olemme . 
+691	- No . 	- Olemme . 
+692	- Blood sisters . 	Verisiskoksia . 
+693	- We dance in the same company . 	- Emme . - Tanssimme samassa seurueessa . 
+694	Ah , ballerinas . 	- Olette ballerinoja . 
+695	No wonder you two look alike . 	- Ei ihme , että näytätte toisiltanne . 
+696	I see now . 	- Ei ihme , että näytätte toisiltanne . 
+697	Tom and Jerry here are gay lovers . 	- Tiesitkö , että Tom ja Jerry ovat homoja ? 
+698	- Very funny . 	- Olitpa hauska . 
+699	- I like to amuse myself . 	- En ole koskaan käynyt katsomassa balettia . 
+700	I' ve never been to the ballet . 	- En ole koskaan käynyt katsomassa balettia . 
+701	Then you are definitely not gay . 	- Sinä et selvästikään ole homo . 
+702	I mean , it 's kind of boring , isn 't it ? 	- Eikö se ole muka tylsää ? 
+703	- Be honest . 	- Ei ole . 
+704	- No it 's not . 	- Ei ole . 
+705	You know what ? 	- Kaikki eivät vain pidä siitä . 
+706	It 's just not for everyone . 	- Kaikki eivät vain pidä siitä . 
+707	You should come sometime . 	Teidän pitäisi tulla katsomaan . 
+708	I can comp you tickets whenever you want . 	Voin hankkia teille liput . 
+709	Yeah . 	- Toki . 
+710	Yeah . 	- Se olisi siistiä . 
+711	- Yeah , that would be neat . 	- Se olisi siistiä . 
+712	Thanks . 	Hyvä on . 
+713	- Okay well ... 	Hyvä on . 
+714	I think it 's time for another round . 	Nyt taitaa olla uuden kierroksen aika . 
+715	Bottoms up . 	Pohjanmaan kautta . 
+716	So what are you guys working on now ? 	- Mitä te harjoittelette ? 
+717	Sorry . 	Anteeksi . 
+718	Swan Lake . 	- Joutsenlampea . 
+719	Yeah ? 	- Vai niin . 
+720	You know it ? 	- Tiedätkö sen ? 
+721	No , not really . 	- Tiedätkö sen ? 
+722	Heard of it . 	Olen kuullut siitä . 
+723	What 's it about ? 	Mistä se kertoo ? 
+724	It 's about a girl who gets turned into a swan , and she needs love to break the spell . 	Se kertoo tytöstä , joka muutetaan joutseneksi - ja hän tarvitsee rakkautta purkaakseen loitsun . 
+725	But her prince falls for the wrong girl , and so she kills herself . 	- Hänen prinssinsä rakastuu väärään naiseen - ja hän tappaa itsensä . 
+726	It 's not a happy ending then . 	- Ei siis onnellista loppua . 
+727	It 's beautiful , actually . 	- Itse asiassa se on kaunis tarina . 
+728	Like you . 	Niin kuin sinäkin olet . 
+729	Huh ? 	- Mitä ? 
+730	I said you 're beautiful . 	- Sanoin , että olet kaunis . 
+731	That 's funny ? 	Hauskaa . 
+732	Looks like someone might be rolling . 	Näyttäisi , että joku on valmis . 
+733	All right , come on . 	Tule . 
+734	Come on , it 's time to go dance . 	Mennään tanssimaan . 
+735	Nina ! 	Hei , Nina ! 
+736	Hey , what the fuck ? 	Mitä hittoa ? 
+737	Where you going ? 	Minne sinä menet ? 
+738	Nina ! 	Nina ! 
+739	Where are you going ? 	Minne sinä menet ? 
+740	Do you have any idea what time it is ? 	Tiedätkö yhtään , mitä kello on ? 
+741	Late ? 	Paljon . 
+742	Where have you been ? 	- Missä olet ollut ? 
+743	To the moon and back . 	- Kävin kuussa . 
+744	- You 've been drinking . 	Olet juopotellut . 
+745	- Ding ding ding ding ding ! 	Olet juopotellut . 
+746	- What else ? 	Mitä muuta olet tehnyt ? 
+747	- Hmm ? 	Mitä muuta olet tehnyt ? 
+748	What else have you been doing ? 	Mitä muuta olet tehnyt ? 
+749	Oh , you want to know their names ? 	Et tunne heitä . 
+750	- You need to sleep this off . 	- Sinun täytyy nukkua pääsi selväksi . 
+751	- There were two . 	- Heitä oli kaksi . 
+752	Tom and Jerry . 	Sekä Tom että Jerry ja nussin heitä molempia . 
+753	- Be quiet , Nina . 	Sekä Tom että Jerry ja nussin heitä molempia . 
+754	- And I fucked them both . 	Sekä Tom että Jerry ja nussin heitä molempia . 
+755	Shut your mouth ! 	Tuki turpasi ! 
+756	- Don 't come in here . 	- Älä tule sisälle . 
+757	- What 's this ? 	- Mitä tämä on olevinaan ? 
+758	It 's called privacy . 	- Mitä tämä on olevinaan ? 
+759	I 'm not twelve anymore . 	- Yksityisyyttä . En ole enää 12- vuotias . 
+760	- You 're not my Nina right now ... - Leave me alone ! 	- Et ole nyt minun Ninani . Jätä minut rauhaan ! 
+761	Sweat girl . 	Suloinen tyttö . 
+762	Why didn 't you wake me up ? 	Mikset herättänyt minua ? 
+763	I 'm moving out . 	Muutan pois . 
+764	My music ! 	Musiikkini . 
+765	Thomas , I am so sorry . 	- Thomas , olen todella pahoillani . 
+766	Keep on going . 	- Jatkakaa . 
+767	Go get warmed up . 	Mene lämmittelemään . 
+768	That was good . 	Se oli hyvä . 
+769	Actually , really good . 	Itse asiassa todella hyvä ! 
+770	Okay , let 's take ten . 	Pidetään tauko . 
+771	Look , he just wanted to mark it and asked me to step up , okay ? 	Hän vain pyysi minua paikkaamaan sinua . 
+772	I overslept . 	Nukuin pommiin . 
+773	Oops . 	- Ainakin meillä oli hauskaa . 
+774	But hey , at least you had a good time , right ? 	- Ainakin meillä oli hauskaa . 
+775	You put something in my drink . 	- Panit jotain juomaani . 
+776	Yeah . 	- Panin . 
+777	And then you just took off in the morning . 	- Sitten vain lähdit aamulla . 
+778	In the morning ? 	- Aamullako ? 
+779	Yeah , you slept over . 	- Olit luonani yötä . 
+780	Um , no . 	En . 
+781	Unless your name 's Tom and you had a dick . 	Ellei nimesi ole Tom ja sinulla ole munaa . - Mehän ... 
+782	What , Nina ? 	- Mitä , Nina ? 
+783	Did you have some sort of lesbian wet dream about me ? 	- Näitkö minusta märkää lesbounta ? - Lopeta . 
+784	- Stop . 	- Voi luoja ! 
+785	- Oh my God ! 	- Voi luoja ! 
+786	Oh my God , you did ! 	Näit ! Fantasioit minusta ! 
+787	You fantasized about me ! 	- Ole hiljaa ! 
+788	- Shut up ! 	Olinko minä hyvä ? 
+789	- Was I good ? 	Olinko minä hyvä ? 
+790	The final act . 	Viimeinen näytös . 
+791	You 're trying to dance . 	Viimeinen tanssisi . 
+792	You 've tasted your dream ! 	Olet maistanut unelmaasi . Koskit sitä . 
+793	Touched it ! 	
+794	Only to have it crushed ! 	Vain , että se murskataan . 
+795	Your heart is broken , wounded . 	Sydämesi on särkynyt . Haavoittunut . 
+796	Your life force fading . 	Elinvoimasi kaikkoaa . 
+797	The blood drips . 	Vuodat verta . 
+798	The Black Swan stole your love . 	Musta joutsen vei rakkaimpasi . 
+799	There is only one way to end the pain . 	On vain yksi keino lopettaa tuska . 
+800	You are not fearful , but filled with acceptance . 	Et ole pelokas . Olet hyväksynyt sen . 
+801	And you look down at Rothbart , and then at the Prince , and then , yes , at the audience . 	Katsot alas maailmaa . Sitten prinssiä . Sitten yleisöä . 
+802	And then you jump . 	Sitten hyppäät ! 
+803	Go ahead . 	Anna mennä , hyppää . 
+804	Jump . 	Anna mennä , hyppää . 
+805	Jump ! 	Hyppää ! 
+806	Okay , everybody get a drink of water , then it 's notes . 	Menkää kaikki juomaan vettä ja sitten huomioita . 
+807	You lost weight . 	Olet laihtunut . 
+808	Take off your shrug , please . 	Riisuisitko bolerosi ? 
+809	Very good . 	Oikein hyvä . 
+810	Face front . 	Katse eteenpäin . 
+811	We 're almost done . 	Olemme pian valmiit . 
+812	And that 's it . 	Tämä oli tässä . 
+813	Okay . 	Tämä oli tässä . 
+814	We 're done . 	Kiitos paljon . 
+815	Thank you very much . 	Kiitos paljon . 
+816	Georgina , I 'm Lily . 	Georgina , olen Lily . Thomas lähetti minut . 
+817	Thomas sent me ... 	Meidän on otettava mitat joutsenkuningattaren pukuja varten . 
+818	Yes , we have to get you measured for the Swan Queen costumes . 	Meidän on otettava mitat joutsenkuningattaren pukuja varten . 
+819	What 's she doing here ? 	Mitä hän tekee täällä ? 
+820	He made me your alternate . 	Thomas nimesi minut sijaiseksesi . 
+821	Look , it 's just in case . 	Kaiken varalta . 
+822	Thomas . 	Thomas . 
+823	Thomas . 	Thomas ! 
+824	- Thomas . 	- Mitä ? 
+825	- Yes ? 	- Mitä ? 
+826	It can 't be her . 	- Se ei voi olla hän ! 
+827	It can 't be her . 	Mene edeltä . 
+828	Okay , why don 't you just go . 	Tulen perässä . 
+829	I' ll catch up later . 	Tulen perässä . 
+830	What 's going on ? 	- Mikä on hätänä ? 
+831	Lily ... 	- Teit Lilystä sijaiseni . 
+832	You made her my alternate ? 	- Teit Lilystä sijaiseni . 
+833	There 's always an alternate . 	- Sellainen on aina . 
+834	Lily is the best choice . 	Lily on paras valinta . 
+835	No , she wants my role . 	- Hän haluaa roolini . 
+836	Every dancer in the world wants your role . 	- Maailman jokainen tanssija haluaa roolisi . 
+837	No , this is different . 	- Tämä on erilaista . 
+838	She is after me . 	Hän vainoaa minua . 
+839	- She is trying to replace me . 	- Hän yrittää syrjäyttää minut . - Kukaan ei vainoa sinua . 
+840	- Nobody is after you . 	Usko minua ! 
+841	- No , please believe me ... 	Usko minua ! 
+842	I know it 's been a struggle . 	Tiedän , että tämä on ollut vaikeaa . 
+843	But you just had a breakthrough this morning . 	Teit kuitenkin läpimurron tänä aamuna . 
+844	Tomorrow is yours . 	Huominen on sinun päiväsi . 
+845	Just give a great performance and you won 't have to worry about Lily or anybody else . 	Tee parhaasi , niin sinun ei tarvitse huolehtia Lilystä . 
+846	Now go home and rest . 	Mene kotiin lepäämään . 
+847	From the vision again . 	Otetaan näkykohdasta uusiksi . 
+848	What happened ? 	Mitä nyt ? 
+849	I' ve got a life . don 't work too hard . 	Minulla on elämä . Älä rehki liikaa . 
+850	It 's a big day tomorrow . 	Huomenna on suuri päivä . 
+851	I 'm still working in here . 	Harjoittelen täällä vielä . 
+852	Could you please turn the lights back on ? 	Voisiko valot panna takaisin päälle ? 
+853	Hello ? 	Huhuu ? 
+854	What are you doing here ? 	- Mitä teet täällä ? 
+855	I 'm so sorry . 	- Olen todella pahoillani . 
+856	I 'm so sorry . 	- Olen todella pahoillani . 
+857	I know how it feels now . 	Tiedän nyt , miltä se tuntuu , kun yritetään korvata toisella . 
+858	She 's trying to replace me . 	Tiedän nyt , miltä se tuntuu , kun yritetään korvata toisella . 
+859	What do I do ? 	Mitä minä teen ? 
+860	You stole my things ? 	Varastit tavaroitani . 
+861	I was just trying to be perfect , like you . 	Yritin olla täydellinen , kuten sinä . 
+862	Perfect ? 	Täydellinenkö ? 
+863	I 'm not perfect . 	En ole täydellinen . 
+864	I 'm nothing . 	En ole mitään . 
+865	Nothing ! 	En yhtään mitään ! 
+866	Nothing , nothing ! 	En mitään . 
+867	Sweet girl . 	
+868	Mommy ? 	Äiti . 
+869	Sweet girl . 	Kauniita unia . 
+870	Sweet girl . 	Kauniita unia . 
+871	Stop ! 	Lopettakaa ! 
+872	What are you doing ? 	Mitä sinä teet ? 
+873	Sweetie ? 	Kulta . 
+874	Nina ? 	
+875	Nina ! 	
+876	Go away ! £ ¡ Open the door ! 	- Mene pois ! - Avaa ovi ! 
+877	Go away ! 	Mene pois ! 
+878	Open the door , Nina ! 	Avaa ovi , Nina ! 
+879	Nina ! 	Avaa ovi , Nina ! 
+880	Get out ! 	- Ulos ! 
+881	- What 's wrong with you ? 	- Mikä sinua vaivaa ? 
+882	- Get out ! 	- Mikä sinua vaivaa ? 
+883	- Get out ! 	- Olet sairas ! 
+884	- What do you see ? 	- Olet sairas ! 
+885	Get out ! 	- Ulos ! Ulos ! 
+886	It 's okay . 	Kaikki hyvin . 
+887	I 'm here . 	Olen tässä . 
+888	You were scratching all night . 	Raavit itseäsi koko yön . 
+889	Where 's my clock ? 	- Missä kelloni on ? 
+890	- Don 't worry about that . 	- Älä siitä huolehdi . 
+891	- What time is it ? 	Mitä kello on ? 
+892	- The show is tonight , I have to ... - No , no , no , no . 	- Esitykseni on tänään , minun on ... 
+893	Don 't worry . 	- Ei , ei . Älä huoli . 
+894	I called the theater and I told them you aren 't feeling well . 	Soitin teatteriin ja kerroin sinun voivan pahoin . 
+895	I have to go ! 	- Minun on mentävä . 
+896	- No . 	- Minun on mentävä . 
+897	No , you don 't . 	- Minun on mentävä . 
+898	- Let go of me . 	Päästä irti . 
+899	You 're staying in here until you feel better . 	Pysymme täällä , kunnes voit paremmin . 
+900	Where is it ? 	- Missä se on ? 
+901	This role is destroying you . 	- Tämä rooli tuhoaa sinut . 
+902	- Move . 	- Siirry ! 
+903	Move ! 	- Siirry ! 
+904	- Nina ... ! 	- Miten kävi ihanalle tytölleni ? 
+905	- What happened to my sweet girl ? 	- Miten kävi ihanalle tytölleni ? 
+906	- She 's gone ! 	Hän on poissa . 
+907	Nina ! 	Hän on poissa . 
+908	Oh , Nina ! 	
+909	No , please ! 	- Ei , pyydän . 
+910	- You 're not well ! 	Et voi hyvin . 
+911	- Let go of me ! 	- Päästä irti . 
+912	You can 't handle this . 	- Et kestä sitä . 
+913	I can 't ? 	- Enkö ? 
+914	I 'm the Swan Queen . 	Minä olen Joutsenkuningatar , sinä et koskaan päässyt seurueesta pois . 
+915	You 're the one who never left the corps . 	Minä olen Joutsenkuningatar , sinä et koskaan päässyt seurueesta pois . 
+916	Nina ! 	
+917	What are you doing here ? 	Mitä teet täällä ? 
+918	Nina ? 	Sinun piti ... 
+919	She was supposed to be sick . 	Hänen piti olla kipeä . 
+920	Give us a minute . 	Anna meille hetki . 
+921	Are you okay ? 	- Oletko kunnossa ? 
+922	I 'm fine . 	- Oletko kunnossa ? 
+923	Nina . 	
+924	Nina . 	
+925	What ? 	- Mitä ? 
+926	I' ve already asked Lily . 	- Pyysin jo Lilyä . 
+927	Have you announced it ? 	Onko se julkistettu ? 
+928	After Beth , do you really need another controversy ? 	Haluatko Bethin jälkeen vielä uutta riitaa ? 
+929	I 'm here , Thomas . 	Olen täällä , Thomas . 
+930	I 'm doing it . 	Teen sen . 
+931	The only person standing in your way is you . 	Ainoa ihminen tielläsi olet sinä itse . 
+932	It 's time to let it go . 	Aika päästää hänet irti . 
+933	Lose yourself . 	Vapauta itsesi . 
+934	White Swan , up in ten . 	Valkoinen joutsen , kymmenen minuuttia aikaa . 
+935	What are you doing ? 	Mitä teet ? 
+936	You need to be upstage . 	Sinun pitää olla takanäyttämöllä . 
+937	You suck . 	
+938	Okay , Nina . 	No niin , Nina . 
+939	What the fuck ? 	Mitä vittua ? 
+940	- Are you okay ? 	Oletko kunnossa ? 
+941	- Nina , are you okay ? 	Oletko kunnossa ? 
+942	Can you tell me what the fuck happened ? 	Kertoisitko , mitä helvettiä tapahtui ? 
+943	- It wasn 't my fault . 	- Se ei ollut vikani . 
+944	He dropped me . 	Hän pudotti minut ! 
+945	- This is a fucking disaster . 	Hän pudotti minut ! 
+946	Rough start , huh ? 	Hyvä alku . 
+947	Must have been pretty humiliating . 	Oli varmasti aika nöyryyttävää . 
+948	Get out of my room . 	- Häivy huoneestani . 
+949	I 'm worried about the next act . 	- Olen huolissani seuraavasta näytöksestä . 
+950	I 'm just not sure you 're feeling up to it . 	- En ole varma , onko sinusta siihen . 
+951	Stop . 	- En ole varma , onko sinusta siihen . 
+952	Please stop . 	- Pyydän , lopeta . 
+953	How about I dance the Black Swan for you ? 	Mitä jos minä tanssisin Mustan joutsenen puolestasi ? 
+954	Leave me alone ! 	Jätä minut rauhaan ! 
+955	My turn ! 	Nyt on minun vuoroni ! 
+956	My turn ! 	Nyt on minun vuoroni ! 
+957	My turn ! 	Minun vuoroni ! 
+958	It 's my turn ! 	Nyt on minun vuoroni ! 
+959	Black Swan , places in five . 	Musta joutsen , viisi minuuttia aikaa . 
+960	Come on . 	Palaa takaisin sinne ! He haluavat ... 
+961	Good job . 	Hienoa työtä . 
+962	Fifteen to the last act . 	15 minuuttia viimeiseen tanssiin . 
+963	Hey . 	
+964	You were amazing . 	Olit uskomaton . 
+965	Seriously , I know that things got a little messed up between us , but I mean , holy shit , you completely blew me away ! 	Tiedän , että asiat menivät pieleen välillämme , mutta ... Hittolainen , olit aivan mahtava ! 
+966	Okay , well I guess that 's it . 	Siinä kai se taisi ollakin . 
+967	So I' ll let you finish . 	Annan sinun valmistautua . 
+968	Bye . 	Annan sinun valmistautua . 
+969	Can you hear them ? 	Kuuletko tuon ? 
+970	They love you ! 	He rakastavat sinua ! 
+971	My little princess , I always knew you had it in you . 	Pikkuprinsessani . Tiesin aina , että sinusta on siihen . Tule . 
+972	Come on . 	Viedään sinut kumartamaan . 
+973	Let 's take you out . 	Viedään sinut kumartamaan . 
+974	Go get some help . 	Hakekaa apua ! 
+975	Go get some help ! 	Mitä sinä teit ? 
+976	What did you do ? 	Mitä sinä teit ? 
+977	What did you do ? 	
+978	- I felt it . 	- Tunsin sen . 
+979	- What ? 	- Mitä ? 
+980	I felt perfect . 	Täydellinen . 
+981	I was perfect . 	Olin täydellinen . 
+982	Nina ! 	
+983	Nina ! 	
+984	Nina ! 	

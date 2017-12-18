@@ -1,0 +1,985 @@
+0		z odposluchu preložila larelay 
+1	I had the craziest dream last night . 	V noci sa mi zdal bláznivý sen . 
+2	I was dancing the White Swan . 	Tancovala som rolu Bielej labute . 
+3	It was different choreography , though . 	Malo to inú choreografiu , takmer ako v Boľšom teátre . 
+4	It was more like the Bolshoi 's . 	Malo to inú choreografiu , takmer ako v Boľšom teátre . 
+5	It was the prologue , when Rothbart casts his spell . 	Prológ , keď Rothbart vrhol kliatbu . 
+6	Look how pink . 	No toto , aký je ružovučký ! 
+7	So pretty ... 	No toto , aký je ružovučký ! 
+8	Pretty ! 	Je nádherný . - Nádherný ! - Nádherný ! 
+9	- You 're in a good mood . 	- Máš skvelú náladu . 
+10	- He promised to feature me more this season . 	- Sľúbil , že ma túto sezónu bude viac obsadzovať . 
+11	Well , he certainly should . 	Tak to by rozhodne mal . 
+12	You 've been there long enough , and you 're the most dedicated dancer in the company . 	Si tam už dosť dlho . A si v súbore tou najoddanejšou tanečníčkou . 
+13	Up . 	Šup hore . 
+14	- What 's that ? 	- Čo to je ? 
+15	- What ? 	- Čo to je ? 
+16	There . 	- Čo ? - Tuto . 
+17	Nothing . 	Nič . 
+18	You 're sure you don 't want me to come with you ? 	Určite nechceš , aby som išla s tebou ? 
+19	You 're a sweet girl . 	Ty moje zlaté dievčatko . 
+20	Did you see Beth today ? 	Videli ste dnes Beth ? 
+21	I can 't believe she 's back . 	Neverím , že sa vrátila . 
+22	- Of course she 's back . 	Jasné , že sa vrátila . 
+23	- What , she can 't take a hint ? 	Kedy jej to už konečne docvakne ? 
+24	The company is broke . 	Súbor je na mizine . 
+25	No one comes to see her anymore . 	Nikto na ňu už nie je zvedavý . 
+26	Oh , nobody actually comes to see ballet full stop . 	V skutočnosti už nikto nechodí na balet . 
+27	That 's not true . 	To nie je pravda . 
+28	I heard The Royal had one of their best seasons yet . 	Počula som , že Royal má za sebou najlepšiu sezónu . 
+29	He just needs to try something new . 	- Asi to chce niečo nové , nič viac . 
+30	That 's all . 	- Asi to chce niečo nové , nič viac . 
+31	No , someone new . 	- Nie , niekoho nového . 
+32	- Like who ? 	- Ako koho ? 
+33	- Like someone who 's not approaching menopause . 	- Niekoho , koho nenaháňa menopauza . 
+34	It 's sad . 	To je také smutné . 
+35	What 's sad ? 	Čo je smutné ? 
+36	Beth 's such a beautiful dancer . 	- Beth je prenádherná tanečnica . 
+37	Yeah , so is my grandmother . 	- Áno , ale to aj moja starká . 
+38	- Well Fonteyn danced into her fifties . 	- Fonteyonová tancovala do 50tky . 
+39	- Yeah , we know . 	- Áno , vieme . 
+40	Great . 	Paráda . 
+41	Thought I 'd fucking missed my stop . 	Normálne som zabudla vystúpiť , do prdele . 
+42	It 's a hell- fit all the way from 79th . 	Musela som sem bežať až od 79tej . 
+43	Beautiful as always , Nina . 	Nádherná ako vždy , Nina . 
+44	Relax . 	Nádherná ako vždy , Nina . 
+45	And one , and two , and three , and four . 	A raz , a dva , a tri , a štyri . 
+46	Stop , John . 	Na chvíľočku prestaň , John . 
+47	One second . 	Na chvíľočku prestaň , John . 
+48	Okay , take position . 	V poriadku , zaujmite pozície . 
+49	And one , and two , and three , and up . 	A raz ... A tri a hore . 
+50	And one , and two , and three , and four . 	Raz , a dva , a tri , a štyri . 
+51	Hello , dear . 	Zdravím ťa , drahá . 
+52	We all know the story . 	Všetci poznáme ten príbeh . 
+53	Virginal girl , pure and sweet , trapped in the body of a swan . 	Panenské dievča , čisté a krásne , uväznené v tele labute , túžiace po slobode . 
+54	She desires freedom that only true love can break the spell . 	Ale iba pravá láska môže prelomiť jej kliatbu . 
+55	Her wish is nearly granted in the form of a Prince . 	Jej želanie sa takmer naplní , keď spozná princa svojich snov . 
+56	But before he can declare his love , 	Ale skôr , ako je ich láska potvrdená , jej zákerné dvojča , Čierna labuť , ho prelstí a zvedie ho . 
+57	The lustful twin , the Black Swan , tricks and seduces him . 	Ale skôr , ako je ich láska potvrdená , jej zákerné dvojča , Čierna labuť , ho prelstí a zvedie ho . 
+58	Devastated , the White Swan leaps off a cliff , killing herself . 	Načisto zdrvená , sa Biela labuť vrhne z útesu do spárov smrti , pričom práve v nej nájde svoju slobodu . 
+59	And in death ... finds freedom . 	Načisto zdrvená , sa Biela labuť vrhne z útesu do spárov smrti , pričom práve v nej nájde svoju slobodu . 
+60	- Good morning , company . 	- Dobré ráno , súbor . 
+61	- Good morning . 	- Dobré ráno , Thomas . 
+62	We will open our season with Swan Lake . 	Našu novú sezónu zahájime Labutím jazerom . 
+63	Done to death , I know . 	Obohrané a nezaujímavé , áno viem , ale v našom prevedení nie . 
+64	But not like this . 	Obohrané a nezaujímavé , áno viem , ale v našom prevedení nie . 
+65	We strip it down , make it visceral and real . 	Zjednodušíme to , budeme pudoví a skutoční . 
+66	A new production needs a new Swan Queen . 	Nová produkcia si vyžaduje novú Labutiu kráľovnú . 
+67	A fresh face to present to the world . 	Neopozeranú tvár , ktorú predstavíme svetu . 
+68	But ... 	Ale ... ... ktorá z vás dokáže stelesniť obe labute ? 
+69	Which of you can embody both Swans ? 	Ale ... ... ktorá z vás dokáže stelesniť obe labute ? 
+70	The White , and the Black . 	Bielu a Čiernu ? 
+71	All the soloists I tapped : 	Všetky sólistky , ktorých som sa dotkol , sa zúčastnia naplánovaných skúšok na dnešné popoludnie . 
+72	Go to your scheduled rehearsals this afternoon . 	Všetky sólistky , ktorých som sa dotkol , sa zúčastnia naplánovaných skúšok na dnešné popoludnie . 
+73	And the girls I didn 't tap : 	A dievčatá , ktorých som sa nedotkol , prídu za mnou o piatej do štúdia hlavného tanečníka . 
+74	Meet me in the principals´ studio at 5 : 00 . 	A dievčatá , ktorých som sa nedotkol , prídu za mnou o piatej do štúdia hlavného tanečníka . 
+75	Thank you . 	A dievčatá , ktorých som sa nedotkol , prídu za mnou o piatej do štúdia hlavného tanečníka . 
+76	All right . 	- Dobre teda , začneme tam , kde sme skončili . 
+77	- Let 's go . 	- Dobre teda , začneme tam , kde sme skončili . 
+78	Did we do left side ? 	- Dobre teda , začneme tam , kde sme skončili . 
+79	- Yes , mistress . 	- Áno , madam . 
+80	Fuck ! 	Kurva , kurva ! 
+81	Fuck ! 	Kurva , kurva ! 
+82	What ? 	Čo je ? ! 
+83	If I was only casting the White Swan , she 'd be yours . 	Ak by som obsadzoval iba Bielu labuť , rola by bola tvoja . 
+84	But I 'm not . 	Ale neobsadzujem . 
+85	Maestro , Odile 's coda , please . 	Maestro , Odilina koda . 
+86	Now show me your Black Swan , Nina . 	A teraz mi predveď Čiernu labuť , Nina . 
+87	Not so controlled . 	Neovládaj sa tak ! 
+88	Seduce us . 	Zveď nás ! 
+89	Not just the Prince , but the court , the audience , the entire world . 	Nie len princa , ale aj kráľovský dvor , obecenstvo , celý svet ! 
+90	Come on , like a spider spinning a web . 	No tak ! Fouettes sú ako keď pavúk spriada svoju sieť ! 
+91	Attack it , attack it ! 	Pritlač , pritlač ! 
+92	Come on ! 	Pritlač , pritlač ! 
+93	Well ... 	- No ... 
+94	- Good of you to join us . 	Je fajn , že si sa k nám pridala . 
+95	- Sorry ... 	- Pardon . 
+96	Girls , this is Lily . 	Dievčatá , toto je Lily . 
+97	Straight off the plane from San Francisco . 	Prišla rovno z lietadla zo San Francisca . 
+98	She 's filling Rebecca 's old spot . 	Nastúpi na Rebeccino miesto . 
+99	- Hey . 	Nastúpi na Rebeccino miesto . 
+100	- Get warmed up . 	- Ahojte . 
+101	No , it 's okay . 	- Choď sa rozcvičiť . 
+102	I 'm good . 	- Nie , to je v pohode . 
+103	Should I go again ? 	Mám ísť znova ? 
+104	No , thanks , Nina . 	Nie , vďaka . 
+105	I' ve seen enough . 	To , čo som videl , mi stačilo . 
+106	Veronica , the White Swan variation . 	Dobre . Veronica , variácia Bielej labute . 
+107	Come on , come on , come on , please . 	Rýchlo , rýchlo , prosím . 
+108	All right , Maestro . 	V poriadku . Maestro ? 
+109	Two , three ... 	Dva , tri ... 
+110	So how 'd it go ? 	Tak ako to šlo ? 
+111	You were late , so I called Susie in the office . 	Meškala si , tak som zavolala Suzie do kancelárie . 
+112	An audition ! 	Zbytočný konkurz , ako keby bol niekto lepší , než ty . 
+113	I can 't believe he just sprang that on you . 	Zbytočný konkurz , ako keby bol niekto lepší , než ty . 
+114	So ? 	- Tak čo ? 
+115	It was fine . 	- Bolo to fajn . 
+116	Just fine ? 	Iba fajn ? 
+117	Oh , sweetheart ... 	Zlatíčko ! 
+118	You tell me about it . 	Porozprávaj mi o tom . 
+119	Nina , everything all right ? 	- Nina ? Stalo sa niečo ? 
+120	I 'm fine . 	- Som v poriadku ! 
+121	Almost done . 	Už to skoro bude . 
+122	You 're working yourself too hard . 	Si na seba príliš tvrdá . 
+123	- We all have off days . 	- Všetci musíme občas vypustiť . 
+124	- That girl , um , barged in . 	- Keby tam to dievča tak nevtrhlo ... 
+125	I 'm sure she didn 't mean to . 	Určite to neurobila naschvál . 
+126	For a starter , if I hadn 't taken you to each of your classes , you 'd have been completely lost . 	Spomínaš si na svoje začiatky ? Keby som ťa neviedla za ručičku , bola by si totálne stratená . 
+127	I 'm going to talk to him tomorrow . 	Zajtra sa s ním porozprávam a poviem mu , že som to dokončila . 
+128	I 'm going to tell him I finished it . 	Zajtra sa s ním porozprávam a poviem mu , že som to dokončila . 
+129	You don 't need to lie . 	Nemusíš mu klamať . 
+130	You won 't convince him one way or the other . 	Názor aj tak nezmení . 
+131	Oh , sweetheart . 	Ach , zlatíčko . 
+132	I know it 's disappointing . 	Viem , že si sklamaná . 
+133	When you start getting older , there 's all this ridiculous pressure . 	Ako človek starne , začína pociťovať príšerný tlak . 
+134	God knows I understand . 	Ako človek starne , začína pociťovať príšerný tlak . 
+135	But it 's all right . 	Ale to je v poriadku . 
+136	No matter what . 	Nech je to ako chce . 
+137	You 'll probably get to dance the part of the cat again . 	Pravdepodobne budeš opäť tancovať Pas de quatre . 
+138	That 's such a wonderful part . 	To je prenádherná rola . 
+139	Or maybe he 'll make you a big swan . 	A možno ťa obsadí ako Veľkú labuť . 
+140	Either way , you 'll shine . 	Nech to dopadne akokoľvek , budeš žiariť . 
+141	You know ... 	Ja viem . 
+142	Everything will be better in the morning . 	Ráno sa bude zdať všetko lepšie . 
+143	It always is . 	Vždy to tak je . 
+144	Sweet girl . 	Zlaté dievčatko . 
+145	Yes , Nina ? 	- Áno , Nina ? 
+146	Do you have a minute ? 	- Máš chvíľku ? 
+147	- Now 's not a good time . 	- Ak sa to teraz nehodí ... 
+148	I get it . 	- Ak sa to teraz nehodí ... 
+149	- Now is perfect . 	- Ale kdeže , ideš vhod . 
+150	I just wanted to tell you that 	Len som ti chcela povedať , že som včera precvičovala kodu a ... ... dokončila som ju . 
+151	I practiced the coda last night and 	Len som ti chcela povedať , že som včera precvičovala kodu a ... ... dokončila som ju . 
+152	I finished . 	Len som ti chcela povedať , že som včera precvičovala kodu a ... ... dokončila som ju . 
+153	I thought you should know . 	Ja len , že by si to mal vedieť . 
+154	Okay , Nina , listen . 	Nina , pozri . 
+155	Honestly , I don 't care about your technique . 	Úprimne ? Tvoja technika je mi ukradnutá , 
+156	- You should know that by now . 	- to už by si predsa mala vedieť . 
+157	- Yeah , but yesterday ... 	- to už by si predsa mala vedieť . 
+158	No . 	- Áno , ale včera -- - Každopádne , už som si vybral Veronicu , takže ... 
+159	Anyway ... 	- Áno , ale včera -- - Každopádne , už som si vybral Veronicu , takže ... 
+160	I' ve already chosen Veronica . 	- Áno , ale včera -- - Každopádne , už som si vybral Veronicu , takže ... 
+161	Sorry . 	
+162	Sorry . 	- Mrzí ma to . 
+163	Okay , thank you . 	- V poriadku , ďakujem . 
+164	That 's it ? 	To je všetko ? 
+165	You 're not going to try and change my mind ? 	Nepokúsiš sa ma presvedčiť , aby som zmenil názor ? 
+166	You must have thought it was possible . 	Musela si si tú možnosť pripustiť , prečo by si sem inak prišla taká vyparádená ? 
+167	Otherwise , what are you doing here all dolled up ? 	Musela si si tú možnosť pripustiť , prečo by si sem inak prišla taká vyparádená ? 
+168	I came to ask for the part . 	Prišla som ťa požiadať o tú rolu . 
+169	The truth is ... 	Nuž , pravda je taká , že keď sa na teba pozriem , vidím iba Bielu labuť . 
+170	When I look at you , all I see is the White Swan . 	Nuž , pravda je taká , že keď sa na teba pozriem , vidím iba Bielu labuť . 
+171	Yes , you 're beautiful , fearful , fragile . 	Áno , si krásna , bojazlivá , krehká . 
+172	Ideal casting . 	Dokonalé obsadenie . 
+173	But the Black Swan ? 	Ale Čierna labuť ? 
+174	It 's a hard fucking job to dance both . 	Zatancovať obe je kurevsky ťažké . 
+175	I can dance the Black Swan , too . 	Zvládnem zatancovať aj Čiernu labuť . 
+176	Really ? 	Skutočne ? 
+177	In four years , every time you dance , 	Celé 4 roky , vždy keď tancuješ , ťa vidím , aká si posadnutá tým , aby bol každý krok dokonalý , ale nikdy som ťa nevidel uvoľnenú a odviazanú . 
+178	I see obsess getting each and every move perfectly right , but I never see you lose yourself . 	Celé 4 roky , vždy keď tancuješ , ťa vidím , aká si posadnutá tým , aby bol každý krok dokonalý , ale nikdy som ťa nevidel uvoľnenú a odviazanú . 
+179	Ever . 	Nikdy ! 
+180	All that discipline for what ? 	Všetka tá disciplína ? 
+181	- I just want to be perfect . 	- Chcem byť dokonalá . 
+182	- You what ? 	- Chcem byť dokonalá . 
+183	I want to be perfect . 	Chcem byť dokonalá . 
+184	Perfection is not just about control . 	Dokonalosť nie je len o ovládaní sa . 
+185	It 's also about letting go . 	Je taktiež aj o uvoľnení . 
+186	Surprise yourself so you can surprise the audience . 	Musíš prekvapiť samú seba , aby si mohla prekvapiť obecenstvo . 
+187	Transcendence . 	Transcendentno ! 
+188	And very few have it in them . 	Len málo tanečníkov to v sebe má . 
+189	I think I do have it in me . 	Myslím , že ja to v sebe mám . 
+190	You bit me ? 	Ty si ma uhryzla ? 
+191	I can 't believe you bit me ! 	Nemôžem uveriť , že si ma uhryzla . 
+192	I 'm sorry . 	- Prepáč mi to . 
+193	Man , that fucking hurt ! 	- Veď to kurva bolí ! 
+194	What ? 	Čo je ? 
+195	Why 's she always staring at me ? 	Prečo na mňa tak zíza ? 
+196	Hey , it 's been posted . 	Hej , už to vyvesil . 
+197	Hey , it 's up ! 	- Hej , už je to vonku ! - Poďme na to . 
+198	Veronica . 	Veronica ? 
+199	Congratulations . 	Blahoželám . 
+200	Why would you say that ? 	Prečo si mi to povedala ? 
+201	Your idea of some sick joke ? 	To je tvoja predstava o zvrátenom vtipe ? 
+202	What ? 	Čože ? 
+203	Fuck you . 	Vyser si oko ! 
+204	Hey , Nina ! 	Hej , Nina ! 
+205	Congratulations ! 	Gratulujem ti ! 
+206	Congratulations . 	Dokázala si to ! 
+207	You 're so beautiful . 	Blahoželám ! vyzeráš nádherne . 
+208	Congratulations . 	
+209	- Hello ? 	- Prosím ? 
+210	- Hi . 	- Prosím ? 
+211	What is it ? 	- Ahoj . 
+212	What 's wrong ? 	- Čo sa deje ? 
+213	I 'm fine . 	Stalo sa niečo ? - Som v poriadku . 
+214	He picked me , Mom . 	- On si ma vybral , mamička . 
+215	Do you hear me ? 	- Počula si ma ? 
+216	- For Swan Lake ? 	- Do Labutieho jazera ? 
+217	- I 'm going to be Swan Queen ! 	Áno , budem Labutia kráľovná . 
+218	Mom ! 	- Panebože ! - Mami ! 
+219	I' ll be home soon . 	Za chvíľku prídem domov . 
+220	I just wanted to let you know . 	Len som ti to chcela dať vedieť . 
+221	- I love you . 	- Ľúbim ťa ! 
+222	- I love you , too . 	- Aj ja teba . 
+223	Mom ? 	Mami ? 
+224	Mom , are you in your room ? 	Mami ? 
+225	Nina ? 	Nina ! 
+226	Are you home ? 	Si doma ? 
+227	Nina , when you get out I 'm in the kitchen . 	Nina , keď vyjdeš , nájdeš ma v kuchyni . 
+228	Come on , sweetie . 	Tak poď , zlatko ! 
+229	My daughter , the Swan Queen . 	Moja dcéra , Labutia kráľovná . 
+230	It 's our favorite . 	Naša obľúbená . 
+231	Vanilla with strawberry filling . 	Vanilková s jahodovou plnkou . 
+232	Oh , Mom , not too big . 	Mami , nie veľa . 
+233	Oh , that 's way , way too much . 	To je až príliš . 
+234	- It 's a celebration . 	- Veď oslavujeme , iba pre tentokrát . 
+235	It 's just this once . 	- Veď oslavujeme , iba pre tentokrát . 
+236	- Mom ... 	- Veď oslavujeme , iba pre tentokrát . 
+237	My stomach 's still in knots . 	Žalúdok mám stále ako na vode . 
+238	Fine . 	Fajn . 
+239	Fine . 	- Ako chceš . 
+240	Then it 's garbage ! 	Takže putuje do koša . 
+241	No , Mom , don 't . 	- Nie , mami , nerob to . 
+242	I 'm sorry . 	- Nie , mami , nerob to . 
+243	I 'm just ... 	
+244	I 'm just so proud of you . 	Ja len , že som na teba taká pyšná . 
+245	It looks so yummy . 	Vyzerá mňamkovo . 
+246	Okay , okay . 	Dobre , dobre , ďakujem ! 
+247	Thank you . 	Dobre , dobre , ďakujem ! 
+248	Thank you . 	Dobre , dobre , ďakujem ! 
+249	Thank you , Nina . 	Ďakujem ! 
+250	That 's very nice . 	Ďakujem , Nina , veľmi dobre . 
+251	Very nice . 	Bolo to veľmi pekné . 
+252	But I knew the White Swan wouldn 't be a problem . 	Ja som ale vedel , že Biela labuť nebude problém . 
+253	The real work will your metamorphosis into her evil twin . 	Skutočný oriešok bude tvoja premena na jej diabolské dvojča . 
+254	And I know I saw a flash of her yesterday . 	Viem , že včera som z nej kúsok zahliadol . 
+255	So get ready to give me more of that bite . 	Tak sa teda priprav na ďalšie také uhryznutia . 
+256	Excellent . 	Skvelé . 
+257	That evil force is pulling you that you can 't escape . 	Tá diabolská sila ťa premáha , nemôžeš sa vymaniť z jej spárov . 
+258	That 's just out of your control . 	Tá diabolská sila ťa premáha , nemôžeš sa vymaniť z jej spárov . 
+259	So you sense it , you get aware of it more : 	Začneš to cítiť , vnímať , a čoraz viac ťa to pohlcuje ... 
+260	" It 's taking me , it 's taking me . " 	Začneš to cítiť , vnímať , a čoraz viac ťa to pohlcuje ... 
+261	A little bit more desperate . 	Ešte o trošku viac zúfalejšie , to je ono . 
+262	Right , and you can maybe go up a little bit and then come down , and then ... 	A možno by si mohla ... ... dať ruky vyššie a zase mávať dolu , ták , to je ono . 
+263	That 's it . 	A možno by si mohla ... ... dať ruky vyššie a zase mávať dolu , ták , to je ono . 
+264	Watch the way she moves . 	Sleduj jej pohyby ... 
+265	Imprecise , but effortless . 	Síce trochu neohrabane , ale s ľahkosťou . 
+266	She 's not faking it . 	Nehrá to . 
+267	Gorgeous ! 	To je ono , nádhera ! 
+268	Okay , that 's beautiful . 	- Fajn , to bolo nádherné . 
+269	Let 's start again from the beginning . 	- Prepáčte . - Začneme znova od začiatku . 
+270	You 'll room with Beth from now on , so be considerate . 	Odteraz máš šatňu s Beth , takže buď ohľaduplná . 
+271	Thanks , Susie . 	- Ďakujem , Suzie . 
+272	Those are for you , from Mr . 	- Tie sú pre teba , od pána Leroya . 
+273	Leroy . 	- Tie sú pre teba , od pána Leroya . 
+274	They 're beautiful . 	Sú nádherné . 
+275	I' ll be back in a second . 	Za chvíľku sa vrátim . 
+276	Let me come back to you , please . 	Hneď som pri vás ! 
+277	Let 's go . 	Poďme na to . 
+278	Ready to be thrown to the wolves ? 	Pripravená na predhodenie vlkom ? 
+279	We need our cash , so please don 't forget to smile . 	Potrebujeme ich peniaze , tak prosím nešetri úsmevom . 
+280	Ladies and gentlemen , please , may I have your attention ? 	Dámy a páni , venujte mi prosím pozornosť ! 
+281	Good evening . 	Dobrý večer . 
+282	Let me make this very important announcement . 	Rád by som vám oznámil niečo dôležité . 
+283	You all had had the chance and the privilege to be enchanted , transported , and even sometimes devastated , by the performances of this true artist of our company . 	Všetci ste mali tú možnosť a to výsostné právo sa nechať očariť , preniesť a občas aj zdevastovať výkonmi tejto skutočnej umelkyne nášho súboru . 
+284	She 's been a crucial inspiration to my work . 	Bola rozhodujúcou inšpiráciou mojej tvorby , vzorom pre všetkých tanečníkov , a dokonca aj oveľa viac , bezhranične uznávanou osobnosťou nášho javiska . 
+285	A role model to all dancers , and even more than that , a deeply appreciated presence on our stage . 	Bola rozhodujúcou inšpiráciou mojej tvorby , vzorom pre všetkých tanečníkov , a dokonca aj oveľa viac , bezhranične uznávanou osobnosťou nášho javiska . 
+286	You all know who I am talking about . 	Všetci viete , koho mám na mysli . 
+287	Ladies and gentlemen , Beth Macintyre . 	Dámy a páni , Beth Macintyreová . 
+288	But as we all know , every great career has to come to an end . 	Ako všetci vieme , každá veľkolepá kariéra sa raz musí skončiť . 
+289	Beth is retiring at the end of season . 	Na konci sezóny Beth končí s našim súborom . 
+290	She will be giving her farewell performance as Melpomene , the role she originated in my first ballet . 	Rozlúči sa v úlohe Melpomene , v roli , ktorú stvárnila v mojom prvom balete . 
+291	My little princess , we honor you . 	Moja malá princezná , vzdávame ti česť . 
+292	You will be greatly missed , and never forgotten . 	Budeš nám nesmierne chýbať a nikdy na teba nezabudneme . 
+293	But as we bid adieu to one star , we welcome another . 	Ale ako dávame zbohom jednej hviezde , zároveň vítame ďalšiu ! 
+294	We 're opening our season with my new version of Swan Lake . 	Našu novú sezónu zahájime mojou novou verziou Labutieho jazera . 
+295	Taking the role of our new Swan Queen , the exquisite Nina Sayers . 	Role našej novej Labutej kráľovnej sa ujme bravúrna Nina Sayersová . 
+296	You 'll soon have the pleasure of seeing her perform , but right now , let 's please raise a glass : 	Už zanedlho budete mať tú česť uzrieť jej výkon , ale teraz prosím pozdvihnite poháre ! 
+297	To all of us . 	Už zanedlho budete mať tú česť uzrieť jej výkon , ale teraz prosím pozdvihnite poháre ! 
+298	To Beth . 	Na nás všetkých , na Beth , na Ninu , na krásu . 
+299	To Nina . 	Na nás všetkých , na Beth , na Ninu , na krásu . 
+300	To beauty . 	Na nás všetkých , na Beth , na Ninu , na krásu . 
+301	Just a second . 	Chvíľočku ! 
+302	Just a second ! 	Chvíľočku ! 
+303	Come on ! 	No ták , už fakt nevydržím ! 
+304	I 'm about to burst ! 	No ták , už fakt nevydržím ! 
+305	Hey , it 's you ! 	Ahoj ! 
+306	I don 't think we ever officially met . 	To si ty . Myslím , že sme sa ešte oficiálne nezoznámili . 
+307	- I 'm Lily . 	
+308	- Hi , I 'm Nina . 	Som Lily . - Ahoj , ja som Nina . 
+309	Yes , our new Swan Queen . 	- Áno , naša nová Labutia kráľovná . 
+310	- Here , hold this . 	- Áno , naša nová Labutia kráľovná . 
+311	- Yeah , sure . 	- Podržíš mi to ? 
+312	You must be so excited . 	Musíš byť hrozne nadšená ! 
+313	Are you freaking out ? 	- Si nervózna ? 
+314	- Yeah ... - Yeah ? 	- Áno . 
+315	Oh , it 's okay . 	To je v poriadku . 
+316	Oh , I 'd be losing my mind . 	Ja by som sa určite zbláznila . 
+317	I should get back ... 	- Mala by som sa tam vrátiť . 
+318	No , no , no , come on , stay . 	- Nie , nie , prosím ! 
+319	Keep me company . 	Zostaň ! Rob mi spoločnosť . 
+320	Excuse me . 	Ospravedlň ma . 
+321	Oh , there you are . 	Tak tu si ! 
+322	Come on . 	Tak tu si ! 
+323	Hey . 	Hej , pokúšali sa ťa zjesť zaživa , ale prežila si to . 
+324	They tried to eat you alive , but here you are . 	Hej , pokúšali sa ťa zjesť zaživa , ale prežila si to . 
+325	You did well . 	- Viedla si si skvelo . 
+326	- Really ? 	- Viedla si si skvelo . 
+327	- Mm- hmm . 	- Viedla si si skvelo . 
+328	Where are you going ? 	- Ktorým smerom ideš ? 
+329	Upper west side . 	- Upper West Side . 
+330	Stop at my place for a drink . 	Zastavme sa u mňa na pohárik , máme to po ceste . 
+331	It 's on the way . 	Zastavme sa u mňa na pohárik , máme to po ceste . 
+332	Thomas , you need to say hello to Karen Holloway . 	Thomas ? Mal by si ísť pozdraviť Karen Hallowayovú . 
+333	A minute more of ass- kissing . 	Ešte minútu lozenia do zadku . 
+334	I' ll be back . 	Ešte minútu lozenia do zadku . 
+335	Wait for me here , all right ? 	Hneď som späť . 
+336	Hello , Karen ! 	Zdravím vás , Karen . 
+337	Beth ! 	Beth . 
+338	I 'm so sorry to hear you 're leaving the company . 	Je mi nesmierne ľúto , že opúšťaš náš súbor . 
+339	What did you do to get this role ? 	Je mi nesmierne ľúto , že opúšťaš náš súbor . 
+340	He always said you were such a frigid little girl . 	Vždy mi vravel , že si malá frigidná slečinka . 
+341	What did you do to make him change his mind ? 	Ako si ho donútila zmeniť názor ? 
+342	Did you suck his cock ? 	- Vyfajčila si mu vtáka ? 
+343	Not all of us have to . 	- Nie všetky sme na to odkázané . 
+344	You fucking whore ! 	Ty malá zasraná kurvička . 
+345	You 're a fucking little whore ! 	- Ty zasraná malá čubka ! 
+346	Whoa , what 's going on here ? 	- Čo sa to tu deje ? 
+347	Hey , I need to talk to you . 	Hej , hej , potrebujem s tebou hovoriť . 
+348	- You 're drunk . 	Hej , hej , potrebujem s tebou hovoriť . 
+349	You should go home . 	- Musím s tebou hovoriť . 
+350	- I need to talk to you . 	- Si opitá . 
+351	No ! 	Choď domov . 
+352	Don 't you do that ! 	- Nie ! 
+353	Don 't you dismiss me like that ! 	Neopovažuj sa ! Neskúšaj sa ma zbaviť . 
+354	My little princess , please . 	Princezná moja malá , prosím ťa , daj sa dohromady . 
+355	Pull it together . 	Princezná moja malá , prosím ťa , daj sa dohromady . 
+356	- Come . 	- Neskôr sa u teba zastavím ! 
+357	- I 'm coming by later . 	- Neskôr sa u teba zastavím ! 
+358	I have something for you . 	- Poďme . Niečo by som ti chcela dať . 
+359	It 's a token of my appreciation . 	Ako symbol mojej vďačnosti . 
+360	- Right . 	- Iste . 
+361	- You make the most of it , Nina . 	- Vyťaž z toho maximum , Nina ! 
+362	Don 't worry . 	Netráp sa , je to úplne bežné . 
+363	It 's typical . 	Netráp sa , je to úplne bežné . 
+364	Please . 	Myslím , že nám prospeje , keď sa porozprávame o tvojej roli . 
+365	I thought it 'd be good to talk about the role . 	Myslím , že nám prospeje , keď sa porozprávame o tvojej roli . 
+366	Drown this a little . 	- Trochu sa zblížime . 
+367	I don 't want there to be any boundaries between us . 	- Áno . - Nechcem , aby medzi nami boli nejaké prekážky . 
+368	- No , me neither . 	- Ani ja nie . 
+369	- Good . 	- Dobre . 
+370	So ... 	Takže ... 
+371	You got a boyfriend ? 	- Máš priateľa ? 
+372	No . 	- Máš priateľa ? 
+373	Have you had many in the past ? 	A v minulosti si mala mnohých ? 
+374	A few . 	Pár , ale žiadnu vážnu známosť . 
+375	But no one serious . 	Pár , ale žiadnu vážnu známosť . 
+376	You 're not a virgin are you ? 	Nie si snáď panna , že nie ? 
+377	No . 	- Nie . 
+378	So there 's nothing to be embarrassed about . 	- To sa potom nemáš prečo hanbiť . 
+379	And you enjoy making love ? 	A máš rada milovanie ? 
+380	Excuse me ? 	- Prepáč ? 
+381	Come on , sex . 	- Ale prosím ťa ... 
+382	Do you enjoy it ? 	Sex . Máš ho rada ? 
+383	We need to be able to talk about this . 	Musíme byť schopní sa o tom rozprávať . 
+384	I' ve got a little homework assignment for you . 	Mám pre teba jednu domácu úlohu . 
+385	Go home and touch yourself . 	Choď domov a skús sa hladiť . 
+386	Live a little . 	Začni trochu žiť . 
+387	Well it 's late . 	Už je neskoro . 
+388	Lots of work tomorrow . 	Zajtra náš čaká kopec práce . 
+389	The doorman will find a cab for you . 	Vrátnik ti privolá taxík . 
+390	Sounds like quite an evening . 	Zdá sa , že to bol krásny večer . 
+391	I wish I could have been there . 	Kiežby som tam bola s tebou . 
+392	You know I asked . 	- Vieš predsa , že som ich prosila . 
+393	I know you did . 	- Vieš predsa , že som ich prosila . 
+394	Susie told me . 	- Viem , Suzie mi povedala . 
+395	Guess he wanted you all to himself . 	- Asi ťa chcel len pre seba . 
+396	But why ? 	- To nie kvôli tomu . 
+397	Don 't blame him . 	Vôbec sa mu nedivím . 
+398	Where 'd you get these ? 	- Odkiaľ ich máš ? 
+399	They 're fake . 	- Nie sú pravé . 
+400	Fooled me . 	Mňa teda oklamali . 
+401	I can do it . 	Zvládnem to aj sama . 
+402	He must have been by your side all night . 	Určite bol po tvojom boku celý večer , a všetkým sa s tebou chválil . 
+403	Showing you off . 	Určite bol po tvojom boku celý večer , a všetkým sa s tebou chválil . 
+404	- Oh , Nina ... - It 's just a rash . 	- Ale Nina ! - Je to len vyrážka . 
+405	Rash ? 	
+406	What are you talking about ? 	- Vyrážka ? O čom to hovoríš ? 
+407	It was worse a few days ago . 	- Už to bolo aj horšie , zlepšilo sa to . 
+408	It 's fine already . 	- Už to bolo aj horšie , zlepšilo sa to . 
+409	- You 've been scratching yourself again . 	- Už sa zase škrabávaš . 
+410	- No I haven 't . 	- Nie , neškriabem ! 
+411	Mom ! 	- Mami ! 
+412	This disgusting habit ... 	- Zase ten odporný zlozvyk ! 
+413	Jesus Christ , I thought you were done with this , Nina . 	Kristeježiši , Nina , myslela som si , že sme to prekonali . 
+414	Shrugs . 	Kristeježiši , Nina , myslela som si , že sme to prekonali . 
+415	You 'll keep wearing the shrugs . 	Prehozy ... - Budeš ich zase nosiť . 
+416	Sit down . 	Sadaj . 
+417	You have the white one , and the pink one . 	- To si nemyslím . 
+418	And that 'll hide it . 	Máš taký ten biely vrštek , a aj ten ružový , tie to prekryjú . 
+419	And then I' ll dig out that expensive coverup . 	Potom niekde vyhrabem ten drahý prehoz , ktorý ešte stále máme . 
+420	We still have some . 	Potom niekde vyhrabem ten drahý prehoz , ktorý ešte stále máme . 
+421	No one will see it . 	Nikto to neuvidí . 
+422	Mom , please , 	- Mami , prosím ... 
+423	It 's the role , isn 't it ? 	- To tá rola , však ? 
+424	It 's all this pressure . 	Všetok ten tlak ... 
+425	I knew it 'd be too much . 	Vedela som , že to bude na teba veľa . 
+426	I knew it . 	Vedela som , že to bude na teba veľa . 
+427	You 're all right . 	Si v poriadku ? 
+428	You 'll be all right . 	Budeš v poriadku . 
+429	Beth 's in the hospital . 	- Čo sa stalo ? - Beth je v nemocnici . 
+430	She had an accident . 	- Mala nehodu . 
+431	Oh no ! 	- Bože , nie ! 
+432	Beth ? 	- Beth je vážne zranená . 
+433	What happened ? 	Čo sa stalo ? 
+434	She walked into the street and got hit by a car . 	Išla po ulici a zrazilo ju auto . 
+435	You know what ? 	Vieš čo ? 
+436	I 'm almost sure she did it on purpose . 	Som si takmer istý , že to urobila zámerne . 
+437	How do you know ? 	Ako to vieš ? 
+438	Because everything Beth does comes from within , from some dark impulse . 	Pretože všetko , čo Beth urobí , vychádza z jej vnútra , z temných impulzov . 
+439	I guess that 's what makes her so thrilling to watch . 	Asi preto je také vzrušujúce sa na ňu pozerať . 
+440	So dangerous . 	Je tak nebezpečná ... 
+441	Even perfect at times . 	Občas dokonalá . 
+442	But also so damned destructive . 	Ale taktiež prekliato deštruktívna . 
+443	Was it right after we saw her ? 	Stalo sa jej to po našom stretnutí ? 
+444	Wait , wait , wait . 	Nech to dopadlo akokoľvek , s tebou to nemá nič spoločné . 
+445	This has nothing to do with you . 	Nech to dopadlo akokoľvek , s tebou to nemá nič spoločné . 
+446	It 's not your problem , so don 't let yourself be distracted . 	Nie je to tvoj problém , tak sa tým nenechaj rozhodiť . 
+447	This is your moment , Nina . 	Toto je tvoja chvíľa , Nina . 
+448	Don 't let it go . 	Nesmieš si ju nechať ujsť . 
+449	What are you doing ? 	Čo to robíte ? 
+450	Nina ? 	Nina ? 
+451	Sweetie , are you ready for me ? 	Zlatíčko , už môžem prísť ? 
+452	And ... 	A ... 
+453	Come on ! 	No tak , zabudni na ovládanie , Nina , chcem vidieť vášeň ! 
+454	Forget about control , Nina . 	No tak , zabudni na ovládanie , Nina , chcem vidieť vášeň ! 
+455	I want to see passion . 	No tak , zabudni na ovládanie , Nina , chcem vidieť vášeň ! 
+456	Come on . 	Tak poď ! A načiahneš sa ... 
+457	Stiff like a dead corpse . 	To je zle , si celá naškrobená ! Naškrobená ako bielizeň . 
+458	Let it go . 	Uvoľni sa . 
+459	Let it go . 	Uvoľni sa , uvoľni sa ... a znova ! 
+460	Let it go . 	Uvoľni sa , uvoľni sa ... a znova ! 
+461	And again . 	Uvoľni sa , uvoľni sa ... a znova ! 
+462	Feels like you have your diaphragm is in a bit of a contraction ? 	Zdá sa , že tvoja diafragma - je trochu stiahnutá . 
+463	I 'm okay . 	- Dobre . 
+464	Breathe in to this hand . 	Dýchaj mi do ruky , dýchaj , dýchaj , zhlboka ... 
+465	Breathe in to this hand . 	Dýchaj mi do ruky , dýchaj , dýchaj , zhlboka ... 
+466	Breathe in , all the way . 	Dýchaj mi do ruky , dýchaj , dýchaj , zhlboka ... 
+467	Good . 	To je ono . 
+468	And exhale . 	A teraz vydýchni . 
+469	Does it feel jammed in the front every time you plie ? 	Máš pocit , že sa ti pri plie noha zadrhne ? 
+470	Sometimes , not always . 	Niekedy , ale nie vždy . 
+471	- One more pull , okay ? 	- Ešte jeden ťah , dobre ? 
+472	- Okay . 	- Ešte jeden ťah , dobre ? 
+473	- Is that okay ? 	V poriadku ? 
+474	- Yeah . 	V poriadku ? 
+475	David , can I ask you a question ? 	David , môžem sa ťa niečo opýtať ? 
+476	Honestly , would you fuck that girl ? 	Úprimne , ošukal by si ju ? 
+477	No . 	Nie . 
+478	No one would . 	Nikto by ťa neošukal . 
+479	Nina ... 	Nina , tvoje tancovanie je rovnako frigidné ... 
+480	Your dancing is just as frigid ... 	Nina , tvoje tancovanie je rovnako frigidné ... 
+481	Fuck ! 	Kurva ! 
+482	We 're still working here , please . 	Prosím vás , my tu stále pracujeme ! 
+483	Lights ! 	Prosím vás , my tu stále pracujeme ! 
+484	The lights ! 	Prosím vás , my tu stále pracujeme ! 
+485	Thank you ! 	Ďakujem . 
+486	Okay , guys , you can go . 	Ďakujem . 
+487	Thanks for your patience . 	Dobre , ľudia , vy môžete ísť . 
+488	No , no , you stay . 	Ty tu zostaň . 
+489	You stay . 	Ty tu zostaň . 
+490	Have fun , you two . 	Užite si to . 
+491	Okay . 	Dobre teda , poď ku mne , poď , poď . 
+492	Come here . 	Dobre teda , poď ku mne , poď , poď . 
+493	Come , come , come , come . 	Dobre teda , poď ku mne , poď , poď . 
+494	I' ll be the Prince . 	Budem princ . 
+495	Let it go . 	Uvoľni sa , vypusti to zo seba . 
+496	Let it go . 	Uvoľni sa , vypusti to zo seba . 
+497	Feel my touch . 	Vnímaj môj dotyk , reaguj na neho , no tak . 
+498	Respond to it . 	Vnímaj môj dotyk , reaguj na neho , no tak . 
+499	Come on . 	Vnímaj môj dotyk , reaguj na neho , no tak . 
+500	Open your mouth . 	Otvor ústa . 
+501	Open it . 	Otvor ich , otvor ich ! 
+502	Open up . 	Otvor ich , otvor ich ! 
+503	That was me seducing you , when it needs to be the other way around . 	Tak to som zvádzal ja teba , ale musí to byť opačne . 
+504	Please ... 	Prosím ... 
+505	Who is that ? 	- Kto je tam ? 
+506	Hey . 	- Kto je tam ? 
+507	You okay ? 	Si v poriadku ? 
+508	You can 't smoke in here . 	Tu nesmieš fajčiť . 
+509	Well , I won 't tell if you won 't . 	No ak to ty niekomu nepovieš , ja tiež nie . 
+510	So ... 	Veľký deň sa neustále blíži , však ? 
+511	The big day 's getting closer and closer , huh ? 	Veľký deň sa neustále blíži , však ? 
+512	Well , I can 't wait . 	Už sa neviem dočkať . 
+513	I think you 're going to be amazing . 	Podľa mňa budeš famózna . 
+514	Thanks . 	Vďaka . 
+515	So ... 	Chceš sa o tom porozprávať ? 
+516	Do you want to talk about it ? 	Chceš sa o tom porozprávať ? 
+517	It 's that hard to . 	Mám za sebou náročný deň . 
+518	Leroy playing a little too rough for you ? 	Leroy bol na teba pritvrdý ? 
+519	Come on , Nina . 	- No tak , Nina , je to hovado . 
+520	He 's a prick . 	- No tak , Nina , je to hovado . 
+521	He 's brilliant . 	- No tak , Nina , je to hovado . 
+522	Sure , but it 's not like he 's all warm and fuzzy . 	- Je skvelý . Iste , ale určite nie je zrovna vľúdny a prívetivý . 
+523	What you don 't know is ... 	Vôbec ho nepoznáš . 
+524	Someone 's hot for teacher ! 	Niekto sa nám tu zabuchol do pedagóga . 
+525	Oh , come on , it 's okay . 	Ale no tak , to je v poriadku ! 
+526	I don 't blame you . 	Vôbec sa ti nedivím ! 
+527	I should go home . 	- Mala by som ísť domov . 
+528	Nina , come on . 	- Mala by som ísť domov . 
+529	I 'm just playing around . 	- Ale Nina , veď ťa len podpichujem ! 
+530	Nina ! 	Nina ! 
+531	Sweetie ? 	Srdiečko ? 
+532	What are you doing in there ? 	Srdiečko ? 
+533	Again . 	Znova . 
+534	Again . 	Znova . 
+535	Do you have any corrections ? 	Máš nejaké pripomienky ? 
+536	Lily told me that she saw you crying . 	Lily mi povedala , že ťa videla plakať . 
+537	That you were very upset and that I should take it easy on you . 	Že si bola rozrušená , a že by som ti nemal dávať tak zabrať . 
+538	I didn 't tell her that . 	Nič také som jej nepovedala . 
+539	Maybe you need a little break . 	Nič také som jej nepovedala . 
+540	A day or two . 	- Možno potrebuješ tak deň , dva oddych . 
+541	Or maybe a month . 	- Thomas ... 
+542	What do you think ? 	- Alebo možno mesiac ? 
+543	She shouldn 't have said anything . 	Čo ty na to ? - Nič ti nemala vravieť . 
+544	No , you shouldn 't be whining in the first place . 	- Nie ! To ty by si nemala v prvom rade rumázgať . 
+545	I didn 't . 	
+546	You could be brilliant . 	Mohla by si byť brilantná , ale si strachopud . 
+547	But you 're a coward . 	Mohla by si byť brilantná , ale si strachopud . 
+548	Sorry . 	- Mrzí ma to . 
+549	No , stop saying that ! 	- Nie , prestaň s tým ! 
+550	That 's exactly what I 'm talking about . 	Presne o tom hovorím ! 
+551	Stop being so fucking weak . 	Prestaň byť taký zasraný slaboch ! 
+552	Again ! 	Prestaň byť taký zasraný slaboch ! 
+553	Lily ... 	- Lily ? 
+554	Oh , look who 's decided to grace us with her presence . 	- Pozrite sa , kto nás poctil svojou prítomnosťou . 
+555	I need to talk to you . 	- Musím s tebou hovoriť . 
+556	Okay . 	- Musím s tebou hovoriť . 
+557	Now . 	- Dobre . 
+558	Shut up . 	Drž hubu . 
+559	Come on . 	Drž hubu . 
+560	What 's up ? 	- Čo sa deje ? 
+561	You told Thomas about last night ? 	- Ty si povedala Thomasovi o včerajšku ? 
+562	Oh , yeah . 	Áno , ráno sme sa stretli a povedal mi , že máte nejaké problémy . 
+563	I ran into him in the morning and he said you guys were having some trouble . 	Áno , ráno sme sa stretli a povedal mi , že máte nejaké problémy . 
+564	Why would he talk to you ? 	- Prečo by sa zveril tebe ? 
+565	Oh , excuse me , your highness . 	- Prečo by sa zveril tebe ? 
+566	I just told him you 're working your ass off and I think you 'll be great . 	- No pardon , Vaša výsosť . - Povedala som mu , aby nestresoval , že budeš báječná . 
+567	Well you shouldn 't have . 	- To si nemala . 
+568	Okay . 	Fajn . 
+569	Has he tried anything with you ? 	Skúsil na teba niečo ? 
+570	He has a reputation . 	Jeho povesť ho predchádza . 
+571	I have a right to be concerned , Nina . 	Mám právo na obavy , Nina . 
+572	You 've been staying late so many nights . 	Koľkokrát chodíš neskoro domov , stále " precvičuješ " ... 
+573	Rehearsing . 	Koľkokrát chodíš neskoro domov , stále " precvičuješ " ... 
+574	I just hope he isn 't taking advantage , that 's all . 	Dúfam , že to nezneužíva , nič viac . 
+575	He 's not . 	- Nezneužíva . 
+576	Good . 	- Nezneužíva . 
+577	I just don 't want you to make the same mistake I did . 	Len nechcem , aby si urobila rovnakú chybu , ako ja . 
+578	Thanks . 	- Fakt ďakujem . 
+579	Not like that . 	- Tak som to nemyslela . 
+580	I just mean as far as my career was concerned . 	- Mala som na mysli moju kariéru . 
+581	What career ? 	- Mala som na mysli moju kariéru . 
+582	The one I gave up to have you . 	Tú , ktorej som sa kvôli tebe vzdala . 
+583	I 'm twenty- eight . 	- Mala si 28 . 
+584	So ? 	- Mala si 28 . 
+585	Only that ... 	Ja len že ... 
+586	Only what ? 	- Čo ? 
+587	Nothing . 	- Nič . 
+588	- What ? 	- Tak čo ? ! 
+589	- Nothing . 	- Ale nič ! 
+590	How is your skin ? 	- Čo tvoja koža ? 
+591	Fine . 	- V poriadku . 
+592	- Are you leaving it alone ? 	Neškriabeš sa ? 
+593	- Mm- hmm . 	Neškriabeš sa ? 
+594	Let me see . 	Ukáž . 
+595	- Take off your shirt . 	- Daj si dole tričko . 
+596	- No . 	- Daj si dole tričko . 
+597	Can I help you ? 	Prajete si ? 
+598	Who was that ? 	- Kto to bol ? 
+599	It was no one . 	- Kto to bol ? 
+600	It was no one . 	Nikto dôležitý . 
+601	Hello ? 	Zdravím . 
+602	What are you doing here ? 	- Čo tu robíš ? 
+603	I just came by to apologize . 	Prišla som sa ti ospravedlniť . 
+604	You 're right . 	Prišla som sa ti ospravedlniť . 
+605	I should have never spoken to him about you . 	Máš pravdu , nemala som mu nič povedať . 
+606	- Sweetheart . 	- Zlatko ? 
+607	- Give me a second . 	- Daj mi chvíľu . 
+608	- Your dinner ... - Mom , please . 	- Tvoja večera . 
+609	Oh , she 's a trip . 	- Tá je ale starostlivá . 
+610	How do you know where I live ? 	- Odkiaľ vieš , kde bývam ? 
+611	I have my ways . 	Mám svoje zdroje . 
+612	Jesus , relax . 	Ježiš , klídek , adresu mi dala Suzie . 
+613	I got it from Susie in the office . 	Ježiš , klídek , adresu mi dala Suzie . 
+614	Look , I feel really shitty about what I did , and I really want to make it up to you . 	Cítim sa dosť na prd za to , čo som urobila , a chcela by som ti to vynahradiť . 
+615	So how about I take you out to dinner ? 	Cítim sa dosť na prd za to , čo som urobila , a chcela by som ti to vynahradiť . 
+616	- I don 't think ... - Okay , that 's fine . 	- Nemyslím , že ... - V poriadku . 
+617	What about drinks ? 	A čo tak zbehnúť na pohárik ? 
+618	Sweetie , you need to rest . 	- Zlatko , potrebuješ odpočívať . 
+619	- Jesus . 	- Zlatko , potrebuješ odpočívať . 
+620	- Wait . 	- Kriste ... - Počkaj . 
+621	What are you doing ? 	Čo to stváraš ? 
+622	I 'm going out . 	Čo to stváraš ? 
+623	What ? 	- Idem von . 
+624	Nina ! 	Schody . 
+625	You 're on the stage tomorrow . 	- Nina , zajtra skúšaš ! 
+626	I can 't believe he calls her that . 	Neverím , že ju tak volá . 
+627	- It 's so gross . 	Veď je to nechutné . 
+628	- I think it 's sweet . 	Veď je to nechutné . 
+629	Little Princess ? 	- Podľa mňa je to rozkošné . - " Malá princezná " ? 
+630	- He probably calls every girl that . 	- Asi tak volá každú . 
+631	- No way . 	- Asi tak volá každú . 
+632	That 's just for Beth . 	- V žiadnom prípade . Iba Beth . 
+633	Well , I bet he 'll be calling you Little Princess any day now . 	Stavím sa , že už onedlho ťa tiež začne volať " malá princezná " . 
+634	I don 't know about that . 	- To si nemyslím . 
+635	Oh , sure he will . 	- To si nemyslím . 
+636	Just got to let him lick your pussy . 	- To si píš , že áno . 
+637	Cheeseburger , extra bloody . 	- Cheesburger , extra krvavý . 
+638	Mmm , dankeschin . 	- Dankeschön . 
+639	Let me know if that 's juicy enough for you . 	- Dajte mi vedieť , či je dosť šťavnatý . 
+640	Oh , I will . 	- Dajte mi vedieť , či je dosť šťavnatý . 
+641	You have enough cheese ? 	Máte dosť syra ? 
+642	No , but you do . 	Nie , ale už ste otravný . 
+643	Enjoy . 	Dobrú chuť . 
+644	All right . 	Fajn . 
+645	Wanna spruce up ? 	Chceš sa trochu vyparádiť ? 
+646	What , I carry a spare in case I wake up somewhere unexpected . 	Vždy mám so sebou náhradné . V prípade , že sa zobudím na nečakanom mieste . 
+647	So how is he ? 	Tak čo , aký je ? 
+648	Thomas . 	Thomas . 
+649	I wouldn 't know . 	- Odkiaľ to mám vedieť ? 
+650	- Oh , come on . 	- Odkiaľ to mám vedieť ? 
+651	- I really don 't want to talk about that . 	- Ale no tak . Vážne sa o tom nechcem baviť . 
+652	Okay . 	No dobre . 
+653	You really need to relax . 	Ty sa nutne potrebuješ uvoľniť . 
+654	One for you , one for me . 	Jedna pre teba , jedna pre mňa . 
+655	Oh , and don 't worry . 	Neboj , je to čistotka , sľubujem . 
+656	It 's pure , I promise . 	Neboj , je to čistotka , sľubujem . 
+657	I brought it with me straight from San Francisco . 	Priamo zo San Francisca . 
+658	What is it ? 	- Čo to je ? 
+659	Are you kidding ? 	- Žartuješ ? 
+660	You 've never rolled ? 	Ty si nikdy nič neskúsila ? 
+661	Oh , relax . 	Trošku ťa to uvoľní , odhodíš zábrany ... 
+662	Here . 	Trošku ťa to uvoľní , odhodíš zábrany ... 
+663	It 'll loosen you up . 	Trošku ťa to uvoľní , odhodíš zábrany ... 
+664	Wait till you see the night sky . 	Vstupenka pre dámy na nočnú oblohu . 
+665	How long does it last ? 	- Ako dlho to účinkuje ? 
+666	A couple hours , tops . 	- Pár hodín . Maximálne . 
+667	It 's okay . 	Radšej nie . 
+668	Okay . 	Fajn . 
+669	Nina , hi ! 	Ahoj ! 
+670	I thought we could use some company . 	Povedala som si , že by sme sa mali napiť . 
+671	So this is Tom and this is Jerry . 	- Ja už radšej pôjdem . - Toto tu je Tom a toto je Jerry . 
+672	- Actually it 's Andrew . 	- Vlastne som Andrew . 
+673	- Tom . 	- Vlastne som Andrew . 
+674	- I have to go ... - Oh , no you can 't go . 	- Tom . - Musím už ísť . 
+675	I just got us some drinks . 	- Nie , no tak , nemôžeš ísť , kúpila som nám pitie . 
+676	I shouldn 't ... 	- Nie , no tak , nemôžeš ísť , kúpila som nám pitie . 
+677	We 're on the stage tomorrow . 	Vážne by som nemala . Zajtra skúšame . 
+678	So what are you going to do ? 	A čo budeš robiť ? 
+679	Go home to Mommy ? 	Poutekáš domov k mamičke ? 
+680	Come on , live a little . 	Hej , no tak , začni trochu žiť . 
+681	It 's just a couple hours , right ? 	- Iba pár hodín , je tak ? 
+682	Tops . 	- Maximálne . 
+683	Cheers . 	- Tak na zdravie ! 
+684	You haven 't told me who you are . 	Ešte si mi neprezradila , kto si . 
+685	I 'm a dancer . 	- Som tanečníčka . 
+686	No , I mean your name . 	- Nie , myslel som tvoje meno . 
+687	- Oh . 	Aha ... 
+688	Nina . 	Nina . 
+689	- So are you two sisters ? 	- Takže vy ste sestry ? 
+690	- Yes . 	- Takže vy ste sestry ? 
+691	- No . 	- Takže vy ste sestry ? 
+692	- Blood sisters . 	- Áno . - Nie . 
+693	- We dance in the same company . 	- Pokrvné sestry . - Tancujeme v rovnakom súbore . 
+694	Ah , ballerinas . 	Ale , takže baleríny . 
+695	No wonder you two look alike . 	Niet divu , že vyzeráte rovnako . 
+696	I see now . 	Tuná Tom a Jerry sú milenci . 
+697	Tom and Jerry here are gay lovers . 	Tuná Tom a Jerry sú milenci . 
+698	- Very funny . 	Tuná Tom a Jerry sú milenci . 
+699	- I like to amuse myself . 	- Veľmi vtipné . - Prišlo mi to tak . 
+700	I' ve never been to the ballet . 	- Nikdy som nebol v balete . 
+701	Then you are definitely not gay . 	- Skutočne ? - V tom prípade rozhodne nie si gay . 
+702	I mean , it 's kind of boring , isn 't it ? 	- Balet je dosť nudný , však ? 
+703	- Be honest . 	- Balet je dosť nudný , však ? 
+704	- No it 's not . 	- Nie , to nie je . 
+705	You know what ? 	Viete , proste len nie je pre každého . 
+706	It 's just not for everyone . 	Viete , proste len nie je pre každého . 
+707	You should come sometime . 	Viete , proste len nie je pre každého . 
+708	I can comp you tickets whenever you want . 	Mali by ste niekedy prísť . Môžem vám hocikedy zohnať lístky . 
+709	Yeah . 	- Jasné . 
+710	Yeah . 	- Jasné . 
+711	- Yeah , that would be neat . 	- Jasné , to by bolo ... milé . 
+712	Thanks . 	- Jasné , to by bolo ... milé . 
+713	- Okay well ... 	- Jasné , to by bolo ... milé . 
+714	I think it 's time for another round . 	- Fajn , je čas na ďalšiu rundu . 
+715	Bottoms up . 	Do dna . 
+716	So what are you guys working on now ? 	- Poprosím 4- krát . 
+717	Sorry . 	Prepáč . 
+718	Swan Lake . 	- Labutie jazero . 
+719	Yeah ? 	- Dobre ... Fakt ? 
+720	You know it ? 	- Poznáš ? 
+721	No , not really . 	- Nie , ani nie . 
+722	Heard of it . 	Ale počul som o ňom . 
+723	What 's it about ? 	- O čom to je ? 
+724	It 's about a girl who gets turned into a swan , and she needs love to break the spell . 	- O dievčati , ktoré sa premení na labuť . A na prelomenie kliatby potrebuje lásku . 
+725	But her prince falls for the wrong girl , and so she kills herself . 	- Ale jej princ sa zamiluje do nesprávnej dievčiny , preto spácha samovraždu . 
+726	It 's not a happy ending then . 	Takže šťastný koniec , čo ? 
+727	It 's beautiful , actually . 	Je to prekrásne . 
+728	Like you . 	Ako ty . 
+729	Huh ? 	
+730	I said you 're beautiful . 	Povedal som , že si krásna . 
+731	That 's funny ? 	Pripadá ti to vtipné ? 
+732	Looks like someone might be rolling . 	Zdá sa , že nám tu niekto lieta . 
+733	All right , come on . 	Tak poď , ideme si zatancovať . 
+734	Come on , it 's time to go dance . 	Tak poď , ideme si zatancovať . 
+735	Nina ! 	Nina ! 
+736	Hey , what the fuck ? 	Hej ? 
+737	Where you going ? 	Čo to má byť , kurva ? 
+738	Nina ! 	Nina ? 
+739	Where are you going ? 	Kam ideš ? 
+740	Do you have any idea what time it is ? 	Máš poňatie , koľko je hodín ? 
+741	Late ? 	Je neskoro . 
+742	Where have you been ? 	- Kde si bola ? 
+743	To the moon and back . 	- Na Mesiaci a späť . 
+744	- You 've been drinking . 	Ty si pila . 
+745	- Ding ding ding ding ding ! 	
+746	- What else ? 	A čo ešte ? 
+747	- Hmm ? 	A čo ešte ? 
+748	What else have you been doing ? 	Čo si ešte robila ? 
+749	Oh , you want to know their names ? 	Chceš vedieť ich mená ? 
+750	- You need to sleep this off . 	- Musíš sa z toho vyspať . 
+751	- There were two . 	- Musíš sa z toho vyspať . 
+752	Tom and Jerry . 	- Boli dvaja . 
+753	- Be quiet , Nina . 	Tom a Jerry ... 
+754	- And I fucked them both . 	- Mlč , Nina . 
+755	Shut your mouth ! 	- S obidvoma som šukala ! Zavri si tie ústa ! 
+756	- Don 't come in here . 	- Nechoď sem ! 
+757	- What 's this ? 	- Nechoď sem ! 
+758	It 's called privacy . 	- Čo to má znamenať ? 
+759	I 'm not twelve anymore . 	Hovorí sa tomu súkromie ! 
+760	- You 're not my Nina right now ... - Leave me alone ! 	Už nemám 12 rokov ! - Toto teraz nie je moja Nina ! 
+761	Sweat girl . 	Zlaté dievčatko . 
+762	Why didn 't you wake me up ? 	Prečo si ma nezobudila ? ! 
+763	I 'm moving out . 	Sťahujem sa preč ! 
+764	My music ! 	Moja hudba ! 
+765	Thomas , I am so sorry . 	- Thomas , hrozne ma to mrzí . 
+766	Keep on going . 	- Pokračujte ! 
+767	Go get warmed up . 	Choď sa rozcvičiť . 
+768	That was good . 	Bolo to dobré . 
+769	Actually , really good . 	Vlastne veľmi dobré . 
+770	Okay , let 's take ten . 	Takže 10 minút prestávka ! 
+771	Look , he just wanted to mark it and asked me to step up , okay ? 	Chcel si vyskúšať načasovanie a požiadal ma , aby som tancovala . 
+772	I overslept . 	Zaspala som ! 
+773	Oops . 	
+774	But hey , at least you had a good time , right ? 	- Ale aspoň sme sa super bavili , je tak ? 
+775	You put something in my drink . 	- Ty si mi niečo nasypala do alkoholu . 
+776	Yeah . 	- Áno ... 
+777	And then you just took off in the morning . 	- A to si sa ráno len tak vyparila ? 
+778	In the morning ? 	- Ráno ? 
+779	Yeah , you slept over . 	- Áno , veď si u mňa spala . 
+780	Um , no . 	Nie . 
+781	Unless your name 's Tom and you had a dick . 	- Teda pokiaľ sa nevoláš Tom a nemáš vtáka . - Ale my sme ... 
+782	What , Nina ? 	Čo sme , Nina ? 
+783	Did you have some sort of lesbian wet dream about me ? 	- Nebodaj si so mnou mala lesbický mokrý sen ? 
+784	- Stop . 	- Prestaň . 
+785	- Oh my God ! 	Panebože , panebože ! 
+786	Oh my God , you did ! 	Mala si ! 
+787	You fantasized about me ! 	Tebe sa o mne snívalo ! 
+788	- Shut up ! 	- Mlč ! 
+789	- Was I good ? 	- Bola som dobrá ? 
+790	The final act . 	Posledné dejstvo ! 
+791	You 're trying to dance . 	Tvoj posledný tanec ! 
+792	You 've tasted your dream ! 	Zakúsila si svoj sen ! Dotkla si sa ho ! 
+793	Touched it ! 	
+794	Only to have it crushed ! 	A len preto , aby si oň prišla ! 
+795	Your heart is broken , wounded . 	Tvoje srdce je zlomené . 
+796	Your life force fading . 	Ranené . Uniká z teba život . 
+797	The blood drips . 	Tvoje srdce krváca . 
+798	The Black Swan stole your love . 	Čierna labuť ti ukradla lásku ! 
+799	There is only one way to end the pain . 	Tú bolesť môžeš ukončiť len jediným spôsobom . 
+800	You are not fearful , but filled with acceptance . 	Necítiš žiaden strach , si naplnená zmierením ! 
+801	And you look down at Rothbart , and then at the Prince , and then , yes , at the audience . 	Pozrieš sa na Rothbarda , a potom na princa , a potom na obecenstvo ! 
+802	And then you jump . 	A potom skočíš ! 
+803	Go ahead . 	Do toho , Odetta , skoč ! 
+804	Jump . 	Do toho , Odetta , skoč ! 
+805	Jump ! 	Do toho , Odetta , skoč ! 
+806	Okay , everybody get a drink of water , then it 's notes . 	Dobre vážení , všetci sa choďte napiť , a potom študujte materiály . 
+807	You lost weight . 	Schudla si . 
+808	Take off your shrug , please . 	Daj si dole topík , prosím . 
+809	Very good . 	Výborne . 
+810	Face front . 	Ešte vydrž , už končíme . 
+811	We 're almost done . 	Ešte vydrž , už končíme . 
+812	And that 's it . 	Dobre , to je všetko . 
+813	Okay . 	Dobre , to je všetko . 
+814	We 're done . 	Hotovo . 
+815	Thank you very much . 	Ďakujem . 
+816	Georgina , I 'm Lily . 	- Georgina ? - Áno ? 
+817	Thomas sent me ... 	- Vraj mi máte vziať miery . 
+818	Yes , we have to get you measured for the Swan Queen costumes . 	Áno , na kostým Labutej kráľovnej . 
+819	What 's she doing here ? 	Čo tu robí táto ? 
+820	He made me your alternate . 	Menoval ma tvojou náhradníčkou . 
+821	Look , it 's just in case . 	Keby sa náhodou niečo stalo ! 
+822	Thomas . 	- Thomas ? 
+823	Thomas . 	Thomas ! 
+824	- Thomas . 	Thomas ! 
+825	- Yes ? 	- Áno ? 
+826	It can 't be her . 	Ona nie . 
+827	It can 't be her . 	Nemôže to byť ona . 
+828	Okay , why don 't you just go . 	Pokojne choď , dobehnem ťa . 
+829	I' ll catch up later . 	Pokojne choď , dobehnem ťa . 
+830	What 's going on ? 	- Čo sa deje ? 
+831	Lily ... 	- Lily ... urobil si z nej moju alternáciu . 
+832	You made her my alternate ? 	- Lily ... urobil si z nej moju alternáciu . 
+833	There 's always an alternate . 	No ... Vždy to tak predsa býva . 
+834	Lily is the best choice . 	Lily je najlepšia voľba . 
+835	No , she wants my role . 	Ale ona chce moju rolu . 
+836	Every dancer in the world wants your role . 	- Každá balerína na svete chce tvoju rolu . 
+837	No , this is different . 	- Nie , toto je iné . 
+838	She is after me . 	- Ide po mne . 
+839	- She is trying to replace me . 	Chce ma nahradiť . 
+840	- Nobody is after you . 	- Nikto po tebe nejde . 
+841	- No , please believe me ... 	- Nie , prosím ťa , musíš mi veriť ! - Hej , hej , no tak . 
+842	I know it 's been a struggle . 	Viem , že to bol ťažký boj . 
+843	But you just had a breakthrough this morning . 	Dnes ráno u teba nastal zlom . 
+844	Tomorrow is yours . 	Zajtrajšok patrí tebe . 
+845	Just give a great performance and you won 't have to worry about Lily or anybody else . 	Odveď skvelý výkon , a potom ťa už nemusí trápiť Lily , ani nikto iný . 
+846	Now go home and rest . 	Teraz choď domov a odpočiň si . 
+847	From the vision again . 	Znova od Zjavenia . 
+848	What happened ? 	Čo sa stalo ? 
+849	I' ve got a life . don 't work too hard . 	Mám svoj život . Neprežeň to s tou prípravou . 
+850	It 's a big day tomorrow . 	Zajtra ťa čaká veľký deň . 
+851	I 'm still working in here . 	Ja tu ešte nacvičujem ! 
+852	Could you please turn the lights back on ? 	Mohli by ste prosím znovu zapnúť svetlá ? 
+853	Hello ? 	Haló ? 
+854	What are you doing here ? 	- Čo tu robíš ? 
+855	I 'm so sorry . 	- Veľmi ma to mrzí . 
+856	I 'm so sorry . 	Veľmi ma to mrzí , teraz už viem , aký je to pocit . 
+857	I know how it feels now . 	Veľmi ma to mrzí , teraz už viem , aký je to pocit . 
+858	She 's trying to replace me . 	Pokúša sa ma nahradiť . 
+859	What do I do ? 	Čo budem teraz robiť ? 
+860	You stole my things ? 	Ty si mi ukradla veci ? 
+861	I was just trying to be perfect , like you . 	Len som chcela byť dokonalá . 
+862	Perfect ? 	Dokonalá ? 
+863	I 'm not perfect . 	Nie som dokonalá . 
+864	I 'm nothing . 	Som nula . 
+865	Nothing ! 	Nula ! Nula ! 
+866	Nothing , nothing ! 	Nula ! 
+867	Sweet girl . 	Zlaté dievčatko . 
+868	Mommy ? 	Mami ? 
+869	Sweet girl . 	Zlaté dievčatko . 
+870	Sweet girl . 	Zlaté dievčatko . 
+871	Stop ! 	Prestaňte ! 
+872	What are you doing ? 	Čo to robíš ? ! 
+873	Sweetie ? 	Zlatko ? 
+874	Nina ? 	Nina ? 
+875	Nina ! 	
+876	Go away ! £ ¡ Open the door ! 	- Nina ! - Choď preč ! 
+877	Go away ! 	- Otvor tie dvere ! 
+878	Open the door , Nina ! 	Otvor tie dvere , Nina ! 
+879	Nina ! 	Otvor tie dvere , Nina ! 
+880	Get out ! 	- Vypadni ! 
+881	- What 's wrong with you ? 	- Nie ! Čo sa to s tebou deje ? ! 
+882	- Get out ! 	- Vypadni ! 
+883	- Get out ! 	- Vypadni ! 
+884	- What do you see ? 	- Si chorá ! 
+885	Get out ! 	- Vypadni ! - Si chorá ! 
+886	It 's okay . 	Tíško , už je dobre . 
+887	I 'm here . 	Som pri tebe . 
+888	You were scratching all night . 	Celú noc si sa škriabala . 
+889	Where 's my clock ? 	- Kde mám hodiny ? 
+890	- Don 't worry about that . 	- O to sa vôbec netráp . 
+891	- What time is it ? 	- O to sa vôbec netráp . 
+892	- The show is tonight , I have to ... - No , no , no , no . 	Koľko je hodín ? - Dnes mám vystúpenie . 
+893	Don 't worry . 	- Nie , nie , nie . 
+894	I called the theater and I told them you aren 't feeling well . 	S tým sa netráp . Volala som do divadla a povedala som im , že sa necítiš dobre . 
+895	I have to go ! 	
+896	- No . 	- Musím ísť ! 
+897	No , you don 't . 	- Musím ísť ! 
+898	- Let go of me . 	- Nie , ľahni si . 
+899	You 're staying in here until you feel better . 	- Zostanem tu dovtedy , kým ti nebude lepšie . 
+900	Where is it ? 	- Zostanem tu dovtedy , kým ti nebude lepšie . 
+901	This role is destroying you . 	Tá rola ťa ničí . 
+902	- Move . 	- Uhni . 
+903	Move ! 	- Uhni . 
+904	- Nina ... ! 	- Nina ! 
+905	- What happened to my sweet girl ? 	- Uhni ! - Čo sa stalo môjmu zlatému dievčatku ? 
+906	- She 's gone ! 	- Je preč ! 
+907	Nina ! 	- Je preč ! 
+908	Oh , Nina ! 	- Nina ! 
+909	No , please ! 	- Nina , nie ! Prosím ťa ! 
+910	- You 're not well ! 	Nie si na tom dobre ! 
+911	- Let go of me ! 	Nie si na tom dobre ! 
+912	You can 't handle this . 	- Pusti ma ! 
+913	I can 't ? 	- Nezvládneš to ! - Že nie ? 
+914	I 'm the Swan Queen . 	
+915	You 're the one who never left the corps . 	Ja som Labutia kráľovná . 
+916	Nina ! 	To ty si nikdy nebola sólistka ! Nina ! 
+917	What are you doing here ? 	- Čo tu robíš ? 
+918	Nina ? 	- Čo tu robíš ? 
+919	She was supposed to be sick . 	- Nina ? - Veď si mala byť chorá ! 
+920	Give us a minute . 	- Počkaj , počkaj . 
+921	Are you okay ? 	- Si v poriadku ? 
+922	I 'm fine . 	- Si v poriadku ? 
+923	Nina . 	Nina . 
+924	Nina . 	- Nina ! 
+925	What ? 	- Čo je ? 
+926	I' ve already asked Lily . 	Ja už som ale požiadal Lily . 
+927	Have you announced it ? 	Oznámil si to už ? 
+928	After Beth , do you really need another controversy ? 	Po tom , čo sa stalo s Beth , potrebuješ ďalšiu kontroverziu ? 
+929	I 'm here , Thomas . 	Som tu , Thomas . 
+930	I 'm doing it . 	Odtancujem to . 
+931	The only person standing in your way is you . 	Jediný , kto ti stojí v ceste , si ty sama . 
+932	It 's time to let it go . 	Je načase sa jej zbaviť . 
+933	Lose yourself . 	Musíš sa odpútať . 
+934	White Swan , up in ten . 	Biela labuť , nástup za desať . 
+935	What are you doing ? 	Čo tu robíš ? 
+936	You need to be upstage . 	Musíš sa pripraviť na nástup . 
+937	You suck . 	- Tak to bola hrôza ! 
+938	Okay , Nina . 	- Ideš , Nina . 
+939	What the fuck ? 	Čo to kurva bolo ? ! 
+940	- Are you okay ? 	
+941	- Nina , are you okay ? 	
+942	Can you tell me what the fuck happened ? 	Poviete mi , čo sa kurva stalo ? ! 
+943	- It wasn 't my fault . 	- Nebola to moja chyba . 
+944	He dropped me . 	- Nebola to moja chyba . 
+945	- This is a fucking disaster . 	On ma pustil ! 
+946	Rough start , huh ? 	Drsný začiatok , čo ? 
+947	Must have been pretty humiliating . 	Musela to byť hrozná hanba . 
+948	Get out of my room . 	- Vypadni z mojej šatne . 
+949	I 'm worried about the next act . 	- Mám obavy o ďalšie dejstvo . 
+950	I 'm just not sure you 're feeling up to it . 	- Nie som si istá , či sa na to cítiš . 
+951	Stop . 	- Nie som si istá , či sa na to cítiš . 
+952	Please stop . 	- Prestaň . 
+953	How about I dance the Black Swan for you ? 	Prosím ťa , prestaň . Čo by si povedala na to , keby som zatancovala Čiernu labuť namiesto teba ? 
+954	Leave me alone ! 	Daj mi pokoj ! 
+955	My turn ! 	Teraz som na rade ja ! 
+956	My turn ! 	Teraz som na rade ja ! 
+957	My turn ! 	Teraz som na rade ja ! 
+958	It 's my turn ! 	Teraz som ja na rade ! 
+959	Black Swan , places in five . 	Čierna labuť , nástup za päť . 
+960	Come on . 	Vráť sa tam . 
+961	Good job . 	Poponáhľaj sa . 
+962	Fifteen to the last act . 	15 minút do posledného dejstva . 
+963	Hey . 	Ahoj ! 
+964	You were amazing . 	Bola si famózna ! 
+965	Seriously , I know that things got a little messed up between us , but I mean , holy shit , you completely blew me away ! 	Vážne , ja viem , že náš vzťah sa pošramotil , ale ... Kruci , veď ty si ma totálne odzbrojila ! 
+966	Okay , well I guess that 's it . 	Tak to je asi všetko . 
+967	So I' ll let you finish . 	Nechám ťa sa pripraviť . 
+968	Bye . 	Nechám ťa sa pripraviť . 
+969	Can you hear them ? 	Počuješ ich ? 
+970	They love you ! 	Oni ťa milujú ! Milujú ťa ! 
+971	My little princess , I always knew you had it in you . 	Moja malá princezná . Vždy som vedel , že to v sebe máš . 
+972	Come on . 	Tak poď , musíme sa tam vrátiť . 
+973	Let 's take you out . 	Tak poď , musíme sa tam vrátiť . 
+974	Go get some help . 	Zavolajte pomoc ! 
+975	Go get some help ! 	Zožeňte pomoc ! 
+976	What did you do ? 	Čo si to urobila ? 
+977	What did you do ? 	Čo si to vykonala ? 
+978	- I felt it . 	
+979	- What ? 	Čože ? 
+980	I felt perfect . 	Dokonalé . 
+981	I was perfect . 	Bola som dokonalá . 
+982	Nina ! 	Nina ! 
+983	Nina ! 	Nina ! Nina ! 
+984	Nina ! 	

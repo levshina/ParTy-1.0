@@ -1,0 +1,985 @@
+0		
+1	I had the craziest dream last night . 	Nagyon furcsát álmodtam az éjjel . 
+2	I was dancing the White Swan . 	Én táncoltam a Fehér Hattyút . 
+3	It was different choreography , though . 	Bár más volt a koreográfia , inkább a moszkvaira hasonlított . 
+4	It was more like the Bolshoi 's . 	Bár más volt a koreográfia , inkább a moszkvaira hasonlított . 
+5	It was the prologue , when Rothbart casts his spell . 	A prológus volt , mikor Rothbart elátkozza a lányt . 
+6	Look how pink . 	Milyen szép rózsaszín ! 
+7	So pretty ... 	Milyen szép rózsaszín ! 
+8	Pretty ! 	Szép ! 
+9	- You 're in a good mood . 	- Jó kedved van . 
+10	- He promised to feature me more this season . 	- Azt ígérte , idén többet fogok szerepelni . 
+11	Well , he certainly should . 	Jól teszi . 
+12	You 've been there long enough , and you 're the most dedicated dancer in the company . 	Már elég régóta ott vagy , és te vagy a legígéretesebb táncos a társulatban . 
+13	Up . 	Fel ! 
+14	- What 's that ? 	- Ez mi ? 
+15	- What ? 	- Micsoda ? 
+16	There . 	Itt . 
+17	Nothing . 	Semmi . 
+18	You 're sure you don 't want me to come with you ? 	Biztos nem akarod , hogy menjek ? 
+19	You 're a sweet girl . 	Édes kislányom ! 
+20	Did you see Beth today ? 	Láttad ma már Beth- t ? 
+21	I can 't believe she 's back . 	Nem hiszem el , hogy visszajött . 
+22	- Of course she 's back . 	- Persze , hogy visszajött . 
+23	- What , she can 't take a hint ? 	- Nem érti a célzást ? 
+24	The company is broke . 	A társulatnak annyi , senki nem akarja őt látni . 
+25	No one comes to see her anymore . 	A társulatnak annyi , senki nem akarja őt látni . 
+26	Oh , nobody actually comes to see ballet full stop . 	Senki sem néz már balettot , ennyi . 
+27	That 's not true . 	Ez nem igaz , a Royalnak nagyon jól megy az idén . 
+28	I heard The Royal had one of their best seasons yet . 	Ez nem igaz , a Royalnak nagyon jól megy az idén . 
+29	He just needs to try something new . 	Csak valami újat akar kipróbálni . 
+30	That 's all . 	Csak valami újat akar kipróbálni . 
+31	No , someone new . 	Nem , inkább valaki újat . 
+32	- Like who ? 	- Kit ? 
+33	- Like someone who 's not approaching menopause . 	- Aki még nincs változókorban . 
+34	It 's sad . 	- Szomorú . 
+35	What 's sad ? 	- Micsoda ? 
+36	Beth 's such a beautiful dancer . 	Beth gyönyörű táncos . 
+37	Yeah , so is my grandmother . 	Aha , a nagymamám is . 
+38	- Well Fonteyn danced into her fifties . 	- Fonteyn még 50 éves korában is táncolt . 
+39	- Yeah , we know . 	- Tudjuk . 
+40	Great . 	Remek . 
+41	Thought I 'd fucking missed my stop . 	Rossz helyen szálltam le . 
+42	It 's a hell- fit all the way from 79th . 	Rohadt messze van a 79 . utca . 
+43	Beautiful as always , Nina . 	Gyönyörű , mint mindig , Nina . 
+44	Relax . 	Lazíts ! 
+45	And one , and two , and three , and four . 	És egy , és két , és három , és négy . 
+46	Stop , John . 	John , egy percre álljunk le ! 
+47	One second . 	John , egy percre álljunk le ! 
+48	Okay , take position . 	Alapállásba ! 
+49	And one , and two , and three , and up . 	És egy , két , és három , fel ! 
+50	And one , and two , and three , and four . 	Egy , és két , és három és négy . 
+51	Hello , dear . 	- Köszönöm . 
+52	We all know the story . 	Ismerjük a történetet . 
+53	Virginal girl , pure and sweet , trapped in the body of a swan . 	A kedves és ártatlan szűzleányról , aki hattyútestben rekedt , szabadságra vágyik , de csak az igaz szerelem törheti meg a varázst . 
+54	She desires freedom that only true love can break the spell . 	A kedves és ártatlan szűzleányról , aki hattyútestben rekedt , szabadságra vágyik , de csak az igaz szerelem törheti meg a varázst . 
+55	Her wish is nearly granted in the form of a Prince . 	Kérése már- már megadatott , de mielőtt a Herceg szerelmet vallhatott volna , a Fehér Hattyú ikertestvére , a kéjvágytól izzó Fekete Hattyú fondorlattal elcsábította . 
+56	But before he can declare his love , 	Kérése már- már megadatott , de mielőtt a Herceg szerelmet vallhatott volna , a Fehér Hattyú ikertestvére , a kéjvágytól izzó Fekete Hattyú fondorlattal elcsábította . 
+57	The lustful twin , the Black Swan , tricks and seduces him . 	Kérése már- már megadatott , de mielőtt a Herceg szerelmet vallhatott volna , a Fehér Hattyú ikertestvére , a kéjvágytól izzó Fekete Hattyú fondorlattal elcsábította . 
+58	Devastated , the White Swan leaps off a cliff , killing herself . 	Elkeseredésében a Fehér Hattyú szakadékba ugrott , öngyilkos lett , és a halálban meglelte a szabadságot . 
+59	And in death ... finds freedom . 	Elkeseredésében a Fehér Hattyú szakadékba ugrott , öngyilkos lett , és a halálban meglelte a szabadságot . 
+60	- Good morning , company . 	- Jó reggelt kívánok a társulatnak ! 
+61	- Good morning . 	- Jó reggelt ! 
+62	We will open our season with Swan Lake . 	Az idei szezon a Hattyúk tavával kezdődik . 
+63	Done to death , I know . 	Már unalomig ismert , de ez most más lesz . 
+64	But not like this . 	Már unalomig ismert , de ez most más lesz . 
+65	We strip it down , make it visceral and real . 	Lecsupaszítjuk , ösztönös lesz és valódi . 
+66	A new production needs a new Swan Queen . 	Az új produkció új Hattyúkirálynőt kíván . 
+67	A fresh face to present to the world . 	Egy új arcot . 
+68	But ... 	De melyikőtök tudja megtestesíteni mindkét Hattyút , a Fehéret és a Feketét ? 
+69	Which of you can embody both Swans ? 	De melyikőtök tudja megtestesíteni mindkét Hattyút , a Fehéret és a Feketét ? 
+70	The White , and the Black . 	De melyikőtök tudja megtestesíteni mindkét Hattyút , a Fehéret és a Feketét ? 
+71	All the soloists I tapped : 	Akiket megérintettem , azokkal találkozunk a délutáni próbán . 
+72	Go to your scheduled rehearsals this afternoon . 	Akiket megérintettem , azokkal találkozunk a délutáni próbán . 
+73	And the girls I didn 't tap : 	És akiket nem érintettem meg , jöjjenek a stúdióba 5 órára . 
+74	Meet me in the principals´ studio at 5 : 00 . 	És akiket nem érintettem meg , jöjjenek a stúdióba 5 órára . 
+75	Thank you . 	Köszönöm . 
+76	All right . 	Rendben , folytassuk . 
+77	- Let 's go . 	Rendben , folytassuk . 
+78	Did we do left side ? 	A bal oldalnál hagytuk abba ? 
+79	- Yes , mistress . 	Igen , asszonyom . 
+80	Fuck ! 	Picsába ! 
+81	Fuck ! 	Picsába ! 
+82	What ? 	Mi van ? 
+83	If I was only casting the White Swan , she 'd be yours . 	Ha csak a Fehér Hattyút keresném , téged választanálak . 
+84	But I 'm not . 	De nem így van . 
+85	Maestro , Odile 's coda , please . 	Maestro , Odile utolsó jelenetét ! 
+86	Now show me your Black Swan , Nina . 	Most mutasd a Fekete Hattyút ! 
+87	Not so controlled . 	Ne ilyen mereven , csábíts el minket ! 
+88	Seduce us . 	Ne ilyen mereven , csábíts el minket ! 
+89	Not just the Prince , but the court , the audience , the entire world . 	Ne csak a Herceget , hanem a közönséget és az egész világot ! 
+90	Come on , like a spider spinning a web . 	Gyerünk ! Pörögj , mint a hálóját szövő pók ! 
+91	Attack it , attack it ! 	Támadj ! Támadj ! 
+92	Come on ! 	Gyerünk már ! 
+93	Well ... 	
+94	- Good of you to join us . 	- Jó , hogy csatlakozol hozzánk ! 
+95	- Sorry ... 	- Bocsánat . 
+96	Girls , this is Lily . 	Lányok , ő Lily . 
+97	Straight off the plane from San Francisco . 	San Franciscóból érkezett Rebecca helyére . 
+98	She 's filling Rebecca 's old spot . 	San Franciscóból érkezett Rebecca helyére . 
+99	- Hey . 	- Sziasztok ! 
+100	- Get warmed up . 	- Melegíts be ! 
+101	No , it 's okay . 	Nem szükséges . 
+102	I 'm good . 	Készen állok . 
+103	Should I go again ? 	Próbáljam újra ? 
+104	No , thanks , Nina . 	Nem , eleget láttam . 
+105	I' ve seen enough . 	Nem , eleget láttam . 
+106	Veronica , the White Swan variation . 	Veronica , a Fehér Hattyút ! 
+107	Come on , come on , come on , please . 	Gyere , kérlek ! 
+108	All right , Maestro . 	Rendben . Maestro ! 
+109	Two , three ... 	Kettő , három ... 
+110	So how 'd it go ? 	Hogy ment ? 
+111	You were late , so I called Susie in the office . 	Nem jöttél , ezért felhívtam Susie- t az irodában . 
+112	An audition ! 	Meghallgatás ! 
+113	I can 't believe he just sprang that on you . 	Nem hiszem el , hogy erre kényszerít . 
+114	So ? 	Szóval ? 
+115	It was fine . 	Jól ment . 
+116	Just fine ? 	Csak jól ? 
+117	Oh , sweetheart ... 	Édesem ! 
+118	You tell me about it . 	Mesélj el mindent ! 
+119	Nina , everything all right ? 	Minden rendben , Nina ? 
+120	I 'm fine . 	Jól vagyok . 
+121	Almost done . 	Mindjárt kész . 
+122	You 're working yourself too hard . 	Túl keményen dolgozol . 
+123	- We all have off days . 	Mindenkinek lehet rossz napja . 
+124	- That girl , um , barged in . 	Az a lány épp hogy beesett . 
+125	I 'm sure she didn 't mean to . 	Biztos nem így akarta . 
+126	For a starter , if I hadn 't taken you to each of your classes , you 'd have been completely lost . 	Emlékszel az elejére ? Ha nem én viszlek az órákra , biztos eltévedtél volna . 
+127	I 'm going to talk to him tomorrow . 	Holnap megmondom neki , hogy befejeztem . 
+128	I 'm going to tell him I finished it . 	Holnap megmondom neki , hogy befejeztem . 
+129	You don 't need to lie . 	Nem kell hazudnod . 
+130	You won 't convince him one way or the other . 	Úgysem fogod tudni meggyőzni . 
+131	Oh , sweetheart . 	Édesem ! 
+132	I know it 's disappointing . 	Tudom , hogy kiábrándító . 
+133	When you start getting older , there 's all this ridiculous pressure . 	Ahogy öregszel , egyre nagyobb a nyomás . 
+134	God knows I understand . 	Én aztán megértem . 
+135	But it 's all right . 	De semmi baj . 
+136	No matter what . 	Nem számít . 
+137	You 'll probably get to dance the part of the cat again . 	Talán benne leszel a négyes táncban . 
+138	That 's such a wonderful part . 	Gyönyörű az a jelenet . 
+139	Or maybe he 'll make you a big swan . 	Vagy nagy hattyú leszel . 
+140	Either way , you 'll shine . 	Így vagy úgy , de ragyogni fogsz . 
+141	You know ... 	Tudom . 
+142	Everything will be better in the morning . 	Reggel minden jobb lesz . 
+143	It always is . 	Mindig jobb . 
+144	Sweet girl . 	Édes kislány . 
+145	Yes , Nina ? 	- Igen , Nina ? 
+146	Do you have a minute ? 	- Van egy perced ? 
+147	- Now 's not a good time . 	- Rosszkor jöttem . 
+148	I get it . 	- Nem , a legjobbkor . 
+149	- Now is perfect . 	- Nem , a legjobbkor . 
+150	I just wanted to tell you that 	Csak el akarom mondani , hogy gyakoroltam tegnap este , és befejeztem . 
+151	I practiced the coda last night and 	Csak el akarom mondani , hogy gyakoroltam tegnap este , és befejeztem . 
+152	I finished . 	Csak el akarom mondani , hogy gyakoroltam tegnap este , és befejeztem . 
+153	I thought you should know . 	Gondoltam , jobb , ha tudod . 
+154	Okay , Nina , listen . 	Hallgass ide , Nina ! 
+155	Honestly , I don 't care about your technique . 	Őszintén szólva , nem érdekel a technikád . 
+156	- You should know that by now . 	Ezzel most már tisztában lehetnél . 
+157	- Yeah , but yesterday ... 	Ezzel most már tisztában lehetnél . 
+158	No . 	- Igen , de tegnap ... 
+159	Anyway ... 	- Igen , de tegnap ... 
+160	I' ve already chosen Veronica . 	- Nem . Mindegy , már Veronicát választottam . 
+161	Sorry . 	
+162	Sorry . 	Sajnálom . 
+163	Okay , thank you . 	Rendben , köszönöm . 
+164	That 's it ? 	Ennyi ? 
+165	You 're not going to try and change my mind ? 	Nem is próbálsz meggyőzni ? 
+166	You must have thought it was possible . 	Lehetségesnek tartod , különben mit keresnél itt így kicicomázva ? 
+167	Otherwise , what are you doing here all dolled up ? 	Lehetségesnek tartod , különben mit keresnél itt így kicicomázva ? 
+168	I came to ask for the part . 	Szeretném , ha nekem adnád a szerepet . 
+169	The truth is ... 	Az igazság az , hogy amikor rád nézek , csak a Fehér Hattyút látom . 
+170	When I look at you , all I see is the White Swan . 	Az igazság az , hogy amikor rád nézek , csak a Fehér Hattyút látom . 
+171	Yes , you 're beautiful , fearful , fragile . 	Igen , gyönyörű vagy , félénk , törékeny , ideális választás . 
+172	Ideal casting . 	Igen , gyönyörű vagy , félénk , törékeny , ideális választás . 
+173	But the Black Swan ? 	De a Fekete Hattyú ... Rohadt nehéz mindkettőt eltáncolni . 
+174	It 's a hard fucking job to dance both . 	De a Fekete Hattyú ... Rohadt nehéz mindkettőt eltáncolni . 
+175	I can dance the Black Swan , too . 	A Fekete Hattyút is meg tudom csinálni . 
+176	Really ? 	Tényleg ? 
+177	In four years , every time you dance , 	4 év alatt akárhányszor láttalak táncolni , 
+178	I see obsess getting each and every move perfectly right , but I never see you lose yourself . 	láttam , hogy minden mozdulattal a tökéletességre törekedtél , de sosem láttalak felszabadultnak . 
+179	Ever . 	Soha . 
+180	All that discipline for what ? 	Mire ez a nagy fegyelem ? 
+181	- I just want to be perfect . 	- Tökéletes akarok lenni . 
+182	- You what ? 	- Tökéletes akarok lenni . 
+183	I want to be perfect . 	Tökéletes akarok lenni . 
+184	Perfection is not just about control . 	A tökéletesség nem csak az irányításról szól . 
+185	It 's also about letting go . 	Hanem arról , hogy el tudd engedni magad . 
+186	Surprise yourself so you can surprise the audience . 	Ahhoz , hogy meglepd a közönséged , magadat is meg kell lepned . 
+187	Transcendence . 	Legyen túlvilági , és erre csak nagyon kevesen képesek . 
+188	And very few have it in them . 	Legyen túlvilági , és erre csak nagyon kevesen képesek . 
+189	I think I do have it in me . 	Én képes vagyok rá . 
+190	You bit me ? 	Megharaptál ? 
+191	I can 't believe you bit me ! 	Nem hiszem el , hogy megharaptál . 
+192	I 'm sorry . 	Sajnálom . 
+193	Man , that fucking hurt ! 	Kibaszottul fáj ! 
+194	What ? 	Mi van ? 
+195	Why 's she always staring at me ? 	Miért bámul ? 
+196	Hey , it 's been posted . 	Hé , kirakták . 
+197	Hey , it 's up ! 	Megvan az eredmény . 
+198	Veronica . 	Veronica ... 
+199	Congratulations . 	Gratulálok ! 
+200	Why would you say that ? 	Ezt meg miért mondtad ? 
+201	Your idea of some sick joke ? 	Szerinted ez vicces ? 
+202	What ? 	Mi ? 
+203	Fuck you . 	Baszd meg ! 
+204	Hey , Nina ! 	Nina ! 
+205	Congratulations ! 	Gratulálok ! 
+206	Congratulations . 	Gratulálok , Nina ! 
+207	You 're so beautiful . 	
+208	Congratulations . 	
+209	- Hello ? 	- Halló ? 
+210	- Hi . 	- Szia ! 
+211	What is it ? 	Mi az ? 
+212	What 's wrong ? 	Mi a baj ? 
+213	I 'm fine . 	Semmi . 
+214	He picked me , Mom . 	Engem választott , anyu . 
+215	Do you hear me ? 	Hallasz engem ? 
+216	- For Swan Lake ? 	- A Hattyúk Tavában ? 
+217	- I 'm going to be Swan Queen ! 	- Én leszek a Hattyúkirálynő . 
+218	Mom ! 	Anya ! 
+219	I' ll be home soon . 	Nemsokára otthon leszek , csak el akartam mondani . 
+220	I just wanted to let you know . 	Nemsokára otthon leszek , csak el akartam mondani . 
+221	- I love you . 	Én is szeretlek . 
+222	- I love you , too . 	Én is szeretlek . 
+223	Mom ? 	Anya ? 
+224	Mom , are you in your room ? 	A szobádban vagy ? 
+225	Nina ? 	
+226	Are you home ? 	Itthon vagy ? 
+227	Nina , when you get out I 'm in the kitchen . 	Nina , gyere elő , a konyhában vagyok . 
+228	Come on , sweetie . 	Gyere , édesem ! 
+229	My daughter , the Swan Queen . 	Az én lányom a Hattyúkirálynő . 
+230	It 's our favorite . 	Ez a kedvenced , vanília epres töltelékkel . 
+231	Vanilla with strawberry filling . 	Ez a kedvenced , vanília epres töltelékkel . 
+232	Oh , Mom , not too big . 	Ne nagyot , anya . 
+233	Oh , that 's way , way too much . 	Az túl sok . 
+234	- It 's a celebration . 	De hisz ünnepelünk . 
+235	It 's just this once . 	De hisz ünnepelünk . 
+236	- Mom ... 	Most az egyszer . 
+237	My stomach 's still in knots . 	Még mindig nincs rendben a gyomrom . 
+238	Fine . 	Rendben . 
+239	Fine . 	
+240	Then it 's garbage ! 	Akkor a szemétbe vele . 
+241	No , Mom , don 't . 	Ne , anya , sajnálom . 
+242	I 'm sorry . 	Ne , anya , sajnálom . 
+243	I 'm just ... 	Annyira büszke vagyok rád . 
+244	I 'm just so proud of you . 	Annyira büszke vagyok rád . 
+245	It looks so yummy . 	Nagyon jól néz ki . 
+246	Okay , okay . 	Oké . 
+247	Thank you . 	Köszönöm . 
+248	Thank you . 	Köszönöm . 
+249	Thank you , Nina . 	Köszönjük , Nina . 
+250	That 's very nice . 	Remek volt . 
+251	Very nice . 	Nagyon jó . 
+252	But I knew the White Swan wouldn 't be a problem . 	De azt tudtam , hogy a Fehér Hattyúval nem lesz gond . 
+253	The real work will your metamorphosis into her evil twin . 	Az igazi munka , hogy átalakulj a gonosz ikertestvérré . 
+254	And I know I saw a flash of her yesterday . 	Tegnap már kaptam belőle ízelítőt . 
+255	So get ready to give me more of that bite . 	Annál a harapásnál több kell . 
+256	Excellent . 	Kitűnő . 
+257	That evil force is pulling you that you can 't escape . 	A gonosz erő magához ránt , és nem tudsz elmenekülni . 
+258	That 's just out of your control . 	Elveszted a fejed . 
+259	So you sense it , you get aware of it more : 	Most már tudatában vagy : 
+260	" It 's taking me , it 's taking me . " 	" Elkapott , elkapott . " 
+261	A little bit more desperate . 	Kétségbeesetten . 
+262	Right , and you can maybe go up a little bit and then come down , and then ... 	És talán mehetsz feljebb egy kicsit , aztán le , ez az . 
+263	That 's it . 	És talán mehetsz feljebb egy kicsit , aztán le , ez az . 
+264	Watch the way she moves . 	Nézd , ahogy mozog . 
+265	Imprecise , but effortless . 	Pontatlanul , de erőlködés nélkül . 
+266	She 's not faking it . 	Nem csak megjátssza . 
+267	Gorgeous ! 	Gyönyörű . 
+268	Okay , that 's beautiful . 	Ez csodálatos volt . 
+269	Let 's start again from the beginning . 	Kezdjük az elejéről ! 
+270	You 'll room with Beth from now on , so be considerate . 	Mostantól Beth- szel közös szobátok lesz , szokj hozzá ! 
+271	Thanks , Susie . 	Kösz , Susie . 
+272	Those are for you , from Mr . 	Azok Mr . 
+273	Leroy . 	Leroytól vannak . 
+274	They 're beautiful . 	Gyönyörűek . 
+275	I' ll be back in a second . 	Mindjárt jövök . 
+276	Let me come back to you , please . 	Még megkereslek . 
+277	Let 's go . 	Menjünk ! 
+278	Ready to be thrown to the wolves ? 	Készen állsz , hogy a vadak elé vesselek ? 
+279	We need our cash , so please don 't forget to smile . 	Kell a pénz , szóval ne felejts el mosolyogni ! 
+280	Ladies and gentlemen , please , may I have your attention ? 	Hölgyeim és uraim , a figyelmüket kérném ! 
+281	Good evening . 	Jó estét ! 
+282	Let me make this very important announcement . 	Fontos bejelentenivalóm van . 
+283	You all had had the chance and the privilege to be enchanted , transported , and even sometimes devastated , by the performances of this true artist of our company . 	Mindannyiunknak megadatott , hogy elbűvöljön , magával ragadjon , és néha felzaklasson minket a társulat eme nagyszerű táncosa . 
+284	She 's been a crucial inspiration to my work . 	Döntően inspirálta a munkámat . 
+285	A role model to all dancers , and even more than that , a deeply appreciated presence on our stage . 	Példaértékű a többi táncos számára , és mi több , színházunk mélyen megbecsült tagja . 
+286	You all know who I am talking about . 	Mind tudják , kiről beszélek . 
+287	Ladies and gentlemen , Beth Macintyre . 	Hölgyeim és uraim , Beth Macintyre . 
+288	But as we all know , every great career has to come to an end . 	De mind tudjuk , minden nagy karriernek egyszer vége szakad . 
+289	Beth is retiring at the end of season . 	Beth a szezon végén visszavonul . 
+290	She will be giving her farewell performance as Melpomene , the role she originated in my first ballet . 	Utoljára Melpomene- ként láthatjuk , akit ő teremtett az első darabomban . 
+291	My little princess , we honor you . 	Én kis hercegnőm ! 
+292	You will be greatly missed , and never forgotten . 	Minden tiszteletünk a tiéd , hiányozni fogsz , és sosem felejtünk el . 
+293	But as we bid adieu to one star , we welcome another . 	Miközben egy régi csillagot búcsúztatunk , egy másikat üdvözlünk . 
+294	We 're opening our season with my new version of Swan Lake . 	A szezont a saját feldolgozású Hattyúk Tavával nyitjuk , a Hattyúkirálynő szerepét a kitűnő Nina Sayers kapta . 
+295	Taking the role of our new Swan Queen , the exquisite Nina Sayers . 	A szezont a saját feldolgozású Hattyúk Tavával nyitjuk , a Hattyúkirálynő szerepét a kitűnő Nina Sayers kapta . 
+296	You 'll soon have the pleasure of seeing her perform , but right now , let 's please raise a glass : 	Hamarosan láthatják a színpadon , de most emeljük poharunkat mindannyiunkra , Beth- re , Ninára , a szépségre . 
+297	To all of us . 	Hamarosan láthatják a színpadon , de most emeljük poharunkat mindannyiunkra , Beth- re , Ninára , a szépségre . 
+298	To Beth . 	Hamarosan láthatják a színpadon , de most emeljük poharunkat mindannyiunkra , Beth- re , Ninára , a szépségre . 
+299	To Nina . 	
+300	To beauty . 	
+301	Just a second . 	Egy pillanat ! 
+302	Just a second ! 	Egy pillanat ! 
+303	Come on ! 	Gyerünk már , mindjárt bepisálok ! 
+304	I 'm about to burst ! 	Gyerünk már , mindjárt bepisálok ! 
+305	Hey , it 's you ! 	Szia ! Hát te vagy az ? 
+306	I don 't think we ever officially met . 	Nem mutattak be minket egymásnak . 
+307	- I 'm Lily . 	- Lily vagyok . 
+308	- Hi , I 'm Nina . 	- Szia , én meg Nina . 
+309	Yes , our new Swan Queen . 	Igen , az új Hattyúkirálynő . 
+310	- Here , hold this . 	- Megfognád ? 
+311	- Yeah , sure . 	- Megfognád ? 
+312	You must be so excited . 	Biztos nagyon izgatott vagy . 
+313	Are you freaking out ? 	Nagyon be vagy tojva ? 
+314	- Yeah ... - Yeah ? 	- Igen . 
+315	Oh , it 's okay . 	Nem gáz . 
+316	Oh , I 'd be losing my mind . 	Én tuti kiborulnék . 
+317	I should get back ... 	Vissza kell mennem . 
+318	No , no , no , come on , stay . 	Ne , maradj ! 
+319	Keep me company . 	Maradj itt velem ! 
+320	Excuse me . 	Elnézést ! 
+321	Oh , there you are . 	Itt vagy végre , gyere ! 
+322	Come on . 	Itt vagy végre , gyere ! 
+323	Hey . 	
+324	They tried to eat you alive , but here you are . 	Élve fel akartak falni , mégis itt vagy . 
+325	You did well . 	- Jól csináltad . 
+326	- Really ? 	- Jól csináltad . 
+327	- Mm- hmm . 	- Tényleg ? 
+328	Where are you going ? 	Merre mész ? 
+329	Upper west side . 	Upper West Side felé . 
+330	Stop at my place for a drink . 	Miért nem ugrunk fel hozzám egy italra ? 
+331	It 's on the way . 	Miért nem ugrunk fel hozzám egy italra ? 
+332	Thomas , you need to say hello to Karen Holloway . 	Thomas ! Üdvözölnöd kéne Karen Hallowayt . 
+333	A minute more of ass- kissing . 	Még egy kis seggnyalás . 
+334	I' ll be back . 	Mindjárt jövök . 
+335	Wait for me here , all right ? 	Mindjárt jövök . 
+336	Hello , Karen ! 	Szia , Karen ! 
+337	Beth ! 	Beth ! 
+338	I 'm so sorry to hear you 're leaving the company . 	Sajnálattal hallom , hogy elhagyod a társulatot . 
+339	What did you do to get this role ? 	Mit tettél , hogy megkapd ezt a szerepet ? 
+340	He always said you were such a frigid little girl . 	Mindig azt mondta , hogy frigid kislány vagy . 
+341	What did you do to make him change his mind ? 	Hogy vetted rá , hogy meggondolja magát ? 
+342	Did you suck his cock ? 	- Leszoptad ? - Nem mindenkinek kell . 
+343	Not all of us have to . 	
+344	You fucking whore ! 	Rohadt kurva ! 
+345	You 're a fucking little whore ! 	Te rohadt kis kurva ! 
+346	Whoa , what 's going on here ? 	Mi folyik itt ? 
+347	Hey , I need to talk to you . 	Hé , beszélnem kell veled . 
+348	- You 're drunk . 	- Beszélnem kell veled . 
+349	You should go home . 	- Beszélnem kell veled . 
+350	- I need to talk to you . 	- Jobb lesz , ha hazamész . 
+351	No ! 	Ne tedd ezt , nem rázhatsz le csak így ! 
+352	Don 't you do that ! 	Ne tedd ezt , nem rázhatsz le csak így ! 
+353	Don 't you dismiss me like that ! 	Ne tedd ezt , nem rázhatsz le csak így ! 
+354	My little princess , please . 	Kis hercegnőm , szedd össze magad ! 
+355	Pull it together . 	Kis hercegnőm , szedd össze magad ! 
+356	- Come . 	Később beugrom . 
+357	- I 'm coming by later . 	Később beugrom . 
+358	I have something for you . 	Van számodra valami , ami kifejezi a hálámat . 
+359	It 's a token of my appreciation . 	Van számodra valami , ami kifejezi a hálámat . 
+360	- Right . 	Mindent bele , Nina ! 
+361	- You make the most of it , Nina . 	Mindent bele , Nina ! 
+362	Don 't worry . 	Ne aggódj , ez jellemző . 
+363	It 's typical . 	
+364	Please . 	Foglalj helyet ! 
+365	I thought it 'd be good to talk about the role . 	Gondoltam , beszélhetnénk a szerepről . 
+366	Drown this a little . 	Beleáshatnánk magunkat . 
+367	I don 't want there to be any boundaries between us . 	Nem akarom , hogy bármi is közénk álljon . 
+368	- No , me neither . 	Én sem . 
+369	- Good . 	Akkor jó . 
+370	So ... 	És ... van barátod ? 
+371	You got a boyfriend ? 	És ... van barátod ? 
+372	No . 	Nincs . 
+373	Have you had many in the past ? 	És már sok volt ? 
+374	A few . 	Néhány , de semmi komoly . 
+375	But no one serious . 	Néhány , de semmi komoly . 
+376	You 're not a virgin are you ? 	De ugye nem vagy szűz ? 
+377	No . 	Nem . 
+378	So there 's nothing to be embarrassed about . 	Akkor nem kell szégyenlősködnöd . 
+379	And you enjoy making love ? 	És szeretsz szeretkezni ? 
+380	Excuse me ? 	Hogy mondod ? 
+381	Come on , sex . 	Hát a szexet . 
+382	Do you enjoy it ? 	Élvezed ? 
+383	We need to be able to talk about this . 	Tudnunk kell beszélni róla . 
+384	I' ve got a little homework assignment for you . 	Adok házi feladatot . 
+385	Go home and touch yourself . 	Menj haza , és kényeztesd magad ! 
+386	Live a little . 	Élj egy kicsit ! 
+387	Well it 's late . 	Későre jár . 
+388	Lots of work tomorrow . 	Holnap kemény nap lesz . 
+389	The doorman will find a cab for you . 	Az ajtónálló hív neked egy taxit . 
+390	Sounds like quite an evening . 	Jó kis este volt , bár ott lehettem volna . 
+391	I wish I could have been there . 	Jó kis este volt , bár ott lehettem volna . 
+392	You know I asked . 	Én megkérdeztem . Tudom . 
+393	I know you did . 	Susie mondta . 
+394	Susie told me . 	Susie mondta . 
+395	Guess he wanted you all to himself . 	Thomas ki akar sajátítani . 
+396	But why ? 	Most miért ? 
+397	Don 't blame him . 	Nem hibáztatom . 
+398	Where 'd you get these ? 	- Ez meg honnan van ? 
+399	They 're fake . 	- Nem igazi . 
+400	Fooled me . 	Jól megtréfált . 
+401	I can do it . 	Meg tudom csinálni . 
+402	He must have been by your side all night . 	Biztos egész este el sem mozdult mellőled . 
+403	Showing you off . 	Körbemutogatott . 
+404	- Oh , Nina ... - It 's just a rash . 	- Nina ! - Csak kiütés . 
+405	Rash ? 	- Miről beszélsz ? 
+406	What are you talking about ? 	- Miről beszélsz ? 
+407	It was worse a few days ago . 	- Néhány napos . Most már rendben van . 
+408	It 's fine already . 	- Már megint vakarózol ? 
+409	- You 've been scratching yourself again . 	- Már megint vakarózol ? 
+410	- No I haven 't . 	- Már megint vakarózol ? 
+411	Mom ! 	- Nem . Anya ! 
+412	This disgusting habit ... 	Undorító szokás ! 
+413	Jesus Christ , I thought you were done with this , Nina . 	Jézusom , Nina , azt hittem , már befejezted . 
+414	Shrugs . 	Megint bolerót fogsz hordani . 
+415	You 'll keep wearing the shrugs . 	Megint bolerót fogsz hordani . 
+416	Sit down . 	Ülj le ! 
+417	You have the white one , and the pink one . 	Van fehér és rózsaszín is , az majd elrejti . 
+418	And that 'll hide it . 	Van fehér és rózsaszín is , az majd elrejti . 
+419	And then I' ll dig out that expensive coverup . 	Majd előkeresem azt a drága festéket , még maradt a múltkorról . 
+420	We still have some . 	Majd előkeresem azt a drága festéket , még maradt a múltkorról . 
+421	No one will see it . 	Senki sem fogja meglátni . 
+422	Mom , please , 	Anya , kérlek ! 
+423	It 's the role , isn 't it ? 	A szerep miatt , igaz ? 
+424	It 's all this pressure . 	Túl nagy a nyomás . 
+425	I knew it 'd be too much . 	Tudtam , hogy túl sok lesz . 
+426	I knew it . 	Tudtam . 
+427	You 're all right . 	Semmi baj . 
+428	You 'll be all right . 	Nem lesz semmi baj . 
+429	Beth 's in the hospital . 	- Beth kórházban van . 
+430	She had an accident . 	Baleset történt . 
+431	Oh no ! 	
+432	Beth ? 	
+433	What happened ? 	Mi történt ? 
+434	She walked into the street and got hit by a car . 	Az utcán elütötte egy autó . 
+435	You know what ? 	És tudod , mi van ? 
+436	I 'm almost sure she did it on purpose . 	Biztos vagyok benne , hogy direkt csinálta . 
+437	How do you know ? 	Miből gondolod ? 
+438	Because everything Beth does comes from within , from some dark impulse . 	Mert minden tettét valami sötét belső ösztön vezérli . 
+439	I guess that 's what makes her so thrilling to watch . 	Ezért olyan rendkívüli előadó . 
+440	So dangerous . 	Veszélyes . 
+441	Even perfect at times . 	És néha tökéletes . 
+442	But also so damned destructive . 	De átkozottul önpusztító is . 
+443	Was it right after we saw her ? 	Azután történt , hogy találkoztunk vele ? 
+444	Wait , wait , wait . 	Nem , neked semmi közöd ehhez . 
+445	This has nothing to do with you . 	Nem , neked semmi közöd ehhez . 
+446	It 's not your problem , so don 't let yourself be distracted . 	Ez nem a te gondod . Ne hagyd , hogy ez megzavarjon . 
+447	This is your moment , Nina . 	Ez a te pillanatod , Nina . 
+448	Don 't let it go . 	Ne szalaszd el ! 
+449	What are you doing ? 	Mit keres itt ? 
+450	Nina ? 	Nina ! 
+451	Sweetie , are you ready for me ? 	Szívem , készen állsz ? 
+452	And ... 	És ... 
+453	Come on ! 	Gyerünk , engedd el magad , Nina , szenvedélyt akarok látni ! 
+454	Forget about control , Nina . 	Gyerünk , engedd el magad , Nina , szenvedélyt akarok látni ! 
+455	I want to see passion . 	Gyerünk , engedd el magad , Nina , szenvedélyt akarok látni ! 
+456	Come on . 	Gyerünk ! Nyújtózkodj ! 
+457	Stiff like a dead corpse . 	Olyan merev vagy , mint egy hulla . 
+458	Let it go . 	Engedd el magad ! 
+459	Let it go . 	Engedd el magad ! 
+460	Let it go . 	Engedd el magad ! 
+461	And again . 	És újra ! 
+462	Feels like you have your diaphragm is in a bit of a contraction ? 	Olyan érzés , mintha a rekeszizmod görcsben lenne ? 
+463	I 'm okay . 	Jól vagyok . 
+464	Breathe in to this hand . 	Ebbe a kézbe lélegezz be ! 
+465	Breathe in to this hand . 	Szívd be ! 
+466	Breathe in , all the way . 	Szívd ! Lélegezz jó mélyen ! 
+467	Good . 	Jó . 
+468	And exhale . 	És kilégzés ! 
+469	Does it feel jammed in the front every time you plie ? 	Kellemetlen érzés , amikor a pliét csinálod ? 
+470	Sometimes , not always . 	Néha , nem mindig . 
+471	- One more pull , okay ? 	- Még egy húzás , oké ? 
+472	- Okay . 	- Oké . 
+473	- Is that okay ? 	Jól vagy ? 
+474	- Yeah . 	Jól vagy ? 
+475	David , can I ask you a question ? 	David , kérdeznék valamit . 
+476	Honestly , would you fuck that girl ? 	Meg akarnád dugni ezt a lányt ? 
+477	No . 	Nem . 
+478	No one would . 	Senki sem akarná . 
+479	Nina ... 	Nina , az előadásod épp olyan frigid ... 
+480	Your dancing is just as frigid ... 	Nina , az előadásod épp olyan frigid ... 
+481	Fuck ! 	Bassza meg ! 
+482	We 're still working here , please . 	Még dolgozunk , kapcsolják fel a lámpákat ! 
+483	Lights ! 	Még dolgozunk , kapcsolják fel a lámpákat ! 
+484	The lights ! 	Még dolgozunk , kapcsolják fel a lámpákat ! 
+485	Thank you ! 	Köszönöm . 
+486	Okay , guys , you can go . 	Oké , srácok , mehettek , kösz a türelmet . 
+487	Thanks for your patience . 	Oké , srácok , mehettek , kösz a türelmet . 
+488	No , no , you stay . 	Te itt maradsz . 
+489	You stay . 	Te itt maradsz . 
+490	Have fun , you two . 	Jó szórakozást ! 
+491	Okay . 	Oké , gyere ide ! 
+492	Come here . 	Oké , gyere ide ! 
+493	Come , come , come , come . 	Gyere ! 
+494	I' ll be the Prince . 	Én leszek a Herceg . 
+495	Let it go . 	Engedd el magad ! 
+496	Let it go . 	Engedd el magad ! 
+497	Feel my touch . 	Érezz , válaszolj az érintésemre ! 
+498	Respond to it . 	Érezz , válaszolj az érintésemre ! 
+499	Come on . 	Gyerünk ! 
+500	Open your mouth . 	Nyisd ki a szád ! 
+501	Open it . 	Nyisd ki ! 
+502	Open up . 	
+503	That was me seducing you , when it needs to be the other way around . 	Én csábítottalak el téged . Pedig fordítva kellett volna . 
+504	Please ... 	Kérlek ! 
+505	Who is that ? 	Ki van ott ? 
+506	Hey . 	Szia ! 
+507	You okay ? 	Jól vagy ? 
+508	You can 't smoke in here . 	Itt nem szabad dohányozni . 
+509	Well , I won 't tell if you won 't . 	Ha nem mondod el , akkor én sem . 
+510	So ... 	
+511	The big day 's getting closer and closer , huh ? 	Közeledik a nagy nap , igaz ? 
+512	Well , I can 't wait . 	Alig várom , mert szerintem nagyszerű leszel . 
+513	I think you 're going to be amazing . 	Alig várom , mert szerintem nagyszerű leszel . 
+514	Thanks . 	Köszi . 
+515	So ... 	Akarsz róla beszélni ? 
+516	Do you want to talk about it ? 	Akarsz róla beszélni ? 
+517	It 's that hard to . 	Olyan nehéz . 
+518	Leroy playing a little too rough for you ? 	Leroy túl kemény veled ? 
+519	Come on , Nina . 	Ugyan már , az egy pöcs . 
+520	He 's a prick . 	Ugyan már , az egy pöcs . 
+521	He 's brilliant . 	Zseniális . 
+522	Sure , but it 's not like he 's all warm and fuzzy . 	Persze . De ezzel együtt nem túl barátságos . 
+523	What you don 't know is ... 	Te nem ismered őt . 
+524	Someone 's hot for teacher ! 	Csak nem beleestél ? 
+525	Oh , come on , it 's okay . 	Ne már , nem gáz , nem hibáztatlak . 
+526	I don 't blame you . 	Ne már , nem gáz , nem hibáztatlak . 
+527	I should go home . 	Haza kell mennem . 
+528	Nina , come on . 	Nina , csak szórakoztam . 
+529	I 'm just playing around . 	Nina , csak szórakoztam . 
+530	Nina ! 	
+531	Sweetie ? 	
+532	What are you doing in there ? 	
+533	Again . 	Újra ! 
+534	Again . 	
+535	Do you have any corrections ? 	Nincs hozzáfűznivalód ? 
+536	Lily told me that she saw you crying . 	Lily mondta , hogy sírtál . 
+537	That you were very upset and that I should take it easy on you . 	Hogy feldúlt voltál , és hogy ne legyek ilyen kemény veled . 
+538	I didn 't tell her that . 	Én nem mondtam ilyet . 
+539	Maybe you need a little break . 	Talán kell egy kis pihenés . 
+540	A day or two . 	- Egy- két nap . 
+541	Or maybe a month . 	- Thomas ! 
+542	What do you think ? 	Vagy egy hónap . Mit gondolsz ? 
+543	She shouldn 't have said anything . 	Nem kellett volna semmit mondania . 
+544	No , you shouldn 't be whining in the first place . 	Nem , neked nem kellett volna nyávognod . 
+545	I didn 't . 	Nem is tettem . 
+546	You could be brilliant . 	Zseniális lehetnél . 
+547	But you 're a coward . 	De gyáva vagy . 
+548	Sorry . 	Sajnálom . 
+549	No , stop saying that ! 	Ne mondogasd ezt ! 
+550	That 's exactly what I 'm talking about . 	Pont erről beszélek ! 
+551	Stop being so fucking weak . 	Ne légy ilyen rohadt gyenge ! 
+552	Again ! 	Újra ! 
+553	Lily ... 	Lily ! 
+554	Oh , look who 's decided to grace us with her presence . 	Nézzétek , ki tisztel meg minket a jelenlétével . 
+555	I need to talk to you . 	- Beszélhetnénk ? 
+556	Okay . 	- Oké . 
+557	Now . 	- Most ! 
+558	Shut up . 	- Pofa be ! 
+559	Come on . 	Gyere ! 
+560	What 's up ? 	Mi a helyzet ? 
+561	You told Thomas about last night ? 	Beszéltél Thomas- nak a múlt estéről . 
+562	Oh , yeah . 	Összefutottam vele ma reggel , és azt mondta , hogy gondjaitok vannak . 
+563	I ran into him in the morning and he said you guys were having some trouble . 	Összefutottam vele ma reggel , és azt mondta , hogy gondjaitok vannak . 
+564	Why would he talk to you ? 	Miért veled beszélt ? 
+565	Oh , excuse me , your highness . 	Megbocsásson , felség . 
+566	I just told him you 're working your ass off and I think you 'll be great . 	Szerintem halálra dolgozod magad , és nagyszerű leszel . 
+567	Well you shouldn 't have . 	Nem kellett volna . 
+568	Okay . 	Oké . 
+569	Has he tried anything with you ? 	Próbálkozott valamivel ? 
+570	He has a reputation . 	Már hírneve van . 
+571	I have a right to be concerned , Nina . 	Jogom van aggódni . 
+572	You 've been staying late so many nights . 	Sokszor késő estig próbáltok . 
+573	Rehearsing . 	Sokszor késő estig próbáltok . 
+574	I just hope he isn 't taking advantage , that 's all . 	Remélem , nem használja ezt ki . 
+575	He 's not . 	- Nem . 
+576	Good . 	- Akkor jó . 
+577	I just don 't want you to make the same mistake I did . 	Nem akarom , hogy elkövesd az én hibáimat . 
+578	Thanks . 	- Kösz . 
+579	Not like that . 	- Nem úgy gondoltam . 
+580	I just mean as far as my career was concerned . 	A karrieremre értettem . 
+581	What career ? 	Milyen karrier ? 
+582	The one I gave up to have you . 	Amit feladtam érted . 
+583	I 'm twenty- eight . 	- 28 éves voltál . 
+584	So ? 	- 28 éves voltál . 
+585	Only that ... 	- Csak ... 
+586	Only what ? 	- Csak mi ? 
+587	Nothing . 	Semmi . 
+588	- What ? 	- Mi az ? 
+589	- Nothing . 	- Semmi . 
+590	How is your skin ? 	Hogy van a bőröd ? 
+591	Fine . 	- Jól . 
+592	- Are you leaving it alone ? 	- Békén hagyod ? 
+593	- Mm- hmm . 	- Békén hagyod ? 
+594	Let me see . 	Hadd lássam ! 
+595	- Take off your shirt . 	- Vedd le a felsőd ! 
+596	- No . 	- Nem ! 
+597	Can I help you ? 	Segíthetek ? 
+598	Who was that ? 	- Ki volt az ? 
+599	It was no one . 	- Senki . 
+600	It was no one . 	Senki . 
+601	Hello ? 	- Helló ! 
+602	What are you doing here ? 	Mit keresel itt ? 
+603	I just came by to apologize . 	Bocsánatot szeretnék kérni . 
+604	You 're right . 	Igazad volt , nem kellett volna beszélnem rólad vele . 
+605	I should have never spoken to him about you . 	Igazad volt , nem kellett volna beszélnem rólad vele . 
+606	- Sweetheart . 	- Édesem ... 
+607	- Give me a second . 	- Egy perc ! 
+608	- Your dinner ... - Mom , please . 	- A vacsorád . - Anya , kérlek . 
+609	Oh , she 's a trip . 	Nem semmi a csaj . 
+610	How do you know where I live ? 	Honnan tudod , hol lakom ? 
+611	I have my ways . 	Megvannak a módszereim . 
+612	Jesus , relax . 	Nyugi ! 
+613	I got it from Susie in the office . 	Elkértem Susie- tól az irodában . 
+614	Look , I feel really shitty about what I did , and I really want to make it up to you . 	Szarul éreztem magam attól , amit tettem , szeretnélek kárpótolni . 
+615	So how about I take you out to dinner ? 	Szarul éreztem magam attól , amit tettem , szeretnélek kárpótolni . 
+616	- I don 't think ... - Okay , that 's fine . 	- Nem hiszem , hogy ... 
+617	What about drinks ? 	- Oké , és egy italhoz ? 
+618	Sweetie , you need to rest . 	Szívem , pihenned kell . 
+619	- Jesus . 	- Jézusom ! 
+620	- Wait . 	- Jézusom ! 
+621	What are you doing ? 	Mit csinálsz ? 
+622	I 'm going out . 	- Elmegyek . 
+623	What ? 	- Mi ? 
+624	Nina ! 	- A lépcsőhöz . 
+625	You 're on the stage tomorrow . 	- Nina , holnap szereplésed lesz . 
+626	I can 't believe he calls her that . 	Nem hiszem el , hogy így hívja . 
+627	- It 's so gross . 	- Ez undorító . 
+628	- I think it 's sweet . 	- Szerintem aranyos . 
+629	Little Princess ? 	Kis hercegnő ? 
+630	- He probably calls every girl that . 	- Biztos így hív minden lányt . 
+631	- No way . 	- Kizárt . 
+632	That 's just for Beth . 	Csak Beth- t . 
+633	Well , I bet he 'll be calling you Little Princess any day now . 	Biztosra veszem , hogy nemsokára téged is így fog hívni . 
+634	I don 't know about that . 	Nem hinném . 
+635	Oh , sure he will . 	Pedig ez lesz . 
+636	Just got to let him lick your pussy . 	Csak hagyd , hogy kinyaljon ! 
+637	Cheeseburger , extra bloody . 	- Sajtburger , extra véresen . 
+638	Mmm , dankeschin . 	- Köszke ! 
+639	Let me know if that 's juicy enough for you . 	Szólj , ha nem elég pikáns ! 
+640	Oh , I will . 	Fogok is . 
+641	You have enough cheese ? 	Nem túl sok a sajt ? 
+642	No , but you do . 	Nem . De te igen . 
+643	Enjoy . 	Jó étvágyat ! 
+644	All right . 	Oké . 
+645	Wanna spruce up ? 	Öltözz az alkalomhoz ! 
+646	What , I carry a spare in case I wake up somewhere unexpected . 	Mindig van nálam tartalék . Hátha ismeretlen helyen ébredek . 
+647	So how is he ? 	És , milyen ? 
+648	Thomas . 	Thomas . 
+649	I wouldn 't know . 	Honnan tudnám ? 
+650	- Oh , come on . 	- Ne már ! 
+651	- I really don 't want to talk about that . 	- Nem akarok erről beszélni . 
+652	Okay . 	Oké . 
+653	You really need to relax . 	Tényleg lazítanod kéne . 
+654	One for you , one for me . 	Egyet neked , egyet nekem . 
+655	Oh , and don 't worry . 	És ne aggódj , tiszta . 
+656	It 's pure , I promise . 	És ne aggódj , tiszta . 
+657	I brought it with me straight from San Francisco . 	San Fransiscóból hoztam . 
+658	What is it ? 	- Mi ez ? 
+659	Are you kidding ? 	- Most hülyéskedsz ? 
+660	You 've never rolled ? 	Még sosem pörögtél ? 
+661	Oh , relax . 	Megnyugtat , ellazít egy kicsit . 
+662	Here . 	Megnyugtat , ellazít egy kicsit . 
+663	It 'll loosen you up . 	Megnyugtat , ellazít egy kicsit . 
+664	Wait till you see the night sky . 	A csillagos égig repít . 
+665	How long does it last ? 	Mennyi ideig hat ? 
+666	A couple hours , tops . 	Max pár óráig . 
+667	It 's okay . 	- Nem kell . 
+668	Okay . 	- Rendben . 
+669	Nina , hi ! 	Szia ! 
+670	I thought we could use some company . 	Gondoltam , jól jön a társaság . 
+671	So this is Tom and this is Jerry . 	Ez itt Tom , ő pedig Jerry . 
+672	- Actually it 's Andrew . 	Igazából Andrew . - Tom . 
+673	- Tom . 	- Szia ! 
+674	- I have to go ... - Oh , no you can 't go . 	- Mennem kell . - Ne ! 
+675	I just got us some drinks . 	Nem mehetsz el , épp most vettem piát . 
+676	I shouldn 't ... 	Nem kéne ... 
+677	We 're on the stage tomorrow . 	Holnap fellépésünk lesz . 
+678	So what are you going to do ? 	És mit csinálsz ? 
+679	Go home to Mommy ? 	Hazamész anyucihoz ? 
+680	Come on , live a little . 	Élvezd az életet egy kicsit ! 
+681	It 's just a couple hours , right ? 	Csak egy pár óra , ugye ? 
+682	Tops . 	Max . 
+683	Cheers . 	Egészség ! 
+684	You haven 't told me who you are . 	Még nem mondtad , ki vagy . 
+685	I 'm a dancer . 	Táncosnő . 
+686	No , I mean your name . 	Nem , a nevedre gondoltam . 
+687	- Oh . 	- Nina . 
+688	Nina . 	- Ti testvérek vagytok ? 
+689	- So are you two sisters ? 	- Ti testvérek vagytok ? 
+690	- Yes . 	- Igen . 
+691	- No . 	- Igen . 
+692	- Blood sisters . 	- Nem . - Vértestvérek . 
+693	- We dance in the same company . 	- Egy társulatban táncolunk . 
+694	Ah , ballerinas . 	Balerinák ! 
+695	No wonder you two look alike . 	Már értem , miért hasonlítotok . 
+696	I see now . 	Tudtad , hogy Tom és Jerry szeretők ? 
+697	Tom and Jerry here are gay lovers . 	Tudtad , hogy Tom és Jerry szeretők ? 
+698	- Very funny . 	Nagyon vicces . 
+699	- I like to amuse myself . 	Nagyon vicces . 
+700	I' ve never been to the ballet . 	- Még sosem voltam balettelőadáson . 
+701	Then you are definitely not gay . 	- Tényleg ? Akkor te biztos nem vagy buzi . 
+702	I mean , it 's kind of boring , isn 't it ? 	A balett unalmas . 
+703	- Be honest . 	Nem is az ! 
+704	- No it 's not . 	Nem is az ! 
+705	You know what ? 	Nem , csak nem való mindenkinek . 
+706	It 's just not for everyone . 	Nem , csak nem való mindenkinek . 
+707	You should come sometime . 	Eljöhetnétek egyszer , tudok szerezni jegyeket . 
+708	I can comp you tickets whenever you want . 	Eljöhetnétek egyszer , tudok szerezni jegyeket . 
+709	Yeah . 	Persze . 
+710	Yeah . 	Persze . 
+711	- Yeah , that would be neat . 	- Az remek lenne . 
+712	Thanks . 	- Az remek lenne . 
+713	- Okay well ... 	- Az remek lenne . 
+714	I think it 's time for another round . 	- Jöhet a következő kör ? 
+715	Bottoms up . 	Fenékig ! 
+716	So what are you guys working on now ? 	És most min dolgoztok ? 
+717	Sorry . 	Elnézést . 
+718	Swan Lake . 	- A Hattyúk Taván . 
+719	Yeah ? 	- Oké . Tényleg ? 
+720	You know it ? 	- Ismered ? 
+721	No , not really . 	- Nem . Nem igazán . 
+722	Heard of it . 	Hallottam már róla . 
+723	What 's it about ? 	Miről szól ? 
+724	It 's about a girl who gets turned into a swan , and she needs love to break the spell . 	Egy lányról , aki hattyúvá változik , és csak a szerelem tudja megtörni a varázst . 
+725	But her prince falls for the wrong girl , and so she kills herself . 	De a Herceg rossz lányba szeret bele , ezért a lány megöli magát . 
+726	It 's not a happy ending then . 	Nem túl vidám a vége . 
+727	It 's beautiful , actually . 	De gyönyörű . 
+728	Like you . 	Mint te . 
+729	Huh ? 	
+730	I said you 're beautiful . 	Gyönyörű vagy . 
+731	That 's funny ? 	Ez olyan vicces ? 
+732	Looks like someone might be rolling . 	Látom , megtette a hatását . 
+733	All right , come on . 	Gyere , menjünk táncolni ! 
+734	Come on , it 's time to go dance . 	Gyere , menjünk táncolni ! 
+735	Nina ! 	Hé , Nina ! 
+736	Hey , what the fuck ? 	
+737	Where you going ? 	
+738	Nina ! 	Nina ! 
+739	Where are you going ? 	Hova mész ? 
+740	Do you have any idea what time it is ? 	Van fogalmad róla , hány óra ? 
+741	Late ? 	- Későre jár ? 
+742	Where have you been ? 	- Hol voltál ? 
+743	To the moon and back . 	- A Holdon . - És vissza . 
+744	- You 've been drinking . 	- Ittál . 
+745	- Ding ding ding ding ding ! 	- Bingó ! 
+746	- What else ? 	És még ? 
+747	- Hmm ? 	
+748	What else have you been doing ? 	És még mit csináltál ? 
+749	Oh , you want to know their names ? 	Neveket akarsz ? 
+750	- You need to sleep this off . 	- Most szépen lefekszel . 
+751	- There were two . 	- Ketten voltak . 
+752	Tom and Jerry . 	- Ketten voltak . 
+753	- Be quiet , Nina . 	Tom és Jerry . Hallgass már ! 
+754	- And I fucked them both . 	És mindkettő megdugott . 
+755	Shut your mouth ! 	Fogd be a szád ! 
+756	- Don 't come in here . 	- Be ne gyere ! 
+757	- What 's this ? 	- Be ne gyere ! 
+758	It 's called privacy . 	- Mi ez ? 
+759	I 'm not twelve anymore . 	Ezt hívják magánéletnek , nem vagyok már gyerek ! 
+760	- You 're not my Nina right now ... - Leave me alone ! 	- Ez már nem az én Ninám ! - Hagyj békén ! 
+761	Sweat girl . 	Édes kislány . 
+762	Why didn 't you wake me up ? 	Miért nem keltettél fel ? 
+763	I 'm moving out . 	Elköltözöm . 
+764	My music ! 	Az én számom . 
+765	Thomas , I am so sorry . 	- Nagyon sajnálom . 
+766	Keep on going . 	- Folytassátok ! 
+767	Go get warmed up . 	Melegíts be ! 
+768	That was good . 	Jó volt . 
+769	Actually , really good . 	Igazából nagyon jó . 
+770	Okay , let 's take ten . 	Oké , 10 perc szünet ! 
+771	Look , he just wanted to mark it and asked me to step up , okay ? 	Szia ! Csak megkért , hogy ugorjak be , oké ? 
+772	I overslept . 	Elaludtam . 
+773	Oops . 	Hoppá ! 
+774	But hey , at least you had a good time , right ? 	Legalább jól szórakoztál . 
+775	You put something in my drink . 	- Beletettél valamit az italomba . 
+776	Yeah . 	- Beletettél valamit az italomba . 
+777	And then you just took off in the morning . 	És reggel csak úgy leléptél . 
+778	In the morning ? 	Reggel ? 
+779	Yeah , you slept over . 	Igen , velem töltötted az éjszakát . 
+780	Um , no . 	Nem . 
+781	Unless your name 's Tom and you had a dick . 	Kivéve , ha Tomnak hívnak és farkad van . De mi ... 
+782	What , Nina ? 	Mit csináltunk , Nina ? 
+783	Did you have some sort of lesbian wet dream about me ? 	Csak nem része voltam valamiféle leszbi álomnak ? 
+784	- Stop . 	- Hagyd abba ! 
+785	- Oh my God ! 	- Atyám ! Egek ! 
+786	Oh my God , you did ! 	Ez történt . 
+787	You fantasized about me ! 	Rólam fantáziáltál ! 
+788	- Shut up ! 	Fogd már be ! 
+789	- Was I good ? 	És jó voltam ? 
+790	The final act . 	Az utolsó tánc ! 
+791	You 're trying to dance . 	Az utolsó tánc ! 
+792	You 've tasted your dream ! 	Belekóstoltál az álmodba ! 
+793	Touched it ! 	Megérintetted ! 
+794	Only to have it crushed ! 	De összezúzták ! 
+795	Your heart is broken , wounded . 	A szíved darabokban ! 
+796	Your life force fading . 	Az életerőd hanyatlik , véredet ontod ! 
+797	The blood drips . 	Az életerőd hanyatlik , véredet ontod ! 
+798	The Black Swan stole your love . 	A Fekete Hattyú ellopta a szerelmed , a fájdalmat csak egy dolog szünteti meg . 
+799	There is only one way to end the pain . 	A Fekete Hattyú ellopta a szerelmed , a fájdalmat csak egy dolog szünteti meg . 
+800	You are not fearful , but filled with acceptance . 	Már nem félsz , elfogadtad a sorsod . 
+801	And you look down at Rothbart , and then at the Prince , and then , yes , at the audience . 	Lenézel Rothbartra , aztán a Hercegre , végül a közönségre ! 
+802	And then you jump . 	És aztán ugrasz ! 
+803	Go ahead . 	Gyerünk már , ugorj ! 
+804	Jump . 	Gyerünk már , ugorj ! 
+805	Jump ! 	Gyerünk már , ugorj ! 
+806	Okay , everybody get a drink of water , then it 's notes . 	Igyatok egy kis vizet , aztán megbeszéljük . 
+807	You lost weight . 	Fogytál . 
+808	Take off your shrug , please . 	Vedd le a felsőd ! 
+809	Very good . 	Nagyon jó . 
+810	Face front . 	Fordulj erre ! 
+811	We 're almost done . 	Mindjárt készen vagyunk . 
+812	And that 's it . 	Ez az . 
+813	Okay . 	Végeztünk . 
+814	We 're done . 	Köszönöm . 
+815	Thank you very much . 	Köszönöm . 
+816	Georgina , I 'm Lily . 	Georgina , Lily vagyok , Thomas küldött . 
+817	Thomas sent me ... 	Georgina , Lily vagyok , Thomas küldött . 
+818	Yes , we have to get you measured for the Swan Queen costumes . 	Igen , le kell vennünk a méreteid a Hattyúkirálynő jelmezhez . 
+819	What 's she doing here ? 	Mit keres ez itt ? 
+820	He made me your alternate . 	Én vagyok a beugród . 
+821	Look , it 's just in case . 	A biztonság kedvéért . 
+822	Thomas . 	Thomas ! 
+823	Thomas . 	Thomas ! 
+824	- Thomas . 	
+825	- Yes ? 	- Igen ? 
+826	It can 't be her . 	- Nem lehet ő . 
+827	It can 't be her . 	Nem lehet ő . 
+828	Okay , why don 't you just go . 	Menj csak ! Később találkozunk . 
+829	I' ll catch up later . 	
+830	What 's going on ? 	Mi folyik itt ? 
+831	Lily ... 	Lily . 
+832	You made her my alternate ? 	Ő a beugróm . 
+833	There 's always an alternate . 	Mindig van beugró . 
+834	Lily is the best choice . 	Lily a legjobb választás . 
+835	No , she wants my role . 	A szerepemre hajt . 
+836	Every dancer in the world wants your role . 	A világ összes táncosa arra hajt . 
+837	No , this is different . 	Nem , ez más , üldöz engem . 
+838	She is after me . 	Nem , ez más , üldöz engem . 
+839	- She is trying to replace me . 	- Ki akar túrni . 
+840	- Nobody is after you . 	- Senki sem üldöz . 
+841	- No , please believe me ... 	Kérlek , higgy nekem ! 
+842	I know it 's been a struggle . 	Tudom , hogy nehéz , de ma reggel áttörést értünk el . 
+843	But you just had a breakthrough this morning . 	Tudom , hogy nehéz , de ma reggel áttörést értünk el . 
+844	Tomorrow is yours . 	Holnap lesz a te napod , kápráztass el mindenkit , és nem kell többé Lily miatt aggódnod . 
+845	Just give a great performance and you won 't have to worry about Lily or anybody else . 	Holnap lesz a te napod , kápráztass el mindenkit , és nem kell többé Lily miatt aggódnod . 
+846	Now go home and rest . 	Menj haza és pihenj ! 
+847	From the vision again . 	Újra a látomástól ! 
+848	What happened ? 	Mi történt ? 
+849	I' ve got a life . don 't work too hard . 	Nekem is van életem . Túl keményen dolgozom . 
+850	It 's a big day tomorrow . 	Nagy nap lesz a holnapi . 
+851	I 'm still working in here . 	Én még itt vagyok ! 
+852	Could you please turn the lights back on ? 	Visszakapcsolnák a lámpákat ? 
+853	Hello ? 	Hahó ! 
+854	What are you doing here ? 	Mit csinálsz te itt ? 
+855	I 'm so sorry . 	Annyira sajnálom . 
+856	I 'm so sorry . 	Annyira sajnálom . 
+857	I know how it feels now . 	Már tudom , milyen érzés . 
+858	She 's trying to replace me . 	Le akarnak cserélni . 
+859	What do I do ? 	Mit tegyek ? 
+860	You stole my things ? 	Elloptad a cuccaimat ? 
+861	I was just trying to be perfect , like you . 	Csak tökéletes akartam lenni , mint te . 
+862	Perfect ? 	Tökéletes ? 
+863	I 'm not perfect . 	Nem vagyok tökéletes . 
+864	I 'm nothing . 	Egy senki vagyok . 
+865	Nothing ! 	Senki ! 
+866	Nothing , nothing ! 	Senki ! 
+867	Sweet girl . 	Édes kislány . 
+868	Mommy ? 	Anyu ? 
+869	Sweet girl . 	Édes kislány ! 
+870	Sweet girl . 	Rajtam a sor ! 
+871	Stop ! 	Elég legyen ! 
+872	What are you doing ? 	Mit csinálsz ? 
+873	Sweetie ? 	Édesem ! 
+874	Nina ? 	
+875	Nina ! 	
+876	Go away ! £ ¡ Open the door ! 	Tűnés ! Nyisd ki az ajtót ! 
+877	Go away ! 	Tűnés ! 
+878	Open the door , Nina ! 	Nyisd ki az ajtót , Nina ! 
+879	Nina ! 	
+880	Get out ! 	Kifelé ! 
+881	- What 's wrong with you ? 	- Mi a baj ? 
+882	- Get out ! 	- Kifelé ! 
+883	- Get out ! 	- Kifelé ! 
+884	- What do you see ? 	- Beteg vagy ! 
+885	Get out ! 	- Kifelé ! Kifelé ! 
+886	It 's okay . 	Nincs semmi baj . 
+887	I 'm here . 	Itt vagyok . 
+888	You were scratching all night . 	Egész éjjel vakaróztál . 
+889	Where 's my clock ? 	- Hol az órám ? 
+890	- Don 't worry about that . 	- Emiatt ne aggódj ! 
+891	- What time is it ? 	Mennyi az idő ? 
+892	- The show is tonight , I have to ... - No , no , no , no . 	- Fellépésem van , mennem ... 
+893	Don 't worry . 	- Nem . 
+894	I called the theater and I told them you aren 't feeling well . 	Ne aggódj ! Felhívtam a színházat , és megmondtam , hogy nem vagy jól . 
+895	I have to go ! 	- Mennem kell . 
+896	- No . 	- Mennem kell . 
+897	No , you don 't . 	- Nem , nem ! 
+898	- Let go of me . 	Engedj el ! 
+899	You 're staying in here until you feel better . 	Amíg jobban nem leszel , itt maradunk . 
+900	Where is it ? 	Hol van ? 
+901	This role is destroying you . 	Ez a szerep kikészít téged . 
+902	- Move . 	Állj fel ! 
+903	Move ! 	Állj fel ! 
+904	- Nina ... ! 	Állj fel ! 
+905	- What happened to my sweet girl ? 	Állj fel ! Mi történt az én édes kislányommal ? 
+906	- She 's gone ! 	Ő már nincs többé ! 
+907	Nina ! 	
+908	Oh , Nina ! 	
+909	No , please ! 	Ne , kérlek ! 
+910	- You 're not well ! 	- Nem vagy jól ! 
+911	- Let go of me ! 	- Engedj el ! 
+912	You can 't handle this . 	Nem birkózol meg vele . 
+913	I can 't ? 	Még hogy nem ? 
+914	I 'm the Swan Queen . 	Még hogy nem ? 
+915	You 're the one who never left the corps . 	Én vagyok a Hattyúkirálynő , neked nem sikerült sosem kitörnöd . 
+916	Nina ! 	Nina ! 
+917	What are you doing here ? 	Mit keresel itt ? 
+918	Nina ? 	- Nina ! 
+919	She was supposed to be sick . 	- Arról volt szó , hogy beteg ! 
+920	Give us a minute . 	Várj ! Egy percet kérek . 
+921	Are you okay ? 	- Jól vagy ? 
+922	I 'm fine . 	- Remekül . 
+923	Nina . 	
+924	Nina . 	
+925	What ? 	Mi az ? 
+926	I' ve already asked Lily . 	Már felkértem Lilyt . 
+927	Have you announced it ? 	És bejelentetted ? 
+928	After Beth , do you really need another controversy ? 	Azok után , ami Beth- szel történt , még vitatkozni akarsz ? 
+929	I 'm here , Thomas . 	Itt vagyok , Thomas . 
+930	I 'm doing it . 	Megcsinálom . 
+931	The only person standing in your way is you . 	Az egyetlen dolog , ami az utadban áll , az te magad vagy . 
+932	It 's time to let it go . 	Az egyetlen dolog , ami az utadban áll , az te magad vagy . 
+933	Lose yourself . 	Ideje elengedned . Szabadítsd fel ! 
+934	White Swan , up in ten . 	10 perc múlva a Fehér Hattyú jön . 
+935	What are you doing ? 	Mit csinálsz ? 
+936	You need to be upstage . 	Mindjárt te jössz . 
+937	You suck . 	Szar vagy . 
+938	Okay , Nina . 	Oké , Nina . 
+939	What the fuck ? 	Mi a fasz ? 
+940	- Are you okay ? 	Jól vagy ? 
+941	- Nina , are you okay ? 	Jól vagy ? 
+942	Can you tell me what the fuck happened ? 	Elmondanád , mi a fasz történt ? 
+943	- It wasn 't my fault . 	- Nem az én hibám volt . 
+944	He dropped me . 	- Nem az én hibám volt . 
+945	- This is a fucking disaster . 	Leejtett . - Rohadt katasztrófa ! 
+946	Rough start , huh ? 	Kemény kezdés , mi ? 
+947	Must have been pretty humiliating . 	Megalázó lehetett . 
+948	Get out of my room . 	Tűnés a szobámból ! 
+949	I 'm worried about the next act . 	Aggódom a következő jelenet miatt . 
+950	I 'm just not sure you 're feeling up to it . 	Úgy érzem , nem állsz készen . 
+951	Stop . 	Úgy érzem , nem állsz készen . 
+952	Please stop . 	Hagyd abba , kérlek ! 
+953	How about I dance the Black Swan for you ? 	Mi lenne , ha én táncolnám a Fekete Hattyút . 
+954	Leave me alone ! 	Hagyj már békén ! 
+955	My turn ! 	Most rajtam a sor ! 
+956	My turn ! 	Rajtam a sor ! 
+957	My turn ! 	Rajtam a sor ! 
+958	It 's my turn ! 	Rajtam a sor ! 
+959	Black Swan , places in five . 	Fekete Hattyú 5 perc múlva jön . 
+960	Come on . 	Hé , menj vissza ! 
+961	Good job . 	Szép volt . 
+962	Fifteen to the last act . 	Készülj az utolsó táncra ! 
+963	Hey . 	Szia ! 
+964	You were amazing . 	Fantasztikus voltál . 
+965	Seriously , I know that things got a little messed up between us , but I mean , holy shit , you completely blew me away ! 	A dolgok kicsit összekuszálódtak köztünk , de a rohadt életbe , totál elkápráztattál ! 
+966	Okay , well I guess that 's it . 	Csak ennyit akartam . 
+967	So I' ll let you finish . 	Hagylak készülődni . 
+968	Bye . 	Hagylak készülődni . 
+969	Can you hear them ? 	Hallod őket ? 
+970	They love you ! 	Imádnak téged ! 
+971	My little princess , I always knew you had it in you . 	Kis hercegnőm , mindig tudtam , hogy megcsinálod . 
+972	Come on . 	Gyere , menjünk ki ! 
+973	Let 's take you out . 	Gyere , menjünk ki ! 
+974	Go get some help . 	Hívjatok segítséget ! 
+975	Go get some help ! 	Mit tettél ? 
+976	What did you do ? 	Mit tettél ? 
+977	What did you do ? 	Mit tettél ? 
+978	- I felt it . 	- Éreztem . 
+979	- What ? 	- Mi ? 
+980	I felt perfect . 	Tökéletes volt . 
+981	I was perfect . 	Tökéletes voltam . 
+982	Nina ! 	
+983	Nina ! 	
+984	Nina ! 	
